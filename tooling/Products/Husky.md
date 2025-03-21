@@ -21,7 +21,7 @@ docs_url: https://typicode.github.io/husky/get-started.html
 
 A good overview [here.](https://syntackle.com/blog/creating-git-hooks-using-husky-y6LKpN/#:~:text=You%20will%20see%20a%20.,git%20hooks%20will%20be%20executed.)
 
-Husky creates the following files, which represent different scripts that can be called through the [[Vocabulary/Command-Line Interface|Command-Line Interface]]:
+Husky creates the following files, which represent different scripts that can be called through the [[Vocabulary/Command-Line Interfaces|Command-Line Interface]]:
 ```bash
 .husky
 |-- _

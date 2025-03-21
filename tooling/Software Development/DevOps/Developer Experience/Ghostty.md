@@ -26,3 +26,6 @@ An [[Open Source]] [[Terminal Emulators]]
 https://youtu.be/Elh8pvXHVxM?si=3dWPYAbb0a8Ij1vs
 
 https://youtu.be/Elh8pvXHVxM?si=8qOYjzgkcjxogz98
+
+
+https://youtu.be/zjUAUqcmZ3w?si=IGbJ8SyCNVoAZvAV

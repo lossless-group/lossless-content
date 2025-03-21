@@ -33,7 +33,7 @@ https://youtu.be/hRCiuycpAIU?si=e7Z_Fdes-Wd1Vpwl
 
 https://youtu.be/-J1v65yZdcQ?si=FvyUPylHF-ercOp_
 
-### Obsidian using Properties in [[Markup]]
+### Obsidian using Properties in [[Vocabulary/Markup]]
 ![[Screenshot 2025-01-31 at 1.14.17 PM_Obsidian--Properties.png]]
 ### Obsidian maintains [[Release Notes]].
 Here's a screenshot of [[Release Notes]] from [[Obsidian.md]]. 

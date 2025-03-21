@@ -13,6 +13,6 @@ site_uuid: 0c3f5fbb-e52e-4ac8-bf00-b5f0b13d9519
 site_uuid: bea6831b-c158-46a5-be51-9157861e04cd
 ---
 
-[[Midori AI]]
+[[Tooling/AI-Toolkit/AI Interfaces/Midori AI]]
 
 https://io.midori-ai.xyz/about-us/carly-api/

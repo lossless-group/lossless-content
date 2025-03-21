@@ -32,6 +32,10 @@ https://youtu.be/sVC4DL2secQ?si=u9UQE9UrxL0nvY-G
 
 https://youtu.be/nNLshWCoe0o?si=LXuc5U8142jU2y67
 
+https://youtu.be/qYChSSP8TTA?si=Leah7CGH_oGHbfK0
+
+https://youtu.be/5P4IJS9q_yg?si=2kp7Hm7cT7XrgkZ7
+
 [[Prompt Engineering]]
 [[RAG]]
 

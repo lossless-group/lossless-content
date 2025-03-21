@@ -7,6 +7,8 @@ site_uuid: 8dc141a8-ea79-4a2a-92d2-e7b1555e3e86
 site_uuid: 801959ff-cb9d-43ed-b582-5efe4f524c22
 site_uuid: 2b5b2122-6f9e-4b18-8a89-a4a38266c947
 site_uuid: a50ec745-cc12-4c13-92a2-009c5a34b976
+date_created: 2025-03-21
+date_modified: 2025-03-21
 ---
 
 [[AI Models]]
@@ -14,3 +16,5 @@ site_uuid: a50ec745-cc12-4c13-92a2-009c5a34b976
 [[Model Owner Organizations]]
 [[CPM-Series]]
 [[Artificial General Intelligence|AGI]]
+
+[[Tooling/AI-Toolkit/Models/Mini-CPM]]

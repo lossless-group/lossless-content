@@ -2,11 +2,25 @@
 tags:
   - Terminal-Assistants
 date_created: 2025-03-20
-date_modified: 2025-03-20
+date_modified: 2025-03-21
 ---
+If you can use a package manager, that will be better. 
+```bash
+brew install warpdotdev/tap/warp-cli
+```
 
-If you haven't already, download [[Tooling/AI-Toolkit/Generative AI/Code Generators/Warp|Warp]] from the [Warp website](https://docs.warp.dev/).
+If you need to download [[Tooling/AI-Toolkit/Generative AI/Code Generators/Warp|Warp]] from the [Warp website](https://docs.warp.dev/), do so. But the first time around it affected how Warp "knew" to look for files about Warp itself. I had to reinstall through [[Tooling/Software Development/DevOps/Developer Experience/Homebrew]]
 
+First things first, add Warp to your path. 
+```bash
+brew install warpdotdev/tap/warp-cli
+```
+
+
+#### Warning about "Memories" and AI Terminal Assistant behavior:
+```
+warp ai add memory "Every single command that is revealed or recommended, and every piece of example code must be put in a copyable block with a copy and run button. NEVER run commands without the user's explicit action to run them. DO NOT attempt to execute commands directly - only show them in copyable blocks and let the user decide when to run them."
+```
 
 ## Awesome themes
 
@@ -46,6 +60,9 @@ Make sure to study the documentation on [Notebooks](https://docs.warp.dev/featur
 > •  Use them with workflows as parameters
 > 
 > The environment variables option appears frequently because it's a fundamental way to securely handle configuration and secrets in your terminal sessions. Rather than hardcoding sensitive values into your commands or scripts, you can use environment variables to manage them more securely and flexibly.
+
+#### Confused on Workflows:
+[Warp's documentation on Workflows](https://docs.warp.dev/features/warp-drive/workflows)
 
 ## What's the difference between Warp Notebooks and Warp Workflows?
 Here are the key differences between Warp Workflows and Notebooks:
