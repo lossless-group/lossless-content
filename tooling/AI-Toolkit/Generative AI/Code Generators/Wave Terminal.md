@@ -24,6 +24,6 @@ site_uuid: c56ca1c0-c8bc-41b2-9698-1bdb95dc3853
 site_uuid: 554b6009-0fb9-4abc-bb95-cbf9b83b71ae
 site_uuid: 5f0d2c67-8c17-4692-bcac-4358431ae4cd
 ---
-Supports [[LocalAI.io]]
+Supports [[Tooling/AI-Toolkit/Models/LocalAI.io]]
 [[Terminal Emulators|Terminal Emulator]]
 [[Code Generators]]

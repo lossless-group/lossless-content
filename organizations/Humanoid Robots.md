@@ -6,7 +6,7 @@ https://youtu.be/Tt6bp5rnF7g?si=jqrP_toyi24wGDJH
 https://youtu.be/lFi2TQ9uDK8?si=C7kuWoZBXUe9GU3M
 Several companies are leading the development of humanoid robots, supported by notable investors and funding. Here's a summary of key players, their funding history, and progress:
 
-### **1. [[Agility Robotics]]**
+### **1. [[Organizations/Agility Robotics]]**
 - **Founded:** 2015  
 - **Robots:** Cassie (2017), Digit (2020) for logistics and warehouse tasks.  
 - **Funding:** $28.8M from investors like Playground Global and ITIC[1][5].  

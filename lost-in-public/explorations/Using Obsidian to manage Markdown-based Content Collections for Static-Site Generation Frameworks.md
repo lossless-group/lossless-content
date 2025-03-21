@@ -57,7 +57,7 @@ More robust embedded content is written as a JSX component:
 
 #### Tabbed Code Blocks
 
-[[Readme]]'s [Tabbed Code Blocks](https://docs.readme.com/rdmd/docs/code-blocks#tabbed-code-blocks)
+[[Tooling/Software Development/DevOps/Documentation Engines/Readme]]'s [Tabbed Code Blocks](https://docs.readme.com/rdmd/docs/code-blocks#tabbed-code-blocks)
 
 ````markdown
 ```javascript I'm A tab
@@ -82,29 +82,24 @@ console.log('Code Tab B');
 
 
 
-# Creating a Site Flavoured Syntax of my own.
-### Inventing custom Dynamic Variables
 
-I've always wanted to keep an "evolving" textbook of everything I'm learning. I build it as I go. But, other than co-opting [[Tooling/Products/Git|Git]], I never imagined being able to do it. So:
-
-#### An update timestamp Markdown
-`|>>update_start::2025-03-19T19:25:22.108Z`
-`|>>update_end::2025-03-19T19:25:22.108Z` 
-
-
-#### Standardizing strings inside Callouts
-
-TIPS, 
-```
-[!@Q&A] [--Q|'Michael', --A|'George']--[--Source|'[[Stack Overflow]]]
-[!--Q%01] How would you refactor this?
-[!--A%01] I recommend setting user options up top
-```
-
-@SPEAKS::
 
 # Using YAML Frontmatter
 Mapped to [[YAML]], [[Emergent-Innovation/Standards/Markdown|Markdown]]
+
+
+
+| Property         |     |
+| ---------------- | --- |
+| url              |     |
+| reddit_forum_url |     |
+|                  |     |
+
+# Tidying with Scripts
+Convert one yaml property
+Check for duplicate filenames
+Audit backlinks
+
 
 
 

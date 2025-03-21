@@ -25,7 +25,7 @@ https://youtu.be/sxeRCpg9mfc?si=gqKRdV3Wtz4wOrir
 https://youtu.be/LKCVKw9CzFo?si=ZOEvukG3JWKRO9fG
 #### Debian-based software is distributed through Snaps
 ![[Screenshot From 2025-02-26 01-28-26_Debian-Snaps--Updates.png]]
-#### Software distributes and updates through a [[Command-Line Interface]] 
+#### Software distributes and updates through a [[Vocabulary/Command-Line Interfaces]] 
 
 ![[Screenshot From 2025-02-26 01-33-10_Cursor--Setup-Wizard.png]]
 https://youtu.be/TuPO-eAMy4I?si=Ntj_EP0PG5UuUOfC

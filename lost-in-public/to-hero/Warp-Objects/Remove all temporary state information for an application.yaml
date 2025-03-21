@@ -1,0 +1,10 @@
+---
+name: Remove all temporary state information for an application
+command: "\nmkdir ~/obsidian_backup\r\nmv ~/Library/Application\\ Support/obsidian ~/obsidian_backup/\r\nmv ~/Library/Caches/obsidian ~/obsidian_backup/ 2>/dev/null\r\nmv ~/Library/Preferences/obsidian* ~/obsidian_backup/ 2>/dev/null\r\nmv ~/Library/Saved\\ Application\\ State/md.obsidian.savedState ~/obsidian_backup/ 2>/dev/null\n\nrm -rf ~/Library/Application\\ Support/obsidian\nrm -rf ~/Library/Caches/obsidian\nrm -rf ~/Library/Preferences/obsidian*\nrm -rf ~/Library/Saved\\ Application\\ State/md.obsidian.savedState"
+description: ~
+arguments: []
+tags: []
+source_url: ~
+author: ~
+author_url: ~
+shells: []

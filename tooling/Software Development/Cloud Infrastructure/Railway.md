@@ -24,5 +24,5 @@ site_uuid: 593a8d6c-5603-452e-b399-fc58987d8f2a
 ![[Screenshot 2025-02-18 at 10.12.46 AM_Railway--Hero.png]]
 ##### [[Railway]]: example of [[One-Click Deployments]] and [[Visual Software Development]].
 ![[Screenshot 2025-02-21 at 4.45.43 AM_Railway--Visual-DevOps.png]]
-##### [[Railway]] has a [[Command-Line Interface]]
+##### [[Railway]] has a [[Vocabulary/Command-Line Interfaces]]
 ![[Screenshot 2025-02-18 at 12.20.10 PM_Warp-Terminal.png]]

@@ -168,7 +168,7 @@ https://youtu.be/k4xuEl6TmT4?si=0hxbL-1xVxjeTqSD
 > 
 > These tools help manage the development environment and dependencies on your system.
 > 
-> ### **[[Homebrew]]**
+> ### **[[Tooling/Software Development/DevOps/Developer Experience/Homebrew]]**
 > 
 > - **What it is:** A [[Packages and Libraries|Package]] manager for macOS and Linux.
 > - **Why we need it:** Homebrew allows developers to install system-level dependencies, such as Node.js, Deno, and other tools, in a simple and consistent way.

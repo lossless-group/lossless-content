@@ -1,5 +1,8 @@
 ---
-docs-url: https://dovetail.com/help/dovetail-api/
+docs_url: https://dovetail.com/help/dovetail-api/
+url: https://dovetail.com
+date_created: 2024-10-08
+date_modified: 2025-03-21
 ---
 
 

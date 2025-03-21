@@ -16,8 +16,10 @@ site_uuid: 90b02f9d-4770-4342-9491-ee61459c75c1
 site_uuid: faa949d4-9944-4aee-bfc9-d1c51c19fddf
 site_uuid: 7b26f0ac-7200-42aa-b258-b5e80f067e36
 site_uuid: 2fd12760-4528-41c5-a579-e668c7648844
+date_created: 2025-03-21
+date_modified: 2025-03-21
 ---
-##### [[Bun]] is yet another [[JavaScript]] toolchain for [[Web Development]], but seems to be the highest performing.
+##### [[Bun]] is yet another [[JavaScript]] toolchain for [[Vocabulary/Web Development]], but seems to be the highest performing.
 ![[Screenshot 2025-02-24 at 3.02.58 AM_Bun--Hero.png]]
 <iframe style="aspect-ratio:16/9;width:100%;height:auto" src="https://www.youtube.com/embed/IDHHDnWjhAc?si=EtvsB6DeMQeOUA1k&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

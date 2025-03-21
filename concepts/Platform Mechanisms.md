@@ -1,3 +1,7 @@
+---
+date_created: 2025-03-21
+date_modified: 2025-03-21
+---
 
 Becoming a platform is, first and foremost, a mindset and cultural shift within an organization.  
 Instead of selling to a market, platforms host a market. Instead of selling a wine, platforms manage a bar.  
@@ -36,6 +40,8 @@ The way to best serve customers changes from directly serving them to letting ot
 	- Improved discovery for seekers.  
 	- Improved promotion for providers.  [[#Promotion Mechanics|Promotion Mechanics]]
 - [[Network Effects]]
+- [[Vocabulary/Public Brand Kits|Public Brand Kits]]
+- 
 
 
 ## Technology-based Platform Methods

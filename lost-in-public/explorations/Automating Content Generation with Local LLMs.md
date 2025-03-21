@@ -12,7 +12,7 @@ Fabric allows you to frontload a lot of [[Prompt Engineering]] in an [[Opinionat
 
 ##### Could it be the Model Context length?
 update::2025-03-19T18:59:03.914Z
-After working extensively on a few "patterns", I found that the kind of output did not change and the AI did not follow the prompt.  I was unsure if it was my error, a Fabric unexpected behavior, or [[DeepSeek]] [[r1]] unexpected behavior.  I posted an issue on the public [[Public Repository]] on [[GitHub]]: [[Question]: What to do if the model isn't following the pattern prompts? #1346](https://github.com/danielmiessler/fabric/issues/1346)
+After working extensively on a few "patterns", I found that the kind of output did not change and the AI did not follow the prompt.  I was unsure if it was my error, a Fabric unexpected behavior, or [[DeepSeek]] [[r1]] unexpected behavior.  I posted an issue on the public [[Concepts/Public Repository]] on [[GitHub]]: [[Question]: What to do if the model isn't following the pattern prompts? #1346](https://github.com/danielmiessler/fabric/issues/1346)
 
 >Are you running the DeepSeek R1 model with ollama or some other local system? I recently struggled with a very similar issue and found that ollama uses a default context window size of about 2048 tokens so that my system prompt never even gets to the model. Using fabric command line option --modelContextLength= helped.
 

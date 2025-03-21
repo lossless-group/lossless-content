@@ -1,0 +1,6 @@
+---
+type: agent_mode
+name: mac-setup
+query: Run the commands one by one
+description: consistent setup across machines
+arguments: []

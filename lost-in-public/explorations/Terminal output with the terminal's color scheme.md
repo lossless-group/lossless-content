@@ -57,7 +57,7 @@ date_modified: 2025-03-21
 
 [Terminal output with all the colors](https://brettterpstra.com/2022/06/07/terminal-output-with-all-the-colors/)
 
-[[Tooling/AI-Toolkit/Generative AI/Code Generators/Warp|Warp]] was able to walk me through the fact that typical text editors don't render ASCII colors, so there for we needed to use [[Homebrew]] to install a package that handles ASCII color and formats to HTML.  
+[[Tooling/AI-Toolkit/Generative AI/Code Generators/Warp|Warp]] was able to walk me through the fact that typical text editors don't render ASCII colors, so there for we needed to use [[Tooling/Software Development/DevOps/Developer Experience/Homebrew]] to install a package that handles ASCII color and formats to HTML.  
 
 ```bash
 brew install aha

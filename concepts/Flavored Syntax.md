@@ -5,7 +5,7 @@ date_modified: 2025-03-20
 
 
 ## Embed Syntax
-Found from [[Readme]]
+Found from [[Tooling/Software Development/DevOps/Documentation Engines/Readme]]
 
 Simple embedded content is written as a Markdown link, with a title of "@embed", like so:
 
