@@ -2,7 +2,7 @@
 tags:
   - Terminal-Assistants
 date_created: 2025-03-20
-date_modified: 2025-03-21
+date_modified: 2025-03-22
 ---
 If you can use a package manager, that will be better. 
 ```bash
@@ -30,6 +30,19 @@ mkdir -p $HOME/.warp
 cd $HOME/.warp/
 git clone https://github.com/warpdotdev/themes.git
 ```
+
+
+### Create your own themes
+```zsh
+cd ~/.warp/themes
+```
+
+Open the directory in a text editor that can navigate files.  
+
+It looked like any folder is just a way to keep them organized, all of them are imported into available themes. 
+
+I took the `standard/catppuccin.yaml` contents and started my own.  
+![](https://i.imgur.com/8W23vHJ.png)
 
 ## Notebooks are a breakthrough in productivity
 Make sure to study the documentation on [Notebooks](https://docs.warp.dev/features/warp-drive/notebooks) here.
@@ -88,3 +101,21 @@ Notebooks:
 Think of Workflows as "command templates" you want to reuse, while Notebooks are more like "command documentation" you want to reference later. 
 
 For your ripgrep (rg) command case, a Workflow would be more appropriate because you want to reuse the command without the environment variable prompts. A Notebook entry would be better if you wanted to document different variations of the command with explanations of how they work.
+
+For your ripgrep (rg) command case, a Workflow would be more appropriate because you want to reuse the command without the environment variable prompts. A Notebook entry would be better if you wanted to document different variations of the command with explanations of how they work.
+
+# Uninstalling Warp
+[On their docs here](https://docs.warp.dev/help/uninstalling-warp). 
+
+```bash
+echo "=== Application Support ===" && \
+ls -la ~/Library/Application\ Support/dev.warp.Warp* 2>/dev/null || echo "No Warp files found" && \
+echo -e "\n=== Preferences ===" && \
+ls -la ~/Library/Preferences/dev.warp.Warp* 2>/dev/null || echo "No Warp files found" && \
+echo -e "\n=== Caches ===" && \
+ls -la ~/Library/Caches/dev.warp.Warp* 2>/dev/null || echo "No Warp files found" && \
+echo -e "\n=== Saved Application State ===" && \
+ls -la ~/Library/Saved\ Application\ State/dev.warp.Warp* 2>/dev/null || echo "No Warp files found"
+```
+
+ `~/Library/Application Support/dev.warp.Warp`
