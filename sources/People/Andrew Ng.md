@@ -1,0 +1,6 @@
+---
+url: https://aifund.ai/
+---
+[[Andrew Ng]] is a renowned computer scientist, entrepreneur, and educator, widely recognized for his contributions to artificial intelligence (AI) and machine learning. He is a Professor at Stanford University, where he specializes in machine learning and robotics, and has co-founded significant AI initiatives, including Google Brain—Google's deep learning research group—and Coursera, one of the largest online education platforms. Ng has made pioneering advancements in deep learning, particularly in applying neural networks to speech recognition, computer vision, and natural language processing. He is also a prominent advocate for democratizing AI, providing accessible education through his online courses, such as the highly influential "Machine Learning" course on Coursera, which has introduced millions to the field. Beyond academia, Ng has worked to bridge the gap between research and real-world application, serving as the former Chief Scientist at Baidu, where he led large-scale AI research projects.
+
+2025, Jan 17. [AI Fundamentals Explained! Machine Learning Full Course | Stanford Online (CS229)- Andrew Ng (Pt 1)](https://youtu.be/sSGygYqnp10?si=7zbAK9czQp20IX8c). [[Andrew Ng]]. [[Stanford University]], [[YouTube]].
