@@ -10,10 +10,11 @@ title: The AI Acceleration Cloud - Fast Inference, Fine-Tuning & Training
 favicon: https://cdn.prod.website-files.com/64f6f2c0e3f4c5a91c1e823a/654693d569494912cfc0c0d4_favicon.svg
 og_errors: true
 og_last_error: 2025-03-24T05:13:50.778Z
-og_error_message: Screenshot fetch error:HTTP error! status:500
+og_error_message: 'Screenshot fetch error:HTTP error! status:500'
 jina_last_request: 2025-03-09T06:45:20.025Z
-jina_error: Error occurred
+jina_error: 'Error occurred'
 og_last_fetch: 2025-03-24T05:15:11.597Z
 og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/e512e355fe7a020bceb61811e09b528a55ea972c3ebd8c4858327754ba458d46.jpeg
+verified_yaml: 2025-03-24
 ---
 [[Self-Hosting]] [[Cloud Infrastructure]]
