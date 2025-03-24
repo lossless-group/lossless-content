@@ -11,7 +11,6 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:17.901Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T06:28:30.960Z
-og_screenshot: [[Recruiting Platforms]]
 
 ##### [[g2i]] is a [[Recruiting Platforms 1|Recruiting Platform]] for Software Developers
 ![[Screenshot 2025-02-22 at 9.50.16 PM_g2i--Hero.png]]

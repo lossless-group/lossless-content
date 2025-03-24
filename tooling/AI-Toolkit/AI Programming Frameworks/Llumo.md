@@ -10,5 +10,4 @@ title: Llumo AI | Ensuring your AI meets excellence
 favicon: https://llumo.ai/img/homepage/llumo-favicon.svg
 og_fetched_url: https://llumo.ai
 og_last_fetch: 2025-03-24T06:28:26.033Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/006114fe8c6467aba876b23397277f98bb4dde21effeb0b5a864a09a486bfbf4.jpeg
 ---

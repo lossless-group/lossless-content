@@ -14,6 +14,5 @@ og_last_fetch: 2025-03-24T05:15:07.089Z
 og_errors: true
 og_last_error: 2025-03-24T05:13:50.809Z
 og_error_message: Screenshot fetch error:HTTP error! status:500
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/1be135e96b98cec1a8f05fc1a93211f36238018444b9fe99ceb19c24f4d10ae1.jpeg
 ---
 [[Cloud Infrastructure]] for [[Artificial Intelligence|AI]]

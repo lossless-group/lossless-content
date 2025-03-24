@@ -9,6 +9,5 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:03.218Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T05:13:35.966Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/3ebb2f29af869bcb006daec0b2e69eb5c2fad680db28ff41975f05898474a19f.jpeg
 ---
 [[Cloud Infrastructure]]

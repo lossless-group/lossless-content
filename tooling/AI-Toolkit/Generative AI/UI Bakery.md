@@ -9,6 +9,5 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:11.779Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T05:22:49.983Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/502afb5e36da691bbe35bc7a53dca9e5d25db9302f35b31e9d01b1bfdef46971.jpeg
 ---
 https://uibakery.io/ai-app-generator

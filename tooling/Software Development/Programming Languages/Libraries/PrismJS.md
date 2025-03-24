@@ -10,7 +10,6 @@ title: Prism
 favicon: https://prismjs.com/assets/favicon.png
 og_fetched_url: https://prismjs.com/
 og_last_fetch: 2025-03-24T06:28:29.781Z
-og_screenshot: Used by [[Obsidian]]
 
 ---
 Used by [[Obsidian]]

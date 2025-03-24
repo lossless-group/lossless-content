@@ -8,7 +8,6 @@ title: OBSBOT - Connecting You to the Future [Official]
 favicon: https://www.obsbot.com/favicon.ico
 og_fetched_url: https://www.obsbot.com/
 og_last_fetch: 2025-03-24T06:28:31.641Z
-og_screenshot: [[Vocabulary/Web Cams|Web Cams]]
 
 
 https://youtu.be/OhSkOqYBtzQ?si=2c9z_gZSZJIpp-k5

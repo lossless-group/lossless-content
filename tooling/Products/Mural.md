@@ -10,5 +10,4 @@ title: Work better together with Mural's visual work platform | Mural
 favicon: https://cdn.prod.website-files.com/62e11362da2667ac3d0e6ed5/63f8b1b0585b45a64baf52da_Mural_Favicon_32x32.png
 og_fetched_url: https://www.mural.co/
 og_last_fetch: 2025-03-24T06:28:36.244Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/aff9408431d18dc6fff2d3717c29ad8702986cc31a050c67d483569fc0195119.jpeg
 ---

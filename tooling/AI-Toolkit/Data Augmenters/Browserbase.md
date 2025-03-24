@@ -10,6 +10,5 @@ favicon: https://www.browserbase.com/website/favicon/favicon-48x48.png
 jina_last_request: 2025-03-09T06:45:12.922Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T05:47:31.269Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/c9800c8cc25b9232ff572fe0815104ba1264b0688fc52196d10b89eaa60c2bd0.jpeg
 ---
 [[AI Powered Data Capture]].

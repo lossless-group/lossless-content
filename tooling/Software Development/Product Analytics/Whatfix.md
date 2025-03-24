@@ -12,7 +12,6 @@ og_last_fetch: 2025-03-07T05:19:02.900Z
 og_errors: true
 og_last_error: 2025-03-24T06:28:16.088Z
 og_error_message: Screenshot fetch error: HTTP error! status: 400
-og_screenshot: [[Product Analytics]]
 
 ---
 [[Product Analytics]]

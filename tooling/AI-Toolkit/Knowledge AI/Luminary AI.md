@@ -9,6 +9,5 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:16.094Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T05:33:12.564Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/0d80b887d5c7d8b3f515079c2f3ac78a1870c08f81e98154b5644d3c097ac529.jpeg
 ---
 [[RAG]] and [[Knowledge Augmented Generation|KAG]] 

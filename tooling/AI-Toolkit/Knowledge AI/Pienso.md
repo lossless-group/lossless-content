@@ -9,6 +9,5 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:05.668Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T05:33:05.260Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/cdeb01bb45f070daa75683174126c2b01c710eb4335b3f3d02df30283a77d87d.jpeg
 ---
 

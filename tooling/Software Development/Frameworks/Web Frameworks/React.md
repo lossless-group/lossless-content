@@ -14,7 +14,6 @@ og_last_fetch: 2025-03-07T05:20:56.420Z
 og_errors: true
 og_last_error: 2025-03-24T06:28:15.980Z
 og_error_message: Screenshot fetch error: HTTP error! status: 400
-og_screenshot: Created and maintained by [[Meta]]. It is the most popular, thus [[Market Standard]], for [[Front-End]] development.  It's essentially a [[JavaScript]] library that enables [[Component-Based Software Architecture]]. 
 
 https://youtu.be/Y12sGu8-qFE?si=rilEvj2P-hZGQMXG
 

@@ -6,7 +6,6 @@ title: Tutorials for Craft CMS
 favicon: https://craftquest.io/dist/assets/favicons/coast-228x228.png
 og_fetched_url: https://craftquest.io/
 og_last_fetch: 2025-03-24T06:28:28.893Z
-og_screenshot: A learning site for [[Craft CMS]]
 
 ---
 A learning site for [[Craft CMS]]

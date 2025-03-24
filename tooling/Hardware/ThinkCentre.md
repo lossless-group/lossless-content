@@ -7,7 +7,6 @@ tags:
 og_errors: true
 og_last_error: 2025-03-24T06:28:47.467Z
 og_error_message: Client error: 400
-og_screenshot: [[Vocabulary/Mini Desktops|Mini-PCs]]
 
 [[Organizations/Lenovo]]
 

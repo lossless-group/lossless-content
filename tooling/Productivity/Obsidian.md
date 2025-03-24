@@ -10,7 +10,6 @@ image: https://obsidian.md/images/banner.png
 title: Obsidian - Sharpen your thinking
 favicon: https://obsidian.md/favicon.ico
 og_fetched_url: https://obsidian.md/
-og_screenshot: [[Markdown Editor]]
 
 https://youtu.be/37aJiD0ey-8?si=ZzdTMlFH5le8w1Rt
 

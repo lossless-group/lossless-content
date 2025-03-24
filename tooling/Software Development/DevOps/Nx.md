@@ -13,7 +13,6 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:05.428Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T06:28:30.882Z
-og_screenshot: 2025, February 21. [This AI VS Code extension actually works with large codebases!](http://localhost:5173/). GosuCoder. [[YouTube]]
 
 2023, August 8. [Soo...what is Nx?](https://www.youtube.com/watch?v=-_4WMl-Fn0w). Nx - Smart Monorepos - Fast CI.
 ##### [[Nx]] is a [[Build Systems]] for [[Monorepo|Monorepos]]

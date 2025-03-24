@@ -8,7 +8,6 @@ title: TypeScript-first schema validation with static type inference
 favicon: https://zod.dev/static/favicon-32x32.png
 og_fetched_url: https://zod.dev/
 og_last_fetch: 2025-03-24T06:28:23.781Z
-og_screenshot: [[Schema Validation]]
 
 
 ---

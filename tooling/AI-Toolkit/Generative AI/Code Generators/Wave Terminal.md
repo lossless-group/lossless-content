@@ -10,7 +10,6 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:19.013Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T06:28:25.185Z
-og_screenshot: Supports [[Tooling/AI-Toolkit/Models/LocalAI.io]]
 [[Terminal Emulators|Terminal Emulator]]
 [[Code Generators]]
 

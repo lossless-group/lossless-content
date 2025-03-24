@@ -12,7 +12,6 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:09.030Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T06:28:31.366Z
-og_screenshot: Similar to [[Fathom AI]], an [[AI Powered Data Capture#AI Powered Transcription Services|AI Powered Transcription]] service. 
 
 
 ![[Screenshot 2025-02-01 at 5.30.15 PM_Granola--Hero.png]]

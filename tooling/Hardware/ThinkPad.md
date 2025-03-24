@@ -3,7 +3,6 @@ date_created: 2025-03-14
 date_modified: 2025-03-21
 url: https://www.lenovo.com/us/en/c/laptops/thinkpad/
 product_of: [[Organizations/Lenovo|Lenovo]]
-og_screenshot: [[Vocabulary/Laptops|Laptops]]
 
 
 https://youtu.be/YpGmJ7snY64?si=VCKkEDFdHldBkG9r

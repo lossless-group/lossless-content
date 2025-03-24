@@ -12,7 +12,6 @@ og_error_message: HTTP error 401
 jina_last_request: 2025-03-09T06:45:22.108Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T06:28:30.986Z
-og_screenshot: Helps with [[Reproducible Builds]]. 
 
 [[WebAssembly]], [[WebAssembly|WASM]]
 [[JavaScript]], [[Compilers]]

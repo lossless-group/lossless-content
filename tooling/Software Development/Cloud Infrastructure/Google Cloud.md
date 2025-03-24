@@ -13,7 +13,6 @@ description_site_cp: Build with generative AI, deploy apps fast, and analyze dat
 jina_last_request: 2025-03-09T06:45:12.951Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T06:28:30.653Z
-og_screenshot: [[BigQuery]]
 
 ---
 [[BigQuery]]

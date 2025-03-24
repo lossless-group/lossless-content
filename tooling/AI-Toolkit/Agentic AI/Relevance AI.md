@@ -11,7 +11,6 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:02.158Z
 jina_error: fetch failed
 og_last_fetch: 2025-03-24T05:01:11.791Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/ff20f00519bcd4bd711892e9aa52da7bee1e3ae560006fc34cf505405050da09.jpeg
 ---
 [Build an AI Agent That Scrapes ANYTHING (No-Code)](https://youtu.be/yJ7R3jxSF_g?si=cmlaVHvYDm_Aiyqs) by [[Ben AI]]
 

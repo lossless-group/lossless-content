@@ -12,5 +12,4 @@ title: xAPI.com
 favicon: https://xapi.com/wp-content/themes/xapi/_/img/favicon.png?WQ
 og_fetched_url: https://xapi.com/
 og_last_fetch: 2025-03-24T06:28:30.073Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/6d00668e9cbddf5781d4154802b478025acbefb9e49bafc3548af01baa64b79b.jpeg
 ---

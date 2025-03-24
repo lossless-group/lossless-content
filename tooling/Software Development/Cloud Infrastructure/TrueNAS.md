@@ -9,7 +9,6 @@ title: TrueNAS - Open Enterprise Storage
 favicon: https://www.truenas.com/wp-content/uploads/2020/08/cropped-TN-favicon-250x250.png
 og_fetched_url: https://truenas.com
 og_last_fetch: 2025-03-24T06:28:38.774Z
-og_screenshot: Built on the Rock-Solid Foundation of [[OpenZFS]]
 
 ---
 Built on the Rock-Solid Foundation of [[OpenZFS]]

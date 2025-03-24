@@ -10,7 +10,6 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:08.426Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T05:47:15.213Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/e88d212fe5067a4b590e35b2610b5026e8c8001f8c31b544e4644e735bd1126b.jpeg
 ---
 
 https://youtu.be/38loqDtlLok?si=-GPmVn3Qc4zyjA5g

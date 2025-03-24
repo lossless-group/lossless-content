@@ -10,7 +10,6 @@ title: Reflection AI
 favicon: https://www.reflection.ai/wp-content/themes/reflection/img/favicons/favicon-228.png
 og_fetched_url: https://www.reflection.ai
 og_last_fetch: 2025-03-24T06:28:29.570Z
-og_screenshot: The team behind [[Gemini]]
 
 [https://www.reflection.ai](https://www.reflection.ai/)
 [https: //www.reflection.ai](https://www.reflection.ai/)

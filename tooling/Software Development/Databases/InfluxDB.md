@@ -8,7 +8,6 @@ title: InfluxDB | Real-time insights at any scale | InfluxData
 favicon: https://www.influxdata.com/wp-content/uploads/cubo.svg
 og_fetched_url: https://www.influxdata.com
 og_last_fetch: 2025-03-24T06:28:30.219Z
-og_screenshot: [[Vocabulary/Time Series Data]]
 
 ---
 [[Vocabulary/Time Series Data]]

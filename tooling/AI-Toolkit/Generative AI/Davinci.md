@@ -11,7 +11,6 @@ og_error_message: HTTP error 401
 jina_last_request: 2025-03-09T06:45:18.666Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T05:22:44.263Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/86a9ae4806f4b318e10fa28e76d7409398590620a0abb2f66881291c7960320b.jpeg
 ---
 
 https://youtu.be/B3ya3MNMgLs?si=JgjIkekfaQe0jfUw

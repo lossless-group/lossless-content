@@ -18,7 +18,6 @@ date_modified: 2025-03-20
 og_errors: true
 og_last_error: 2025-03-24T06:28:44.858Z
 og_error_message: Screenshot fetch error: HTTP error! status: 500
-og_screenshot: ![[visualFor__LangChain--Model.svg]]
 
 
 2024, Sep 29. [LangChain and OLlama: Build your personal coding assistant in 10 minutes](https://youtu.be/fOUng7fMQ1Y?si=zumizOmuEk1H6vyh)

@@ -10,7 +10,6 @@ title: Godot Engine - Free and open source 2D and 3D game engine
 favicon: https://godotengine.org/assets/favicon.png
 og_fetched_url: https://godotengine.org/
 og_last_fetch: 2025-03-24T05:59:27.862Z
-og_screenshot: [[Concepts/Open Source, DIY Variant|Open Source, DIY Variant]]
 
 [[Vocabulary/Open Source|Open Source]]
 

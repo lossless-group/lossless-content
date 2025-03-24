@@ -10,7 +10,6 @@ jina_last_request: 2025-03-09T06:44:59.644Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T06:28:47.328Z
 zinger: Authentication and User Management
-og_screenshot: [[User Authentication]]
 
 ---
 [[User Authentication]]

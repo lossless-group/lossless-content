@@ -11,7 +11,6 @@ title: Gradio
 favicon: https://www.gradio.app/favicon.png
 og_fetched_url: https://www.gradio.app/
 og_last_fetch: 2025-03-24T06:28:28.292Z
-og_screenshot: [[Vocabulary/Interactive Notebooks|Interactive Notebooks]] for [[Vocabulary/Machine Learning|Machine Learning]]
 
 ---
 [[Vocabulary/Interactive Notebooks|Interactive Notebooks]] for [[Vocabulary/Machine Learning|Machine Learning]]

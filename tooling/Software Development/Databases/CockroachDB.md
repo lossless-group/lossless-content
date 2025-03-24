@@ -11,7 +11,6 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:44:59.558Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T06:28:32.835Z
-og_screenshot: Based on [[Postgres]]
 
 https://youtu.be/xXU62yC1uX8?si=dPxWva9ytW2Wyztr
 

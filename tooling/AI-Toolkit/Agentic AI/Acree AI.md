@@ -12,7 +12,6 @@ og_last_fetch: 2025-03-07T05:20:56.172Z
 og_errors: true
 og_last_error: 2025-03-24T06:28:41.862Z
 og_error_message: Screenshot fetch error: HTTP error! status: 500
-og_screenshot: [[Agentic AI]]
 
 [[Small Language Models]]
 

@@ -11,5 +11,4 @@ title: Portkey | Control Panel for Production AI
 favicon: https://framerusercontent.com/images/pkFK3AGXHirogqiN67JGtlnMVM.png
 og_fetched_url: https://portkey.ai/
 og_last_fetch: 2025-03-24T06:28:33.718Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/b396437922bf3bd35da6376538b1ce16ee15c93c619783e0576ac9c552ad9461.jpeg
 ---

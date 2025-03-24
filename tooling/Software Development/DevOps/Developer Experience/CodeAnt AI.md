@@ -11,7 +11,6 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:10.083Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T06:28:38.930Z
-og_screenshot: [[for Engineering]]
 
 [[Model Wrappers]] for [[Software Development]], [[Bug Reporting]]
 

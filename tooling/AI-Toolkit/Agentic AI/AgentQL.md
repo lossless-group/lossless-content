@@ -12,6 +12,5 @@ jina_error: Error occurred
 og_last_fetch: 2025-03-24T05:01:05.250Z
 date_created: 2025-01-03
 date_modified: 2025-03-24
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/fae89d34a3d415c166516d7317a30624bd8997c7473419fe0760af28e572e4a7.jpeg
 ---
 

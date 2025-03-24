@@ -10,5 +10,4 @@ title: OptimalAI
 favicon: https://optimalai.com/wp-content/uploads/2023/03/cropped-OptimalAI-Favicon-1-192x192.png
 og_fetched_url: https://optimalai.com
 og_last_fetch: 2025-03-24T06:28:42.563Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/b9e04a6b4b2d210be75ea55da9b007b662333f3ac6c63e5f803480f02b9cf3ab.jpeg
 ---

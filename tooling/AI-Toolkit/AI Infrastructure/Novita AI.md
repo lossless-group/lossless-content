@@ -11,6 +11,5 @@ favicon: https://novita.ai/favicon.ico
 jina_last_request: 2025-03-09T06:45:20.458Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T05:13:42.099Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/103d0fbce07303af3a64726b3cee4c831f03e61f1ce67fa2cce1f7647cea4c25.jpeg
 ---
 [[AnythingLLM]]

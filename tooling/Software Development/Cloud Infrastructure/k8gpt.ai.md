@@ -9,7 +9,6 @@ title: K8sGPT
 favicon: https://k8sgpt.ai/images/favicon.png 
 og_fetched_url: https://k8sgpt.ai
 og_last_fetch: 2025-03-24T06:28:29.562Z
-og_screenshot: [[Kubernetes]]
 
 ---
 [[Kubernetes]]

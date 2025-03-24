@@ -12,7 +12,6 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:17.950Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T06:06:29.080Z
-og_screenshot:  [[AI Powered Data Capture]]
 ![[Screenshot 2025-02-19 at 6.01.07 PM_BrightData--Hero.png]]
 
 

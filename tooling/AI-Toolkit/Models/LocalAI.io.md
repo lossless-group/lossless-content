@@ -11,7 +11,6 @@ title: Overview
 favicon: https://localai.io/favicon-32x32.png
 og_fetched_url: https://localai.io
 og_last_fetch: 2025-03-24T06:28:24.566Z
-og_screenshot: [[Open Source]] alternative to [[Tooling/AI-Toolkit/Model Producers/OpenAI|OpenAI]]'s [[Tooling/AI-Toolkit/Models/GPT-Series Models|GPT-Series Models]] 
 
 
 

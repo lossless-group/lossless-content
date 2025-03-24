@@ -12,12 +12,9 @@ og_error_message: Screenshot fetch error: HTTP error! status: 500
 jina_last_request: 2025-03-09T06:45:13.436Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:19:01.840Z
-og_screenshot: 
+---
 [[Voice User Interface]]
 [[Voice to Text]]
-
-
----
 
 [[Voice User Interface]]
 [[Voice to Text]]

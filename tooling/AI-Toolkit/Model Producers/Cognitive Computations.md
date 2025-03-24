@@ -10,7 +10,6 @@ title: Cognitive Computations
 favicon: https://cdn.hashnode.com/res/hashnode/image/upload/v1611242173172/AOX1gE2jc.png
 og_fetched_url: https://erichartford.com/
 og_last_fetch: 2025-03-24T06:28:29.483Z
-og_screenshot: A brand of personal work by [[Eric Hartford]], and producer of [[Tooling/AI-Toolkit/Models/Dolphin]]
 
 
 ---

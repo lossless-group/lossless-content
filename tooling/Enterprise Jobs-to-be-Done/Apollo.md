@@ -12,7 +12,6 @@ og_last_fetch: 2025-03-24T06:28:33.494Z
 og_errors: true
 og_last_error: 2025-03-14T05:42:36.687Z
 og_error_message: Error occurred
-og_screenshot: ##### [[Apollo]] is a [[State of the Art]] tool for [[Demand Generation]]
 ![[Screenshot 2025-02-25 at 3.52.02 PM_Apollo--Hero.png]]
 
 ---

@@ -13,7 +13,6 @@ og_error_message: Screenshot fetch error: HTTP error! status: 500
 jina_last_request: 2025-03-09T06:45:08.348Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:19:01.839Z
-og_screenshot: [[Computer-Generated Imagery|CGI]], [[Motion Graphics]]
 
 2025, Feb 16. [After Effects beginner tutorial](https://youtu.be/cOqMCL4aZHM?si=eTmOXoLq9jxtIkZU) YC_Chris, [[YouTube]].
 

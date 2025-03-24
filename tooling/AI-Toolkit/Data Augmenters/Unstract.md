@@ -12,7 +12,6 @@ og_error_message: Error occurred
 jina_last_request: 2025-03-09T06:45:17.582Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T05:47:30.474Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/ecb75a576c0570f24d5fc86cff21ce6aa63c21bcf30bf99cea28feea0b07a953.jpeg
 ---
 2025, Feb 12. [Unstract: AI Document Parser: Extract Data from Complex PDFs at Scale! (Open Source)](https://youtu.be/Ymq8o7FSoVc?si=5VZE2VbjqdF_-dgO). [[YouTube]].
 

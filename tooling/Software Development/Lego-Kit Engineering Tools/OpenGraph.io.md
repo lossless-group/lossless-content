@@ -11,7 +11,6 @@ og_error_message: HTTP error 401
 jina_last_request: 2025-03-09T06:45:05.239Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T06:28:28.329Z
-og_screenshot: [[Web Scraping]], 
 
 ![[Screenshot 2025-02-23 at 1.29.09 PM_OpenGraph-io--Hero.png]]
 

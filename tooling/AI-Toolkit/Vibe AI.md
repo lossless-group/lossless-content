@@ -5,16 +5,12 @@ url: https://thewh1teagle.github.io/vibe/
 tags: 
 og_errors: true
 og_last_error: 2025-03-08T20:39:43.753Z
-og_error_message: HTTP error 401
+og_error_message: 'HTTP error 401'
 jina_last_request: 2025-03-09T06:45:05.547Z
-jina_error: Error occurred
+jina_error: 'Error occurred'
 favicon: https://thewh1teagle.github.io/vibe/./favicon.ico
 og_fetched_url: https://thewh1teagle.github.io/vibe/
 og_last_fetch: 2025-03-24T06:28:15.927Z
-og_screenshot: 
-
-[[AI Powered Transcription]]
-
 ---
 
 

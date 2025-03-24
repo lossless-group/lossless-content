@@ -15,7 +15,6 @@ og_last_fetch: 2025-03-07T05:19:01.823Z
 og_errors: true
 og_last_error: 2025-03-24T06:28:48.567Z
 og_error_message: Screenshot fetch error: HTTP error! status: 500
-og_screenshot: [[Advanced Documents]]
 ### CraftDocs managing the Innovation Cookbook:
 [[The Lossless Innovation Cookbook]] on [[CraftDocs]].
 ![[Screenshot 2025-01-28 at 9.05.25 PM_Lossless_Cookbook--CraftDocs.png]]

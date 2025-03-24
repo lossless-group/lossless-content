@@ -12,7 +12,6 @@ title: Glarity - Free ChatGPT YouTube Summary/Translate Webpage Extension - Your
 favicon: https://glarity.app/img/index/logo.svg
 og_fetched_url: https://glarity.app
 og_last_fetch: 2025-03-24T06:28:31.745Z
-og_screenshot: [[Vocabulary/Web Scraping|Web Scraping]]
 [[Vocabulary/Plug-ins,  Add-ons,  Extensions|Extensions]]
 
 ---

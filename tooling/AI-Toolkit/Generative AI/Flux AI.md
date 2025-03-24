@@ -12,7 +12,6 @@ og_last_fetch: 2025-03-14T05:42:26.065Z
 og_errors: true
 og_last_error: 2025-03-24T06:28:45.050Z
 og_error_message: Screenshot fetch error: HTTP error! status: 500
-og_screenshot: [[Image Generator]]
 
 https://youtu.be/OqAY5VkhBKY?si=vOtM68UN1wOxkV_b
 

@@ -12,7 +12,6 @@ og_last_fetch: 2025-03-07T05:19:18.722Z
 og_errors: true
 og_last_error: 2025-03-24T06:28:49.034Z
 og_error_message: Screenshot fetch error: HTTP error! status: 500
-og_screenshot: ![](https://i.imgur.com/ozVnb2V.png)
 ![](https://i.imgur.com/VfwJBH6.png)
 
 

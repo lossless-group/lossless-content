@@ -8,7 +8,6 @@ site_name: NVIDIA
 title: NVIDIA GeForce RTX 30 Series GPUs Powered by Ampere Architecture
 og_fetched_url: https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/
 og_last_fetch: 2025-03-24T06:28:19.188Z
-og_screenshot: [[Vocabulary/Graphics Processing Units|GPU]]
 
 https://youtu.be/VGyKwi9Rfhk?si=rwb1x4EPcYqS5UCv
 https: //youtu.be/VGyKwi9Rfhk?si=rwb1x4EPcYqS5UCv

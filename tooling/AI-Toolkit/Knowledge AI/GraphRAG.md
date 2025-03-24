@@ -10,7 +10,6 @@ favicon: https://microsoft.github.io/graphrag/assets/images/favicon.png
 jina_last_request: 2025-03-09T06:44:58.144Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T05:33:04.755Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/8a6a98e4cbf1799c5c5dcc8c045f8aa7dc4d1b0bcb7ef8016efe4017f3c2ed63.jpeg
 ---
 https://youtu.be/TqAScH5y2oc?si=iu3ZjIwCfPe3zeI1
 [[LangChain]], [[Neo4j]]

@@ -12,7 +12,6 @@ og_last_fetch: 2025-03-24T05:13:23.798Z
 og_errors: true
 og_last_error: 2025-03-24T06:28:41.477Z
 og_error_message: Screenshot fetch error: HTTP error! status: 500
-og_screenshot: [[Blockchain]]
 
 [[Peer-to-Peer]]
 

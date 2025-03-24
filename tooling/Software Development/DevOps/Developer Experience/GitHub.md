@@ -16,7 +16,6 @@ date_modified: 2025-03-20
 og_errors: true
 og_last_error: 2025-03-24T06:28:47.715Z
 og_error_message: Screenshot fetch error: HTTP error! status: 500
-og_screenshot: [[Microsoft]] acquired [[GitHub]].
 
 https://youtu.be/Oaj3RBIoGFc?si=HiT-RnoDJ7kKkXLQ
 

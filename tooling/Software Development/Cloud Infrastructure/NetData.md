@@ -9,7 +9,6 @@ title: Monitor your entire infrastructure in high-resolution and in real-time.
 favicon: https://www.netdata.cloud/favicon-32x32.png
 og_fetched_url: https://www.netdata.cloud/
 og_last_fetch: 2025-03-24T06:28:18.122Z
-og_screenshot: Competes with: [[Grafana]], [[Prometheus]], [[Tooling/Data Utilities/DataDog|DataDog]]
 
 https://youtu.be/Nr92b1eFRE0?si=gWNkxr9L8gRxxULB
 https: //youtu.be/Nr92b1eFRE0?si=gWNkxr9L8gRxxULB

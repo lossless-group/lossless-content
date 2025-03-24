@@ -10,5 +10,4 @@ title: Handsontable is a JavaScript data grid that looks and feels like a spread
 favicon: https://handsontable.com/static/images/template/ModCommon/favicon-32x32.png
 og_fetched_url: https://handsontable.com
 og_last_fetch: 2025-03-24T06:28:28.537Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/2c0726a2528d59f1c710812320fd12b8d734c24c50430a98d68d6e7dace6337a.jpeg
 ---

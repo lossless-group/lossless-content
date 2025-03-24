@@ -14,7 +14,6 @@ og_last_fetch: 2025-03-24T06:28:24.566Z
 date_created: 2025-03-09
 date_modified: 2025-03-20
 docs_url: https://typicode.github.io/husky/get-started.html
-og_screenshot: [[Husky]] is a [[Vocabulary/Packages and Libraries|Library]] that helps developers use [[Tooling/Products/Git#Git Hooks|Git Hooks]] to manage complex, [[Concepts/Continuous Integration and Continuous Deployment|Continuous Integration and Continuous Deployment]] workflows. 
 
 
 A good overview [here.](https://syntackle.com/blog/creating-git-hooks-using-husky-y6LKpN/#:~:text=You%20will%20see%20a%20.,git%20hooks%20will%20be%20executed.)

@@ -9,7 +9,6 @@ title: Homepage
 favicon: https://tuxcare.com/wp-content/uploads/2022/03/favicon.ico
 og_fetched_url: https://tuxcare.com
 og_last_fetch: 2025-03-24T06:28:32.219Z
-og_screenshot: [[Vocabulary/Web Security|Web Security]]
 
 ---
 [[Vocabulary/Web Security|Web Security]]

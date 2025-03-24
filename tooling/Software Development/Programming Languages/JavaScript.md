@@ -11,7 +11,6 @@ og_error_message: HTTP error 401
 jina_last_request: 2025-03-09T06:45:19.160Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T06:28:31.414Z
-og_screenshot: https://youtu.be/k4xuEl6TmT4?si=0hxbL-1xVxjeTqSD
 
 
 [[Web Frameworks]] include [[NEXT.js]], [[React]], [[Vue.js]], [[Solid.js]], [[Nextra]], [[Astro]].

@@ -14,7 +14,6 @@ og_error_message: Screenshot fetch error: HTTP error! status: 500
 jina_last_request: 2025-03-09T06:45:16.747Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:19:19.167Z
-og_screenshot: [[Video Generator]]
 
 ![[Screenshot 2025-02-19 at 1.53.46 PM_Synthesia_Hero.png]]
 

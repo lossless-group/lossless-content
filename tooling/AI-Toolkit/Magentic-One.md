@@ -13,9 +13,8 @@ created_by: [[Microsoft Research]]
 jina_last_request: 2025-03-09T06:45:14.415Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T06:28:17.098Z
-og_screenshot: 
+---
 A [[Code Generators]] by [[Microsoft Research]]. A [[Python]] [[Packages and Libraries|Package]]
-
 
 2024, Nov 12. [Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/) [[Microsoft]], [[Microsoft AI Frontiers]]
 
@@ -23,7 +22,6 @@ https://youtu.be/z3spbIBWZFU?si=kWsc9tbxWHzvoCqI
 
 2024, Nov 12. [Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/) [[Microsoft]], [[Microsoft AI Frontiers]]
 https: //youtu.be/z3spbIBWZFU?si=kWsc9tbxWHzvoCqI
----
 
 A [[Code Generators]] by [[Microsoft Research]]. A [[Python]] [[Packages and Libraries|Package]]
 

@@ -10,7 +10,6 @@ site_name: Apple
 title: Mac Studio
 og_fetched_url: https://www.apple.com/mac-studio/
 og_last_fetch: 2025-03-24T06:28:33.336Z
-og_screenshot: https://youtu.be/lqQjZOTuVBY?si=R2nYY9p-1NCGUnO6
 
 https://youtu.be/_Wc09HJmQSs?si=x2Q8p0bj51MgHEzq
 

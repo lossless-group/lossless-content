@@ -9,5 +9,4 @@ title: ReadMe
 favicon: https://readme.com/static/favicons/favicon-blue.ico
 og_fetched_url: https://readme.com/
 og_last_fetch: 2025-03-24T06:28:43.049Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/3da530510d50eecac6ed735edb45ccfacec40a2172733661867b6d655dc942a0.jpeg
 ---

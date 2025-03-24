@@ -13,7 +13,6 @@ title: Smallweb – Your internet folder
 favicon: https://www.smallweb.run/favicon-96x96.png
 og_fetched_url: https://www.smallweb.run/
 og_last_fetch: 2025-03-24T06:28:23.255Z
-og_screenshot: [[Vocabulary/Virtual Private Server|Virtual Private Server]], [[Vocabulary/Open Source|Open Source]] [[Vocabulary/Self-Hosting|Self-Hosting]]
 
 
 https://youtu.be/thIt-JXYbco?si=cbzdVTncV-8nomB3

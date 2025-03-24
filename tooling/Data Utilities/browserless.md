@@ -13,7 +13,6 @@ jina_error: Error occurred
 og_last_fetch: 2025-03-24T06:06:28.044Z
 date_created: 2025-03-23
 date_modified: 2025-03-24
-og_screenshot: An [[AI Powered Data Capture]] tool.
 <span query="get(hero)"></span>![[Screenshot 2025-02-20 at 11.09.01 PM_browserless--Hero.png]]<span type="end"></span>
 
 [^f3abb9]

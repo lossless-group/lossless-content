@@ -13,7 +13,6 @@ og_error_message: Screenshot fetch error: HTTP error! status: 500
 jina_last_request: 2025-03-09T06:45:19.071Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:20:40.128Z
-og_screenshot: [[Open Source]] [[Low-Code]] [[Visual Software Development]]
 
 ![[IMG_1909.png]]
 

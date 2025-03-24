@@ -9,7 +9,6 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:07.381Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T05:33:23.990Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/ef37780f6055b589aa8350ec622e6cd8ca88b400e1f93d1dc47f84add08df01b.jpeg
 ---
 A [[Vector Databases]] commonly used in [[RAG]] and [[Knowledge Augmented Generation|KAG]] systems.  
 

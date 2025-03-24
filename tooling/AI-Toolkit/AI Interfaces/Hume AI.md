@@ -12,7 +12,6 @@ og_last_fetch: 2025-03-07T05:29:25.878Z
 og_errors: true
 og_last_error: 2025-03-24T06:28:42.709Z
 og_error_message: Screenshot fetch error: HTTP error! status: 500
-og_screenshot: [[Voice User Interface]]
 
 
 ---

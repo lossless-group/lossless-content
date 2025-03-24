@@ -10,7 +10,6 @@ title: Supabase | The Open Source Firebase Alternative
 favicon: https://supabase.com/favicon/favicon-196x196.png
 og_fetched_url: https://supabase.com/
 og_last_fetch: 2025-03-24T06:28:34.668Z
-og_screenshot: Supabase is actually built on the [[Open Source]] [[Databases|Database]] [[Postgres]].
 
 https://youtu.be/cmF64GU5RZY?si=SD3aZn1Dx7qXSbHA
 ### Supabase has templates and starter code to ease getting started

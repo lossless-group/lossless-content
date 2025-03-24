@@ -10,7 +10,6 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:08.788Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T06:28:48.111Z
-og_screenshot: An [[Text Editors or IDEs|IDE]] with [[Code Generators]] powers.  
 
 ##### AgentFarm is a [[Code Generators]]
 ![[Screenshot 2025-02-20 at 2.01.27 AM_AgentFarm--Hero.png]]

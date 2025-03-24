@@ -9,7 +9,6 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:44:58.275Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T05:33:20.270Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/87aa1853aeeadae4cc0c2ac46335deaf8d092ef63e887bb5a67a8d88efa5beb3.jpeg
 ---
 Backed by [[Nvidia]]
 

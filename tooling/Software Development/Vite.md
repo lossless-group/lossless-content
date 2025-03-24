@@ -11,7 +11,6 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:03.025Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T06:28:38.011Z
-og_screenshot: https://youtu.be/u_6PMBDshS8?si=kElWQZyzGnUbvPHK
 
 | Release | Date       | Announcement                                               |
 | ------- | ---------- | ---------------------------------------------------------- |

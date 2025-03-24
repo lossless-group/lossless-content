@@ -8,7 +8,6 @@ title: Bastard Keyboards - Split ergonomic keyboards
 favicon: https://bastardkb.com/wp-content/uploads/2021/01/cropped-BK-copy-1-192x192.png
 og_fetched_url: https://bastardkb.com/
 og_last_fetch: 2025-03-24T06:28:30.103Z
-og_screenshot: [[Vocabulary/Custom Keyboards|Custom Keyboards]] [[Emergent-Innovation/Examples/Corne Keyboards|Corne Keyboards]]
 
 
 

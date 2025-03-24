@@ -9,6 +9,5 @@ favicon: https://cdn.prod.website-files.com/6639cdf0b2b3923e2887386c/66478cab0ed
 jina_last_request: 2025-03-09T06:45:09.440Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T05:22:48.687Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/8aba51e0cc642aabd5d13e9bca6e8527e60bddbdbe0360169f7b4c9ee4e9df90.jpeg
 ---
 

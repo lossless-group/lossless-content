@@ -10,7 +10,6 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:17.383Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T05:13:38.517Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/7a536c4a7b6faf0c9b52cba239432629c3758985c167add98ce1b1c770c73e86.jpeg
 ---
 
 [https://chat.groq.com](https://chat.groq.com/)
@@ -158,6 +157,5 @@ og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/7
 > 66. [https://news.ycombinator.com/item?id=39789206](https://news.ycombinator.com/item?id=39789206)
 > 
 
----
 
 Answer from Perplexity: [pplx.ai/share](https://www.perplexity.ai/search/pplx.ai/share)

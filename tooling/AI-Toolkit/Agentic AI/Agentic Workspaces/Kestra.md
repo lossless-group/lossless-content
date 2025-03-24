@@ -15,7 +15,6 @@ og_last_fetch: 2025-03-07T05:20:56.443Z
 og_errors: true
 og_last_error: 2025-03-24T06:28:41.952Z
 og_error_message: Screenshot fetch error: HTTP error! status: 500
-og_screenshot: [[Workflow Automations]], [[Open Source]].
 
 2024, Nov 05. [CANCEL Make.com, n8n & Zapier?!?🤖 FREE Kestra Coolify Self Hosted Open Source Workflow](https://youtu.be/z3EZ_UEBGNc?si=5LCivJV2VaMUyuXh) on [[YouTube]].
 

@@ -12,7 +12,6 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:02.111Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T06:28:30.763Z
-og_screenshot: Skip is a [[Web Frameworks|Web Framework]] focused on the [[Back-End Engineering]], created and managed at [[Meta]] and [[Facebook]]
 
 
 ![[Screenshot 2025-01-16 at 1.13.25 PM_Skip--Hero.png]]

@@ -15,7 +15,6 @@ title: Strategic Product Management Platform
 favicon: https://airfocus.com/favicon-32x32.png?v=23206af13918f4ec72b2582ef7d0e3c7
 og_fetched_url: https://airfocus.com
 og_last_fetch: 2025-03-24T06:28:40.388Z
-og_screenshot: [[Product Roadmaps]]
 
 
 ---

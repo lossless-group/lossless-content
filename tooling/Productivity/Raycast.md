@@ -11,7 +11,6 @@ title: Raycast - Your shortcut to everything
 favicon: https://www.raycast.com/favicon-production.png
 og_fetched_url: https://www.raycast.com/
 og_last_fetch: 2025-03-24T06:28:19.582Z
-og_screenshot: https://youtu.be/xRnMXJcH9Pg?si=W9J9NAfpDppNh_tE
 
 Helps with [[Wrangling]] your [[File System]]
 

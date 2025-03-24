@@ -7,6 +7,5 @@ image: https://www.oracle.com/asset/web/favicons/favicon-120.png
 title: Responsys Campaign Management | Marketing | OracleMenu
 favicon: https://www.oracle.com/asset/web/favicons/favicon-192.png
 og_fetched_url: https://www.oracle.com/cx/marketing/campaign-management/
-og_screenshot: A [[Marketing Automation]] system owned and maintained by [[Oracle]].
 ---
 A [[Marketing Automation]] system owned and maintained by [[Oracle]].

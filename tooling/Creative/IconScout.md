@@ -10,7 +10,6 @@ jina_last_request: 2025-03-09T06:45:20.075Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T05:59:29.876Z
 url: https://iconscout.com/
-og_screenshot: An example of [[Digital Asset Libraries]].  Creator of [[Lottie Files]]
 
 
 ## IconScout as a Content Marketplace

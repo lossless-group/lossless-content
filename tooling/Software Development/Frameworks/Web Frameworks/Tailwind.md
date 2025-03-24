@@ -9,7 +9,6 @@ favicon: https://tailwindcss.com/favicon.ico
 jina_last_request: 2025-03-09T06:45:06.285Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T06:28:31.348Z
-og_screenshot: A [[Web Frameworks|Web Framework]] for managing [[CSS]]. It's [[Opinionated]] about [[Inline Styles]]
 
 
 [[Theo-t3.gg]] has good [[YouTube]] coverage of [[Tailwind]] v.4 at [this link](https://youtu.be/q55u3_Nj3Lw?si=vx5lFyilExipbhTe).

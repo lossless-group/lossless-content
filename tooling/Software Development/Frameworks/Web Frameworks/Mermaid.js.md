@@ -11,7 +11,6 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:15.272Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-24T06:28:30.587Z
-og_screenshot: [[Visual Software Development]], [[Data Standard]]
 ![[Screenshot 2025-02-24 at 7.38.00 PM_Mermaid-js--Hero.png]]
 
 ---

@@ -8,7 +8,6 @@ zinger: Leave it to Manus
 og_errors: true
 og_last_error: 2025-03-24T06:28:17.854Z
 og_error_message: Client error:400
-og_screenshot: [[Tooling/AI-Toolkit/Explainers/Artificial General Intelligence|AGI]]
 
 https://youtu.be/cyT_ZxF-3h0?si=I3uzfZ1wsO0K6763
 
