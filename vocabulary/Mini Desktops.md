@@ -3,7 +3,7 @@ url:
 aliases:
   - Mini-PCs
 ---
-[[Tooling/Hardware/Minisforum]], [[GMKTek]], [[Organizations/MSI]]
+[[Tooling/Hardware/Minisforum]], [[Organizations/GMKTek]], [[Organizations/MSI]]
 
 https://youtu.be/KGYsVz_8DYI?si=c0DffFRh1NI0uI1F
 
