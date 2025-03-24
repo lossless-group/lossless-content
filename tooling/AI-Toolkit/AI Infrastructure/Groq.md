@@ -1,25 +1,16 @@
 ---
-site_uuid: e993e701-04ad-48cb-bc59-01a00a43bfbd
+site_uuid: 4a38d31f-a278-4658-b704-91b6e27e68d3
 zinger: Groq is Fast AI Inference
 url: https://groq.com/
-tags:
-- AI-Toolkit
-- AI-Infrastructure
+tags: 
 image: https://groq.com/wp-content/uploads/2023/03/og-image-groq.jpg
 site_name: Groq
 title: Groq is Fast AI Inference
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/7a536c4a7b6faf0c9b52cba239432629c3758985c167add98ce1b1c770c73e86.jpeg
-jina_last_request: '2025-03-09T06:45:17.383Z'
-jina_error: 'Error occurred'
-og_last_fetch: '2025-03-07T05:20:56.412Z'
-site_uuid: 62c0cfce-308d-45fb-92fb-94e4159b0177
-site_uuid: 8a73ae4f-924b-4bb4-8923-cdf77aaa9778
-site_uuid: c4f86cc2-45b6-485b-9359-0de813aef695
-site_uuid: c3a22143-6d85-4f1a-a8ef-5e2dc45ffdf6
-site_uuid: 5f8ca866-c0e5-4583-b61f-28c0cd22239f
-site_uuid: 4f4e27a4-84f3-41ae-96f3-e399fee84c05
-site_uuid: 4b606f60-c29b-494c-97a6-fe1a7810de25
-site_uuid: 4a38d31f-a278-4658-b704-91b6e27e68d3
+jina_last_request: 2025-03-09T06:45:17.383Z
+jina_error: Error occurred
+og_last_fetch: 2025-03-24T05:13:38.517Z
+og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/7a536c4a7b6faf0c9b52cba239432629c3758985c167add98ce1b1c770c73e86.jpeg
 ---
 
 [https://chat.groq.com](https://chat.groq.com/)
