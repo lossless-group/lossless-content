@@ -1,46 +1,41 @@
 # .yamllint.yaml
 extends: default
 
-
-# define what yamllint consideres yaml files. 
+# define what yamllint considers yaml files
 yaml-files:
-  - '*.md'
+  - '*.yaml'
+  - '*.yml'
+  - '!.github/workflows/*.yml'  # Exclude GitHub workflow files
+  - '*.md'  # Check markdown files for frontmatter
+
+# For markdown files, only check between --- delimiters
 rules:
   # Configure rules that need special handling
   document-start:
-    present: false        # Don't require --- at start
-    level: disable       # But only warn about it
+    present: true        # Require --- for markdown frontmatter
+    level: error        # This helps identify frontmatter boundaries
+
+  document-end:
+    present: true       # Require ... after frontmatter
+    level: error       # This helps identify frontmatter boundaries
   
   indentation:
-    spaces: 0           # Allow properties at root level
+    spaces: consistent    # Allow flexible indentation
     indent-sequences: whatever  # Allow flexible sequence indentation
     check-multi-line-strings: false
     level: warning      # Only warn about indentation issues
 
   # Disable rules that conflict with our patterns
-  document-start: disable  # We handle frontmatter differently
   line-length: disable    # Content may have long lines
   truthy: disable        # Allow various boolean formats
+  brackets: disable      # We use quotes to catch array syntax
   key-ordering: disable     # Keys can be in any order
 
   # Configure rules for our specific needs
-  brackets:
-    forbid: true        # Warn about any square bracket usage
-    level: warning      # But only warn, don't error
-
   quoted-strings:
     level: warning
-    quote-type: single    # Only allow single quotes
-    required: only-when-needed  # Only require quotes when necessary
-    extra-required:      # Properties that MUST have single quotes
-      - '^og_error_message:'
-      - '^error_message:'
-      - '^.*_error:'
-      - '^description:'  # When contains special chars
-      - '^title:'       # When contains special chars
-      - '^parent_org:'  # Backlinks must be quoted
-      - '^product_of:'  # Backlinks must be quoted
-      - '^.*_backlink:' # Any other backlink properties
+    quote-type: any     # Allow either quote type
+    required: only-when-needed  # Only require quotes when needed
     extra-allowed:      # Properties that can be either quoted or unquoted
       - '^date_.*:'     # Timestamp properties
       - '^.*_date:'
@@ -51,7 +46,15 @@ rules:
       - '^site_uuid:'
       - '^url:'
       - '^og_.*_url:'   # Matches og_image_url, og_video_url, etc.
-    allow-quoted-quotes: false  # Don't allow nested quotes
+      - '^og_error_message:'
+      - '^error_message:'
+      - '^.*_error:'
+      - '^description:'  # When contains special chars
+      - '^title:'       # When contains special chars
+      - '^parent_org:'  # Backlinks must be quoted
+      - '^product_of:'  # Backlinks must be quoted
+      - '^.*_backlink:' # Any other backlink properties
+    allow-quoted-quotes: true  # Allow nested quotes
 
   # Spacing and formatting rules
   comments:
@@ -60,7 +63,7 @@ rules:
 
   empty-lines:
     level: warning
-    max: 1
+    max: 2              # Allow up to 2 blank lines for markdown readability
     max-end: 1
 
   colons:

@@ -2,7 +2,7 @@
 site_uuid: 032efa58-39ff-4ab8-b51f-a0a407921b2c
 aliases:
 - VS Code
-parent_org: "[[Microsoft]]"
+parent_org: [[Microsoft]]
 site_uuid: 3130edbb-0914-4f56-a5a2-f9fe924bfef4
 site_uuid: 12d1db35-dec1-4638-a98e-f29eb7780d94
 site_uuid: 843332e9-acc6-4b9a-8c93-7eb1ec6e647a

@@ -7,16 +7,17 @@ youtube_url: https://youtube.com/@langchain
 tags:
   - AI-Toolkit
   - AI-Programming-Frameworks
-image: https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/65c69af1f3035ff97de2cc38_HomePage-metaImage.jpg
+image: 'https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/65c69af1f3035ff97de2cc38_HomePage-metaImage.jpg'
 site_name: LangChain
 title: LangChain
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/43e98c38a6c67f47395ec5af51c0b1f996afca78784e2679c009ea9c8be70153.jpeg
-jina_last_request: 2025-03-09T06:45:17.702Z
-jina_error: Error occurred
-og_last_fetch: 2025-03-07T05:20:56.177Z
+jina_last_request: '2025-03-09T06:45:17.702Z'
+jina_error: "Error occurred"
+og_last_fetch: '2025-03-07T05:20:56.177Z'
 docs_url: https://python.langchain.com/docs/introduction/
 date_created: 2025-03-09
 date_modified: 2025-03-20
+
 ---
 ![[visualFor__LangChain--Model.svg]]
 

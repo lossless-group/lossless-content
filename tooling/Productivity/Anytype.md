@@ -8,9 +8,9 @@ tags:
 - Productivity
 - Advanced-Documents
 - Networked-Notes
-og_screenshot_url: ""https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/eeae976a313a1447e01097dfadf63704853d6fc24ec3a2d3ef5aedebf5c94df1.jpeg""
+og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/eeae976a313a1447e01097dfadf63704853d6fc24ec3a2d3ef5aedebf5c94df1.jpeg
 jina_last_request: '2025-03-09T06:45:05.990Z'
-jina_error: 'Error occurred'
+jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:19:01.824Z'
 site_uuid: 1223abd4-835a-49e4-8be8-f6b132f7a1df
 site_uuid: f4d5612e-e92a-4e76-af9a-f7413a8fc72d
@@ -18,6 +18,7 @@ site_uuid: 87b712c2-3d0e-4695-9af0-e74be75dbf0f
 site_uuid: 604fca6f-10f4-43aa-bd25-ab1ecbdb2873
 site_uuid: 6157e65c-3bf9-4bb7-887e-07ff71778a35
 site_uuid: 19ac3a20-73a8-4430-bb26-3212b4c61d8d
+
 ---
 
 

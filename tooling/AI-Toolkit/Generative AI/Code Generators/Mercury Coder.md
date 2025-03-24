@@ -1,6 +1,6 @@
 ---
 url: https://chat.inceptionlabs.ai/auth
-parent_org: "[[InceptionLabs]]"
+parent_org: [[InceptionLabs]]
 ---
 
 ![](https://i.imgur.com/dwG53E5.png)

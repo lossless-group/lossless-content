@@ -1,16 +1,16 @@
 ---
 site_uuid: e2155c1c-aff5-41f4-93b7-6b51e3e1561c
 url: https://www.ibm.com/watson
-parent_org: '[[IBM]]'
+parent_org: [[IBM]]
 tags:
 - AI-Toolkit
 - Models
-image: undefined: https://assets.ibm.com/is/image/ibm/ibm-8bar-logo-2560x2560?$original
+image: 'undefined: https://assets.ibm.com/is/image/ibm/ibm-8bar-logo-2560x2560?$original'
 og_errors: true
-og_last_error: 2025-03-17T09:17:14.241Z
-og_error_message: HTTP error! status: 401
+og_last_error: '2025-03-17T09:17:14.241Z'
+og_error_message: "HTTP error! status: 401"
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/2b6c490b5bf12de55c4caf7167234c13df7722b1463cab9a930a01d12c5ac939.jpeg
-og_last_fetch: 2025-03-17T09:19:43.945Z
+og_last_fetch: '2025-03-17T09:19:43.945Z'
 og_fetched_url: https://www.ibm.com/watson
 site_uuid: f4eb1596-6a26-4ad3-8c6e-d3d8d95566a9
 site_uuid: 2b14668c-2fd4-41c9-b723-cc10050f5ab9

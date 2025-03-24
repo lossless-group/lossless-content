@@ -6,12 +6,12 @@ tags:
 - Data-Utilities
 - Check-it-Out
 - Visual-Engineering
-og_errors: 'true'
+og_errors: true
 og_last_error: '2025-03-08T20:39:43.501Z'
-og_error_message: 'HTTP error 401'
+og_error_message: "HTTP error 401"
 jina_last_request: '2025-03-09T06:45:17.495Z'
-jina_error: 'Error occurred'
-image: https://nodered.org/images/nr-image-1.png
+jina_error: "Error occurred"
+image: 'https://nodered.org/images/nr-image-1.png'
 site_name: Low
 title: 'Low-code programming for event-driven applications : Node-RED'
 og_fetched_url: https://nodered.org
@@ -24,6 +24,7 @@ site_uuid: 9d374604-81c1-416c-879a-b4ee28679ed6
 site_uuid: 4bcf7957-6948-4190-8052-81f6ad26869c
 site_uuid: 13e5aea3-870d-4ea5-8ff2-0a3156b1d8e3
 site_uuid: ce00ddfc-7947-4241-8258-ee10e92c2806
+
 ---
 
 https://youtu.be/J_ciNKXosiY?si=cdUD_JfhGlKtPM-E

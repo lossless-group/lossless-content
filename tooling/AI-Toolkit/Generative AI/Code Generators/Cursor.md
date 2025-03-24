@@ -6,15 +6,15 @@ tags:
 - Generative-AI
 - Code-Generators
 - gen-ai--code
-image: https://www.cursor.com/en/opengraph-image.png?7a8fd201c972abca
+image: 'https://www.cursor.com/en/opengraph-image.png?7a8fd201c972abca'
 site_name: Cursor
 title: Cursor - The AI Code Editor
-favicon: https://www.cursor.com/favicon-48x48.png
-og_errors: 'true'
+favicon: 'https://www.cursor.com/favicon-48x48.png'
+og_errors: true
 og_last_error: '2025-03-07T05:38:03.914Z'
-og_error_message: 'Error occurred'
+og_error_message: "Error occurred"
 jina_last_request: '2025-03-09T06:45:14.581Z'
-jina_error: 'Error occurred'
+jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:20:56.438Z'
 site_uuid: 2379be62-99d7-4dbc-89d1-e74f96726f3a
 site_uuid: dbe9d7a3-a8a0-41c4-9d43-926f8d916940
@@ -24,6 +24,7 @@ site_uuid: ca7b1b94-0f48-4535-a44a-19f3343ed177
 site_uuid: b5d8a848-dcab-4a67-ab95-1b86caafa95a
 site_uuid: bc8347b6-5ed6-4b51-8d7b-979225144ada
 site_uuid: 8c225442-0085-4892-8d67-eb0650c8f63d
+
 ---
 
 https://youtu.be/mxX1TYrhPFo?si=8CkQuOXx0X0Tvu0q

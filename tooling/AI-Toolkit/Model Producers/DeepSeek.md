@@ -4,12 +4,12 @@ url: https://www.deepseek.com/
 tags:
 - AI-Toolkit
 - Model-Producers
-image: https://chat.deepseek.com/deepseek-chat.jpeg
+image: 'https://chat.deepseek.com/deepseek-chat.jpeg'
 site_name: DeepSeek
 title: DeepSeek
-favicon: https://www.deepseek.com/favicon.ico
+favicon: 'https://www.deepseek.com/favicon.ico'
 jina_last_request: '2025-03-09T06:45:08.080Z'
-jina_error: 'Error occurred'
+jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:19:18.720Z'
 site_uuid: 38d77397-e621-46ae-8531-e08965750e37
 site_uuid: d5aa266b-9d7d-4b42-b57d-6d37f1e88376
@@ -19,6 +19,7 @@ site_uuid: dced0335-b937-49a3-9b92-8a532990cfa8
 site_uuid: 5c08f7ef-a6b2-4512-be9b-393112659809
 site_uuid: eda60c7c-b30f-47d0-9501-b1d109a9edd8
 site_uuid: 3fb14133-fabe-4983-8124-bebdc5b668db
+
 ---
 https://youtu.be/48GRiu-TMmg?si=pHoh4c7zcwk69AAC
 

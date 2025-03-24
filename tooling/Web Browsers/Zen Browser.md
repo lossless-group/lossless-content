@@ -1,6 +1,6 @@
 ---
 site_uuid: 599bd19e-2292-4175-8037-887d64efd9c8
-url: ""'https://zen-browser.app/'""
+url: https://zen-browser.app/
 aliases:
 - Zen
 image: ""'https://zen-browser.app/share-pic.png'""
@@ -9,9 +9,9 @@ title: Zen Browser
 favicon: ""'https://zen-browser.app/favicon.svg'""
 tags:
 - Web-Browsers
-og_screenshot_url: ""https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/20bbce1a48869323374bd13c1659cb6b7875e041f78bbb477eaca42dd04844a6.jpeg""
+og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/20bbce1a48869323374bd13c1659cb6b7875e041f78bbb477eaca42dd04844a6.jpeg
 jina_last_request: '2025-03-09T06:45:01.685Z'
-jina_error: 'Error occurred'
+jina_error: "Error occurred"
 og_last_fetch: '2025-03-14T05:42:21.374Z'
 site_uuid: 27b14d0c-ca51-441e-852b-dcf1494fd312
 site_uuid: 93d16d5c-49e7-4ee1-acf0-1f0a5fcdf2e6
@@ -21,6 +21,7 @@ site_uuid: f97bd0f8-6661-48c1-a1df-36f7f64dcf11
 site_uuid: 92c4f40c-f896-48a3-b7dc-1399874fe49a
 site_uuid: 8f5d9746-2c32-48f7-a658-4f4c6ea5cc16
 site_uuid: aae993e4-a186-4b54-9ed3-ef941941a4e8
+
 ---
 
 2025, Feb 02. [Zen Browser Is Beautifully Designed And Feature Rich](https://youtu.be/SCMmzbxUqpo?si=F4DYkAry2dXzHVnQ) DistroTube, [[YouTube]]. 

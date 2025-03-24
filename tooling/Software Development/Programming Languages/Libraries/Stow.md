@@ -5,7 +5,7 @@ date_modified: 2025-03-24
 site_name: Stow
 title: Stow
 og_fetched_url: https://www.gnu.org/software/stow/manual/stow.html
-og_last_fetch: 2025-03-24T06:28:25.293Z
+og_last_fetch: '2025-03-24T06:28:25.293Z'
 og_screenshot: 
 > [!LLM Response] [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Poe AI|Poe AI]] describes [[Tooling/Software Development/Programming Languages/Libraries/Stow]]
 > ### What is GNU Stow?

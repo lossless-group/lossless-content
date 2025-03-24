@@ -2,7 +2,7 @@
 site_uuid: 899f0f78-5761-43ef-8da8-1cdd5488a0ae
 url: https://obsidian.md/
 site_name: Obsidian
-og_last_fetch: 2025-03-17T05:14:27.000Z
+og_last_fetch: '2025-03-17T05:14:27.000Z'
 youtube_url: https://www.youtube.com/@ObsidianOfficial
 github_profile_url: https://github.com/obsidianmd
 docs_url: https://docs.obsidian.md/

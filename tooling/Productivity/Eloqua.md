@@ -2,7 +2,7 @@
 site_uuid: 2547def5-fc19-49e2-9c17-e1651c8b6fb5
 url: https://www.oracle.com/cx/marketing/campaign-management/
 site_name: Oracle Eloqua
-og_last_fetch: 2025-03-17T05:14:27.000Z
+og_last_fetch: '2025-03-17T05:14:27.000Z'
 site_uuid: 9d230e54-355b-47df-918a-e346b023bbd6
 site_uuid: 6079a0f8-1434-4be3-bac0-8b44d3a06aa9
 site_uuid: 0a489bde-c8d9-4d2f-b607-230f6d46668e

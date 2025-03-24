@@ -2,7 +2,7 @@
 site_uuid: 09c2a7cc-7cd0-4e66-9a50-3f80e16a64ef
 aliases:
 - Microsoft Teams
-parent_org: "[[Microsoft]]"
+parent_org: [[Microsoft]]
 site_uuid: c0f6adc9-b0c9-4b94-8bfc-91dc6ca599ed
 site_uuid: f3413ef7-5e13-483f-a028-1a7e18ec1f57
 site_uuid: 4dc1c5d2-db6a-46f1-9524-4ae1664c50a8

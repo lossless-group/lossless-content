@@ -1,5 +1,5 @@
 ---
-created_by: "[[ElevenLabs]]"
+created_by: [[ElevenLabs]]
 tags:
   - AI-Models
   - Speech-to-Text

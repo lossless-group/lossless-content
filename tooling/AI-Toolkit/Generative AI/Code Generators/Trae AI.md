@@ -6,13 +6,13 @@ tags:
 - AI-Toolkit
 - Generative-AI
 - Code-Generators
-image: https://lf-cdn.trae.ai/obj/trae-ai-us/og.jpeg
+image: 'https://lf-cdn.trae.ai/obj/trae-ai-us/og.jpeg'
 site_name: Trae
 title: Ship Faster with Trae
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/6b34f9e65ca9d66ebb883d04c7169192623329b90460fdb514571a4245d82d8a.jpeg
 jina_last_request: '2025-03-09T06:45:22.047Z'
-jina_error: 'Error occurred'
-parent_org: '[[ByteDance]]'
+jina_error: "Error occurred"
+parent_org: [[ByteDance]]
 og_last_fetch: '2025-03-07T05:20:56.434Z'
 site_uuid: 21f0997b-d940-4138-8aa6-9a78bc1186da
 site_uuid: dbadf91b-e154-4803-a5d0-b9778b75eaa9
@@ -22,6 +22,7 @@ site_uuid: 33f7618b-33bd-45e3-b476-b23035a1ee8d
 site_uuid: e032cd29-cabf-4931-9b2b-7f9bf16ac7f4
 site_uuid: 57c63db8-6457-4a9c-aa8c-4789a126f105
 site_uuid: be82121f-6789-4cf0-b4e7-60bd4aec9fad
+
 ---
 ##### [[Trae AI]] is an  [[AI Native Applications|AI Native]] [[Text Editors or IDEs|IDE]] [[Code Generators]]
 Similar to [[Cursor]], [[Windsurf IDE]].

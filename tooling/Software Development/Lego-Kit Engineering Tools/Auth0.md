@@ -1,19 +1,19 @@
 ---
 site_uuid: d26c960b-c198-4676-b031-46af9709fd57
 url: https://auth0.com/
-zinger: 'Secure access for everyone, but not just anyone.'
+zinger: Secure access for everyone, but not just anyone.
 description: Auth0 is an easy to implement, adaptable authentication and authorization platform.
 site_name: Auth0
-title: 'Secure access for everyone, but not just anyone.'
+title: Secure access for everyone, but not just anyone.
 tags:
 - Software-Development
 - Lego-Kit-Engineering-Tools
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/51017da681cdf1133998fabba2e8b6100f39ed3ee6d13446c7f78d592b067b89.jpeg
-og_errors: 'true'
+og_errors: true
 og_last_error: '2025-03-07T10:19:45.079Z'
-og_error_message: 'HTTP error 401'
+og_error_message: "HTTP error 401"
 jina_last_request: '2025-03-09T06:45:16.349Z'
-jina_error: 'Error occurred'
+jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T06:11:14.922Z'
 site_uuid: 6a3c3951-ffd4-469d-8aca-401216cdb0de
 site_uuid: 6c9c2c78-5b84-449f-8630-3c330ffcea7d
@@ -23,6 +23,7 @@ site_uuid: eb52c9ae-dfe5-4eb9-bba1-c19ba2ba28c6
 site_uuid: e4b99e33-5419-45c9-9d66-213d88109291
 site_uuid: cd4cc8a1-1c3e-4b99-bff1-a711aa409785
 site_uuid: afb403d7-069f-4578-8ea4-9c4e97950277
+
 ---
 
 An example of [[Lego-Kit Engineering]]. 

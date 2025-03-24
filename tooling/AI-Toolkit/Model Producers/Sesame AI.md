@@ -7,12 +7,12 @@ tags:
 - AI-Models
 - Model-Producers
 - Check-it-Out
-og_errors: 'true'
+og_errors: true
 og_last_error: '2025-03-08T20:39:44.196Z'
-og_error_message: 'HTTP error 401'
+og_error_message: "HTTP error 401"
 jina_last_request: '2025-03-09T06:45:16.781Z'
-jina_error: 'Error occurred'
-image: https://www.ai-sesame.com/logo.png
+jina_error: "Error occurred"
+image: 'https://www.ai-sesame.com/logo.png'
 site_name: Sesame AI
 title: Sesame AI - AI Voice Model for Natural and Expressive Speech
 og_fetched_url: https://www.ai-sesame.com
@@ -25,6 +25,7 @@ site_uuid: d791a350-ecd6-4a27-9fe1-a8cc83f84c6c
 site_uuid: b6ea48ea-2b8d-4210-a8a3-0f66211ff5b0
 site_uuid: ff38449b-21ae-43ef-a079-71835404e041
 site_uuid: d9a7c7a0-01e7-4ed2-983a-8968b7518b3d
+
 ---
 https://www.youtube.com/live/PD76HCowEvI?si=
 

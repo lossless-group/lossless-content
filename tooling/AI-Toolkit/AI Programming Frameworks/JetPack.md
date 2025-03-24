@@ -1,6 +1,6 @@
 ---
 site_uuid: d2d9fa18-a864-421c-bed2-e476c650d885
-parent_org: "[[Nvidia]]"
+parent_org: [[Nvidia]]
 site_uuid: d6a3b9c2-5324-44df-b77e-077ce8723b2d
 site_uuid: e65084da-2081-4936-9623-36b300c66944
 site_uuid: 8e853415-dfca-4721-9e90-a657eb7f2032

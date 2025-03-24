@@ -1,5 +1,5 @@
 ---
-parent_org: "[[Apple]]"
+parent_org: [[Apple]]
 tags:
   - Hardware
 url: https://www.apple.com/mac-studio/

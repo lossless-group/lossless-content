@@ -1,5 +1,5 @@
 ---
-parent_org: "[[Microsoft Research]]"
+parent_org: [[Microsoft Research]]
 aliases:
   - MAI
 date_created: 2025-03-09

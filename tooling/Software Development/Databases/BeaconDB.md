@@ -7,5 +7,5 @@ tags:
   - Open-Source
   - Databases
   - Check-it-Out
-laeral_rec: "true"
+laeral_rec: true
 ---
