@@ -21,7 +21,7 @@ site_uuid: f3f4a275-ddef-4018-bbfc-5cad1a65ded1
 ---
 [[Realtime Collaboration]]
 
-##### [[Tooling/Creative/Figma]] does [[Release Notes]] on [[YouTube]]
+##### [[Tooling/Creative/Figma]] does [[Concepts/Release Notes]] on [[YouTube]]
 <iframe 
 style="aspect-ratio:16/9;width:100%;height:auto" 
 src="https://www.youtube.com/embed/LuUuzCVaLLk?controls=0" 
