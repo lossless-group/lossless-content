@@ -36,6 +36,21 @@ modification date: Thursday 7th January 2021 17:20:43
 
 ```
 
+# Rules for AI Assistants:
+Be very sensitive with YAML.  
+Arrays are not:
+`tags: ["Git", "Submodules", "Branch-Management", "Development", "Configuration"]`
+
+Instead, arrays have no quotes, do not use brackets, and instead use an unordered list syntax with each object being a new line.
+```yaml
+tags: 
+- Git
+- Submodules
+- Branch-Management
+- Development 
+- Configuration
+```
+
 ## Case Handling
 
 

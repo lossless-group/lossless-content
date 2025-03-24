@@ -13,6 +13,8 @@ https://youtu.be/dvqh6zdCz3k?si=d-LNpEkX423-Ghk2
 
 https://youtu.be/1ZXK8pEjqyQ?si=1DlQMyV4GeS6KP-D
 
+https://youtu.be/wLLty2GoAuU?si=871XBAKTg45CI8ef
+
 https://youtu.be/OxUP51qk4lQ?si=R9LnHtnBdntvWlH-
 [[Humanoid Robots]]
 [[Nvidia]]
