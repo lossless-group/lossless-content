@@ -1,11 +1,15 @@
 # .yamllint.yaml
 extends: default
 
+
+# define what yamllint consideres yaml files. 
+yaml-files:
+  - '*.md'
 rules:
   # Configure rules that need special handling
   document-start:
     present: false        # Don't require --- at start
-    level: warning       # But only warn about it
+    level: disable       # But only warn about it
   
   indentation:
     spaces: 0           # Allow properties at root level
@@ -13,38 +17,41 @@ rules:
     check-multi-line-strings: false
     level: warning      # Only warn about indentation issues
 
+  # Disable rules that conflict with our patterns
+  document-start: disable  # We handle frontmatter differently
+  line-length: disable    # Content may have long lines
+  truthy: disable        # Allow various boolean formats
+  key-ordering: disable     # Keys can be in any order
+
+  # Configure rules for our specific needs
   brackets:
     forbid: true        # Warn about any square bracket usage
     level: warning      # But only warn, don't error
 
-  # Disable rules that conflict with our patterns
-  line-length: disable    # Content may have long lines
-  truthy: disable        # Allow various boolean formats
-
-  # Configure rules for our specific needs
-  quotes:
+  quoted-strings:
     level: warning
     quote-type: single    # Only allow single quotes
-    required: false       # Don't require all strings to be quoted
-    extra-required: 
+    required: only-when-needed  # Only require quotes when necessary
+    extra-required:      # Properties that MUST have single quotes
       - '^og_error_message:'
       - '^error_message:'
       - '^.*_error:'
-      - '^description:'
-      - '^title:'
+      - '^description:'  # When contains special chars
+      - '^title:'       # When contains special chars
+      - '^parent_org:'  # Backlinks must be quoted
+      - '^product_of:'  # Backlinks must be quoted
+      - '^.*_backlink:' # Any other backlink properties
     extra-allowed:      # Properties that can be either quoted or unquoted
       - '^date_.*:'     # Timestamp properties
       - '^.*_date:'
       - '^last_.*:'
       - '^created_at:'
       - '^datetime:'
-    allow-quoted-quotes: false  # Don't allow nested quotes
-    ignore-keys:        # Properties that should NEVER have quotes
       - '^uuid:'
       - '^site_uuid:'
       - '^url:'
       - '^og_.*_url:'   # Matches og_image_url, og_video_url, etc.
-      - '^tags:'        # Tags must be unordered list syntax, not quoted array
+    allow-quoted-quotes: false  # Don't allow nested quotes
 
   # Spacing and formatting rules
   comments:
@@ -56,16 +63,14 @@ rules:
     max: 1
     max-end: 1
 
+  colons:
+    level: warning
+    max-spaces-before: 0
+    max-spaces-after: 1
+
   # Basic file hygiene
   key-duplicates: disable    # Allow duplicates since we're handling AI-generated content
   new-line-at-end-of-file:  # POSIX standard, helps with text processing
     level: warning
   trailing-spaces:          # Remove unnecessary whitespace
     level: warning
-
-  # Array formatting - Disable for tags since they must use unordered list syntax
-  key-ordering: disable     # Keys can be in any order
-  colons:
-    level: warning
-    max-spaces-before: 0
-    max-spaces-after: 1
