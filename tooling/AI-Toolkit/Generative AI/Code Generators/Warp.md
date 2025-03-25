@@ -13,7 +13,7 @@ tags:
 - Code-Generators
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/8d73894f4f6f87fe2f4d245c0b83e68bcdcbf71a3e1522fd70aeebdc4c5e1a12.jpeg
 jina_last_request: '2025-03-09T06:45:14.839Z'
-jina_error: 'Error occurred'
+jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:20:56.434Z'
 title: "Warp: The intelligent terminal"
 favicon: https://www.warp.dev/favicon.png
@@ -22,13 +22,15 @@ tags:
   - Generative-AI
   - Code-Generators
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/8d73894f4f6f87fe2f4d245c0b83e68bcdcbf71a3e1522fd70aeebdc4c5e1a12.jpeg
-jina_last_request: 2025-03-09T06:45:14.839Z
-jina_error: Error occurred
-og_last_fetch: 2025-03-07T05:20:56.434Z
+jina_last_request: '2025-03-09T06:45:14.839Z'
+jina_error: "Error occurred"
+og_last_fetch: '2025-03-07T05:20:56.434Z'
 github_profile_url: https://github.com/warpdotdev
 date_created: 2025-03-21
-date_modified: 2025-03-22
+date_modified: 2025-03-24
 ---
+
+
 
 
 A [[Terminal Emulators]] that uses [[Code Generator]] for developers.

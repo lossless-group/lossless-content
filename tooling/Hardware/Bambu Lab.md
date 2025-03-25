@@ -6,7 +6,8 @@ tags:
 - Hardware
 - 3D-Printers
 date_created: 2025-03-20
-date_modified: 2025-03-20
+date_modified: 2025-03-24
 ---
+
 
 https://youtu.be/tN1aCia41DA?si=8QScF7LXh08RrYXR

@@ -12,9 +12,12 @@ tags:
   - Business-Intelligence
   - Data-Analytics
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/5fce38c3e9db087cf73da85460346e3d488b5f13481e7651a86933323d8cedc9.jpeg
-jina_last_request: 2025-03-09T06:45:20.002Z
-jina_error: Error occurred
-og_last_fetch: 2025-03-07T05:19:01.833Z
+jina_last_request: '2025-03-09T06:45:20.002Z'
+jina_error: "Error occurred"
+og_last_fetch: '2025-03-07T05:19:01.833Z'
+date_modified: 2025-03-24
 ---
+
+
 A tool for [[Business Intelligence]]
 

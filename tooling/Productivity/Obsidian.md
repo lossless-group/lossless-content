@@ -2,11 +2,14 @@
 site_uuid: 899f0f78-5761-43ef-8da8-1cdd5488a0ae
 url: https://obsidian.md/
 site_name: Obsidian
-og_last_fetch: 2025-03-17T05:14:27.000Z
-youtube_url: https://www.youtube.com/@ObsidianOfficial
+og_last_fetch: '2025-03-17T05:14:27.000Z'
+youtube_channel_url: https://www.youtube.com/@ObsidianOfficial
 github_profile_url: https://github.com/obsidianmd
 docs_url: https://docs.obsidian.md/
+date_modified: 2025-03-24
 ---
+
+
 [[Markdown Editor]]
 
 https://youtu.be/37aJiD0ey-8?si=ZzdTMlFH5le8w1Rt
@@ -36,7 +39,7 @@ https://youtu.be/-J1v65yZdcQ?si=FvyUPylHF-ercOp_
 ### Obsidian using Properties in [[Vocabulary/Markup]]
 ![[Screenshot 2025-01-31 at 1.14.17 PM_Obsidian--Properties.png]]
 ### Obsidian maintains [[Release Notes]].
-Here's a screenshot of [[Release Notes]] from [[Obsidian.md]]. 
+Here's a screenshot of [[Release Notes]] from [[Obsidian.md]].
 ![[Screenshot 2025-02-02 at 1.07.07 PM_Obsidian--Release-Notes.png]]
 ![[Screenshot 2025-02-23 at 3.59.17 AM_Obsidian--Changelog.png]]
 ### Obsidian flipped pricing & monetization to publishing on the web

@@ -1,11 +1,10 @@
 ---
+site_uuid: 226e4fe8-64ab-4637-874a-e175430c6ca8
 github_repo_url: https://github.com/Gen-Verse/ReasonFlux
 date_created: 2025-03-05
-date_modified: 2025-03-21
+date_modified: 2025-03-24
 zinger: "ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates"
 tags:
   - AI-Behavior
   - AI-Models
 ---
-
-https://youtu.be/EK96uN4Xt1o?si=IYP9D7S57KkQuVeh

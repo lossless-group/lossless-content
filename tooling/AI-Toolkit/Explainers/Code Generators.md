@@ -6,10 +6,13 @@ aliases:
   - Coding Assistant
   - Code Generator
 site_uuid: 691a7615-2aa5-4a1b-9ad9-519a48dac670
+date_modified: 2025-03-24
 ---
+
+
 ##### Examples:
 - [[Text Editors or IDEs|IDEs]] include [[Cursor]], [[Windsurf IDE]], [[Trae AI]], [[Bloop.ai]], [[Zed]], [[Pear IDE]], [[CodeLLM]]
-	- [[Melty]] is just a [[Text Editors or IDEs|Text Editor]], but has strong reviews. 
+	- [[Melty]] is just a [[Text Editors or IDEs|Text Editor]], but has strong reviews.
 - [[Terminal Emulators|Terminal Emulators]] include [[Warp]] and [[Aider]]
 - [[Opsless Deployment Providers]] include [[Tooling/Software Development/Cloud Infrastructure/Bolt.new]], [[v0]], [[Lovable]], [[Replit]], [[Hostinger]] and [[ScrBook]]
 - [[Plug-ins,  Add-ons,  Extensions|Plug-ins]] to other Text Editors include [[Aider]], [[Databutton]], [[Claude#Cline|Cline]], [[Devin]], [[supermaven]], [[Augment Code]], [[Continue AI]], [[AppMap]] who embed into [[Text Editors or IDEs]], such as [[JetBrains]] but especially [[Visual Studio Code|VS Code]].
@@ -24,7 +27,7 @@ There is a blurry line between [[Code Generator|Code Generation]] and using an [
 ---
 ## Problems with Code Generators:
 
-They don't have a long term memory, they don't even have a short term working memory. [[Pear IDE]] is trying to fix that with their "[memory integration](https://trypear.ai/docs/integrations/memory)" and [[Mem0]] seems to be a technology company trying to figure it out. But, thus far, code generators are frustratingly oblivious to what they just did, and are prone to rewrite over it. 
+They don't have a long term memory, they don't even have a short term working memory. [[Pear IDE]] is trying to fix that with their "[memory integration](https: '//trypear.ai/docs/integrations/memory)" and [[Mem0]] seems to be a technology company trying to figure it out. But, thus far, code generators are frustratingly oblivious to what they just did, and are prone to rewrite over it.
 
 ---
 ## [[Claude]] lists lauded [[Code Generator|Code Generators]]
@@ -166,19 +169,19 @@ https://youtu.be/fKtvRTFISq4?si=0QuLEn91P7j6_Cje
 
 ***
 ## Copilots for Software Engineers take off
-[[Bessemer Venture Partners]] count installs on [[Visual Studio Code|VS Code]], and by February 2024 there have been over 14 million installs of [[Code Generator]] [[AI Copilots]]. 
+[[Bessemer Venture Partners]] count installs on [[Visual Studio Code|VS Code]], and by February 2024 there have been over 14 million installs of [[Code Generator]] [[AI Copilots]].
 
-![[Pasted image 20250128132239.png]] [^1] 
+![[Pasted image 20250128132239.png]] [^1]
 
 
-Attempts at a fully featured [[Text Editors or IDEs|IDE]] include, [[Cursor]], [[AgentFarm]], [[Windsurf IDE]]. 
+Attempts at a fully featured [[Text Editors or IDEs|IDE]] include, [[Cursor]], [[AgentFarm]], [[Windsurf IDE]].
 
 ``` litegal
 [[Screenshot From 2025-02-19 07-00-02_Cursor--Hero.png]]
 [[Screenshot 2025-02-22 at 9.34.28 PM_Windsurf-IDE--Hero.png]]
 ```
 
-[[Warp]] is differentiated, as it is a [[Terminal Emulators|Terminal Emulator]] with built in [[AI Models|AI Models]] that can reason on the code you are writing in another application.  
+[[Warp]] is differentiated, as it is a [[Terminal Emulators|Terminal Emulator]] with built in [[AI Models|AI Models]] that can reason on the code you are writing in another application.
 
 [[CopyCoder]] is differentiated, as it works from Images to generate code. Grade for [[User Interface|UI]] Design. [[Rapid Prototyping Infrastructure]].
 
@@ -200,7 +203,7 @@ https://youtu.be/l-YbaSzDmhU?si=yTLceEj5oI8pWQH3
 
 2025, Oct 23. [GitHub Copilot Just Destroyed All AI Code Editor Startups](https://youtu.be/Byt6fZZBz_g?si=9J66m__VmRGSiXTs) Melkey, [[YouTube]].
 
-2024, Oct 14. [AI Will Improve Your Web Development Workflow](https://youtu.be/qpWxsQdCGTQ?si=dqlrHb3_hb3WRJc5) [[Syntax]], [[YouTube]]. 
+2024, Oct 14. [AI Will Improve Your Web Development Workflow](https://youtu.be/qpWxsQdCGTQ?si=dqlrHb3_hb3WRJc5) [[Syntax]], [[YouTube]].
 
 # Footnotes
 ***

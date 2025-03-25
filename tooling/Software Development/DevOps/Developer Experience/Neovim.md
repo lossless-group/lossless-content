@@ -1,6 +1,7 @@
 ---
+site_uuid: 4e9f39a8-7c54-4a37-a541-90f7735710d3
 date_created: 2025-03-08
-date_modified: 2025-03-21
+date_modified: 2025-03-24
 tags:
   - Text-Editors
   - Check-it-Out
@@ -8,7 +9,6 @@ tags:
 url: https://neovim.io/
 reddit_forum_url: https://www.reddit.com/r/neovim/
 ---
-
 https://youtu.be/6pAG3BHurdM?si=JC4khGXrUeQqBxZ-
 
 https://youtu.be/GKQ9rJ12hjc?si=Mvon7Rc49XxdEZjt

@@ -1,16 +1,13 @@
 ---
+site_uuid: 7a43f934-fdfc-453d-b17b-da7c8eba6dda
 aliases:
 - MCP
 tags:
 - Agentic-AI
-site_uuid: 7a43f934-fdfc-453d-b17b-da7c8eba6dda
-site_uuid: b56a3d72-cd3c-46ba-a11d-9737deca398a
-site_uuid: 8846a7ca-4743-407c-82c7-5b511d20d00f
-site_uuid: a4c21e81-d566-44f5-80f5-290a82398825
-site_uuid: 02cb8d44-7041-4948-b146-fee5090243d2
-site_uuid: b7a9fea0-38df-4d46-b00a-86058f3b00b0
-site_uuid: 33931e03-1206-472b-ac8d-eea2b2b9d586
+date_modified: 2025-03-24
 ---
+
+
 https://youtu.be/oAoigBWLZgE?si=8AF2ooyl_EMhe2sM
 
 https://youtu.be/g08kmknV5Sg?si=1VzgKs5TjxMeoWnY
@@ -39,7 +36,7 @@ https://youtu.be/5P4IJS9q_yg?si=2kp7Hm7cT7XrgkZ7
 [[Prompt Engineering]]
 [[RAG]]
 
-[[Anthropic]] released a [[Data Standard]] 
+[[Anthropic]] released a [[Data Standard]]
 
 https://youtu.be/GITdDHglRfg?si=jKEoyh6oVVGGX-x5
 
@@ -71,7 +68,7 @@ https://youtu.be/m46tZX6vceI?si=Xhuz94XNYIa1y3Xp
 [[Prompt Engineering]]
 [[RAG]]
 
-[[Anthropic]] released a [[Data Standard]] 
+[[Anthropic]] released a [[Data Standard]]
 
 https://youtu.be/GITdDHglRfg?si=jKEoyh6oVVGGX-x5
 

@@ -5,10 +5,11 @@ tags:
   - Data-Utilities
   - Data-Analytics
   - Code-Libraries
-description: TOTEM explores time series unification through discrete tokens (not patches!!). Its simple VQVAE backbone learns a self-supervised, discrete, codebook in either a generalist (multiple domains) or specialist (1 domain) manner. TOTEM's codebook can then be tested on in domain or zero shot data with many 🔥 time series tasks.
+description: 'TOTEM explores time series unification through discrete tokens (not patches!!). Its simple VQVAE backbone learns a self-supervised, discrete, codebook in either a generalist (multiple domains) or specialist (1 domain) manner. TOTEMs codebook can then be tested on in domain or zero shot data with many 🔥 time series tasks.'
 date_created: 2025-03-20
-date_modified: 2025-03-20
+date_modified: 2025-03-24
 ---
+
 [[Data Analysis]]
 
 [Read the white paper](https://openreview.net/pdf?id=jzIdR2TXlK)

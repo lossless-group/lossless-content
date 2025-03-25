@@ -11,15 +11,12 @@ site_name: Microsoft Loop
 title: A Collaborative Document App for Microsoft 365
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/e9d5855054048f1e4724f07e587368948a9ea7e4305876427ff65a5747ce2975.jpeg
 jina_last_request: '2025-03-09T06:45:02.569Z'
-jina_error: 'Error occurred'
+jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:19:01.821Z'
-site_uuid: 896c27b1-fb51-4549-b9ef-e1d5d09a8396
-site_uuid: 501406f7-60f8-49bb-9ae4-e8196e963801
-site_uuid: 7841b654-6d67-449a-b2ef-3b6623c8acde
-site_uuid: 7c3acf0c-2f57-4c92-8d7e-f25d6141f603
-site_uuid: bb04d9da-59b4-47f2-9f78-3a3378e447e6
-site_uuid: 4418911b-9853-49e3-a01d-6eeb1fd62b9d
+date_modified: 2025-03-24
 ---
+
+
 
 An [[Advanced Documents]] tool, part of [[Microsoft 365]]
 
