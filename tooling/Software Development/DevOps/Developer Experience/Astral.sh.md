@@ -1,20 +1,13 @@
 ---
-url: https://astral.sh/
+site_uuid: dfbe49df-8319-4536-aa88-7df616d4a6c2
+url: https://astral.sh
 zinger: Next-gen Python tooling
-tags: 
-image: https://astral.sh/static/OpenGraph/Astral.jpg
-site_name: Astral: Next
-title: Astral: Next-gen Python tooling
-favicon: https://astral.sh/static/favicon-32x32.png
-og_fetched_url: https://astral.sh
-og_last_fetch: 2025-03-24T06:28:30.877Z
-og_screenshot: [[Python]] tooling creator of [[uv]] and [[ruff]]
-
-#### [[GitHub]] repositories:
-[[uv]]
-
-#### [[GitHub]] repositories: 
+tags:
+  - Python-Ecosystem
+date_modified: 2025-03-24
 ---
+
+
 [[Python]] tooling creator of [[uv]] and [[ruff]]
 
 #### [[GitHub]] repositories:

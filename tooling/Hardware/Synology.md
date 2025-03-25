@@ -1,18 +1,13 @@
 ---
+site_uuid: 68c980eb-a8b7-4037-a0e7-94dc77c5a14c
 url: https://www.synology.com/
-tags: 
-image: https://fileres.synology.com/images/common/meta-tag-preview-image/img_synology.jpg
-site_name: Synology Inc.
-title: Synology Inc.
-favicon: https://fileres.synology.com/images/common/favicon/syno/icon-144x144.png
-og_fetched_url: https://www.synology.com/
-og_last_fetch: 2025-03-24T06:28:35.425Z
-og_screenshot: 
-https://youtu.be/2N8dcZaFJTg?si=cAu33FTMLY1jKJsO
-
-https://youtu.be/yYYr5jcE8XU?si=t3uvhDbZs9H8_DmR
-https: //youtu.be/yYYr5jcE8XU?si=t3uvhDbZs9H8_DmR
+tags:
+  - Hardware
+  - Network-Attached-Servers
+date_modified: 2025-03-24
 ---
+
+
 
 https://youtu.be/2N8dcZaFJTg?si=cAu33FTMLY1jKJsO
 

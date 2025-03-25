@@ -16,6 +16,8 @@ tags:
 - File-Management
 - Data-Tracking
 - UUID-Management
+date_created: 2025-03-23
+date_modified: 2025-03-24
 ---
 
 # Create a Content Registry for Markdown Files

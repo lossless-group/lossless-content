@@ -1,20 +1,16 @@
 ---
-site_uuid: c4dabeb1-2d72-46f6-82cc-f89bab7306ee
+site_uuid: b3d49173-b4d3-4552-b959-49a20ceec47c
 url: https://ai.azure.com/
-parent_org: [[Microsoft]]
+parent_org: '[[Microsoft]]'
 site_name: Azure AI Foundry
 title: Azure AI Foundry
 favicon: https://ai.azure.com/favicon2.ico
 og_fetched_url: https://ai.azure.com/
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/935713f09405db4ef84c80af81c06e5719410c09c160606da1320fa4b4d5f789.jpeg
-og_last_fetch: 2025-03-24T06:28:17.835Z
-og_screenshot: 
-https://youtu.be/GD7MnIwAxYM?si=7dlC9Bx_5fXcrdVx
-
-https: //youtu.be/GD7MnIwAxYM?si=7dlC9Bx_5fXcrdVx
-og_errors: true
-og_last_error: 2025-03-24T06:28:44.902Z
-og_error_message: Screenshot fetch error: HTTP error! status: 500
+og_last_fetch: '2025-03-14T05:42:28.803Z'
+date_modified: 2025-03-24
 ---
+
+
 
 https://youtu.be/GD7MnIwAxYM?si=7dlC9Bx_5fXcrdVx

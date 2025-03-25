@@ -1,27 +1,23 @@
 ---
-site_uuid: ebec3bf4-7f55-4d13-b1a7-372d7506f37c
+site_uuid: 060b3e48-0dd2-4aa3-99d0-a6ed8154c2f2
 url: https://podman.io/
-zinger: The best free & open source container tools
+zinger: 'The best free & open source container tools'
 description: Manage containers, pods, and images with Podman. Seamlessly work with containers and Kubernetes from your local environment.
 image: https://podman.io/logos/optimized/podman-3-logo-95w-90h.webp
 site_name: Podman
 title: Podman
 favicon: https://podman.io/favicon.ico
-tags: 
+tags:
+- Software-Development
+- Cloud-Infrastructure
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/255b9b3e474ff813ab119926b4055817b6e88a6a91b49d85ce261dedbfeaec36.jpeg
-jina_last_request: 2025-03-09T06:45:03.383Z
-jina_error: Error occurred
-og_last_fetch: 2025-03-24T06:28:23.787Z
-og_screenshot: [[Reproducible Builds]], [[Open Source]]
-
-[[Containers]]
-
-[[Docker]]
-
-##### Podman Hero
-![[Screenshot 2025-02-20 at 1.53.09 AM_Podman--Hero.png]]
-
+jina_last_request: '2025-03-09T06:45:03.383Z'
+jina_error: "Error occurred"
+og_last_fetch: '2025-03-07T05:19:02.928Z'
+date_modified: 2025-03-24
 ---
+
+
 [[Reproducible Builds]], [[Open Source]]
 
 [[Containers]]

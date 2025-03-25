@@ -10,12 +10,15 @@ tags:
   - Web-Frameworks
   - Python-Ecosystem
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/c889b62860c33a44dc8a7a9613e6234d218661b6a081ebcb9e51d4c04adabd23.jpeg
-jina_last_request: 2025-03-09T06:45:13.042Z
-jina_error: Error occurred
-og_last_fetch: 2025-03-07T05:20:56.426Z
+jina_last_request: '2025-03-09T06:45:13.042Z'
+jina_error: "Error occurred"
+og_last_fetch: '2025-03-07T05:20:56.426Z'
 github_repo_url: https://github.com/fastapi/fastapi
 github_profile_url: https://github.com/fastapi
+date_modified: 2025-03-24
 ---
+
+
 A light, stable [[Web Frameworks|Web Framework]] in [[Python]] designed to get developers up and running with an [[Application Programming Interface|API]].
 
 https://youtube.com/shorts/Z1XHeMgpg8A?si=7uQXcdKGVIqr1IT7

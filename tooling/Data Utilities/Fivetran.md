@@ -7,17 +7,17 @@ image: https://cdn.prod.website-files.com/6130fa1501794ed4d11867ba/6267492360c41
 site_name: Fivetran
 title: A data movement platform.
 favicon: https://cdn.prod.website-files.com/6130fa1501794ed4d11867ba/6157393b4dfeb61275ec8f97_color.png
-tags: 
+tags:
+  - Data-Utilities
+  - iPaaS
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/fc9525a0befd2e4bfd611b55b9bb545e68055b53fee17a8b811893cc3ee3dc8e.jpeg
-jina_last_request: 2025-03-09T06:44:59.235Z
-jina_error: Error occurred
-og_last_fetch: 2025-03-24T06:06:36.101Z
-og_screenshot: [[iPaaS]], [[Data Fluidics]]
-
-
-
-
+jina_last_request: '2025-03-09T06:44:59.235Z'
+jina_error: "Error occurred"
+og_last_fetch: '2025-03-07T05:19:01.834Z'
+date_modified: 2025-03-24
 ---
+
+
 [[iPaaS]], [[Data Fluidics]]
 
 
