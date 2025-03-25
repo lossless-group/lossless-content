@@ -7,9 +7,8 @@ tags:
   - Check-it-Out
   - Influencer-Favorite
 url: https://neovim.io/
-reddit_forum_url: https://www.reddit.com/r/neovim/---
-
-
+reddit_forum_url: https://www.reddit.com/r/neovim/
+---
 https://youtu.be/6pAG3BHurdM?si=JC4khGXrUeQqBxZ-
 
 https://youtu.be/GKQ9rJ12hjc?si=Mvon7Rc49XxdEZjt

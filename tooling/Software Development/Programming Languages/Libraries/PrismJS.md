@@ -6,6 +6,6 @@ tags:
   - Code-Libraries
 date_created: 2025-03-19
 date_modified: 2025-03-24
-description_site_cp: Prism is a lightweight, extensible syntax highlighter, built with modern web standards in mind. It’s used in millions of websites, including some of those you visit daily.---
-
+description_site_cp: Prism is a lightweight, extensible syntax highlighter, built with modern web standards in mind. It’s used in millions of websites, including some of those you visit daily.
+---
 Used by [[Obsidian]]

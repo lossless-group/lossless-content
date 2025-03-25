@@ -7,8 +7,8 @@ tags:
   - Document-Databases
 date_created: 2025-03-20
 date_modified: 2025-03-24
-url: https://supabase.com/---
-
+url: https://supabase.com/
+---
 Supabase is actually built on the [[Open Source]] [[Databases|Database]] [[Postgres]].
 
 https://youtu.be/cmF64GU5RZY?si=SD3aZn1Dx7qXSbHA

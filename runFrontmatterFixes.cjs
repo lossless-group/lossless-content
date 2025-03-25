@@ -2,49 +2,71 @@ const fs = require('fs').promises;
 const path = require('path');
 
 /**
- * Fix common frontmatter issues:
- * 1. Closing delimiter stuck to property lines
- * 2. Malformed tags format (converting to proper YAML list format)
- * Only fixes if there's a problem, won't modify correct files
+ * Fix frontmatter closing delimiter issues by:
+ * 1. Finding the opening delimiter
+ * 2. Finding where key-value pairs end
+ * 3. Adding closing delimiter on the next line
  */
 async function fixFrontmatterIssues(filePath) {
     try {
         const content = await fs.readFile(filePath, 'utf8');
         let modified = false;
         let modifications = [];
-        let newContent = content;
 
-        // Fix 1: Closing delimiter stuck to property line
-        const delimiterPattern = /^([^:\n]+:[^\n]+)---\n/m;
-        if (delimiterPattern.test(newContent)) {
-            newContent = newContent.replace(delimiterPattern, '$1\n---\n');
+        // Split into lines for analysis
+        const lines = content.split('\n');
+        
+        // Find opening delimiter
+        const openingIndex = lines.findIndex(line => line.trim() === '---');
+        if (openingIndex === -1) {
+            return {
+                success: true,
+                modified: false,
+                content,
+                file: filePath
+            };
+        }
+
+        // Pattern for frontmatter lines: key: value or key:\n  - list item
+        const frontmatterLinePattern = /^[^:\s]+:\s*.*$|^[\s-]+.*$/;
+        
+        let lastFrontmatterLine = -1;
+        
+        // Start looking from the line after the opening delimiter
+        for (let i = openingIndex + 1; i < lines.length; i++) {
+            const line = lines[i].trim();
+            
+            // Skip empty lines within frontmatter
+            if (line === '') continue;
+            
+            // If we find another delimiter, stop looking
+            if (line === '---') break;
+            
+            // If line matches frontmatter pattern, update last frontmatter line
+            if (frontmatterLinePattern.test(line)) {
+                lastFrontmatterLine = i;
+            } else {
+                // If we find a non-frontmatter line, stop looking
+                break;
+            }
+        }
+
+        // If we found frontmatter content
+        if (lastFrontmatterLine !== -1) {
+            // Remove any existing closing delimiter that might be stuck to content
+            const lastLine = lines[lastFrontmatterLine];
+            if (lastLine.endsWith('---')) {
+                lines[lastFrontmatterLine] = lastLine.replace(/---$/, '');
+            }
+            
+            // Insert closing delimiter on the next line
+            lines.splice(lastFrontmatterLine + 1, 0, '---');
             modified = true;
             modifications.push('Fixed closing delimiter placement');
         }
 
-        // Fix 2: Malformed tags format
-        // Look for tags: [- tag1 - tag2] pattern
-        const tagsPattern = /^tags:\s*\[(.*?)\]/m;
-        const tagsMatch = newContent.match(tagsPattern);
-        if (tagsMatch) {
-            // Extract tags by looking for "- " prefix
-            const tags = tagsMatch[1].match(/(?<=- )[^ -][^-]*/g) || [];
-            
-            // Filter out empty strings and trim whitespace
-            const validTags = tags
-                .map(tag => tag.trim())
-                .filter(tag => tag.length > 0);
-
-            if (validTags.length > 0) {
-                // Replace the old tags format with the proper YAML list format
-                const newTags = `tags:\n${validTags.map(tag => `  - ${tag}`).join('\n')}`;
-                newContent = newContent.replace(tagsPattern, newTags);
-                modified = true;
-                modifications.push('Fixed tags format');
-            }
-        }
-
         if (modified) {
+            const newContent = lines.join('\n');
             await fs.writeFile(filePath, newContent);
             return {
                 success: true,
@@ -58,7 +80,7 @@ async function fixFrontmatterIssues(filePath) {
         return {
             success: true,
             modified: false,
-            content: newContent,
+            content,
             file: filePath
         };
 
@@ -112,13 +134,11 @@ function formatReport(results) {
     
     // Count specific fixes
     const delimiterFixes = results.filter(r => r.modified && r.modifications.includes('Fixed closing delimiter placement')).length;
-    const tagsFixes = results.filter(r => r.modified && r.modifications.includes('Fixed tags format')).length;
     
     report += '## Summary\n';
     report += `- Total files processed: ${totalFiles}\n`;
     report += `- Files modified: ${modifiedFiles}\n`;
     report += `- Delimiter placement fixes: ${delimiterFixes}\n`;
-    report += `- Tags format fixes: ${tagsFixes}\n`;
     report += `- Files with errors: ${errorFiles}\n\n`;
 
     // Details section
@@ -152,7 +172,7 @@ function formatReport(results) {
 async function getNextReportIndex() {
     const reportsDir = path.join(__dirname, 'reports');
     const today = '2025-03-25';
-    const pattern = new RegExp(`${today}_frontmatter-fix-report_(\\d+)\\.md`);
+    const pattern = new RegExp(`${today}_frontmatter-fix-report_(\\d{2})\\.md`);
     
     try {
         const files = await fs.readdir(reportsDir);
@@ -166,10 +186,10 @@ async function getNextReportIndex() {
             }
         });
         
-        return maxIndex + 1;
+        return String(maxIndex + 1).padStart(2, '0');
     } catch (error) {
-        // If directory doesn't exist or other error, start with index 1
-        return 1;
+        // If directory doesn't exist or other error, start with index 01
+        return '01';
     }
 }
 

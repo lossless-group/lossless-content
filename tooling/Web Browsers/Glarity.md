@@ -8,7 +8,7 @@ tags:
   - Browser-Extensions
   - Open-Source
 zinger: 'Summarize & Translate Any Page'
-description_site_cp: Summarize YouTube videos and translate web pages using ChatGPT (Free and Ad-Free)---
-
+description_site_cp: Summarize YouTube videos and translate web pages using ChatGPT (Free and Ad-Free)
+---
 [[Vocabulary/Web Scraping|Web Scraping]]
 [[Vocabulary/Plug-ins,  Add-ons,  Extensions|Extensions]]

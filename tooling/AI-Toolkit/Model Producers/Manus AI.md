@@ -7,8 +7,8 @@ date_modified: 2025-03-24
 tags:
   - Agentic-Workspaces
   - AI-Models
-zinger: Leave it to Manus---
-
+zinger: Leave it to Manus
+---
 [[Tooling/AI-Toolkit/Explainers/Artificial General Intelligence|AGI]]
 
 https://youtu.be/cyT_ZxF-3h0?si=I3uzfZ1wsO0K6763

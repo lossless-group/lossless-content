@@ -6,7 +6,6 @@ tags:
   - JavaScript-Ecosystem
 date_created: 2025-03-10
 date_modified: 2025-03-24
-zinger: Learn once, write anywhere.---
-
-
+zinger: Learn once, write anywhere.
+---
 https://youtu.be/wVNPmxntwKQ?si=koxokIQRoBiJG6JQ

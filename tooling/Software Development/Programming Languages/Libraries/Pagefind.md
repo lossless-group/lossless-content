@@ -15,9 +15,8 @@ https: '//youtu.be/v79VRrfVau8?si=UOO_lc8K27lSk5f7'
 
 Good for [[Vocabulary/Static Site Generators]]
 
-https: '//youtu.be/v79VRrfVau8?si=UOO_lc8K27lSk5f7'---
-
-
+https: '//youtu.be/v79VRrfVau8?si=UOO_lc8K27lSk5f7'
+---
 https://youtu.be/v79VRrfVau8?si=UOO_lc8K27lSk5f7
 
 Good for [[Vocabulary/Static Site Generators]]
