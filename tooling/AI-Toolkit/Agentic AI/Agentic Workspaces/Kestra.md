@@ -15,8 +15,9 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: '2025-03-09T06:45:13.698Z'
 jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:20:56.443Z'
-
+date_modified: 2025-03-24
 ---
+
 [[Workflow Automations]], [[Open Source]].
 
 2024, Nov 05. [CANCEL Make.com, n8n & Zapier?!?🤖 FREE Kestra Coolify Self Hosted Open Source Workflow](https://youtu.be/z3EZ_UEBGNc?si=5LCivJV2VaMUyuXh) on [[YouTube]].

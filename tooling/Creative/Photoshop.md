@@ -1,4 +1,5 @@
 ---
+site_uuid: 01a39ba4-2c7f-4678-8c36-0c8d9f7253d2
 url: https://www.adobe.com/products/photoshop.html
 date_created: 2025-03-15
 date_modified: 2025-03-24
@@ -14,8 +15,8 @@ https: '//youtu.be/ZJdmZ10I4H4?si=c4v-yAZWEaxLKMvB'
 https: '//youtu.be/ZJdmZ10I4H4?si=c4v-yAZWEaxLKMvB'
 og_errors: true
 og_last_error: '2025-03-24T06:28:21.456Z'
-og_error_message: "Screenshot fetch error: HTTP error! status: 500"
----
+og_error_message: "Screenshot fetch error: HTTP error! status: 500"---
+
 
 
 https://youtu.be/ZJdmZ10I4H4?si=c4v-yAZWEaxLKMvB

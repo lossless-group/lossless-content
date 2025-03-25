@@ -4,7 +4,9 @@ url:
 github_repo_url: https://github.com/stackblitz-labs/bolt.diy
 tags: [- Open-Source]
 parent_org: "[[Tooling/AI-Toolkit/Generative AI/Code Generators/Bolt.new|Bolt.new]]"
+date_modified: 2025-03-24
 ---
+
 
 https://youtu.be/0MyLjtv8IoA?si=sq3l5FBorioo60jg
 

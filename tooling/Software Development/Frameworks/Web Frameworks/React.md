@@ -14,8 +14,9 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: '2025-03-09T06:45:12.860Z'
 jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:20:56.420Z'
-
+date_modified: 2025-03-24
 ---
+
 Created and maintained by [[Meta]]. It is the most popular, thus [[Market Standard]], for [[Front-End]] development.  It's essentially a [[JavaScript]] library that enables [[Component-Based Software Architecture]]. 
 
 https://youtu.be/Y12sGu8-qFE?si=rilEvj2P-hZGQMXG

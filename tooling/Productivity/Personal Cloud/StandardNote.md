@@ -1,4 +1,5 @@
 ---
+site_uuid: a397eaba-c837-48e5-8727-b298e94ae141
 url: https://standardnotes.com/
 date_created: 2025-03-21
 date_modified: 2025-03-24
@@ -10,7 +11,7 @@ og_fetched_url: https://standardnotes.com/
 og_last_fetch: '2025-03-24T06:28:24.346Z'
 og_screenshot: 
 https: '//youtu.be/NibB8Jy8TDE?si=fK0MEKfMZvVhzK6k'
-https: '//youtu.be/NibB8Jy8TDE?si=fK0MEKfMZvVhzK6k'
----
+https: '//youtu.be/NibB8Jy8TDE?si=fK0MEKfMZvVhzK6k'---
+
 
 https://youtu.be/NibB8Jy8TDE?si=fK0MEKfMZvVhzK6k

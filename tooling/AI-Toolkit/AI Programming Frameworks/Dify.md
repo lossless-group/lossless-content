@@ -13,8 +13,9 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: '2025-03-09T06:45:49.291Z'
 jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:20:56.179Z'
-
+date_modified: 2025-03-24
 ---
+
 2024, Nov 04. [How to Pick the Best AI Open-source Projects for Production Use](https://youtu.be/wVXojxS_hak?si=VRBRN-O_QjGR0rcA)
 
 https://youtu.be/Y5BuJjViloE?si=SWiCq1ULluvJaSYW

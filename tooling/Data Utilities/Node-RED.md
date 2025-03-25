@@ -16,7 +16,8 @@ site_name: Low
 title: 'Low-code programming for event-driven applications : Node-RED'
 og_fetched_url: https://nodered.org
 og_last_fetch: '2025-03-14T04:43:04.484Z'
-
+date_modified: 2025-03-24
 ---
+
 
 https://youtu.be/J_ciNKXosiY?si=cdUD_JfhGlKtPM-E

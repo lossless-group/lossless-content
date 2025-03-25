@@ -14,8 +14,9 @@ jina_last_request: '2025-03-09T06:45:22.047Z'
 jina_error: "Error occurred"
 parent_org: [[ByteDance]]
 og_last_fetch: '2025-03-07T05:20:56.434Z'
-
+date_modified: 2025-03-24
 ---
+
 ##### [[Trae AI]] is an  [[AI Native Applications|AI Native]] [[Text Editors or IDEs|IDE]] [[Code Generators]]
 Similar to [[Cursor]], [[Windsurf IDE]].
 ![Trae AI Hero](https://i.imgur.com/qJI4eV9.png)

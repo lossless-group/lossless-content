@@ -13,8 +13,9 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: '2025-03-09T06:45:03.855Z'
 jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:19:01.825Z'
-
+date_modified: 2025-03-24
 ---
+
 
 
 2023, Mar 26. [Google’s New TPU Turns Raspberry Pi into a Supercomputer!](https://youtube.com/shorts/VRk_itxLZQI?si=4O63wC2GJ0jMyJVM) Combined with a [[Coral Edge TPU]]

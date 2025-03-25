@@ -19,8 +19,9 @@ title: 'Freshworks: Uncomplicated Software | IT Service, Customer Service'
 favicon: https://www.freshworks.com/favicons/favicon-32x32.png
 og_fetched_url: https://www.freshworks.com
 og_last_fetch: '2025-03-14T04:42:56.518Z'
-
+date_modified: 2025-03-24
 ---
+
 [[All-in-One Platforms|All-in-One Platform]]
 
 

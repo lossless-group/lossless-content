@@ -11,6 +11,7 @@ title: 'Free AI Design Tool: Logos, T-Shirts, Social Media - Playground'
 jina_last_request: '2025-03-09T06:45:17.298Z'
 jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:19:19.172Z'
-
+date_modified: 2025-03-24
 ---
+
 [[Presentation Maker]] 

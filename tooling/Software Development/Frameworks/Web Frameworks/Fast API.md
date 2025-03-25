@@ -15,8 +15,9 @@ jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:20:56.426Z'
 github_repo_url: https://github.com/fastapi/fastapi
 github_profile_url: https://github.com/fastapi
-
+date_modified: 2025-03-24
 ---
+
 A light, stable [[Web Frameworks|Web Framework]] in [[Python]] designed to get developers up and running with an [[Application Programming Interface|API]].
 
 https://youtube.com/shorts/Z1XHeMgpg8A?si=7uQXcdKGVIqr1IT7

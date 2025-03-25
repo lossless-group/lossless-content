@@ -20,6 +20,7 @@ title: Data Agents - Numbers Station
 favicon: https://www.numbersstation.ai/wp-content/uploads/2024/08/cropped-logo-3-192x192.png
 og_fetched_url: https://www.numbersstation.ai
 og_last_fetch: '2025-03-14T04:43:22.811Z'
-
+date_modified: 2025-03-24
 ---
+
 [[Agentic AI]] for [[Structured Data]]

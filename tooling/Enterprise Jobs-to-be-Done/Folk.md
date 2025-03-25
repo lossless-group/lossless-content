@@ -16,7 +16,8 @@ title: folk, like the sales assistant your team never had
 favicon: https://cdn.prod.website-files.com/626be00c396339c5a816353b/627223f84c4e9cc1487b2714_favBlackPng.png
 og_fetched_url: https://www.folk.app/
 og_last_fetch: '2025-03-14T04:43:01.001Z'
-
+date_modified: 2025-03-24
 ---
+
 
 https://www.folk.app

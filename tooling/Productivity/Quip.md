@@ -18,8 +18,9 @@ title: Quip
 favicon: https://quip-cdn.com/WjThaaebHRnd1Ix5WjV2YQ
 og_fetched_url: https://quip.com
 og_last_fetch: '2025-03-14T04:41:55.367Z'
-
+date_modified: 2025-03-24
 ---
+
 
 
 One of the [[Advanced Documents]], with a specialty in [[Realtime Collaboration]] and [[Salesforce]] integration.  

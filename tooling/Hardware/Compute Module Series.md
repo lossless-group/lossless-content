@@ -1,4 +1,5 @@
 ---
+site_uuid: 7f29c983-a40d-4a2c-b499-d67a461c4924
 url: https://www.raspberrypi.com/products/compute-module-5/?variant=cm5-104032
 date_created: 2025-03-13
 date_modified: 2025-03-24
@@ -13,8 +14,8 @@ og_last_fetch: '2025-03-24T06:28:25.467Z'
 og_screenshot: 
 
 https: '//youtu.be/X4blR5Ua3S0?si=4TcdSKEsO4BSlMIo'
-https: '//youtu.be/X4blR5Ua3S0?si=4TcdSKEsO4BSlMIo'
----
+https: '//youtu.be/X4blR5Ua3S0?si=4TcdSKEsO4BSlMIo'---
+
 
 
 https://youtu.be/X4blR5Ua3S0?si=4TcdSKEsO4BSlMIo

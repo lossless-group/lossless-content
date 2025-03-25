@@ -1,4 +1,5 @@
 ---
+site_uuid: e29e647c-af93-4093-87c3-c367260c3cad
 url: https://deskpi.com/
 date_created: 2025-03-08
 date_modified: 2025-03-24
@@ -12,8 +13,8 @@ og_last_fetch: '2025-03-24T06:28:34.140Z'
 og_screenshot: '[[Raspberry Pi]] for [[Tooling/AI-Toolkit/Explainers/Home Labs|Home Labs]] and [[Tooling/AI-Toolkit/Explainers/Homelab Networks|Homelab Networks]]'
 
 https: '//youtu.be/wMD9myEfkMk?si=_3VDHoZz0I7T4gIo'
-https: '//youtu.be/wMD9myEfkMk?si=_3VDHoZz0I7T4gIo'
----
+https: '//youtu.be/wMD9myEfkMk?si=_3VDHoZz0I7T4gIo'---
+
 [[Raspberry Pi]] for [[Tooling/AI-Toolkit/Explainers/Home Labs|Home Labs]] and [[Tooling/AI-Toolkit/Explainers/Homelab Networks|Homelab Networks]]
 
 https://youtu.be/wMD9myEfkMk?si=_3VDHoZz0I7T4gIo

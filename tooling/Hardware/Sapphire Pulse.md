@@ -1,4 +1,5 @@
 ---
+site_uuid: 263f8acf-ade6-42de-9b5d-da99f17b78dc
 url: https://www.sapphiretech.com/en/pulse-explore
 product_of: '[[Organizations/AMD|AMD]]'
 tags: 
@@ -13,8 +14,8 @@ og_last_fetch: '2025-03-24T06:28:29.171Z'
 og_screenshot: 
 
 https: '//youtu.be/LhukXbchZbw?si=EN_DhtzNOXTteTcC'
-https: '//youtu.be/LhukXbchZbw?si=EN_DhtzNOXTteTcC'
----
+https: '//youtu.be/LhukXbchZbw?si=EN_DhtzNOXTteTcC'---
+
 
 
 https://youtu.be/LhukXbchZbw?si=EN_DhtzNOXTteTcC

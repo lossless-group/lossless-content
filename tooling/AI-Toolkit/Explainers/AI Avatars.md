@@ -2,7 +2,9 @@
 site_uuid: 441829c6-ee96-4b4c-b6e7-2f9803f8f7ac
 aliases:
 - AI Avatar
+date_modified: 2025-03-24
 ---
+
 
 [[Pickle AI]]
 [[HeyGen]]

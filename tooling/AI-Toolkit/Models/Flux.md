@@ -5,6 +5,8 @@ tags:
 - AI-Toolkit
 - Models
 site_visibility: public
+date_modified: 2025-03-24
 ---
+
 
 An [[AI Models|AI Model]] by [[Black Forest Labs]]

@@ -16,8 +16,9 @@ title: Google Maps
 favicon: https://www.google.com/images/branding/product/ico/maps15_bnuw3a_32dp.ico
 og_fetched_url: https://maps.google.com
 og_last_fetch: '2025-03-14T04:41:33.244Z'
-
+date_modified: 2025-03-24
 ---
+
 
 ### Google Maps API managing policies. 
 An email update from the Google Maps platform.

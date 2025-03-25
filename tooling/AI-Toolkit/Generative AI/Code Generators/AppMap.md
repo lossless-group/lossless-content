@@ -14,8 +14,9 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: '2025-03-09T06:45:06.824Z'
 jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:20:56.441Z'
-
+date_modified: 2025-03-24
 ---
+
 [[Visual Software Development]]
 
 2024, October 10. [Using GitHub Copilot LLM to Create Detailed Diagrams with AppMap Navie #coding #aicoding](https://youtube.com/shorts/jztXLSb2pl8?si=RNvZ-QPCrWKJXLT4). AppMap.

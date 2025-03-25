@@ -17,8 +17,9 @@ title: Arc from The Browser Company
 favicon: https://arc.net/favicon.png
 og_fetched_url: https://arc.net
 og_last_fetch: '2025-03-14T04:41:14.912Z'
-
+date_modified: 2025-03-24
 ---
+
 ##### [[Arc Browser|Arc]] is a [[State of the Art]][[Web Browser]]
 
 ![[Screenshot 2025-02-23 at 2.31.47 PM_Arc-Browser--Hero.png]]

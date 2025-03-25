@@ -14,7 +14,8 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: '2025-03-09T06:45:10.995Z'
 jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:19:02.903Z'
-
+date_modified: 2025-03-24
 ---
+
 [[(GDPR) General Data Protection Regulation]]
 

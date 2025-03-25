@@ -14,8 +14,9 @@ title: Unsloth AI - Open Source Fine-Tuning for LLMs
 favicon: https://unsloth.ai/cgi/image/unsloth_logo_no_shadow_KgfOV6keeBZnffQsKUny3.png?width=144&quality=100&height=144&fit=pad&format=auto
 og_fetched_url: https://unsloth.ai
 og_last_fetch: '2025-03-14T04:43:19.976Z'
-
+date_modified: 2025-03-24
 ---
+
 [[Fine Tuning]]
 
 https://youtu.be/Ucg1X_o1HDE?si=xlDabklore9Mnted

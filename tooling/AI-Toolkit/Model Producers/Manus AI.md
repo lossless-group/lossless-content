@@ -1,13 +1,14 @@
 ---
+site_uuid: d3acc327-4739-469e-a06a-e3bc115625d7
 url: https://manus.im/
 description_site_cp: 'Manus is a general AI agent that bridges minds and actions: it doesnt just think, it delivers results. Manus excels at various tasks in work and life, getting everything done while you rest.'
 date_created: 2025-03-09
-date_modified: 2025-03-21
+date_modified: 2025-03-24
 tags:
   - Agentic-Workspaces
   - AI-Models
-zinger: Leave it to Manus
----
+zinger: Leave it to Manus---
+
 [[Tooling/AI-Toolkit/Explainers/Artificial General Intelligence|AGI]]
 
 https://youtu.be/cyT_ZxF-3h0?si=I3uzfZ1wsO0K6763

@@ -1,4 +1,5 @@
 ---
+site_uuid: 6c9211e1-9c5f-433f-b7bd-61fd38ef648c
 github_profile_url: https://github.com/dokku
 github_repo_url: https://github.com/dokku/dokku
 date_created: 2025-03-09
@@ -14,8 +15,8 @@ og_last_fetch: '2025-03-24T06:28:43.037Z'
 og_screenshot: 'https://youtu.be/J8gPLpcgUOs?si=sPzXIp84fbiOsEGX'
 
 [[Vocabulary/Self-Hosting|Self-Host]]
-
 ---
+
 https://youtu.be/J8gPLpcgUOs?si=sPzXIp84fbiOsEGX
 
 [[Vocabulary/Self-Hosting|Self-Host]]

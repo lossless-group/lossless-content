@@ -16,6 +16,7 @@ title: 'Coolors - The super fast color palettes generator!'
 favicon: https://coolors.co/assets/img/favicon.png
 og_fetched_url: https://coolors.co/
 og_last_fetch: '2025-03-14T04:43:11.882Z'
-
+date_modified: 2025-03-24
 ---
+
 

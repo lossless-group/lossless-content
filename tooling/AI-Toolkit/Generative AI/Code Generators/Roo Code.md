@@ -4,7 +4,9 @@ github_repo_url: https://github.com/RooVetGit/Roo-Code
 tags:
 - Code-Generators
 - IDE-Plugins
+date_modified: 2025-03-24
 ---
+
 
 ##### [[Roo Code]] [[Visual Studio Code|VS Code]] [[Plug-ins,  Add-ons,  Extensions|Extension]] for [[Code Generator 1|Code Generation]]
 

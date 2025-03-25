@@ -27,9 +27,9 @@ jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:20:56.434Z'
 github_profile_url: https://github.com/warpdotdev
 date_created: 2025-03-21
-date_modified: 2025-03-22
-
+date_modified: 2025-03-24
 ---
+
 
 
 A [[Terminal Emulators]] that uses [[Code Generator]] for developers.

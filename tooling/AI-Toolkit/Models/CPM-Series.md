@@ -5,6 +5,8 @@ tags:
 - AI-Toolkit
 - Models
 site_visibility: public
+date_modified: 2025-03-24
 ---
+
 
 https://github.com/OpenBMB/MiniCPM-o

@@ -14,7 +14,8 @@ site_name: Ragic
 title: '#1 No Code database builder - Ragic'
 og_fetched_url: https://www.ragic.com/
 og_last_fetch: '2025-03-14T04:42:03.357Z'
-
+date_modified: 2025-03-24
 ---
+
 
 A [[Database Apps|Database App]]

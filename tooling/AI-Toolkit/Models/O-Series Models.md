@@ -2,7 +2,9 @@
 site_uuid: 1e9b70c1-62bb-4a4e-b97a-0904c39fcde7
 aliases:
 - o
+date_modified: 2025-03-24
 ---
+
 
 One of the well-known [[AI Models|Models]] by [[OpenAI]] using [[Chain of Thought]] techniques.  
 

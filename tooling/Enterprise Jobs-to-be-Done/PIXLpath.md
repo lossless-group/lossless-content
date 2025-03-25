@@ -14,7 +14,8 @@ site_name: PIXLPath
 title: 'PIXLPath: Digital asset management for Apple the ecosystem'
 og_fetched_url: https://www.pixlpath.com/
 og_last_fetch: '2025-03-14T04:42:08.258Z'
-
+date_modified: 2025-03-24
 ---
+
 
 [PIXL](https://apps.apple.com/us/app/pixlpath/id6445800950)

@@ -13,10 +13,10 @@ jina_last_request: '2025-03-09T06:44:58.332Z'
 jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:19:01.811Z'
 date_created: 2025-03-09
-date_modified: 2025-03-20
+date_modified: 2025-03-24
 docs_url: https://typicode.github.io/husky/get-started.html
-
 ---
+
 [[Husky]] is a [[Vocabulary/Packages and Libraries|Library]] that helps developers use [[Tooling/Products/Git#Git Hooks|Git Hooks]] to manage complex, [[Concepts/Continuous Integration and Continuous Deployment|Continuous Integration and Continuous Deployment]] workflows. 
 
 

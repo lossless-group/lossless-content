@@ -1,7 +1,8 @@
 ---
-
 site_uuid: 846d9d7a-8db8-4794-8e59-e8daab3b46c2
+date_modified: 2025-03-24
 ---
+
 An extension of [[JavaScript]]
 
 https://youtu.be/hr3OJA3QTO8?si=2gQ4kik11ukn4-XR

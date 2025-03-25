@@ -1,4 +1,5 @@
 ---
+site_uuid: dd5942a5-1d66-4d5f-b3b2-256e1f2051c6
 url: https://opnsense.org/
 date_created: 2025-03-09
 date_modified: 2025-03-24
@@ -14,8 +15,8 @@ og_last_fetch: '2025-03-24T06:28:30.271Z'
 og_screenshot: 
 [[Virtual Private Networks]]
 
-
 ---
+
 
 [[Virtual Private Networks]]
 

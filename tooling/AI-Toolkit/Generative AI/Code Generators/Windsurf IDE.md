@@ -18,8 +18,9 @@ og_last_fetch: '2025-03-07T05:20:56.434Z'
 docs_url: https://docs.codeium.com/windsurf/
 parent_org: [[Codeium]]
 reddit_forum_url: https://www.reddit.com/r/Codeium/
-
+date_modified: 2025-03-24
 ---
+
 
 
 [[Code Generators]] [[AI Native Applications|AI Native]] [[Text Editors or IDEs|IDE]]

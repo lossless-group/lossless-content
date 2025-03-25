@@ -1,4 +1,5 @@
 ---
+site_uuid: e2b8a2d2-81d6-4a49-83f3-965b645dcbd3
 url: https://www.starryhope.com/minipcs/models/dreamquest-pro-mini-pc/
 date_created: 2025-03-15
 date_modified: 2025-03-24
@@ -14,7 +15,7 @@ https: '//youtu.be/BmSMFqP-EDs?si=fclrE7B3wTpB4X7I'
 https: '//youtu.be/BmSMFqP-EDs?si=fclrE7B3wTpB4X7I'
 og_errors: true
 og_last_error: '2025-03-24T06:28:47.549Z'
-og_error_message: "Screenshot fetch error: HTTP error! status: 500"
----
+og_error_message: "Screenshot fetch error: HTTP error! status: 500"---
+
 [[Vocabulary/Mini Desktops|Mini-PCs]]
 https://youtu.be/BmSMFqP-EDs?si=fclrE7B3wTpB4X7I

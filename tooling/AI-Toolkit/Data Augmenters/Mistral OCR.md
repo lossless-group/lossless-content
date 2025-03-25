@@ -15,7 +15,8 @@ title: 'Mistral OCR | Mistral AI'
 favicon: https://mistral.ai/favicon.ico
 og_fetched_url: https://mistral.ai/en/news/mistral-ocr
 og_last_fetch: '2025-03-14T04:43:32.283Z'
-
+date_modified: 2025-03-24
 ---
+
 
 https://youtu.be/YOJDAkgLn80?si=IDuegMTL9ohHfuJM

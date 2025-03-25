@@ -199,5 +199,6 @@ function formatReport(results) {
 // Export the main functions
 module.exports = {
     processMarkdownFile,
+    processDirectory,
     formatReport
 };

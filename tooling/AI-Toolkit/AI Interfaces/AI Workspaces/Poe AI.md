@@ -12,8 +12,9 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: '2025-03-09T06:45:18.227Z'
 jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:20:56.443Z'
-
+date_modified: 2025-03-24
 ---
+
 ### [[Poe AI]] compares [[AI Models]] in app:
 ![[Screenshot 2025-02-02 at 4.26.43 PM_Poe-AI--Compares-Models.png]]
 

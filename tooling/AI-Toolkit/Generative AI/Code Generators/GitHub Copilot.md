@@ -19,8 +19,9 @@ title: 'What is GitHub Copilot? - GitHub Docs'
 favicon: https://docs.github.com/assets/cb-345/images/site/favicon.png
 og_fetched_url: https://docs.github.com/en/copilot/about-github-copilot/what-is-github-copilot
 og_last_fetch: '2025-03-14T04:43:55.120Z'
-
+date_modified: 2025-03-24
 ---
+
 
 
 

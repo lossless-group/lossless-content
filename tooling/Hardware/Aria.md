@@ -17,8 +17,9 @@ title: 'Project Aria, from Meta | Project Aria'
 favicon: https://static.xx.fbcdn.net/rsrc.php/y5/r/hkVPlSJkBpe.ico
 og_fetched_url: https://www.projectaria.com/
 og_last_fetch: '2025-03-14T04:41:59.450Z'
-
+date_modified: 2025-03-24
 ---
+
 
 https://youtu.be/iWztNv_Lgz4?si=7Nsa5dTt2GCBS8jK
 

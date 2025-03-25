@@ -13,8 +13,9 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: '2025-03-09T06:45:00.427Z'
 jina_error: "Unexpected token C, Coolify ==... is not valid JSON"
 og_last_fetch: '2025-03-14T05:42:17.605Z'
-
+date_modified: 2025-03-24
 ---
+
 An [[Open Source]] framework for [[Self-Hosting]] that gives the same powers of [[Opsless Deployment Providers]]
 
 https://youtu.be/gZxQUgWm9ZM?si=GalhrytFPxf3cLSn

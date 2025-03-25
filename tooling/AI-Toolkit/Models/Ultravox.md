@@ -14,8 +14,9 @@ favicon: https://framerusercontent.com/images/h9fy7KYQkluDdSvOCQxOPmxcY.svg
 jina_last_request: '2025-03-09T06:45:11.750Z'
 jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:19:18.726Z'
-
+date_modified: 2025-03-24
 ---
+
 
 One of the [[AI Models|Models]] created by [[Fixie AI]].
 

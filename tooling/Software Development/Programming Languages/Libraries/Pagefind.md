@@ -1,4 +1,5 @@
 ---
+site_uuid: f6dde925-f172-4351-9e48-902c077b9247
 url: https://pagefind.app/
 tags: 
 date_created: 2025-03-15
@@ -14,8 +15,8 @@ https: '//youtu.be/v79VRrfVau8?si=UOO_lc8K27lSk5f7'
 
 Good for [[Vocabulary/Static Site Generators]]
 
-https: '//youtu.be/v79VRrfVau8?si=UOO_lc8K27lSk5f7'
----
+https: '//youtu.be/v79VRrfVau8?si=UOO_lc8K27lSk5f7'---
+
 
 https://youtu.be/v79VRrfVau8?si=UOO_lc8K27lSk5f7
 

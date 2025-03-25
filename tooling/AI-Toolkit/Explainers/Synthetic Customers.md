@@ -5,7 +5,9 @@ tags:
 - AI-Toolkit
 - Explainers
 site_visibility: public
+date_modified: 2025-03-24
 ---
+
 
 A [[RAG]] or [[Knowledge Augmented Generation|KAG]] technique on customer data that can create [[Synthetic Data]], and then use [[Generative AI]] to create [[Synthetic Customers]], which may behave like your existing customer personas.  
 

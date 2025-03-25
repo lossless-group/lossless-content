@@ -12,8 +12,9 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: '2025-03-09T06:45:13.222Z'
 jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:20:56.426Z'
-
+date_modified: 2025-03-24
 ---
+
 
 2024, March 19. [HTMX in 60 seconds with ThePrimeagen](https://youtube.com/shorts/utq5nKyj-SM?si=cmwLYWR8DDpHxTpL). Frontend Masters.
 

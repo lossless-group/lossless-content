@@ -1,4 +1,5 @@
 ---
+site_uuid: 50ce0b48-1364-4f4e-9335-bd4a122360bf
 date_created: 2025-03-14
 date_modified: 2025-03-24
 url: https://rog.asus.com/laptops/rog-flow/rog-flow-z13-2025/
@@ -14,8 +15,8 @@ og_screenshot: [[Organizations/Asus]]
 https: '//youtu.be/LDLldTZzsXg?si=FtzXMyMtT-7jC8Fh'
 
 https: '//youtu.be/aBM6jHRZdZQ?si=hlBoA2UYeHintqwU'
-https: '//youtu.be/aBM6jHRZdZQ?si=hlBoA2UYeHintqwU'
----
+https: '//youtu.be/aBM6jHRZdZQ?si=hlBoA2UYeHintqwU'---
+
 [[Organizations/Asus]]
 
 https://youtu.be/LDLldTZzsXg?si=FtzXMyMtT-7jC8Fh

@@ -15,8 +15,9 @@ favicon: https://msty.app/favicon.ico
 jina_last_request: '2025-03-09T06:45:20.658Z'
 jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:20:56.747Z'
-
+date_modified: 2025-03-24
 ---
+
 [[MSTY]] installs LLM [[AI Models]] that [[Local LLM|run local]] deep in your filesystem:
 `/home/[user]/.config/Msty/models`
 

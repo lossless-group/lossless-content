@@ -13,7 +13,8 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: '2025-03-09T06:45:12.313Z'
 jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:20:56.416Z'
-
+date_modified: 2025-03-24
 ---
+
 ##### [[BuildShip]] is a [[Visual Software Development|Visual]] [[Low-Code]] [[Back-End Engineering|Back-End]], nearly a [[Backend-as-a-Service]]
 ![BuildShip Demo Image](https://i.imgur.com/FBGAhTw.png)
