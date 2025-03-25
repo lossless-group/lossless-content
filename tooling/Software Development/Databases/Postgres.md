@@ -5,7 +5,7 @@ tags:
 - Software-Development
 - Databases
 - database
-image: 'https://www.postgresql.org/media/img/about/press/elephant.png'
+image: https://www.postgresql.org/media/img/about/press/elephant.png
 site_name: PostgreSQL
 title: PostgreSQL
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/71266c81157df78676ca4e6c1c34d011cdffed026f6805526d547dca46d5d415.jpeg

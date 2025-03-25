@@ -4,10 +4,10 @@ description_site_cp: An all-in-one platform to create vertical LLM agents powere
 date_created: 2025-03-10
 date_modified: 2025-03-24
 tags: 
-image: 'https://epsilla.com/logo.png'
+image: https://epsilla.com/logo.png
 site_name: Epsilla
 title: Epsilla - RAG as a Service for Building Vertical LLM Agents
-favicon: 'https://www.epsilla.com/logo.png'
+favicon: https://www.epsilla.com/logo.png
 og_fetched_url: https://www.epsilla.com/
 og_last_fetch: '2025-03-24T05:33:19.325Z'
 og_errors: true

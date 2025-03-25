@@ -1,9 +1,9 @@
 ---
 site_uuid: 4755877e-1c2f-4d3c-9875-faec44661043
-image: 'https://cdn.prod.website-files.com/6683792e42237a5f054af942/66e0aba4cc4c3cde2e9d52d0_general-dark-og.jpg'
+image: https://cdn.prod.website-files.com/6683792e42237a5f054af942/66e0aba4cc4c3cde2e9d52d0_general-dark-og.jpg
 site_name: Whalesync
 title: Sync customer data across your GTM tools
-favicon: 'https://cdn.prod.website-files.com/6683792e42237a5f054af942/66a1b7ec65c8d94d273e8226_favicon.png'
+favicon: https://cdn.prod.website-files.com/6683792e42237a5f054af942/66a1b7ec65c8d94d273e8226_favicon.png
 tags:
 - Software-Development
 - DevOps

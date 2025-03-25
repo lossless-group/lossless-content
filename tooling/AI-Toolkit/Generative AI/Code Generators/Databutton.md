@@ -7,7 +7,7 @@ tags:
 - AI-Toolkit
 - Generative-AI
 - Code-Generators
-image: 'https://databutton.com/static/landing/opengraph.png'
+image: https://databutton.com/static/landing/opengraph.png
 site_name: Databutton
 title: Databutton - The AI developer for non-techies
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/dac8009c4226d4ffc6a26d55de74f3ce93f68154dbc21d1067933ad903069890.jpeg

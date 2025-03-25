@@ -1,9 +1,9 @@
 ---
 site_uuid: 898580cc-ab50-4b5d-b02f-7578cab8a0d3
-image: 'https://jazz.tools/social-image.png'
+image: https://jazz.tools/social-image.png
 site_name: Jazz
 title: Jazz - Build local-first apps
-favicon: 'https://jazz.tools/favicon.ico'
+favicon: https://jazz.tools/favicon.ico
 tags:
 - Software-Development
 - DevOps

@@ -1,9 +1,9 @@
 ---
 site_uuid: 90679a6d-3c8f-41e5-9304-a97785f6f1d4
-image: 'https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png'
+image: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
 site_name: Amazon Web Services, Inc.
 title: Serverless Function, FaaS Serverless  - AWS Lambda - AWS
-favicon: 'https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico'
+favicon: https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico
 tags:
 - Software-Development
 - Cloud-Infrastructure

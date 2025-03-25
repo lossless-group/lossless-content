@@ -1,9 +1,9 @@
 ---
 site_uuid: d1f01bda-f89b-4797-ba6f-a92aa95b9ae6
-image: 'https://exa.imgix.net/og-image.png/'
+image: https://exa.imgix.net/og-image.png/
 site_name: Exa
 title: Exa
-favicon: 'https://exa.ai/images/favicon-32x32.png'
+favicon: https://exa.ai/images/favicon-32x32.png
 tags:
 - AI-Toolkit
 - Data-Augmenters

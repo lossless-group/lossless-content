@@ -4,7 +4,7 @@ url: https://godmode.space/
 tags:
 - AI-Toolkit
 - Agentic-AI
-image: 'https://godmode.space/godmode-hero.png'
+image: https://godmode.space/godmode-hero.png
 site_name: Godmode AI
 title: Godmode AI
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/3c026738252497019b79efccf91d295c0de058d4691366f5dd4273e2bfb7906c.jpeg

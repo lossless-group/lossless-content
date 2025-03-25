@@ -78,65 +78,69 @@ function fixErrorMessages(content) {
  */
 async function processQuoteFixes(content, filePath) {
     try {
-        const { frontmatterString, noFrontmatter, startIndex, endIndex } = helperFunctions.extractFrontmatter(content);
+        const frontmatterData = helperFunctions.extractFrontmatter(content);
         
-        if (noFrontmatter) {
-            return helperFunctions.createSuccessMessage(filePath, false);
+        if (!frontmatterData.success) {
+            return helperFunctions.createErrorMessage(filePath, frontmatterData.error);
         }
 
-        let newFrontmatter = frontmatterString;
+        let modified = false;
         let modifications = [];
 
-        // First: Fix unbalanced quotes
-        const unbalancedResult = fixUnbalancedQuotes(newFrontmatter);
+        // First: Fix quote spacing
+        const spacingResult = await fixQuoteSpacing(content, filePath);
+        if (spacingResult.modified) {
+            content = spacingResult.content;
+            modifications.push(...spacingResult.modifications);
+            modified = true;
+        }
+
+        // Second: Fix unbalanced quotes
+        const unbalancedResult = await fixUnbalancedQuotes(content, filePath);
         if (unbalancedResult.modified) {
-            newFrontmatter = unbalancedResult.content;
+            content = unbalancedResult.content;
             modifications.push(...unbalancedResult.modifications);
+            modified = true;
         }
 
-        // Second: Remove quotes from URLs and UUIDs
-        const urlResult = removeQuotesFromUrls(newFrontmatter);
+        // Third: Remove quotes from URLs and UUIDs
+        const urlResult = await removeQuotesFromUrls(content, filePath);
         if (urlResult.modified) {
-            newFrontmatter = urlResult.content;
+            content = urlResult.content;
             modifications.push(...urlResult.modifications);
+            modified = true;
         }
 
-        const uuidResult = removeQuotesFromUuids(newFrontmatter);
+        const uuidResult = await removeQuotesFromUuids(content, filePath);
         if (uuidResult.modified) {
-            newFrontmatter = uuidResult.content;
+            content = uuidResult.content;
             modifications.push(...uuidResult.modifications);
+            modified = true;
         }
 
-        // Third: Remove redundant quotes from simple strings
-        const redundantResult = removeRedundantQuotes(newFrontmatter);
+        // Fourth: Remove redundant quotes from simple strings
+        const redundantResult = await removeRedundantQuotes(content, filePath);
         if (redundantResult.modified) {
-            newFrontmatter = redundantResult.content;
+            content = redundantResult.content;
             modifications.push(...redundantResult.modifications);
+            modified = true;
         }
 
-        // Fourth: Add double quotes to error messages
-        const errorResult = fixErrorMessages(newFrontmatter);
+        // Fifth: Add double quotes to error messages
+        const errorResult = await fixErrorMessages(content, filePath);
         if (errorResult.modified) {
-            newFrontmatter = errorResult.content;
+            content = errorResult.content;
             modifications.push(...errorResult.modifications);
+            modified = true;
         }
 
-        // If any modifications were made, update the content
-        if (modifications.length > 0) {
-            const newContent = content.slice(0, startIndex + 4) + // Include the opening '---\n'
-                             newFrontmatter + '\n' +
-                             content.slice(endIndex - 4); // Include the closing '\n---'
-            
-            return {
-                success: true,
-                modified: true,
-                content: newContent,
-                modifications,
-                file: filePath
-            };
-        }
-
-        return helperFunctions.createSuccessMessage(filePath, false);
+        return {
+            success: true,
+            modified,
+            content,
+            modifications,
+            file: filePath
+        };
     } catch (error) {
         return helperFunctions.createErrorMessage(filePath, error.message);
     }
@@ -211,8 +215,20 @@ function formatReport(results) {
 }
 
 /**
+ * Check if a string contains special characters that need quotes
+ * @param {string} str - String to check
+ * @returns {boolean} - True if string contains special characters
+ */
+function hasSpecialChars(str) {
+    // Special characters include:
+    // - Basic special chars: :, &, |, >, <, *, %, @, #, !, ?, ~
+    // - Common separators: —, –, -, |, /, \, →, ←, ⇒, ⇐
+    // - Common list markers: •, ·, ○, ●, ◦
+    return /[:&|><*%@#!?~—–\-|/\\→←⇒⇐•·○●◦]/.test(str);
+}
+
+/**
  * Wrap strings containing special characters with single quotes
- * Special characters include: :, &, |, >, <, *, %, @, #, !, ?, ~
  */
 async function wrapStringsWithSpecialChars(markdownContent, markdownFilePath) {
     const frontmatterData = helperFunctions.extractFrontmatter(markdownContent);
@@ -224,26 +240,20 @@ async function wrapStringsWithSpecialChars(markdownContent, markdownFilePath) {
     let modified = false;
     const modifications = [];
 
-    const specialCharsRegex = /[:&|><*%@#!?~]/;
-    const quotedStringRegex = /^([^:]+):\s*['"](.+)['"]$/;
+    // Match any value that isn't already quoted and contains special characters
+    const valueRegex = /^([^:]+?):\s*([^'"][^'\n]+)$/;
 
     for (let i = 0; i < lines.length; i++) {
         const line = lines[i].trim();
         if (!line || line.startsWith('#')) continue;
 
-        const [key, ...valueParts] = line.split(':');
-        if (!key || !valueParts.length) continue;
-
-        const value = valueParts.join(':').trim();
-        
-        // Skip certain keys that shouldn't be quoted
-        if (key.includes('uuid') || key.includes('url')) continue;
-
-        // If value contains special chars and isn't already properly quoted
-        if (specialCharsRegex.test(value) && !quotedStringRegex.test(line)) {
-            lines[i] = `${key}: '${value}'`;
+        console.log(`Checking line: "${line}"`);
+        const match = line.match(valueRegex);
+        if (match && hasSpecialChars(match[2])) {
+            console.log(`Found special chars in: ${match[1]}, value="${match[2]}"`);
+            lines[i] = `${match[1]}: '${match[2]}'`;
             modified = true;
-            modifications.push(`Wrapped value containing special characters with single quotes: ${key}`);
+            modifications.push(`Added quotes to value with special characters: ${match[1]}`);
         }
     }
 
@@ -322,32 +332,6 @@ async function fixUnbalancedQuotes(markdownContent, markdownFilePath) {
     };
 }
 
-// Known URL properties
-const URL_PROPERTIES = [
-    'url',
-    'image',
-    'favicon',
-    'banner',
-    'avatar',
-    'logo',
-    'thumbnail',
-    'icon'
-];
-
-/**
- * Check if a string is a URL
- * @param {string} str - String to check
- * @returns {boolean} - True if string is a URL
- */
-function isUrl(str) {
-    try {
-        // Basic URL validation - must start with http:// or https://
-        return /^https?:\/\/.+/i.test(str);
-    } catch (e) {
-        return false;
-    }
-}
-
 /**
  * Remove quotes from URLs in frontmatter
  */
@@ -361,20 +345,24 @@ async function removeQuotesFromUrls(markdownContent, markdownFilePath) {
     let modified = false;
     const modifications = [];
 
-    // Match:
-    // 1. Known URL properties (url, image, etc.)
-    // 2. Any property ending in _url
-    const urlRegex = new RegExp(`^((?:.*_url|.*(?:${URL_PROPERTIES.join('|')})).*?):\\s*['"]+(.+?)['"]$`, 'i');
+    // Match any quoted value that starts with http(s)://
+    // Handle multiple quotes: ""'value'"" or 'value' or "value"
+    const urlRegex = /^([^:]+?):\s*(?:"{2})?['"]+?(https?:\/\/.+?)['"]+?(?:"{2})?$/i;
 
     for (let i = 0; i < lines.length; i++) {
         const line = lines[i].trim();
         if (!line || line.startsWith('#')) continue;
 
+        console.log(`Checking line: "${line}"`);
         const urlMatch = line.match(urlRegex);
-        if (urlMatch && isUrl(urlMatch[2])) {
-            lines[i] = `${urlMatch[1]}: ${urlMatch[2]}`;
-            modified = true;
-            modifications.push(`Removed quotes from URL: ${urlMatch[1]}`);
+        if (urlMatch) {
+            console.log(`Match found: property="${urlMatch[1]}", value="${urlMatch[2]}"`);
+            if (urlMatch[1].includes('url') || urlMatch[1].includes('image') || urlMatch[1].includes('favicon')) {
+                console.log(`Property matched URL criteria, removing quotes`);
+                lines[i] = `${urlMatch[1]}: ${urlMatch[2]}`;
+                modified = true;
+                modifications.push(`Removed quotes from URL: ${urlMatch[1]}`);
+            }
         }
     }
 
@@ -471,6 +459,58 @@ async function removeRedundantQuotes(markdownContent, markdownFilePath) {
                 modified = true;
                 modifications.push(`Removed redundant quotes: ${key}`);
             }
+        }
+    }
+
+    if (!modified) {
+        return helperFunctions.createSuccessMessage(markdownFilePath, false);
+    }
+
+    const newFrontmatter = lines.join('\n');
+    const newContent = markdownContent.slice(0, frontmatterData.startIndex) +
+        '---\n' + newFrontmatter + '\n---' +
+        markdownContent.slice(frontmatterData.endIndex);
+
+    return {
+        modified,
+        content: newContent,
+        modifications
+    };
+}
+
+/**
+ * Fix quote spacing to ensure quotes hug the content
+ * @param {string} markdownContent - The markdown content
+ * @param {string} markdownFilePath - Path to the markdown file
+ * @returns {Object} - Result with modified content and modifications list
+ */
+async function fixQuoteSpacing(markdownContent, markdownFilePath) {
+    const frontmatterData = helperFunctions.extractFrontmatter(markdownContent);
+    if (!frontmatterData.success) {
+        return helperFunctions.createErrorMessage(markdownFilePath, frontmatterData.error);
+    }
+
+    const lines = frontmatterData.frontmatterString.split('\n');
+    let modified = false;
+    const modifications = [];
+
+    // Match any value with quotes that have spaces between the quotes and content
+    // Also handle multiple quotes: ""'value'"" or 'value' or "value"
+    const spacedQuotesRegex = /^([^:]+?):\s*(?:"{2})?['"]\s+(.+?)\s+['"](?:"{2})?$/;
+
+    for (let i = 0; i < lines.length; i++) {
+        const line = lines[i].trim();
+        if (!line || line.startsWith('#')) continue;
+
+        console.log(`Checking line: "${line}"`);
+        const match = line.match(spacedQuotesRegex);
+        if (match) {
+            console.log(`Found spaced quotes in: ${match[1]}, value="${match[2]}"`);
+            // Keep the original quote type (single or double)
+            const quoteType = line.includes('"') ? '"' : "'";
+            lines[i] = `${match[1]}: ${quoteType}${match[2]}${quoteType}`;
+            modified = true;
+            modifications.push(`Fixed quote spacing in: ${match[1]}`);
         }
     }
 

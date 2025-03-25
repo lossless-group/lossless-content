@@ -2,10 +2,10 @@
 site_uuid: 0f5ea898-265a-4339-8ced-95d17f796285
 url: https://pocketbase.io/
 zinger: Open Source backend in 1 file
-image: 'https://pocketbase.io/images/og.png'
+image: https://pocketbase.io/images/og.png
 site_name: PocketBase
 title: PocketBase - Open Source backend in 1 file
-favicon: 'https://pocketbase.io/images/favicon/favicon-32x32.png'
+favicon: https://pocketbase.io/images/favicon/favicon-32x32.png
 tags:
 - Lego-Kit-Engineering-Tools
 - Software-Development

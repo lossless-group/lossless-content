@@ -2,10 +2,10 @@
 site_uuid: 6ccbff08-f36f-4f36-9d65-ff05d505a9b6
 url: https://www.livepeer.org/
 docs_url: https://docs.livepeer.org/developers/introduction
-image: 'https://cdn.prod.website-files.com/66b1e1cb750c24d738b2c64b/67535c7c174b527cfa425281_Livepeer%20Webclip.png'
+image: https://cdn.prod.website-files.com/66b1e1cb750c24d738b2c64b/67535c7c174b527cfa425281_Livepeer%20Webclip.png
 site_name: Livepeer
 title: Building theFuture of AI Video in Real-time
-favicon: 'https://cdn.prod.website-files.com/66b1e1cb750c24d738b2c64b/66fda52cefec335f7053804d_favicon-32x32.png'
+favicon: https://cdn.prod.website-files.com/66b1e1cb750c24d738b2c64b/66fda52cefec335f7053804d_favicon-32x32.png
 description: Livepeer lets developers create, share, and refine robust pipelines that push the boundaries of real-time AI video—building a community where innovation thrives and new possibilities emerge.
 tags:
 - AI-Toolkit

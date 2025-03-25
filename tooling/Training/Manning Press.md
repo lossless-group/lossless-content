@@ -1,6 +1,6 @@
 ---
 site_uuid: 195daef8-256d-4093-95fc-f1cd4a0a7ff7
-image: 'https://www.manning.com/assets/defaultOGCard-08086a2ba84a94613971a17812a34881.png'
+image: https://www.manning.com/assets/defaultOGCard-08086a2ba84a94613971a17812a34881.png
 site_name: Manning Publications
 title: Manning
 tags:

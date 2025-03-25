@@ -1,9 +1,9 @@
 ---
 site_uuid: 681e10f9-acc1-492a-a350-f8483a498ee3
-image: 'https://www.contentlayer.dev/images/beta-launch-post-meta.png'
+image: https://www.contentlayer.dev/images/beta-launch-post-meta.png
 site_name: Contentlayer
 title: Contentlayer makes content easy for developers
-favicon: 'https://contentlayer.dev/favicon/favicon-196x196.png'
+favicon: https://contentlayer.dev/favicon/favicon-196x196.png
 tags:
 - Lego-Kit-Engineering-Tools
 - Software-Development

@@ -1,9 +1,9 @@
 ---
 site_uuid: efb9b03b-6bb3-4055-b59a-a777aa26e4a8
-image: 'https://fastapi.tiangolo.com/assets/images/social/index.png'
+image: https://fastapi.tiangolo.com/assets/images/social/index.png
 site_name: FastAPI
 title: FastAPI
-favicon: 'https://fastapi.tiangolo.com/img/favicon.png'
+favicon: https://fastapi.tiangolo.com/img/favicon.png
 tags:
   - Frameworks
   - Software-Development

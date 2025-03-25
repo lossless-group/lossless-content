@@ -5,7 +5,7 @@ description: 'Create content at scale. Social media using AI & Automation.'
 tags:
 - AI-Toolkit
 - Generative-AI
-image: 'https://www.feedhive.com/images/og-image.png'
+image: https://www.feedhive.com/images/og-image.png
 site_name: FeedHive
 title: FeedHive - Create content at scale
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/bc83f7e987ef5e9072f0f1b76c3197d7254e5bb7e20d6bcf8ff9fecab3fad71e.jpeg

@@ -1,9 +1,9 @@
 ---
 site_uuid: b0bbeddb-2ad6-416b-923d-062b4f9ae7be
-image: 'https://repocloud.io/static/favicons/apple-touch-icon.png'
+image: https://repocloud.io/static/favicons/apple-touch-icon.png
 site_name: RepoCloud
 title: 'RepoCloud | Browse App Marketplace'
-favicon: 'https://repocloud.io/static/favicons/favicon-32x32.png'
+favicon: https://repocloud.io/static/favicons/favicon-32x32.png
 tags:
 - Software-Development
 - Cloud-Infrastructure

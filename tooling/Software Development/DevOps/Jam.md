@@ -1,9 +1,9 @@
 ---
 site_uuid: a2c4a62b-f7f9-448f-9ef1-32b26352a5e4
-image: 'https://storage.googleapis.com/jam-assets/jam-og-image.png'
+image: https://storage.googleapis.com/jam-assets/jam-og-image.png
 site_name: Jam
 title: Build a bug-free product.
-favicon: 'https://jam.dev/favicon.ico?cache-bust=2'
+favicon: https://jam.dev/favicon.ico?cache-bust=2
 tags:
 - DevOps
 - Software-Development

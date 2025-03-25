@@ -1,6 +1,6 @@
 ---
 site_uuid: cb203229-43af-4a42-9c55-22e7b0eb904e
-favicon: 'https://milvus.io/favicon-32x32.png'
+favicon: https://milvus.io/favicon-32x32.png
 tags:
 - Software-Development
 - Databases

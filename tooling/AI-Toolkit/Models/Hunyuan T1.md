@@ -4,7 +4,7 @@ date_modified: 2025-03-24
 url: https://www.tencent.com/en-us/index.html
 product_of: '[[Organizations/Tencent|Tencent]]'
 huggingface_url: https://huggingface.co/spaces/tencent/Hunyuan-T1
-image: 'https://static.www.tencent.com/img/banner/recru.jpg'
+image: https://static.www.tencent.com/img/banner/recru.jpg
 site_name: Tencent 腾讯
 title: Tencent 腾讯
 og_fetched_url: https://www.tencent.com/en-us/index.html

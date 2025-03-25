@@ -4,7 +4,7 @@ url: https://rivalz.ai/
 tags:
 - AI-Toolkit
 - AI-Infrastructure
-image: 'https://api.rivalz.ai/fragmentz/media/rivalz.png'
+image: https://api.rivalz.ai/fragmentz/media/rivalz.png
 site_name: Rivalz Network
 title: Rivalz Network
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/ce29c2865eb481cd859533e131b161d05f1d37bdab4fdab1fbebca2944b8c3f3.jpeg

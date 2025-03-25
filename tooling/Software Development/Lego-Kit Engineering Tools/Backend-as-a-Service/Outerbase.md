@@ -1,9 +1,9 @@
 ---
 site_uuid: aa342756-add1-424f-a60b-f923871c5fcb
-image: ""'https://www.outerbase.com/og.jpg'""
+image: https://www.outerbase.com/og.jpg
 site_name: Outerbase
 title: The interface for your database
-favicon: ""'https://www.outerbase.com/favicon.svg'""
+favicon: https://www.outerbase.com/favicon.svg
 tags:
 - Lego-Kit-Engineering-Tools
 - Software-Development

@@ -1,9 +1,9 @@
 ---
 site_uuid: 27fcc611-4a10-485d-bdbc-a8985f75e222
-image: ""'https://vitest.dev/og.png'""
+image: https://vitest.dev/og.png
 site_name: Vitest
 title: Vitest
-favicon: ""'https://vitest.dev/favicon.ico'""
+favicon: https://vitest.dev/favicon.ico
 tags:
 - Software-Development
 - Frameworks

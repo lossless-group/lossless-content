@@ -4,10 +4,10 @@ url: https://starlight.astro.build/
 parent_org: [[Astro]]
 github_repo_url: https://github.com/withastro/starlight
 docs_url: https://starlight.astro.build/getting-started/
-image: 'https://starlight.astro.build/og.jpg?v=1'
+image: https://starlight.astro.build/og.jpg?v=1
 site_name: Starlight
 title: Starlight \U0001F31F Build documentation sites with Astro
-favicon: 'https://starlight.astro.build/favicon.svg'
+favicon: https://starlight.astro.build/favicon.svg
 tags:
 - Software-Development
 - DevOps

@@ -3,10 +3,10 @@ url: https://www.starryhope.com/minipcs/models/dreamquest-pro-mini-pc/
 date_created: 2025-03-15
 date_modified: 2025-03-24
 tags: 
-image: 'https://www.starryhope.com/logo.svg'
+image: https://www.starryhope.com/logo.svg
 site_name: DreamQuest Pro Mini PC
 title: DreamQuest Pro Mini PC
-favicon: 'https://www.starryhope.com/favicon.svg'
+favicon: https://www.starryhope.com/favicon.svg
 og_fetched_url: https://www.starryhope.com/minipcs/models/dreamquest-pro-mini-pc/
 og_last_fetch: '2025-03-24T06:28:15.975Z'
 og_screenshot: '[[Vocabulary/Mini Desktops|Mini-PCs]]'

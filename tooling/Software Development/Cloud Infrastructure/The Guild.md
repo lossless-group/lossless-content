@@ -1,9 +1,9 @@
 ---
 site_uuid: eec28b42-8bbb-4a33-be5f-8a8f38572feb
-image: ""https://open-graph-image.theguild.workers.dev/?product=GUILD&title=GraphQL%20Tools""
+image: https://open-graph-image.theguild.workers.dev/?product=GUILD&title=GraphQL%20Tools
 site_name: The Guild
 title: GraphQL (The Guild)
-favicon: ""'https://the-guild.dev/favicon-32x32.png'""
+favicon: https://the-guild.dev/favicon-32x32.png
 tags:
 - Software-Development
 - Cloud-Infrastructure

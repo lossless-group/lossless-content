@@ -1,9 +1,9 @@
 ---
 site_uuid: 9acf7ca9-f3af-4cd9-89dd-fad0635caeaf
-image: ""'https://graphite.dev/og.png'""
+image: https://graphite.dev/og.png
 site_name: Graphite
 title: The end-to-end developer platform
-favicon: ""'https://graphite.dev/favicon/favicon-32x32.png'""
+favicon: https://graphite.dev/favicon/favicon-32x32.png
 tags:
 - Software-Development
 - DevOps

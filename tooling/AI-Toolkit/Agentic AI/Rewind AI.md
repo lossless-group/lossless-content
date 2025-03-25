@@ -6,7 +6,7 @@ description: Rewind is a personalized AI powered by everything you’ve seen, sa
 tags:
 - AI-Toolkit
 - Agentic-AI
-image: 'https://files.rewind.ai/rewind-ogthumb.jpg'
+image: https://files.rewind.ai/rewind-ogthumb.jpg
 site_name: Rewind
 title: Rewind
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/c1e177c654aacd0bbacea62442b9804852f1d01e65c7996696162ffca5a1c365.jpeg

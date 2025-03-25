@@ -4,7 +4,7 @@ url: https://whatfix.com/
 tags:
 - Software-Development
 - Product-Analytics
-image: ""'https://website.whatfix.com/wp-content/uploads/2024/01/whatfix.png'""
+image: https://website.whatfix.com/wp-content/uploads/2024/01/whatfix.png
 site_name: Whatfix
 title: Whatfix - Digital Adoption Platform and Analytics
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/fb669194189cb4fca94ae54b36eb199b3333ff444116ef1613a68a90532efc3a.jpeg

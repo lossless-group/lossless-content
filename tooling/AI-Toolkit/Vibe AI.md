@@ -12,7 +12,7 @@ og_last_error: '2025-03-08T20:39:43.753Z'
 og_error_message: "HTTP error 401"
 jina_last_request: '2025-03-09T06:45:05.547Z'
 jina_error: "Error occurred"
-favicon: 'https://thewh1teagle.github.io/vibe/./favicon.ico'
+favicon: https://thewh1teagle.github.io/vibe/./favicon.ico
 og_fetched_url: https://thewh1teagle.github.io/vibe/
 og_last_fetch: '2025-03-14T04:43:14.595Z'
 site_uuid: d3241b44-1d52-462d-8d20-13fbb2d7e0fe

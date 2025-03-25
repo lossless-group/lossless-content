@@ -6,7 +6,7 @@ tags:
 - AI-Interfaces
 - AI-Workspaces
 - Vertical-Wrappers
-image: 'https://www.coveo.com/-/media/library/images/logos/coveo/coveo-logo-ogimage-reskin.png'
+image: https://www.coveo.com/-/media/library/images/logos/coveo/coveo-logo-ogimage-reskin.png
 site_name: Coveo
 title: 'AI-Search & Generative Experiences'
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/761047facaa18ea19ca4343906c6f818acedc57267b411fa0e7b7fe6f71d7337.jpeg

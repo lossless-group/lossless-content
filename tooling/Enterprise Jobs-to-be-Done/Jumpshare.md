@@ -1,9 +1,9 @@
 ---
 site_uuid: 7bf26438-7f79-4a07-9b76-e3e109e0e5ad
-image: 'https://static.jumpshare.com/res/images/new_static/og/homepage.png'
+image: https://static.jumpshare.com/res/images/new_static/og/homepage.png
 site_name: Jumpshare
 title: 'Jumpshare: Communicate better with Videos, GIFs & Screenshots'
-favicon: 'https://static.jumpshare.com/res/images/new_static/favicon/android-icon-192x192.png'
+favicon: https://static.jumpshare.com/res/images/new_static/favicon/android-icon-192x192.png
 tags:
 - Enterprise-Jobs-to-be-Done
 - Asynchronous-Communication

@@ -13,10 +13,10 @@ og_last_error: '2025-03-08T20:39:43.219Z'
 og_error_message: "HTTP error 401"
 jina_last_request: '2025-03-09T06:45:05.544Z'
 jina_error: "Error occurred"
-image: 'https://dam.freshworks.com/m/649806346f713583/original/Homepage-og-image.webp'
+image: https://dam.freshworks.com/m/649806346f713583/original/Homepage-og-image.webp
 site_name: Freshworks
 title: 'Freshworks: Uncomplicated Software | IT Service, Customer Service'
-favicon: 'https://www.freshworks.com/favicons/favicon-32x32.png'
+favicon: https://www.freshworks.com/favicons/favicon-32x32.png
 og_fetched_url: https://www.freshworks.com
 og_last_fetch: '2025-03-14T04:42:56.518Z'
 site_uuid: 02430d78-c244-4115-9f10-c14641af8139

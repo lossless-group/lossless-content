@@ -4,7 +4,7 @@ url: https://www.modular.com/
 tags:
 - AI-Toolkit
 - AI-Infrastructure
-image: 'https://cdn.prod.website-files.com/63f9f100025c058594957cca/669d3b736774be32546faf08_OGI-Modular-07212024.jpg'
+image: https://cdn.prod.website-files.com/63f9f100025c058594957cca/669d3b736774be32546faf08_OGI-Modular-07212024.jpg
 site_name: Modular
 title: 'Modular: A Fast, Scalable Gen AI Inference Platform'
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/3ebb2f29af869bcb006daec0b2e69eb5c2fad680db28ff41975f05898474a19f.jpeg

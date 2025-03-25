@@ -1,9 +1,9 @@
 ---
 site_uuid: 817b94ac-2032-4e5c-a656-6171f8c224ef
-image: 'https://nitro.build/_og/_index.png?name=Nitro&title=Next+Generation+Server+Toolkit&description=Create+web+servers+with+everything+you+need+and+deploy+them+wherever+you+prefer.'
+image: https://nitro.build/_og/_index.png?name=Nitro&title=Next+Generation+Server+Toolkit&description=Create+web+servers+with+everything+you+need+and+deploy+them+wherever+you+prefer.
 site_name: Nitro
 title: Nitro - Next Generation Server Toolkit
-favicon: 'https://nitro.build/icon.svg'
+favicon: https://nitro.build/icon.svg
 tags:
 - Software-Development
 - Cloud-Infrastructure

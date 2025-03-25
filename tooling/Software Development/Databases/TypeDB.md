@@ -1,9 +1,9 @@
 ---
 site_uuid: ba0274f5-0c61-41d8-887a-172a42a610c0
-image: 'https://cdn.sanity.io/images/xndl14mc/production/57386eeb768e76f477854101fd8a8abf1677138a-3316x1850.png'
+image: https://cdn.sanity.io/images/xndl14mc/production/57386eeb768e76f477854101fd8a8abf1677138a-3316x1850.png
 site_name: TypeDB
 title: 'TypeDB: the power of programming, in your database'
-favicon: 'https://typedb.com/favicon.ico'
+favicon: https://typedb.com/favicon.ico
 tags:
 - Software-Development
 - Databases

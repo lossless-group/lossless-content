@@ -5,7 +5,7 @@ parent_org: [[Apple]]
 tags:
 - AI-Toolkit
 - Model-Producers
-image: 'https://www.apple.com/v/apple-intelligence/b/images/meta/apple_intelligence__ctd5n16vmioi_og.png?202502271945'
+image: https://www.apple.com/v/apple-intelligence/b/images/meta/apple_intelligence__ctd5n16vmioi_og.png?202502271945
 site_name: Apple
 title: Apple Intelligence
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/bce813dff2d6abac4b81c14fdb753b34a231cd8b2efea5481306fb08880c900d.jpeg

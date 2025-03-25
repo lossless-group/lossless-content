@@ -9,10 +9,10 @@ og_last_error: '2025-03-08T20:39:44.305Z'
 og_error_message: "HTTP error 401"
 jina_last_request: '2025-03-09T06:44:58.405Z'
 jina_error: "Error occurred"
-image: 'https://cms.mistral.ai/assets/060bdeb1-fbff-419c-b2ae-b32b5e441864'
+image: https://cms.mistral.ai/assets/060bdeb1-fbff-419c-b2ae-b32b5e441864
 site_name: Mistral OCR
 title: 'Mistral OCR | Mistral AI'
-favicon: 'https://mistral.ai/favicon.ico'
+favicon: https://mistral.ai/favicon.ico
 og_fetched_url: https://mistral.ai/en/news/mistral-ocr
 og_last_fetch: '2025-03-14T04:43:32.283Z'
 site_uuid: 8e353c4e-9c97-44a7-a54c-39d0566cb338

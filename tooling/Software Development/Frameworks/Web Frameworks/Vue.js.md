@@ -2,10 +2,10 @@
 site_uuid: 7d89aaaa-f672-4ab4-aac9-df2539718a24
 url: https://vuejs.org/
 zinger: The Progressive JavaScript Framework
-image: 'https://vuejs.org/images/logo.png'
+image: https://vuejs.org/images/logo.png
 site_name: Vue.js
 title: Vue.js
-favicon: 'https://vuejs.org/logo.svg'
+favicon: https://vuejs.org/logo.svg
 tags:
 - Web-Frameworks
 - Software-Development

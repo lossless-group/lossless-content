@@ -1,10 +1,10 @@
 ---
 site_uuid: 984bd6fe-36bc-4c98-96a4-78ce83d0bc0f
 github_repo_url: https://github.com/ghostty-org
-image: 'https://ghostty.org/social-share-card.jpg'
+image: https://ghostty.org/social-share-card.jpg
 site_name: Ghostty
 title: Ghostty
-favicon: 'https://ghostty.org/favicon-32.png'
+favicon: https://ghostty.org/favicon-32.png
 tags:
 - DevOps
 - Developer-Experience

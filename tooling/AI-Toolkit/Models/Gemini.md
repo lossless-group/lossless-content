@@ -4,7 +4,7 @@ url: https://gemini.google.com
 tags:
 - AI-Toolkit
 - Models
-image: 'https://www.gstatic.com/lamda/images/gemini_thumbnail_c362e5eadc46ca9f617e2.png'
+image: https://www.gstatic.com/lamda/images/gemini_thumbnail_c362e5eadc46ca9f617e2.png
 site_name: Gemini
 title: ‎Gemini - chat to supercharge your ideas
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/5b7d54409f2a9b2acd4605ebe227548df996beaca597edf919951a9838e5338e.jpeg

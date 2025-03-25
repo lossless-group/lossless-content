@@ -1,6 +1,6 @@
 ---
 site_uuid: 2e60d7ce-e83a-4036-b8cb-68cb86aad36e
-image: 'https://www.sqlite.org/images/sqlite370_banner.svg'
+image: https://www.sqlite.org/images/sqlite370_banner.svg
 site_name: SQLite Home Page
 title: SQLite Home Page
 tags:

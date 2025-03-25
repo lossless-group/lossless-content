@@ -12,10 +12,10 @@ og_last_error: '2025-03-08T20:39:44.833Z'
 og_error_message: "HTTP error 401"
 jina_last_request: '2025-03-09T06:45:21.189Z'
 jina_error: "Error occurred"
-image: 'https://framerusercontent.com/images/QFQ0FBkLFAAepowMaiOxNgLUdRE.png'
+image: https://framerusercontent.com/images/QFQ0FBkLFAAepowMaiOxNgLUdRE.png
 site_name: Grit
 title: Grit
-favicon: 'https://framerusercontent.com/images/BsRdbvMW49SCjXuXNDsoc0M.png'
+favicon: https://framerusercontent.com/images/BsRdbvMW49SCjXuXNDsoc0M.png
 og_fetched_url: https://about.grit.io
 og_last_fetch: '2025-03-14T04:43:50.662Z'
 site_uuid: 82e61a16-0062-4798-b6e1-84e642b8522f

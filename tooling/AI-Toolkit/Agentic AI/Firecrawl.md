@@ -6,7 +6,7 @@ tags:
 - AI-Toolkit
 - Agentic-AI
 - data-capture
-image: 'https://www.firecrawl.dev/og.png?123'
+image: https://www.firecrawl.dev/og.png?123
 site_name: Firecrawl
 title: Firecrawl
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/20b7ba937768670e5d0bd1639f46f505fd2bf7d862f7965334ed6ea422dc7b87.jpeg

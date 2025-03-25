@@ -5,7 +5,7 @@ tags:
 - AI-Toolkit
 - Generative-AI
 - gen-ai--image
-image: 'https://upscayl.org/og-image.webp'
+image: https://upscayl.org/og-image.webp
 site_name: Upscayl
 title: Upscayl - AI Image Upscaler
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/cfe28d1101cd81df250a1834fb0964fbccd0be95377182d9e281c3b3b69bc19c.jpeg

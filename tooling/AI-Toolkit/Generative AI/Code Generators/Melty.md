@@ -6,7 +6,7 @@ tags:
 - AI-Toolkit
 - Generative-AI
 - Code-Generators
-image: 'https://melty.sh/images/logo.png'
+image: https://melty.sh/images/logo.png
 site_name: Chorus
 title: Chorus
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/b22b4d25a74ebd2e5c40caa5151c5611ff0f0cc65d3ae5888c316b40e9d7ce47.jpeg

@@ -5,7 +5,7 @@ parent_org: [[Microsoft]]
 url: https://dotnet.microsoft.com/en-us/
 aliases:
 - ASP.NET
-image: 'https://dotnet.microsoft.com/blob-assets/images/dotnet-icons/square.png'
+image: https://dotnet.microsoft.com/blob-assets/images/dotnet-icons/square.png
 site_name: Microsoft
 title: '.NET | Build. Test. Deploy.'
 tags:

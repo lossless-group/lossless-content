@@ -5,7 +5,7 @@ tags:
 - AI-Toolkit
 - Model-Producers
 - gen-ai--image
-image: 'https://www.midjourney.com/apple-touch-icon.png'
+image: https://www.midjourney.com/apple-touch-icon.png
 site_name: Midjourney
 title: Midjourney
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/8619549a6912c68d5cbd733e4698ec6d69230412e60e2975eb927c791d7737ec.jpeg

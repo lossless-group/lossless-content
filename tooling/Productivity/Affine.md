@@ -7,7 +7,7 @@ tags:
 - Advanced-Documents
 - Asynchronous-Communication
 - Open-Source
-image: 'https://affine.pro/og.png'
+image: https://affine.pro/og.png
 site_name: AFFiNE
 title: All In One KnowledgeOS
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/beacad3f444fa77926fe27db0e81be5e8a3e2e77be4fb4fcca12eb781393b5cb.jpeg

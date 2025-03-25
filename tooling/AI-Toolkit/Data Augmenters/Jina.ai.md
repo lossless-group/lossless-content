@@ -7,7 +7,7 @@ tags:
 - Web-Scrapers
 - Data-Augmenters
 - Check-it-Out
-image: 'https://jina.ai/banner.png'
+image: https://jina.ai/banner.png
 site_name: Jina AI
 title: Your Search Foundation, Supercharged.
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/51b018eb015cd7ca4b2ad06a1dbb46f675beb02958a04e29c168cd8aee9dd01e.jpeg

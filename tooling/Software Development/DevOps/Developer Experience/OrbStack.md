@@ -1,9 +1,9 @@
 ---
 site_uuid: 84a95bf8-c44d-4cc5-88c8-e36fc608e2ea
-image: 'https://orbstack.dev/img/icon-square256.png'
+image: https://orbstack.dev/img/icon-square256.png
 site_name: OrbStack
 title: 'Fast, light, simple Docker & Linux'
-favicon: 'https://orbstack.dev/img/icon128.png'
+favicon: https://orbstack.dev/img/icon128.png
 tags:
 - Developer-Experience
 - Software-Development

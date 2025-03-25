@@ -5,10 +5,10 @@ tags:
 - Software-Development
 - DevOps
 - Developer-Experience
-image: 'https://nova.app/social-card.jpg'
+image: https://nova.app/social-card.jpg
 site_name: Nova
 title: Nova
-favicon: 'https://nova.app/favicon-32x32.png'
+favicon: https://nova.app/favicon-32x32.png
 og_errors: true
 og_last_error: '2025-03-07T05:38:03.639Z'
 og_error_message: "Error occurred"

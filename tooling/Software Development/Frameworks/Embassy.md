@@ -3,10 +3,10 @@ site_uuid: 19ed91c1-96b5-42a0-aad4-60c6cb3941bd
 url: https://embassy.dev/
 zinger: The next-generation framework for embedded applications
 description: Write safe, correct and energy-efficient embedded code faster, using the Rust programming language, its async facilities, and the Embassy libraries.
-image: 'https://embassy.dev/banner.png'
+image: https://embassy.dev/banner.png
 site_name: Embassy
 title: Embassy
-favicon: 'https://embassy.dev/favicon.png'
+favicon: https://embassy.dev/favicon.png
 tags:
 - Software-Development
 - Frameworks

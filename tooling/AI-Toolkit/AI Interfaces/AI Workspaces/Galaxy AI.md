@@ -6,7 +6,7 @@ tags:
 - AI-Toolkit
 - AI-Interfaces
 - AI-Workspaces
-image: 'https://galaxy.ai/opengraph-image.png?a2d81d6c0fdbaed4'
+image: https://galaxy.ai/opengraph-image.png?a2d81d6c0fdbaed4
 site_name: Galaxy.ai
 title: Galaxy.ai - Your All-in-One AI Platform
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/b947f97e1c97731cfe8a0cd2518fb889b4e5ac0ff77c743d82c38847e5f646ca.jpeg

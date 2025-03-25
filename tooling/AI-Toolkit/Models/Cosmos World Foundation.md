@@ -5,7 +5,7 @@ description_site_cp: NVIDIA Cosmos™ is a platform of state-of-the-art generati
 tags:
 - AI-Toolkit
 - Models
-image: 'https://www.nvidia.com/content/dam/en-zz/Solutions/ai/cosmos/nvidia-cosmos-og.jpg'
+image: https://www.nvidia.com/content/dam/en-zz/Solutions/ai/cosmos/nvidia-cosmos-og.jpg
 site_name: NVIDIA
 title: NVIDIA Cosmos World Foundation Models
 og_errors: true

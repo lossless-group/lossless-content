@@ -3,10 +3,10 @@ site_uuid: a3da9fd1-64b3-4dc4-ab0e-044bd87670db
 url: https://superwhisper.com/
 tags:
 - AI-Toolkit
-image: 'https://superwhisper.com/image/og-image2x.png'
+image: https://superwhisper.com/image/og-image2x.png
 site_name: superwhisper
 title: superwhisper
-favicon: 'https://superwhisper.com/favicon.ico'
+favicon: https://superwhisper.com/favicon.ico
 og_errors: true
 og_last_error: '2025-03-07T05:36:38.845Z'
 og_error_message: "Error occurred"

@@ -6,7 +6,7 @@ parent_org: [[Microsoft]]
 github_repo_url:   https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one
 tags:
 - AI-Toolkit
-image: 'https://www.microsoft.com/en-us/research/wp-content/uploads/2024/11/magentic-blog-1-1024x577.png'
+image: https://www.microsoft.com/en-us/research/wp-content/uploads/2024/11/magentic-blog-1-1024x577.png
 site_name: Magentic-One
 title: A Generalist Multi-Agent System for Solving Complex Tasks
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/90faaadaa6bbd726a13e7650bd3489ac07b1df9140b8baa76b86f16605ee9dd2.jpeg

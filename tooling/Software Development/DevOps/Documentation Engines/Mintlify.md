@@ -1,9 +1,9 @@
 ---
 site_uuid: c86ab012-1c1e-466c-9d6f-1cd963ea936b
-image: 'https://cdn.prod.website-files.com/66cc2bd703ccf308a49a6188/6731aa4104da280d698c4084_Landing%20page%20OG%20Image.png'
+image: https://cdn.prod.website-files.com/66cc2bd703ccf308a49a6188/6731aa4104da280d698c4084_Landing%20page%20OG%20Image.png
 site_name: Mintlify
 title: The documentation you want, effortlessly
-favicon: 'https://cdn.prod.website-files.com/66cc2bd703ccf308a49a6188/66cc3e0d67f2324645580a18_favicon.png'
+favicon: https://cdn.prod.website-files.com/66cc2bd703ccf308a49a6188/66cc3e0d67f2324645580a18_favicon.png
 tags:
 - Documentation-Engines
 - Software-Development

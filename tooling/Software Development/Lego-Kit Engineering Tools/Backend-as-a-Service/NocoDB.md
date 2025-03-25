@@ -1,9 +1,9 @@
 ---
 site_uuid: d2105dac-7f48-4a5e-a781-9efa359342b6
-image: 'https://uploads-ssl.webflow.com/650a7aeba6c28976499496bb/6525509952f7acbb92bc7b08_Cloud%20Thumbnail.webp'
+image: https://uploads-ssl.webflow.com/650a7aeba6c28976499496bb/6525509952f7acbb92bc7b08_Cloud%20Thumbnail.webp
 site_name: NocoDB Cloud
 title: NocoDB Cloud
-favicon: 'https://cdn.nocodb.com/marketing-site/20250120104552/images/favicon.png'
+favicon: https://cdn.nocodb.com/marketing-site/20250120104552/images/favicon.png
 tags:
 - Lego-Kit-Engineering-Tools
 - Software-Development

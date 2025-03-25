@@ -4,10 +4,10 @@ url: https://www.fileformat.com/
 zinger: An Open-source File Format API Guide For Developers
 description: 'Using open-source APIs and libraries, learn to create, edit, convert, and manipulate PDF, 3D, CAD, Spreadsheet, image, & other file formats with examples.'
 hero: '![[Screenshot 2025-02-23 at 4.00.57 AM_File-Format--Hero.png]]'
-image: 'https://www.fileformat.com/images/fileformat/favicon/apple-touch-icon.png'
+image: https://www.fileformat.com/images/fileformat/favicon/apple-touch-icon.png
 site_name: FileFormat
 title: An Open-source File Format API Guide For Developers
-favicon: 'https://www.fileformat.com/images/fileformat/favicon/favicon-32x32.png'
+favicon: https://www.fileformat.com/images/fileformat/favicon/favicon-32x32.png
 tags:
 - Software-Development
 - Lego-Kit-Engineering-Tools

@@ -1,9 +1,9 @@
 ---
 site_uuid: 0c004ed8-a1d9-46b8-ae2c-4f4f14f46cb1
-image: 'https://nestjs.com/img/nest-og.png'
+image: https://nestjs.com/img/nest-og.png
 site_name: NestJS - A progressive Node.js framework
 title: NestJS - A progressive Node.js framework
-favicon: 'https://nestjs.com/favicon-32x32.42b683bd.png'
+favicon: https://nestjs.com/favicon-32x32.42b683bd.png
 tags:
 - Frameworks
 - Software-Development

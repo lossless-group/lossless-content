@@ -5,10 +5,10 @@ tags:
 - AI-Toolkit
 - Generative-AI
 - Code-Generators
-image: 'https://poolside.ai/og-image.png'
+image: https://poolside.ai/og-image.png
 site_name: poolside
 title: poolside
-favicon: 'https://poolside.ai/favicon.ico'
+favicon: https://poolside.ai/favicon.ico
 jina_last_request: '2025-03-09T06:45:14.898Z'
 jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:20:56.436Z'

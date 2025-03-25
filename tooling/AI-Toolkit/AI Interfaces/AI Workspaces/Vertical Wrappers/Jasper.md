@@ -9,9 +9,9 @@ tags:
 - AI-Interfaces
 - AI-Workspaces
 - Vertical-Wrappers
-image: 'https://cdn.prod.website-files.com/60e5f2de011b86acebc30db7/6721362b1fb2e6a2ef070051_Opengraph%20Image%20-%20Main.png'
+image: https://cdn.prod.website-files.com/60e5f2de011b86acebc30db7/6721362b1fb2e6a2ef070051_Opengraph%20Image%20-%20Main.png
 site_name: Jasper
-favicon: 'https://cdn.prod.website-files.com/60e5f2de011b86acebc30db7/666f33302a54fab58083c231_Favicon.png'
+favicon: https://cdn.prod.website-files.com/60e5f2de011b86acebc30db7/666f33302a54fab58083c231_Favicon.png
 og_errors: true
 og_last_error: '2025-03-07T05:38:03.930Z'
 og_error_message: "Error occurred"

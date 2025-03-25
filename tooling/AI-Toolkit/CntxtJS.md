@@ -9,7 +9,7 @@ tags:
   - Code-Analysis
   - Developer-Tools
   - Visual-Engineering
-image: 'https://opengraph.githubassets.com/05378f91e256c7db30a0b05924e2f3ae5841fe12ee0ac78b75d9cbc9912f50d2/brandondocusen/CntxtJS'
+image: https://opengraph.githubassets.com/05378f91e256c7db30a0b05924e2f3ae5841fe12ee0ac78b75d9cbc9912f50d2/brandondocusen/CntxtJS
 site_name: GitHub
 title: A lightweight tool to optimize your Javascript and Typescript project for LLM context windows by using a knowledge graph
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/da6ddbf4ff4d887f9262a8cc199d70e4987d580aaf86f7eab1e20e232a61b886.jpeg

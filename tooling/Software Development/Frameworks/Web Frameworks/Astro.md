@@ -3,10 +3,10 @@ site_uuid: 545d904c-98c7-430d-b246-5d9b6def7029
 url: https://astro.build/
 zinger: The web framework for content-driven websites
 description: Astro powers the worlds fastest marketing sites, blogs, e-commerce websites, and more.
-image: 'https://astro.build/og/astro.jpg'
+image: https://astro.build/og/astro.jpg
 site_name: Astro
 title: Astro
-favicon: 'https://astro.build/favicon.svg'
+favicon: https://astro.build/favicon.svg
 tags:
 - Web-Frameworks
 - Software-Development

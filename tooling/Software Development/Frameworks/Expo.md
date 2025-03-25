@@ -1,10 +1,10 @@
 ---
 site_uuid: bbfad7d4-a5c8-4aa1-b99a-53b4c256f2cf
 docs_url: https://docs.expo.dev/build/setup/
-image: 'https://static.expo.dev/static/share/generic.jpg'
+image: https://static.expo.dev/static/share/generic.jpg
 site_name: Expo
 title: Expo
-favicon: 'https://static.expo.dev/static/favicons/favicon-light-32x32.png'
+favicon: https://static.expo.dev/static/favicons/favicon-light-32x32.png
 tags:
 - Frameworks
 - Software-Development

@@ -10,10 +10,10 @@ og_last_error: '2025-03-08T20:39:42.555Z'
 og_error_message: "HTTP error 401"
 jina_last_request: '2025-03-09T06:44:58.469Z'
 jina_error: "Error occurred"
-image: 'https://roamresearch.com/assets/astro.png'
+image: https://roamresearch.com/assets/astro.png
 site_name: Roam Research
 title: Roam Research – A note taking tool for networked thought.
-favicon: 'https://roamresearch.com/favicon.ico'
+favicon: https://roamresearch.com/favicon.ico
 og_fetched_url: https://roamresearch.com
 og_last_fetch: '2025-03-14T04:41:54.453Z'
 site_uuid: 32cf75dd-aac3-4a46-83d5-ff914c56b07c

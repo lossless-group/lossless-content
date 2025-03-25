@@ -1,6 +1,6 @@
 ---
 site_uuid: 071e5a6c-215e-4e40-b507-3d72da5f7320
-image: 'https://uploadthing.com/og.jpg?v=2'
+image: https://uploadthing.com/og.jpg?v=2
 site_name: uploadthing
 title: uploadthing
 tags:

@@ -1,9 +1,9 @@
 ---
 site_uuid: 4a42126d-4c2f-49a2-bda8-ecc2a2ccd657
-image: 'https://nextra.site/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcard-1.4f54665c.png&w=3840&q=75'
+image: https://nextra.site/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcard-1.4f54665c.png&w=3840&q=75
 site_name: Nextra
 title: Nextra – Next.js Static Site Generator
-favicon: 'https://nextra.site/icon.svg?cac6a12bdc398585'
+favicon: https://nextra.site/icon.svg?cac6a12bdc398585
 tags:
 - Web-Frameworks
 - Software-Development

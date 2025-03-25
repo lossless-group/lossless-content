@@ -1,9 +1,9 @@
 ---
 site_uuid: 903e2699-c775-48ba-ad16-56dd87b02085
-image: 'https://turbo.build/api/og'
+image: https://turbo.build/api/og
 site_name: Turbo
 title: Turbo
-favicon: 'https://turbo.build/favicon.ico'
+favicon: https://turbo.build/favicon.ico
 tags:
 - Software-Development
 og_errors: true

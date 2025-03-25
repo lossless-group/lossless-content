@@ -6,7 +6,7 @@ zinger: Go from hype to high-value AI
 tags:
 - AI-Toolkit
 - AI-Infrastructure
-image: 'https://fireworks.ai/images/fireworks-logos/twitter-card.png'
+image: https://fireworks.ai/images/fireworks-logos/twitter-card.png
 site_name: Fireworks
 title: Fastest Inference for Generative AI
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/07f61fe6dbcefc724aca7701d58868cd80c2c926fa33a35bff393838c6c7d262.jpeg

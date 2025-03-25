@@ -5,7 +5,7 @@ tags:
 - AI-Toolkit
 - Generative-AI
 - Code-Generators
-image: 'https://cdn.chat2db-ai.com/website/img/social.png'
+image: https://cdn.chat2db-ai.com/website/img/social.png
 site_name: Chat2DB
 title: Chat2DB - AI Text2SQL Tool for Easy Database Management
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/6a5107dd24e9b0bea7d82ca993c4b9ae37942666373f70cd2f33e8126a415dc9.jpeg

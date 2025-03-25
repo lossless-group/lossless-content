@@ -2,7 +2,7 @@
 site_uuid: b03c056b-ccef-49ff-9c16-df5da0c57ce2
 aliases:
 - IFS
-image: 'https://www.ifs.com/-/media10/project/ifs/ifs/images/homepage/ifs-logo-2021-background.jpg'
+image: https://www.ifs.com/-/media10/project/ifs/ifs/images/homepage/ifs-logo-2021-background.jpg
 site_name: Global Enterprise Software Solution Provider
 title: Global Enterprise Software Solution Provider
 tags:

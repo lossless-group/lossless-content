@@ -4,7 +4,7 @@ url: https://jellypod.ai
 tags:
 - AI-Toolkit
 - Generative-AI
-image: 'https://jellypod.ai/opengraph-image.png?52f0f8676b643c02'
+image: https://jellypod.ai/opengraph-image.png?52f0f8676b643c02
 site_name: Jellypod - AI Podcast Studio
 title: 'AI Podcast Studio | Jellypod'
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/04072b5df831fdeb428ff54c4336ffb9be9cfd62423d8a9fa16ac79fbd9e3f65.jpeg

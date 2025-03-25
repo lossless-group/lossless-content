@@ -5,7 +5,7 @@ hero: '![[Screenshot 2025-02-20 at 2.28.53 PM_X_Grok--Hero.png]]'
 tags:
 - AI-Toolkit
 - Models
-image: 'https://grok.com/opengraph-image.png?e8d593eb60fd5bd1'
+image: https://grok.com/opengraph-image.png?e8d593eb60fd5bd1
 site_name: Grok
 title: Grok
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/cd560a68164e0221ed2774aa27b320b2ba17ba5bd612b628566169edba609027.jpeg

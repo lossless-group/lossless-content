@@ -8,7 +8,7 @@ tags:
 - AI-Workspaces
 - Open-Source
 - Runs-Local
-image: 'https://jan.ai/assets/images/general/og-image.png'
+image: https://jan.ai/assets/images/general/og-image.png
 site_name: Jan
 title: 'Open source ChatGPT-alternative that runs 100% offline - Jan'
 og_errors: true

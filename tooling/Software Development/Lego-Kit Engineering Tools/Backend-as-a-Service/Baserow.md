@@ -1,9 +1,9 @@
 ---
 site_uuid: 002588af-8aff-4973-932f-dd166acac156
-image: ""'https://baserow.io/img/baserow_open_graph.png'""
+image: https://baserow.io/img/baserow_open_graph.png
 site_name: Baserow
 title: Baserow - Open source no-code database
-favicon: ""'https://baserow.io/img/favicon_192.png'""
+favicon: https://baserow.io/img/favicon_192.png
 tags:
 - Lego-Kit-Engineering-Tools
 - Software-Development

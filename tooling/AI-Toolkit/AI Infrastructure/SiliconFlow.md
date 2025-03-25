@@ -5,7 +5,7 @@ zinger: Blazing Fast GenAI Stack with Low Cost
 tags:
 - AI-Toolkit
 - AI-Infrastructure
-image: 'https://framerusercontent.com/assets/7vbNABnJobyuHg5UCpPrEhW3nYY.jpeg'
+image: https://framerusercontent.com/assets/7vbNABnJobyuHg5UCpPrEhW3nYY.jpeg
 site_name: SiliconFlow
 title: Accelerate AGI to Benefit Humanity
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/6e28c20c2a9331520db6e344bbb9afec93f65412fbae2636bfb19c171b40db8a.jpeg

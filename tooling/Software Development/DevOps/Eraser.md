@@ -2,10 +2,10 @@
 site_uuid: 1cef5118-0dbf-4108-bb38-7497b7cf06c9
 url: https://www.eraser.io/
 zinger: AI co-pilot‍ for technical design
-image: 'https://cdn.prod.website-files.com/62d58a323cbc396f06a780aa/6703e77bae3793673a054a4b_eraser-og-image.avif'
+image: https://cdn.prod.website-files.com/62d58a323cbc396f06a780aa/6703e77bae3793673a054a4b_eraser-og-image.avif
 site_name: Eraser AI
 title: AI co-pilot for technical design
-favicon: 'https://cdn.prod.website-files.com/62d58a323cbc396f06a780aa/62dd392ad0fe361616a22ed3_Favicon%2032x32.png'
+favicon: https://cdn.prod.website-files.com/62d58a323cbc396f06a780aa/62dd392ad0fe361616a22ed3_Favicon%2032x32.png
 tags:
 - DevOps
 - Software-Development

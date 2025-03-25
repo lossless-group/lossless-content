@@ -3,10 +3,10 @@ site_uuid: 599bd19e-2292-4175-8037-887d64efd9c8
 url: https://zen-browser.app/
 aliases:
 - Zen
-image: ""'https://zen-browser.app/share-pic.png'""
+image: https://zen-browser.app/share-pic.png
 site_name: Zen Browser
 title: Zen Browser
-favicon: ""'https://zen-browser.app/favicon.svg'""
+favicon: https://zen-browser.app/favicon.svg
 tags:
 - Web-Browsers
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/20bbce1a48869323374bd13c1659cb6b7875e041f78bbb477eaca42dd04844a6.jpeg

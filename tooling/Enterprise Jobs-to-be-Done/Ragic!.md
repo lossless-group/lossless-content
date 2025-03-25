@@ -9,7 +9,7 @@ og_last_error: '2025-03-08T20:39:42.879Z'
 og_error_message: "HTTP error 401"
 jina_last_request: '2025-03-09T06:45:16.883Z'
 jina_error: "Error occurred"
-image: 'https://www.ragic.com/sims/img/webPreviewLogos/en/ragic_logo.png'
+image: https://www.ragic.com/sims/img/webPreviewLogos/en/ragic_logo.png
 site_name: Ragic
 title: '#1 No Code database builder - Ragic'
 og_fetched_url: https://www.ragic.com/

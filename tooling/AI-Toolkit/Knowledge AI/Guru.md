@@ -6,7 +6,7 @@ description: All your company info, all in one place. Guru brings everything tog
 tags:
 - AI-Toolkit
 - Knowledge-AI
-image: 'https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/67a65c0c4ad3942cc0631529_OG-1%20(2).avif'
+image: https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/67a65c0c4ad3942cc0631529_OG-1%20(2).avif
 site_name: 'Guru | AI'
 title: 'Guru | AI-Powered Enterprise Search, Intranet, and Wiki'
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/42a6d83228ad764faf3ae0015e437e78dbdd92f475c9cd4fd5814e37cde8aaca.jpeg

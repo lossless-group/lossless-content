@@ -1,9 +1,9 @@
 ---
 site_uuid: 7e94035f-2b3d-4660-bbe6-a1b8b8f37b6f
-image: 'https://cdn.prod.website-files.com/663559c9207f91d5a1ba91ba/6758bf034c4e5f674add5c84_generic-meta-lockup.png'
+image: https://cdn.prod.website-files.com/663559c9207f91d5a1ba91ba/6758bf034c4e5f674add5c84_generic-meta-lockup.png
 site_name: Parabola
 title: Make easy work of tough logic
-favicon: 'https://cdn.prod.website-files.com/660c64c653c676f877b3ef55/6632c3618655aa755163b372_Favicon.png'
+favicon: https://cdn.prod.website-files.com/660c64c653c676f877b3ef55/6632c3618655aa755163b372_Favicon.png
 tags:
 - Productivity
 - Advanced-Spreadsheets

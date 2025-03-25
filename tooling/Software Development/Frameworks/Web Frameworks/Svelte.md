@@ -1,9 +1,9 @@
 ---
 site_uuid: 507b2391-50a0-45fb-9a77-7508679d14f5
-image: ""'https://svelte.dev/images/twitter-thumbnail.jpg'""
+image: https://svelte.dev/images/twitter-thumbnail.jpg
 site_name: Svelte
 title: Svelte
-favicon: ""'https://svelte.dev/favicon.png'""
+favicon: https://svelte.dev/favicon.png
 tags:
 - Web-Frameworks
 - Software-Development

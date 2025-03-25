@@ -7,7 +7,7 @@ tags:
 - Software-Development
 - Frameworks
 - Web-Frameworks
-image: 'https://dotnet.microsoft.com/blob-assets/images/dotnet-icons/square.png'
+image: https://dotnet.microsoft.com/blob-assets/images/dotnet-icons/square.png
 site_name: Microsoft
 title: 'Blazor | Build client web apps with C# | .NET'
 og_errors: true

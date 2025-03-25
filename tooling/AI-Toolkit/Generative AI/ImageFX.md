@@ -5,7 +5,7 @@ tags:
 - AI-Toolkit
 - Generative-AI
 - gen-ai--image
-image: 'https://labs.google/fx/icons/favicon/touch-icon.png'
+image: https://labs.google/fx/icons/favicon/touch-icon.png
 site_name: ImageFX
 title: ImageFX - labs.google/fx
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/bbed634f3183b3e34309f8fff72b4af7c71ddb7c972052130a0a828169c0f9f0.jpeg

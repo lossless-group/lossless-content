@@ -5,7 +5,7 @@ parent_org: [[Pydantic]]
 tags:
 - AI-Toolkit
 - Agentic-AI
-image: 'https://ai.pydantic.dev/assets/images/social/index.png'
+image: https://ai.pydantic.dev/assets/images/social/index.png
 site_name: PydanticAI
 title: PydanticAI
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/473e7956a86382e6796123980a600b6f34412a694c4ed56c558fa1a9359ba1fd.jpeg

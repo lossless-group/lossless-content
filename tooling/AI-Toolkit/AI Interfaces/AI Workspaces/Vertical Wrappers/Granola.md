@@ -3,10 +3,10 @@ site_uuid: a4491f0b-d7bb-4424-96da-6a622b2dcd3c
 url: https://granola.ai
 zinger: The AI notepad for people inback-to-back meetings
 description: Granola takes your raw meeting notes and makes them awesome
-image: 'https://granola.ai/opengraph-image.png?9f0ee69b11547e2f'
+image: https://granola.ai/opengraph-image.png?9f0ee69b11547e2f
 site_name: Granola
 title: Granola — The AI Notepad for people in back-to-back meetings
-favicon: 'https://www.granola.ai/./favicon.ico'
+favicon: https://www.granola.ai/./favicon.ico
 tags:
 - AI-Toolkit
 - AI-Interfaces

@@ -1,9 +1,9 @@
 ---
 site_uuid: 46cd380b-9b00-4499-95f2-6ed5e67ff430
-image: 'https://antora.org/img/site-image.png'
+image: https://antora.org/img/site-image.png
 site_name: Antora
 title: Antora
-favicon: 'https://antora.org/favicon.ico'
+favicon: https://antora.org/favicon.ico
 tags:
 - Programming-Languages
 - Libraries

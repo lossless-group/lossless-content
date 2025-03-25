@@ -3,10 +3,10 @@ site_uuid: e31d7e86-ab95-4361-a067-a9424f14d717
 url: https://codeium.com/windsurf
 description: The first agentic IDE, and then some. The Windsurf Editor is where the work of developers and AI truly flow together, allowing for a coding experience thatfeels like literal magic.
 zinger: Built to keep you in flow state
-image: 'https://exafunction.github.io/public/images/windsurf/windsurf-ide-thumbnail.jpg'
+image: https://exafunction.github.io/public/images/windsurf/windsurf-ide-thumbnail.jpg
 site_name: Windsurf
 title: Windsurf Editor by Codeium
-favicon: 'https://codeium.com/favicon.ico'
+favicon: https://codeium.com/favicon.ico
 tags:
   - AI-Toolkit
   - Generative-AI

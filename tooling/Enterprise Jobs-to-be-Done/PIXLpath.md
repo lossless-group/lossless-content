@@ -9,7 +9,7 @@ og_last_error: '2025-03-08T20:39:42.942Z'
 og_error_message: "HTTP error 401"
 jina_last_request: '2025-03-09T06:45:07.391Z'
 jina_error: "Error occurred"
-image: 'https://www.pixlpath.com/images/pixelPath.png'
+image: https://www.pixlpath.com/images/pixelPath.png
 site_name: PIXLPath
 title: 'PIXLPath: Digital asset management for Apple the ecosystem'
 og_fetched_url: https://www.pixlpath.com/

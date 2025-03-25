@@ -1,9 +1,9 @@
 ---
 site_uuid: fad216db-2487-446d-a76b-e74ab7226ff1
-image: ""'https://nats.io/img/new_social_nats.png'""
+image: https://nats.io/img/new_social_nats.png
 site_name: NATS.io
 title: NATS.io
-favicon: ""'https://nats.io/favicon.ico'""
+favicon: https://nats.io/favicon.ico
 tags:
 - Software-Development
 - Cloud-Infrastructure

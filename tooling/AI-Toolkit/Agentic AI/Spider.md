@@ -5,7 +5,7 @@ tags:
 - AI-Toolkit
 - Agentic-AI
 - data-capture
-image: 'https://spider.cloud/img/spider-og.png'
+image: https://spider.cloud/img/spider-og.png
 site_name: Spider
 title: 'Spider: The Web Crawler for AI'
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/be57bd56b91fbfa06989e638a4fa532dabee04f351d10636501dcb4cfac7588f.jpeg

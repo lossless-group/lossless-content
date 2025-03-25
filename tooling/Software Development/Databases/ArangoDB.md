@@ -4,10 +4,10 @@ tags:
 - Software-Development
 - Databases
 - database
-image: ""'https://arangodb.com/wp-content/uploads/2024/02/Image-5-2.gif'""
+image: https://arangodb.com/wp-content/uploads/2024/02/Image-5-2.gif
 site_name: ArangoDB
 title: Home
-favicon: ""'https://arangodb.com/wp-content/uploads/2023/08/cropped-favicon-192x192.png'""
+favicon: https://arangodb.com/wp-content/uploads/2023/08/cropped-favicon-192x192.png
 og_errors: true
 og_last_error: '2025-03-07T05:36:34.550Z'
 og_error_message: "Error occurred"

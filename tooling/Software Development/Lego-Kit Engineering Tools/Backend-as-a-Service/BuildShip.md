@@ -1,9 +1,9 @@
 ---
 site_uuid: fa68d48e-753a-4a6b-9807-92dbc7de5c2d
-image: 'https://framerusercontent.com/assets/aaCyZXQ3YVWFlDC7RJh6KsexeXM.png'
+image: https://framerusercontent.com/assets/aaCyZXQ3YVWFlDC7RJh6KsexeXM.png
 site_name: 'BuildShip | Visual Low'
 title: 'BuildShip | Visual Low-code Backend Builder'
-favicon: 'https://framerusercontent.com/images/b51Z2Y1mVJl1y1zVjfJM7Ykw8O0.png'
+favicon: https://framerusercontent.com/images/b51Z2Y1mVJl1y1zVjfJM7Ykw8O0.png
 tags:
 - Lego-Kit-Engineering-Tools
 - Software-Development

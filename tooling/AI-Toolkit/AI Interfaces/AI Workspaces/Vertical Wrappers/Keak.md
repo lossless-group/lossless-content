@@ -3,10 +3,10 @@ site_uuid: 9c9ffc8c-b6dd-426a-aced-1efa19bc01f7
 url: https://keak.com/
 zinger: Higher conversion rates driven by AI
 description: The first AI agent that continuously improves your website.
-image: 'https://framerusercontent.com/images/vbCSzsdkZsbhG2RE3PH9PywnugU.png'
+image: https://framerusercontent.com/images/vbCSzsdkZsbhG2RE3PH9PywnugU.png
 site_name: Keak
 title: Keak
-favicon: 'https://framerusercontent.com/images/7O25asSN8XNyGB2KZM1hjlOLpBU.png'
+favicon: https://framerusercontent.com/images/7O25asSN8XNyGB2KZM1hjlOLpBU.png
 tags:
 - AI-Toolkit
 - AI-Interfaces

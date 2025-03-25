@@ -6,7 +6,7 @@ description: Tribe helps organizations rapidly deploy AI solutions that have rea
 hero: '![[Screenshot 2025-02-23 at 4.19.00 AM_Tribe-AI--Hero.png]]'
 tags:
 - AI-Toolkit
-image: 'https://cdn.prod.website-files.com/63c0a7ce63e7241d23e5e2bc/63c0a81e6584d9ad52d00f13_5fc411381c29730239f8ea09_web.webp'
+image: https://cdn.prod.website-files.com/63c0a7ce63e7241d23e5e2bc/63c0a81e6584d9ad52d00f13_5fc411381c29730239f8ea09_web.webp
 site_name: Tribe AI
 title: 'Tribe AI | AI Talent Network and Consulting'
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/078dbb8074582a3fb12ae6855387de3389e292484ddf0599da0c214c81c93d0f.jpeg

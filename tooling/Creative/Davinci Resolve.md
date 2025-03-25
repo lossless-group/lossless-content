@@ -3,7 +3,7 @@ url: https://www.blackmagicdesign.com/products/davinciresolve
 tags: 
 date_created: 2025-03-21
 date_modified: 2025-03-24
-image: 'https://images.blackmagicdesign.com/images/products/davinciresolve/common/resolve-19-logo.svg?_v=1712289576'
+image: https://images.blackmagicdesign.com/images/products/davinciresolve/common/resolve-19-logo.svg?_v=1712289576
 site_name: DaVinci Resolve 19
 title: 'DaVinci Resolve 19 | Blackmagic Designcart iconcart icon'
 og_fetched_url: https://www.blackmagicdesign.com/products/davinciresolve

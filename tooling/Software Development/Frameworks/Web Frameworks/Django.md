@@ -1,9 +1,9 @@
 ---
 site_uuid: 7e8d2ec4-dd19-48c1-a13d-10f66a4dd6f8
-image: 'https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png'
+image: https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png
 site_name: Django Project
 title: Django
-favicon: 'https://static.djangoproject.com/img/icon-touch.e4872c4da341.png'
+favicon: https://static.djangoproject.com/img/icon-touch.e4872c4da341.png
 tags:
 - Web-Frameworks
 - Software-Development

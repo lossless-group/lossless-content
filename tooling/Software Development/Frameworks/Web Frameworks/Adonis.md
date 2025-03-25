@@ -1,9 +1,9 @@
 ---
 site_uuid: 3809e132-7d39-4426-ac76-114b132d21b5
-image: 'https://adonisjs.com/home_og_image.jpeg'
+image: https://adonisjs.com/home_og_image.jpeg
 site_name: AdonisJS
 title: A fully featured web framework for Node.js
-favicon: 'https://adonisjs.com/icons/favicon-32x32.png'
+favicon: https://adonisjs.com/icons/favicon-32x32.png
 tags:
 - Web-Frameworks
 - Software-Development

@@ -7,7 +7,7 @@ tags:
 - AI-Toolkit
 - Agentic-AI
 - Agentic-Workspaces
-image: 'https://storage.googleapis.com/trypromptly-static/static/images/opengraph.jpg'
+image: https://storage.googleapis.com/trypromptly-static/static/images/opengraph.jpg
 site_name: LLMStack
 title: 'AI Agents in Minutes | No-code AI App Builder'
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/ebf4732dafc499920ac4f1f449082010d6371835b71c8280ab8788ef84074bb3.jpeg

@@ -5,7 +5,7 @@ tags:
 - AI-Toolkit
 - Generative-AI
 - Code-Generators
-image: 'https://cdn.prod.website-files.com/663e06c56841363663ffbbcf/66ec6feca7bf0098d3110173_social%20card%402x.webp'
+image: https://cdn.prod.website-files.com/663e06c56841363663ffbbcf/66ec6feca7bf0098d3110173_social%20card%402x.webp
 site_name: Continue
 title: Continue
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/ae32ba215c4f07be8226cffd1d62f72d6bf7599d88182904e4e37583966be6d1.jpeg

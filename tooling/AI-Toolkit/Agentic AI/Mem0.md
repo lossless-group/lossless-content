@@ -6,7 +6,7 @@ description_site_cp: A self-improving memory layer for LLM applications, enablin
 tags:
 - AI-Toolkit
 - Agentic-AI
-image: 'https://framerusercontent.com/images/0BKYXAOL1pY26qiLXn8MH7b5fM.png'
+image: https://framerusercontent.com/images/0BKYXAOL1pY26qiLXn8MH7b5fM.png
 site_name: Mem0
 title: Mem0 - The Memory layer for your AI apps
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/eabe664722a73b9c483c988b58e123c5b2e685f853c7caa8764fffedf7eef2df.jpeg

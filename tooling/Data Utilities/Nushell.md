@@ -1,9 +1,9 @@
 ---
 site_uuid: 44c6a6cf-751e-492d-a7ea-a354e52a3eb7
-image: 'https://www.nushell.sh/frontpage/ls-example.png'
+image: https://www.nushell.sh/frontpage/ls-example.png
 site_name: Nushell
 title: Nushell
-favicon: 'https://www.nushell.sh/icon.png'
+favicon: https://www.nushell.sh/icon.png
 tags:
   - Data-Utilities
   - Terminal-Emulators

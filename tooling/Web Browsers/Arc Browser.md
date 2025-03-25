@@ -11,10 +11,10 @@ og_last_error: '2025-03-08T20:39:41.880Z'
 og_error_message: "HTTP error 401"
 jina_last_request: '2025-03-09T06:45:02.500Z'
 jina_error: "Error occurred"
-image: 'https://arc.net/og.png'
+image: https://arc.net/og.png
 site_name: Arc from The Browser Company
 title: Arc from The Browser Company
-favicon: 'https://arc.net/favicon.png'
+favicon: https://arc.net/favicon.png
 og_fetched_url: https://arc.net
 og_last_fetch: '2025-03-14T04:41:14.912Z'
 site_uuid: 2478b6ee-318d-4ef7-9709-d63a9048352e

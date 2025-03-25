@@ -5,10 +5,10 @@ tags:
 - Software-Development
 - Databases
 - database
-image: 'https://www.geldata.com/logos/tw_card_intro.png'
+image: https://www.geldata.com/logos/tw_card_intro.png
 site_name: Gel
 title: 'Gel | Postgres Unchained'
-favicon: 'https://www.edgedb.com/favicon-32x32.png'
+favicon: https://www.edgedb.com/favicon-32x32.png
 og_errors: true
 og_last_error: '2025-03-07T05:36:40.011Z'
 og_error_message: "Error occurred"

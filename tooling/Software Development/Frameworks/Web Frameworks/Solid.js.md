@@ -1,9 +1,9 @@
 ---
 site_uuid: aa8a1986-761e-48b9-8019-d95aeb860074
-image: 'https://www.solidjs.com/og.jpg'
+image: https://www.solidjs.com/og.jpg
 site_name: SolidJS
 title: SolidJS
-favicon: 'https://www.solidjs.com/img/favicons/favicon-32x32.png'
+favicon: https://www.solidjs.com/img/favicons/favicon-32x32.png
 tags:
 - Web-Frameworks
 - Software-Development

@@ -11,7 +11,7 @@ og_last_error: '2025-03-08T20:39:43.501Z'
 og_error_message: "HTTP error 401"
 jina_last_request: '2025-03-09T06:45:17.495Z'
 jina_error: "Error occurred"
-image: 'https://nodered.org/images/nr-image-1.png'
+image: https://nodered.org/images/nr-image-1.png
 site_name: Low
 title: 'Low-code programming for event-driven applications : Node-RED'
 og_fetched_url: https://nodered.org

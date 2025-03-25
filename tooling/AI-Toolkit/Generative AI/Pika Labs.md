@@ -5,7 +5,7 @@ tags:
 - AI-Toolkit
 - Generative-AI
 - gen-ai--video
-image: 'https://pika-beuu3bsvf-pika-labs.vercel.app/images/og.jpeg'
+image: https://pika-beuu3bsvf-pika-labs.vercel.app/images/og.jpeg
 site_name: Pika
 title: Pika
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/3e860d578a9d2d5bf36ea32e2871db1928f10d67f005c48428fda671cdc43da0.jpeg

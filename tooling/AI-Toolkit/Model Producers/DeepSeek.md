@@ -4,10 +4,10 @@ url: https://www.deepseek.com/
 tags:
 - AI-Toolkit
 - Model-Producers
-image: 'https://chat.deepseek.com/deepseek-chat.jpeg'
+image: https://chat.deepseek.com/deepseek-chat.jpeg
 site_name: DeepSeek
 title: DeepSeek
-favicon: 'https://www.deepseek.com/favicon.ico'
+favicon: https://www.deepseek.com/favicon.ico
 jina_last_request: '2025-03-09T06:45:08.080Z'
 jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:19:18.720Z'

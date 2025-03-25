@@ -1,9 +1,9 @@
 ---
 site_uuid: 07974b57-8cdf-4625-9109-e37cea5e92a6
-image: ""'https://anytype.io/ogimage.jpg'""
+image: https://anytype.io/ogimage.jpg
 site_name: the everything app
 title: anytype — the everything app
-favicon: ""'https://anytype.io/favicon-32x32.png'""
+favicon: https://anytype.io/favicon-32x32.png
 tags:
 - Productivity
 - Advanced-Documents

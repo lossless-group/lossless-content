@@ -2,10 +2,10 @@
 site_uuid: c00b3700-114a-4e76-9d55-3f9c71597dcf
 url: https://quasar.dev/
 zinger: The enterprise-ready cross-platform VueJs framework
-image: 'https://cdn.quasar.dev/logo-v2/social-cover.jpg'
+image: https://cdn.quasar.dev/logo-v2/social-cover.jpg
 site_name: Quasar Framework
 title: Quasar Framework - Build high-performance VueJS user interfaces in record time
-favicon: 'https://cdn.quasar.dev/logo-v2/favicon/favicon-128x128.png'
+favicon: https://cdn.quasar.dev/logo-v2/favicon/favicon-128x128.png
 tags:
 - Frameworks
 - Software-Development

@@ -4,10 +4,10 @@ url: https://nx.dev
 zinger: Smart Monorepos, Fast CI
 description: Build system, optimized for monorepos, with AI-poweredarchitectural awareness and advanced CI capabilities.
 hero: [[Screenshot 2025-02-23 at 2.14.55 AM_Nx--Hero.png]]
-image: 'https://nx.dev/socials/nx-media.png'
+image: https://nx.dev/socials/nx-media.png
 site_name: Nx
 title: 'Nx: Smart Monorepos · Fast CI'
-favicon: 'https://nx.dev/favicon/favicon-32x32.png'
+favicon: https://nx.dev/favicon/favicon-32x32.png
 tags:
 - Software-Development
 - DevOps

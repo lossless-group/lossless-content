@@ -7,7 +7,7 @@ tags:
 - Software-Development
 - Frameworks
 - Web-Frameworks
-image: 'https://angularjs.org/img/angularjs-for-header-only.svg'
+image: https://angularjs.org/img/angularjs-for-header-only.svg
 site_name: Angular
 title: Superheroic JavaScript MVW Framework
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/b79f7a0024168491927e9bed26bc7de8fc6d8b5d31a06fae66b222d35fb86a17.jpeg

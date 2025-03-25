@@ -4,7 +4,7 @@ url: https://www.mindstudio.ai/
 tags:
 - AI-Toolkit
 - Generative-AI
-image: 'https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/672530c84cf86cc774b0d161_Getting%20Started%20with%20MindStudio%201.png'
+image: https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/672530c84cf86cc774b0d161_Getting%20Started%20with%20MindStudio%201.png
 site_name: MindStudio
 title: MindStudio
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/a066df0370b87c348389a35b906473f8b3886088d08794cec0002160b35cad95.jpeg

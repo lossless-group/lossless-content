@@ -6,7 +6,7 @@ tags:
 - Agentic-AI
 - agentic-ai
 youtube_url: https://www.youtube.com/@activepiecesco
-image: 'https://www.activepieces.com/meta1.png'
+image: https://www.activepieces.com/meta1.png
 site_name: Activepieces
 title: AI-first automation for every team
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/2c0e8fad4caa3532f8f3fc771cd1b8c9c00032163d8f8f18ab9155f083d53d6e.jpeg

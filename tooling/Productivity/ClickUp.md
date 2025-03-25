@@ -1,9 +1,9 @@
 ---
 site_uuid: ced5bc2f-723c-4a6f-af09-2ef9078d6052
-image: ""'https://clickup.com/assets/brand/clickup-meta.png'""
+image: https://clickup.com/assets/brand/clickup-meta.png
 site_name: ClickUp™
 title: The everything app for work
-favicon: ""'https://clickup.com/favicons/favicon-32x32.png'""
+favicon: https://clickup.com/favicons/favicon-32x32.png
 tags:
 - Productivity
 - Workflow-Management

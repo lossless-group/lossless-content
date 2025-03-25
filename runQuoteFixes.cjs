@@ -32,9 +32,11 @@ async function processDirectory(dir) {
             if (entry.isDirectory()) {
                 // Skip node_modules and .git
                 if (entry.name !== 'node_modules' && entry.name !== '.git') {
+                    console.log(`Searching in directory: ${fullPath}`); // Debug log
                     await walk(fullPath);
                 }
             } else if (entry.name.endsWith('.md')) {
+                console.log(`Processing ${fullPath}...`); // Debug log
                 try {
                     const content = await fs.readFile(fullPath, 'utf8');
                     const result = await processQuoteFixes(content, fullPath);
@@ -64,6 +66,7 @@ async function main() {
 
     // Process files in the tooling directory
     const toolingDir = path.join(process.cwd(), 'tooling');
+    console.log(`Looking for files in ${toolingDir}`); // Debug log
     const results = await processDirectory(toolingDir);
 
     // Generate and save report

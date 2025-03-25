@@ -1,9 +1,9 @@
 ---
 site_uuid: b99e2bb9-8c8f-491d-adc3-09768b12a73d
-image: 'https://www.proxmox.com/images/proxmox/Proxmox-logo-stacked-1240.png'
+image: https://www.proxmox.com/images/proxmox/Proxmox-logo-stacked-1240.png
 site_name: Proxmox
 title: Proxmox Virtual Environment
-favicon: 'https://www.proxmox.com/favicon.ico'
+favicon: https://www.proxmox.com/favicon.ico
 tags:
 - Software-Development
 - DevOps

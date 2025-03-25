@@ -7,7 +7,7 @@ github_repo_url: https://github.com/LadybirdBrowser/ladybird
 github_profile_url: https://github.com/LadybirdBrowser
 tags:
 - Web-Browsers
-image: 'https://ladybird.org/assets/img/ladybird-purple-on-black.png'
+image: https://ladybird.org/assets/img/ladybird-purple-on-black.png
 site_name: Ladybird
 title: An open source modern browser.
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/8653be1cd285d2660652db0e8fc6986b4101f77f6a1efca1f16701e6d430e4ac.jpeg

@@ -4,7 +4,7 @@ url: https://www.cinemaflow.ai/
 tags:
 - AI-Toolkit
 - Generative-AI
-image: 'https://cdn.prod.website-files.com/6584ec0df6c940bca78f736b/65bb0176a1cb0df0b9803e7a_256.png'
+image: https://cdn.prod.website-files.com/6584ec0df6c940bca78f736b/65bb0176a1cb0df0b9803e7a_256.png
 site_name: CinemaFlow AI
 title: CinemaFlow AI - Where Your Words Become Cinematic Reality
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/2da079b52cf6815aae4f29f059152c28d47b2c7949c74ae72a3f76fd51eb29f6.jpeg

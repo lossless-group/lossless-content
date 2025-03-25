@@ -15,10 +15,10 @@ og_last_error: '2025-03-08T20:39:43.014Z'
 og_error_message: "HTTP error 401"
 jina_last_request: '2025-03-09T06:45:20.884Z'
 jina_error: "Error occurred"
-image: 'https://www.knack.com/wp-content/uploads/2023/09/Untitled-design-87.png'
+image: https://www.knack.com/wp-content/uploads/2023/09/Untitled-design-87.png
 site_name: 'Knack: No-Code Application Development Platform'
 title: Home
-favicon: 'https://www.knack.com/wp-content/smush-webp/2023/06/cropped-favicon-1-192x192.png.webp'
+favicon: https://www.knack.com/wp-content/smush-webp/2023/06/cropped-favicon-1-192x192.png.webp
 og_fetched_url: https://www.knack.com
 og_last_fetch: '2025-03-14T04:42:10.316Z'
 site_uuid: 0313f8dd-0059-41e7-8240-d4bedb772d1b

@@ -2,10 +2,10 @@
 site_uuid: 9d3236fb-72fe-4046-b434-d5a221012400
 zinger: Realtime sync for any backend stack
 description: Replicache is a client-side sync framework for building realtime, collaborative web apps with zero-latency user interfaces. It works with most backend stacks.
-image: 'https://replicache.dev/og-image.png'
+image: https://replicache.dev/og-image.png
 site_name: Replicache
 title: 'Replicache: Framework for local-first web apps.'
-favicon: 'https://replicache.dev/icons/favicon-32x32.png'
+favicon: https://replicache.dev/icons/favicon-32x32.png
 tags:
 - Software-Development
 - Frameworks

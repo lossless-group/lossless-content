@@ -5,7 +5,7 @@ tags:
 - AI-Toolkit
 - Generative-AI
 - creative-tools
-image: 'https://playground.com/og/default.png'
+image: https://playground.com/og/default.png
 site_name: Playground
 title: 'Free AI Design Tool: Logos, T-Shirts, Social Media - Playground'
 jina_last_request: '2025-03-09T06:45:17.298Z'

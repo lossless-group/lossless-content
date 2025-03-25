@@ -1,9 +1,9 @@
 ---
 site_uuid: 5aeec84c-2119-4116-8aba-45ac742c3aa6
-image: 'https://iconscout.com/og.png'
+image: https://iconscout.com/og.png
 site_name: IconScout
 title: Download 10.6 Million+ Icons, Illustrations, 3D Illustrations, and Lottie Animations
-favicon: 'https://iconscout.com/android-icon-192x192.png'
+favicon: https://iconscout.com/android-icon-192x192.png
 tags: 
 - Creative 
 - Digital-Asset-Library

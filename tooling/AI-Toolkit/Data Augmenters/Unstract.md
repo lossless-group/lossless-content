@@ -4,10 +4,10 @@ url: https://unstract.com/
 tags:
 - AI-Toolkit
 - Data-Augmenters
-image: 'https://unstract.com/wp-content/uploads/2024/10/extract-data-from-documents-with-unstract.png'
+image: https://unstract.com/wp-content/uploads/2024/10/extract-data-from-documents-with-unstract.png
 site_name: Unstract.com →
 title: 'Unstract: LLM Powered ETL for Unstructured Data'
-favicon: 'https://unstract.com/wp-content/uploads/2024/03/unstract-u.png'
+favicon: https://unstract.com/wp-content/uploads/2024/03/unstract-u.png
 og_errors: true
 og_last_error: '2025-03-07T05:36:40.748Z'
 og_error_message: "Error occurred"

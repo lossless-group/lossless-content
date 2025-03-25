@@ -1,9 +1,9 @@
 ---
 site_uuid: 96a4669a-346c-49b9-ac9f-9814f2e7f0cc
-image: 'https://www.digitalocean.com/_next/static/media/social-share-default.e8530e9e.jpeg'
+image: https://www.digitalocean.com/_next/static/media/social-share-default.e8530e9e.jpeg
 site_name: DigitalOcean
 title: DigitalOcean
-favicon: 'https://www.digitalocean.com/_next/static/media/android-chrome-512x512.5f2e6221.png'
+favicon: https://www.digitalocean.com/_next/static/media/android-chrome-512x512.5f2e6221.png
 tags:
 - Software-Development
 - Cloud-Infrastructure

@@ -4,7 +4,7 @@ url: https://storm.genie.stanford.edu/
 tags:
 - AI-Toolkit
 - Models
-image: 'https://storm.genie.stanford.edu/_next/static/media/logo_full_v2.9bfb3ec4.svg'
+image: https://storm.genie.stanford.edu/_next/static/media/logo_full_v2.9bfb3ec4.svg
 site_name: STORM
 title: STORM
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/5f02951191a580f0e712cbb094facba1b5e089007dadac79e6887b575579da81.jpeg

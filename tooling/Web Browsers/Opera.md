@@ -2,10 +2,10 @@
 site_uuid: 8309e69a-6fb2-4c4f-a422-d8a212a29de2
 aliases:
 - Opera Browser
-image: 'https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/og/og-opera-lp-home.93205b794a09.png'
+image: https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/og/og-opera-lp-home.93205b794a09.png
 site_name: Opera Web Browser
 title: 'Opera Web Browser | Faster, Safer, Smarter | Opera'
-favicon: 'https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/favicon/favicon-32x32.ddd494719bed.png'
+favicon: https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/favicon/favicon-32x32.ddd494719bed.png
 tags:
 - Web-Browsers
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/e86723fc0a4176fdd336ac0802c453e457a05c1f857d082a340fa18de55ba253.jpeg

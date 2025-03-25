@@ -5,7 +5,7 @@ date_created: 2025-03-08
 date_modified: 2025-03-24
 github_repo_url: https://github.com/ML-GSAI/LLaDA
 huggingface_url: https://huggingface.co/GSAI-ML/LLaDA-8B-Instruct
-image: 'https://ml-gsai.github.io/LLaDA-demo/static/image/your_banner_image.png'
+image: https://ml-gsai.github.io/LLaDA-demo/static/image/your_banner_image.png
 site_name: SOCIAL MEDIA TITLE TAG
 title: SOCIAL MEDIA TITLE TAG
 og_fetched_url: https://ml-gsai.github.io/LLaDA-demo/

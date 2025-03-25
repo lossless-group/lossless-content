@@ -1,9 +1,9 @@
 ---
 site_uuid: 196f796c-01b8-4033-9d8d-382cd2624107
-image: 'https://www.airtable.com/images/airtable-seo.jpg'
+image: https://www.airtable.com/images/airtable-seo.jpg
 site_name: Airtable
 title: The platform to build next‒gen apps
-favicon: 'https://www.airtable.com/favicon.ico'
+favicon: https://www.airtable.com/favicon.ico
 tags:
 - Productivity
 - Database-Apps

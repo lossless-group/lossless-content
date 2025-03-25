@@ -1,9 +1,9 @@
 ---
 site_uuid: 947e4c7d-a12e-46c8-91fb-5a1b6c2ad21a
-image: 'https://www.luckfox.com/image/cache/catalog/2-2x-600x315w.png'
+image: https://www.luckfox.com/image/cache/catalog/2-2x-600x315w.png
 site_name: LUCKFOX
 title: LUCKFOX
-favicon: 'https://www.luckfox.com/image/catalog/luckfox-ico.png'
+favicon: https://www.luckfox.com/image/catalog/luckfox-ico.png
 tags:
 - Hardware
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/7a4a1bdfcd877d9213df194ae078c1aa19b9ffb4c16defca20090d84d9bcd146.jpeg

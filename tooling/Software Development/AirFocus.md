@@ -10,10 +10,10 @@ og_last_error: '2025-03-07T10:19:44.412Z'
 og_error_message: "HTTP error 401"
 jina_last_request: '2025-03-09T06:44:58.186Z'
 jina_error: "Error occurred"
-image: 'https://airfocus.com/static/9153e167c28e4c21d4ed3a1ff387c8a0/meta-default.png'
+image: https://airfocus.com/static/9153e167c28e4c21d4ed3a1ff387c8a0/meta-default.png
 site_name: Strategic Product Management Platform
 title: Strategic Product Management Platform
-favicon: 'https://airfocus.com/favicon-32x32.png?v=23206af13918f4ec72b2582ef7d0e3c7'
+favicon: https://airfocus.com/favicon-32x32.png?v=23206af13918f4ec72b2582ef7d0e3c7
 og_fetched_url: https://airfocus.com
 og_last_fetch: '2025-03-14T04:41:27.821Z'
 site_uuid: b2b80367-fb2d-4b70-b7ab-05b867e61bd2

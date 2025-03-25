@@ -1,9 +1,9 @@
 ---
 site_uuid: 372e1c80-df7f-4a3b-942c-0cdcf6f3d017
-image: ""'https://d3js.org/logo.png'""
+image: https://d3js.org/logo.png
 site_name: D3
 title: D3
-favicon: ""'https://d3js.org/logo.png'""
+favicon: https://d3js.org/logo.png
 tags:
 - Software-Development
 - Frameworks

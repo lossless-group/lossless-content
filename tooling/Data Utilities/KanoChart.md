@@ -1,6 +1,6 @@
 ---
 site_uuid: 0e7a6fb7-1600-4c63-81a2-0bba63e6bd67
-image: 'https://kanochart.com/static/logo.svg'
+image: https://kanochart.com/static/logo.svg
 site_name: Kanochart
 title: Kanochart - Prioritize with confidence
 tags:

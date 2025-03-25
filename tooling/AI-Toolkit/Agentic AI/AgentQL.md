@@ -6,7 +6,7 @@ tags:
 - AI-Toolkit
 - Agentic-AI
 - data-capture
-image: 'https://www.agentql.com/images/social-previews/og-images/home.png'
+image: https://www.agentql.com/images/social-previews/og-images/home.png
 site_name: AgentQL
 title: Make the Web AI-Ready
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/fae89d34a3d415c166516d7317a30624bd8997c7473419fe0760af28e572e4a7.jpeg

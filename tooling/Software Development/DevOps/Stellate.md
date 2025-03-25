@@ -1,9 +1,9 @@
 ---
 site_uuid: 1ad59f03-c5a1-4447-bae2-b18bad015550
-image: 'https://stellate.co/social.png'
+image: https://stellate.co/social.png
 site_name: Stellate
 title: 'Stellate: Scalable, Secure GraphQL APIs at the Edge'
-favicon: 'https://stellate.co/favicon-128.png'
+favicon: https://stellate.co/favicon-128.png
 tags:
 - Software-Development
 - DevOps

@@ -5,7 +5,7 @@ tags:
 - Software-Development
 - Databases
 - database
-image: 'https://duckdb.org/images/sharingduckdb.jpg'
+image: https://duckdb.org/images/sharingduckdb.jpg
 site_name: DuckDB
 title: An in-process SQL OLAP database management system
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/e567e1e36a98588256f59e24d07868c8e82c58d9165dc56222d14d6445884b06.jpeg

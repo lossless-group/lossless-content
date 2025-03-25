@@ -2,10 +2,10 @@
 url: https://www.adobe.com/products/photoshop.html
 date_created: 2025-03-15
 date_modified: 2025-03-24
-image: 'https://www.adobe.com/products/media_119739d1166fa243f6f90e73ac48c7894ff47908e.jpeg?width=1200&format=pjpg&optimize=medium'
+image: https://www.adobe.com/products/media_119739d1166fa243f6f90e73ac48c7894ff47908e.jpeg?width=1200&format=pjpg&optimize=medium
 site_name: Official Adobe Photoshop
 title: 'Official Adobe Photoshop - Free Trial and Online Photo & Design App'
-favicon: 'https://www.adobe.com/products/data:,'
+favicon: https://www.adobe.com/products/data:,
 og_fetched_url: https://www.adobe.com/products/photoshop.html
 og_last_fetch: '2025-03-24T05:59:23.293Z'
 og_screenshot: 

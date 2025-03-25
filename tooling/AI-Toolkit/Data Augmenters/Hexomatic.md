@@ -7,7 +7,7 @@ tags:
 - data-capture
 - workflow-automation
 zinger: Web scraping +AI work automation, made easy
-image: 'https://hexomatic.com/Home-page-illustrations.jpg'
+image: https://hexomatic.com/Home-page-illustrations.jpg
 site_name: Web Scraping and Workflow Automation Made Easy
 title: 'Web Scraping and Workflow Automation Made Easy | Hexomatic'
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/cffffa5793b189f92b843d396909836026bc188415af4598b19bfbf7ef2d82bd.jpeg

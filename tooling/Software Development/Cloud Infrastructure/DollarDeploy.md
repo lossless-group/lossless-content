@@ -1,9 +1,9 @@
 ---
 site_uuid: 4f576cee-33c0-4371-bd1e-db5e3b536f59
-image: 'https://dollardeploy.com/cover.jpg'
+image: https://dollardeploy.com/cover.jpg
 site_name: DollarDeploy
 title: Self-host with one-click deployments on a budget.
-favicon: 'https://dollardeploy.com/icon-dark.png'
+favicon: https://dollardeploy.com/icon-dark.png
 tags:
 - Software-Development
 - Cloud-Infrastructure

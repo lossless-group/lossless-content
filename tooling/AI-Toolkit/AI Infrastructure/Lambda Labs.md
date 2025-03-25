@@ -1,6 +1,6 @@
 ---
 site_uuid: d91b6b63-9f8c-43b4-924c-39afb27f243c
-image: 'https://lambdalabs.com/hubfs/Featured%20Images%20-%20Lambda%20logo.png'
+image: https://lambdalabs.com/hubfs/Featured%20Images%20-%20Lambda%20logo.png
 site_name: Lambda Labs
 url: https://lambdalabs.com/
 title: 'Lambda | GPU Compute for AI'

@@ -4,7 +4,7 @@ url: https://www.partykit.io/
 tags:
 - AI-Toolkit
 - Agentic-AI
-image: 'https://www.partykit.io/assets/made-with/product_stately.png'
+image: https://www.partykit.io/assets/made-with/product_stately.png
 site_name: PartyKit
 title: PartyKit - Turn everything into a realtime multiplayer app
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/a672fb1a82f16cd1e757e2c893add1a8940f494b23039fa843ac6b91bd234a32.jpeg

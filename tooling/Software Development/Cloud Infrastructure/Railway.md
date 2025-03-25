@@ -1,9 +1,9 @@
 ---
 site_uuid: b258b305-fbca-4088-a5b9-a60641e45cf1
-image: ""'https://railway.app/og.png?v=2'""
+image: https://railway.app/og.png?v=2
 site_name: Railway
 title: Railway
-favicon: ""'https://railway.com/favicon-96x96.png'""
+favicon: https://railway.com/favicon-96x96.png
 tags:
 - Software-Development
 - Cloud-Infrastructure

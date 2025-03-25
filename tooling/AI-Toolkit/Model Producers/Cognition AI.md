@@ -6,10 +6,10 @@ description: We’re the makers of Devin, a collaborative AI teammate that helps
 tags:
 - AI-Toolkit
 - Model-Producers
-image: 'https://www.cognition.ai/images/social.png'
+image: https://www.cognition.ai/images/social.png
 site_name: Cognition
 title: An applied AI lab building the future of software engineering
-favicon: 'https://www.cognition.ai/icons/favicon.svg'
+favicon: https://www.cognition.ai/icons/favicon.svg
 jina_last_request: '2025-03-09T06:44:58.701Z'
 jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:19:18.720Z'

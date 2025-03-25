@@ -1,9 +1,9 @@
 ---
 site_uuid: 9e920326-3c11-41fa-bc99-fa091ecd8db9
-image: 'https://htmx.org/img/ads_top.png'
+image: https://htmx.org/img/ads_top.png
 site_name: '</> htmx'
 title: High power tools for HTML
-favicon: 'https://htmx.org/favicon.svg'
+favicon: https://htmx.org/favicon.svg
 tags:
 - Frameworks
 - Software-Development

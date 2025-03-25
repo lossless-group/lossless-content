@@ -9,10 +9,10 @@ og_last_error: '2025-03-08T20:39:42.326Z'
 og_error_message: "HTTP error 401"
 jina_last_request: '2025-03-09T06:45:03.937Z'
 jina_error: "Error occurred"
-image: 'https://www.productplan.com/uploads/ProductPlan-CC.png'
+image: https://www.productplan.com/uploads/ProductPlan-CC.png
 site_name: ProductPlan
 title: 'Product Roadmap Software | ProductPlan'
-favicon: 'https://www.productplan.com/uploads/LogoMark-FullColor-300x300.png'
+favicon: https://www.productplan.com/uploads/LogoMark-FullColor-300x300.png
 og_fetched_url: https://www.productplan.com
 og_last_fetch: '2025-03-14T04:41:24.240Z'
 site_uuid: b6ee3cf4-b5d6-42dd-9ed9-058ca6b95751

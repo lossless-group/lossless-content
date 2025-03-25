@@ -3,7 +3,7 @@ site_uuid: 8d5ae86d-0298-412f-adfe-e9c70a4fdb01
 url: https://www.trypromptly.com/
 tags:
 - AI-Toolkit
-image: 'https://storage.googleapis.com/trypromptly-static/static/images/logo.png'
+image: https://storage.googleapis.com/trypromptly-static/static/images/logo.png
 site_name: Promptly
 title: 'Generative AI for Enterprises | No-code AI App Builder'
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/4ba56372be3981392093ef700088e788fe7c630185dd3ea6f6b87ce967035f13.jpeg

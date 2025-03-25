@@ -1,9 +1,9 @@
 ---
 site_uuid: 8eaa13e0-9d6a-4d21-9952-eeff496eeefb
-image: 'https://deno.com/og/image.jpg'
+image: https://deno.com/og/image.jpg
 site_name: Deno
 title: Deno, the next-generation JavaScript runtime
-favicon: 'https://deno.com/favicon.ico'
+favicon: https://deno.com/favicon.ico
 tags:
 - Software-Development
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/b522df73c3c721cecfeace16be81bacfcd9b06006fde40fca32e86c2c35d3358.jpeg

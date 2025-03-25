@@ -6,7 +6,7 @@ zinger: The Innovation Engine for GenAI Applications
 tags:
 - AI-Toolkit
 - AI-Programming-Frameworks
-image: 'https://framerusercontent.com/assets/wh4qGCAanwpqHs0Kot8VLBSty4.png'
+image: https://framerusercontent.com/assets/wh4qGCAanwpqHs0Kot8VLBSty4.png
 site_name: Dify.AI
 title: The Innovation Engine for Generative AI Applications
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/eb274cb892747ac14f78de65eeac7dc2009c4cd83c0ba16e2dc7ca292f8e6490.jpeg

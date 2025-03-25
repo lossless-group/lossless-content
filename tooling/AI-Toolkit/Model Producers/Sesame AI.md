@@ -12,7 +12,7 @@ og_last_error: '2025-03-08T20:39:44.196Z'
 og_error_message: "HTTP error 401"
 jina_last_request: '2025-03-09T06:45:16.781Z'
 jina_error: "Error occurred"
-image: 'https://www.ai-sesame.com/logo.png'
+image: https://www.ai-sesame.com/logo.png
 site_name: Sesame AI
 title: Sesame AI - AI Voice Model for Natural and Expressive Speech
 og_fetched_url: https://www.ai-sesame.com

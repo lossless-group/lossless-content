@@ -12,10 +12,10 @@ og_last_error: '2025-03-14T04:42:55.108Z'
 og_error_message: "Fetch error: fetch failed"
 jina_last_request: '2025-03-09T06:45:01.605Z'
 jina_error: "Error occurred"
-image: 'https://fuzen.io/wp-content/uploads/2023/09/cropped-fuzen-favicon-180x180.png'
+image: https://fuzen.io/wp-content/uploads/2023/09/cropped-fuzen-favicon-180x180.png
 site_name: Fuzen - Build SaaS without coding
 title: Home - Fuzen
-favicon: 'https://fuzen.io/wp-content/uploads/2023/09/cropped-fuzen-favicon-192x192.png'
+favicon: https://fuzen.io/wp-content/uploads/2023/09/cropped-fuzen-favicon-192x192.png
 og_fetched_url: https://fuzen.io
 og_last_fetch: '2025-03-14T05:04:17.427Z'
 site_uuid: 4d5734ad-3b3d-432d-bdb6-6e5e45105389

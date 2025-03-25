@@ -5,7 +5,7 @@ tags:
 - AI-Toolkit
 - Agentic-AI
 - Agentic-Workspaces
-image: 'https://cdn.prod.website-files.com/662045194682cc2afb0bf239/67600414bd8f3aac9a49513b_Dynamiq_metaImage_dark_2.webp'
+image: https://cdn.prod.website-files.com/662045194682cc2afb0bf239/67600414bd8f3aac9a49513b_Dynamiq_metaImage_dark_2.webp
 site_name: Dynamiq
 title: 'Dynamiq: The Operating Platform for GenAI Applications'
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/52794d25193bad219c094ed8870157302fbb2692cb28a0e97d3dc55f3ff77c57.jpeg

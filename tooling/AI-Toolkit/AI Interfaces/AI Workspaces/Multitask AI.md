@@ -5,7 +5,7 @@ tags:
 - AI-Toolkit
 - AI-Interfaces
 - AI-Workspaces
-image: 'https://multitaskai.com/en/opengraph-image.png?b56cabe202c3a688'
+image: https://multitaskai.com/en/opengraph-image.png?b56cabe202c3a688
 site_name: MultitaskAI
 title: MultitaskAI - The Custom Chat UI for OpenAI, Anthropic, Google Gemini, and Top AI Models
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/dc368d764c9e75a8e260ded4336dbfd5f48d0794ad0a5ef8bc26f10c2bd84097.jpeg

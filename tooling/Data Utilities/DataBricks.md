@@ -5,7 +5,7 @@ tags:
 - Data-Utilities
 - data-storage
 - data-tooling
-image: ""https://www.databricks.com/sites/default/files/2023-11/databricks-og-universal.png""
+image: https://www.databricks.com/sites/default/files/2023-11/databricks-og-universal.png
 site_name: Databricks
 title: The Data and AI Company — Databricks
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/42aaa147ffc4a84ee2f837ee8c5005842c36c79fea79f9e5644cd8c215635c40.jpeg

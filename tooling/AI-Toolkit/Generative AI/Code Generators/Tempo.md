@@ -6,7 +6,7 @@ tags:
   - Generative-AI
   - Code-Generators
   - React-Ecosystem
-image: 'https://tempo.new/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftempo-editor.720457c1.webp&w=3840&q=75'
+image: https://tempo.new/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftempo-editor.720457c1.webp&w=3840&q=75
 site_name: Tempo Labs
 title: Prompt. Develop. Design. Collaborate.
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/16cd4f14380c7d847ecf6957bc4ed12737eb620b1a6fc1c764582394cd44c96b.jpeg

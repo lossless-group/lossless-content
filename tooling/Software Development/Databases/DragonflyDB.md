@@ -1,6 +1,6 @@
 ---
 site_uuid: 3000d423-4c96-44b5-b7d6-a7e063081a21
-image: ""'https://www.dragonflydb.io/dragonfly-OG.jpg'""
+image: https://www.dragonflydb.io/dragonfly-OG.jpg
 site_name: Dragonfly
 title: Dragonfly - The Fastest In-Memory Data Store
 tags:

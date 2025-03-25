@@ -10,10 +10,10 @@ og_last_error: '2025-03-08T20:39:42.484Z'
 og_error_message: "HTTP error 401"
 jina_last_request: '2025-03-09T06:45:12.838Z'
 jina_error: "Error occurred"
-image: 'https://a.slack-edge.com/737c9d1/marketing/img/homepage/revamped-24/unfurl/hp-revamp-unfurl.en-GB.jpg'
+image: https://a.slack-edge.com/737c9d1/marketing/img/homepage/revamped-24/unfurl/hp-revamp-unfurl.en-GB.jpg
 site_name: Slack
 title: 'AI Work Management & Productivity Tools'
-favicon: 'https://a.slack-edge.com/80588/marketing/img/meta/favicon-32.png'
+favicon: https://a.slack-edge.com/80588/marketing/img/meta/favicon-32.png
 og_fetched_url: https://slack.com
 og_last_fetch: '2025-03-14T04:41:52.247Z'
 site_uuid: cb14cfb0-4bd2-4c77-aa57-eefcda20a0c2

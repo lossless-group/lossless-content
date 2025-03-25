@@ -5,7 +5,7 @@ tags:
   - AI-Interfaces
   - AI-Workspaces
   - Desktop-App
-image: 'https://psc2.cf2.poecdn.net/assets/apple-touch-icon.png'
+image: https://psc2.cf2.poecdn.net/assets/apple-touch-icon.png
 site_name: Poe
 title: Poe - Fast, Helpful AI Chat
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/b208d0f2ab53c41acfd04b1becb7836efbb6edb41e44da08a1b3f1be756fb8a8.jpeg

@@ -1,9 +1,9 @@
 ---
 site_uuid: 85e94d82-c1c7-4162-92ef-234eaeecbfff
-image: 'https://userlist.com/assets/Userlist-Preview.png'
+image: https://userlist.com/assets/Userlist-Preview.png
 site_name: Userlist
 title: Email Marketing Automation for Product-led Growth
-favicon: 'https://userlist.com/images/favicon.png'
+favicon: https://userlist.com/images/favicon.png
 tags:
 - Enterprise-Jobs-to-be-Done
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/74a66bc2dcaae72f2b92a34ca5b063d6d74e2a42394eb61a6ee1d3912c0d67f0.jpeg

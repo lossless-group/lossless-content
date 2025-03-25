@@ -8,7 +8,7 @@ tags:
 - AI-Toolkit
 - Agentic-AI
 - Agentic-Workspaces
-image: 'https://kestra.io/og-image.png'
+image: https://kestra.io/og-image.png
 site_name: Kestra
 title: Open Source Declarative Data Orchestration
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/b29fb5bc4c42e59de38bc74d3b9b7e54be426e689b7cf8bd5af39645c07e1b7b.jpeg

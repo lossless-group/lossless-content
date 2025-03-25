@@ -8,7 +8,7 @@ tags:
 - AI-Toolkit
 - AI-Interfaces
 - AI-Workspaces
-image: 'https://big-agi.com/icons/card-dark-1200.png'
+image: https://big-agi.com/icons/card-dark-1200.png
 site_name: Big AGI
 title: Deploy Your Generative AI Suite
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/3f0ef748c3e0fd26bce9f4d1a8522adee2f7d40e351617ebcf0d138bc1cfeb35.jpeg

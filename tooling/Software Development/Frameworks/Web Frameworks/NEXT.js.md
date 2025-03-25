@@ -5,7 +5,7 @@ tags:
 - Software-Development
 - Frameworks
 - Web-Frameworks
-image: 'https://assets.vercel.com/image/upload/front/nextjs/twitter-card.png'
+image: https://assets.vercel.com/image/upload/front/nextjs/twitter-card.png
 site_name: Next.js by Vercel
 title: Next.js by Vercel - The React Framework
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/eb7997fa534a94dc3d8fee21cb75aa0b430b825be109834e4450033de1bbb555.jpeg

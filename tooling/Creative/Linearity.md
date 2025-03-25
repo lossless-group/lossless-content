@@ -1,6 +1,6 @@
 ---
 site_uuid: 96d2ed41-7488-427c-a151-51107f3e2fdd
-image: ""'https://a.storyblok.com/f/197805/1920x1080/d89ab5b204/meta-image-curve.png'""
+image: https://a.storyblok.com/f/197805/1920x1080/d89ab5b204/meta-image-curve.png
 site_name: Linearity
 title: 'Professional Vector Design & Animation Tools for Apple Devices | Linearity'
 tags:

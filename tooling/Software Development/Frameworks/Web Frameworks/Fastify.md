@@ -2,10 +2,10 @@
 site_uuid: 19b8d7f5-906e-4912-a336-114b07ff4b2c
 url: https://fastify.io/
 zinger: Fast and low overhead web framework, for Node.js
-image: 'https://fastify.io/img/logos/fastify-black.svg'
+image: https://fastify.io/img/logos/fastify-black.svg
 site_name: Fast and low overhead web framework, for Node.js
 title: 'Fast and low overhead web framework, for Node.js | Fastify'
-favicon: 'https://fastify.dev/img/favicon.ico'
+favicon: https://fastify.dev/img/favicon.ico
 tags:
 - Frameworks
 - Software-Development

@@ -1,9 +1,9 @@
 ---
 site_uuid: f4d45233-9d13-4892-8b8b-7cc53bf9df63
-image: 'https://framerusercontent.com/images/ULLjDc352L91ujuHm78OCGd11c.png'
+image: https://framerusercontent.com/images/ULLjDc352L91ujuHm78OCGd11c.png
 site_name: Mem
 title: Mem\_– The AI Notes App That Keeps You Organized
-favicon: 'https://framerusercontent.com/images/pcjGzLsSNegtXTeIDGRh3kERV4Y.png'
+favicon: https://framerusercontent.com/images/pcjGzLsSNegtXTeIDGRh3kERV4Y.png
 tags:
 - AI-Toolkit
 - AI-Interfaces

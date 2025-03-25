@@ -7,7 +7,7 @@ tags:
 - AI-Interfaces
 - AI-Workspaces
 - ai--rag-stack
-image: 'https://notebooklm.google/_/static/branding/v4/og/notebook_lm_share.png'
+image: https://notebooklm.google/_/static/branding/v4/og/notebook_lm_share.png
 site_name: Google NotebookLM
 title: 'Google NotebookLM | Note Taking & Research Assistant Powered by AI'
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/67710e994bff5b1432c7bea1a9d09b6347b8ec99aaceaedd36d26f698c6dbafb.jpeg

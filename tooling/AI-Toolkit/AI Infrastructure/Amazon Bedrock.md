@@ -6,7 +6,7 @@ zinger: The easiest way to build and scale generative AI applications with found
 tags:
 - AI-Toolkit
 - AI-Infrastructure
-image: 'https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png'
+image: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png
 site_name: Amazon Bedrock
 title: Build Generative AI Applications with Foundation Models on AWS
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/1be135e96b98cec1a8f05fc1a93211f36238018444b9fe99ceb19c24f4d10ae1.jpeg
