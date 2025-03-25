@@ -6,7 +6,8 @@ github_repo_url: TiDB - the open-source, cloud-native, distributed SQL database 
 zinger: TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 tags:
   - Open-Source
-  - Databases---
+  - Databases
+---
 
 
 Hybrid Transactional and Analytical Processing

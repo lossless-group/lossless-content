@@ -9,6 +9,7 @@ tags:
 aliases:
   - Modern
   - ModernJS
-  - Modern.js---
+  - Modern.js
+---
 
 [[Concepts/Explainers for Tooling/Web Frameworks|Web Framework]]

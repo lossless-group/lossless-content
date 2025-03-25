@@ -4,7 +4,8 @@ url: https://www.lenovo.com/us/en/c/desktops/thinkcentre/
 product_of: "[[Organizations/Lenovo|Lenovo]]"
 date_created: 2025-03-14
 date_modified: 2025-03-24
-tags:---
+tags:
+---
 
 [[Vocabulary/Mini Desktops|Mini-PCs]]
 

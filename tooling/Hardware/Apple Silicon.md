@@ -4,7 +4,8 @@ wikipedia_url: https://en.wikipedia.org/wiki/Apple_silicon
 date_created: 2025-03-20
 date_modified: 2025-03-24
 aliases:
-  - M Series---
+  - M Series
+---
 
 [[Sources/Books/Chip War|Chip War]]
 

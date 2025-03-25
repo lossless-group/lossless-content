@@ -8,5 +8,6 @@ zinger: Sharper. Smoother. Larger. Clearer.
 tags:
   - Image-Enhancers
   - Video-Generators
-  - Model-Producers---
+  - Model-Producers
+---
 

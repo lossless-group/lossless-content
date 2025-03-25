@@ -12,6 +12,7 @@ og_fetched_url: https://pagefind.app/
 og_last_fetch: '2025-03-24T06:28:27.124Z'
 og_screenshot: 
 https: '//youtu.be/v79VRrfVau8?si=UOO_lc8K27lSk5f7'
+---
 
 Good for [[Vocabulary/Static Site Generators]]
 
