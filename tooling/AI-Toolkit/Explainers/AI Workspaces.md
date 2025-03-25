@@ -6,6 +6,7 @@ aliases:
 date_modified: 2025-03-24
 ---
 
+
 [[Multitask AI]]
 
 https://youtu.be/QGtkaDWJZlA?si=Uh4bqntSo96hF5Q4

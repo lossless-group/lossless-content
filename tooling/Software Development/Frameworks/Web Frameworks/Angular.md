@@ -18,6 +18,7 @@ date_modified: 2025-03-24
 ---
 
 
+
 A [[JavaScript]] based [[Web Frameworks|Web Framework]] created and maintained by [[Google]].
 
 [[Angular]] is more of a competitor to [[Vue.js]] and [[DotNET]].

@@ -18,6 +18,7 @@ og_last_fetch: '2025-03-07T05:19:02.915Z'
 date_modified: 2025-03-24
 ---
 
+
 2025, February 21. [This AI VS Code extension actually works with large codebases!](http://localhost:5173/). GosuCoder. [[YouTube]]
 
 2023, August 8. [Soo...what is Nx?](https://www.youtube.com/watch?v=-_4WMl-Fn0w). Nx - Smart Monorepos - Fast CI.

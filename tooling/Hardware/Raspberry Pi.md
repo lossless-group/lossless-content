@@ -18,6 +18,7 @@ date_modified: 2025-03-24
 
 
 
+
 2023, Mar 26. [Google’s New TPU Turns Raspberry Pi into a Supercomputer!](https://youtube.com/shorts/VRk_itxLZQI?si=4O63wC2GJ0jMyJVM) Combined with a [[Coral Edge TPU]]
 
 Runs on [[The Linux Foundation]]

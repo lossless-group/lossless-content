@@ -19,6 +19,7 @@ date_modified: 2025-03-24
 ---
 
 
+
 Creates a UI for [[Artificial Intelligence|AI]]
 
 https://youtu.be/XvY_BF1IV_U?si=6nn192pUQ0S9viNU

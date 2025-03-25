@@ -6,4 +6,5 @@ og_last_fetch: '2025-03-17T05:14:27.000Z'
 date_modified: 2025-03-24
 ---
 
+
 A [[Marketing Automation]] system owned and maintained by [[Oracle]].

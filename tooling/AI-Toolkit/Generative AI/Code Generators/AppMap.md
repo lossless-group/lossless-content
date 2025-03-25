@@ -17,6 +17,7 @@ og_last_fetch: '2025-03-07T05:20:56.441Z'
 date_modified: 2025-03-24
 ---
 
+
 [[Visual Software Development]]
 
 2024, October 10. [Using GitHub Copilot LLM to Create Detailed Diagrams with AppMap Navie #coding #aicoding](https://youtube.com/shorts/jztXLSb2pl8?si=RNvZ-QPCrWKJXLT4). AppMap.

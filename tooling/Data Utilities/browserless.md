@@ -15,6 +15,7 @@ og_last_fetch: '2025-03-07T05:19:01.831Z'
 date_modified: 2025-03-24
 ---
 
+
 An [[AI Powered Data Capture]] tool.
 <span query="get(hero)"></span>![[Screenshot 2025-02-20 at 11.09.01 PM_browserless--Hero.png]]<span type="end"></span>
 

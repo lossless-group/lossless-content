@@ -17,6 +17,7 @@ og_last_fetch: '2025-03-14T05:42:19.712Z'
 date_modified: 2025-03-24
 ---
 
+
 Skip is a [[Web Frameworks|Web Framework]] focused on the [[Back-End Engineering]], created and managed at [[Meta]] and [[Facebook]]
 
 

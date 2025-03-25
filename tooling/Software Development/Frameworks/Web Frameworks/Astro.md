@@ -18,6 +18,7 @@ og_last_fetch: '2025-03-07T05:20:56.428Z'
 date_modified: 2025-03-24
 ---
 
+
 A new [[Web Frameworks|Web Framework]] that focuses on [[Static Site Generators|Static Site Generation]], but also perfectly implements [[Islands Architecture]] 
 
 https://youtu.be/tWEx_cm0cf8?si=1ELVD6iww1luMzKn

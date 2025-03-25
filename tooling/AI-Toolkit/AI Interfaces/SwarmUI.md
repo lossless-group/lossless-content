@@ -5,7 +5,8 @@ description_site_cp: SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusio
 tags:
   - AI-Interfaces
 date_created: 2025-03-05
-date_modified: 2025-03-24---
+date_modified: 2025-03-24
+---
 
 
 https://youtu.be/GolXZRx2nVc?si=HY4EPqh4Hdwc-51L

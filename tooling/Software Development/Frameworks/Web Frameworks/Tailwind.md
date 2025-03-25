@@ -15,6 +15,7 @@ og_last_fetch: '2025-03-06T21:44:14.300Z'
 date_modified: 2025-03-24
 ---
 
+
 A [[Web Frameworks|Web Framework]] for managing [[CSS]]. It's [[Opinionated]] about [[Inline Styles]]
 
 

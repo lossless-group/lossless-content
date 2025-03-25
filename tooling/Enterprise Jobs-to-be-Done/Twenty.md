@@ -14,6 +14,7 @@ date_modified: 2025-03-24
 ---
 
 
+
 [[Twenty]] is a [[State of the Art]] [[CRM]], and it is [[Open Source]]
 
 ##### [[Twenty]] is an [[Open Source]] [[CRM|Customer Relationship Management]] system. 

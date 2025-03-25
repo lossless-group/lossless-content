@@ -17,6 +17,7 @@ date_modified: 2025-03-24
 ---
 
 
+
 [[Database Apps]], defaults to [[Open Source]] as an alternative to [[Airtable]]
 
 https://youtu.be/9JFDqA1VpOA?si=wOu8-yvg8JmqT434

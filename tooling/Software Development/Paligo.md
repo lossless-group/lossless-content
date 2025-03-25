@@ -13,6 +13,7 @@ og_last_fetch: '2025-03-07T05:19:01.815Z'
 date_modified: 2025-03-24
 ---
 
+
 Part of the current [[Current Stack|Laerdal Tech Stack]], [[Paligo]] is a [[Documentation]] tool. It seems to be [[State of the Art]], and is a more fully-featured [[Documentation]] Engine than most alternatives.
 
 This is an example of our concepts for [[Cognitive, Collaborative Tooling]]

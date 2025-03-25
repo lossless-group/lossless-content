@@ -9,6 +9,7 @@ tags:
 date_modified: 2025-03-24
 ---
 
+
 https://youtube.com/shorts/_iKchC7NjEE?si=kpjSdOWfYvtmKicX
 
 [[Python]] [[Packages and Libraries|Package]] manager

@@ -15,6 +15,7 @@ og_last_fetch: '2025-03-07T05:19:01.782Z'
 date_modified: 2025-03-24
 ---
 
+
 ##### Opera has a dead simple Onboarding.
 ![[Screenshot From 2024-12-24 16-20-19_Opera--Onboarding.png]]
 ##### Opera has Dark and Light Modes

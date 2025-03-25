@@ -15,6 +15,7 @@ og_last_fetch: '2025-03-07T05:19:01.828Z'
 date_modified: 2025-03-24
 ---
 
+
 [[Asynchronous Communication]], [[Cognitive, Collaborative Tooling]]
 ##### [[Jumpshare]] is an easy way to share any media, but with more sophisticated tooling.
 ![[Screenshot 2025-02-24 at 11.52.10 PM_Jumpshare.png]]

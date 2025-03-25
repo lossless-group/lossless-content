@@ -13,6 +13,17 @@ async function processMarkdownFile(content, filePath) {
         let modified = false;
         let modifications = [];
         
+        // First fix any missing closing delimiter
+        const delimiterResult = await fixMissingFrontmatterDelimiter(content, filePath);
+        if (!delimiterResult.success) {
+            return delimiterResult;
+        }
+        if (delimiterResult.modified) {
+            content = delimiterResult.content;
+            modified = true;
+            modifications.push(...delimiterResult.modifications);
+        }
+
         // Check if content has frontmatter delimiters
         const hasFrontmatter = content.startsWith('---\n');
         let newContent = content;
@@ -92,6 +103,115 @@ async function processMarkdownFile(content, filePath) {
 }
 
 /**
+ * Fixes missing closing frontmatter delimiters by analyzing the content structure
+ * 
+ * Logic:
+ * 1. First checks if we have an opening '---' but no closing one
+ * 2. Then looks for the "grouping" of frontmatter key-value pairs
+ * 3. Uses a pattern to identify frontmatter lines (key: value format)
+ * 4. When it finds two consecutive empty lines or non-frontmatter lines,
+ *    that's where the frontmatter section ends
+ * 5. Inserts the closing delimiter at that position
+ * 
+ * @param {string} content - The markdown file content
+ * @param {string} filePath - Path to the file (for logging)
+ * @returns {Object} Result object with modified content and status
+ */
+async function fixMissingFrontmatterDelimiter(content, filePath) {
+    try {
+        // Check if we already have balanced delimiters
+        const delimiterMatches = content.match(/---/g);
+        if (!delimiterMatches || delimiterMatches.length === 0) {
+            return {
+                success: true,
+                modified: false,
+                content,
+                file: filePath
+            };
+        }
+
+        // If we have balanced delimiters, no fix needed
+        if (delimiterMatches.length >= 2) {
+            return {
+                success: true,
+                modified: false,
+                content,
+                file: filePath
+            };
+        }
+
+        // We have an opening delimiter but no closing one
+        // Split content into lines for analysis
+        const lines = content.split('\n');
+        let inFrontmatter = false;
+        let lastFrontmatterLine = -1;
+        let emptyLineCount = 0;
+
+        // Pattern for frontmatter lines: key: value
+        // This matches lines that:
+        // 1. Start with any characters except whitespace
+        // 2. Have a colon
+        // 3. Optionally have any characters after the colon
+        const frontmatterLinePattern = /^[^:\s]+:\s*.*$/;
+
+        for (let i = 0; i < lines.length; i++) {
+            const line = lines[i];
+            
+            // Start of frontmatter
+            if (line.trim() === '---' && !inFrontmatter) {
+                inFrontmatter = true;
+                continue;
+            }
+
+            if (inFrontmatter) {
+                if (line.trim() === '') {
+                    emptyLineCount++;
+                    // Two empty lines likely indicates end of frontmatter
+                    if (emptyLineCount >= 2 && lastFrontmatterLine !== -1) {
+                        break;
+                    }
+                } else {
+                    emptyLineCount = 0;
+                    if (frontmatterLinePattern.test(line)) {
+                        lastFrontmatterLine = i;
+                    } else if (lastFrontmatterLine !== -1) {
+                        // If we've seen frontmatter lines before and this isn't one,
+                        // we're probably at the end of the frontmatter
+                        break;
+                    }
+                }
+            }
+        }
+
+        // If we found the end of frontmatter section
+        if (lastFrontmatterLine !== -1) {
+            // Insert closing delimiter after the last frontmatter line
+            lines.splice(lastFrontmatterLine + 1, 0, '---');
+            return {
+                success: true,
+                modified: true,
+                content: lines.join('\n'),
+                modifications: ['Added missing frontmatter closing delimiter'],
+                file: filePath
+            };
+        }
+
+        return {
+            success: false,
+            error: 'Could not determine frontmatter boundaries',
+            file: filePath
+        };
+
+    } catch (error) {
+        return {
+            success: false,
+            error: error.message,
+            file: filePath
+        };
+    }
+}
+
+/**
  * Process all markdown files in a directory
  */
 async function processDirectory(directory) {
@@ -146,6 +266,7 @@ function formatReport(results) {
         added_frontmatter: [],
         added_uuid: [],
         updated_date: [],
+        fixed_delimiters: [],
         errors: []
     };
 
@@ -158,7 +279,7 @@ function formatReport(results) {
                 const formattedPath = `[[Tooling/${parts[1].replace('.md', '')}]]`;
                 
                 result.modifications.forEach(mod => {
-                    if (mod.includes('frontmatter')) {
+                    if (mod.includes('frontmatter delimiters')) {
                         modTypes.added_frontmatter.push(formattedPath);
                     }
                     if (mod.includes('site_uuid')) {
@@ -166,6 +287,9 @@ function formatReport(results) {
                     }
                     if (mod.includes('date_modified')) {
                         modTypes.updated_date.push(formattedPath);
+                    }
+                    if (mod.includes('closing delimiter')) {
+                        modTypes.fixed_delimiters.push(formattedPath);
                     }
                 });
             }
@@ -188,6 +312,11 @@ function formatReport(results) {
         [...new Set(modTypes.updated_date)].join(', ') + '\n\n' :
         'No files needed date updates\n\n';
 
+    report += '### Fixed Missing Frontmatter Delimiters\n';
+    report += modTypes.fixed_delimiters.length > 0 ? 
+        [...new Set(modTypes.fixed_delimiters)].join(', ') + '\n\n' :
+        'No files needed delimiter fixes\n\n';
+
     if (modTypes.errors.length > 0) {
         report += '### Errors\n';
         report += modTypes.errors.join('\n') + '\n\n';
@@ -200,5 +329,6 @@ function formatReport(results) {
 module.exports = {
     processMarkdownFile,
     processDirectory,
-    formatReport
+    formatReport,
+    fixMissingFrontmatterDelimiter
 };

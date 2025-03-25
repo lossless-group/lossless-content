@@ -17,5 +17,6 @@ og_last_fetch: '2025-03-07T05:20:56.425Z'
 date_modified: 2025-03-24
 ---
 
+
 [[Visual Software Development]], [[Data Standard]]
 ![[Screenshot 2025-02-24 at 7.38.00 PM_Mermaid-js--Hero.png]]

@@ -7,6 +7,7 @@ date_modified: 2025-03-24
 
 
 
+
 https://youtu.be/KWLwgLYvaqE?si=VgLLzVDh2n92xHSL
 
 https://www.gimp.org/tutorials/Basic_Batch/

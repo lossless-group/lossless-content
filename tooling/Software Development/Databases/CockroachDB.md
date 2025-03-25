@@ -17,6 +17,7 @@ og_last_fetch: '2025-03-07T05:19:02.925Z'
 date_modified: 2025-03-24
 ---
 
+
 Based on [[Postgres]]
 
 https://youtu.be/xXU62yC1uX8?si=dPxWva9ytW2Wyztr

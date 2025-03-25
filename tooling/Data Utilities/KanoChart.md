@@ -12,6 +12,7 @@ og_last_fetch: '2025-03-07T05:19:01.833Z'
 date_modified: 2025-03-24
 ---
 
+
 An [[Opinionated Analytics]] tool that delivers [[Survey Instruments]] that can measure importance according to the [[Kano Model]].
 
 

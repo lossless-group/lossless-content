@@ -19,6 +19,7 @@ date_modified: 2025-03-24
 ---
 
 
+
 [[Legend State]] is designed for [[React]] Ecosystem, enabling [[Local-First Applications]] and doubling as a [[State Management]] [[Packages and Libraries|Library]].
 
 ![[Screenshot 2025-02-21 at 12.19.21 AM_Legend-State--Hero.png]]

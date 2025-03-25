@@ -14,6 +14,7 @@ og_last_fetch: '2025-03-07T05:20:56.411Z'
 date_modified: 2025-03-24
 ---
 
+
 [[Video Generator]]
 ##### Rivalz uses AI to improve [[Computer-Generated Imagery|CGI]]
 ![[Screenshot 2025-02-20 at 2.14.22 AM_Rivalz--Hero.png]]

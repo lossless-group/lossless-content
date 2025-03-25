@@ -17,5 +17,6 @@ og_last_fetch: '2025-03-07T05:19:02.903Z'
 date_modified: 2025-03-24
 ---
 
+
 [[(GDPR) General Data Protection Regulation]]
 

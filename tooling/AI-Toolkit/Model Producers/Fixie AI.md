@@ -14,4 +14,5 @@ og_last_fetch: '2025-03-07T05:19:02.933Z'
 date_modified: 2025-03-24
 ---
 
+
 Creators of [[Ultravox]], a core [[AI Models|Models]] specializing in real-time voice.  

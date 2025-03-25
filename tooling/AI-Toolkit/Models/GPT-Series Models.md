@@ -5,6 +5,7 @@ date_modified: 2025-03-24
 ---
 
 
+
 [[OpenAI]]
 
 https://youtu.be/sUoBIwleZSg?si=b3PW3VBeSoWuwyY4

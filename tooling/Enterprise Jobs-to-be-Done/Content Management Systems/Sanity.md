@@ -19,6 +19,7 @@ date_modified: 2025-03-24
 
 
 
+
 A [[Headless CMS]],  relies on a stable [[Content Model]]
 
 

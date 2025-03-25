@@ -18,6 +18,7 @@ date_modified: 2025-03-24
 ---
 
 
+
 An [[Advanced Documents]] tool, part of [[Microsoft 365]], part of the [[Current Stack|Laerdal Tech Stack]]
 
 

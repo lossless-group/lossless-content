@@ -6,6 +6,7 @@ date_modified: 2025-03-24
 ---
 
 
+
 One of the well-known [[AI Models|Models]] by [[OpenAI]] using [[Chain of Thought]] techniques.  
 
 "We are introducing OpenAI o1, a new large language model trained with reinforcement learning to perform complex reasoning. o1 thinks before it answers—it can produce a long internal chain of thought before responding to the user." [^1]

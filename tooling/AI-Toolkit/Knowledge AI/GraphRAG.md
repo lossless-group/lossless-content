@@ -15,6 +15,7 @@ og_last_fetch: '2025-03-07T05:19:18.723Z'
 date_modified: 2025-03-24
 ---
 
+
 https://youtu.be/TqAScH5y2oc?si=iu3ZjIwCfPe3zeI1
 [[LangChain]], [[Neo4j]]
 

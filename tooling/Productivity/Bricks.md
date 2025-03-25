@@ -15,6 +15,7 @@ date_modified: 2025-03-24
 ---
 
 
+
 [[Advanced Spreadsheets]], [[AI Native Applications|AI Native]]
 
 ##### [[Bricks]] is an [[Advanced Spreadsheets|Advanced Spreadsheet]]

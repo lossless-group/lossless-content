@@ -5,7 +5,8 @@ tags:
   - OS-Augmenters
   - Personal-Use
 date_created: 2025-03-13
-date_modified: 2025-03-24---
+date_modified: 2025-03-24
+---
 
 
 Demonstrates [[Keyboard Shortcuts]] on [[Apple]] computers. 

@@ -6,7 +6,8 @@ tags:
   - Game-Engines
   - Open-Source
 date_created: 2025-03-16
-date_modified: 2025-03-24---
+date_modified: 2025-03-24
+---
 
 [[Concepts/Open Source, DIY Variant|Open Source, DIY Variant]]
 

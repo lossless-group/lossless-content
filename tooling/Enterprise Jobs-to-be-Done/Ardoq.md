@@ -16,5 +16,6 @@ og_last_fetch: '2025-03-07T05:19:01.830Z'
 date_modified: 2025-03-24
 ---
 
+
 [[Data Model]], [[Enterprise SaaS]]
 ![[Screenshot 2025-02-11 at 4.02.47 PM_Ardoq--Hero.png]]

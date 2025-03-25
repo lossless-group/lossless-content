@@ -16,5 +16,6 @@ date_modified: 2025-03-24
 
 
 
+
 <iframe style="aspect-ratio:16/9;width:100%;height:auto" src="https://www.youtube.com/embed/bp2GF8XcJdY?si=sQkcCHICTttYx9Ur&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 2021, September 21. [D3.js in 100 Seconds](https://youtu.be/bp2GF8XcJdY?si=jFs8yuARZh7zFRQ9). [[Fireship]]. [[YouTube]]

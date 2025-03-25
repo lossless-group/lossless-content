@@ -20,6 +20,7 @@ date_modified: 2025-03-24
 ---
 
 
+
 ### Google Maps API managing policies. 
 An email update from the Google Maps platform.
 ![[Screenshot 2025-01-29 at 12.50.50 PM_Google-Maps-Platform.png]]

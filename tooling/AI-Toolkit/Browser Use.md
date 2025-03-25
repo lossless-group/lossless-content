@@ -5,7 +5,8 @@ tags:
   - UI-Testing
 github_repo_url: https://github.com/browser-use/browser-use
 date_created: 2025-03-16
-date_modified: 2025-03-24---
+date_modified: 2025-03-24
+---
 
 https://youtu.be/vwmSgr6y_js?si=L-bE4e9S1y-jbkp2
 

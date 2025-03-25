@@ -14,8 +14,8 @@ og_fetched_url: https://opnsense.org
 og_last_fetch: '2025-03-24T06:28:30.271Z'
 og_screenshot: 
 [[Virtual Private Networks]]
-
 ---
+
 
 
 [[Virtual Private Networks]]

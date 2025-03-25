@@ -18,6 +18,7 @@ date_modified: 2025-03-24
 ---
 
 
+
 One of the [[AI Models|Models]] created by [[Fixie AI]].
 
  [[Ultravox]], a core [[AI Models|Models]] specializing in real-time voice.  

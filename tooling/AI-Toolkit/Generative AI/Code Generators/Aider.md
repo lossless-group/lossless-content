@@ -20,6 +20,7 @@ date_modified: 2025-03-24
 ---
 
 
+
 [[Code Generators]] inside [[Terminal Emulators]], it simulates [[Pair Programming]] and is helpful for [[Code Review]].
 
 It seems only helpful for [[Python]].

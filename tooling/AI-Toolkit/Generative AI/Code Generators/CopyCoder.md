@@ -19,6 +19,7 @@ date_modified: 2025-03-24
 ---
 
 
+
 ##### [[CopyCoder]] is a [[Code Generators]], working from Images
 <span query="get(hero)"></span>![[Screenshot 2025-02-20 at 2.34.55 PM_CopyCoder--Hero.png]]<span type="end"></span>
 

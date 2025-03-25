@@ -14,8 +14,8 @@ og_fetched_url: https://dokku.com/
 og_last_fetch: '2025-03-24T06:28:43.037Z'
 og_screenshot: 'https://youtu.be/J8gPLpcgUOs?si=sPzXIp84fbiOsEGX'
 
-[[Vocabulary/Self-Hosting|Self-Host]]
----
+[[Vocabulary/Self-Hosting|Self-Host]]---
+
 
 https://youtu.be/J8gPLpcgUOs?si=sPzXIp84fbiOsEGX
 

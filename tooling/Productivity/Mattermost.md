@@ -16,6 +16,7 @@ date_modified: 2025-03-24
 
 
 
+
 An [[Open Source]] alternative to [[Slack]]. 
 
 [[AI Plugin]]: https://github.com/mattermost/mattermost-plugin-ai

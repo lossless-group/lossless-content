@@ -17,6 +17,7 @@ og_last_fetch: '2025-03-07T05:19:19.162Z'
 date_modified: 2025-03-24
 ---
 
+
 2025, Feb 12. [Unstract: AI Document Parser: Extract Data from Complex PDFs at Scale! (Open Source)](https://youtu.be/Ymq8o7FSoVc?si=5VZE2VbjqdF_-dgO). [[YouTube]].
 
 [[AI Powered Data Capture]]

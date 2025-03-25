@@ -17,6 +17,7 @@ og_last_fetch: '2025-03-07T05:20:56.420Z'
 date_modified: 2025-03-24
 ---
 
+
 Created and maintained by [[Meta]]. It is the most popular, thus [[Market Standard]], for [[Front-End]] development.  It's essentially a [[JavaScript]] library that enables [[Component-Based Software Architecture]]. 
 
 https://youtu.be/Y12sGu8-qFE?si=rilEvj2P-hZGQMXG

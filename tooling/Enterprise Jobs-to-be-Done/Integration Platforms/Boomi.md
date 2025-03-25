@@ -20,5 +20,6 @@ og_last_fetch: '2025-03-07T05:19:02.931Z'
 date_modified: 2025-03-24
 ---
 
+
 An [[iPaaS]] and part of the [[Current Stack]]
 ![[Screenshot 2025-02-20 at 10.11.56 PM_Boomi--Hero.png]]

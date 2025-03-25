@@ -4,6 +4,7 @@ github_repo_url: https://github.com/stackblitz-labs/bolt.diy
 date_modified: 2025-03-24
 ---
 
+
 [[Open Source]] version of [[Tooling/Software Development/Cloud Infrastructure/Bolt.new]], a [[Open Source, DIY Variant|DIY Variant]]
 
 

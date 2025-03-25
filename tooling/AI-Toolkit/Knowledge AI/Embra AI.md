@@ -16,6 +16,7 @@ og_last_fetch: '2025-03-07T05:19:18.724Z'
 date_modified: 2025-03-24
 ---
 
+
 A form of [[Knowledge Base AI]], that uses Team Communications as the source data, thus using [[Knowledge Augmented Generation]] to summarize what's happening around the company.
 
 

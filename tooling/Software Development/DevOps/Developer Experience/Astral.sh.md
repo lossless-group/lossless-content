@@ -7,6 +7,7 @@ tags:
 date_modified: 2025-03-24
 ---
 
+
 [[Python]] tooling creator of [[uv]] and [[ruff]]
 
 #### [[GitHub]] repositories:

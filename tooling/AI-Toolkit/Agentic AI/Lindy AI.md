@@ -17,6 +17,7 @@ date_modified: 2025-03-24
 ---
 
 
+
 Learned about it from [[Rick Mulready]]
 
 [[Automated Negotiations]]

@@ -13,6 +13,7 @@ og_last_fetch: '2025-03-07T05:19:01.832Z'
 date_modified: 2025-03-24
 ---
 
+
 A code library [[Object-Relational Mapper]] that works with modern [[Web Frameworks]] and [[Databases]].
 
 ##### Prisma is a [[State of the Art]] [[Object-Relational Mapper]]

@@ -13,6 +13,7 @@ og_last_fetch: '2025-03-07T05:19:01.839Z'
 date_modified: 2025-03-24
 ---
 
+
 ### Affinity Designer
 
  https://youtu.be/VJQ8Mtr4czk?si=dJkSUr1ky8VaQDrW

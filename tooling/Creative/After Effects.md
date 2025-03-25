@@ -17,6 +17,7 @@ og_last_fetch: '2025-03-07T05:19:01.839Z'
 date_modified: 2025-03-24
 ---
 
+
 [[Computer-Generated Imagery|CGI]], [[Motion Graphics]]
 
 2025, Feb 16. [After Effects beginner tutorial](https://youtu.be/cOqMCL4aZHM?si=eTmOXoLq9jxtIkZU) YC_Chris, [[YouTube]].

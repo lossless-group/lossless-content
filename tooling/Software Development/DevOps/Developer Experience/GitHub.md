@@ -18,6 +18,7 @@ date_created: 2025-03-04
 date_modified: 2025-03-24
 ---
 
+
 [[Microsoft]] acquired [[GitHub]].
 
 https://youtu.be/Oaj3RBIoGFc?si=HiT-RnoDJ7kKkXLQ
