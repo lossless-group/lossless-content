@@ -5,7 +5,7 @@ tags:
 - AI-Toolkit
 - Agentic-AI
 - agentic-ai
-youtube_url: https://www.youtube.com/@activepiecesco
+youtube_channel_url: https://www.youtube.com/@activepiecesco
 image: https://www.activepieces.com/meta1.png
 site_name: Activepieces
 title: AI-first automation for every team

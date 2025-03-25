@@ -1,6 +1,6 @@
 ---
 site_uuid: 2b6c9d2f-f2e8-4d76-8c93-993f3b19917b
-youtube_url: https://www.youtube.com/@deepbrainai
+youtube_channel_url: https://www.youtube.com/@deepbrainai
 date_modified: 2025-03-24
 ---
 

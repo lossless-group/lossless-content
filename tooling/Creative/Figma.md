@@ -7,7 +7,7 @@ image: https://cdn.sanity.io/images/599r6htc/regionalized/1adfa5a99040c80af7b4b5
 site_name: Figma
 title: 'Figma: The Collaborative Interface Design Tool'
 favicon: https://static.figma.com/app/icon/1/icon-192.png
-youtube_url: https://www.youtube.com/@Figma
+youtube_channel_url: https://www.youtube.com/@Figma
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/68fedf64924894e13bb99abb21c12be64ecfb0387bc39c7acd2c64cd5949932f.jpeg
 jina_last_request: '2025-03-09T06:45:10.742Z'
 jina_error: "Error occurred"

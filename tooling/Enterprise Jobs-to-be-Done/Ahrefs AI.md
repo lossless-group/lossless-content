@@ -7,7 +7,7 @@ image: https://static.ahrefs.com/assets/img/og/ahrefs.png?v=2
 site_name: Ahrefs
 title: Ahrefs—Marketing Intelligence Tools Powered by Big Data.
 favicon: https://static.ahrefs.com/favicon-48x48.png?v=2
-youtube_url: https://www.youtube.com/@ahrefsupdates
+youtube_channel_url: https://www.youtube.com/@ahrefsupdates
 tags:
 - Enterprise-Jobs-to-be-Done
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/a3ba1a97f24044f294008f01d26b4406d96522df35a0cdaa2fb34803f2e7f83a.jpeg

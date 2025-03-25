@@ -1,7 +1,7 @@
 ---
 site_uuid: 6ffc471f-6b84-4df4-82ba-6f5d0044c08e
 url: https://www.raycast.com/
-youtube_url: https://www.youtube.com/@raycastapp
+youtube_channel_url: https://www.youtube.com/@raycastapp
 tags:
   - Personal-Productivity
   - Design-Inspiration

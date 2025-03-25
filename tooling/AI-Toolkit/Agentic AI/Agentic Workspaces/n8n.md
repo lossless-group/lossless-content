@@ -1,6 +1,6 @@
 ---
 site_uuid: 676fbd61-103c-4ac1-834f-96e693ca0528
-youtube_url: https://www.youtube.com/@n8n-io
+youtube_channel_url: https://www.youtube.com/@n8n-io
 tags:
 - iPaaS
 - Workflow-Automation
