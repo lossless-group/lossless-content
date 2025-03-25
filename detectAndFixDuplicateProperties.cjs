@@ -126,23 +126,28 @@ function formatReport(results) {
     };
 
     results.forEach(result => {
-        if (result.modified) {
+        if (result.modified && result.file) {
             const parts = result.file.split('/tooling/');
             if (parts.length === 2) {
                 const formattedPath = `[[Tooling/${parts[1].replace('.md', '')}]]`;
                 
-                result.modifications.forEach(mod => {
-                    if (mod.includes('duplicate site_uuid')) {
-                        modTypes.duplicate_uuids.push(formattedPath);
-                    }
-                });
+                if (result.modifications) {
+                    result.modifications.forEach(mod => {
+                        if (mod.includes('duplicate site_uuid')) {
+                            modTypes.duplicate_uuids.push(formattedPath);
+                        }
+                    });
+                }
             }
         }
     });
 
     // Add each modification type to report
     report += '### Files with Duplicate UUIDs Fixed\n';
-    report += [...new Set(modTypes.duplicate_uuids)].join(', ') + '\n\n';
+    report += modTypes.duplicate_uuids.length > 0 ? 
+        [...new Set(modTypes.duplicate_uuids)].join(', ') : 
+        'No files needed fixing\n';
+    report += '\n';
 
     return report;
 }

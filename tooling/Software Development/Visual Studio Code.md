@@ -3,12 +3,6 @@ site_uuid: 032efa58-39ff-4ab8-b51f-a0a407921b2c
 aliases:
 - VS Code
 parent_org: [[Microsoft]]
-site_uuid: 3130edbb-0914-4f56-a5a2-f9fe924bfef4
-site_uuid: 12d1db35-dec1-4638-a98e-f29eb7780d94
-site_uuid: 843332e9-acc6-4b9a-8c93-7eb1ec6e647a
-site_uuid: 1070f5e9-3afc-45eb-bbf1-ffceba1d16bc
-site_uuid: 84d0e335-cb79-484f-97b2-a2924d4c9376
-site_uuid: 42531981-781a-4e82-ae84-851689faf7e1
 ---
 a [[Text Editors or IDEs|Text Editor]] created and maintained by [[Microsoft]].
 
