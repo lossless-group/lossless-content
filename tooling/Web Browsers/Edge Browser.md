@@ -1,6 +1,6 @@
 ---
 site_uuid: 4c5d15c3-d122-4b48-9e15-862cfffe3b60
-parent_org: [[Microsoft]]
+parent_org: '[[Microsoft]]'
 image: https://edgestatic.azureedge.net/shared/cms/lrs1c69a1j/logos/9bf02dd94ea34924aa15548eef82ed24-png-w231.webp
 site_name: Get to Know Microsoft EdgeRectangle 2signal
 title: Get to Know Microsoft EdgeRectangle 2signal-boxYour Privacy Choices Opt-Out IconYour Privacy Choices Opt-Out Icon

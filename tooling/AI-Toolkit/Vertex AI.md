@@ -1,7 +1,7 @@
 ---
 site_uuid: 4e8c6f1a-6e4f-47d6-83ea-0aa3de90a3b6
 url: https://cloud.google.com/vertex-ai
-parent_org: [[Google]]
+parent_org: '[[Google]]'
 tags:
 - AI-Toolkit
 image: https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png

@@ -1,7 +1,7 @@
 ---
 site_uuid: 3436bd10-dc3f-467b-a112-9714de824aa2
 url: https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/
-parent_org: [[Nvidia]]
+parent_org: '[[Nvidia]]'
 image: https://www.nvidia.com/content/dam/en-zz/Solutions/intelligent-machines/embedded-systems/nvidia-metropolis-iva-microservices-og-1200x630.jpg
 site_name: NVIDIA
 title: NVIDIA Embedded Systems for Next-Gen Autonomous Machines

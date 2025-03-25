@@ -1,7 +1,7 @@
 ---
 site_uuid: 0f7dfad2-dc60-42ef-a8a4-e2285ddc1bda
 url: https://ai.pydantic.dev/
-parent_org: [[Pydantic]]
+parent_org: '[[Pydantic]]'
 tags:
 - AI-Toolkit
 - Agentic-AI

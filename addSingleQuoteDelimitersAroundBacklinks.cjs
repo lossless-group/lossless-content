@@ -68,7 +68,6 @@ async function processDirectory(directory) {
     
     async function processFile(filePath) {
         if (path.extname(filePath) === '.md') {
-            console.log(`Processing ${filePath}...`);
             const result = await addBacklinkQuotes(filePath);
             results.push(result);
         }
@@ -93,22 +92,48 @@ async function processDirectory(directory) {
     return results;
 }
 
+async function generateReport(results) {
+    const date = new Date().toISOString().split('T')[0];
+    const reportPath = path.join(__dirname, 'reports', `${date}_backlink-quotes-report.md`);
+
+    let report = '# Backlink Quotes Report\n\n';
+    report += '## Summary\n';
+    report += `- Total files processed: ${results.length}\n`;
+    report += `- Files modified: ${results.filter(r => r.modified).length}\n`;
+    report += `- Files with errors: ${results.filter(r => !r.success).length}\n\n`;
+
+    const modifiedFiles = results.filter(r => r.modified);
+    if (modifiedFiles.length > 0) {
+        report += '## Files Modified\n';
+        for (const result of modifiedFiles) {
+            const relativePath = result.file.split('tooling/')[1];
+            report += `- [[${relativePath}]] (Added quotes around backlinks)\n`;
+        }
+        report += '\n';
+    }
+
+    const errorFiles = results.filter(r => !r.success);
+    if (errorFiles.length > 0) {
+        report += '## Files with Errors\n';
+        for (const result of errorFiles) {
+            const relativePath = result.file.split('tooling/')[1];
+            report += `- [[${relativePath}]] (${result.error})\n`;
+        }
+        report += '\n';
+    }
+
+    await fs.mkdir(path.dirname(reportPath), { recursive: true });
+    await fs.writeFile(reportPath, report);
+    console.log(`Report written to: ${reportPath}`);
+}
+
 async function main() {
     try {
         const toolingDir = path.join(__dirname, 'tooling');
         console.log('Adding quotes around backlinks...');
         
         const results = await processDirectory(toolingDir);
-        
-        // Print summary
-        const totalFiles = results.length;
-        const modifiedFiles = results.filter(r => r.modified).length;
-        const errorFiles = results.filter(r => !r.success).length;
-        
-        console.log('\nSummary:');
-        console.log(`Total files processed: ${totalFiles}`);
-        console.log(`Files modified: ${modifiedFiles}`);
-        console.log(`Files with errors: ${errorFiles}`);
+        await generateReport(results);
 
     } catch (error) {
         console.error('Error:', error);

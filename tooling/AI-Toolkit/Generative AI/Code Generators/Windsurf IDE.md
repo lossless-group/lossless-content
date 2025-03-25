@@ -16,7 +16,7 @@ jina_last_request: '2025-03-09T06:45:11.368Z'
 jina_error: "Error occurred"
 og_last_fetch: '2025-03-07T05:20:56.434Z'
 docs_url: https://docs.codeium.com/windsurf/
-parent_org: [[Codeium]]
+parent_org: '[[Codeium]]'
 reddit_forum_url: https://www.reddit.com/r/Codeium/
 date_modified: 2025-03-24
 ---

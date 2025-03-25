@@ -6,7 +6,7 @@ aliases:
 tags:
 - Products
 - async-tools
-parent_org: [[Microsoft]]
+parent_org: '[[Microsoft]]'
 image: https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png
 site_name: 'Microsoft Loop: Collaborative App'
 title: 'Microsoft Loop: Collaborative App | Microsoft 365'

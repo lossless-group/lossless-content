@@ -1,6 +1,6 @@
 ---
 site_uuid: 28c21996-703e-48d6-a31a-f07af0190396
-created_by: [[ElevenLabs]]
+created_by: '[[ElevenLabs]]'
 tags:
   - AI-Models
   - Speech-to-Text

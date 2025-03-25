@@ -1,6 +1,6 @@
 ---
 site_uuid: 6007069b-ce50-4642-ac6f-6a958233ec61
-parent_org: [[Microsoft]]
+parent_org: '[[Microsoft]]'
 date_modified: 2025-03-24
 ---
 

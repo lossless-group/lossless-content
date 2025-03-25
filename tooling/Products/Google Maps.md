@@ -1,7 +1,7 @@
 ---
 site_uuid: ffba687e-af25-49c5-bc7b-2c2860de5953
 url: https://maps.google.com
-parent_org: [[Google]]
+parent_org: '[[Google]]'
 tags:
   - Products
   - Data-APIs

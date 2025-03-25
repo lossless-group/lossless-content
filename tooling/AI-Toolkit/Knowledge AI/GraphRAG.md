@@ -1,7 +1,7 @@
 ---
 site_uuid: 52c278f7-9629-405c-9aea-8db0f147a451
 url: https://microsoft.github.io/graphrag/
-parent_org: [[Microsoft]]
+parent_org: '[[Microsoft]]'
 tags:
 - AI-Toolkit
 - Knowledge-AI

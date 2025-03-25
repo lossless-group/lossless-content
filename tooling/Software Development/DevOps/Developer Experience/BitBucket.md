@@ -1,7 +1,7 @@
 ---
 site_uuid: c5c86168-c21f-4a08-921f-8fc47418ce31
 url: https://bitbucket.org/product
-parent_org: [[Atlassian]]
+parent_org: '[[Atlassian]]'
 image: https://wac-cdn.atlassian.com/dam/jcr:f92b1a2a-10cd-4f82-bb2a-aa00400f4288/bitbucket-cloud-features-opengraph.png
 site_name: Bitbucket
 title: 'Bitbucket | Git solution for teams using Jira'

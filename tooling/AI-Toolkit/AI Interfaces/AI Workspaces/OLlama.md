@@ -1,6 +1,6 @@
 ---
 site_uuid: d729680e-d296-4c7c-be91-9e08544aea99
-created_by: [[Meta]]
+created_by: '[[Meta]]'
 github_repo_url: https://github.com/ollama/ollama
 tags:
   - Open-Source

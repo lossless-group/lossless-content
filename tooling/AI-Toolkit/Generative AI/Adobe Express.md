@@ -1,7 +1,7 @@
 ---
 site_uuid: 95cc0b57-cd4e-4bb3-96d0-502e70c541c4
 url: https://www.adobe.com/express/
-parent_org: [[Adobe]]
+parent_org: '[[Adobe]]'
 tags:
 - AI-Toolkit
 - Generative-AI

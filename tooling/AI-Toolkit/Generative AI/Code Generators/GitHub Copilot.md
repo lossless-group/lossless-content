@@ -1,7 +1,7 @@
 ---
 site_uuid: 99bc8509-13fe-4cbd-bf6c-dd27a8ce059e
 url: https://docs.github.com/en/copilot/about-github-copilot/what-is-github-copilot
-parent_org: [[GitHub]]
+parent_org: '[[GitHub]]'
 zinger: null
 tags:
 - AI-Toolkit

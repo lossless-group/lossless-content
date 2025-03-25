@@ -6,7 +6,7 @@ tags:
 - Generative-AI
 - Code-Generators
 - gen-ai--code
-created_by: [[DeepSeek]]
+created_by: '[[DeepSeek]]'
 image: https://deepseekcoder.github.io/static/images/huggingface_logo.svg
 site_name: DeepSeek Coder
 title: DeepSeek Coder

@@ -1,7 +1,7 @@
 ---
 site_uuid: 7ccac6c3-ac9d-452c-a3e7-a8611f9663c5
 url: https://vite.dev
-created_by: [[Evan You]]
+created_by: '[[Evan You]]'
 image: https://vite.dev/og-image.jpg
 site_name: vitejs
 title: Vite

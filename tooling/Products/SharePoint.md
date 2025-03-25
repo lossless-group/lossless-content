@@ -1,6 +1,6 @@
 ---
 site_uuid: 8d4b0d15-b4f3-49cf-b50c-c9f10440a2a7
-parent_org: "[[Organizations/Microsoft|Microsoft]]"
+parent_org: '"[[Organizations/Microsoft|Microsoft]]"'
 tags:
   - Products
   - Enterprise-Wide

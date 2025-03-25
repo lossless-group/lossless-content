@@ -27,7 +27,7 @@ There is a blurry line between [[Code Generator|Code Generation]] and using an [
 ---
 ## Problems with Code Generators:
 
-They don't have a long term memory, they don't even have a short term working memory. [[Pear IDE]] is trying to fix that with their "[memory integration](https://trypear.ai/docs/integrations/memory)" and [[Mem0]] seems to be a technology company trying to figure it out. But, thus far, code generators are frustratingly oblivious to what they just did, and are prone to rewrite over it. 
+They don't have a long term memory, they don't even have a short term working memory. [[Pear IDE]] is trying to fix that with their "[memory integration](https: '//trypear.ai/docs/integrations/memory)" and [[Mem0]] seems to be a technology company trying to figure it out. But, thus far, code generators are frustratingly oblivious to what they just did, and are prone to rewrite over it.'
 
 ---
 ## [[Claude]] lists lauded [[Code Generator|Code Generators]]

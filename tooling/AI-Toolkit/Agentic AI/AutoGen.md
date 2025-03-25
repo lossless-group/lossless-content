@@ -1,7 +1,7 @@
 ---
 site_uuid: 2daa0152-7f46-4b8e-9d83-a683c135460c
 docs_url: https://github.com/microsoft/autogen
-created_by: [[Microsoft]]
+created_by: '[[Microsoft]]'
 date_modified: 2025-03-24
 ---
 

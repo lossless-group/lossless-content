@@ -1,8 +1,8 @@
 ---
 site_uuid: a6d5dcae-396c-4825-80ed-d9170f118f45
 url: https://angularjs.org/
-created_by: [[Google]]
-parent_org: [[Google]]
+created_by: '[[Google]]'
+parent_org: '[[Google]]'
 tags:
 - Software-Development
 - Frameworks

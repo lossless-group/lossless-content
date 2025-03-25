@@ -1,7 +1,7 @@
 ---
 site_uuid: 17c7dbb6-205f-4bcc-a2bc-4d87dde90cb8
 url: https://huggingface.co/spaces
-parent_org: [[Hugging Face]]
+parent_org: '[[Hugging Face]]'
 og_errors: true
 og_last_error: '2025-03-17T09:17:13.750Z'
 og_error_message: "HTTP error! status: 401"

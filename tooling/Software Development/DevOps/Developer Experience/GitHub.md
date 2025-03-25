@@ -1,7 +1,7 @@
 ---
 site_uuid: 92125cde-81fc-43d4-bd38-9bb3a125e301
 url: https://github.com/
-parent_org: [[Microsoft]]
+parent_org: '[[Microsoft]]'
 image: https://github.githubassets.com/assets/home24-5939032587c9.jpg
 site_name: GitHub
 title: GitHub · Build and ship software on a single, collaborative platform

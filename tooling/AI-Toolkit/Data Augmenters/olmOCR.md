@@ -1,7 +1,7 @@
 ---
 site_uuid: 727d97ed-6016-4167-89d0-c5aef38758e2
 url: https://olmocr.allenai.org
-created_by: [[AI2]]
+created_by: '[[AI2]]'
 tags:
   - AI-Toolkit
   - Data-Augmenters

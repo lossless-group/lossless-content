@@ -12,7 +12,7 @@ title: Ship Faster with Trae
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/6b34f9e65ca9d66ebb883d04c7169192623329b90460fdb514571a4245d82d8a.jpeg
 jina_last_request: '2025-03-09T06:45:22.047Z'
 jina_error: "Error occurred"
-parent_org: [[ByteDance]]
+parent_org: '[[ByteDance]]'
 og_last_fetch: '2025-03-07T05:20:56.434Z'
 date_modified: 2025-03-24
 ---

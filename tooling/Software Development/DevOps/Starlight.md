@@ -1,7 +1,7 @@
 ---
 site_uuid: 94e71c8f-5fc0-41ec-9ff1-22da0d60862e
 url: https://starlight.astro.build/
-parent_org: [[Astro]]
+parent_org: '[[Astro]]'
 github_repo_url: https://github.com/withastro/starlight
 docs_url: https://starlight.astro.build/getting-started/
 image: https://starlight.astro.build/og.jpg?v=1

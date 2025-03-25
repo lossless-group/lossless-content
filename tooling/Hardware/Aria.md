@@ -1,7 +1,7 @@
 ---
 site_uuid: 6b034775-4e8f-4ae3-a4a1-055716eb42c5
 url: https://www.projectaria.com/
-parent_org: [[Meta]]
+parent_org: '[[Meta]]'
 aliases:
 - Project Aria
 tags:

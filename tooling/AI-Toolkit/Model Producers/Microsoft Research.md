@@ -1,7 +1,7 @@
 ---
 site_uuid: 323f44e6-0c4c-4706-9da1-ce18795faf63
 url: https://www.microsoft.com/en-us/research/
-parent_org: [[Microsoft]]
+parent_org: '[[Microsoft]]'
 tags:
 - AI-Toolkit
 - Model-Producers

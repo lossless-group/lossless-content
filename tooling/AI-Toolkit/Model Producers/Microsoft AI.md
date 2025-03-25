@@ -1,6 +1,6 @@
 ---
 site_uuid: 08a78978-89c2-45bd-ad1a-8bc09f560cc9
-parent_org: [[Microsoft Research]]
+parent_org: '[[Microsoft Research]]'
 aliases:
   - MAI
 date_created: 2025-03-09

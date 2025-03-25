@@ -1,7 +1,7 @@
 ---
 site_uuid: b3d49173-b4d3-4552-b959-49a20ceec47c
 url: https://ai.azure.com/
-parent_org: [[Microsoft]]
+parent_org: '[[Microsoft]]'
 site_name: Azure AI Foundry
 title: Azure AI Foundry
 favicon: https://ai.azure.com/favicon2.ico

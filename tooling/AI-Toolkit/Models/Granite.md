@@ -10,7 +10,7 @@ og_last_error: '2025-03-17T09:17:14.158Z'
 og_error_message: "HTTP error! status: 401"
 og_last_fetch: '2025-03-17T09:19:21.959Z'
 og_fetched_url: https://www.ibm.com/granite
-parent_org: [[IBM]]
+parent_org: '[[IBM]]'
 date_modified: 2025-03-24
 ---
 

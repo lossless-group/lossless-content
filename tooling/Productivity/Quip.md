@@ -1,6 +1,6 @@
 ---
 site_uuid: 84402745-139d-4879-a257-5159ba81b9e7
-parent_org: [[Salesforce]]
+parent_org: '[[Salesforce]]'
 url: https://quip.com
 tags:
 - Productivity

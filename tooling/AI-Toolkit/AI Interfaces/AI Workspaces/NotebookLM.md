@@ -1,7 +1,7 @@
 ---
 site_uuid: 4ac38799-41a4-44b9-9017-310168357e06
 url: https://notebooklm.google/
-parent_org: [[Google]]
+parent_org: '[[Google]]'
 tags:
 - AI-Toolkit
 - AI-Interfaces

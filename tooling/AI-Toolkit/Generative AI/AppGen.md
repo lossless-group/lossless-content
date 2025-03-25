@@ -6,7 +6,7 @@ tags:
 - code-gen
 - Code-Generators
 url: https://durable.co/ai-tools/app-gen
-parent_org: [[Durable.co]]
+parent_org: '[[Durable.co]]'
 image: https://cdn.prod.website-files.com/632df91dd7c99c53cc92c4b1/65de3b9e31333d2ca542c7c7_uc.png
 site_name: AppGen
 title: Simplifying Web Application Development

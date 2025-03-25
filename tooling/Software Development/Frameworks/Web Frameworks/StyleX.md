@@ -1,8 +1,8 @@
 ---
 site_uuid: 376fd692-0cb5-4561-996f-62730baa0584
 url: https://stylexjs.com/
-parent_org: [[Meta]]
-created_by: [[Facebook]]
+parent_org: '[[Meta]]'
+created_by: '[[Facebook]]'
 image: https://stylexjs.com/img/stylex-cover-photo.png
 site_name: StyleX
 title: StyleX

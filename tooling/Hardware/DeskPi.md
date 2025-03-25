@@ -3,7 +3,7 @@ site_uuid: e29e647c-af93-4093-87c3-c367260c3cad
 url: https://deskpi.com/
 date_created: 2025-03-08
 date_modified: 2025-03-24
-created_by: [[Raspberry Pi]]
+created_by: '[[Raspberry Pi]]'
 image: http://deskpi.com/cdn/shop/files/Deskpi_logo.png?height=628&pad_color=ffffff&v=1732079613&width=1200
 site_name: DeskPi Store
 title: DeskPi Products One Stop Shopping Mall
