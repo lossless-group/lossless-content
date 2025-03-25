@@ -2,16 +2,13 @@
 site_uuid: 541235f6-b488-4042-8a76-9f144ccccf36
 title: OpenAI
 tags:
-  - AI-Toolkit
-  - Model Producers
+- AI-Toolkit
+- Model Producers
 site_visibility: public
-site_uuid: 1bfcee54-d4b9-4b38-8bc9-3af1cc14b7f7
-site_uuid: bcf34361-3844-4d42-93e0-1f7da1bc6661
-site_uuid: 0e2b415e-331d-4641-9c65-052fa95cea78
-site_uuid: 520fd931-0dab-4680-bcbd-40b0caf64307
-site_uuid: 1d440411-6af2-4d55-be1c-ae013048a9cb
-site_uuid: b0251e90-3929-4917-9f63-71dc41fcbcd8
+date_modified: 2025-03-24
 ---
+
+
 
 https://youtu.be/RPbmMmcNvYA?si=2HVnqr9U2mQ607Bn
 
@@ -53,7 +50,7 @@ Here is a timeline of OpenAI's major model releases, their features, and use cas
 ---
 
 ### Other Models
-1. **[[Sora-Series Models]] (February 2024)**  
+1. **[[Sora-Series Models]] (February 2024)**
    - **Key Features**: Text-to-video generation capabilities (release date unspecified).  
    - **Use Cases**: Media production and creative industries[5].
 

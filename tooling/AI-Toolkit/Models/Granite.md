@@ -6,12 +6,15 @@ tags:
   - Models
 image: https://assets.ibm.com/is/image/ibm/ibm-8bar-logo-2560x2560?$original
 og_errors: true
-og_last_error: 2025-03-17T09:17:14.158Z
+og_last_error: '2025-03-17T09:17:14.158Z'
 og_error_message: "HTTP error! status: 401"
-og_last_fetch: 2025-03-17T09:19:21.959Z
+og_last_fetch: '2025-03-17T09:19:21.959Z'
 og_fetched_url: https://www.ibm.com/granite
-parent_org: "[[IBM]]"
+parent_org: '[[IBM]]'
+date_modified: 2025-03-24
 ---
+
+
 
 Another [[Large Language Models|Large Language Model]]
 

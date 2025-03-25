@@ -1,12 +1,15 @@
 ---
 site_uuid: 944b05db-3e02-4c00-a0e8-2899e747e8fd
 github_repo_url: https://github.com/astral-sh/uv
-created_by: "[[Microsoft]]"
+created_by: '[[Microsoft]]'
 docs_url: https://docs.astral.sh/uv/
 tags:
   - Package-Managers
   - Python-Ecosystem
+date_modified: 2025-03-24
 ---
+
+
 https://youtube.com/shorts/_iKchC7NjEE?si=kpjSdOWfYvtmKicX
 
 [[Python]] [[Packages and Libraries|Package]] manager
