@@ -27,15 +27,17 @@ async function fixFrontmatterIssues(filePath) {
         const tagsPattern = /^tags:\s*\[(.*?)\]/m;
         const tagsMatch = newContent.match(tagsPattern);
         if (tagsMatch) {
-            // Extract tags and convert to proper format
-            const tags = tagsMatch[1]
-                .split('-')
+            // Extract tags by looking for "- " prefix
+            const tags = tagsMatch[1].match(/(?<=- )[^ -][^-]*/g) || [];
+            
+            // Filter out empty strings and trim whitespace
+            const validTags = tags
                 .map(tag => tag.trim())
                 .filter(tag => tag.length > 0);
 
-            if (tags.length > 0) {
+            if (validTags.length > 0) {
                 // Replace the old tags format with the proper YAML list format
-                const newTags = `tags:\n${tags.map(tag => `  - ${tag}`).join('\n')}`;
+                const newTags = `tags:\n${validTags.map(tag => `  - ${tag}`).join('\n')}`;
                 newContent = newContent.replace(tagsPattern, newTags);
                 modified = true;
                 modifications.push('Fixed tags format');
