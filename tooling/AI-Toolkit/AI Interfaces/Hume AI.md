@@ -1,20 +1,19 @@
 ---
-site_uuid: f737d359-d460-476f-90f1-b0d32d822254
+site_uuid: ce7eeed3-b9f2-4a80-ada3-7b426f9ebce8
 url: https://www.hume.ai/
-tags: 
+tags:
+- AI-Toolkit
+- AI-Interfaces
 image: https://www.hume.ai/opengraph-image.jpg?bb0136a7dc5f767d
 site_name: Home • Hume AI
 title: Home • Hume AI
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/edf183c5934d0b7576e658de717b0caf767a18afda6c57d4dce805308268f8dd.jpeg
-jina_last_request: 2025-03-09T06:44:58.892Z
-jina_error: Error occurred
-og_last_fetch: 2025-03-07T05:29:25.878Z
-og_errors: true
-og_last_error: 2025-03-24T06:28:42.709Z
-og_error_message: Screenshot fetch error: HTTP error! status: 500
-og_screenshot: [[Voice User Interface]]
-
-
+jina_last_request: '2025-03-09T06:44:58.892Z'
+jina_error: "Error occurred"
+og_last_fetch: '2025-03-07T05:29:25.878Z'
+date_modified: 2025-03-24
 ---
+
+
 [[Voice User Interface]]
 

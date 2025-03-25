@@ -1,17 +1,14 @@
 ---
+site_uuid: 2714bd4b-69e5-434c-89cd-4f215ebcb114
 tags:
 - tech-trend
 aliases:
 - AI
 - Enterprise AI
-site_uuid: 2714bd4b-69e5-434c-89cd-4f215ebcb114
-site_uuid: 8a647237-aede-4ae8-9a5c-ddd60f0a0507
-site_uuid: 875028bd-06c0-433f-b8ee-354f156b2835
-site_uuid: d1765e2a-954a-4e19-91d7-4d440320333d
-site_uuid: 0a74f6bd-3702-4d06-bd01-25289b4a0082
-site_uuid: e47900f1-0c64-4840-b0c7-a618b34b02e9
-site_uuid: a2a81bf6-7fa9-4537-a2e3-3a98cc46cf59
+date_modified: 2025-03-24
 ---
+
+
 ## Enterprise AI
 [[n8n]], [[Flowise]], [[Dynamiq AI]], [[Coveo]], [[Glean]],  [[Abacus AI]], [[Tribe AI]]
 [[Upstage AI]]

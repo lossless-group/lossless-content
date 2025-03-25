@@ -1,27 +1,20 @@
 ---
-site_uuid: 43831d8c-feea-4747-9ec4-875483ba8d98
+site_uuid: 93231b7b-ba51-41c1-98dd-3aed510c86f6
 url: https://storm.genie.stanford.edu/
-tags: 
+tags:
+- AI-Toolkit
+- Models
 image: https://storm.genie.stanford.edu/_next/static/media/logo_full_v2.9bfb3ec4.svg
 site_name: STORM
 title: STORM
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/5f02951191a580f0e712cbb094facba1b5e089007dadac79e6887b575579da81.jpeg
-jina_last_request: 2025-03-09T06:45:07.569Z
-jina_error: Error occurred
-og_last_fetch: 2025-03-24T06:28:26.282Z
-og_screenshot: 
-[[Generative AI]]
-
-[[Stanford University]]
-
-## Co-STORM
-
-[Co-Storm: FREE AI TOOL by STANFORD can convert TOPICS to LONG ARTICLES!](https://youtu.be/weZQk-Ey1JM?si=0DgSqc9_CvP3yXk8)
-
-
-
-
+jina_last_request: '2025-03-09T06:45:07.569Z'
+jina_error: "Error occurred"
+og_last_fetch: '2025-03-07T05:19:18.726Z'
+date_modified: 2025-03-24
 ---
+
+
 
 [[Generative AI]]
 

@@ -3,20 +3,17 @@ site_uuid: e9fd2096-449e-4cb9-b4bd-dfaab0a2e7d8
 aliases:
 - O3G Engine
 - O3GE
-site_uuid: 23c95f47-c519-4459-adb2-72bc71fe36fe
-site_uuid: cc2580a7-36c3-4b19-866d-4c69a173fb4f
-site_uuid: 68242df5-c4b0-484f-a3f8-f195582a9e72
-site_uuid: decdff3f-558c-4b7c-9482-e2887509e43d
-site_uuid: b47a7321-2881-4e20-b57f-68d77f1bb2f8
-site_uuid: 1a9ac1e1-795b-4fb7-baec-b649b3cc4be4
+date_modified: 2025-03-24
 ---
+
+
 
 https://youtu.be/QC_ALm5X4wU?si=NVk_7Mxl7GIwg3Ac
 
 [[Game Engine]]
 
 ---
-## [[DeepSeek]] explains [[O3G Engine]] 
+## [[DeepSeek]] explains [[O3G Engine]]
 ### **1. Ease of Use and Integration**
 - **Scripting Interface**: The mention of **W.exe** and **L language** in the UI is a strong indicator that developers are more likely to set up a build environment, which is a big plus for indie games.
 - **Developer Tools**: The **Visual Shader Programming Language** allows interactive content creation, which is essential for games where user interaction matters.

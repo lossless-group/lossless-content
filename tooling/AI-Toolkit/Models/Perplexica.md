@@ -8,7 +8,10 @@ tags:
   - AI-Toolkit
 github_repo_url: https://github.com/ItzCrazyKns/Perplexica
 docs_url: https://github.com/ItzCrazyKns/Perplexica/blob/master/docs/API/SEARCH.md
+date_modified: 2025-03-24
 ---
+
+
 ![](https://i.imgur.com/3BW2nlx.png)
 
 #### Installation

@@ -1,16 +1,20 @@
 ---
-site_uuid: 7159097a-559c-4d43-b2e1-c7b6bc6f84b7
+site_uuid: 518321ad-f1ef-4d0a-b344-3ba34545fa7e
 url: https://godmode.space/
-tags: 
+tags:
+- AI-Toolkit
+- Agentic-AI
 image: https://godmode.space/godmode-hero.png
 site_name: Godmode AI
 title: Godmode AI
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/3c026738252497019b79efccf91d295c0de058d4691366f5dd4273e2bfb7906c.jpeg
-jina_last_request: 2025-03-09T06:45:09.487Z
-jina_error: Error occurred
-og_last_fetch: 2025-03-24T05:00:57.899Z
-og_screenshot: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/3c026738252497019b79efccf91d295c0de058d4691366f5dd4273e2bfb7906c.jpeg
+jina_last_request: '2025-03-09T06:45:09.487Z'
+jina_error: "Error occurred"
+og_last_fetch: '2025-03-07T05:20:40.128Z'
+date_modified: 2025-03-24
 ---
+
+
 <iframe 
   style="aspect-ratio:16/9;width:100%;height:auto" 
   src="https://www.youtube.com/embed/MnMtpCAB9Z8?si=p-vJUm3YQbprmNPg" 

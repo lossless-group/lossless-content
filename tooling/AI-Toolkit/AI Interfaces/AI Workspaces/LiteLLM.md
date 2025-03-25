@@ -1,26 +1,17 @@
 ---
-url: https://www.litellm.ai/
-tags: 
+site_uuid: 56b6882d-8e72-4ea8-bb6e-0c42ba8596d1
+url: https://www.litellm.ai
+tags:
+  - AI-Workspaces
+  - LLM-Gateways
 github_repo_url: https://github.com/BerriAI/litellm
 description_site_cp: Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format
-image: https://framerusercontent.com/images/DbFHR1t71NpmaSxIqej1LKWzD4.png
-site_name: LiteLLM
-title: LiteLLM
-favicon: https://framerusercontent.com/images/GtfMdzyrMj6FQY6lGLqI6bh2LYM.png
-og_fetched_url: https://www.litellm.ai
-og_last_fetch: 2025-03-24T06:28:28.397Z
-og_screenshot: 
-Has a [[Python]] [[SDK]]. 
-
-[[Amazon Bedrock]], [[Azure]], [[OpenAI]], [[VertexAI]], [[Cohere]], [[Anthropic]], [[Sagemaker]], [[Hugging Face]], [[Replicate]], [[Groq]]
-
-##### Videos:
-https://youtu.be/nQCOTzS5oU0?si=rhS-DC-f40Un5tza
-##### Videos: 
-https: //youtu.be/nQCOTzS5oU0?si=rhS-DC-f40Un5tza
+date_modified: 2025-03-24
 ---
 
-Has a [[Python]] [[SDK]]. 
+
+
+Has a [[Python]] [[SDK]].
 
 [[Amazon Bedrock]], [[Azure]], [[OpenAI]], [[VertexAI]], [[Cohere]], [[Anthropic]], [[Sagemaker]], [[Hugging Face]], [[Replicate]], [[Groq]]
 

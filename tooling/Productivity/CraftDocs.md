@@ -1,31 +1,22 @@
 ---
-site_uuid: 823fe685-87fc-47da-8dd2-b05749129512
+site_uuid: 0b14feb0-3359-4328-89fe-c63cd954f921
 url: https://www.craft.do
 zinger: The best docs in the world
-hero: ![[Screenshot 2025-02-20 at 2.44.50 PM_CraftDocs--Hero.png]]
+hero: '![[Screenshot 2025-02-20 at 2.44.50 PM_CraftDocs--Hero.png]]'
 image: https://www.craft.do/craft_og.png
 site_name: Craft
 title: The best docs in the world
 favicon: https://www.craft.do/favicons/light/light_192.png
-tags: 
+tags:
+- Productivity
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/556bf6b3049fb4f3673395b171fb9224e36bc14e8491f17d4a9aac8ab7bc46c7.jpeg
-jina_last_request: 2025-03-09T06:45:02.426Z
-jina_error: Error occurred
-og_last_fetch: 2025-03-07T05:19:01.823Z
-og_errors: true
-og_last_error: 2025-03-24T06:28:48.567Z
-og_error_message: Screenshot fetch error: HTTP error! status: 500
-og_screenshot: [[Advanced Documents]]
-### CraftDocs managing the Innovation Cookbook:
-[[The Lossless Innovation Cookbook]] on [[CraftDocs]].
-![[Screenshot 2025-01-28 at 9.05.25 PM_Lossless_Cookbook--CraftDocs.png]]
-##### [[CraftDocs]] integrating [[AI Models]] through their [[REST API]]
-![[Pasted image 20250211110909_AppleAppStore_Streamlining-Updates.png]]
-
-##### [[CraftDocs]] features [[Templates]] to help with [[Getting Started]].
-![[Screenshot 2025-02-20 at 2.44.41 PM_CraftDocs--Templates.png]]
-
+jina_last_request: '2025-03-09T06:45:02.426Z'
+jina_error: "Error occurred"
+og_last_fetch: '2025-03-07T05:19:01.823Z'
+date_modified: 2025-03-24
 ---
+
+
 [[Advanced Documents]]
 ### CraftDocs managing the Innovation Cookbook:
 [[The Lossless Innovation Cookbook]] on [[CraftDocs]].
