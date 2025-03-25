@@ -16,13 +16,13 @@ date_modified: 2025-03-24
 ---
 
 
-One of the [[AI Models]]. 
+One of the [[AI Models]].
 
-Also provides a [[Code Generators]], and can be accessed through [[Visual Studio Code|VS Code]] with an [[Plug-ins,  Add-ons,  Extensions|Extension]]. 
+Also provides a [[Code Generators]], and can be accessed through [[Visual Studio Code|VS Code]] with an [[Plug-ins,  Add-ons,  Extensions|Extension]].
 
 ![[Screenshot 2025-01-22 at 1.43.58 PM_watsonX--VSCode-Extension.png]]
 
-2025, Jan 10. [A New Coding Assistant Just Arrived...](https://youtu.be/becL7_JrHSo?si=4m-FFAom6lIPcihK) Tech with Tim. [[YouTube]]. 
+2025, Jan 10. [A New Coding Assistant Just Arrived...](https://youtu.be/becL7_JrHSo?si=4m-FFAom6lIPcihK) Tech with Tim. [[YouTube]].
 
 site_name: IBM Watson
 title: IBM Watson
@@ -33,10 +33,10 @@ last_jina_request: '2025-03-09T06:45:21.841Z'
 jina_error: "HTTP error! status: 429"
 og_last_fetch: 2025-03-07T05:19:18.725Z
 ---
-One of the [[AI Models]]. 
+One of the [[AI Models]].
 
-Also provides a [[Code Generators]], and can be accessed through [[Visual Studio Code|VS Code]] with an [[Plug-ins,  Add-ons,  Extensions|Extension]]. 
+Also provides a [[Code Generators]], and can be accessed through [[Visual Studio Code|VS Code]] with an [[Plug-ins,  Add-ons,  Extensions|Extension]].
 
 ![[Screenshot 2025-01-22 at 1.43.58 PM_watsonX--VSCode-Extension.png]]
 
-2025, Jan 10. [A New Coding Assistant Just Arrived...](https: '//youtu.be/becL7_JrHSo?si=4m-FFAom6lIPcihK) Tech with Tim. [[YouTube]].'
+2025, Jan 10. [A New Coding Assistant Just Arrived...](https: '//youtu.be/becL7_JrHSo?si=4m-FFAom6lIPcihK) Tech with Tim. [[YouTube]].

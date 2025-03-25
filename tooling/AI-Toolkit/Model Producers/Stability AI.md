@@ -18,5 +18,5 @@ date_modified: 2025-03-24
 ---
 
 
-A main creator and maintainer of [[Stable Diffusion]].  
+A main creator and maintainer of [[Stable Diffusion]].
 

@@ -5,10 +5,7 @@ date_created: 2025-03-17
 date_modified: 2025-03-24
 tags:
   - OS-Augmenters
-  - Desktop-App---
-
-
-https://youtu.be/1mHopTxGLNw?si=oaQIDHiSRKsLrLnm
+  - Desktop-App
 ---
 
 Similar to [[Tooling/Productivity/Raycast|Raycast]] or [[Aerospace]]

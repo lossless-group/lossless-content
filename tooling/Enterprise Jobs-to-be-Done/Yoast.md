@@ -14,5 +14,5 @@ date_modified: 2025-03-24
 ---
 
 
-[[Search Engine Optimization]] for everyone.  
+[[Search Engine Optimization]] for everyone.
 

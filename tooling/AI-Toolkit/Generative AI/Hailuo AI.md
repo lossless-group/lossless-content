@@ -16,7 +16,7 @@ date_modified: 2025-03-24
 ---
 
 
-[[Generative AI]] 
+[[Generative AI]]
 [[Video Generator]]
 
 ##### Hailuo AI is a [[Video Generator]]

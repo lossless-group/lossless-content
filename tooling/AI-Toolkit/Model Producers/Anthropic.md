@@ -54,7 +54,7 @@ Sources
 ### Getting started with [[Anthropic]]
 ![[Home - Anthropic · 1.08pm · 01-25.jpeg]]
 
-### Error Handling in the [[Anthropic]] [[REST API]]. 
+### Error Handling in the [[Anthropic]] [[REST API]].
 ![[20250125_Errors - Anthropic.jpeg]]
 
 https://www.youtube.com/live/esCSpbDPJik?si=1YFe9Kh7PEZNtapM

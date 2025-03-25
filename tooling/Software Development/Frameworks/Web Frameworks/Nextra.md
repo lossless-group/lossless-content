@@ -16,7 +16,7 @@ date_modified: 2025-03-24
 ---
 
 
-Uses similar patterns as [[NEXT.js]] and is somewhat meant to accompany it, as both [[Web Frameworks]] are supported by [[Vercel]]. 
+Uses similar patterns as [[NEXT.js]] and is somewhat meant to accompany it, as both [[Web Frameworks]] are supported by [[Vercel]].
 
 [[Static Site Generators|Static Site Generation]]
 

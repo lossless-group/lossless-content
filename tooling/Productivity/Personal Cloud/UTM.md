@@ -9,4 +9,4 @@ tags:
   - OS-Augmenters
 ---
 
-[[Vocabulary/Virtual Machines|Virtual Machines]] on [[Organizations/Apple|Apple]] devices. 
+[[Vocabulary/Virtual Machines|Virtual Machines]] on [[Organizations/Apple|Apple]] devices.

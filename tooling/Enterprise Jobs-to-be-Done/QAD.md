@@ -18,7 +18,7 @@ date_modified: 2025-03-24
 
 Part of the [[Current Stack|Laerdal Tech Stack]].
 
-"[[Industrial and Financial Systems]] and QAD are both solutions in the ERP category. IFS is ranked #9 with an average rating of 8.0, while QAD is ranked #24 with an average rating of 5.0. IFS holds a 2.5% mindshare in ERP, compared to QAD’s 0.5% mindshare. Additionally, 84% of IFS users are willing to recommend the solution, compared to 66% of QAD users who would recommend it." [^1]
+[[Industrial and Financial Systems]] and QAD are both solutions in the ERP category. IFS is ranked #9 with an average rating of 8.0, while QAD is ranked #24 with an average rating of 5.0. IFS holds a 2.5% mindshare in ERP, compared to QAD’s 0.5% mindshare. Additionally, 84% of IFS users are willing to recommend the solution, compared to 66% of QAD users who would recommend it." [^1]
 
 [Advanced Scheduling](https://www.qad.com/solutions/qad-advanced-scheduling)
 

@@ -15,4 +15,4 @@ date_modified: 2025-03-24
 ---
 
 
-Creators of [[Ultravox]], a core [[AI Models|Models]] specializing in real-time voice.  
+Creators of [[Ultravox]], a core [[AI Models|Models]] specializing in real-time voice.

@@ -14,7 +14,7 @@ date_modified: 2025-03-24
 ---
 
 
-An [[Text Editors or IDEs|IDE]] with [[Code Generators]] powers.  
+An [[Text Editors or IDEs|IDE]] with [[Code Generators]] powers.
 
 ##### AgentFarm is a [[Code Generators]]
 ![[Screenshot 2025-02-20 at 2.01.27 AM_AgentFarm--Hero.png]]

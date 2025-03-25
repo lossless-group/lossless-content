@@ -20,7 +20,7 @@ date_modified: 2025-03-24
 
 
 By [[OpenAI]]
-Competitive with [[STORM]]. 
+Competitive with [[STORM]].
 
 https://youtu.be/8uHbMRUiT7c?si=ShQVcOMU4316b9SN
 

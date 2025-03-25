@@ -18,4 +18,4 @@ date_modified: 2025-03-24
 
 
 
-A Web Framework for [[JavaScript]]. 
+A Web Framework for [[JavaScript]].

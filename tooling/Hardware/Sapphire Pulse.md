@@ -11,9 +11,6 @@ title: PULSE Explore
 favicon: https://media.cdn.sapphiretech.com.cn/-/media/sites/sapphire/favicon/favicon.ashx?v=7986677416d744e5b0584e5583dc90ff
 og_fetched_url: https://www.sapphiretech.com/en/pulse-explore
 og_last_fetch: '2025-03-24T06:28:29.171Z'
-og_screenshot: 
 
-https: '//youtu.be/LhukXbchZbw?si=EN_DhtzNOXTteTcC'
-https: '//youtu.be/LhukXbchZbw?si=EN_DhtzNOXTteTcC'
 ---
 https://youtu.be/LhukXbchZbw?si=EN_DhtzNOXTteTcC

@@ -20,7 +20,7 @@ date_modified: 2025-03-24
 ---
 
 
-Similar to [[Fathom AI]], an [[AI Powered Data Capture#AI Powered Transcription Services|AI Powered Transcription]] service. 
+Similar to [[Fathom AI]], an [[AI Powered Data Capture#AI Powered Transcription Services|AI Powered Transcription]] service.
 
 
 ![[Screenshot 2025-02-01 at 5.30.15 PM_Granola--Hero.png]]

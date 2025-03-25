@@ -18,7 +18,7 @@ date_modified: 2025-03-24
 ---
 
 
-Created and maintained by [[Meta]]. It is the most popular, thus [[Market Standard]], for [[Front-End]] development.  It's essentially a [[JavaScript]] library that enables [[Component-Based Software Architecture]]. 
+Created and maintained by [[Meta]]. It is the most popular, thus [[Market Standard]], for [[Front-End]] development.  It's essentially a [[JavaScript]] library that enables [[Component-Based Software Architecture]].
 
 https://youtu.be/Y12sGu8-qFE?si=rilEvj2P-hZGQMXG
 
@@ -46,7 +46,7 @@ https://youtu.be/ROKRTZ_xCgo?si=pZq8TSHhVHrubsVk
 2025, Jan 27. [Why is every React site so slow](https://youtu.be/INLq9RPAYUw?si=389e9LdY5eIxzAQV). [[Theo-t3.gg]], [[YouTube]].
 
 ### React has getting started documentation
-[[Getting Started]] is easy with [[React]]. 
+[[Getting Started]] is easy with [[React]].
 ![[Screenshot 2025-01-27 at 3.53.45 PM_React--Getting-Started.png]]
 https://youtu.be/NVuxUktUvxc?si=WW3uxmtjbpnqMIdw
 

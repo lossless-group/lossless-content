@@ -13,7 +13,7 @@ https://youtu.be/QC_ALm5X4wU?si=NVk_7Mxl7GIwg3Ac
 [[Game Engine]]
 
 ---
-## [[DeepSeek]] explains [[O3G Engine]] 
+## [[DeepSeek]] explains [[O3G Engine]]
 ### **1. Ease of Use and Integration**
 - **Scripting Interface**: The mention of **W.exe** and **L language** in the UI is a strong indicator that developers are more likely to set up a build environment, which is a big plus for indie games.
 - **Developer Tools**: The **Visual Shader Programming Language** allows interactive content creation, which is essential for games where user interaction matters.

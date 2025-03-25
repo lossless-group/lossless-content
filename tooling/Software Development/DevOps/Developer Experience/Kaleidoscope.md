@@ -16,4 +16,4 @@ date_modified: 2025-03-24
 ---
 
 
-[[Git]] tool exposing differences between files.  [[Nova]] is better. 
+[[Git]] tool exposing differences between files.  [[Nova]] is better.

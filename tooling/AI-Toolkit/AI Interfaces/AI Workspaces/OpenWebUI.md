@@ -24,7 +24,7 @@ Creates a UI for [[Artificial Intelligence|AI]]
 
 https://youtu.be/XvY_BF1IV_U?si=6nn192pUQ0S9viNU
 
-[[Open Source]] and meant for [[Self-Hosting]]. 
+[[Open Source]] and meant for [[Self-Hosting]].
 
 ![[Screenshot 2025-02-24 at 2.59.38 AM_OpenWeb-UI--Hero.png]]
 

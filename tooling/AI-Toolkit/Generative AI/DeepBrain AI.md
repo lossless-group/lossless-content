@@ -11,4 +11,4 @@ date_modified: 2025-03-24
 
 Developed and maintained by [[Tooling/Products/AI Studios|AI Studios]]
 
-2024, Nov 07. [Unlocking Potential AI Driven Skill Building for Tomorrow's Professionals](https://www.youtube.com/watch?v=AWSqiA1bH2U) [[DeepBrain AI]], [[YouTube]]. 
+2024, Nov 07. [Unlocking Potential AI Driven Skill Building for Tomorrow's Professionals](https://www.youtube.com/watch?v=AWSqiA1bH2U) [[DeepBrain AI]], [[YouTube]].

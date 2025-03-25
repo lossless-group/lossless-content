@@ -18,7 +18,7 @@ date_modified: 2025-03-24
 
 
 
-An example of [[Visual Software Development]]. 
+An example of [[Visual Software Development]].
 
 ### Eraser assists in technical Flow Charts.
 ![[Screenshot 2025-02-01 at 8.18.53 PM_Eraser--Flow-Charts.png]]

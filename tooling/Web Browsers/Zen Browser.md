@@ -18,11 +18,11 @@ date_modified: 2025-03-24
 
 
 
-2025, Feb 02. [Zen Browser Is Beautifully Designed And Feature Rich](https://youtu.be/SCMmzbxUqpo?si=F4DYkAry2dXzHVnQ) DistroTube, [[YouTube]]. 
+2025, Feb 02. [Zen Browser Is Beautifully Designed And Feature Rich](https://youtu.be/SCMmzbxUqpo?si=F4DYkAry2dXzHVnQ) DistroTube, [[YouTube]].
 
 ##### [[Zen Browser]] is born [[Cross-Platform Applications]]
 ![[Screenshot 2025-02-16 at 3.34.57 PM_Zen--Multi-Platform.png]]
-##### [[Zen Browser]] has an [[Plug-ins,  Add-ons,  Extensions|Extension]] Library. 
+##### [[Zen Browser]] has an [[Plug-ins,  Add-ons,  Extensions|Extension]] Library.
 ![[Screenshot 2025-02-16 at 3.42.19 PM_Zen--Extensions.png]]
 ##### [[Zen Browser]] maintains [[Release Notes]].
 ![[Screenshot 2025-02-16 at 3.39.36 PM_Zen--Release-Notes.png]]

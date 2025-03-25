@@ -16,4 +16,4 @@ date_modified: 2025-03-24
 ---
 
 
-[[Knowledge Base AI]], provides the ability to chat or speak with your own [[RAG]] or [[Knowledge Augmented Generation|KAG]] setup. 
+[[Knowledge Base AI]], provides the ability to chat or speak with your own [[RAG]] or [[Knowledge Augmented Generation|KAG]] setup.

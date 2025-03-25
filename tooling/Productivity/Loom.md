@@ -21,9 +21,9 @@ date_modified: 2025-03-24
 
 
 
-Uses [[Asynchronous Communication]] paradigm.  A primary [[Enterprise SaaS]] video-based communication tool.  Short-form, no-edits video communication can reduce [[Collaboration Cost]]. 
+Uses [[Asynchronous Communication]] paradigm.  A primary [[Enterprise SaaS]] video-based communication tool.  Short-form, no-edits video communication can reduce [[Collaboration Cost]].
 
-[[Loom]] was acquired by [[Atlassian]], an [[Enterprise SaaS]] company.  
+[[Loom]] was acquired by [[Atlassian]], an [[Enterprise SaaS]] company.
 
 
 

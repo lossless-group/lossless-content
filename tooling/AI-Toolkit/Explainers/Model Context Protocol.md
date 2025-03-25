@@ -36,7 +36,7 @@ https://youtu.be/5P4IJS9q_yg?si=2kp7Hm7cT7XrgkZ7
 [[Prompt Engineering]]
 [[RAG]]
 
-[[Anthropic]] released a [[Data Standard]] 
+[[Anthropic]] released a [[Data Standard]]
 
 https://youtu.be/GITdDHglRfg?si=jKEoyh6oVVGGX-x5
 
@@ -68,7 +68,7 @@ https://youtu.be/m46tZX6vceI?si=Xhuz94XNYIa1y3Xp
 [[Prompt Engineering]]
 [[RAG]]
 
-[[Anthropic]] released a [[Data Standard]] 
+[[Anthropic]] released a [[Data Standard]]
 
 https://youtu.be/GITdDHglRfg?si=jKEoyh6oVVGGX-x5
 

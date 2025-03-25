@@ -18,7 +18,7 @@ date_modified: 2025-03-24
 ---
 
 
-One of the [[Database Apps]], and is also partially an [[Advanced Spreadsheets]] Applies [[API First]] and [[Documentation First Development|Documentation First]] strategies. 
+One of the [[Database Apps]], and is also partially an [[Advanced Spreadsheets]] Applies [[API First]] and [[Documentation First Development|Documentation First]] strategies.
 
 ### Airtable API
 

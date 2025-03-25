@@ -9,10 +9,7 @@ title: 'Official Adobe Photoshop - Free Trial and Online Photo & Design App'
 favicon: https://www.adobe.com/products/data:,
 og_fetched_url: https://www.adobe.com/products/photoshop.html
 og_last_fetch: '2025-03-24T05:59:23.293Z'
-og_screenshot: 
 
-https: '//youtu.be/ZJdmZ10I4H4?si=c4v-yAZWEaxLKMvB'
-https: '//youtu.be/ZJdmZ10I4H4?si=c4v-yAZWEaxLKMvB'
 og_errors: true
 og_last_error: '2025-03-24T06:28:21.456Z'
 og_error_message: "Screenshot fetch error: HTTP error! status: 500"

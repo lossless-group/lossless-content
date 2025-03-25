@@ -16,9 +16,9 @@ date_modified: 2025-03-24
 
 
 
-Made by [[Google Labs]], 
+Made by [[Google Labs]],
 
-A [[Large Language Models]] 
+A [[Large Language Models]]
 
 https://youtu.be/OHdL4-dUKuE?si=NwYZATn4dvKnmDgP
 

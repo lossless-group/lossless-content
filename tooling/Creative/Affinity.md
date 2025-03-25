@@ -21,7 +21,7 @@ date_modified: 2025-03-24
 https://youtu.be/zabpcOP7H3U?si=-8Iun34KD6qe-Xxo
  
 https://youtu.be/uJTnE7Ib06A?si=Zj7HiSEfAn4ste45
-##### [[Affinity]] Designer is the most intuitive, yet powerful, vector art studio. 
+##### [[Affinity]] Designer is the most intuitive, yet powerful, vector art studio.
 <iframe 
 style="aspect-ratio:16/9;width:100%;height:auto" 
 src="https://www.youtube.com/embed/Zwqk8WXXEqM?controls=0" 
@@ -34,7 +34,7 @@ allowfullscreen
 Can we? [^bbaa2a]
 
 ##### [[Affinity]] Designer keeps [[Release Notes]]
-![[20250220_Affinity--Release-Notes.jpeg]] [^2] 
+![[20250220_Affinity--Release-Notes.jpeg]] [^2]
 
 
 

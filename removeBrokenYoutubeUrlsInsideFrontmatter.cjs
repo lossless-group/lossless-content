@@ -1,63 +1,56 @@
+#!/usr/bin/env node
+
 const fs = require('fs').promises;
 const path = require('path');
 
 /**
- * Add single quotes around backlinks ([[text]]) in frontmatter
- * Remove any quotes or delimiters from backlinks outside frontmatter
+ * Remove specific problematic lines from frontmatter:
+ * 1. Lines with key 'og_screenshot:' (but NOT 'og_screenshot_url')
+ * 2. Lines where the key is exactly 'http:' or 'https:'
  */
-async function addBacklinkQuotes(filePath) {
+async function cleanFrontmatter(filePath) {
     try {
         const content = await fs.readFile(filePath, 'utf8');
         const lines = content.split('\n');
         let modified = false;
         let inFrontmatter = false;
         let frontmatterCount = 0;
+        const cleanedLines = [];
 
         for (let i = 0; i < lines.length; i++) {
             const line = lines[i];
             const trimmedLine = line.trim();
-            
-            // Track if we're in frontmatter
+
+            // Track frontmatter boundaries
             if (trimmedLine === '---') {
                 frontmatterCount++;
                 inFrontmatter = frontmatterCount === 1;
+                cleanedLines.push(line);
                 continue;
             }
 
-            // Handle lines with backlinks
-            if (trimmedLine.includes('[[') && trimmedLine.includes(']]')) {
-                if (inFrontmatter) {
-                    // Inside frontmatter: Add single quotes
-                    const [key, ...valueParts] = line.split(':');
+            // Only process lines inside frontmatter
+            if (inFrontmatter && frontmatterCount === 1) {
+                // Split on first colon to get the key
+                const colonIndex = line.indexOf(':');
+                if (colonIndex !== -1) {
+                    const key = line.substring(0, colonIndex).trim();
                     
-                    if (key && valueParts.length) {
-                        const value = valueParts.join(':').trim();
-                        
-                        // Remove all quotes, handling nested quotes too
-                        let cleanValue = value;
-                        while (cleanValue.match(/^["'].*["']$/)) {
-                            cleanValue = cleanValue.replace(/^["']|["']$/g, '');
-                        }
-                        
-                        // Preserve original indentation
-                        const indentation = line.match(/^\s*/)[0];
-                        
-                        // Add single quotes around the value
-                        lines[i] = `${indentation}${key.trim()}: '${cleanValue}'`;
+                    // Skip lines we want to remove
+                    if (key === 'og_screenshot' || // Exact match for og_screenshot
+                        key === 'http' || // Exact match for http
+                        key === 'https') { // Exact match for https
                         modified = true;
+                        continue;
                     }
-                } else if (frontmatterCount >= 2) {
-                    // Outside frontmatter: Remove any quotes or delimiters
-                    const indentation = line.match(/^\s*/)[0];
-                    const cleanLine = line.trim().replace(/^["']|["']$/g, '');
-                    lines[i] = `${indentation}${cleanLine}`;
-                    modified = true;
                 }
             }
+
+            cleanedLines.push(line);
         }
 
         if (modified) {
-            await fs.writeFile(filePath, lines.join('\n'));
+            await fs.writeFile(filePath, cleanedLines.join('\n'));
             return {
                 success: true,
                 modified: true,
@@ -85,7 +78,7 @@ async function processDirectory(directory) {
     
     async function processFile(filePath) {
         if (path.extname(filePath) === '.md') {
-            const result = await addBacklinkQuotes(filePath);
+            const result = await cleanFrontmatter(filePath);
             results.push(result);
         }
     }
@@ -115,12 +108,12 @@ async function generateReport(results) {
     
     // Find existing reports to determine next number
     const files = await fs.readdir(reportsDir);
-    const existingReports = files.filter(f => f.startsWith(`${date}_backlink-quotes-report`));
+    const existingReports = files.filter(f => f.startsWith(`${date}_frontmatter-cleanup-report`));
     const nextNumber = existingReports.length + 1;
     
-    const reportPath = path.join(reportsDir, `${date}_backlink-quotes-report_${String(nextNumber).padStart(2, '0')}.md`);
+    const reportPath = path.join(reportsDir, `${date}_frontmatter-cleanup-report_${String(nextNumber).padStart(2, '0')}.md`);
 
-    let report = '# Backlink Quotes Report\n\n';
+    let report = '# Frontmatter Cleanup Report\n\n';
     report += '## Summary\n';
     report += `- Total files processed: ${results.length}\n`;
     report += `- Files modified: ${results.filter(r => r.modified).length}\n`;
@@ -131,7 +124,7 @@ async function generateReport(results) {
         .filter(r => r.modified)
         .forEach(r => {
             const relativePath = path.relative(__dirname, r.file);
-            report += `- [[${relativePath}]] (Added quotes around backlinks)\n`;
+            report += `- [[${relativePath}]] (Removed problematic frontmatter lines)\n`;
         });
 
     await fs.writeFile(reportPath, report);
@@ -139,17 +132,9 @@ async function generateReport(results) {
 }
 
 async function main() {
-    try {
-        const toolingDir = path.join(__dirname, 'tooling');
-        console.log('Adding quotes around backlinks...');
-        
-        const results = await processDirectory(toolingDir);
-        await generateReport(results);
-
-    } catch (error) {
-        console.error('Error:', error);
-        process.exit(1);
-    }
+    console.log('Cleaning frontmatter...');
+    const results = await processDirectory(path.join(__dirname, 'tooling'));
+    await generateReport(results);
 }
 
-main();
+main().catch(console.error);

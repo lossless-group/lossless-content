@@ -8,5 +8,4 @@ zinger: A Gradio web UI for Large Language Models with support for multiple infe
 tags:
   - AI-Interfaces---
 
-https://oobabooga.gumroad.com/l/deep_reason
 ---

@@ -5,10 +5,7 @@ date_created: 2025-03-09
 date_modified: 2025-03-24
 zinger: Configuration that is Programmable, Scalable, and Safe
 tags:
-  - Programming-Languages---
-
-
-https://youtu.be/ckbqhf8P_cg?si=rDlAsrm6kfQOPQDr
+  - Programming-Languages
 ---
 
 Similar to [[Lua]]

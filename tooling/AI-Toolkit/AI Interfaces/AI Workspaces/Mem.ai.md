@@ -18,4 +18,4 @@ date_modified: 2025-03-24
 ---
 
 
-Similar to [[Networked-Notes]] and [[Advanced Documents]], but using [[Generative AI]].  
+Similar to [[Networked-Notes]] and [[Advanced Documents]], but using [[Generative AI]].

@@ -9,7 +9,7 @@ date_modified: 2025-03-24
 
 
 
-A feature within any kind of software that provides assistance using [[Generative AI]].  
+A feature within any kind of software that provides assistance using [[Generative AI]].
 
 ![[Airtable#Airtable Copilot]]
 

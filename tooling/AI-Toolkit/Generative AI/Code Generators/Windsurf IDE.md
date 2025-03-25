@@ -31,8 +31,8 @@ From [Memories and Rules](https://docs.codeium.com/windsurf/memories):
 To ask Cascade to create a memory at any time, prompt Cascade to “create a memory of …”.
 
 #### Windsurf Rules
-The [[Windsurf IDE]] processes project based rules in your root project directory in a file called `.windsurfrules`.  
-[[Codeium]] has a [Windsurf Rules Directory](https://codeium.com/windsurf/directory) with example rulefiles.  
+The [[Windsurf IDE]] processes project based rules in your root project directory in a file called `.windsurfrules`.
+[[Codeium]] has a [Windsurf Rules Directory](https://codeium.com/windsurf/directory) with example rulefiles.
 
 
 # Media:

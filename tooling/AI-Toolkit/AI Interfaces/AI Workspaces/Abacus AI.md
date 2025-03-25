@@ -7,7 +7,7 @@ date_modified: 2025-03-24
 ---
 
 
-[[Model Wrappers]], [[Artificial Intelligence|Enterprise AI]]. 
+[[Model Wrappers]], [[Artificial Intelligence|Enterprise AI]].
 ![[Screenshot 2025-02-20 at 11.31.44 PM_Abacus-AI--Hero.png]]
 ### Chat LLM
 

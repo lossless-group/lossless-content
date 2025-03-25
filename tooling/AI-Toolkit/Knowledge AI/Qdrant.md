@@ -16,5 +16,5 @@ date_modified: 2025-03-24
 ---
 
 
-A [[Vector Databases]] commonly used in [[RAG]] and [[Knowledge Augmented Generation|KAG]] systems.  
+A [[Vector Databases]] commonly used in [[RAG]] and [[Knowledge Augmented Generation|KAG]] systems.
 

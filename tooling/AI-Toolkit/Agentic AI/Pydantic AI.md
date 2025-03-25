@@ -16,7 +16,7 @@ date_modified: 2025-03-24
 ---
 
 
-An [[Agentic AI]] framework in [[Python]]. 
+An [[Agentic AI]] framework in [[Python]].
 
 [[Open Source]]
 

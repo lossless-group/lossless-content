@@ -15,7 +15,7 @@ date_modified: 2025-03-24
 ---
 
 
-[[Virtual Environments]] part of [[Reproducible Builds]]. 
+[[Virtual Environments]] part of [[Reproducible Builds]].
 
 https://youtu.be/gbVFTl8bnt8?si=UHwLk7bBBRinjdOL
 

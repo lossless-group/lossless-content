@@ -14,4 +14,4 @@ date_modified: 2025-03-24
 ---
 
 
-Offers [[AI Powered Data Capture#AI Powered Transcription Services|AI Powered Transcription]] in addition to [[Video Capture]], as well as video centered conversations. 
+Offers [[AI Powered Data Capture#AI Powered Transcription Services|AI Powered Transcription]] in addition to [[Video Capture]], as well as video centered conversations.

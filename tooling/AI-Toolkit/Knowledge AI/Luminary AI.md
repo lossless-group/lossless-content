@@ -16,4 +16,4 @@ date_modified: 2025-03-24
 ---
 
 
-[[RAG]] and [[Knowledge Augmented Generation|KAG]] 
+[[RAG]] and [[Knowledge Augmented Generation|KAG]]

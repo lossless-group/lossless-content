@@ -18,7 +18,7 @@ date_modified: 2025-03-24
 ---
 
 
-[[AI Powered Data Capture]], 
+[[AI Powered Data Capture]],
 
 <div class="youtube-container"><iframe 
 style="aspect-ratio:16/9;width:100%;height:auto" 

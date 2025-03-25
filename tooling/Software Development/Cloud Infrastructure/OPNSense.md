@@ -12,7 +12,6 @@ title: OPNsense® a true open source security platform and more - OPNsense® is
 favicon: https://opnsense.org/wp-content/themes/OPNsense/assets/ico/favicon.png
 og_fetched_url: https://opnsense.org
 og_last_fetch: '2025-03-24T06:28:30.271Z'
-og_screenshot: 
 ---
 [[Virtual Private Networks]]
 ---

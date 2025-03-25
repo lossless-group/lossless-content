@@ -31,5 +31,5 @@ It seems only helpful for [[Python]].
 [[Aider#Aider Composer|Aider Composer]] is a [[Visual Studio Code]] [[Plug-ins,  Add-ons,  Extensions|Extension]], that assists with [[Code Generators]].
 
 ## Aider Release Notes
-[[Aider]] is an example of a technology project vigilant about its [[Release Notes]].  
+[[Aider]] is an example of a technology project vigilant about its [[Release Notes]].
 ![[Screenshot 2025-01-22 at 12.54.37 PM_Aider--Release-Notes.png]]

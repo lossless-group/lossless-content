@@ -10,7 +10,6 @@ site_name: Tencent 腾讯
 title: Tencent 腾讯
 og_fetched_url: https://www.tencent.com/en-us/index.html
 og_last_fetch: '2025-03-24T06:28:27.097Z'
-og_screenshot: 
 ---
 
 [[Organizations/Tencent|Tencent]]'s 'Hunyuan-T1'–The First [[Mamba-Powered]] Ultra-Large Model

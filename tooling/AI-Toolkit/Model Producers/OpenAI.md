@@ -50,7 +50,7 @@ Here is a timeline of OpenAI's major model releases, their features, and use cas
 ---
 
 ### Other Models
-1. **[[Sora-Series Models]] (February 2024)**  
+1. **[[Sora-Series Models]] (February 2024)**
    - **Key Features**: Text-to-video generation capabilities (release date unspecified).  
    - **Use Cases**: Media production and creative industries[5].
 

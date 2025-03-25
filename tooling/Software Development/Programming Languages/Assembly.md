@@ -4,9 +4,6 @@ aliases:
   - ASM
 date_created: 2025-03-09
 date_modified: 2025-03-24
-
-
-https://youtu.be/E21sBWnMV8U?si=ZCjFO5AKzt4JAvPd
 ---
 
 > [!LLM Response] [[Organizations/Perplexity AI|Perplexity AI]] explains [[Tooling/Software Development/Programming Languages/Assembly|ASM]]

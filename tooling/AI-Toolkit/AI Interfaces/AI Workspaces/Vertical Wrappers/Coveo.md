@@ -17,6 +17,6 @@ date_modified: 2025-03-24
 ---
 
 
-[[Enterprise SaaS]], [[Customer Experience]]. 
+[[Enterprise SaaS]], [[Customer Experience]].
 ##### Screenshot of the [[Coveo]] Hero
 ![[Screenshot 2025-02-11 at 12.28.13 PM_Coveo--Hero.png]]

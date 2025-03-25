@@ -5,7 +5,7 @@ date_modified: 2025-03-24
 
 
 
-Used to create the [[Front-End]] along with [[CSS]] and [[JavaScript]]. 
+Used to create the [[Front-End]] along with [[CSS]] and [[JavaScript]].
 
 Can be extended through [[Web Components]]
 

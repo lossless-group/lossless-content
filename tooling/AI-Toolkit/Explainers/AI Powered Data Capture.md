@@ -11,7 +11,7 @@ Tools like [[Hexomatic]], [[Spider]], [[Jina.ai]], [[Firecrawl]]
 [[Exa.ai]]
 [[Browserbase]]
 [[browserless]]
-[[Puppeteer]] 
+[[Puppeteer]]
 
 https://youtu.be/mK_h1OZHzHE?si=4dPfGigzUZFO6Wtw
 ### AI Powered Transcription Services

@@ -10,6 +10,6 @@ tags:
   - Open-Source-Clones
 ---
 
-[[Open Source]] alternative to [[Tooling/AI-Toolkit/Model Producers/OpenAI|OpenAI]]'s [[Tooling/AI-Toolkit/Models/GPT-Series Models|GPT-Series Models]] 
+[[Open Source]] alternative to [[Tooling/AI-Toolkit/Model Producers/OpenAI|OpenAI]]'s [[Tooling/AI-Toolkit/Models/GPT-Series Models|GPT-Series Models]]
 
 

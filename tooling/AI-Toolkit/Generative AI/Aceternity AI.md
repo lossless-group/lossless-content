@@ -16,5 +16,5 @@ date_modified: 2025-03-24
 ---
 
 
-A [[UI-Kit]] and [[Generative AI]] [[Model Wrappers|Model Wrapper]] for [[User Interface]] design.  
+A [[UI-Kit]] and [[Generative AI]] [[Model Wrappers|Model Wrapper]] for [[User Interface]] design.
 

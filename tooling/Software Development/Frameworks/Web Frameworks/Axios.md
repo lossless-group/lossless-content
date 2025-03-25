@@ -8,9 +8,5 @@ description_site_cp: Axios is a simple promise based HTTP client for the browser
 github_repo_url: https://github.com/axios/axios
 github_profile_url: https://github.com/axios
 tags:
-  - JavaScript-Ecosystem---
-
-
-
-https://youtu.be/OFWATycG_Wc?si=LiP7Da_5JucVTYI8
+  - JavaScript-Ecosystemxs
 ---
