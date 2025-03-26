@@ -20,3 +20,11 @@ tags:
 - Platform-Mechanisms
 - State-of-The-Art-Practices
 ---
+
+# Goal
+
+## First Step
+Make an easily updatable changelog for both content and code.  
+
+# Second Step
+Find a way to blend

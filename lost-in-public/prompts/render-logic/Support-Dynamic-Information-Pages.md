@@ -54,11 +54,19 @@ graph TD
 import Information from '../layouts/Information.astro';
 ---
 
+about.astro (entry)
+  → Information.astro (content fetcher)
+    → pages collection (content source)
+      → Layout.astro (base layout)
+        → Final HTML
+
 <Information pageName="test" />
 ```
 - Simple entry point
 - Delegates rendering to Information layout
 - Specifies which page to render via `pageName`
+
+
 
 ### Information Layout (`Information.astro`)
 ```astro
