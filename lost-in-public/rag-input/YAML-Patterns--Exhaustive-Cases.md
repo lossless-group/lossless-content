@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-24
-date_modified: 2025-03-24
+date_modified: 2025-03-26
 ---
 # YAML Patterns for Data Integrity
 
@@ -833,6 +833,14 @@ tagsMayHaveInconsistentSyntax: {
 ```
 
 ### Correction Functions
+
+The goal is:
+
+- tags: Technology Consultants        -> tags:\n  - Technology-Consultants
+- tags: AI Content Generation        -> tags:\n  - AI-Content-Generation
+- tags: tag1, Machine Learning       -> tags:\n  - tag1\n  - Machine-Learning
+
+
 ```javascript
 // Correction Function
 async assureOrFixTagSyntaxInFrontmatter(markdownContent, markdownFilePath) {
