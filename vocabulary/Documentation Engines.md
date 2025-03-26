@@ -1,6 +1,6 @@
 [[Mintlify]]
 
-### [[Perplexity AI]] explains Documentation Engines
+### [[Organizations/Perplexity AI]] explains Documentation Engines
 Documentation frameworks are sometimes referred to as "documentation engines" because they often automate or streamline the process of generating, managing, and maintaining documentation. Here are key distinctions:
 
 - **Automation**: Documentation engines like Doxygen or Javadoc extract information directly from source code (e.g., comments) to auto-generate documentation, reducing manual effort[2][3].

@@ -1,6 +1,6 @@
 https://youtu.be/qUnik4gxrtM?si=exboKK5_cpmjjN1V
 
-[[Natrium]]
+[[Organizations/Natrium]]
 
 https://youtu.be/D_eFzJg_OJ0?si=4nAFT69AmYU5yaDJ
 

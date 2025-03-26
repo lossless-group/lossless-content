@@ -10,7 +10,7 @@ date_modified: 2025-03-21
 
 An [[Affinity Network]] for [[Artificial Intelligence|AI]] is [[Hugging Face]].
 
-A platform for [[Affinity Network|Affinity Groups]] is [[Reddit]].
+A platform for [[Affinity Network|Affinity Groups]] is [[Organizations/Reddit]].
 
 Everyone seems to be using [[Tooling/Products/Discord|Discord]]
 

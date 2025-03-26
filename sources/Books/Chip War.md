@@ -16,9 +16,9 @@ https://youtu.be/1ZXK8pEjqyQ?si=1DlQMyV4GeS6KP-D
 https://youtu.be/wLLty2GoAuU?si=871XBAKTg45CI8ef
 
 https://youtu.be/OxUP51qk4lQ?si=R9LnHtnBdntvWlH-
-[[Humanoid Robots]]
-[[Nvidia]]
-[[Intel]]
-[[AMD]]
-[[Texas Instruments]]
-[[TSMC]]
+[[Organizations/Humanoid Robots]]
+[[Organizations/Nvidia]]
+[[Organizations/Intel]]
+[[Organizations/AMD]]
+[[Organizations/Texas Instruments]]
+[[Organizations/TSMC]]

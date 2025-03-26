@@ -1,6 +1,6 @@
-Listed through it's parent holding company, [[Alphabet]]. 
+Listed through it's parent holding company, [[Organizations/Alphabet]]. 
 
-[[Google]] acquired[[YouTube]] in 2006, [[DeepMind]] in 2014. 
+[[Organizations/Google]] acquired[[YouTube]] in 2006, [[Organizations/DeepMind]] in 2014. 
 
 Their 20% time policy is indicative of the value of [[Protected Play]].  
 
@@ -14,8 +14,8 @@ Creates hardware to power [[Artificial Intelligence|AI]], such as the [[Coral Ed
 
 
 
-## Google can acquire and hold, so now it's an [[Alphabet]]
-[[Google]] is one of the few companies that has a track record of successful [[Acquisitions]]. 
+## Google can acquire and hold, so now it's an [[Organizations/Alphabet]]
+[[Organizations/Google]] is one of the few companies that has a track record of successful [[Acquisitions]]. 
 > [!AI explains]
 > Google (now part of **Alphabet Inc.**) has made numerous acquisitions over the years, many of which have been pivotal in expanding its capabilities, diversifying its business, and solidifying its position as a tech giant. Here’s a list of some of the most **notable and successful acquisitions by Google**, categorized by their impact:
 > 

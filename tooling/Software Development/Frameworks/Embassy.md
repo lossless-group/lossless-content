@@ -19,6 +19,6 @@ date_modified: 2025-03-24
 
 
 
-A [[Framework]] in [[Rust]]
+A [[Organizations/Framework]] in [[Rust]]
 
 

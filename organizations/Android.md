@@ -1,4 +1,4 @@
 ---
-parent-org: "[[Google]]"
+parent-org: "[[Organizations/Google]]"
 ---
-[[Android]] is the Operating System maintained by [[Google]] for Mobile Devices.  
+[[Organizations/Android]] is the Operating System maintained by [[Organizations/Google]] for Mobile Devices.  

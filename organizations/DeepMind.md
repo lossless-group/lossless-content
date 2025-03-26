@@ -27,7 +27,7 @@ According to [[Poe AI]]:
 > 
 > ### Acquisition by Google (2014)
 > 
-> In **January 2014**, [[Google]] (now Alphabet Inc.) acquired DeepMind for approximately **$500 million**, making it one of the largest AI acquisitions at the time. The deal underscored the growing importance of AI in the tech industry.
+> In **January 2014**, [[Organizations/Google]] (now Alphabet Inc.) acquired DeepMind for approximately **$500 million**, making it one of the largest AI acquisitions at the time. The deal underscored the growing importance of AI in the tech industry.
 > 
 > **Terms of the Acquisition**:
 > 

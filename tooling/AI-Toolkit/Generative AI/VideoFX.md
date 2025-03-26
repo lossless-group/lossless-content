@@ -5,5 +5,5 @@ date_modified: 2025-03-24
 
 
 
-A product of [[Google Labs]].
+A product of [[Organizations/Google Labs]].
 

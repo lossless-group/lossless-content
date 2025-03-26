@@ -1,7 +1,7 @@
 
 https://youtu.be/x2WtHZciC74?si=83UenlwiIydbNr_j
 
-### [[Perplexity AI]] explains [[Weak Pointers]]
+### [[Organizations/Perplexity AI]] explains [[Weak Pointers]]
 A **weak pointer** is a type of smart pointer in programming that holds a non-owning reference to an object managed by a **shared pointer**. It does not increase the reference count of the object, meaning it does not extend the object's lifetime. Weak pointers are primarily used to break **circular dependencies** in memory management.
 
 ### How Weak Pointers Work

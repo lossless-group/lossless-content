@@ -1,5 +1,5 @@
 
-[[Facebook]]
+[[Organizations/Facebook]]
 Creators and maintainers of [[React]], [[Skip]], [[StyleX]]. 
 
 Major contributors to the [[OAuth]] and [[GraphQL]] standards.  

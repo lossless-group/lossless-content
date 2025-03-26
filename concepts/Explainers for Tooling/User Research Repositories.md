@@ -4,5 +4,5 @@ aliases:
 ---
 
 
-[[Dovetail]], [[Marvin]]
+[[Organizations/Dovetail]], [[Marvin]]
 

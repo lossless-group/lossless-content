@@ -5,7 +5,7 @@ tags:
 mcp_server: https://github.com/ppl-ai/modelcontextprotocol/tree/main
 ---
 
-[[Perplexity AI]] focuses on the "search" use case for AI, to some degree performing realtime search, focusing on the quality of information sources, and embedding and citing its own sources.  
+[[Organizations/Perplexity AI]] focuses on the "search" use case for AI, to some degree performing realtime search, focusing on the quality of information sources, and embedding and citing its own sources.  
 
 A feature is [[Perplexity Spaces]], which is similar to [[AI-Toolkit/AI Interfaces/AI Workspaces/NotebookLM|NotebookLM]].
 

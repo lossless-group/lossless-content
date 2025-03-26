@@ -18,7 +18,7 @@ date_modified: 2025-03-24
 
 [[Generative AI]]
 
-[[Stanford University]]
+[[Organizations/Stanford University]]
 
 ## Co-STORM
 

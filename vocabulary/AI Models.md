@@ -23,17 +23,17 @@ Independent organizations creating models include:
 - [[Anthropic]], maintaining [[Claude]].
 - [[Cognition AI]], maintaining [[Devin]].
 - [[DeepSeek]], maintaining [[DeepSeek]] and [[r1]].
-- [[Mistral]], maintaining [[Small]]. 
+- [[Organizations/Mistral]], maintaining [[Small]]. 
 - [[Black Forest Labs]], maintaining [[Flux]]
-- [[Stanford Research Institute|SRI]], maintaining [[STORM]]. 
-- [[X]], maintaining [[Grok]]
+- [[Organizations/Stanford Research Institute|SRI]], maintaining [[STORM]]. 
+- [[Organizations/X]], maintaining [[Grok]]
 
 Big Tech organizations include:
-- [[Google Labs]], maintaining [[Gemini]]
-- [[Meta]], maintaining [[OLlama]] and [[LLaMA]], [[LLaVa]]
-- [[IBM]], maintaining [[Watson]]
-- [[Alibaba]], maintaining [[Qwen]] and [[Wan]]
-- [[Microsoft]], maintaining [[Phi-Series Models]]
+- [[Organizations/Google Labs]], maintaining [[Gemini]]
+- [[Organizations/Meta]], maintaining [[OLlama]] and [[LLaMA]], [[LLaVa]]
+- [[Organizations/IBM]], maintaining [[Watson]]
+- [[Organizations/Alibaba]], maintaining [[Qwen]] and [[Wan]]
+- [[Organizations/Microsoft]], maintaining [[Phi-Series Models]]
 
 ###### [[Fabric]] has a list for us:
 Available plugins (please configure all required plugins)::

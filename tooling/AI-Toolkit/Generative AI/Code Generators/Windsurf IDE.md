@@ -12,11 +12,11 @@ tags:
   - Generative-AI
   - Code-Generators
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/2d10e118ad40fd692c4d55156f2285e7eae2c033a29fd9606373da510fbed0f6.jpeg
-jina_last_request: '2025-03-09T06:45:11.368Z'
-jina_error: "Error occurred"
-og_last_fetch: '2025-03-07T05:20:56.434Z'
+jina_last_request: 2025-03-09T06:45:11.368Z
+jina_error: Error occurred
+og_last_fetch: 2025-03-07T05:20:56.434Z
 docs_url: https://docs.codeium.com/windsurf/
-parent_org: '[[Codeium]]'
+parent_org: "[[Organizations/Codeium]]"
 reddit_forum_url: https://www.reddit.com/r/Codeium/
 date_modified: 2025-03-24
 ---
@@ -32,7 +32,7 @@ To ask Cascade to create a memory at any time, prompt Cascade to “create a mem
 
 #### Windsurf Rules
 The [[Windsurf IDE]] processes project based rules in your root project directory in a file called `.windsurfrules`.
-[[Codeium]] has a [Windsurf Rules Directory](https://codeium.com/windsurf/directory) with example rulefiles.
+[[Organizations/Codeium]] has a [Windsurf Rules Directory](https://codeium.com/windsurf/directory) with example rulefiles.
 
 
 # Media:

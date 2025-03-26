@@ -9,6 +9,6 @@ date_modified: 2025-03-24
 
 
 
-[[Google Labs]]
+[[Organizations/Google Labs]]
 
 https://youtu.be/27AxmEh3qEA?si=j6CBDLzPJvRV9pxd
