@@ -18,6 +18,8 @@ tags:
 - Specifications
 - Data-Integrity
 - Content-Fixes
+date_created: 2025-03-23
+date_modified: 2025-03-24
 ---
 
 # Write a Technical Specification with a Standard but Evolving Style

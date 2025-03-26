@@ -2,6 +2,8 @@
 tags:
   - Code-Generators
   - Best-Practices
+date_created: 2025-03-23
+date_modified: 2025-03-24
 ---
 
 > [!CopyPasta] Copypasta from [Windsurf best practices](https://www.reddit.com/r/Codeium/comments/1h2psgy/windsurf_best_practices/) 
