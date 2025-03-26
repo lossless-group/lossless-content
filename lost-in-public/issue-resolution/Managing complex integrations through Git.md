@@ -16,3 +16,14 @@ git push --force origin development
 git push --force-with-lease origin development
 ```
 
+```bash
+git rm -r --cached scripts site_archive
+```
+
+```bash
+find content/changelog--code -name "*.bak" -type f -delete
+```
+
+```bash
+for file in content/changelog--code/*.md; do cp "$file" "${file}.bak"; done
+```
