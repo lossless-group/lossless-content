@@ -15,7 +15,7 @@ date_modified: 2025-03-24
 	- [[Melty]] is just a [[Text Editors or IDEs|Text Editor]], but has strong reviews.
 - [[Terminal Emulators|Terminal Emulators]] include [[Warp]] and [[Aider]]
 - [[Opsless Deployment Providers]] include [[Tooling/Software Development/Cloud Infrastructure/Bolt.new]], [[v0]], [[Lovable]], [[Replit]], [[Hostinger]] and [[ScrBook]]
-- [[Plug-ins,  Add-ons,  Extensions|Plug-ins]] to other Text Editors include [[Aider]], [[Databutton]], [[Claude#Cline|Cline]], [[Devin]], [[supermaven]], [[Augment Code]], [[Continue AI]], [[AppMap]] who embed into [[Text Editors or IDEs]], such as [[JetBrains]] but especially [[Visual Studio Code|VS Code]].
+- [[Plug-ins,  Add-ons,  Extensions|Plug-ins]] to other Text Editors include [[Aider]], [[Databutton]], [[Claude#Cline|Cline]], [[Devin]], [[supermaven]], [[Augment Code]], [[Continue AI]], [[AppMap]] who embed into [[Text Editors or IDEs]], such as [[Organizations/JetBrains]] but especially [[Visual Studio Code|VS Code]].
 - Starting from your own code repositories, services like [[Poolside]], [[AppMap]], [[smolagents]], [[RepoPrompt]]
 - Specializing in [[Bug Reporting]] is [[CodeAnt AI]]
 - Specialized [[AI Models]] include [[InceptionLabs]] [[Mercury Coder]]

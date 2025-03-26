@@ -2,5 +2,5 @@
 
 Author of [[The Alliance]]
 
-Founder of [[LinkedIn]]
+Founder of [[Organizations/LinkedIn]]
 

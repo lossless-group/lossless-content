@@ -1,2 +1,2 @@
-Adjacent is [[Stanford Research Institute|SRI]]
+Adjacent is [[Organizations/Stanford Research Institute|SRI]]
 

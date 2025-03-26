@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-20
-date_modified: 2025-03-20
+date_modified: 2025-03-26
 ---
 # Continuous Integration Workflow
 This workflow was recommended by [[Tooling/AI-Toolkit/Generative AI/Code Generators/Warp|Warp]] an [[Tooling/AI-Toolkit/Explainers/AI Terminal Assistant]]
@@ -463,6 +463,23 @@ This strategy gives you:
 •  Easy rollback capabilities
 •  Preserved detailed history for debugging
 
+# Tips
+
+Syncing a specific file:
+```bash
+cd ../content && git checkout development && git checkout master -- "tooling/Software Development/Lego-Kit Engineering Tools/Metriport.md" && git add . && git commit -m "sync(metriport): sync updated dates from master" && git diff master
+```
+
+Use Git Status a lot:
+```bash
+git status && echo "=== BRANCH INFO ===" && git branch -v
+```
+
+Use Git Diff a lot:
+```bash
+git diff development
+cd ../content && git diff master development
+```
 
 # Stylistic Guidelines
 ### Using Imperative Verb Form

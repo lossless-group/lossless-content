@@ -10,7 +10,7 @@ The most successful chip design company, building proprietary processors with [[
 
 Acquired Run:AI
 
-In March 2023, [[Nvidia]] announced the cuLitho, a computational lithography software package that can deliver 40x improvements over current lithography for [[Chip Producer]]s 
+In March 2023, [[Organizations/Nvidia]] announced the cuLitho, a computational lithography software package that can deliver 40x improvements over current lithography for [[Chip Producer]]s 
 
 2023, Nov 13 [Nvidia and Lithography](https://youtu.be/HxyM2Chu9Vc?si=hdd87HOfct4ZGXEH)  by [[Asianometry]] on [[YouTube]]
 
@@ -33,7 +33,7 @@ https://youtube.com/shorts/jBMcnLVHS9c?si=7uuaZB5Oj5nc7nZo
 https://youtu.be/h4w_aObRzCc?si=o4q1SXDD0W4KCwVh
 
 https://youtu.be/nFB-AILkamw?si=Sc5bgz8ZcYFYdCvm
-## [[Perplexity AI]] explains:
+## [[Organizations/Perplexity AI]] explains:
 NVIDIA, founded in 1993 by Jensen Huang, Curtis Priem, and Chris Malachowsky, began as a graphics-focused company and evolved into a leader in artificial intelligence (AI). Its trajectory reshaped computer graphics and enabled the AI revolution.
 
 ### **Early Years: Pioneering Graphics**
@@ -90,6 +90,6 @@ Sources
 
 
 ## Nvidia SDK Manager
-[[Nvidia]] has an [[SDK]] manager, which offers easy access to the SDKs for their various hardware products available at [Nvidia Developer](https://developer.nvidia.com/sdk-manager).  It has robust and accessible [[Documentation]].![[Screenshot 2025-01-20 at 1.31.35 PM_NVIDIA_SDK--Hero.png]]
+[[Organizations/Nvidia]] has an [[SDK]] manager, which offers easy access to the SDKs for their various hardware products available at [Nvidia Developer](https://developer.nvidia.com/sdk-manager).  It has robust and accessible [[Documentation]].![[Screenshot 2025-01-20 at 1.31.35 PM_NVIDIA_SDK--Hero.png]]
 
 [[Compute Unified Device Architecture|CUDA]]

@@ -14,4 +14,4 @@ Includes [[Linear]], and [[Whimsical]]
 
 
 
-[^1]: [UX/UI Project Process](https://foundation.mozilla.org/en/docs/design/websites/process-for-uxui-projects/) [[Mozilla]] Foundation Documentation. Accessed 2025, Jan 01.  
+[^1]: [UX/UI Project Process](https://foundation.mozilla.org/en/docs/design/websites/process-for-uxui-projects/) [[Organizations/Mozilla]] Foundation Documentation. Accessed 2025, Jan 01.  

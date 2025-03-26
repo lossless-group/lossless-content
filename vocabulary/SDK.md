@@ -8,4 +8,4 @@ date_modified: 2025-03-21
 ---
 
 
-![[Nvidia#Nvidia SDK Manager]]
+![[Organizations/Nvidia#Nvidia SDK Manager]]

@@ -6,7 +6,7 @@ date_modified: 2025-03-24
 
 [What are Spaces?](https://www.perplexity.ai/hub/faq/what-are-spaces)
 
-[[Perplexity AI]]
+[[Organizations/Perplexity AI]]
 
 
 

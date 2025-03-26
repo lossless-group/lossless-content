@@ -1,6 +1,6 @@
 https://youtu.be/ytomieYqUCQ?si=cyv-8tVJf1i9mntY
 
-[[Perplexity AI]] explains a [[Voice User Interface]]
+[[Organizations/Perplexity AI]] explains a [[Voice User Interface]]
 A **Voice User Interface (VUI)** allows users to interact with devices or applications through spoken commands, using technologies like speech recognition and natural language processing to understand and respond to voice inputs[1][7].
 
 ### Applications Beyond Alexa and HomePod

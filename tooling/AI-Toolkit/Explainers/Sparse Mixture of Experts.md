@@ -5,4 +5,4 @@ date_modified: 2025-03-24
 
 
 https://youtu.be/diMGVabULoU?si=_TxcHQLXcJj3UiAw
-[[Mistral]]
+[[Organizations/Mistral]]

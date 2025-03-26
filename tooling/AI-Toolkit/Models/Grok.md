@@ -17,7 +17,7 @@ date_modified: 2025-03-24
 
 
 
-An [[AI Models|AI Model]], [[Large Language Models]], [[X]]
+An [[AI Models|AI Model]], [[Large Language Models]], [[Organizations/X]]
 
 https://youtu.be/igDU0_R_oOM?si=WEGhCO29Ej6Tb0-E
 

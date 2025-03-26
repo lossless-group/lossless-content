@@ -1,6 +1,6 @@
 ---
 site_uuid: d729680e-d296-4c7c-be91-9e08544aea99
-created_by: '[[Meta]]'
+created_by: "[[Organizations/Meta]]"
 github_repo_url: https://github.com/ollama/ollama
 tags:
   - Open-Source
@@ -12,7 +12,7 @@ date_modified: 2025-03-24
 
 
 
-Created and maintained by [[Meta]]
+Created and maintained by [[Organizations/Meta]]
 
 Allows [[Local LLM]] and [[Self-Hosting]].
 

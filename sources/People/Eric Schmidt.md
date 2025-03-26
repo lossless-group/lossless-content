@@ -1,2 +1,2 @@
-Former CEO of [[Google]].
+Former CEO of [[Organizations/Google]].
 

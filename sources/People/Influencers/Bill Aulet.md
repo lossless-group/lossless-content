@@ -3,4 +3,4 @@ bio: A longtime successful entrepreneur, Bill is the Managing Director of the Ma
 ---
 [[Bill Aulet]] is the author of [[Disciplined Entrepreneurship]] and [[Startup Tactics]].  
 
-A professor at [[Massachusetts Institute of Technology]]
+A professor at [[Organizations/Massachusetts Institute of Technology]]

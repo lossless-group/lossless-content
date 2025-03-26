@@ -22,4 +22,4 @@ Thus, the [[Brown M&M Test]] became business folklore on how to check to see if 
 
 # Footnotes
 ***
-[^1]: Allen, James. [The Power in a Bowl of M&M’s](https://www.bain.com/insights/the-power-in-a-bowl-of-m-and-ms-fm-blog/) [[Bain & Company]], Founder's Mentality Blog. Pulled from [[Decisive. How to Make Better Choices in Life and Work]]
+[^1]: Allen, James. [The Power in a Bowl of M&M’s](https://www.bain.com/insights/the-power-in-a-bowl-of-m-and-ms-fm-blog/) [[Organizations/Bain & Company]], Founder's Mentality Blog. Pulled from [[Decisive. How to Make Better Choices in Life and Work]]

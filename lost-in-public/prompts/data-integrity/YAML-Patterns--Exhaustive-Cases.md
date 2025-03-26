@@ -1599,7 +1599,7 @@ PROPERTY SPECIFIC PREFERENCES
 
 | CORRECT                                      | INCORRECT                                       | RULE                                                                                                                                         |
 | -------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| parent_org: '[[Adobe]]'                      | `parent_org: [[Adobe]]`                         | Backlinks must have a single mark quote delimiter surrounding the double brackets.                                                           |
+| parent_org: '[[Organizations/Adobe]]'                      | `parent_org: [[Adobe]]`                         | Backlinks must have a single mark quote delimiter surrounding the double brackets.                                                           |
 | parent_org: '[[Organizations/Adobe\|Adobe]]' | `parent_org: [[Adobe]]`                         | Backlinks should have their relative path back to the root content directory, then a '\|' pipe character, then the fileName without the .md. |
 | parent_org: '[[Organizations/Adobe\|Adobe]]' | `parent_org: [[Organizations/Adobe\|Adobe.md]]` | Backlinks should have their relative path back to the root content directory, then a '\|' pipe character, then the fileName without the .md. |
 

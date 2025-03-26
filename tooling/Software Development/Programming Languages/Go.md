@@ -7,7 +7,7 @@ date_modified: 2025-03-24
 
 
 
-Created and maintained by [[Alphabet]] at [[Google]].
+Created and maintained by [[Organizations/Alphabet]] at [[Organizations/Google]].
 
 https://youtu.be/8uiZC0l4Ajw?si=C1l2tNMxgC5kVVC5
 

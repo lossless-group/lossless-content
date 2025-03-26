@@ -8,9 +8,7 @@ tags:
   - Personal-Use
   - Personal-Productivity
   - Personal-Cloud
-  - Check-it-Out---
-
-
-
-[https://casaos.io](https://casaos.io/)
+  - Check-it-Out
 ---
+
+[https://casaos.io](https://casaos.io/){{ ... }}

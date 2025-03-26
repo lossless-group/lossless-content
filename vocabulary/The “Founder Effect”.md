@@ -1,11 +1,11 @@
-[[Perplexity AI]] explains [[The “Founder Effect”]]
+[[Organizations/Perplexity AI]] explains [[The “Founder Effect”]]
 The "Founder Effect" in business refers to the profound influence a company's founder has on its culture, operations, and trajectory. This influence can be both positive and negative, shaping the organization long after the founder has stepped back or left.
 
 ### **Key Aspects of the Founder Effect**
 
 1. **Positive Contributions**:
    - Founders often bring passion, vision, and charisma that inspire teams and attract talent[2].
-   - They establish the company’s core values, culture, and initial direction, as seen in companies like [[Apple]] under Steve Jobs and Starbucks under Howard Schultz. Jobs’ focus on design and innovation became synonymous with Apple’s identity, while Schultz’s vision of Starbucks as a "third place" for community gatherings shaped its global success[4].
+   - They establish the company’s core values, culture, and initial direction, as seen in companies like [[Organizations/Apple]] under Steve Jobs and Starbucks under Howard Schultz. Jobs’ focus on design and innovation became synonymous with Apple’s identity, while Schultz’s vision of Starbucks as a "third place" for community gatherings shaped its global success[4].
 
 2. **Negative Impacts**:
    - Founders may resist delegating authority or adapting to new challenges, limiting growth. This phenomenon is often referred to as "founder’s syndrome"[1][2].

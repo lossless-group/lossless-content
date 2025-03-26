@@ -4,7 +4,7 @@ aliases:
 ---
 [[Gorilla]]
 
-> [!NOTE] [[Perplexity AI]] explains [[UC Berkeley]]'s role in technology innovation
+> [!NOTE] [[Organizations/Perplexity AI]] explains [[Organizations/UC Berkeley]]'s role in technology innovation
 > 
 > UC Berkeley has played a significant role in the development of the Internet, open-source software, and artificial intelligence (AI), contributing groundbreaking research, tools, and initiatives across these fields.
 > 

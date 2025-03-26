@@ -18,7 +18,7 @@ Several companies are leading the development of humanoid robots, supported by n
 - **Funding:** $350M Series A in 2025, backed by Google and others[8][10].  
 - **Progress:** Collaborated with NASA and NVIDIA; aims to price robots below cars[10].
 
-### **3. [[Figure AI]]**
+### **3. [[Organizations/Figure AI]]**
 - **Founded:** 2022  
 - **Robots:** Figure 01 (logistics) and Figure 02 (2024).  
 - **Funding:** $70M Series A (2023) led by Parkway VC; $675M Series B (2024) at a $2.6B valuation from Microsoft, NVIDIA, Amazon, and OpenAI[2][7].  
@@ -36,7 +36,7 @@ Several companies are leading the development of humanoid robots, supported by n
 - **Funding:** $10M pre-seed from U.S., London, and Singapore investors[6].  
 
 ### Other Notable Players:
-- **[[Boston Dynamics]]**: Known for Atlas humanoid robot focused on agility and mobility[5].  
+- **[[Organizations/Boston Dynamics]]**: Known for Atlas humanoid robot focused on agility and mobility[5].  
 - **PAL Robotics**: Offers customizable humanoid robots for logistics and research applications[9].  
 - **1X**: Raised $98M in 2024 to develop humanoids like NEO for hazardous tasks[11].
 

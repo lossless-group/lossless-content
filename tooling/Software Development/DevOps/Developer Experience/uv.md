@@ -1,7 +1,7 @@
 ---
 site_uuid: 944b05db-3e02-4c00-a0e8-2899e747e8fd
 github_repo_url: https://github.com/astral-sh/uv
-created_by: '[[Microsoft]]'
+created_by: "[[Organizations/Microsoft]]"
 docs_url: https://docs.astral.sh/uv/
 tags:
   - Package-Managers

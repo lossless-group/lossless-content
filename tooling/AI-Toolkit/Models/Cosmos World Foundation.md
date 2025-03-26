@@ -20,5 +20,5 @@ date_modified: 2025-03-24
 
 [[World Foundation Models|World Foundation Model]]
 
-A model created and managed by [[Nvidia]]
+A model created and managed by [[Organizations/Nvidia]]
 

@@ -11,7 +11,7 @@ https://youtu.be/KMuXaSQCfro?si=BHFDeXZCtUQO5L5p
 
 https://youtu.be/0B9EMddwlOQ?si=-4Chhj3GADI6s8Nu
 
-[[Perplexity AI]] explains [[Diffusion Language Models]]
+[[Organizations/Perplexity AI]] explains [[Diffusion Language Models]]
 Diffusion-based language models (DLMs) represent a novel approach to natural language processing, combining the strengths of diffusion models with large language models. Unlike traditional autoregressive language models, DLMs use an iterative process of adding and removing noise to generate text[1]. This approach allows for more flexible and controllable text generation, as the model can refine its output through multiple steps[2].
 
 Key features of DLMs include:
@@ -29,7 +29,7 @@ Sources
 [3] Elevating NLP: LLM Enhances Diffusion Models https://myscale.com/blog/5-ways-llm-elevates-diffusion-models-nlp/
 [4] An Introduction to Diffusion Models for Machine Learning https://encord.com/blog/diffusion-models/
 
-[[Inception]]'s diffusion-based large language model (DLM) offers significant efficiency gains in AI latency compared to traditional LLMs. By streamlining model architecture and optimizing data transfers, DLMs can reduce computational overhead and minimize processing times[1][2]. Key advantages include:
+[[Organizations/Inception]]'s diffusion-based large language model (DLM) offers significant efficiency gains in AI latency compared to traditional LLMs. By streamlining model architecture and optimizing data transfers, DLMs can reduce computational overhead and minimize processing times[1][2]. Key advantages include:
 
 * Faster inference times and lower memory requirements through model pruning[2]
 * Improved responsiveness for real-time applications like chatbots and voice interfaces[3]

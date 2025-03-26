@@ -4,7 +4,7 @@ date_modified: 2025-03-24
 ---
 
 
-[[Nvidia]]  chip design for [[Local LLM|Local LLMs]]
+[[Organizations/Nvidia]]  chip design for [[Local LLM|Local LLMs]]
 
 https://youtube.com/shorts/8qB0dWjCvuM?si=VXKRDDyaAmthr6xk
 
