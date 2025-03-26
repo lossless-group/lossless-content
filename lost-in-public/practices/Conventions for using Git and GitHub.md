@@ -481,6 +481,16 @@ git diff development
 cd ../content && git diff master development
 ```
 
+Keeping the most recent in two branches
+```bash
+# First, make sure we have the latest from both branches
+git fetch origin master
+git fetch origin development
+
+# Then use merge with recursive strategy
+git merge master --strategy recursive -X theirs
+```
+
 # Stylistic Guidelines
 ### Using Imperative Verb Form
 
