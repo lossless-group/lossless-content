@@ -5,6 +5,11 @@ date_modified: 2025-03-26
 # Continuous Integration Workflow
 This workflow was recommended by [[Tooling/AI-Toolkit/Generative AI/Code Generators/Warp|Warp]] an [[Tooling/AI-Toolkit/Explainers/AI Terminal Assistant]]
 
+If you haven't already:
+```bash
+git config --global user.name "mpstaton" && git config --global user.email "mpstaton@gmail.com"
+```
+
 ## Managing large Monorepos and tons of Content with [[Tooling/Products/Git|Git]]
 There are two main approaches to consider: Git Submodules and Git Monorepo with Sparse Checkout. Let me explain both and recommend the best approach for your situation.
 
