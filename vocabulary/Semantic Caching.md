@@ -1,6 +1,6 @@
 
 https://youtu.be/iF-npWXuKCQ?si=-PWpvF41fsTXowTy
-[[Perplexity AI]] explains [[Semantic Caching]]
+[[Organizations/Perplexity AI]] explains [[Semantic Caching]]
 Semantic caching is an advanced data retrieval mechanism that focuses on the *meaning* and *intent* of queries rather than exact matches. It breaks queries into reusable, context-driven fragments, allowing systems to identify semantically similar requests and reuse cached responses. This reduces latency, improves system scalability, and lowers computational costs compared to traditional caching methods[1][4][5].
 
 ### **How Semantic Caching Works**

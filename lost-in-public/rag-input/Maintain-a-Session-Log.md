@@ -1,29 +1,62 @@
 ---
-title: 'Maintain a word-for-word dialog of our session'
-lede: 'Record and maintain a  WORD-FOR-WORD COPY of the Dialog between Human and AI'
+title: Maintain a word-for-word dialog of our session
+lede: Record and maintain a  WORD-FOR-WORD COPY of the Dialog between Human and AI
 date_authored_initial_draft: 2025-03-17
-date_authored_current_draft: 2025-03-18
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
-date_occurred: 2025-03-18
-at_semantic_version: '0.0.0.4'
-authors: Michael Staton
+date_authored_current_draft: 2025-03-26
+date_authored_final_draft: 
+date_first_published: 
+date_last_updated: 2025-03-26
+date_first_run: 2025-03-18
+date_last_run: 2025-03-18
+at_semantic_version: 0.0.0.4
+authors:
+  - Michael Staton
 status: To-Do
-augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
-user_name: "Michael Staton"
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+user_name: Michael Staton
 working_with: Windsurf IDE with Claude 3.5
 category: Prompts
-tags: 
-- Session-Logs
-- LLM-Chat-History
-- Content-Generation
-- Code-Generators
-- Prompt-Engineering
-- Context-Windows
-- Version-Control
+tags:
+  - Session-Logs
+  - LLM-Chat-History
+  - Content-Generation
+  - Code-Generators
+  - Prompt-Engineering
+  - Context-Windows
+  - Version-Control
+date_created: 2025-03-23
+date_modified: 2025-03-26
 ---
+### Working Directory:
+`content/lost-in-public/sessions`
 
+### File Naming:
+`YYYY-MM-DD_Session_${indexCount}` where `indexCount` is a two digit integer, beginning at 01.  
+
+So for one day it might be 
+`2025-03-25_Session_01`
+`2025-03-25_Session_01`
+`2025-03-25_Session_01`
+
+### Frontmatter Template
+```markdown
+---
+title: 'Session Log: Getting the Changelog running for Content and Code'
+lede: 'Providing a lens to the pace of change now possible with AI'
+date_occurred: 2025-03-25
+datetime_initiated: '2025-03-09T06:45:20.458Z'
+date_file_index: 2
+authors:
+- Claude 3.5 Sonnet
+- Michael Staton
+category: Session-Log
+tags:
+- Repository-Management
+- Content-Generation
+- Content-Collections
+- TypeScript
+---
+```
 # Goal:
 Improve Human-AI cooperation and alignment towards a large multiplier on productivity.
 

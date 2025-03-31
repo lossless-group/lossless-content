@@ -3,14 +3,14 @@ Because [[Data Fluidics|data wants to become fluid]] through an explosion of [[R
 [[Market Standard|Market Standards]] tend to emerge around [[Market Leaders]] that become a central node in the market network. They are also often created and/or maintained through [[Standards Organizations]], [^1] or emerge around [[Open Source]] initiatives. [^2]  
 
 ##### Examples of [[Market Leaders]]-driven.
-[[ASP.NET]], created and maintained by [[Microsoft]].
-[[Angular]], [[Material Design]], [[Go]] created and maintained by [[Google]].
-[[React]], [[StyleX]], [[Skip]] created and maintained by [[Meta]].
+[[ASP.NET]], created and maintained by [[Organizations/Microsoft]].
+[[Angular]], [[Material Design]], [[Go]] created and maintained by [[Organizations/Google]].
+[[React]], [[StyleX]], [[Skip]] created and maintained by [[Organizations/Meta]].
 [[NEXT.js]], [[Nextra]] maintained by [[Vercel]].
 
 ##### Examples of [[Standards Organizations]]-driven. 
-[[International Color Consortium]] and/or [[OpenGL]].
-[[JavaScript]], maintained by [[The Internet Society]]. 
+[[Organizations/International Color Consortium]] and/or [[OpenGL]].
+[[JavaScript]], maintained by [[Organizations/The Internet Society]]. 
 
 
 Companies can pursue purposeful efforts like [[Platform Mechanisms]]. However, a lot of other [[Conventions]] arise as many actors try to create their own value by plugging into the hubs of the market network, which functions much like an evolving market ecosystem.  

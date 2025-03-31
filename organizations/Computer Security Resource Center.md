@@ -1,4 +1,4 @@
 ---
 url: https://csrc.nist.gov/
-parent-org: "[[National Institute of Standards and Technology]]"
+parent-org: "[[Organizations/National Institute of Standards and Technology]]"
 ---

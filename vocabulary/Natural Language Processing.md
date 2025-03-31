@@ -1,5 +1,5 @@
 
-[[Perplexity AI]] explains [[Natural Language Processing]]
+[[Organizations/Perplexity AI]] explains [[Natural Language Processing]]
 Natural Language Processing (NLP) is a branch of artificial intelligence (AI) focused on enabling computers to understand, interpret, and generate human language in text or speech form. It combines computational linguistics, rule-based modeling, and machine learning to bridge the gap between human communication and machine understanding. Applications include chatbots, translation tools, sentiment analysis, and voice assistants like Siri or Alexa[1][5][9].
 
 ### Breakthroughs in NLP

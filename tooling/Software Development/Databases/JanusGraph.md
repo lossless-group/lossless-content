@@ -19,6 +19,6 @@ date_modified: 2025-03-24
 ---
 
 
-A project maintained by the [[The Linux Foundation]].
+A project maintained by the [[Organizations/The Linux Foundation]].
 
 

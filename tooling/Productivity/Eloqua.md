@@ -7,4 +7,4 @@ date_modified: 2025-03-24
 ---
 
 
-A [[Marketing Automation]] system owned and maintained by [[Oracle]].
+A [[Marketing Automation]] system owned and maintained by [[Organizations/Oracle]].

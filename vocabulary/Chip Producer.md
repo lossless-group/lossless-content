@@ -1,6 +1,6 @@
 
 
-[[AMD]], [[Intel]], [[ARM]], [[Nvidia]], [[Texas Instruments]]
+[[Organizations/AMD]], [[Organizations/Intel]], [[ARM]], [[Organizations/Nvidia]], [[Organizations/Texas Instruments]]
 
 https://youtu.be/dX9CGRZwD-w?si=pV9ArWlq2FuSDZOK
 

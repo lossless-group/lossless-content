@@ -11,7 +11,7 @@ Could help Sales teams on [[Design Interviews]]
 
 [[Design Research]] 
 
-Creating a dashboard on top of [[Dovetail]] that shows the "comprehensiveness" of the data.  
+Creating a dashboard on top of [[Organizations/Dovetail]] that shows the "comprehensiveness" of the data.  
 
 Can use [[Tooling/Productivity/Microsoft Loop]] as an [[Advanced Documents 1]].  
 

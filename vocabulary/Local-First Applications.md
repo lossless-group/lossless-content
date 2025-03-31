@@ -5,7 +5,7 @@ aliases:
   - Local-First Apps
 ---
 [[Realtime Collaboration]], [[Cognitive, Collaborative Tooling]]
-[[Perplexity AI]] explains [[Local-First Applications]]
+[[Organizations/Perplexity AI]] explains [[Local-First Applications]]
 Local-first applications prioritize storing and processing data on users' devices, offering offline functionality while ensuring synchronization across devices when connectivity is available. This approach enhances privacy, performance, and reliability compared to cloud-first systems.
 
 ### **How Local-First Improves User Experience**

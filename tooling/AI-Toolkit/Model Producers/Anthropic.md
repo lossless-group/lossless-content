@@ -22,7 +22,7 @@ date_modified: 2025-03-24
 
 [[Claude]], [[Haiku]]
 
-## [[Perplexity AI]] Explains
+## [[Organizations/Perplexity AI]] Explains
 Anthropic, an AI safety and research company, has released several notable AI models under the "Claude" family since 2023. Below is a timeline of their model releases:
 
 ### **2023**

@@ -1,5 +1,5 @@
 
-> [!NOTE] [[Perplexity AI]] explains [[Copypasta]]
+> [!NOTE] [[Organizations/Perplexity AI]] explains [[Copypasta]]
 > When developers use the term **"copypasta"**, they are typically referring to blocks of code that are copied and pasted from one part of a codebase to another, or from external sources like forums, repositories, or documentation. This practice can have significant implications for code quality and maintainability.
 > 
 > ### **Impacts of Copypasta on Codebases**

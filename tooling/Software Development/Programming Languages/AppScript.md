@@ -5,5 +5,5 @@ date_modified: 2025-03-24
 
 
 
-A language produced by [[Google]] to interface with [[Google Sheets]].
+A language produced by [[Organizations/Google]] to interface with [[Google Sheets]].
 

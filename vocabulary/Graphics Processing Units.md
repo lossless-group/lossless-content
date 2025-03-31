@@ -8,7 +8,7 @@ https://youtu.be/Bi0NGT2E7nE?si=ReYVHbufciTVrHup
 
 https://youtu.be/wYTHR9ExntE?si=5Dx8WveHVE3ghLBP
 
-[[Nvidia]]
+[[Organizations/Nvidia]]
 
 [[Artificial Intelligence|AI]] [[Machine Learning]]
 [[AI Models]]

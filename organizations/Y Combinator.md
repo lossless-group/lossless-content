@@ -1,3 +1,3 @@
 
-[[Y Combinator]] has most of their [[Startup School]] lectures on [[YouTube]]
+[[Organizations/Y Combinator]] has most of their [[Startup School]] lectures on [[YouTube]]
 

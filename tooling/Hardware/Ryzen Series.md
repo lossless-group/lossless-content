@@ -6,7 +6,7 @@ date_modified: 2025-03-24
 
 
 
-By [[AMD]]
+By [[Organizations/AMD]]
 
 https://youtu.be/hMdAeg9D9dI?si=dg_jcQguQOfZjkvT
 

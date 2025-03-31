@@ -20,5 +20,5 @@ date_modified: 2025-03-24
 
 
 
-A [[Text Editors or IDEs|Text Editor]] designed for [[Apple]] devices. Great for [[Git Diffs]]
+A [[Text Editors or IDEs|Text Editor]] designed for [[Organizations/Apple]] devices. Great for [[Git Diffs]]
 

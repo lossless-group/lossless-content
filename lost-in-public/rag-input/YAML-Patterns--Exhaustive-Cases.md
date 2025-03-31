@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-24
-date_modified: 2025-03-24
+date_modified: 2025-03-26
 ---
 # YAML Patterns for Data Integrity
 
@@ -833,6 +833,14 @@ tagsMayHaveInconsistentSyntax: {
 ```
 
 ### Correction Functions
+
+The goal is:
+
+- tags: Technology Consultants        -> tags:\n  - Technology-Consultants
+- tags: AI Content Generation        -> tags:\n  - AI-Content-Generation
+- tags: tag1, Machine Learning       -> tags:\n  - tag1\n  - Machine-Learning
+
+
 ```javascript
 // Correction Function
 async assureOrFixTagSyntaxInFrontmatter(markdownContent, markdownFilePath) {
@@ -1599,7 +1607,7 @@ PROPERTY SPECIFIC PREFERENCES
 
 | CORRECT                                      | INCORRECT                                       | RULE                                                                                                                                         |
 | -------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| parent_org: '[[Adobe]]'                      | `parent_org: [[Adobe]]`                         | Backlinks must have a single mark quote delimiter surrounding the double brackets.                                                           |
+| parent_org: '[[Organizations/Adobe]]'                      | `parent_org: [[Adobe]]`                         | Backlinks must have a single mark quote delimiter surrounding the double brackets.                                                           |
 | parent_org: '[[Organizations/Adobe\|Adobe]]' | `parent_org: [[Adobe]]`                         | Backlinks should have their relative path back to the root content directory, then a '\|' pipe character, then the fileName without the .md. |
 | parent_org: '[[Organizations/Adobe\|Adobe]]' | `parent_org: [[Organizations/Adobe\|Adobe.md]]` | Backlinks should have their relative path back to the root content directory, then a '\|' pipe character, then the fileName without the .md. |
 

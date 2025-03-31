@@ -12,7 +12,7 @@
 
 2024, October 28. [What is Agentic RAG?](https://youtu.be/0z9_MhcYvcY?si=zmvd8q4P5U_RtHSC). IBM Technology. [[RAG]]
 
-## [[Perplexity AI]] explains [[Agentic RAG]]
+## [[Organizations/Perplexity AI]] explains [[Agentic RAG]]
 Agentic RAG (Retrieval-Augmented Generation) enhances traditional RAG systems by integrating AI agents capable of reasoning, planning, and executing tasks autonomously. These agents retrieve, validate, and synthesize information from diverse sources, enabling more accurate and context-aware responses.
 
 ### **Capabilities of Agentic RAG**

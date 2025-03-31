@@ -1,2 +1,2 @@
-Cofounder then CEO of [[Apple]]
+Cofounder then CEO of [[Organizations/Apple]]
 

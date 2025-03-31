@@ -3,17 +3,17 @@ aliases:
   - Standards Organization
 ---
 
-[[International Color Consortium]]
-[[W3C]]
-[[The Internet Society]]
+[[Organizations/International Color Consortium]]
+[[Organizations/W3C]]
+[[Organizations/The Internet Society]]
 [[OpenGL]]
-[[OASIS Open]]
-[[ISO|International Standards Organization]]
-[[Internet Corporation for Assigned Names and Numbers|ICANN]]
-[[ECMA International]]
+[[Organizations/OASIS Open]]
+[[Organizations/ISO|International Standards Organization]]
+[[Organizations/Internet Corporation for Assigned Names and Numbers|ICANN]]
+[[Organizations/ECMA International]]
 
 
-[[The Apache Software Foundation]], [[The Linux Foundation]], [[Canonical]].
+[[Organizations/The Apache Software Foundation]], [[Organizations/The Linux Foundation]], [[Organizations/Canonical]].
 
 > [!NOTE] AI Explains the role of Standards Organizations
 > Industry standards developed and maintained by Standards Organizations (e.g., ISO, IEEE, W3C, ANSI) have a profound impact on the pace of innovation and the structure of markets. These standards help establish common frameworks, ensure compatibility, promote safety, and reduce uncertainty, which can both accelerate and constrain innovation depending on the context.
@@ -26,7 +26,7 @@ aliases:
 >     
 >     - Standards ensure that products and systems from different manufacturers can work together, fostering innovation by reducing fragmentation.
 >     - **Example (Historical):** The adoption of the **USB standard (1996)** by USB-IF allowed devices like keyboards, mice, and external drives to connect seamlessly to computers, spurring the growth of the peripheral market and simplifying device design.
->     - **Example (Current):** **Wi-Fi ([[Institute of Electrical and Electronics Engineers|IEE]] IEEE 802.11 standards)** has enabled the proliferation of wireless devices and IoT ecosystems, driving innovation in smart homes, wearable technology, and industrial automation.
+>     - **Example (Current):** **Wi-Fi ([[Organizations/Institute of Electrical and Electronics Engineers|IEE]] IEEE 802.11 standards)** has enabled the proliferation of wireless devices and IoT ecosystems, driving innovation in smart homes, wearable technology, and industrial automation.
 > 2. **Reducing Costs and Encouraging Market Growth**
 >     
 >     - Standards lower production and transaction costs by providing manufacturers with clear guidelines, enabling economies of scale.

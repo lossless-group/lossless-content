@@ -1,7 +1,8 @@
 ---
 site_uuid: 2be9bf79-69b7-4505-aadb-6f5bc910e321
-made_by: '[[Organizations/MSI]]'
-tags: [Motherboards]
+made_by: "[[Organizations/MSI]]"
+tags:
+  - Motherboards
 date_modified: 2025-03-24
 ---
 

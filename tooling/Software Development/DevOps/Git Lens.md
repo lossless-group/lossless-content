@@ -6,7 +6,6 @@ date_created: 2025-03-20
 date_modified: 2025-03-24
 tags:
   - IDE-Plugins
-  - Version-Control---
-
-![](https://i.imgur.com/cWc5fcM.png)
+  - Version-Control
 ---
+![](https://i.imgur.com/cWc5fcM.png)

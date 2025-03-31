@@ -17,4 +17,4 @@ date_modified: 2025-03-24
 
 
 
-Plugin for [[Mozilla]] [[Firefox]]
+Plugin for [[Organizations/Mozilla]] [[Firefox]]

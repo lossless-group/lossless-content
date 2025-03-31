@@ -159,7 +159,7 @@ ss -tuln | grep -E ':(3000|3001|4000)'
 ```
 
 # Linux Specifics
-Many of the apps and software that anyone will install on [[The Linux Foundation|Linux]] will use the command line. 
+Many of the apps and software that anyone will install on [[Organizations/The Linux Foundation|Linux]] will use the command line. 
 
 ### Upgrading Software
 Similar to the upgrade process in App Stores, we need to ping the servers from which we get our software to see if there is an upgrade available. 

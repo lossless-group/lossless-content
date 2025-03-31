@@ -1,7 +1,7 @@
 
 [[Lindy AI]]
 
-[[Ontra]]
+[[Organizations/Ontra]]
 
 ## Intelligent Agreement Management
 

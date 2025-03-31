@@ -15,5 +15,5 @@ date_modified: 2025-03-24
 ---
 
 
-Backed by [[Nvidia]]
+Backed by [[Organizations/Nvidia]]
 

@@ -1,4 +1,4 @@
-Created by [[DeepMind]].
+Created by [[Organizations/DeepMind]].
 
 According to [[Poe AI]]:
 > [!AI explains:]

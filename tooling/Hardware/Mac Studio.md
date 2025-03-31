@@ -1,10 +1,10 @@
 ---
 site_uuid: 1f914fbc-63f7-410d-acfd-9cfb8a0c3b0d
-parent_org: '[[Apple]]'
+parent_org: "[[Organizations/Apple]]"
 tags:
   - Hardware
 url: https://www.apple.com/mac-studio/
-product_of: '[[Organizations/Apple|Apple]]'
+product_of: "[[Organizations/Apple|Apple]]"
 date_created: 2025-03-08
 date_modified: 2025-03-24
 ---

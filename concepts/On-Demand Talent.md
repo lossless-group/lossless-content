@@ -5,10 +5,10 @@ Particularly in light of honorable but ominous regulations surrounding the prote
 This explains the need for and the rise of [[On-Demand Talent]]. 
 
 Talent Networks include:
-- [[Andela]]
-- [[ScaleArmy]]
-- [[TopTal]]
-- [[Invisible.co]]
+- [[Organizations/Andela]]
+- [[Organizations/ScaleArmy]]
+- [[Organizations/TopTal]]
+- [[Organizations/Invisible.co]]
 
 
 

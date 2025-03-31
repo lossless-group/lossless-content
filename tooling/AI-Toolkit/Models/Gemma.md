@@ -16,7 +16,7 @@ date_modified: 2025-03-24
 
 
 
-Made by [[Google Labs]],
+Made by [[Organizations/Google Labs]],
 
 A [[Large Language Models]]
 

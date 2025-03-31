@@ -1,5 +1,5 @@
 
->[!NOTE] [[Perplexity AI]] Explains the role of [[TSMC]] in the technology industry.
+>[!NOTE] [[Organizations/Perplexity AI]] Explains the role of [[Organizations/TSMC]] in the technology industry.
 > 
 > Taiwan Semiconductor Manufacturing Company (TSMC) has revolutionized the semiconductor industry and become a dominant "fab" (fabrication facility), enabling companies like NVIDIA and ARM to thrive. Its rise, Taiwan's geopolitical significance, and U.S. efforts to relocate fabs are outlined below:
 > 

@@ -1,6 +1,6 @@
 
 
-Examples include [[Bell Labs]], [[PARC]], 
+Examples include [[Organizations/Bell Labs]], [[Organizations/PARC]], 
 
 [[Protected Play]]
 

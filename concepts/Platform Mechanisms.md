@@ -45,7 +45,7 @@ The way to best serve customers changes from directly serving them to letting ot
 
 
 ## Technology-based Platform Methods
-Leading technology companies offer a suite of tools to develop on their platforms, typically called an [[SDK|Software Development Kit]] or [[SDK]]. This includes not just [[Microsoft]], [[Apple]] and [[Android]], but also [[Nvidia]] and other hardware providers.  
+Leading technology companies offer a suite of tools to develop on their platforms, typically called an [[SDK|Software Development Kit]] or [[SDK]]. This includes not just [[Organizations/Microsoft]], [[Organizations/Apple]] and [[Organizations/Android]], but also [[Organizations/Nvidia]] and other hardware providers.  
 
 ### Developer Community Hub
 ![[Airtable#Airtable Developer Community Hub]]
@@ -61,15 +61,15 @@ Most of the platforms have an obsessive focus on helping people and organization
 
 #### Let them find bugs for you:
 
-![[JetBrains#JetBrains has its own community bug reporting system]]
+![[Organizations/JetBrains#JetBrains has its own community bug reporting system]]
 
 ### Let them build for you.
 
-![[Nvidia#Nvidia SDK Manager]]
+![[Organizations/Nvidia#Nvidia SDK Manager]]
 
 This is often, but not always, accompanied by an [[App Stores|App Store]]. 
 
-![[Apple#Apple App Store]]
+![[Organizations/Apple#Apple App Store]]
 
 
 ## Unlimited Functionality atop Core Functionality
@@ -87,7 +87,7 @@ Web Browsers also use [[Plug-ins,  Add-ons,  Extensions]], here is an example:
 
 Web Applications often have a slightly different way they become a platform -- they focus on [[Data Fluidics|fluid data mobility]] between their service and other services through applying conventions, such as the [[REST API]], and use [[Web Standards]] for authentication and security. 
 
-![[Google#Google has APIs for everything.]]
+![[Organizations/Google#Google has APIs for everything.]]
 
 ![[Airtable#Airtable API Docs]]
 

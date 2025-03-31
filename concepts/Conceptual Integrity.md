@@ -1,6 +1,6 @@
 Related to [[Software Development]], [[Agile]], [[Design Patterns]]
 
-> [!NOTE] [[Perplexity AI]] explains: 
+> [!NOTE] [[Organizations/Perplexity AI]] explains: 
 > 
 > **Conceptual Integrity** refers to the consistency and coherence of a system's design, ensuring that all components work together harmoniously toward a unified vision. Fred Brooks, in *The Mythical Man-Month*, emphasized that conceptual integrity is critical for creating systems that are simple, understandable, and maintainable. It often requires a single architect or a small group of aligned minds to define and maintain the overarching vision[4][5][7].
 > 
@@ -11,13 +11,13 @@ Related to [[Software Development]], [[Agile]], [[Design Patterns]]
 > - **Focus:** Reduces distractions and inefficiencies during development[4].
 > 
 > ### Examples of Leaders and Projects
-> 1. **Fred Brooks and [[IBM]]System/360**:
+> 1. **Fred Brooks and [[Organizations/IBM]]System/360**:
 >    Brooks led the design of IBM System/360, a family of computers with consistent architecture. His insistence on conceptual integrity ensured compatibility across models, revolutionizing computing[4][7].
 > 
-> 1. **Steve Jobs and [[Apple]]**:
+> 1. **Steve Jobs and [[Organizations/Apple]]**:
 >    Jobs prioritized design simplicity and coherence in products like the iPhone and Mac. His leadership ensured that hardware, software, and user experience worked seamlessly together[7].
 > 
-> 1. **Linus Torvalds and [[The Linux Foundation]]**:
+> 1. **Linus Torvalds and [[Organizations/The Linux Foundation]]**:
 >    Torvalds maintained tight control over the Linux kernel's architecture in its early days, ensuring consistency while allowing contributions from a global community[6].
 > 
 > ### Anecdotes

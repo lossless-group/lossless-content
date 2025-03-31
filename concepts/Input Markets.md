@@ -9,5 +9,5 @@ A reason we're abstracting things like content marketplaces, is the marketplace 
 
 ## Content Marketplaces
 
-iTunes by [[Apple]], mirrored by the Kindle produced by [[Amazon]] 
+iTunes by [[Organizations/Apple]], mirrored by the Kindle produced by [[Organizations/Amazon]] 
 

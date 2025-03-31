@@ -28,5 +28,5 @@ date_modified: 2025-03-24
 ></iframe>
 >2024, May 4. [Continue: Incredible Open Source Github Copilot Alternative. Use Groq + Llama-3, Ollama and more](https://youtu.be/qXNecVIxRi0?si=Fr_r8JPibXVMg-yO). Developers Digest. ([[GitHub]], [[Groq]], [[OLlama]])
 
-A [[Plug-ins,  Add-ons,  Extensions|Plug-in]] to [[Visual Studio Code|VS Code]] and [[JetBrains]]
+A [[Plug-ins,  Add-ons,  Extensions|Plug-in]] to [[Visual Studio Code|VS Code]] and [[Organizations/JetBrains]]
 

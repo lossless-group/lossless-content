@@ -20,7 +20,7 @@ date_modified: 2025-03-24
 [https://chat.groq.com](https://chat.groq.com/)
 
 
-> [!NOTE] [[Perplexity AI]] explains [[AI-Toolkit/AI Infrastructure/Groq|Groq]]
+> [!NOTE] [[Organizations/Perplexity AI]] explains [[AI-Toolkit/AI Infrastructure/Groq|Groq]]
 > Groq is an AI hardware and software company that specializes in developing high-performance AI accelerators and inference solutions. Their key product is the Language Processing Unit (LPU), an AI chip designed specifically for accelerating large language models (LLMs) and other AI workloads[1](https://en.wikipedia.org/wiki/Groq)[7](https://www.techpowerup.com/319286/groq-lpu-ai-inference-chip-is-rivaling-major-players-like-nvidia-amd-and-intel).
 > 
 > ## Groq's Technology

@@ -1,9 +1,14 @@
 ---
 date_created: 2025-03-20
-date_modified: 2025-03-20
+date_modified: 2025-03-26
 ---
 # Continuous Integration Workflow
 This workflow was recommended by [[Tooling/AI-Toolkit/Generative AI/Code Generators/Warp|Warp]] an [[Tooling/AI-Toolkit/Explainers/AI Terminal Assistant]]
+
+If you haven't already:
+```bash
+git config --global user.name "mpstaton" && git config --global user.email "mpstaton@gmail.com"
+```
 
 ## Managing large Monorepos and tons of Content with [[Tooling/Products/Git|Git]]
 There are two main approaches to consider: Git Submodules and Git Monorepo with Sparse Checkout. Let me explain both and recommend the best approach for your situation.
@@ -463,6 +468,33 @@ This strategy gives you:
 •  Easy rollback capabilities
 •  Preserved detailed history for debugging
 
+# Tips
+
+Syncing a specific file:
+```bash
+cd ../content && git checkout development && git checkout master -- "tooling/Software Development/Lego-Kit Engineering Tools/Metriport.md" && git add . && git commit -m "sync(metriport): sync updated dates from master" && git diff master
+```
+
+Use Git Status a lot:
+```bash
+git status && echo "=== BRANCH INFO ===" && git branch -v
+```
+
+Use Git Diff a lot:
+```bash
+git diff development
+cd ../content && git diff master development
+```
+
+Keeping the most recent in two branches
+```bash
+# First, make sure we have the latest from both branches
+git fetch origin master
+git fetch origin development
+
+# Then use merge with recursive strategy
+git merge master --strategy recursive -X theirs
+```
 
 # Stylistic Guidelines
 ### Using Imperative Verb Form

@@ -9,5 +9,5 @@ date_modified: 2025-03-24
 ---
 
 
-Demonstrates [[Keyboard Shortcuts]] on [[Apple]] computers.
+Demonstrates [[Keyboard Shortcuts]] on [[Organizations/Apple]] computers.
 
