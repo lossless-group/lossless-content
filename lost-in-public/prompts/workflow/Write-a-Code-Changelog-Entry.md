@@ -1,20 +1,21 @@
 ---
-title: 'Write a Changelog Entry'
+title: 'Write a Code Changelog Entry'
 lede: 'Create structured and informative changelog entries for code changes'
 date_authored_initial_draft: 2025-03-18
-date_authored_current_draft: 2025-03-18
+date_authored_current_draft: 2025-03-20
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: '0.0.0.1'
-authors: Michael Staton
+at_semantic_version: '0.0.0.2'
+authors: 
+- Michael Staton # use array list syntax even when there is only one author.
 status: To-Do
-augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet' # Note the model you are using. 
 category: Prompts
 tags:
 - Changelog
 - Documentation
-- Version-Control
+- Version-Control # tags must be bare, always be in Train-Case, and be in an array list syntax
 - Code-Changes
 date_created: 2025-03-23
 date_modified: 2025-03-24
@@ -40,17 +41,32 @@ date_modified: 2025-03-24
 # Goals
 Create an informative changelog entry that documents changes to code or content in a structured, searchable format.
 
+### Working Directory for the Changelog:
+`site/src/content/changelog--code`
+
+### Filename Requirements:
+`YYYY-MM-DD_${indexCount}.md` where `YYYY-MM-DD` is the date of the change, and `indexCount` is the number of the changes documented for that day.  If you don't remember, just look at the last file in the directory.  
+
 ## Implementation Requirements
 
 ### 1. Frontmatter Structure
+
+**NOTE**: All category or tag values must be in Train-Case, this is important becasue of how various content processors, publishers, creation and management tools can handle using classifier strings.  
+
 ```yaml
 ---
 title: "Brief, descriptive title of changes"
 date: YYYY-MM-DD
-author: "Author Name"
+authors: 
+- Author Name # authors must be in an array list syntax
 augmented_with: "Windsurf on Claude 3.5 Sonnet"
-category: "Technical | Documentation | Content"
-tags: ["Tag1", "Tag2", "Tag3"]
+category: "Technical-Changes | Documentation | Content-Updates" # this is the CATEGORY of the change.
+date_created: YYYY-MM-DD # this is the FILESYSTEM record of the date created
+date_modified: YYYY-MM-DD # this is the FILESYSTEM record of the date modified
+tags: 
+- Tag-One
+- Tag-Two
+- Tag-Three
 ---
 ```
 
@@ -59,17 +75,23 @@ tags: ["Tag1", "Tag2", "Tag3"]
 # Summary
 Brief overview of changes in 1-2 sentences.
 
+## Why Care
+Brief explanation of why the changes are important, how they can be impactful, and why any reader should care.  
+
+# Implementation
+
 ## Changes Made
 - Detailed list of specific changes
-- Include file paths when relevant
-- Note any breaking changes
+- Include file paths ALWAYS
+- Include tree structure output when many files are impacted. 
 - Document dependencies added/removed
+- Configuration changes
 
 ## Technical Details
 - Implementation specifics
-- Configuration changes
+- Code samples WITH PATHS TO FILES
+- Code syntax or style choices that impact readability for others. 
 - Performance impacts
-- Security considerations
 
 ## Integration Points
 - How changes connect to other components
@@ -90,7 +112,8 @@ Brief overview of changes in 1-2 sentences.
    - Reference specific files and functions
 
 2. **Completeness**:
-   - Document ALL changes
+   - Document ALL files that received changes
+   - Use 'git status' and 'git diff' to "remember" our changes in context window. 
    - Include both additions and removals
    - Note any deprecations
 
@@ -109,36 +132,9 @@ Brief overview of changes in 1-2 sentences.
    - Reference related changelogs
    - Document dependencies
 
-### Example Entry
-```markdown
----
-title: "Enhanced YAML Frontmatter Validation"
-date: 2025-03-18
-author: "Michael Staton"
-augmented_with: "Windsurf on Claude 3.5 Sonnet"
-category: "Technical"
-tags: ["YAML", "Validation", "Build-Scripts", "Content-Management"]
----
+## Example Entries
 
-# Summary
-Added comprehensive YAML frontmatter validation with error detection and auto-correction capabilities.
+Example entries can be found in the 
+`content/changelog--code` directory.  
 
-## Changes Made
-- Implemented new validation patterns for tag syntax
-- Added auto-correction for common YAML formatting issues
-- Updated error reporting format
-
-## Technical Details
-- New regex pattern for tag validation
-- Auto-correction logic in build scripts
-- Performance optimizations for large files
-
-## Integration Points
-- Integrated with existing build pipeline
-- Updated content collection schema
-- Modified error reporting format
-
-## Documentation
-- Updated technical specifications
-- Added example error cases
-- Included migration guide
+Assume that the most recent entries are the best examples.  
