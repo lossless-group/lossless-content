@@ -308,3 +308,25 @@ tools-changes:
 tools-updates:
 tools-ready:
 tools-moved:
+
+
+prerun(render): build process worked after adjustying types
+
+Modified files:
+1. site/src/pages/more-about/[vocabulary].astro
+   - Added markdownFile option to remarkAsf plugin
+   - Fixed rehype-stringify import and usage
+
+2. site/src/types/rehype-stringify.d.ts (new)
+   - Added TypeScript declarations for rehype-stringify
+   - Properly typed Plugin interface with options
+
+3. site/tsconfig.json
+   - Updated moduleResolution to "node"
+   - Added types directory to include paths
+
+4. site/src/utils/markdown/remark-asf.ts
+   - Verified and maintained proper plugin configuration
+
+Changes focused on fixing TypeScript type issues and proper plugin configuration
+to ensure successful build process for vocabulary pages.
