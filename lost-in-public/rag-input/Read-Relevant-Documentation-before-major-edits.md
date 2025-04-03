@@ -29,6 +29,19 @@
   - rehype-parse: https://github.com/rehypejs/rehype/tree/main/packages/rehype-parse
   - @nasa-gcn/remark-rehype-astro: https://github.com/nasa-gcn/remark-rehype-astro
 
+### AST Utilities
+- mdast (Markdown AST):
+  - mdast-util-from-markdown: https://github.com/syntax-tree/mdast-util-from-markdown
+  - mdast-util-to-hast: https://github.com/syntax-tree/mdast-util-to-hast
+  - mdast-util-to-markdown: https://github.com/syntax-tree/mdast-util-to-markdown
+  - mdast-util-to-string: https://github.com/syntax-tree/mdast-util-to-string
+- hast (HTML AST):
+  - hast-util-to-html: https://github.com/syntax-tree/hast-util-to-html
+- unist (Universal Syntax Tree):
+  - unist-builder: https://github.com/syntax-tree/unist-builder
+  - unist-util-visit: https://github.com/syntax-tree/unist-util-visit
+  - unist Specification: https://github.com/syntax-tree/unist
+
 ### Important Pipeline Notes
 1. A complete unified pipeline needs three components:
    - Parser (e.g., remark-parse for markdown)
@@ -50,13 +63,19 @@
      .use(rehypeStringify)    // Compile to HTML
    ```
 
-### AST Utilities
-- unist: https://github.com/syntax-tree/unist
-  - unist-builder: https://github.com/syntax-tree/unist-builder
-  - unist-util-visit: https://github.com/syntax-tree/unist-util-visit
-- mdast: https://github.com/syntax-tree/mdast
-  - mdast-util-from-markdown: https://github.com/syntax-tree/mdast-util-from-markdown
-  - mdast-util-to-markdown: https://github.com/syntax-tree/mdast-util-to-markdown
+3. AST Utility Usage:
+   ```js
+   // Converting between different AST types
+   import {fromMarkdown} from 'mdast-util-from-markdown'
+   import {toHast} from 'mdast-util-to-hast'
+   import {toHtml} from 'hast-util-to-html'
+
+   // Building ASTs programmatically
+   import {u} from 'unist-builder'
+   
+   // Traversing and modifying ASTs
+   import {visit} from 'unist-util-visit'
+   ```
 
 ## UI and Styling
 - Tailwind CSS: https://tailwindcss.com/
