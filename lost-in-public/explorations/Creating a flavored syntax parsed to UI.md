@@ -6,6 +6,9 @@ date_modified: 2025-03-21
 - **Concepts: [[Concepts/Flavored Syntax|Flavored Syntax]],  [[Emergent-Innovation/Standards/Markdown|Markdown]], [[Vocabulary/Markup]], [[Vocabulary/Text Parsing]]
 - **Inspiration**: [[Tooling/Software Development/DevOps/Documentation Engines/Readme]], [[Tooling/Productivity/Obsidian|Obsidian]],
 
+[content-structure](https://github.com/MicroWebStacks/content-structure)
+[Astro-Big-Doc](https://github.com/MicroWebStacks/astro-big-doc/tree/main)
+
 ---
 # Creating a Site Flavoured Syntax 
 
