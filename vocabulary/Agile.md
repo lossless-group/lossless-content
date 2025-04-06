@@ -1,7 +1,15 @@
+---
+date_created: 2025-03-29
+date modified: 2025-04-05
+---
 
 https://youtu.be/w5Wr3j4h_1I?si=MkvjqMt3xPbBZjUL
 
-> [!LLM Response] 
+Some content here.  
+
+A backlink to [[vocabulary/Affinity Network]]
+
+> [!LLM Response] Perplexity explains agile.
 > Explain agile methodologies in software development. How did it become a trend? Who first wrote about it or promoted it? What firms are known to be religious practitioners? What are the controversies? Is there any data or research to back up either believers or non-believers?
 > 
 > Agile methodologies have revolutionized software development by prioritizing flexibility, iterative progress, and customer collaboration over rigid, linear processes. Emerging as a response to the limitations of traditional models like Waterfall, Agile gained momentum in the 1990s and became mainstream after the 2001 Agile Manifesto[1][3]. Its adoption by major firms and proven benefits in dynamic environments solidified its trend status, though debates persist about misapplication, scalability, and cultural challenges[5][6][9].
