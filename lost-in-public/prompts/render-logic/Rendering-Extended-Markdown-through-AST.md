@@ -197,3 +197,98 @@ This approach:
 4. Is easier to debug and maintain
 
 The key difference is that we're not trying to force the transformation during the remark phase, but instead handling it where we have more control - in our Astro components.
+
+## Callout Processing Structure (2025-04-03)
+
+### Directory Structure
+```
+site/src/utils/markdown/callouts/
+├── calloutCases.ts     # Known patterns and types
+├── calloutTypes.ts     # TypeScript definitions
+├── detectMarkdownCallouts.ts    # Phase 1: Pattern detection
+├── isolateCalloutContent.ts     # Phase 2: Content isolation
+├── transformCalloutStructure.ts  # Phase 3: AST transformation
+├── embedCalloutNodes.ts         # Phase 4: Node embedding
+└── processCalloutPipeline.ts    # Pipeline orchestration
+```
+
+### Pipeline Flow
+1. **Detection** (`detectMarkdownCallouts.ts`):
+   - Finds blockquotes that match callout patterns
+   - Returns array of detected callout nodes
+   - No modifications to original nodes
+
+2. **Isolation** (`isolateCalloutContent.ts`):
+   - Extracts complete content from detected nodes
+   - Preserves context and relationships
+   - Returns array of isolated callout content
+
+3. **Transformation** (`transformCalloutStructure.ts`):
+   - Creates component structure from isolated content
+   - Sets HAST properties for HTML generation
+   - Returns array of transformed nodes
+
+4. **Embedding** (`embedCalloutNodes.ts`):
+   - Replaces original nodes with transformed versions
+   - Preserves tree structure and relationships
+   - Returns modified AST
+
+### Pipeline Orchestration
+```typescript
+// processCalloutPipeline.ts
+export async function processCallouts(tree: Node): Promise<Node> {
+  try {
+    // Phase 1: Detection
+    const detected = await detectMarkdownCallouts(tree);
+    if (!detected.length) return tree;
+    
+    // Phase 2: Isolation
+    const isolated = await isolateCalloutContent(detected);
+    if (!isolated.length) return tree;
+    
+    // Phase 3: Transformation
+    const transformed = await transformCalloutStructure(isolated);
+    if (!transformed.length) return tree;
+    
+    // Phase 4: Embedding
+    return await embedCalloutNodes(tree, transformed);
+  } catch (error) {
+    console.error('Error in callout pipeline:', error);
+    return tree;
+  }
+}
+```
+
+### Remark Plugin Integration
+```typescript
+// remark-callout-handler.ts
+const remarkCalloutHandler: Plugin<[], Root> = () => {
+  return async (tree: Root) => {
+    try {
+      astDebugger.writeDebugFile('0-initial-tree', tree);
+      const processedTree = await processCallouts(tree);
+      astDebugger.writeDebugFile('5-final-tree', processedTree);
+      return processedTree;
+    } catch (error) {
+      console.error('Error in remark-callout:', error);
+      return tree;
+    }
+  };
+};
+```
+
+### Debug Points
+1. `0-initial-tree.json` - Initial MDAST
+2. `1-detected-callouts.json` - After detection phase
+3. `2-isolated-callouts.json` - After isolation phase
+4. `3-transformed-callouts.json` - After transformation phase
+5. `4-final-tree.json` - After embedding phase
+
+### Key Principles
+1. Each phase is independent and has a single responsibility
+2. Clear error handling at each phase
+3. Comprehensive debug output
+4. Original content preserved on error
+5. No assumptions about node structure
+6. Explicit type definitions
+7. Clear transformation tracking

@@ -457,6 +457,48 @@ This approach ensures that:
 3. Multiple debug sessions on the same day are numbered sequentially
 4. No files are created during builds or normal page visits
 
+## AST Transformation Issue - Callout Detection and Isolation
+
+### Current Behavior
+1. The AST transformation is correctly identifying the first line of a callout blockquote (e.g., `> [!LLM Response]`)
+2. However, it's failing to properly isolate the entire callout content - subsequent lines that are part of the blockquote are being left in the body
+3. This causes incorrect rendering as the callout content is split between the callout component and regular markdown content
+
+### Desired Behavior
+1. When encountering a blockquote that starts with `> [!<string>]`:
+   - The entire blockquote should be isolated as a single callout node in the AST
+   - The string inside `[!<string>]` determines which Astro component to use for rendering
+   - All subsequent lines starting with `>` should be included in the callout content
+
+2. Component Routing:
+   - Based on the `<string>` identifier, route to appropriate component
+   - Example: `[!LLM Response]` routes to `site/src/components/markdown/callouts/styled/LLMResponse.astro`
+   - The component is rendered within `site/src/components/markdown/AstroMarkdownNew.astro`
+
+### Implementation Notes
+1. The AST transformation pipeline needs to:
+   - Detect: Look for specific patterns in nodes
+   - Use clear, documented regex patterns
+   - Return null if pattern not found
+   ```typescript
+   function detectCallout(node: Node) {
+     if (node.type !== 'blockquote') return null;
+     const text = node.children[0]?.children[0]?.value;
+     if (!text) return null;
+     return knownCalloutTypes.find(type => type.pattern.test(text));
+   }
+   ```
+
+2. Key Files:
+   - Detection/Isolation: `site/src/utils/markdown/callouts/detectMarkdownCallouts.ts`
+   - Component Routing: `site/src/components/markdown/AstroMarkdownNew.astro`
+   - Callout Components: `site/src/components/markdown/callouts/styled/*`
+
+### Next Steps
+1. Modify the detection phase to properly capture all lines of a callout blockquote
+2. Ensure the AST transformation preserves the entire callout content as a single node
+3. Verify the component routing logic correctly maps callout types to their components
+
 ## Resolution: Fixed AST Transformation Pipeline
 
 ### 1. Fixed remark-callout-handler
@@ -506,9 +548,8 @@ const visitor: Visitor<Blockquote, Parent> = (node, index, parent) => {
   node.data = {
     hName: 'article',
     hProperties: {
-      className: ['callout', `callout-${callout.type.toLowerCase()}`],
-      'data-type': callout.type,
-      'data-title': callout.title
+      className: ['callout'],
+      type: 'note' // or whatever type we detect
     }
   };
 };
@@ -665,7 +706,8 @@ Every transformation should follow these phases:
        data: {
          hName: 'article',
          hProperties: {
-           className: [`callout-${content.type}`]
+           className: ['callout'],
+           'data-type': content.type
          }
        }
      };
@@ -762,7 +804,7 @@ This structure:
 2. Add debug output after each phase
 3. Test with known cases
 4. Only then combine into full pipeline
-thr
+
 ## Additional Insights from astro-big-doc Utils (2025-04-03 11:40 Update)
 
 Looking deeper into astro-big-doc's utils implementation, we see some important patterns that should influence our AST transformation approach:
@@ -913,3 +955,253 @@ Based on these insights, our AST transformation should:
    ```
 
 This approach aligns with both astro-big-doc's robust implementation patterns and our AST transformation requirements.
+
+## Competing Transformation Systems Analysis
+
+### Current Implementation
+
+We have identified two competing systems trying to handle callout transformations:
+
+1. **Early AST Transformation (remark-callout-handler)**
+   - Attempts to transform blockquotes into callouts during markdown parsing
+   - Uses a complex pipeline:
+     ```
+     detectMarkdownCallouts → isolateCallouts → transformCalloutStructure → embedCalloutNodes
+     ```
+   - Currently failing to capture all blockquote content
+   - Splitting content incorrectly between callout and body
+
+2. **Component-Level Detection (Blockquote.astro)**
+   - Detects callouts at render time
+   - Uses regex to match `[!TYPE]` pattern
+   - Successfully captures all blockquote content
+   - Properly transforms into styled components
+   - Already handles dynamic routing based on type
+
+### The Root Issue
+
+The problem stems from having two systems trying to transform the same content at different stages:
+
+1. **AST Pipeline Issues:**
+   - Only captures first line with `> [!TYPE]` pattern
+   - Leaves remaining callout content in the body
+   - Creates incomplete callout nodes
+
+2. **Component Handling:**
+   - Correctly identifies full blockquote content
+   - Properly extracts type and title
+   - Successfully routes to styled components
+   - But receives already-transformed content from AST pipeline
+
+```
+
+***
+
+# 2025-04-05: Major Milestone - Successful AST-to-Component Content Routing
+
+Today marks a significant breakthrough in our AST transformation pipeline. We've successfully implemented the complete flow of content from MDAST through our component system, specifically for callouts. Here are the key achievements:
+
+## Architecture Changes
+
+1. Moved from HTML string rendering to component-based AST handling:
+   - `OneArticleOnPage.astro` now receives a full MDAST Root instead of HTML string
+   - Content is passed through `AstroMarkdown.astro` for component-based rendering
+   - Created proper type interfaces for AST node handling
+
+2. Enhanced ArticleCallout Component:
+   ```typescript
+   interface Props {
+     type?: string;
+     title?: string;
+     node?: any;        // AST node
+     data?: any;        // Data object
+     'data-ast'?: string; // AST data attribute
+   }
+   ```
+
+3. Implemented proper debug tooling:
+   - Added AST data preservation in the component
+   - Enhanced browser console debugging with full AST access
+   - Created global interface augmentation for TypeScript safety:
+   ```typescript
+   declare global {
+     interface Window {
+       calloutDebug: CalloutDebugData[];
+     }
+   }
+   ```
+
+## Critical Flow Achievement
+
+The most significant achievement is the successful routing of blockquote content through the AST transformation pipeline:
+
+1. MDAST identifies blockquote nodes
+2. `AstroMarkdown.astro` properly routes these to `ArticleCallout`
+3. Child nodes are recursively processed through the same pipeline
+4. Debug data is preserved at every step
+
+This completes the core architecture we've been working towards, where markdown content flows through:
+```
+Markdown Text → MDAST → Component Tree → Rendered Output
+```
+
+## Impact on Previous Components
+
+This milestone validates our earlier work on:
+1. `detectMarkdownCallouts` - The regex matching is now properly feeding into the component system
+2. `transformCalloutStructure` - MDAST transformations are preserved through the component tree
+3. `embedCalloutNodes` - Node embedding now happens at the component level with full AST context
+
+## Next Steps
+
+1. Enhance type safety by properly typing the AST node interfaces
+2. Implement more specific component handlers for other node types
+3. Add comprehensive testing for the component-based AST handling
+
+This milestone represents a fundamental shift from string-based HTML rendering to true component-based AST handling, setting us up for more sophisticated markdown processing features.
+
+***
+
+# 2025-04-05: Simplified AST-to-HTML Conversion in Components
+
+We discovered that for component-level AST rendering, we can leverage the standard remark/rehype pipeline directly instead of using custom handlers. Key implementation:
+
+```typescript
+// In ArticleCallout.astro
+const contentHtml = await unified()
+  .use(remarkRehype)    // Convert MDAST to HAST
+  .use(rehypeStringify) // Convert HAST to HTML string
+  .run(astNode);
+```
+
+Benefits of this approach:
+1. Uses well-tested, standard transformation pipeline
+2. Maintains proper markdown formatting
+3. Handles all markdown elements consistently
+4. Simpler than custom transformation handlers
+
+This insight helps simplify our architecture:
+- Root level: Custom AST handling for component routing
+- Component level: Standard remark/rehype for HTML rendering
+
+The combination gives us the best of both worlds: custom component structure with reliable HTML rendering.
+
+***
+
+# 2025-04-05: Final AST Pipeline Optimization
+
+After three days of intensive development, we've achieved a major optimization in our AST pipeline, specifically in the handling of blockquotes and callouts. Key improvements:
+
+## Architecture Changes
+
+1. Moved from HTML string rendering to component-based AST handling:
+   - `OneArticleOnPage.astro` now receives a full MDAST Root instead of HTML string
+   - Content is passed through `AstroMarkdown.astro` for component-based rendering
+   - Created proper type interfaces for AST node handling
+
+2. Enhanced ArticleCallout Component:
+   ```typescript
+   interface Props {
+     type?: string;
+     title?: string;
+     node?: any;        // AST node
+     data?: any;        // Data object
+     'data-ast'?: string; // AST data attribute
+   }
+   ```
+
+3. Implemented proper debug tooling:
+   - Added AST data preservation in the component
+   - Enhanced browser console debugging with full AST access
+   - Created global interface augmentation for TypeScript safety:
+   ```typescript
+   declare global {
+     interface Window {
+       calloutDebug: CalloutDebugData[];
+     }
+   }
+   ```
+
+## Critical Flow Achievement
+
+The most significant achievement is the successful routing of blockquote content through the AST transformation pipeline:
+
+1. MDAST identifies blockquote nodes
+2. `AstroMarkdown.astro` properly routes these to `ArticleCallout`
+3. Child nodes are recursively processed through the same pipeline
+4. Debug data is preserved at every step
+
+This completes the core architecture we've been working towards, where markdown content flows through:
+```
+Markdown Text → MDAST → Component Tree → Rendered Output
+```
+
+## Impact on Previous Components
+
+This milestone validates our earlier work on:
+1. `detectMarkdownCallouts` - The regex matching is now properly feeding into the component system
+2. `transformCalloutStructure` - MDAST transformations are preserved through the component tree
+3. `embedCalloutNodes` - Node embedding now happens at the component level with full AST context
+
+## Next Steps
+
+1. Enhance type safety by properly typing the AST node interfaces
+2. Implement more specific component handlers for other node types
+3. Add comprehensive testing for the component-based AST handling
+
+This milestone represents a fundamental shift from string-based HTML rendering to true component-based AST handling, setting us up for more sophisticated markdown processing features.
+
+## 1. Simplified Component-Level AST Processing
+
+We discovered that we could significantly simplify our AST-to-HTML conversion by leveraging the native capabilities of the unified ecosystem:
+
+```typescript
+// ArticleCallout.astro - Simplified Pipeline
+const processedContent = await unified()
+  .use(remarkRehype)    // Convert MDAST to HAST
+  .run(node)           // Process AST directly
+  .then(result => toHtml(result)); // Convert HAST to HTML efficiently
+```
+
+This change eliminated the need for `rehypeStringify`, as we can use `toHtml` from `hast-util-to-html` directly. This not only simplifies our pipeline but also reduces the transformation steps.
+
+## 2. Proper Blockquote Node Handling
+
+Fixed a critical issue in `AstroMarkdown.astro` where we were incorrectly processing blockquote nodes:
+
+```typescript
+// Before - Creating multiple callouts unnecessarily
+{(node.type === "blockquote") &&
+    <>
+        {node.children.map((child) => (
+            <ArticleCallout node={child} />
+        ))}
+    </>
+}
+
+// After - Proper single callout per blockquote
+{(node.type === "blockquote") &&
+    <ArticleCallout node={node} />
+}
+```
+
+This fix ensures:
+1. One callout component per blockquote (not per child)
+2. Proper preservation of blockquote structure
+3. Correct content hierarchy in the rendered output
+
+## Impact on Performance
+
+These optimizations result in:
+1. Fewer AST transformations
+2. More efficient component rendering
+3. Better preservation of markdown structure
+4. Cleaner debug output
+
+## Lessons Learned
+
+1. **AST Processing Level**: Process AST nodes at the appropriate level - blockquotes at the component routing level, content rendering at the component level
+2. **Unified Ecosystem**: Leverage the built-in capabilities of the unified ecosystem rather than creating custom transformation steps
+3. **Component Hierarchy**: Maintain proper component hierarchy that matches the AST structure
+
+This completes our AST transformation pipeline optimization, providing a solid foundation for future markdown processing features.
