@@ -1,6 +1,7 @@
 ---
-aliases:
-  - acquiring
+aliases: [acquiring]
+date_created: 2025-03-30
+date_modified: 2025-04-07
 ---
 
 According to [[Poe AI]]:

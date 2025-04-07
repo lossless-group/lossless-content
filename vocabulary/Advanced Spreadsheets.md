@@ -1,6 +1,7 @@
 ---
-aliases:
-  - Advanced Spreadsheet
+aliases: [Advanced Spreadsheet]
+date_created: 2025-03-30
+date_modified: 2025-04-07
 ---
 Usually employs significant [[Artificial Intelligence|AI]], and [[Realtime Collaboration]] features.  
 

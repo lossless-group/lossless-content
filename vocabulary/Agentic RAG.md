@@ -1,3 +1,7 @@
+---
+date_created: 2025-03-31
+date_modified: 2025-04-07
+---
 
 ##### When [[Agentic AI|AI Agents]] use [[RAG]] techniques, it's called [[Agentic RAG]]
 <iframe 

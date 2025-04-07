@@ -1,8 +1,7 @@
 ---
-aliases:
-  - Models
-  - AI Model
-  - Model
+aliases: [Models, AI Model, Model]
+date_created: 2025-03-31
+date_modified: 2025-04-07
 ---
 https://youtu.be/ncqVZnot99c?si=I3QhZqPIh6umTibW
 

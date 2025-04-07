@@ -1,10 +1,8 @@
 ---
-tags:
-  - Technology-Trends
-  - State-of-The-Art-Practices
-aliases:
-  - API
-  - APIs
+tags: [Technology-Trends, State-of-The-Art-Practices]
+aliases: [API, APIs]
+date_created: 2025-03-30
+date_modified: 2025-04-07
 ---
 https://youtu.be/GhX8sNyFo5w?si=1W1wwzboV-pd428m
 
