@@ -1,22 +1,59 @@
 ---
 site_uuid: bdccc07c-f8a4-44de-8cb7-4f7f662f3e0d
 url: https://msty.app/
-tags:
-- AI-Toolkit
-- AI-Interfaces
-- AI-Workspaces
-- Check-it-Out
-- Must-Have
-- Desktop-App
 image: https://msty.app/msty-screenshots/msty-og-image.png
 site_name: Msty
 title: Msty - Using AI Models made Simple and Easy
 favicon: https://msty.app/favicon.ico
 jina_last_request: '2025-03-09T06:45:20.658Z'
-jina_error: "Error occurred"
+jina_error: Error occurred
 og_last_fetch: '2025-03-07T05:20:56.747Z'
-date_modified: 2025-03-24
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-30T05:44:14.820Z'
+tags:
+- AI-Toolkit
+- AI-Interfaces
+- AI-Workspaces
+- Check-It-Out
+- Must-Have
+- Desktop-App
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 [[MSTY]] installs LLM [[AI Models]] that [[Local LLM|run local]] deep in your filesystem:

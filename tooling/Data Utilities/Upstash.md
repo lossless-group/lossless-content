@@ -4,14 +4,22 @@ image: https://upstash.com/og-home.jpg
 site_name: 'Upstash: Serverless Data Platform'
 title: 'Upstash: Serverless Data Platform'
 favicon: https://upstash.com/icons/favicon-32x32.png
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/21c36a6ace2468d35f42ec70c5d444375969f2e50d7361e22dd238059551a448.jpeg
+jina_last_request: '2025-03-09T06:45:07.148Z'
+jina_error: Error occurred
+og_last_fetch: '2025-03-07T05:19:01.831Z'
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-30T05:44:14.849Z'
 tags:
 - Data-Utilities
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/21c36a6ace2468d35f42ec70c5d444375969f2e50d7361e22dd238059551a448.jpeg
-jina_last_request: '2025-03-09T06:45:07.148Z'
-jina_error: "Error occurred"
-og_last_fetch: '2025-03-07T05:19:01.831Z'
-date_modified: 2025-03-24
 ---
+
+
+
+
+
+
 
 
 [[Serverless]]

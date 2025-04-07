@@ -1,20 +1,29 @@
 ---
 site_uuid: 8128ddd8-c583-4c79-9451-7a9ef2377f91
 url: https://ecma-international.org/publications-and-standards/standards/ecma-262/
+site_name: Ecma International
+title: ECMA-262 - Ecma International
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/ea6d742078d0a298ddac4afe56a53c161c4b9c2d09fb6c57621578095194f890.jpeg
+og_errors: true
+og_last_error: '2025-03-07T10:19:44.820Z'
+og_error_message: HTTP error 401
+jina_last_request: '2025-03-09T06:45:19.160Z'
+jina_error: Error occurred
+og_last_fetch: '2025-03-07T06:11:14.691Z'
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-30T05:44:14.873Z'
 tags:
 - Software-Development
 - Programming-Languages
-site_name: Ecma International
-title: ECMA-262 - Ecma International
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/ea6d742078d0a298ddac4afe56a53c161c4b9c2d09fb6c57621578095194f890.jpeg
-og_errors: true
-og_last_error: '2025-03-07T10:19:44.820Z'
-og_error_message: "HTTP error 401"
-jina_last_request: '2025-03-09T06:45:19.160Z'
-jina_error: "Error occurred"
-og_last_fetch: '2025-03-07T06:11:14.691Z'
-date_modified: 2025-03-24
 ---
+
+
+
+
+
+
+
 
 
 https://youtu.be/k4xuEl6TmT4?si=0hxbL-1xVxjeTqSD

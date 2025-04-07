@@ -4,15 +4,24 @@ image: https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.p
 site_name: Amazon Web Services, Inc.
 title: Serverless Function, FaaS Serverless  - AWS Lambda - AWS
 favicon: https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/375a4ccca26fc75007e16b3d46dcb76453c81bf5a23877c79c67ffdfe07a89e5.jpeg
+jina_last_request: '2025-03-09T06:45:19.594Z'
+jina_error: Error occurred
+og_last_fetch: '2025-03-07T05:19:02.928Z'
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-31T20:44:50.515Z'
 tags:
 - Software-Development
 - Cloud-Infrastructure
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/375a4ccca26fc75007e16b3d46dcb76453c81bf5a23877c79c67ffdfe07a89e5.jpeg
-jina_last_request: '2025-03-09T06:45:19.594Z'
-jina_error: "Error occurred"
-og_last_fetch: '2025-03-07T05:19:02.928Z'
-date_modified: 2025-03-24
 ---
+
+
+
+
+
+
+
 
 
 

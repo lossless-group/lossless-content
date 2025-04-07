@@ -4,15 +4,24 @@ image: https://d3js.org/logo.png
 site_name: D3
 title: D3
 favicon: https://d3js.org/logo.png
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/bac5fbb42b0d9792f965f4a1403458a88dc393115dbe6becf3b2db0c90f3347a.jpeg
+jina_last_request: '2025-03-09T06:45:04.171Z'
+jina_error: Error occurred
+og_last_fetch: '2025-03-07T05:19:02.911Z'
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-30T05:44:14.867Z'
 tags:
 - Software-Development
 - Frameworks
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/bac5fbb42b0d9792f965f4a1403458a88dc393115dbe6becf3b2db0c90f3347a.jpeg
-jina_last_request: '2025-03-09T06:45:04.171Z'
-jina_error: "Error occurred"
-og_last_fetch: '2025-03-07T05:19:02.911Z'
-date_modified: 2025-03-24
 ---
+
+
+
+
+
+
+
 
 
 

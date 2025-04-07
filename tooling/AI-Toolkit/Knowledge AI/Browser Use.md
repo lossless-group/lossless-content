@@ -1,7 +1,11 @@
 ---
 site_uuid: b8018788-ba74-4c89-bd38-9f84b91641f6
-date_modified: 2025-03-24
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-30T05:44:14.838Z'
+tags:
+- AI-Toolkit
 ---
+
 
 
 [[Agentic AI]] that can be used in [[AI Powered Data Capture]] using [[LangChain]]

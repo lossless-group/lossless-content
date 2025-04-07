@@ -7,15 +7,24 @@ image: https://skiplabs.io/skip-opengraph.png
 site_name: Skiplabs
 title: Skip, the reactive framework
 favicon: https://skiplabs.io/favicon.svg
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/032126250487ac1c11d8b737a83c11d70f91b9cde560ce45f9a3962e4846e7b9.jpeg
+jina_last_request: '2025-03-09T06:45:02.111Z'
+jina_error: Error occurred
+og_last_fetch: '2025-03-14T05:42:19.712Z'
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-31T20:44:50.516Z'
 tags:
 - Software-Development
 - Frameworks
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/032126250487ac1c11d8b737a83c11d70f91b9cde560ce45f9a3962e4846e7b9.jpeg
-jina_last_request: '2025-03-09T06:45:02.111Z'
-jina_error: "Error occurred"
-og_last_fetch: '2025-03-14T05:42:19.712Z'
-date_modified: 2025-03-24
 ---
+
+
+
+
+
+
+
 
 
 Skip is a [[Web Frameworks|Web Framework]] focused on the [[Back-End Engineering]], created and managed at [[Organizations/Meta]] and [[Organizations/Facebook]]

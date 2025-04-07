@@ -5,17 +5,24 @@ description: Husky is a lightweight Git Hook scripting markup format.
 image: https://typicode.github.io/husky/assets/sponsors.B1XtYgDj.svg
 site_name: Husky
 title: Husky
-favicon: 'data:image/svg+xml,<svg xmlns=\http://www.w3.org/2000/svg\ viewBox=\0 0 100 100\><text y=\.9em\ font-size=\85\>\U0001F436</text></svg>'
-tags:
-  - Products
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/1edeb1e7477056407f9dc5d308ba40d49adf6cf51a2ac367dff119ea3a342563.jpeg
+favicon: >-
+  data:image/svg+xml,<svg xmlns=\http://www.w3.org/2000/svg\ viewBox=\0 0 100
+  100\><text y=\.9em\ font-size=\85\>\U0001F436</text></svg>
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/1edeb1e7477056407f9dc5d308ba40d49adf6cf51a2ac367dff119ea3a342563.jpeg
 jina_last_request: '2025-03-09T06:44:58.332Z'
-jina_error: "Error occurred"
+jina_error: Error occurred
 og_last_fetch: '2025-03-07T05:19:01.811Z'
-date_created: 2025-03-09
-date_modified: 2025-03-24
+date_created: 2025-03-09T00:00:00.000Z
+date_modified: 2025-03-24T00:00:00.000Z
 docs_url: https://typicode.github.io/husky/get-started.html
+tags:
+- Products
 ---
+
+
+
+
 [[Husky]] is a [[Vocabulary/Packages and Libraries|Library]] that helps developers use [[Tooling/Products/Git#Git Hooks|Git Hooks]] to manage complex, [[Concepts/Continuous Integration and Continuous Deployment|Continuous Integration and Continuous Deployment]] workflows.
 
 

@@ -4,19 +4,26 @@ image: https://clickup.com/assets/brand/clickup-meta.png
 site_name: ClickUp™
 title: The everything app for work
 favicon: https://clickup.com/favicons/favicon-32x32.png
+og_errors: true
+og_last_error: '2025-03-07T05:36:38.596Z'
+og_error_message: Error occurred
+jina_last_request: '2025-03-09T06:45:17.120Z'
+jina_error: Error occurred
+og_last_fetch: '2025-03-07T05:19:01.823Z'
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-30T05:44:14.854Z'
 tags:
 - Productivity
 - Workflow-Management
-- Check-it-Out
+- Check-It-Out
 - Asynchronous-Communication
-og_errors: true
-og_last_error: '2025-03-07T05:36:38.596Z'
-og_error_message: "Error occurred"
-jina_last_request: '2025-03-09T06:45:17.120Z'
-jina_error: "Error occurred"
-og_last_fetch: '2025-03-07T05:19:01.823Z'
-date_modified: 2025-03-24
 ---
+
+
+
+
+
+
 
 
 [[Rebundling]], [[Workflow Management]], [[Cognitive, Collaborative Tooling]]

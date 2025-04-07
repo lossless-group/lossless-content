@@ -1,25 +1,29 @@
 ---
 site_uuid: 9c6dba50-6d21-4799-b46b-9ad198aa5d6b
 url: https://git-scm.com
-tags:
-- Products
-- Developer-Experience
-- Workflow-Management
 docs_url: https://git-scm.com/doc
 og_errors: true
 og_last_error: '2025-03-08T20:39:42.148Z'
-og_error_message: "HTTP error 401"
+og_error_message: HTTP error 401
 jina_last_request: '2025-03-09T06:45:03.928Z'
-jina_error: "Unexpected token"
+jina_error: Unexpected token
 image: https://git-scm.com/images/logo@2x.png
 site_name: Git
 title: Git
 favicon: https://git-scm.com/favicon.ico
 og_fetched_url: https://git-scm.com
 og_last_fetch: '2025-03-14T04:41:46.355Z'
-date_created: 2025-02-19
-date_modified: 2025-03-24
+date_created: 2025-02-19T00:00:00.000Z
+date_modified: 2025-03-24T00:00:00.000Z
+tags:
+- Products
+- Developer-Experience
+- Workflow-Management
 ---
+
+
+
+
 
 
 

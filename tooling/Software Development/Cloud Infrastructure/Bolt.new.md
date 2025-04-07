@@ -1,7 +1,11 @@
 ---
 site_uuid: c9a8f4b5-eacb-4393-9345-ef9829d36492
-date_modified: 2025-03-24
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-30T05:44:14.858Z'
+tags:
+- Software-Development
 ---
+
 
 
 An [[Open Source]] version that can be run locally or [[Self-Hosting|Self-Host]] is available as [[Tooling/Software Development/Cloud Infrastructure/Bolt.diy]]

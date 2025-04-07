@@ -1,21 +1,243 @@
 ---
 site_uuid: 4ac38799-41a4-44b9-9017-310168357e06
 url: https://notebooklm.google/
-parent_org: "[[Organizations/Google]]"
-tags:
-  - AI-Toolkit
-  - AI-Interfaces
-  - AI-Workspaces
-  - ai--rag-stack
+parent_org: '[[Organizations/Google]]'
 image: https://notebooklm.google/_/static/branding/v4/og/notebook_lm_share.png
 site_name: Google NotebookLM
 title: Google NotebookLM | Note Taking & Research Assistant Powered by AI
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/67710e994bff5b1432c7bea1a9d09b6347b8ec99aaceaedd36d26f698c6dbafb.jpeg
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/67710e994bff5b1432c7bea1a9d09b6347b8ec99aaceaedd36d26f698c6dbafb.jpeg
 jina_last_request: 2025-03-09T06:45:00.408Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:20:56.743Z
-date_modified: 2025-03-24
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-31T20:44:50.507Z'
+tags:
+- AI-Toolkit
+- AI-Interfaces
+- AI-Workspaces
+- Ai-Rag-Stack
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 https://youtu.be/w7PA9kSJLlo?si=klNDYLkWIAr9c6tS

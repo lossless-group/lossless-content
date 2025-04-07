@@ -1,14 +1,18 @@
 ---
 site_uuid: 4e9f39a8-7c54-4a37-a541-90f7735710d3
-date_created: 2025-03-08
-date_modified: 2025-03-24
-tags:
-  - Text-Editors
-  - Check-it-Out
-  - Influencer-Favorite
+date_created: 2025-03-08T00:00:00.000Z
+date_modified: 2025-03-24T00:00:00.000Z
 url: https://neovim.io/
 reddit_forum_url: https://www.reddit.com/r/neovim/
+tags:
+- Text-Editors
+- Check-It-Out
+- Influencer-Favorite
 ---
+
+
+
+
 https://youtu.be/6pAG3BHurdM?si=JC4khGXrUeQqBxZ-
 
 https://youtu.be/GKQ9rJ12hjc?si=Mvon7Rc49XxdEZjt

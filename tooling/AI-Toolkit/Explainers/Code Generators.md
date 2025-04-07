@@ -6,8 +6,12 @@ aliases:
   - Coding Assistant
   - Code Generator
 site_uuid: 691a7615-2aa5-4a1b-9ad9-519a48dac670
-date_modified: 2025-03-24
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-31T20:44:50.508Z'
+tags:
+- AI-Toolkit
 ---
+
 
 
 ##### Examples:

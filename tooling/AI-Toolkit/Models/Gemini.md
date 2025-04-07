@@ -1,18 +1,27 @@
 ---
 site_uuid: 3c870a2b-b3fe-4db9-afb9-6cac06668e94
 url: https://gemini.google.com
+image: >-
+  https://www.gstatic.com/lamda/images/gemini_thumbnail_c362e5eadc46ca9f617e2.png
+site_name: Gemini
+title: ‎Gemini - chat to supercharge your ideas
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/5b7d54409f2a9b2acd4605ebe227548df996beaca597edf919951a9838e5338e.jpeg
+jina_last_request: '2025-03-09T06:45:04.634Z'
+jina_error: Error occurred
+og_last_fetch: '2025-03-07T05:19:18.955Z'
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-30T05:44:14.842Z'
 tags:
 - AI-Toolkit
 - Models
-image: https://www.gstatic.com/lamda/images/gemini_thumbnail_c362e5eadc46ca9f617e2.png
-site_name: Gemini
-title: ‎Gemini - chat to supercharge your ideas
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/5b7d54409f2a9b2acd4605ebe227548df996beaca597edf919951a9838e5338e.jpeg
-jina_last_request: '2025-03-09T06:45:04.634Z'
-jina_error: "Error occurred"
-og_last_fetch: '2025-03-07T05:19:18.955Z'
-date_modified: 2025-03-24
 ---
+
+
+
+
+
+
 
 
 

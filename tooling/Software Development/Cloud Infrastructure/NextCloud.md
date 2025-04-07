@@ -1,11 +1,16 @@
 ---
 site_uuid: 5f1d928c-262a-4156-8ebf-e1e7ac401d77
 url: https://nextcloud.com
+date_created: 2025-03-06T00:00:00.000Z
+date_modified: 2025-03-24T00:00:00.000Z
 tags:
-  - Self-Hosting-Cloud
-date_created: 2025-03-06
-date_modified: 2025-03-24
+- Self-Hosting-Cloud
 ---
+
+
+
+
+
 
 [[Self-Hosting|Self-Host]]
 

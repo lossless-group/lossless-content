@@ -1,21 +1,30 @@
 ---
 site_uuid: bd55d7af-1e33-4143-860c-1209990460c9
 url: https://react.dev/
-parent_org: "[[Organizations/Meta]]"
+parent_org: '[[Organizations/Meta]]'
 image: https://react.dev/images/og-home.png
 site_name: React
 title: React
 favicon: https://react.dev/favicon-32x32.png
-tags:
-  - Web-Frameworks
-  - Software-Development
-  - Frameworks
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/ddc6a11b6e0607cf0fced41dbc927d3f8e8cc05491223bb082beae0cd2b4bdef.jpeg
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/ddc6a11b6e0607cf0fced41dbc927d3f8e8cc05491223bb082beae0cd2b4bdef.jpeg
 jina_last_request: 2025-03-09T06:45:12.860Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:20:56.420Z
-date_modified: 2025-03-24
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-31T20:44:50.516Z'
+tags:
+- Web-Frameworks
+- Software-Development
+- Frameworks
 ---
+
+
+
+
+
+
+
 
 
 Created and maintained by [[Organizations/Meta]]. It is the most popular, thus [[Market Standard]], for [[Front-End]] development.  It's essentially a [[JavaScript]] library that enables [[Component-Based Software Architecture]].

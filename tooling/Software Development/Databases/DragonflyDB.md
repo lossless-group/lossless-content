@@ -3,15 +3,23 @@ site_uuid: 3000d423-4c96-44b5-b7d6-a7e063081a21
 image: https://www.dragonflydb.io/dragonfly-OG.jpg
 site_name: Dragonfly
 title: Dragonfly - The Fastest In-Memory Data Store
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/726d774f288ee4d541376fd94a2b388f887468a19755795cff1fc8e0107763e9.jpeg
+jina_last_request: '2025-03-09T06:45:14.825Z'
+jina_error: Error occurred
+og_last_fetch: '2025-03-07T05:19:02.924Z'
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-30T05:44:14.861Z'
 tags:
 - Software-Development
 - Databases
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/726d774f288ee4d541376fd94a2b388f887468a19755795cff1fc8e0107763e9.jpeg
-jina_last_request: '2025-03-09T06:45:14.825Z'
-jina_error: "Error occurred"
-og_last_fetch: '2025-03-07T05:19:02.924Z'
-date_modified: 2025-03-24
 ---
+
+
+
+
+
+
 
 
 Similar to [[Redis]]
