@@ -1,6 +1,7 @@
 ---
-aliases:
-  - AI Agents
+aliases: [AI Agents]
+date_created: 2025-03-31
+date_modified: 2025-04-07
 ---
 [[Kestra]], [[n8n]], [[Flowise]]
 

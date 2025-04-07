@@ -1,6 +1,10 @@
+---
+date_created: 2025-03-30
+date_modified: 2025-04-07
+---
 
 
-[[Advanced Documents 1]], [[Advanced Spreadsheets]]
+[[Concepts/Explainers for Tooling/Advanced Documents|Advanced Documents]], [[Advanced Spreadsheets]]
 
 [[Realtime Collaboration]]
 

@@ -1,3 +1,7 @@
+---
+date_created: 2025-03-30
+date_modified: 2025-04-07
+---
 
 >[!NOTE] [[Poe AI]] explains [[Acceptance Testing]] for the age of AI
 > Acceptance Testing (AT) and [[Test-Driven Development]] (TDD) are methodologies designed to ensure that software behaves as expected and meets predefined requirements. In the age of AI-powered code generation, these approaches are regaining importance because they provide a structured way to verify that AI-generated code does not inadvertently introduce bugs, remove functionality, or deviate from business requirements.

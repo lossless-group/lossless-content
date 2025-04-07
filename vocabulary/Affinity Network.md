@@ -1,9 +1,8 @@
 ---
-aliases:
-  - Affinity Group
+aliases: [Affinity Group]
 wikipedia-url: https://en.wikipedia.org/wiki/Affinity_group
 date_created: 2024-10-22
-date_modified: 2025-03-21
+date_modified: 2025-04-07
 ---
 
 "Affinity networking entails the deliberate assembly of individuals who share common identities, backgrounds, interests, or experiences within an organisation or community. It serves as a platform for nurturing relationships, exchanging insights, and providing solidarity among members who resonate with each other’s experiences." [^1] 

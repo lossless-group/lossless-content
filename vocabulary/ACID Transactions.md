@@ -1,3 +1,7 @@
+---
+date_created: 2025-03-31
+date_modified: 2025-04-07
+---
 A behavior of [[Relational Database]]
 
 [[Organizations/Perplexity AI]] explains [[ACID Transactions]]

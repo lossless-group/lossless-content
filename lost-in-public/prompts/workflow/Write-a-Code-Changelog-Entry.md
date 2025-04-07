@@ -2,11 +2,11 @@
 title: 'Write a Code Changelog Entry'
 lede: 'Create structured and informative changelog entries for code changes'
 date_authored_initial_draft: 2025-03-18
-date_authored_current_draft: 2025-03-20
+date_authored_current_draft: 2025-04-07
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: '0.0.0.2'
+at_semantic_version: '0.0.1.0'
 authors: 
 - Michael Staton # use array list syntax even when there is only one author.
 status: To-Do
@@ -18,11 +18,11 @@ tags:
 - Version-Control # tags must be bare, always be in Train-Case, and be in an array list syntax
 - Code-Changes
 date_created: 2025-03-23
-date_modified: 2025-03-24
+date_modified: 2025-04-07
 ---
 
 > Option Set for 'Changelog Type':
-> 1. Code Changes (site/src/content/changelog--code)
+> 1. Code Changes (content/changelog--code)
 >    - Build scripts
 >    - Components
 >    - Functions
@@ -30,7 +30,7 @@ date_modified: 2025-03-24
 >    - Dependencies
 >    - Testing
 >
-> 2. Content Changes (site/src/content/changelog--content)
+> 2. Content Changes (content/changelog--content)
 >    - Markdown files
 >    - Documentation
 >    - Prompts
@@ -41,13 +41,32 @@ date_modified: 2025-03-24
 # Goals
 Create an informative changelog entry that documents changes to code or content in a structured, searchable format.
 
-### Working Directory for the Changelog:
-`site/src/content/changelog--code`
+### IMPORTANT: File Location and Naming
+1. **Absolute Directory Path:**
+   ```
+   /Users/mpstaton/code/lossless-monorepo/content/changelog--code/
+   ```
 
-### Filename Requirements:
-`YYYY-MM-DD_${indexCount}.md` where `YYYY-MM-DD` is the date of the change, and `indexCount` is the number of the changes documented for that day.  If you don't remember, just look at the last file in the directory.  
+2. **Relative Directory Path:**
+   ```
+   content/changelog--code/
+   ```
 
-## Implementation Requirements
+3. **Filename Format:**
+   ```
+   YYYY-MM-DD_XX.md
+   ```
+   Where:
+   - `YYYY-MM-DD` is today's date (e.g., 2025-04-07)
+   - `XX` is a sequential number (01, 02, 03...) for multiple entries on the same day
+   - Example: `2025-04-07_02.md`
+
+4. **How to determine the next number:**
+   - List the directory contents to find the highest number for today's date
+   - If no entries exist for today, start with `01`
+   - If entries exist (e.g., `2025-04-07_01.md`), use the next number (e.g., `2025-04-07_02.md`)
+
+### Implementation Requirements
 
 ### 1. Frontmatter Structure
 
