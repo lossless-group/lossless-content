@@ -1,6 +1,7 @@
 ---
 date_created: 2025-03-29
 date modified: 2025-04-05
+date_modified: 2025-04-07
 ---
 
 https://youtu.be/w5Wr3j4h_1I?si=MkvjqMt3xPbBZjUL
@@ -164,6 +165,8 @@ A backlink to [[vocabulary/Affinity Network]]
 > [101] https://www.planview.com/resources/articles/disadvantages-agile/
 > [102] https://tdan.com/the-end-of-agile-part-2-critiques-of-agile/31699
 > [103] https://www.lonti.com/blog/agile-data-management-a-comprehensive-guide
+>
 
 ---
-Answer from Perplexity: pplx.ai/share
+ Answer from Perplexity: pplx.ai/share
+

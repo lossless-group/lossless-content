@@ -1,12 +1,12 @@
 ---
 title: 'Rendering Extended Markdown through AST'
-lede: 'An alternative approach to rendering callout blocks by working directly with the AST nodes instead of transforming markdown during the remark phase'
+lede: 'An alternative approach to rendering callouts and citations by working directly with the AST nodes'
 date_authored_initial_draft: 2025-04-02
-date_authored_current_draft: 2025-04-02
+date_authored_current_draft: 2025-04-06
 date_authored_final_draft: null
 date_first_published: null
-date_last_updated: null
-at_semantic_version: '0.0.0.1'
+date_last_updated: 2025-04-06
+at_semantic_version: '0.0.0.2'
 authors: 
   Michael Staton
 status: To-Do
@@ -18,185 +18,213 @@ tags:
 - Build-Scripts
 - Extended-Markdown
 - AST
+- Citations
 date_created: 2025-04-02
-date_modified: 2025-04-02
+date_modified: 2025-04-06
 ---
+
+# Unfinished Work
+- [ ] handle citations sections INSIDE callouts, but include callout content that comes AFTER the citations section.  
 
 # Context
 
-## Comparing Two Approaches to Callout Rendering
+## Comparing Approaches to Extended Markdown Rendering
 
-### Previous Approach (Remark Plugin Transformation)
-In [Rendering-Callout-Blocks-with-Classes](/lost-in-public/prompts/render-logic/Rendering-Callout-Blocks-with-Classes.md), we attempted to:
+### Previous Approach (Component-Level Transformation)
+Initially, we tried handling markdown extensions (callouts, citations) at the component level:
 
-1. Use a remark plugin to transform the markdown during the parsing phase
-2. Convert blockquotes with `[!Type]` syntax into HTML nodes in the AST
-3. Handle the transformation before the markdown reaches the component layer
+1. Let markdown pass through remark untouched
+2. Process nodes in Astro components
+3. Transform content during rendering
 
 This approach faced challenges:
-- Complex AST manipulation during the remark phase
-- Difficulty maintaining the original markdown structure
-- Issues with nested content and formatting
-- Potential conflicts with other remark plugins
+- Duplicate processing logic in components
+- Inconsistent node structure preservation
+- Difficulty maintaining AST hierarchy
+- Potential conflicts between transformations
 
-### Alternative Approach (Component-Level AST Handling)
-Inspired by [astro-big-doc](https://github.com/MicroWebStacks/astro-big-doc/tree/main), we can instead:
+### Current Approach (Unified Remark Pipeline)
+We now use a unified remark plugin pipeline:
 
-1. Let the markdown pass through the remark phase untouched
-2. Handle the AST nodes directly in our Astro components
-3. Transform the content at the component level using mdast utilities
+1. Process markdown extensions during the MDAST phase
+2. Use proper node structure with `hName` and `hProperties`
+3. Render transformed nodes in components
 
-Benefits of this approach:
-- Simpler and more direct control over rendering
-- Better preservation of markdown structure
-- Easier debugging and maintenance
-- More flexible styling options
-- Reduced plugin complexity
+Benefits:
+- Single source of truth for transformations
+- Better preservation of AST structure
+- Cleaner component logic
+- More maintainable codebase
 
-## Constraints:
-It has taken us days and days to get what we have working, so please do not make overzealous changes. Do not destroy or change any file that is not directly related to the callout rendering.  
+## Constraints
+Maintain separation of concerns:
+1. Remark plugins handle AST transformations
+2. Components handle rendering
+3. No duplicate processing logic
 
-If we need to recreate any files, that would be better than changing something that is working and accidentally breaking it.  
+## Implementation Examples
 
-## Objective:
+### 1. Citation Processing
 
-Use the naming of Callouts to render callout blocks with CSS classes and Astro Components using a different approach than in [Rendering-Callout-Blocks-with-Classes](/lost-in-public/prompts/render-logic/Rendering-Callout-Blocks-with-Classes.md).
+#### Citation Syntax
+Citations are marked in markdown using:
+1. A "Citations:" header line
+2. Numbered citation entries starting with [n]
+3. Citations block continues until a blank line
 
-## Documentation:
-Obsidian has documentation on how they handle [Obsidian flavored callouts](https://help.obsidian.md/callouts). 
-
-Our other documentation links are kept in the:
-`content/lost-in-public/rag-input/Read-Relevant-Documentation-before-major-edits.md` file.  
-Please assure you always reference:
-- Astro Collections
-- Unified.js
-- Remark.js
-- Rehype.js
-
-## Example syntax. 
-
-You'll notice the syntax is the use of the following opening line:
-`>[!<Callout Class>] <Callout Title>`
-The callout then extends as long as the NEXT LINE also begins with a `>`. This `>` character is ALWAYS the FIRST character of the line, there are no exceptions, there is no use of a space before the `>`. 
-
-So, when detecting the callout, we need to:
-1. Detect the opening line with the `> [!Type]` pattern
-2. Collect all subsequent lines that start with `>`
-3. Transform this content into a styled component
-
-# Implementation Steps
-
-## 1. Create the Callout Component
-
-Instead of transforming in remark, we'll create an Astro component that handles the rendering:
-
-```astro
----
-// src/components/markdown/Callout.astro
-interface Props {
-  type: string;
-  title?: string;
-  content: string;
-}
-
-const { type, title = type, content } = Astro.props;
----
-
-<div class={`callout callout-${type.toLowerCase()}`}>
-  <div class="callout-title">
-    <span class="callout-icon">{type === 'LLM Response' ? '🤖' : '📝'}</span>
-    <span class="callout-title-text">{title}</span>
-  </div>
-  <div class="callout-content">
-    <slot />
-  </div>
-</div>
+Example:
+```markdown
+Citations:
+[1] First citation entry
+[2] Second citation entry
 ```
 
-## 2. Create an AST Handler Component
-
-This component will process the markdown AST and detect callout patterns:
-
-```astro
----
-// src/components/markdown/AstroMarkdown.astro
-import { visit } from 'unist-util-visit';
-import Callout from './Callout.astro';
-
-interface Props {
-  content: string;
-}
-
-const { content } = Astro.props;
-
-// Process content and detect callout patterns
-function processCallouts(node) {
-  if (node.type !== 'root') return node;
-  
-  visit(node, 'blockquote', (blockquoteNode) => {
-    // Get the first paragraph's first text node
-    const firstParagraph = blockquoteNode.children[0];
-    if (!firstParagraph || firstParagraph.type !== 'paragraph') return;
-    
-    const firstTextNode = firstParagraph.children[0];
-    if (!firstTextNode || firstTextNode.type !== 'text') return;
-
-    // Check for callout pattern in the text
-    const match = firstTextNode.value.match(/^\[!(\w+)\]\s*(.*)$/);
-    if (!match) return;
-
-    // Extract callout info
-    const [, type, title] = match;
-    
-    // Get remaining content (all children after the first text node)
-    const titleContent = firstParagraph.children.slice(1);
-    const content = blockquoteNode.children.slice(1);
-    
-    // Transform into Callout component
-    blockquoteNode.type = 'element';
-    blockquoteNode.tagName = 'Callout';
-    blockquoteNode.properties = {
-      type,
-      title: {
-        type: 'fragment',
-        children: titleContent
-      },
-      content: {
-        type: 'fragment',
-        children: content
-      }
+#### Citation Plugin Structure
+```typescript
+// remarkCitations.ts
+type CitationNode = {
+  type: 'citation';
+  value: string;
+  data: {
+    hName: string;
+    hProperties: {
+      className: string;
     };
-  });
-  
-  return node;
+  };
+};
+
+type CitationsContainerNode = {
+  type: 'citations';
+  children: CitationNode[];
+  data: {
+    hName: string;
+    hProperties: {
+      className: string;
+    };
+  };
+};
+
+export default function remarkCitations() {
+  return (tree: Root) => {
+    let citationsFound: CitationNode[] = [];
+
+    // First pass: find and extract citations
+    visit(tree, 'paragraph', (node: Paragraph, index: number, parent: Parent) => {
+      const firstChild = node.children[0];
+      if (firstChild?.type === 'text' && 
+          (firstChild.value.startsWith('Citations:') || firstChild.value.includes('\n[1]'))) {
+        
+        // Extract and transform citations
+        const citations = firstChild.value
+          .split('\n')
+          .filter(line => line.trim() && !line.startsWith('Citations:'))
+          .map(citation => ({
+            type: 'citation',
+            value: citation.trim(),
+            data: {
+              hName: 'div',
+              hProperties: {
+                className: 'citation'
+              }
+            }
+          } as CitationNode));
+
+        citationsFound = citationsFound.concat(citations);
+
+        // Remove original paragraph
+        if (typeof index === 'number' && Array.isArray(parent?.children)) {
+          parent.children.splice(index, 1);
+        }
+      }
+    });
+
+    // Second pass: add citations container
+    if (citationsFound.length > 0) {
+      const citationsNode = {
+        type: 'citations',
+        children: citationsFound,
+        data: {
+          hName: 'div',
+          hProperties: {
+            className: 'citations-container'
+          }
+        }
+      } as CitationsContainerNode;
+
+      tree.children.push(citationsNode as unknown as Paragraph);
+    }
+  };
 }
+```
+
+#### Component Rendering
+```astro
+// ArticleCitations.astro
+---
+interface Props {
+  node: {
+    type: string;
+    children: {
+      type: string;
+      value: string;
+    }[];
+  };
+}
+
+const { node } = Astro.props;
 ---
 
-<div class="markdown-content">
-  {processCallouts(content)}
+<div class="citations-container">
+  {node.children.map((citation) => (
+    <div class="citation">{citation.value}</div>
+  ))}
 </div>
 ```
 
-## 3. Integration with Astro
+### 2. Remark Plugin Pipeline
 
-Update the page component to use the new AST handler:
+```typescript
+// OneArticle.astro
+const processor = unified()
+  .use(remarkParse)           // 1. Parse markdown to MDAST
+  .use(remarkCitations)       // 2. Process citations
+  .use(remarkBacklinks)       // 3. Process inline wiki-style links
+  .use(remarkImages)          // 4. Process inline images
+  .use(remarkCallouts);       // 5. Process container elements
 
-```astro
----
-// src/pages/[...path].astro
-import AstroMarkdown from '../components/markdown/AstroMarkdown.astro';
----
+// First parse to MDAST
+const mdast = await processor.parse(content || '');
 
-<AstroMarkdown content={content} />
+// Then run transformations
+const transformedMdast = await processor.run(mdast);
 ```
 
-This approach:
-1. Preserves the original markdown structure
-2. Handles transformation at the component level
-3. Provides more control over styling and rendering
-4. Is easier to debug and maintain
+## Key Principles
 
-The key difference is that we're not trying to force the transformation during the remark phase, but instead handling it where we have more control - in our Astro components.
+1. **Single Responsibility**
+   - Each plugin handles one type of transformation
+   - Clean separation between MDAST and HAST phases
+   - Components only handle rendering
+
+2. **Node Structure**
+   - Use proper MDAST/HAST node types
+   - Set `hName` and `hProperties` for HTML generation
+   - Maintain AST hierarchy
+
+3. **Error Handling**
+   - Validate input at each phase
+   - Preserve original content on error
+   - Clear error reporting
+
+4. **Debugging**
+   - Output AST state at each phase
+   - Track transformations
+   - Maintain type safety
+
+5. **Component Integration**
+   - Clean component interfaces
+   - Type-safe props
+   - Minimal processing logic
 
 ## Callout Processing Structure (2025-04-03)
 
