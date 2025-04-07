@@ -15,15 +15,10 @@ og_last_fetch: '2025-03-07T05:19:18.720Z'
 date_modified: 2025-03-24T00:00:00.000Z
 date_created: '2025-03-30T05:44:14.840Z'
 tags:
-- AI-Toolkit
-- Model-Producers
+  - AI-Toolkit
+  - Model-Producers
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/5e05e5035378609e6561af88712d58c3320bae57abff6db126da26a0f4c935bb.jpeg
 ---
-
-
-
-
-
-
-
 
 Cognition AI is an [[Artificial Intelligence|AI]] research lab, and are the creators and maintainers of [[Devin]], one of the [[AI Models]] that can perform [[Code Generators]]

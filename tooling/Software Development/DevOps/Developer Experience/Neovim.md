@@ -4,11 +4,18 @@ date_created: 2025-03-08T00:00:00.000Z
 date_modified: 2025-03-24T00:00:00.000Z
 url: https://neovim.io/
 reddit_forum_url: https://www.reddit.com/r/neovim/
+og_title: Neovim
+og_description: Hyperextensible Vim-based text editor
+og_image: >-
+  https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-social-preview.png
+og_url: https://neovim.io/index.html
+og_last_fetch: '2025-04-07T17:38:17.818Z'
 tags:
 - Text-Editors
 - Check-It-Out
 - Influencer-Favorite
 ---
+
 
 
 

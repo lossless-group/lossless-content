@@ -13,7 +13,9 @@ favicon: >-
 og_fetched_url: https://deskpi.com/
 og_last_fetch: '2025-03-24T06:28:34.140Z'
 tags:
-- Hardware
+  - Hardware
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/df8b0b1abec655e60afeab1fb4163f5dd630b23865294e402a5736221ac14ec2.jpeg
 ---
 
 [[Raspberry Pi]] for [[Tooling/AI-Toolkit/Explainers/Home Labs|Home Labs]] and [[Tooling/AI-Toolkit/Explainers/Homelab Networks|Homelab Networks]]

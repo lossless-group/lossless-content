@@ -9,10 +9,10 @@ docs_url: https://docs.obsidian.md/
 date_modified: 2025-03-24T00:00:00.000Z
 date_created: '2025-03-30T05:44:14.855Z'
 tags:
-- Productivity
+  - Productivity
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/f18916e4fda284a0673b4b4f67bd554fa0797066d423295f43a40a4c2cce4f60.jpeg
 ---
-
-
 
 [[Markdown Editor]]
 

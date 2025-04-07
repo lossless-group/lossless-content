@@ -15,16 +15,9 @@ og_last_fetch: '2025-03-14T04:41:25.036Z'
 date_modified: 2025-03-24T00:00:00.000Z
 date_created: '2025-03-30T05:44:14.860Z'
 tags:
-- Software-Development
-- Package-Managers
+  - Software-Development
+  - Package-Managers
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/67bd864c3431df333a19ad9afc3590600fa0527ea393a86994658502707ababb.jpeg
 ---
-
-
-
-
-
-
-
-
-
 

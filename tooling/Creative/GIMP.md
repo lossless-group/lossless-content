@@ -3,14 +3,18 @@ site_uuid: 5ed824cb-835e-4aec-8a58-de9e8f57b53c
 url: https://www.gimp.org/
 date_modified: 2025-03-24T00:00:00.000Z
 date_created: '2025-03-30T05:44:14.845Z'
+og_title: GIMP
+og_description: >-
+  GIMP - The GNU Image Manipulation Program: The Free and Open Source Image
+  Editor
+og_image: https://www.gimp.org/images/frontpage/wilber-big.png
+og_url: https://www.gimp.org/
+og_last_fetch: '2025-04-07T17:38:08.669Z'
 tags:
-- Creative
+  - Creative
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/4b2e49b4ba52939fadc91328b0d9680272c3cccb80bf8b11fbfee05b7cccd227.jpeg
 ---
-
-
-
-
-
 
 https://youtu.be/KWLwgLYvaqE?si=VgLLzVDh2n92xHSL
 

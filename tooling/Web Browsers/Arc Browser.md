@@ -17,17 +17,11 @@ og_last_fetch: '2025-03-14T04:41:14.912Z'
 date_modified: 2025-03-24T00:00:00.000Z
 date_created: '2025-03-30T05:44:14.876Z'
 tags:
-- Web-Browsers
-- Check-It-Out
+  - Web-Browsers
+  - Check-It-Out
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/0b851f7076b1209295591bbd297506d5f6b4b1b005e18d9a2e59f20d08dfe0ee.jpeg
 ---
-
-
-
-
-
-
-
-
 
 ##### [[Arc Browser|Arc]] is a [[State of the Art]][[Web Browser]]
 

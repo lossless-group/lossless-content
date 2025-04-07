@@ -14,16 +14,10 @@ og_last_fetch: '2025-03-14T04:42:03.357Z'
 date_modified: 2025-03-24T00:00:00.000Z
 date_created: '2025-03-30T05:44:14.851Z'
 tags:
-- Enterprise-Jobs-To-Be-Done
-- Database-Apps
+  - Enterprise-Jobs-To-Be-Done
+  - Database-Apps
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/3d7c5535a3c2ec991ac0eaabfd930dd100bb8504b0d15900e46aaa74a6104c95.jpeg
 ---
-
-
-
-
-
-
-
-
 
 A [[Database Apps|Database App]]

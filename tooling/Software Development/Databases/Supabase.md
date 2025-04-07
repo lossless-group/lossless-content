@@ -3,16 +3,22 @@ site_uuid: 7a1bb7b1-7c21-4a28-bc5b-65dc388ece03
 date_created: 2025-03-20T00:00:00.000Z
 date_modified: 2025-03-24T00:00:00.000Z
 url: https://supabase.com/
+og_title: Supabase | The Open Source Firebase Alternative
+og_description: >-
+  Build production-grade applications with a Postgres database, Authentication,
+  instant APIs, Realtime, Functions, Storage and Vector embeddings. Start for
+  free.
+og_image: https://supabase.com/images/og/supabase-og.png
+og_url: https://supabase.com/
+og_last_fetch: '2025-04-07T17:38:12.948Z'
 tags:
-- Software-Development
-- Database
-- Serverless-Database
-- Document-Databases
+  - Software-Development
+  - Database
+  - Serverless-Database
+  - Document-Databases
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/41531850c10dc1d12d6c1b0b785d18b245fa882f5667f7f0fb81591c8250e33e.jpeg
 ---
-
-
-
-
 
 Supabase is actually built on the [[Open Source]] [[Databases|Database]] [[Postgres]].
 

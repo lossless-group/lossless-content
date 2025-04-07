@@ -13,7 +13,9 @@ title: Standard Notes | End-To-End Encrypted Notes App
 og_fetched_url: https://standardnotes.com/
 og_last_fetch: '2025-03-24T06:28:24.346Z'
 tags:
-- Productivity
+  - Productivity
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/8d119f684a4058c4ad16e703570373633b071a74c33439d278537a1792167b09.jpeg
 ---
 
 https://youtu.be/NibB8Jy8TDE?si=fK0MEKfMZvVhzK6k

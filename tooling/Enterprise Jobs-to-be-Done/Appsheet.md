@@ -17,19 +17,13 @@ og_last_fetch: '2025-03-14T04:43:03.419Z'
 date_modified: 2025-03-24T00:00:00.000Z
 date_created: '2025-03-30T05:44:14.849Z'
 tags:
-- Enterprise-Jobs-To-Be-Done
-- App-Builders
-- No-Code
-- Advanced-Spreadsheets
-- Internal-Tool-Builders
-- Check-It-Out
+  - Enterprise-Jobs-To-Be-Done
+  - App-Builders
+  - No-Code
+  - Advanced-Spreadsheets
+  - Internal-Tool-Builders
+  - Check-It-Out
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/5f5b423b7efe0eac35a2dad7487b92d152f7c5bfc2771e5b190f86c0e7b49d86.jpeg
 ---
-
-
-
-
-
-
-
-
 

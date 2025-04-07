@@ -15,8 +15,9 @@ favicon: https://sbert.net/_static/favicon.ico
 og_fetched_url: https://sbert.net
 og_last_fetch: '2025-03-24T06:28:24.897Z'
 tags:
-- AI-Toolkit
+  - AI-Toolkit
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/7b8ec5719183f7b06cb7c0fe4645c5c0ad7a2dfc790cdddd1e571972e4e74f9b.jpeg
 ---
-
 
 [[Tooling/Software Development/Programming Languages/Python|Python]]

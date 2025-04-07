@@ -16,16 +16,11 @@ og_last_fetch: '2025-03-07T05:19:02.905Z'
 date_modified: 2025-03-25T00:00:00.000Z
 date_created: 2025-03-25T00:00:00.000Z
 tags:
-- Software-Development
-- Lego-Kit-Engineering-Tools
-- Data-Api
-- For-Healthcare
+  - Software-Development
+  - Lego-Kit-Engineering-Tools
+  - Data-Api
+  - For-Healthcare
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/fa9d8c8019175e3c685c3ec9dd34d2fec548b15d7ae0a694279dedffc88a5551.jpeg
 ---
-
-
-
-
-
-
-
 

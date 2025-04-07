@@ -8,7 +8,9 @@ title: Stow
 og_fetched_url: https://www.gnu.org/software/stow/manual/stow.html
 og_last_fetch: '2025-03-24T06:28:25.293Z'
 tags:
-- Software-Development
+  - Software-Development
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/1cae25670f127769633a61cf7c37c9563cf51c02c636fa90eb7fe82fd423bdd5.jpeg
 ---
 
 > [!LLM Response] [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Poe AI|Poe AI]] describes [[Tooling/Software Development/Programming Languages/Libraries/Stow]]

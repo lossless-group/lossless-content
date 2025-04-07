@@ -7,11 +7,19 @@ description_site_cp: >-
   database developers love
 date_modified: 2025-03-24T00:00:00.000Z
 date_created: '2025-03-30T05:44:14.819Z'
+og_title: The AI-native database developers love | Weaviate
+og_description: >-
+  Bring AI-native applications to life with less hallucination, data leakage,
+  and vendor lock-in
+og_image: https://weaviate.io/og/website/home.jpg
+og_url: https://weaviate.io/
+og_last_fetch: '2025-04-07T17:38:09.726Z'
 tags:
 - AI-Native
 - Databases
 - AI-Infrastructure
 ---
+
 
 
 

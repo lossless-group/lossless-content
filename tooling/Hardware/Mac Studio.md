@@ -5,13 +5,19 @@ url: https://www.apple.com/mac-studio/
 product_of: '[[Organizations/Apple|Apple]]'
 date_created: 2025-03-08T00:00:00.000Z
 date_modified: 2025-03-24T00:00:00.000Z
+og_title: Mac Studio
+og_description: >-
+  The ultimate pro desktop. Powered by M4 Max and M3 Ultra for all-out
+  performance and extensive connectivity. Built for Apple Intelligence.
+og_image: >-
+  https://www.apple.com/v/mac-studio/i/images/meta/mac-studio_overview__eedzbosm1t26_og.png?202504021145
+og_url: https://www.apple.com/mac-studio/
+og_last_fetch: '2025-04-07T17:38:27.583Z'
 tags:
-- Hardware
+  - Hardware
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/5928d76a3ace25752188393ef1d4e5f25bde57f64de63c842ef7698555d66569.jpeg
 ---
-
-
-
-
 
 https://youtu.be/lqQjZOTuVBY?si=R2nYY9p-1NCGUnO6
 

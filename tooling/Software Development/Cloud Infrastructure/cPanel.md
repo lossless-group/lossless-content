@@ -18,5 +18,8 @@ favicon: https://cpanel.net/wp-content/themes/cPbase/assets/img/favicon.ico?v=1.
 og_fetched_url: https://cpanel.net
 og_last_fetch: '2025-03-24T06:28:26.001Z'
 tags:
-- Software-Development
+  - Software-Development
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/ecde852049dd765ab4fb2c6315d75520ab2c0b9ef1ce6c14ce26b44c68047766.jpeg
 ---
+

@@ -16,16 +16,10 @@ og_last_fetch: '2025-03-14T04:41:52.247Z'
 date_modified: 2025-03-24T00:00:00.000Z
 date_created: '2025-03-30T05:44:14.856Z'
 tags:
-- Productivity
-- Asynchronous-Communication
-- Team-Chat
+  - Productivity
+  - Asynchronous-Communication
+  - Team-Chat
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/e5d304c1d5d0fd195f815dfd03c1dcc52db5640c8f4d5e118bdb6a8529f7d77d.jpeg
 ---
-
-
-
-
-
-
-
-
 

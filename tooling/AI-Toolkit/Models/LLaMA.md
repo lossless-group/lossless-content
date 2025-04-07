@@ -12,18 +12,12 @@ og_last_fetch: '2025-03-07T05:19:18.954Z'
 date_modified: 2025-03-24T00:00:00.000Z
 date_created: '2025-03-30T05:44:14.842Z'
 tags:
-- AI-Toolkit
-- Models
-- Runs-Local
+  - AI-Toolkit
+  - Models
+  - Runs-Local
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/df8ad8c0f812c495f40b9aad37c7d29fd1e6d795225879d49e62a6019fe20a8d.jpeg
 ---
-
-
-
-
-
-
-
-
 
 https://youtu.be/1xdneyn6zjw?si=px7IYAVWjaEpMBUD
 

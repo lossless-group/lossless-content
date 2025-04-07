@@ -17,17 +17,11 @@ og_last_fetch: '2025-03-14T04:43:01.001Z'
 date_modified: 2025-03-24T00:00:00.000Z
 date_created: '2025-03-30T05:44:14.850Z'
 tags:
-- Enterprise-Jobs-To-Be-Done
-- CRM
-- Sales-Tools
+  - Enterprise-Jobs-To-Be-Done
+  - CRM
+  - Sales-Tools
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/ec9bccd40c6132f755c0481411fd61264a40b0608909d15e204d8c2b9b43ec34.jpeg
 ---
-
-
-
-
-
-
-
-
 
 https://www.folk.app

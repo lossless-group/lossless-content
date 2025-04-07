@@ -11,7 +11,9 @@ favicon: https://rog.asus.com/rog/nuxtStatic/img/favicon.ico
 og_fetched_url: https://rog.asus.com/laptops/rog-flow/rog-flow-z13-2025/
 og_last_fetch: 2025-03-24T06:28:37.476Z
 tags:
-- Hardware
+  - Hardware
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/907adfc780a911569a21715d6babc287dbdd5eba8f9b7077133c2ceb33d0e83b.jpeg
 ---
 
 [[Organizations/Asus]]
