@@ -1,11 +1,69 @@
 ---
 site_uuid: 7a43f934-fdfc-453d-b17b-da7c8eba6dda
 aliases:
-- MCP
+  - MCP
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-30T05:44:14.830Z'
 tags:
 - Agentic-AI
-date_modified: 2025-03-24
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 https://youtu.be/oAoigBWLZgE?si=8AF2ooyl_EMhe2sM

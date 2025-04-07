@@ -4,16 +4,26 @@ image: https://svelte.dev/images/twitter-thumbnail.jpg
 site_name: Svelte
 title: Svelte
 favicon: https://svelte.dev/favicon.png
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/d5ce42d3352af3144b253670b8c6e9d274edd84ae1a6d00f4bcb57078b7e303f.jpeg
+jina_last_request: '2025-03-09T06:45:08.577Z'
+jina_error: Error occurred
+og_last_fetch: '2025-03-07T05:20:56.419Z'
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-30T05:44:14.869Z'
 tags:
 - Web-Frameworks
 - Software-Development
 - Frameworks
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/d5ce42d3352af3144b253670b8c6e9d274edd84ae1a6d00f4bcb57078b7e303f.jpeg
-jina_last_request: '2025-03-09T06:45:08.577Z'
-jina_error: "Error occurred"
-og_last_fetch: '2025-03-07T05:20:56.419Z'
-date_modified: 2025-03-24
 ---
+
+
+
+
+
+
+
+
 
 
 

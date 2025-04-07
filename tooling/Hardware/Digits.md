@@ -1,7 +1,11 @@
 ---
 site_uuid: 455722bf-74ef-41a3-b343-5f2a78ce1c35
-date_modified: 2025-03-24
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-31T20:44:50.512Z'
+tags:
+- Hardware
 ---
+
 
 
 [[Organizations/Nvidia]]  chip design for [[Local LLM|Local LLMs]]

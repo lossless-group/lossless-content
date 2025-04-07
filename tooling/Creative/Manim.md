@@ -4,14 +4,22 @@ image: https://www.manim.community/banner.png
 site_name: Manim Community
 title: Manim Community
 favicon: https://www.manim.community/favicon-32x32.png
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/c0f64b5de366cf8f303b5b8be64ef39d13087eb16002e41c9faa2054bd1bee05.jpeg
+jina_last_request: '2025-03-09T06:45:20.239Z'
+jina_error: Error occurred
+og_last_fetch: '2025-03-07T05:19:01.837Z'
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-30T05:44:14.846Z'
 tags:
 - Creative
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/c0f64b5de366cf8f303b5b8be64ef39d13087eb16002e41c9faa2054bd1bee05.jpeg
-jina_last_request: '2025-03-09T06:45:20.239Z'
-jina_error: "Error occurred"
-og_last_fetch: '2025-03-07T05:19:01.837Z'
-date_modified: 2025-03-24
 ---
+
+
+
+
+
+
 
 
 

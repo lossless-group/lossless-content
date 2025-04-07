@@ -1,19 +1,28 @@
 ---
 site_uuid: 53b586ca-ba55-49ac-a88a-cc63ff6ec568
 url: https://tailwindcss.com/
-tags:
-- Software-Development
-- Frameworks
-- Web-Frameworks
 image: https://tailwindcss.com/opengraph-image.jpg?22502194f1a254bc
 site_name: Tailwind CSS
 title: Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.
 favicon: https://tailwindcss.com/favicon.ico
 jina_last_request: '2025-03-09T06:45:06.285Z'
-jina_error: "Error occurred"
+jina_error: Error occurred
 og_last_fetch: '2025-03-06T21:44:14.300Z'
-date_modified: 2025-03-24
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-30T05:44:14.869Z'
+tags:
+- Software-Development
+- Frameworks
+- Web-Frameworks
 ---
+
+
+
+
+
+
+
+
 
 
 A [[Web Frameworks|Web Framework]] for managing [[CSS]]. It's [[Opinionated]] about [[Inline Styles]]

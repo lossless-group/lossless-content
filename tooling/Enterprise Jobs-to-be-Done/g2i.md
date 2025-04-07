@@ -6,14 +6,22 @@ image: https://www.g2i.co/og
 site_name: G2i
 title: G2i
 favicon: https://www.g2i.co/favicon.ico
-tags:
-- Enterprise-Jobs-to-be-Done
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/361a5787b8729489800c009c5d26b986759483cdb9c75f6cf952bbad82d2289e.jpeg
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/361a5787b8729489800c009c5d26b986759483cdb9c75f6cf952bbad82d2289e.jpeg
 jina_last_request: '2025-03-09T06:45:17.901Z'
-jina_error: "Error occurred"
+jina_error: Error occurred
 og_last_fetch: '2025-03-07T05:19:01.826Z'
-date_modified: 2025-03-24
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-30T05:44:14.851Z'
+tags:
+- Enterprise-Jobs-To-Be-Done
 ---
+
+
+
+
+
+
 
 
 [[Recruiting Platforms]]

@@ -1,22 +1,27 @@
 ---
 site_uuid: 92125cde-81fc-43d4-bd38-9bb3a125e301
 url: https://github.com/
-parent_org: "[[Organizations/Microsoft]]"
+parent_org: '[[Organizations/Microsoft]]'
 image: https://github.githubassets.com/assets/home24-5939032587c9.jpg
 site_name: GitHub
 title: GitHub · Build and ship software on a single, collaborative platform
 favicon: https://github.githubassets.com/favicons/favicon.svg
-tags:
-  - Developer-Experience
-  - Software-Development
-  - DevOps
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/09a8b930c8b79e7c313e5e741e1d59c39ae91bc1f10cdefa68b47bf77519be57.jpeg
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/09a8b930c8b79e7c313e5e741e1d59c39ae91bc1f10cdefa68b47bf77519be57.jpeg
 jina_last_request: 2025-03-09T06:45:19.022Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:20:56.432Z
-date_created: 2025-03-04
-date_modified: 2025-03-24
+date_created: 2025-03-04T00:00:00.000Z
+date_modified: 2025-03-24T00:00:00.000Z
+tags:
+- Developer-Experience
+- Software-Development
+- DevOps
 ---
+
+
+
+
 
 
 [[Organizations/Microsoft]] acquired [[GitHub]].

@@ -1,25 +1,37 @@
 ---
 site_uuid: e31d7e86-ab95-4361-a067-a9424f14d717
 url: https://codeium.com/windsurf
-description: The first agentic IDE, and then some. The Windsurf Editor is where the work of developers and AI truly flow together, allowing for a coding experience thatfeels like literal magic.
+description: >-
+  The first agentic IDE, and then some. The Windsurf Editor is where the work of
+  developers and AI truly flow together, allowing for a coding experience
+  thatfeels like literal magic.
 zinger: Built to keep you in flow state
-image: https://exafunction.github.io/public/images/windsurf/windsurf-ide-thumbnail.jpg
+image: >-
+  https://exafunction.github.io/public/images/windsurf/windsurf-ide-thumbnail.jpg
 site_name: Windsurf
 title: Windsurf Editor by Codeium
 favicon: https://codeium.com/favicon.ico
-tags:
-  - AI-Toolkit
-  - Generative-AI
-  - Code-Generators
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/2d10e118ad40fd692c4d55156f2285e7eae2c033a29fd9606373da510fbed0f6.jpeg
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/2d10e118ad40fd692c4d55156f2285e7eae2c033a29fd9606373da510fbed0f6.jpeg
 jina_last_request: 2025-03-09T06:45:11.368Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:20:56.434Z
 docs_url: https://docs.codeium.com/windsurf/
-parent_org: "[[Organizations/Codeium]]"
+parent_org: '[[Organizations/Codeium]]'
 reddit_forum_url: https://www.reddit.com/r/Codeium/
-date_modified: 2025-03-24
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-31T20:44:50.509Z'
+tags:
+- AI-Toolkit
+- Generative-AI
+- Code-Generators
 ---
+
+
+
+
+
+
 
 
 

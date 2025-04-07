@@ -1,14 +1,19 @@
 ---
 site_uuid: 7a1bb7b1-7c21-4a28-bc5b-65dc388ece03
-tags:
-  - Software-Development
-  - Database
-  - Serverless-Database
-  - Document-Databases
-date_created: 2025-03-20
-date_modified: 2025-03-24
+date_created: 2025-03-20T00:00:00.000Z
+date_modified: 2025-03-24T00:00:00.000Z
 url: https://supabase.com/
+tags:
+- Software-Development
+- Database
+- Serverless-Database
+- Document-Databases
 ---
+
+
+
+
+
 Supabase is actually built on the [[Open Source]] [[Databases|Database]] [[Postgres]].
 
 https://youtu.be/cmF64GU5RZY?si=SD3aZn1Dx7qXSbHA

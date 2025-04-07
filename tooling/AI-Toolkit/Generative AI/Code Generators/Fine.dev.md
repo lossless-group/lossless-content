@@ -2,8 +2,15 @@
 site_uuid: dfced9f4-987e-476f-b01c-a74d56c39531
 url: https://www.fine.dev/
 zinger: Full-Stack AI Developer Agent for Startups
-description: Accelerate your startup’s release schedule and ship daily improvements. Fine is the AI Coding Agent built to act like another team member, getting work
+description: >-
+  Accelerate your startup’s release schedule and ship daily improvements. Fine
+  is the AI Coding Agent built to act like another team member, getting work
+date_created: '2025-03-30T05:44:14.833Z'
+date_modified: '2025-04-07'
+tags:
+- AI-Toolkit
 ---
+
 done. Try free or watch it work:
 tags:
 - AI-Toolkit

@@ -1,12 +1,20 @@
 ---
 site_uuid: b4e6879d-f217-4d7f-a564-c1d3c822aa49
 title: Vercel
-tags:
-- Software Development
-- Cloud Infrastructure
 site_visibility: public
-date_modified: 2025-03-24
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-30T05:44:14.860Z'
+tags:
+- Software-Development
+- Cloud-Infrastructure
 ---
+
+
+
+
+
+
+
 
 
 

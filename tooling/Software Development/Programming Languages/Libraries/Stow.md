@@ -1,13 +1,16 @@
 ---
 site_uuid: 50e8a9e6-7ea2-402c-a545-07d007ed6f3e
 url: https://www.gnu.org/software/stow/manual/stow.html
-date_created: 2025-03-09
-date_modified: 2025-03-24
+date_created: 2025-03-09T00:00:00.000Z
+date_modified: 2025-03-24T00:00:00.000Z
 site_name: Stow
 title: Stow
 og_fetched_url: https://www.gnu.org/software/stow/manual/stow.html
 og_last_fetch: '2025-03-24T06:28:25.293Z'
+tags:
+- Software-Development
 ---
+
 > [!LLM Response] [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Poe AI|Poe AI]] describes [[Tooling/Software Development/Programming Languages/Libraries/Stow]]
 > ### What is GNU Stow?
 > 

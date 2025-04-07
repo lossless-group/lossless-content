@@ -1,9 +1,14 @@
 ---
 site_uuid: 2daa0152-7f46-4b8e-9d83-a683c135460c
 docs_url: https://github.com/microsoft/autogen
-created_by: "[[Organizations/Microsoft]]"
-date_modified: 2025-03-24
+created_by: '[[Organizations/Microsoft]]'
+date_modified: 2025-03-24T00:00:00.000Z
+date_created: '2025-03-31T20:44:50.507Z'
+tags:
+- AI-Toolkit
 ---
+
+
 
 
 A [[Programming Framework]] for using [[Python]] for [[Agentic AI]]
