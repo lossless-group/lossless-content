@@ -15,7 +15,9 @@ favicon: >-
 og_fetched_url: https://www.armsom.org/
 og_last_fetch: '2025-03-24T06:28:30.871Z'
 tags:
-- Hardware
+  - Hardware
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/3cc27a5a5fd2924540eac44ff412900e696267d0e8b5cc200b7e764d42641058.jpeg
 ---
 
 https://youtu.be/J9VmcyJ_t4g?si=hosLfh4xLExNB7Jb

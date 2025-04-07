@@ -17,20 +17,13 @@ og_last_fetch: '2025-03-14T04:41:55.367Z'
 date_modified: 2025-03-24T00:00:00.000Z
 date_created: '2025-03-30T05:44:14.856Z'
 tags:
-- Productivity
-- Advanced-Documents
-- Networked-Notes
-- Asynchronous-Communication
+  - Productivity
+  - Advanced-Documents
+  - Networked-Notes
+  - Asynchronous-Communication
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/5d19b240cdbe5d57f0e0625adb76852d2008f9191ac10194ad31c4936057151d.jpeg
 ---
-
-
-
-
-
-
-
-
-
 
 One of the [[Advanced Documents]], with a specialty in [[Realtime Collaboration]] and [[Salesforce]] integration.
 

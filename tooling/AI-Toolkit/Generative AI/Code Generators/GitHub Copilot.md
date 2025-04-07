@@ -17,21 +17,13 @@ og_last_fetch: '2025-03-14T04:43:55.120Z'
 date_modified: 2025-03-24T00:00:00.000Z
 date_created: '2025-03-30T05:44:14.833Z'
 tags:
-- AI-Toolkit
-- Generative-AI
-- Code-Generators
-- IDE-Plugins
+  - AI-Toolkit
+  - Generative-AI
+  - Code-Generators
+  - IDE-Plugins
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/74cb75bf68f615ff655f086485cd7e5e8b0edba8e5a5f17930e55cf5a05daaf5.jpeg
 ---
-
-
-
-
-
-
-
-
-
-
 
 https://youtu.be/aKx5I0Mrr9g?si=FKlfZ8zy64sh041e
 

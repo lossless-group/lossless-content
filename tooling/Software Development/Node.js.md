@@ -12,18 +12,10 @@ og_last_fetch: '2025-03-06T21:43:55.993Z'
 date_modified: 2025-03-24T00:00:00.000Z
 date_created: '2025-03-30T05:44:14.872Z'
 tags:
-- Software-Development
+  - Software-Development
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/96d4bf47e20bf028e0effc9ccc841fbe6ec266be20b22adf8fafddcab5f01a48.jpeg
 ---
-
-
-
-
-
-
-
-
-
-
 
 [[Node Package Manager]], [[JavaScript]]
 [[Ryan Dahl]]

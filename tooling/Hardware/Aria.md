@@ -19,16 +19,10 @@ og_last_fetch: 2025-03-14T04:41:59.450Z
 date_modified: 2025-03-24T00:00:00.000Z
 date_created: '2025-03-31T20:44:50.512Z'
 tags:
-- Hardware
+  - Hardware
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/f2277e9dc88ca7c6fe357b48e89baa262cf67c506a87e6aaa4b81cee6c14ab58.jpeg
 ---
-
-
-
-
-
-
-
-
 
 https://youtu.be/iWztNv_Lgz4?si=7Nsa5dTt2GCBS8jK
 

@@ -15,10 +15,17 @@ description_extended_site_cp: >-
   sending of data makes the specification an ideal tool for sharing learning
   between multiple systems.
 product_of: '[[Rustici Software]]'
+og_title: xAPI.com
+og_description: >-
+  xAPI.com is dedicated to helping you understand and implement xAPI (aka the
+  Experience API or Tin Can API). No matter what your question is, we can help.
+og_image: https://xapi.com/wp-content/uploads/sites/3/2018/09/xapi-featured-image.png
+og_url: https://xapi.com/
+og_last_fetch: '2025-04-07T17:38:10.979Z'
 tags:
-- API-Standards
-- Open-Specifications
+  - API-Standards
+  - Open-Specifications
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/6d00668e9cbddf5781d4154802b478025acbefb9e49bafc3548af01baa64b79b.jpeg
 ---
-
-
 

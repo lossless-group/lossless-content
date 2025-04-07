@@ -9,11 +9,9 @@ og_screenshot_url: >-
 jina_last_request: '2025-03-09T06:45:21.070Z'
 jina_error: Error occurred
 og_last_fetch: '2025-03-07T05:19:01.838Z'
-date_modified: 2025-03-24T00:00:00.000Z
-date_created: '2025-03-30T05:44:14.845Z'
-tags:
-- Creative
-- Creative-Tools
+date_modified: 2025-04-07
+date_created: 2025-03-30
+tags: [Creative, Creative-Tools]
 ---
 
 

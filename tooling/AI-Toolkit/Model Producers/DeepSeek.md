@@ -11,16 +11,11 @@ og_last_fetch: '2025-03-07T05:19:18.720Z'
 date_modified: 2025-03-24T00:00:00.000Z
 date_created: '2025-03-30T05:44:14.840Z'
 tags:
-- AI-Toolkit
-- Model-Producers
+  - AI-Toolkit
+  - Model-Producers
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/bd62c0962c92f5aec74eaff6566de1dc28669b3f91cc035284cf3410ba19947e.jpeg
 ---
-
-
-
-
-
-
-
 
 https://youtu.be/48GRiu-TMmg?si=pHoh4c7zcwk69AAC
 

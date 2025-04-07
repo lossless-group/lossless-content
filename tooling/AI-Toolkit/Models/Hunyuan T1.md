@@ -11,9 +11,10 @@ title: Tencent 腾讯
 og_fetched_url: https://www.tencent.com/en-us/index.html
 og_last_fetch: 2025-03-24T06:28:27.097Z
 tags:
-- AI-Toolkit
+  - AI-Toolkit
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/7ed8a4463a8b713b1efa34455a4da90f1ff0f8587b207fef691134f8a3960e5c.jpeg
 ---
-
 
 [[Organizations/Tencent|Tencent]]'s 'Hunyuan-T1'–The First [[Mamba-Powered]] Ultra-Large Model
 https: '//youtu.be/l0eIAv8BU2E?si=vsGMH3lfyh6NIT7B'

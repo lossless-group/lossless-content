@@ -12,15 +12,9 @@ og_last_fetch: '2025-03-07T05:19:01.836Z'
 date_modified: 2025-03-24T00:00:00.000Z
 date_created: '2025-03-30T05:44:14.847Z'
 tags:
-- Creative
+  - Creative
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/34195beed61fa5c1b908f810a2738240caa34c09742274f5800e6f4719fc6dd0.jpeg
 ---
-
-
-
-
-
-
-
-
 
 https://youtu.be/HfEs9rqmecg?si=jIVVS-FyVg7iy6PN

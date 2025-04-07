@@ -1,21 +1,17 @@
 ---
 site_uuid: 15fc7eb6-5e46-4e1e-b72e-f00348e1da73
-image: >-
-  https://cdn.sanity.io/images/599r6htc/regionalized/1adfa5a99040c80af7b4b5e3e2cf845315ea2367-2400x1260.png?w=1200&q=70&fit=max&auto=format
+image: https://cdn.sanity.io/images/599r6htc/regionalized/1adfa5a99040c80af7b4b5e3e2cf845315ea2367-2400x1260.png?w=1200&q=70&fit=max&auto=format
 site_name: Figma
-title: 'Figma: The Collaborative Interface Design Tool'
+title: The Collaborative Interface Design Tool
 favicon: https://static.figma.com/app/icon/1/icon-192.png
 youtube_channel_url: https://www.youtube.com/@Figma
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/68fedf64924894e13bb99abb21c12be64ecfb0387bc39c7acd2c64cd5949932f.jpeg
-jina_last_request: '2025-03-09T06:45:10.742Z'
+og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/68fedf64924894e13bb99abb21c12be64ecfb0387bc39c7acd2c64cd5949932f.jpeg
+jina_last_request: 2025-03-09T06:45:10.742Z
 jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:19:01.838Z'
-date_modified: 2025-03-24T00:00:00.000Z
-date_created: '2025-03-30T05:44:14.845Z'
-tags:
-- Creative
-- Design-Tools
+og_last_fetch: 2025-03-07T05:19:01.838Z
+date_modified: 2025-04-07
+date_created: 2025-03-30
+tags: [Creative, Design-Tools]
 ---
 
 
@@ -36,7 +32,7 @@ frameborder="0"
 allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
 referrerpolicy="strict-origin-when-cross-origin" 
 allowfullscreen
-></iframe> [^aebfbb]
+></iframe> [^1]
 
 ##### Figma has a [[User Forum]]
 
@@ -54,4 +50,4 @@ https://youtu.be/0jze5RbyoW4?si=5Hjlmi2XIAiiL8ZY
 # Footnotes
 ***
 
-[^aebfbb]: 2025, Mar 04. "[Release Notes 2025: February Edition | Figma](https://www.youtube.com/embed/LuUuzCVaLLk?controls=0)," [[Tooling/Creative/Figma]]
+[^1]: 2025, Mar 04. "[Release Notes 2025: February Edition | Figma](https://www.youtube.com/embed/LuUuzCVaLLk?controls=0)," [[Tooling/Creative/Figma]]

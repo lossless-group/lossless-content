@@ -12,17 +12,11 @@ og_last_fetch: '2025-03-07T05:19:18.955Z'
 date_modified: 2025-03-24T00:00:00.000Z
 date_created: '2025-03-31T20:44:50.510Z'
 tags:
-- AI-Toolkit
-- Models
+  - AI-Toolkit
+  - Models
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/96ffbc5079692626392e1b26ac37991755dac13b0a3bffd4e57663d86c5201a1.jpeg
 ---
-
-
-
-
-
-
-
-
 
 Made by [[Organizations/Google Labs]],
 

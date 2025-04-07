@@ -13,28 +13,12 @@ og_last_fetch: '2025-03-14T04:43:14.595Z'
 date_modified: 2025-03-24T00:00:00.000Z
 date_created: '2025-03-30T05:44:14.844Z'
 tags:
-- AI-Toolkit
-- Open-Source
-- Speech-To-Text
-- Vertical-Wrappers
+  - AI-Toolkit
+  - Open-Source
+  - Speech-To-Text
+  - Vertical-Wrappers
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/210157921ffcf6f25936545f6000b03989246c5e6f1fdf488eb20bc989b6fe7d.jpeg
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [[AI Powered Transcription]]

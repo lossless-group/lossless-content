@@ -17,18 +17,11 @@ og_last_fetch: 2025-03-14T04:41:33.244Z
 date_modified: 2025-03-24T00:00:00.000Z
 date_created: '2025-03-31T20:44:50.514Z'
 tags:
-- Products
-- Data-APIs
+  - Products
+  - Data-APIs
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/cc76d54415c82e67c1ae5477b670ad9cb9a75371c985a933bb4c7765f2e1935e.jpeg
 ---
-
-
-
-
-
-
-
-
-
 
 ### Google Maps API managing policies. 
 An email update from the Google Maps platform.

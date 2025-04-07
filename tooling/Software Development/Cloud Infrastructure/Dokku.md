@@ -17,9 +17,10 @@ favicon: >-
 og_fetched_url: https://dokku.com/
 og_last_fetch: '2025-03-24T06:28:43.037Z'
 tags:
-- Software-Development
+  - Software-Development
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/75bb69a1be568f39048a0e825adcfebe6c5c9aef72f0ff12c8246e35a4a2a51c.jpeg
 ---
-
 
 [[Vocabulary/Self-Hosting|Self-Host]]---
 
