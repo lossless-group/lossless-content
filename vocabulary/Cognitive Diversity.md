@@ -1,7 +1,14 @@
 ---
 aliases:
   - Divergent Thinking
+date_modified: '2025-04-07'
+site_uuid: 60047552-e2aa-4d9e-a658-b4d192071ea4
+date_created: '2025-04-07T22:42:08.622Z'
 ---
+
+
+
+
 https://youtu.be/MnFTk8mVrs4?si=qVino0QHnse51XVc
 
 
@@ -68,4 +75,4 @@ https://youtu.be/MnFTk8mVrs4?si=qVino0QHnse51XVc
 > [6] Cognitive diversity, creativity and team effectiveness: the mediations ... https://www.researchgate.net/publication/364054188_Cognitive_diversity_creativity_and_team_effectiveness_the_mediations_of_inclusion_and_knowledge_sharing
 > [7] Cognitive Diversity for Creativity and Inclusive Growth https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202415695
 > [8] The Power of Cognitively Diverse Teams - HSI Blue Ocean Brain Blog https://blog.blueoceanbrain.com/blog/the-power-of-cognitively-diverse-teams
-> 
+>

@@ -1,7 +1,11 @@
 ---
-date_created: 2025-03-31
-date_modified: 2025-04-07
+date_created: 2025-03-31T00:00:00.000Z
+date_modified: '2025-04-07'
+site_uuid: 07967c71-9043-45bb-8b40-2d5433aee9ae
 ---
+
+
+
 
 ##### When [[Agentic AI|AI Agents]] use [[RAG]] techniques, it's called [[Agentic RAG]]
 <iframe 
@@ -53,4 +57,3 @@ date_modified: 2025-04-07
 > [7] Build a multi-agent RAG system with Granite locally - IBM Developer https://developer.ibm.com/tutorials/awb-build-agentic-rag-system-granite/
 > [8] RANT: Are we really going with "Agentic RAG" now??? - Reddit https://www.reddit.com/r/Rag/comments/1gqv7ei/rant_are_we_really_going_with_agentic_rag_now/
 > [9] Agentic RAG: What it is, its types, applications and implementation https://www.leewayhertz.com/agentic-rag/
-

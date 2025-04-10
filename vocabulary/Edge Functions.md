@@ -1,3 +1,9 @@
+---
+date_modified: '2025-04-07'
+site_uuid: a5090c98-95e7-43a5-ab57-32c5757b906b
+date_created: '2025-04-07T22:42:08.626Z'
+---
+
 According to [[Poe AI]]:
 
 > [!AI Describes Edge Functions]

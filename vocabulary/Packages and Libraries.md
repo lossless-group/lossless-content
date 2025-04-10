@@ -4,7 +4,11 @@ aliases:
   - Library
   - Packages
   - Libraries
+date_modified: '2025-04-07'
+site_uuid: c64c2e3c-7525-40b0-a6cd-a61726dd6ddd
+date_created: '2025-04-07T22:42:08.637Z'
 ---
+
 [[Packages and Libraries|Packages]] or [[Packages and Libraries|Libraries]] are written in one [[Programming Languages|Programming Language]] for other programmers / developers working in that language. 
 
 > [!NOTE] AI Explains
@@ -76,4 +80,3 @@ aliases:
 > ### **Conclusion**
 > 
 > While libraries and packages are closely related, their distinction lies in scope and purpose. A library is a collection of reusable code modules, whereas a package is a bundled collection that includes libraries and the metadata needed for distribution. Packages simplify dependency management and installation, making them essential for modern software development.
-

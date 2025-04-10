@@ -1,8 +1,12 @@
 ---
-url: 
+url: null
 aliases:
   - Mini-PCs
+date_modified: '2025-04-07'
+site_uuid: 82eefb0b-da81-4c33-9f56-3987b8ec644e
+date_created: '2025-04-07T22:42:08.634Z'
 ---
+
 [[Tooling/Hardware/Minisforum]], [[Organizations/GMKTek]], [[Organizations/MSI]]
 
 https://youtu.be/KGYsVz_8DYI?si=c0DffFRh1NI0uI1F

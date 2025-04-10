@@ -1,3 +1,9 @@
+---
+date_modified: '2025-04-07'
+site_uuid: 5d0cc054-0c24-44fc-8d66-b215fcfd825e
+date_created: '2025-04-07T22:42:08.634Z'
+---
+
 [[Microservices]] are really only possible with the proper use of [[Containers]], and using [[Container Orchestration]] tooling like [[Kubernetes]]. When many [[Microservices]] have been created, senior engineering executives will need to architect a [[Service Mesh]]. 
 
 <iframe style="display:block;position:absolute;top:0;left:0;width:100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/lL_j7ilk7rc?si=MQt72cGS4xcCz5MS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

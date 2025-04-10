@@ -1,3 +1,9 @@
+---
+date_modified: '2025-04-07'
+site_uuid: ae35c935-076d-4cb5-976b-12314e54d5b0
+date_created: '2025-04-07T22:42:08.645Z'
+---
+
 https://youtu.be/W2qtf1NAY1A?si=eqGZ5XfXNKSrv0sQ
 
 [[Organizations/Perplexity AI]] explains [[Spaghetti Code]]

@@ -1,7 +1,11 @@
 ---
 aliases:
   - Markdown Editors
+date_modified: '2025-04-07'
+site_uuid: 3b7128f6-a2c2-4a2b-b641-057551a601bc
+date_created: '2025-04-07T22:42:08.632Z'
 ---
+
 [[Ulysses]], [[Obsidian.md]], [[Typora]], [[Anytype]]
 
 A **Markdown Editor** is a lightweight text editor designed for writing and formatting text using Markdown syntax, a plain-text formatting language that can be converted to HTML or other formats. Markdown editors simplify creating structured documents without requiring complex HTML coding, making them popular for technical writing, documentation, and note-taking[1][5].
@@ -142,4 +146,3 @@ Sources
 [6] Show HN: An open-source, collaborative, WYSIWYG Markdown editor https://news.ycombinator.com/item?id=36446045
 [7] Collaborative Online Markdown Editor, any suggestion? https://writing.stackexchange.com/questions/32369/collaborative-online-markdown-editor-any-suggestion
 [8] Tools - Markdown Guide https://www.markdownguide.org/tools/
-

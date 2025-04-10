@@ -1,6 +1,9 @@
 ---
 aliases:
   - Enabling Technologies
+date_modified: '2025-04-07'
+site_uuid: c4b55689-8cd6-48d9-915d-00c686dc649e
+date_created: '2025-04-07T22:42:08.627Z'
 ---
 
 > [!NOTE] AI Explains

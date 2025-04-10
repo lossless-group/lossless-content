@@ -3,7 +3,13 @@ aliases:
   - Web Browsers
   - Browser
   - Browsers
+date_modified: '2025-04-07'
+site_uuid: c49fdee8-e072-47cb-aa26-3d435008fb39
+date_created: '2025-04-07T22:42:08.650Z'
 ---
+
+
+
 [[Arc Browser 1|Arc]], [[Zen Browser]], [[Chrome 1|Chrome Browser]], [[Opera|Opera Browser]], [[Firefox]]
 
 https://youtu.be/SMQc4umq3gg?si=gJr-4ncsHn0j6OHG
@@ -135,4 +141,3 @@ Sources
 [6] Our favorite hidden features in Arc Search https://arc.net/blog/arc-search-hidden-features
 [7] 7 features that make Brave such a good browser - ZDNet https://www.zdnet.com/home-and-office/work-life/7-features-that-make-brave-such-a-good-browser/
 [8] What specific feature or aspect of ARC do you find most appealing? https://www.reddit.com/r/ArcBrowser/comments/1bodriv/what_specific_feature_or_aspect_of_arc_do_you/
-

@@ -1,9 +1,11 @@
 ---
 wikipedia_url: https://en.wikipedia.org/wiki/Tidyverse
 url: https://www.tidyverse.org/
-date_created: 2025-03-21
-date_modified: 2025-03-21
+date_created: 2025-03-21T00:00:00.000Z
+date_modified: '2025-04-07'
+site_uuid: d314f0fc-6aab-445d-890f-be46bbaef2e7
 ---
+
 A set of packages for the [[R Programming Language]] created by [[Hadley Wickham]].
 
 ## Getting Started in the [[Tidyverse]]

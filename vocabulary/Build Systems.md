@@ -1,7 +1,13 @@
 ---
 aliases:
   - Build System
+date_modified: '2025-04-07'
+site_uuid: baf6152a-bd44-4767-b03a-d121fd0342da
+date_created: '2025-04-07T22:42:08.620Z'
 ---
+
+
+
 
 > [!NOTE] AI Explains [[Build Systems]]
 > 

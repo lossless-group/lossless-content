@@ -1,6 +1,7 @@
 ---
-date_created: 2025-03-14
-date_modified: 2025-03-21
+date_created: 2025-03-14T00:00:00.000Z
+date_modified: '2025-04-07'
+site_uuid: 8c692a5a-e691-4322-94c2-0293158c48df
 ---
 
 https://youtu.be/4a2ESdZSkiU?si=uQRsw9o-3r_fvKoa
@@ -8,4 +9,3 @@ https://youtu.be/4a2ESdZSkiU?si=uQRsw9o-3r_fvKoa
 [[Tooling/AI-Toolkit/Models/Project Starlight]], [[Vocabulary/Small Scale Nuclear|Small Scale Nuclear]]
 
 [[05 - Essays--Drafts/The Quest for Better Batteries|The Quest for Better Batteries]]
-

@@ -1,8 +1,13 @@
 ---
 aliases: Color Manager
-date_created: 2025-02-25
-date_modified: 2025-03-19
+date_created: 2025-02-25T00:00:00.000Z
+date_modified: '2025-04-07'
+site_uuid: fea4cf15-2ea9-4480-b46d-08f413ce497a
 ---
+
+
+
+
 [[Sip (MacOS App)]]
 
 > [!NOTE] AI Explains [[Color Management]]

@@ -1,8 +1,13 @@
 ---
-aliases: [acquiring]
-date_created: 2025-03-30
-date_modified: 2025-04-07
+aliases:
+  - acquiring
+date_created: 2025-03-30T00:00:00.000Z
+date_modified: '2025-04-07'
+site_uuid: e13175e6-3596-48f6-866c-4cdf78d915fc
 ---
+
+
+
 
 According to [[Poe AI]]:
 

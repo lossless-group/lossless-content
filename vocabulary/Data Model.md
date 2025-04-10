@@ -1,6 +1,9 @@
 ---
 aliases:
   - Data Modeling
+date_modified: '2025-04-07'
+site_uuid: a8ad6f79-ffe5-4ead-a7c5-82b3a4cc27f5
+date_created: '2025-04-07T22:42:08.624Z'
 ---
 
 > [!NOTE] AI Explains, ([[Poe AI]])

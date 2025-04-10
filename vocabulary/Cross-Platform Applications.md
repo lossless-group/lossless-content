@@ -1,7 +1,11 @@
 ---
 aliases:
   - Cross-Platform
+date_modified: '2025-04-07'
+site_uuid: 455e1ae1-5ce1-4ec1-aff9-5d760dde2653
+date_created: '2025-04-07T22:42:08.624Z'
 ---
+
 [[Organizations/Perplexity AI]] explains [[Cross-Platform Applications]]
 When people refer to **cross-platform applications**, they mean software designed to run on multiple operating systems or platforms, such as Windows, macOS, Linux, iOS, and Android. This allows users to access the same application seamlessly across different devices and operating systems[1][4][13].
 

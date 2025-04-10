@@ -284,6 +284,17 @@ const toolingTemplate = {
    - Generate periodic reports in markdown format
    - Create a final report on system shutdown
 
+4. **Code Reuse and Shared Functionality**:
+   - Extract common functionality into shared utility modules
+   - Implement a single source of truth for operations used across multiple templates
+   - All templates should use the same shared code for common operations like:
+     - UUID generation
+     - Date handling
+     - File stats retrieval
+     - Tag formatting
+   - Never duplicate functionality across template files
+   - When adding new functionality to one template, ensure it's available to all templates that need it
+
 ## Constraints and Limitations
 
 1. **File System Compatibility**:
@@ -297,6 +308,147 @@ const toolingTemplate = {
 3. **Template Management**:
    - Templates must be manually updated when frontmatter requirements change
    - No automatic detection of new frontmatter patterns
+
+4. **Preventing Infinite Loops**:
+   - The observer must track files currently being processed to prevent infinite loops
+   - Implement async promise-based processing with proper error handling
+
+## CRITICAL: Preventing Infinite Loops
+
+The most critical aspect of the filesystem observer implementation is preventing infinite loops. This is **ABSOLUTELY ESSENTIAL** for proper functioning:
+
+```typescript
+class FileSystemObserver {
+  private processingFiles: Set<string> = new Set(); // Track files currently being processed
+  
+  async onFileChanged(filePath: string): Promise<void> {
+    // Skip if this file is already being processed to prevent infinite loops
+    if (this.processingFiles.has(filePath)) {
+      console.log(`Skipping ${filePath} as it's already being processed (preventing loop)`);
+      return;
+    }
+    
+    try {
+      // Mark file as being processed
+      this.processingFiles.add(filePath);
+      
+      // Process the file...
+      
+    } finally {
+      // CRITICAL: Always remove from processing set when done
+      this.processingFiles.delete(filePath);
+    }
+  }
+}
+```
+
+### Why This Is Critical
+
+1. **Infinite Loop Prevention**: Without this mechanism, the observer will enter an infinite loop because:
+   - Observer detects file change
+   - Observer updates file
+   - Update triggers another file change event
+   - Process repeats indefinitely
+
+2. **Async Promise-Based Processing**: All file processing must use async/await with proper Promise handling to ensure:
+   - Operations complete fully before releasing the file lock
+   - Error handling doesn't prevent cleanup
+   - File state remains consistent
+
+3. **User-Triggered Changes Only**: The observer should ONLY process changes that are actually made by the USER, not changes made by the observer itself.
+
+4. **Resource Protection**: Infinite loops can quickly:
+   - Consume all available CPU
+   - Fill up disk space with logs
+   - Corrupt files with partial updates
+   - Crash the entire application
+
+This is not an optional feature - it is the single most important aspect of the implementation that must be implemented correctly.
+
+## Two-Phase Observer Approach
+
+Another critical implementation detail is using a two-phase approach to prevent observer loops while still ensuring all files are properly processed:
+
+```typescript
+class FileSystemObserver {
+  private initialProcessingComplete: boolean = false;
+  private initialProcessingTimeout: NodeJS.Timeout | null = null;
+  
+  constructor(
+    templateRegistry: TemplateRegistry,
+    reportingService: ReportingService,
+    contentRoot: string,
+    private options: {
+      ignoreInitial?: boolean;
+      processExistingFiles?: boolean;
+      initialProcessingDelay?: number; // Delay in ms before switching to regular observer mode
+    } = {}
+  ) {
+    // Set default options
+    this.options.initialProcessingDelay = this.options.initialProcessingDelay ?? 90000; // Default 90 seconds
+    
+    // Set up initial processing timeout
+    if (this.options.processExistingFiles) {
+      console.log(`Initial processing mode active. Will switch to regular observer mode after ${this.options.initialProcessingDelay / 1000} seconds.`);
+      this.initialProcessingTimeout = setTimeout(() => {
+        console.log('Switching to regular observer mode...');
+        this.initialProcessingComplete = true;
+        
+        // Generate a report after initial processing
+        this.reportingService.generateReport();
+      }, this.options.initialProcessingDelay);
+    }
+  }
+  
+  async onFileChanged(filePath: string): Promise<void> {
+    // Standard loop prevention first
+    if (this.processingFiles.has(filePath)) {
+      return;
+    }
+    
+    // Additional loop prevention for regular observer mode
+    if (this.initialProcessingComplete) {
+      // Check if this is a file we just updated
+      const lastModified = (await fs.stat(filePath)).mtime.getTime();
+      const currentTime = Date.now();
+      const timeSinceModification = currentTime - lastModified;
+      
+      // If the file was modified very recently (within 5 seconds) and we're in regular observer mode,
+      // it's likely our own update, so skip it
+      if (timeSinceModification < 5000) {
+        console.log(`Skipping recently modified file ${filePath} to prevent observer loop (modified ${timeSinceModification}ms ago)`);
+        return;
+      }
+    }
+    
+    // Process the file...
+  }
+}
+```
+
+### Why This Approach Is Essential
+
+1. **Initial Processing Phase**:
+   - Processes all existing files once at startup
+   - Runs for a fixed duration (90 seconds by default)
+   - Generates a comprehensive report after completion
+
+2. **Regular Observer Phase**:
+   - Automatically activates after the initial processing phase
+   - Only processes files that were genuinely modified by users
+   - Includes a smart detection system to ignore self-triggered changes
+
+3. **Benefits**:
+   - Ensures all files are processed once during startup
+   - Automatically transitions to a stable monitoring mode
+   - Self-triggered changes don't cause infinite processing loops
+   - Provides clear logging about which phase the observer is in
+
+4. **Configuration Options**:
+   - `initialProcessingDelay`: Adjustable based on content directory size (default: 90 seconds)
+   - `processExistingFiles`: Can be disabled if only new changes should be processed
+
+This two-phase approach complements the processingFiles tracking mechanism and provides an additional layer of protection against observer loops.
 
 ## Next Steps
 

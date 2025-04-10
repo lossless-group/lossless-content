@@ -1,7 +1,11 @@
 ---
 aliases:
   - Documentation First
+date_modified: '2025-04-07'
+site_uuid: 8eb20d11-8750-47e2-99ae-d47e66d4fc9e
+date_created: '2025-04-07T22:42:08.626Z'
 ---
+
 The role of [[Documentation]] in becoming a [[State of the Art]] technology platform is becoming more and more central.  
 
 Here's an example of [[Organizations/Microsoft]]'s [[ASP.NET]] [[Documentation]]:

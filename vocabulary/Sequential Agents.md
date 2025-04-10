@@ -1,3 +1,9 @@
+---
+date_modified: '2025-04-07'
+site_uuid: 565407d7-ea14-47fc-a849-8efdffafccc2
+date_created: '2025-04-07T22:42:08.643Z'
+---
+
 Examples include [[Flowise]], [[n8n]], [[Crew AI]]. 
 
 > [!AI describes sequential agents]

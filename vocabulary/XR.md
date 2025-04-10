@@ -1,9 +1,13 @@
 ---
 aliases:
   - Extented-Reality
-date_created: 2025-03-09
-date_modified: 2025-03-21
+date_created: 2025-03-09T00:00:00.000Z
+date_modified: '2025-04-07'
+site_uuid: aff53a75-4cab-43b3-80fc-7ebaca08db7f
 ---
+
+
+
 [[Oculus]]
 [[Tooling/Hardware/BigscreenVR|BigscreenVR]]
 

@@ -1,3 +1,9 @@
+---
+date_modified: '2025-04-07'
+site_uuid: 1d053ddb-e4b8-4df7-b0cd-68ccad6822b8
+date_created: '2025-04-07T22:42:08.636Z'
+---
+
 [[Tigris]]
 > [!NOTE] AI Explains
 > ### **The Concept of Object Storage**

@@ -3,8 +3,10 @@ aliases:
   - LLM
   - LLMs
   - Large Language Model
+date_modified: '2025-04-07'
+site_uuid: 047ada1f-c96c-40f8-91c9-014b4cddcec3
+date_created: '2025-04-07T22:42:08.631Z'
 ---
-
 
 Include [[OpenAI]]. 
 
@@ -37,7 +39,7 @@ LLMs are trained on massive data, yet there is a certain "cut-off" point:
   allowfullscreen
 ></iframe>
 >  
-[^1] 2024, November 20. [Large Language Models explained briefly](https://youtu.be/LPZh9BOjkQs?si=s246uflycEEQNNyv). 3Blue1Brown.
+[^1c3390] 2024, November 20. [Large Language Models explained briefly](https://youtu.be/LPZh9BOjkQs?si=s246uflycEEQNNyv). 3Blue1Brown.
 
 
 <iframe 
@@ -50,8 +52,8 @@ LLMs are trained on massive data, yet there is a certain "cut-off" point:
   allowfullscreen
 ></iframe>
 >  
-[^117486] 2024, April 1. [Transformers (how LLMs work) explained visually | DL5](https://youtu.be/wjZofJX0v4M?si=yPc-sl9j6Wp5V7RB)
+[^6807ec] 2024, April 1. [Transformers (how LLMs work) explained visually | DL5](https://youtu.be/wjZofJX0v4M?si=yPc-sl9j6Wp5V7RB)
 
 # Footnotes
 ***
-[^117486]: 2024, April 1. [Transformers (how LLMs work) explained visually | DL5](https://youtu.be/wjZofJX0v4M?si=yPc-sl9j6Wp5V7RB)
+[^6807ec]: 2024, April 1. [Transformers (how LLMs work) explained visually | DL5](https://youtu.be/wjZofJX0v4M?si=yPc-sl9j6Wp5V7RB)

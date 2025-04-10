@@ -1,3 +1,8 @@
+---
+date_modified: '2025-04-07'
+site_uuid: 30874d0a-25d7-4fd4-8214-905d754f5a86
+date_created: '2025-04-07T22:42:08.628Z'
+---
 
 A class or type of [[Artificial Intelligence|AI]]
 

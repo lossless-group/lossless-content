@@ -1,8 +1,13 @@
 ---
 url: https://bradfrost.com/blog/post/atomic-web-design/
-date_created: 2025-03-31
-date_modified: 2025-04-07
+date_created: 2025-03-31T00:00:00.000Z
+date_modified: '2025-04-07'
+site_uuid: 88aac9b3-3ee5-41fa-bf64-2f98247eb9d9
 ---
+
+
+
+
 [[Sources/Books/Atomic Design|Atomic Design]]
 An important guiding idea leading to the industry practice of creating [[Design Systems]], and is mirrored in software development by the rise of [[Component-Based Software Architecture]]
 

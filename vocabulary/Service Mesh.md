@@ -1,6 +1,12 @@
+---
+date_modified: '2025-04-07'
+site_uuid: d7faf481-347e-4295-9b1d-a03894232483
+date_created: '2025-04-07T22:42:08.644Z'
+---
+
 A [[Service Mesh]] is an umbrella layer around [[Microservices]] 
 
-![[Screenshot 2025-01-25 at 12.32.18 PM_Service-Mesh--Figure.png]] [^1]
+![[Screenshot 2025-01-25 at 12.32.18 PM_Service-Mesh--Figure.png]] [^ebab16]
 
 According to [[Poe AI]],
 
@@ -19,4 +25,4 @@ According to [[Poe AI]],
 
 # Footnotes
 ***
-[^1]: 2024, Mar 10. [Is Service Mesh a MUST-HAVE for your Microservices?](https://youtu.be/I7okWVmxOo8?si=kgY0LSnh4jUFLZGv) [[Software Developer Diaries]], [[YouTube]]. 
+[^ebab16]: 2024, Mar 10. [Is Service Mesh a MUST-HAVE for your Microservices?](https://youtu.be/I7okWVmxOo8?si=kgY0LSnh4jUFLZGv) [[Software Developer Diaries]], [[YouTube]].
