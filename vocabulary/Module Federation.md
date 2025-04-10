@@ -1,3 +1,9 @@
+---
+date_modified: '2025-04-07'
+site_uuid: 079858df-0339-4d65-8cdd-d37f12e51d74
+date_created: '2025-04-07T22:42:08.634Z'
+---
+
 [[Vite Federation Plugin]]
 
 https://youtu.be/aFhysuTUoQY?si=tJkHWW4PmlKF7GZM

@@ -1,3 +1,8 @@
+---
+date_modified: '2025-04-07'
+site_uuid: 3c0f495b-2a60-4960-a7a2-be6cb0ffe974
+date_created: '2025-04-07T22:42:08.635Z'
+---
 
 ## How Software Projects Fail
 [10 Signs your Software Project is headed for failure](https://youtu.be/-6KHhwEMtqs?si=NyXGj02y64BsWROp)

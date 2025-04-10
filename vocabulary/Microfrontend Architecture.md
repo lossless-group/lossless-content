@@ -2,7 +2,11 @@
 aliases:
   - Microfrontends
   - Microfrontend
+date_modified: '2025-04-07'
+site_uuid: 05ddc181-6cf4-49d6-995a-7daa19683ca1
+date_created: '2025-04-07T22:42:08.634Z'
 ---
+
 [[Module Federation]]
 
 https://youtu.be/lKKsjpH09dU?si=O6u5c4mVf3Ns74qs

@@ -1,3 +1,8 @@
+---
+date_modified: '2025-04-07'
+site_uuid: dc330a8e-f58a-49f2-be11-27d5fa6ea446
+date_created: '2025-04-07T22:42:08.643Z'
+---
 
 https://youtu.be/iF-npWXuKCQ?si=-PWpvF41fsTXowTy
 [[Organizations/Perplexity AI]] explains [[Semantic Caching]]

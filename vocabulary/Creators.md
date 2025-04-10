@@ -1,3 +1,9 @@
+---
+date_modified: '2025-04-07'
+site_uuid: 1a7a1538-19e8-4366-a12b-6f1ee85f93ef
+date_created: '2025-04-07T22:42:08.624Z'
+---
+
 According to [[Poe AI]]:
 
 > [!AI explains creators]

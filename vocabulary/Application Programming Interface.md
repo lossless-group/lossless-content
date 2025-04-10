@@ -1,9 +1,18 @@
 ---
-tags: [Technology-Trends, State-of-The-Art-Practices]
-aliases: [API, APIs]
-date_created: 2025-03-30
-date_modified: 2025-04-07
+aliases:
+  - API
+  - APIs
+date_created: 2025-03-30T00:00:00.000Z
+date_modified: '2025-04-07'
+site_uuid: c66d84c0-6a37-4e96-8cd4-669ad0e33648
+tags:
+  - Technology-Trends
+  - State-Of-The-Art-Practices
 ---
+
+
+
+
 https://youtu.be/GhX8sNyFo5w?si=1W1wwzboV-pd428m
 
 https://youtu.be/ByGJQzlzxQg?si=gTJrP0rjOGffV1U_

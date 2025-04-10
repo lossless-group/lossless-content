@@ -1,15 +1,17 @@
 ---
-tags:
-  - Text-User-Interfaces
-date_created: 2025-03-21
-date_modified: 2025-03-21
+date_created: 2025-03-21T00:00:00.000Z
+date_modified: '2025-04-07'
 covers_tags:
   - Text-User-Interfaces
 aliases:
   - Text UI
   - Console User Interfaces
   - Console UI
+site_uuid: 9658700f-1026-4f85-8a3f-92e17f6f7699
+tags:
+- Text-User-Interfaces
 ---
+
 Related to [[Vocabulary/Command-Line Interfaces|Command-Line Interface]]
 
 > [!LLM Response] [[Organizations/Perplexity AI|Perplexity AI]] explains [[Vocabulary/Text User Interfaces]]

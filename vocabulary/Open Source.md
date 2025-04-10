@@ -1,3 +1,9 @@
+---
+date_modified: '2025-04-07'
+site_uuid: 0c236a77-b379-47f7-8257-31e8ba6bf176
+date_created: '2025-04-07T22:42:08.636Z'
+---
+
 [[Self-Hosting]]
 
 https://youtu.be/vpiiqbpdkNk?si=WFDb35NBMOkeXuwJ
@@ -10,4 +16,4 @@ https://youtu.be/vzYqxo13I1U?si=XI1WD3itutRReuNI
 
 2022, May 13. ["The Economics of Open Source"](https://medium.com/gaia-voice/the-economics-of-open-source-f6b11d4aa643). Kyle O'Brien. [[Medium]].
 
-2021, Nov. ["State of the OpenCloud 2021"](https://www.scribd.com/document/536774580/Battery-Ventures-OpenCloud-Report-2021#fullscreen&from_embed). Scribd. Battery Ventures. 
+2021, Nov. ["State of the OpenCloud 2021"](https://www.scribd.com/document/536774580/Battery-Ventures-OpenCloud-Report-2021#fullscreen&from_embed). Scribd. Battery Ventures.

@@ -1,7 +1,11 @@
 ---
 aliases:
   - Data Pipeline
+date_modified: '2025-04-07'
+site_uuid: 0a909eaf-122f-4924-a8fc-e169ef108aef
+date_created: '2025-04-07T22:42:08.625Z'
 ---
+
 https://youtu.be/9lBTS5dM27c?si=ntl2_3eWmaWxSICJ
 
 2025, February 10. [Show, don't tell - Building Data Pipelines with AI](http://localhost:5173/). Hopsworks.

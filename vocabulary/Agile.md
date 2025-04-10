@@ -1,7 +1,11 @@
 ---
-date_created: 2025-03-29
-date_modified: 2025-04-07
+date_created: 2025-03-29T00:00:00.000Z
+date_modified: '2025-04-07'
+site_uuid: 7b615412-bbfe-4a5c-a0e7-a883e5d15466
 ---
+
+
+
 
 https://youtu.be/w5Wr3j4h_1I?si=MkvjqMt3xPbBZjUL
 
@@ -168,4 +172,3 @@ A backlink to [[vocabulary/Affinity Network]]
 
 ---
  Answer from Perplexity: pplx.ai/share
-

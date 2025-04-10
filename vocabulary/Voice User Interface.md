@@ -1,3 +1,11 @@
+---
+date_modified: '2025-04-07'
+site_uuid: 8bda9d6c-fe95-475f-9ef7-e263c8644709
+date_created: '2025-04-07T22:42:08.650Z'
+---
+
+
+
 https://youtu.be/ytomieYqUCQ?si=cyv-8tVJf1i9mntY
 
 [[Organizations/Perplexity AI]] explains a [[Voice User Interface]]

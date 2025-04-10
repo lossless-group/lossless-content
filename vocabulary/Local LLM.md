@@ -1,7 +1,11 @@
 ---
 aliases:
   - Local LLMs
+date_modified: '2025-04-07'
+site_uuid: cbb77b02-3f87-411e-90eb-f88da9824ef8
+date_created: '2025-04-07T22:42:08.632Z'
 ---
+
 [[OLlama]]
 
 https://youtube.com/shorts/czdSVWT1u3M?si=cGeeXcqhn8xFLEf0

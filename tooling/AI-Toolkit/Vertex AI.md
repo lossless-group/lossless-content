@@ -11,8 +11,7 @@ jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:19:01.840Z
 date_modified: 2025-04-07
 date_created: 2025-03-31
-tags:
-  - AI-Toolkit
+tags: [AI-Toolkit]
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/4da933ce6395c6c85630fc7328079974e5476e31f28fbd4bc43681db8f29ea9b.jpeg
 ---
 

@@ -1,3 +1,10 @@
+---
+date_modified: '2025-04-07'
+site_uuid: 73c7d22c-53e1-41d1-8ee9-7db4825c1eb1
+date_created: '2025-04-07T22:42:08.622Z'
+---
+
+
 
 
 Here are excerpts from interview with Keyvan Vakili of London Business School:
@@ -8,8 +15,8 @@ Here are excerpts from interview with Keyvan Vakili of London Business School:
 >
 >"...because of the difficulty in uncoupling individual input from collective output, it can skew the real value of an employee’s contribution to a project, making it virtually impossible to assess its worth accurately.
 >
->"...the rewards associated with collaboration are potentially so great that people are increasingly motivated to sign up to projects, regardless of how much value they can actually bring. And that can impact outcomes, as well as return on investment.[^1]
+>"...the rewards associated with collaboration are potentially so great that people are increasingly motivated to sign up to projects, regardless of how much value they can actually bring. And that can impact outcomes, as well as return on investment.[^e4fbbf]
 
 # Footnote
 ***
-[^1]: 2021, Jul. [Is there a hidden cost to collaboration?](https://www.london.edu/think/is-there-a-hidden-cost-to-collaboration) London Business School. 
+[^e4fbbf]: 2021, Jul. [Is there a hidden cost to collaboration?](https://www.london.edu/think/is-there-a-hidden-cost-to-collaboration) London Business School.

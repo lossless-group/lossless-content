@@ -1,6 +1,9 @@
 ---
 aliases:
   - Standards Organization
+date_modified: '2025-04-07'
+site_uuid: d887b7c0-2815-47c6-a8e7-79c2f604faa3
+date_created: '2025-04-07T22:42:08.646Z'
 ---
 
 [[Organizations/International Color Consortium]]

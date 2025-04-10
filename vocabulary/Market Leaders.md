@@ -1,5 +1,8 @@
 ---
 url: Market Leader
+date_modified: '2025-04-07'
+site_uuid: 30247236-3d76-4eba-928b-d34a92b24e93
+date_created: '2025-04-07T22:42:08.633Z'
 ---
 
 > [!NOTE] AI Explains ([[Poe AI]])

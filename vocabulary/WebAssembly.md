@@ -1,7 +1,13 @@
 ---
 aliases:
   - WASM
+date_modified: '2025-04-07'
+site_uuid: b807001a-8207-463a-8ecd-c51c2c3ed4c0
+date_created: '2025-04-07T22:42:08.651Z'
 ---
+
+
+
 A [[Web Standards|Web Standard]]
 
 https://youtu.be/4ZSBlO3mqq0?si=eoNsKHzCRnzEUTQB
