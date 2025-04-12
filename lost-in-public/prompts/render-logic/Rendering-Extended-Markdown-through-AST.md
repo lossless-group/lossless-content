@@ -1,27 +1,27 @@
 ---
-title: 'Rendering Extended Markdown through AST'
-lede: 'An alternative approach to rendering callouts and citations by working directly with the AST nodes'
-date_authored_initial_draft: 2025-04-02
-date_authored_current_draft: 2025-04-06
+title: Rendering Extended Markdown through AST
+lede: An alternative approach to rendering callouts and citations by working directly with the AST nodes
+date_authored_initial_draft: 2025-04-01
+date_authored_current_draft: 2025-04-05
 date_authored_final_draft: null
 date_first_published: null
-date_last_updated: 2025-04-06
-at_semantic_version: '0.0.0.2'
-authors: 
-- Michael Staton
+date_last_updated: 2025-04-05
+at_semantic_version: 0.0.0.2
 status: To-Do
-augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
+date_created: 2025-04-01
+date_modified: 2025-04-12
 tags:
-- Render-Logic
-- Remark
-- Astro
-- Build-Scripts
-- Extended-Markdown
-- AST
-- Citations
-date_created: 2025-04-02
-date_modified: 2025-04-06
+  - Render-Logic
+  - Remark
+  - Astro
+  - Build-Scripts
+  - Extended-Markdown
+  - AST
+  - Citations
+authors:
+  - Michael Staton
 ---
 
 # Unfinished Work

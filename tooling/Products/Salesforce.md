@@ -31,6 +31,7 @@ tags:
 
 
 
+
 ## Modular Upsells
 
 [[Salesforce]] is both a "modular" and a "seat-based" solution, and it is priced the same. So there is always something pretty cool or even slightly crucial they Salesforce will want to upsell customers. The more functionality you add, and the more people have seats to Salesforce, the more Laerdal gets billed.  Trying to keep Salesforce costs down is a whole endeavor. This is how they create [[Lock In]].   ^bec3e9

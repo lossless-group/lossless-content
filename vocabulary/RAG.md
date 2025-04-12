@@ -1,8 +1,8 @@
 ---
-expanded-acronym: Retrieval Augmented Generation
-date_modified: 2025-04-07
+expanded_acronym: Retrieval Augmented Generation
+date_modified: 2025-04-12
 site_uuid: 507a8818-d11a-43c4-85e0-1e4b1acf0c3d
-date_created: 2025-04-07
+date_created: 2025-04-05
 ---
 
 [Building Production-Ready RAG Applications: Jerry Liu](https://youtu.be/TRjq7t2Ms5I?si=k7m-SZR8UKG8ExaM)

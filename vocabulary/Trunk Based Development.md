@@ -1,7 +1,7 @@
 ---
 url: "https://trunkbaseddevelopment.com/"
-date_created: 2025-03-19
-date_modified: 2025-04-07
+date_created: 2025-03-18
+date_modified: 2025-04-12
 site_uuid: 36fd1454-1120-46f5-be5a-9b4d3402eb5c
 ---
 

@@ -1,7 +1,7 @@
 ---
 wikipedia_url: "https://en.wikipedia.org/wiki/Affinity_group"
-date_created: 2024-10-21
-date_modified: 2025-04-07
+date_created: 2024-10-20
+date_modified: 2025-04-12
 site_uuid: b4cb2e41-604d-4619-8b27-6d138982d612
 aliases:
   - Affinity Group

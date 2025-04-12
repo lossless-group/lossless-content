@@ -269,4 +269,34 @@ tags:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Example of [[Predictable Revenue]], [[Persuasive Technology]].

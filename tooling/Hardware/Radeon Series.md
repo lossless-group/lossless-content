@@ -39,6 +39,7 @@ og_last_fetch: '2025-04-07T17:39:59.576Z'
 
 
 
+
 https://youtu.be/W9qwQzfLN0k?si=Bme8OkgImyzkqo1p
 
 [[Vocabulary/Graphics Processing Units|GPU]]

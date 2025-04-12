@@ -1,7 +1,7 @@
 ---
-date_modified: 2025-04-07
+date_modified: 2025-04-12
 site_uuid: 79b226c9-aaab-4b26-af05-d49c123acf39
-date_created: 2025-04-07
+date_created: 2025-04-06
 aliases:
   - GPU Architecture
   - GPU

@@ -1,7 +1,7 @@
 ---
-date_modified: 2025-04-07
+date_modified: 2025-04-12
 site_uuid: 60047552-e2aa-4d9e-a658-b4d192071ea4
-date_created: 2025-04-07
+date_created: 2025-04-06
 aliases:
   - Divergent Thinking
 ---

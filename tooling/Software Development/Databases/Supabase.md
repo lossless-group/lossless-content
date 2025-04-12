@@ -22,6 +22,37 @@ og_screenshot_url: >-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Supabase is actually built on the [[Open Source]] [[Databases|Database]] [[Postgres]].
 
 https://youtu.be/cmF64GU5RZY?si=SD3aZn1Dx7qXSbHA

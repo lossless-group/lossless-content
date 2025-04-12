@@ -30,6 +30,7 @@ tags:
 
 
 
+
 A [[JavaScript]] based [[Web Frameworks|Web Framework]] created and maintained by [[Organizations/Google]].
 
 [[Angular]] is more of a competitor to [[Vue.js]] and [[DotNET]].

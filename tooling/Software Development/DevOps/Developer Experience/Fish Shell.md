@@ -17,6 +17,7 @@ og_screenshot_url: >-
 
 
 
+
 [[Rust]]
 
 https://fishshell.com/blog/rustport/

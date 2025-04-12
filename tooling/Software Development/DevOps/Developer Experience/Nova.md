@@ -29,5 +29,6 @@ tags:
 
 
 
+
 A [[Text Editors or IDEs|Text Editor]] designed for [[Organizations/Apple]] devices. Great for [[Git Diffs]]
 

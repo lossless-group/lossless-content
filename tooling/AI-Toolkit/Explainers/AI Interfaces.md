@@ -37,6 +37,36 @@ tags:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [[OpenRouter]]
 
 https://youtu.be/DBhSfROq3wU?si=rKFss-5zwV4KZlRL

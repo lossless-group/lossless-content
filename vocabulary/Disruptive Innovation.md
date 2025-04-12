@@ -1,7 +1,7 @@
 ---
-date_modified: 2025-04-07
+date_modified: 2025-04-12
 site_uuid: f4d3f9e5-7159-457d-8c48-7aae8debdd25
-date_created: 2025-04-07
+date_created: 2025-04-06
 ---
 
 Disruptive Innovation, as a vocabulary word, is misunderstood and misinformation is propagated.  Even by the creator of the term.

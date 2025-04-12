@@ -25,6 +25,7 @@ tags:
 
 
 
+
 [[Computer-Generated Imagery|CGI]] for mathematical concepts. [[3D Graphics]].  [[Video Generator]]. [[VFX|Visual Effects]]
 
 https://github.com/3b1b/manim

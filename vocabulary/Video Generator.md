@@ -1,7 +1,7 @@
 ---
-date_modified: 2025-04-07
+date_modified: 2025-04-12
 site_uuid: 658f5efe-a754-4404-a0f2-127c83cfa19c
-date_created: 2025-04-07
+date_created: 2025-04-06
 aliases:
   - Video Generators
   - Video Generation

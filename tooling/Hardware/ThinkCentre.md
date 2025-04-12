@@ -40,6 +40,7 @@ og_screenshot_url: >-
 
 
 
+
 [[Vocabulary/Mini Desktops|Mini-PCs]]
 
 [[Organizations/Lenovo]]

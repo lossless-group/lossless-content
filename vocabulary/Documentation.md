@@ -1,7 +1,7 @@
 ---
-date_modified: 2025-04-07
+date_modified: 2025-04-12
 site_uuid: 6e808c96-43b6-4231-abde-9c47aeac5c44
-date_created: 2025-04-07
+date_created: 2025-04-06
 ---
 
 [[Paligo]] is part of the [[Current Stack|Laerdal Stack]].

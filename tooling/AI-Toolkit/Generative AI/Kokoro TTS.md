@@ -44,3 +44,33 @@ zinger: Advanced AI Text-to-Speech Model with 82M parameters
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,8 +1,8 @@
 ---
-wikipedia-url: "https://en.wikipedia.org/wiki/Neural_network_(machine_learning)"
-date_modified: 2025-04-07
+wikipedia_url: "https://en.wikipedia.org/wiki/Neural_network_(machine_learning)"
+date_modified: 2025-04-12
 site_uuid: cba5253c-deda-40c1-948d-f4e5ef8f52a2
-date_created: 2025-04-07
+date_created: 2025-04-05
 ---
 
 The Computer Science technique used to train [[AI Models]], later called [[Machine Learning]]

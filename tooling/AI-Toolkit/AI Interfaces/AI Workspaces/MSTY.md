@@ -48,6 +48,36 @@ og_screenshot_url: >-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [[MSTY]] installs LLM [[AI Models]] that [[Local LLM|run local]] deep in your filesystem:
 `/home/[user]/.config/Msty/models`
 

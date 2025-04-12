@@ -336,6 +336,36 @@ tags:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [[Workflow Automations]], [[Open Source]].
 
 2024, Nov 05. [CANCEL Make.com, n8n & Zapier?!?🤖 FREE Kestra Coolify Self Hosted Open Source Workflow](https://youtu.be/z3EZ_UEBGNc?si=5LCivJV2VaMUyuXh) on [[YouTube]].

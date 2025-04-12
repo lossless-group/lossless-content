@@ -29,4 +29,35 @@ tags:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 A rethink of how [[Databases]] work. Used for [[Big Data]]

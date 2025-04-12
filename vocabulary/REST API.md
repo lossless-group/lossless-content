@@ -1,8 +1,8 @@
 ---
-expanded-acronym: Representational State Transfer
-date_modified: 2025-04-07
+expanded_acronym: Representational State Transfer
+date_modified: 2025-04-12
 site_uuid: 485c512a-e7d0-4dc0-9afc-ab333d5b53d8
-date_created: 2025-04-07
+date_created: 2025-04-05
 aliases:
   - REST APIs
 ---

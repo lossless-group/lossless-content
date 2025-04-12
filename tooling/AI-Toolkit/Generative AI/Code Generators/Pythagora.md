@@ -50,6 +50,36 @@ og_screenshot_url: >-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 https://youtube.com/shorts/_9SCg4aIFB0?si=CBxq1RYwhm1XfKK0
 
 [[Code Generators]]

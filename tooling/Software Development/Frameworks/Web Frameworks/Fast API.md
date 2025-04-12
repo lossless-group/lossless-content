@@ -30,6 +30,7 @@ tags:
 
 
 
+
 A light, stable [[Web Frameworks|Web Framework]] in [[Python]] designed to get developers up and running with an [[Application Programming Interface|API]].
 
 https://youtube.com/shorts/Z1XHeMgpg8A?si=7uQXcdKGVIqr1IT7

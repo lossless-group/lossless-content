@@ -32,5 +32,6 @@ tags:
 
 
 
+
 A tool for [[Business Intelligence]]
 

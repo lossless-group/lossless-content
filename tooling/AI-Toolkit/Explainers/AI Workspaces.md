@@ -38,6 +38,36 @@ tags:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [[Multitask AI]]
 
 https://youtu.be/QGtkaDWJZlA?si=Uh4bqntSo96hF5Q4

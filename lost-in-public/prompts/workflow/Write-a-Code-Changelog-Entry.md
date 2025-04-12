@@ -1,24 +1,24 @@
 ---
-title: 'Write a Code Changelog Entry'
-lede: 'Create structured and informative changelog entries for code changes'
-date_authored_initial_draft: 2025-03-18
-date_authored_current_draft: 2025-04-07
+title: Write a Code Changelog Entry
+lede: Create structured and informative changelog entries for code changes
+date_authored_initial_draft: 2025-03-17
+date_authored_current_draft: 2025-04-06
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: '0.0.1.0'
-authors: 
-- Michael Staton # use array list syntax even when there is only one author.
+at_semantic_version: 0.0.1.0
 status: To-Do
-augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet' # Note the model you are using. 
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
+date_created: 2025-03-22
+date_modified: 2025-04-12
 tags:
-- Changelog
-- Documentation
-- Version-Control # tags must be bare, always be in Train-Case, and be in an array list syntax
-- Code-Changes
-date_created: 2025-03-23
-date_modified: 2025-04-07
+  - Changelog
+  - Documentation
+  - Version-Control
+  - Code-Changes
+authors:
+  - Michael Staton
 ---
 
 > Option Set for 'Changelog Type':
@@ -156,4 +156,4 @@ Brief explanation of why the changes are important, how they can be impactful, a
 Example entries can be found in the 
 `content/changelog--code` directory.  
 
-Assume that the most recent entries are the best examples.  
+Assume that the most recent entries are the best examples.

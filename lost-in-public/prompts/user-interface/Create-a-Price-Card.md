@@ -1,26 +1,27 @@
 ---
-title: 'Create a Price Card'
-lede: 'Design and implement a responsive pricing card component with modern styling'
-date_authored_initial_draft: 2025-03-18
-date_authored_current_draft: 2025-03-18
+title: Create a Price Card
+lede: Design and implement a responsive pricing card component with modern styling
+date_authored_initial_draft: 2025-03-17
+date_authored_current_draft: 2025-03-17
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: '0.0.0.1'
-authors: 
-- Michael Staton
+at_semantic_version: 0.0.0.1
 status: To-Prompt
-augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
+date_created: 2025-03-17
+date_modified: 2025-04-12
 tags:
-- User-Interface
-- UI-Elements
-- Pricing-Components
-- CSS
-- Responsive-Design
-date_created: 2025-03-18
-date_modified: 2025-04-11
+  - User-Interface
+  - UI-Elements
+  - Pricing-Components
+  - CSS
+  - Responsive-Design
+authors:
+  - Michael Staton
 ---
+
 # Inspiration Set
 A [[Pricing Card]] from [[GNews]] found at https://gnews.io/#pricing
 ```css

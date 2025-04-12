@@ -23,4 +23,5 @@ date_modified: '2025-04-12'
 
 
 
+
 An [[Vocabulary/Opinionated|Opinionated]] flavor of [[Organizations/The Linux Foundation|Linux]] by [[Sources/People/David Heinemeier Hanson|David Heinemeier Hanson]]

@@ -1,25 +1,25 @@
 ---
-title: 'Frontmatter consistency through filesystem observer'
-lede: 'Leverage Node.js filesystem APIs to monitor content directories, automatically validate and update frontmatter based on templates'
-date_authored_initial_draft: 2025-03-30
-date_authored_current_draft: 2025-04-07
+title: Frontmatter consistency through filesystem observer
+lede: "Leverage Node.js filesystem APIs to monitor content directories, automatically validate and update frontmatter based on templates"
+date_authored_initial_draft: 2025-03-29
+date_authored_current_draft: 2025-04-06
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: '0.1.0.0'
-authors: 
-- Michael Staton
+at_semantic_version: 0.1.0.0
 status: Implemented
-augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
+date_created: 2025-03-22
+date_modified: 2025-04-12
 tags:
-- Frontmatter-Validation
-- File-Processing
-- Build-Scripts
-- File-Systems
-- Data-Integrity
-date_created: 2025-03-23
-date_modified: 2025-04-07
+  - Frontmatter-Validation
+  - File-Processing
+  - Build-Scripts
+  - File-Systems
+  - Data-Integrity
+authors:
+  - Michael Staton
 ---
 
 ## Objective

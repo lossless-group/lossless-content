@@ -29,6 +29,37 @@ og_screenshot_url: >-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Good for [[Vocabulary/Static Site Generators]]
 
 https: '//youtu.be/v79VRrfVau8?si=UOO_lc8K27lSk5f7'

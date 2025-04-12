@@ -54,6 +54,36 @@ tags:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Supports [[Tooling/AI-Toolkit/Models/LocalAI.io]]
 [[Terminal Emulators|Terminal Emulator]]
 [[Code Generators]]

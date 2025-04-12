@@ -1,7 +1,7 @@
 ---
-date_modified: 2025-04-07
+date_modified: 2025-04-12
 site_uuid: 565407d7-ea14-47fc-a849-8efdffafccc2
-date_created: 2025-04-07
+date_created: 2025-04-06
 ---
 
 Examples include [[Flowise]], [[n8n]], [[Crew AI]]. 

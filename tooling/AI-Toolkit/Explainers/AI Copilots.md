@@ -40,6 +40,36 @@ tags:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 A feature within any kind of software that provides assistance using [[Generative AI]].
 
 ![[Airtable#Airtable Copilot]]

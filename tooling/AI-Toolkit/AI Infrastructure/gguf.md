@@ -37,6 +37,36 @@ tags:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 https://huggingface.co/docs/hub/en/gguf
 
 A [[Data Standard]] for [[AI Models]]

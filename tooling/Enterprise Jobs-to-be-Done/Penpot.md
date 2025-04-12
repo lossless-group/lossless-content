@@ -30,5 +30,36 @@ tags:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Open source alternative to [[Miro]], [[FigJam]],
 https://youtu.be/U6FgW9sF8Cc?si=SbKpG5cXMQ3iET4Y

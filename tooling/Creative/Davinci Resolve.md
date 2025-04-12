@@ -22,6 +22,7 @@ tags:
 
 
 
+
 ---
 site_uuid: 61bf7861-881a-4005-84b6-806b6a5134e0
 url: https://www.blackmagicdesign.com/products/davinciresolve
