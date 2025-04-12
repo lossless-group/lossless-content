@@ -3,7 +3,8 @@ title: 'Fix one YAML Issue at a Time'
 lede: 'Systematic approach to cleaning URL properties in YAML frontmatter'
 date_authored_initial_draft: 2025-03-19
 date_authored_current_draft: 2025-03-19
-authors: Michael Staton
+authors: 
+- Michael Staton
 status: Draft
 category: Build-Scripts
 tags:
