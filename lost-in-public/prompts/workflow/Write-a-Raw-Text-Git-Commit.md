@@ -7,7 +7,8 @@ date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
 at_semantic_version: '0.0.0.1'
-authors: Michael Staton
+authors: 
+- Michael Staton
 status: To-Do
 augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
 category: Prompts
@@ -22,6 +23,8 @@ tags:
 - Continuous-Integration
 - Collaboration-Tooling
 - Collaborative-Workflow
+date_created: 2025-03-09
+date_modified: 2025-03-18
 ---
 
 # Goals
@@ -294,14 +297,6 @@ specs-changes:
 specs-updates:
 specs-ready:
 specs-moved:
-
-tools-new:
-tools-changes:
-tools-updates:
-tools-ready:
-tools-moved:
-
-##### All other directories have one scope:
 
 tools-new:
 tools-changes:
