@@ -1,5 +1,8 @@
 ---
-expanded-acronym: Knowledge Augmented Generation
+expanded_acronym: Knowledge Augmented Generation
+date_modified: 2025-04-12
+site_uuid: 58565b35-2415-4e24-ac2b-f60491601db3
+date_created: 2025-04-05
 aliases:
   - KAG
 ---

@@ -5,17 +5,29 @@ image: https://ghostty.org/social-share-card.jpg
 site_name: Ghostty
 title: Ghostty
 favicon: https://ghostty.org/favicon-32.png
-tags:
-- DevOps
-- Developer-Experience
-- Software-Development
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/d92a20acd486acdbe6a150ad75bd9948e99e11d308d7601463be8a2320f8f8dc.jpeg
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/d92a20acd486acdbe6a150ad75bd9948e99e11d308d7601463be8a2320f8f8dc.jpeg
 docs_url: https://ghostty.org/docs
 jina_last_request: '2025-03-09T06:45:07.356Z'
-jina_error: "Error occurred"
+jina_error: Error occurred
 og_last_fetch: '2025-03-07T05:20:56.433Z'
-date_modified: 2025-03-24
+date_modified: '2025-04-12'
+date_created: '2025-03-30T05:44:14.864Z'
+tags:
+  - DevOps
+  - Developer-Experience
+  - Software-Development
 ---
+
+
+
+
+
+
+
+
+
+
 
 
 An [[Open Source]] [[Terminal Emulators]]

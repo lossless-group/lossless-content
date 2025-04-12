@@ -1,20 +1,28 @@
 ---
-title: 'Technical Specification: Dynamic Information Page Rendering in Astro'
-lede: 'Empower developers to focus on layout and let MDX do the content and interaction'
-date_authored: 2025-03-25
-at_semantic_version: "0.0.1.0"
-authors: 
-- Michael Staton
-generated_with: "Windsurf Cascade on Claude 3.5 Sonnet"
-category: Technical-Specification
+title: "Technical Specification: Dynamic Information Page Rendering in Astro"
+lede: Empower developers to focus on layout and let MDX do the content and interaction
+date_authored_initial_draft: 2025-03-24
+date_authored_current_draft: 2025-03-24
+date_authored_final_draft: null
+date_first_published: null
+date_last_updated: null
+at_semantic_version: 0.0.1.0
+status: To-Prompt
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+category: Prompts
+date_created: 2025-03-24
+date_modified: 2025-04-12
 tags:
-- Astro
-- Component-Architecture
-- MDX
-- Content-Collections
-- Dynamic-Routing
-- Layout-System
-- Content-Display
+  - Render-Logic
+  - Astro
+  - Component-Architecture
+  - MDX
+  - Content-Collections
+  - Dynamic-Routing
+  - Layout-System
+  - Content-Display
+authors:
+  - Michael Staton
 ---
 
 # Dynamic Information Page Rendering in Astro

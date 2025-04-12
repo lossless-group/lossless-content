@@ -1,7 +1,11 @@
 ---
+date_modified: 2025-04-12
+site_uuid: 596e22c3-64ba-491b-91bd-a2ef4f9e0db6
+date_created: 2025-04-06
 aliases:
   - Monorepos
 ---
+
 https://youtu.be/9iU_IE6vnJ8?si=8neGJXD5uJ784qT8
 
 https://youtu.be/VUyBY72mwrQ?si=y71Bt-5MUEZUb-BH

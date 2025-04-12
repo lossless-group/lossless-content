@@ -50,6 +50,24 @@ date_modified: 2025-03-24
 
 ***
 
+# Git History and Code Changes
+
+Before modifying any configuration files or existing code:
+
+1. FIRST check the git history to see how things were working before
+2. Use `git show <commit>:<file>` to view the exact state of files in previous working commits
+3. Compare the entire file contents carefully before making any changes
+4. Only make the specific changes requested, preserving all other working configurations
+5. Pay special attention to:
+   - Collection configurations in content.config.ts
+   - Loader types (glob vs file)
+   - Schema definitions
+   - Transform functions
+
+DO NOT make assumptions or try to "improve" working code without explicit request.
+
+***
+
 # Code Style
 ## ABSOLUTE CONSTRAINTS
 
@@ -120,7 +138,7 @@ Instead, we will both maintain and iterate on our current scripts in `site/scrip
 
 Why do all this?  Because it will be impossible to have prodigeous content generation and also have a working, error free user experience with hard data validation, type validation, or frontmatter validation. We have a team that is creating content with AI. They are creaties that lack attention to detail. Frontmatter will be inconsistent, we have to deal with it. 
 
-When we write scripts, we must never use glob or grey-matter or libraries that process frontmatter in Markdown files.  It causes too many errors. We must handle frontmatter using .cjs Common JS and use only the built in filesystem and path modules in Node.  
+When we write scripts, we must never use glob or grey-matter or libraries that process frontmatter in Markdown files.  It causes too many errors. We must handle frontmatter using .cjs Common JS and use only the filesystem and path modules in Node.  
 
 So build scripts, tidy scripts, graceful error handling, and helper/utility functions will follow the PREVENT critical errors and app failures by introducing the following pipeline:
 

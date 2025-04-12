@@ -1,3 +1,9 @@
+---
+date_modified: 2025-04-12
+site_uuid: e00b1259-20e1-47de-b6bf-9a30506ea918
+date_created: 2025-04-06
+---
+
 [[Organizations/Perplexity AI]] explains [[The “Founder Effect”]]
 The "Founder Effect" in business refers to the profound influence a company's founder has on its culture, operations, and trajectory. This influence can be both positive and negative, shaping the organization long after the founder has stepped back or left.
 

@@ -1,11 +1,75 @@
 ---
 site_uuid: 47567cbb-e866-44a3-85b6-2a208cd8a510
 github_repo_url: https://github.com/RooVetGit/Roo-Code
+date_modified: '2025-04-12'
+date_created: '2025-03-30T05:44:14.833Z'
 tags:
-- Code-Generators
-- IDE-Plugins
-date_modified: 2025-03-24
+  - Code-Generators
+  - IDE-Plugins
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

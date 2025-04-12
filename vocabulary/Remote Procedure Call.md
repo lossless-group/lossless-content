@@ -1,8 +1,12 @@
 ---
-wikipedia-url: https://en.wikipedia.org/wiki/Remote_procedure_call
+wikipedia_url: "https://en.wikipedia.org/wiki/Remote_procedure_call"
+date_modified: 2025-04-12
+site_uuid: 004cb2e0-950d-4a67-9ac9-6fcc38e4efc0
+date_created: 2025-04-05
 aliases:
   - RPC
 ---
+
 Here is how [[Generative AI]], [[Poe AI]] describes an [[Remote Procedure Call|RPC]].
 
 > [!NOTE]
@@ -11,4 +15,3 @@ Here is how [[Generative AI]], [[Poe AI]] describes an [[Remote Procedure Call|R
 >In technical terms, when a program on one machine wants to execute a function that resides on another machine, it sends a request over the network. This request includes the details of the function and any necessary data. The remote machine receives the request, performs the function, and sends back the results. This communication is often seamless, making it feel like the function is being called locally, even though it happens across different systems.
 >
 >RPCs help in building [[Distributed Systems]], allowing different applications to work together efficiently, as if they were part of the same program.
-

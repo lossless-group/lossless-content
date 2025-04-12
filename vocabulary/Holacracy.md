@@ -1,4 +1,8 @@
-
+---
+date_modified: 2025-04-12
+site_uuid: 005a4f14-af51-4cb1-aac7-cb8aff9cefe6
+date_created: 2025-04-06
+---
 
 > [!NOTE] AI Explains
 > ### **Holacracy: A Management Concept**

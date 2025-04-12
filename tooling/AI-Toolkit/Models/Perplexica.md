@@ -1,15 +1,64 @@
 ---
 site_uuid: 33e10d09-7c3b-4f5e-af07-e60e3e06b27d
-url: 
+url: null
+github_repo_url: https://github.com/ItzCrazyKns/Perplexica
+docs_url: https://github.com/ItzCrazyKns/Perplexica/blob/master/docs/API/SEARCH.md
+date_modified: '2025-04-12'
+date_created: '2025-03-31T20:44:50.511Z'
 tags:
   - Runs-Local
   - Open-Source
   - AI-Models
   - AI-Toolkit
-github_repo_url: https://github.com/ItzCrazyKns/Perplexica
-docs_url: https://github.com/ItzCrazyKns/Perplexica/blob/master/docs/API/SEARCH.md
-date_modified: 2025-03-24
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ![](https://i.imgur.com/3BW2nlx.png)

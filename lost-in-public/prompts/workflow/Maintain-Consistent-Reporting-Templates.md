@@ -1,6 +1,18 @@
 ---
-date_created: 2025-03-02
-date_modified: 2025-03-24
+date_created: 2025-02-28
+date_modified: 2025-04-12
+title: Maintain Consistent Reporting Templates
+lede: Brief description of the prompt functionality and purpose
+date_authored_initial_draft: 2025-04-10
+date_authored_current_draft: 2025-04-10
+at_semantic_version: 0.0.0.1
+status: To-Prompt
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+category: Prompts
+tags:
+  - Workflow
+authors:
+  - Michael Staton
 ---
 
 ### Single Operation Process Report

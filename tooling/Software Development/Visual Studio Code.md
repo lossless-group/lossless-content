@@ -2,9 +2,16 @@
 site_uuid: 032efa58-39ff-4ab8-b51f-a0a407921b2c
 aliases:
   - VS Code
-parent_org: "[[Organizations/Microsoft]]"
-date_modified: 2025-03-24
+parent_org: '[[Organizations/Microsoft]]'
+date_modified: '2025-04-12'
+date_created: '2025-03-31T20:44:50.517Z'
+tags:
+  - Software-Development
 ---
+
+
+
+
 
 
 a [[Text Editors or IDEs|Text Editor]] created and maintained by [[Organizations/Microsoft]].
@@ -60,7 +67,7 @@ Similar to an [[App Stores|App Store]], the [[Plug-ins,  Add-ons,  Extensions|Ex
 [[Visual Studio Code|VS Code]] also employs the [[Come one, come all]] approach, allowing anyone to try to build and publish an [[Plug-ins,  Add-ons,  Extensions|Extension]]. Notice the "Build your own" and "Publish extensions" options in the upper right corner.
 ![[Screenshot 2025-01-20 at 12.40.13 PM_VS-Code.png]]
 Because [[Visual Studio Code|VS Code]] has such a streamlined and open [[Extension Libraries|Extension Library]], most [[Influencer]] developers do their demonstrations on [[YouTube]] using [[Visual Studio Code|VS Code]].
-![[Screenshot 2025-01-22 at 1.43.58 PM_watsonX--VSCode-Extension 1.png]] [^1]
+![[Screenshot 2025-01-22 at 1.43.58 PM_watsonX--VSCode-Extension 1.png]] [^4fcd73]
 https://youtu.be/lxRAj1Gijic?si=DqzXItZ8hEmW1q3D
 # Footnotes
-[^1]: 
+[^4fcd73]: 

@@ -4,19 +4,31 @@ image: https://fastapi.tiangolo.com/assets/images/social/index.png
 site_name: FastAPI
 title: FastAPI
 favicon: https://fastapi.tiangolo.com/img/favicon.png
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/c889b62860c33a44dc8a7a9613e6234d218661b6a081ebcb9e51d4c04adabd23.jpeg
+jina_last_request: '2025-03-09T06:45:13.042Z'
+jina_error: Error occurred
+og_last_fetch: '2025-03-07T05:20:56.426Z'
+github_repo_url: https://github.com/fastapi/fastapi
+github_profile_url: https://github.com/fastapi
+date_modified: '2025-04-12'
+date_created: '2025-03-30T05:44:14.868Z'
 tags:
   - Frameworks
   - Software-Development
   - Web-Frameworks
   - Python-Ecosystem
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/c889b62860c33a44dc8a7a9613e6234d218661b6a081ebcb9e51d4c04adabd23.jpeg
-jina_last_request: '2025-03-09T06:45:13.042Z'
-jina_error: "Error occurred"
-og_last_fetch: '2025-03-07T05:20:56.426Z'
-github_repo_url: https://github.com/fastapi/fastapi
-github_profile_url: https://github.com/fastapi
-date_modified: 2025-03-24
 ---
+
+
+
+
+
+
+
+
+
+
 
 
 A light, stable [[Web Frameworks|Web Framework]] in [[Python]] designed to get developers up and running with an [[Application Programming Interface|API]].
@@ -34,9 +46,9 @@ https://youtube.com/shorts/Z1XHeMgpg8A?si=7uQXcdKGVIqr1IT7
 > - Robust: Get production-ready code. With automatic interactive documentation.
 > - Standards-based: Based on (and fully compatible with) the open standards for APIs: OpenAPI (previously known as Swagger) and JSON Schema." 
 
-[^1]
+[^8d64af]
 
 # Footnotes
 ***
-[^1]: https://fastapi.tiangolo.com/
+[^8d64af]: https://fastapi.tiangolo.com/
 

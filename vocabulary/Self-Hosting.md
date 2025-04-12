@@ -1,7 +1,11 @@
 ---
+date_modified: 2025-04-12
+site_uuid: f523037e-f522-466c-83e8-2af7793df711
+date_created: 2025-04-06
 aliases:
   - Self-Host
 ---
+
 Including [[Coolify]], [[Tooling/Software Development/Cloud Infrastructure/Bolt.diy]], [[DeepSeek]], [[n8n]], [[Kestra]]
 
 [[Railway]], [[DollarDeploy]]

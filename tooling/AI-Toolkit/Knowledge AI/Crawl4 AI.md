@@ -1,8 +1,69 @@
 ---
 site_uuid: 69d949b9-4674-4fe0-a80b-cbde120fa24f
 github_repo_url: https://github.com/unclecode/crawl4ai
-date_modified: 2025-03-24
+date_modified: '2025-04-12'
+date_created: '2025-03-30T05:44:14.838Z'
+tags:
+  - AI-Toolkit
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 https://youtu.be/FHVfMxOYTBM?si=WHLeAinIWsfPz3mY

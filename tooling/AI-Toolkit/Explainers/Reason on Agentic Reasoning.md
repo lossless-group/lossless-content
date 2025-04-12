@@ -1,10 +1,71 @@
 ---
 site_uuid: 38fd2a9f-0f14-49fa-9ede-7a71b4260359
 aliases:
-- RAR
-- Agentic RAR
-date_modified: 2025-03-24
+  - RAR
+  - Agentic RAR
+date_modified: '2025-04-12'
+date_created: '2025-03-30T05:44:14.830Z'
+tags:
+  - AI-Toolkit
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

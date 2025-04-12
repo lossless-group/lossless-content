@@ -1,7 +1,11 @@
 ---
+date_modified: 2025-04-12
+site_uuid: 05fd6e2d-778e-451d-af53-a292b560e905
+date_created: 2025-04-06
 aliases:
   - Customer Relationship Management
 ---
+
 [[Salesforce]], [[Twenty]]
 > [!NOTE] AI Explains
 > ### **What is a CRM?**

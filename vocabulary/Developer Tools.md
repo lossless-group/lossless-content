@@ -1,3 +1,9 @@
+---
+date_modified: 2025-04-12
+site_uuid: 18537972-8821-4491-bbbf-3374b57b02d3
+date_created: 2025-04-06
+---
+
 Explained by [[Poe AI]]:
 
 > [!AI Explains Developer Tools]

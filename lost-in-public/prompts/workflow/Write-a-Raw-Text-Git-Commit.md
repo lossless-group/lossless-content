@@ -1,27 +1,30 @@
 ---
-title: 'Write a meaningful but concise git commit.'
-lede: 'Make Git and GitHub work better for your team by leveraging LLM Code Assistants.'
-date_authored_initial_draft: 2025-03-09
-date_authored_current_draft: 2025-03-18
+title: Write a meaningful but concise git commit.
+lede: Make Git and GitHub work better for your team by leveraging LLM Code Assistants.
+date_authored_initial_draft: 2025-03-08
+date_authored_current_draft: 2025-03-17
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: '0.0.0.1'
-authors: Michael Staton
+at_semantic_version: 0.0.0.1
 status: To-Do
-augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
+date_created: 2025-03-08
+date_modified: 2025-04-12
 tags:
-- Prompt-Engineering
-- Code-Generators
-- Code-Assistants
-- Version-Control
-- Context-Windows
-- Transparent-Organizations
-- State-of-The-Art-Practices
-- Continuous-Integration
-- Collaboration-Tooling
-- Collaborative-Workflow
+  - Prompt-Engineering
+  - Code-Generators
+  - Code-Assistants
+  - Version-Control
+  - Context-Windows
+  - Transparent-Organizations
+  - State-of-The-Art-Practices
+  - Continuous-Integration
+  - Collaboration-Tooling
+  - Collaborative-Workflow
+authors:
+  - Michael Staton
 ---
 
 # Goals
@@ -301,10 +304,24 @@ tools-updates:
 tools-ready:
 tools-moved:
 
-##### All other directories have one scope:
 
-tools-new:
-tools-changes:
-tools-updates:
-tools-ready:
-tools-moved:
+prerun(render): build process worked after adjustying types
+
+Modified files:
+1. site/src/pages/more-about/[vocabulary].astro
+   - Added markdownFile option to remarkAsf plugin
+   - Fixed rehype-stringify import and usage
+
+2. site/src/types/rehype-stringify.d.ts (new)
+   - Added TypeScript declarations for rehype-stringify
+   - Properly typed Plugin interface with options
+
+3. site/tsconfig.json
+   - Updated moduleResolution to "node"
+   - Added types directory to include paths
+
+4. site/src/utils/markdown/remark-asf.ts
+   - Verified and maintained proper plugin configuration
+
+Changes focused on fixing TypeScript type issues and proper plugin configuration
+to ensure successful build process for vocabulary pages.

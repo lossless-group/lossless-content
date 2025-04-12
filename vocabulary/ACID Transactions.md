@@ -1,3 +1,9 @@
+---
+date_created: 2025-03-29
+date_modified: 2025-04-12
+site_uuid: d355fb7a-24d5-49d8-8c2b-15de6145df27
+---
+
 A behavior of [[Relational Database]]
 
 [[Organizations/Perplexity AI]] explains [[ACID Transactions]]
@@ -23,4 +29,3 @@ Sources
 [7] ACID - Wikipedia https://en.wikipedia.org/wiki/ACID
 [8] Quiz & Worksheet - ACID Properties in DBMS - Study.com https://study.com/academy/practice/quiz-worksheet-acid-properties-in-dbms.html
 [9] An introduction to ACID guarantees and transaction processing https://www.ververica.com/blog/an-introduction-to-acid-guarantees-and-transaction-processing
-

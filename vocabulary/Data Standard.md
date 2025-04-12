@@ -1,4 +1,7 @@
 ---
+date_modified: 2025-04-12
+site_uuid: 5fdb17ff-fb93-44d1-a5c8-9c6749c79e21
+date_created: 2025-04-06
 aliases:
   - Data Standards
 ---
@@ -44,4 +47,4 @@ aliases:
 > [9] Definition, Benefits, Examples, and Role in Data Quality | Secoda https://www.secoda.co/learn/data-standards-definition-benefits-examples-and-role-in-data-quality
 > [10] DATA STANDARDS MAINTENANCE https://www.epa.gov/sites/default/files/2015-06/documents/data_standards_maintenance.pdf
 > [11] Learn About Data Standards | US EPA https://www.epa.gov/data/learn-about-data-standards
-> 
+>

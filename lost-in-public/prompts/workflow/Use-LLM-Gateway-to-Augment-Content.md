@@ -1,24 +1,28 @@
 ---
-title: 'Use an LLM Gateway to Augment Content'
-lede: 'Create the content of a thousand content marketers with an LLM Gateway -- LiteLLM, Fabric, Ollama, MSTY'
-date_authored_initial_draft: 2025-03-09
-date_authored_current_draft: 2025-03-18
+title: Use an LLM Gateway to Augment Content
+lede: "Create the content of a thousand content marketers with an LLM Gateway -- LiteLLM, Fabric, Ollama, MSTY"
+date_authored_initial_draft: 2025-03-06
+date_authored_current_draft: 2025-03-15
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: '0.0.0.1'
-authors: Michael Staton
+at_semantic_version: 0.0.0.1
 status: To-Do
-augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
+date_modified: 2025-04-12
+date_created: 2025-04-09
 tags:
-- Prompt-Engineering
-- Content-Generators
-- Retrieval-Augmented-Generation
-- State-of-The-Art-Practices
-- Content-Marketing
-- Content-Automation
+  - Prompt-Engineering
+  - Content-Generators
+  - Retrieval-Augmented-Generation
+  - State-Of-The-Art-Practices
+  - Content-Marketing
+  - Content-Automation
+authors:
+  - Michael Staton
 ---
+
 ###### Covered
 [[OLlama]], [[Fabric]], [[LiteLLM]], [[LM Studio]], [[MSTY]]
 

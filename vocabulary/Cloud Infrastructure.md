@@ -1,3 +1,9 @@
+---
+date_modified: 2025-04-12
+site_uuid: a8b6dd00-63ba-4da7-a30a-430b2fd31a74
+date_created: 2025-04-06
+---
+
 https://youtu.be/ZaA0kNm18pE?si=kcqZx_2arRW04sno
 > [!NOTE] AI Explains
 > ### **What is Cloud Infrastructure?**
