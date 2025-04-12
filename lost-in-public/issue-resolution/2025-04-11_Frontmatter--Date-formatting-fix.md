@@ -1,6 +1,6 @@
 ---
-title: 'Frontmatter Date Formatting Fix'
-lede: 'Resolving timestamp and quoted date issues in frontmatter'
+title: Frontmatter Date Formatting Fix
+lede: Resolving timestamp and quoted date issues in frontmatter
 date_created: 2025-04-11
 date_modified: 2025-04-11
 authors:
@@ -102,24 +102,56 @@ Created a one-off script in `tidyverse/observers/scripts/fix-date-timestamps.ts`
    }
    ```
 
+## Root Cause Analysis
+
+The investigation revealed several critical issues:
+
+1. **YAML Library Usage**: The observer was using the `js-yaml` library which was automatically:
+   - Converting dates to timestamps
+   - Adding quotes around strings with special characters
+   - Using block scalar syntax for multi-line strings
+
+2. **Infinite Loop**: The observer would detect changes, fix them, but the fix would trigger another change detection, causing an endless cycle.
+
+3. **Inconsistent Formatting**: Different files were using different date formats, causing inconsistency across the codebase.
+
+## Solution Details
+
+The solution involved two major components:
+
+1. **One-off Fix Script**:
+   - Created `fix-date-timestamps.ts` to standardize existing files
+   - Successfully processed 329 files in the vocabulary directory and 50 files in the prompts directory
+   - Fixed all quoted dates and timestamps
+
+2. **Observer Code Refactoring**:
+   - Removed all YAML libraries from the codebase
+   - Replaced with regex-based frontmatter parsing
+   - Implemented a custom `formatFrontmatter` function that:
+     - Never adds quotes to title, lede, category, status, and augmented_with fields
+     - Properly formats dates using the formatDate utility
+     - Maintains consistent YAML formatting for arrays
+
 ## Execution Results
 
 The script successfully processed:
-- 330 files in the vocabulary directory
-- Fixed 54 files with quoted dates
-- Fixed 275 files with timestamps
+- 330 files in the vocabulary directory (329 fixed)
+- 50 files in the prompts directory
+- Fixed all quoted dates and timestamps
 
 ## Lessons Learned
 
-1. **YAML Parsing Challenges**: The js-yaml library automatically unquotes values when parsing, making it difficult to detect quoted values programmatically.
+1. **Avoid YAML Libraries**: YAML libraries like `js-yaml` have their own agenda and can cause unexpected formatting issues. Use regex-based parsing instead.
 
 2. **Single Source of Truth**: Using the existing `formatDate` utility ensured consistent date formatting across the codebase.
 
 3. **Raw Content Examination**: Sometimes examining the raw file content is necessary to detect formatting issues that get normalized during parsing.
 
+4. **Explicit Field Handling**: Some fields (like title, lede) should never have quotes, regardless of their content. This needs to be explicitly coded.
+
 ## Future Considerations
 
-1. The filesystem observer should be updated to prevent these issues from occurring in new files.
+1. The filesystem observer has been updated to prevent these issues from occurring in new files.
 
 2. Consider adding a validation step in the CI pipeline to catch inconsistent date formatting.
 
@@ -135,4 +167,3 @@ tidyverse/observers/scripts/fix-date-timestamps.ts
 Run with:
 ```bash
 cd tidyverse/observers/scripts && npx ts-node fix-date-timestamps.ts <directory-path>
-```

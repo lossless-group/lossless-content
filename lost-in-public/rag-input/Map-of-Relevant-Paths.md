@@ -1,9 +1,20 @@
 ---
 date_created: 2025-04-06
-date_modified: 2025-04-11
+date_modified: 2025-04-12
 ---
 
 # Project Directory Structure
+
+## ⚠️ CRITICAL PATH STRUCTURE WARNING ⚠️
+
+This is a complex, loosely coupled monorepo with 12 submodules. Path structure must be strictly respected:
+
+- `/content/` - Root-level content directory (NOT inside site/)
+- `/site/` - Astro project with its own internal structure
+- Other submodules with their own internal structures
+
+NEVER create files in incorrect locations or mirror directories across submodules.
+ALWAYS verify the correct path before creating or modifying files.
 
 ## Core Project Structure
 - `site/` - Default directory for all work, self-contained Astro project
@@ -19,9 +30,11 @@ date_modified: 2025-04-11
   - Single source of truth for all type definitions
   - No duplicate type definitions allowed in other directories
 
-## Content Structure (`site/src/content/`)
+## Content Structure (`/content/`) - ROOT LEVEL, NOT IN SITE
 - `content/lost-in-public/`
   - `prompts/` - Contains prompts for work
+    - `render-logic/` - Contains render-related prompts
+    - `workflow/` - Contains workflow-related prompts
     - `Meticulous-Constraints-for-Every-Prompt.md` - Required context file for all prompts
   - `sessions/` - HISTORICAL RECORD, append-only
   - `issue-resolution/` - HISTORICAL RECORD, append-only
@@ -33,6 +46,11 @@ date_modified: 2025-04-11
 - `content/tooling/` - Content Markdown files with frontmatter
 - `content/data/` - JSON data files (no database, file-based storage)
 - `content/vocabulary/` - Markdown files with frontmatter for vocabulary terms
+
+## Astro Content Structure (`site/src/content/`)
+- Different from root `/content/` directory
+- Used for Astro's content collections
+- Do NOT place prompts, specs, or other content here unless specifically instructed
 
 ## Scripts (`site/scripts/`)
 - Purposefully outside src directory
@@ -69,3 +87,4 @@ date_modified: 2025-04-11
    - For date formatting: use `formatDate` in `tidyverse/observers/utils/commonUtils.ts`
    - For type definitions: use types in `src/types/` or submodule-specific types
 7. NEVER modify frontmatter in content files without using the observer system
+8. ALWAYS double-check paths when creating new files - DO NOT confuse `/content/` (root) with `/site/src/content/` (Astro)
