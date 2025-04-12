@@ -1,19 +1,24 @@
 ---
 title: 'Suggest a Non-Destructive Refactor'
-lede: 'Suggest a non-destructive refactor of the code'
+lede: 'Provide recommendations for improving code organization and structure while preserving functionality and maintaining existing patterns'
 date_authored_initial_draft: 2025-04-03
 date_authored_current_draft: 2025-04-03
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
 at_semantic_version: '0.0.0.1'
-authors: Michael Staton
+authors: 
+- Michael Staton
 status: To-Do
 augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
 category: Prompts
 tags:
 - Code-Style
 - Refactor
+- Code-Quality
+- Maintainability
+date_created: 2025-04-03
+date_modified: 2025-04-11
 ---
 
 ## Prompt
