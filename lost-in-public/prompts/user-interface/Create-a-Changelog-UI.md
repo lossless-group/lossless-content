@@ -10,9 +10,10 @@ at_semantic_version: '0.0.0.1'
 authors: 
 - Michael Staton
 status: In-Progress
-generated_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
-category: Technical-Specification
+augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+category: Prompts
 tags:
+- User-Interface
 - Changelogs
 - Release-Notes
 - UI-Design

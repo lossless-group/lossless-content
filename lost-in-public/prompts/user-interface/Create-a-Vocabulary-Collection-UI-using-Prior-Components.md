@@ -1,22 +1,26 @@
 ---
-title: 'Create a Vocabulary Collection render pipeline using our existing components to render content collections and markdown entries. 
-lede: "Build a render pipeline for vocabulary using the component pipeline for rendering content collections with separated structure and presentation"  
+title: 'Create a Vocabulary Collection render pipeline'
+lede: 'Build a render pipeline for vocabulary using the component pipeline for rendering content collections with separated structure and presentation'
 date_authored_initial_draft: 2025-03-28
 date_authored_current_draft: 2025-03-31
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: "0.0.0.2"
-authors: Michael Staton
+at_semantic_version: '0.0.0.2'
+authors: 
+- Michael Staton
 status: To-Do
-augmented_with: "Windsurf Cascade on Claude 3.5 Sonnet"
-category: "Technical"
-tags:  # Key areas covered
+augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+category: Prompts
+tags:
+- User-Interface
 - Component-Architecture
 - Content-Collections
 - UI-Design
 - Astro
 - Rendering-Pipeline
+date_created: 2025-03-28
+date_modified: 2025-03-31
 ---
 
 # Constraints:
