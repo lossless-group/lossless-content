@@ -6,6 +6,9 @@ site_uuid: 7b615412-bbfe-4a5c-a0e7-a883e5d15466
 
 https://youtu.be/w5Wr3j4h_1I?si=MkvjqMt3xPbBZjUL
 
+[[Vocabulary/Software Development|Software Development]]
+[[Vocabulary/Engineering Management|Engineering Management]]
+
 Some content here.  
 
 A backlink to [[vocabulary/Affinity Network]]
