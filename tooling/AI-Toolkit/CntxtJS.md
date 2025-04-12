@@ -14,19 +14,24 @@ title: >-
   context windows by using a knowledge graph
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/da6ddbf4ff4d887f9262a8cc199d70e4987d580aaf86f7eab1e20e232a61b886.jpeg
-description_site_cp: 'AI code understanding | LLM context enhancement | Code structure visualization | Static analysis for AI | Large Language Model tooling #LLM #AI #JavaScript #TypeScript #CodeAnalysis #ContextWindow #DeveloperTools'
+description_site_cp: >-
+  AI code understanding | LLM context enhancement | Code structure visualization
+  | Static analysis for AI | Large Language Model tooling #LLM #AI #JavaScript
+  #TypeScript #CodeAnalysis #ContextWindow #DeveloperTools
 jina_last_request: '2025-03-09T06:45:16.612Z'
 jina_error: Error occurred
 og_last_fetch: '2025-03-07T05:19:02.892Z'
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.825Z'
 tags:
-- AI-Toolkit
-- Context-Window
-- Code-Analysis
-- Developer-Tools
-- Visual-Engineering
+  - AI-Toolkit
+  - Context-Window
+  - Code-Analysis
+  - Developer-Tools
+  - Visual-Engineering
 ---
+
+
 
 
 

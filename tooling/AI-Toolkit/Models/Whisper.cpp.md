@@ -5,11 +5,23 @@ aliases:
   - AI-Models
   - Open-Source
 zinger: Port of OpenAIs Whisper model in C/C++
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.843Z'
 tags:
-- AI-Toolkit
+  - AI-Toolkit
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

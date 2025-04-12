@@ -4,10 +4,37 @@ parent_org: '[[Microsoft Research]]'
 aliases:
   - MAI
 date_created: 2025-03-09T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 tags:
-- AI-Toolkit
+  - AI-Toolkit
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 https://www.microsoft.com/en-us/research/focus-area/ai-and-microsoft-research/

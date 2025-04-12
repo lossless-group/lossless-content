@@ -2,7 +2,7 @@
 site_uuid: f0764703-9f96-4408-ba8f-5338867d52e8
 url: https://xapi.com/
 date_created: 2025-03-21T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 description_site_cp: >-
   xAPI.com is dedicated to helping you understand and implement xAPI (Experience
   API). Whether you want to strategize how to use xAPI in your organization or
@@ -28,4 +28,17 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/6d00668e9cbddf5781d4154802b478025acbefb9e49bafc3548af01baa64b79b.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
 

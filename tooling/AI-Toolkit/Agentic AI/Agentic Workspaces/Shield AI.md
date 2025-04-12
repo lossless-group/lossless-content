@@ -5,7 +5,7 @@ description_site_cp: >-
   The AI-powered, modular autonomy software platform for rapid development and
   deployment to intelligent machines.
 date_created: 2025-03-29T00:00:00.000Z
-date_modified: 2025-04-07T00:00:00.000Z
+date_modified: '2025-04-12'
 site_uuid: d948795d-3589-4d46-bff6-8ae08e148e41
 og_title: Shield AI
 og_description: Autonomy for the world.
@@ -17,4 +17,31 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/3131bc088b82a40134f306a61736e399817e96527b6f3697d21f9dda643c5f64.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

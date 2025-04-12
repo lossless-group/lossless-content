@@ -2,7 +2,7 @@
 site_uuid: b9ce08e2-ba3b-46b7-a609-0d25084a7387
 url: https://ohmyz.sh/
 date_created: 2025-03-17T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 og_title: Oh My Zsh - a delightful & open source framework for Zsh
 og_description: >-
   Oh My Zsh is a delightful, open source, community-driven framework for
@@ -16,4 +16,6 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/977a44a674532d558c30e598c232e0461614dad2dde42071c68e1473db4a61c7.jpeg
 ---
+
+
 

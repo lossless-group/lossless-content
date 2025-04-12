@@ -3,11 +3,38 @@ site_uuid: b7533483-88f7-4083-b7ac-8a3f14c310f6
 url: null
 github_repo_url: https://github.com/stackblitz-labs/bolt.diy
 parent_org: '[[Tooling/AI-Toolkit/Generative AI/Code Generators/Bolt.new|Bolt.new]]'
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-31T20:44:50.508Z'
 tags:
-- Open-Source
+  - Open-Source
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

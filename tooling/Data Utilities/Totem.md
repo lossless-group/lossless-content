@@ -8,12 +8,14 @@ description: >-
   manner. TOTEMs codebook can then be tested on in domain or zero shot data with
   many 🔥 time series tasks.
 date_created: 2025-03-20T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 tags:
-- Data-Utilities
-- Data-Analytics
-- Code-Libraries
+  - Data-Utilities
+  - Data-Analytics
+  - Code-Libraries
 ---
+
+
 
 
 

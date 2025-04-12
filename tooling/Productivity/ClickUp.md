@@ -10,14 +10,32 @@ og_error_message: Error occurred
 jina_last_request: '2025-03-09T06:45:17.120Z'
 jina_error: Error occurred
 og_last_fetch: '2025-03-07T05:19:01.823Z'
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.854Z'
 tags:
-- Productivity
-- Workflow-Management
-- Check-It-Out
-- Asynchronous-Communication
+  - Productivity
+  - Workflow-Management
+  - Check-It-Out
+  - Asynchronous-Communication
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -39,7 +57,7 @@ frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
 referrerpolicy="strict-origin-when-cross-origin" 
 allowfullscreen
-></iframe> [^139025]
+></iframe> [^6e5e63]
 
 
 ![[IMG_2165_Clickup_Feature-Announcements.png]]
@@ -49,4 +67,4 @@ allowfullscreen
 # Footnotes
 ***
 
-[^139025]: 2025, Mar 04. "[ClickUp Review: AI Powered Project Management Tool](https://youtu.be/rO4j3dtqeDg?si=4hJCBYeG7r8StRI4)," [[Tool Finder]]
+[^6e5e63]: 2025, Mar 04. "[ClickUp Review: AI Powered Project Management Tool](https://youtu.be/rO4j3dtqeDg?si=4hJCBYeG7r8StRI4)," [[Tool Finder]]

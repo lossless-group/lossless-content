@@ -9,7 +9,7 @@ description_site_cp: >-
   complete container lifecycle of its host system, from image transfer and
   storage to container execution and supervision to low-level storage to network
   attachments and beyond.
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.864Z'
 og_title: containerd
 og_description: >-
@@ -24,6 +24,8 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/ad0b3ed3ef7264f18c012e6b7db3d0007c4d56ffd467ed145078bae8de27409b.jpeg
 ---
+
+
 
 A newer and possibly improved version of [[Docker]]
 

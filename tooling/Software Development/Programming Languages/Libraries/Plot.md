@@ -4,7 +4,7 @@ github_url: https://github.com/observablehq/plot
 url: https://observablehq.com/plot/
 zinger: Observable Plot The JavaScript library for exploratory data visualization
 description_site_cp: Create expressive charts with concise code
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.873Z'
 og_title: Observable Plot
 og_description: The JavaScript library for exploratory data visualization
@@ -17,4 +17,18 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/5752c33ffe026e21b2240cde4c4cc3e6f4bc2505e27ca0557d6f0f12168713ca.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

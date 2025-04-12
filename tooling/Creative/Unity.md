@@ -1,7 +1,7 @@
 ---
 site_uuid: b85af6ea-0c7f-4862-a9f6-a288823f7ee1
 url: https://unity.com/
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.847Z'
 og_title: Unity Real-Time Development Platform | 3D, 2D, VR & AR Engine
 og_description: >-
@@ -12,8 +12,10 @@ og_image: >-
 og_url: https://unity.com
 og_last_fetch: '2025-04-07T17:38:11.615Z'
 tags:
-- Game-Engines
+  - Game-Engines
 ---
+
+
 
 
 

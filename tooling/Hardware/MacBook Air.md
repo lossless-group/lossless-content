@@ -2,7 +2,7 @@
 site_uuid: a52e1a78-db6a-4ca6-beb9-fe522291c8fb
 url: https://www.apple.com/macbook-air/
 date_created: 2025-03-14T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 product_of: '[[Organizations/Apple|Apple]]'
 og_title: MacBook Air 13-inch and MacBook Air 15-inch
 og_description: >-
@@ -13,8 +13,37 @@ og_image: >-
 og_url: https://www.apple.com/macbook-air/
 og_last_fetch: '2025-04-07T17:38:19.304Z'
 tags:
-- Hardware
+  - Hardware
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 https://youtu.be/i2oW9nIou7w?si=dKzy-vXF5ybXv0fj

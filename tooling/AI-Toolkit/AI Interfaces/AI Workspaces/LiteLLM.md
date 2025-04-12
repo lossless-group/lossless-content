@@ -3,7 +3,7 @@ site_uuid: 56b6882d-8e72-4ea8-bb6e-0c42ba8596d1
 url: https://www.litellm.ai
 github_repo_url: https://github.com/BerriAI/litellm
 description_site_cp: Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.820Z'
 og_title: LiteLLM
 og_description: >-
@@ -18,6 +18,33 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/ff6df6d1a6cbf467375087363f642ab7016d0a3fc027aae4ced02091a5a29a9f.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Has a [[Python]] [[SDK]].
 

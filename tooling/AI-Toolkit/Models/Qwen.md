@@ -3,11 +3,23 @@ site_uuid: af0ad643-4a71-4862-8bff-fc4b6b46dd25
 github_repo_url: https://github.com/QwenLM
 parent_org: '[[Organizations/Alibaba]]'
 huggingface_url: https://huggingface.co/Qwen
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-31T20:44:50.511Z'
 tags:
-- AI-Toolkit
+  - AI-Toolkit
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

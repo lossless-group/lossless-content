@@ -3,7 +3,7 @@ site_uuid: d8341d13-c702-4c31-b75b-84d83f6dd714
 url: https://axolotl.ai
 zinger: We make fine-tuning accessible, scalable, fun.
 date_created: 2025-03-19T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 description_site_cp: >-
   Scale and customize LLMs across different AI models using our *free*
   open-source solutions
@@ -21,5 +21,32 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/dd247ea59e14057975648977ed60c316ad910fffb28fa85e6921b3e9ab4083bd.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 https://youtu.be/lj44Bt9UxYQ?si=M-r5sFLgGT2X97R4

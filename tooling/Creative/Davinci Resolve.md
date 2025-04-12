@@ -1,4 +1,28 @@
 ---
+date_modified: '2025-04-12'
+site_uuid: d9cbdd73-0d2f-4410-b06a-18bf8c11b253
+date_created: '2025-03-30T05:44:14.845Z'
+tags:
+  - Creative
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 site_uuid: 61bf7861-881a-4005-84b6-806b6a5134e0
 url: https://www.blackmagicdesign.com/products/davinciresolve
 tags: 

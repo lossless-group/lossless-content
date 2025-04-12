@@ -19,13 +19,40 @@ og_last_fetch: 2025-03-07T05:20:56.434Z
 docs_url: https://docs.codeium.com/windsurf/
 parent_org: '[[Organizations/Codeium]]'
 reddit_forum_url: https://www.reddit.com/r/Codeium/
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-31T20:44:50.509Z'
 tags:
-- AI-Toolkit
-- Generative-AI
-- Code-Generators
+  - AI-Toolkit
+  - Generative-AI
+  - Code-Generators
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -4,14 +4,26 @@ github_repo_url: null
 github_profile_url: https://github.com/Wan-Video
 huggingface_url: https://huggingface.co/Wan-AI
 date_created: 2025-03-20T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 tags:
-- AI-Toolkit
-- AI-Models
-- Video-Generators
-- Check-It-Out
-- Open-Source
+  - AI-Toolkit
+  - AI-Models
+  - Video-Generators
+  - Check-It-Out
+  - Open-Source
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

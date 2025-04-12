@@ -14,7 +14,7 @@ favicon: https://git-scm.com/favicon.ico
 og_fetched_url: https://git-scm.com
 og_last_fetch: '2025-03-14T04:41:46.355Z'
 date_created: 2025-02-19T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 tags:
   - Products
   - Developer-Experience
@@ -22,6 +22,24 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/94c5655da22a143da4d63cdd36b6efe1189c63708219dcce16b14cdf11a79265.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 https://youtu.be/0Hk2XjGSzbA?si=idNrPLL_nQg2oDpR
 
@@ -51,7 +69,7 @@ You can name a branch to indicate the branch’s function, like a feature, bug f
 - feature/feature-name
 - hotfix/description
 
-Another branching strategy is having branches dedicated to the different development cycles, like feature or hotfix. As work items come up, you create a branch for that item from its respective branch. Yes, you can create branches from branches! Check out Option 4 below for an example. [^1]
+Another branching strategy is having branches dedicated to the different development cycles, like feature or hotfix. As work items come up, you create a branch for that item from its respective branch. Yes, you can create branches from branches! Check out Option 4 below for an example. [^597f02]
 
 
 ### Git Merge
@@ -80,4 +98,4 @@ git merge development-temp
 `git diff site/src/content/tooling/Software\ Development/Databases/Postgres.md`
 
 
-[^1]: [Git Branching and Merging: A Step-By-Step Guide](https://www.varonis.com/blog/git-branching)
+[^597f02]: [Git Branching and Merging: A Step-By-Step Guide](https://www.varonis.com/blog/git-branching)

@@ -1,7 +1,7 @@
 ---
 site_uuid: 7a1bb7b1-7c21-4a28-bc5b-65dc388ece03
 date_created: 2025-03-20T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 url: https://supabase.com/
 og_title: Supabase | The Open Source Firebase Alternative
 og_description: >-
@@ -19,6 +19,8 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/41531850c10dc1d12d6c1b0b785d18b245fa882f5667f7f0fb81591c8250e33e.jpeg
 ---
+
+
 
 Supabase is actually built on the [[Open Source]] [[Databases|Database]] [[Postgres]].
 

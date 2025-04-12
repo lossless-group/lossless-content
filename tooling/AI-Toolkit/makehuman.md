@@ -2,7 +2,7 @@
 site_uuid: af9a9633-9b2e-48dc-926f-8cb8e072ff5f
 url: https://static.makehumancommunity.org/makehuman.html
 date_created: 2025-03-12T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 og_title: 'MakeHuman :: MakeHuman Community'
 og_description: >-
   MakeHuman is a tool designed to simplify the creation of virtual humans using
@@ -21,5 +21,7 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/2f73eba67aaa8f50022a8cea5fc49571e199475c31c85a46cb38aee311d888b8.jpeg
 ---
+
+
 
 [[Tooling/AI-Toolkit/Explainers/AI Avatars|AI Avatars]]

@@ -11,7 +11,7 @@ site_name: PIXLPath
 title: 'PIXLPath: Digital asset management for Apple the ecosystem'
 og_fetched_url: https://www.pixlpath.com/
 og_last_fetch: '2025-03-14T04:42:08.258Z'
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.851Z'
 tags:
   - Enterprise-Jobs-To-Be-Done
@@ -19,5 +19,18 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/13151d21e7fe889796db9f34f39fb7dccfefd3bfdc9f06b6bc2cb67a9387ab03.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [PIXL](https://apps.apple.com/us/app/pixlpath/id6445800950)

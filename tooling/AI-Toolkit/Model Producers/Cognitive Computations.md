@@ -1,7 +1,7 @@
 ---
 site_uuid: 56539fa5-de8a-43a5-b49c-499c6438d9cb
 date_created: 2025-03-21T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 huggingface_url: https://huggingface.co/cognitivecomputations
 url: https://erichartford.com/
 cre: null
@@ -19,6 +19,33 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/71539e579201f9fe4d41023bbdd78e32481bba4f3b5f6f5a40eaed89c7dd61f3.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 A brand of personal work by [[Eric Hartford]], and producer of [[Tooling/AI-Toolkit/Models/Dolphin]]
 

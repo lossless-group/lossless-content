@@ -1,7 +1,7 @@
 ---
 site_uuid: 2e267e4e-a995-43ad-a68f-b742ca354f43
 url: https://excalidraw.com/
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.850Z'
 og_title: Excalidraw — Collaborative whiteboarding made easy
 og_description: >-
@@ -18,5 +18,18 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/85794320b9feb680be86cb4ff4786146c4c1e3122f07b9b4799decfd979830f6.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 https://youtu.be/TBviTXpKge8?si=OwinT2TiflUhE3bN

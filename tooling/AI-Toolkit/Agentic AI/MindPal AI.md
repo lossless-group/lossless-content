@@ -4,14 +4,46 @@ url: https://mindpal.space/
 image: https://mindpal.space/opengraph.png
 site_name: MindPal
 title: Build Your AI Workforce
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/c81aecaf52bb14081e11e52fbd8c9048b91cabea1446b33d36320ebc2377e4cc.jpeg
+og_screenshot_url: >-
+  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/c81aecaf52bb14081e11e52fbd8c9048b91cabea1446b33d36320ebc2377e4cc.jpeg
 jina_last_request: 2025-03-09T06:45:02.224Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:20:40.125Z
-date_modified: 2025-04-07
-date_created: 2025-01-30
-tags: [AI-Toolkit, Agentic-AI, Agentic-Ai, Workflow-Automation]
+date_modified: '2025-04-12'
+date_created: 2025-01-30T00:00:00.000Z
+tags:
+  - AI-Toolkit
+  - Agentic-AI
+  - Agentic-Ai
+  - Workflow-Automation
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

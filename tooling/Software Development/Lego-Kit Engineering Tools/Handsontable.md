@@ -6,7 +6,7 @@ zinger: JavaScript Data Grid with Spreadsheet UI
 description_site_cp: >-
   A front-end component that combines data grid feature swith spreadsheet UX/UI.
   Professional support included.
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.871Z'
 og_title: >-
   Handsontable is a JavaScript data grid that looks and feels like a spreadsheet
@@ -23,4 +23,18 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/2c0726a2528d59f1c710812320fd12b8d734c24c50430a98d68d6e7dace6337a.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

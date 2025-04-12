@@ -3,7 +3,7 @@ site_uuid: 1f3a5214-e685-4e6c-9f48-ccf06016a08c
 url: https://www.veeam.com
 zinger: Without your data, customer trust becomes digital
 date_created: 2025-03-09T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 og_title: 'Veeam: Data Portability and Resilience'
 og_description: >-
   Veeam ensures data portability with secure backup, rapid recovery, and freedom
@@ -17,5 +17,23 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/15abf5976719edfad686a2b85d14aec02efc7612fcf52224670d2ed9a5f7d22a.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [https://www.veeam.com](https://www.veeam.com/)

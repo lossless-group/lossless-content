@@ -3,7 +3,7 @@ site_uuid: 22e4bc0d-af67-417c-8c81-08b0d84030ba
 url: null
 zinger: 'MLX: An array framework for Apple silicon'
 date_created: 2025-03-19T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 docs_url: https://ml-explore.github.io/mlx/build/html/index.html
 description_site_cp: >-
   MLX is a NumPy-like array framework designed for efficient and flexible
@@ -12,9 +12,36 @@ description_site_cp: >-
 github_repo_url: https://github.com/ml-explore/mlx
 product_of: '[[Organizations/Apple|Apple]]'
 tags:
-- Fine-Tuners
-- AI-Toolkit
+  - Fine-Tuners
+  - AI-Toolkit
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

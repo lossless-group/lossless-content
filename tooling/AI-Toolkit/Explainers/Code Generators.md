@@ -6,11 +6,38 @@ aliases:
   - Coding Assistant
   - Code Generator
 site_uuid: 691a7615-2aa5-4a1b-9ad9-519a48dac670
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-31T20:44:50.508Z'
 tags:
-- AI-Toolkit
+  - AI-Toolkit
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -175,7 +202,7 @@ https://youtu.be/fKtvRTFISq4?si=0QuLEn91P7j6_Cje
 ## Copilots for Software Engineers take off
 [[Bessemer Venture Partners]] count installs on [[Visual Studio Code|VS Code]], and by February 2024 there have been over 14 million installs of [[Code Generator]] [[AI Copilots]].
 
-![[Pasted image 20250128132239.png]] [^1]
+![[Pasted image 20250128132239.png]] [^f875fe]
 
 
 Attempts at a fully featured [[Text Editors or IDEs|IDE]] include, [[Cursor]], [[AgentFarm]], [[Windsurf IDE]].
@@ -211,6 +238,6 @@ https://youtu.be/l-YbaSzDmhU?si=yTLceEj5oI8pWQH3
 
 # Footnotes
 ***
-[^1]: [State of the Cloud 2024](https://www.bvp.com/atlas/state-of-the-cloud-2024). [[Bessemer Venture Partners]], Blog
+[^f875fe]: [State of the Cloud 2024](https://www.bvp.com/atlas/state-of-the-cloud-2024). [[Bessemer Venture Partners]], Blog
 
 

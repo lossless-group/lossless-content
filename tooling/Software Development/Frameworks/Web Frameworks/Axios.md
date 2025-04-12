@@ -2,7 +2,7 @@
 site_uuid: 778253c5-c158-4a4e-b2ee-127d20ce0b20
 url: https://axios-http.com/
 date_created: 2025-03-07T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 zinger: Promise based HTTP client for the browser and node.js
 description_site_cp: >-
   Axios is a simple promise based HTTP client for the browser and node.js. Axios
@@ -23,4 +23,6 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/7d97e80f0eb4cba3bd7d28b2090d476b02c1e92a5b4bc3f6f122a2843b8e8660.jpeg
 ---
+
+
 

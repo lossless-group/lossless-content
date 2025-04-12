@@ -1,7 +1,7 @@
 ---
 site_uuid: 68c980eb-a8b7-4037-a0e7-94dc77c5a14c
 url: https://www.synology.com/
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.853Z'
 og_title: Synology Inc.
 og_description: >-
@@ -18,6 +18,35 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/b4e9b84be3ac5f57d7dee1031d3c1304c840c54cfa0a255996cc6083815e3a7d.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 https://youtu.be/2N8dcZaFJTg?si=cAu33FTMLY1jKJsO
 

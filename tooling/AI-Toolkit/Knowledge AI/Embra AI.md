@@ -14,7 +14,7 @@ favicon: >-
 jina_last_request: '2025-03-09T06:44:58.971Z'
 jina_error: Error occurred
 og_last_fetch: '2025-03-07T05:19:18.724Z'
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.838Z'
 tags:
   - AI-Toolkit
@@ -22,6 +22,33 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/01c60da6b88b6488c29e22c565888488ee39a66a9d7c9244fa418259c1987ec1.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 A form of [[Knowledge Base AI]], that uses Team Communications as the source data, thus using [[Knowledge Augmented Generation]] to summarize what's happening around the company.
 

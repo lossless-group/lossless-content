@@ -3,7 +3,7 @@ site_uuid: 7ca1652d-9a8b-409f-b1b3-06691abda9e7
 url: https://www.reflection.ai
 zinger: Building superintelligent autonomous systems
 date_created: 2025-03-10T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 description: >-
   Our goal is to build superintelligent autonomous systems. We believe that
   solving autonomous coding is the root node problem that will enable
@@ -19,6 +19,33 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/71f1f4a9f1afdd8df29ee9048d2d41c1e91e9f6637a2d4b297beee9e5ed80ea8.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 The team behind [[Gemini]]
 

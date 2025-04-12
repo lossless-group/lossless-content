@@ -17,7 +17,7 @@ favicon: >-
   https://www.knack.com/wp-content/smush-webp/2023/06/cropped-favicon-1-192x192.png.webp
 og_fetched_url: https://www.knack.com
 og_last_fetch: '2025-03-14T04:42:10.316Z'
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.850Z'
 tags:
   - Enterprise-Jobs-To-Be-Done
@@ -29,4 +29,17 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/261f6744951f1243b3ecac184a3141d61fd14db03d488633ba1dbf06e93af616.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
 

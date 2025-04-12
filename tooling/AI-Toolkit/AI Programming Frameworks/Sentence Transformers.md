@@ -7,7 +7,7 @@ zinger: >-
   SentenceTransformers 🤗 is a Python framework for state-of-the-art sentence,
   text and image embeddings.
 date_created: 2025-03-06T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 image: https://sbert.net/_static/logo.png
 site_name: Sentence Transformers  documentation
 title: SentenceTransformers Documentation — Sentence Transformers  documentation
@@ -19,5 +19,32 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/7b8ec5719183f7b06cb7c0fe4645c5c0ad7a2dfc790cdddd1e571972e4e74f9b.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [[Tooling/Software Development/Programming Languages/Python|Python]]

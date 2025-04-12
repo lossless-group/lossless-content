@@ -6,7 +6,7 @@ description_site_cp: >-
   industry-academia collaborations transform efficiency and scientific
   discovery.
 date_created: 2025-03-11T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 og_title: OptimalAI
 og_description: >-
   OptimalAI researches and applies AI for critical infrastructure. Our
@@ -21,4 +21,31 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/b9e04a6b4b2d210be75ea55da9b007b662333f3ac6c63e5f803480f02b9cf3ab.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
