@@ -20,6 +20,7 @@ og_screenshot_url: >-
 
 
 
+
 [[Concepts/Open Source, DIY Variant|Open Source, DIY Variant]]
 
 [[Vocabulary/Open Source|Open Source]]

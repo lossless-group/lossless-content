@@ -39,6 +39,36 @@ tags:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [[Tooling/AI-Toolkit/Generative AI/Speechify]]
 https://youtu.be/QbvaByhXR8U?si=NhPHO7HlEV7ebqRR
 

@@ -1,8 +1,8 @@
 ---
-wikipedia-url: "https://en.wikipedia.org/wiki/Remote_procedure_call"
-date_modified: 2025-04-07
+wikipedia_url: "https://en.wikipedia.org/wiki/Remote_procedure_call"
+date_modified: 2025-04-12
 site_uuid: 004cb2e0-950d-4a67-9ac9-6fcc38e4efc0
-date_created: 2025-04-07
+date_created: 2025-04-05
 aliases:
   - RPC
 ---

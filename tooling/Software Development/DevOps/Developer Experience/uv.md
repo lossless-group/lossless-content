@@ -19,6 +19,7 @@ tags:
 
 
 
+
 https://youtube.com/shorts/_iKchC7NjEE?si=kpjSdOWfYvtmKicX
 
 [[Python]] [[Packages and Libraries|Package]] manager

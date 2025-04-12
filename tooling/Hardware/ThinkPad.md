@@ -25,6 +25,7 @@ og_screenshot_url: >-
 
 
 
+
 [[Vocabulary/Laptops|Laptops]]
 
 

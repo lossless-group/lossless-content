@@ -1,7 +1,7 @@
 ---
 wikipedia_url: "https://en.wikipedia.org/wiki/SOLID"
-date_created: 2025-03-20
-date_modified: 2025-04-07
+date_created: 2025-03-19
+date_modified: 2025-04-12
 site_uuid: f131c6eb-bfb3-48fe-bea8-abb745582635
 ---
 

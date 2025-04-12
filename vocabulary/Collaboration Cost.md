@@ -1,7 +1,7 @@
 ---
-date_modified: 2025-04-07
+date_modified: 2025-04-12
 site_uuid: 73c7d22c-53e1-41d1-8ee9-7db4825c1eb1
-date_created: 2025-04-07
+date_created: 2025-04-06
 ---
 
 Here are excerpts from interview with Keyvan Vakili of London Business School:

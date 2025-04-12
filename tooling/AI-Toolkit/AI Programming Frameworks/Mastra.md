@@ -41,6 +41,36 @@ og_screenshot_url: >-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 https://youtu.be/gtkGboGmD2M?si=xIAoxTu58awucZaB
 
 [[TypeScript]]

@@ -20,6 +20,7 @@ og_screenshot_url: >-
 
 
 
+
 [https://graphite.rs](https://graphite.rs/) an [[Vocabulary/Open Source|Open Source]] [[Concepts/Open Source Alternatives|Open Source Alternatives]] to [[Tooling/Creative/Affinity|Affinity]] and [[Adobe Illustrator]]
 
 

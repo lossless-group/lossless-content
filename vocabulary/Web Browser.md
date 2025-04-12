@@ -1,7 +1,7 @@
 ---
-date_modified: 2025-04-07
+date_modified: 2025-04-12
 site_uuid: c49fdee8-e072-47cb-aa26-3d435008fb39
-date_created: 2025-04-07
+date_created: 2025-04-06
 aliases:
   - Web Browsers
   - Browser

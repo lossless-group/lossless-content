@@ -1,17 +1,21 @@
 ---
-title: 'Fix one YAML Issue at a Time'
-lede: 'Systematic approach to cleaning URL properties in YAML frontmatter'
-date_authored_initial_draft: 2025-03-19
-date_authored_current_draft: 2025-03-19
-authors: 
-- Michael Staton
+title: Fix one YAML Issue at a Time
+lede: Systematic approach to cleaning URL properties in YAML frontmatter
+date_authored_initial_draft: 2025-03-17
+date_authored_current_draft: 2025-03-17
 status: Draft
 category: Build-Scripts
+date_modified: 2025-04-12
+at_semantic_version: 0.0.0.1
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+date_created: 2025-04-10
 tags:
-- YAML-Validation
-- Error-Handling
-- Build-Scripts
-- URL-Processing
+  - YAML-Validation
+  - Error-Handling
+  - Build-Scripts
+  - URL-Processing
+authors:
+  - Michael Staton
 ---
 
 # Executive Summary

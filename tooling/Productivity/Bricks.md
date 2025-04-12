@@ -43,6 +43,7 @@ tags:
 
 
 
+
 [[Advanced Spreadsheets]], [[AI Native Applications|AI Native]]
 
 ##### [[Bricks]] is an [[Advanced Spreadsheets|Advanced Spreadsheet]]

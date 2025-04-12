@@ -437,6 +437,36 @@ tags:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Here's an [[n8n]] beginner course on [[YouTube]] created by n8n. The [n8n Beginner course](https://youtube.com/playlist?list=PLlET0GsrLUL59YbxstZE71WszP3pVnZfI&si=T8vhC2cKnjVlxh4u)
 
 https://youtube.com/shorts/KPxlRfTyC4c?si=2Iw7R9sAQbN2tcrF

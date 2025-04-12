@@ -43,6 +43,7 @@ tags:
 
 
 
+
 An [[Open Source]] alternative to [[Slack]].
 
 [[AI Plugin]]: https://github.com/mattermost/mattermost-plugin-ai

@@ -1,27 +1,28 @@
 ---
-title: 'Create a Vocabulary Collection render pipeline'
-lede: 'Build a render pipeline for vocabulary using the component pipeline for rendering content collections with separated structure and presentation'
+title: Create a Vocabulary Collection render pipeline
+lede: Build a render pipeline for vocabulary using the component pipeline for rendering content collections with separated structure and presentation
 date_authored_initial_draft: 2025-03-28
 date_authored_current_draft: 2025-03-31
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: '0.0.0.2'
-authors: 
-- Michael Staton
+at_semantic_version: 0.0.0.2
+authors:
+  - Michael Staton
 status: To-Do
-augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 tags:
-- User-Interface
-- Component-Architecture
-- Content-Collections
-- UI-Design
-- Astro
-- Rendering-Pipeline
+  - User-Interface
+  - Component-Architecture
+  - Content-Collections
+  - UI-Design
+  - Astro
+  - Rendering-Pipeline
 date_created: 2025-03-28
-date_modified: 2025-03-31
+date_modified: 2025-04-12
 ---
+
 
 # Constraints:
 Vocabulary Collection markdown files almost never have any metadata or frontmatter.  
@@ -367,7 +368,7 @@ Base Layout: `site/src/layouts/Layout.astro`
 
 Content Structural Layout: `site/src/layouts/OneArticle.astro`
 
-Content Utility Functions: `site/src/utils/markdown/remark-asf.ts` [^1]
+Content Utility Functions: `site/src/utils/markdown/remark-asf.ts` [^9af7f5]
 
 Render Component for One Entry (Generalized): `site/src/components/articles/OneArticleOnPage.astro`
 
@@ -375,7 +376,7 @@ Render Component for One Entry (Specialized): `site/src/components/vocabulary/Vo
 
 # Footonotes
 ***
-[^1]: We are trying to use a different library in the render pipeline, because we have found it hard to parse various "extended markdown" and "flavored markdown" syntax with regular expressions. 
+[^9af7f5]: We are trying to use a different library in the render pipeline, because we have found it hard to parse various "extended markdown" and "flavored markdown" syntax with regular expressions. 
 
 We need to master the ability to render "flavored" markdown because 
 1. a short term goal of rendering specialized extended markdown related to our current use of Obsidian as a markdown editor tool.  

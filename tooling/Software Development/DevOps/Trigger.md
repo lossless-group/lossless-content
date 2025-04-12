@@ -31,6 +31,7 @@ tags:
 
 
 
+
 An evangelical promoter shows why [[Trigger]] is cool at [this link](https://youtu.be/E2t821Ujb0k?si=oA6G59-S2RuYNc2B) on [[YouTube]].
 
 https://youtu.be/YH_4c0K7fGM?si=ZjV3lK_KjPjc8gQl

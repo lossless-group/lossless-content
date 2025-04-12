@@ -1,7 +1,7 @@
 ---
-date_modified: 2025-04-07
+date_modified: 2025-04-12
 site_uuid: a8ad6f79-ffe5-4ead-a7c5-82b3a4cc27f5
-date_created: 2025-04-07
+date_created: 2025-04-06
 aliases:
   - Data Modeling
 ---

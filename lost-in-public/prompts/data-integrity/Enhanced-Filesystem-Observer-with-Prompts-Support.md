@@ -1,26 +1,26 @@
 ---
-title: 'Enhanced filesystem observer with prompts directory support'
-lede: 'Extend the filesystem observer to monitor prompts directory, validate frontmatter, and prepare content for website publication'
-date_authored_initial_draft: 2025-04-11
-date_authored_current_draft: 2025-04-11
+title: Enhanced filesystem observer with prompts directory support
+lede: "Extend the filesystem observer to monitor prompts directory, validate frontmatter, and prepare content for website publication"
+date_authored_initial_draft: 2025-04-10
+date_authored_current_draft: 2025-04-10
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: '0.2.0.0'
-authors: 
- - Michael Staton
+at_semantic_version: 0.2.0.0
 status: To-Implement
-augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
+date_created: 2025-04-10
+date_modified: 2025-04-12
 tags:
-- Frontmatter-Validation
-- File-Processing
-- Build-Scripts
-- File-Systems
-- Data-Integrity
-- Content-Publishing
-date_created: 2025-04-11
-date_modified: 2025-04-11
+  - Frontmatter-Validation
+  - File-Processing
+  - Build-Scripts
+  - File-Systems
+  - Data-Integrity
+  - Content-Publishing
+authors:
+  - Michael Staton
 ---
 
 ## Objective

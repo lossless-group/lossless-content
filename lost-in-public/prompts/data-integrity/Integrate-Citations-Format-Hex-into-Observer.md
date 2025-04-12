@@ -1,24 +1,24 @@
 ---
-title: 'Integrate citations format and unique Hex into filesystem observer'
-lede: 'Leverage Node.js filesystem APIs to monitor content directories, automatically transform citations into unique Hex values and create or update Footnotes section.'
-date_authored_initial_draft: 2025-04-07
-date_authored_current_draft: 2025-04-07
+title: Integrate citations format and unique Hex into filesystem observer
+lede: "Leverage Node.js filesystem APIs to monitor content directories, automatically transform citations into unique Hex values and create or update Footnotes section."
+date_authored_initial_draft: 2025-04-06
+date_authored_current_draft: 2025-04-06
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: '0.0.0.1'
-authors: 
- - Michael Staton
+at_semantic_version: 0.0.0.1
 status: Implemented
-augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
+date_created: 2025-03-22
+date_modified: 2025-04-12
 tags:
-- File-Processing
-- Build-Scripts
-- File-Systems
-- Data-Integrity
-date_created: 2025-03-23
-date_modified: 2025-04-07
+  - File-Processing
+  - Build-Scripts
+  - File-Systems
+  - Data-Integrity
+authors:
+  - Michael Staton
 ---
 
 # Objective
@@ -29,7 +29,7 @@ Enhance the filesystem observer system to automatically convert numeric citation
 
 Our existing filesystem observer monitors and maintains frontmatter consistency in Markdown files. We now need to extend this functionality to handle citations, specifically:
 
-1. Convert numeric citations (e.g., `[^1]`) to unique hexadecimal identifiers (e.g., `[^a1b2c3]`)
+1. Convert numeric citations (e.g., `[^e923c9]`) to unique hexadecimal identifiers (e.g., `[^a1b2c3]`)
 2. Ensure all citations have corresponding footnote definitions
 3. Create or update a Footnotes section when necessary
 4. Maintain a registry of citations across files for cross-referencing
@@ -245,12 +245,12 @@ export const citationTemplate = {
 // Example test case
 describe('Citation Processor', () => {
   it('converts numeric citations to hex format', async () => {
-    const testContent = 'This is a test with a numeric citation[^1].\n\n[^1]: Test footnote.';
+    const testContent = 'This is a test with a numeric citation[^e923c9].\n\n[^e923c9]: Test footnote.';
     const { updatedContent, stats } = convertNumericCitationsToHex(testContent);
     
     expect(stats.numericCitationsFound).toBe(1);
     expect(stats.conversionsPerformed).toBe(1);
-    expect(updatedContent).not.toContain('[^1]');
+    expect(updatedContent).not.toContain('[^e923c9]');
     expect(updatedContent).toMatch(/\[\^[0-9a-f]{6}\]/);
   });
 });

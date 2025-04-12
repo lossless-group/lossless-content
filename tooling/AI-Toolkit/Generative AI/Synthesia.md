@@ -319,6 +319,36 @@ tags:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [[Video Generator]]
 
 ![[Screenshot 2025-02-19 at 1.53.46 PM_Synthesia_Hero.png]]

@@ -1,23 +1,27 @@
 ---
-title: 'Meticulous Constraints for Every Prompt'
-lede: 'Essential guidelines and constraints for prompt engineering and code generation'
-date: 2025-03-16
-date_authored_initial_draft: 2025-03-16
-date_authored_current_draft: 2025-03-16
+title: Meticulous Constraints for Every Prompt
+lede: Essential guidelines and constraints for prompt engineering and code generation
+date: "Sat Mar 15 2025 19:00:00 GMT-0500 (Central Daylight Time)"
+date_authored_initial_draft: 2025-03-13
+date_authored_current_draft: 2025-03-13
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: '0.0.0.1'
-authors: Michael Staton
+at_semantic_version: 0.0.0.1
 status: To-Do
-augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
+date_modified: 2025-04-12
+date_created: 2025-04-09
 tags:
-- Prompt-Engineering
-- Code-Standards
-- Best-Practices
-- Error-Handling
+  - Prompt-Engineering
+  - Code-Standards
+  - Best-Practices
+  - Error-Handling
+authors:
+  - Michael Staton
 ---
+
 ## Before starting:
 
 Do not begin until you have fully read this file, and all other files that are mentioned in this file. 

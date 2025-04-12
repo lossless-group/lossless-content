@@ -26,6 +26,38 @@ og_screenshot_url: >-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##### [[Arc Browser|Arc]] is a [[State of the Art]][[Web Browser]]
 
 ![[Screenshot 2025-02-23 at 2.31.47 PM_Arc-Browser--Hero.png]]

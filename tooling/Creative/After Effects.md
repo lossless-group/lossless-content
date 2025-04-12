@@ -28,6 +28,7 @@ tags:
 
 
 
+
 [[Computer-Generated Imagery|CGI]], [[Motion Graphics]]
 
 2025, Feb 16. [After Effects beginner tutorial](https://youtu.be/cOqMCL4aZHM?si=eTmOXoLq9jxtIkZU) YC_Chris, [[YouTube]].

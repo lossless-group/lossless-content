@@ -44,6 +44,7 @@ tags:
 
 
 
+
 One of the [[Database Apps]], and is also partially an [[Advanced Spreadsheets]] Applies [[API First]] and [[Documentation First Development|Documentation First]] strategies.
 
 ### Airtable API

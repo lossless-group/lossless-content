@@ -1,7 +1,7 @@
 ---
-date_modified: 2025-04-07
+date_modified: 2025-04-12
 site_uuid: cbb77b02-3f87-411e-90eb-f88da9824ef8
-date_created: 2025-04-07
+date_created: 2025-04-06
 aliases:
   - Local LLMs
 ---

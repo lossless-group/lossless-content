@@ -27,6 +27,7 @@ tags:
 
 
 
+
 ![[Screenshot 2025-02-20 at 11.33.53 PM_Jazz--Hero.png]]
 
 [[Local-First Applications]]

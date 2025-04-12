@@ -29,6 +29,7 @@ tags:
 
 
 
+
 Created and maintained by [[Organizations/Meta]]. It is the most popular, thus [[Market Standard]], for [[Front-End]] development.  It's essentially a [[JavaScript]] library that enables [[Component-Based Software Architecture]].
 
 https://youtu.be/Y12sGu8-qFE?si=rilEvj2P-hZGQMXG

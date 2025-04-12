@@ -29,6 +29,36 @@ tags:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 An [[AI Models|AI Model]] by [[Organizations/Mistral]]
 
 [[Organizations/Mistral]] launched [[Small]] version 3 on January 30, 2025. (Read the [announcement](https://mistral.ai/news/mistral-small-3/) on the Mistral blog.

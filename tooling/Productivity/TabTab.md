@@ -36,5 +36,6 @@ og_screenshot_url: >-
 
 
 
+
 Similar to [[Tooling/Productivity/Raycast|Raycast]] or [[Aerospace]]
 

@@ -1,7 +1,7 @@
 ---
-date_modified: 2025-04-07
+date_modified: 2025-04-12
 site_uuid: 05ddc181-6cf4-49d6-995a-7daa19683ca1
-date_created: 2025-04-07
+date_created: 2025-04-06
 aliases:
   - Microfrontends
   - Microfrontend

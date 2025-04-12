@@ -43,5 +43,36 @@ tags:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [[Data Model]], [[Enterprise SaaS]]
 ![[Screenshot 2025-02-11 at 4.02.47 PM_Ardoq--Hero.png]]

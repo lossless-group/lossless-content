@@ -1,8 +1,8 @@
 ---
 wikipedia_url: "https://en.wikipedia.org/wiki/Tidyverse"
 url: "https://www.tidyverse.org/"
-date_created: 2025-03-20
-date_modified: 2025-04-07
+date_created: 2025-03-19
+date_modified: 2025-04-12
 site_uuid: d314f0fc-6aab-445d-890f-be46bbaef2e7
 ---
 

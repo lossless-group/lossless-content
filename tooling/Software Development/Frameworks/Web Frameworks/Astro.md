@@ -32,6 +32,7 @@ tags:
 
 
 
+
 A new [[Web Frameworks|Web Framework]] that focuses on [[Static Site Generators|Static Site Generation]], but also perfectly implements [[Islands Architecture]]
 
 https://youtu.be/tWEx_cm0cf8?si=1ELVD6iww1luMzKn

@@ -22,6 +22,37 @@ tags:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Kokoro FastAPI - Self Hosted Text to Speech Platform Installation Guide](https://noted.lol/kokoro-fastapi/)
 
 [[Tooling/AI-Toolkit/Explainers/Text-to-Speech|Text-to-Speech]]

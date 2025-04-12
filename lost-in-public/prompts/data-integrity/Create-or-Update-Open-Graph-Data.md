@@ -1,24 +1,24 @@
 ---
-title: 'Create or Update Open Graph Data'
-lede: 'Build a script to fetch and update Open Graph metadata for content files using a simple build orchestrator'
-date_authored_initial_draft: 2025-04-11
-date_authored_current_draft: 2025-04-11
+title: Create or Update Open Graph Data
+lede: Build a script to fetch and update Open Graph metadata for content files using a simple build orchestrator
+date_authored_initial_draft: 2025-04-10
+date_authored_current_draft: 2025-04-10
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: '0.0.0.1'
-authors: 
-- Michael Staton
+at_semantic_version: 0.0.0.1
 status: To-Prompt
-augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
+date_created: 2025-04-10
+date_modified: 2025-04-12
 tags:
-- Open-Graph
-- Data-Management
-- Build-Scripts
-- Data-Integrity
-date_created: 2025-04-11
-date_modified: 2025-04-11
+  - Open-Graph
+  - Data-Management
+  - Build-Scripts
+  - Data-Integrity
+authors:
+  - Michael Staton
 ---
 
 # Goal:
@@ -51,4 +51,4 @@ The `simpleBuildOrchestrator.cjs` file should be the centerpiece. We stay DRY (D
 8. Already in the `fetchOpenGraphData.cjs` file should be how to handle API call errors, or error response objects.  
 9. The missing piece in `fetchOpenGraphData.cjs` should be 
    1. How to do reporting consistent with our `getReportingFormatForBuild.cjs` file and use the `singleOperationReportTemplate` template.  
-   2. How to create a record in the JSON document related to the success or error from the API Call into the `site/src/content/data/markdown-content-registry.json` file in.  It should add to the metadata section of the json object connected to the file by the `site_uuid` proeprty. 
+   2. How to create a record in the JSON document related to the success or error from the API Call into the `site/src/content/data/markdown-content-registry.json` file in.  It should add to the metadata section of the json object connected to the file by the `site_uuid` proeprty.

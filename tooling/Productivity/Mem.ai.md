@@ -40,4 +40,5 @@ tags:
 
 
 
+
 Similar to [[Networked-Notes]] and [[Advanced Documents]], but using [[Generative AI]].

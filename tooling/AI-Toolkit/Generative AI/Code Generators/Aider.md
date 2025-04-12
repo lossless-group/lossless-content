@@ -49,6 +49,36 @@ og_screenshot_url: >-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [[Code Generators]] inside [[Terminal Emulators]], it simulates [[Pair Programming]] and is helpful for [[Code Review]].
 
 It seems only helpful for [[Python]].

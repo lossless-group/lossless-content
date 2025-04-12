@@ -50,6 +50,36 @@ og_screenshot_url: >-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 A form of [[Knowledge Base AI]], that uses Team Communications as the source data, thus using [[Knowledge Augmented Generation]] to summarize what's happening around the company.
 
 

@@ -1,7 +1,7 @@
 ---
 url: "https://bradfrost.com/blog/post/atomic-web-design/"
-date_created: 2025-03-30
-date_modified: 2025-04-07
+date_created: 2025-03-29
+date_modified: 2025-04-12
 site_uuid: 88aac9b3-3ee5-41fa-bf64-2f98247eb9d9
 ---
 

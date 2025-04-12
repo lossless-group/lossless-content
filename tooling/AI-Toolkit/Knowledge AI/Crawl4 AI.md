@@ -36,6 +36,36 @@ tags:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 https://youtu.be/FHVfMxOYTBM?si=WHLeAinIWsfPz3mY
 
 An [[AI Powered Data Capture]] tool,

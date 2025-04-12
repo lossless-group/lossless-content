@@ -1,8 +1,8 @@
 ---
 url: "https://suno.com/"
-date_modified: 2025-04-07
+date_modified: 2025-04-12
 site_uuid: 1a7be468-8819-4350-8433-b2a2d4ff8536
-date_created: 2025-04-07
+date_created: 2025-04-06
 ---
 
 [[Music Generators]]

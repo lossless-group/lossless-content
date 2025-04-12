@@ -32,6 +32,37 @@ og_screenshot_url: >-
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 https://youtu.be/KDi0YvS2hFA?si=QL-s2GSdcXSOmChH
 
 [[Vocabulary/Web Security|Web Security]]

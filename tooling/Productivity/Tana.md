@@ -42,6 +42,7 @@ tags:
 
 
 
+
 [[Workflow Management]], [[AI Native Applications|AI Native]]
 
 ##### [[Tana]] is an [[AI]] Assisted [[Workflow Management]] tool.

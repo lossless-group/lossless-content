@@ -1,6 +1,6 @@
 ---
 date_created: 2025-04-06
-date_modified: 2025-04-06
+date_modified: 2025-04-11
 ---
 
 # Project Directory Structure
@@ -32,11 +32,28 @@ date_modified: 2025-04-06
 - `content/changelog--code/` - Changelog entries
 - `content/tooling/` - Content Markdown files with frontmatter
 - `content/data/` - JSON data files (no database, file-based storage)
+- `content/vocabulary/` - Markdown files with frontmatter for vocabulary terms
 
 ## Scripts (`site/scripts/`)
 - Purposefully outside src directory
 - `build-scripts/` - Run during `pnpm build`
 - `tidy-up/` - Issue-specific cleanup scripts
+
+## Tidyverse Submodule (`tidyverse/`)
+- `tidyverse/observers/` - Filesystem observer system
+  - `fileSystemObserver.ts` - Main observer implementation
+  - `index.ts` - Entry point for the observer
+  - `services/` - Observer services
+    - `templateRegistry.ts` - Manages templates for frontmatter
+    - `reportingService.ts` - Generates reports on file processing
+  - `templates/` - Template definitions
+    - `tooling.ts` - Template for tooling directory
+    - `prompts.ts` - Template for prompts directory
+  - `types/` - Type definitions for the observer
+  - `utils/` - Utility functions
+    - `commonUtils.ts` - Common utilities (date formatting, etc.)
+  - `scripts/` - One-off scripts for the observer
+    - Place all tidyverse-related scripts here
 
 ## Important Rules
 1. NEVER create directories without explicit permission
@@ -45,3 +62,10 @@ date_modified: 2025-04-06
    - `content/lost-in-public/sessions/`
    - `content/lost-in-public/issue-resolution/`
 4. ALWAYS append to historical record files, never modify existing content
+5. ALWAYS place scripts in the appropriate directory:
+   - For site-related scripts: `site/scripts/`
+   - For tidyverse-related scripts: `tidyverse/observers/scripts/`
+6. ALWAYS follow the Single Source of Truth principle:
+   - For date formatting: use `formatDate` in `tidyverse/observers/utils/commonUtils.ts`
+   - For type definitions: use types in `src/types/` or submodule-specific types
+7. NEVER modify frontmatter in content files without using the observer system

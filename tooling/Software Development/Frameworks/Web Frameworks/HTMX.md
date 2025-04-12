@@ -28,6 +28,7 @@ tags:
 
 
 
+
 2024, March 19. [HTMX in 60 seconds with ThePrimeagen](https://youtube.com/shorts/utq5nKyj-SM?si=cmwLYWR8DDpHxTpL). Frontend Masters.
 
 [[Web Frameworks|Framework]]

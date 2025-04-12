@@ -43,5 +43,6 @@ og_error_message: 'Screenshot fetch error: HTTP error! status: 500'
 
 
 
+
 [[Vocabulary/Mini Desktops|Mini-PCs]]
 https://youtu.be/BmSMFqP-EDs?si=fclrE7B3wTpB4X7I

@@ -446,6 +446,36 @@ tags:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 2024, Nov 04. [How to Pick the Best AI Open-source Projects for Production Use](https://youtu.be/wVXojxS_hak?si=VRBRN-O_QjGR0rcA)
 
 https://youtu.be/Y5BuJjViloE?si=SWiCq1ULluvJaSYW

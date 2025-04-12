@@ -1,24 +1,24 @@
 ---
-title: 'Fix one YAML Issue at a Time'
-lede: 'Create a focused script to identify and fix individual YAML issues in frontmatter without causing cascading problems'
-date_authored_initial_draft: 2025-03-15
-date_authored_current_draft: 2025-04-11
+title: Fix one YAML Issue at a Time
+lede: Create a focused script to identify and fix individual YAML issues in frontmatter without causing cascading problems
+date_authored_initial_draft: 2025-03-14
+date_authored_current_draft: 2025-04-10
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: '0.0.0.1'
-authors: 
-- Michael Staton
+at_semantic_version: 0.0.0.1
 status: To-Prompt
-augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
+date_created: 2025-03-14
+date_modified: 2025-04-12
 tags:
-- YAML-Validation
-- Error-Handling
-- Build-Scripts
-- Data-Integrity
-date_created: 2025-03-15
-date_modified: 2025-04-11
+  - YAML-Validation
+  - Error-Handling
+  - Build-Scripts
+  - Data-Integrity
+authors:
+  - Michael Staton
 ---
 
 ## Context
@@ -153,4 +153,4 @@ KEEP USER COMMENTS
 		1. do not write code to achieve what has already been solved for in the imported objects `knownErrorCases`, `helperFunctions`, and `correctionFunctions`
 4. Do not use generic variables names like `result` or `content` or `entry`. The code becomes impossible to follow.  Instead use variable names like `markdownFilesDir`markdownFile` `isolatedFrontmatterString` `markdownFilesArray` `successMessage` `isolatedPropertyWithError` `valueWithError`
 5. Heavily comment your own code with that fancy separator syntax you use. 
-6. Load your own command to run the file, and I will press it so you can see any errors. 
+6. Load your own command to run the file, and I will press it so you can see any errors.

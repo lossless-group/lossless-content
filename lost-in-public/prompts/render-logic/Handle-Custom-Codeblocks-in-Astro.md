@@ -1,32 +1,32 @@
 ---
-title: 'Technical Specification: Custom Code Block Rendering in Astro'
-lede: 'Enhance markdown rendering with specialized components for custom code languages, ensuring graceful fallbacks and maintainable styling'
-date_authored_initial_draft: 2025-03-25
-date_authored_current_draft: 2025-03-25
+title: Technical Specification - Custom Code Block Rendering in Astro
+lede: Enhance markdown rendering with specialized components for custom code languages, ensuring graceful fallbacks and maintainable styling
+date_authored_initial_draft: 2025-03-24
+date_authored_current_draft: 2025-03-24
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: '0.0.1.0'
-authors: 
-- Michael Staton
+at_semantic_version: 0.0.1.0
 status: To-Prompt
-augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
+date_created: 2025-03-24
+date_modified: 2025-04-12
 tags:
-- Render-Logic
-- Astro
-- Component-Architecture
-- Code-Blocks
-- Markdown-Enhancement
-- Custom-Rendering
-- Content-Display
-- Developer-Experience
-- Documentation
-- MDX
-- Shiki
-- Component-Composition
-date_created: 2025-03-25
-date_modified: 2025-04-11
+  - Render-Logic
+  - Astro
+  - Component-Architecture
+  - Code-Blocks
+  - Markdown-Enhancement
+  - Custom-Rendering
+  - Content-Display
+  - Developer-Experience
+  - Documentation
+  - MDX
+  - Shiki
+  - Component-Composition
+authors:
+  - Michael Staton
 ---
 
 # Custom Code Block Rendering in Astro
