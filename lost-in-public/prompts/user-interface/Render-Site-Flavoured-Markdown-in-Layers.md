@@ -1,24 +1,26 @@
 ---
-title: 'Render Site Flavored Markdown'  # Core purpose
-lede: 'Render site flavored Markdown in layers with Marked Extensions'  # Brief description
+title: 'Render Site Flavored Markdown'
+lede: 'Render site flavored Markdown in layers with Marked Extensions'
 date_authored_initial_draft: 2025-03-28
 date_authored_current_draft: 2025-03-30
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: "0.0.0.1"
-date_created: 2025-03-23
-date_modified: 2025-03-30
-authors: Michael Staton
+at_semantic_version: '0.0.0.1'
+authors: 
+- Michael Staton
 status: To-Do
-augmented_with: "Windsurf Cascade on Claude 3.5 Sonnet"
-category: "Technical"
-tags:  # Key areas covered
+augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+category: Prompts
+tags:
+- User-Interface
 - Component-Architecture
 - Content-Collections
 - UI-Design
 - Astro
 - Rendering-Pipeline
+date_created: 2025-03-23
+date_modified: 2025-03-30
 ---
 
 # Goals

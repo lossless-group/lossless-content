@@ -7,15 +7,19 @@ date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
 at_semantic_version: '0.0.0.1'
-authors: Michael Staton
+authors: 
+- Michael Staton
 status: To-Do
 augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
 category: Prompts
 tags:
+- User-Interface
 - Data-Visualization
 - Content-Models
 - JSON-Canvas
 - UI-Design
+date_created: 2025-03-18
+date_modified: 2025-04-11
 ---
 
 [[JSON Canvas]]
