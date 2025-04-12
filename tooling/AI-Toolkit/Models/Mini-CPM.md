@@ -5,10 +5,22 @@ zinger: >-
   MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live
   Streaming on Your Phone
 date_created: 2025-03-15T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 tags:
-- AI-Toolkit
+  - AI-Toolkit
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

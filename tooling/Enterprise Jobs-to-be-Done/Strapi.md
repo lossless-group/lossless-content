@@ -6,7 +6,7 @@ description_site_cp: >-
   The open-source Headless CMS for developers that makes API creation easy, and
   supports your favorite frameworks. Customize and host your projects in the
   cloud or on your own servers.
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.851Z'
 og_title: Strapi - Open source Node.js Headless CMS 🚀
 og_description: >-
@@ -23,5 +23,18 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/407f720fd5c830ad860e0d85debde08f7478c0aade2a241d5306ccee6e9aaeac.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 https://youtu.be/AvySAw7ojzc?si=PjIwuQ7VlVleVyON

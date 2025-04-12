@@ -14,10 +14,25 @@ favicon: >-
   https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-q.cdn.bubble.io%2Ff1530294839424x143528842134401200%2FIcon-no-clearspace.png?w=128&h=&auto=compress&dpr=1&fit=max
 og_fetched_url: https://bubble.io
 og_last_fetch: 2025-03-14T04:43:02.612Z
-date_modified: 2025-04-07
-date_created: 2024-10-14
-tags: [Enterprise-Jobs-To-Be-Done, App-Builders]
+date_modified: '2025-04-12'
+date_created: 2024-10-14T00:00:00.000Z
+tags:
+  - Enterprise-Jobs-To-Be-Done
+  - App-Builders
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/f6d9d55e515253b97e4fbd607750653904ebce1852e538d5c9515c229ae262dd.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
 

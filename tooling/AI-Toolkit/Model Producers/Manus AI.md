@@ -6,7 +6,7 @@ description_site_cp: >-
   think, it delivers results. Manus excels at various tasks in work and life,
   getting everything done while you rest.
 date_created: 2025-03-09T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 zinger: Leave it to Manus
 og_error: Failed to fetch OpenGraph data
 og_last_fetch: '2025-04-07T17:38:16.161Z'
@@ -16,6 +16,33 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/3174330a4ca47da94bef103de6b5d83d910778de5309066abdcb025a8c2abd67.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [[Tooling/AI-Toolkit/Explainers/Artificial General Intelligence|AGI]]
 

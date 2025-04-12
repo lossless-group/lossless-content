@@ -4,7 +4,7 @@ url: https://www.ravel.com
 laeral_rec: true
 zinger: Account Intelligence for Vertical Software
 description_site_cp: Uncover industry-specific data that will drive your next campaign.
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.851Z'
 og_title: 'Ravel: Data-Driven Insights and Account Intelligence'
 og_description: >-
@@ -22,4 +22,17 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/2ad2c67237ef2d6fd7934838fffd8c8eeb35ee686d892b1a89c4db8ab04563b4.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
 

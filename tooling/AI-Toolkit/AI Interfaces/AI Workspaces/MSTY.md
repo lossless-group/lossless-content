@@ -8,7 +8,7 @@ favicon: https://msty.app/favicon.ico
 jina_last_request: '2025-03-09T06:45:20.658Z'
 jina_error: Error occurred
 og_last_fetch: '2025-03-07T05:20:56.747Z'
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.820Z'
 tags:
   - AI-Toolkit
@@ -20,6 +20,33 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/2d243b015c15897c49c435b077e62a8ccd3573caa27f7822a3086fab22e0aeac.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [[MSTY]] installs LLM [[AI Models]] that [[Local LLM|run local]] deep in your filesystem:
 `/home/[user]/.config/Msty/models`

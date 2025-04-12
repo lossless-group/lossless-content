@@ -11,14 +11,16 @@ jina_error: Error occurred
 og_last_fetch: '2025-03-07T05:20:56.426Z'
 github_repo_url: https://github.com/fastapi/fastapi
 github_profile_url: https://github.com/fastapi
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.868Z'
 tags:
-- Frameworks
-- Software-Development
-- Web-Frameworks
-- Python-Ecosystem
+  - Frameworks
+  - Software-Development
+  - Web-Frameworks
+  - Python-Ecosystem
 ---
+
+
 
 
 
@@ -43,9 +45,9 @@ https://youtube.com/shorts/Z1XHeMgpg8A?si=7uQXcdKGVIqr1IT7
 > - Robust: Get production-ready code. With automatic interactive documentation.
 > - Standards-based: Based on (and fully compatible with) the open standards for APIs: OpenAPI (previously known as Swagger) and JSON Schema." 
 
-[^1]
+[^8d64af]
 
 # Footnotes
 ***
-[^1]: https://fastapi.tiangolo.com/
+[^8d64af]: https://fastapi.tiangolo.com/
 

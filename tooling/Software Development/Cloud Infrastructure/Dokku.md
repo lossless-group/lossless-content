@@ -3,7 +3,7 @@ site_uuid: 6c9211e1-9c5f-433f-b7bd-61fd38ef648c
 github_profile_url: https://github.com/dokku
 github_repo_url: https://github.com/dokku/dokku
 date_created: 2025-03-09T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 zinger: >-
   A docker-powered PaaS that helps you build and manage the lifecycle of
   applications
@@ -21,6 +21,24 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/75bb69a1be568f39048a0e825adcfebe6c5c9aef72f0ff12c8246e35a4a2a51c.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [[Vocabulary/Self-Hosting|Self-Host]]---
 

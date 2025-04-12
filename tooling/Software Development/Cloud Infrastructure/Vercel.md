@@ -2,12 +2,30 @@
 site_uuid: b4e6879d-f217-4d7f-a564-c1d3c822aa49
 title: Vercel
 site_visibility: public
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.860Z'
 tags:
-- Software-Development
-- Cloud-Infrastructure
+  - Software-Development
+  - Cloud-Infrastructure
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

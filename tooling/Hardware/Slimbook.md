@@ -1,7 +1,7 @@
 ---
 site_uuid: aefce8eb-9fad-4742-afbb-1a90377beccf
 url: https://slimbook.com/en/
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.853Z'
 og_title: Slimbook - The Best Linux Computers and Laptops
 og_description: >-
@@ -16,4 +16,17 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/40ca181ab475dd396b41dc9c92a16095e51496b3eaeccf1b3f2875db63fce170.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
 

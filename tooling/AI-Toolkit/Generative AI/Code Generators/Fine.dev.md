@@ -6,7 +6,7 @@ description: >-
   Accelerate your startup’s release schedule and ship daily improvements. Fine
   is the AI Coding Agent built to act like another team member, getting work
 date_created: '2025-03-30T05:44:14.833Z'
-date_modified: '2025-04-07'
+date_modified: '2025-04-12'
 og_title: Fine - Build and Deploy Apps with AI
 og_description: >-
   Your all-in-one platform for building, deploying, and running your SaaS. From
@@ -15,8 +15,35 @@ og_image: https://www.fine.dev/_next/static/media/logo.76f79362.svg
 og_url: https://www.fine.dev/
 og_last_fetch: '2025-04-07T17:38:10.973Z'
 tags:
-- AI-Toolkit
+  - AI-Toolkit
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 done. Try free or watch it work:

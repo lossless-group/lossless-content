@@ -1,7 +1,7 @@
 ---
 site_uuid: c1a9bfe0-5734-4781-bf2b-cad2133945ce
 date_created: 2025-03-20T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 url: https://www.mural.co/
 og_title: Work better together with Mural's visual work platform | Mural
 og_description: >-
@@ -21,4 +21,22 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/aff9408431d18dc6fff2d3717c29ad8702986cc31a050c67d483569fc0195119.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

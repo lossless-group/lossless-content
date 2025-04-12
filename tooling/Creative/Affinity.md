@@ -9,10 +9,13 @@ og_screenshot_url: >-
 jina_last_request: '2025-03-09T06:45:15.744Z'
 jina_error: Error occurred
 og_last_fetch: '2025-03-07T05:19:01.839Z'
-date_modified: 2025-04-07
-date_created: 2025-03-30
-tags: [Creative]
+date_modified: '2025-04-12'
+date_created: 2025-03-30T00:00:00.000Z
+tags:
+  - Creative
 ---
+
+
 
 
 
@@ -38,10 +41,10 @@ allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-pi
 referrerpolicy="strict-origin-when-cross-origin" 
 allowfullscreen
 ></iframe>
-Can we? [^1]
+Can we? [^7c9715]
 
 ##### [[Affinity]] Designer keeps [[Release Notes]]
-![[20250220_Affinity--Release-Notes.jpeg]] [^2]
+![[20250220_Affinity--Release-Notes.jpeg]] [^9b01e3]
 
 
 
@@ -51,5 +54,5 @@ Can we? [^1]
 # Footnotes
 ***
 
-[^1]: 2025, Mar 04. "[Procreate vs Affinity Designer 2.5 What's the Difference?](https://youtu.be/Zwqk8WXXEqM?si=ESFEcCN38cjqUt7n)," [[Kru Mark Tutorials]]
-[^2]: Are we doing this?
+[^7c9715]: 2025, Mar 04. "[Procreate vs Affinity Designer 2.5 What's the Difference?](https://youtu.be/Zwqk8WXXEqM?si=ESFEcCN38cjqUt7n)," [[Kru Mark Tutorials]]
+[^9b01e3]: Are we doing this?

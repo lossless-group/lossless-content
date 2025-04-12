@@ -11,14 +11,16 @@ site_name: Low
 title: 'Low-code programming for event-driven applications : Node-RED'
 og_fetched_url: https://nodered.org
 og_last_fetch: '2025-03-14T04:43:04.484Z'
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.848Z'
 tags:
-- Low-Code
-- Data-Utilities
-- Check-It-Out
-- Visual-Engineering
+  - Low-Code
+  - Data-Utilities
+  - Check-It-Out
+  - Visual-Engineering
 ---
+
+
 
 
 

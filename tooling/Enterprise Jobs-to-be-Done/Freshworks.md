@@ -16,7 +16,7 @@ title: 'Freshworks: Uncomplicated Software | IT Service, Customer Service'
 favicon: https://www.freshworks.com/favicons/favicon-32x32.png
 og_fetched_url: https://www.freshworks.com
 og_last_fetch: '2025-03-14T04:42:56.518Z'
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.850Z'
 tags:
   - Enterprise-Jobs-To-Be-Done
@@ -26,6 +26,19 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/52fbf250b3282d4234e487e8ae93a4e3d42d55aa124eacc123c11e9ed17da982.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [[All-in-One Platforms|All-in-One Platform]]
 

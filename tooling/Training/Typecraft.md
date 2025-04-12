@@ -3,7 +3,7 @@ site_uuid: a3d8eddf-c45a-4517-aa3b-fa2f8688c71f
 url: https://typecraft.dev
 tags: null
 youtube_channel_url: https://youtube.com/@typecraft_dev
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.876Z'
 og_title: Typecraft Learn
 og_description: Love What You Build
@@ -13,4 +13,7 @@ og_last_fetch: '2025-04-07T17:38:08.928Z'
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/a2309e8d78d9b01a37a1e81aa98b0aafaa50f266283be894f9ff425b2c99a817.jpeg
 ---
+
+
+
 

@@ -2,7 +2,7 @@
 site_uuid: 70b15b1d-cc11-4527-8d9c-bda4e4ef5ed5
 url: https://glarity.app
 date_created: 2025-03-19T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 github_url: https://github.com/sparticleinc/chatgpt-google-summary-extension
 zinger: Summarize & Translate Any Page
 description_site_cp: >-
@@ -25,6 +25,9 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/2c301899595f41c943cd51fa642c60dba27b565cbd55ebb957ecdda83779f98a.jpeg
 ---
+
+
+
 
 [[Vocabulary/Web Scraping|Web Scraping]]
 [[Vocabulary/Plug-ins,  Add-ons,  Extensions|Extensions]]

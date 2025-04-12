@@ -5,11 +5,13 @@ description_site_cp: >-
   Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using
   agents. AI-driven local automation assistant that uses natural language to
   make computers work by themselves
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.844Z'
 tags:
-- Computer-Using-Agents
+  - Computer-Using-Agents
 ---
+
+
 
 
 

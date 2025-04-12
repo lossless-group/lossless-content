@@ -11,12 +11,15 @@ og_error_message: HTTP error 401
 jina_last_request: '2025-03-09T06:45:19.160Z'
 jina_error: Error occurred
 og_last_fetch: '2025-03-07T06:11:14.691Z'
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.873Z'
 tags:
-- Software-Development
-- Programming-Languages
+  - Software-Development
+  - Programming-Languages
 ---
+
+
+
 
 
 
@@ -33,9 +36,9 @@ https://youtu.be/k4xuEl6TmT4?si=0hxbL-1xVxjeTqSD
 
 >"In the past two years I have gone Webpack -> Parcel -> Webpack -> Vite -> Rollup"
 >
->"I call this the "JavaScript treadmill", where everything that's more than two years old is garbage written by nincompoops, but _now_ we all got it right and _now_ everything is fantastic, and the only people who criticize it are grumpy crusty old backend boomers too lazy to learn anything new." [^1]
+>"I call this the "JavaScript treadmill", where everything that's more than two years old is garbage written by nincompoops, but _now_ we all got it right and _now_ everything is fantastic, and the only people who criticize it are grumpy crusty old backend boomers too lazy to learn anything new." [^d30f45]
 
-[^1]: 2025, Oct 2025. [Rsbuild – A Better Vite?](https://news.ycombinator.com/item?id=41941414) [[HackerNews]]
+[^d30f45]: 2025, Oct 2025. [Rsbuild – A Better Vite?](https://news.ycombinator.com/item?id=41941414) [[HackerNews]]
 
 
 <iframe style="aspect-ratio:16/9;width:100%;height:auto" src="https://www.youtube.com/embed/d_oVysaqG_0?si=xworDx9cpky4dnHD&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

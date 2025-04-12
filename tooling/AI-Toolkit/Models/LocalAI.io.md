@@ -3,7 +3,7 @@ site_uuid: 998cbf1f-3353-4165-96d6-26a74a6e95e5
 url: https://localai.io
 github_url: https://github.com/mudler/LocalAI
 date_created: 2025-03-06T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 description_site_cp: >-
   LocalAI is the free, Open Source OpenAI alternative. LocalAI act as a drop-in
   replacement REST API that’s compatible with OpenAI API specifications for
@@ -23,6 +23,18 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/8016f37324331ce3555c783ab3284f6ab19bbefc9e9418733e5fae72ca15a24c.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
 
 [[Open Source]] alternative to [[Tooling/AI-Toolkit/Model Producers/OpenAI|OpenAI]]'s [[Tooling/AI-Toolkit/Models/GPT-Series Models|GPT-Series Models]]
 

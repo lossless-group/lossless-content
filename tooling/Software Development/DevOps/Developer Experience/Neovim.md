@@ -1,7 +1,7 @@
 ---
 site_uuid: 4e9f39a8-7c54-4a37-a541-90f7735710d3
 date_created: 2025-03-08T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 url: https://neovim.io/
 reddit_forum_url: https://www.reddit.com/r/neovim/
 og_title: Neovim
@@ -11,10 +11,12 @@ og_image: >-
 og_url: https://neovim.io/index.html
 og_last_fetch: '2025-04-07T17:38:17.818Z'
 tags:
-- Text-Editors
-- Check-It-Out
-- Influencer-Favorite
+  - Text-Editors
+  - Check-It-Out
+  - Influencer-Favorite
 ---
+
+
 
 
 

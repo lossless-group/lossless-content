@@ -5,10 +5,28 @@ image: >-
 site_name: mxMarkEdit
 title: Markdown documents for Mac
 date_created: '2025-03-30T05:44:14.857Z'
-date_modified: '2025-04-07'
+date_modified: '2025-04-12'
 tags:
-- Productivity
+  - Productivity
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 GitHub _ maxnd/mxMarkEdit: A free app for Mac to create Markdown documents with stylistic support, tasks, simple databases, bibliographies and presentations
 favicon: https://github.githubassets.com/favicons/favicon.svg

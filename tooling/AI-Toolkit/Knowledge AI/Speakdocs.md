@@ -9,7 +9,7 @@ favicon: https://speakdocs.io/favicon.ico
 jina_last_request: '2025-03-09T06:44:58.143Z'
 jina_error: Error occurred
 og_last_fetch: '2025-03-07T05:19:18.721Z'
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.839Z'
 tags:
   - AI-Toolkit
@@ -18,5 +18,32 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/1e0ab6b9e01ab41c40e3b354a5c2c144e0da08d9569b6a3e304a27d786fd6d3c.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [[Knowledge Base AI]], provides the ability to chat or speak with your own [[RAG]] or [[Knowledge Augmented Generation|KAG]] setup.

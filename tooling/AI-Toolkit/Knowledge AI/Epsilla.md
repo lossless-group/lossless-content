@@ -1,10 +1,12 @@
 ---
 site_uuid: 0af4231d-30ba-4468-8d22-1dd6e181a107
 url: https://www.epsilla.com
-description_site_cp: An all-in-one platform to create vertical LLM agents powered by your private data and knowledge.
-date_created: 2025-03-10
-date_modified: 2025-03-24
-tags: 
+description_site_cp: >-
+  An all-in-one platform to create vertical LLM agents powered by your private
+  data and knowledge.
+date_created: 2025-03-10T00:00:00.000Z
+date_modified: '2025-04-12'
+tags: null
 image: https://epsilla.com/logo.png
 site_name: Epsilla
 title: Epsilla - RAG as a Service for Building Vertical LLM Agents
@@ -13,6 +15,33 @@ og_fetched_url: https://www.epsilla.com/
 og_last_fetch: '2025-03-24T05:33:19.325Z'
 og_errors: true
 og_last_error: '2025-03-24T06:28:38.579Z'
-og_error_message: "Screenshot fetch error: HTTP error! status: 500"
+og_error_message: 'Screenshot fetch error: HTTP error! status: 500'
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [[Vocabulary/Works out of the box|Works out of the box]]

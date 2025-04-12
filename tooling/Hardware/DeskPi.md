@@ -2,7 +2,7 @@
 site_uuid: e29e647c-af93-4093-87c3-c367260c3cad
 url: https://deskpi.com/
 date_created: 2025-03-08T00:00:00.000Z
-date_modified: 2025-03-24T00:00:00.000Z
+date_modified: '2025-04-12'
 created_by: '[[Raspberry Pi]]'
 image: >-
   http://deskpi.com/cdn/shop/files/Deskpi_logo.png?height=628&pad_color=ffffff&v=1732079613&width=1200
@@ -17,6 +17,35 @@ tags:
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/df8b0b1abec655e60afeab1fb4163f5dd630b23865294e402a5736221ac14ec2.jpeg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [[Raspberry Pi]] for [[Tooling/AI-Toolkit/Explainers/Home Labs|Home Labs]] and [[Tooling/AI-Toolkit/Explainers/Homelab Networks|Homelab Networks]]
 
