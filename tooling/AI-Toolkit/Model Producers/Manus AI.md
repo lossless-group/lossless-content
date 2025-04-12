@@ -1,20 +1,15 @@
 ---
 site_uuid: d3acc327-4739-469e-a06a-e3bc115625d7
 url: https://manus.im/
-description_site_cp: >-
-  Manus is a general AI agent that bridges minds and actions: it doesnt just
-  think, it delivers results. Manus excels at various tasks in work and life,
-  getting everything done while you rest.
-date_created: 2025-03-09T00:00:00.000Z
-date_modified: '2025-04-12'
+description_site_cp: "Manus is a general AI agent that bridges minds and actions: it doesnt just think, it delivers results. Manus excels at various tasks in work and life, getting everything done while you rest."
+date_created: 2025-03-09
+date_modified: 2025-04-12
 zinger: Leave it to Manus
 og_error: Failed to fetch OpenGraph data
-og_last_fetch: '2025-04-07T17:38:16.161Z'
-tags:
-  - Agentic-Workspaces
-  - AI-Models
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/3174330a4ca47da94bef103de6b5d83d910778de5309066abdcb025a8c2abd67.jpeg
+og_last_fetch: 2025-04-07T17:38:16.161Z
+tags: [Agentic-Workspaces, AI-Models]
+og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/3174330a4ca47da94bef103de6b5d83d910778de5309066abdcb025a8c2abd67.jpeg
+site_name: Manus
 ---
 
 
