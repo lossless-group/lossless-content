@@ -1,13 +1,10 @@
 ---
+date_modified: 2025-04-07
+site_uuid: 034a87c1-c8f7-41fd-bc87-ecbc97de5bf0
+date_created: 2025-04-07
 aliases:
   - Container
-date_modified: '2025-04-07'
-site_uuid: 034a87c1-c8f7-41fd-bc87-ecbc97de5bf0
-date_created: '2025-04-07T22:42:08.623Z'
 ---
-
-
-
 
 The market standard service to implement container-based engineering is [[Docker]], though the engineering influencers have started to rave about is [[ContainerD]].  
 

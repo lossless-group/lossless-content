@@ -1,10 +1,8 @@
 ---
-date_modified: '2025-04-07'
+date_modified: 2025-04-07
 site_uuid: 564994a2-a7ec-46ef-8778-c23b2b53c223
-date_created: '2025-04-07T22:42:08.651Z'
+date_created: 2025-04-07
 ---
-
-
 
 Repetitive vs. Variable Work, Independent vs. Interactive Work, Physical vs. Mental Work
 

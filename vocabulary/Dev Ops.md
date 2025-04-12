@@ -1,10 +1,10 @@
 ---
+date_modified: 2025-04-07
+site_uuid: 9c227dd1-f3a6-4f63-b5cd-37a15b64997e
+date_created: 2025-04-07
 aliases:
   - DevOps
   - Developer Operations
-date_modified: '2025-04-07'
-site_uuid: 9c227dd1-f3a6-4f63-b5cd-37a15b64997e
-date_created: '2025-04-07T22:42:08.625Z'
 ---
 
 Tools for [[Dev Ops]] include [[Kubernetes]], which orchestrates [[Containers]].

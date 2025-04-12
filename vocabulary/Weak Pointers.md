@@ -1,10 +1,8 @@
 ---
-date_modified: '2025-04-07'
+date_modified: 2025-04-07
 site_uuid: b6e8e695-d9b8-4dc4-a4f3-5f0f773b6085
-date_created: '2025-04-07T22:42:08.650Z'
+date_created: 2025-04-07
 ---
-
-
 
 https://youtu.be/x2WtHZciC74?si=83UenlwiIydbNr_j
 

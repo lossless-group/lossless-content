@@ -1,7 +1,7 @@
 ---
-date_modified: '2025-04-07'
+date_modified: 2025-04-07
 site_uuid: d7faf481-347e-4295-9b1d-a03894232483
-date_created: '2025-04-07T22:42:08.644Z'
+date_created: 2025-04-07
 ---
 
 A [[Service Mesh]] is an umbrella layer around [[Microservices]] 

@@ -1,13 +1,10 @@
 ---
+date_created: 2025-03-29
+date_modified: 2025-04-07
+site_uuid: 55bb2344-928a-40ff-b219-48b2a774ef4e
 aliases:
   - Advanced Spreadsheet
-date_created: 2025-03-30T00:00:00.000Z
-date_modified: '2025-04-07'
-site_uuid: 55bb2344-928a-40ff-b219-48b2a774ef4e
 ---
-
-
-
 
 Usually employs significant [[Artificial Intelligence|AI]], and [[Realtime Collaboration]] features.  
 

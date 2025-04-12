@@ -1,7 +1,7 @@
 ---
-date_modified: '2025-04-07'
+date_modified: 2025-04-07
 site_uuid: d26df8f0-979f-4902-94a1-557b1a672080
-date_created: '2025-04-07T22:42:08.638Z'
+date_created: 2025-04-07
 ---
 
 Part of [[01_Web Security is Oldschool]]

@@ -1,13 +1,10 @@
 ---
+date_modified: 2025-04-07
+site_uuid: 60047552-e2aa-4d9e-a658-b4d192071ea4
+date_created: 2025-04-07
 aliases:
   - Divergent Thinking
-date_modified: '2025-04-07'
-site_uuid: 60047552-e2aa-4d9e-a658-b4d192071ea4
-date_created: '2025-04-07T22:42:08.622Z'
 ---
-
-
-
 
 https://youtu.be/MnFTk8mVrs4?si=qVino0QHnse51XVc
 

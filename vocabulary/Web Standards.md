@@ -1,12 +1,10 @@
 ---
+date_modified: 2025-04-07
+site_uuid: 6dd9fdec-dabd-4030-a68f-345d51cdafc9
+date_created: 2025-04-07
 aliases:
   - Web Standard
-date_modified: '2025-04-07'
-site_uuid: 6dd9fdec-dabd-4030-a68f-345d51cdafc9
-date_created: '2025-04-07T22:42:08.651Z'
 ---
-
-
 
 [[OpenSSL]]
 

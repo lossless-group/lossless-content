@@ -1,11 +1,11 @@
 ---
+date_modified: 2025-04-07
+site_uuid: bd93aa98-5593-4d01-9d4a-1dc98882b4d0
+date_created: 2025-04-07
 aliases:
   - Reference Management
   - RMS
   - Reference Management Systems
-date_modified: '2025-04-07'
-site_uuid: bd93aa98-5593-4d01-9d4a-1dc98882b4d0
-date_created: '2025-04-07T22:42:08.640Z'
 ---
 
 [[PapersApp]]

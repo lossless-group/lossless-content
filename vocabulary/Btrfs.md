@@ -1,13 +1,10 @@
 ---
-wikipedia_url: https://en.m.wikipedia.org/wiki/Btrfs
-date_created: 2025-03-19T00:00:00.000Z
-date_modified: '2025-04-07'
-docs_url: https://docs.kernel.org/filesystems/btrfs.html
+wikipedia_url: "https://en.m.wikipedia.org/wiki/Btrfs"
+date_created: 2025-03-18
+date_modified: 2025-04-07
+docs_url: "https://docs.kernel.org/filesystems/btrfs.html"
 site_uuid: 604827ea-ec02-4386-92e3-c49d468cfb0e
 ---
-
-
-
 
 [[Vocabulary/File System|File System]]
 

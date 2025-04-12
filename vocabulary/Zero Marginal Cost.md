@@ -1,10 +1,8 @@
 ---
-date_modified: '2025-04-07'
+date_modified: 2025-04-07
 site_uuid: cac722e3-8615-4f55-836e-c47151a2b788
-date_created: '2025-04-07T22:42:08.652Z'
+date_created: 2025-04-07
 ---
-
-
 
 > [!NOTE] AI Explains
 > The concept of "zero marginal cost" refers to the phenomenon where the cost of serving an additional customer (marginal cost) approaches zero in internet-native businesses. This is a defining feature of digital platforms, software-as-a-service (SaaS) companies, and other internet-based businesses. Here's an explanation of the concept and its implications:

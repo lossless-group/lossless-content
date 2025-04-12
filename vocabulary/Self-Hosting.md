@@ -1,9 +1,9 @@
 ---
+date_modified: 2025-04-07
+site_uuid: f523037e-f522-466c-83e8-2af7793df711
+date_created: 2025-04-07
 aliases:
   - Self-Host
-date_modified: '2025-04-07'
-site_uuid: f523037e-f522-466c-83e8-2af7793df711
-date_created: '2025-04-07T22:42:08.643Z'
 ---
 
 Including [[Coolify]], [[Tooling/Software Development/Cloud Infrastructure/Bolt.diy]], [[DeepSeek]], [[n8n]], [[Kestra]]

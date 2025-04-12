@@ -1,7 +1,7 @@
 ---
-date_modified: '2025-04-07'
+date_modified: 2025-04-07
 site_uuid: 2314aeaa-2f48-4def-9b9d-97290230f27a
-date_created: '2025-04-07T22:42:08.632Z'
+date_created: 2025-04-07
 ---
 
 According to [[Poe AI]]:

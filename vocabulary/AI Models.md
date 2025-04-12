@@ -1,11 +1,11 @@
 ---
+date_created: 2025-03-30
+date_modified: 2025-04-07
+site_uuid: 2742fe0c-7bee-4f2c-9cee-b0630f9be3e3
 aliases:
   - Models
   - AI Model
   - Model
-date_created: 2025-03-31T00:00:00.000Z
-date_modified: '2025-04-07'
-site_uuid: 2742fe0c-7bee-4f2c-9cee-b0630f9be3e3
 ---
 
 | Column 1 | Column 2 |

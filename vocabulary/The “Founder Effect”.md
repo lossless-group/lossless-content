@@ -1,7 +1,7 @@
 ---
-date_modified: '2025-04-07'
+date_modified: 2025-04-07
 site_uuid: e00b1259-20e1-47de-b6bf-9a30506ea918
-date_created: '2025-04-07T22:42:08.647Z'
+date_created: 2025-04-07
 ---
 
 [[Organizations/Perplexity AI]] explains [[The “Founder Effect”]]

@@ -1,9 +1,9 @@
 ---
+date_modified: 2025-04-07
+site_uuid: 596e22c3-64ba-491b-91bd-a2ef4f9e0db6
+date_created: 2025-04-07
 aliases:
   - Monorepos
-date_modified: '2025-04-07'
-site_uuid: 596e22c3-64ba-491b-91bd-a2ef4f9e0db6
-date_created: '2025-04-07T22:42:08.634Z'
 ---
 
 https://youtu.be/9iU_IE6vnJ8?si=8neGJXD5uJ784qT8

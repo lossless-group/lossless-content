@@ -1,11 +1,8 @@
 ---
-date_modified: '2025-04-07'
+date_modified: 2025-04-07
 site_uuid: b0442d3c-17d4-4008-aed2-d62b75e50980
-date_created: '2025-04-07T22:42:08.620Z'
+date_created: 2025-04-07
 ---
-
-
-
 
 According to [[Gartner]], [[Best-in-class]] is defined as the superior product within a category of hardware or software. It does not necessarily mean best product overall, however. For example, the best-in-class product in a low-priced category may be inferior to the best product on the market, which could sell for much more. [^775bdf]
 

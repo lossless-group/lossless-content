@@ -1,9 +1,9 @@
 ---
+date_modified: 2025-04-07
+site_uuid: 53d4e1a3-a4a2-4c78-814a-90c7abb7ab57
+date_created: 2025-04-07
 aliases:
   - ORM
-date_modified: '2025-04-07'
-site_uuid: 53d4e1a3-a4a2-4c78-814a-90c7abb7ab57
-date_created: '2025-04-07T22:42:08.636Z'
 ---
 
 [[Prisma]]

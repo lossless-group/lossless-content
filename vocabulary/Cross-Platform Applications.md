@@ -1,9 +1,9 @@
 ---
+date_modified: 2025-04-07
+site_uuid: 455e1ae1-5ce1-4ec1-aff9-5d760dde2653
+date_created: 2025-04-07
 aliases:
   - Cross-Platform
-date_modified: '2025-04-07'
-site_uuid: 455e1ae1-5ce1-4ec1-aff9-5d760dde2653
-date_created: '2025-04-07T22:42:08.624Z'
 ---
 
 [[Organizations/Perplexity AI]] explains [[Cross-Platform Applications]]

@@ -1,8 +1,8 @@
 ---
 expanded-acronym: Self Correcting Auto-Refined Prompts
-date_modified: '2025-04-07'
+date_modified: 2025-04-07
 site_uuid: 2aad9782-05bd-428e-bed7-0483895f2012
-date_created: '2025-04-07T22:42:08.641Z'
+date_created: 2025-04-07
 ---
 
 [Here's a good overview](https://youtu.be/l_oyHrgRm20?si=3CnkLgSEvcQ-_YkZ) on [[YouTube]]. It has the following diagram:

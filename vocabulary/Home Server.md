@@ -1,7 +1,7 @@
 ---
-date_modified: '2025-04-07'
+date_modified: 2025-04-07
 site_uuid: 062d59f4-775d-45b4-9199-1e06b19c1d09
-date_created: '2025-04-07T22:42:08.629Z'
+date_created: 2025-04-07
 ---
 
 https://youtu.be/Jr5MjhgPz_c?si=buORCb2D6sCZjB7w

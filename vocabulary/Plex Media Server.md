@@ -1,9 +1,9 @@
 ---
-date_created: 2025-03-14T00:00:00.000Z
-date_modified: '2025-04-07'
+date_created: 2025-03-13
+date_modified: 2025-04-07
+site_uuid: 1ba3accf-c217-4e64-9312-53653fc1071b
 aliases:
   - Plex Server
-site_uuid: 1ba3accf-c217-4e64-9312-53653fc1071b
 ---
 
 https://youtu.be/C1Mfe1B7ens?si=KXvA-bqAusjb1Hgu

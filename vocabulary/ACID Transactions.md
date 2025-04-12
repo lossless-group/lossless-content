@@ -1,11 +1,8 @@
 ---
-date_created: 2025-03-31T00:00:00.000Z
-date_modified: '2025-04-07'
+date_created: 2025-03-30
+date_modified: 2025-04-07
 site_uuid: d355fb7a-24d5-49d8-8c2b-15de6145df27
 ---
-
-
-
 
 A behavior of [[Relational Database]]
 
