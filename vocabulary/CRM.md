@@ -1,13 +1,10 @@
 ---
+date_modified: 2025-04-07
+site_uuid: 05fd6e2d-778e-451d-af53-a292b560e905
+date_created: 2025-04-07
 aliases:
   - Customer Relationship Management
-date_modified: '2025-04-07'
-site_uuid: 05fd6e2d-778e-451d-af53-a292b560e905
-date_created: '2025-04-07T22:42:08.621Z'
 ---
-
-
-
 
 [[Salesforce]], [[Twenty]]
 > [!NOTE] AI Explains

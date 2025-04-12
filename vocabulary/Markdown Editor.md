@@ -1,9 +1,9 @@
 ---
+date_modified: 2025-04-07
+site_uuid: 3b7128f6-a2c2-4a2b-b641-057551a601bc
+date_created: 2025-04-07
 aliases:
   - Markdown Editors
-date_modified: '2025-04-07'
-site_uuid: 3b7128f6-a2c2-4a2b-b641-057551a601bc
-date_created: '2025-04-07T22:42:08.632Z'
 ---
 
 [[Ulysses]], [[Obsidian.md]], [[Typora]], [[Anytype]]

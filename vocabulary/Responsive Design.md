@@ -1,8 +1,7 @@
 ---
-wikipedia_url: >-
-  https://en.wikipedia.org/wiki/Responsive_web_design#:~:text=Responsive%20web%20design%20(RWD)%20or,to%20ensure%20usability%20and%20satisfaction.
-date_created: 2025-03-21T00:00:00.000Z
-date_modified: '2025-04-07'
+wikipedia_url: "https://en.wikipedia.org/wiki/Responsive_web_design#:~:text=Responsive%20web%20design%20(RWD)%20or,to%20ensure%20usability%20and%20satisfaction."
+date_created: 2025-03-20
+date_modified: 2025-04-07
 site_uuid: 4993b009-5ab6-4ec6-8c75-30d039c9b9a1
 ---
 

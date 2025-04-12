@@ -1,7 +1,7 @@
 ---
-date_modified: '2025-04-07'
+date_modified: 2025-04-07
 site_uuid: fd520148-9b95-4912-9019-1df759c284c9
-date_created: '2025-04-07T22:42:08.633Z'
+date_created: 2025-04-07
 ---
 
 [Meta Prompting with o1, o1 Pro Mode, and ChatGPT Pro (Compute on Compute)](https://youtu.be/yZGb9-Z9DG0?si=y-Fwv7aObaA-5YWw)

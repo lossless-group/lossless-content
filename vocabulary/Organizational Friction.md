@@ -1,7 +1,7 @@
 ---
-date_modified: '2025-04-07'
+date_modified: 2025-04-07
 site_uuid: 893972da-0c9f-46b8-a135-bbc298008772
-date_created: '2025-04-07T22:42:08.637Z'
+date_created: 2025-04-07
 ---
 
 2025, Jan 13. [Become an Organizational Friction Fixer](https://youtu.be/GKp6fMwnP2s?si=XrC-FKAqHvs7QFed) [[Big Think]], [[YouTube]]

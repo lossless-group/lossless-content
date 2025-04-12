@@ -1,10 +1,10 @@
 ---
+expanded-acronym: Representational State Transfer
+date_modified: 2025-04-07
+site_uuid: 485c512a-e7d0-4dc0-9afc-ab333d5b53d8
+date_created: 2025-04-07
 aliases:
   - REST APIs
-expanded-acronym: Representational State Transfer
-date_modified: '2025-04-07'
-site_uuid: 485c512a-e7d0-4dc0-9afc-ab333d5b53d8
-date_created: '2025-04-07T22:42:08.639Z'
 ---
 
 ![[Screenshot 2025-01-03 at 2.51.20 PM_API-Analogy.png]]

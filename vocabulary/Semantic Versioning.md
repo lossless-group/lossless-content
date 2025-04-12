@@ -1,9 +1,9 @@
 ---
+date_modified: 2025-04-07
+site_uuid: 931625f5-532d-45cf-941c-6c926d1f7dda
+date_created: 2025-04-07
 aliases:
   - SemVer
-date_modified: '2025-04-07'
-site_uuid: 931625f5-532d-45cf-941c-6c926d1f7dda
-date_created: '2025-04-07T22:42:08.643Z'
 ---
 
 https://youtu.be/5TIDnT9LTFc?si=hpBxJZNR6Q8nYkpM

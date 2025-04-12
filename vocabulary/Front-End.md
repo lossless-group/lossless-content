@@ -1,7 +1,7 @@
 ---
-date_modified: '2025-04-07'
+date_modified: 2025-04-07
 site_uuid: 4a3faede-a49a-4ad8-bd85-d2fc717f7914
-date_created: '2025-04-07T22:42:08.628Z'
+date_created: 2025-04-07
 ---
 
 Usually involves heavy use of [[JavaScript]], [[CSS]], and [[HTML]].  

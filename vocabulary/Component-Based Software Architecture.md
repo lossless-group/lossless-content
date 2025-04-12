@@ -1,11 +1,8 @@
 ---
-date_modified: '2025-04-07'
+date_modified: 2025-04-07
 site_uuid: 8fdb2b4a-b9ec-4e07-b16c-97d34bf2b7e1
-date_created: '2025-04-07T22:42:08.623Z'
+date_created: 2025-04-07
 ---
-
-
-
 
 A dominant paradigm for most modern [[Web Frameworks]], and complimented by the rise of [[Design Systems]]. 
 

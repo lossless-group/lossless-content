@@ -1,11 +1,8 @@
 ---
-date_modified: '2025-04-07'
+date_modified: 2025-04-07
 site_uuid: 506110ac-c405-4221-af40-52b6c650163e
-date_created: '2025-04-07T22:42:08.622Z'
+date_created: 2025-04-07
 ---
-
-
-
 
 [[Cassandra]]
 

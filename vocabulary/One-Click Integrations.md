@@ -1,12 +1,10 @@
 ---
-covers_tags:
-  - One-Click-Integrations
-  - IPaaS
-date_modified: '2025-04-07'
+covers_tags: One-Click-Integrations,IPaaS
+date_modified: 2025-04-07
 site_uuid: dd62813e-84cc-46d6-9696-303aff0d8863
-date_created: '2025-04-07T22:42:08.636Z'
+date_created: 2025-04-07
 tags:
-- One-Click-Integrations
+  - One-Click-Integrations
 ---
 
 Part of an [[Integration Library]].  

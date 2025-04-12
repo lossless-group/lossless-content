@@ -1,14 +1,12 @@
 ---
+date_modified: 2025-04-07
+site_uuid: c49fdee8-e072-47cb-aa26-3d435008fb39
+date_created: 2025-04-07
 aliases:
   - Web Browsers
   - Browser
   - Browsers
-date_modified: '2025-04-07'
-site_uuid: c49fdee8-e072-47cb-aa26-3d435008fb39
-date_created: '2025-04-07T22:42:08.650Z'
 ---
-
-
 
 [[Arc Browser 1|Arc]], [[Zen Browser]], [[Chrome 1|Chrome Browser]], [[Opera|Opera Browser]], [[Firefox]]
 

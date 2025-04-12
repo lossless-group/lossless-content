@@ -1,7 +1,7 @@
 ---
-date_modified: '2025-04-07'
+date_modified: 2025-04-07
 site_uuid: f91d3c65-d518-4ce8-8d9a-f0247db6cf13
-date_created: '2025-04-07T22:42:08.641Z'
+date_created: 2025-04-07
 ---
 
 ## for Market Adoption

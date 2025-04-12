@@ -1,11 +1,11 @@
 ---
+date_modified: 2025-04-07
+site_uuid: 047ada1f-c96c-40f8-91c9-014b4cddcec3
+date_created: 2025-04-07
 aliases:
   - LLM
   - LLMs
   - Large Language Model
-date_modified: '2025-04-07'
-site_uuid: 047ada1f-c96c-40f8-91c9-014b4cddcec3
-date_created: '2025-04-07T22:42:08.631Z'
 ---
 
 Include [[OpenAI]]. 

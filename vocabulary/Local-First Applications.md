@@ -1,11 +1,11 @@
 ---
 url: null
+date_modified: 2025-04-07
+site_uuid: 3a71af24-e11b-40cf-ba6a-160235949ec4
+date_created: 2025-04-07
 aliases:
   - Local-First
   - Local-First Apps
-date_modified: '2025-04-07'
-site_uuid: 3a71af24-e11b-40cf-ba6a-160235949ec4
-date_created: '2025-04-07T22:42:08.632Z'
 ---
 
 [[Realtime Collaboration]], [[Cognitive, Collaborative Tooling]]

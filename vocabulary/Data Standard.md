@@ -1,9 +1,9 @@
 ---
+date_modified: 2025-04-07
+site_uuid: 5fdb17ff-fb93-44d1-a5c8-9c6749c79e21
+date_created: 2025-04-07
 aliases:
   - Data Standards
-date_modified: '2025-04-07'
-site_uuid: 5fdb17ff-fb93-44d1-a5c8-9c6749c79e21
-date_created: '2025-04-07T22:42:08.625Z'
 ---
 
 [[Mermaid.js]]

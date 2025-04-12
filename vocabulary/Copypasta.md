@@ -1,7 +1,7 @@
 ---
-date_modified: '2025-04-07'
+date_modified: 2025-04-07
 site_uuid: f298f6a1-1165-4d52-9bc0-6dd53dedb56b
-date_created: '2025-04-07T22:42:08.624Z'
+date_created: 2025-04-07
 ---
 
 > [!NOTE] [[Organizations/Perplexity AI]] explains [[Copypasta]]

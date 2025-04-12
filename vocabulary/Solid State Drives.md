@@ -1,7 +1,7 @@
 ---
-date_created: 2025-03-19T00:00:00.000Z
-date_modified: '2025-04-07'
-wikipedia_url: https://en.wikipedia.org/wiki/Solid-state_drive
+date_created: 2025-03-18
+date_modified: 2025-04-07
+wikipedia_url: "https://en.wikipedia.org/wiki/Solid-state_drive"
 site_uuid: 476f30a4-15af-4ec1-9dc2-fda8a0d6e652
 ---
 

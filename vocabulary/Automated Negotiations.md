@@ -1,11 +1,8 @@
 ---
-date_created: 2025-03-31T00:00:00.000Z
-date_modified: '2025-04-07'
+date_created: 2025-03-30
+date_modified: 2025-04-07
 site_uuid: 070fcc3b-1d19-404e-91ff-0289dfe53017
 ---
-
-
-
 
 [[Lindy AI]]
 

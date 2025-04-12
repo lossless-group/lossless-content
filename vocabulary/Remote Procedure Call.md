@@ -1,10 +1,10 @@
 ---
-wikipedia-url: https://en.wikipedia.org/wiki/Remote_procedure_call
+wikipedia-url: "https://en.wikipedia.org/wiki/Remote_procedure_call"
+date_modified: 2025-04-07
+site_uuid: 004cb2e0-950d-4a67-9ac9-6fcc38e4efc0
+date_created: 2025-04-07
 aliases:
   - RPC
-date_modified: '2025-04-07'
-site_uuid: 004cb2e0-950d-4a67-9ac9-6fcc38e4efc0
-date_created: '2025-04-07T22:42:08.640Z'
 ---
 
 Here is how [[Generative AI]], [[Poe AI]] describes an [[Remote Procedure Call|RPC]].
