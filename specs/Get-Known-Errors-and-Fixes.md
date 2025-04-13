@@ -1,3 +1,27 @@
+---
+title: Known YAML Errors and Fixes Registry
+lede: Automated detection and correction system for common YAML frontmatter errors in Markdown content
+date_authored_initial_draft: 2025-03-15
+date_authored_current_draft: 2025-03-15
+date_authored_final_draft: null
+date_first_published: null
+date_last_updated: null
+at_semantic_version: 0.0.1.0
+authors: 
+- Michael Staton
+status: Implemented
+augmented_with: "Windsurf IDE with Claude 3.5 Sonnet"
+category: Specification
+date_created: 2025-03-15
+date_modified: 2025-04-12
+tags:
+- Scripts
+- YAML
+- Error-Detection
+- Content-Fixes
+- Build-Process
+---
+
 ## Executive Summary
 
 The `getKnownErrorsAndFixes.cjs` script is a critical component of our Markdown content processing pipeline. It identifies and corrects common YAML frontmatter errors that could prevent proper site generation or cause runtime issues. This script ensures content reliability without requiring manual intervention.
@@ -202,5 +226,3 @@ All correction functions return a standardized object:
    - Configuration options
    - Troubleshooting guides
    - Maintenance procedures
-
-
