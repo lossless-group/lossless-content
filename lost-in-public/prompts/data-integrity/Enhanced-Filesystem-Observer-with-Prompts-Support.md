@@ -1,36 +1,39 @@
 ---
-title: Enhanced filesystem observer with prompts directory support
-lede: "Extend the filesystem observer to monitor prompts directory, validate frontmatter, and prepare content for website publication"
-date_authored_initial_draft: 2025-04-10
-date_authored_current_draft: 2025-04-10
+title: Enhanced Filesystem Observer with Prompts and Specifications Support
+lede: Extend the filesystem observer to monitor prompts and specifications directories, validating frontmatter against templates and preparing for publication
+date_authored_initial_draft: 2025-03-15
+date_authored_current_draft: 2025-04-12
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: 0.2.0.0
+at_semantic_version: 0.3.0.0
 status: To-Implement
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-04-10
+date_created: 2025-03-15
 date_modified: 2025-04-12
 tags:
-  - Frontmatter-Validation
-  - File-Processing
-  - Build-Scripts
-  - File-Systems
-  - Data-Integrity
-  - Content-Publishing
+  - Filesystem-Observer
+  - Frontmatter
+  - YAML
+  - Validation
+  - Prompts
+  - Specifications
+  - Content-Management
+  - Metadata
 authors:
   - Michael Staton
 ---
 
 ## Objective
-Enhance the existing filesystem observer system to monitor the `content/lost-in-public/prompts` directory, validate frontmatter against a new template designed for prompts, and prepare these prompts for publication on the website as resources for clients.
+Enhance the existing filesystem observer system to monitor both the `content/lost-in-public/prompts` and `content/specs` directories, validate frontmatter against templates designed for prompts and specifications, and prepare these resources for publication on the website as resources for clients.
 
 ## Implementation Status
 This enhancement builds upon the successfully implemented system in the `tidyverse/observers` directory, extending it with:
-- New template for prompts directory
+- New templates for prompts and specifications directories
 - Support for additional metadata fields required for publication
 - Preservation of existing content while ensuring consistent frontmatter
+- Generation of site_uuid for resources that don't already have one
 
 ## System Architecture
 
@@ -43,12 +46,15 @@ graph TD
     E -->|Match Path| F{Template Type}
     F -->|Tooling| G[Tooling Template]
     F -->|Prompts| H[Prompts Template]
-    C -->|Missing Fields?| I[addMissingRequiredFields]
-    I -->|Special Handling| J[date_created]
-    J -->|Compare with| K[File Birthtime]
-    I -->|Update| L[Write Updated File]
-    B -->|Log Activity| M[ReportingService]
-    M -->|Generate| N[Markdown Reports]
+    F -->|Specs| I[Specifications Template]
+    C -->|Missing Fields?| J[addMissingRequiredFields]
+    J -->|Special Handling| K[date_created]
+    K -->|Compare with| L[File Birthtime]
+    J -->|Special Handling| M[site_uuid]
+    M -->|Generate if missing| N[UUID Generator]
+    J -->|Update| O[Write Updated File]
+    B -->|Log Activity| P[ReportingService]
+    P -->|Generate| Q[Markdown Reports]
 ```
 
 ## Data Flow
@@ -253,6 +259,15 @@ const promptsTemplate = {
           return null;
         }
       }
+    },
+    site_uuid: {
+      type: 'string',
+      description: 'Unique identifier for the resource on the website',
+      validation: (value) => typeof value === 'string' && value.length > 0,
+      defaultValueFn: () => {
+        // Generate a UUID v4 for the resource
+        return generateUUID();
+      }
     }
   },
   
@@ -275,9 +290,162 @@ const promptsTemplate = {
     }
   }
 };
-```
 
-### 3. Updated FileSystemObserver
+### 3. Specifications Template Definition
+```typescript
+const specificationsTemplate = {
+  id: 'specifications',
+  name: 'Technical Specification',
+  description: 'Template for technical specifications documentation',
+  
+  // Path pattern to match specifications directory
+  pathPatterns: ['content/specs/**/*.md'],
+  
+  required: {
+    title: {
+      type: 'string',
+      description: 'Title of the specification',
+      defaultValueFn: (filePath) => {
+        try {
+          // Extract filename without extension and convert to title case
+          const filename = path.basename(filePath, '.md');
+          return filename.split('-').map(word => 
+            word.charAt(0).toUpperCase() + word.slice(1)
+          ).join(' ');
+        } catch (error) {
+          console.error(`Error generating title for ${filePath}:`, error);
+          return 'Untitled Specification';
+        }
+      }
+    },
+    lede: {
+      type: 'string',
+      description: 'Brief description of the specification',
+      defaultValueFn: () => 'Technical specification document outlining implementation details'
+    },
+    status: {
+      type: 'string',
+      description: 'Current status of the specification',
+      validation: (value) => {
+        const allowedValues = ['Draft', 'In-Review', 'Approved', 'Implemented', 'Deprecated'];
+        return typeof value === 'string' && allowedValues.includes(value);
+      },
+      defaultValueFn: () => 'Draft'
+    },
+    authors: {
+      type: 'array',
+      description: 'Author(s) of the specification',
+      validation: (value) => {
+        // Handle various author formats
+        if (Array.isArray(value)) {
+          // Array format is already correct
+          return value.length > 0;
+        } else if (typeof value === 'string') {
+          // If it's a string, it should be non-empty
+          return value.trim().length > 0;
+        }
+        return false;
+      },
+      defaultValueFn: () => ['Michael Staton']
+    },
+    category: {
+      type: 'string',
+      description: 'Category of the specification',
+      defaultValueFn: () => 'Technical Specifications'
+    },
+    tags: {
+      type: 'array',
+      description: 'Categorization tags',
+      defaultValueFn: (filePath) => {
+        try {
+          // Extract filename without extension
+          const filename = path.basename(filePath, '.md');
+          // Split by hyphens and convert to tags
+          return filename.split('-').map(word => 
+            word.charAt(0).toUpperCase() + word.slice(1)
+          );
+        } catch (error) {
+          console.error(`Error generating tags for ${filePath}:`, error);
+          return ['Uncategorized'];
+        }
+      }
+    },
+    date_created: {
+      type: 'date',
+      description: 'Creation date',
+      defaultValueFn: (filePath) => {
+        // Use the shared utility function for file creation date
+        return getFileCreationDate(filePath);
+      }
+    },
+    date_modified: {
+      type: 'date',
+      description: 'Last modification date',
+      defaultValueFn: () => {
+        // Use the shared utility function for current date
+        return getCurrentDate();
+      }
+    },
+    site_uuid: {
+      type: 'string',
+      description: 'Unique identifier for the resource on the website',
+      validation: (value) => typeof value === 'string' && value.length > 0,
+      defaultValueFn: () => {
+        // Generate a UUID v4 for the resource
+        return generateUUID();
+      }
+    }
+  },
+  
+  optional: {
+    date_approved: {
+      type: 'date',
+      description: 'Date the specification was approved'
+    },
+    date_implemented: {
+      type: 'date',
+      description: 'Date the specification was implemented'
+    },
+    date_deprecated: {
+      type: 'date',
+      description: 'Date the specification was deprecated'
+    },
+    related_specs: {
+      type: 'array',
+      description: 'Related specification documents'
+    }
+  }
+};
+
+### 4. UUID Generation Function
+```typescript
+/**
+ * Add site_uuid to resources that don't have one
+ * 
+ * This function checks if a resource has a site_uuid and generates one if missing.
+ * It's used in the addMissingRequiredFields function to ensure all resources have
+ * a unique identifier for website publication.
+ * 
+ * @param frontmatter - The frontmatter object to process
+ * @returns Updated frontmatter and whether changes were made
+ */
+async function addSiteUuid(
+  frontmatter: Record<string, any>
+): Promise<{ updatedFrontmatter: Record<string, any>; changed: boolean }> {
+  let changed = false;
+  
+  // Check if site_uuid exists
+  if (!frontmatter.site_uuid) {
+    // Generate a new UUID
+    frontmatter.site_uuid = generateUUID();
+    changed = true;
+    console.log(`Generated site_uuid: ${frontmatter.site_uuid}`);
+  }
+  
+  return { updatedFrontmatter: frontmatter, changed };
+}
+
+### 5. Updated FileSystemObserver
 ```typescript
 class FileSystemObserver {
   constructor(
@@ -288,7 +456,8 @@ class FileSystemObserver {
     // Initialize watcher with multiple directories
     this.watcher = chokidar.watch([
       path.join(contentRoot, 'tooling'),
-      path.join(contentRoot, 'lost-in-public/prompts')
+      path.join(contentRoot, 'lost-in-public/prompts'),
+      path.join(contentRoot, 'specs')
     ], {
       persistent: true,
       ignoreInitial: false,
@@ -306,49 +475,73 @@ class FileSystemObserver {
   
   // Rest of the implementation...
 }
-```
 
-### 4. Integration with Website Publication
-```typescript
-// In the FileSystemObserver class
 async processFileForPublication(filePath: string, frontmatter: any, content: string) {
-  // Only process prompts
-  if (!filePath.includes('lost-in-public/prompts')) {
+  // Only process prompts and specifications
+  if (!filePath.includes('lost-in-public/prompts') && !filePath.includes('specs')) {
     return;
   }
   
-  // Check if the prompt is ready for publication
-  if (frontmatter.status === 'Implemented' || frontmatter.status === 'Published') {
-    // Generate publication-ready version
-    const publicationPath = filePath
-      .replace('lost-in-public/prompts', 'published/prompts')
-      .replace(/\.md$/, '.astro');
-      
-    // Ensure directory exists
-    const publicationDir = path.dirname(publicationPath);
-    await fs.promises.mkdir(publicationDir, { recursive: true });
-    
-    // Create Astro component with frontmatter
-    const astroContent = `---
-// Generated from ${path.basename(filePath)}
-layout: '@layouts/PromptLayout.astro'
+  // Check if the resource is ready for publication
+  const isPrompt = filePath.includes('lost-in-public/prompts');
+  const isSpec = filePath.includes('specs');
+  
+  // Different publication criteria based on content type
+  let readyForPublication = false;
+  
+  if (isPrompt) {
+    // Prompts are ready when status is 'Implemented' or 'Published'
+    readyForPublication = ['Implemented', 'Published'].includes(frontmatter.status);
+  } else if (isSpec) {
+    // Specs are ready when status is 'Approved' or 'Implemented'
+    readyForPublication = ['Approved', 'Implemented'].includes(frontmatter.status);
+  }
+  
+  if (!readyForPublication) {
+    console.log(`${filePath} is not ready for publication. Status: ${frontmatter.status}`);
+    return;
+  }
+  
+  // Determine publication directory based on content type
+  let publicationDir;
+  if (isPrompt) {
+    publicationDir = path.join(this.contentRoot, 'public', 'prompts');
+  } else if (isSpec) {
+    publicationDir = path.join(this.contentRoot, 'public', 'specs');
+  }
+  
+  // Create directory if it doesn't exist
+  await fs.promises.mkdir(publicationDir, { recursive: true });
+  
+  // Generate filename from title or original filename
+  const filename = frontmatter.title 
+    ? frontmatter.title.toLowerCase().replace(/\s+/g, '-') + '.astro'
+    : path.basename(filePath, '.md') + '.astro';
+  
+  const publicationPath = path.join(publicationDir, filename);
+  
+  // Generate Astro component with appropriate layout
+  const layoutComponent = isPrompt ? 'PromptLayout' : 'SpecificationLayout';
+  
+  const astroContent = `---
+// Generated from ${filePath}
+// Publication date: ${new Date().toISOString()}
+layout: '@layouts/${layoutComponent}.astro'
 title: ${JSON.stringify(frontmatter.title)}
-lede: ${JSON.stringify(frontmatter.lede)}
-date_published: ${frontmatter.date_first_published || `"${new Date().toISOString().split('T')[0]}"`}
-author: ${JSON.stringify(frontmatter.authors)}
-tags: ${JSON.stringify(frontmatter.tags)}
+lede: ${JSON.stringify(frontmatter.lede || '')}
+date: ${JSON.stringify(frontmatter.date_modified || frontmatter.date_created)}
+tags: ${JSON.stringify(frontmatter.tags || [])}
+site_uuid: ${JSON.stringify(frontmatter.site_uuid)}
 ---
 
 ${content}
 `;
-    
-    // Write the Astro file
-    await fs.promises.writeFile(publicationPath, astroContent, 'utf8');
-    
-    this.reportingService.logPublication(filePath, publicationPath);
-  }
+  
+  // Write the Astro file
+  await fs.promises.writeFile(publicationPath, astroContent, 'utf8');
+  
+  this.reportingService.logPublication(filePath, publicationPath);
 }
-```
 
 ## Example Frontmatter Template
 
@@ -414,30 +607,78 @@ date_created: 2025-03-23
 # Updated whenever the file changes
 date_modified: 2025-04-07
 ---
-```
+
+## Example Specifications Frontmatter Template
+
+```yaml
+---
+# The main title of the specification
+title: 'Search Implementation Specification'
+
+# Brief description of the specification
+lede: 'Technical specification for implementing search functionality using Pagefind'
+
+# Current status: Draft, In-Review, Approved, Implemented, Deprecated
+status: 'Approved'
+
+# The creator(s) of the specification
+authors:
+- Michael Staton
+
+# Primary classification
+category: 'Technical Specifications'
+
+# Categorization tags
+tags:
+- Search
+- Pagefind
+- Frontend
+- Performance
+
+# Unique identifier for the resource on the website
+site_uuid: '550e8400-e29b-41d4-a716-446655440000'
+
+# Automatically tracked creation timestamp
+date_created: 2025-03-15
+
+# Automatically updated modification timestamp
+date_modified: 2025-04-12
+
+# Optional fields
+date_approved: 2025-04-01
+date_implemented: null
+date_deprecated: null
+related_specs:
+- 'Frontend-Architecture-Spec'
+---
 
 ## Implementation Steps
 
 1. **Update Template Registry**:
-   - Add new prompts template to the registry
-   - Ensure path patterns correctly identify prompt files
+   - Add new prompts and specifications templates to the registry
+   - Ensure path patterns correctly identify both content types
+   - Register UUID generation utility
 
 2. **Extend FileSystemObserver**:
-   - Update watcher to monitor both tooling and prompts directories
-   - Add special handling for prompts publication
+   - Update watcher to monitor prompts and specifications directories
+   - Add special handling for site_uuid generation
+   - Implement content-type specific validation
 
 3. **Create Publication Pipeline**:
-   - Add functionality to generate Astro components from prompts
-   - Set up directory structure for published prompts
+   - Add functionality to generate Astro components from both content types
+   - Set up directory structure for published resources
+   - Implement content-type specific layouts
 
 4. **Update ReportingService**:
-   - Add tracking for prompt validation and publication
+   - Add tracking for validation and publication of both content types
    - Include publication statistics in reports
+   - Track UUID generation
 
 5. **Testing**:
-   - Verify frontmatter validation for prompts
-   - Test publication pipeline with sample prompts
-   - Ensure existing tooling functionality remains intact
+   - Verify frontmatter validation for both content types
+   - Test UUID generation and persistence
+   - Test publication pipeline with sample content
+   - Ensure existing functionality remains intact
 
 ## Best Practices
 
@@ -447,7 +688,7 @@ date_modified: 2025-04-07
    - Preserve content while updating frontmatter
 
 2. **Publication Readiness**:
-   - Only publish prompts with appropriate status
+   - Only publish prompts and specifications with appropriate status
    - Generate proper Astro components with layout
    - Maintain relationship between source and published files
 
@@ -472,5 +713,5 @@ date_modified: 2025-04-07
    - Consider implementing a staging step before final publication
 
 3. **Content Security**:
-   - Ensure sensitive prompts are not published accidentally
+   - Ensure sensitive prompts and specifications are not published accidentally
    - Add validation for publication-ready content
