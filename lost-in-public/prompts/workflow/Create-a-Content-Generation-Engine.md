@@ -14,11 +14,7 @@ category: Prompts
 description: "Create an API access config directory with files that house sample API call and response for possible Model APIs. Set up RAG content directory structure. Perform an action using a prompt, target APIs, template responses. Aggregate and consolidate responses, format the output in a content collection."
 date_modified: 2025-04-12
 date_created: 2025-04-10
-tags:
-  - Content-Generation
-  - RAG
-  - API-Integration
-  - Content-Automation
+tags: [Content-Generation, RAG, API-Integration, Content-Automation]
 authors:
   - Michael Staton
 ---

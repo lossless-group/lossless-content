@@ -12,19 +12,7 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-03-24
 date_modified: 2025-04-12
-tags:
-  - Render-Logic
-  - Astro
-  - Component-Architecture
-  - Code-Blocks
-  - Markdown-Enhancement
-  - Custom-Rendering
-  - Content-Display
-  - Developer-Experience
-  - Documentation
-  - MDX
-  - Shiki
-  - Component-Composition
+tags: [Render-Logic, Astro, Component-Architecture, Code-Blocks, Markdown-Enhancement, Custom-Rendering, Content-Display, Developer-Experience, Documentation, MDX, Shiki, Component-Composition]
 authors:
   - Michael Staton
 ---

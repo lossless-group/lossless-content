@@ -3,6 +3,8 @@ title: "Implement a Comprehensive Code Block Rendering System in Astro"
 description: "Technical specification for creating a flexible, extensible code block rendering system with copy buttons, language indicators, and custom language support in Astro"
 date: 2023-11-20
 tags: ["astro", "markdown", "code-blocks", "syntax-highlighting", "component-design"]
+date_created: 2025-04-12
+date_modified: 2025-04-12
 ---
 
 # Implement a Comprehensive Code Block Rendering System in Astro

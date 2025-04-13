@@ -1,7 +1,40 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-03-22
+date_modified: 2025-04-12
 ---
+
+```bash
+
+echo ".DS_Store" >> ~/.gitignore_global
+
+# Tell Git to use this file 
+git config --global core.excludesfile ~/.gitignore_global
+```
+
+The command `git config --global core.excludesfile ~/.gitignore_global` sets up a global Git ignore file that will apply to all your Git repositories on your machine. Let me break down what this does:
+
+1. `git config --global` - This tells Git you want to make a change to your global Git configuration, which affects all repositories on your system.
+    
+2. `core.excludesfile` - This is the Git configuration setting that specifies a file containing patterns of files that Git should ignore across all repositories.
+    
+3. `~/.gitignore_global` - This is the path to the global ignore file. The `~` represents your home directory.
+    
+
+When you run this command, you're telling Git: "For all repositories on this computer, also ignore any files that match patterns listed in the `~/.gitignore_global` file."
+
+This is particularly useful for ignoring system-specific files like `.DS_Store` (macOS), `.Thumbs.db` (Windows), or editor-specific files like `.vscode/` or `.idea/` that you never want to commit to any repository.
+
+The benefit of using a global ignore file is that:
+
+1. You don't need to add these patterns to each repository's individual `.gitignore` file
+2. You don't risk accidentally committing these files if you forget to add them to a project's `.gitignore`
+3. It keeps your project-specific `.gitignore` files focused on project-related patterns
+
+In your case, since you've already added `.DS_Store` to this global file, Git will now ignore all `.DS_Store` files in all your repositories automatically, without you having to add this pattern to each repository's individual `.gitignore` file.
+
+Feedback submitted
+
+Generating...
 
 ```bash
 brew install git-filter-repo
