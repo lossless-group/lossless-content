@@ -25,6 +25,8 @@ ALWAYS verify the correct path before creating or modifying files.
   - All utility functions and helper code
   - Includes markdown processors, error handlers, and other shared functionality
   - Example: `preventFrontmatterIrregularitiesFromCausingErrors.ts`
+  - `routing/` - Routing utilities
+    - `routeManager.ts` - Manages content path to web route mappings
 
 - `src/types/` - TypeScript type definitions
   - Single source of truth for all type definitions
@@ -37,20 +39,33 @@ ALWAYS verify the correct path before creating or modifying files.
     - `workflow/` - Contains workflow-related prompts
     - `Meticulous-Constraints-for-Every-Prompt.md` - Required context file for all prompts
   - `sessions/` - HISTORICAL RECORD, append-only
+    - All session logs should be placed here, NOT in rag-input
+    - Naming format: `[Topic]-Session-Log-[YYYY-MM-DD].md`
   - `issue-resolution/` - HISTORICAL RECORD, append-only
-  - `rag-input/` - Contains Map of Relevant Paths
+  - `rag-input/` - Contains reference materials for RAG
     - `Map-of-Relevant-Paths.md` - This file
+    - `Maintain-a-Session-Log.md` - Template for session logs
 
 - `content/specs/` - Technical Specifications
 - `content/changelog--code/` - Changelog entries
 - `content/tooling/` - Content Markdown files with frontmatter
 - `content/data/` - JSON data files (no database, file-based storage)
 - `content/vocabulary/` - Markdown files with frontmatter for vocabulary terms
+- `content/concepts/` - Markdown files with conceptual frameworks and important ideas
 
 ## Astro Content Structure (`site/src/content/`)
 - Different from root `/content/` directory
 - Used for Astro's content collections
+- Collections defined in `site/src/content.config.ts`
+  - `vocabulary` - Maps to `/content/vocabulary/`
+  - `concepts` - Maps to `/content/concepts/`
 - Do NOT place prompts, specs, or other content here unless specifically instructed
+
+## Dynamic Routing
+- `site/src/pages/more-about/[content-item].astro` - Dynamic router for vocabulary and concepts
+- `site/src/pages/more-about/index.astro` - Index page for all reference content
+- `site/src/pages/more-about/vocabulary.astro` - Index page for vocabulary terms
+- `site/src/pages/more-about/concepts.astro` - Index page for concepts
 
 ## Scripts (`site/scripts/`)
 - Purposefully outside src directory
@@ -88,3 +103,4 @@ ALWAYS verify the correct path before creating or modifying files.
    - For type definitions: use types in `src/types/` or submodule-specific types
 7. NEVER modify frontmatter in content files without using the observer system
 8. ALWAYS double-check paths when creating new files - DO NOT confuse `/content/` (root) with `/site/src/content/` (Astro)
+9. ALWAYS place session logs in `/content/lost-in-public/sessions/`, NOT in `/rag-input/`

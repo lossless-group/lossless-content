@@ -12,11 +12,7 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Documentation
 date_modified: 2025-04-12
 date_created: 2025-04-09
-tags:
-  - Documentation-Standards
-  - Version-Control
-  - Change-Management
-  - Content-Organization
+tags: [Documentation-Standards, Version-Control, Change-Management, Content-Organization]
 authors:
   - Michael Staton
 ---

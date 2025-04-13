@@ -3,12 +3,7 @@ site_uuid: 676fbd61-103c-4ac1-834f-96e693ca0528
 youtube_channel_url: https://www.youtube.com/@n8n-io
 date_modified: 2025-04-12
 date_created: 2025-03-31
-tags:
-  - IPaaS
-  - Workflow-Automation
-  - Agentic-AI
-  - Agentic-Workspaces
-  - Check-It-Out
+tags: [IPaaS, Workflow-Automation, Agentic-AI, Agentic-Workspaces, Check-It-Out]
 url: https://n8n.io/
 zinger: Flexible AI workflow automation for technical teams
 description_site_cp: Build with the precision of code or the speed of drag-n-drop. Host with on-prem control or in-the-cloud convenience. n8n gives you more freedom to implement multi-step AI agents and integrate apps than any other tool.
