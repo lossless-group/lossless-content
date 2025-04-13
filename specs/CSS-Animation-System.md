@@ -9,7 +9,7 @@ date_last_updated: null
 at_semantic_version: 0.0.1.0
 status: Implemented
 augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
-category: Technical Specifications
+category: Specification
 date_created: 2025-04-12
 date_modified: 2025-04-12
 tags:

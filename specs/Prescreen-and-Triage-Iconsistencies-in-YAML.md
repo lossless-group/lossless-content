@@ -1,9 +1,26 @@
 ---
 title: "Technical Specification: YAML Prescreening and Triaging System"
-date: 2025-03-15
-author: "Technical Team"
-category: "Technical Specification"
-tags: ["YAML", "Frontmatter", "Content Management", "Data Cleaning", "Automation", "Prescreening"]
+lede: Proactive identification and correction of YAML frontmatter inconsistencies to prevent build failures
+date_authored_initial_draft: 2025-03-15
+date_authored_current_draft: 2025-03-15
+date_authored_final_draft: null
+date_first_published: null
+date_last_updated: null
+at_semantic_version: 0.0.1.0
+authors: 
+- Michael Staton
+status: Implemented
+augmented_with: "Windsurf IDE with Claude 3.5 Sonnet"
+category: Specification
+date_created: 2025-03-15
+date_modified: 2025-04-12
+tags: 
+- YAML
+- Frontmatter
+- Content-Management
+- Data-Cleaning
+- Automation
+- Prescreening
 ---
 
 # YAML Prescreening and Triaging System
@@ -222,8 +239,8 @@ These files have issues that prevent specific operations, but can still be proce
 
 ## Auto-Correction Attempts
 - {filePath}
-  - {issue}: ✅ {message}
-  - {issue}: ❌ {message}
+  - {issue}: {message}
+  - {issue}: {message}
 ...
 
 ## Totally Clean Files
@@ -273,8 +290,8 @@ These {count} files (out of {total} total) have been screened out due to critica
 
 - {filePath}
   - Correction attempts:
-    - {issue}: ✅ {message}
-    - {issue}: ❌ {message}
+    - {issue}: {message}
+    - {issue}: {message}
 ...
 ```
 
