@@ -6,5 +6,5 @@ aliases:
   - Open Platforms
 ---
 
-[[API First Development]]. 
+[[Concepts/API First Development]]. 
 Followable [[Documentation]].
