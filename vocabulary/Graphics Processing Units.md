@@ -14,7 +14,7 @@ https://youtu.be/wYTHR9ExntE?si=5Dx8WveHVE3ghLBP
 
 [[Organizations/Nvidia]]
 
-[[Artificial Intelligence|AI]] [[Machine Learning]]
+[[Concepts/Explainers for AI/Artificial Intelligence|AI]] [[Machine Learning]]
 [[AI Models]]
 
 ![[AI Models#^830936]]

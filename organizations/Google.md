@@ -6,7 +6,7 @@ Their 20% time policy is indicative of the value of [[Protected Play]].
 
 [[Eric Schmidt]] also promoted the idea of protecting [[Divas]] in the organization.  
 
-Creates hardware to power [[Artificial Intelligence|AI]], such as the [[Coral Edge TPU]].
+Creates hardware to power [[Concepts/Explainers for AI/Artificial Intelligence|AI]], such as the [[Coral Edge TPU]].
 
 ##### Google has APIs for everything.
 [[Google Cloud]] sports an [[Application Programming Interface|API]] Library

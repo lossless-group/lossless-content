@@ -1,6 +1,6 @@
 
 
-For large scale businesses, [[Artificial Intelligence|AI]] represents an enormous, amorphous, and head-scratching opportunity.
+For large scale businesses, [[Concepts/Explainers for AI/Artificial Intelligence|AI]] represents an enormous, amorphous, and head-scratching opportunity.
 
 There is definite value in just getting started. Anyone can throw PDFs, word documents, presentations, and spreadsheets into a folder and suddenly have some serious magical powers. 
 

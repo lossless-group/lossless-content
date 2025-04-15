@@ -9,7 +9,7 @@ aliases:
 
 "Affinity networking entails the deliberate assembly of individuals who share common identities, backgrounds, interests, or experiences within an organisation or community. It serves as a platform for nurturing relationships, exchanging insights, and providing solidarity among members who resonate with each other’s experiences." [^fdf920] 
 
-An [[Affinity Network]] for [[Artificial Intelligence|AI]] is [[Hugging Face]].
+An [[Affinity Network]] for [[Concepts/Explainers for AI/Artificial Intelligence|AI]] is [[Hugging Face]].
 
 A platform for [[Affinity Network|Affinity Groups]] is [[Organizations/Reddit]].
 

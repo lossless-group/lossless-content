@@ -7,7 +7,7 @@ authors:
 ## Context
 I'm following along to this [[YouTube]] video: [Creating Custom GPTs: API Key For Custom Actions | Complete Guide](https://youtu.be/6P6MQ_j73mI?si=jJGUcygTjmpLa_lA)
 
-Creating a [[Custom GPT]] is like creating a sandbox in which you can apply your own [[Fine Tuning]] to the [[GPT-Series Models]] in [[OpenAI]]
+Creating a [[Custom GPT]] is like creating a sandbox in which you can apply your own [[Concepts/Explainers for AI/Fine Tuning]] to the [[GPT-Series Models]] in [[OpenAI]]
 
 > [!LLM Response] [[GPT-Series Models|GPT's]] Response
 > Creating a custom GPT in OpenAI involves using the **Custom GPTs** feature available in the ChatGPT interface. Here’s a step-by-step guide to help you get started:

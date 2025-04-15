@@ -7,4 +7,4 @@ tags:
 ---
 [[Tooling/Hardware/ZimaCube|ZimaCube]]
 
-[[Tooling/AI-Toolkit/Explainers/Home Labs|Home Labs]]
+[[Concepts/Explainers for AI/Home Labs|Home Labs]]

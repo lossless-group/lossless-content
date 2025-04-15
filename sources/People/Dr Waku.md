@@ -3,7 +3,7 @@ youtube_url_channel: https://www.youtube.com/@DrWaku
 date_created: 2025-01-12
 date_modified: 2025-03-21
 ---
-[[Dr Waku]] is a lesser-known [[Influencer]] with a [[YouTube]] channel, where he thoughtfully discusses topics in [[Artificial Intelligence|AI]], with particular explorations of [[Artificial General Intelligence|AGI]]. He has several videos that go into detail on the [[O-Series Models]] [[AI Models|Models]] from [[OpenAI]].
+[[Dr Waku]] is a lesser-known [[Influencer]] with a [[YouTube]] channel, where he thoughtfully discusses topics in [[Concepts/Explainers for AI/Artificial Intelligence|AI]], with particular explorations of [[Concepts/Explainers for AI/Artificial General Intelligence|AGI]]. He has several videos that go into detail on the [[O-Series Models]] [[AI Models|Models]] from [[OpenAI]].
 
 
 

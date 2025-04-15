@@ -6,7 +6,7 @@ date_modified: 2025-03-21
 
 I hate it when I want to add a long message to a git commit and git launches nano.  I just never picked it up. Avoided even having to think about it, really. 
 
-I also never pondered that I could change the default editor for commit messages. That is, until I realized my [[Tooling/AI-Toolkit/Explainers/AI Terminal Assistant|AI Terminal Assistant]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Warp|Warp]] is not just helpful but really really wise (and patient) and the hardcore command line skills that most wanna be app developers, me included, never bother to become hyperfluent in.  
+I also never pondered that I could change the default editor for commit messages. That is, until I realized my [[Concepts/Explainers for AI/AI Terminal Assistant|AI Terminal Assistant]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Warp|Warp]] is not just helpful but really really wise (and patient) and the hardcore command line skills that most wanna be app developers, me included, never bother to become hyperfluent in.  
 
 ---
 

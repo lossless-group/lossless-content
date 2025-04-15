@@ -4,5 +4,5 @@ description: Discover how to leverage AI, automation, and cutting-edge tech to g
 date_created: 2025-02-23
 date_modified: 2025-03-21
 ---
-Covers [[Code Generators|Code Generators]], [[Agentic AI]] Platforms.
+Covers [[Concepts/Explainers for AI/Code Generators|Code Generators]], [[Agentic AI]] Platforms.
 [[n8n]], [[Augment Code]]

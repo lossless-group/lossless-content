@@ -8,7 +8,7 @@ date_modified: 2025-03-19
 ---
 
 ## [[Fabric]] for [[YouTube]] consumption and output.
-Fabric allows you to frontload a lot of [[Prompt Engineering]] in an [[Opinionated]] fashion.  It then allows users to run "patterns" (think a set of inputs and a prompt, like an ephemeral [[Fine Tuning]] operation). 
+Fabric allows you to frontload a lot of [[Concepts/Explainers for AI/Prompt Engineering]] in an [[Opinionated]] fashion.  It then allows users to run "patterns" (think a set of inputs and a prompt, like an ephemeral [[Concepts/Explainers for AI/Fine Tuning]] operation). 
 
 ##### Could it be the Model Context length?
 update::2025-03-19T18:59:03.914Z
@@ -20,7 +20,7 @@ After working extensively on a few "patterns", I found that the kind of output d
 ## [[Perplexica]] for Search Results with Sources
 [[Perplexica]] has installation instructions on the [Perplexica GitHub Repo](https://github.com/ItzCrazyKns/Perplexica/tree/master).  As of March 20, 2025, it's 1 GB in size and here are the steps I am walking through:
 
-Open the terminal or [[Terminal Emulators|Terminal Emulator]]. (I use [[Ghostty]] when I know what I am doing, and [[Warp]] when I need an [[Tooling/AI-Toolkit/Explainers/AI Terminal Assistant|AI Terminal Assistant]].)
+Open the terminal or [[Terminal Emulators|Terminal Emulator]]. (I use [[Ghostty]] when I know what I am doing, and [[Warp]] when I need an [[Concepts/Explainers for AI/AI Terminal Assistant|AI Terminal Assistant]].)
 
 Figure out where you want to install it.  Given my [[Dev Machine]] is on [[Ubuntu]], I chose:
 `/home/mps/Applications`

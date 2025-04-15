@@ -5,7 +5,7 @@ site_uuid: dbbec104-be64-47a6-8413-05079caad984
 date_created: 2025-04-06
 ---
 
-When [[Software Development]] is largely done with [[Code Generators|Code Generators]], to the point where engineers just sit back and let the [[Large Language Models|LLM]] do most of the work.  
+When [[Software Development]] is largely done with [[Concepts/Explainers for AI/Code Generators|Code Generators]], to the point where engineers just sit back and let the [[Large Language Models|LLM]] do most of the work.  
 
 <iframe 
   style="aspect-ratio:16/9;width:100%;height:auto" 
