@@ -451,5 +451,5 @@ tags:
 
 
 
-[[Music Generators]]
+[[Concepts/Explainers for AI/Music Generators]]
 

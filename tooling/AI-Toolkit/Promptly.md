@@ -34,4 +34,4 @@ tags:
 
 
 
-[[Artificial Intelligence|Enterprise AI]]
+[[Concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]]

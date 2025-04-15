@@ -92,4 +92,4 @@ date_modified: 2025-03-24
 ---
 
 
-[[Code Generators]]
+[[Concepts/Explainers for AI/Code Generators]]

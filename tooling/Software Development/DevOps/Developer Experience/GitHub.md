@@ -46,8 +46,8 @@ https://youtu.be/8lGpZkjnkt4?si=9JA-0OH8QhF3dbIB
 
 
 
-## [[GitHub]] has a [[Code Generator]] [[AI Copilots|Copilot]], a [[Plug-ins,  Add-ons,  Extensions|Plug-in]] to [[Visual Studio Code|VS Code]]
-An [[AI Copilots]] from [[GitHub]] that performs [[Code Generator|Code Generation]].
+## [[GitHub]] has a [[Code Generator]] [[Concepts/Explainers for AI/AI Copilots|Copilot]], a [[Plug-ins,  Add-ons,  Extensions|Plug-in]] to [[Visual Studio Code|VS Code]]
+An [[Concepts/Explainers for AI/AI Copilots]] from [[GitHub]] that performs [[Code Generator|Code Generation]].
 
 ![[Screenshot 2025-02-20 at 7.57.47 PM_GitHub-Copilot--Getting-Started.png]]
 ###### A 7 Minute Overview of [[GitHub#GitHub has a Code Generator AI Copilots Copilot , a Plug-ins, Add-ons, Extensions Plug-in to Visual Studio Code VS Code|GitHub Copilot]] on [[YouTube]].

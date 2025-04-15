@@ -42,7 +42,7 @@ tags:
 
 
 
-A [[Code Generators]] by [[Microsoft Research]]. A [[Python]] [[Packages and Libraries|Package]]
+A [[Concepts/Explainers for AI/Code Generators]] by [[Microsoft Research]]. A [[Python]] [[Packages and Libraries|Package]]
 
 
 2024, Nov 12. [Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/) [[Organizations/Microsoft]], [[Microsoft AI Frontiers]]

@@ -297,4 +297,4 @@ tags:
 
 
 
-[[AI Powered Data Capture]].
+[[Concepts/Explainers for AI/AI Powered Data Capture]].

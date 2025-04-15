@@ -85,5 +85,5 @@ tags:
 
 https://youtu.be/SbfzvUU5yM8?si=o-ic-IIhgNqOiF92
 
-[[Multimodal AI Agents]]
+[[Concepts/Explainers for AI/Multimodal AI Agents]]
 

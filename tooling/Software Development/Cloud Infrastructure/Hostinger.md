@@ -80,9 +80,9 @@ tags:
 
 Low cost [[Opsless Deployment Providers]]
 
-Also launched a [[Generative AI]] [[Code Generators]]]
+Also launched a [[Generative AI]] [[Concepts/Explainers for AI/Code Generators]]]
 
-[Hostinger website builder review! | One tool for everything?!](https://youtu.be/XgqF-I390_w?si=aLem07Yb-YcAZYrt) on [[YouTube]].  Shows a [[Code Generators]]
+[Hostinger website builder review! | One tool for everything?!](https://youtu.be/XgqF-I390_w?si=aLem07Yb-YcAZYrt) on [[YouTube]].  Shows a [[Concepts/Explainers for AI/Code Generators]]
 
 
 

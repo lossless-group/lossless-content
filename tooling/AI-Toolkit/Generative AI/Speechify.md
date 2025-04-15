@@ -71,5 +71,5 @@ og_screenshot_url: >-
 
 
 
-[[Tooling/AI-Toolkit/Explainers/Voice Cloners|Voice Cloning]]
-[[Tooling/AI-Toolkit/Explainers/Text-to-Speech|Text-to-Speech]]
+[[Concepts/Explainers for AI/Voice Cloners|Voice Cloning]]
+[[Concepts/Explainers for AI/Text-to-Speech|Text-to-Speech]]

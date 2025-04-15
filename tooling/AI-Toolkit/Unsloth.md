@@ -51,6 +51,6 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/fal
 
 
 
-[[Fine Tuning]]
+[[Concepts/Explainers for AI/Fine Tuning]]
 
 https://youtu.be/Ucg1X_o1HDE?si=xlDabklore9Mnted

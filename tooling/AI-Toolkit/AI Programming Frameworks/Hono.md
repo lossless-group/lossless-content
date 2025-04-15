@@ -360,6 +360,6 @@ tags:
 
 
 
-[[Artificial Intelligence|AI]]
+[[Concepts/Explainers for AI/Artificial Intelligence|AI]]
 
 [[Programming Languages|Programming Language]]

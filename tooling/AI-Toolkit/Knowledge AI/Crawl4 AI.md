@@ -68,7 +68,7 @@ tags:
 
 https://youtu.be/FHVfMxOYTBM?si=WHLeAinIWsfPz3mY
 
-An [[AI Powered Data Capture]] tool,
+An [[Concepts/Explainers for AI/AI Powered Data Capture]] tool,
 
 2025, Jan 13. [Turn ANY Website into LLM Knowledge in SECONDS](https://youtu.be/JWfNLF_g_V0?si=ZXmzxzsulI9eaXMo) [[Cole Medin]]
 

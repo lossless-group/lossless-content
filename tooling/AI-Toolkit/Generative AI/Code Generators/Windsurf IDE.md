@@ -93,7 +93,7 @@ tags:
 
 
 
-[[Code Generators]] [[AI Native Applications|AI Native]] [[Text Editors or IDEs|IDE]]
+[[Concepts/Explainers for AI/Code Generators]] [[AI Native Applications|AI Native]] [[Text Editors or IDEs|IDE]]
 
 ### Cascade
 From [Memories and Rules](https://docs.codeium.com/windsurf/memories):

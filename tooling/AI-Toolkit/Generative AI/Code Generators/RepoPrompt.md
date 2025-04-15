@@ -80,6 +80,6 @@ https://youtu.be/ubWQx8ev4Rw?si=PhUZ5i-loTpF88i4
 
 https://youtu.be/hNOAEYek1q4?si=BcM7noGFuyjhxNmG
 
-[[Fine Tuning]]
+[[Concepts/Explainers for AI/Fine Tuning]]
 
-[[Model Context Protocol]]
+[[Concepts/Explainers for AI/Model Context Protocol]]

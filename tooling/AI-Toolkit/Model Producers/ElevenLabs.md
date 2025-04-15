@@ -80,7 +80,7 @@ url: 'https://elevenlabs.io'
 
 
 
-Specializes in [[Generative AI]] powered [[AI-Powered Language Translation]]
+Specializes in [[Generative AI]] powered [[Concepts/Explainers for AI/AI-Powered Language Translation]]
 
 https://youtu.be/K-48RXyuRaY?si=O4B6lqnMvkQgA1aM
 
