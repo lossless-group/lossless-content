@@ -6,7 +6,7 @@ Especially for [[Low-Code]] tools, [[UI Builders]], and [[Agentic AI]]
 
 [[Eraser]] is a an AI assisted diagramming tool for software architecture.
 
-[[AppMap]] allows [[AI Native Applications|AI Native]] [[Code Generators|Code Generation]] to be managed visually through all kinds of diagrams. 
+[[AppMap]] allows [[AI Native Applications|AI Native]] [[Concepts/Explainers for AI/Code Generators|Code Generation]] to be managed visually through all kinds of diagrams. 
 
 
 ![[BuildShip#BuildShip is a Visual Software Development Visual Low-Code Back-End Engineering Back-End , nearly a Backend-as-a-Service]]
