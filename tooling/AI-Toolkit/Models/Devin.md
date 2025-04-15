@@ -50,4 +50,4 @@ tags:
 
 
 
-An [[AI Models]] that performs [[Code Generators|Code Generation]].  Made by [[Cognition AI]].
+An [[AI Models]] that performs [[Concepts/Explainers for AI/Code Generators|Code Generation]].  Made by [[Cognition AI]].

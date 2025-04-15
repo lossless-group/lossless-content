@@ -48,6 +48,6 @@ og_screenshot_url: >-
 
 
 
-[[Raspberry Pi]] for [[Tooling/AI-Toolkit/Explainers/Home Labs|Home Labs]] and [[Tooling/AI-Toolkit/Explainers/Homelab Networks|Homelab Networks]]
+[[Raspberry Pi]] for [[Concepts/Explainers for AI/Home Labs|Home Labs]] and [[Concepts/Explainers for AI/Homelab Networks|Homelab Networks]]
 
 https://youtu.be/wMD9myEfkMk?si=_3VDHoZz0I7T4gIo

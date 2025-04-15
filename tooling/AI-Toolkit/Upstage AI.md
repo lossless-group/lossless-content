@@ -51,4 +51,4 @@ og_screenshot_url: >-
 
 
 [[Small Language Models]]
-[[Artificial Intelligence|Enterprise AI]]
+[[Concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]]

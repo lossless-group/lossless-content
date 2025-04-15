@@ -29,7 +29,7 @@ tags:
 
 
 
-An [[AI Powered Data Capture]] tool.
+An [[Concepts/Explainers for AI/AI Powered Data Capture]] tool.
 <span query="get(hero)"></span>![[Screenshot 2025-02-20 at 11.09.01 PM_browserless--Hero.png]]<span type="end"></span>
 
 [^f3abb9]

@@ -103,7 +103,7 @@ tags:
 
 2025, Feb 12. [Unstract: AI Document Parser: Extract Data from Complex PDFs at Scale! (Open Source)](https://youtu.be/Ymq8o7FSoVc?si=5VZE2VbjqdF_-dgO). [[YouTube]].
 
-[[AI Powered Data Capture]]
+[[Concepts/Explainers for AI/AI Powered Data Capture]]
 
 ##### Unstract Hero
 ![[Screenshot 2025-02-20 at 1.28.55 AM_Unstract--Hero.png]]

@@ -24,6 +24,6 @@ https://youtu.be/vwmSgr6y_js?si=L-bE4e9S1y-jbkp2
 
 [[Vocabulary/UI Testing]]
 
-[[Tooling/AI-Toolkit/Explainers/Computer-Using Agents|Computer-Using Agents]]
+[[Concepts/Explainers for AI/Computer-Using Agents|Computer-Using Agents]]
 
 

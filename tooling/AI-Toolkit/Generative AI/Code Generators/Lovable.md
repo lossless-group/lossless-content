@@ -82,7 +82,7 @@ tags:
 
 
 
-[[Code Generators]]
+[[Concepts/Explainers for AI/Code Generators]]
 
 
 https://youtu.be/En4ifwACpNg?si=kDmlGplsHD9fMnhy

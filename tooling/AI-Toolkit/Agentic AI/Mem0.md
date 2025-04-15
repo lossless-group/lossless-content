@@ -300,7 +300,7 @@ tags:
 
 
 
-[[Memory Layer]]
+[[Concepts/Explainers for AI/Memory Layer]]
 
 https://youtu.be/iOZpiXLT7iY?si=YMF_veSkgzkaNV-A
 

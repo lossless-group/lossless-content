@@ -84,4 +84,4 @@ A form of [[Knowledge Base AI]], that uses Team Communications as the source dat
 
 
 
-[[Artificial Intelligence|Enterprise AI]]
+[[Concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]]

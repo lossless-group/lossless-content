@@ -300,5 +300,5 @@ tags:
 
 
 
-[[AI Interfaces|AI-Interface]] [[Open Source]]
+[[Concepts/Explainers for AI/AI Interfaces|AI-Interface]] [[Open Source]]
 [[MSTY]], [[LM Studio]], [[Jan.ai]]

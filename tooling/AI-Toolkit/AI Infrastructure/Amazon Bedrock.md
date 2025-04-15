@@ -129,4 +129,4 @@ tags:
 
 
 
-[[Cloud Infrastructure]] for [[Artificial Intelligence|AI]]
+[[Cloud Infrastructure]] for [[Concepts/Explainers for AI/Artificial Intelligence|AI]]

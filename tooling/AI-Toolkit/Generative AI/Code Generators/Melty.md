@@ -83,4 +83,4 @@ tags:
 
 
 
-a [[Text Editors or IDEs]] that has a [[Code Generators]]
+a [[Text Editors or IDEs]] that has a [[Concepts/Explainers for AI/Code Generators]]

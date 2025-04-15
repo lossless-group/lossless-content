@@ -70,7 +70,7 @@ tags:
 
 One of the [[AI Models]].
 
-Also provides a [[Code Generators]], and can be accessed through [[Visual Studio Code|VS Code]] with an [[Plug-ins,  Add-ons,  Extensions|Extension]].
+Also provides a [[Concepts/Explainers for AI/Code Generators]], and can be accessed through [[Visual Studio Code|VS Code]] with an [[Plug-ins,  Add-ons,  Extensions|Extension]].
 
 ![[Screenshot 2025-01-22 at 1.43.58 PM_watsonX--VSCode-Extension.png]]
 
@@ -87,7 +87,7 @@ og_last_fetch: 2025-03-07T05:19:18.725Z
 ---
 One of the [[AI Models]].
 
-Also provides a [[Code Generators]], and can be accessed through [[Visual Studio Code|VS Code]] with an [[Plug-ins,  Add-ons,  Extensions|Extension]].
+Also provides a [[Concepts/Explainers for AI/Code Generators]], and can be accessed through [[Visual Studio Code|VS Code]] with an [[Plug-ins,  Add-ons,  Extensions|Extension]].
 
 ![[Screenshot 2025-01-22 at 1.43.58 PM_watsonX--VSCode-Extension.png]]
 
