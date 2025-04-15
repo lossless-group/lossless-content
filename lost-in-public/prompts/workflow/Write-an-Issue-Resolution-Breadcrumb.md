@@ -19,6 +19,8 @@ tags:
   - Implementation-Solutions
 authors:
   - Michael Staton
+image_prompt: "A digital breadcrumb trail leading to an issue resolution, with highlighted steps, solution icons, and a summary card. Visuals include path markers, bug icons, and a sense of guiding future developers to solutions."
+banner_image: https://img.recraft.ai/bgQmboEhzjy2R1hr4vOsvbimsvNIkKfUZRaYpewUffc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/7b77b70f-530e-4c16-9362-e7577b58c8fd
 ---
 
 # Write an note that leaves a breadcrumb for future Issue Resolution
@@ -242,4 +244,3 @@ This command performs several operations in sequence:
 2. The `|| true` prevents the command from failing if any submodule is in an unexpected state
 3. Always commit or stash local changes before running this command
 4. Verify the state of critical submodules after switching
-```

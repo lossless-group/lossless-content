@@ -7,7 +7,7 @@ date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
 at_semantic_version: 0.0.0.1
-status: To-Prompt
+status: Prompted
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-12
@@ -19,6 +19,9 @@ tags:
   - Component-Management
 authors:
   - Michael Staton
+image_prompt: "A split-screen showing Tailwind utility classes transforming into organized CSS files, with a modern interface and visual cues for maintainability and style."
+banner_image: https://img.recraft.ai/vrGplHqRSAYwblHd-1SyePMK0Bom5oTNmDHkIQmZsDU/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/e0e6fbe0-96b3-4393-a958-76ac30188cfb
+publish: true
 ---
 
 # Context

@@ -20,7 +20,7 @@ tags:
   - Error-Handling
 authors:
   - Michael Staton
----
+image_prompt: "A detailed checklist and rulebook beside a prompt engineering workspace, with highlighted constraints, best-practice icons, and a glowing AI assistant. Visuals include sticky notes, error warnings, and a sense of meticulous order."
 
 ## Before starting:
 

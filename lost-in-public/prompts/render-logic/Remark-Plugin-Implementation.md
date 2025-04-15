@@ -19,6 +19,8 @@ tags:
   - Astro
 authors:
   - Michael Staton
+image_prompt: "A developer implementing a remark plugin, with code editors, plugin architecture diagrams, and rendered markdown previews. The scene conveys extensibility, customization, and the technical creativity of enhancing content workflows."
+banner_image: https://img.recraft.ai/vAQti7-f_0A9f0JJaNAEx0GEcPFE9S0D6SbAdNNYR-A/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/6a9f48be-c7cb-46ff-a700-ed56e47c3610
 ---
 
 ###### Sources

@@ -20,6 +20,8 @@ tags:
   - Route-Mapping
 authors:
   - Michael Staton
+image_prompt: "A visual representation of conditional logic in content rendering, featuring flowcharts, branching arrows, and code snippets. The scene conveys dynamic decision-making, modularity, and the adaptability of digital content systems."
+banner_image: https://img.recraft.ai/G_skHMQKf2r2-hYXX1gYilg427HwMu9D25b3grAHW7w/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/5ea9280a-7dc4-4d2a-9cb4-40e1fa8738fd
 ---
 
 ## The 'status' property values

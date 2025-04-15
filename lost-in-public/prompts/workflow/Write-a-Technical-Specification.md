@@ -21,6 +21,8 @@ tags:
   - Content-Fixes
 authors:
   - Michael Staton
+image_prompt: "A technical specification document UI with structured sections, flowcharts, and diagrams. Visuals include checklist icons, architecture sketches, and a collaborative workspace, symbolizing thorough planning and clear documentation."
+banner_image: https://img.recraft.ai/nh24W0if-0zhwQ6pzNP_E5hNQGEurj4FlimHhi8NJH0/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/361e0af3-ba17-407f-b88a-705028652f45
 ---
 
 # Write a Technical Specification with a Standard but Evolving Style

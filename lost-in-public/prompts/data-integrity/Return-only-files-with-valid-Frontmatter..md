@@ -19,6 +19,8 @@ tags:
   - Build-Scripts
 authors:
   - Michael Staton
+image_prompt: "A code utility scanning a directory and returning only Markdown files with valid YAML frontmatter, visualized as a digital checklist, file icons, and highlighted metadata. The mood is efficient, organized, and focused on data quality assurance."
+banner_image: https://img.recraft.ai/J3ELnwdybXyLo4-htPoHbpOkGsbtPmBV9imNNFoPAy8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/7fffbaa4-0a65-42c6-b4b1-6ea406abea1f
 ---
 
 ## Objective: 

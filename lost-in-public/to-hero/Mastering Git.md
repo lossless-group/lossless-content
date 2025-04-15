@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-04-12
+date_modified: 2025-04-15
 ---
 
 ```bash
@@ -50,6 +50,10 @@ git rm --cached "lost-in-public/to-hero/Warp-Objects/Model API Keys.env"
 
 ```bash
 git commit --amend -CHEAD
+```
+
+```bash
+git push --force-with-lease origin development
 ```
 
 

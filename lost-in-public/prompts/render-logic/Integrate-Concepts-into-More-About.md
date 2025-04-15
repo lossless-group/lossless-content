@@ -15,6 +15,8 @@ date_modified: 2025-04-12
 tags: [Render-Logic, Content-Display, Versatile-Routing]
 authors:
   - Michael Staton
+image_prompt: "A digital knowledge graph connecting concepts to a 'More About' section in a content system. Visuals include interconnected nodes, concept icons, and a web interface showing seamless integration of information. The mood is exploratory, organized, and educational."
+banner_image: https://img.recraft.ai/octV0xANl3WLOpUFYHZFri5e_q2bQm0KhmD3QKzGhSs/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/5fa5b70f-790e-4cda-afa6-9151528ee9b6
 ---
 
 # Context

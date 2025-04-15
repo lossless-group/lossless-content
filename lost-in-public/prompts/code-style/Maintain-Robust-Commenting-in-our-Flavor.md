@@ -19,6 +19,9 @@ tags:
   - Readability
 authors:
   - Michael Staton
+image_prompt: "A code editor filled with colorful, well-structured comments, section headers, and documentation blocks, symbolizing clarity and comprehensive code annotation."
+banner_image: https://img.recraft.ai/Bk0g1ShYKjP49gsq4sH8h7PR6eg8m1dvcAB_ya82b20/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/0fc404b9-27b8-45cf-8e86-f61ed2b051c2
+publish: true
 ---
 
 ### Coding Guidelines

@@ -19,6 +19,8 @@ tags:
   - Data-Integrity
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/vHDFunj7rZp7eNCPEenSuwX30_4ZFMuzaI8olLw7XX4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d373ce81-442c-4e87-8987-08f950100da3
+image_prompt: "A web developer updating Open Graph metadata in a code editor, with browser preview windows displaying rich link previews. Visual cues include meta tags, social media icons, and highlighted code. The mood is modern, connected, and focused on web optimization."
 ---
 
 # Goal:

@@ -23,6 +23,8 @@ tags:
   - Metadata
 authors:
   - Michael Staton
+image_prompt: "A system observer dashboard visualizing real-time file changes and prompt metadata updates, with animated folder icons, notification badges, and code snippets. The atmosphere is dynamic, technical, and focused on automation and monitoring."
+banner_image: https://img.recraft.ai/yIlm1t1t0h29mQ3ZqPG64M9sV6IHLSnYK7tTYSXBCFM/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d86e5cd2-3c6b-483a-98a1-7e59f8154774
 ---
 
 ## Objective
@@ -606,6 +608,9 @@ date_created: 2025-03-23
 # Automatically updated modification timestamp (YYYY-MM-DD format)
 # Updated whenever the file changes
 date_modified: 2025-04-07
+
+# Image prompt for the prompt
+image_prompt: "A system observer dashboard visualizing real-time file changes and prompt metadata updates, with animated folder icons, notification badges, and code snippets. The atmosphere is dynamic, technical, and focused on automation and monitoring."
 ---
 
 ## Example Specifications Frontmatter Template

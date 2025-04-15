@@ -20,6 +20,8 @@ tags:
   - Code-Changes
 authors:
   - Michael Staton
+image_prompt: "A content changelog entry UI with sections for updates, improvements, and editorial notes. Visuals include content cards, timeline markers, and collaborative editing tools, symbolizing organized content history tracking."
+banner_image: https://img.recraft.ai/BoV6t-1AzDGfQno_3x8vp9p0kpTaEtAoeCYBzhlZL3g/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/efaee43c-9d1f-41ab-8b9a-e3040303d59b
 ---
 
 > Option Set for 'Changelog Type':
@@ -60,6 +62,7 @@ tags:
 - Tag1
 - Tag2
 - Tag3
+image_prompt: "A content changelog entry UI with sections for updates, improvements, and editorial notes. Visuals include content cards, timeline markers, and collaborative editing tools, symbolizing organized content history tracking."
 ---
 ```
 
@@ -124,6 +127,7 @@ author: "Michael Staton"
 augmented_with: "Windsurf on Claude 3.5 Sonnet"
 category: "Technical"
 tags: ["YAML", "Validation", "Build-Scripts", "Content-Management"]
+image_prompt: "A content changelog entry UI with sections for updates, improvements, and editorial notes. Visuals include content cards, timeline markers, and collaborative editing tools, symbolizing organized content history tracking."
 ---
 
 # Summary

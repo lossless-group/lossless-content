@@ -19,6 +19,7 @@ tags:
   - Build-Scripts
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/bpBDjqAwaJb8Kaw629cG5OSmAGZlIcxgi6c0yy0caNk/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/5ea9d87e-6c52-4aac-af0e-0beeee466162
 ---
 
 ## Objective:

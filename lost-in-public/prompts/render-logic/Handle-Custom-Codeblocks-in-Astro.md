@@ -15,6 +15,8 @@ date_modified: 2025-04-12
 tags: [Render-Logic, Astro, Component-Architecture, Code-Blocks, Markdown-Enhancement, Custom-Rendering, Content-Display, Developer-Experience, Documentation, MDX, Shiki, Component-Composition]
 authors:
   - Michael Staton
+image_prompt: "A web developer working with custom code blocks in Astro, featuring a code editor, component icons, and live previews of styled code snippets. The scene highlights modularity, syntax highlighting, and the fusion of design and engineering."
+banner_image: https://img.recraft.ai/6YoKVEKf07VqsWkptHpXp_KgNvYBkiZMWzCxV3WrJYM/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/1f1c5ede-27b9-4885-b2ae-8afddab4e9f5
 ---
 
 # Custom Code Block Rendering in Astro

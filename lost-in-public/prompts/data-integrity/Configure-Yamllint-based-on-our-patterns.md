@@ -16,6 +16,8 @@ tags:
   - Data-Integrity
 authors:
   - Michael Staton
+image_prompt: "A configuration file open in a code editor, with YAML syntax highlighted and validation checks visible. Visual cues of correct and incorrect patterns, a settings panel, and a focus on structured, well-organized data. The scene conveys clarity, precision, and adherence to coding standards."
+banner_image: https://img.recraft.ai/VlSFaEbQkkxyrCIjLK2BW5gCJkE3F-70p2behN4gaOI/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/55d4061b-f736-49a9-a628-e0e073b3e2e2
 ---
 
 I have installed through homebrew an open source library called Yamllint. 
@@ -29,7 +31,7 @@ For this, I want us to use Yammlint on the markdown file contents of the 'toolin
 
 This requires staying familiar with our own pattern documentation of irregularities we have found in our YAML, and also the peculiar flavor of syntax that is unacceptable or undesired given we use Obsidian to manage our Markdown content. 
 
-This will require knowing enough about Yammlint to configure it. 
+This will require knowing enough about Yamllint to configure it. 
 https://github.com/adrienverge/yamllint?tab=readme-ov-file
 
 ### Immediate Goal
@@ -38,7 +40,7 @@ I want you to help me write a very effective, STEP-BY-STEP Prompt, IN THIS FILE,
 ## Necessary documentation
 The documentation is https://yamllint.readthedocs.io/en/stable/quickstart.html#running-yamllint . 
   
-If you read the documentation, you will find that you can configure Yammlint, https://yamllint.readthedocs.io/en/stable/configuration.html#  
+If you read the documentation, you will find that you can configure Yamllint, https://yamllint.readthedocs.io/en/stable/configuration.html#  
   
 In order to do that, we need to go through the rules.   
 https://yamllint.readthedocs.io/en/stable/rules.html
@@ -54,7 +56,7 @@ We need to account for two things:
 
 ## 2. Iterate on Prompt
 
-## 3. Configure Yammlint
+## 3. Configure Yamllint
 
 ### 4. Do limited test runs to get reporting.
 
