@@ -1,13 +1,9 @@
 ---
 site_uuid: 21c3ffc1-94de-4f5c-b30c-ec1ab6d71a5a
-aliases:
-  - AI Copilot
-  - Copilot
-  - Copilots
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.827Z'
-tags:
-  - AI-Toolkit
+aliases: [AI Copilot, Copilot, Copilots]
+date_modified: 2025-04-15
+date_created: 2025-03-30
+tags: [AI-Toolkit]
 ---
 
 

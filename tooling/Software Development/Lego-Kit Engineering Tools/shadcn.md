@@ -18,6 +18,7 @@ tags:
   - UI-Library
   - Component-Library
   - Open-Source
+url: 'https://ui.shadcn.com/'
 ---
 
 

@@ -16,6 +16,7 @@ tags:
   - Frameworks
   - Software-Development
   - Cross-Platform-Framework
+url: 'https://expo.dev/'
 ---
 
 

@@ -15,6 +15,7 @@ date_created: '2025-03-30T05:44:14.863Z'
 tags:
   - Software-Development
   - Databases
+url: 'https://typedb.com/'
 ---
 
 

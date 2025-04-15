@@ -14,6 +14,7 @@ date_created: '2025-03-30T05:44:14.850Z'
 tags:
   - Content-Management-Systems
   - Enterprise-Jobs-To-Be-Done
+url: 'https://www.yext.com'
 ---
 
 

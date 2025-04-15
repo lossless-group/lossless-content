@@ -1,11 +1,9 @@
 ---
 site_uuid: 441829c6-ee96-4b4c-b6e7-2f9803f8f7ac
-aliases:
-  - AI Avatar
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.826Z'
-tags:
-  - AI-Toolkit
+aliases: [AI Avatar]
+date_modified: 2025-04-15
+date_created: 2025-03-30
+tags: [AI-Toolkit]
 ---
 
 

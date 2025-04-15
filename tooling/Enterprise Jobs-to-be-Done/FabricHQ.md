@@ -11,6 +11,7 @@ og_last_fetch: 2025-03-07T05:19:01.829Z
 date_modified: 2025-04-12
 date_created: 2025-03-30
 tags: [Enterprise-Jobs-To-Be-Done, Recruiting-Platforms]
+url: 'https://www.fabrichq.ai/'
 ---
 
 

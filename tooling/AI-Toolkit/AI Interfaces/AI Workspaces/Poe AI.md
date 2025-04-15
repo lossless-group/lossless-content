@@ -15,6 +15,7 @@ tags:
   - AI-Interfaces
   - AI-Workspaces
   - Desktop-App
+url: 'https://poe.com/'
 ---
 
 

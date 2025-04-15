@@ -17,6 +17,7 @@ tags:
   - Software-Development
   - Databases
   - Backend-As-A-Service
+url: 'https://nocodb.com/'
 ---
 
 

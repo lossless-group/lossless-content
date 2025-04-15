@@ -16,6 +16,7 @@ tags:
   - Enterprise-Jobs-To-Be-Done
   - Asynchronous-Communication
   - Check-It-Out
+url: 'https://jumpshare.com/'
 ---
 
 

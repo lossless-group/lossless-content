@@ -14,6 +14,7 @@ date_created: '2025-03-30T05:44:14.848Z'
 tags:
   - Data-Utilities
   - Terminal-Emulators
+url: 'https://www.nushell.sh/'
 ---
 
 

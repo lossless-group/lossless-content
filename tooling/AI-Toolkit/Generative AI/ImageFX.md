@@ -15,6 +15,7 @@ tags:
   - AI-Toolkit
   - Generative-AI
   - Gen-Ai-Image
+url: 'https://labs.google/fx/tools/image-fx/'
 ---
 
 

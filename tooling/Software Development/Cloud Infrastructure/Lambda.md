@@ -14,6 +14,7 @@ date_created: '2025-03-31T20:44:50.515Z'
 tags:
   - Software-Development
   - Cloud-Infrastructure
+url: 'https://aws.amazon.com/lambda/'
 ---
 
 

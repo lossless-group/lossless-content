@@ -16,6 +16,7 @@ date_created: 2025-03-30T00:00:00.000Z
 tags:
   - Creative
   - Design-Tools
+url: 'https://www.figma.com/'
 ---
 
 

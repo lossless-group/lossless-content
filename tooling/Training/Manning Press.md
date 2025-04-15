@@ -13,6 +13,7 @@ date_created: 2025-03-21T00:00:00.000Z
 date_modified: '2025-04-12'
 tags:
   - Training
+url: 'https://www.manning.com/'
 ---
 
 

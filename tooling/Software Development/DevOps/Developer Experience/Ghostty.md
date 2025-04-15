@@ -17,6 +17,7 @@ tags:
   - DevOps
   - Developer-Experience
   - Software-Development
+url: 'https://ghostty.org'
 ---
 
 
