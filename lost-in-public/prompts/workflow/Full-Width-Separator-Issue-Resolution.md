@@ -22,6 +22,8 @@ tags:
   - Separators
 authors:
   - Michael Staton
+image_prompt: "A web layout with a dramatic, full-width separator cutting across the viewport. Visuals include layered backgrounds, CSS code snippets, and highlighted solution diagrams, symbolizing precise layout problem-solving."
+banner_image: https://img.recraft.ai/w7ePjH-AfhdvEzIYGZDBEkQEAG8VU_ul3bQx00z7e7k/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/2bf4bf48-e809-4f3f-ab2e-a3859ebdf0f1
 ---
 
 # Full-Width Separator Issue Resolution

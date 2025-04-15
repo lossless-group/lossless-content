@@ -21,6 +21,8 @@ tags:
   - Rendering-Pipeline
 authors:
   - Michael Staton
+image_prompt: "A layered markdown rendering UI, with site-specific styles applied to each layer. Visual elements include tabs for different views, highlighted markdown syntax, and a modern, multi-layered interface."
+banner_image: https://img.recraft.ai/FuZiIsBR-N67dnrGPkDWj-F3ZqOVJfz9Lqil2SI_ruA/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/4558cc85-fc81-43cc-bf8f-cd32f1079903
 ---
 
 # Goals

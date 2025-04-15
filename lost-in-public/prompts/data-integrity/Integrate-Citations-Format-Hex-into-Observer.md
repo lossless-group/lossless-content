@@ -19,6 +19,8 @@ tags:
   - Data-Integrity
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/GshneWRThroxXVfwmg36QFM4_2uIRmntcmtb2bn7V-w/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/7416bf4a-0b3c-4fa2-9b92-f931e1c6c780
+image_prompt: "A developer integrating citation formatting logic into a file observer tool, with code snippets, citation icons, and a visual flow of data transformation. The scene emphasizes technical precision, academic rigor, and seamless automation."
 ---
 
 # Objective

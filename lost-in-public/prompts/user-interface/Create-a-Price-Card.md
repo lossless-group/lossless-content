@@ -20,6 +20,8 @@ tags:
   - Responsive-Design
 authors:
   - Michael Staton
+image_prompt: "A modern price card UI component with clear pricing tiers, feature checklists, and a prominent call-to-action button. The design uses soft gradients, clean lines, and visually distinct sections for each pricing option."
+banner_image: https://img.recraft.ai/W5knNvqT3e7EJxwAZIU3Z3Th-2OyWNcjr_U4KqWJjhk/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/e54e2262-c690-47a3-9b53-fe902fe04541
 ---
 
 # Inspiration Set

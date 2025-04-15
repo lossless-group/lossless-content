@@ -21,6 +21,9 @@ tags:
   - Data-APIs
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/CJV_lVr-cI5p0aRrvepxWRQV8chzHU65V47J-KNM9ks/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/820e605b-5427-4a94-add8-10e04de77071
+image_prompt: "A developer enhancing a file observer tool to fetch and display Open Graph data, with code panels, network activity icons, and browser previews. The scene highlights automation, metadata enrichment, and real-time updates in a technical environment."
+
 ---
 
 ## Objective

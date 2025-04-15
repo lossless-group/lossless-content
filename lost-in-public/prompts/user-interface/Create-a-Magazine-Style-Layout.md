@@ -14,6 +14,8 @@ tags:
   - User-Interface
 authors:
   - Michael Staton
+image_prompt: "A magazine-style web layout with bold headlines, elegant typography, image-rich feature sections, and a balanced grid. The design evokes a premium print magazine adapted for digital, with modern UI elements and editorial flair."
+banner_image: https://img.recraft.ai/qtGBGoCdRB16MnZKcYW4ZYXJ7c-KyH-6gNUKNjE8C7o/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/94bc92e8-39a1-4db9-99d3-c4cd0cfbb546
 ---
 
 # Inspiration

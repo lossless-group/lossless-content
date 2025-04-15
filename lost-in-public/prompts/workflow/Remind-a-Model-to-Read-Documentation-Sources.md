@@ -26,6 +26,8 @@ tags:
   - State-Of-The-Art-Practices
 authors:
   - Michael Staton
+image_prompt: "An AI model surrounded by floating documentation pages, code snippets, and reference books. Visuals include a glowing lightbulb, search icons, and a sense of discovery and insight, symbolizing learning from documentation."
+banner_image: https://img.recraft.ai/Dlt0WFNa-ngUK9LvEwfslzLvTar7IgvAfm20BSD50WU/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/98808c06-ca48-4818-afa6-7515dcc29fd7
 ---
 
 Handsontable

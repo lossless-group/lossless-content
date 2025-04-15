@@ -21,12 +21,24 @@ Part of the infinite loop I have been in is that Astro and Obsidian treat markdo
 
 
 ## Focal Points:
+
+### Vibe Coding & AI Use
 Prompts: `lost-in-public/prompts`
-Specs: `specs`
+Specifications: `specs`
 RAG Input: `lost-in-public/rag-input`
 
+### Changelogs
 Code Changelog: `changelog--code`
 Content Changelog: `changelog--content`
+
+### Tooling, Organizations, and Sources
+Tooling: `tooling`
+Organizations: `organizations`
+Sources: `sources`
+
+### Concepts and Vocabulary
+Concepts: `concepts`
+Vocabulary: `vocabulary`
 
 
 ## Structure

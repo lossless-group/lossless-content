@@ -23,6 +23,7 @@ tags:
   - Content-Display
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/95_z2fVL-mG3BZL9cdWGv8mzFCe-hY5EH_h8DrcdQbA/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/e812a314-0fcf-4a06-9abf-06e415b94081
 ---
 
 # Dynamic Information Page Rendering in Astro

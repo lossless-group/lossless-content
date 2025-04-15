@@ -21,6 +21,8 @@ tags:
   - AST
 authors:
   - Michael Staton
+image_prompt: "A creative workspace where markdown is rendered with intention, featuring a code editor, inspirational notes, and a preview pane showing beautifully formatted content. The mood is thoughtful, artistic, and focused on purposeful design."
+banner_image: https://img.recraft.ai/ziedQj20B1XL88weSW-kavk5ViAxND-gJ-BkOsC39B4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/84111178-8472-4834-9e01-47492d168f0f
 ---
 
 # Comprehensive AST Transformation Pipeline

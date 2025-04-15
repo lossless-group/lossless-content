@@ -15,6 +15,7 @@ date_created: 2025-04-09
 tags: [Documentation-Standards, Version-Control, Change-Management, Content-Organization]
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/RcRXJ9AZIMRi31U7_tpXn3rs20EkWZCA3UbIqbDO3jc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a1ab7b7e-fa76-4413-ae97-696f3a9eab94
 ---
 
 # Purpose  # High-level goal
@@ -50,6 +51,7 @@ category: "Technical | Documentation | Content"  # Type of change
 tags:  # Related topics
 - Tag-One
 - Tag-Two
+image_prompt: "A basic changelog interface showing a chronological list of updates, color-coded tags for features and fixes, and a simple, clean design. Visuals include a timeline, version numbers, and checkmarks for completed tasks."
 ---
 ```
 
@@ -125,6 +127,7 @@ tags:  # Related areas
 - Build-Scripts
 - Performance
 - Optimization
+image_prompt: "A basic changelog interface showing a chronological list of updates, color-coded tags for features and fixes, and a simple, clean design. Visuals include a timeline, version numbers, and checkmarks for completed tasks."
 ---
 
 # Summary

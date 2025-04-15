@@ -9,7 +9,7 @@ date_last_updated: null
 at_semantic_version: 0.0.0.1
 status: To-Prompt
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
-category: Prompts
+category: Prompted
 date_created: 2025-04-12
 date_modified: 2025-04-12
 tags:
@@ -19,6 +19,9 @@ tags:
   - Component-Management
 authors:
   - Michael Staton
+image_prompt: "Abstract representation of modular UI components, each with distinct styles and icons, being assembled like building blocks in a developer's workspace."
+banner_image: https://img.recraft.ai/pS5J-7kmyrAjAR3El1QGwkcmZgnQ7MC0WOBNV4hJUcU/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/f8b4675d-9f3b-4033-9c2e-be797aad7121
+publish: true
 ---
 
 # Context
@@ -38,4 +41,3 @@ into two components:
 2. @components/reference/VocabularyPreviewCard.astro
 
 into the @components/reference directory.
-

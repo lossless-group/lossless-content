@@ -13,6 +13,8 @@ tags:
   - Workflow
 authors:
   - Michael Staton
+image_prompt: "A reporting dashboard with consistent templates, featuring tables, charts, and structured summary cards. Visuals include template icons, alignment guides, and a sense of organized, repeatable reporting workflows."
+banner_image: https://img.recraft.ai/kSPv35K6mZpn2JdZEL0XjSfHFgCOIXSVoN8WKDqtO5I/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/f9e0f647-7a67-4428-863a-080617ef1b9b
 ---
 
 ### Single Operation Process Report

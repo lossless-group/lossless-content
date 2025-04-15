@@ -21,6 +21,8 @@ tags:
   - Content-Automation
 authors:
   - Michael Staton
+image_prompt: "A content creation gateway powered by multiple LLMs, with data flowing through interconnected nodes, creative content cards, and a dashboard of AI models. Visuals include glowing pathways, document icons, and a sense of high-volume, automated content generation."
+banner_image: https://img.recraft.ai/JwXZuFeGzMMO4i5tx6HrXMJY_ExQoe2hf7amDriGhM4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/b17c37b8-f37f-4aee-9fd5-4d649cc723ae
 ---
 
 ###### Covered
@@ -170,5 +172,3 @@ main().catch(error => {
   console.error('Error in main execution:', error);
   process.exit(1);
 });
-
-```

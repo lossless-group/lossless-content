@@ -20,6 +20,9 @@ tags:
   - Code-Style
 authors:
   - Michael Staton
+image_prompt: "A clean, organized dashboard with toggles and dropdowns for user configuration, surrounded by code snippets and directory icons, in a modern developer workspace."
+banner_image: https://img.recraft.ai/TTA1P8fIcrz_kbvu3eCIPFSYMvGGB8d92LJ--aJEE2s/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/3a6df835-2288-4ee4-b87d-77d5f83c0145
+publish: true
 ---
 
 ```javascript

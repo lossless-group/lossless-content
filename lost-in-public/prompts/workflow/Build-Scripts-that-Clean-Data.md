@@ -21,6 +21,8 @@ tags:
   - Best-Practices
 authors:
   - Michael Staton
+image_prompt: "A build script UI with code lines transforming messy data into clean, organized tables. Visual elements include progress bars, checkmarks, and before-and-after data panels, symbolizing automation and data integrity."
+banner_image: https://img.recraft.ai/qyPaL7H-idyJInQuGLD2yP1DTrECI3jjFgOFFvWU4vE/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/2e50bbb8-e132-4fa7-b260-4b23987fb857
 ---
 
 # Context

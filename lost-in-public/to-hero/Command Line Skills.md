@@ -12,10 +12,9 @@ authors:
 status: To-Do
 augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
 category: To-Hero
-tags:
-- Command-Line
+tags: [Command-Line]
 date_created: 2025-03-23
-date_modified: 2025-04-07
+date_modified: 2025-04-15
 ---
 
 Check for ports that are open.

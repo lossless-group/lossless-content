@@ -21,8 +21,9 @@ tags:
   - Rendering-Pipeline
 date_created: 2025-03-28
 date_modified: 2025-04-12
+image_prompt: "A vocabulary collection UI using modular prior components, with interactive word cards, search and filter options, and a visually organized grid. The design is modern, educational, and user-friendly."
+banner_image: https://img.recraft.ai/EATUsltLFF3f_6NTh5Qhv32o-u2VDUQNK-jxPkcB__E/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/f09fdcbf-ce63-4525-911a-b3bc7eca101f
 ---
-
 
 # Constraints:
 Vocabulary Collection markdown files almost never have any metadata or frontmatter.  
