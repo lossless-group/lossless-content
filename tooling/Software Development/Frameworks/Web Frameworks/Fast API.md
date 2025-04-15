@@ -18,6 +18,7 @@ tags:
   - Software-Development
   - Web-Frameworks
   - Python-Ecosystem
+url: 'https://fastapi.tiangolo.com/'
 ---
 
 

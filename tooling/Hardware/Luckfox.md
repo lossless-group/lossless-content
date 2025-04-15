@@ -13,6 +13,7 @@ date_modified: '2025-04-12'
 date_created: '2025-03-31T20:44:50.513Z'
 tags:
   - Hardware
+url: 'https://www.luckfox.com/'
 ---
 
 

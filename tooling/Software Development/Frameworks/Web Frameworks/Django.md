@@ -16,6 +16,7 @@ tags:
   - Web-Frameworks
   - Software-Development
   - Frameworks
+url: 'https://www.djangoproject.com/'
 ---
 
 

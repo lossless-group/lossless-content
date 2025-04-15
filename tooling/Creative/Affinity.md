@@ -13,6 +13,7 @@ date_modified: '2025-04-12'
 date_created: 2025-03-30T00:00:00.000Z
 tags:
   - Creative
+url: 'https://affinity.serif.com/en-us/'
 ---
 
 

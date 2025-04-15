@@ -14,6 +14,7 @@ date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.875Z'
 tags:
   - Training
+url: 'https://www.coursera.org/'
 ---
 
 

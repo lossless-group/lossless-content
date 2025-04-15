@@ -12,6 +12,7 @@ og_last_fetch: 2025-03-07T05:19:01.810Z
 date_modified: 2025-04-12
 date_created: 2025-03-31
 tags: [Products, Generative-AI, Knowledge-AI, Check-It-Out]
+url: 'https://www.atlassian.com/software/rovo'
 ---
 
 

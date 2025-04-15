@@ -17,6 +17,7 @@ tags:
   - Productivity
   - Advanced-Spreadsheets
   - Database-Apps
+url: 'https://parabola.io/'
 ---
 
 

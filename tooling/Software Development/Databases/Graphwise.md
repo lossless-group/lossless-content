@@ -18,6 +18,7 @@ tags:
   - Software-Development
   - Databases
   - Semantic-Layer
+url: 'https://graphwise.ai/'
 ---
 
 

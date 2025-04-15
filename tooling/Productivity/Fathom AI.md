@@ -18,6 +18,7 @@ tags:
   - AI-Transcribers
   - AI-Meeting-Notes
   - Check-It-Out
+url: 'https://fathom.video/'
 ---
 
 

@@ -17,6 +17,7 @@ tags:
   - Backend-As-A-Service
   - Serverless-Database
   - Local-First
+url: 'https://turso.tech/'
 ---
 
 
