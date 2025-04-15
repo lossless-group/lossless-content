@@ -3,7 +3,7 @@ date_created: 2025-03-20
 date_modified: 2025-03-26
 ---
 # Continuous Integration Workflow
-This workflow was recommended by [[Tooling/AI-Toolkit/Generative AI/Code Generators/Warp|Warp]] an [[Tooling/AI-Toolkit/Explainers/AI Terminal Assistant]]
+This workflow was recommended by [[Tooling/AI-Toolkit/Generative AI/Code Generators/Warp|Warp]] an [[Concepts/Explainers for AI/AI Terminal Assistant]]
 
 If you haven't already:
 ```bash
