@@ -21,6 +21,8 @@ tags:
   - AST
 authors:
   - Michael Staton
+image_prompt: "A documentation platform rendering extended markdown, with large, well-structured documents, navigation panels, and Astro component icons. The scene highlights scalability, clarity, and the power of advanced markdown rendering."
+banner_image: https://img.recraft.ai/vfO6RuQUGfDAko1zh_c9SDHRHcPiFQaSonI8rq__OOQ/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/ddac6a16-c62b-4a74-8a6a-aa18f73b345c
 ---
 
 # Implementation Details

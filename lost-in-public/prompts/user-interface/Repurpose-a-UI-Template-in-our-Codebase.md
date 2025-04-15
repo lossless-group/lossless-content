@@ -19,6 +19,8 @@ tags:
   - Code-Reuse
 authors:
   - Michael Staton
+image_prompt: "A UI template being repurposed in a codebase, with highlighted reusable components, a code editor view, and a preview pane showing the adapted interface. The design is collaborative, modular, and developer-focused."
+banner_image: https://img.recraft.ai/FZWGABDiO4e1lgkW9jHkND13N0l422CGkvbzotkqTH4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a45bdb11-9fba-47ed-9b22-159637bc9405
 ---
 
 # Repurpose a UI Template in our Codebase

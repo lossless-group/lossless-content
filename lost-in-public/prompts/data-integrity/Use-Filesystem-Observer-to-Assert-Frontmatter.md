@@ -19,6 +19,7 @@ tags:
   - File-Systems
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/ZEjVZ7wvGmVnKxSH_jKqYYJx5k-RX_aI8OzXzV-oSnY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a1a21c0d-5cbb-4162-ac13-693f65380fa6
 ---
 
 ## Objective: 

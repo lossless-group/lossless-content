@@ -20,6 +20,8 @@ tags:
   - Data-Integrity
 authors:
   - Michael Staton
+image_prompt: "A monitoring dashboard showing a filesystem observer tracking real-time frontmatter updates in Markdown files. Visuals include file icons, update notifications, and highlighted YAML metadata, conveying automation, accuracy, and oversight."
+banner_image: https://img.recraft.ai/I6m8wFBHcyg_TX6pzO86LjvwUEP7ZALe5eLBK_3SGo8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/6c61a2ed-b4aa-4182-814f-475e859d7b77
 ---
 
 ## Objective

@@ -19,6 +19,8 @@ tags:
   - Data-Integrity
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/iJXP-SjpRYCx0S5UmTA0BUzGtZGotTBOU8fR8gxzsK0/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/0a218f4f-de5e-4131-a802-9da4d7b1909c
+image_prompt: "A developer interacting with an API dashboard to fetch Open Graph data, with code snippets, network request icons, and browser previews of enriched link cards. The scene emphasizes data flow, connectivity, and real-time web enhancement."
 ---
 
 # OpenGraph Data Fetching Script Implementation Guide

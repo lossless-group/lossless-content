@@ -16,6 +16,8 @@ tags:
   - Data-Integrity
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/Xt43PkyA-JkjcmCILlRKLQbsHYONKEHcevgCnZzwi0Q/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/1e579759-83a6-4755-a02b-8e5400db58b2
+image_prompt: "A digital dashboard or code editor interface showing a global search and replace operation, with highlighted tag strings being updated across multiple files. The scene conveys automation, precision, and data integrity, with visual cues like checkmarks, code snippets, and a unified UI palette."
 ---
 
 `ui-library` --> `UI-Library`

@@ -25,6 +25,8 @@ tags:
   - Collaborative-Workflow
 authors:
   - Michael Staton
+image_prompt: "A minimalist text editor UI for writing raw git commit messages, with syntax highlighting, commit history, and version control icons. Visuals include branching diagrams and a focus on concise, meaningful text."
+banner_image: https://img.recraft.ai/GdYU_mAJixEh7_-qP0DFQNjjmluFpzt86uYjNEV5-KQ/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/bc918348-6a36-4bdc-98cc-70366078c61f
 ---
 
 # Goals

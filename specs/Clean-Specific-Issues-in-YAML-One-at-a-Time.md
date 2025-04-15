@@ -1,9 +1,19 @@
 ---
 title: Clean Specific Issues in YAML One at a Time
-date: 2025-03-16
+lede: Targeted scripts to address specific YAML frontmatter issues for improved content management
+date_authored_initial_draft: 2025-03-16
+date_authored_current_draft: 2025-03-16
+date_authored_final_draft: null
+date_first_published: null
+date_last_updated: null
+at_semantic_version: 0.0.1.0
 authors: 
 - Michael Staton
-generated_with: "Windsurf IDE with Claude 3.5 Sonnet"
+status: Iterating
+augmented_with: "Windsurf IDE with Claude 3.5 Sonnet"
+category: Specification
+date_created: 2025-03-16
+date_modified: 2025-04-12
 tags:
 - Scripts
 - YAML

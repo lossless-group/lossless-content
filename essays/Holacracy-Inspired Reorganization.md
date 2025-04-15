@@ -1,0 +1,2 @@
+
+[[Holacracy]] is an idealistic, conceptual system for management that emphasizes flat, flexible organizations. In searching for examples of Holacracy, mixed results are quite public. So, a hard and pure implementation 

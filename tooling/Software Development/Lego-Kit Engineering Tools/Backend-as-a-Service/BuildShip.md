@@ -1,8 +1,8 @@
 ---
 site_uuid: fa68d48e-753a-4a6b-9807-92dbc7de5c2d
 image: https://framerusercontent.com/assets/aaCyZXQ3YVWFlDC7RJh6KsexeXM.png
-site_name: BuildShip | Visual Low
-title: BuildShip | Visual Low-code Backend Builder
+site_name: BuildShip
+title: Visual Low-code Backend Builder
 favicon: https://framerusercontent.com/images/b51Z2Y1mVJl1y1zVjfJM7Ykw8O0.png
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/324e36b4358724fb26e62ceca745fbf7034a2255d30fee2a46cfeeb6d7d05d24.jpeg
@@ -16,6 +16,7 @@ tags:
   - Software-Development
   - Databases
   - Backend-As-A-Service
+  - Check-It-Out
 ---
 
 

@@ -20,6 +20,8 @@ tags:
   - Automation
 authors:
   - Michael Staton
+image_prompt: "A git commit interface focused on a single directory, showing commit messages, file diffs, and version history. Visuals include directory trees, commit icons, and collaborative editing, symbolizing precise version control."
+banner_image: https://img.recraft.ai/YvI1hQf2JAamEDoAhWHxIj2WuJXoBWsFY-9BQwtAn2I/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a54f6302-b1b1-4a3b-adbf-feba5899ffe2
 ---
 
 # Purpose

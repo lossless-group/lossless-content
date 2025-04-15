@@ -6,7 +6,7 @@ date_authored_current_draft: 2025-03-17
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: 0.0.0.1
+at_semantic_version: '0.0.0.1'
 status: To-Prompt
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
@@ -20,6 +20,8 @@ tags:
   - Bug-Prevention
 authors:
   - Michael Staton
+image_prompt: "A digital notebook UI with YAML code snippets, warning icons for errors, and a timeline of project memories. Visuals include sticky notes, highlighted syntax, and a reassuring sense of order and best practices."
+banner_image: https://img.recraft.ai/AgJSClruIrUD-QivKw-z2uV97mNsSCkrYHXQ4lNdLC8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/bc72b822-2ddd-4e73-8730-a023aaafce40
 ---
 
 # Context

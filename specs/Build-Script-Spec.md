@@ -1,9 +1,27 @@
 ---
-title: "Build Scripts Architecture Specification"
-date: 2025-03-14
-author: "Michael Staton"
-category: "Specification"
-tags: ["Build-Scripts", "YAML", "Frontmatter", "Architecture", "Documentation", "OpenGraph", "YouTube"]
+title: Build Scripts Architecture Specification
+lede: "Implement consistent, comprehensive code commenting style with section openers and detailed function documentation"
+date_authored_initial_draft: 2025-03-07
+date_authored_current_draft: 2025-04-06
+date_authored_final_draft: null
+date_first_published: null
+date_last_updated: null
+at_semantic_version: 0.0.0.3  
+authors:
+  - Michael Staton
+status: Iterating
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+category: Specification
+tags: 
+  - Build-Scripts
+  - YAML
+  - Frontmatter
+  - Architecture
+  - Documentation
+  - OpenGraph
+  - YouTube
+date_created: 2025-03-07
+date_modified: 2025-04-12
 ---
 
 # Build Scripts Architecture Specification

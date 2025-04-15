@@ -2,8 +2,7 @@
 date_created: 2025-03-29
 date_modified: 2025-04-12
 site_uuid: e13175e6-3596-48f6-866c-4cdf78d915fc
-aliases:
-  - acquiring
+aliases: [acquiring]
 ---
 
 
@@ -54,7 +53,7 @@ According to [[Poe AI]]:
 >     
 >     - **Reasoning**: Acquiring a well-known and respected company can enhance the acquirer’s brand value and reputation.
 >     - **Example**: Disney’s acquisitions of Pixar and Marvel added world-renowned brands to its portfolio.
-> 10. **Vertical Integration**
+> 1. **[[Vertical Integration]]**
 >     
 >     - **Reasoning**: Companies can acquire others at different stages of their supply chain to gain more control over production, distribution, or sales.
 >     - **Example**: Tesla’s acquisition of Maxwell Technologies helped it gain control over battery production.

@@ -35,8 +35,8 @@ date_modified: 2025-03-26
 
 So for one day it might be 
 `2025-03-25_Session_01`
-`2025-03-25_Session_01`
-`2025-03-25_Session_01`
+`2025-03-25_Session_02`
+`2025-03-25_Session_03`
 
 ### Frontmatter Template
 ```markdown

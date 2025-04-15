@@ -5,12 +5,7 @@ date_created: 2025-03-14
 date_modified: 2025-04-12
 zinger: The Fast Open-Source Remote Access and Support Software
 description_site_cp: Switch from TeamViewer, AnyDesk, and Splashtop to RustDesk for a secure and reliable remote desktop experience with your own self-hosted servers.
-tags:
-  - Open-Source-Alternatives
-  - Open-Source
-  - Enterprise-Jobs-To-Be-Done
-  - Customer-Experience
-  - Check-It-Out
+tags: [Open-Source-Alternatives, Open-Source, Enterprise-Jobs-To-Be-Done, Customer-Experience, Check-It-Out]
 image: https://rustdesk.com/_astro/default.BnGe5sEj_Mm9fb.webp
 site_name: RustDesk
 title: Open-Source Remote Desktop with Self-Hosted Server Solutions

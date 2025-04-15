@@ -1,7 +1,7 @@
 ---
-aliases:
-  - Collaborative Documents
-  - Documents Reimagined
+aliases: [Collaborative Documents, Documents Reimagined]
+date_created: 2025-03-31
+date_modified: 2025-04-15
 ---
 
 [[Advanced Documents]], alternately called [[Advanced Documents|Collaborative Documents]], or [[Advanced Documents|Documents Reimagined]] is a very dynamic, rapidly evolving set of tools that leap out from traditional personal productivity applications, notably Microsoft Word.  

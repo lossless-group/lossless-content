@@ -20,6 +20,8 @@ tags:
   - User-Experience
 authors:
   - Michael Staton
+image_prompt: "A changelog user interface with a timeline of updates, interactive cards for each release, and filterable tags. Visual cues include icons for features and bug fixes, a clean layout, and a modern, collaborative workspace vibe."
+banner_image: https://img.recraft.ai/tYhFdj9JsL3o1SSu78LnrU49OeBeGneSAUIDczKojxI/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a30e65a6-f4db-4dd3-9fa4-123067a4416a
 ---
 
 # Data Flow & Component Pipeline

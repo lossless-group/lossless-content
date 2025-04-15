@@ -6,7 +6,7 @@ date_created: 2025-04-06
 
 ## Policy Maintenance
 
-An example from [[Google Maps]]:
+An example from [[Tooling/Products/Google Maps|Google Maps]]: 
 ![[Google Maps#Google Maps API managing policies.]]
 
 ## Noise Policing
