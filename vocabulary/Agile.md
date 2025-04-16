@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-27
-date_modified: 2025-04-14
+date_modified: 2025-04-16
 site_uuid: 7b615412-bbfe-4a5c-a0e7-a883e5d15466
 ---
 
@@ -9,9 +9,28 @@ https://youtu.be/w5Wr3j4h_1I?si=MkvjqMt3xPbBZjUL
 [[Vocabulary/Software Development|Software Development]]
 [[Vocabulary/Engineering Management|Engineering Management]]
 
-![[Visuals/v2__Data Model Database--In-Action.png]]
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/291f2534e5a142048b7c5df73758c581?sid=d136039f-d327-4f45-bedb-e80bf456800d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+![[visuals/v2__Data Model Database--In-Action.png]]
+
+![Screenshot](/assets/Screenshot_2025-04-14_Kling-AI.png)
+
+![[assets/Screenshot_2025-04-14_Kling-AI.png]]
+
+
 
 Some content here.  
+
+<iframe 
+  style="aspect-ratio:16/9;width:100%;height:auto" 
+  src="https://www.youtube.com/embed/U3MVU6JpocU?si=i84FmkbjN0xfMOF5" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen
+></iframe>
 
 A backlink to [[vocabulary/Affinity Network]]
 

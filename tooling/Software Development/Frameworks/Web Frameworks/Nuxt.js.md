@@ -1,5 +1,6 @@
 ---
-site_uuid: bd879dea-4289-4b68-b46f-5bd4a743ee57url:https://nuxt.com/
+site_uuid: bd879dea-4289-4b68-b46f-5bd4a743ee57
+url: https://nuxt.com/
 image: https://nuxt.com/new-social.jpg
 site_name: Nuxt
 title: 'Nuxt: The Intuitive Vue Framework'
@@ -14,7 +15,6 @@ tags:
   - Software-Development
   - Frameworks
   - Web-Frameworks
-url: ""'https://nuxt.com/'""
 ---
 
 

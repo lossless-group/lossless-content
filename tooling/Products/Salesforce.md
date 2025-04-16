@@ -1,37 +1,12 @@
 ---
 site_uuid: 1af82819-3e19-4f06-af31-dbf4a7594df3
-date_created: 2025-03-20T00:00:00.000Z
-date_modified: '2025-04-12'
-tags:
-  - Products
-  - Sales-Tools
-  - CRM
+date_created: 2025-03-20
+date_modified: 2025-04-16
+tags: [Products, Sales-Tools, CRM]
+url: https://www.salesforce.com/
+zinger: Grow faster and work smarter.
+description_site_cp: Start simply with Starter Suite, the all-in-one CRM for small business. Then scale endlessly with autonomous AI agents, unified data, and CRM apps together on one integrated platform. And connect with customers in a whole new way.
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Modular Upsells
 
 [[Salesforce]] is both a "modular" and a "seat-based" solution, and it is priced the same. So there is always something pretty cool or even slightly crucial they Salesforce will want to upsell customers. The more functionality you add, and the more people have seats to Salesforce, the more Laerdal gets billed.  Trying to keep Salesforce costs down is a whole endeavor. This is how they create [[Lock In]].   ^bec3e9

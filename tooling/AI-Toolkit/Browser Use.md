@@ -4,7 +4,7 @@ url: https://browser-use.com/
 github_repo_url: https://github.com/browser-use/browser-use
 date_created: 2025-03-16T00:00:00.000Z
 date_modified: '2025-04-12'
-og_title: Browser Use - Make websites accessible to AI agents
+og_title: Make websites accessible to AI agents
 og_description: >-
   Make websites accessible for AI agents. Extract interactive elements and
   automate browser interactions.
