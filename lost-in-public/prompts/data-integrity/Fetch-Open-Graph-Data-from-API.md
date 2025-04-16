@@ -27,7 +27,7 @@ image_prompt: "A developer interacting with an API dashboard to fetch Open Graph
 
 Create a Node.js script (`runFetchOpenGraphData.cjs`) that processes Markdown files to fetch and update OpenGraph metadata and screenshots. This guide provides detailed specifications for implementing a robust, error-tolerant system.
 
-Use [[Lost in Public/prompts/workflow/Meticulous-Constraints-for-Every-Prompt|Meticulous-Constraints-for-Every-Prompt]] and [[Lost in Public/prompts/workflow/Maintain-Consistent-Reporting-Templates|Maintain-Consistent-Reporting-Templates]] for the Single Operation Process Report.
+Use [[lost-in-public/prompts/workflow/Meticulous-Constraints-for-Every-Prompt|Meticulous-Constraints-for-Every-Prompt]] and [[lost-in-public/prompts/workflow/Maintain-Consistent-Reporting-Templates|Maintain-Consistent-Reporting-Templates]] for the Single Operation Process Report.
 
 ## Core Components
 

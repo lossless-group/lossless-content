@@ -77,6 +77,12 @@ Our extended markdown rendering pipeline is built on top of Astro's markdown pro
 - **Astro**: Primary framework and build system
 - **Unified**: Text processing framework
 - **Remark**: Markdown processor and plugin system
+  - **remark-gfm**: GitHub Flavored Markdown support
+    - Tables with alignment
+    - Task lists (`- [ ]` and `- [x]`)
+    - Strikethrough (`~~text~~`)
+    - URL autolinking
+    - Footnotes
 - **Rehype**: HTML processor and plugin system
 - **TypeScript**: Type system and development language
 
@@ -301,6 +307,7 @@ site/src/
 export default defineConfig({
   markdown: {
     remarkPlugins: [
+      remarkGfm, // GitHub Flavored Markdown support
       remarkCalloutHandler,
       remarkBacklinks,
       remarkImages,

@@ -7,5 +7,5 @@ description_site_cp: Thousands of AI papers, models, and tools are released dail
 tags:
   - Information-Hubs
 ---
-Similar to [[Lost in Public/inspiration-cases/AI Toolkit|AI Toolkit]]
+Similar to [[lost-in-public/inspiration-cases/AI Toolkit|AI Toolkit]]
 

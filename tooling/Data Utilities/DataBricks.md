@@ -4,7 +4,7 @@ url: https://www.databricks.com/
 image: >-
   https://www.databricks.com/sites/default/files/2023-11/databricks-og-universal.png
 site_name: Databricks
-title: The Data and AI Company — Databricks
+title: The Data and AI Company
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/42aaa147ffc4a84ee2f837ee8c5005842c36c79fea79f9e5644cd8c215635c40.jpeg
 jina_last_request: '2025-03-09T06:44:59.870Z'
@@ -17,16 +17,6 @@ tags:
   - Data-Storage
   - Data-Tooling
 ---
-
-
-
-
-
-
-
-
-
-
 
 Part of the [[Current Stack]] of Laerdal.
 

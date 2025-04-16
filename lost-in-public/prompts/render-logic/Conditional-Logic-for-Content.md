@@ -11,13 +11,8 @@ status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-03-19
-date_modified: 2025-04-12
-tags:
-  - Render-Logic
-  - Conditional-Rendering
-  - Content-Visibility
-  - User-Roles
-  - Route-Mapping
+date_modified: 2025-04-16
+tags: [Render-Logic, Conditional-Rendering, Content-Visibility, User-Roles, Route-Mapping]
 authors:
   - Michael Staton
 image_prompt: "A visual representation of conditional logic in content rendering, featuring flowcharts, branching arrows, and code snippets. The scene conveys dynamic decision-making, modularity, and the adaptability of digital content systems."

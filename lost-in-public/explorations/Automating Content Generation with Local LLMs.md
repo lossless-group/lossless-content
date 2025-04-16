@@ -183,7 +183,7 @@ I used [[1Password]] to grab me API Keys for [[Gemini]], [[OpenAI]], [[Tooling/A
 
 I had to make sure [[OLlama]] was running locally. If you don't have it installed, you'll need it. 
 
-Then, initiate Perplexica using [[Docker]]. If you don't have it installed, you'll need it. I actually had an issue, so I had to do a clean install, you can find it [[Up and Running with Docker]]
+Then, initiate Perplexica using [[Docker]]. If you don't have it installed, you'll need it. I actually had an issue, so I had to do a clean install, you can find it [[lost-in-public/up-and-running/Up and Running with Docker]]
 
 ```bash
 # -d is the argument for detached mode
