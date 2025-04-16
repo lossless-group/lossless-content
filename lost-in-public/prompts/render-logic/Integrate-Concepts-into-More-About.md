@@ -32,12 +32,12 @@ Render the `content/concepts` markdown files through the same `localhost:4321/mo
 `site/src/components/articles/OneArticleOnPage.astro`
 
 ### Analogous Code:
-Related to the [[Lost in Public/prompts/user-interface/Create-a-Changelog-UI|Create-a-Changelog-UI]] where we were able to render the Content Changelog and the Code Changelog on the same set of pages with the same set of components.  
+Related to the [[lost-in-public/prompts/user-interface/Create-a-Changelog-UI|Create-a-Changelog-UI]] where we were able to render the Content Changelog and the Code Changelog on the same set of pages with the same set of components.  
 
 
 ### Content Development
 
-The content team develops content in Markdown files, and is increasingly using AI [[Vocabulary/Large Language Models|Large Language Models]] to generate content.  See [[Lost in Public/prompts/workflow/Create-a-Content-Generation-Engine|Create-a-Content-Generation-Engine]]. 
+The content team develops content in Markdown files, and is increasingly using AI [[Vocabulary/Large Language Models|Large Language Models]] to generate content.  See [[lost-in-public/prompts/workflow/Create-a-Content-Generation-Engine|Create-a-Content-Generation-Engine]]. 
 
 Two of the content streams are Vocabulary and Concepts.  These are effectively the same, and would have the same rough YAML metadata, and the same UI.  They are only differentiated and in different directories because 
 - the Content team believes concepts are both more important to develop and communicate, and, 
@@ -45,9 +45,9 @@ Two of the content streams are Vocabulary and Concepts.  These are effectively t
 - Vocabulary really is just that -- when the content team writes content and they use a technical term or a trendy word, they want to define it in the rendered content so that the reader doesn't need to go look it up elsewhere.  They can just "double-click" (or even hover to see). 
 
 ### Versatile Content Rendering
-We have worked on this before, most robustly codified in [[Lost in Public/prompts/user-interface/Create-a-Reusable-Content-Collections-UI-Structure|Create-a-Reusable-Content-Collections-UI-Structure]]. 
+We have worked on this before, most robustly codified in [[lost-in-public/prompts/user-interface/Create-a-Reusable-Content-Collections-UI-Structure|Create-a-Reusable-Content-Collections-UI-Structure]]. 
 
-Related files include: [[Lost in Public/prompts/render-logic/Support-Dynamic-Information-Pages|Support-Dynamic-Information-Pages]], [[Lost in Public/prompts/render-logic/Conditional-Logic-for-Content|Conditional-Logic-for-Content]].
+Related files include: [[lost-in-public/prompts/render-logic/Support-Dynamic-Information-Pages|Support-Dynamic-Information-Pages]], [[lost-in-public/prompts/render-logic/Conditional-Logic-for-Content|Conditional-Logic-for-Content]].
 
 # Implementation Insights
 

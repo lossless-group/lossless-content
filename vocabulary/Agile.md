@@ -6,8 +6,21 @@ site_uuid: 7b615412-bbfe-4a5c-a0e7-a883e5d15466
 
 https://youtu.be/w5Wr3j4h_1I?si=MkvjqMt3xPbBZjUL
 
+
+| Hello | World |
+| ----- | ----- |
+| world | hello |
+
+
+
+
 [[Vocabulary/Software Development|Software Development]]
 [[Vocabulary/Engineering Management|Engineering Management]]
+
+
+| Left | Center | Right |
+|:-----|:------:|------:|
+| 1    |   2    |     3 |
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/291f2534e5a142048b7c5df73758c581?sid=d136039f-d327-4f45-bedb-e80bf456800d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
