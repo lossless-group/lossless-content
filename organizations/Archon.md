@@ -8,4 +8,4 @@ https://youtu.be/GjR5UsVGE60?si=j8WxpkR7nxvrAOvk
 
 [[Agentic AI|AI Agents]] building [[Agentic AI|AI Agents]]
 
-[[Concepts/Explainers for AI/AI Programming Frameworks]]
+[[concepts/Explainers for AI/AI Programming Frameworks]]

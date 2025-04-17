@@ -1,7 +1,7 @@
 ---
 url: http://hai.stanford.edu
 youtube_url: https://youtube.com/@stanfordhai
-parent_org: "[[Organizations/Stanford University]]"
+parent_org: "[[organizations/Stanford University]]"
 ---
 
 

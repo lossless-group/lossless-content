@@ -1,4 +1,4 @@
 
-As opposed to [[Precision Products]].
+As opposed to [[concepts/Precision Products]].
 
 

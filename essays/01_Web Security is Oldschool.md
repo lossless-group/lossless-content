@@ -6,7 +6,7 @@ Nearly all recent security blunders are due to human ignorance, carelessness, or
 
 The institutions, systems, governance, and frameworks were immature for quite a while (actually, until just the past few years.)  Going into 2025,  while there is still every need to be cautious,  like --  wash your hands, try not to kiss anyone with large red sores on their lips, don't drop a glass vial marked "biohazard" on the kitchen floor -- kind of cautious. Those who run around with sirens and megaphones fear-mongering people in 2025 might feel behind the times.  
 
-Everyday citizens can now be rest assured that the wild-west of the Internet has been slowly tamed by boring committees and organizations with enchanting names like [[Organizations/The Internet Society]], [[Organizations/OASIS Open]],  [The Global Cyber Alliance](https://globalcyberalliance.org/) , .  The [Public Technical Identifiers](https://pti.icann.org/) as part of the [Internet Assigned Numbers Authority](https://www.iana.org/).
+Everyday citizens can now be rest assured that the wild-west of the Internet has been slowly tamed by boring committees and organizations with enchanting names like [[organizations/The Internet Society]], [[organizations/OASIS Open]],  [The Global Cyber Alliance](https://globalcyberalliance.org/) , .  The [Public Technical Identifiers](https://pti.icann.org/) as part of the [Internet Assigned Numbers Authority](https://www.iana.org/).
 
 
 
@@ -43,14 +43,14 @@ The migration to HTTPS has been exponential.   HTTPS Everywhere, originally a br
 
 Web Security technologies, like most technologies of the Internet, are generally created by insightful individuals or small teams, proposed through a White Paper, and eventually managed by a transparent and meritocratic, yet open membership organization. As an example, Alex Pentland, a Professor at MIT, published early work that became the [Kerberos](https://www.kerberos.org/) user identity management protocols. Kerberos as an organization has evolved into the [MIT Trust Data Consortium](https://trust.mit.edu/)  The white papers were sythesized and published as Trust::Data: A New Framework for Identity and Data sharing by MIT Press in 2016.  
 
-Similarly, the [[Organizations/Internet Engineering Task Force]] published [[OAuth]] as a specification in 2007. 
+Similarly, the [[organizations/Internet Engineering Task Force]] published [[OAuth]] as a specification in 2007. 
 
 Industries that capture user data are generally both self-governed through industry membership organizations, and regulated by policies and agencies across many jurisdictions.  For instance, credit card information is taken through the Payment Card Industry Data Security Standard (PCI DSS). The cloud hosting providers have cloud security posture management (CSPM) tooling. 
 
 address verification systems (AVS) and card verification values (CVV) to reduce fraud.
 
 
-As of 2015, the [[Organizations/Society for Human Resource Management]] found that most security breaches came from "Human Error." [^2] 
+As of 2015, the [[organizations/Society for Human Resource Management]] found that most security breaches came from "Human Error." [^2] 
 
 Many threats to data-security come from "accidental insiders".  Phishing is the art of tricking users, usually over email but increasingly over text or messaging, into revealing sensitive information or downloading malware through fraudulent emails or websites. Unsecured devices are laptops and phones that have not been properly secured and/or cannot be properly wiped after being lost. 
 
@@ -71,14 +71,14 @@ The true threat is almost always in [[Operational Security]]
 
 ## A Safari of Security Solutions
 
-[[Organizations/Transcend]] 
+[[organizations/Transcend]] 
 
 
 https://youtu.be/91VaTyTGYfw?si=QsPrfs8PjEil9wze
 
 [^1] ) 2017, Mar 30. [John Snow, Cholera, the Broad Street Pump; Waterborne Diseases Then and Now](https://pmc.ncbi.nlm.nih.gov/articles/PMC7150208/). 
 
-[^2]. 2015, Apr 13. [Roy Maurer](https://www.shrm.org/mena/about/bio/roy-maurer), [Human error accounts for 52 percent of the root causes of security breaches](https://www.shrm.org/mena/topics-tools/news/risk-management/human-error-cited-top-cause-data-breaches) Published on [[Organizations/Society for Human Resource Management]].
+[^2]. 2015, Apr 13. [Roy Maurer](https://www.shrm.org/mena/about/bio/roy-maurer), [Human error accounts for 52 percent of the root causes of security breaches](https://www.shrm.org/mena/topics-tools/news/risk-management/human-error-cited-top-cause-data-breaches) Published on [[organizations/Society for Human Resource Management]].
 
 [^3] a demonstration of hardware that can give those in data espionage access to local networks includes https://youtu.be/1lZ3FQSv-wI?si=ZNclvB6DDyNsoTTX
 

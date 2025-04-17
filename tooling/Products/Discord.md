@@ -46,7 +46,7 @@ url: 'https://discord.com/'
 
 
 
-[[User Forums|User Forum]]
+[[concepts/User Forums|User Forum]]
 [[Cross-Platform Applications|Cross-Platform]]
 [[Freemium]]
 

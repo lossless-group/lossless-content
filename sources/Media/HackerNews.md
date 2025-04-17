@@ -1,4 +1,4 @@
 ---
 url: https://news.ycombinator.com/
-parent-org: "[[Organizations/Y Combinator]]"
+parent-org: "[[organizations/Y Combinator]]"
 ---

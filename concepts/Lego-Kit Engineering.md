@@ -1,5 +1,5 @@
 
-Relies on [[Serverless]] architecture, [[Backend-as-a-Service]], 
+Relies on [[Serverless]] architecture, [[concepts/Explainers for Tooling/Backend-as-a-Service]], 
 
 https://youtu.be/GirrkYXoEGM?si=K7Lcv6xDXWpGaUQt
 
@@ -9,7 +9,7 @@ https://youtu.be/GirrkYXoEGM?si=K7Lcv6xDXWpGaUQt
 
 [[Tooling/Software Development/Lego-Kit Engineering Tools/Clerk|Clerk]], [[Tooling/Software Development/Lego-Kit Engineering Tools/Auth0|Auth0]]
 
-[[Polar]], [[Organizations/Stripe|Stripe]]
+[[Polar]], [[organizations/Stripe|Stripe]]
 
 
 

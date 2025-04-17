@@ -1,7 +1,7 @@
 ---
 site_uuid: ffba687e-af25-49c5-bc7b-2c2860de5953
 url: https://maps.google.com
-parent_org: "[[Organizations/Google|Google]]"
+parent_org: "[[organizations/Google|Google]]"
 og_errors: true
 og_last_error: 2025-03-08T20:39:42.068Z
 og_error_message: HTTP error 401
@@ -15,7 +15,9 @@ og_fetched_url: https://maps.google.com
 og_last_fetch: 2025-03-14T04:41:33.244Z
 date_modified: 2025-04-12
 date_created: 2025-03-31
-tags: [Products, Data-APIs]
+tags:
+  - Products
+  - Data-APIs
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/cc76d54415c82e67c1ae5477b670ad9cb9a75371c985a933bb4c7765f2e1935e.jpeg
 ---
 

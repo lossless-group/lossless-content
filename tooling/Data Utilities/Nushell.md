@@ -28,7 +28,7 @@ url: 'https://www.nushell.sh/'
 
 
 
-A [[Terminal Emulators]] that helps with [[Data Analysis]].
+A [[concepts/Explainers for Tooling/Terminal Emulators]] that helps with [[Data Analysis]].
 
 https://youtu.be/KF5dtxVsn1E?si=Ixy9gw9vpL1siEBo
 

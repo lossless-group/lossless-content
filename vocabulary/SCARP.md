@@ -14,7 +14,7 @@ According to [[Poe AI]]:
 > [!AI explains SCARP]
 > ### **SCARP: A Framework for Effective AI Prompting**
 > 
-> SCARP is an acronym that stands for **Situation, Context, Action, Role, and Parameters**. It is a structured framework designed to help users construct effective prompts for AI models, ensuring clarity, specificity, and alignment with the desired outcome -- a task often called [[Concepts/Explainers for AI/Prompt Engineering]] This approach is particularly useful when interacting with **Agentic AI** systems or large language models ([[Large Language Models|LLMs]]) like [[GPT-Series Models]].
+> SCARP is an acronym that stands for **Situation, Context, Action, Role, and Parameters**. It is a structured framework designed to help users construct effective prompts for AI models, ensuring clarity, specificity, and alignment with the desired outcome -- a task often called [[concepts/Explainers for AI/Prompt Engineering]] This approach is particularly useful when interacting with **Agentic AI** systems or large language models ([[Large Language Models|LLMs]]) like [[GPT-Series Models]].
 > 
 > The SCARP framework ensures that prompts are well-defined and comprehensive, reducing ambiguity and improving the quality of the AI's responses.
 > 

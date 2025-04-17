@@ -72,18 +72,18 @@ tags:
 
 
 ##### Examples:
-- [[Text Editors or IDEs|IDEs]] include [[Cursor]], [[Windsurf IDE]], [[Trae AI]], [[Bloop.ai]], [[Zed]], [[Pear IDE]], [[CodeLLM]]
-	- [[Melty]] is just a [[Text Editors or IDEs|Text Editor]], but has strong reviews.
-- [[Terminal Emulators|Terminal Emulators]] include [[Warp]] and [[Aider]]
-- [[Opsless Deployment Providers]] include [[Tooling/Software Development/Cloud Infrastructure/Bolt.new]], [[v0]], [[Lovable]], [[Replit]], [[Hostinger]] and [[ScrBook]]
-- [[Plug-ins,  Add-ons,  Extensions|Plug-ins]] to other Text Editors include [[Aider]], [[Databutton]], [[Claude#Cline|Cline]], [[Devin]], [[supermaven]], [[Augment Code]], [[Continue AI]], [[AppMap]] who embed into [[Text Editors or IDEs]], such as [[Organizations/JetBrains]] but especially [[Visual Studio Code|VS Code]].
+- [[concepts/Explainers for Tooling/Text Editors or IDEs|IDEs]] include [[Cursor]], [[Windsurf IDE]], [[Trae AI]], [[Bloop.ai]], [[Zed]], [[Pear IDE]], [[CodeLLM]]
+	- [[Melty]] is just a [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editor]], but has strong reviews.
+- [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulators]] include [[Warp]] and [[Aider]]
+- [[concepts/Opsless Deployment Providers]] include [[Tooling/Software Development/Cloud Infrastructure/Bolt.new]], [[v0]], [[Lovable]], [[Replit]], [[Hostinger]] and [[ScrBook]]
+- [[Plug-ins,  Add-ons,  Extensions|Plug-ins]] to other Text Editors include [[Aider]], [[Databutton]], [[Claude#Cline|Cline]], [[Devin]], [[supermaven]], [[Augment Code]], [[Continue AI]], [[AppMap]] who embed into [[concepts/Explainers for Tooling/Text Editors or IDEs]], such as [[organizations/JetBrains]] but especially [[Visual Studio Code|VS Code]].
 - Starting from your own code repositories, services like [[Poolside]], [[AppMap]], [[smolagents]], [[RepoPrompt]]
 - Specializing in [[Bug Reporting]] is [[CodeAnt AI]]
 - Specialized [[AI Models]] include [[InceptionLabs]] [[Mercury Coder]]
 
 We don't know what some even claim to be, such as [[Fine.dev]]
 
-There is a blurry line between [[Code Generator|Code Generation]] and using an [[Concepts/Explainers for AI/AI Copilots]] to work on your own code. Going whole hog and letting the [[Code Generator]] do it's thing is being called [[Vibe Coding]].
+There is a blurry line between [[Code Generator|Code Generation]] and using an [[concepts/Explainers for AI/AI Copilots]] to work on your own code. Going whole hog and letting the [[Code Generator]] do it's thing is being called [[Vibe Coding]].
 
 ---
 ## Problems with Code Generators:
@@ -230,23 +230,23 @@ https://youtu.be/fKtvRTFISq4?si=0QuLEn91P7j6_Cje
 
 ***
 ## Copilots for Software Engineers take off
-[[Bessemer Venture Partners]] count installs on [[Visual Studio Code|VS Code]], and by February 2024 there have been over 14 million installs of [[Code Generator]] [[Concepts/Explainers for AI/AI Copilots]].
+[[Bessemer Venture Partners]] count installs on [[Visual Studio Code|VS Code]], and by February 2024 there have been over 14 million installs of [[Code Generator]] [[concepts/Explainers for AI/AI Copilots]].
 
 ![[Pasted image 20250128132239.png]] [^f875fe]
 
 
-Attempts at a fully featured [[Text Editors or IDEs|IDE]] include, [[Cursor]], [[AgentFarm]], [[Windsurf IDE]].
+Attempts at a fully featured [[concepts/Explainers for Tooling/Text Editors or IDEs|IDE]] include, [[Cursor]], [[AgentFarm]], [[Windsurf IDE]].
 
 ``` litegal
 [[Screenshot From 2025-02-19 07-00-02_Cursor--Hero.png]]
 [[Screenshot 2025-02-22 at 9.34.28 PM_Windsurf-IDE--Hero.png]]
 ```
 
-[[Warp]] is differentiated, as it is a [[Terminal Emulators|Terminal Emulator]] with built in [[AI Models|AI Models]] that can reason on the code you are writing in another application.
+[[Warp]] is differentiated, as it is a [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulator]] with built in [[AI Models|AI Models]] that can reason on the code you are writing in another application.
 
-[[CopyCoder]] is differentiated, as it works from Images to generate code. Grade for [[User Interface|UI]] Design. [[Rapid Prototyping Infrastructure]].
+[[CopyCoder]] is differentiated, as it works from Images to generate code. Grade for [[User Interface|UI]] Design. [[concepts/Rapid Prototyping Infrastructure]].
 
-[[Code Generator|Code Generators]] have also been created by [[Opsless Deployment Providers]], including [[Tooling/Software Development/Cloud Infrastructure/Bolt.new]] by [[StackBlitz]], [[v0]] by [[Vercel]].  [[Lovable]] and [[ScrBook]]
+[[Code Generator|Code Generators]] have also been created by [[concepts/Opsless Deployment Providers]], including [[Tooling/Software Development/Cloud Infrastructure/Bolt.new]] by [[StackBlitz]], [[v0]] by [[Vercel]].  [[Lovable]] and [[ScrBook]]
 https://youtu.be/l-YbaSzDmhU?si=yTLceEj5oI8pWQH3
 
 

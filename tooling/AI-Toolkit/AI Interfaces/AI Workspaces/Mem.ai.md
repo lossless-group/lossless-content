@@ -110,4 +110,4 @@ url: https://get.mem.ai/
 
 
 
-Similar to [[Networked-Notes]] and [[Advanced Documents]], but using [[Generative AI]].
+Similar to [[Networked-Notes]] and [[concepts/Explainers for Tooling/Advanced Documents]], but using [[Generative AI]].

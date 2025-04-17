@@ -10,7 +10,7 @@ date_created: 2025-04-05
 
 ![[Screenshot 2025-01-18 at 2.57.09 PM_RAG--Figure.png]]
 
-[Building RAG with enterprise open source AI infrastructure](https://ubuntu.com/blog/rag-ai-infrastructure) from [[Organizations/Canonical]]
+[Building RAG with enterprise open source AI infrastructure](https://ubuntu.com/blog/rag-ai-infrastructure) from [[organizations/Canonical]]
 
 [The BEST Way to Chunk Text for RAG](https://youtu.be/Pk2BeaGbcTE?si=VQb-v3ltlWrLQt8p)
 

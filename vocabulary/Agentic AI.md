@@ -42,7 +42,7 @@ https://youtu.be/2Ai7_5G70xY?si=viQnaaKV7XOBHGtr
 https://youtu.be/QhujcQk8pyU?si=GKfWkBlBsO29gSrk
 
 https://youtu.be/O0GNrvO7wD0?si=hKgEcvdDDvlf4Z1d
-[[Organizations/Perplexity AI]] explains [[Agentic AI]]
+[[organizations/Perplexity AI]] explains [[Agentic AI]]
 AI is a transformative form of artificial intelligence that autonomously makes decisions, takes actions, and adapts to achieve specific goals. It integrates technologies like large language models (LLMs), machine learning, and natural language processing (NLP) to create AI agents capable of reasoning, planning, and executing tasks with minimal human intervention[1][2][6].
 
 ## How It Works

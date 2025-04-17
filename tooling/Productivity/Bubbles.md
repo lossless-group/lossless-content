@@ -44,4 +44,4 @@ url: 'https://www.usebubbles.com/'
 
 
 
-Offers [[Concepts/Explainers for AI/AI Powered Data Capture#AI Powered Transcription Services|AI Powered Transcription]] in addition to [[Video Capture]], as well as video centered conversations.
+Offers [[concepts/Explainers for AI/AI Powered Data Capture#AI Powered Transcription Services|AI Powered Transcription]] in addition to [[Video Capture]], as well as video centered conversations.

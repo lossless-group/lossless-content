@@ -68,7 +68,7 @@ tags:
 
 
 
-[[Recruiting Platforms]]
+[[concepts/Explainers for Tooling/Recruiting Platforms]]
 
 ##### [[g2i]] is a [[Recruiting Platforms 1|Recruiting Platform]] for Software Developers
 ![[Screenshot 2025-02-22 at 9.50.16 PM_g2i--Hero.png]]

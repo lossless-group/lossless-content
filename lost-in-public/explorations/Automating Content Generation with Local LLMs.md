@@ -8,11 +8,11 @@ date_modified: 2025-03-19
 ---
 
 ## [[Fabric]] for [[YouTube]] consumption and output.
-Fabric allows you to frontload a lot of [[Concepts/Explainers for AI/Prompt Engineering]] in an [[Opinionated]] fashion.  It then allows users to run "patterns" (think a set of inputs and a prompt, like an ephemeral [[Concepts/Explainers for AI/Fine Tuning]] operation). 
+Fabric allows you to frontload a lot of [[concepts/Explainers for AI/Prompt Engineering]] in an [[Opinionated]] fashion.  It then allows users to run "patterns" (think a set of inputs and a prompt, like an ephemeral [[concepts/Explainers for AI/Fine Tuning]] operation). 
 
 ##### Could it be the Model Context length?
 update::2025-03-19T18:59:03.914Z
-After working extensively on a few "patterns", I found that the kind of output did not change and the AI did not follow the prompt.  I was unsure if it was my error, a Fabric unexpected behavior, or [[DeepSeek]] [[r1]] unexpected behavior.  I posted an issue on the public [[Concepts/Public Repository]] on [[GitHub]]: [[Question]: What to do if the model isn't following the pattern prompts? #1346](https://github.com/danielmiessler/fabric/issues/1346)
+After working extensively on a few "patterns", I found that the kind of output did not change and the AI did not follow the prompt.  I was unsure if it was my error, a Fabric unexpected behavior, or [[DeepSeek]] [[r1]] unexpected behavior.  I posted an issue on the public [[concepts/Public Repository]] on [[GitHub]]: [[Question]: What to do if the model isn't following the pattern prompts? #1346](https://github.com/danielmiessler/fabric/issues/1346)
 
 >Are you running the DeepSeek R1 model with ollama or some other local system? I recently struggled with a very similar issue and found that ollama uses a default context window size of about 2048 tokens so that my system prompt never even gets to the model. Using fabric command line option --modelContextLength= helped.
 
@@ -20,7 +20,7 @@ After working extensively on a few "patterns", I found that the kind of output d
 ## [[Perplexica]] for Search Results with Sources
 [[Perplexica]] has installation instructions on the [Perplexica GitHub Repo](https://github.com/ItzCrazyKns/Perplexica/tree/master).  As of March 20, 2025, it's 1 GB in size and here are the steps I am walking through:
 
-Open the terminal or [[Terminal Emulators|Terminal Emulator]]. (I use [[Ghostty]] when I know what I am doing, and [[Warp]] when I need an [[Concepts/Explainers for AI/AI Terminal Assistant|AI Terminal Assistant]].)
+Open the terminal or [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulator]]. (I use [[Ghostty]] when I know what I am doing, and [[Warp]] when I need an [[concepts/Explainers for AI/AI Terminal Assistant|AI Terminal Assistant]].)
 
 Figure out where you want to install it.  Given my [[Dev Machine]] is on [[Ubuntu]], I chose:
 `/home/mps/Applications`

@@ -70,5 +70,5 @@ url: 'https://tadabase.io/'
 
 
 
-A [[Database Apps|Database App]]
+A [[concepts/Explainers for Tooling/Database Apps|Database App]]
 

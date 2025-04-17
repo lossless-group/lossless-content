@@ -4,7 +4,7 @@ date_modified: 2025-04-12
 site_uuid: 0f1ecf74-1fc2-4ebc-a768-4dbd75632f98
 ---
 
-Created by [[Organizations/DeepMind]].
+Created by [[organizations/DeepMind]].
 
 According to [[Poe AI]]:
 > [!AI explains:]

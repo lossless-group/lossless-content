@@ -1,6 +1,6 @@
-A [[Lossless]] artifact, part of the [[CARBS]] framework. 
+A [[concepts/Lossless]] artifact, part of the [[concepts/CARBS]] framework. 
 
-An example of a visualization of [[Decision Trees]]:
+An example of a visualization of [[concepts/CARBS/Decision Trees]]:
 ![[20250128_decision_tree_for_heart_attack_prevention_2140bd762d_from--Data-Camp.avif]] [^1]
 
 
@@ -66,7 +66,7 @@ According to [[Poe AI]]:
 > 
 > In conclusion, **Decision Trees** are powerful tools for decision-making because they visually simplify complex choices, quantify risks and rewards, and provide a logical structure for evaluating alternatives. By leveraging this approach, organizations can make more objective, data-driven decisions while aligning with their goals and mitigating potential downsides.
 
-[[Decision Trees]] are also a concept in [[Software Development]], in which mathematical and computational techniques are applied to codify logical decisions and how data influences a decision outcome.  
+[[concepts/CARBS/Decision Trees]] are also a concept in [[Software Development]], in which mathematical and computational techniques are applied to codify logical decisions and how data influences a decision outcome.  
 # Footnotes:
 ***
 [^1]: [Decision Tree Classification in Python Tutorial](https://www.datacamp.com/tutorial/decision-tree-classification-python). [[Tooling/Training/DataCamp|DataCamp]]. 

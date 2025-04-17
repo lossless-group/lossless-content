@@ -80,7 +80,7 @@ tags:
 
 
 
-[[Concepts/Explainers for AI/Voice Generator]]
+[[concepts/Explainers for AI/Voice Generator]]
 
 ##### Jellypod generates conversations with [[Generative AI]]
 ![[Screenshot 2025-02-20 at 1.54.57 AM_JellyPod--Hero.png]]

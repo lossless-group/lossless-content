@@ -27,7 +27,7 @@ url: 'https://www.linearity.io/'
 
 [[Creative Arts]]
 [[Animations]]
-[[Cognitive, Collaborative Tooling]]
+[[concepts/Cognitive, Collaborative Tooling]]
 
 Similar to [[Affinity]]
 

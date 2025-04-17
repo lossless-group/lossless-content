@@ -115,4 +115,4 @@ tags:
 
 [https://www.assemblyai.com](https://www.assemblyai.com/)
 
-[[Concepts/Explainers for AI/Voice to Text]]
+[[concepts/Explainers for AI/Voice to Text]]

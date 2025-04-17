@@ -29,7 +29,7 @@ tags:
 
 
 
-An example of [[Digital Asset Libraries]].  Creator of [[Lottie Files]]
+An example of [[Digital Asset Libraries]].  Creator of [[concepts/Explainers for Tooling/Lottie Files]]
 
 
 ## IconScout as a Content Marketplace

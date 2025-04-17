@@ -82,11 +82,11 @@ tags:
 
 
 
-[[Concepts/Explainers for AI/Code Generators]]
+[[concepts/Explainers for AI/Code Generators]]
 [[Interactive Notebooks]]
 
 In [[TypeScript]]
 
-##### SrcBook is a [[Concepts/Explainers for AI/Code Generators]]
+##### SrcBook is a [[concepts/Explainers for AI/Code Generators]]
 ![[Screenshot 2025-02-20 at 2.28.59 AM_SrcBook--Hero.png]]
 

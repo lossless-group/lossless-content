@@ -58,7 +58,7 @@ tags:
 
 
 
-One of the Vector [[Databases]] used for [[RAG]] and [[Knowledge Augmented Generation|KAG]] approaches to [[Concepts/Explainers for AI/Artificial Intelligence|AI]].
+One of the Vector [[concepts/Explainers for Tooling/Databases]] used for [[RAG]] and [[Knowledge Augmented Generation|KAG]] approaches to [[concepts/Explainers for AI/Artificial Intelligence|AI]].
 
 [[Open Source]]
 

@@ -114,9 +114,9 @@ tags:
 
 
 
-[[Concepts/Explainers for AI/AI Powered Personal Assistant]], [[Concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]], [[Agentic AI]]
+[[concepts/Explainers for AI/AI Powered Personal Assistant]], [[concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]], [[Agentic AI]]
 
-##### [[Convergence AI]] is an [[Concepts/Explainers for AI/AI Powered Personal Assistant]]
+##### [[Convergence AI]] is an [[concepts/Explainers for AI/AI Powered Personal Assistant]]
 ![](https://i.imgur.com/UtPwCyL.png)
 
 

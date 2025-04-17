@@ -85,6 +85,6 @@ tags:
 
 
 
-[[Text Editors or IDEs]]
+[[concepts/Explainers for Tooling/Text Editors or IDEs]]
 
 https://youtu.be/5XG1JKoAnZU?si=Z5aRm8iP0te46QK5

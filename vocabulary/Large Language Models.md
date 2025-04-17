@@ -27,7 +27,7 @@ https://youtu.be/LPZh9BOjkQs?si=JkEAk5OPuciQYSdD
 LLMs are trained on massive data, yet there is a certain "cut-off" point:
 >"I couldn't find specific information about "RSBuild" as of my knowledge cutoff in October 2023. Could you clarify or provide more context about RSBuild? Is it a build tool, framework, or utility for a specific programming environment? If you can share some details, I can format the description in the style you're requesting!"
 
-[[Concepts/Explainers for AI/Prompt Engineering]]
+[[concepts/Explainers for AI/Prompt Engineering]]
 
 <iframe 
   style="aspect-ratio:16/9;width:100%;height:auto" 

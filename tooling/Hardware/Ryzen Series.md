@@ -40,7 +40,7 @@ tags:
 
 
 
-By [[Organizations/AMD]]
+By [[organizations/AMD]]
 
 https://youtu.be/hMdAeg9D9dI?si=dg_jcQguQOfZjkvT
 

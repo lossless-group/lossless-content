@@ -9,7 +9,7 @@ aliases:
   - Libraries
 ---
 
-[[Packages and Libraries|Packages]] or [[Packages and Libraries|Libraries]] are written in one [[Programming Languages|Programming Language]] for other programmers / developers working in that language. 
+[[Packages and Libraries|Packages]] or [[Packages and Libraries|Libraries]] are written in one [[concepts/Explainers for Tooling/Programming Languages|Programming Language]] for other programmers / developers working in that language. 
 
 > [!NOTE] AI Explains
 > ### **The Difference Between a Library and a Package**

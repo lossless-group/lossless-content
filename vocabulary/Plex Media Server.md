@@ -8,7 +8,7 @@ aliases:
 
 https://youtu.be/C1Mfe1B7ens?si=KXvA-bqAusjb1Hgu
 
-> [!LLM Response] [[Organizations/Perplexity AI|Perplexity AI]] explains a [[Vocabulary/Plex Media Server|Plex Server]]
+> [!LLM Response] [[organizations/Perplexity AI|Perplexity AI]] explains a [[Vocabulary/Plex Media Server|Plex Server]]
 > A **Plex Server**, also known as the **Plex Media Server (PMS)**, is a software application that allows users to organize and stream their personal media collections, including movies, TV shows, music, and photos. It operates on a client-server model, where the server is installed on a computer or compatible device (like NAS devices or NVIDIA SHIELD) and manages the media library. The client apps, available on various devices such as smartphones, smart TVs, and gaming consoles, connect to the server to access and play back the media content[1](https://support.plex.tv/articles/200288286-what-is-plex/)[2](https://support.plex.tv/articles/200380843-overview/)[5](https://en.wikipedia.org/wiki/Plex).
 > 
 > ## Key Features of a Plex Server:

@@ -301,5 +301,5 @@ tags:
 
 
 
-An [[Agentic AI]] product focused on being an [[Concepts/Explainers for AI/AI Powered Personal Assistant]]
+An [[Agentic AI]] product focused on being an [[concepts/Explainers for AI/AI Powered Personal Assistant]]
 

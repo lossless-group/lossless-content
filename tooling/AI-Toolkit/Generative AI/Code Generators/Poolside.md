@@ -75,4 +75,4 @@ og_screenshot_url: >-
 
 
 
-[[Concepts/Explainers for AI/Code Generators]]
+[[concepts/Explainers for AI/Code Generators]]

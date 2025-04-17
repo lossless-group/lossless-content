@@ -4,7 +4,7 @@ aliases:
 ---
 
 ## An Example of a Flow Chart for a password manager
-An example of a [[Flow Charts]] by [[Codecademy]].  
+An example of a [[concepts/CARBS/Flow Charts]] by [[Codecademy]].  
 ![[20250201_Codecademy_Flow Chart_Password Checker Solution.png]] [^1]
 
 # Footnotes

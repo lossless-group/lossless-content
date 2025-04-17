@@ -90,7 +90,7 @@ https://youtu.be/5U_lOjfZiXg?si=EJWZpDXYAT98xgCb
 https://youtu.be/xATApLtF92w?si=XkDLyC6tQ0hOvhmP
 
 https://youtu.be/8dy-HdURrn0?si=j8M6CO36RQBqgV7f
-##### [[MSTY]] is a [[Cross-Platform Applications|Cross-Platform]] [[Concepts/Explainers for AI/AI Interfaces]]
+##### [[MSTY]] is a [[Cross-Platform Applications|Cross-Platform]] [[concepts/Explainers for AI/AI Interfaces]]
 
 ![[Screenshot From 2025-03-04 01-28-52_MSTY--Cross-Platform.png]]
 

@@ -29,7 +29,7 @@ url: 'https://www.proxmox.com/en/products/proxmox-virtual-environment/overview'
 
 
 
-[[Virtual Environments]] part of [[Reproducible Builds]].
+[[Virtual Environments]] part of [[concepts/Reproducible Builds]].
 
 https://youtu.be/gbVFTl8bnt8?si=UHwLk7bBBRinjdOL
 

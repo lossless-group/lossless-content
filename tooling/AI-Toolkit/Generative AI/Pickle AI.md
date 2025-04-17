@@ -81,8 +81,8 @@ tags:
 
 
 [[Generative AI]]
-[[Concepts/Explainers for AI/AI Avatars]]
+[[concepts/Explainers for AI/AI Avatars]]
 [[Video Generator]]
 
-##### Pickle AI is a way to create an [[Concepts/Explainers for AI/AI Avatars|AI Avatar]]
+##### Pickle AI is a way to create an [[concepts/Explainers for AI/AI Avatars|AI Avatar]]
 ![[Screenshot 2025-02-20 at 2.07.51 AM_Pickle--Hero.png]]

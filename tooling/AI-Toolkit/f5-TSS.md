@@ -68,5 +68,5 @@ tags:
 
 
 
-[[Concepts/Explainers for AI/Text-to-Speech]]
+[[concepts/Explainers for AI/Text-to-Speech]]
 

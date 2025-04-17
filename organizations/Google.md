@@ -1,12 +1,12 @@
-Listed through it's parent holding company, [[Organizations/Alphabet]]. 
+Listed through it's parent holding company, [[organizations/Alphabet]]. 
 
-[[Organizations/Google]] acquired[[YouTube]] in 2006, [[Organizations/DeepMind]] in 2014. 
+[[organizations/Google]] acquired[[YouTube]] in 2006, [[organizations/DeepMind]] in 2014. 
 
-Their 20% time policy is indicative of the value of [[Protected Play]].  
+Their 20% time policy is indicative of the value of [[concepts/Protected Play]].  
 
 [[Eric Schmidt]] also promoted the idea of protecting [[Divas]] in the organization.  
 
-Creates hardware to power [[Concepts/Explainers for AI/Artificial Intelligence|AI]], such as the [[Coral Edge TPU]].
+Creates hardware to power [[concepts/Explainers for AI/Artificial Intelligence|AI]], such as the [[Coral Edge TPU]].
 
 ##### Google has APIs for everything.
 [[Google Cloud]] sports an [[Application Programming Interface|API]] Library
@@ -14,8 +14,8 @@ Creates hardware to power [[Concepts/Explainers for AI/Artificial Intelligence|A
 
 
 
-## Google can acquire and hold, so now it's an [[Organizations/Alphabet]]
-[[Organizations/Google]] is one of the few companies that has a track record of successful [[Acquisitions]]. 
+## Google can acquire and hold, so now it's an [[organizations/Alphabet]]
+[[organizations/Google]] is one of the few companies that has a track record of successful [[Acquisitions]]. 
 > [!AI explains]
 > Google (now part of **Alphabet Inc.**) has made numerous acquisitions over the years, many of which have been pivotal in expanding its capabilities, diversifying its business, and solidifying its position as a tech giant. Here’s a list of some of the most **notable and successful acquisitions by Google**, categorized by their impact:
 > 

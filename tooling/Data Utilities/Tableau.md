@@ -28,5 +28,5 @@ url: 'https://www.tableau.com'
 
 
 
-Einstein [[Concepts/Explainers for AI/AI Copilots]]
+Einstein [[concepts/Explainers for AI/AI Copilots]]
 

@@ -34,9 +34,19 @@ All scripts within `tidyverse/tidy-up` MUST utilize centralized utility modules 
 ## File Listing Format in Reports
 
 *   When listing files within a report:
-    *   **MUST** use plain text paths relative to the `content/` directory (e.g., `tooling/AI-Toolkit/Some-File.md`). Use the `formatRelativePath` utility function.
+    * **ALWAYS** check to see if there are any syntax or casing modifcations needed to the paths or filenames.  There will be cases where in order for the content team to use Obsidian backlinks to accurately navigate to the files, some modifications may be needed. (e.g. `tooling/AI-Toolkit/Some-File.md` MAY need to become `Tooling/AI Toolkit/Some-File.md`)
+    *   **MUST** use Obsidian backlink syntax, formatted as:
+        `[[relative/path/to/File-Name-for-Backlink.md|File Name for Backlink]]`
+        - The link target is the relative path from the `content/` directory (e.g., `tooling/AI-Toolkit/Some-File.md`).
+        - The link text is the file name, with dashes replaced by spaces, extension removed, and title case (e.g., `Some File`).
+    *   **MUST** list backlinks in comma-separated paragraphs, not as bullet lists or headers.
     *   **MUST NOT** use Markdown header syntax (e.g., `### tooling/AI-Toolkit/Some-File.md`).
-    *   **MUST NOT** use Obsidian backlink syntax (e.g., `[[tooling/AI-Toolkit/Some-File.md|Some-File]]`). Lists should be simple, plain text relative paths.
+    *   **MUST NOT** use plain text paths as the primary format (plain text may be included for compatibility, but the canonical format is the backlink).
+
+    **Example:**
+    ```markdown
+    [[tooling/AI-Toolkit/Some-File.md|Some File]], [[vocabulary/Example-File.md|Example File]], [[tooling/Another-Example.md|Another Example]]
+    ```
 
 ```javascript
 /**
@@ -51,6 +61,12 @@ authors:
 - Michael Staton
 augmented_with: 'Windsurf on Claude 3.5 Sonnet'
 category: Data-Integrity
+from_operations: # if possible, list operation functions that were used
+- fixCasingInPaths
+- assertQuoteDelimitersAroundErrors
+from_codefiles: # if possible, list relative paths to code files that contain operations
+- /tidyverse/tidy-up/services/assertFrontmatterByTemplates.ts
+- /tidyverse/tidy-up/templates/prompts.ts
 tags:
 - Documentation-Standards
 - YAML

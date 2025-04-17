@@ -31,7 +31,7 @@ url: 'https://www.figma.com/'
 
 [[Realtime Collaboration]]
 
-##### [[Tooling/Creative/Figma]] does [[Release Notes]] on [[YouTube]]
+##### [[Tooling/Creative/Figma]] does [[concepts/Release Notes]] on [[YouTube]]
 <iframe 
 style="aspect-ratio:16/9;width:100%;height:auto" 
 src="https://www.youtube.com/embed/LuUuzCVaLLk?controls=0" 

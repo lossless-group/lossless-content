@@ -7,4 +7,4 @@ aliases:
   - Client-Side Rendering
 ---
 
-The most prominent [[Web Frameworks|Web Framework]] is [[React]].  Always involves heavy use of [[JavaScript]].
+The most prominent [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]] is [[React]].  Always involves heavy use of [[JavaScript]].

@@ -6,7 +6,7 @@ aliases:
   - Advanced Spreadsheet
 ---
 
-Usually employs significant [[Concepts/Explainers for AI/Artificial Intelligence|AI]], and [[Realtime Collaboration]] features.  
+Usually employs significant [[concepts/Explainers for AI/Artificial Intelligence|AI]], and [[Realtime Collaboration]] features.  
 
 [[Bricks 1]], [[Parabola]].
 

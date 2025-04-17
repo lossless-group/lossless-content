@@ -54,4 +54,4 @@ og_screenshot_url: >-
 
 
 
-[[Concepts/Explainers for AI/AI Avatars|AI Avatars]]
+[[concepts/Explainers for AI/AI Avatars|AI Avatars]]
