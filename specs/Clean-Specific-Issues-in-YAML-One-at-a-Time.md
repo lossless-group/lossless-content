@@ -8,18 +8,19 @@ date_first_published: null
 date_last_updated: null
 at_semantic_version: 0.0.1.0
 publish: true
-authors: 
-- Michael Staton
 status: Iterating
-augmented_with: "Windsurf IDE with Claude 3.5 Sonnet"
+augmented_with: Windsurf IDE with Claude 3.5 Sonnet
 category: Specification
-date_created: 2025-03-16
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+site_uuid: a08aa44e-a513-475a-a1dd-edfcd7752127
 tags:
-- Scripts
-- YAML
-- Data-Integrity
-- Content-Fixes
+  - Scripts
+  - YAML
+  - Data-Integrity
+  - Content-Fixes
+authors:
+  - Michael Staton
 ---
 
 ## Executive Summary

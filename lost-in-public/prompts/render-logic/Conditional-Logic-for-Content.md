@@ -10,13 +10,15 @@ at_semantic_version: 0.0.1.0
 status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-03-19
+date_created: 2025-04-16
 date_modified: 2025-04-16
-tags: [Render-Logic, Conditional-Rendering, Content-Visibility, User-Roles, Route-Mapping]
+image_prompt: "A visual representation of conditional logic in content rendering, featuring flowcharts, branching arrows, and code snippets. The scene conveys dynamic decision-making, modularity, and the adaptability of digital content systems."
+banner_image: "https://img.recraft.ai/G_skHMQKf2r2-hYXX1gYilg427HwMu9D25b3grAHW7w/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/5ea9280a-7dc4-4d2a-9cb4-40e1fa8738fd"
+site_uuid: 8dd7a6f2-424d-4007-ace6-d30465b0001f
+tags:
+  - Render-Logic
 authors:
   - Michael Staton
-image_prompt: "A visual representation of conditional logic in content rendering, featuring flowcharts, branching arrows, and code snippets. The scene conveys dynamic decision-making, modularity, and the adaptability of digital content systems."
-banner_image: https://img.recraft.ai/G_skHMQKf2r2-hYXX1gYilg427HwMu9D25b3grAHW7w/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/5ea9280a-7dc4-4d2a-9cb4-40e1fa8738fd
 ---
 
 ## The 'status' property values

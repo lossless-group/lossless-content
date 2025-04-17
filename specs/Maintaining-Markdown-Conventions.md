@@ -8,19 +8,20 @@ date_first_published: null
 date_last_updated: null
 at_semantic_version: 0.0.0.1
 publish: false
-authors: 
-- Michael Staton
 status: Iterating
-augmented_with: "Windsurf Cascade on Claude 3.5 Sonnet"
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Specification
-date_created: 2025-03-19
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+site_uuid: bbbc80ed-bb0d-41ab-87db-71093acb5727
 tags:
-- Markdown
-- Conventions
-- Dataview
-- Syntax
-- Content-Management
+  - Markdown
+  - Conventions
+  - Dataview
+  - Syntax
+  - Content-Management
+authors:
+  - Michael Staton
 ---
 
 ## Dataview Syntax

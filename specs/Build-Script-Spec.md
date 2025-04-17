@@ -1,19 +1,20 @@
 ---
 title: Build Scripts Architecture Specification
-lede: "Implement consistent, comprehensive code commenting style with section openers and detailed function documentation"
+lede: Implement consistent, comprehensive code commenting style with section openers and detailed function documentation
 date_authored_initial_draft: 2025-03-07
 date_authored_current_draft: 2025-04-06
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: 0.0.0.3  
-authors:
-  - Michael Staton
+at_semantic_version: 0.0.0.3
 status: Iterating
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Specification
 publish: false
-tags: 
+date_created: 2025-04-16
+date_modified: 2025-04-16
+site_uuid: f8f59b34-dd5b-4f79-b8a7-74c3fc99a89f
+tags:
   - Build-Scripts
   - YAML
   - Frontmatter
@@ -21,8 +22,8 @@ tags:
   - Documentation
   - OpenGraph
   - YouTube
-date_created: 2025-03-07
-date_modified: 2025-04-12
+authors:
+  - Michael Staton
 ---
 
 # Build Scripts Architecture Specification

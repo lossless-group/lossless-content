@@ -1,5 +1,5 @@
 ---
-title: 'Filesystem Observer for Consistent Metadata in Markdown Files'
+title: Filesystem Observer for Consistent Metadata in Markdown Files
 lede: Let content teams develop content. Handle frontmatter inconsistencies gracefully for a seamless user experience.
 date_authored_initial_draft: 2025-04-16
 date_authored_current_draft: 2025-04-16
@@ -7,15 +7,26 @@ date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
 at_semantic_version: 0.0.1.2
+generated_with: Windsurf Cascade on Claude 3.5 Sonnet
+category: Technical-Specification
+date_created: 2025-04-16
+date_modified: 2025-04-17
+status: Draft
+site_uuid: a065f528-1a6e-4e05-93e6-e72f00c7364b
+tags:
+  - Filesystem
+  - Observer
+  - For
+  - Consistent
+  - Metadata
+  - In
+  - Markdown
+  - Files
 authors:
   - Michael Staton
-generated_with: "Windsurf Cascade on Claude 3.5 Sonnet"
-category: Technical-Specification
-tags: [YAML, Data-Wrangling, Frontmatter, Error-Detection, Error-Handling, Workflow-Automation, Content-Management, Build-Scripts, Markdown]
-date_created: 2025-04-16
-date_modified: 2025-04-16
 ---
- # Context
+
+# Context
 
 ## Goal:
 1. To assert both frontmatter consistency in markdown files, as well as 
@@ -428,6 +439,45 @@ interface CitationRegistry {
   - A “dry-run” mode to validate changes without writing to disk.
 - CI should run all tests and fail on any unhandled error or regression.
 - “Done” means: all required tests pass, reports are generated as expected, and no destructive changes occur on real content during dry-run.
+
+---
+
+## 🔥 ABSOLUTE NON-NEGOTIABLE RULE: FILESYSTEM OBSERVER MUST NEVER CORRUPT FILES
+
+### Context
+A catastrophic bug caused by the observer system resulted in the deletion or corruption of critical metadata fields (such as `url`) and the introduction of block scalar syntax and malformed strings in properties like `og_screenshot_url`. This broke downstream parsing, validation, and rendering, and risked permanent data loss.
+
+### Rule
+**UNDER NO CIRCUMSTANCES, LIFE AND DEATH, COMPANY LIVE OR DIE, SHOULD OUR OBSERVER OPERATIONS CORRUPT OUR FILES.**
+
+- The observer must NEVER:
+  - Delete or overwrite existing required fields (e.g., `url`) unless explicitly instructed and validated.
+  - Replace valid URLs with screenshot URLs or any other data.
+  - Use block scalar syntax (`>-` or `|-`) for any URL or screenshot fields.
+  - Split or wrap URLs in a way that breaks YAML parsing or downstream processing.
+  - Produce malformed YAML of any kind.
+- All observer operations must be atomic, non-destructive, and fully validated before writing to disk.
+- Any operation that would result in the loss or corruption of a field must be aborted and logged as a critical error.
+- All changes must be validated against a schema before being committed.
+- If any operation fails validation, the file must be left untouched and the error reported.
+
+### Examples of Catastrophic Failure
+```yaml
+# ❌ BAD (corrupted)
+url: >-
+https: //og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/1c9130e65f488a59a8a4b45dddd2a47e645d778065e48ba904c49e612c16bd37.jpeg
+og_screenshot_url: >-
+
+# ✅ GOOD
+url: "https://www.intel.com/arc"
+og_screenshot_url: "https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/1c9130e65f488a59a8a4b45dddd2a47e645d778065e48ba904c49e612c16bd37.jpeg"
+```
+
+### Implementation Requirements
+- The observer must always read, validate, and preserve existing field values unless a new value is explicitly and validly provided.
+- All YAML output must be validated for correctness (no block scalar, no broken lines, no accidental whitespace or splitting).
+- If the observer cannot guarantee atomic, schema-valid, non-destructive output, it must NOT write to disk.
+- All destructive or overwriting actions must be logged and require explicit user approval.
 
 ---
 

@@ -10,8 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-03-22
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A code utility scanning a directory and returning only Markdown files with valid YAML frontmatter, visualized as a digital checklist, file icons, and highlighted metadata. The mood is efficient, organized, and focused on data quality assurance."
+banner_image: "https://img.recraft.ai/J3ELnwdybXyLo4-htPoHbpOkGsbtPmBV9imNNFoPAy8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/7fffbaa4-0a65-42c6-b4b1-6ea406abea1f"
+site_uuid: 8d09aab2-a159-4016-9167-ea0f880c10b9
 tags:
   - Frontmatter-Validation
   - Error-Handling
@@ -19,8 +22,6 @@ tags:
   - Build-Scripts
 authors:
   - Michael Staton
-image_prompt: "A code utility scanning a directory and returning only Markdown files with valid YAML frontmatter, visualized as a digital checklist, file icons, and highlighted metadata. The mood is efficient, organized, and focused on data quality assurance."
-banner_image: https://img.recraft.ai/J3ELnwdybXyLo4-htPoHbpOkGsbtPmBV9imNNFoPAy8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/7fffbaa4-0a65-42c6-b4b1-6ea406abea1f
 ---
 
 ## Objective: 

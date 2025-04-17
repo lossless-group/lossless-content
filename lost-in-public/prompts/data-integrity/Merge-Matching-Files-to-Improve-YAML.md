@@ -10,16 +10,18 @@ at_semantic_version: 0.0.0.1
 status: To-Prompt
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-04-15
-date_modified: 2025-04-15
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A developer meticulously correcting YAML errors one at a time in a code editor, with a progress tracker, error highlights, and a sense of careful, incremental improvement. The scene is orderly, with a focus on accuracy and systematic problem-solving."
+site_uuid: 0f2c53a6-db2c-43a3-8fcc-0b1e3b434abf
 tags:
   - YAML-Validation
   - Build-Scripts
   - Data-Integrity
 authors:
   - Michael Staton
-image_prompt: "A developer meticulously correcting YAML errors one at a time in a code editor, with a progress tracker, error highlights, and a sense of careful, incremental improvement. The scene is orderly, with a focus on accuracy and systematic problem-solving."
 ---
+
 import fs from 'fs/promises';
 import path from 'path';
 import { fileURLToPath } from 'url';

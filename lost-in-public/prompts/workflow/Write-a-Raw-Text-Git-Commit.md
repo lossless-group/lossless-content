@@ -10,8 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-03-08
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A minimalist text editor UI for writing raw git commit messages, with syntax highlighting, commit history, and version control icons. Visuals include branching diagrams and a focus on concise, meaningful text."
+banner_image: "https://img.recraft.ai/GdYU_mAJixEh7_-qP0DFQNjjmluFpzt86uYjNEV5-KQ/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/bc918348-6a36-4bdc-98cc-70366078c61f"
+site_uuid: 9c3f5c58-d83e-4842-9531-2f17ea47fd85
 tags:
   - Prompt-Engineering
   - Code-Generators
@@ -25,8 +28,6 @@ tags:
   - Collaborative-Workflow
 authors:
   - Michael Staton
-image_prompt: "A minimalist text editor UI for writing raw git commit messages, with syntax highlighting, commit history, and version control icons. Visuals include branching diagrams and a focus on concise, meaningful text."
-banner_image: https://img.recraft.ai/GdYU_mAJixEh7_-qP0DFQNjjmluFpzt86uYjNEV5-KQ/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/bc918348-6a36-4bdc-98cc-70366078c61f
 ---
 
 # Goals

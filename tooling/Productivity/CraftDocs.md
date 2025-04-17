@@ -13,8 +13,12 @@ jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:19:01.823Z
 date_modified: 2025-04-15
 date_created: 2025-03-30
-tags: [Productivity, Advanced-Documents, Collaboration-Tooling, Async-Tools]
-description_site_cp: Chosen as Mac App of the Year, Craft lets you write seamlessly across all devices, with instant sync that keeps your work flowing online or offline.
+tags: 
+- Productivity
+- Advanced-Documents
+- Collaboration-Tooling
+- Async-Tools
+description_site_cp: 'Chosen as Mac App of the Year, Craft lets you write seamlessly across all devices, with instant sync that keeps your work flowing online or offline.'
 ---
 [[Concepts/Explainers for Tooling/Advanced Documents|Advanced Documents]]
 

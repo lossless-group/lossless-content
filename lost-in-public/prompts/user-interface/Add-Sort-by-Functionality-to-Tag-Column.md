@@ -1,6 +1,6 @@
 ---
 title: Add Sort by Functionality to Tag Column
-lede: "Make the tag column more powerful by allowing different kinds of sort patterns"
+lede: Make the tag column more powerful by allowing different kinds of sort patterns
 date_authored_initial_draft: 2025-04-15
 date_authored_current_draft: 2025-04-15
 date_authored_final_draft: null
@@ -10,8 +10,10 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-04-15
-date_modified: 2025-04-15
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A dynamic display of floating tags, with a tidy tag column on the left, listing tags in a sorted order."
+site_uuid: 394a6a08-3589-4b9d-af05-ad7bea37be30
 tags:
   - User-Interface
   - Content-Models
@@ -19,7 +21,6 @@ tags:
   - UI-Design
 authors:
   - Michael Staton
-image_prompt: "A dynamic display of floating tags, with a tidy tag column on the left, listing tags in a sorted order."
 ---
 
 # Goal:

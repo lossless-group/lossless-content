@@ -1,6 +1,6 @@
 ---
 title: Use an LLM Gateway to Augment Content
-lede: "Create the content of a thousand content marketers with an LLM Gateway -- LiteLLM, Fabric, Ollama, MSTY"
+lede: Create the content of a thousand content marketers with an LLM Gateway -- LiteLLM, Fabric, Ollama, MSTY
 date_authored_initial_draft: 2025-03-06
 date_authored_current_draft: 2025-03-15
 date_authored_final_draft: null
@@ -10,8 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_modified: 2025-04-12
-date_created: 2025-04-09
+date_modified: 2025-04-16
+date_created: 2025-04-16
+image_prompt: "A content creation gateway powered by multiple LLMs, with data flowing through interconnected nodes, creative content cards, and a dashboard of AI models. Visuals include glowing pathways, document icons, and a sense of high-volume, automated content generation."
+banner_image: "https://img.recraft.ai/JwXZuFeGzMMO4i5tx6HrXMJY_ExQoe2hf7amDriGhM4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/b17c37b8-f37f-4aee-9fd5-4d649cc723ae"
+site_uuid: 7e866c2b-a4e9-4480-9780-af3a5a9e0b5a
 tags:
   - Prompt-Engineering
   - Content-Generators
@@ -21,8 +24,6 @@ tags:
   - Content-Automation
 authors:
   - Michael Staton
-image_prompt: "A content creation gateway powered by multiple LLMs, with data flowing through interconnected nodes, creative content cards, and a dashboard of AI models. Visuals include glowing pathways, document icons, and a sense of high-volume, automated content generation."
-banner_image: https://img.recraft.ai/JwXZuFeGzMMO4i5tx6HrXMJY_ExQoe2hf7amDriGhM4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/b17c37b8-f37f-4aee-9fd5-4d649cc723ae
 ---
 
 ###### Covered

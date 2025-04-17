@@ -1,6 +1,6 @@
 ---
-title: "Implement Dynamic Sort & Filter with Svelte"
-lede: "Technical specification for migrating the TagColumn and filtering functionality to Svelte components"
+title: Implement Dynamic Sort & Filter with Svelte
+lede: Technical specification for migrating the TagColumn and filtering functionality to Svelte components
 date_authored_initial_draft: 2025-04-15
 date_authored_current_draft: 2025-04-15
 date_authored_final_draft: null
@@ -8,11 +8,12 @@ date_first_published: null
 date_last_updated: null
 at_semantic_version: 0.0.0.1
 publish: false
-status: "To-Implement"
-augmented_with: "Windsurf Cascade on Claude 3.5 Sonnet"
-category: "Technical-Specifications"
-date_created: 2025-04-15
-date_modified: 2025-04-15
+status: To-Implement
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+category: Technical-Specifications
+date_created: 2025-04-16
+date_modified: 2025-04-16
+site_uuid: 1e30bfb4-8613-4ebc-ad72-90fe2f462314
 tags:
   - Svelte
   - Component-Architecture

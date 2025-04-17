@@ -11,16 +11,17 @@ at_semantic_version: 0.0.0.2
 status: To-Prompt
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_modified: 2025-04-12
-date_created: 2025-04-09
+date_modified: 2025-04-16
+date_created: 2025-04-16
+image_prompt: "An AI assistant and user collaboratively editing a prompt, surrounded by evolving prompt bubbles, code suggestions, and feedback loops. Visuals include arrows showing iteration and a sense of creative, continuous improvement."
+banner_image: "https://img.recraft.ai/5wPrIwgT9NCfPYHc0XmgfKK6jQil0-0Xo6LW_m3uuPY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/4bea8756-318a-4074-baf4-2ad3dcf2b2a4"
+site_uuid: b537985a-318f-4fdb-bd50-decad94ff90f
 tags:
   - Prompt-Engineering
   - Code-Generators
   - AI-Human-Workflow
 authors:
   - Michael Staton
-image_prompt: "An AI assistant and user collaboratively editing a prompt, surrounded by evolving prompt bubbles, code suggestions, and feedback loops. Visuals include arrows showing iteration and a sense of creative, continuous improvement."
-banner_image: https://img.recraft.ai/5wPrIwgT9NCfPYHc0XmgfKK6jQil0-0Xo6LW_m3uuPY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/4bea8756-318a-4074-baf4-2ad3dcf2b2a4
 ---
 
 # Constraints

@@ -1,7 +1,7 @@
 ---
 title: Write an note that leaves a breadcrumb for future Issue Resolution
 lede: Create comprehensive technical specifications for completed tasks and features
-date: "Sat Mar 15 2025 19:00:00 GMT-0500 (Central Daylight Time)"
+date: Sat Mar 15 2025 19:00:00 GMT-0500 (Central Daylight Time)
 date_authored_initial_draft: 2025-03-29
 date_authored_current_draft: 2025-03-29
 date_authored_final_draft: null
@@ -12,15 +12,16 @@ status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 working_with: Windsurf IDE with Claude 3.5
 category: Prompts
-date_created: 2025-03-29
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A digital breadcrumb trail leading to an issue resolution, with highlighted steps, solution icons, and a summary card. Visuals include path markers, bug icons, and a sense of guiding future developers to solutions."
+banner_image: "https://img.recraft.ai/bgQmboEhzjy2R1hr4vOsvbimsvNIkKfUZRaYpewUffc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/7b77b70f-530e-4c16-9362-e7577b58c8fd"
+site_uuid: 828827c3-4a13-4f05-967f-d5eb837f5f05
 tags:
   - Issue-Resolution
   - Implementation-Solutions
 authors:
   - Michael Staton
-image_prompt: "A digital breadcrumb trail leading to an issue resolution, with highlighted steps, solution icons, and a summary card. Visuals include path markers, bug icons, and a sense of guiding future developers to solutions."
-banner_image: https://img.recraft.ai/bgQmboEhzjy2R1hr4vOsvbimsvNIkKfUZRaYpewUffc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/7b77b70f-530e-4c16-9362-e7577b58c8fd
 ---
 
 # Write an note that leaves a breadcrumb for future Issue Resolution

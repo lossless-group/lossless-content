@@ -7,11 +7,14 @@ date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
 at_semantic_version: 0.0.0.2
-authors:
-  - Michael Staton
 status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A vocabulary collection UI using modular prior components, with interactive word cards, search and filter options, and a visually organized grid. The design is modern, educational, and user-friendly."
+banner_image: "https://img.recraft.ai/EATUsltLFF3f_6NTh5Qhv32o-u2VDUQNK-jxPkcB__E/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/f09fdcbf-ce63-4525-911a-b3bc7eca101f"
+site_uuid: f27e393a-84d1-4bb3-b1ee-6ded41c3983b
 tags:
   - User-Interface
   - Component-Architecture
@@ -19,10 +22,8 @@ tags:
   - UI-Design
   - Astro
   - Rendering-Pipeline
-date_created: 2025-03-28
-date_modified: 2025-04-12
-image_prompt: "A vocabulary collection UI using modular prior components, with interactive word cards, search and filter options, and a visually organized grid. The design is modern, educational, and user-friendly."
-banner_image: https://img.recraft.ai/EATUsltLFF3f_6NTh5Qhv32o-u2VDUQNK-jxPkcB__E/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/f09fdcbf-ce63-4525-911a-b3bc7eca101f
+authors:
+  - Michael Staton
 ---
 
 # Constraints:

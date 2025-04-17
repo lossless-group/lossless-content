@@ -1,6 +1,6 @@
 ---
 title: Create a Changelog UI
-lede: "Design and implement a modern, user-friendly changelog interface that handles both code and content changes"
+lede: Design and implement a modern, user-friendly changelog interface that handles both code and content changes
 date_authored_initial_draft: 2025-03-24
 date_authored_current_draft: 2025-03-24
 date_authored_final_draft: null
@@ -10,8 +10,11 @@ at_semantic_version: 0.0.0.1
 status: In-Progress
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-03-22
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A changelog user interface with a timeline of updates, interactive cards for each release, and filterable tags. Visual cues include icons for features and bug fixes, a clean layout, and a modern, collaborative workspace vibe."
+banner_image: "https://img.recraft.ai/tYhFdj9JsL3o1SSu78LnrU49OeBeGneSAUIDczKojxI/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a30e65a6-f4db-4dd3-9fa4-123067a4416a"
+site_uuid: 88ad913c-b8f0-475e-ba90-abcbf71fc29b
 tags:
   - User-Interface
   - Changelogs
@@ -20,8 +23,6 @@ tags:
   - User-Experience
 authors:
   - Michael Staton
-image_prompt: "A changelog user interface with a timeline of updates, interactive cards for each release, and filterable tags. Visual cues include icons for features and bug fixes, a clean layout, and a modern, collaborative workspace vibe."
-banner_image: https://img.recraft.ai/tYhFdj9JsL3o1SSu78LnrU49OeBeGneSAUIDczKojxI/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a30e65a6-f4db-4dd3-9fa4-123067a4416a
 ---
 
 # Data Flow & Component Pipeline
