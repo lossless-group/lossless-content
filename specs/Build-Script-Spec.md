@@ -12,6 +12,7 @@ authors:
 status: Iterating
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Specification
+publish: false
 tags: 
   - Build-Scripts
   - YAML

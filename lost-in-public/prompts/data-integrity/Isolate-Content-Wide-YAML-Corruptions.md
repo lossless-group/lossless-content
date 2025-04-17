@@ -20,6 +20,7 @@ tags:
 - Content-Management
 - Data-Cleaning
 - Automation
+image_prompt: "A software developer inspecting YAML syntax on a large whiteboard."
 ---
 
 # YAML Frontmatter Corruption Correction Tool

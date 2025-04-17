@@ -7,6 +7,7 @@ date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
 at_semantic_version: 0.0.1.0
+publish: true
 authors: 
 - Michael Staton
 status: Iterating

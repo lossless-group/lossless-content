@@ -92,6 +92,9 @@ tags:
 ```
 
 ### 2. Content Structure
+
+All section delimiters must be in "***" syntax, as "---" is reserved for frontmatter. Including "---" in section delimiters will cause system wide errors that will be difficult to detect and revert.
+
 ```markdown
 # Summary
 Brief overview of changes in 1-2 sentences.

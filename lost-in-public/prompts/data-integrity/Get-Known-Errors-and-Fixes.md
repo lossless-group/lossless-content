@@ -20,6 +20,7 @@ tags:
 - Error-Detection
 - Content-Fixes
 - Build-Process
+image_prompt: "A software developer in front of an Under Construction sign"
 ---
 
 ## Executive Summary
