@@ -13,15 +13,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-17
 status: Draft
 site_uuid: a065f528-1a6e-4e05-93e6-e72f00c7364b
-tags:
-  - Filesystem
-  - Observer
-  - For
-  - Consistent
-  - Metadata
-  - In
-  - Markdown
-  - Files
+tags: [Filesystem, Observer, For, Consistent, Metadata, In, Markdown, Files]
 authors:
   - Michael Staton
 ---
