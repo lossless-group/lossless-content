@@ -1,5 +1,5 @@
 ---
-title: Technical Specification: YAML Frontmatter Corruption Correction
+title: YAML Frontmatter Corruption Correction
 lede: Automated tool for identifying and repairing corrupted YAML frontmatter across the content library
 date_authored_initial_draft: 2025-03-14
 date_authored_current_draft: 2025-03-14
