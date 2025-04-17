@@ -3,6 +3,7 @@ title: "Code Block Rendering System"
 date: 2025-04-12
 authors: 
 - Michael Staton
+publish: true
 generated_with: "Windsurf Cascade on Claude 3.5 Sonnet"
 categories: 
 - Technical-Specification

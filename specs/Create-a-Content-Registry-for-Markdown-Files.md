@@ -6,7 +6,7 @@ date_authored_current_draft: 2025-03-16
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: 0.0.1.0
+at_semantic_version: 0.0.1.5
 authors: 
 - Michael Staton
 status: Iterating
@@ -444,3 +444,99 @@ const indexEntry = {
 - Data migration
 - Schema evolution
 - Feature additions
+
+---
+
+# DataStore/Registry Handling for Content-Wide Syntax (Draft Guidance)
+
+Some classes of content observation—such as citations, media links, embeds, and images—require a persistent registry ("dataStore") in the form of a JSON file. This registry tracks all unique instances of specific syntax across the entire content library.
+
+## Why Use a Registry?
+- **De-duplication and normalization**: Ensures each unique reference (e.g., a citation, image, or media embed) is tracked once, even if referenced in multiple files.
+- **Cross-file analytics**: Enables reporting and analysis of usage patterns, orphaned references, and content relationships.
+- **Atomic updates**: Guarantees that registry changes are never left in a partial or corrupted state.
+- **Extensibility**: New content types (e.g., images, embeds) can adopt the same registry pattern as citations.
+
+## General Principles
+- **Single Source of Truth**: Each registry must be a single, well-known JSON file (e.g., `site/src/content/citations/citation-registry.json`).
+- **Schema-Driven**: Every registry should have a documented, versioned schema/interface, validated on every update.
+- **Idempotency**: Re-processing the same file/content must not introduce duplicates or inconsistent state.
+- **Atomicity**: Updates must be atomic; never leave a registry in a partially written state.
+- **Extensibility**: New registry types (e.g., for images, media, embeds) should follow the same service pattern as citations.
+
+## Example: Citation Registry
+
+**File:** `site/src/content/citations/citation-registry.json`
+
+**Interface:**
+```typescript
+interface CitationRegistry {
+  sources: Record<string, { title: string; author: string; year: number; url: string }>;
+  citations: Record<string, Array<{ hex: string; context: string }>>;
+}
+```
+
+**Service Pattern:**
+- Singleton pattern for registry access (e.g., `CitationRegistry.getInstance()`)
+- Methods for adding, updating, and saving citations
+- Loading and saving to disk with error handling
+
+## Example: Media/Image Registry (Proposed)
+
+**File:** `site/src/content/media/media-registry.json`
+
+**Interface:**
+```typescript
+interface MediaRegistry {
+  media: Record<string, {
+    type: 'image' | 'video' | 'audio' | 'embed';
+    url: string;
+    files: string[]; // Markdown files where this media appears
+    metadata?: Record<string, any>;
+    dateCreated: string;
+    dateUpdated: string;
+  }>;
+}
+```
+
+**Service Pattern:**
+- Singleton and atomic update pattern as with citations
+- On file observation, extract all media links/embeds, normalize, and update registry
+- Always update the `files` array to include the referencing markdown
+
+## Implementation Checklist
+1. **Registry Service**
+   - Each registry (citations, media, etc.) must have a dedicated service (e.g., `citationService.ts`, `mediaService.ts`).
+   - Service must provide: `addEntry`, `updateEntry`, `getEntry`, `saveToDisk`, `loadFromDisk`.
+2. **Template Configuration**
+   - Templates that require registry updates must declare the registry path and config in their template definition (see `citationConfig` in `citations.ts`).
+3. **Observer Integration**
+   - On file event, observer extracts relevant syntax (citations, media, etc.).
+   - Calls the appropriate service to update the registry.
+   - All registry updates are logged in the reporting service.
+4. **Error Handling**
+   - If the registry file is locked/corrupted, log the error, skip the update, and flag for manual intervention.
+   - Never block the entire observer pipeline due to registry errors—fail gracefully.
+5. **Reporting**
+   - Registry changes (new entries, updates, removals) must be summarized in the period-based report.
+   - Include before/after snapshots or diffs for transparency.
+
+## Example Registry Update Flow (Pseudocode)
+```typescript
+// On file change event:
+const fileMediaLinks = extractMediaLinks(fileContent);
+for (const link of fileMediaLinks) {
+  mediaRegistryService.addOrUpdateMedia(link, filePath);
+}
+await mediaRegistryService.saveToDisk();
+reportingService.logRegistryUpdate('media', link, filePath);
+```
+
+## Open Questions
+- Should registry updates be batched and flushed at intervals, or written immediately?
+- How to handle concurrent updates (e.g., via multiple observer processes)?
+- Should registries include a changelog/history for auditability?
+
+---
+
+This section is intended as a living draft and should be refined as the first registry-backed observer (e.g., citations) is stabilized and new content types are added.
