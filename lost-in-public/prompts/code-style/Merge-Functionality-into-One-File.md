@@ -10,8 +10,10 @@ at_semantic_version: 0.0.0.1
 status: Prompted
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-04-15
-date_modified: 2025-04-15
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A thoughtful developer reviewing code and suggesting improvements, surrounded by branching diagrams and preserved legacy code, symbolizing careful, non-destructive refactoring."
+site_uuid: a41c3eaa-5ce4-4773-a8b8-4666990571f4
 tags:
   - Code-Style
   - Refactor
@@ -19,7 +21,6 @@ tags:
   - Maintainability
 authors:
   - Michael Staton
-image_prompt: "A thoughtful developer reviewing code and suggesting improvements, surrounded by branching diagrams and preserved legacy code, symbolizing careful, non-destructive refactoring."
 ---
 
 # Objective:

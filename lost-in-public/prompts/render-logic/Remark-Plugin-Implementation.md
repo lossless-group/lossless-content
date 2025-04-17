@@ -10,8 +10,11 @@ at_semantic_version: 0.0.1.0
 status: To-Prompt
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-04-02
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A developer implementing a remark plugin, with code editors, plugin architecture diagrams, and rendered markdown previews. The scene conveys extensibility, customization, and the technical creativity of enhancing content workflows."
+banner_image: "https://img.recraft.ai/vAQti7-f_0A9f0JJaNAEx0GEcPFE9S0D6SbAdNNYR-A/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/6a9f48be-c7cb-46ff-a700-ed56e47c3610"
+site_uuid: debdb50b-f775-4677-915c-e000b9242c3d
 tags:
   - Render-Logic
   - Extended-Markdown
@@ -19,8 +22,6 @@ tags:
   - Astro
 authors:
   - Michael Staton
-image_prompt: "A developer implementing a remark plugin, with code editors, plugin architecture diagrams, and rendered markdown previews. The scene conveys extensibility, customization, and the technical creativity of enhancing content workflows."
-banner_image: https://img.recraft.ai/vAQti7-f_0A9f0JJaNAEx0GEcPFE9S0D6SbAdNNYR-A/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/6a9f48be-c7cb-46ff-a700-ed56e47c3610
 ---
 
 ###### Sources

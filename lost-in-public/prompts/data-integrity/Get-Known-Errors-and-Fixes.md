@@ -7,20 +7,21 @@ date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
 at_semantic_version: 0.0.1.0
-authors: 
-- Michael Staton
 status: Implemented
-augmented_with: "Windsurf IDE with Claude 3.5 Sonnet"
+augmented_with: Windsurf IDE with Claude 3.5 Sonnet
 category: Specification
-date_created: 2025-03-15
-date_modified: 2025-04-12
-tags:
-- Scripts
-- YAML
-- Error-Detection
-- Content-Fixes
-- Build-Process
+date_created: 2025-04-16
+date_modified: 2025-04-16
 image_prompt: "A software developer in front of an Under Construction sign"
+site_uuid: 6522d034-9012-4456-81c6-0e2e3ffc6fd1
+tags:
+  - Scripts
+  - YAML
+  - Error-Detection
+  - Content-Fixes
+  - Build-Process
+authors:
+  - Michael Staton
 ---
 
 ## Executive Summary

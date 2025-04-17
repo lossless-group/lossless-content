@@ -1,20 +1,23 @@
 ---
-title: "Code Block Rendering System"
+title: Code Block Rendering System
 date: 2025-04-12
-authors: 
-- Michael Staton
 publish: true
-generated_with: "Windsurf Cascade on Claude 3.5 Sonnet"
-categories: 
-- Technical-Specification
-date_created: 2025-04-12
+generated_with: Windsurf Cascade on Claude 3.5 Sonnet
+categories: Technical-Specification
+date_created: 2025-04-16
 date_modified: 2025-04-16
-tags: 
-- Markdown
-- Code-Blocks
-- Syntax-Highlighting
-- Astro
-- Component-Architecture
+lede: Technical specification document outlining implementation details
+status: Draft
+category: Technical Specifications
+site_uuid: 22f247fd-39aa-48e9-84d8-f46d5fb8fc28
+tags:
+  - Markdown
+  - Code-Blocks
+  - Syntax-Highlighting
+  - Astro
+  - Component-Architecture
+authors:
+  - Michael Staton
 ---
 
 # Code Block Rendering System

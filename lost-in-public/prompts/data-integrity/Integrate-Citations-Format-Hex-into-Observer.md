@@ -1,6 +1,6 @@
 ---
 title: Integrate citations format and unique Hex into filesystem observer
-lede: "Leverage Node.js filesystem APIs to monitor content directories, automatically transform citations into unique Hex values and create or update Footnotes section."
+lede: Leverage Node.js filesystem APIs to monitor content directories, automatically transform citations into unique Hex values and create or update Footnotes section.
 date_authored_initial_draft: 2025-04-06
 date_authored_current_draft: 2025-04-06
 date_authored_final_draft: null
@@ -10,8 +10,11 @@ at_semantic_version: 0.0.0.1
 status: Implemented
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-03-22
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+banner_image: "https://img.recraft.ai/GshneWRThroxXVfwmg36QFM4_2uIRmntcmtb2bn7V-w/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/7416bf4a-0b3c-4fa2-9b92-f931e1c6c780"
+image_prompt: "A developer integrating citation formatting logic into a file observer tool, with code snippets, citation icons, and a visual flow of data transformation. The scene emphasizes technical precision, academic rigor, and seamless automation."
+site_uuid: a57d2a7d-7402-48f7-a954-674fc66d543d
 tags:
   - File-Processing
   - Build-Scripts
@@ -19,8 +22,6 @@ tags:
   - Data-Integrity
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/GshneWRThroxXVfwmg36QFM4_2uIRmntcmtb2bn7V-w/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/7416bf4a-0b3c-4fa2-9b92-f931e1c6c780
-image_prompt: "A developer integrating citation formatting logic into a file observer tool, with code snippets, citation icons, and a visual flow of data transformation. The scene emphasizes technical precision, academic rigor, and seamless automation."
 ---
 
 # Objective

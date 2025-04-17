@@ -13,6 +13,8 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Technical Specifications
 date_created: 2025-04-16
 date_modified: 2025-04-16
+image_prompt: "A complex diagram showing a markdown processing pipeline with multiple stages, transformations, and custom extensions. The visualization emphasizes the flow of content through various processing steps, with clear indication of how different markdown features are handled at each stage."
+site_uuid: bc4e5951-73e6-4e3c-a64a-d298185c0321
 tags:
   - Render-Logic
   - Astro
@@ -21,7 +23,6 @@ tags:
   - Content-Display
 authors:
   - Michael Staton
-image_prompt: "A complex diagram showing a markdown processing pipeline with multiple stages, transformations, and custom extensions. The visualization emphasizes the flow of content through various processing steps, with clear indication of how different markdown features are handled at each stage."
 ---
 
 # ABSOLUTE 150% DO NOT FUCKING FUCK WITH ME CONSTRAINTS

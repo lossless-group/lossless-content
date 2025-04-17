@@ -1,5 +1,5 @@
 ---
-title: "Technical Specification: Dynamic Information Page Rendering in Astro"
+title: Technical Specification: Dynamic Information Page Rendering in Astro
 lede: Empower developers to focus on layout and let MDX do the content and interaction
 date_authored_initial_draft: 2025-03-24
 date_authored_current_draft: 2025-03-24
@@ -10,8 +10,10 @@ at_semantic_version: 0.0.1.0
 status: To-Prompt
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-03-24
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+banner_image: "https://img.recraft.ai/95_z2fVL-mG3BZL9cdWGv8mzFCe-hY5EH_h8DrcdQbA/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/e812a314-0fcf-4a06-9abf-06e415b94081"
+site_uuid: 6487c56c-2072-4cc6-b6e0-62b7f9929b7a
 tags:
   - Render-Logic
   - Astro
@@ -23,7 +25,6 @@ tags:
   - Content-Display
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/95_z2fVL-mG3BZL9cdWGv8mzFCe-hY5EH_h8DrcdQbA/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/e812a314-0fcf-4a06-9abf-06e415b94081
 ---
 
 # Dynamic Information Page Rendering in Astro

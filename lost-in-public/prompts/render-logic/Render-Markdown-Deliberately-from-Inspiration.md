@@ -10,8 +10,11 @@ at_semantic_version: 0.0.1.0
 status: Implementation
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-04-02
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A creative workspace where markdown is rendered with intention, featuring a code editor, inspirational notes, and a preview pane showing beautifully formatted content. The mood is thoughtful, artistic, and focused on purposeful design."
+banner_image: "https://img.recraft.ai/ziedQj20B1XL88weSW-kavk5ViAxND-gJ-BkOsC39B4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/84111178-8472-4834-9e01-47492d168f0f"
+site_uuid: bc63aecf-84da-4183-81cc-f69176cf0602
 tags:
   - Render-Logic
   - Remark
@@ -21,8 +24,6 @@ tags:
   - AST
 authors:
   - Michael Staton
-image_prompt: "A creative workspace where markdown is rendered with intention, featuring a code editor, inspirational notes, and a preview pane showing beautifully formatted content. The mood is thoughtful, artistic, and focused on purposeful design."
-banner_image: https://img.recraft.ai/ziedQj20B1XL88weSW-kavk5ViAxND-gJ-BkOsC39B4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/84111178-8472-4834-9e01-47492d168f0f
 ---
 
 # Comprehensive AST Transformation Pipeline

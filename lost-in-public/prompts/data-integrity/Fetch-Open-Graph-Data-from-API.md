@@ -10,8 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Prompt
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-02-03
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+banner_image: "https://img.recraft.ai/iJXP-SjpRYCx0S5UmTA0BUzGtZGotTBOU8fR8gxzsK0/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/0a218f4f-de5e-4131-a802-9da4d7b1909c"
+image_prompt: "A developer interacting with an API dashboard to fetch Open Graph data, with code snippets, network request icons, and browser previews of enriched link cards. The scene emphasizes data flow, connectivity, and real-time web enhancement."
+site_uuid: 0d30049e-c655-41e8-a112-6a84a1854f0b
 tags:
   - Open-Graph
   - API-Integration
@@ -19,8 +22,6 @@ tags:
   - Data-Integrity
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/iJXP-SjpRYCx0S5UmTA0BUzGtZGotTBOU8fR8gxzsK0/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/0a218f4f-de5e-4131-a802-9da4d7b1909c
-image_prompt: "A developer interacting with an API dashboard to fetch Open Graph data, with code snippets, network request icons, and browser previews of enriched link cards. The scene emphasizes data flow, connectivity, and real-time web enhancement."
 ---
 
 # OpenGraph Data Fetching Script Implementation Guide

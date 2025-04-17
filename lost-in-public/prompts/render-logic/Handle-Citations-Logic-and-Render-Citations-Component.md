@@ -10,8 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Prompt
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-04-05
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A developer designing a citations component, with code panels, citation icons, and rendered citation blocks in a web interface. The scene emphasizes clarity, academic rigor, and seamless integration of source references into digital content."
+banner_image: "https://img.recraft.ai/O8q0gogt-TfUdjc34sA3vLlQUAaQ-XTKkzLlX7BMtZc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/34cb7015-98c1-46c4-9c19-5b165deae461"
+site_uuid: d3884182-69d1-40c7-8400-658e354fb85e
 tags:
   - Render-Logic
   - Astro
@@ -21,8 +24,6 @@ tags:
   - Content-Display
 authors:
   - Michael Staton
-image_prompt: "A developer designing a citations component, with code panels, citation icons, and rendered citation blocks in a web interface. The scene emphasizes clarity, academic rigor, and seamless integration of source references into digital content."
-banner_image: https://img.recraft.ai/O8q0gogt-TfUdjc34sA3vLlQUAaQ-XTKkzLlX7BMtZc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/34cb7015-98c1-46c4-9c19-5b165deae461
 ---
 
 # Handle Citations in Markdown Content

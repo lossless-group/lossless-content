@@ -1,6 +1,6 @@
 ---
 title: Handle iFrames in Markdown Content
-lede: Handle iFrames in markdown content by pulling them out before other content processing, then adding them back to the AST before rendering. 
+lede: Handle iFrames in markdown content by pulling them out before other content processing, then adding them back to the AST before rendering.
 date_authored_initial_draft: 2025-04-16
 date_authored_current_draft: 2025-04-16
 date_authored_final_draft: null
@@ -12,6 +12,8 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
+image_prompt: "A website has embedded videos, embedded pdfs, embdded artwork, all representing different types and use cases for iFrames."
+site_uuid: 51c1d36b-0897-4381-b24c-001d5455b59f
 tags:
   - Render-Logic
   - Astro
@@ -20,7 +22,6 @@ tags:
   - Content-Display
 authors:
   - Michael Staton
-image_prompt: "A website has embedded videos, embedded pdfs, embdded artwork, all representing different types and use cases for iFrames."
 ---
 
 # Constraints

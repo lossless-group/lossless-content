@@ -1,7 +1,7 @@
 ---
 title: Full-Width Separator Issue Resolution
 lede: Solving the challenge of creating truly full-viewport-width separators in a constrained layout
-date: "Sat Apr 12 2025 03:31:00 GMT-0500 (Central Daylight Time)"
+date: Sat Apr 12 2025 03:31:00 GMT-0500 (Central Daylight Time)
 date_authored_initial_draft: 2025-04-12
 date_authored_current_draft: 2025-04-12
 date_authored_final_draft: 2025-04-12
@@ -12,8 +12,11 @@ status: Complete
 augmented_with: Cascade on Claude 3.5 Sonnet
 working_with: Windsurf IDE with Claude 3.5
 category: Implementation-Solutions
-date_created: 2025-04-12
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A web layout with a dramatic, full-width separator cutting across the viewport. Visuals include layered backgrounds, CSS code snippets, and highlighted solution diagrams, symbolizing precise layout problem-solving."
+banner_image: "https://img.recraft.ai/w7ePjH-AfhdvEzIYGZDBEkQEAG8VU_ul3bQx00z7e7k/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/2bf4bf48-e809-4f3f-ab2e-a3859ebdf0f1"
+site_uuid: d0b246e1-d963-49dd-bac3-4fbc7b810226
 tags:
   - Issue-Resolution
   - CSS
@@ -22,8 +25,6 @@ tags:
   - Separators
 authors:
   - Michael Staton
-image_prompt: "A web layout with a dramatic, full-width separator cutting across the viewport. Visuals include layered backgrounds, CSS code snippets, and highlighted solution diagrams, symbolizing precise layout problem-solving."
-banner_image: https://img.recraft.ai/w7ePjH-AfhdvEzIYGZDBEkQEAG8VU_ul3bQx00z7e7k/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/2bf4bf48-e809-4f3f-ab2e-a3859ebdf0f1
 ---
 
 # Full-Width Separator Issue Resolution
