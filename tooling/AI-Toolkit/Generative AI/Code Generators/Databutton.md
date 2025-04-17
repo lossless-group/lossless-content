@@ -87,7 +87,7 @@ tags:
 
 
 
-##### [[Databutton]] is a [[Concepts/Explainers for AI/Code Generators]]
+##### [[Databutton]] is a [[concepts/Explainers for AI/Code Generators]]
 
 ![](https://i.imgur.com/cC7sfBi.png)
 

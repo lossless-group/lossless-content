@@ -53,6 +53,6 @@ url: 'https://www.luckfox.com/'
 
 
 
-Competing with [[Organizations/Nvidia]] on [[Graphics Processing Units|GPU Architecture]] computing hardware.
+Competing with [[organizations/Nvidia]] on [[Graphics Processing Units|GPU Architecture]] computing hardware.
 
 https://youtu.be/1W7ku0vcA1k?si=mB47d4s6XFnjzoyR

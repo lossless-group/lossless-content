@@ -66,5 +66,5 @@ tags:
 
 
 
-A product of [[Organizations/Google Labs]].
+A product of [[organizations/Google Labs]].
 

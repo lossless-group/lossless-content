@@ -88,7 +88,7 @@ tags:
 
 
 
-A [[Terminal Emulators]] that uses [[Code Generator]] for developers.
+A [[concepts/Explainers for Tooling/Terminal Emulators]] that uses [[Code Generator]] for developers.
 
 ![](https://i.imgur.com/yFe5uL5.png)
 ![](https://i.imgur.com/qykrfQe.png)

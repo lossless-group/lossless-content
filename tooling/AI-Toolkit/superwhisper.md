@@ -67,5 +67,5 @@ tags:
 
 
 [[Voice User Interface]]
-[[Concepts/Explainers for AI/Voice to Text]]
+[[concepts/Explainers for AI/Voice to Text]]
 

@@ -52,9 +52,9 @@ tags:
 
 
 [[AI Models]]
-[[Concepts/Explainers for AI/Artificial Intelligence|AI]]
+[[concepts/Explainers for AI/Artificial Intelligence|AI]]
 [[Model Owner Organizations]]
 [[CPM-Series]]
-[[Concepts/Explainers for AI/Artificial General Intelligence|AGI]]
+[[concepts/Explainers for AI/Artificial General Intelligence|AGI]]
 
 [[Tooling/AI-Toolkit/Models/Mini-CPM]]

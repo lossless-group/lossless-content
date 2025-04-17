@@ -143,7 +143,7 @@ https://youtu.be/qgH_KFSFMUE?si=XHcn2v_i2RcHZ2dm
 
 https://youtu.be/JeyDrn1dSUQ?si=klShYeHx1MpiTlr-
 
-> [!NOTE] [[Organizations/Perplexity AI]] explains [[LangChain]] and [[LangGraph]]
+> [!NOTE] [[organizations/Perplexity AI]] explains [[LangChain]] and [[LangGraph]]
 > LangChain and LangGraph are two related frameworks designed to simplify the development of applications using large language models (LLMs).
 > 
 > ## LangChain

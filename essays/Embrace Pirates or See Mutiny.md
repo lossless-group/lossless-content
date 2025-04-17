@@ -1,4 +1,4 @@
 
-[[Contrarian Talent]]
+[[concepts/Contrarian Talent]]
 
 [[Divas]]

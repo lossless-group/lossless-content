@@ -71,5 +71,5 @@ url: 'https://www.ifs.com/'
 
 
 [[Current Stack]]
-[[Enterprise Resource Planning|ERP]]
+[[concepts/Explainers for Tooling/Enterprise Resource Planning|ERP]]
 

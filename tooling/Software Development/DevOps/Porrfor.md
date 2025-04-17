@@ -31,7 +31,7 @@ tags:
 
 
 
-Helps with [[Reproducible Builds]].
+Helps with [[concepts/Reproducible Builds]].
 
 [[WebAssembly]], [[WebAssembly|WASM]]
 [[JavaScript]], [[Compilers]]

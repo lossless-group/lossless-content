@@ -78,4 +78,4 @@ og_screenshot_url: >-
 
 https://youtu.be/saxZ1-11YL0?si=BWFU_a5FGf03dPes
 
-[[Concepts/Explainers for AI/Artificial General Intelligence|AGI]]
+[[concepts/Explainers for AI/Artificial General Intelligence|AGI]]

@@ -5,6 +5,6 @@ His innovation was almost dead simple.  Through the liberal use of Latin soundin
 
 His work developed into the [[International Code of Zoological Nomenclature]].  It still establishes as a standard, and convention, the way to classify zoological, botanical, bacterial, and viral discoveries and identifications. 
 
-Good technology has solid, clear, documented [[Naming Conventions]]. 
+Good technology has solid, clear, documented [[concepts/Naming Conventions]]. 
 
 The Wikipedia page on Linneaus states "the Linnaean system has proven robust and it remains the only extant working classification system at present that enjoys universal scientific acceptance." 

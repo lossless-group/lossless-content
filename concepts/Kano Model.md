@@ -9,4 +9,4 @@ Prevents [[Complexity Cost]].
 
 Helps keep [[UI Stability]].
 
-[[KanoChart]] is an [[Opinionated Analytics]] tool that surveys customers.  
+[[KanoChart]] is an [[concepts/Explainers for Tooling/Opinionated Analytics]] tool that surveys customers.  

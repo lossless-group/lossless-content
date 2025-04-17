@@ -2,8 +2,7 @@
 date_modified: 2025-04-17
 site_uuid: 931625f5-532d-45cf-941c-6c926d1f7dda
 date_created: 2025-04-06
-aliases:
-  - SemVer
+aliases: [SemVer]
 url: https://semver.org/
 ---
 

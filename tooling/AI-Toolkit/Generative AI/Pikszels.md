@@ -80,5 +80,5 @@ tags:
 
 
 
-[[Concepts/Explainers for AI/Image Generator]]
+[[concepts/Explainers for AI/Image Generator]]
 https://youtu.be/mK_h1OZHzHE?si=4dPfGigzUZFO6Wtw

@@ -9,7 +9,7 @@ aliases:
 https://youtu.be/MnFTk8mVrs4?si=qVino0QHnse51XVc
 
 
-> [!NOTE] [[Organizations/Perplexity AI]] explains [[Cognitive Diversity]]
+> [!NOTE] [[organizations/Perplexity AI]] explains [[Cognitive Diversity]]
 > 
 > Research on the impact of cognitive diversity on teams and businesses highlights both benefits and challenges. Below are key findings:
 > 

@@ -64,6 +64,6 @@ tags:
 
 
 
-A project maintained by the [[Organizations/The Linux Foundation]].
+A project maintained by the [[organizations/The Linux Foundation]].
 
 

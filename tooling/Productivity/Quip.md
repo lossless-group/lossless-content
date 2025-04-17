@@ -44,5 +44,5 @@ og_screenshot_url: >-
 
 
 
-One of the [[Advanced Documents]], with a specialty in [[Realtime Collaboration]] and [[Salesforce]] integration.
+One of the [[concepts/Explainers for Tooling/Advanced Documents]], with a specialty in [[Realtime Collaboration]] and [[Salesforce]] integration.
 

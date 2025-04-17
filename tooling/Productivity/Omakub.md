@@ -6,4 +6,4 @@ tags:
   - Productivity
 ---
 
-An [[Vocabulary/Opinionated|Opinionated]] flavor of [[Organizations/The Linux Foundation|Linux]] by [[Sources/People/David Heinemeier Hanson|David Heinemeier Hanson]]
+An [[Vocabulary/Opinionated|Opinionated]] flavor of [[organizations/The Linux Foundation|Linux]] by [[Sources/People/David Heinemeier Hanson|David Heinemeier Hanson]]

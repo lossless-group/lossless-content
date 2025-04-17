@@ -2,15 +2,12 @@
 title: Frontmatter Date Formatting Fix
 lede: Resolving timestamp and quoted date issues in frontmatter
 date_created: 2025-04-11
-date_modified: 2025-04-11
+date_modified: 2025-04-17
 authors:
   - Michael Staton
 category: Issue Resolution
-tags:
-  - Frontmatter
-  - YAML
-  - Date-Formatting
-  - Content-Management
+images: ["https://example.com/image.png", "https://example.com/image2.png", "https://example.com/image3.png"]
+tags: [Frontmatter, YAML, Date-Formatting, Content-Management]
 ---
 
 # Frontmatter Date Formatting Fix

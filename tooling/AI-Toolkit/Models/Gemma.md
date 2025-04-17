@@ -60,7 +60,7 @@ og_screenshot_url: >-
 
 
 
-Made by [[Organizations/Google Labs]],
+Made by [[organizations/Google Labs]],
 
 A [[Large Language Models]]
 

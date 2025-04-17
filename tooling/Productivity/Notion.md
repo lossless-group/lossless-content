@@ -43,6 +43,6 @@ url: 'https://www.notion.com'
 
 
 
-An [[Advanced Documents]] tool, the market leader.
+An [[concepts/Explainers for Tooling/Advanced Documents]] tool, the market leader.
 
 https://youtu.be/PVl3yKPLQ78?si=2bPSl6vB7bU8-unl

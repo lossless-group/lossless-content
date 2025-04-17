@@ -61,8 +61,8 @@ https://youtu.be/-J1v65yZdcQ?si=FvyUPylHF-ercOp_
 
 ### Obsidian using Properties in [[Vocabulary/Markup]]
 ![[Screenshot 2025-01-31 at 1.14.17 PM_Obsidian--Properties.png]]
-### Obsidian maintains [[Release Notes]].
-Here's a screenshot of [[Release Notes]] from [[Obsidian.md]].
+### Obsidian maintains [[concepts/Release Notes]].
+Here's a screenshot of [[concepts/Release Notes]] from [[Obsidian.md]].
 ![[Screenshot 2025-02-02 at 1.07.07 PM_Obsidian--Release-Notes.png]]
 ![[Screenshot 2025-02-23 at 3.59.17 AM_Obsidian--Changelog.png]]
 ### Obsidian flipped pricing & monetization to publishing on the web

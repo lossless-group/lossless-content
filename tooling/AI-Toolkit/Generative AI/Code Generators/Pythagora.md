@@ -82,6 +82,6 @@ og_screenshot_url: >-
 
 https://youtube.com/shorts/_9SCg4aIFB0?si=CBxq1RYwhm1XfKK0
 
-[[Concepts/Explainers for AI/Code Generators]]
+[[concepts/Explainers for AI/Code Generators]]
 
-an [[AI Native Applications|AI Native]] [[Internal Tool Builders]]
+an [[AI Native Applications|AI Native]] [[concepts/Explainers for Tooling/Internal Tool Builders]]

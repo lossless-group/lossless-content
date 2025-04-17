@@ -12,10 +12,10 @@ aliases:
 2025, February 22. [Responding to Prime's take about frontend frameworks](https://youtu.be/U8L_KOQmDj4?si=6HEylURemt5-36LJ). Theo - t3․gg.
 ## Static Site Generation
 
-[[Static Site Generators|SSG]] [[Web Frameworks|Frameworks]] includes [[Nextra]], [[Astro]].
+[[Static Site Generators|SSG]] [[concepts/Explainers for Tooling/Web Frameworks|Frameworks]] includes [[Nextra]], [[Astro]].
 
 
-Front-End [[Web Frameworks|Frameworks]] include [[Vue.js]], [[React]], [[HTMX]].
+Front-End [[concepts/Explainers for Tooling/Web Frameworks|Frameworks]] include [[Vue.js]], [[React]], [[HTMX]].
 
 ## Server Side Rendering
 
@@ -25,6 +25,6 @@ Includes [[NEXT.js]], [[Solid.js]], [[Svelte]],
 
 ## CSS Frameworks
 
-[[Web Frameworks|Frameworks]] for [[CSS]] include [[Tailwind]]. 
+[[concepts/Explainers for Tooling/Web Frameworks|Frameworks]] for [[CSS]] include [[Tailwind]]. 
 
 Includes [[Flask]], [[Django]], 

@@ -82,4 +82,4 @@ tags:
 
 
 
-[[Concepts/Explainers for AI/Music Generators]]
+[[concepts/Explainers for AI/Music Generators]]

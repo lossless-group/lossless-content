@@ -66,4 +66,4 @@ tags:
 
 
 https://youtu.be/diMGVabULoU?si=_TxcHQLXcJj3UiAw
-[[Organizations/Mistral]]
+[[organizations/Mistral]]

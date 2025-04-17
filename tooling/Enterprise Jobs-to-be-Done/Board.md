@@ -69,7 +69,7 @@ tags:
 
 
 
-[[Enterprise Resource Planning|ERP]]
+[[concepts/Explainers for Tooling/Enterprise Resource Planning|ERP]]
 
 From [[Poe AI]]:
 

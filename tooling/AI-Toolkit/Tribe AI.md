@@ -40,5 +40,5 @@ tags:
 
 
 
-##### Tribe AI is [[Concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]]
+##### Tribe AI is [[concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]]
 ![[Screenshot 2025-02-23 at 4.19.00 AM_Tribe-AI--Hero.png]]

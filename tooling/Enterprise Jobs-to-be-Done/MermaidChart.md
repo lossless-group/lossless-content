@@ -71,6 +71,6 @@ tags:
 
 
 
-[[Visual Software Development]], [[CARBS]].
+[[concepts/Visual Software Development]], [[concepts/CARBS]].
 
 ![[Screenshot 2025-02-24 at 7.36.52 PM_MermaidChart--Hero.png]]

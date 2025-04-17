@@ -76,4 +76,4 @@ og_screenshot_url: >-
 
 
 
-[[Concepts/Explainers for AI/AI Workspaces]]
+[[concepts/Explainers for AI/AI Workspaces]]
