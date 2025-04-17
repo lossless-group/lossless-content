@@ -2,14 +2,12 @@
 title: iterate on file system observer
 lede: Word-for-word session log for the iterative improvement of the Filesystem Observer specification and related architecture
 session_date: 2025-04-16
+date_file_index: 2
 authors:
   - Michael Staton
 status: In-Progress
 augmented_with: Windsurf Cascade
 category: Session-Log
-related_specs:
-  - Filesystem-Observer-for-Consistent-Metadata-in-Markdown-files.md
-  - Create-a-Content-Registry-for-Markdown-Files.md
 tags:
   - Session-Log
   - Filesystem-Observer
