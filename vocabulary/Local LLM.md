@@ -6,7 +6,7 @@ aliases:
   - Local LLMs
 ---
 
-[[Tooling/Enterprise Jobs-to-be-Done/OLlama]]
+[[Tooling/AI-Toolkit/AI Interfaces/OLlama]]
 
 https://youtube.com/shorts/czdSVWT1u3M?si=cGeeXcqhn8xFLEf0
 
