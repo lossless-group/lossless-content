@@ -1,15 +1,14 @@
 ---
 site_uuid: 2b1ab866-3f14-4d6a-a07a-b61fc9be0295
-date_created: 2025-03-10T00:00:00.000Z
-date_modified: '2025-04-12'
-zinger: >-
-  a universal retrieval engine for LLMs to access unstructured data from any
-  source.
+date_created: 2025-03-10
+date_modified: 2025-04-15
+zinger: a universal retrieval engine for LLMs to access unstructured data from any source.
 tags:
   - AI-Toolkit
+product_of: "[[organizations/Perplexity AI|Perplexity AI]]"
 ---
 
-
+Acquired by [[organizations/Perplexity AI|Perplexity AI]]
 
 
 
@@ -70,4 +69,4 @@ tags:
 
 https://siliconvalleyjournals.com/carbon-raises-1-3m-to-help-developers-manage-external-data-for-llms/
 
-Acquired by [[Organizations/Perplexity AI|Perplexity AI]]
+Acquired by [[organizations/Perplexity AI|Perplexity AI]]

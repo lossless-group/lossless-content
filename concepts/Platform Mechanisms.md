@@ -20,7 +20,7 @@ Perhaps even more contrary to a market leaders culture is the transition from ti
 
 The growth from market leader to platform is to institutionalize the following: to better serve the market, let the unknown come and the unexpected occur. Platforms tend to be more successful if they design for and uphold principles of [[Technology wants to be Emergent|Emergent Innovation]], allowing more or less anyone and any organization to at least try to gain platform access.  It's a [[Come one, come all]] policy.  
 
-The way to best serve customers changes from directly serving them to letting others try, and to create clear, strong, and stable [[Platform Mechanisms]].
+The way to best serve customers changes from directly serving them to letting others try, and to create clear, strong, and stable [[concepts/Platform Mechanisms]].
 
 ## Common Features of a Technology Platform 
 
@@ -29,7 +29,7 @@ The way to best serve customers changes from directly serving them to letting ot
 - Obsessive [[Documentation]], with a [[Documentation First Development]] methodology. 
 	- Clear [[Error Handling]]
 - Clear Onramps
-	- Ease of [[Getting Started]]
+	- Ease of [[concepts/Getting Started]]
 - Trust Heuristics & [[Reputation Systems]]
 - Structured Communication Channels
 - [[#Developer Community Hub|Developer Community]]
@@ -45,13 +45,13 @@ The way to best serve customers changes from directly serving them to letting ot
 
 
 ## Technology-based Platform Methods
-Leading technology companies offer a suite of tools to develop on their platforms, typically called an [[SDK|Software Development Kit]] or [[SDK]]. This includes not just [[Organizations/Microsoft]], [[Organizations/Apple]] and [[Organizations/Android]], but also [[Organizations/Nvidia]] and other hardware providers.  
+Leading technology companies offer a suite of tools to develop on their platforms, typically called an [[SDK|Software Development Kit]] or [[SDK]]. This includes not just [[organizations/Microsoft]], [[organizations/Apple]] and [[organizations/Android]], but also [[organizations/Nvidia]] and other hardware providers.  
 
 ### Developer Community Hub
 ![[Airtable#Airtable Developer Community Hub]]
 
-#### Ease of [[Getting Started]]
-Most of the platforms have an obsessive focus on helping people and organizations [[Getting Started|get started]].
+#### Ease of [[concepts/Getting Started]]
+Most of the platforms have an obsessive focus on helping people and organizations [[concepts/Getting Started|get started]].
 
 ![[Astro#Getting Started with Astro]]
 
@@ -61,15 +61,15 @@ Most of the platforms have an obsessive focus on helping people and organization
 
 #### Let them find bugs for you:
 
-![[Organizations/JetBrains#JetBrains has its own community bug reporting system]]
+![[organizations/JetBrains#JetBrains has its own community bug reporting system]]
 
 ### Let them build for you.
 
-![[Organizations/Nvidia#Nvidia SDK Manager]]
+![[organizations/Nvidia#Nvidia SDK Manager]]
 
 This is often, but not always, accompanied by an [[App Stores|App Store]]. 
 
-![[Organizations/Apple#Apple App Store]]
+![[organizations/Apple#Apple App Store]]
 
 
 ## Unlimited Functionality atop Core Functionality
@@ -85,9 +85,9 @@ Web Browsers also use [[Plug-ins,  Add-ons,  Extensions]], here is an example:
 ![[Opera#Opera Addons]]
 ## Data that Moves
 
-Web Applications often have a slightly different way they become a platform -- they focus on [[Data Fluidics|fluid data mobility]] between their service and other services through applying conventions, such as the [[REST API]], and use [[Web Standards]] for authentication and security. 
+Web Applications often have a slightly different way they become a platform -- they focus on [[concepts/Data Fluidics|fluid data mobility]] between their service and other services through applying conventions, such as the [[REST API]], and use [[Web Standards]] for authentication and security. 
 
-![[Organizations/Google#Google has APIs for everything.]]
+![[organizations/Google#Google has APIs for everything.]]
 
 ![[Airtable#Airtable API Docs]]
 
@@ -100,7 +100,7 @@ Thus, instead of having an App Store or an Extension library, they have an [[Int
 
 ## Unlimited Content or Options
 
-[[Input Markets]], or a marketplace of content or tools that can facilitate a user finding and utilizing what they might be looking for.  For example, web-based video editors now offer a marketplace of stock video footage, stock music for a soundtrack, in addition to the video editing tools.  In many ways, this can be thought of as a [[Input Markets#Content Marketplaces|Content Marketplace]]. 
+[[concepts/Input Markets]], or a marketplace of content or tools that can facilitate a user finding and utilizing what they might be looking for.  For example, web-based video editors now offer a marketplace of stock video footage, stock music for a soundtrack, in addition to the video editing tools.  In many ways, this can be thought of as a [[concepts/Input Markets#Content Marketplaces|Content Marketplace]]. 
 
 
 ### Promotion Mechanics

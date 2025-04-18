@@ -12,10 +12,9 @@ og_screenshot_url: >-
 jina_last_request: '2025-03-09T06:45:00.275Z'
 jina_error: Error occurred
 og_last_fetch: '2025-03-07T05:19:02.892Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-31T20:44:50.509Z'
-tags:
-  - AI-Toolkit
+date_modified: 2025-04-16
+date_created: 2025-03-31
+tags: [AI-Toolkit]
 ---
 
 
@@ -41,7 +40,7 @@ tags:
 
 [[Hugging Face Spaces]]
 
-An [[Affinity Network]] for people interested in [[Artificial Intelligence]].
+An [[Affinity Network]] for people interested in [[concepts/Explainers for AI/Artificial Intelligence]].
 
 The best news source for [[AI Models]], and posts publicly their [[Benchmarks]].  It keeps a [[Leaderboard]] on [[Benchmarks]] for [[Large Language Models]], [[Chatbots]], [[Massive Text Embedding]] at [this link](https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a).
 

@@ -1,5 +1,5 @@
 
-![[Cognitive, Collaborative Tooling]]
+![[concepts/Cognitive, Collaborative Tooling]]
 
 ## Logfiles. 
 

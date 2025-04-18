@@ -13,6 +13,7 @@ tags:
   - AI-Toolkit
   - Model-Producers
   - Gen-Ai-Voice
+url: 'https://elevenlabs.io'
 ---
 
 
@@ -79,7 +80,7 @@ tags:
 
 
 
-Specializes in [[Generative AI]] powered [[AI-Powered Language Translation]]
+Specializes in [[Generative AI]] powered [[concepts/Explainers for AI/AI-Powered Language Translation]]
 
 https://youtu.be/K-48RXyuRaY?si=O4B6lqnMvkQgA1aM
 

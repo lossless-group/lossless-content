@@ -10,8 +10,11 @@ at_semantic_version: 0.0.0.2
 status: In-Progress
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-04-12
-date_modified: 2025-04-12  
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A bold hero section UI with a striking headline, vibrant call-to-action button, and an engaging background image. The design is modern, clean, and visually impactful, drawing attention to the main message in a web interface."
+banner_image: "https://img.recraft.ai/HqAvVYPmObtNvXwsXPiKLGpVdZPlV1tloh3e8L7-NfM/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/ba739928-82a6-457c-bc34-845f1358c3c6"
+site_uuid: 598c707d-1f50-4c15-87dd-e5ecaca93afd
 tags:
   - User-Interface
   - UI-Design
@@ -19,8 +22,6 @@ tags:
   - Animations
 authors:
   - Michael Staton
-image_prompt: "A bold hero section UI with a striking headline, vibrant call-to-action button, and an engaging background image. The design is modern, clean, and visually impactful, drawing attention to the main message in a web interface."
-banner_image: https://img.recraft.ai/HqAvVYPmObtNvXwsXPiKLGpVdZPlV1tloh3e8L7-NfM/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/ba739928-82a6-457c-bc34-845f1358c3c6
 ---
 
 # Context

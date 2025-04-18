@@ -1,17 +1,49 @@
 ---
 date_created: 2025-03-27
-date_modified: 2025-04-14
+date_modified: 2025-04-16
 site_uuid: 7b615412-bbfe-4a5c-a0e7-a883e5d15466
 ---
 
 https://youtu.be/w5Wr3j4h_1I?si=MkvjqMt3xPbBZjUL
 
+
+| Hello | World |
+| ----- | ----- |
+| world | hello |
+
+
+
+
 [[Vocabulary/Software Development|Software Development]]
 [[Vocabulary/Engineering Management|Engineering Management]]
 
-![[Visuals/v2__Data Model Database--In-Action.png]]
+
+| Left | Center | Right |
+|:-----|:------:|------:|
+| 1    |   2    |     3 |
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/291f2534e5a142048b7c5df73758c581?sid=d136039f-d327-4f45-bedb-e80bf456800d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+![[visuals/v2__Data Model Database--In-Action.png]]
+
+![Screenshot](/assets/Screenshot_2025-04-14_Kling-AI.png)
+
+![[assets/Screenshot_2025-04-14_Kling-AI.png]]
+
+
 
 Some content here.  
+
+<iframe 
+  style="aspect-ratio:16/9;width:100%;height:auto" 
+  src="https://www.youtube.com/embed/U3MVU6JpocU?si=i84FmkbjN0xfMOF5" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen
+></iframe>
 
 A backlink to [[vocabulary/Affinity Network]]
 
@@ -52,11 +84,11 @@ A backlink to [[vocabulary/Affinity Network]]
 > 
 > ### Controversies and Criticisms  
 > Despite its success, Agile faces scrutiny:  
-> 1. **Misapplication**: Superficial adoption (“pseudo-Agile”) without cultural buy-in leads to failed implementations[6][9].  
-> 2. **Scaling Challenges**: Large organizations struggle with coordination; frameworks like SAFe introduce complexity[6][9].  
-> 3. **Overemphasis on Speed**: Rapid iterations risk technical debt and unstable products[6][9].  
-> 4. **Cultural Resistance**: Transitioning from hierarchical structures to self-organizing teams often meets internal pushback[5][6].  
-> 5. **Documentation Gaps**: Minimal documentation complicates onboarding and long-term maintenance[6][9].  
+> 1. **Misapplication**: Superficial adoption (“pseudo-Agile”) without cultural buy-in leads to failed implementations [6] [9].  
+> 2. **Scaling Challenges**: Large organizations struggle with coordination; frameworks like SAFe introduce complexity [6] [9].  
+> 3. **Overemphasis on Speed**: Rapid iterations risk technical debt and unstable products [6] [9].  
+> 4. **Cultural Resistance**: Transitioning from hierarchical structures to self-organizing teams often meets internal pushback [5] [6].  
+> 5. **Documentation Gaps**: Minimal documentation complicates onboarding and long-term maintenance [6] [9].  
 > 
 > ### Evidence and Research  
 > Studies highlight Agile’s strengths and limitations:  

@@ -7,4 +7,4 @@ aliases:
 ---
 
 [[Conventions]]
-[[Naming Conventions]]
+[[concepts/Naming Conventions]]

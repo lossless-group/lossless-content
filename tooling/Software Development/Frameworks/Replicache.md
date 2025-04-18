@@ -19,6 +19,7 @@ date_created: '2025-03-30T05:44:14.867Z'
 tags:
   - Software-Development
   - Frameworks
+url: 'https://replicache.dev/replicache.dev'
 ---
 
 
@@ -76,5 +77,5 @@ tags:
 
 [[Local-First Applications|Local-First]]
 [[Realtime Collaboration]]
-[[Web Frameworks|Framework]]
+[[concepts/Explainers for Tooling/Web Frameworks|Framework]]
 ![[Screenshot 2025-02-21 at 12.01.58 AM_Replicache--Hero.png]]

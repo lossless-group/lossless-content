@@ -1,6 +1,6 @@
 ---
-date_created: 2025-02-28
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
 title: Maintain Consistent Reporting Templates
 lede: Brief description of the prompt functionality and purpose
 date_authored_initial_draft: 2025-04-10
@@ -9,12 +9,13 @@ at_semantic_version: 0.0.0.1
 status: To-Prompt
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
+image_prompt: "A reporting dashboard with consistent templates, featuring tables, charts, and structured summary cards. Visuals include template icons, alignment guides, and a sense of organized, repeatable reporting workflows."
+banner_image: "https://img.recraft.ai/kSPv35K6mZpn2JdZEL0XjSfHFgCOIXSVoN8WKDqtO5I/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/f9e0f647-7a67-4428-863a-080617ef1b9b"
+site_uuid: b8994593-83f1-4adb-accb-c475b6a70e4b
 tags:
   - Workflow
 authors:
   - Michael Staton
-image_prompt: "A reporting dashboard with consistent templates, featuring tables, charts, and structured summary cards. Visuals include template icons, alignment guides, and a sense of organized, repeatable reporting workflows."
-banner_image: https://img.recraft.ai/kSPv35K6mZpn2JdZEL0XjSfHFgCOIXSVoN8WKDqtO5I/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/f9e0f647-7a67-4428-863a-080617ef1b9b
 ---
 
 ### Single Operation Process Report

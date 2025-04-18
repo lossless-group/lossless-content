@@ -17,6 +17,7 @@ tags:
   - Databases
   - Backend-As-A-Service
   - Check-It-Out
+url: 'https://www.outerbase.com/'
 ---
 
 
@@ -72,7 +73,7 @@ tags:
 
 
 
-Turns any [[Databases]] into a [[Database Apps|Database App]].
+Turns any [[concepts/Explainers for Tooling/Databases]] into a [[concepts/Explainers for Tooling/Database Apps|Database App]].
 
 
 

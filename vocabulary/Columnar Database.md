@@ -6,7 +6,7 @@ date_created: 2025-04-06
 
 [[Cassandra]]
 
-It is a rethink of how [[Databases]] work given the scale and speed demands of [[Big Data]]. 
+It is a rethink of how [[concepts/Explainers for Tooling/Databases]] work given the scale and speed demands of [[Big Data]]. 
 
 "A columnar database stores data vertically, optimizing for analytical queries and large-scale aggregations by organizing information into columns. In contrast, a relational database, a broader category, organizes data in tables with rows and columns, emphasizing the relationships between tables." [^0dd258]
 

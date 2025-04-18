@@ -1,17 +1,19 @@
 ---
 title: CSS Animation System
-lede: "A comprehensive guide to the standardized animation and transition system"
+lede: A comprehensive guide to the standardized animation and transition system
 date_authored_initial_draft: 2025-04-12
 date_authored_current_draft: 2025-04-12
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
 at_semantic_version: 0.0.1.0
+publish: true
 status: Implemented
 augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
 category: Specification
-date_created: 2025-04-12
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+site_uuid: e2940d5c-3e5a-4a06-bc7d-c5d0c6bf0ccc
 tags:
   - CSS-Architecture
   - Animation

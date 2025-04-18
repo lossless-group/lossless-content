@@ -80,7 +80,7 @@ tags:
 
 
 
-An [[App Builder]], focused on [[Visual Software Development]].
+An [[App Builder]], focused on [[concepts/Visual Software Development]].
 
 
 https://www.youtube.com/live/MgAPAl20hDM?si=0JIGAk1lAWRhjmSU

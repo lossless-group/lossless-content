@@ -1,5 +1,5 @@
 
-Maintained by the [[Design]] team based in Copenhagen, reporting to [[Hector Mejia]].  The [[Single Point of Contact]] is [[Troels Villumsen]]. 
+Maintained by the [[Design]] team based in Copenhagen, reporting to [[Hector Mejia]].  The [[concepts/Single Point of Contact]] is [[Troels Villumsen]]. 
 
 The [[Life Design System]] is [available as a package on npm at this link](https://www.npmjs.com/package/@laerdal/life-react-components?activeTab=readme), and documented in [[Storybook]] at [this link](https://laerdal-components-storybook.azurewebsites.net/?path=/docs/components-accordion-accordionmenu--documentation).
 

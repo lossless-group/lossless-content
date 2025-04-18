@@ -84,7 +84,7 @@ https://youtu.be/e7qvd2bOITc?si=RmqPAEhUk6F4-Qrd
 
 https://youtu.be/0pGxoubWI6s?si=i_PDvzO-oGJIcSko
 
-An organization that researches, develops, and publishes [[Large Language Models]]. Run by [[Sam Altman]], funded primarily by [[Organizations/Microsoft]]
+An organization that researches, develops, and publishes [[Large Language Models]]. Run by [[Sam Altman]], funded primarily by [[organizations/Microsoft]]
 
 Here is a timeline of OpenAI's major model releases, their features, and use cases:
 

@@ -2,7 +2,7 @@
 url: https://reproducible-builds.org/
 ---
 [[Porrfor]]
-[[Organizations/Nix]]
+[[organizations/Nix]]
 [[Docker]]
 [[ContainerD]]
 

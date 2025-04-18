@@ -13,6 +13,7 @@ date_modified: '2025-04-12'
 date_created: 2025-03-30T00:00:00.000Z
 tags:
   - Creative
+url: 'https://affinity.serif.com/en-us/'
 ---
 
 
@@ -44,7 +45,7 @@ allowfullscreen
 ></iframe>
 Can we? [^7c9715]
 
-##### [[Affinity]] Designer keeps [[Release Notes]]
+##### [[Affinity]] Designer keeps [[concepts/Release Notes]]
 ![[20250220_Affinity--Release-Notes.jpeg]] [^9b01e3]
 
 

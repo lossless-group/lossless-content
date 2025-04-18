@@ -8,6 +8,6 @@ aliases:
   - SSR
 ---
 
-A [[Web Frameworks|Web Framework]] architecture.
+A [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]] architecture.
 
 Exemplified by [[Nuxt.js]] and [[NEXT.js]].

@@ -3,7 +3,7 @@ aliases:
   - TDD
 ---
 
-> [!NOTE] [[Poe AI]] explains [[Test-Driven Development]]
+> [!NOTE] [[Poe AI]] explains [[concepts/Test-Driven Development]]
 > ### **What Is Test-Driven Development (TDD)?**
 > 
 > Test-Driven Development (TDD) is a software development methodology where tests are written **before** writing the actual implementation code. It follows a strict cycle, often referred to as the **Red-Green-Refactor Cycle**:
@@ -57,7 +57,7 @@ aliases:
 > 
 > ---
 > 
-> ### **[[State of the Art]] Test Frameworks and Libraries in the React and JavaScript Ecosystem**
+> ### **[[concepts/State of the Art]] Test Frameworks and Libraries in the React and JavaScript Ecosystem**
 > 
 > The [[React]] and [[JavaScript]] ecosystem offers rich testing tools for various aspects of development, including unit, integration, end-to-end, and performance testing.
 > 

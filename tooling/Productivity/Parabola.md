@@ -17,6 +17,7 @@ tags:
   - Productivity
   - Advanced-Spreadsheets
   - Database-Apps
+url: 'https://parabola.io/'
 ---
 
 
@@ -45,5 +46,5 @@ tags:
 
 
 
-Somewhere between [[Advanced Spreadsheets|Advanced Spreadsheet]] and a [[Database Apps|Database App]]
+Somewhere between [[Advanced Spreadsheets|Advanced Spreadsheet]] and a [[concepts/Explainers for Tooling/Database Apps|Database App]]
 

@@ -19,7 +19,7 @@ Inception AI's diffusion-based large language model (DLM) boasts impressive perf
 
 * Rapid text generation: DLMs can achieve more than 1,000 tokens per second, a significant speed improvement if validated[2].
 * Efficient [[Graphics Processing Units|GPU]] utilization: The parallel processing approach allows for better use of GPU resources, potentially democratizing access to advanced AI capabilities[1].
-* Competitive performance: Inception's "small" coding model reportedly rivals [[OpenAI]] GPT-4o mini, while their "mini" model surpasses small open-source models like [[Organizations/Meta]]  Llama 3.1 8B[2].
+* Competitive performance: Inception's "small" coding model reportedly rivals [[OpenAI]] GPT-4o mini, while their "mini" model surpasses small open-source models like [[organizations/Meta]]  Llama 3.1 8B[2].
 
 These performance gains position Inception's DLM as a potential game-changer for applications requiring real-time processing and large-scale deployments, attracting interest from Fortune 100 companies seeking to overcome AI latency and speed bottlenecks[1].
 

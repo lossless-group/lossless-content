@@ -1,6 +1,6 @@
 ---
 title: Ask a Model API to Perform a Task via API
-lede: "Guidelines for making API calls to LLM services like Claude, GPT-4, and Groq"
+lede: Guidelines for making API calls to LLM services like Claude, GPT-4, and Groq
 date_authored_initial_draft: 2025-04-14
 date_authored_current_draft: 2025-04-14
 date_authored_final_draft: null
@@ -10,8 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-04-14
-date_modified: 2025-04-14
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A script editor UI for making AI model API requests, with code snippets, API endpoints, and a preview of structured responses. Visuals include glowing neural network icons, request arrows, and a sense of technical automation."
+banner_image: "https://img.recraft.ai/nV0xwsrd531dHzIZ-cCGEIReAdz_n6L8YQGXYncBmfc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/51d48d5b-2e54-4e88-8c3d-4fa9dc385c3f"
+site_uuid: 2c903f2a-b144-48f1-a508-781bde9d6760
 tags:
   - Workflow
   - Model-APIs
@@ -19,8 +22,6 @@ tags:
   - LLM-Services
 authors:
   - Michael Staton
-image_prompt: "A script editor UI for making AI model API requests, with code snippets, API endpoints, and a preview of structured responses. Visuals include glowing neural network icons, request arrows, and a sense of technical automation."
-banner_image: https://img.recraft.ai/nV0xwsrd531dHzIZ-cCGEIReAdz_n6L8YQGXYncBmfc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/51d48d5b-2e54-4e88-8c3d-4fa9dc385c3f
 ---
 
 # Inputs

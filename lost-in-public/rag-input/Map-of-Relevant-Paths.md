@@ -10,7 +10,9 @@ date_modified: 2025-04-12
 This is a complex, loosely coupled monorepo with 12 submodules. Path structure must be strictly respected:
 
 - `/content/` - Root-level content directory (NOT inside site/)
+- `/content/reports/` - Reports always go here
 - `/site/` - Astro project with its own internal structure
+- `/tidyverse/` - Tidyverse submodule with its own internal structure\
 - Other submodules with their own internal structures
 
 NEVER create files in incorrect locations or mirror directories across submodules.
@@ -88,6 +90,10 @@ ALWAYS verify the correct path before creating or modifying files.
   - `scripts/` - One-off scripts for the observer
     - Place all tidyverse-related scripts here
 
+## Submodule Conventions
+
+*   **`tidyverse`**: All scripts or code intended to clean, enforce consistency, or assert data integrity across content and data files should reside within this submodule.
+
 ## Important Rules
 1. NEVER create directories without explicit permission
 2. NEVER duplicate type definitions
@@ -104,3 +110,4 @@ ALWAYS verify the correct path before creating or modifying files.
 7. NEVER modify frontmatter in content files without using the observer system
 8. ALWAYS double-check paths when creating new files - DO NOT confuse `/content/` (root) with `/site/src/content/` (Astro)
 9. ALWAYS place session logs in `/content/lost-in-public/sessions/`, NOT in `/rag-input/`
+10. ALWAYS place scripts for data cleaning and consistency enforcement in the 'tidyverse' submodule.

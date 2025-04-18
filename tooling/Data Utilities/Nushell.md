@@ -14,6 +14,7 @@ date_created: '2025-03-30T05:44:14.848Z'
 tags:
   - Data-Utilities
   - Terminal-Emulators
+url: 'https://www.nushell.sh/'
 ---
 
 
@@ -27,7 +28,7 @@ tags:
 
 
 
-A [[Terminal Emulators]] that helps with [[Data Analysis]].
+A [[concepts/Explainers for Tooling/Terminal Emulators]] that helps with [[Data Analysis]].
 
 https://youtu.be/KF5dtxVsn1E?si=Ixy9gw9vpL1siEBo
 

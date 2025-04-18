@@ -4,7 +4,7 @@ site_uuid: 09ff1496-e5e9-426f-b7e0-30068673cd7b
 date_created: 2025-04-06
 ---
 
-The [[State of the Art]] problem with [[Web Frameworks|Web Frameworks]]
+The [[concepts/State of the Art]] problem with [[concepts/Explainers for Tooling/Web Frameworks|Web Frameworks]]
 
 > [!NOTE] AI Explains [[State Management]]
 > ### **What is State Management in Web Applications?**
@@ -22,7 +22,7 @@ The [[State of the Art]] problem with [[Web Frameworks|Web Frameworks]]
 > 
 > ### **Why Is State Management a Challenge for Scaling Applications?**
 > 
-> As web applications grow in complexity, in [[State of the Art]] software development, managing the state becomes increasingly difficult. Here’s why:
+> As web applications grow in complexity, in [[concepts/State of the Art]] software development, managing the state becomes increasingly difficult. Here’s why:
 > 
 > #### 1. **Multiple Sources of Truth:**
 > 

@@ -16,6 +16,7 @@ date_created: 2025-03-30T00:00:00.000Z
 tags:
   - Creative
   - Design-Tools
+url: 'https://www.figma.com/'
 ---
 
 
@@ -30,7 +31,7 @@ tags:
 
 [[Realtime Collaboration]]
 
-##### [[Tooling/Creative/Figma]] does [[Release Notes]] on [[YouTube]]
+##### [[Tooling/Creative/Figma]] does [[concepts/Release Notes]] on [[YouTube]]
 <iframe 
 style="aspect-ratio:16/9;width:100%;height:auto" 
 src="https://www.youtube.com/embed/LuUuzCVaLLk?controls=0" 

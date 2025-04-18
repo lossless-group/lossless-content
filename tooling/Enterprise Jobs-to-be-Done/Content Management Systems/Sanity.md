@@ -34,7 +34,7 @@ tags:
 
 
 
-A [[Headless CMS]],  relies on a stable [[Content Model]]
+A [[concepts/Explainers for Tooling/Headless CMS]],  relies on a stable [[concepts/Content Model]]
 
 
 https://youtu.be/WVRLCaRfg8E?si=UKczBbGEXub7gNi-

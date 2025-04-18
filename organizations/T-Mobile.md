@@ -1,5 +1,5 @@
 ---
 url: https://www.t-mobile.com/
 ---
-Similar to [[Organizations/Starlink]] by [[SpaceX]]
+Similar to [[organizations/Starlink]] by [[SpaceX]]
 

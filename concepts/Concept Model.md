@@ -1,6 +1,6 @@
 According to [[Poe AI]]:
 
-[[The Lossless Group]] proposes a higher-level abstraction on top of a data model and a content model.  We call this the [[Concept Model]].
+[[The Lossless Group]] proposes a higher-level abstraction on top of a data model and a content model.  We call this the [[concepts/Concept Model]].
 
 > [!AI explains data models and content models]
 > Having a **coherent data model** and **content model** is foundational for an innovative company looking to scale effectively. These models serve as the "blueprints" for how data and content are structured, stored, and accessed within systems. By organizing and standardizing data and content, companies can drive efficiency, maintain consistency, and enable agility as they grow, innovate, and expand operations.

@@ -14,6 +14,7 @@ date_created: '2025-03-30T05:44:14.865Z'
 tags:
   - DevOps
   - Software-Development
+url: 'https://jam.dev'
 ---
 
 
@@ -28,5 +29,5 @@ tags:
 
 
 
-[[Developer Tools]], [[Developer Experience]], [[Bug Reporting]]
+[[Developer Tools]], [[concepts/Developer Experience]], [[Bug Reporting]]
 

@@ -14,6 +14,7 @@ date_created: '2025-03-31T20:44:50.515Z'
 tags:
   - Software-Development
   - Cloud-Infrastructure
+url: 'https://aws.amazon.com/lambda/'
 ---
 
 
@@ -74,6 +75,6 @@ tags:
 
 
 
-A feature of [[Amazon Web Services|AWS]], created by [[Organizations/Amazon]], a mainstay of [[Serverless]]
+A feature of [[Amazon Web Services|AWS]], created by [[organizations/Amazon]], a mainstay of [[Serverless]]
 
 2025, Jan 11. [⚡️ Mastering Serverless with Amazon Lambda: A Phoenix Guide](https://youtu.be/P8UY5c-rMXI?si=zwDL_US8JofJG5JJ) The Cloud Guru.  [[YouTube]].

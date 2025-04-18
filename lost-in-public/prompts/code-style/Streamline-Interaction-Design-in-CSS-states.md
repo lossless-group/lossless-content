@@ -1,6 +1,6 @@
 ---
 title: Streamline Interaction Design in CSS States
-lede: "Create consistent, maintainable, and extensible patterns for CSS animations and transitions across components"
+lede: Create consistent, maintainable, and extensible patterns for CSS animations and transitions across components
 date_authored_initial_draft: 2025-04-12
 date_authored_current_draft: 2025-04-12
 date_authored_final_draft: null
@@ -10,8 +10,12 @@ at_semantic_version: 0.0.0.1
 status: Prompted
 augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
 category: Prompts
-date_created: 2025-04-12
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A seamless flow of interactive UI elements demonstrating smooth CSS transitions and animations, with hover effects and consistent design patterns."
+banner_image: "https://img.recraft.ai/eFEtgxgZ8z2yWR30eK4NWFA1y4cttaOpLZH2yWIACSM/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/bbdcad6a-ba52-45b4-93a1-f4837777aae3"
+publish: true
+site_uuid: c0184e74-3120-41ed-9204-a69b7bd42afa
 tags:
   - Code-Style
   - CSS-Architecture
@@ -22,9 +26,6 @@ tags:
   - User-Experience
 authors:
   - Michael Staton
-image_prompt: "A seamless flow of interactive UI elements demonstrating smooth CSS transitions and animations, with hover effects and consistent design patterns."
-banner_image: https://img.recraft.ai/eFEtgxgZ8z2yWR30eK4NWFA1y4cttaOpLZH2yWIACSM/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/bbdcad6a-ba52-45b4-93a1-f4837777aae3
-publish: true
 ---
 
 # Context

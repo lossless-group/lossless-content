@@ -17,6 +17,7 @@ tags:
   - DevOps
   - Developer-Experience
   - Software-Development
+url: 'https://ghostty.org'
 ---
 
 
@@ -30,7 +31,7 @@ tags:
 
 
 
-An [[Open Source]] [[Terminal Emulators]]
+An [[Open Source]] [[concepts/Explainers for Tooling/Terminal Emulators]]
 
 https://youtu.be/Elh8pvXHVxM?si=3dWPYAbb0a8Ij1vs
 

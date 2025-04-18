@@ -30,7 +30,7 @@ tags:
 
 
 
-A [[Web Frameworks|Web Framework]] that is the market standard for [[Server Side Rendering|SSR]] architecture, based off of [[React]] and maintained by [[Vercel]].
+A [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]] that is the market standard for [[Server Side Rendering|SSR]] architecture, based off of [[React]] and maintained by [[Vercel]].
 
 Here's a good background on [[YouTube]]: [The story of NextJS](https://youtu.be/BILxV_vrZO0?si=CMFamcWFfIRH1v1n).
 

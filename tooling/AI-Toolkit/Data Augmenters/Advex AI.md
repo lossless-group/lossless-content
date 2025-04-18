@@ -303,5 +303,5 @@ tags:
 
 [[Computer Vision]]
 
-[[Synthetic Data]]
+[[concepts/Explainers for AI/Synthetic Data]]
 

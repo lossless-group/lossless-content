@@ -11,7 +11,7 @@ https://youtu.be/BJatgOiiht4?si=MYhxOL7C1_c6iB0_
 
 Developer Experience (DX) refers to the overall experience of developers as they interact with tools, processes, and environments to build, test, and deploy software. It focuses on reducing friction, streamlining workflows, and creating an efficient, enjoyable work environment for developers[1][3][8].
 
-[[Organizations/Perplexity AI]] explains [[Developer Experience]]
+[[organizations/Perplexity AI]] explains [[concepts/Developer Experience]]
 ### Why Startups and Innovative Companies Focus on DX
 1. **Improved Productivity**: A positive DX minimizes inefficiencies, enabling developers to focus on solving problems and delivering high-quality code faster[1][4].
 2. **Talent Attraction and Retention**: Companies with strong DX are more appealing to top talent, reducing turnover and recruitment costs[3][11].

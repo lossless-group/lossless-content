@@ -29,7 +29,7 @@ https://youtu.be/zSn8il5Mo5s?si=de9AGdzGmCxzXtiJ
 
 | Relational        | Documenent      | Graph          | Vector                                                    | Multi-Model                                                         | Big Table     |
 | ----------------- | --------------- | -------------- | --------------------------------------------------------- | ------------------------------------------------------------------- | ------------- |
-| [[Postgres]]      | [[MongoDB]]     | [[Neo4j]]      | [[Tooling/AI-Toolkit/Knowledge AI/Qdrant]]                | [[SurrealDB]]                                                       | [[Cassandra]] |
+| [[Postgres]]      | [[Tooling/Enterprise Jobs-to-be-Done/MongoDB]]     | [[Neo4j]]      | [[Tooling/AI-Toolkit/Knowledge AI/Qdrant]]                | [[SurrealDB]]                                                       | [[Cassandra]] |
 | - [[Xata]]        | [[Redis]]       | [[JanusGraph]] | [[Milvus]]                                                | [[ArangoDB]]                                                        |               |
 | - [[Supabase]]    | [[Aerospike]]   | [[Dgraph]]     | [[ChromaDB]]                                              | [[Fauna]]                                                           |               |
 | - [[EdgeDB]]      | [[Couchbase]]   | [[Graphwise]]  | [[Tooling/Software Development/Databases/Qdrant\|Qdrant]] | [[tooling/Software Development/Databases/SingleStore\|SingleStore]] |               |

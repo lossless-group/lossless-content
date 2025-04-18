@@ -1,6 +1,6 @@
 ---
 title: Move styles from Tailwind to CSS using our styles
-lede: "We use Tailwind for speed and compact readability, but as we move to Astro, we should use CSS and try to maintain our CSS architecture"
+lede: We use Tailwind for speed and compact readability, but as we move to Astro, we should use CSS and try to maintain our CSS architecture
 date_authored_initial_draft: 2025-04-12
 date_authored_current_draft: 2025-04-12
 date_authored_final_draft: null
@@ -10,8 +10,12 @@ at_semantic_version: 0.0.0.1
 status: Prompted
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-04-12
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A split-screen showing Tailwind utility classes transforming into organized CSS files, with a modern interface and visual cues for maintainability and style."
+banner_image: "https://img.recraft.ai/vrGplHqRSAYwblHd-1SyePMK0Bom5oTNmDHkIQmZsDU/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/e0e6fbe0-96b3-4393-a958-76ac30188cfb"
+publish: true
+site_uuid: f08a64f3-f771-472a-8845-b400d7db9ab7
 tags:
   - Code-Style
   - Component-based Architecture
@@ -19,9 +23,6 @@ tags:
   - Component-Management
 authors:
   - Michael Staton
-image_prompt: "A split-screen showing Tailwind utility classes transforming into organized CSS files, with a modern interface and visual cues for maintainability and style."
-banner_image: https://img.recraft.ai/vrGplHqRSAYwblHd-1SyePMK0Bom5oTNmDHkIQmZsDU/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/e0e6fbe0-96b3-4393-a958-76ac30188cfb
-publish: true
 ---
 
 # Context

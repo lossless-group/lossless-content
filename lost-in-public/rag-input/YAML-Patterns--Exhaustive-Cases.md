@@ -1592,7 +1592,7 @@ PROPERTY SPECIFIC RULES
 
 | CORRECT                                                              | INCORRECT                                                          | RULE                                                                                               |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| product_of: '[[Organizations/Tencent\|Tencent]]'                     | product_of: [[Organizations/Tencent\|Tencent]]                     | Backlinks must have one set of single mark quote delimiters surrounding the backlink in YAML       |
+| product_of: '[[organizations/Tencent\|Tencent]]'                     | product_of: [[organizations/Tencent\|Tencent]]                     | Backlinks must have one set of single mark quote delimiters surrounding the backlink in YAML       |
 | og_last_fetch: 2025-03-24T06:28:27.097Z                              | og_last_fetch: '2025-03-24T06:28:27.097Z'                          | Timestamps must be bare with no quote marks on either side. Timestamps must be in ISO 8601 format. |
 | title: 'Banani \| Generate UI from Text \| AI Copilot for UI Design' | title: Banani \| Generate UI from Text \| AI Copilot for UI Design | Title value should have one set of single mark quotes surrounding the string.                      |
 | og_error_message: 'Screenshot fetch error: HTTP error! status: 500'  | og_error_message: Screenshot fetch error: HTTP error! status: 500  | Error messages should be surrounded with single mark quote delimiters                              |
@@ -1607,7 +1607,7 @@ PROPERTY SPECIFIC PREFERENCES
 
 | CORRECT                                      | INCORRECT                                       | RULE                                                                                                                                         |
 | -------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| parent_org: '[[Organizations/Adobe]]'                      | `parent_org: [[Adobe]]`                         | Backlinks must have a single mark quote delimiter surrounding the double brackets.                                                           |
-| parent_org: '[[Organizations/Adobe\|Adobe]]' | `parent_org: [[Adobe]]`                         | Backlinks should have their relative path back to the root content directory, then a '\|' pipe character, then the fileName without the .md. |
-| parent_org: '[[Organizations/Adobe\|Adobe]]' | `parent_org: [[Organizations/Adobe\|Adobe.md]]` | Backlinks should have their relative path back to the root content directory, then a '\|' pipe character, then the fileName without the .md. |
+| parent_org: '[[organizations/Adobe]]'                      | `parent_org: [[Adobe]]`                         | Backlinks must have a single mark quote delimiter surrounding the double brackets.                                                           |
+| parent_org: '[[organizations/Adobe\|Adobe]]' | `parent_org: [[Adobe]]`                         | Backlinks should have their relative path back to the root content directory, then a '\|' pipe character, then the fileName without the .md. |
+| parent_org: '[[organizations/Adobe\|Adobe]]' | `parent_org: [[Organizations/Adobe\|Adobe.md]]` | Backlinks should have their relative path back to the root content directory, then a '\|' pipe character, then the fileName without the .md. |
 

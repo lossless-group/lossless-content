@@ -10,8 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Prompt
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-02-03
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+banner_image: "https://img.recraft.ai/iJXP-SjpRYCx0S5UmTA0BUzGtZGotTBOU8fR8gxzsK0/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/0a218f4f-de5e-4131-a802-9da4d7b1909c"
+image_prompt: "A developer interacting with an API dashboard to fetch Open Graph data, with code snippets, network request icons, and browser previews of enriched link cards. The scene emphasizes data flow, connectivity, and real-time web enhancement."
+site_uuid: 0d30049e-c655-41e8-a112-6a84a1854f0b
 tags:
   - Open-Graph
   - API-Integration
@@ -19,15 +22,73 @@ tags:
   - Data-Integrity
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/iJXP-SjpRYCx0S5UmTA0BUzGtZGotTBOU8fR8gxzsK0/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/0a218f4f-de5e-4131-a802-9da4d7b1909c
-image_prompt: "A developer interacting with an API dashboard to fetch Open Graph data, with code snippets, network request icons, and browser previews of enriched link cards. The scene emphasizes data flow, connectivity, and real-time web enhancement."
 ---
 
 # OpenGraph Data Fetching Script Implementation Guide
 
 Create a Node.js script (`runFetchOpenGraphData.cjs`) that processes Markdown files to fetch and update OpenGraph metadata and screenshots. This guide provides detailed specifications for implementing a robust, error-tolerant system.
 
-Use [[Lost in Public/prompts/workflow/Meticulous-Constraints-for-Every-Prompt|Meticulous-Constraints-for-Every-Prompt]] and [[Lost in Public/prompts/workflow/Maintain-Consistent-Reporting-Templates|Maintain-Consistent-Reporting-Templates]] for the Single Operation Process Report.
+Use [[lost-in-public/prompts/workflow/Meticulous-Constraints-for-Every-Prompt|Meticulous-Constraints-for-Every-Prompt]] and [[lost-in-public/prompts/workflow/Maintain-Consistent-Reporting-Templates|Maintain-Consistent-Reporting-Templates]] for the Single Operation Process Report.
+
+## Model Responses:
+```json
+{
+  "hybridGraph": {
+    "title": "Example Title",
+    "description": "Example Description",
+    "type": "Example Type",
+    "image": "https://example.com/image.png",
+    "url": "https://example.com",
+    "favicon": "https://example.com/favicon.ico",
+    "site_name": "Example Site Name",
+    "articlePublishedTime": "2023-03-23T00:00:00.000Z",
+    "articleAuthor": "https://example.com/author"
+  },
+  "openGraph": {
+    "title": "Example Title",
+    "description": "Example Description",
+    "type": "Example Type",
+    "image": {
+      "url": "https://example.com/image.png"
+    },
+    "url": "https://example.com",
+    "site_name": "Example Site Name",
+    "articlePublishedTime": "2023-03-23T00:00:00.000Z",
+    "articleAuthor": "https://example.com/author"
+  },
+  "htmlInferred": {
+    "title": "Example Title",
+    "description": "Example Description",
+    "type": "Example Type",
+    "image": "https://example.com/image.png",
+    "url": "https://example.com",
+    "favicon": "https://example.com/favicon.ico",
+    "site_name": "Example Site Name",
+    "images": [
+      "https://example.com/image1.png",
+      "https://example.com/image2.png",
+      "https://example.com/image3.png",
+      "https://example.com/image4.png"
+    ]
+  },
+  "requestInfo": {
+    "redirects": 1,
+    "host": "https://example.com",
+    "responseCode": 200,
+    "cache_ok": true,
+    "max_cache_age": 432000000,
+    "accept_lang": "en-US,en;q=0.9",
+    "url": "https://example.com",
+    "full_render": false,
+    "use_proxy": false,
+    "use_superior" : false,
+    "responseContentType": "text/html; charset=utf-8"
+  },
+  "accept_lang": "en-US,en;q=0.9",
+  "is_cache": false,
+  "url": "https://example.com"
+}
+```
 
 ## Core Components
 

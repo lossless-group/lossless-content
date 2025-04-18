@@ -10,12 +10,14 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Documentation
-date_modified: 2025-04-12
-date_created: 2025-04-09
-tags: [Documentation-Standards, Version-Control, Change-Management, Content-Organization]
+date_modified: 2025-04-16
+date_created: 2025-04-16
+banner_image: "https://img.recraft.ai/RcRXJ9AZIMRi31U7_tpXn3rs20EkWZCA3UbIqbDO3jc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a1ab7b7e-fa76-4413-ae97-696f3a9eab94"
+site_uuid: 162f8c5c-ee3f-448d-97af-459cb9cee111
+tags:
+  - Workflow
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/RcRXJ9AZIMRi31U7_tpXn3rs20EkWZCA3UbIqbDO3jc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a1ab7b7e-fa76-4413-ae97-696f3a9eab94
 ---
 
 # Purpose  # High-level goal

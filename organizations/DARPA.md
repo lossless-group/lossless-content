@@ -1,5 +1,5 @@
 
-> [!NOTE] AI Explains ([[Organizations/Mistral]])
+> [!NOTE] AI Explains ([[organizations/Mistral]])
 > **DARPA's Role in Sparking New Industries and Innovations**
 > 
 > The Defense Advanced Research Projects Agency (DARPA), established in 1958, has played a pivotal role in driving technological advancements and sparking new industries. Here’s a timeline highlighting some of DARPA's most significant contributions:

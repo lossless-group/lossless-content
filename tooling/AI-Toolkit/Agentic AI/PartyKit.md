@@ -114,7 +114,7 @@ tags:
 
 [[Content Delivery Networks]]
 
-[[Opsless Deployment Providers]]
+[[concepts/Opsless Deployment Providers]]
 
 https://youtu.be/8cuCtal0DkU?si=ru9saYS88LNgli8O
 

@@ -16,6 +16,7 @@ tags:
   - Web-Frameworks
   - Software-Development
   - Frameworks
+url: 'https://www.djangoproject.com/'
 ---
 
 
@@ -29,4 +30,4 @@ tags:
 
 
 
-[[Python]] [[Web Frameworks|Web Framework]]
+[[Python]] [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]]

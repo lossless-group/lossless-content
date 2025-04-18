@@ -30,4 +30,4 @@ og_screenshot_url: >-
 
 
 
-A [[Marketing Automation]] system owned and maintained by [[Organizations/Oracle]].
+A [[Marketing Automation]] system owned and maintained by [[organizations/Oracle]].

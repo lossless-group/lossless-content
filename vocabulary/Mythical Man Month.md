@@ -18,7 +18,7 @@ Fred Brooks’ 1975 book, *The Mythical Man-Month*, is a seminal work in softwar
   - **Communication Overhead**: As team size increases, the number of communication channels grows exponentially ($$n(n-1)/2$$).
   - **Task Partitioning**: Many programming tasks are sequential and cannot be divided among multiple people.
 
-#### **2. [[Conceptual Integrity]]**
+#### **2. [[concepts/Conceptual Integrity]]**
 - Software design should reflect a unified vision, which is best achieved when a small, skilled team or a single architect leads the design process. "Design by committee" often results in inconsistent systems.
 
 #### **3. The Surgical Team**

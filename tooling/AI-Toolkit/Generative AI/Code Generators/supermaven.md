@@ -17,6 +17,7 @@ tags:
   - Generative-AI
   - Code-Generators
   - Gen-Ai-Code
+url: 'https://supermaven.com/'
 ---
 
 
@@ -85,6 +86,6 @@ tags:
 
 https://youtu.be/JhmdYN1wbG0?si=0VIzTND-2TWWQtJL
 
-[[Code Generators]], [[Visual Studio Code|VS Code]] [[Plug-ins,  Add-ons,  Extensions|Plug-in]]
+[[concepts/Explainers for AI/Code Generators]], [[Visual Studio Code|VS Code]] [[Plug-ins,  Add-ons,  Extensions|Plug-in]]
 
 Used as the default prediction engine for [[Pear IDE]]

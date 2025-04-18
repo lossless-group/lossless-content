@@ -14,6 +14,7 @@ date_created: '2025-03-30T05:44:14.859Z'
 tags:
   - Software-Development
   - Cloud-Infrastructure
+url: 'https://repocloud.io/'
 ---
 
 
@@ -73,7 +74,7 @@ tags:
 
 
 
-[[Opsless Deployment Providers]]
+[[concepts/Opsless Deployment Providers]]
 [[One-Click Deployments]]
 [[on Cloud Infrastructure]]
 

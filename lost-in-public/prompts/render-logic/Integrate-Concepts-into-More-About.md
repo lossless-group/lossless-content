@@ -3,20 +3,22 @@ title: Integrate the Concepts series into the "more-about" routing
 lede: Enhance the "more-about" path with Concepts as well as Vocabulary
 date_authored_initial_draft: 2025-04-12
 date_authored_current_draft: 2025-04-12
-date_authored_final_draft: 
-date_first_published: 
+date_authored_final_draft: null
+date_first_published: null
 date_last_updated: 2025-04-12
 at_semantic_version: 0.0.0.2
 status: Implemented
 augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
 category: Prompts
-date_created: 2025-04-12
-date_modified: 2025-04-12
-tags: [Render-Logic, Content-Display, Versatile-Routing]
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A digital knowledge graph connecting concepts to a 'More About' section in a content system. Visuals include interconnected nodes, concept icons, and a web interface showing seamless integration of information. The mood is exploratory, organized, and educational."
+banner_image: "https://img.recraft.ai/octV0xANl3WLOpUFYHZFri5e_q2bQm0KhmD3QKzGhSs/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/5fa5b70f-790e-4cda-afa6-9151528ee9b6"
+site_uuid: 5616f085-c931-4c4d-88e1-166ec13b1a4c
+tags:
+  - Render-Logic
 authors:
   - Michael Staton
-image_prompt: "A digital knowledge graph connecting concepts to a 'More About' section in a content system. Visuals include interconnected nodes, concept icons, and a web interface showing seamless integration of information. The mood is exploratory, organized, and educational."
-banner_image: https://img.recraft.ai/octV0xANl3WLOpUFYHZFri5e_q2bQm0KhmD3QKzGhSs/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/5fa5b70f-790e-4cda-afa6-9151528ee9b6
 ---
 
 # Context
@@ -32,12 +34,12 @@ Render the `content/concepts` markdown files through the same `localhost:4321/mo
 `site/src/components/articles/OneArticleOnPage.astro`
 
 ### Analogous Code:
-Related to the [[Lost in Public/prompts/user-interface/Create-a-Changelog-UI|Create-a-Changelog-UI]] where we were able to render the Content Changelog and the Code Changelog on the same set of pages with the same set of components.  
+Related to the [[lost-in-public/prompts/user-interface/Create-a-Changelog-UI|Create-a-Changelog-UI]] where we were able to render the Content Changelog and the Code Changelog on the same set of pages with the same set of components.  
 
 
 ### Content Development
 
-The content team develops content in Markdown files, and is increasingly using AI [[Vocabulary/Large Language Models|Large Language Models]] to generate content.  See [[Lost in Public/prompts/workflow/Create-a-Content-Generation-Engine|Create-a-Content-Generation-Engine]]. 
+The content team develops content in Markdown files, and is increasingly using AI [[Vocabulary/Large Language Models|Large Language Models]] to generate content.  See [[lost-in-public/prompts/workflow/Create-a-Content-Generation-Engine|Create-a-Content-Generation-Engine]]. 
 
 Two of the content streams are Vocabulary and Concepts.  These are effectively the same, and would have the same rough YAML metadata, and the same UI.  They are only differentiated and in different directories because 
 - the Content team believes concepts are both more important to develop and communicate, and, 
@@ -45,9 +47,9 @@ Two of the content streams are Vocabulary and Concepts.  These are effectively t
 - Vocabulary really is just that -- when the content team writes content and they use a technical term or a trendy word, they want to define it in the rendered content so that the reader doesn't need to go look it up elsewhere.  They can just "double-click" (or even hover to see). 
 
 ### Versatile Content Rendering
-We have worked on this before, most robustly codified in [[Lost in Public/prompts/user-interface/Create-a-Reusable-Content-Collections-UI-Structure|Create-a-Reusable-Content-Collections-UI-Structure]]. 
+We have worked on this before, most robustly codified in [[lost-in-public/prompts/user-interface/Create-a-Reusable-Content-Collections-UI-Structure|Create-a-Reusable-Content-Collections-UI-Structure]]. 
 
-Related files include: [[Lost in Public/prompts/render-logic/Support-Dynamic-Information-Pages|Support-Dynamic-Information-Pages]], [[Lost in Public/prompts/render-logic/Conditional-Logic-for-Content|Conditional-Logic-for-Content]].
+Related files include: [[lost-in-public/prompts/render-logic/Support-Dynamic-Information-Pages|Support-Dynamic-Information-Pages]], [[lost-in-public/prompts/render-logic/Conditional-Logic-for-Content|Conditional-Logic-for-Content]].
 
 # Implementation Insights
 

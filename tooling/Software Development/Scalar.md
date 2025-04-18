@@ -14,6 +14,7 @@ date_created: '2025-03-30T05:44:14.874Z'
 tags:
   - Software-Development
   - Check-It-Out
+url: 'https://scalar.com/'
 ---
 
 
@@ -27,4 +28,4 @@ tags:
 
 
 
-[[Developer Experience]]
+[[concepts/Developer Experience]]

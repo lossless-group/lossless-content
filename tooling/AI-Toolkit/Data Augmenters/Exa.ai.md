@@ -14,6 +14,7 @@ date_created: '2025-03-30T05:44:14.826Z'
 tags:
   - AI-Toolkit
   - Data-Augmenters
+url: 'https://exa.ai'
 ---
 
 
@@ -296,5 +297,5 @@ tags:
 
 
 
-[[AI Powered Data Capture]]
+[[concepts/Explainers for AI/AI Powered Data Capture]]
 ![[Screenshot 2025-02-20 at 11.37.14 PM_Exa-AI--Hero.png]]

@@ -15,6 +15,7 @@ tags:
   - Productivity
   - Advanced-Documents
   - Networked-Notes
+url: 'https://anytype.io/'
 ---
 
 

@@ -8,4 +8,4 @@ aliases:
   - Software Development Kit
 ---
 
-![[Organizations/Nvidia#Nvidia SDK Manager]]
+![[organizations/Nvidia#Nvidia SDK Manager]]

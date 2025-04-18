@@ -66,7 +66,7 @@ tags:
 
 
 
-An [[Open Source]] [[Code Generators]]
+An [[Open Source]] [[concepts/Explainers for AI/Code Generators]]
 
 ```dataviewjs
 customJS.MacroGuide.helloWorld(dv);

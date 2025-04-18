@@ -72,7 +72,7 @@ tags:
 
 
 
-Skip is a [[Web Frameworks|Web Framework]] focused on the [[Back-End Engineering]], created and managed at [[Organizations/Meta]] and [[Organizations/Facebook]]
+Skip is a [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]] focused on the [[Back-End Engineering]], created and managed at [[organizations/Meta]] and [[organizations/Facebook]]
 
 
 ![[Screenshot 2025-01-16 at 1.13.25 PM_Skip--Hero.png]]

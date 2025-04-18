@@ -46,4 +46,4 @@ og_screenshot_url: >-
 
 
 
-[[Vocabulary/Virtual Machines|Virtual Machines]] on [[Organizations/Apple|Apple]] devices.
+[[Vocabulary/Virtual Machines|Virtual Machines]] on [[organizations/Apple|Apple]] devices.

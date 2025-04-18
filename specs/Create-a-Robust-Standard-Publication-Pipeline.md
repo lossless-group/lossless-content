@@ -4,6 +4,7 @@ lede: Technical specification for implementing a standardized publication pipeli
 status: Draft
 authors:
   - Michael Staton
+publish: true
 category: Technical Specifications
 tags:
   - Publication

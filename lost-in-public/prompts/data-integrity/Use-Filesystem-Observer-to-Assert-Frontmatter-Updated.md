@@ -1,6 +1,6 @@
 ---
 title: Frontmatter consistency through filesystem observer
-lede: "Leverage Node.js filesystem APIs to monitor content directories, automatically validate and update frontmatter based on templates"
+lede: Leverage Node.js filesystem APIs to monitor content directories, automatically validate and update frontmatter based on templates
 date_authored_initial_draft: 2025-03-29
 date_authored_current_draft: 2025-04-06
 date_authored_final_draft: null
@@ -10,8 +10,11 @@ at_semantic_version: 0.1.0.0
 status: Implemented
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-03-22
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A monitoring dashboard showing a filesystem observer tracking real-time frontmatter updates in Markdown files. Visuals include file icons, update notifications, and highlighted YAML metadata, conveying automation, accuracy, and oversight."
+banner_image: "https://img.recraft.ai/I6m8wFBHcyg_TX6pzO86LjvwUEP7ZALe5eLBK_3SGo8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/6c61a2ed-b4aa-4182-814f-475e859d7b77"
+site_uuid: 69332186-eed2-4b81-87ec-5aae40568f9f
 tags:
   - Frontmatter-Validation
   - File-Processing
@@ -20,8 +23,6 @@ tags:
   - Data-Integrity
 authors:
   - Michael Staton
-image_prompt: "A monitoring dashboard showing a filesystem observer tracking real-time frontmatter updates in Markdown files. Visuals include file icons, update notifications, and highlighted YAML metadata, conveying automation, accuracy, and oversight."
-banner_image: https://img.recraft.ai/I6m8wFBHcyg_TX6pzO86LjvwUEP7ZALe5eLBK_3SGo8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/6c61a2ed-b4aa-4182-814f-475e859d7b77
 ---
 
 ## Objective

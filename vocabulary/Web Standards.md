@@ -6,7 +6,7 @@ aliases:
   - Web Standard
 ---
 
-[[OpenSSL]]
+[[Emergent-Innovation/OpenSSL]]
 
 > [!NOTE] AI Explains, ([[Poe AI]])
 > ### **Primary Web Standards and Their Maintainers**
@@ -24,7 +24,7 @@ aliases:
 >     
 > - **Maintainer**:
 >     
->     - The **World Wide Web Consortium ([[Organizations/W3C]])** is the primary maintainer of HTML standards.
+>     - The **World Wide Web Consortium ([[organizations/W3C]])** is the primary maintainer of HTML standards.
 >     - **WHATWG (Web Hypertext Application Technology Working Group)** also plays a significant role in shaping HTML standards, focusing on a "living standard" approach for continuous updates.
 > - **Current Version**:  
 >     HTML5 is the current standard, which introduced features for multimedia, APIs, and improved semantic elements.
@@ -39,7 +39,7 @@ aliases:
 >     
 > - **Maintainer**:
 >     
->     - The **[[Organizations/W3C]]** maintains CSS standards through its **CSS Working Group**.
+>     - The **[[organizations/W3C]]** maintains CSS standards through its **CSS Working Group**.
 > - **Current Version**:  
 >     CSS3 is the latest major version, though it is modular, with various specifications like Flexbox, Grid, and CSS Variables being continuously updated.
 >     
@@ -53,7 +53,7 @@ aliases:
 >     
 > - **Maintainer**:
 >     
->     - **[[Organizations/ECMA International]]**, specifically **Technical Committee 39 (TC39)**, is responsible for maintaining and evolving ECMAScript.
+>     - **[[organizations/ECMA International]]**, specifically **Technical Committee 39 (TC39)**, is responsible for maintaining and evolving ECMAScript.
 > - **Current Version**:  
 >     ECMAScript 2023 (ES14) is the latest version, with annual updates introducing new features.
 >     
@@ -67,7 +67,7 @@ aliases:
 >     
 > - **Maintainer**:
 >     
->     - The **[[Organizations/Internet Engineering Task Force]] (IETF)** maintains HTTP standards through its **HTTP Working Group**.
+>     - The **[[organizations/Internet Engineering Task Force]] (IETF)** maintains HTTP standards through its **HTTP Working Group**.
 > - **Current Version**:  
 >     HTTP/3 is the latest version, which uses QUIC (a transport protocol) for faster and more secure connections.
 >     
@@ -165,7 +165,7 @@ aliases:
 >     
 > - **Maintainer**:
 >     
->     - **[[Organizations/ECMA International]]** standardized [[JSON]] in **ECMA-404**.
+>     - **[[organizations/ECMA International]]** standardized [[JSON]] in **ECMA-404**.
 > 
 > ---
 > 
@@ -209,7 +209,7 @@ aliases:
 >     
 > - **Maintainer**:
 >     
->     - The **[[Organizations/Unicode Consortium]]** develops and maintains Unicode standards.
+>     - The **[[organizations/Unicode Consortium]]** develops and maintains Unicode standards.
 > 
 > ---
 > 
@@ -231,15 +231,15 @@ aliases:
 >     
 >     - Responsible for ECMAScript (JavaScript) and JSON standards.
 >     - Website: [ecma-international.org](https://www.ecma-international.org)
-> 5. **[[Organizations/Unicode Consortium]]**:
+> 5. **[[organizations/Unicode Consortium]]**:
 >     
 >     - Maintains the Unicode standard for text encoding across languages.
 >     - Website: [unicode.org](https://www.unicode.org)
-> 6. **[[Organizations/Internet Corporation for Assigned Names and Numbers]] (ICANN)**:
+> 6. **[[organizations/Internet Corporation for Assigned Names and Numbers]] (ICANN)**:
 >     
 >     - Manages domain names, IP addresses, and DNS standards.
 >     - Website: [icann.org](https://www.icann.org)
-> 7. **[[Organizations/Khronos Group]]**:
+> 7. **[[organizations/Khronos Group]]**:
 >     
 >     - Develops open standards for graphics, compute, and media, such as WebGL and WebGPU.
 >     - Website: [khronos.org](https://www.khronos.org)

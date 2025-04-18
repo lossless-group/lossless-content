@@ -30,4 +30,4 @@ const completion = await client.chat.completions.create({
 console.log(completion.choices[0].message.content);
 ```
 
-Logged [[Organizations/Perplexity AI|Perplexity AI]] call and response. 
+Logged [[organizations/Perplexity AI|Perplexity AI]] call and response. 

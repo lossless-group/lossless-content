@@ -4,7 +4,7 @@ site_uuid: 8fdb2b4a-b9ec-4e07-b16c-97d34bf2b7e1
 date_created: 2025-04-06
 ---
 
-A dominant paradigm for most modern [[Web Frameworks]], and complimented by the rise of [[Design Systems]]. 
+A dominant paradigm for most modern [[concepts/Explainers for Tooling/Web Frameworks]], and complimented by the rise of [[Design Systems]]. 
 
 >"As software projects grew more complex, there was a need for a more modular approach. Enter "component-based software architecture". This approach breaks down software into smaller, reusable parts or "components". Each component has a specific function and can work independently.
 >

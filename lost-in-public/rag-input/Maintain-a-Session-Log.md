@@ -28,7 +28,7 @@ date_created: 2025-03-23
 date_modified: 2025-03-26
 ---
 ### Working Directory:
-`content/lost-in-public/sessions`
+`content/sessions`
 
 ### File Naming:
 `YYYY-MM-DD_Session_${indexCount}` where `indexCount` is a two digit integer, beginning at 01.  

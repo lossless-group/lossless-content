@@ -16,6 +16,7 @@ tags:
   - Web-Frameworks
   - Software-Development
   - Frameworks
+url: 'https://nextra.site'
 ---
 
 
@@ -29,7 +30,7 @@ tags:
 
 
 
-Uses similar patterns as [[NEXT.js]] and is somewhat meant to accompany it, as both [[Web Frameworks]] are supported by [[Vercel]].
+Uses similar patterns as [[NEXT.js]] and is somewhat meant to accompany it, as both [[concepts/Explainers for Tooling/Web Frameworks]] are supported by [[Vercel]].
 
 [[Static Site Generators|Static Site Generation]]
 

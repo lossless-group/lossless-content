@@ -13,6 +13,7 @@ date_modified: '2025-04-12'
 date_created: '2025-03-31T20:44:50.513Z'
 tags:
   - Hardware
+url: 'https://www.luckfox.com/'
 ---
 
 
@@ -52,6 +53,6 @@ tags:
 
 
 
-Competing with [[Organizations/Nvidia]] on [[Graphics Processing Units|GPU Architecture]] computing hardware.
+Competing with [[organizations/Nvidia]] on [[Graphics Processing Units|GPU Architecture]] computing hardware.
 
 https://youtu.be/1W7ku0vcA1k?si=mB47d4s6XFnjzoyR

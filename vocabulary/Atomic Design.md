@@ -92,7 +92,7 @@ An important guiding idea leading to the industry practice of creating [[Design 
 >     - Integration with plugins like Abstract and Zeplin for version control and developer handoff.
 > - **Value for Atomic Design:** Sketch’s symbol and library system aligns well with the modular structure of Atomic Design.
 > 
-> #### **3. [[Organizations/Adobe]] XD**
+> #### **3. [[organizations/Adobe]] XD**
 > 
 > - **Features:**
 >     - Component states and reusable assets.

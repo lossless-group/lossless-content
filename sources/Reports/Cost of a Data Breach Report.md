@@ -1,4 +1,4 @@
 ---
 url: https://www.ibm.com/reports/data-breach
-sponsored-by: "[[Organizations/IBM]]"
+sponsored-by: "[[organizations/IBM]]"
 ---

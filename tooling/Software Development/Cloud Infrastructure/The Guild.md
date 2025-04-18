@@ -15,6 +15,7 @@ date_created: '2025-03-30T05:44:14.860Z'
 tags:
   - Software-Development
   - Cloud-Infrastructure
+url: 'https://the-guild.dev/'
 ---
 
 
@@ -74,5 +75,5 @@ tags:
 
 
 
-The Guild is one of the [[API Managers]] designed for [[GraphQL]].
+The Guild is one of the [[concepts/Explainers for Tooling/API Managers]] designed for [[GraphQL]].
 

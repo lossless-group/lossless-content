@@ -15,6 +15,7 @@ date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.857Z'
 tags:
   - Products
+url: 'https://discord.com/'
 ---
 
 
@@ -45,7 +46,7 @@ tags:
 
 
 
-[[User Forums|User Forum]]
+[[concepts/User Forums|User Forum]]
 [[Cross-Platform Applications|Cross-Platform]]
 [[Freemium]]
 

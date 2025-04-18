@@ -13,7 +13,7 @@ aliases:
 
 Related to [[Vocabulary/Command-Line Interfaces|Command-Line Interface]]
 
-> [!LLM Response] [[Organizations/Perplexity AI|Perplexity AI]] explains [[Vocabulary/Text User Interfaces]]
+> [!LLM Response] [[organizations/Perplexity AI|Perplexity AI]] explains [[Vocabulary/Text User Interfaces]]
 > Libraries or applications that live entirely within the terminal, such as **Yazi** or **Neovim**, are typically referred to as **Text User Interfaces (TUIs)** or **Console User Interfaces (CUIs)**. These applications provide a user interface that is rendered using text characters, often using libraries like **ncurses**, **blessed**, or **Ratatui** to manage the display and input within the terminal environment.
 > 
 > ## Key Features of TUIs:

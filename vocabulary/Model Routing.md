@@ -10,7 +10,7 @@ aliases:
 [[NotDiamond]]
 
 
-[[Organizations/Perplexity AI]] explains [[Model Routing]]
+[[organizations/Perplexity AI]] explains [[Model Routing]]
 AI **"Model Routing"** refers to the process of dynamically directing queries or tasks to the most appropriate AI model based on factors like cost, performance, or task specificity. This is particularly useful in large language model (LLM) workflows, where different models excel at different tasks. For example, simpler queries might be routed to cheaper models, while complex ones go to more advanced models like GPT-4.
 
 ### Key Tools and Companies for Model Routing

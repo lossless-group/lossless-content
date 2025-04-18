@@ -17,6 +17,7 @@ tags:
   - Software-Development
   - Databases
   - Backend-As-A-Service
+url: 'https://nocodb.com/'
 ---
 
 
@@ -73,6 +74,6 @@ tags:
 
 
 
-[[Open Source]] [[Database Apps|Database App]]
+[[Open Source]] [[concepts/Explainers for Tooling/Database Apps|Database App]]
 
 

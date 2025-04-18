@@ -14,7 +14,7 @@ aliases:
 
 [[JavaScript]]
 
-[[Web Frameworks]] like [[Astro]], [[NEXT.js]].  
+[[concepts/Explainers for Tooling/Web Frameworks]] like [[Astro]], [[NEXT.js]].  
 
 2022, Nov 24. [6 UI Hacks I wish I knew was a beginner](https://youtu.be/88XxC0_zs74?si=lHjg_3-RYwg0b-BO) 
 

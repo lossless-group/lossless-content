@@ -19,6 +19,7 @@ tags:
   - Databases
   - Backend-As-A-Service
   - Products
+url: 'https://www.singlestore.com/'
 ---
 
 

@@ -3,7 +3,7 @@ amazon-url: https://www.amazon.com/dp/B0189PVAWY?ref_=cm_sw_r_ffobk_cp_ud_dp_AYX
 full-title: "Deep Work: Rules for Focused Success in a Distracted World"
 ---
 
-Basically, minimize [[Drag]] and allocate large blocks of time to focus.  
+Basically, minimize [[concepts/Drag]] and allocate large blocks of time to focus.  
 
 Similar to [[Indistractable]]
 

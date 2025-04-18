@@ -138,7 +138,7 @@ tags:
 
 
 
-[[Open Source]] [[Low-Code]] [[Visual Software Development]]
+[[Open Source]] [[Low-Code]] [[concepts/Visual Software Development]]
 
 ![[IMG_1909.png]]
 

@@ -10,8 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-03-17
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A reusable content collections UI structure featuring modular cards, dynamic filtering, and drag-and-drop reordering. The layout is clean, grid-based, and visually emphasizes reusability and organization."
+banner_image: "https://img.recraft.ai/IWLuAZheKx7ZLSJUo8xwvSKPFBmPw-XWiAahAvehV2k/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/9b1d1275-9eec-45d1-aeaf-21235d74a3cb"
+site_uuid: f14d5718-3b17-420a-abb6-5efb5264e909
 tags:
   - User-Interface
   - Component-Architecture
@@ -21,8 +24,6 @@ tags:
   - Rendering-Pipeline
 authors:
   - Michael Staton
-image_prompt: "A reusable content collections UI structure featuring modular cards, dynamic filtering, and drag-and-drop reordering. The layout is clean, grid-based, and visually emphasizes reusability and organization."
-banner_image: https://img.recraft.ai/IWLuAZheKx7ZLSJUo8xwvSKPFBmPw-XWiAahAvehV2k/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/9b1d1275-9eec-45d1-aeaf-21235d74a3cb
 ---
 
 # Goal  

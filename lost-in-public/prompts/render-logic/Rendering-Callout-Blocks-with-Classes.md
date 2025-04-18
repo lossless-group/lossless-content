@@ -1,6 +1,6 @@
 ---
 title: Rendering Callout Blocks with Classes
-lede: "Several forms of extended markdown make heavy use of callout blocks, which can be rendered with combinations of Astro Components, Semantic HTML, and CSS classes"
+lede: Several forms of extended markdown make heavy use of callout blocks, which can be rendered with combinations of Astro Components, Semantic HTML, and CSS classes
 date_authored_initial_draft: 2025-03-29
 date_authored_current_draft: 2025-04-01
 date_authored_final_draft: null
@@ -10,8 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-02-17
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A content editor rendering callout blocks with custom classes, featuring styled note boxes, icons, and a code panel showing class assignments. The scene conveys clarity, organization, and the enhancement of user experience through visual cues."
+banner_image: "https://img.recraft.ai/pUFfJUfMrTPmFaIENNeKaBQhVwy5Uwa4VAdNLMb8JKo/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/1002e0b6-8cfd-4087-970d-f36d1d223ff8"
+site_uuid: 1c88b33c-b5a2-43ea-956c-178838838e76
 tags:
   - Render-Logic
   - Remark
@@ -20,8 +23,6 @@ tags:
   - Extended-Markdown
 authors:
   - Michael Staton
-image_prompt: "A content editor rendering callout blocks with custom classes, featuring styled note boxes, icons, and a code panel showing class assignments. The scene conveys clarity, organization, and the enhancement of user experience through visual cues."
-banner_image: https://img.recraft.ai/pUFfJUfMrTPmFaIENNeKaBQhVwy5Uwa4VAdNLMb8JKo/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/1002e0b6-8cfd-4087-970d-f36d1d223ff8
 ---
 
 # Context

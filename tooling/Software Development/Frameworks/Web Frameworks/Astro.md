@@ -33,7 +33,7 @@ tags:
 
 
 
-A new [[Web Frameworks|Web Framework]] that focuses on [[Static Site Generators|Static Site Generation]], but also perfectly implements [[Islands Architecture]]
+A new [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]] that focuses on [[Static Site Generators|Static Site Generation]], but also perfectly implements [[Islands Architecture]]
 
 https://youtu.be/tWEx_cm0cf8?si=1ELVD6iww1luMzKn
 
@@ -46,8 +46,8 @@ https://youtu.be/Q1GJpcJLXhQ?si=3zb5CxBXmmmF1pQO
 https://youtu.be/tWEx_cm0cf8?si=heNm0oOMMiE8Dfeu
 
 https://youtu.be/kIftpNnN_8I?si=wi_AROloNjgEQFJ_
-### [[Getting Started]] with Astro
-[[Astro]] does a lot to help people with [[Getting Started]]
+### [[concepts/Getting Started]] with Astro
+[[Astro]] does a lot to help people with [[concepts/Getting Started]]
 
 ![[Screenshot 2025-01-22 at 1.03.36 PM_Astro_Docs--Ebook.png]]
 ### Astro has a Community Chat

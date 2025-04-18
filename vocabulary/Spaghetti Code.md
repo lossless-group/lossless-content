@@ -6,7 +6,7 @@ date_created: 2025-04-06
 
 https://youtu.be/W2qtf1NAY1A?si=eqGZ5XfXNKSrv0sQ
 
-[[Organizations/Perplexity AI]] explains [[Spaghetti Code]]
+[[organizations/Perplexity AI]] explains [[Spaghetti Code]]
 **Spaghetti code** refers to unstructured, tangled, and difficult-to-maintain source code. Its name comes from its resemblance to a plate of spaghetti, with logic and flow twisted and interwoven in a confusing manner. It often arises due to poor planning, lack of experience, tight deadlines, or frequent quick fixes during development[1][3][7].
 
 ### Effects on Developer Experience and Productivity:

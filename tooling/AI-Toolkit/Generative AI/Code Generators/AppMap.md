@@ -135,7 +135,7 @@ tags:
 
 
 
-[[Visual Software Development]]
+[[concepts/Visual Software Development]]
 
 2024, October 10. [Using GitHub Copilot LLM to Create Detailed Diagrams with AppMap Navie #coding #aicoding](https://youtube.com/shorts/jztXLSb2pl8?si=RNvZ-QPCrWKJXLT4). AppMap.
 

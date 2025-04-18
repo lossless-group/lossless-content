@@ -18,8 +18,8 @@ They chose to include a small, fine print footnote to a clause saying that the b
 
 So, they would walk into a venue and immediately check to see if there were brown M&Ms. If there were, they knew they had to delay going on stage while everyone went around and re-checked every detail of the equipment that was involved with their show. And, yes, they berated people along the way.  
 
-Thus, the [[Brown M&M Test]] became business folklore on how to check to see if things are set up and maintained with adequate precision.  
+Thus, the [[concepts/Brown M&M Test]] became business folklore on how to check to see if things are set up and maintained with adequate precision.  
 
 # Footnotes
 ***
-[^1]: Allen, James. [The Power in a Bowl of M&M’s](https://www.bain.com/insights/the-power-in-a-bowl-of-m-and-ms-fm-blog/) [[Organizations/Bain & Company]], Founder's Mentality Blog. Pulled from [[Decisive. How to Make Better Choices in Life and Work]]
+[^1]: Allen, James. [The Power in a Bowl of M&M’s](https://www.bain.com/insights/the-power-in-a-bowl-of-m-and-ms-fm-blog/) [[organizations/Bain & Company]], Founder's Mentality Blog. Pulled from [[Decisive. How to Make Better Choices in Life and Work]]

@@ -16,6 +16,7 @@ tags:
   - Enterprise-Jobs-To-Be-Done
   - Asynchronous-Communication
   - Check-It-Out
+url: 'https://jumpshare.com/'
 ---
 
 
@@ -69,6 +70,6 @@ tags:
 
 
 
-[[Asynchronous Communication]], [[Cognitive, Collaborative Tooling]]
+[[Asynchronous Communication]], [[concepts/Cognitive, Collaborative Tooling]]
 ##### [[Jumpshare]] is an easy way to share any media, but with more sophisticated tooling.
 ![[Screenshot 2025-02-24 at 11.52.10 PM_Jumpshare.png]]

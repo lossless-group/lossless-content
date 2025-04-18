@@ -1,2 +1,2 @@
 
-Represented by [[Organizations/DevZero]]
+Represented by [[organizations/DevZero]]

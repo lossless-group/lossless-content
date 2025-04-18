@@ -523,7 +523,7 @@ https://youtu.be/m8NqaHUuGX0?si=4vj9nYp_nZ0gRJFB
 
 https://youtu.be/_lsXx-3jz-0?si=HiMDr3zhZqK8G1kJ
 
-### [[Organizations/Perplexity AI]] explains [[n8n]]
+### [[organizations/Perplexity AI]] explains [[n8n]]
 n8n is a low-code, open-source workflow automation platform that enables users to connect applications, services, and APIs to automate tasks and processes without extensive coding. Founded in 2019 by Jan Oberhauser and Ricardo J. Mendonça, n8n has gained popularity for its user-friendly interface, extensive integrations (over 400 platforms), and flexibility for both simple and complex workflows[1][2]. It supports self-hosting for enhanced data control and offers advanced features like branching, merging, AI integration, and developer-friendly tools[2][7].
 
 ### Differentiation

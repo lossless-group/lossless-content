@@ -13,10 +13,14 @@ jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:19:01.823Z
 date_modified: 2025-04-15
 date_created: 2025-03-30
-tags: [Productivity, Advanced-Documents, Collaboration-Tooling, Async-Tools]
-description_site_cp: Chosen as Mac App of the Year, Craft lets you write seamlessly across all devices, with instant sync that keeps your work flowing online or offline.
+tags: 
+- Productivity
+- Advanced-Documents
+- Collaboration-Tooling
+- Async-Tools
+description_site_cp: 'Chosen as Mac App of the Year, Craft lets you write seamlessly across all devices, with instant sync that keeps your work flowing online or offline.'
 ---
-[[Concepts/Explainers for Tooling/Advanced Documents|Advanced Documents]]
+[[concepts/Explainers for Tooling/Advanced Documents|Advanced Documents]]
 
 
 
@@ -44,37 +48,12 @@ description_site_cp: Chosen as Mac App of the Year, Craft lets you write seamles
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[[Advanced Documents]]
+[[concepts/Explainers for Tooling/Advanced Documents]]
 ### CraftDocs managing the Innovation Cookbook:
 [[The Lossless Innovation Cookbook]] on [[CraftDocs]].
 ![[Screenshot 2025-01-28 at 9.05.25 PM_Lossless_Cookbook--CraftDocs.png]]
 ##### [[CraftDocs]] integrating [[AI Models]] through their [[REST API]]
 ![[Pasted image 20250211110909_AppleAppStore_Streamlining-Updates.png]]
 
-##### [[CraftDocs]] features [[Templates]] to help with [[Getting Started]].
+##### [[CraftDocs]] features [[Templates]] to help with [[concepts/Getting Started]].
 ![[Screenshot 2025-02-20 at 2.44.41 PM_CraftDocs--Templates.png]]

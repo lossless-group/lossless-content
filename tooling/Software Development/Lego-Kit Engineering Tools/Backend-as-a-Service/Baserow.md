@@ -16,6 +16,7 @@ tags:
   - Software-Development
   - Databases
   - Backend-As-A-Service
+url: 'https://baserow.io/'
 ---
 
 
@@ -73,7 +74,7 @@ tags:
 
 
 
-[[Database Apps]], defaults to [[Open Source]] as an alternative to [[Airtable]]
+[[concepts/Explainers for Tooling/Database Apps]], defaults to [[Open Source]] as an alternative to [[Airtable]]
 
 https://youtu.be/9JFDqA1VpOA?si=wOu8-yvg8JmqT434
 
@@ -83,7 +84,7 @@ https://youtu.be/9JFDqA1VpOA?si=2awswh33b7HDFobA
 [[Baserow]] also sports a robust [[REST API]] with clear commitment to [[Documentation First Development|Documentation First]]
 ![[Screenshot 2025-01-23 at 2.22.10 PM_Baserow_API-Docs.png]]
 
-### Baserow [[Getting Started]]
+### Baserow [[concepts/Getting Started]]
 [[Baserow]] makes it easy to get started:
 ![[Screenshot 2025-01-23 at 2.22.01 PM_Baserow_GettingStarted.png]]
 

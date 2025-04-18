@@ -12,6 +12,7 @@ date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.848Z'
 tags:
   - Data-Utilities
+url: 'https://kanochart.com/'
 ---
 
 
@@ -24,6 +25,6 @@ tags:
 
 
 
-An [[Opinionated Analytics]] tool that delivers [[Survey Instruments]] that can measure importance according to the [[Kano Model]].
+An [[concepts/Explainers for Tooling/Opinionated Analytics]] tool that delivers [[Survey Instruments]] that can measure importance according to the [[concepts/Kano Model]].
 
 

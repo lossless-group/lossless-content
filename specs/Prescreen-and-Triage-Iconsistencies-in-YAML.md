@@ -1,26 +1,28 @@
 ---
-title: "Technical Specification: YAML Prescreening and Triaging System"
+title: YAML Prescreening and Triaging System
 lede: Proactive identification and correction of YAML frontmatter inconsistencies to prevent build failures
 date_authored_initial_draft: 2025-03-15
 date_authored_current_draft: 2025-03-15
 date_authored_final_draft: null
 date_first_published: null
-date_last_updated: null
+date_last_updated: nullpnpm
 at_semantic_version: 0.0.1.0
-authors: 
-- Michael Staton
+publish: true
 status: Implemented
-augmented_with: "Windsurf IDE with Claude 3.5 Sonnet"
+augmented_with: Windsurf IDE with Claude 3.5 Sonnet
 category: Specification
-date_created: 2025-03-15
-date_modified: 2025-04-12
-tags: 
-- YAML
-- Frontmatter
-- Content-Management
-- Data-Cleaning
-- Automation
-- Prescreening
+date_created: 2025-04-16
+date_modified: 2025-04-16
+site_uuid: bbd9a307-9005-418b-a811-f02bdef1cb40
+tags:
+  - YAML
+  - Frontmatter
+  - Content-Management
+  - Data-Cleaning
+  - Automation
+  - Prescreening
+authors:
+  - Michael Staton
 ---
 
 # YAML Prescreening and Triaging System

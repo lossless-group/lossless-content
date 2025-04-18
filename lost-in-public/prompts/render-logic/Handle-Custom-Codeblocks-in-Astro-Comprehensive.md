@@ -1,12 +1,23 @@
 ---
-title: "Implement a Comprehensive Code Block Rendering System in Astro"
-description: "Technical specification for creating a flexible, extensible code block rendering system with copy buttons, language indicators, and custom language support in Astro"
+title: Implement a Comprehensive Code Block Rendering System in Astro
+description: Technical specification for creating a flexible, extensible code block rendering system with copy buttons, language indicators, and custom language support in Astro
 date: 2023-11-20
-tags: ["astro", "markdown", "code-blocks", "syntax-highlighting", "component-design"]
-date_created: 2025-04-12
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
 image_prompt: "A developer configuring custom code blocks in Astro, with a code editor displaying syntax-highlighted blocks, Astro component icons, and rendered previews. The scene conveys technical depth, customization, and the seamless blending of code and content."
-banner_image: https://img.recraft.ai/OzYKbAeXN6_CQ6F3wn5_ypHM-OVf6-ngkrr-G_NU0Gc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/8e0ac0eb-2ded-45cc-81fb-cee06cfccdfb
+banner_image: "https://img.recraft.ai/OzYKbAeXN6_CQ6F3wn5_ypHM-OVf6-ngkrr-G_NU0Gc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/8e0ac0eb-2ded-45cc-81fb-cee06cfccdfb"
+lede: Brief description of the prompt functionality and purpose
+date_authored_initial_draft: 2025-04-16
+date_authored_current_draft: 2025-04-16
+at_semantic_version: 0.0.0.1
+status: To-Prompt
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+category: Prompts
+site_uuid: 284d42ae-e9a0-45f0-aa84-8e8d2b7d42f6
+tags:
+  - Render-Logic
+authors:
+  - Michael Staton
 ---
 
 # Implement a Comprehensive Code Block Rendering System in Astro

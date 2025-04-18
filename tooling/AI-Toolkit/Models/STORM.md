@@ -68,7 +68,7 @@ tags:
 
 [[Generative AI]]
 
-[[Organizations/Stanford University]]
+[[organizations/Stanford University]]
 
 ## Co-STORM
 

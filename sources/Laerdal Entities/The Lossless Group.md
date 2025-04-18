@@ -3,7 +3,7 @@ Team members include [[Michael Staton]]
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1026831215?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="20241012_Concept-Intro--Lossless-and-Emergent"></iframe><script src="https://player.vimeo.com/api/player.js"></script></div>
 
 #### An Intro to Cognitive Tooling, Stack Engineering and some Core Applications
-An intro video to some core applications that can illustrate the need for [[Stack Engineering]], framing how [[App Builder|App Builders]], [[Database Apps]], [[Advanced Documents]], and [[Headless CMS]] can work together to enable teams to prototype applications without the need for engineering time. This combination sets up a pathway to create new kinds of applications and services. 
+An intro video to some core applications that can illustrate the need for [[concepts/Stack Engineering]], framing how [[App Builder|App Builders]], [[concepts/Explainers for Tooling/Database Apps]], [[concepts/Explainers for Tooling/Advanced Documents]], and [[concepts/Explainers for Tooling/Headless CMS]] can work together to enable teams to prototype applications without the need for engineering time. This combination sets up a pathway to create new kinds of applications and services. 
 It is set to the White Stripes, "Hello Operator. "
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1026837665?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="20241101_Concept--Lossless-Core--Part-One"></iframe><script src="https://player.vimeo.com/api/player.js"></script></div>
 #### An intro to Data Fluidics, its rationale, and a new world of technology options
@@ -16,7 +16,7 @@ Explaining that balancing competing but complimentary ideas about what kind of w
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1037098440?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="20241207_Scope-of-Work"></iframe><script src="https://player.vimeo.com/api/player.js"></script></div>
 
 #### How to Fuel Innovation with Alignment: CARBS
-Explaining the concept of [[CARBS]]
+Explaining the concept of [[concepts/CARBS]]
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1036761193?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="20241206__CARBS-are-for-Innovation-Endurance"></iframe><script src="https://player.vimeo.com/api/player.js"></script></div>
 
 ##### A Table explaining CARBS
@@ -24,7 +24,7 @@ Explaining the concept of [[CARBS]]
 
 
 #### On a need to for Lossless background work with Laerdal to de-risk product development
-On November 1, 2024, we proposed we do some background work developing Lossless artifacts, called [[CARBS]], which included [[Stack Maps|Stack Map]] and [[Decision Trees]]
+On November 1, 2024, we proposed we do some background work developing Lossless artifacts, called [[concepts/CARBS]], which included [[concepts/CARBS/Stack Maps|Stack Map]] and [[concepts/CARBS/Decision Trees]]
 <div style="padding:56.39% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1031919668?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="20241101_v-Hip-Hop_Need-for-Losslessy-Exercises--Stack-Map-&amp;-Decision-Tree"></iframe><script src="https://player.vimeo.com/api/player.js"></script></div>
 ##### Overview of Common Pitfalls in Innovation
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1051169653?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="20241018_Lossless--Pitfalls--All"></iframe><script src="https://player.vimeo.com/api/player.js"></script></div>

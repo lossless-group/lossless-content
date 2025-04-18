@@ -13,6 +13,7 @@ date_modified: '2025-04-12'
 date_created: '2025-03-30T05:44:14.855Z'
 tags:
   - Productivity
+url: 'https://www.notion.com'
 ---
 
 
@@ -42,6 +43,6 @@ tags:
 
 
 
-An [[Advanced Documents]] tool, the market leader.
+An [[concepts/Explainers for Tooling/Advanced Documents]] tool, the market leader.
 
 https://youtu.be/PVl3yKPLQ78?si=2bPSl6vB7bU8-unl

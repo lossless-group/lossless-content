@@ -1,5 +1,5 @@
 ---
-parent-org: "[[Organizations/Google]]"
+parent-org: "[[organizations/Google]]"
 ---
 [[VFX]]
 

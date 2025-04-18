@@ -1,8 +1,8 @@
 ---
 site_uuid: 38e738e3-80d5-4cb6-9f71-bee345cabc35
-parent_org: '[[Organizations/Microsoft]]'
-date_modified: '2025-04-12'
-date_created: '2025-03-31T20:44:50.514Z'
+parent_org: "[[organizations/Microsoft]]"
+date_modified: 2025-04-12
+date_created: 2025-03-31T20:44:50.514Z
 tags:
   - Products
 ---

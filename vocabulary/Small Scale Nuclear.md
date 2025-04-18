@@ -6,7 +6,7 @@ date_created: 2025-04-06
 
 https://youtu.be/qUnik4gxrtM?si=exboKK5_cpmjjN1V
 
-[[Organizations/Natrium]]
+[[organizations/Natrium]]
 
 https://youtu.be/D_eFzJg_OJ0?si=4nAFT69AmYU5yaDJ
 

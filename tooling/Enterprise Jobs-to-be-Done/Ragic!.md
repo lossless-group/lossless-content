@@ -64,4 +64,4 @@ og_screenshot_url: >-
 
 
 
-A [[Database Apps|Database App]]
+A [[concepts/Explainers for Tooling/Database Apps|Database App]]

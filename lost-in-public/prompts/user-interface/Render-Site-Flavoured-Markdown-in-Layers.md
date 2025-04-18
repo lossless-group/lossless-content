@@ -10,8 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-03-22
-date_modified: 2025-04-12
+date_created: 2025-04-16
+date_modified: 2025-04-16
+image_prompt: "A layered markdown rendering UI, with site-specific styles applied to each layer. Visual elements include tabs for different views, highlighted markdown syntax, and a modern, multi-layered interface."
+banner_image: "https://img.recraft.ai/FuZiIsBR-N67dnrGPkDWj-F3ZqOVJfz9Lqil2SI_ruA/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/4558cc85-fc81-43cc-bf8f-cd32f1079903"
+site_uuid: 81081479-0cc8-4af6-a581-1d28ed9a690b
 tags:
   - User-Interface
   - Component-Architecture
@@ -21,8 +24,6 @@ tags:
   - Rendering-Pipeline
 authors:
   - Michael Staton
-image_prompt: "A layered markdown rendering UI, with site-specific styles applied to each layer. Visual elements include tabs for different views, highlighted markdown syntax, and a modern, multi-layered interface."
-banner_image: https://img.recraft.ai/FuZiIsBR-N67dnrGPkDWj-F3ZqOVJfz9Lqil2SI_ruA/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/4558cc85-fc81-43cc-bf8f-cd32f1079903
 ---
 
 # Goals

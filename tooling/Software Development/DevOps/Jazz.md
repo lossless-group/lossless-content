@@ -14,6 +14,7 @@ date_created: '2025-03-30T05:44:14.865Z'
 tags:
   - Software-Development
   - DevOps
+url: 'https://jazz.tools'
 ---
 
 
@@ -31,5 +32,5 @@ tags:
 ![[Screenshot 2025-02-20 at 11.33.53 PM_Jazz--Hero.png]]
 
 [[Local-First Applications]]
-[[Web Frameworks|Framework]]
+[[concepts/Explainers for Tooling/Web Frameworks|Framework]]
 

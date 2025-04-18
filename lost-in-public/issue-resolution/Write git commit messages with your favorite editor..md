@@ -6,7 +6,7 @@ date_modified: 2025-03-21
 
 I hate it when I want to add a long message to a git commit and git launches nano.  I just never picked it up. Avoided even having to think about it, really. 
 
-I also never pondered that I could change the default editor for commit messages. That is, until I realized my [[Tooling/AI-Toolkit/Explainers/AI Terminal Assistant|AI Terminal Assistant]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Warp|Warp]] is not just helpful but really really wise (and patient) and the hardcore command line skills that most wanna be app developers, me included, never bother to become hyperfluent in.  
+I also never pondered that I could change the default editor for commit messages. That is, until I realized my [[concepts/Explainers for AI/AI Terminal Assistant|AI Terminal Assistant]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Warp|Warp]] is not just helpful but really really wise (and patient) and the hardcore command line skills that most wanna be app developers, me included, never bother to become hyperfluent in.  
 
 ---
 
@@ -24,7 +24,7 @@ git config --global --edit
 ---
 
 Now, command's I am confident with:
-[[Neovim]] will open instead of nano. You can edit your message, and then:
+[[lost-in-public/to-hero/Warp-Objects/neovim]] will open instead of nano. You can edit your message, and then:
 •  To save and exit: `:wq`
 •  To exit without saving: `:q!`
 •  To just save: `:w`

@@ -89,4 +89,4 @@ tags:
 
 [[Knowledge Base AI]]
 
-[[Artificial Intelligence|Enterprise AI]]
+[[concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]]

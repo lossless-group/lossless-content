@@ -67,7 +67,7 @@ tags:
 
 
 
-An [[AI Models|AI Model]], [[Large Language Models]], [[Organizations/X]]
+An [[AI Models|AI Model]], [[Large Language Models]], [[organizations/X]]
 
 https://youtu.be/igDU0_R_oOM?si=WEGhCO29Ej6Tb0-E
 

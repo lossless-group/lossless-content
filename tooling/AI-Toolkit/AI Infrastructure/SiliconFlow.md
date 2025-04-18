@@ -97,4 +97,4 @@ tags:
 
 
 
-[[Generative AI]] [[AI Cloud Infrastructure]]
+[[Generative AI]] [[concepts/Explainers for AI/AI Cloud Infrastructure]]

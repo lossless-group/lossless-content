@@ -75,6 +75,6 @@ tags:
 
 
 
-An [[Open Source]] framework for [[Self-Hosting]] that gives the same powers of [[Opsless Deployment Providers]]
+An [[Open Source]] framework for [[Self-Hosting]] that gives the same powers of [[concepts/Opsless Deployment Providers]]
 
 https://youtu.be/gZxQUgWm9ZM?si=GalhrytFPxf3cLSn

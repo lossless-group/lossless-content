@@ -11,7 +11,7 @@ https://en.m.wikipedia.org/wiki/ZFS
 
 https://youtu.be/Hj4lCqQckZM?si=7RenyhP_50aBeJCq
 
-> [!LLM Response] [[Organizations/Perplexity AI|Perplexity AI]] explains [[Vocabulary/Zettabyte File System]]
+> [!LLM Response] [[organizations/Perplexity AI|Perplexity AI]] explains [[Vocabulary/Zettabyte File System]]
 > ## What is the Zettabyte File System (ZFS)?
 > 
 > The **Zettabyte File System (ZFS)** is a highly advanced file system developed by Sun Microsystems in the early 2000s. It is renowned for its scalability, robustness, and data integrity features, making it ideal for large-scale storage environments such as data centers and cloud services. ZFS supports file systems up to 256 zettabytes in size and offers features like RAID-Z for redundancy, snapshots, data deduplication, and compression[1](https://startup-house.com/glossary/zettabyte-file-system-zfs)[3](https://machaddr.substack.com/p/zfs-the-epic-saga-of-jeff-bonwick)[9](https://www.techtarget.com/searchstorage/definition/ZFS).

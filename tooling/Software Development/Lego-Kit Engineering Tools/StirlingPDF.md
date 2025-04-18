@@ -75,7 +75,7 @@ tags:
 
 
 
-[[Open Source]], [[API First]]
+[[Open Source]], [[concepts/API First]]
 
 ## StirlingPDF Getting Started
 ![[Screenshot 2025-01-22 at 5.29.27 PM_StirlingPDF-GettingStarted.png]]

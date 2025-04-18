@@ -13,6 +13,7 @@ date_created: '2025-03-30T05:44:14.856Z'
 tags:
   - Productivity
   - Markdown-Editor
+url: 'https://typora.io/'
 ---
 
 

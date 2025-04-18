@@ -82,4 +82,4 @@ tags:
 
 
 
-Plugin for [[Organizations/Mozilla]] [[Firefox]]
+Plugin for [[organizations/Mozilla]] [[Firefox]]

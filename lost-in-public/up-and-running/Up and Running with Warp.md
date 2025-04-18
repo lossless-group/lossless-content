@@ -24,7 +24,7 @@ warp ai add memory "Every single command that is revealed or recommended, and ev
 
 ## Awesome themes
 
-On [[Organizations/Apple|Apple]]
+On [[organizations/Apple|Apple]]
 ```bash
 mkdir -p $HOME/.warp
 cd $HOME/.warp/
