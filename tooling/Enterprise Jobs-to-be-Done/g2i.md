@@ -12,10 +12,7 @@ jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:19:01.826Z
 date_modified: 2025-04-18
 date_created: 2025-03-30
-tags:
-  - Enterprise-Jobs-To-Be-Done
-  - Recruiting-Platforms
-  - Talent-Networks
+tags: [Enterprise-Jobs-To-Be-Done, Recruiting-Platforms, Talent-Networks]
 description_site_cp: G2i is the video based platform for hiring contract or full time engineers.
 ---
 
