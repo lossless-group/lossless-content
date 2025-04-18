@@ -181,7 +181,7 @@ Rename the `sample.config.toml` file to `config.toml` and fill out the variab
 
 I used [[1Password]] to grab me API Keys for [[Gemini]], [[OpenAI]], [[Tooling/AI-Toolkit/Model Producers/Groq|Groq]], and [[Anthropic]]. 
 
-I had to make sure [[Tooling/Enterprise Jobs-to-be-Done/OLlama]] was running locally. If you don't have it installed, you'll need it. 
+I had to make sure [[Tooling/AI-Toolkit/AI Interfaces/OLlama]] was running locally. If you don't have it installed, you'll need it. 
 
 Then, initiate Perplexica using [[Docker]]. If you don't have it installed, you'll need it. I actually had an issue, so I had to do a clean install, you can find it [[lost-in-public/up-and-running/Up and Running with Docker]]
 
@@ -237,7 +237,7 @@ Now, Perplexica's UI in [[NEXT.js]] should be running on http://localhost:3000 u
 ```
 
 
-Though, in our case, we will be using the [[Local LLM|Local LLMs]] installed through [[Tooling/Enterprise Jobs-to-be-Done/OLlama]]:
+Though, in our case, we will be using the [[Local LLM|Local LLMs]] installed through [[Tooling/AI-Toolkit/AI Interfaces/OLlama]]:
 ```json
 ```json
 {

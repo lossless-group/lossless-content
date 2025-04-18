@@ -440,10 +440,10 @@ interface CitationRegistry {
 
 ---
 
-## 🔥 ABSOLUTE NON-NEGOTIABLE RULE: FILESYSTEM OBSERVER MUST NEVER CORRUPT FILES
+## 7. [DRAFT] Proposed Property Collector Pattern for Observer-Service Architecture
 
-### Context
-A catastrophic bug caused by the observer system resulted in the deletion or corruption of critical metadata fields (such as `url`) and the introduction of block scalar syntax and malformed strings in properties like `og_screenshot_url`. This broke downstream parsing, validation, and rendering, and risked permanent data loss.
+### Rationale
+To maximize atomicity, maintainability, and auditability, the observer should orchestrate all service operations and write to disk only once, after all operations have completed. Each service is responsible for determining whether it needs to run and returns only the properties it intends to update. This enables clear separation of concerns and extensibility.
 
 ### Rule
 **UNDER NO CIRCUMSTANCES, LIFE AND DEATH, COMPANY LIVE OR DIE, SHOULD OUR OBSERVER OPERATIONS CORRUPT OUR FILES.**
@@ -857,3 +857,108 @@ logProcessedFile(filePath: string): void {
 ```
 
 This traceability requirement ensures that the observer system provides a complete and auditable record of all files it interacts with, supporting robust reporting and compliance with project standards.
+
+---
+
+## Observer Logging, Reporting, and Audit Trail Logic
+
+### Conditional Console Logging (Standard Practice)
+- All pipeline and observer steps (e.g., `addSiteUUID`, OpenGraph fetch, YAML reordering) include `console.log` statements for stepwise debugging and traceability.
+- **All log statements remain in the codebase** but are wrapped in user-configurable flags under `services.logging` in the directory config (see `userOptionsConfig.ts`).
+- Example config:
+  ```typescript
+  services: {
+    logging: {
+      addSiteUUID: true,
+      openGraph: false
+    }
+  }
+  ```
+- Example usage in observer:
+  ```typescript
+  if (logging?.addSiteUUID) {
+    console.log('After addSiteUUID:', updatedFrontmatter);
+  }
+  ```
+- This pattern ensures logs can be toggled on/off for each step, per directory, without deleting code or editing the pipeline.
+
+### Reporting Service Integration
+- The observer pipeline passes a `reportingService` instance to all file write operations (e.g., `writeFrontmatterToFile`).
+- After each write, the reporting service is called with full context (file path, new frontmatter, template order, etc.).
+- The reporting service logs and tracks events such as YAML property reordering, frontmatter changes, and other structural mutations.
+- Example event logging (inside the write function):
+  ```typescript
+  reportingService.logFileYamlReorder({
+    filePath,
+    previousOrder,
+    newOrder,
+    changedFields
+  });
+  ```
+- This provides a robust audit trail for all significant changes, supporting debugging, traceability, and confidence in the automation pipeline.
+
+---
+
+**This logic is mandatory for all observer and pipeline operations that mutate file metadata or structure.**
+
+---
+
+## [ADDENDUM] Property Collector Pattern & Observer-Service Orchestration (2025-04-17)
+
+The following section is an additive update and does not remove or replace any previous content. It is intended to clarify and extend the architecture for atomic, non-destructive, and auditable metadata operations in the filesystem observer.
+
+### Property Collector Pattern Overview
+
+- **Service Contract:**
+  - Each service receives the current frontmatter and filePath.
+  - Each service determines internally if it needs to run (e.g., missing UUID, missing OpenGraph fields).
+  - If it runs, it returns a partial object with only the properties it wants to update (e.g., `{ og_image, og_url }`).
+  - If not, it returns an empty object or a status indicating no change.
+
+- **Observer Orchestration:**
+  - The observer initializes a `propertyCollector` object (e.g., `{}`).
+  - As each service runs, it merges the returned properties into the collector.
+  - The collector accumulates only the changed/added properties.
+
+- **Final Merge & Write:**
+  - At the end, the observer merges the original frontmatter with the collected properties (overwriting only changed/added keys).
+  - If the collector is not empty, the observer writes the updated frontmatter to disk.
+  - If the collector is empty, no write occurs.
+
+- **Aggressive Commenting & Logging:**
+  - All logic is aggressively commented.
+  - Logging at each step shows what properties were changed/added by each service.
+
+#### Example (Pseudocode)
+```typescript
+const propertyCollector: Record<string, any> = {};
+const originalFrontmatter = extractFrontmatter(fileContent);
+
+for (const step of operationSequence) {
+  if (step.op === 'addSiteUUID') {
+    const result = addSiteUUIDService(originalFrontmatter, filePath);
+    Object.assign(propertyCollector, result);
+  }
+  if (step.op === 'fetchOpenGraph') {
+    const result = await openGraphService(originalFrontmatter, filePath);
+    Object.assign(propertyCollector, result);
+  }
+  // ...etc
+}
+
+const updatedFrontmatter = { ...originalFrontmatter, ...propertyCollector };
+
+if (Object.keys(propertyCollector).length > 0) {
+  await writeFrontmatterToFile(filePath, updatedFrontmatter);
+}
+```
+
+#### Benefits
+- Only changed properties are tracked and written.
+- No unnecessary writes.
+- Extremely clear audit trail of what changed, and why.
+- Extensible for future validation, rollback, or preview logic.
+
+---
+
+*This section is an additive draft. All prior logic, requirements, and reporting/audit trail sections remain in effect and should be considered canonical unless superseded by explicit future edits.*
