@@ -8,8 +8,8 @@ description_extended_site_cp: >-
   balancing, API gateway capabilities, and security in a single, easy-to-use
   package.
 zinger: Optimize, deliver, and secure apps across the entire enterprise with NGINX
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.872Z'
+date_modified: 2025-04-18
+date_created: 2025-03-30
 og_title: Welcome to F5 NGINX
 og_description: >-
   NIGINX is part of F5, and all previous NGINX.com links now redirect to content
@@ -18,8 +18,7 @@ og_description: >-
 og_image: https://www.f5.com/go/product/welcome-to-nginx.socialImage.png
 og_url: https://www.f5.com/go/product/welcome-to-nginx
 og_last_fetch: '2025-04-07T17:38:08.492Z'
-tags:
-  - Software-Development
+tags: [Software-Development]
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/83905617438b3cc63c24f03917753cc2cbbaa28e312fc8615ffa82b869f2a244.jpeg
 ---

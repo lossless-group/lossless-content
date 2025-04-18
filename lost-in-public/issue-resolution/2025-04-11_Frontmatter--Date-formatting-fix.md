@@ -6,8 +6,11 @@ date_modified: 2025-04-17
 authors:
   - Michael Staton
 category: Issue Resolution
-images: ["https://example.com/image.png", "https://example.com/image2.png", "https://example.com/image3.png"]
-tags: [Frontmatter, YAML, Date-Formatting, Content-Management]
+tags: 
+- Frontmatter
+- YAML
+- Date-Formatting
+- Content-Management
 ---
 
 # Frontmatter Date Formatting Fix
