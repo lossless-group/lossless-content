@@ -41,7 +41,7 @@ Independent organizations creating models include:
 
 Big Tech organizations include:
 - [[organizations/Google Labs]], maintaining [[Gemini]]
-- [[organizations/Meta]], maintaining [[OLlama]] and [[LLaMA]], [[LLaVa]]
+- [[organizations/Meta]], maintaining [[Tooling/Enterprise Jobs-to-be-Done/OLlama]] and [[LLaMA]], [[LLaVa]]
 - [[organizations/IBM]], maintaining [[Watson]]
 - [[organizations/Alibaba]], maintaining [[Qwen]] and [[Wan]]
 - [[organizations/Microsoft]], maintaining [[Phi-Series Models]]

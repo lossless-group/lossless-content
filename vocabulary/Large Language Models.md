@@ -16,7 +16,7 @@ https://youtu.be/pxhkDaKzBaY?si=gdW8pQx19gvU8rRO
 
 https://youtu.be/kgSMRmW2frA?si=44cqcPNqq02uKOEt
 
-2024, Dec 16. [My framework for LLM Use Cases and AI Tooling](https://youtu.be/pytSbBRoFw8?si=LvlekG4HLRMPmiX1)  (Covers [[Gemini]], [[Phi-Series Models]], [[OLlama]]) IndyDevDan, [[YouTube]].
+2024, Dec 16. [My framework for LLM Use Cases and AI Tooling](https://youtu.be/pytSbBRoFw8?si=LvlekG4HLRMPmiX1)  (Covers [[Gemini]], [[Phi-Series Models]], [[Tooling/Enterprise Jobs-to-be-Done/OLlama]]) IndyDevDan, [[YouTube]].
 
 https://youtu.be/wjZofJX0v4M?si=fqWbhhZviYNl7zUR
 
