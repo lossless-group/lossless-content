@@ -6,7 +6,7 @@ aliases:
   - Web Standard
 ---
 
-[[OpenSSL]]
+[[Emergent-Innovation/OpenSSL]]
 
 > [!NOTE] AI Explains, ([[Poe AI]])
 > ### **Primary Web Standards and Their Maintainers**

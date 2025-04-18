@@ -10,10 +10,9 @@ og_screenshot_url: >-
 jina_last_request: '2025-03-09T06:44:59.621Z'
 jina_error: Error occurred
 og_last_fetch: '2025-03-07T05:19:01.809Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.875Z'
-tags:
-  - Training
+date_modified: 2025-04-18
+date_created: 2025-03-30
+tags: [Training]
 url: 'https://www.skool.com/aiworkshop/about'
 ---
 

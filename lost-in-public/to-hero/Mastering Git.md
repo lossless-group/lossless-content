@@ -82,3 +82,10 @@ git filter-repo --invert-paths --path 'lost-in-public/to-hero/Warp-Objects/Model
 ```bash
 git rm -rf --cached temp_old_repo
 ```
+
+
+Need to put your current code at the HEAD of another branch? 
+
+```bash
+git switch -C development
+```
