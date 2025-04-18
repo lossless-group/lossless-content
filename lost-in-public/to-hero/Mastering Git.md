@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-04-15
+date_modified: 2025-04-18
 ---
 
 ```bash
@@ -77,4 +77,8 @@ brew install git-filter-repo
 
 # Then run the command to remove the sensitive file
 git filter-repo --invert-paths --path 'lost-in-public/to-hero/Warp-Objects/Model API Keys.env' --refs d68603c4d554cd397fd4db64e6c2a875fb33bc0f^..d68603c4d554cd397fd4db64e6c2a875fb33bc0f
+```
+
+```bash
+git rm -rf --cached temp_old_repo
 ```
