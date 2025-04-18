@@ -1,9 +1,8 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2025-04-18
 site_uuid: 3b7128f6-a2c2-4a2b-b641-057551a601bc
 date_created: 2025-04-06
-aliases:
-  - Markdown Editors
+aliases: [Markdown Editors]
 ---
 
 [[Ulysses]], [[Obsidian.md]], [[Typora]], [[Anytype]]

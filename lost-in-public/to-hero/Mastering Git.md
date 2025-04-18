@@ -89,3 +89,8 @@ Need to put your current code at the HEAD of another branch?
 ```bash
 git switch -C development
 ```
+
+If you have staged changes with `git add` but have not commited, and want to reverse:
+```bash
+git reset
+```
