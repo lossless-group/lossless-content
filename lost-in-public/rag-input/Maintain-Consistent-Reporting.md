@@ -48,6 +48,42 @@ All scripts within `tidyverse/tidy-up` MUST utilize centralized utility modules 
     [[tooling/AI-Toolkit/Some-File.md|Some File]], [[vocabulary/Example-File.md|Example File]], [[tooling/Another-Example.md|Another Example]]
     ```
 
+## Observer and Pipeline Logging & Reporting Standard
+
+### Conditional Console Logging
+- All scripts and observer steps must keep all `console.log` statements in the codebase for stepwise debugging and traceability.
+- Logging must be controlled by user-configurable flags (e.g., `services.logging` in config), allowing per-step and per-directory toggling without code deletion.
+- Example:
+  ```typescript
+  services: {
+    logging: {
+      addSiteUUID: true,
+      openGraph: false
+    }
+  }
+  if (logging?.addSiteUUID) {
+    console.log('After addSiteUUID:', updatedFrontmatter);
+  }
+  ```
+- This ensures logs can be enabled/disabled as needed for any pipeline step, supporting rapid debugging while keeping the codebase DRY and auditable.
+
+### Reporting Service Integration
+- All file mutation operations (e.g., frontmatter writes) must accept and use a `reportingService` parameter.
+- The reporting service must be called with full context (file path, new frontmatter, template order, etc.) after each mutation.
+- The reporting service is responsible for logging and tracking events such as YAML property reordering, frontmatter changes, and other structural mutations.
+- Example:
+  ```typescript
+  reportingService.logFileYamlReorder({
+    filePath,
+    previousOrder,
+    newOrder,
+    changedFields
+  });
+  ```
+- This provides a robust audit trail for all significant changes, supporting debugging, traceability, and confidence in the automation pipeline.
+
+**These standards are mandatory for all scripts and observer/pipeline operations that mutate file metadata or structure.**
+
 ```javascript
 /**
  * Generate report content

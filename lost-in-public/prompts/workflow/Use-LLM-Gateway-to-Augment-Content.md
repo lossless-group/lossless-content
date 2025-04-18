@@ -27,9 +27,9 @@ authors:
 ---
 
 ###### Covered
-[[OLlama]], [[Fabric]], [[LiteLLM]], [[LM Studio]], [[MSTY]]
+[[Tooling/Enterprise Jobs-to-be-Done/OLlama]], [[Fabric]], [[LiteLLM]], [[LM Studio]], [[MSTY]]
 
-### [[OLlama]]
+### [[Tooling/Enterprise Jobs-to-be-Done/OLlama]]
 
 ### [[MSTY]]
 
