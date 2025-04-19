@@ -22,6 +22,8 @@ tags:
   - Performance
 authors:
   - Michael Staton
+image_prompt: "A magnifying glass over a search bar, with highlighted results appearing on a digital interface. The image conveys discovery, clarity, and the power of effective search tools."
+publish: false
 ---
 
 Use [[Tooling/Software Development/Programming Languages/Libraries/Pagefind|Pagefind]] written in Rust 

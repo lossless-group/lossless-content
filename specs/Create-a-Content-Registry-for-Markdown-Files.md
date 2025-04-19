@@ -20,6 +20,7 @@ tags:
   - Build-Process
 authors:
   - Michael Staton
+image_prompt: "A digital library with rows of labeled files and glowing indexes, representing a structured registry. The scene is organized and accessible, conveying the idea of systematic content management."
 ---
 
 ## Executive Summary

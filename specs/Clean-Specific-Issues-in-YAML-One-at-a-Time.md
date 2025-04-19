@@ -21,6 +21,7 @@ tags:
   - Content-Fixes
 authors:
   - Michael Staton
+image_prompt: "A tidy workspace with neatly organized folders and checklists, each item being ticked off one by one. The visual theme is clarity and order, symbolizing systematic correction of individual YAML issues."
 ---
 
 ## Executive Summary

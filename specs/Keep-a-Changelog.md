@@ -23,6 +23,7 @@ tags:
   - State-of-The-Art-Practices
 authors:
   - Michael Staton
+image_prompt: "A classic ledger or digital timeline, with entries being added in sequence. The visual theme is history and transparency, underscoring the importance of tracking changes over time."
 ---
 
 # Goal
