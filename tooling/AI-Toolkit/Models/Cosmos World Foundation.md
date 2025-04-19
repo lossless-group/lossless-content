@@ -72,7 +72,7 @@ tags:
 
 
 
-[[Concepts/Explainers for AI/World Foundation Models|World Foundation Model]]
+[[concepts/Explainers for AI/World Foundation Models|World Foundation Model]]
 
-A model created and managed by [[Organizations/Nvidia]]
+A model created and managed by [[organizations/Nvidia]]
 

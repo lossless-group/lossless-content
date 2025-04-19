@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Technical Specification YAML Frontmatter Corruption Correction
+=======
+title: YAML Frontmatter Corruption Correction
+>>>>>>> a4654bf52143c8d079c4e1eb66ce57a944fcf5d1
 lede: Automated tool for identifying and repairing corrupted YAML frontmatter across the content library
 date_authored_initial_draft: 2025-03-14
 date_authored_current_draft: 2025-03-14
@@ -22,6 +26,7 @@ tags:
   - Automation
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/Zb17RkPZ0hmBIpWRRXWOBqMmukqIrLuepBCUnHks8Ng/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/0b50ac50-75d7-47c0-a76a-da797c9b9810
 ---
 
 # YAML Frontmatter Corruption Correction Tool

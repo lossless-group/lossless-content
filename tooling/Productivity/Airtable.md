@@ -46,7 +46,7 @@ url: 'https://www.airtable.com/'
 
 
 
-One of the [[Database Apps]], and is also partially an [[Advanced Spreadsheets]] Applies [[API First]] and [[Documentation First Development|Documentation First]] strategies.
+One of the [[concepts/Explainers for Tooling/Database Apps]], and is also partially an [[Advanced Spreadsheets]] Applies [[concepts/API First]] and [[Documentation First Development|Documentation First]] strategies.
 
 ### Airtable API
 

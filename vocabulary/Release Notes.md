@@ -7,7 +7,7 @@ date_created: 2025-04-06
 https://keepachangelog.com/en/1.1.0/
 
 https://youtube.com/shorts/fWNFL6SIDws?si=GEuXtMqfaKEkGGPS
-> [!NOTE] AI Explains [[Concepts/Release Notes]]
+> [!NOTE] AI Explains [[concepts/Release Notes]]
 > ### **What Are Release Notes?**
 > 
 > **Release notes** are documents or announcements created by technology and software companies to communicate updates, changes, and improvements made to a product, application, or software. They provide users and stakeholders with essential information about what has been added, fixed, improved, or removed in a new release. Release notes play a critical role in keeping users informed and engaged while maintaining transparency about the evolution of a product.
@@ -32,7 +32,7 @@ https://youtube.com/shorts/fWNFL6SIDws?si=GEuXtMqfaKEkGGPS
 >     - Example: "Release Notes for Version 2.1.0 – February 23, 2025"
 > 2. **Introduction:** Brief summary of the release's purpose or highlights.
 >     - Example: "This update introduces a new collaboration feature and includes performance improvements."
-> 3. **[[Concepts/Release Notes|Changelog]] or Key Sections:**
+> 3. **[[concepts/Release Notes|Changelog]] or Key Sections:**
 >     - **New Features:** Overview of newly added functionality.
 >     - **Improvements:** Enhancements to existing features or performance.
 >     - **Bug Fixes:** Descriptions of resolved issues or defects.

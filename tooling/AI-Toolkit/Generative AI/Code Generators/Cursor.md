@@ -87,7 +87,7 @@ tags:
 
 https://youtu.be/mxX1TYrhPFo?si=8CkQuOXx0X0Tvu0q
 
-A [[Text Editors or IDEs]].  [[AI Native Applications|AI Native]]
+A [[concepts/Explainers for Tooling/Text Editors or IDEs]].  [[AI Native Applications|AI Native]]
 
 https://youtu.be/ztT6Bu1MPpY?si=qSsApKldevoF0pX4
 

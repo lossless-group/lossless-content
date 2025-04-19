@@ -7,7 +7,7 @@ aliases:
   - Video Generation
 ---
 
-[[Concepts/Explainers for AI/AI Avatars]], [[Computer-Generated Imagery]] 
+[[concepts/Explainers for AI/AI Avatars]], [[Computer-Generated Imagery]] 
 
 https://youtu.be/M9qCWX2ldVs?si=rfIW0fNb0p3XujgV
 

@@ -29,5 +29,5 @@ url: 'https://jam.dev'
 
 
 
-[[Developer Tools]], [[Developer Experience]], [[Bug Reporting]]
+[[Developer Tools]], [[concepts/Developer Experience]], [[Bug Reporting]]
 

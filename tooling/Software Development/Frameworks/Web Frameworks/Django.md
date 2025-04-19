@@ -30,4 +30,4 @@ url: 'https://www.djangoproject.com/'
 
 
 
-[[Python]] [[Web Frameworks|Web Framework]]
+[[Python]] [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]]

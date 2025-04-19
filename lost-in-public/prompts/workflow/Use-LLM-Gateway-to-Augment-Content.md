@@ -27,9 +27,9 @@ authors:
 ---
 
 ###### Covered
-[[OLlama]], [[Fabric]], [[LiteLLM]], [[LM Studio]], [[MSTY]]
+[[Tooling/AI-Toolkit/AI Interfaces/OLlama]], [[Fabric]], [[LiteLLM]], [[LM Studio]], [[MSTY]]
 
-### [[OLlama]]
+### [[Tooling/AI-Toolkit/AI Interfaces/OLlama]]
 
 ### [[MSTY]]
 

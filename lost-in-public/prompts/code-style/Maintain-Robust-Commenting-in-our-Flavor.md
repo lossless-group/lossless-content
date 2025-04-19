@@ -11,16 +11,12 @@ status: To-Prompt
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
-date_modified: 2025-04-16
+date_modified: 2025-04-19
 image_prompt: "A code editor filled with colorful, well-structured comments, section headers, and documentation blocks, symbolizing clarity and comprehensive code annotation."
 banner_image: "https://img.recraft.ai/Bk0g1ShYKjP49gsq4sH8h7PR6eg8m1dvcAB_ya82b20/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/0fc404b9-27b8-45cf-8e86-f61ed2b051c2"
 publish: true
 site_uuid: 0ab1abf6-701e-41e6-bf14-957e016a5448
-tags:
-  - Code-Style
-  - Documentation
-  - Code-Comments
-  - Readability
+tags: [Code-Style, Documentation, Code-Comments, Readability]
 authors:
   - Michael Staton
 ---

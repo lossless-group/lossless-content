@@ -7,7 +7,7 @@ aliases:
   - Mini-PCs
 ---
 
-[[Tooling/Hardware/Minisforum]], [[Organizations/GMKTek]], [[Organizations/MSI]]
+[[Tooling/Hardware/Minisforum]], [[organizations/GMKTek]], [[organizations/MSI]]
 
 https://youtu.be/KGYsVz_8DYI?si=c0DffFRh1NI0uI1F
 

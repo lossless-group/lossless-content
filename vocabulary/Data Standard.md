@@ -10,7 +10,7 @@ aliases:
 [[JSON]]
 [[JSON Canvas]]
 
-> [!NOTE] [[Organizations/Perplexity AI]] explains [[Data Standard|Data Standards]]
+> [!NOTE] [[organizations/Perplexity AI]] explains [[Data Standard|Data Standards]]
 > ## What are Data Standards?
 > Data standards are predefined rules or guidelines that govern how data is structured, formatted, stored, and exchanged to ensure consistency, interoperability, and usability across systems[1][2][4]. They are essential for improving data quality, enabling seamless communication between systems, and supporting decision-making processes[2][5].
 > 
@@ -22,7 +22,7 @@ aliases:
 > - Reduce inefficiencies in data integration and processing[2].
 > 
 > ### **How Are Data Standards Maintained?**
-> Standards organizations like [[Organizations/ISO]], ANSI, or industry-specific groups develop and oversee data standards. Maintenance involves:
+> Standards organizations like [[organizations/ISO]], ANSI, or industry-specific groups develop and oversee data standards. Maintenance involves:
 > - Regular updates to address technological advancements.
 > - Collaboration among stakeholders to ensure relevance and usability.
 > - Governance policies to enforce adherence and manage revisions[10][11].
@@ -30,7 +30,7 @@ aliases:
 > ### **Important Data Standards in Technology**
 > Key examples include:
 > - **Technical Standards:** [[JSON]], [[XML]] (data formats), [[HTTPS]] (protocols)[4].
-> - **Semantic Standards:** [[Organizations/HL7]] in healthcare for patient data sharing[4].
+> - **Semantic Standards:** [[organizations/HL7]] in healthcare for patient data sharing[4].
 > - **Industry-Specific Standards:** SWIFT for financial transactions, ISO 27001 for information security management[4][5].
 > 
 > These standards are vital for fostering innovation, ensuring compliance, and enabling efficient operations in the tech industry.

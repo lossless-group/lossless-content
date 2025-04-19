@@ -10,4 +10,4 @@ date_created: 2025-04-06
 
 [[Acceptance Testing]]
 
-[[Concepts/Explainers for AI/Code Generators]]
+[[concepts/Explainers for AI/Code Generators]]

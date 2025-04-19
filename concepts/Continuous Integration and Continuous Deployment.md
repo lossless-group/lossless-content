@@ -10,7 +10,7 @@ aliases:
 
 https://youtu.be/NcU0oEk6z8Y?si=jlehpNLVdqz7tazp
 
-[[Organizations/Perplexity AI]] explains [[Continuous Integration and Continuous Deployment]] 
+[[organizations/Perplexity AI]] explains [[concepts/Continuous Integration and Continuous Deployment]] 
 CI/CD stands for **Continuous Integration** and **Continuous Delivery/Deployment**, forming a workflow that automates software development processes, including building, testing, and deploying code. It is a core practice in DevOps, enabling teams to deliver high-quality software quickly and reliably.
 
 ### Key Components

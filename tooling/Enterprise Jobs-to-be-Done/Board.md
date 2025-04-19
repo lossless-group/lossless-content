@@ -4,18 +4,16 @@ url: https://www.board.com/
 zinger: Board is the Enterprise Planning Platform.
 image: https://www.board.com/wp-content/uploads/2025/01/homepage-opengraph_1.jpg
 site_name: Board
-title: Board | The Enterprise Planning Platform
-favicon: >-
-  https://www.board.com/wp-content/themes/board/assets/images/favicon/favicon-32x32.png
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/b48b87d9fe4d7bd770ef01b9ff1f7c7046cb11a5c1ca97e943c510f1fd33f461.jpeg
-jina_last_request: '2025-03-09T06:45:05.684Z'
+title: The Enterprise Planning Platform
+favicon: https://www.board.com/wp-content/themes/board/assets/images/favicon/favicon-32x32.png
+og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/b48b87d9fe4d7bd770ef01b9ff1f7c7046cb11a5c1ca97e943c510f1fd33f461.jpeg
+jina_last_request: 2025-03-09T06:45:05.684Z
 jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:19:01.830Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.849Z'
-tags:
-  - Enterprise-Jobs-To-Be-Done
+og_last_fetch: 2025-03-07T05:19:01.830Z
+date_modified: 2025-04-18
+date_created: 2025-03-30
+tags: [Enterprise-Jobs-To-Be-Done, Enterprise-Resource-Planning]
+description_site_cp: We enable continuous planning with greater forecast accuracy to power financial and operational plans that drive confident, aligned decisions.
 ---
 
 
@@ -69,7 +67,7 @@ tags:
 
 
 
-[[Enterprise Resource Planning|ERP]]
+[[concepts/Explainers for Tooling/Enterprise Resource Planning|ERP]]
 
 From [[Poe AI]]:
 

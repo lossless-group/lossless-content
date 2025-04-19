@@ -82,7 +82,7 @@ Now has a [[Generative AI]] feature that will build webpages, apps, and [[User I
 
 
 ### Replit Assistant
-[[App Builder]], [[Concepts/Explainers for AI/Code Generators]]
+[[App Builder]], [[concepts/Explainers for AI/Code Generators]]
 
 [Introducing Replit Assistant](https://youtu.be/fxiVDlylORQ?si=HRQ85Vq-G_ZtRy5R)
 

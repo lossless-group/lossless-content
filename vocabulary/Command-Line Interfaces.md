@@ -11,9 +11,9 @@ aliases:
 
 [[Tooling/Software Development/Frameworks/Web Frameworks/Astro|Astro]]
 
-[[Terminal Emulators|Terminal Emulator]], [[Vocabulary/Text User Interfaces|Text User Interfaces]]
+[[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulator]], [[Vocabulary/Text User Interfaces|Text User Interfaces]]
 
-Some [[Concepts/Explainers for Tooling/Text Editors or IDEs|Text Editors]]
+Some [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editors]]
 
 
 https://youtu.be/fU8HB1cvG9w?si=joNb9a6GvHTKINqI

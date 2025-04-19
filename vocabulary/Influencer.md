@@ -5,4 +5,4 @@ date_created: 2025-04-06
 ---
 
 Creators that make media to an audience.  
-[[YouTube]], [[Organizations/Facebook]].
+[[YouTube]], [[organizations/Facebook]].

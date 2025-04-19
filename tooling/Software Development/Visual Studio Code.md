@@ -2,9 +2,9 @@
 site_uuid: 032efa58-39ff-4ab8-b51f-a0a407921b2c
 aliases:
   - VS Code
-parent_org: '[[Organizations/Microsoft]]'
-date_modified: '2025-04-12'
-date_created: '2025-03-31T20:44:50.517Z'
+parent_org: "[[organizations/Microsoft]]"
+date_modified: 2025-04-12
+date_created: 2025-03-31T20:44:50.517Z
 tags:
   - Software-Development
 ---
@@ -14,7 +14,7 @@ tags:
 
 
 
-a [[Text Editors or IDEs|Text Editor]] created and maintained by [[Organizations/Microsoft]].
+a [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editor]] created and maintained by [[organizations/Microsoft]].
 
 
 ### Tool Use

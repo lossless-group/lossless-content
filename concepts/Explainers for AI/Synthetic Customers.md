@@ -106,7 +106,7 @@ tags:
 
 
 
-A [[RAG]] or [[Knowledge Augmented Generation|KAG]] technique on customer data that can create [[Concepts/Explainers for AI/Synthetic Data]], and then use [[Generative AI]] to create [[Concepts/Explainers for AI/Synthetic Customers]], which may behave like your existing customer personas.
+A [[RAG]] or [[Knowledge Augmented Generation|KAG]] technique on customer data that can create [[concepts/Explainers for AI/Synthetic Data]], and then use [[Generative AI]] to create [[concepts/Explainers for AI/Synthetic Customers]], which may behave like your existing customer personas.
 
 > [!NOTE] AI Explains
 > AI can generate synthetic customers by simulating individuals or groups with realistic characteristics, behaviors, and preferences. These synthetic customers are created using data-driven models that mimic real-world customer data patterns without exposing personal or sensitive information. Here’s how it works and how synthetic customers can assist with product design:

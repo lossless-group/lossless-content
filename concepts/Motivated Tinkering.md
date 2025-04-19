@@ -1,7 +1,7 @@
 
 
-Examples include [[Organizations/Bell Labs]], [[Organizations/PARC]], 
+Examples include [[organizations/Bell Labs]], [[organizations/PARC]], 
 
-[[Protected Play]]
+[[concepts/Protected Play]]
 
 

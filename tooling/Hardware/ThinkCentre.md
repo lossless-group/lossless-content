@@ -14,6 +14,6 @@ tags:
 
 [[Vocabulary/Mini Desktops|Mini-PCs]]
 
-[[Organizations/Lenovo]]
+[[organizations/Lenovo]]
 
 https://youtu.be/eCvyUyk8jmk?si=K2N_hmYSyV95Zrxn

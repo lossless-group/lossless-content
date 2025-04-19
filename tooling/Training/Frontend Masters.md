@@ -9,10 +9,9 @@ og_screenshot_url: >-
 jina_last_request: '2025-03-09T06:45:04.134Z'
 jina_error: Error occurred
 og_last_fetch: '2025-03-07T05:19:01.808Z'
-date_created: 2025-03-21T00:00:00.000Z
-date_modified: '2025-04-12'
-tags:
-  - Training
+date_created: 2025-03-21
+date_modified: 2025-04-18
+tags: [Training]
 url: 'https://FrontendMasters.com/'
 ---
 

@@ -13,5 +13,5 @@ tags:
 
 
 
-A language produced by [[Organizations/Google]] to interface with [[Google Sheets]].
+A language produced by [[organizations/Google]] to interface with [[Google Sheets]].
 

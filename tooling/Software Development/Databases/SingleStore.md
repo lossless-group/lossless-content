@@ -54,5 +54,5 @@ tags: [Software-Development, Databases, Serverless-Database, Serverless-Cloud]
 
 
 
-One of the Multi-Modal [[Databases]].
+One of the Multi-Modal [[concepts/Explainers for Tooling/Databases]].
 

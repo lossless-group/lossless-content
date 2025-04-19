@@ -6,7 +6,7 @@ site_uuid: 070fcc3b-1d19-404e-91ff-0289dfe53017
 
 [[Lindy AI]]
 
-[[Organizations/Ontra]]
+[[organizations/Ontra]]
 
 ## Intelligent Agreement Management
 

@@ -65,6 +65,6 @@ https://youtu.be/S4jS9l-Xtvc?si=hLxbmoF_6VKH9f5G
 
 https://youtu.be/0jdFf74WfCQ?si=ErMsEfsvza9oAw8y
 
-[[Organizations/Alibaba]]
+[[organizations/Alibaba]]
 
 [[Video Generator]]

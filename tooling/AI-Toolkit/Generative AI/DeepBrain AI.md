@@ -66,7 +66,7 @@ tags:
 
 
 
-- **Focus**: Realistic and interactive [[Concepts/Explainers for AI/AI Avatars]] for [[Virtual Humans]], such as AI anchors, customer service agents, and conversational avatars.
+- **Focus**: Realistic and interactive [[concepts/Explainers for AI/AI Avatars]] for [[Virtual Humans]], such as AI anchors, customer service agents, and conversational avatars.
 - **Use Cases**: News broadcasting, customer support, virtual assistants, and content creation.
 - **Key Feature**: Advanced hyper-realistic avatars tailored for lifelike communication and interaction.
 

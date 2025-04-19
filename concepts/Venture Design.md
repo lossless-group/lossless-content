@@ -7,4 +7,4 @@ Promoted by [[Alexander Cowan]].
 
 # Footnotes
 ***
-[^1]: From the [[Venture Design]] section of [[Alexander Cowan]]'s [website](https://www.alexandercowan.com/venture-design/). 
+[^1]: From the [[concepts/Venture Design]] section of [[Alexander Cowan]]'s [website](https://www.alexandercowan.com/venture-design/). 

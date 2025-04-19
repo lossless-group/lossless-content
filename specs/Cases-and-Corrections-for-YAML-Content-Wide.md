@@ -1,5 +1,5 @@
 ---
-title: Technical Specification: YAML Frontmatter Error Detection and Correction System
+title: YAML Frontmatter Error Detection and Correction System
 lede: Let content teams develop content. Handle frontmatter inconsistencies gracefully for a seamless user experience.
 date_authored_initial_draft: 2025-03-18
 date_authored_current_draft: 2025-03-19
@@ -15,13 +15,10 @@ date_modified: 2025-04-16
 status: Draft
 site_uuid: e2942c54-27e6-46c0-bacf-9b8320595063
 tags:
-  - Cases
-  - And
-  - Corrections
-  - For
   - YAML
-  - Content
-  - Wide
+  - Frontmatter
+  - Error-Detection
+  - Error-Corrections
 authors:
   - Michael Staton
 ---

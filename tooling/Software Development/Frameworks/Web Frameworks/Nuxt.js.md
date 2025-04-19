@@ -31,6 +31,6 @@ tags:
 
 
 
-A [[Web Frameworks|Web Framework]] for [[Vue.js]] that handles [[Server Side Rendering]]
+A [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]] for [[Vue.js]] that handles [[Server Side Rendering]]
 
 https://youtu.be/X0M4R0Qx6n4?si=_q7ApfESUalAhKBu

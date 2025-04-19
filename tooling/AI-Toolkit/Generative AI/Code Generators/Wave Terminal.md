@@ -85,5 +85,5 @@ tags:
 
 
 Supports [[Tooling/AI-Toolkit/Models/LocalAI.io]]
-[[Terminal Emulators|Terminal Emulator]]
-[[Concepts/Explainers for AI/Code Generators]]
+[[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulator]]
+[[concepts/Explainers for AI/Code Generators]]

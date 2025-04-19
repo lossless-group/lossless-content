@@ -33,7 +33,7 @@ tags:
 https://youtu.be/k4xuEl6TmT4?si=0hxbL-1xVxjeTqSD
 
 
-[[Web Frameworks]] include [[NEXT.js]], [[React]], [[Vue.js]], [[Solid.js]], [[Nextra]], [[Astro]].
+[[concepts/Explainers for Tooling/Web Frameworks]] include [[NEXT.js]], [[React]], [[Vue.js]], [[Solid.js]], [[Nextra]], [[Astro]].
 
 >"In the past two years I have gone Webpack -> Parcel -> Webpack -> Vite -> Rollup"
 >

@@ -101,14 +101,14 @@ tags:
 [https://chat.groq.com](https://chat.groq.com/)
 
 
-> [!NOTE] [[Organizations/Perplexity AI]] explains [[AI-Toolkit/AI Infrastructure/Groq|Groq]]
+> [!NOTE] [[organizations/Perplexity AI]] explains [[AI-Toolkit/AI Infrastructure/Groq|Groq]]
 > Groq is an AI hardware and software company that specializes in developing high-performance AI accelerators and inference solutions. Their key product is the Language Processing Unit (LPU), an AI chip designed specifically for accelerating large language models (LLMs) and other AI workloads[1](https://en.wikipedia.org/wiki/Groq)[7](https://www.techpowerup.com/319286/groq-lpu-ai-inference-chip-is-rivaling-major-players-like-nvidia-amd-and-intel).
 > 
 > ## Groq's Technology
 > 
 > ## Hardware
 > 
-> - [[Concepts/Explainers for AI/LPU]] (Language Processing Unit): A single-core AI accelerator chip based on the Tensor-Streaming Processor (TSP) architecture[7](https://www.techpowerup.com/319286/groq-lpu-ai-inference-chip-is-rivaling-major-players-like-nvidia-amd-and-intel)
+> - [[concepts/Explainers for AI/LPU]] (Language Processing Unit): A single-core AI accelerator chip based on the Tensor-Streaming Processor (TSP) architecture[7](https://www.techpowerup.com/319286/groq-lpu-ai-inference-chip-is-rivaling-major-players-like-nvidia-amd-and-intel)
 >     
 > - Performance: 750 TOPS at INT8 and 188 TeraFLOPS at FP16[7](https://www.techpowerup.com/319286/groq-lpu-ai-inference-chip-is-rivaling-major-players-like-nvidia-amd-and-intel)
 >     

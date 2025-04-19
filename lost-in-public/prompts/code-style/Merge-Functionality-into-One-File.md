@@ -11,16 +11,13 @@ status: Prompted
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
-date_modified: 2025-04-16
+date_modified: 2025-04-19
 image_prompt: "A thoughtful developer reviewing code and suggesting improvements, surrounded by branching diagrams and preserved legacy code, symbolizing careful, non-destructive refactoring."
 site_uuid: a41c3eaa-5ce4-4773-a8b8-4666990571f4
-tags:
-  - Code-Style
-  - Refactor
-  - Code-Quality
-  - Maintainability
+tags: [Code-Style, Refactor, Code-Quality, Maintainability]
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/tAHiPbpq3D5VqxnwgeSoUee2V44GsyHBdguUjushaUU/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/ed1a0f67-8433-412d-9195-81a65ca654d4
 ---
 
 # Objective:

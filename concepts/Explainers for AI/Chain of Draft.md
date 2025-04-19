@@ -69,9 +69,9 @@ https://youtu.be/s3uTtLwL1_k?si=Ue2l66cy1GcpE3md
 
 https://youtu.be/7qtXWHG3MNs?si=wqMjemzLKnaTn6NN
 
-[[Concepts/Explainers for AI/Prompt Engineering]]
+[[concepts/Explainers for AI/Prompt Engineering]]
 
-> [!NOTE] AI Explains [[Concepts/Explainers for AI/Chain of Draft]]
+> [!NOTE] AI Explains [[concepts/Explainers for AI/Chain of Draft]]
 > "Chain of Draft" is a conceptual technique in AI systems, particularly in the context of **large language models (LLMs)** like OpenAI's GPT or Anthropic's Claude. It refers to the iterative process of generating, refining, and improving outputs by creating multiple "drafts" or stages of a response. Each draft builds upon the previous one, leading to progressively better results.
 > 
 > This technique draws inspiration from human writing and problem-solving processes, where iterative improvements are made to initial drafts to refine ideas, correct errors, and improve clarity. In AI, this concept is used to generate thoughtful, comprehensive, and accurate outputs.

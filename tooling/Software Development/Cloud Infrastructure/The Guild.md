@@ -75,5 +75,5 @@ url: 'https://the-guild.dev/'
 
 
 
-The Guild is one of the [[API Managers]] designed for [[GraphQL]].
+The Guild is one of the [[concepts/Explainers for Tooling/API Managers]] designed for [[GraphQL]].
 

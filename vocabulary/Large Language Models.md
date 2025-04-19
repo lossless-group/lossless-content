@@ -16,7 +16,7 @@ https://youtu.be/pxhkDaKzBaY?si=gdW8pQx19gvU8rRO
 
 https://youtu.be/kgSMRmW2frA?si=44cqcPNqq02uKOEt
 
-2024, Dec 16. [My framework for LLM Use Cases and AI Tooling](https://youtu.be/pytSbBRoFw8?si=LvlekG4HLRMPmiX1)  (Covers [[Gemini]], [[Phi-Series Models]], [[OLlama]]) IndyDevDan, [[YouTube]].
+2024, Dec 16. [My framework for LLM Use Cases and AI Tooling](https://youtu.be/pytSbBRoFw8?si=LvlekG4HLRMPmiX1)  (Covers [[Gemini]], [[Phi-Series Models]], [[Tooling/AI-Toolkit/AI Interfaces/OLlama]]) IndyDevDan, [[YouTube]].
 
 https://youtu.be/wjZofJX0v4M?si=fqWbhhZviYNl7zUR
 
@@ -27,7 +27,7 @@ https://youtu.be/LPZh9BOjkQs?si=JkEAk5OPuciQYSdD
 LLMs are trained on massive data, yet there is a certain "cut-off" point:
 >"I couldn't find specific information about "RSBuild" as of my knowledge cutoff in October 2023. Could you clarify or provide more context about RSBuild? Is it a build tool, framework, or utility for a specific programming environment? If you can share some details, I can format the description in the style you're requesting!"
 
-[[Concepts/Explainers for AI/Prompt Engineering]]
+[[concepts/Explainers for AI/Prompt Engineering]]
 
 <iframe 
   style="aspect-ratio:16/9;width:100%;height:auto" 
