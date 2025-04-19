@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-04-18
+date_modified: 2025-04-19
 ---
 k
 ```bash
@@ -93,4 +93,10 @@ git switch -C development
 If you have staged changes with `git add` but have not commited, and want to reverse:
 ```bash
 git reset
+```
+
+```bash
+git checkout master
+git merge -X theirs --squash development
+git commit -m "feat(content): comprehensive update from development branch"
 ```

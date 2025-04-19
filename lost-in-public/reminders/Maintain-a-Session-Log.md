@@ -16,16 +16,9 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 user_name: Michael Staton
 working_with: Windsurf IDE with Claude 3.5
 category: Prompts
-tags:
-  - Session-Logs
-  - LLM-Chat-History
-  - Content-Generation
-  - Code-Generators
-  - Prompt-Engineering
-  - Context-Windows
-  - Version-Control
+tags: [Session-Logs, LLM-Chat-History, Content-Generation, Code-Generators, Prompt-Engineering, Context-Windows, Version-Control]
 date_created: 2025-03-23
-date_modified: 2025-03-26
+date_modified: 2025-04-19
 ---
 ### Working Directory:
 `content/sessions`

@@ -11,14 +11,9 @@ authors: Michael Staton
 status: In-Progress
 augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
 category: RAG-Input
-tags:
-  - Script-Pipeline
-  - Data-Cleaning
-  - Tidy-Data
-  - Markdown-Processing
-  - Node-Scripts
+tags: [Script-Pipeline, Data-Cleaning, Tidy-Data, Markdown-Processing, Node-Scripts]
 date_created: 2025-03-26
-date_modified: 2025-03-26
+date_modified: 2025-04-19
 ---
 
 # Creating a Modular Script Pipeline
