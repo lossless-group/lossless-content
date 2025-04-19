@@ -2,7 +2,7 @@
 date_created: 2025-03-21
 date_modified: 2025-04-18
 ---
-
+k
 ```bash
 
 echo ".DS_Store" >> ~/.gitignore_global
