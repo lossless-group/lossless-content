@@ -7,3 +7,17 @@ aliases:
 ---
 
 [[The Power of Challenges]]
+
+
+Hi Hi Hi Hi
+
+Here’s a table of savings:
+
+
+| Column 1 | Column 2 |
+|----------|----------|
+| Row 1    | Row 1 c2 |
+| Row 2    | Row 2 c2 |
+
+
+Pretty cool, right?
