@@ -22,6 +22,7 @@ tags:
   - Automation
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/Zb17RkPZ0hmBIpWRRXWOBqMmukqIrLuepBCUnHks8Ng/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/0b50ac50-75d7-47c0-a76a-da797c9b9810
 ---
 
 # YAML Frontmatter Corruption Correction Tool

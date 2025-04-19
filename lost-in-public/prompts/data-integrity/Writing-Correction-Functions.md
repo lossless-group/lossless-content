@@ -3,24 +3,21 @@ title: Writing Correction Functions
 lede: Create functions to fix known YAML errors in content files
 date_authored_initial_draft: 2025-03-17
 date_authored_current_draft: 2025-03-17
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft: 
+date_first_published: 
+date_last_updated: 
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
-date_modified: 2025-04-16
-banner_image: "https://img.recraft.ai/bpBDjqAwaJb8Kaw629cG5OSmAGZlIcxgi6c0yy0caNk/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/5ea9d87e-6c52-4aac-af0e-0beeee466162"
+date_modified: 2025-04-19
+banner_image: https://img.recraft.ai/bpBDjqAwaJb8Kaw629cG5OSmAGZlIcxgi6c0yy0caNk/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/5ea9d87e-6c52-4aac-af0e-0beeee466162
 site_uuid: 5f59b3c3-d003-44e8-a627-2daa9951666a
-tags:
-  - Error-Correction
-  - YAML-Validation
-  - Function-Development
-  - Build-Scripts
+tags: [Error-Correction, YAML-Validation, Function-Development, Build-Scripts]
 authors:
   - Michael Staton
+image_prompt: A plumber is on their knees under a sink, using a large wrench to try to fix a water leak.
 ---
 
 ## Objective:
