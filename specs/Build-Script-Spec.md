@@ -25,6 +25,7 @@ tags:
 authors:
   - Michael Staton
 image_prompt: "A complex flowchart with interconnected gears and code snippets, representing an automated build process. The background features digital blueprints and progress bars, evoking efficiency and precision in software development."
+banner_image: https://img.recraft.ai/M_7OipNcyj1sf_lMXmj4n6l3p-R6D5N7K8SJjzkl6oE/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/32506eeb-9c0b-4b00-ab76-7201e1edb68e
 ---
 
 # Build Scripts Architecture Specification

@@ -24,6 +24,7 @@ tags:
 authors:
   - Michael Staton
 image_prompt: "A classic ledger or digital timeline, with entries being added in sequence. The visual theme is history and transparency, underscoring the importance of tracking changes over time."
+banner_image: https://img.recraft.ai/zA1w-EMhTlOHHBAbjRPkMvgSayecjViaIuDhtmAch2o/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/78944bf6-d7c6-4459-ba66-6549f8773155
 ---
 
 # Goal

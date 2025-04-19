@@ -24,6 +24,7 @@ tags:
 authors:
   - Michael Staton
 image_prompt: "A triage desk with files being sorted into categories, some flagged for review. The visual is systematic and urgent, highlighting the process of identifying and resolving YAML inconsistencies."
+banner_image: https://img.recraft.ai/Yw8L_g54DyesxPM-mahNgTigYCbHyxHtS8Ch-IEmAhI/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/7b38bcb9-5bfd-4d97-8202-fc428e102c00
 ---
 
 # YAML Prescreening and Triaging System

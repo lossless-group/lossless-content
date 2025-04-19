@@ -14,6 +14,7 @@ tags: [Markdown, Code-Blocks, Syntax-Highlighting, Astro, Component-Architecture
 authors:
   - Michael Staton
 image_prompt: "A vibrant code editor window displaying highlighted code blocks, surrounded by glowing brackets and syntax symbols. The focus is on clarity, readability, and the elegance of well-rendered code."
+banner_image: https://img.recraft.ai/wLmggC-PI27PJCaBBBhdlC1PJkvGFkf9iqQ3zti19P8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d7de731b-3e7a-4575-be19-2a1cb73bc53c
 ---
 
 # Code Block Rendering System

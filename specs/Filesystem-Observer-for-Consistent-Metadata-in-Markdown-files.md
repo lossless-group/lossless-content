@@ -23,6 +23,7 @@ tags:
 authors:
   - Michael Staton
 image_prompt: "A robotic eye scanning folders and files, overlaying metadata tags and consistency checks. The visual is futuristic, emphasizing vigilance and automated oversight."
+banner_image: https://img.recraft.ai/A1bjY-BDZAn8v0q1M6t3Bum-SR9s2xlPli-Hm2xI_dg/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/74bebcac-ae77-4669-9453-1ac84bf9f42a
 ---
 
 # Context
