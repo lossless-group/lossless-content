@@ -23,6 +23,8 @@ https://youtu.be/ncqVZnot99c?si=I3QhZqPIh6umTibW
 
 
 [[AI Models]] are large [[Neural Networks]] that are trained on large-scale data using [[Machine Learning]], and can approach [[Compositional Generalization]]. When [[AI Models|Models]] are trained using open data sources, particularly when the [[AI Models|Model]] itself seeks and trains on public data sources, this is called [[Machine Learning#Deep Learning|Deep Learning]]. ^830936
+
+
 ![](https://i.imgur.com/XRXVVoy.png)
 
 This includes [[Large Language Models]] and [[Small Language Models]]. 
