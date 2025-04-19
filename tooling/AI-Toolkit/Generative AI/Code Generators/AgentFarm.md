@@ -496,7 +496,7 @@ tags:
 
 
 
-An [[Text Editors or IDEs|IDE]] with [[Concepts/Explainers for AI/Code Generators]] powers.
+An [[concepts/Explainers for Tooling/Text Editors or IDEs|IDE]] with [[concepts/Explainers for AI/Code Generators]] powers.
 
-##### AgentFarm is a [[Concepts/Explainers for AI/Code Generators]]
+##### AgentFarm is a [[concepts/Explainers for AI/Code Generators]]
 ![[Screenshot 2025-02-20 at 2.01.27 AM_AgentFarm--Hero.png]]

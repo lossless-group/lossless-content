@@ -81,5 +81,5 @@ tags:
 
 
 
-Backed by [[Organizations/Nvidia]]
+Backed by [[organizations/Nvidia]]
 

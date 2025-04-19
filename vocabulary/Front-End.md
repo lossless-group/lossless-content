@@ -6,7 +6,7 @@ date_created: 2025-04-06
 
 Usually involves heavy use of [[JavaScript]], [[CSS]], and [[HTML]].  
 
-[[Web Frameworks|Frameworks]] that create more functionality include [[React]], [[Vue.js]], and [[HTMX]] and [[Unpoly]]
+[[concepts/Explainers for Tooling/Web Frameworks|Frameworks]] that create more functionality include [[React]], [[Vue.js]], and [[HTMX]] and [[Unpoly]]
 
 https://youtu.be/YO7R0rYWDl8?si=U1747FwJFkggngVc
 

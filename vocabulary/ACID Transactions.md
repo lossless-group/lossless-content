@@ -6,7 +6,7 @@ site_uuid: d355fb7a-24d5-49d8-8c2b-15de6145df27
 
 A behavior of [[Relational Database]]
 
-[[Organizations/Perplexity AI]] explains [[ACID Transactions]]
+[[organizations/Perplexity AI]] explains [[ACID Transactions]]
 ACID transactions are a foundational concept in relational databases, ensuring reliability and consistency in data operations. The acronym stands for **Atomicity, Consistency, Isolation, and Durability**, each addressing a critical aspect of transaction management:
 
 1. **Atomicity**: Ensures that a transaction is treated as a single, indivisible unit. If any part of the transaction fails, the entire operation is rolled back, preventing partial updates and maintaining database integrity[1][3].

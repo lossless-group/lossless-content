@@ -15,7 +15,7 @@ tags:
 
 
 
-Created and maintained by [[Organizations/Alphabet]] at [[Organizations/Google]].
+Created and maintained by [[organizations/Alphabet]] at [[organizations/Google]].
 
 https://youtu.be/8uiZC0l4Ajw?si=C1l2tNMxgC5kVVC5
 

@@ -12,12 +12,9 @@ description_site_cp: Unlocking information value with the most powerful AI
 jina_last_request: '2025-03-09T06:45:16.262Z'
 jina_error: Error occurred
 og_last_fetch: '2025-03-07T05:19:02.922Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.862Z'
-tags:
-  - Software-Development
-  - Databases
-  - Semantic-Layer
+date_modified: 2025-04-18
+date_created: 2025-03-30
+tags: [Software-Development, Databases, Semantic-Layer]
 url: 'https://graphwise.ai/'
 ---
 

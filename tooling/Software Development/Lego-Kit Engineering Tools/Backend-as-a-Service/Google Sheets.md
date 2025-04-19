@@ -72,4 +72,4 @@ tags:
 
 
 
-Actually, functions as a [[Database Apps|Database App]].
+Actually, functions as a [[concepts/Explainers for Tooling/Database Apps|Database App]].

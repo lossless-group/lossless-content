@@ -71,4 +71,4 @@ tags:
 
 https://youtu.be/DBhSfROq3wU?si=rKFss-5zwV4KZlRL
 
-[[Concepts/Explainers for AI/AI Workspaces]]
+[[concepts/Explainers for AI/AI Workspaces]]

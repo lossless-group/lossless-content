@@ -1,21 +1,18 @@
 ---
 site_uuid: 07974b57-8cdf-4625-9109-e37cea5e92a6
 image: https://anytype.io/ogimage.jpg
-site_name: the everything app
-title: anytype — the everything app
+site_name: Anytype
+title: the everything app
 favicon: https://anytype.io/favicon-32x32.png
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/eeae976a313a1447e01097dfadf63704853d6fc24ec3a2d3ef5aedebf5c94df1.jpeg
-jina_last_request: '2025-03-09T06:45:05.990Z'
+og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/eeae976a313a1447e01097dfadf63704853d6fc24ec3a2d3ef5aedebf5c94df1.jpeg
+jina_last_request: 2025-03-09T06:45:05.990Z
 jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:19:01.824Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.854Z'
-tags:
-  - Productivity
-  - Advanced-Documents
-  - Networked-Notes
-url: 'https://anytype.io/'
+og_last_fetch: 2025-03-07T05:19:01.824Z
+date_modified: 2025-04-18
+date_created: 2025-03-30
+tags: [Productivity, Advanced-Documents, Networked-Notes]
+url: https://anytype.io/
+description_site_cp: Powerful, no-code creation. Compose anything you can imagine, visually.
 ---
 
 

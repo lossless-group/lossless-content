@@ -15,7 +15,7 @@ No idea.  [[Darlene Giordano]] from [[Laerdal Marketing]]
 
 Is a [[UI-Kit]] in [[Tooling/Figma]].  A few years ago "one of the business units" started they were building a [[UI-Kit]] in [[React]].  The Design team in Copenhagen wants to implement universal [[Design Systems]].  There seem to be 3 different [[UI-Kit]]s, platform called [[Copenhagen Office]] 
 
-No clear Guidelines, design components for [[Enrique Liel Brand Director]], [[Lande Lombard Art Director]].  They use [[SharePoint]], and [[Troels Villumsen]] believes it should live in the [[Design Systems]].  [[Divergence and Convergence]].
+No clear Guidelines, design components for [[Enrique Liel Brand Director]], [[Lande Lombard Art Director]].  They use [[SharePoint]], and [[Troels Villumsen]] believes it should live in the [[Design Systems]].  [[concepts/Divergence and Convergence]].
 
 Currently organized that the 
 
@@ -51,7 +51,7 @@ Like [[Creatie]], or [[CopyCoder]], [[UIzard]], [[UX Pilot]], [[Luny AI]], [[v0]
 
 
 ### How would creating and maintaining UI Libraries outside of React work?  
-[[Web Components]], [[Svelte]], [[Solid.js]], [[Vue.js]]?  Do you think the current NPM library will work?  No clear maintainer for how [[UI-Kit]]s get into the [[Web Frameworks]].  [[Digital Business Unit]]
+[[Web Components]], [[Svelte]], [[Solid.js]], [[Vue.js]]?  Do you think the current NPM library will work?  No clear maintainer for how [[UI-Kit]]s get into the [[concepts/Explainers for Tooling/Web Frameworks]].  [[Digital Business Unit]]
 
 
 

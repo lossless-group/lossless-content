@@ -1,4 +1,4 @@
 ---
 url: https://www.andela.com/
 ---
-Provides [[On-Demand Talent]] for Software Development.  
+Provides [[concepts/On-Demand Talent]] for Software Development.  

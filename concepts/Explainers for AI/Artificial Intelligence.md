@@ -133,7 +133,7 @@ https://youtube.com/playlist?list=PL2xnrU4RbY0B69mhYZPpxMH9UI4f14YMj&si=X137r01J
 
 ### AI Assisted Data Capture
 
-[[Concepts/Explainers for AI/AI Powered Data Capture]]
+[[concepts/Explainers for AI/AI Powered Data Capture]]
 
 ## How AI Works
 
@@ -255,7 +255,7 @@ https://youtu.be/SjSl2re_Fm8?si=hfX2YFP0tJND5eH4
 >     - Whisper (speech-to-text):
 >         - Whisper (September 2022)
 > 
-> #### **2. Google [[Organizations/DeepMind]] (Founded: September 2010, as DeepMind; Acquired by Google in 2014)**
+> #### **2. Google [[organizations/DeepMind]] (Founded: September 2010, as DeepMind; Acquired by Google in 2014)**
 > 
 > - **Unique Positioning:** Pioneers in reinforcement learning and healthcare AI.
 > - **Best Use Cases:** Scientific research, healthcare, and complex problem-solving.
@@ -278,7 +278,7 @@ https://youtu.be/SjSl2re_Fm8?si=hfX2YFP0tJND5eH4
 >         - PaLM 1 (April 2022)
 >         - PaLM 2 (May 2023)
 > 
-> #### **4. [[Organizations/Meta]] AI (Founded: 2013, as Facebook AI Research)**
+> #### **4. [[organizations/Meta]] AI (Founded: 2013, as Facebook AI Research)**
 > 
 > - **Unique Positioning:** Open research and democratizing AI through open-source tools.
 > - **Best Use Cases:** Chatbots, multimodal AI, and large-scale open-source models.
@@ -317,7 +317,7 @@ https://youtu.be/SjSl2re_Fm8?si=hfX2YFP0tJND5eH4
 >     - Integration of OpenAI models into Azure OpenAI Service.
 >     - Microsoft Copilot (March 2023): AI-enhanced productivity tools.
 > 
-> #### **8. [[Organizations/Nvidia|NVIDIA]] (Founded: April 1993)**
+> #### **8. [[organizations/Nvidia|NVIDIA]] (Founded: April 1993)**
 > 
 > - **Unique Positioning:** Leader in GPU hardware and AI frameworks.
 > - **Best Use Cases:** AI training, generative AI, and computer vision.

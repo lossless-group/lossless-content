@@ -69,7 +69,7 @@ site_name: Manus
 
 
 
-[[Concepts/Explainers for AI/Artificial General Intelligence|AGI]]
+[[concepts/Explainers for AI/Artificial General Intelligence|AGI]]
 
 https://youtu.be/cyT_ZxF-3h0?si=I3uzfZ1wsO0K6763
 

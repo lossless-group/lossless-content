@@ -85,5 +85,5 @@ tags:
 
 https://youtu.be/EJaJBLFM2kI?si=Nq5R9Zc4IZ60JXcU
 
-[[Text Editors or IDEs]]
-[[Concepts/Explainers for AI/Code Generators]]
+[[concepts/Explainers for Tooling/Text Editors or IDEs]]
+[[concepts/Explainers for AI/Code Generators]]

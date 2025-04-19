@@ -8,7 +8,7 @@ tags:
   - Text-Editors
 ---
 
-[[Tooling/Software Development/DevOps/Developer Experience/Nova|Nova]] is a beautiful [[Concepts/Explainers for Tooling/Text Editors or IDEs|Text Editor]] if you're on a [[Organizations/Apple|Apple]] machine, and you don't need all the functionality of a hardy, possibly bloated [[Concepts/Explainers for Tooling/Text Editors or IDEs|IDE]].
+[[Tooling/Software Development/DevOps/Developer Experience/Nova|Nova]] is a beautiful [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editor]] if you're on a [[organizations/Apple|Apple]] machine, and you don't need all the functionality of a hardy, possibly bloated [[concepts/Explainers for Tooling/Text Editors or IDEs|IDE]].
 
 However, where it's really mindblowing is how it visualizes [[Git Diffs]].  It's hands down the easiest way to work through the merge or pull request process. And it's so beautiful and elegant and smooth and, frankly, stylish that it turns what was once a painful task to something to look forward to.  
 

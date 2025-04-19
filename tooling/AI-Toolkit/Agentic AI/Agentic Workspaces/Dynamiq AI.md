@@ -548,6 +548,6 @@ tags:
 
 
 
-[[Agentic AI]] development platform, [[Concepts/Explainers for AI/Artificial Intelligence#|AI]]
+[[Agentic AI]] development platform, [[concepts/Explainers for AI/Artificial Intelligence#|AI]]
 
-[[Concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]]
+[[concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]]

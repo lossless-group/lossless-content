@@ -17,5 +17,5 @@ tags:
 
 [2025, Feb 25. Jujutsu: Dealing With Version Control as a Martial Art](https://thenewstack.io/jujutsu-dealing-with-version-control-as-a-martial-art/)
 
-[[Concepts/Version Control|Version Control]], similar to [[Tooling/Products/Git|Git]]
+[[concepts/Version Control|Version Control]], similar to [[Tooling/Products/Git|Git]]
 

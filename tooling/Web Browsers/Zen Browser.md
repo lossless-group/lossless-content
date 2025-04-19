@@ -68,9 +68,9 @@ tags:
 ![[Screenshot 2025-02-16 at 3.34.57 PM_Zen--Multi-Platform.png]]
 ##### [[Zen Browser]] has an [[Plug-ins,  Add-ons,  Extensions|Extension]] Library.
 ![[Screenshot 2025-02-16 at 3.42.19 PM_Zen--Extensions.png]]
-##### [[Zen Browser]] maintains [[Release Notes]].
+##### [[Zen Browser]] maintains [[concepts/Release Notes]].
 ![[Screenshot 2025-02-16 at 3.39.36 PM_Zen--Release-Notes.png]]
-##### [[Zen Browser]] streamlines [[Getting Started]]
+##### [[Zen Browser]] streamlines [[concepts/Getting Started]]
 ![[Screenshot 2025-02-16 at 3.39.14 PM_Zen--Import-Data.png]]
 ##### [[Zen Browser]] implements a simple [[Choice Architecture]]
 ![[Screenshot 2025-02-16 at 3.38.31 PM_Zen--Layout-Choices.png]]

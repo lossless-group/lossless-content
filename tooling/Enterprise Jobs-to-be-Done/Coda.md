@@ -12,7 +12,7 @@ date_modified: 2025-04-14
 date_created: 2025-03-30
 tags: [Enterprise-Jobs-To-Be-Done]
 ---
-[[Concepts/Explainers for Tooling/Advanced Documents|Advanced Documents]]
+[[concepts/Explainers for Tooling/Advanced Documents|Advanced Documents]]
 
 
 

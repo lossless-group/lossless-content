@@ -45,7 +45,7 @@ allowfullscreen
 ></iframe>
 Can we? [^7c9715]
 
-##### [[Affinity]] Designer keeps [[Release Notes]]
+##### [[Affinity]] Designer keeps [[concepts/Release Notes]]
 ![[20250220_Affinity--Release-Notes.jpeg]] [^9b01e3]
 
 

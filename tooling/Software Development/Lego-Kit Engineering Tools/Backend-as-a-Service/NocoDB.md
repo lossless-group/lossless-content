@@ -74,6 +74,6 @@ url: 'https://nocodb.com/'
 
 
 
-[[Open Source]] [[Database Apps|Database App]]
+[[Open Source]] [[concepts/Explainers for Tooling/Database Apps|Database App]]
 
 

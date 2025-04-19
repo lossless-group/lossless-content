@@ -12,7 +12,7 @@ date_modified: 2025-03-21
 The [Dovetail API](https://dovetail.com/help/dovetail-api/)
 
 ## Channels
-Can add content through [[Organizations/Dovetail]] through Channels.  
+Can add content through [[organizations/Dovetail]] through Channels.  
 
 ### Data Fluidics & Dovetail
 

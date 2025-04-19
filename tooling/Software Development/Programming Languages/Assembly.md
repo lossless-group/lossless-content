@@ -13,7 +13,7 @@ tags:
 
 
 
-> [!LLM Response] [[Organizations/Perplexity AI|Perplexity AI]] explains [[Tooling/Software Development/Programming Languages/Assembly|ASM]]
+> [!LLM Response] [[organizations/Perplexity AI|Perplexity AI]] explains [[Tooling/Software Development/Programming Languages/Assembly|ASM]]
 > 
 > There is no single organization that maintains assembly language in the same way that ECMA International manages JavaScript. Assembly languages are typically specific to the architecture of a computer's processor and are developed by various companies or communities for their respective platforms. For example, x86 assembly language is used for Intel and AMD processors, while ARM assembly is used for ARM-based processors.
 > 

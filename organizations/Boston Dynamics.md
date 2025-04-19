@@ -1,6 +1,6 @@
 ---
 url: https://bostondynamics.com/
-parent-org: "[[Organizations/Alphabet]]"
+parent-org: "[[organizations/Alphabet]]"
 ---
 
 [[Robotics]]

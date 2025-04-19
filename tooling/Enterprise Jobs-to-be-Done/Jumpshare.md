@@ -70,6 +70,6 @@ url: 'https://jumpshare.com/'
 
 
 
-[[Asynchronous Communication]], [[Cognitive, Collaborative Tooling]]
+[[Asynchronous Communication]], [[concepts/Cognitive, Collaborative Tooling]]
 ##### [[Jumpshare]] is an easy way to share any media, but with more sophisticated tooling.
 ![[Screenshot 2025-02-24 at 11.52.10 PM_Jumpshare.png]]

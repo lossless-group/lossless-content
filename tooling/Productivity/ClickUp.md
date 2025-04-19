@@ -46,7 +46,7 @@ url: 'https://clickup.com/'
 
 
 
-[[Rebundling]], [[Workflow Management]], [[Cognitive, Collaborative Tooling]]
+[[Rebundling]], [[Workflow Management]], [[concepts/Cognitive, Collaborative Tooling]]
 [[All-in-One Platforms|All-in-One Platform]]
 
 ![[Screenshot 2025-02-24 at 7.59.18 PM_ClickUp--Hero.png]]

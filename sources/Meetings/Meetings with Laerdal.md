@@ -1,5 +1,5 @@
 
-20241213 meeting with [[Organizations/Laerdal Global Health]]
+20241213 meeting with [[organizations/Laerdal Global Health]]
 Karoline
 Data in 5 different places on neonatal care.  
 Laerdal Device collects data but the loop between champions, Laerdal, and care teams could use help.  Data with Insights.  

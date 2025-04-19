@@ -12,10 +12,7 @@ jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:20:56.744Z
 date_modified: 2025-04-17
 date_created: 2025-03-30
-tags:
-  - AI-Toolkit
-  - AI-Interfaces
-  - AI-Workspaces
+tags: [AI-Toolkit, AI-Interfaces, AI-Workspaces]
 url: https://get.mem.ai/
 ---
 
@@ -113,4 +110,4 @@ url: https://get.mem.ai/
 
 
 
-Similar to [[Networked-Notes]] and [[Advanced Documents]], but using [[Generative AI]].
+Similar to [[Networked-Notes]] and [[concepts/Explainers for Tooling/Advanced Documents]], but using [[Generative AI]].

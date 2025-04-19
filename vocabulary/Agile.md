@@ -84,11 +84,11 @@ A backlink to [[vocabulary/Affinity Network]]
 > 
 > ### Controversies and Criticisms  
 > Despite its success, Agile faces scrutiny:  
-> 1. **Misapplication**: Superficial adoption (“pseudo-Agile”) without cultural buy-in leads to failed implementations[6][9].  
-> 2. **Scaling Challenges**: Large organizations struggle with coordination; frameworks like SAFe introduce complexity[6][9].  
-> 3. **Overemphasis on Speed**: Rapid iterations risk technical debt and unstable products[6][9].  
-> 4. **Cultural Resistance**: Transitioning from hierarchical structures to self-organizing teams often meets internal pushback[5][6].  
-> 5. **Documentation Gaps**: Minimal documentation complicates onboarding and long-term maintenance[6][9].  
+> 1. **Misapplication**: Superficial adoption (“pseudo-Agile”) without cultural buy-in leads to failed implementations [6] [9].  
+> 2. **Scaling Challenges**: Large organizations struggle with coordination; frameworks like SAFe introduce complexity [6] [9].  
+> 3. **Overemphasis on Speed**: Rapid iterations risk technical debt and unstable products [6] [9].  
+> 4. **Cultural Resistance**: Transitioning from hierarchical structures to self-organizing teams often meets internal pushback [5] [6].  
+> 5. **Documentation Gaps**: Minimal documentation complicates onboarding and long-term maintenance [6] [9].  
 > 
 > ### Evidence and Research  
 > Studies highlight Agile’s strengths and limitations:  

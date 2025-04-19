@@ -1,4 +1,4 @@
 
 
-##### [[Organizations/Flathub]] is a Third-Party [[App Stores|App Store]] for [[Organizations/The Linux Foundation|Linux]]
+##### [[organizations/Flathub]] is a Third-Party [[App Stores|App Store]] for [[organizations/The Linux Foundation|Linux]]
 ![[Screenshot From 2024-12-26 18-28-23_Flathub--AppStore.png]]

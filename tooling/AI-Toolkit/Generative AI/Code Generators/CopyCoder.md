@@ -94,7 +94,7 @@ tags:
 
 
 
-##### [[CopyCoder]] is a [[Concepts/Explainers for AI/Code Generators]], working from Images
+##### [[CopyCoder]] is a [[concepts/Explainers for AI/Code Generators]], working from Images
 <span query="get(hero)"></span>![[Screenshot 2025-02-20 at 2.34.55 PM_CopyCoder--Hero.png]]<span type="end"></span>
 
 https://youtu.be/YgcJHpFV3ug?si=OfJVm1I83rJp8u2p

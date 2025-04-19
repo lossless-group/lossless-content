@@ -75,5 +75,5 @@ https://youtu.be/me5SyOFegWo?si=uLuXS3O8XOqBCvxd
 
 
 
-An [[Open Source]] alternative to [[Organizations/Perplexity AI]]
+An [[Open Source]] alternative to [[organizations/Perplexity AI]]
 

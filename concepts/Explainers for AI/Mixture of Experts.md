@@ -125,7 +125,7 @@ tags:
 
 
 
-[[Organizations/Perplexity AI]] explains [[Concepts/Explainers for AI/Mixture of Experts]]
+[[organizations/Perplexity AI]] explains [[concepts/Explainers for AI/Mixture of Experts]]
 The **Mixture of Experts (MoE)** model differs from other statistical models in large language models (LLMs) primarily through its **sparse computation and dynamic specialization**:
 
 1. **Architecture**:

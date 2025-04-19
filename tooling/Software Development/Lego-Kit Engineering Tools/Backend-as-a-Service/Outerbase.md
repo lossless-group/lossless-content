@@ -73,7 +73,7 @@ url: 'https://www.outerbase.com/'
 
 
 
-Turns any [[Databases]] into a [[Database Apps|Database App]].
+Turns any [[concepts/Explainers for Tooling/Databases]] into a [[concepts/Explainers for Tooling/Database Apps|Database App]].
 
 
 

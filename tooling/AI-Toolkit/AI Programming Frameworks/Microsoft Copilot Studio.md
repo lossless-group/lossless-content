@@ -1,9 +1,9 @@
 ---
 site_uuid: d43bbbfa-424f-4990-8f07-5a574930007b
-aliases: null
-parent_org: '[[Organizations/Microsoft]]'
-date_modified: '2025-04-12'
-date_created: '2025-03-31T20:44:50.507Z'
+aliases: 
+parent_org: "[[organizations/Microsoft]]"
+date_modified: 2025-04-12
+date_created: 2025-03-31T20:44:50.507Z
 tags:
   - AI-Toolkit
 ---

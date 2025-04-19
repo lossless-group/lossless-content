@@ -15,5 +15,5 @@ tags:
   - Generative-AI
 ---
 
-[[Concepts/Explainers for AI/Voice Cloners|Voice Cloning]]
-[[Concepts/Explainers for AI/Text-to-Speech|Text-to-Speech]]
+[[concepts/Explainers for AI/Voice Cloners|Voice Cloning]]
+[[concepts/Explainers for AI/Text-to-Speech|Text-to-Speech]]

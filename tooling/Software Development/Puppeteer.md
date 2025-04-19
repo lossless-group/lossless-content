@@ -32,4 +32,4 @@ tags:
 
 
 
-[[Concepts/Explainers for AI/AI Powered Data Capture]]
+[[concepts/Explainers for AI/AI Powered Data Capture]]

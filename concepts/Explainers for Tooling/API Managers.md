@@ -3,12 +3,12 @@ aliases:
   - API Manager
 ---
 
-[[Organizations/Zuplo]]
+[[organizations/Zuplo]]
 
-> [!NOTE] AI Explains [[API Managers]]
+> [!NOTE] AI Explains [[concepts/Explainers for Tooling/API Managers]]
 > ### Role of API Manager Web Services
 > 
-> [[API Managers]]API Manager web services, such as Zuplo, play a crucial role in streamlining application development by providing a centralized platform for managing APIs throughout their lifecycle. These services facilitate the creation, deployment, security, and monitoring of [[Application Programming Interface|APIs]], which are essential for enabling communication between different software applications.
+> [[concepts/Explainers for Tooling/API Managers]]API Manager web services, such as Zuplo, play a crucial role in streamlining application development by providing a centralized platform for managing APIs throughout their lifecycle. These services facilitate the creation, deployment, security, and monitoring of [[Application Programming Interface|APIs]], which are essential for enabling communication between different software applications.
 > 
 > #### How They Streamline Application Development
 > 
@@ -22,7 +22,7 @@ aliases:
 > 
 > Several innovative vendors provide API management solutions, including:
 > 
-> - **[[Organizations/Zuplo]]**: A lightweight, fully-managed API management platform designed for developers, featuring GitOps, fast deployments, and full OpenAPI support.
+> - **[[organizations/Zuplo]]**: A lightweight, fully-managed API management platform designed for developers, featuring GitOps, fast deployments, and full OpenAPI support.
 > - **[[Apigee]]**: A comprehensive API management solution from Google that helps create, secure, and scale APIs.
 > - **MuleSoft**: Offers a unified platform for API management and integration, allowing for easy design and management of APIs.
 > - **[[Kong]]**: A cloud-native API management platform that provides extensive features for managing APIs and microservices.

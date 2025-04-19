@@ -28,8 +28,8 @@ url: 'https://paligo.net/'
 
 
 
-Part of the current [[Current Stack|Laerdal Tech Stack]], [[Paligo]] is a [[Documentation]] tool. It seems to be [[State of the Art]], and is a more fully-featured [[Documentation]] Engine than most alternatives.
+Part of the current [[Current Stack|Laerdal Tech Stack]], [[Paligo]] is a [[Documentation]] tool. It seems to be [[concepts/State of the Art]], and is a more fully-featured [[Documentation]] Engine than most alternatives.
 
-This is an example of our concepts for [[Cognitive, Collaborative Tooling]]
+This is an example of our concepts for [[concepts/Cognitive, Collaborative Tooling]]
 
 ![[Screenshot 2025-02-10 at 6.25.42 AM_Paligo--Hero.png]]
