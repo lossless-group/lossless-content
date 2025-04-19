@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-title: Technical Specification Dynamic Information Page Rendering in Astro
-=======
 title: Dynamic Information Page Rendering in Astro
->>>>>>> a4654bf52143c8d079c4e1eb66ce57a944fcf5d1
 lede: Empower developers to focus on layout and let MDX do the content and interaction
 date_authored_initial_draft: 2025-03-24
 date_authored_current_draft: 2025-03-24
