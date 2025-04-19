@@ -21,6 +21,7 @@ tags:
   - Error-Corrections
 authors:
   - Michael Staton
+image_prompt: "A detective’s magnifying glass hovering over lines of code and YAML files, with highlighted corrections and annotations. The atmosphere is investigative, emphasizing problem-solving and meticulous attention to detail."
 ---
 
 # YAML Frontmatter Error Detection and Correction System

@@ -15,6 +15,7 @@ tags:
 date_created: 2025-04-12
 date_modified: 2025-04-12
 site_uuid: 550e8400-e29b-41d4-a716-446655440000
+image_prompt: "A high-tech assembly line with documents moving through various quality checkpoints, ending in a polished, published article. The image conveys reliability, automation, and editorial excellence."
 ---
 
 # Robust Standard Publication Pipeline

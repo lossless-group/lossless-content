@@ -24,6 +24,7 @@ tags:
   - YouTube
 authors:
   - Michael Staton
+image_prompt: "A complex flowchart with interconnected gears and code snippets, representing an automated build process. The background features digital blueprints and progress bars, evoking efficiency and precision in software development."
 ---
 
 # Build Scripts Architecture Specification
@@ -418,4 +419,3 @@ The `masterBuildScriptOrchestrator.cjs` coordinates processing in this order:
 ---
 
 This specification provides the foundation for understanding, implementing, and extending the build scripts system. It balances the needs of both technical and non-technical stakeholders while providing sufficient detail for implementation.
-

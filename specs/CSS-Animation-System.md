@@ -22,6 +22,7 @@ tags:
   - User-Experience
 authors:
   - Michael Staton
+image_prompt: "Colorful, smoothly animated shapes and UI elements in motion, set against a modern web interface. The scene radiates creativity and dynamic energy, highlighting the beauty of CSS-powered transitions and effects."
 ---
 
 # CSS Animation System

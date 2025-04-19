@@ -22,6 +22,7 @@ tags:
   - TypeScript
 authors:
   - Michael Staton
+image_prompt: "Interactive UI panels with sortable and filterable lists, animated with smooth transitions. The design is sleek and modern, highlighting user empowerment and flexibility."
 ---
 
 # Overview

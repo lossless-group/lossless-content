@@ -22,6 +22,7 @@ tags:
   - Content-Management
 authors:
   - Michael Staton
+image_prompt: "A style guide book open to Markdown syntax rules, surrounded by neatly formatted documents. The mood is orderly and instructive, promoting best practices and consistency."
 ---
 
 ## Dataview Syntax
