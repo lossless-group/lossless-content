@@ -10,9 +10,9 @@ jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:19:01.831Z
 date_modified: 2025-04-18
 date_created: 2025-03-30
-tags: [Data-Utilities, Data-Analytics, Data-Dashboards]
+tags: [Data-Utilities, Data-Dashboards, Data-Analytics]
 url: https://www.tableau.com
-description_site_cp: Vizualize analytics like you’ve never seen before.
+description: Vizualize analytics like you’ve never seen before.
 ---
 
 

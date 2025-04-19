@@ -89,8 +89,20 @@ Brief overview of changes in 1-2 sentences.
 
 # List of Affected Files
 
-`"[[" ${Path/to/file/File Name} "]]"`
-```
+An "Obsidian Flavor" backlink is a "wikilink" that points to a file in the content directory.  It begins and ends with double brackets `[[` and `]]`.  In between, it MUST HAVE THE EXACT relative path from the root of the content directory to the file. THIS MEANS DO NOT INCLUDE "content" as the relative path, even though "content" is the name of the submodule and may show up in the relative path, depending on the working directory you are in when you write the backlink.
+
+Backlinks also have a pipe `|` after the relative path to the file (including the file name and file extension). The pipe is followed by the file name, stripped of any dashes or underscores that are meant to be "safe" spacing characters, and with no extension.  This is the "File Name" in the backlink.
+
+If there are only 10-30 affected files, put them in an unordered list.  If there are more than 30 affected files, just make them comma separated in a continguous paragraph.
+
+## Example
+
+`"[[" ${Path/to/file/File-Name.md|File Name} "]]"`
+
+`content/lost-in-public/prompts/workflow/SVG-Image-Rendering-Issue-Resolution.md`
+becomes:
+`[[lost-in-public/prompts/workflow/SVG-Image-Rendering-Issue-Resolution.md|SVG Image Rendering Issue Resolution]]`
+
 
 ### 3. Changelog Rules
 
@@ -127,7 +139,11 @@ date: 2025-03-18
 author: "Michael Staton"
 augmented_with: "Windsurf on Claude 3.5 Sonnet"
 category: "Technical"
-tags: ["YAML", "Validation", "Build-Scripts", "Content-Management"]
+tags: 
+- YAML
+- Validation
+- Build-Scripts
+- Content-Management
 image_prompt: "A content changelog entry UI with sections for updates, improvements, and editorial notes. Visuals include content cards, timeline markers, and collaborative editing tools, symbolizing organized content history tracking."
 ---
 

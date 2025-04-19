@@ -2,7 +2,7 @@
 date_created: 2025-03-21
 date_modified: 2025-04-18
 ---
-
+k
 ```bash
 
 echo ".DS_Store" >> ~/.gitignore_global
@@ -88,4 +88,9 @@ Need to put your current code at the HEAD of another branch?
 
 ```bash
 git switch -C development
+```
+
+If you have staged changes with `git add` but have not commited, and want to reverse:
+```bash
+git reset
 ```

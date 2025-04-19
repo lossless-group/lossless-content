@@ -10,12 +10,9 @@ jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:19:01.831Z
 date_modified: 2025-04-18
 date_created: 2025-03-30
-tags:
-  - Data-Utilities
-  - Check-It-Out
+tags: [Data-Utilities, Check-It-Out]
 url: https://upstash.com
 description_site_cp: The single platform for all your data needs
 ---
-[[Serverless]]
-[[Vocabulary/All-in-One Platforms|All-in-One Platform]]
 
+[[Serverless]]

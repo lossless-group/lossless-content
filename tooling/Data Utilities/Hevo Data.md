@@ -10,8 +10,7 @@ jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:19:01.834Z
 date_modified: 2025-04-18
 date_created: 2025-03-30
-tags: [Data-Utilities, Data-Tooling, Check-It-Out]
-zinger: The only true ELT for AI ready data
+tags: [Data-Utilities, Data-Tooling]
 description_site_cp: Fully managed, no-code platform to automate data replication. Ingest, transform, and load data from 150+ sources. Get reliable data every time.
 ---
 

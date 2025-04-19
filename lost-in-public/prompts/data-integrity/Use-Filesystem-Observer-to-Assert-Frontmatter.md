@@ -3,24 +3,21 @@ title: Frontmatter consistency through filesystem observer
 lede: Leverage the file system libraries to observe directories for new files, insert frontmatter templates.
 date_authored_initial_draft: 2025-03-29
 date_authored_current_draft: 2025-04-01
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft: 
+date_first_published: 
+date_last_updated: 
 at_semantic_version: 0.0.0.2
 status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
-date_modified: 2025-04-16
-banner_image: "https://img.recraft.ai/ZEjVZ7wvGmVnKxSH_jKqYYJx5k-RX_aI8OzXzV-oSnY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a1a21c0d-5cbb-4162-ac13-693f65380fa6"
+date_modified: 2025-04-19
+banner_image: https://img.recraft.ai/ZEjVZ7wvGmVnKxSH_jKqYYJx5k-RX_aI8OzXzV-oSnY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a1a21c0d-5cbb-4162-ac13-693f65380fa6
 site_uuid: a1e00d51-a725-44e9-af64-ff4eda718e4b
-tags:
-  - Frontmatter-Validation
-  - File-Processing
-  - Build-Scripts
-  - File-Systems
+tags: [Frontmatter-Validation, File-Processing, Build-Scripts, File-Systems]
 authors:
   - Michael Staton
+image_prompt: A pair of binoculars is sitting on top of a set of filing folders.  A file cabinet is off to one side.
 ---
 
 ## Objective: 

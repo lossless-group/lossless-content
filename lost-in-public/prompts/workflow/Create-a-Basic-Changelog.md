@@ -3,21 +3,21 @@ title: Create a Basic Changelog
 lede: Guidelines for creating and maintaining a structured changelog
 date_authored_initial_draft: 2025-03-14
 date_authored_current_draft: 2025-03-15
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft: 
+date_first_published: 
+date_last_updated: 
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Documentation
-date_modified: 2025-04-16
+date_modified: 2025-04-19
 date_created: 2025-04-16
-banner_image: "https://img.recraft.ai/RcRXJ9AZIMRi31U7_tpXn3rs20EkWZCA3UbIqbDO3jc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a1ab7b7e-fa76-4413-ae97-696f3a9eab94"
+banner_image: https://img.recraft.ai/RcRXJ9AZIMRi31U7_tpXn3rs20EkWZCA3UbIqbDO3jc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a1ab7b7e-fa76-4413-ae97-696f3a9eab94
 site_uuid: 162f8c5c-ee3f-448d-97af-459cb9cee111
-tags:
-  - Workflow
+tags: [Workflow]
 authors:
   - Michael Staton
+image_prompt: A column list of dates on the left, most recent on the top. On the right, the symbol representing infinite.
 ---
 
 # Purpose  # High-level goal

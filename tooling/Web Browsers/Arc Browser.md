@@ -1,26 +1,22 @@
 ---
 site_uuid: 1293953e-113f-44bf-b3a1-bae7f317b6db
-aliases:
-  - Arc
+aliases: [Arc]
 url: https://arc.net
 og_errors: true
-og_last_error: '2025-03-08T20:39:41.880Z'
+og_last_error: 2025-03-08T20:39:41.880Z
 og_error_message: HTTP error 401
-jina_last_request: '2025-03-09T06:45:02.500Z'
+jina_last_request: 2025-03-09T06:45:02.500Z
 jina_error: Error occurred
 image: https://arc.net/og.png
-site_name: Arc from The Browser Company
+site_name: Arc Browser
 title: Arc from The Browser Company
 favicon: https://arc.net/favicon.png
 og_fetched_url: https://arc.net
-og_last_fetch: '2025-03-14T04:41:14.912Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.876Z'
-tags:
-  - Web-Browsers
-  - Check-It-Out
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/0b851f7076b1209295591bbd297506d5f6b4b1b005e18d9a2e59f20d08dfe0ee.jpeg
+og_last_fetch: 2025-03-14T04:41:14.912Z
+date_modified: 2025-04-18
+date_created: 2025-03-30
+tags: [Web-Browsers, Check-It-Out]
+og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/0b851f7076b1209295591bbd297506d5f6b4b1b005e18d9a2e59f20d08dfe0ee.jpeg
 ---
 
 

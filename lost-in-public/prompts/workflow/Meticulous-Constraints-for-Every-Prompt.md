@@ -21,7 +21,8 @@ tags:
 authors:
   - Michael Staton
 image_prompt: "A detailed checklist and rulebook beside a prompt engineering workspace, with highlighted constraints, best-practice icons, and a glowing AI assistant. Visuals include sticky notes, error warnings, and a sense of meticulous order."
-
+banner_image: https://img.recraft.ai/Ng7_Zp0IjpMdFrB_T5uDukRixyPfXz7RL-Ht-v7Y-_Q/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/2aa7d7e9-61c7-416c-83c5-c8576428cf5d
+---
 ## Before starting:
 
 Do not begin until you have fully read this file, and all other files that are mentioned in this file. 
