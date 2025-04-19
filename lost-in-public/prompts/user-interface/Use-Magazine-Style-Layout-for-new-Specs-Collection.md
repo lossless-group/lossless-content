@@ -134,7 +134,7 @@ graph TD
 - Edge cases (missing metadata, empty collections) are gracefully handled.
 
 ## 6. Error Handling
-- If a spec is malformed or missing required metadata, **omit it from the rendered output** and report the error using our standard reporting/logging methods (see [Maintain-Consistent-Reporting.md](../../../lost-in-public/rag-input/Maintain-Consistent-Reporting.md)).
+- If a spec is malformed or missing required metadata, **omit it from the rendered output** and report the error using our standard reporting/logging methods (see [Maintain-Consistent-Reporting.md](lost-in-public/reminders/Maintain-Consistent-Reporting.md)).
 - Never allow errors in build or usability due to missing or malformed YAML/frontmatter—**the UI and build must always succeed, even if some content is omitted**. This is a core rule from [.windsurfrules].
 
 ## 7. Cross-Linking & Relationships
