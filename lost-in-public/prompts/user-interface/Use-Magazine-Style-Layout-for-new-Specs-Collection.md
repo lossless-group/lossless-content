@@ -1,6 +1,6 @@
 ---
 title: Use Magazine Style Layout for new Specs Collection
-lede: Use a magazine-style layout for the new Specs Collection, reusing as many components and render pipeline as possible. 
+lede: Use a magazine-style layout for the new Specs Collection, reusing as many components and render pipeline as possible.
 date_authored_initial_draft: 2025-04-17
 date_authored_current_draft: 2025-04-17
 at_semantic_version: 0.0.0.1
@@ -8,11 +8,12 @@ status: To-Prompt
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-17
-date_modified: 2025-04-17
-tags:
-  - User-Interface
+date_modified: 2025-04-19
+tags: [User-Interface]
 authors:
   - Michael Staton
+image_prompt: An open magazine on a desk with big images, like National Geographic or Vogue.
+banner_image: https://img.recraft.ai/X4j1g7Ux7e8d0FaHR4ZQ_kspb7ELYpsatDsCMAZNK_A/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/c1fe301f-4f50-4477-8573-417a96336015
 ---
 
 # Goals

@@ -3,19 +3,21 @@ title: Citation Processing for FileSystem Observer
 lede: Enhance the filesystem observer to automatically format citations, convert to hex IDs, and maintain a citation registry
 date_authored_initial_draft: 2025-04-13
 date_authored_current_draft: 2025-04-13
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft: 
+date_first_published: 
+date_last_updated: 
 at_semantic_version: 0.0.0.5
 status: Draft
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts=
 date_created: 2025-04-13
-date_modified: 2025-04-18
+date_modified: 2025-04-19
 site_uuid: 4cf59a40-fcb0-4297-b131-162d057a899f
 tags: [File-Processing, Build-Scripts, File-Systems, Data-Integrity]
 authors:
   - Michael Staton
+image_prompt: Two students at a library, sitting a desk, with a giant stack of books.
+banner_image: https://img.recraft.ai/b0wYCmmKaAeqJmNbmgRHk8KTScYQvfX02q7X1iN3T-M/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/e8f5e483-4fc6-4192-b7db-111054107c48
 ---
 
   
