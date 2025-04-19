@@ -22,6 +22,7 @@ tags:
 authors:
   - Michael Staton
 image_prompt: "A tidy workspace with neatly organized folders and checklists, each item being ticked off one by one. The visual theme is clarity and order, symbolizing systematic correction of individual YAML issues."
+banner_image: https://img.recraft.ai/5qpL62FRAEB39yDSbblBdzOLRLd-vju0LR3gT4Oh61Q/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d773e025-363c-41ff-8ccc-b7b2dcb55399
 ---
 
 ## Executive Summary

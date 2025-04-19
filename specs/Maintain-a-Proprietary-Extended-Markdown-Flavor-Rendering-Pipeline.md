@@ -23,6 +23,7 @@ tags:
   - Content-Display
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/ZuMoPafOOcwR-D7XH9Qi9TOsFAXFMjnbt6SL75VcNdE/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/b7dc63d3-7728-425d-81a1-fa8aa8f3209b
 ---
 
 # ABSOLUTE 150% DO NOT FUCKING FUCK WITH ME CONSTRAINTS

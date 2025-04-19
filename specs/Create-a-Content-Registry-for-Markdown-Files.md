@@ -21,6 +21,7 @@ tags:
 authors:
   - Michael Staton
 image_prompt: "A digital library with rows of labeled files and glowing indexes, representing a structured registry. The scene is organized and accessible, conveying the idea of systematic content management."
+banner_image: https://img.recraft.ai/pgIMeSE8l_ULbyRHcLYnfL2at9_nIXK28rJmitTWXk8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/66de72a6-fd02-4477-bfea-113f652fc9ed
 ---
 
 ## Executive Summary

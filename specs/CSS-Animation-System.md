@@ -23,6 +23,7 @@ tags:
 authors:
   - Michael Staton
 image_prompt: "Colorful, smoothly animated shapes and UI elements in motion, set against a modern web interface. The scene radiates creativity and dynamic energy, highlighting the beauty of CSS-powered transitions and effects."
+banner_image: https://img.recraft.ai/TCJ7hN_K4fmsxiH0vVieoVnMjotJvm_A8piPuBWjd5Y/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/1e8e1268-8647-46d0-a4df-10d0ddb1c161
 ---
 
 # CSS Animation System

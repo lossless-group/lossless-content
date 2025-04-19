@@ -22,6 +22,7 @@ tags:
 authors:
   - Michael Staton
 image_prompt: "A detective’s magnifying glass hovering over lines of code and YAML files, with highlighted corrections and annotations. The atmosphere is investigative, emphasizing problem-solving and meticulous attention to detail."
+banner_image: https://img.recraft.ai/pySn9PpbSCdfUWZ9-QXnuhgSLg0z8UzvEDokjGaI1vg/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/344aa2e2-b07f-4bbe-bd8d-6eb3f6c1ebac
 ---
 
 # YAML Frontmatter Error Detection and Correction System

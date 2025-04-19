@@ -23,6 +23,7 @@ tags:
 authors:
   - Michael Staton
 image_prompt: "A style guide book open to Markdown syntax rules, surrounded by neatly formatted documents. The mood is orderly and instructive, promoting best practices and consistency."
+banner_image: https://img.recraft.ai/1iJP_xuQ7uQ29O5IDnMsTAtYs-67fBxcdeR9Cy5BfN8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/4e546698-ca9f-47b4-880a-8fbdeeb890f4
 ---
 
 ## Dataview Syntax

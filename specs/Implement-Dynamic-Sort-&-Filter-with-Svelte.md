@@ -23,6 +23,7 @@ tags:
 authors:
   - Michael Staton
 image_prompt: "Interactive UI panels with sortable and filterable lists, animated with smooth transitions. The design is sleek and modern, highlighting user empowerment and flexibility."
+banner_image: https://img.recraft.ai/1StH-cP2OuWh3IJp_Tagops56q6bqKDhZIgRSFsGOww/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/ad9c267c-ff99-4b8a-a24e-1d66aadbfa23
 ---
 
 # Overview
