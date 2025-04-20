@@ -27,6 +27,7 @@ authors:
 # Constraints
 Do not be destructive, if there is content already there the user will decide on edits. 
 Summaries and bullets are good, but meaningless fluff is not good. Don't be vague.  
+When using Markdown syntax to introduce a break or section break, do not use "---". Given that is the YAML delimiter, it will cause issues. Instead, use "***".
 
 # Flow and Props, Flow and Props
 The most important aspect of iterating on a prompt is to explain the sequence of components, and how data is passed through the system. 

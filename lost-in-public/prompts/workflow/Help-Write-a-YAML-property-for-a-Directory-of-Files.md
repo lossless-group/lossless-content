@@ -3,16 +3,16 @@ title: Create a permanent memory for project YAML conventions
 lede: Eliminate frustration by observing guidelines, working within hard rules and constraints, and learning to detect YAML irregularties that could cause bugs and failures
 date_authored_initial_draft: 2025-04-19
 date_authored_current_draft: 2025-04-19
-date_authored_final_draft: "null"
-date_first_published: "null"
+date_authored_final_draft: null
+date_first_published: null
 date_last_updated: 
-at_semantic_version: 0.0.0.1
-status: To-Prompt
+at_semantic_version: 0.0.1.0
+status: Implemented
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-19
 date_modified: 2025-04-19
-image_prompt: A robot is writing at an antique desk with a quill and ink by candle light.
+image_prompt: "A robot is writing at an antique desk with a quill and ink by candle light."
 tags:
   - Workflow
   - YAML
@@ -20,6 +20,7 @@ tags:
   - Content-Automation
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/UgzYBaUuHPNO8mk-FrWTtTQrOnysbgfD1NTX8aUu8O8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/32965b5c-18fc-47e2-ab82-79a8d148d886
 ---
 
 # Context
@@ -64,6 +65,10 @@ We then use that `banner_image` url to render images in cards and other componen
 
 Write an "image_prompt" for the files in the working directory.  Make it one to four sentences, and try to use visual imagery that will help the Recraft API generate a meaningful, clear corresponding image to the specification.  
 
+## Do not overwrite existing image_prompt values, do not remove any banner_image values.  
+
+Most files will not have an image_prompt value, but for those that do not, write one.   
+
 ### Working Directory:
-`content/specs`
+`content/prompts`
 
