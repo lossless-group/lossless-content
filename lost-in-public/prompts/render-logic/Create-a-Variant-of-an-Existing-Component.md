@@ -12,13 +12,16 @@ augmented_with: Windsurf Cascade on GPT 4.1
 category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
-image_prompt: "A component icon with many variant icons in a grid pattern."
+site_uuid: d3888762-69d1-40c7-8400-658e354fb85e
+image_prompt: "The Figma component icon, a purple diamond made of four smaller diamonds, on the upper left. Then repeating the icon -- the variant icon, the same diamond shape with no fill, just the outline -- repeating in a grid pattern."
+banner_image: https://img.recraft.ai/JTBWRPgZCyZix5c1_yPuCMQ8fwml7-jYCWTUObX750U/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/dc5907a4-62bf-4b1a-b4c8-1302359c9eff
 tags:
-  - Render-Logic
-  - Component-based-Architecture
-  - UI-Design
+- Render-Logic
+- Component-based-Architecture
+- UI-Design
 authors:
-  - Michael Staton
+- Michael Staton
+
 ---
 
 ## Context
