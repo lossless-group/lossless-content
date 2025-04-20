@@ -23,6 +23,8 @@ date_modified: 2025-04-19
 ### Working Directory:
 `content/sessions`
 
+**Note:** If you are reading this, DO NOT ADD DIALOG TO THIS DOCUMENT.  THE DIALOG SHOULD BE ADDED OR FILE CREATED IN THE WORKING DIRECTORY LISTED ABOVE.
+
 ### File Naming:
 `YYYY-MM-DD_Session_${indexCount}` where `indexCount` is a two digit integer, beginning at 01.  
 
@@ -304,3 +306,5 @@ The following changes were made by the USER to: /Users/mpstaton/code/lossless/20
  - Started new session log for YAML documentation work
 
 #End-of-Session
+
+***
