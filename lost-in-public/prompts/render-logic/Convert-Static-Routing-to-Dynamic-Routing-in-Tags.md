@@ -189,6 +189,17 @@ graph TD
 - [ ] Are all usages of TagChip.astro updated to pass the correct route?
 - [ ] Are code comments up to date? If so, please apply our flavor of commenting, which can be found in [[lost-in-public/reminders/Comprehensive-Rules-for-Code-Generation.md|Comprehensive Rules for Code Generation]]
 
+> This section was added via iterative prompt improvement. See `/content/lost-in-public/prompts/workflow/Improve-on-a-User-Prompt-through-Iteration.md` for methodology.
+
 ***
 
-> This section was added via iterative prompt improvement. See `/content/lost-in-public/prompts/workflow/Improve-on-a-User-Prompt-through-Iteration.md` for methodology.
+## 2025-04-21 Iterative Update: Tag Prop Bug Fix
+
+During iterative implementation, we discovered that Astro’s prop inference could cause the tag prop to be interpreted as a boolean if passed in shorthand (e.g., <TagChip tag />). This led to bugs where tags rendered as true or false instead of the intended string value.
+
+Solution
+Prop Naming: The TagChip.astro component now expects a tagString prop (string), not tag.
+Usage: All parent components must pass tagString={tag} explicitly.
+Defensive Coding: If tagString is not a string, a warning is logged in development.
+Backward Compatibility: The legacy tag prop is still accepted for now, but all new code should use tagString.
+Commenting: All changes are thoroughly commented, following the Comprehensive Rules for Code Generation.

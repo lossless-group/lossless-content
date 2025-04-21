@@ -1,4 +1,19 @@
 ---
+title: Extending Markdown with Obsidian FlavoredSyntax
+date_authored_initial_draft: 2025-03-19
+date_authored_final_draft: 2025-03-20
+date_first_published: null
+at_semantic_version: 0.0.0.1
+status: To-Do
+authors:
+  - Michael Staton
+augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
+category: Code-Generators
+tags:
+  - Workflow-Management
+  - Client-Updates
+  - Platform-Mechanisms
+  - Workspace-Configurations
 date_created: 2025-03-19
 date_modified: 2025-03-20
 ---

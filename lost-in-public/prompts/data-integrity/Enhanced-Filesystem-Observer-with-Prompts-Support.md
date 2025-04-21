@@ -546,6 +546,110 @@ ${content}
   this.reportingService.logPublication(filePath, publicationPath);
 }
 
+## Session-Based In-Memory Processed File Tracking
+
+To prevent infinite processing loops and redundant OpenGraph fetches, the observer now maintains an in-memory session-tracking mechanism using a static `Set`. This ensures that each file is only processed once per observer session (process lifetime). This logic is critical for data integrity and system performance.
+
+```typescript
+/**
+ * FileSystemObserver with in-memory tracking of processed files
+ *
+ * This static Set tracks file paths that have already been processed in the current session.
+ * Prevents infinite loops and redundant OpenGraph processing caused by repeated file system events.
+ */
+class FileSystemObserver {
+  /**
+   * Static Set to track processed files for the current observer session.
+   * This Set is cleared only when the Node.js process restarts.
+   */
+  private static processedFiles: Set<string> = new Set();
+
+  // ... constructor and other methods ...
+
+  /**
+   * Handles file change events for markdown files.
+   * Skips processing if the file has already been handled in this session.
+   */
+  async onChange(filePath: string): Promise<void> {
+    // Aggressive logging of file processing attempts
+    console.log(`[Observer] [EVENT] Change detected for file: ${filePath}`);
+
+    // Skip if already processed in this session
+    if (FileSystemObserver.processedFiles.has(filePath)) {
+      console.log(`[Observer] [SKIP] File already processed in this session, skipping: ${filePath}`);
+      return;
+    }
+    FileSystemObserver.processedFiles.add(filePath);
+
+    // ...rest of file processing logic...
+  }
+}
+```
+
+**Rationale:**
+- This approach ensures that each file is processed only once per session, preventing infinite event loops and redundant OpenGraph API calls.
+- The Set is in-memory and resets on process restart, keeping the logic stateless across sessions.
+
+---
+
+## Updated OpenGraph Processing Logic
+
+The observer uses an improved `needsOpenGraph` function to determine if OpenGraph fields are missing or out-of-date. This function checks for the presence and correctness of all required OpenGraph fields and skips unnecessary fetches.
+
+```typescript
+/**
+ * Determines if OpenGraph metadata needs to be (re)fetched for a file.
+ *
+ * Returns true if any required OpenGraph field is missing, empty, or out-of-date.
+ * Returns false if all required fields are present and up-to-date, avoiding unnecessary API calls.
+ */
+function needsOpenGraph(frontmatter: Record<string, any>): boolean {
+  const OG_FIELDS = ['og_title', 'og_description', 'og_image', 'og_url', 'og_last_fetch'];
+  // Check if og_last_fetch exists and all fields are present and non-empty
+  if ('og_last_fetch' in frontmatter) {
+    const missingOrEmpty = OG_FIELDS.some(key =>
+      !(key in frontmatter) || frontmatter[key] === '' || frontmatter[key] === null || frontmatter[key] === undefined
+    );
+    if (!missingOrEmpty) {
+      // All OG fields are present and non-empty; skip OpenGraph processing
+      return false;
+    }
+  }
+  // Otherwise, OpenGraph data is missing or incomplete
+  return true;
+}
+```
+
+**Commentary:**
+- This logic ensures that OpenGraph fetching is only triggered when necessary, reducing API usage and file churn.
+- Aggressive logging is used throughout the observer to record when files are skipped or processed for OpenGraph updates.
+
+---
+
+## OpenGraph Error Handling and Logging
+
+When OpenGraph data fetching fails, errors are aggressively logged and recorded in frontmatter. This ensures transparency and traceability for debugging and reporting.
+
+```typescript
+try {
+  // ...fetch OpenGraph data logic...
+} catch (error) {
+  // Aggressively log the error
+  console.error(`[OpenGraph] [ERROR] Failed to fetch OpenGraph data for ${filePath}:`, error);
+  // Record error in frontmatter for visibility
+  updatedFrontmatter.og_error = error.message || 'Unknown error fetching OpenGraph data';
+  updatedFrontmatter.og_last_fetch = new Date().toISOString();
+  changed = true;
+}
+```
+
+**Best Practices:**
+- All errors are logged to the console and recorded in the file's frontmatter.
+- `og_last_fetch` is updated on error for traceability.
+- This approach supports robust debugging and ensures that failures are not silently ignored.
+
+---
+
 ## Example Frontmatter Template
 
 ```yaml

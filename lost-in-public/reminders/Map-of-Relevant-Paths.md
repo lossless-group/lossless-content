@@ -1,6 +1,23 @@
 ---
+title: Create a permanent memory to review here for relevant project Paths.
+lede: "Review this file to ensure code generation is using the correct paths."
+date_authored_initial_draft: 2025-04-06
+date_authored_current_draft: 2025-04-12
+date_authored_final_draft: null
+date_first_published: null
+at_semantic_version: 0.0.0.1
+status: Routine
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+category: Prompts
 date_created: 2025-04-06
 date_modified: 2025-04-12
+tags:
+  - Code-Style
+  - Software-Architecture
+  - Code-Generators
+  - Bug-Prevention
+authors:
+  - Michael Staton
 ---
 
 # Project Directory Structure

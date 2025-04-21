@@ -6,9 +6,13 @@ date_first_published: 2025-03-17
 at_semantic_version: 0.0.0.1
 authors:
   - Michael Staton
-with_writing_assistant: Windsurf on Claude 3.7 Sonnet
+augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
 category: Code-Generators
-tags: [Workflow-Management, Client-Updates, Platform-Mechanisms, Workspace-Configurations]
+tags: 
+  - Workflow-Management
+  - Client-Updates
+  - Platform-Mechanisms
+  - Workspace-Configurations
 date_created: 2025-03-21
 date_modified: 2025-04-19
 ---

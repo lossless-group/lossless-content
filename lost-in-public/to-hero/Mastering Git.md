@@ -1,8 +1,8 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-04-19
+date_modified: 2025-04-21
 ---
-k
+
 ```bash
 
 echo ".DS_Store" >> ~/.gitignore_global
@@ -83,6 +83,9 @@ git filter-repo --invert-paths --path 'lost-in-public/to-hero/Warp-Objects/Model
 git rm -rf --cached temp_old_repo
 ```
 
+```bash
+ git rm --cached -r packages
+```
 
 Need to put your current code at the HEAD of another branch? 
 
@@ -100,3 +103,4 @@ git checkout master
 git merge -X theirs --squash development
 git commit -m "feat(content): comprehensive update from development branch"
 ```
+
