@@ -8,7 +8,7 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 authors:
   - Michael Staton
-augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
+augmented_with: Windsurf on Claude 3.7 Sonnet
 category: Code-Generators
 tags:
   - Workflow-Management
@@ -17,6 +17,8 @@ tags:
   - Workspace-Configurations
 date_created: 2025-04-17
 date_modified: 2025-04-17
+lede: "A comprehensive, click-worthy guide to every YAML property and value syntax nuance you need to master for robust automation and content integrity."
+image_prompt: "A sprawling, color-coded mind map of YAML keys, values, and syntax rules, with highlighted error icons and best-practice callouts, all on a digital whiteboard."
 ---
 
 # YAML Properties and Value Syntax

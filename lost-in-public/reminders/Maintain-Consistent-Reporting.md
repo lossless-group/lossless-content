@@ -1,7 +1,26 @@
 ---
+title: Maintain Consistent Reporting
+lede: "Master the art of consistent, auditable reporting for every automation, script, and observer in your content pipeline."
+date_authored_initial_draft: 2025-03-26
+date_authored_current_draft: 2025-04-15
+date_authored_final_draft: null
+date_first_published: null
+at_semantic_version: 0.0.0.1
+status: To-Do
+authors:
+  - Michael Staton
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+category: Prompts
+tags:
+  - Workflow
+  - Reporting
+  - Automation
+  - Auditing
+image_prompt: "A digital ledger or dashboard with checklists, report icons, and YAML files, all connected by glowing audit trails and summary statistics."
 date_created: 2025-03-26
 date_modified: 2025-04-15
 ---
+
 # Reports always always ALWAYS ALWAYS go in the following directory:
 `content/reports/`
 
@@ -83,52 +102,3 @@ All scripts within `tidyverse/tidy-up` MUST utilize centralized utility modules 
 - This provides a robust audit trail for all significant changes, supporting debugging, traceability, and confidence in the automation pipeline.
 
 **These standards are mandatory for all scripts and observer/pipeline operations that mutate file metadata or structure.**
-
-```javascript
-/**
- * Generate report content
- */
-function generateFixTagReport(results) {
-   const timestamp = new Date().toISOString();
-   let content = `---
-date: 2025-03-25
-datetime: ${timestamp}
-authors: 
-- Michael Staton
-augmented_with: 'Windsurf on Claude 3.5 Sonnet'
-category: Data-Integrity
-from_operations: # if possible, list operation functions that were used
-- fixCasingInPaths
-- assertQuoteDelimitersAroundErrors
-from_codefiles: # if possible, list relative paths to code files that contain operations
-- /tidyverse/tidy-up/services/assertFrontmatterByTemplates.ts
-- /tidyverse/tidy-up/templates/prompts.ts
-tags:
-- Documentation-Standards
-- YAML
-- Memory-Management
-- Session-Logs
-- Prompts
----
-
-# Tag Irregularities Report
-
-## Summary
-- Total files processed: ${results.totalFiles}
-- Files with tag irregularities: ${results.irregularFiles.length}
-
-## Files with Tag Irregularities
-${results.irregularFiles.map(item => {
-  const relativePathFromContent = formatRelativePath(item.file);
-  return `
-### ${relativePathFromContent}
-- Line: \`${item.line}\`
-- Issues: ${item.issues.join(', ')}
-`;
-}).join('\n')}
-`;
-
-   writeReport(content, 'Tag-Irregularities-Report');
-}
-
-export default generateFixTagReport;
