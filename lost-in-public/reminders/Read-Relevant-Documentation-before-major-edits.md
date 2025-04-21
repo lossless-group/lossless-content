@@ -1,6 +1,6 @@
 ---
 title: Read the relevant documentation before guessing.
-lede: "Prevent hallucination and ensure accuracy by reading relevant documentation before making assumptions."
+lede: "Illuminate your coding journey by diving into relevant documentation, and transform assumptions into accurate, well-informed decisions."
 date_authored_initial_draft: 2025-03-14
 date_authored_current_draft: 2025-04-20
 date_authored_final_draft: null
@@ -8,18 +8,19 @@ date_first_published: null
 date_last_updated: null
 at_semantic_version: 0.0.0.1
 status: Routine
+authors:
+  - Michael Staton
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_modified: 2025-04-20
-date_created: 2025-04-09
 tags:
   - Prompt-Engineering
   - Code-Standards
   - Best-Practices
-authors:
-  - Michael Staton
-image_prompt: "A robot in a library, pouring over a giant stack of books."
+image_prompt: "A robot in a library, pouring over a giant stack of books, surrounded by glowing documentation and reference icons—symbolizing careful research before coding."
+date_created: 2025-04-09
+date_modified: 2025-04-20
 ---
+
 # Essential Documentation References
 
 ## Core Framework

@@ -1,27 +1,27 @@
 ---
-title: An Exhaustive list of content YAML patterns. 
-lede: Let's not repeat ourselves. Here are the frontmatter YAML patterns we use.
+title: An Exhaustive list of content YAML patterns.
+lede: "Never repeat yourself—reference this comprehensive guide to all frontmatter YAML patterns for bulletproof data integrity and automation."
 date_authored_initial_draft: 2025-03-24
 date_authored_current_draft: 2025-04-12
 date_authored_final_draft: null
 date_first_published: null
-date_last_updated: null
 at_semantic_version: 0.0.0.1
 status: Routine
+authors:
+  - Michael Staton
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-03-24
-date_modified: 2025-04-12
-image_prompt: "A robot is at a clipboard, checking through a checklist. It's a really long list."
 tags:
   - Workflow
   - File-Observers
   - YAML-Handling
   - YAML-Conventions
   - Bug-Prevention
-authors:
-  - Michael Staton
+image_prompt: "A robot at a giant clipboard, checking off a massive list of YAML patterns, surrounded by digital checklists and automation icons—symbolizing thoroughness and precision."
+date_created: 2025-03-24
+date_modified: 2025-04-12
 ---
+
 # YAML Patterns for Data Integrity
 
 This document provides guidelines for maintaining data integrity in YAML frontmatter within markdown files. Following these patterns helps ensure consistent parsing, prevents errors, and enables automation tools to process your content correctly.
@@ -205,7 +205,7 @@ Timestamp properties should use ISO 8601 format with single quotes for consisten
 
 ```javascript
 // Detection Function
-detectError: new RegExp(`^(${TIMESTAMP_PROPERTIES.join('|')}):[ \\t]*(?![ \\t]*'[^']*'[ \\t]*$)(.+)$`, 'm')
+detectError: new RegExp(`^(${TIMESTAMP_PROPERTIES.join('|')}):[ \t]*(?![ \t]*'[^']*'[ \t]*$)(.+)$`, 'm')
 ```
 
 ### Correction Function
@@ -375,7 +375,7 @@ async function removeAnyQuoteCharactersfromEitherOrBothSidesOfURL(markdownFileCo
     // Function to process a single line
     function processLine(line) {
         // Check if this is a URL property line
-        const urlPropMatch = line.match(new RegExp(`^(${URL_PROPERTIES.join('|')}):[ \\t]*(.+)$`));
+        const urlPropMatch = line.match(new RegExp(`^(${URL_PROPERTIES.join('|')}):[ \t]*(.+)$`));
         if (!urlPropMatch) return line;
 
         const [fullMatch, propName, value] = urlPropMatch;
@@ -506,44 +506,45 @@ async function attemptToFixBrokenUrl(markdownFileContent, markdownFilePath) {
 
 
 ```javascript
-// Correction Function
-// Once detected from the detectError regular expression, 
-// the correction function will attempt to fix the error
-// by removing any quotes found on on either side of a URL
-async removeAnyQuoteCharactersfromEitherOrBothSidesOfURL(markdownFileContent, markdownFilePath) {
-    const frontmatterData = helperFunctions.extractFrontmatter(markdownFileContent);
-    if (!frontmatterData.success) {
-        return helperFunctions.createErrorMessage(markdownFilePath, frontmatterData.error);
-    }
+  
+   // Correction Function
+   // Once detected from the detectError regular expression, 
+   // the correction function will attempt to fix the error
+   // by removing any quotes found on on either side of a URL
+   async removeAnyQuoteCharactersfromEitherOrBothSidesOfURL(markdownFileContent, markdownFilePath) {
+      const frontmatterData = helperFunctions.extractFrontmatter(markdownFileContent);
+      if (!frontmatterData.success) {
+         return helperFunctions.createErrorMessage(markdownFilePath, frontmatterData.error);
+      }
 
-    let isolatedFrontmatterString = frontmatterData.frontmatterString;
-    let modified = false;
-    const modifications = [];
+      let isolatedFrontmatterString = frontmatterData.frontmatterString;
+      let modified = false;
+      const modifications = [];
 
-    // Process each URL property
-    for (const urlProperty of URL_PROPERTIES) {
-        const propertyRegex = new RegExp(`^(${urlProperty}):[ \t]*["'\`](.+?)["'\`][ \t]*$`, 'gm');
+      // Process each URL property
+      for (const urlProperty of URL_PROPERTIES) {
+         const propertyRegex = new RegExp(`^(${urlProperty}):[ \t]*["'\`](.+?)["'\`][ \t]*$`, 'gm');
         
-        // Replace any quoted URL with an unquoted version
-        const newFrontmatter = isolatedFrontmatterString.replace(propertyRegex, (match, property, url) => {
+         // Replace any quoted URL with an unquoted version
+         const newFrontmatter = isolatedFrontmatterString.replace(propertyRegex, (match, property, url) => {
             modified = true;
             const cleanUrl = url.replace(/["'`]/g, '').trim();
             const correctedValue = `${property}: ${cleanUrl}`;
             
             modifications.push({
-                property,
-                from: match,
-                to: correctedValue
+               property,
+               from: match,
+               to: correctedValue
             });
             
             return correctedValue;
-        });
+         });
         
-        if (newFrontmatter !== isolatedFrontmatterString) {
+         if (newFrontmatter !== isolatedFrontmatterString) {
             isolatedFrontmatterString = newFrontmatter;
-        }
-    }
-}
+         }
+      }
+   }
 ```
 
 ## Error Message Properties
@@ -1051,7 +1052,7 @@ Property spacing should be consistent with a single space after the colon.
 
       for (let i = 0; i < lines.length; i++) {
          const line = lines[i];
-         const propMatch = line.match(new RegExp(`^(${PLAIN_TEXT_PROPERTIES.join('|')}):[ \\t]*(.*)$`));
+         const propMatch = line.match(new RegExp(`^(${PLAIN_TEXT_PROPERTIES.join('|')}):[ \t]*(.*)$`));
 
          if (propMatch) {
             // If we were processing a previous property, clean and add it
@@ -1244,7 +1245,7 @@ assureOnlyOneSetOfSingleMarkQuotesAroundTimestampProperties: {
                 if (trimmedValue.includes("'") || trimmedValue.includes('"')) {
                     const cleanUrl = trimmedValue.replace(/['"]/g, '').trim();
                     const correctedValue = `${propertyName}: ${cleanUrl}`;
-                    
+
                     if (correctedValue !== line) {
                         wasModified = true;
                         modifications.push({
@@ -1631,3 +1632,5 @@ PROPERTY SPECIFIC PREFERENCES
 | parent_org: '[[organizations/Adobe\|Adobe]]' | `parent_org: [[Adobe]]`                         | Backlinks should have their relative path back to the root content directory, then a '\|' pipe character, then the fileName without the .md. |
 | parent_org: '[[organizations/Adobe\|Adobe]]' | `parent_org: [[Organizations/Adobe\|Adobe.md]]` | Backlinks should have their relative path back to the root content directory, then a '\|' pipe character, then the fileName without the .md. |
 
+
+```

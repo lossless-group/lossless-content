@@ -1,17 +1,23 @@
 ---
-title: 'Maintain a Scripting Pipeline'
-lede: 'Template for creating modular script pipelines to clean and maintain markdown files'
+title: Maintain a Scripting Pipeline
+lede: "Design modular pipelines to detect, clean, and report on markdown files—ensuring every content workflow is robust, maintainable, and auditable."
 date_authored_initial_draft: 2025-03-26
 date_authored_current_draft: 2025-03-26
 date_authored_final_draft: null
 date_first_published: null
-date_last_updated: null
-at_semantic_version: '0.0.0.1'
-authors: Michael Staton
+at_semantic_version: 0.0.0.1
 status: In-Progress
-augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+authors:
+  - Michael Staton
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: RAG-Input
-tags: [Script-Pipeline, Data-Cleaning, Tidy-Data, Markdown-Processing, Node-Scripts]
+tags:
+  - Script-Pipeline
+  - Data-Cleaning
+  - Tidy-Data
+  - Markdown-Processing
+  - Node-Scripts
+image_prompt: "A digital assembly line of scripts, each module passing markdown files through cleaning, detection, and reporting stations—glowing with automation and order."
 date_created: 2025-03-26
 date_modified: 2025-04-19
 ---

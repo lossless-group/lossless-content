@@ -1,6 +1,7 @@
 ---
 title: Fire up the Observer
-lede: Instructions for running the filesystem observer to process citations and frontmatter
+lede: "Ready to automate? Learn how to launch the Observer system for seamless citation and frontmatter processing across your content library."
+image_prompt: "A futuristic terminal window launching an observer robot, with glowing file paths, citation icons, and YAML frontmatter floating in a digital workspace."
 date_authored_initial_draft: 2025-04-13
 date_authored_current_draft: 2025-04-13
 date_authored_final_draft: null
@@ -12,8 +13,10 @@ augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
 category: Documentation
 date_created: 2025-04-13
 date_modified: 2025-04-19
-site_uuid: 5f3c2e1d-8a7b-4c9d-b0e5-6f4a2d8c1b3a
-tags: [Data-Integrity, File-Processing, Observer-System]
+tags: 
+  - Data-Integrity
+  - File-Processing
+  - Observer-System
 authors:
   - Michael Staton
 ---

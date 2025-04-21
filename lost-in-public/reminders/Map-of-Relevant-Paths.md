@@ -1,23 +1,24 @@
 ---
-title: Create a permanent memory to review here for relevant project Paths.
-lede: "Review this file to ensure code generation is using the correct paths."
+title: Map of Relevant Paths
+lede: "Review this file to ensure code generation is using the correct paths and directory structure in this complex monorepo."
 date_authored_initial_draft: 2025-04-06
 date_authored_current_draft: 2025-04-12
 date_authored_final_draft: null
 date_first_published: null
 at_semantic_version: 0.0.0.1
 status: Routine
+authors:
+  - Michael Staton
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-04-06
-date_modified: 2025-04-12
 tags:
   - Code-Style
   - Software-Architecture
   - Code-Generators
   - Bug-Prevention
-authors:
-  - Michael Staton
+image_prompt: "A digital blueprint of a monorepo, with highlighted directory paths, warning signs, and strict folder boundaries—emphasizing correct structure and navigation."
+date_created: 2025-04-06
+date_modified: 2025-04-12
 ---
 
 # Project Directory Structure

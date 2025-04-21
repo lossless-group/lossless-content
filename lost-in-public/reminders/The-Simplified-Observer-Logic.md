@@ -1,6 +1,6 @@
 ---
 title: The Simplified Observer Logic
-lede: If the Observer specification is too complex, let's make it super clear. 
+lede: "Clarify and streamline the Observer’s orchestration logic—ensuring every subsystem, expectation, and write operation is perfectly sequenced."
 date_authored_initial_draft: 2025-04-20
 date_authored_current_draft: 2025-04-20
 date_authored_final_draft: null
@@ -8,16 +8,16 @@ date_first_published: null
 date_last_updated: null
 at_semantic_version: 0.0.0.1
 status: To-Prompt
+authors:
+  - Michael Staton
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-04-20
-date_modified: 2025-04-20
-image_prompt: "A robot is writing at an antique desk with a quill and ink by candle light."
 tags:
   - Workflow
   - File-Observers
-authors:
-  - Michael Staton
+image_prompt: "A robot orchestrator at an antique desk, illuminated by candlelight, writing logic diagrams with a quill—surrounded by subsystem blueprints and glowing data flows."
+date_created: 2025-04-20
+date_modified: 2025-04-20
 ---
 
 # Logic:

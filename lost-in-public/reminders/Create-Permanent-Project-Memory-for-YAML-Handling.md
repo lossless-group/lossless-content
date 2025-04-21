@@ -21,7 +21,7 @@ tags:
   - Bug-Prevention
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/K6w6-3g0BvIPTm0GGa_t_2E1BuuVLYH2FY_6EVRmmZ4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/c7d02b76-1f47-475c-9f81-c8ebdfd5a865
+portrait_image: https://img.recraft.ai/K6w6-3g0BvIPTm0GGa_t_2E1BuuVLYH2FY_6EVRmmZ4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/c7d02b76-1f47-475c-9f81-c8ebdfd5a865
 ---
 
 # Context
@@ -156,7 +156,7 @@ at_semantic_version: '0.0.0.1'
 authors: 
 - Michael Staton 
 status: To-Prompt
-augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet' #
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 
 #The colon with a space after it is an unsafe character, so we must surround all error messages with a single mark quote. 
 # IF WE ARE WRITING API CALLS, PREVENT THE UNSAFE SYNTAX BEFORE PUTTING THE RESPONSE PROPERTY VALUE AS OUR PROPERTY VALUE. ALTER INCOMING UNSAFE SYNTAX.

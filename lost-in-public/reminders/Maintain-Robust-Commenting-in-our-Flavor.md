@@ -1,6 +1,6 @@
 ---
 title: Maintain Robust Commenting in our Flavor
-lede: Implement consistent, comprehensive code commenting style with section openers and detailed function documentation
+lede: "Unlock the power of readable, maintainable code with our signature commenting style—section openers, function docs, and clarity-first annotation for every project."
 date_authored_initial_draft: 2025-03-25
 date_authored_current_draft: 2025-03-30
 date_authored_final_draft: null
@@ -12,11 +12,15 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-19
-image_prompt: "A code editor filled with colorful, well-structured comments, section headers, and documentation blocks, symbolizing clarity and comprehensive code annotation."
-banner_image: "https://img.recraft.ai/Bk0g1ShYKjP49gsq4sH8h7PR6eg8m1dvcAB_ya82b20/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/0fc404b9-27b8-45cf-8e86-f61ed2b051c2"
+image_prompt: "A code editor glowing with vibrant, multi-colored comment blocks, section banners, and function documentation, radiating clarity and best practices."
+portrait_image: "https://img.recraft.ai/Bk0g1ShYKjP49gsq4sH8h7PR6eg8m1dvcAB_ya82b20/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/0fc404b9-27b8-45cf-8e86-f61ed2b051c2"
 publish: true
 site_uuid: 0ab1abf6-701e-41e6-bf14-957e016a5448
-tags: [Code-Style, Documentation, Code-Comments, Readability]
+tags: 
+  - Code-Style
+  - Documentation
+  - Code-Comments
+  - Readability
 authors:
   - Michael Staton
 ---

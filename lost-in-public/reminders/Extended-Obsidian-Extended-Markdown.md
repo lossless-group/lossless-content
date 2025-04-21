@@ -16,6 +16,8 @@ tags:
   - Workspace-Configurations
 date_created: 2025-03-19
 date_modified: 2025-03-20
+lede: "Discover how to supercharge your Markdown with Obsidian's advanced syntax, templates, and automation tricks for next-level note-taking and productivity."
+image_prompt: "A digital workspace filled with layered markdown notes, glowing Obsidian logo, code snippets, and visual automations connecting text blocks in a futuristic style."
 ---
 [[Tooling/Productivity/Obsidian|Obsidian]]
 

@@ -15,6 +15,8 @@ tags:
   - Workspace-Configurations
 date_created: 2025-03-21
 date_modified: 2025-04-19
+lede: "Unlock the secrets to taming LLM code generators with a masterclass in rules, conventions, and practical strategies for bulletproof automation."
+image_prompt: "A futuristic AI robot at a command center, surrounded by digital code blueprints, flowcharts, and glowing rulebooks, orchestrating code generation with precision."
 ---
 # Stack, Libraries, Dependencies
 

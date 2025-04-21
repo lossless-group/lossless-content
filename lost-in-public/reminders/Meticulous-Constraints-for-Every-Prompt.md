@@ -1,27 +1,27 @@
 ---
 title: Meticulous Constraints for Every Prompt
-lede: Essential guidelines and constraints for prompt engineering and code generation
-date: "Sat Mar 15 2025 19:00:00 GMT-0500 (Central Daylight Time)"
+lede: "Master prompt engineering with essential, actionable constraints—ensuring every code generation task is robust, DRY, and error-resilient."
+date: 2025-03-13
 date_authored_initial_draft: 2025-03-13
-date_authored_current_draft: 2025-03-13
+date_authored_current_draft: 2025-04-17
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: 0.0.0.1
+at_semantic_version: 0.0.1.0
 status: To-Do
+authors:
+  - Michael Staton
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_modified: 2025-04-12
-date_created: 2025-04-09
 tags:
   - Prompt-Engineering
   - Code-Standards
   - Best-Practices
   - Error-Handling
-authors:
-  - Michael Staton
 image_prompt: "A detailed checklist and rulebook beside a prompt engineering workspace, with highlighted constraints, best-practice icons, and a glowing AI assistant. Visuals include sticky notes, error warnings, and a sense of meticulous order."
-banner_image: https://img.recraft.ai/Ng7_Zp0IjpMdFrB_T5uDukRixyPfXz7RL-Ht-v7Y-_Q/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/2aa7d7e9-61c7-416c-83c5-c8576428cf5d
+portrait_image: https://img.recraft.ai/Ng7_Zp0IjpMdFrB_T5uDukRixyPfXz7RL-Ht-v7Y-_Q/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/2aa7d7e9-61c7-416c-83c5-c8576428cf5d
+date_created: 2025-04-09
+date_modified: 2025-04-12
 ---
 ## Before starting:
 
