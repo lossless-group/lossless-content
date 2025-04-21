@@ -44,7 +44,49 @@ Services: `tidyverse/observers/services`
 2. Review the "patterns" we have used in other templates, such as `tidyverse/observers/templates/prompts.ts`.
 3. Create a template that can be used in Scripts, Observers, and Watchers. The starter file has a copy of one of the frontmatter sections from a reminders file. `tidyverse/observers/templates/reminders.ts`
 
+# Patterns from Existing Templates (prompts.ts)
 
+Below are the patterns and conventions extracted from `tidyverse/observers/templates/prompts.ts` for use in designing a canonical reminders template:
 
+---
 
+**Field Order and Structure:**
+- Required fields are listed first, followed by optional fields.
+- Each field includes: type, description, validation function, and default value logic.
+  - **NOTE:** Validation functions are intended to prevent errors, not cause them. By default, validation functions should only generate reports on detected issues; they should never attempt to automatically fix or mutate the content. All remediation must be manual or explicitly triggered by the user or a higher-level process.
+- All dates use strict `YYYY-MM-DD` format (never include time component).
+- Arrays (e.g., `authors`, `tags`) are validated for non-empty values and can accept both array and string (comma-separated) formats.
+- Use of utility functions for UUIDs, file creation/modification dates, and tag generation from file paths.
 
+**Required Fields (with validation and defaults):**
+- `title` (string, required, auto-generated from filename if missing)
+- `lede` (string, required, brief description)
+- `date_authored_initial_draft` (date, required, default = today)
+- `date_authored_current_draft` (date, required, default = today)
+- `at_semantic_version` (string, required, default = 0.0.0.1)
+- `authors` (array or string, required, default = ['Michael Staton'])
+- `status` (string, required, default = 'To-Prompt')
+- `augmented_with` (string, required, default = 'Windsurf Cascade on Claude 3.5 Sonnet')
+- `category` (string, required, default = 'Prompts')
+- `tags` (array or string, required, auto-generated from path if possible)
+- `date_created` (date, required, default = file creation date)
+- `date_modified` (date, required, default = now)
+- `site_uuid` (string, required, default = generated UUID)
+
+**Optional Fields:**
+- `date_authored_final_draft` (date, optional)
+- `date_first_published` (date, optional)
+- `date_last_updated` (date, optional)
+- `date_first_run` (date, optional)
+
+**Reusable Patterns:**
+- Always provide a validation function for each field.
+- Use default value functions for auto-population (e.g., title, tags, dates).
+- Normalize and capitalize tags from directory structure for consistency.
+- Use robust error handling in default generators.
+- Comment each field with purpose and usage.
+
+---
+
+**Next Step:**
+When creating the reminders template, mirror this structure and logic for all frontmatter fields. Use the same validation rigor, defaulting, and commenting style. Adjust field names and defaults as appropriate for reminders, but preserve the DRY, robust, and machine-parseable conventions.

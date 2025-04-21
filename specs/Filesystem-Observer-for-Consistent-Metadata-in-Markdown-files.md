@@ -731,7 +731,61 @@ This traceability requirement ensures that the observer system provides a comple
 
 ---
 
-## [ADDENDUM] Property Collector Pattern & Observer-Service Orchestration (2025-04-17)
+## Modular Watchers Architecture
+
+#### Motivation
+- The previous monolithic observer file that watched all directories was too large, difficult to maintain, and hard to decouple working and non-ideal logic.
+- To address this, the observer now supports modular "watchers"—dedicated modules that watch specific directories or content collections.
+
+#### Design
+- Each watcher is responsible for:
+  - Watching a specific directory or content collection (e.g., reminders, prompts, specs).
+  - Calling the appropriate services, templates, utilities, and reporting functions for its scope.
+  - Sending all reporting and results back to the main observer for aggregation and final report writing.
+- The observer is responsible for:
+  - Managing the lifecycle of all active watchers.
+  - Receiving and aggregating reports and results from all watchers.
+  - Maintaining atomicity, non-destructive guarantees, and overall orchestration.
+
+#### User Options
+- Inclusion or exclusion of individual watchers is specified in the user options/configuration (e.g., `USER_OPTIONS`).
+- Users can enable or disable watchers for specific directories or content types as needed.
+- This provides fine-grained control and extensibility for future content collections.
+
+#### Benefits
+- Greatly improves code modularity, maintainability, and testability.
+- Allows for targeted debugging and decoupling of logic.
+- Makes it easy to add, remove, or update support for new content collections without impacting the entire observer system.
+
+#### Example Flow (with Watchers)
+1. **Observer** initializes and reads user options to determine which watchers to activate.
+2. **Each Watcher** starts and monitors its assigned directory for Markdown file changes.
+3. **Watcher** extracts frontmatter, calls relevant services/templates, and collects reporting.
+4. **Watcher** sends reporting/results back to the observer.
+5. **Observer** aggregates all results and writes final reports/updates as needed.
+
+#### Non-Destructive Guarantee
+- No watcher or observer operation ever deletes or overwrites user content unless explicitly configured and validated.
+- All changes are reviewed for correctness before being committed.
+- The observer will abort any sequence if atomic, non-destructive output cannot be guaranteed.
+
+---
+
+**Does this fit our architecture?**
+
+This modular watcher approach fits well within the general architecture of `tidyverse/observers/fileSystemObserver.ts`:
+- The observer is already config-driven and supports extensible logic for multiple directories.
+- Refactoring to modular watchers can be accomplished incrementally—no huge refactor is needed if the watcher interface matches the observer's event and reporting patterns.
+- The main observer will delegate directory-specific logic to watcher modules, which then call services and report back.
+- Only the watcher registration, lifecycle management, and reporting aggregation logic need to be added or updated.
+
+**Conclusion:**
+- Modular watchers are a natural, DRY, and maintainable evolution of the current observer architecture.
+- You can proceed to implement or refactor to this pattern without a disruptive overhaul.
+
+---
+
+## 8. Property Collector Pattern & Observer-Service Orchestration (2025-04-17)
 
 The following section is an additive update and does not remove or replace any previous content. It is intended to clarify and extend the architecture for atomic, non-destructive, and auditable metadata operations in the filesystem observer.
 
