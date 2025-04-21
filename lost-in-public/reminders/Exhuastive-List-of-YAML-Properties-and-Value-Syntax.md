@@ -3,11 +3,12 @@ title: Comprehensive Rules to tame Code Generator LLMs
 date_authored_initial_draft: 2025-04-17
 date_authored_final_draft: 2025-04-17
 date_first_published: null
+date_authored_last_updated: null
 at_semantic_version: 0.0.0.1
 status: To-Do
 authors:
   - Michael Staton
-with_writing_assistant: Windsurf on Claude 3.7 Sonnet
+augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
 category: Code-Generators
 tags:
   - Workflow-Management

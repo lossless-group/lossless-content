@@ -429,6 +429,28 @@ interface CitationRegistry {
 
 ---
 
+## 5A. OpenGraph Error Handling Requirements (Addendum, 2025-04-20)
+
+**OpenGraph API Error Logging:**
+- If the OpenGraph API call fails for any reason (network, parsing, invalid response, etc.), the observer **must**:
+    - Write the error string to the `og_error_message` field in the frontmatter.
+    - Write the timestamp of the error (ISO format) to the `og_last_error` field in the frontmatter.
+    - **Both values must be wrapped in single quote delimiters** (`'`) to ensure YAML safety, as these may contain unsafe or special characters.
+    - Never overwrite or drop any other user field in the process.
+    - Log these actions aggressively to both the console and the reporting service for traceability.
+    - These fields must be updated atomically and only upon a true error from the OpenGraph fetch operation.
+
+**Example:**
+```yaml
+og_error_message: 'Request failed with status 404: Not Found'
+og_last_error: '2025-04-20T18:41:47-05:00'
+```
+
+- These requirements are canonical and take precedence over prior error logging patterns for OpenGraph.
+- See also: [Implementation Requirements] and [Edge Cases & Error Handling] above for general error handling principles.
+
+---
+
 ## 6. Testing Expectations
 
 **Recommendations:**
@@ -457,7 +479,7 @@ To maximize atomicity, maintainability, and auditability, the observer should or
   - Produce malformed YAML of any kind.
 - All observer operations must be atomic, non-destructive, and fully validated before writing to disk.
 - Any operation that would result in the loss or corruption of a field must be aborted and logged as a critical error.
-- All changes must be validated against a schema before being committed.
+- All changes must be reviewed for correctness before being committed.
 - If any operation fails validation, the file must be left untouched and the error reported.
 
 ### Examples of Catastrophic Failure
@@ -475,8 +497,17 @@ og_screenshot_url: "https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/fa
 ### Implementation Requirements
 - The observer must always read, validate, and preserve existing field values unless a new value is explicitly and validly provided.
 - All YAML output must be validated for correctness (no block scalar, no broken lines, no accidental whitespace or splitting).
-- If the observer cannot guarantee atomic, schema-valid, non-destructive output, it must NOT write to disk.
+- If the observer cannot guarantee atomic, non-destructive output, it must NOT write to disk.
 - All destructive or overwriting actions must be logged and require explicit user approval.
+- **The observer orchestration MUST await all asynchronous API responses (such as OpenGraph metadata and screenshot fetches) before writing any changes to disk.**
+  - No fire-and-forget or background API calls are permitted if their results are required for the final frontmatter.
+  - All field updates (e.g., `og_screenshot_url`, OpenGraph fields) must be present in the merged frontmatter before a write occurs.
+  - This guarantees atomicity, prevents race conditions, and ensures no required data is lost due to asynchronous timing issues.
+- The observer must never drop, overwrite, or remove user-provided fields such as `tags` unless an explicit, validated update is provided.
+- **The observer must maintain an in-memory expectation store outside the YAML object to track which subroutine results are pending.**
+- **The orchestrator must wait for all subroutines to return a response or error before proceeding.**
+- **After all subroutines have completed, the orchestrator must serialize the would-be YAML output and compare it byte-for-byte to the current file contents. Only if there is a true difference should a write occur.**
+- **The orchestrator must always retain all previous values written to file, unless an explicit overwrite instruction is given for a key. Never drop or replace a value unless explicitly instructed.**
 
 ---
 
@@ -542,8 +573,8 @@ directories: [
 
 ### Non-Destructive Guarantee
 - No operation in the sequence ever deletes or overwrites user content unless explicitly configured and validated
-- All changes are validated against schema and logged
-- The observer will abort any sequence if atomic, schema-valid, non-destructive output cannot be guaranteed
+- All changes are reviewed for correctness before being committed
+- The observer will abort any sequence if atomic, non-destructive output cannot be guaranteed
 
 ### Future Extensions
 - Additional operations (e.g., custom metadata enrichment, registry sync) can be added as new handlers and referenced in `operationSequence`
@@ -655,7 +686,7 @@ logProcessedFile(filePath: string): void {
 
 This traceability requirement ensures that the observer system provides a complete and auditable record of all files it interacts with, supporting robust reporting and compliance with project standards.
 
----
+***
 
 ## Observer Logging, Reporting, and Audit Trail Logic
 
@@ -709,7 +740,7 @@ The following section is an additive update and does not remove or replace any p
 - **Service Contract:**
   - Each service receives the current frontmatter and filePath.
   - Each service determines internally if it needs to run (e.g., missing UUID, missing OpenGraph fields).
-  - If it runs, it returns a partial object with only the properties it wants to update (e.g., `{ og_image, og_url }`).
+  - If it runs, it returns a partial object with only the properties it intends to update (e.g., `{ og_image, og_url }`).
   - If not, it returns an empty object or a status indicating no change.
 
 - **Observer Orchestration:**

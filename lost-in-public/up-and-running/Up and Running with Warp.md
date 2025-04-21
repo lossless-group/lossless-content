@@ -1,8 +1,7 @@
 ---
-tags:
-  - Terminal-Assistants
+tags: [Terminal-Assistants]
 date_created: 2025-03-20
-date_modified: 2025-03-22
+date_modified: 2025-04-20
 ---
 If you can use a package manager, that will be better. 
 ```bash

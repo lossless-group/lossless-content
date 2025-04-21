@@ -1,6 +1,26 @@
 ---
+title: An Exhaustive list of content YAML patterns. 
+lede: Let's not repeat ourselves. Here are the frontmatter YAML patterns we use.
+date_authored_initial_draft: 2025-03-24
+date_authored_current_draft: 2025-04-12
+date_authored_final_draft: null
+date_first_published: null
+date_last_updated: null
+at_semantic_version: 0.0.0.1
+status: Routine
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+category: Prompts
 date_created: 2025-03-24
-date_modified: 2025-03-26
+date_modified: 2025-04-12
+image_prompt: "A robot is at a clipboard, checking through a checklist. It's a really long list."
+tags:
+  - Workflow
+  - File-Observers
+  - YAML-Handling
+  - YAML-Conventions
+  - Bug-Prevention
+authors:
+  - Michael Staton
 ---
 # YAML Patterns for Data Integrity
 
