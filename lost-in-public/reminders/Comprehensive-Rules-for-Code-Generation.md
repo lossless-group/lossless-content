@@ -4,20 +4,22 @@ date_authored_initial_draft: 2025-03-17
 date_authored_final_draft: 2025-03-17
 date_first_published: 2025-03-17
 at_semantic_version: 0.0.0.1
-authors:
-  - Michael Staton
 augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
 category: Code-Generators
-tags: 
-  - Workflow-Management
-  - Client-Updates
-  - Platform-Mechanisms
-  - Workspace-Configurations
 date_created: 2025-03-21
-date_modified: 2025-04-19
-lede: "Unlock the secrets to taming LLM code generators with a masterclass in rules, conventions, and practical strategies for bulletproof automation."
-image_prompt: "A futuristic AI robot at a command center, surrounded by digital code blueprints, flowcharts, and glowing rulebooks, orchestrating code generation with precision."
+date_modified: 2025-04-22
+lede: Unlock the secrets to taming LLM code generators with a masterclass in rules, conventions, and practical strategies for bulletproof automation.
+image_prompt: A futuristic AI robot at a command center, surrounded by digital code blueprints, flowcharts, and glowing rulebooks, orchestrating code generation with precision.
+site_uuid: 12b6b1d5-c721-4e9d-9ac3-f1c4e46f39e6
+date_authored_current_draft: ""
+status: ""
+portrait_image: https://img.recraft.ai/tAHtmabO5TKI2iEB6lvguxz8UBCK1tjI3G0G8uFN12c/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/3b43c878-192d-45eb-acdb-2e3d24512f1c
+authors:
+  - Michael Staton
+tags: [Code-Generators, Context-Windows, Model-Context-Protocols]
+banner_image: 
 ---
+
 # Stack, Libraries, Dependencies
 
 #### Preliminaries

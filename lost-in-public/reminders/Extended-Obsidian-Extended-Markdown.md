@@ -1,24 +1,24 @@
 ---
-title: Extending Markdown with Obsidian FlavoredSyntax
+title: 'Extending Markdown with Obsidian FlavoredSyntax'
 date_authored_initial_draft: 2025-03-19
 date_authored_final_draft: 2025-03-20
 date_first_published: null
 at_semantic_version: 0.0.0.1
 status: To-Do
+augmented_with: 'Windsurf Cascade on Claude 3.7 Sonnet'
+category: Code-Generators
+date_created: 2025-03-19
+date_modified: 2025-04-22
+lede: "Discover how to supercharge your Markdown with Obsidian's advanced syntax, templates, and automation tricks for next-level note-taking and productivity."
+image_prompt: 'A digital workspace filled with layered markdown notes, glowing Obsidian logo, code snippets, and visual automations connecting text blocks in a futuristic style.'
+site_uuid: b2300a61-e2ec-4048-bcfe-8cc30f7702b2
+date_authored_current_draft: ''
+portrait_image: https://img.recraft.ai/9EF1GcidZqaROqEuZvzOI2tYTDLgCyPJmcQxVaO8K9E/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/6d5a69f5-958d-4fe0-8427-eae84d7c1555
+tags: [Workflow-Management, Client-Updates, Platform-Mechanisms, Workspace-Configurations]
 authors:
   - Michael Staton
-augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
-category: Code-Generators
-tags:
-  - Workflow-Management
-  - Client-Updates
-  - Platform-Mechanisms
-  - Workspace-Configurations
-date_created: 2025-03-19
-date_modified: 2025-03-20
-lede: "Discover how to supercharge your Markdown with Obsidian's advanced syntax, templates, and automation tricks for next-level note-taking and productivity."
-image_prompt: "A digital workspace filled with layered markdown notes, glowing Obsidian logo, code snippets, and visual automations connecting text blocks in a futuristic style."
 ---
+
 [[Tooling/Productivity/Obsidian|Obsidian]]
 
 https://help.obsidian.md/syntax

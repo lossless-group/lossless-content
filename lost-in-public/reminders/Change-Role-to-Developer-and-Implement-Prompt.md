@@ -1,24 +1,22 @@
 ---
-title: Change Role and Implement Prompt
-lede: "Seamlessly switch roles from product manager to developer and implement prompts with context awareness and precision."
+title: 'Change Role and Implement Prompt'
+lede: 'Seamlessly switch roles from product manager to developer and implement prompts with context awareness and precision.'
 date_authored_initial_draft: 2025-04-15
 date_authored_current_draft: 2025-04-15
 date_authored_final_draft: null
 date_first_published: null
 at_semantic_version: 0.0.0.1
 status: To-Do
+augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+category: Context-Windows
+image_prompt: 'A robot in a business suit at a desk, typing on one side, and a robot in a lab coat with goggles, working with code and tools on the other—symbolizing seamless role transitions.'
+date_created: 2025-04-15
+date_modified: 2025-04-22
+site_uuid: 2f5ae0f8-9fe8-45f4-9e5d-6101567b45ba
+portrait_image: https://img.recraft.ai/UxBfb9BKNeRCfPe3YYyWRRBy6QjUfcZpEo6GsC7Aow4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d6466fdf-0b64-467b-abdd-ea0edb5bfece
+tags: [User-Interface, Content-Models, Content-Sorting, UI-Design]
 authors:
   - Michael Staton
-augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
-category: Context-Windows
-tags:
-  - User-Interface
-  - Content-Models
-  - Content-Sorting
-  - UI-Design
-image_prompt: "A robot in a business suit at a desk, typing on one side, and a robot in a lab coat with goggles, working with code and tools on the other—symbolizing seamless role transitions."
-date_created: 2025-04-15
-date_modified: 2025-04-21
 ---
 
 # Objective:

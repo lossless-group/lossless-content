@@ -10,15 +10,10 @@ status: To-Prompt
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
-date_modified: 2025-04-19
+date_modified: 2025-04-22
 image_prompt: "A digital notebook UI with YAML code snippets, warning icons for errors, and a timeline of project memories. Visuals include sticky notes, highlighted syntax, and a reassuring sense of order and best practices."
 site_uuid: cf0325fb-c19d-480c-a739-3118d28a7428
-tags:
-  - Workflow
-  - YAML
-  - YAML-Handling
-  - YAML-Conventions
-  - Bug-Prevention
+tags: [Workflow, YAML, YAML-Handling, YAML-Conventions, Bug-Prevention]
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/K6w6-3g0BvIPTm0GGa_t_2E1BuuVLYH2FY_6EVRmmZ4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/c7d02b76-1f47-475c-9f81-c8ebdfd5a865

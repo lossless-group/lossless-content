@@ -1,6 +1,6 @@
 ---
 date_created: 2025-04-16
-date_modified: 2025-04-16
+date_modified: 2025-04-22
 title: Maintain Consistent Reporting Templates
 lede: "Build trust and clarity with consistent, reusable reporting templates that make every audit, fix, and automation step transparent and repeatable."
 date_authored_initial_draft: 2025-04-10
@@ -10,12 +10,11 @@ status: To-Prompt
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 image_prompt: "A dashboard of reporting templates, each with structured tables, summary cards, and visual checkmarks, all glowing with clarity and order in a digital workspace."
-portrait_image: "https://img.recraft.ai/kSPv35K6mZpn2JdZEL0XjSfHFgCOIXSVoN8WKDqtO5I/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/f9e0f647-7a67-4428-863a-080617ef1b9b"
 site_uuid: b8994593-83f1-4adb-accb-c475b6a70e4b
-tags:
-  - Workflow
+tags: [Workflow]
 authors:
   - Michael Staton
+portrait_image: https://img.recraft.ai/H6gFujGhdHfc78opUSEH-kV7DgHW6kachmSU1cu11OY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/853bc931-9e5c-4299-9e1b-b139b1bd4cc8
 ---
 
 ### Single Operation Process Report
