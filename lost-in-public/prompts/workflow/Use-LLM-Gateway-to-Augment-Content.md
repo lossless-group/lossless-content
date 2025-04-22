@@ -13,7 +13,7 @@ category: Prompts
 date_modified: 2025-04-16
 date_created: 2025-04-16
 image_prompt: "A content creation gateway powered by multiple LLMs, with data flowing through interconnected nodes, creative content cards, and a dashboard of AI models. Visuals include glowing pathways, document icons, and a sense of high-volume, automated content generation."
-banner_image: "https://img.recraft.ai/JwXZuFeGzMMO4i5tx6HrXMJY_ExQoe2hf7amDriGhM4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/b17c37b8-f37f-4aee-9fd5-4d649cc723ae"
+portrait_image: "https://img.recraft.ai/JwXZuFeGzMMO4i5tx6HrXMJY_ExQoe2hf7amDriGhM4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/b17c37b8-f37f-4aee-9fd5-4d649cc723ae"
 site_uuid: 7e866c2b-a4e9-4480-9780-af3a5a9e0b5a
 tags:
   - Prompt-Engineering

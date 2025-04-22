@@ -16,7 +16,7 @@ image_prompt: "A robot is writing at an antique desk with a quill and ink by can
 tags: [Workflow, YAML, AI-Creativity, Content-Automation]
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/UgzYBaUuHPNO8mk-FrWTtTQrOnysbgfD1NTX8aUu8O8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/32965b5c-18fc-47e2-ab82-79a8d148d886
+portrait_image: https://img.recraft.ai/UgzYBaUuHPNO8mk-FrWTtTQrOnysbgfD1NTX8aUu8O8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/32965b5c-18fc-47e2-ab82-79a8d148d886
 ---
 
 # Context

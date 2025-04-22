@@ -12,7 +12,7 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-19
-banner_image: https://img.recraft.ai/ZEjVZ7wvGmVnKxSH_jKqYYJx5k-RX_aI8OzXzV-oSnY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a1a21c0d-5cbb-4162-ac13-693f65380fa6
+portrait_image: https://img.recraft.ai/ZEjVZ7wvGmVnKxSH_jKqYYJx5k-RX_aI8OzXzV-oSnY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a1a21c0d-5cbb-4162-ac13-693f65380fa6
 site_uuid: a1e00d51-a725-44e9-af64-ff4eda718e4b
 tags: [Frontmatter-Validation, File-Processing, Build-Scripts, File-Systems]
 authors:

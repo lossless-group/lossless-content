@@ -19,7 +19,7 @@ tags:
   - Reporting
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/Bmsys2lPl3XVyt9LxJL_AzpOyXcZUcRP9aZFrce5SbQ/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/4ffaed10-89d5-41ef-9541-6201dbb1ded9
+portrait_image: https://img.recraft.ai/Bmsys2lPl3XVyt9LxJL_AzpOyXcZUcRP9aZFrce5SbQ/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/4ffaed10-89d5-41ef-9541-6201dbb1ded9
 ---
 
 # Higher-Order Objective:

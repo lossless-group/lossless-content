@@ -15,7 +15,7 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A digital breadcrumb trail leading to an issue resolution, with highlighted steps, solution icons, and a summary card. Visuals include path markers, bug icons, and a sense of guiding future developers to solutions."
-banner_image: "https://img.recraft.ai/bgQmboEhzjy2R1hr4vOsvbimsvNIkKfUZRaYpewUffc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/7b77b70f-530e-4c16-9362-e7577b58c8fd"
+portrait_image: "https://img.recraft.ai/bgQmboEhzjy2R1hr4vOsvbimsvNIkKfUZRaYpewUffc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/7b77b70f-530e-4c16-9362-e7577b58c8fd"
 site_uuid: 828827c3-4a13-4f05-967f-d5eb837f5f05
 tags:
   - Issue-Resolution

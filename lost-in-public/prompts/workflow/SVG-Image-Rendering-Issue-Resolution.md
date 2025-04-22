@@ -14,7 +14,7 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A troubleshooting dashboard for SVG image rendering, showing a web page with broken and fixed SVG icons, diagnostic tools, and highlighted file paths. Visuals include warning symbols, code snippets, and a sense of technical problem-solving."
-banner_image: "https://img.recraft.ai/GTx12UPcfyCsucXEUxhx4p_ZTKU4e-Hu4WDSptLaRHs/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/615bca3f-5cf0-4a70-be6c-4af5edc9a020"
+portrait_image: "https://img.recraft.ai/GTx12UPcfyCsucXEUxhx4p_ZTKU4e-Hu4WDSptLaRHs/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/615bca3f-5cf0-4a70-be6c-4af5edc9a020"
 site_uuid: 6551f209-9a8a-491a-9762-430e1e47a75d
 tags:
   - Issue-Resolution

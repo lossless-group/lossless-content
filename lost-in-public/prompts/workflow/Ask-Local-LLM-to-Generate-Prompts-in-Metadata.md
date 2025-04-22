@@ -13,7 +13,7 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A creative digital workspace with an AI assistant analyzing markdown files, generating imaginative image prompts, and updating YAML frontmatter. Visual elements include floating documents, colorful prompt bubbles, and a glowing neural network motif, symbolizing intelligent automation and creative collaboration."
-banner_image: "https://img.recraft.ai/ZyYTkKS0v3qHi7kbaF_EU5xec6So8YnFdOYXzzSReAY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/2709fe48-2379-4bf3-b51b-66c6f36b1353"
+portrait_image: "https://img.recraft.ai/ZyYTkKS0v3qHi7kbaF_EU5xec6So8YnFdOYXzzSReAY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/2709fe48-2379-4bf3-b51b-66c6f36b1353"
 site_uuid: 09bc5596-d875-4839-a7e2-0702bfc28d8f
 tags:
   - Workflow

@@ -17,7 +17,7 @@ site_uuid: 0f2c53a6-db2c-43a3-8fcc-0b1e3b434abf
 tags: [YAML-Validation, Build-Scripts, Data-Integrity]
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/557dQSHQQSSJ2z8BxLp_hN5RHWhIpJcR03Ij7oICVv8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/bb336f57-4b65-4692-8dc4-eae40d2bc517
+portrait_image: https://img.recraft.ai/557dQSHQQSSJ2z8BxLp_hN5RHWhIpJcR03Ij7oICVv8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/bb336f57-4b65-4692-8dc4-eae40d2bc517
 ---
 
 **Objective:** Create a script that reads a list of files (missing URLs), finds corresponding files by filename in a source directory (`temp_old_repo/content/tooling`), extracts the `url:` property from the source file's frontmatter (if present, **without using a YAML library**), and inserts this `url:` line into the frontmatter of the target file (`content/tooling`).

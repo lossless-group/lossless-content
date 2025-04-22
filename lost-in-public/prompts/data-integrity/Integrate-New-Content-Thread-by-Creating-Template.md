@@ -20,7 +20,7 @@ tags:
   - Data-Integrity
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/uwWQdPWqtZd_nIDIizXGf146UJKuj0F9Hk6fzDCDCsE/rs:fit:1820:1024:0/raw:1/plain/abs://external/images/ec5cb419-1466-4b77-a8e9-d6da0f9f000a
+portrait_image: https://img.recraft.ai/uwWQdPWqtZd_nIDIizXGf146UJKuj0F9Hk6fzDCDCsE/rs:fit:1820:1024:0/raw:1/plain/abs://external/images/ec5cb419-1466-4b77-a8e9-d6da0f9f000a
 ---
 
 # Role
