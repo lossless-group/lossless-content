@@ -23,6 +23,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/Zb17RkPZ0hmBIpWRRXWOBqMmukqIrLuepBCUnHks8Ng/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/0b50ac50-75d7-47c0-a76a-da797c9b9810
+banner_image: https://img.recraft.ai/TO8pR_eYpllNc1a475yCx2ABvw_I6qLu1qIRSenE5Yo/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/c142afb8-fd46-4d2c-b717-e81184a4083f
 ---
 
 # YAML Frontmatter Corruption Correction Tool

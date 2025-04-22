@@ -19,6 +19,7 @@ tags:
   - Data-Integrity
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/YQmLdu_P3HWV0ob11jg827S4UZsYFzFzOoCTUv_TQaU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/055026cc-d643-4f8a-90c9-78e8a73aebee
 ---
 
 I have installed through homebrew an open source library called Yamllint. 

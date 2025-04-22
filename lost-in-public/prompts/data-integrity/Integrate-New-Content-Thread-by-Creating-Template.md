@@ -21,6 +21,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/uwWQdPWqtZd_nIDIizXGf146UJKuj0F9Hk6fzDCDCsE/rs:fit:1820:1024:0/raw:1/plain/abs://external/images/ec5cb419-1466-4b77-a8e9-d6da0f9f000a
+banner_image: https://img.recraft.ai/G0iadvwFcRdPQ4uxWYxyxg7VsQOVLsSbufR5fOUQN5c/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/78642f04-8bd3-40c7-82a7-62c851bf4508
 ---
 
 # Role

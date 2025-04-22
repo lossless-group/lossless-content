@@ -22,6 +22,7 @@ tags:
   - LLM-Services
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/v9EIxr-J9agI3idbPoyV7EmvQwrmT7LSOTjaLSUnhJc/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/92ae5331-f163-4241-87f9-780f06dd3e07
 ---
 
 # Role

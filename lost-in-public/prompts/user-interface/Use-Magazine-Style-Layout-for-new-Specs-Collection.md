@@ -14,6 +14,7 @@ authors:
   - Michael Staton
 image_prompt: An open magazine on a desk with big images, like National Geographic or Vogue.
 portrait_image: https://img.recraft.ai/X4j1g7Ux7e8d0FaHR4ZQ_kspb7ELYpsatDsCMAZNK_A/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/c1fe301f-4f50-4477-8573-417a96336015
+banner_image: https://img.recraft.ai/3EmJWXOLblDTqDjwEQ_AP0zafIqIhwgdyBFBZ3wAXZk/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/16dd92c7-daf6-4ac5-8a34-04fd1baa9c1a
 ---
 
 # Goals

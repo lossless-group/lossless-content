@@ -22,6 +22,7 @@ tags:
   - Code-Changes
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/dNjC71HZTzhuGsVvZr7XPTmU5hs1U913AIyJ2qzKBBU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/cce8391e-96bf-4f25-aee5-1cf825546b78
 ---
 
 > Option Set for 'Changelog Type':

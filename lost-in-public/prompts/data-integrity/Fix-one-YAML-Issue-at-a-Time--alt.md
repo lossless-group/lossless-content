@@ -19,6 +19,7 @@ tags:
   - URL-Processing
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/JhDVpYAmbyhF16zZGXGM4NtESgQhyj85NgEeYEXN5hU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/a80635ac-caf5-452b-bde2-8e5a0bef71b9
 ---
 
 # Executive Summary

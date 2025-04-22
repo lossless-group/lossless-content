@@ -24,6 +24,7 @@ tags:
   - Content-Fixes
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/FmGrfhVRvt9sc-qBjDxWAQxptLSTT8UV_eL1xKLfP0w/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/37949159-80bf-4fa9-8180-5c1d0606b167
 ---
 
 # Write a Technical Specification with a Standard but Evolving Style

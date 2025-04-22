@@ -18,6 +18,7 @@ tags: [Error-Correction, YAML-Validation, Function-Development, Build-Scripts]
 authors:
   - Michael Staton
 image_prompt: A plumber is on their knees under a sink, using a large wrench to try to fix a water leak.
+banner_image: https://img.recraft.ai/567rYk7prDkUnXPlej0MOquTIHJLX21AkJY7nhBeqw4/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/a93dcf59-615e-4a40-8ba1-5f4972a705fa
 ---
 
 ## Objective:

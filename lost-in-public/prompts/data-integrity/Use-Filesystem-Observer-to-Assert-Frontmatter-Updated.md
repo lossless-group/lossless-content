@@ -18,6 +18,7 @@ site_uuid: 69332186-eed2-4b81-87ec-5aae40568f9f
 tags: [Frontmatter-Validation, File-Processing, Build-Scripts, File-Systems, Data-Integrity]
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/l009uCCokQzyIZ6OgT3IKzdrAZ3wx_cMK2o0ps5cq7A/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/be5e7a15-b933-48be-b34e-b5a2c441661b
 ---
 
 ## Objective

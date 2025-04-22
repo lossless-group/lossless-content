@@ -26,6 +26,7 @@ tags:
   - Metadata
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/VjSjsPVmtiPPBHMQ2JYBD-lw3AmKfynCMQye96vtfzI/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/24ccd5f1-dff0-453b-8acf-95b6e604d1d4
 ---
 
 ## Objective

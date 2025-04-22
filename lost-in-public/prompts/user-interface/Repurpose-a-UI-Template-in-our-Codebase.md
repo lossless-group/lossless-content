@@ -22,6 +22,7 @@ tags:
   - Code-Reuse
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/2DTIeuwQTuVqUWuDwGDkDi5SOQO7q_HteFg0wMPlve4/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/dd7f038b-bb1a-49bf-b3c0-bc2aa8a8796a
 ---
 
 # Repurpose a UI Template in our Codebase

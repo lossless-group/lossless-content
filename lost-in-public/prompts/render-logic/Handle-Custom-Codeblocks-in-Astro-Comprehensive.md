@@ -18,6 +18,7 @@ tags:
   - Render-Logic
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/7m8Rm2v1ZFwj9AmAIguOay-MypKGWHfIzUTk2YCW1V4/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/eba5fc26-303d-439e-9490-16c75e461af8
 ---
 
 # Implement a Comprehensive Code Block Rendering System in Astro

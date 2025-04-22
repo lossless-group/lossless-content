@@ -19,6 +19,7 @@ tags:
   - Render-Logic
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/-AjChvT1u52TQsuHUseSqXz_HpTQL2IjJq2Ub8gP0HY/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/72e245c5-f228-488e-8ec9-aa40b3130e0d
 ---
 
 # Custom Code Block Rendering in Astro

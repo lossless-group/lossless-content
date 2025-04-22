@@ -22,6 +22,7 @@ authors:
   - Michael Staton
 augmented_with: Windsurf Cascade on GPT-4.1
 portrait_image: https://img.recraft.ai/7k5UTI96DXen7Kb_gga35wvrAJSJOXbU8EHK3FMEaC0/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/e90f31e3-ba4e-4699-8ad8-79758552a576
+banner_image: https://img.recraft.ai/ybzsU-nPmaAhcomu6-HRD7sli27RGyY9iHOpT8xoJYs/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/2a86c14b-cadf-4d96-858a-e6799f1f9c64
 ---
 
 # Goal  
