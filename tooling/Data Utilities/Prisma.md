@@ -8,10 +8,11 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:21.821Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:19:01.832Z
-date_modified: 2025-04-12
+date_modified: 2025-04-22
 date_created: 2025-03-30
 tags: [Data-Utilities, Serverless-Database, Check-It-Out]
-url: 'https://www.prisma.io'
+url: https://www.prisma.io
+description_site_cp: Ship production apps at lightning speed, and scale to a global audience effortlessly with our next-gen serverless database.
 ---
 
 

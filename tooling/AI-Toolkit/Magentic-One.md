@@ -12,10 +12,10 @@ created_by: "[[Microsoft Research]]"
 jina_last_request: 2025-03-09T06:45:14.415Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:19:02.891Z
-date_modified: 2025-04-12
-date_created: 2025-03-31T20:44:50.509Z
-tags:
-  - AI-Toolkit
+date_modified: 2025-04-22
+date_created: 2025-03-31
+tags: [AI-Toolkit, AI-Orchestrators, Agentic-AI]
+description_site_cp: Magentic-One employs a multi-agent architecture where a lead agent, the Orchestrator, directs four other agents to solve tasks. The Orchestrator plans, tracks progress, and re-plans to recover from errors, while directing specialized agents to perform tasks like operating a web browser, navigating local files, or writing and executing Python code.
 ---
 
 
