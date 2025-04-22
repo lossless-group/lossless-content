@@ -1,24 +1,22 @@
 ---
-title: Map of Relevant Paths
-lede: "Review this file to ensure code generation is using the correct paths and directory structure in this complex monorepo."
+title: 'Map of Relevant Paths'
+lede: 'Review this file to ensure code generation is using the correct paths and directory structure in this complex monorepo.'
 date_authored_initial_draft: 2025-04-06
 date_authored_current_draft: 2025-04-12
 date_authored_final_draft: null
 date_first_published: null
 at_semantic_version: 0.0.0.1
 status: Routine
+augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+category: Prompts
+image_prompt: 'A digital blueprint of a monorepo, with highlighted directory paths, warning signs, and strict folder boundaries—emphasizing correct structure and navigation.'
+date_created: 2025-04-06
+date_modified: 2025-04-22
+site_uuid: 05e41630-1753-4bae-a4d6-20bf9147d76b
+portrait_image: https://img.recraft.ai/M3EtNTAznDlHcw135hkYt3_q0BuReMvA7dk4pKPjngM/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/68d0f535-019b-4fbb-95d4-afe92fee6340
+tags: [Code-Style, Software-Architecture, Code-Generators, Bug-Prevention]
 authors:
   - Michael Staton
-augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
-category: Prompts
-tags:
-  - Code-Style
-  - Software-Architecture
-  - Code-Generators
-  - Bug-Prevention
-image_prompt: "A digital blueprint of a monorepo, with highlighted directory paths, warning signs, and strict folder boundaries—emphasizing correct structure and navigation."
-date_created: 2025-04-06
-date_modified: 2025-04-12
 ---
 
 # Project Directory Structure

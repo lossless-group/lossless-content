@@ -1,5 +1,6 @@
 ---
 title: Comprehensive Rules to tame Code Generator LLMs
+lede: "A comprehensive, click-worthy guide to every YAML property and value syntax nuance you need to master for robust automation and content integrity."
 date_authored_initial_draft: 2025-04-17
 date_authored_final_draft: 2025-04-17
 date_first_published: null
@@ -17,8 +18,8 @@ tags:
   - Workspace-Configurations
 date_created: 2025-04-17
 date_modified: 2025-04-17
-lede: "A comprehensive, click-worthy guide to every YAML property and value syntax nuance you need to master for robust automation and content integrity."
 image_prompt: "A sprawling, color-coded mind map of YAML keys, values, and syntax rules, with highlighted error icons and best-practice callouts, all on a digital whiteboard."
+portrait_image: https://img.recraft.ai/hFdv7NNa9Nfbo1WGS_imUe5kgWFs7-xascYjREA8OD0/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/5b760e3a-d365-423f-a82b-53b5a42a9708
 ---
 
 # YAML Properties and Value Syntax

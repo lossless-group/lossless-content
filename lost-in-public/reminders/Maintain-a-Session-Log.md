@@ -1,6 +1,6 @@
 ---
-title: Maintain a word-for-word dialog of our session
-lede: "Capture every word of your human-AI dialog for perfect transparency, reproducibility, and context-aware automation."
+title: 'Maintain a word-for-word dialog of our session'
+lede: 'Capture every word of your human-AI dialog for perfect transparency, reproducibility, and context-aware automation.'
 date_authored_initial_draft: 2025-03-17
 date_authored_current_draft: 2025-03-26
 date_authored_final_draft: null
@@ -10,24 +10,20 @@ date_first_run: 2025-03-18
 date_last_run: 2025-03-18
 at_semantic_version: 0.0.0.4
 status: To-Do
+augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+user_name: 'Michael Staton'
+working_with: 'Windsurf IDE with Claude 3.5'
+category: Prompts
+image_prompt: 'A digital logbook with glowing dialog bubbles between a human and an AI, timestamped and stretching across a timeline—symbolizing perfect record-keeping.'
+date_created: 2025-03-23
+date_modified: 2025-04-22
+site_uuid: 166e2b72-19ae-46b9-85f5-46de8d131685
+portrait_image: https://img.recraft.ai/Zp78q2En8T0-NeR8eXWQ9IOTYPhVaZQZiCVaXjU6npk/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/c6a9f871-ac16-4524-955f-fdd39b2f7c96
+tags: [Session-Logs, LLM-Chat-History, Content-Generation, Code-Generators, Prompt-Engineering, Context-Windows, Version-Control]
 authors:
   - Michael Staton
-augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
-user_name: Michael Staton
-working_with: Windsurf IDE with Claude 3.5
-category: Prompts
-tags:
-  - Session-Logs
-  - LLM-Chat-History
-  - Content-Generation
-  - Code-Generators
-  - Prompt-Engineering
-  - Context-Windows
-  - Version-Control
-image_prompt: "A digital logbook with glowing dialog bubbles between a human and an AI, timestamped and stretching across a timeline—symbolizing perfect record-keeping."
-date_created: 2025-03-23
-date_modified: 2025-04-19
 ---
+
 ### Working Directory:
 `content/sessions`
 

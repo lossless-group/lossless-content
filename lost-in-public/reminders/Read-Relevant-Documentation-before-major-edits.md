@@ -1,6 +1,6 @@
 ---
-title: Read the relevant documentation before guessing.
-lede: "Illuminate your coding journey by diving into relevant documentation, and transform assumptions into accurate, well-informed decisions."
+title: 'Read the relevant documentation before guessing.'
+lede: 'Illuminate your coding journey by diving into relevant documentation, and transform assumptions into accurate, well-informed decisions.'
 date_authored_initial_draft: 2025-03-14
 date_authored_current_draft: 2025-04-20
 date_authored_final_draft: null
@@ -8,17 +8,16 @@ date_first_published: null
 date_last_updated: null
 at_semantic_version: 0.0.0.1
 status: Routine
+augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+category: Prompts
+image_prompt: 'A robot in a library, pouring over a giant stack of books, surrounded by glowing documentation and reference icons—symbolizing careful research before coding.'
+date_created: 2025-04-09
+date_modified: 2025-04-22
+site_uuid: 372a644a-7d4b-4909-adaf-b0f361b4fc27
+portrait_image: https://img.recraft.ai/AJpJqJ1tXfJRJMArq5VTPHEF9DU-QVn4Lx5NiG3M3ss/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/38336053-809c-497b-9879-282476bf3381
+tags: [Prompt-Engineering, Code-Standards, Best-Practices]
 authors:
   - Michael Staton
-augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
-category: Prompts
-tags:
-  - Prompt-Engineering
-  - Code-Standards
-  - Best-Practices
-image_prompt: "A robot in a library, pouring over a giant stack of books, surrounded by glowing documentation and reference icons—symbolizing careful research before coding."
-date_created: 2025-04-09
-date_modified: 2025-04-20
 ---
 
 # Essential Documentation References

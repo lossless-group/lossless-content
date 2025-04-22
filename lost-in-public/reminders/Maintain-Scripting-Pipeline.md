@@ -1,25 +1,22 @@
 ---
-title: Maintain a Scripting Pipeline
-lede: "Design modular pipelines to detect, clean, and report on markdown files—ensuring every content workflow is robust, maintainable, and auditable."
+title: 'Maintain a Scripting Pipeline'
+lede: 'Design modular pipelines to detect, clean, and report on markdown files—ensuring every content workflow is robust, maintainable, and auditable.'
 date_authored_initial_draft: 2025-03-26
 date_authored_current_draft: 2025-03-26
 date_authored_final_draft: null
 date_first_published: null
 at_semantic_version: 0.0.0.1
 status: In-Progress
+augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+category: RAG-Input
+image_prompt: 'A digital assembly line of scripts, each module passing markdown files through cleaning, detection, and reporting stations—glowing with automation and order.'
+date_created: 2025-03-26
+date_modified: 2025-04-22
+site_uuid: 33265b85-8890-4f38-b0cc-671cbf40fc80
+portrait_image: https://img.recraft.ai/824z8Ouxp0CnYf5NjqC0RiDF1WvDYJrGgIDeqsYh-3s/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/28d82a4a-a9a9-4888-9634-c9867de86576
+tags: [Script-Pipeline, Data-Cleaning, Tidy-Data, Markdown-Processing, Node-Scripts]
 authors:
   - Michael Staton
-augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
-category: RAG-Input
-tags:
-  - Script-Pipeline
-  - Data-Cleaning
-  - Tidy-Data
-  - Markdown-Processing
-  - Node-Scripts
-image_prompt: "A digital assembly line of scripts, each module passing markdown files through cleaning, detection, and reporting stations—glowing with automation and order."
-date_created: 2025-03-26
-date_modified: 2025-04-19
 ---
 
 # Creating a Modular Script Pipeline

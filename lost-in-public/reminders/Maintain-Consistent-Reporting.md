@@ -1,24 +1,22 @@
 ---
-title: Maintain Consistent Reporting
-lede: "Master the art of consistent, auditable reporting for every automation, script, and observer in your content pipeline."
+title: 'Maintain Consistent Reporting'
+lede: 'Master the art of consistent, auditable reporting for every automation, script, and observer in your content pipeline.'
 date_authored_initial_draft: 2025-03-26
 date_authored_current_draft: 2025-04-15
 date_authored_final_draft: null
 date_first_published: null
 at_semantic_version: 0.0.0.1
 status: To-Do
+augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+category: Prompts
+image_prompt: 'A digital ledger or dashboard with checklists, report icons, and YAML files, all connected by glowing audit trails and summary statistics.'
+date_created: 2025-03-26
+date_modified: 2025-04-22
+site_uuid: f6ea2031-866d-457f-a7fe-834ae48ffd72
+portrait_image: https://img.recraft.ai/RDfcxCNG_2wlYv6PaH2qCGUu52XMMK1dA_WBO2dGagU/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a7698159-0c3a-44cc-86c0-0394b1f9c07e
+tags: [Workflow, Reporting, Automation, Auditing]
 authors:
   - Michael Staton
-augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
-category: Prompts
-tags:
-  - Workflow
-  - Reporting
-  - Automation
-  - Auditing
-image_prompt: "A digital ledger or dashboard with checklists, report icons, and YAML files, all connected by glowing audit trails and summary statistics."
-date_created: 2025-03-26
-date_modified: 2025-04-15
 ---
 
 # Reports always always ALWAYS ALWAYS go in the following directory:
