@@ -17,6 +17,7 @@ portrait_image: https://img.recraft.ai/UxBfb9BKNeRCfPe3YYyWRRBy6QjUfcZpEo6GsC7Ao
 tags: [User-Interface, Content-Models, Content-Sorting, UI-Design]
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/UOUzCP-9afN_hG2IANtgcyMVZkysSsUjsypxH82_HZ0/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/f694fb0b-394e-4dea-b91b-92ade5ca7766
 ---
 
 # Objective:

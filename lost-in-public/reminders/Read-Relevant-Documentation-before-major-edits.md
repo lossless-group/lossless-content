@@ -18,6 +18,7 @@ portrait_image: https://img.recraft.ai/AJpJqJ1tXfJRJMArq5VTPHEF9DU-QVn4Lx5NiG3M3
 tags: [Prompt-Engineering, Code-Standards, Best-Practices]
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/G5IGxvh-RAknArM13hufgwjMNvF1zGFNjrvlhXkqdfY/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/a32a2b2c-4ecf-4a63-a0f8-8d5653a23f70
 ---
 
 # Essential Documentation References

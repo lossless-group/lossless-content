@@ -17,6 +17,7 @@ portrait_image: https://img.recraft.ai/M3EtNTAznDlHcw135hkYt3_q0BuReMvA7dk4pKPjn
 tags: [Code-Style, Software-Architecture, Code-Generators, Bug-Prevention]
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/cLpuMYOD5mnzSWJCRda9Zs-LvjMtuWPWyA8m3lmj4BU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/c9f2debe-5424-4b48-b46d-fce8163bc0ba
 ---
 
 # Project Directory Structure

@@ -20,6 +20,7 @@ date_created: 2025-04-17
 date_modified: 2025-04-17
 image_prompt: "A sprawling, color-coded mind map of YAML keys, values, and syntax rules, with highlighted error icons and best-practice callouts, all on a digital whiteboard."
 portrait_image: https://img.recraft.ai/hFdv7NNa9Nfbo1WGS_imUe5kgWFs7-xascYjREA8OD0/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/5b760e3a-d365-423f-a82b-53b5a42a9708
+banner_image: https://img.recraft.ai/XOv1ID2UHRdKEwMztMsqOSzsxKhrCKcQg5ibfBpFYQg/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/cf355ddc-05d8-4996-8f62-878492abdb65
 ---
 
 # YAML Properties and Value Syntax

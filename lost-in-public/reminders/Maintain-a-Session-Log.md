@@ -22,6 +22,7 @@ portrait_image: https://img.recraft.ai/Zp78q2En8T0-NeR8eXWQ9IOTYPhVaZQZiCVaXjU6n
 tags: [Session-Logs, LLM-Chat-History, Content-Generation, Code-Generators, Prompt-Engineering, Context-Windows, Version-Control]
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/nifL5lK-RmF2g5q4hsLZ7gGWES2T82R80dSN3ncGZ9k/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/c81ab585-9abe-4500-b358-6bc9ac0ae05a
 ---
 
 ### Working Directory:

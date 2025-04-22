@@ -22,7 +22,7 @@ tags:
   - Bug-Prevention
 authors:
   - Michael Staton
-banner_image: 
+banner_image: https://img.recraft.ai/ah7upfY9apXMhHLVhPEAYBXFDJPvUFSHW97pk_ab9kw/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/1cd7454f-2c04-42d8-b8c4-a933b5672d17
 ---
 
 # YAML Patterns for Data Integrity

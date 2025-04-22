@@ -19,6 +19,7 @@ site_uuid: dcc81fa4-855d-4ad1-9385-205465955519
 tags: [Prompt-Engineering, Code-Standards, Best-Practices, Error-Handling]
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/qtJ6VIFuodoaGz9-R0yuBPHzUvEhRHBetQfwj3Bkq-g/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/8f2a9d21-42c3-4620-93f6-fe2618fad623
 ---
 
 ## Before starting:

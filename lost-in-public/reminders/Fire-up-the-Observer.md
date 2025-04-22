@@ -18,6 +18,7 @@ portrait_image: https://img.recraft.ai/pgVuGWUtAk12Z7PjRSbwOx7S0b370MBoBuB05Ug0E
 tags: [Data-Integrity, File-Processing, Observer-System]
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/mANjGXwnvVq1itz-vMmExJVc3YrTK_0hKasdRklxs_M/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/08958cc1-c093-4d93-8859-9bebc974a59d
 ---
 
 # Running the Observer System
