@@ -18,6 +18,7 @@ tags: [Workflow]
 authors:
   - Michael Staton
 image_prompt: A column list of dates on the left, most recent on the top. On the right, the symbol representing infinite.
+banner_image: https://img.recraft.ai/H2feao--To2ggBwZw8QigMymDgdGm8iU7ZTOwY04pUQ/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/e10008d7-aaa2-417a-b1a9-535179ea8d8b
 ---
 
 # Purpose  # High-level goal

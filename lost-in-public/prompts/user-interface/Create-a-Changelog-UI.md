@@ -23,6 +23,7 @@ tags:
   - User-Experience
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/-rXSeSJtCfOAKSoEwOcyrq2Xe4FoQFuaRAPfP0Hyvoo/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/e724c170-4236-442f-8958-2309152594b1
 ---
 
 # Data Flow & Component Pipeline

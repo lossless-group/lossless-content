@@ -22,6 +22,7 @@ tags:
   - UUID-Management
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/GdzImtxUy13Bz-MHCMmpDffj8li2BVWn_9Xohqfsxec/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/c7af97ba-99fe-4279-947e-5f33ae8b896b
 ---
 
 # Create a Content Registry for Markdown Files

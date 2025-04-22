@@ -24,6 +24,7 @@ tags:
   - Best-Practices
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/BioG3iFwr_oet6tqCP5WadV3oeT-EOQiLCUJ3wG_R3s/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/40aa048a-0dd7-4d6d-b877-94578ec4a165
 ---
 
 # Context

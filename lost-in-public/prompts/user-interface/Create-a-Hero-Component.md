@@ -22,6 +22,7 @@ tags:
   - Animations
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/5Q2bbmTAjxPhZB6zuu_YwSOgTun5fY7T5BVB5Wp3OOg/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/bc80b357-6312-4925-9f66-6d166c3dccdc
 ---
 
 # Context

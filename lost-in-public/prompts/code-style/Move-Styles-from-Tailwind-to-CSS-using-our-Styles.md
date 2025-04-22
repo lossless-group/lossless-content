@@ -19,6 +19,7 @@ site_uuid: f08a64f3-f771-472a-8845-b400d7db9ab7
 tags: [Code-Style, Component-based Architecture, Readability, Component-Management]
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/JCL4PlJaUHbOtVIspzx7w6tNdDAMdC4NDKP1oLhWaHY/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/b2d1f66d-11f1-4bba-8a16-3ee482c62b00
 ---
 
 # Context

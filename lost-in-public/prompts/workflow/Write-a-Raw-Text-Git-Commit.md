@@ -28,6 +28,7 @@ tags:
   - Collaborative-Workflow
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/TlVxuZlbstYs4LK3TVHW9fTxIlwZCk_qBXbmoukSz9k/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/92e296ea-918c-48fd-a0c0-23b3159d64fe
 ---
 
 # Goals

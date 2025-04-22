@@ -23,6 +23,7 @@ tags:
   - Component-Analysis
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/KU8Zm9y3JTYgP-lvBCBCj7ehxE2fMm4qX6l4x6pyrM8/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/7a00d3a9-64af-4658-abbd-9295e27b9a53
 ---
 
 [https://effect.website](https://effect.website/)

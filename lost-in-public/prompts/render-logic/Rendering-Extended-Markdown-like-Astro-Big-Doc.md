@@ -24,6 +24,7 @@ tags:
   - AST
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/5mNhJsZRnVon13NsvNSbZJLh7rCQDVD7MhKT6uPdmSA/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d6263856-ed8e-4b7e-a493-9ea283f67cf2
 ---
 
 # Implementation Details

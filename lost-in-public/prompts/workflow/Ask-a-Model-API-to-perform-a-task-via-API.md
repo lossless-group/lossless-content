@@ -23,5 +23,6 @@ tags:
   - API-Guidelines
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/wghxfOweQOqiQ1Ye6YoIUaa8aYtsPOhYEDYL9efbV3U/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/493ee04a-7e49-4074-a05f-9e02bdb18ef0
 ---
 

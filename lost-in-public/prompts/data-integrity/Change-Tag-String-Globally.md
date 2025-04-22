@@ -19,6 +19,7 @@ tags:
   - Data-Integrity
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/FdUMCcxnuLdpo6IWM5UN4CadpXGHp781vBa_qE58vvY/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/683044c6-8626-4bf0-8094-2f15eaae0be8
 ---
 
 `ui-library` --> `UI-Library`
