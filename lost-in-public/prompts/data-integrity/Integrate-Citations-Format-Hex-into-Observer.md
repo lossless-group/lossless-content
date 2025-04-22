@@ -12,7 +12,7 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
-banner_image: "https://img.recraft.ai/GshneWRThroxXVfwmg36QFM4_2uIRmntcmtb2bn7V-w/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/7416bf4a-0b3c-4fa2-9b92-f931e1c6c780"
+portrait_image: "https://img.recraft.ai/GshneWRThroxXVfwmg36QFM4_2uIRmntcmtb2bn7V-w/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/7416bf4a-0b3c-4fa2-9b92-f931e1c6c780"
 image_prompt: "A developer integrating citation formatting logic into a file observer tool, with code snippets, citation icons, and a visual flow of data transformation. The scene emphasizes technical precision, academic rigor, and seamless automation."
 site_uuid: a57d2a7d-7402-48f7-a954-674fc66d543d
 tags:

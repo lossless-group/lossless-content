@@ -13,7 +13,7 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A developer meticulously correcting YAML errors one at a time in a code editor, with a progress tracker, error highlights, and a sense of careful, incremental improvement. The scene is orderly, with a focus on accuracy and systematic problem-solving."
-banner_image: "https://img.recraft.ai/mrfBokgp7Qud0PLvDrR0sdJlzIcDrePfRh9NVKgjPRE/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/38591586-2dfc-4871-9248-0c1b7ff7bb63"
+portrait_image: "https://img.recraft.ai/mrfBokgp7Qud0PLvDrR0sdJlzIcDrePfRh9NVKgjPRE/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/38591586-2dfc-4871-9248-0c1b7ff7bb63"
 site_uuid: d22264ff-0946-4f52-880d-44ebaaa834d7
 tags:
   - YAML-Validation

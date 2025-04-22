@@ -19,7 +19,7 @@ tags:
   - Navigation
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/SpZxY9qLk0gBJAbILie19T-vBD8dLO6Z5Q3MosM5krI/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/c67c5858-c0e1-434e-a0e0-c95169eb6982
+portrait_image: https://img.recraft.ai/SpZxY9qLk0gBJAbILie19T-vBD8dLO6Z5Q3MosM5krI/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/c67c5858-c0e1-434e-a0e0-c95169eb6982
 ---
 
 # Higher-Order Objective

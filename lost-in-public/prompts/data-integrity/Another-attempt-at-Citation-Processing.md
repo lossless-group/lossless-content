@@ -17,7 +17,7 @@ tags: [File-Processing, Build-Scripts, File-Systems, Data-Integrity]
 authors:
   - Michael Staton
 image_prompt: Two students at a library, sitting a desk, with a giant stack of books.
-banner_image: https://img.recraft.ai/b0wYCmmKaAeqJmNbmgRHk8KTScYQvfX02q7X1iN3T-M/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/e8f5e483-4fc6-4192-b7db-111054107c48
+portrait_image: https://img.recraft.ai/b0wYCmmKaAeqJmNbmgRHk8KTScYQvfX02q7X1iN3T-M/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/e8f5e483-4fc6-4192-b7db-111054107c48
 ---
 
   

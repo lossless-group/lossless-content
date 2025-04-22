@@ -20,7 +20,7 @@ tags:
   - AI-Human-Workflow
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/QjYsLJd1S68tFpwYAJrT-gAwKTpWur3YKdBZ8DrUUx0/rs:fit:1820:1024:0/raw:1/plain/abs://external/images/a6607b22-061f-4000-b215-11bca2d009da
+portrait_image: https://img.recraft.ai/QjYsLJd1S68tFpwYAJrT-gAwKTpWur3YKdBZ8DrUUx0/rs:fit:1820:1024:0/raw:1/plain/abs://external/images/a6607b22-061f-4000-b215-11bca2d009da
 ---
 
 # Constraints

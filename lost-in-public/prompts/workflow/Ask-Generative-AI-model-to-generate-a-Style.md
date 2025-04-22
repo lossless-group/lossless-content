@@ -13,7 +13,7 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A generative AI model creating a unique digital style palette, with swirling colors, abstract shapes, and a neural network motif. Visual elements include sliders, color pickers, and a preview of generated styles, symbolizing creative automation."
-banner_image: "https://img.recraft.ai/GbnrkKuCq-D0i5XksMDhd1q5Zkyrzy5J4KwBNyObufQ/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/52652907-7f71-4db1-be24-838781e461be"
+portrait_image: "https://img.recraft.ai/GbnrkKuCq-D0i5XksMDhd1q5Zkyrzy5J4KwBNyObufQ/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/52652907-7f71-4db1-be24-838781e461be"
 site_uuid: 68524391-4243-441a-9929-51ef9cf7a888
 tags:
   - Workflow

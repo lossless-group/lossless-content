@@ -13,7 +13,7 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A content changelog entry UI with sections for updates, improvements, and editorial notes. Visuals include content cards, timeline markers, and collaborative editing tools, symbolizing organized content history tracking."
-banner_image: "https://img.recraft.ai/BoV6t-1AzDGfQno_3x8vp9p0kpTaEtAoeCYBzhlZL3g/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/efaee43c-9d1f-41ab-8b9a-e3040303d59b"
+portrait_image: "https://img.recraft.ai/BoV6t-1AzDGfQno_3x8vp9p0kpTaEtAoeCYBzhlZL3g/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/efaee43c-9d1f-41ab-8b9a-e3040303d59b"
 site_uuid: 3b7cba3a-b409-49ec-8a9b-383960e98c33
 tags:
   - Workflow

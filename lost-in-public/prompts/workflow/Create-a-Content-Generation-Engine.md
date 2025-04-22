@@ -15,7 +15,7 @@ description: Create an API access config directory with files that house sample 
 date_modified: 2025-04-16
 date_created: 2025-04-16
 image_prompt: "A content generation engine visualized as interconnected gears and pipelines, with AI icons, flowing data streams, and generated documents. Visuals include dashboards, content cards, and a sense of automated creativity."
-banner_image: "https://img.recraft.ai/-dGws7p6X3-drMarfmTAlST2aubUPLC425P0cll3EY0/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/e32d92b7-d74d-4d5c-b06b-5d193f7459d4"
+portrait_image: "https://img.recraft.ai/-dGws7p6X3-drMarfmTAlST2aubUPLC425P0cll3EY0/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/e32d92b7-d74d-4d5c-b06b-5d193f7459d4"
 site_uuid: 4980f468-3361-41a9-a35c-025ab6c5d113
 tags:
   - Workflow

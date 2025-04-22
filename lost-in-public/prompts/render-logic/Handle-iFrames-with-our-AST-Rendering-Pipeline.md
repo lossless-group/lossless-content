@@ -22,7 +22,7 @@ tags:
   - Content-Display
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/JvlX1NQ-r-YR06SmXd0DL4fcwkGY-1J8FGO-iCjhirg/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d23a8acc-51f4-4e62-b5d6-d819b6541e00
+portrait_image: https://img.recraft.ai/JvlX1NQ-r-YR06SmXd0DL4fcwkGY-1J8FGO-iCjhirg/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d23a8acc-51f4-4e62-b5d6-d819b6541e00
 ---
 
 # Constraints

@@ -13,7 +13,7 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A software developer at a workstation designing a content registry system, with a digital dashboard displaying organized lists of files and metadata. Visual elements include code, folder icons, and a sense of systematic order and automation. The mood is focused, innovative, and efficient."
-banner_image: "https://img.recraft.ai/P7JkaYrvxhCom3i3ePnuSBUNgLgHEVa31FJWnOwaVyI/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/c1739344-62e8-489e-9253-5fa62934c73b"
+portrait_image: "https://img.recraft.ai/P7JkaYrvxhCom3i3ePnuSBUNgLgHEVa31FJWnOwaVyI/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/c1739344-62e8-489e-9253-5fa62934c73b"
 site_uuid: 1105cad0-cfe6-4c04-a5d5-66746971fa95
 tags:
   - Content-Registry
