@@ -17,7 +17,7 @@ portrait_image: https://img.recraft.ai/tAHtmabO5TKI2iEB6lvguxz8UBCK1tjI3G0G8uFN1
 authors:
   - Michael Staton
 tags: [Code-Generators, Context-Windows, Model-Context-Protocols]
-banner_image: 
+banner_image: https://img.recraft.ai/gogLW0AhiWy9KRWtfBz4GGklbriggKGVk6KnhUKTAYk/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/7883113a-955f-4c6a-b278-de2a18292c4a
 ---
 
 # Stack, Libraries, Dependencies

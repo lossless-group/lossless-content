@@ -17,6 +17,7 @@ portrait_image: https://img.recraft.ai/da2TGqTUx44KU5HxwjtSb2Lahp2XFYAKT6ybMP7uX
 tags: [Workflow, YAML, YAML-Handling, YAML-Conventions, Bug-Prevention]
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/2lnvTkvFYzNUqssvr2LtpdubyV1-YRgnWvb4gMH0cgc/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/09df0047-1f01-44ae-be31-ddcdf537aa29
 ---
 
 [[Tooling/Software Development/Programming Languages/Libraries/PrismJS]]

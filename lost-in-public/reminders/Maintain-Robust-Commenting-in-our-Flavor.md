@@ -19,6 +19,7 @@ tags: [Code-Style, Documentation, Code-Comments, Readability]
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/o62Es24n81CkYPRPevxUkMBwummED6MuARjWQNmVWOk/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/bb79dca9-f93f-451d-8c18-ea6dee889ad9
+banner_image: https://img.recraft.ai/zzUc-8FMxX6Im0Y7u1ckrV8k8lI-9qKehooC06NXz14/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/1c402e40-01ef-4318-9ad4-5f1f8e2f8c2c
 ---
 
 ### Coding Guidelines

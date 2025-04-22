@@ -17,6 +17,7 @@ portrait_image: https://img.recraft.ai/9EF1GcidZqaROqEuZvzOI2tYTDLgCyPJmcQxVaO8K
 tags: [Workflow-Management, Client-Updates, Platform-Mechanisms, Workspace-Configurations]
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/mBrw7GzhYLJgCAjIrAFQyhzkZGJNd8p6CwLTmH4tEsA/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/f5fa95be-12d8-4b42-a04d-20c7e251586e
 ---
 
 [[Tooling/Productivity/Obsidian|Obsidian]]

@@ -19,6 +19,7 @@ portrait_image: https://img.recraft.ai/-7xwpb9uDTf_ny8ix49h9JfnqzQCzIfHDaDz7THf2
 site_uuid: 0043d2ec-aebc-4454-8424-06b323282524
 date_created: 2025-04-16
 date_modified: 2025-04-22
+banner_image: https://img.recraft.ai/PL-2wW3KIGsA7bY7NvM8c0LD_gaY_pNjBbPVGR2oQgE/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/0c8a7e87-0dcf-4190-a6b2-96bebebe0bbc
 ---
 
 Handsontable

@@ -15,6 +15,7 @@ tags: [Workflow]
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/H6gFujGhdHfc78opUSEH-kV7DgHW6kachmSU1cu11OY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/853bc931-9e5c-4299-9e1b-b139b1bd4cc8
+banner_image: https://img.recraft.ai/BBfZveiUJE7yX3ukYbvXipqkavYYPaH7JdXS-vhh3Xc/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d8dd5569-ec14-4483-bb3b-7290ed69b0a7
 ---
 
 ### Single Operation Process Report

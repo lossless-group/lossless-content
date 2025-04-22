@@ -17,6 +17,7 @@ portrait_image: https://img.recraft.ai/RDfcxCNG_2wlYv6PaH2qCGUu52XMMK1dA_WBO2dGa
 tags: [Workflow, Reporting, Automation, Auditing]
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/TqhCS0PYfblQx6LMz6eX5Ig7Z44oexxfEp2TjfB29iw/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/38432377-9cb8-4325-855b-b4eb8fa96422
 ---
 
 # Reports always always ALWAYS ALWAYS go in the following directory:

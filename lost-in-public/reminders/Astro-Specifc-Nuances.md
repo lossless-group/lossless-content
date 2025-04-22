@@ -18,6 +18,7 @@ image_prompt: ''
 tags: [Astro, Web-Frameworks, Code-Generators]
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/bAdSd5Oox6OtuxfSHxtRYzJ5BmqUSYo9t8LlItjK2PA/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/a09a244b-b3bb-4a0c-9d85-5554c3a6608e
 ---
 
 z

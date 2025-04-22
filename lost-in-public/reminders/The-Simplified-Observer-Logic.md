@@ -20,6 +20,7 @@ tags:
 - File-Observers
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/ExDGxUH5RzR6rO2V1c4TqUtMfLY2ROnKlV_HB---zY8/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/16202113-8da7-4c7f-aca5-7d06afb9fa7f
 ---
 
 # Logic:
