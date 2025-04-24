@@ -18,7 +18,7 @@ So, the transition to platform runs contrary to the organizational trajectory th
 
 Perhaps even more contrary to a market leaders culture is the transition from tight control to barely managed chaos. To become a platform, organizations must let go of some of their vigilance: protecting customers, controlling market share, and upholding the highest quality standards are instincts that will cause discomfort as platforms get off the ground. At their best, platforms often start as barely managed chaos. 
 
-The growth from market leader to platform is to institutionalize the following: to better serve the market, let the unknown come and the unexpected occur. Platforms tend to be more successful if they design for and uphold principles of [[Technology wants to be Emergent|Emergent Innovation]], allowing more or less anyone and any organization to at least try to gain platform access.  It's a [[Come one, come all]] policy.  
+The growth from market leader to platform is to institutionalize the following: to better serve the market, let the unknown come and the unexpected occur. Platforms tend to be more successful if they design for and uphold principles of [[essays/Technology wants to be Emergent|Emergent Innovation]], allowing more or less anyone and any organization to at least try to gain platform access.  It's a [[Come one, come all]] policy.  
 
 The way to best serve customers changes from directly serving them to letting others try, and to create clear, strong, and stable [[concepts/Platform Mechanisms]].
 

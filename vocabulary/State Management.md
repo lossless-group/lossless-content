@@ -131,7 +131,7 @@ The [[concepts/State of the Art]] problem with [[concepts/Explainers for Tooling
 > 
 > #### 6. **Apollo Client**
 > 
-> - **What It Is:** A state management library for [[GraphQL]] applications.
+> - **What It Is:** A state management library for [[emergent-innovation/Standards/GraphQL]] applications.
 > - **Value Proposition:**
 >     - Combines remote server state and local client-side state in one unified layer.
 >     - Built-in caching for efficient data fetching.

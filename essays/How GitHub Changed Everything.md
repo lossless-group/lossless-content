@@ -1,10 +1,14 @@
+---
+date_created: 2024-08-15
+date_modified: 2025-04-23
+---
 https://youtu.be/cdcjw5etCnw?si=MQWGQE_MLIbDaUun
 GitHub launched in 2009, and almost immediately became the primary code version control tool of new technology startups. From there, it's growth was meteoric and exponential. [^4]
 ![[Pasted image 20250216184410_GitHub_Chart--Repository-Growth.png]] [^5]
 
 >"GitHub is like the air we breathe. It’s such a natural part of the way we work that sometimes we don’t even notice it. We cannot imagine living without GitHub.” **Ryuzo Yamamoto** // Software Engineer, [Souzoh](https://github.com/customer-stories/mercari) [^3]
 
-Slowly but surely, GitHub has become and will continue to get better at being the "everything" tool for collaborative software development. Smaller development teams already find no reason to adopt [[Workflow Management]] tools like [[Linear]]. [[GitHub]] sports "just-good-enough" Task Management, written [about on their Docs here](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists).  They use [[Markdown]] inspired writing functionality, which extends basic text in many versatile ways. ^[1]
+Slowly but surely, GitHub has become and will continue to get better at being the "everything" tool for collaborative software development. Smaller development teams already find no reason to adopt [[Workflow Management]] tools like [[Linear]]. [[GitHub]] sports "just-good-enough" Task Management, written [about on their Docs here](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists).  They use [[emergent-innovation/Standards/Markdown]] inspired writing functionality, which extends basic text in many versatile ways. ^[1]
 
 You can find little libraries that can speed you up considerably, such as [Swapy](https://github.com/TahaSh/swapy) Major collaborations on web security are now performed over GitHub, including [Portable Open SSH](https://github.com/openssh/openssh-portable) [[GitHub]] has also become a public repository for computational work in science, with similar functionality as peer review. 
 

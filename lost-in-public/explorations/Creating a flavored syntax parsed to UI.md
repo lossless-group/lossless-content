@@ -3,7 +3,7 @@ date_created: 2025-03-21
 date_modified: 2025-03-21
 ---
 ###### Map of Related Content
-- **Concepts: [[concepts/Flavored Syntax|Flavored Syntax]],  [[Emergent-Innovation/Standards/Markdown|Markdown]], [[Vocabulary/Markup]], [[Vocabulary/Text Parsing]]
+- **Concepts: [[concepts/Flavored Syntax|Flavored Syntax]],  [[emergent-innovation/Standards/Markdown|Markdown]], [[Vocabulary/Markup]], [[Vocabulary/Text Parsing]]
 - **Inspiration**: [[Tooling/Software Development/DevOps/Documentation Engines/Readme]], [[Tooling/Productivity/Obsidian|Obsidian]],
 
 [content-structure](https://github.com/MicroWebStacks/content-structure)

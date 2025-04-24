@@ -38,7 +38,7 @@ tags:
 
 “[18 Weird and Wonderful ways I use Docker](https://youtu.be/RUqGlWr5LBA?si=beBc8yv-4_PwEB4Q)” on [[YouTube]] by [[NetworkChuck]]
 
-[[How Docker Changes Everything]]
+[[essays/How Docker Changed Everything]]
 
 https://youtu.be/Ud7Npgi6x8E?si=AFr_dvxpi80y4mLP
 

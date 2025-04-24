@@ -15,7 +15,7 @@ tags:
 
 Used to create the [[Front-End]] along with [[CSS]] and [[JavaScript]].
 
-Can be extended through [[Web Components]]
+Can be extended through [[emergent-innovation/Standards/Web Components]]
 
 https://alexanderpetros.com/triptych/
 

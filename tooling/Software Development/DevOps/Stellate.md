@@ -29,7 +29,7 @@ url: 'https://stellate.co/'
 
 
 
-[[GraphQL]] caching.
+[[emergent-innovation/Standards/GraphQL]] caching.
 
 
 

@@ -9,7 +9,7 @@ aliases:
 [[organizations/International Color Consortium]]
 [[organizations/W3C]]
 [[organizations/The Internet Society]]
-[[OpenGL]]
+[[emergent-innovation/Standards/OpenGL]]
 [[organizations/OASIS Open]]
 [[organizations/ISO|International Standards Organization]]
 [[organizations/Internet Corporation for Assigned Names and Numbers|ICANN]]

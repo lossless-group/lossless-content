@@ -1,5 +1,5 @@
 ---
 parent-org: "[[organizations/Meta]]"
 ---
-Have created [[React]], [[GraphQL]], [[Cassandra]], and [[Skip]].
+Have created [[React]], [[emergent-innovation/Standards/GraphQL]], [[Cassandra]], and [[Skip]].
 

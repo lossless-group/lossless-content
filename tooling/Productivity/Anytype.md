@@ -45,7 +45,7 @@ description_site_cp: Powerful, no-code creation. Compose anything you can imagin
 
 [[Markdown Editor]]
 
-[[How Markdown Changes Everything]]
+[[essays/How Markdown Changed Everything]]
 ##### [[Anytype]] has a solid [[Onboarding Walkthrough]]
 ``` litegal
 ![[Screenshot 2025-02-21 at 4.24.55 AM_Anytpe--Onboarding-Walkthrough.png]]

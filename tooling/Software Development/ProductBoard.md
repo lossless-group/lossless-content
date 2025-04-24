@@ -34,5 +34,5 @@ Part of the [[Current Stack]]
 
 
 ## ProductBoard API
-Uses [[OAuth]] and [[JSON Web Tokens]]
+Uses [[emergent-innovation/Standards/OAuth]] and [[emergent-innovation/Standards/JSON Web Tokens]]
 ![[Screenshot 2025-01-22 at 4.18.37 PM_ProductBoard-API.png]]

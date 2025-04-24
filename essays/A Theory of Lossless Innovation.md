@@ -1,6 +1,6 @@
 ---
-date_created: 2024-11-23
-date_modified: 2025-04-07
+date_created: 2024-09-02
+date_modified: 2025-04-23
 ---
 >"We need better theories." -- [[Clayton Christensen]]
 
@@ -14,7 +14,7 @@ Organizations need an overarching strategy that can guide smaller decisions — 
 
 And above all that, organizations need a unifying motive and story.  Providing tactical improvements is more valuable as part of a larger strategy, and any strategy is more valuable as part of a larger set of beliefs.  To have beliefs that will endure beyond the day to day dynamics, organizations need to embrace a common theory. 
 
-We propose [[essays/02_A Theory of Lossless Innovation]].  What do we mean?  Well, let us ground it in a story, one that is a parable for the next century.  
+We propose [[essays/A Theory of Lossless Innovation]].  What do we mean?  Well, let us ground it in a story, one that is a parable for the next century.  
 
 ## A Parable of Directionality
 

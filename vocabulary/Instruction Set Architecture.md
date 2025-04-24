@@ -6,4 +6,4 @@ aliases:
   - ISA
 ---
 
-[[ARM]], [[x86]], [[RISC-V]]
+[[emergent-innovation/Standards/ARM]], [[x86]], [[emergent-innovation/Standards/RISC-V]]

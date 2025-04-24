@@ -51,7 +51,7 @@ Like [[Creatie]], or [[CopyCoder]], [[UIzard]], [[UX Pilot]], [[Luny AI]], [[v0]
 
 
 ### How would creating and maintaining UI Libraries outside of React work?  
-[[Web Components]], [[Svelte]], [[Solid.js]], [[Vue.js]]?  Do you think the current NPM library will work?  No clear maintainer for how [[UI-Kit]]s get into the [[concepts/Explainers for Tooling/Web Frameworks]].  [[Digital Business Unit]]
+[[emergent-innovation/Standards/Web Components]], [[Svelte]], [[Solid.js]], [[Vue.js]]?  Do you think the current NPM library will work?  No clear maintainer for how [[UI-Kit]]s get into the [[concepts/Explainers for Tooling/Web Frameworks]].  [[Digital Business Unit]]
 
 
 
