@@ -21,7 +21,7 @@ authors:
   - Michael Staton
 portrait_image: ""
 image_prompt: A developer workstation with local AI models, terminal windows, and icons for Ollama, LiteLLM, Fabric, and Perplexica, all connected in a modern workflow diagram.
-banner_image: ""
+banner_image: https://img.recraft.ai/VYoawSuKIlt0zmbQO3_CUuQUA8ldBhxv_qKkTbYS9Rs/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/7eac7677-e96e-415f-9732-072be094ed49
 ---
 
 #### [[MSTY]]

@@ -21,7 +21,7 @@ authors:
   - Michael Staton
 portrait_image: ""
 image_prompt: Terminal window with Git commit message in Neovim, multi-line editing, and configuration icons, in a modern developer setup.
-banner_image: ""
+banner_image: https://img.recraft.ai/jCcGkzD26XD80cTUDggV9G3ZVYBnbaOnoF1o32WsS1I/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/09b704c7-4f5a-4466-9d7b-31b50b7a02d3
 ---
 
 I hate it when I want to add a long message to a git commit and git launches nano.  I just never picked it up. Avoided even having to think about it, really. 

@@ -19,7 +19,7 @@ authors:
   - Michael Staton
 portrait_image: ""
 image_prompt: Developer workspace with AI code assistant, rulebooks, and TypeScript/Astro icons, all interconnected in a modern, organized layout.
-banner_image: ""
+banner_image: https://img.recraft.ai/azLPVBCDqaBdTSbfnlmxycMfZovA-PeBurnCKSYQdnk/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/04ae16b8-2dfc-4a33-88b3-92d76b1e009b
 ---
 
 # Stack, Libraries, Dependencies

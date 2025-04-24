@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-04-21
+date_modified: 2025-04-24
 ---
 
 ```bash
@@ -104,3 +104,12 @@ git merge -X theirs --squash development
 git commit -m "feat(content): comprehensive update from development branch"
 ```
 
+If you want to patch your last commit with no edit to last message
+```bash
+git commit --amend --no-edit
+```
+
+If you already pushed, you need to override the remote commit with a new commit hash:
+```bash
+git push --force-with-lease origin development
+```

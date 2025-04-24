@@ -3,7 +3,10 @@ title: "Computing Entry Object Values in Astro"
 lede: "A practical guide to ensuring content collections in Astro have complete and valid entry objects for reliable builds."
 date_authored_initial_draft: "2025-04-12"
 date_authored_current_draft: "2025-04-23"
-at_semantic_version: "v0.9.3"
+date_authored_final_draft: null
+date_first_published: null
+date_last_updated: null
+at_semantic_version: 0.0.0.1
 status: "Complete"
 augmented_with: "Windsurf Cascade on GPT 4.1"
 category: "Content Collections and Build Validation"
@@ -16,10 +19,10 @@ site_uuid: 51aa9c01-1f74-4894-8f6f-74ea83492323
 date_created: 2025-04-12
 date_modified: 2025-04-23
 authors:
-  - "Michael Staton"
+  - Michael Staton
 portrait_image: ""
 image_prompt: "Astro logo assembling puzzle pieces labeled 'title', 'slug', and 'aliases' into a complete data object, with a background of code and a successful build checkmark."
-banner_image: ""
+banner_image: https://img.recraft.ai/iwYL9vmMFgGLRh1yB6ZykBAu3DLLlCZPuN4rY65afgU/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/51c608c6-1fb3-4ece-a748-84737b128178
 ---
 
 # Computing Entry Object Values in Astro

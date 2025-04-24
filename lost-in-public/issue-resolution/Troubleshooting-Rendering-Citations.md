@@ -23,7 +23,7 @@ authors:
   - Michael Staton
 portrait_image: ""
 image_prompt: Markdown document with citation superscripts, footnotes, and AST nodes, visualized in a modern code pipeline style.
-banner_image: ""
+banner_image: https://img.recraft.ai/ba_y4Bj6MsWcyOiIq-ukdRIzWctcVZyPMXvTYymIlBo/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/e703f3d7-0a3c-40ec-b041-0b202c9029aa
 ---
 
 # Issue Resolution Breadcrumb: Citations Section Not Rendering Separately After Syntax Change

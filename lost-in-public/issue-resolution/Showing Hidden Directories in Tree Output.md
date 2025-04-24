@@ -22,7 +22,7 @@ authors:
   - Michael Staton
 portrait_image: ""
 image_prompt: Terminal window showing a tree command output with hidden directories and files, modern developer workspace, clean visualization.
-banner_image: ""
+banner_image: https://img.recraft.ai/eqQaXeaUKp7kyF_QibedWXBwyL0nn-K1zfIae3SbXp8/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/51c69f72-4b8c-42fe-b1e2-b7aaf7585337
 ---
 
 .

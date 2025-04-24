@@ -19,6 +19,7 @@ tags:
   - Dynamic-Routing
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/TU54QQUVRB57LlJtJV84Ua7_e0EdX8KA6C6giLpruNw/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/c0c71bc5-075d-4191-85b8-0a6f2a473bf8
 ---
 
 # Fixing 404 Errors in Dynamic Routes with Proper Slug Generation

@@ -3,7 +3,10 @@ title: Broken YAML Key Replacement Workflow
 lede: Documenting a critical workflow bug and its resolution for YAML key replacement in Markdown frontmatter.
 date_authored_initial_draft: 2025-04-21
 date_authored_current_draft: 2025-04-21
-at_semantic_version: v0.9.3
+date_authored_final_draft: null
+date_first_published: null
+date_last_updated: null
+at_semantic_version: 0.0.0.1
 status: Implemented
 augmented_with: Windsurf Cascade on GPT 4.1
 category: Frontmatter-Automation
@@ -18,7 +21,7 @@ authors:
   - Michael Staton
 portrait_image: ""
 image_prompt: "Automated script replacing YAML keys in a batch of Markdown files, with before/after code blocks and a green checkmark for success."
-banner_image: ""
+banner_image: https://img.recraft.ai/LRWlfsdfCS8iGTd4aNFB40QvYGWMEmAKd4J-Mo0_UM0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/29f874e0-8b7d-474c-82b4-b8ec20b57176
 ---
 
 # What were we trying to do and why

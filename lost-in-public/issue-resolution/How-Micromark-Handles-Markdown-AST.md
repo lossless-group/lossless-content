@@ -22,7 +22,7 @@ authors:
   - Michael Staton
 portrait_image: ""
 image_prompt: Micromark gears emitting a stream of tokens, transforming into an abstract syntax tree (AST) by higher-level utilities, with visual separation between token stream and AST.
-banner_image: ""
+banner_image: https://img.recraft.ai/xBn1_weMLgVgEYSMLNY5BVhOzOUCjR7ICwMDLmo-lto/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/39a41ade-ffa1-42f8-8146-4186f8b549fe
 ---
 
 # How Micromark Handles Markdown and the AST: The Ultimate Deep Dive

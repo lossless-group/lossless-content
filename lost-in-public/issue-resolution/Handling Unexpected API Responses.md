@@ -22,7 +22,7 @@ authors:
   - Michael Staton
 portrait_image: ""
 image_prompt: An API response with unpredictable shapes (strings, arrays, objects) being normalized into a clean, structured frontmatter block.
-banner_image: ""
+banner_image: https://img.recraft.ai/eQQAKm8bsIqL7N-MxgK6Gp6iyo3irE5HGPBc4lGILZk/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/23640490-329b-49b5-b71c-fd27e5924dc0
 ---
 
 # Handling Unexpected API Responses

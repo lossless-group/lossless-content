@@ -22,7 +22,7 @@ authors:
   - Michael Staton
 portrait_image: ""
 image_prompt: A Git graph with multiple branches and submodules, showing complex integrations and command-line tools in action.
-banner_image: ""
+banner_image: https://img.recraft.ai/8OxEMj7V7TO3A27iG370a4yQgsuFCeRht4hV8lcwT2w/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/d4f46115-68f4-40d8-823a-983fb4e49a59
 ---
 
 # Essential Git Commands for Complex Integrations

@@ -20,6 +20,7 @@ tags:
 authors:
   - Michael Staton
 augmented_with: Windsurf Cascade on GPT 4.1
+banner_image: https://img.recraft.ai/tOLmajaaY85v0nlgvCDXK7XkHL4zyhlgLj2IXT1AWOU/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/39e9e099-a622-42cb-ab10-a3240a5e606b
 ---
 
 # Prompt Rendering Pipeline Issue Resolution
