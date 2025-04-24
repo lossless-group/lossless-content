@@ -21,7 +21,7 @@ tags:
   - Data-Integrity
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/jgUEsk_ub3yeQG6qdsMXpRAhalxzlhalSUN4HhkAYzM/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/e94b236c-346b-4d1e-b8fe-9092e36f5eef
+portrait_image: https://img.recraft.ai/jgUEsk_ub3yeQG6qdsMXpRAhalxzlhalSUN4HhkAYzM/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/e94b236c-346b-4d1e-b8fe-9092e36f5eef
 ---
 # Objective
 

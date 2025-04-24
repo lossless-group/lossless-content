@@ -17,7 +17,7 @@ site_uuid: a41c3eaa-5ce4-4773-a8b8-4666990571f4
 tags: [Code-Style, Code-Quality, Maintainability, Refactoring]
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/5QWx9-_rM5H1IF53wvbl7t5eHLC9DIY0g84-_q9GIOQ/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/0c37993a-1190-449c-b99f-ce3410574356
+portrait_image: https://img.recraft.ai/5QWx9-_rM5H1IF53wvbl7t5eHLC9DIY0g84-_q9GIOQ/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/0c37993a-1190-449c-b99f-ce3410574356
 ---
 
 # Objective:

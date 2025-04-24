@@ -22,7 +22,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/4d8Y6A6t8f5s7O7b9t3b8u5b6c3a7e8d/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/5b6c3a7e-8d8b-4c7a-9e7e-0d09b7c7e7e8
-banner_image: https://img.recraft.ai/v9EIxr-J9agI3idbPoyV7EmvQwrmT7LSOTjaLSUnhJc/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/92ae5331-f163-4241-87f9-780f06dd3e07
+portrait_image: https://img.recraft.ai/v9EIxr-J9agI3idbPoyV7EmvQwrmT7LSOTjaLSUnhJc/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/92ae5331-f163-4241-87f9-780f06dd3e07
 ---
 
 # Role

@@ -22,7 +22,7 @@ tags:
   - Responsive-Design
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/45cFAgOhJgp43t1Vvc-g27z1C9nGyziDVsGOCCY5Krc/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/23de3e25-7106-4333-a106-88c40cdceb86
+portrait_image: https://img.recraft.ai/45cFAgOhJgp43t1Vvc-g27z1C9nGyziDVsGOCCY5Krc/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/23de3e25-7106-4333-a106-88c40cdceb86
 ---
 # Inspiration Set
 A [[Pricing Card]] from [[GNews]] found at https://gnews.io/#pricing

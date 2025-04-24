@@ -18,7 +18,7 @@ tags:
   - Dynamic-Routing
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/bPswdNw_LwQBAGEVaar_tDxN6tM8LnwPnoIYhavFt1c/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d2ce09b5-8626-402e-90e1-1750a985234a
+portrait_image: https://img.recraft.ai/bPswdNw_LwQBAGEVaar_tDxN6tM8LnwPnoIYhavFt1c/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d2ce09b5-8626-402e-90e1-1750a985234a
 ---
 ## Context
 

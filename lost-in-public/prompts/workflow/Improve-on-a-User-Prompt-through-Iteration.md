@@ -21,7 +21,7 @@ tags:
   - AI-Human-Workflow
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/3A5gfAEuct_6_U9mCKX5yKABp08sqzM9Yf5IQZ4MhK8/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/003cfad2-dbfa-4b0b-bb92-b84a9d3421de
+portrait_image: https://img.recraft.ai/3A5gfAEuct_6_U9mCKX5yKABp08sqzM9Yf5IQZ4MhK8/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/003cfad2-dbfa-4b0b-bb92-b84a9d3421de
 ---
 # Constraints
 Do not be destructive, if there is content already there the user will decide on edits. 
