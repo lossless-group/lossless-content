@@ -21,7 +21,7 @@ authors:
   - Michael Staton
 portrait_image: ""
 image_prompt: An observer process for reminders, surrounded by looping arrows and a memory chip, with a shield representing infinite loop prevention and inspector-only logic.
-banner_image: ""
+banner_image: https://img.recraft.ai/vj5Cn08_uaiU8f_Tny9MeByp08iRZitawwFTqtznepk/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/1412d55d-04bc-4b27-8075-b949ea9b4a9a
 ---
 
 # Preventing Infinite Loops in RemindersWatcher

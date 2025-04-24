@@ -22,7 +22,7 @@ authors:
   - Michael Staton
 portrait_image: ""
 image_prompt: An observer process surrounded by looping arrows and YAML frontmatter blocks, with a shield icon representing prevention of infinite loops and redundant writes.
-banner_image: ""
+banner_image: https://img.recraft.ai/1r5wrf6nhoI5l5YKP6QDlJ-GRvTC85T7wWilpOqxEiY/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/ff9c83c7-ee2d-4bed-88cd-805f9739453d
 ---
 
 **Reference Prompt:** @[content/lost-in-public/prompts/workflow/Write-an-Issue-Resolution-Breadcrumb.md]

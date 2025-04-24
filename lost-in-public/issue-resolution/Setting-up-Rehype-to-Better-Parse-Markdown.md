@@ -23,7 +23,7 @@ authors:
   - Michael Staton
 portrait_image: ""
 image_prompt: A code pipeline diagram showing markdown flowing through remark and rehype plugins, with Astro and TypeScript icons, in a clean, modern style.
-banner_image: ""
+banner_image: https://img.recraft.ai/GcR0Wncyi2Gyo8bS5IesC9F8BiYc3uGfD5WmAEqR7NA/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/ef5068ea-c328-4aa6-92b4-317aaf9f803a
 ---
 
 # Setting up Rehype to Better Parse Markdown

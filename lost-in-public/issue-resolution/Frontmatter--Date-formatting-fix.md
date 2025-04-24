@@ -19,7 +19,7 @@ authors:
   - Michael Staton
 portrait_image: ""
 image_prompt: "A calendar month view of a calendar has all of the dates crossed out with a red marker. There are new dates written with a green marker, and the format is YYYY-MM-DD."
-banner_image: ""
+banner_image: https://img.recraft.ai/VCUXUVNOaNnP_7ROJT37Fy8BehqqMl3bvNL13YylxSQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/e7b7446c-8ddc-4485-8b57-ae3056cbe1fc
 ---
 
 # Frontmatter Date Formatting Fix

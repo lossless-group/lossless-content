@@ -21,7 +21,7 @@ authors:
   - Michael Staton
 portrait_image: ""
 image_prompt: YAML frontmatter with checkmarks, Astro content collection icons, and script automation visualized in a modern workspace.
-banner_image: ""
+banner_image: https://img.recraft.ai/RV-7S8tyr7mQ3blunMcJXVS4gwQXMKDAziWQ2oN781I/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/64d57378-c657-44a1-966d-9e763ca4ad5b
 ---
 
 ## And it turns out that there is an [[Obsidian]] plugin that can do content-wide transormations:

@@ -13,7 +13,6 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A system observer dashboard visualizing real-time file changes and prompt metadata updates, with animated folder icons, notification badges, and code snippets. The atmosphere is dynamic, technical, and focused on automation and monitoring."
-portrait_image: "https://img.recraft.ai/yIlm1t1t0h29mQ3ZqPG64M9sV6IHLSnYK7tTYSXBCFM/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d86e5cd2-3c6b-483a-98a1-7e59f8154774"
 site_uuid: 219ae97c-b07a-41cb-9efd-076f48caf783
 tags:
   - Filesystem-Observer
@@ -26,7 +25,7 @@ tags:
   - Metadata
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/VjSjsPVmtiPPBHMQ2JYBD-lw3AmKfynCMQye96vtfzI/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/24ccd5f1-dff0-453b-8acf-95b6e604d1d4
+portrait_image: https://img.recraft.ai/VjSjsPVmtiPPBHMQ2JYBD-lw3AmKfynCMQye96vtfzI/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/24ccd5f1-dff0-453b-8acf-95b6e604d1d4
 ---
 
 ## Objective

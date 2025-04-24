@@ -22,7 +22,7 @@ authors:
   - Michael Staton
 portrait_image: ""
 image_prompt: An abstract visualization of a markdown AST being transformed into a tree of UI components, with arrows showing the flow from markdown to rendered output, in a modern, technical style.
-banner_image: ""
+banner_image: https://img.recraft.ai/0sFLu5ehf3wNfnt1ZeWgoYbq7uJPg3c8fsa5hMTvOk8/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/91d2411b-cd2b-4841-8d87-2b53590bb140
 ---
 
 The parsedAst is successfully getting a blockquote, but it does not successfully understand that the `> ` after new lines that the callout is continued.

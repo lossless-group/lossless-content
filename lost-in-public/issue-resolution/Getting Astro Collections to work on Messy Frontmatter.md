@@ -22,7 +22,7 @@ authors:
   - Michael Staton
 portrait_image: ""
 image_prompt: An Astro logo surrounded by swirling Markdown frontmatter fields, some messy and some neat, with a .passthrough() filter cleaning them up.
-banner_image: ""
+banner_image: https://img.recraft.ai/OaSelXXx39fuYEchk-5-Y8Bngg9La9vE7vSp6OWfYi0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/d4dfdbf8-1f04-4167-ba7e-babe8b6a1511
 ---
 
 We're using `.passthrough()` which means we're not enforcing any schema validation on the incoming data. This is in line with your memory about avoiding hard validation for frontmatter, but we can still be more explicit about the type we expect after the transformation.

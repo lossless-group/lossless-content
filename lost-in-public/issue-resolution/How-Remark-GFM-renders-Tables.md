@@ -21,7 +21,7 @@ authors:
   - Michael Staton
 portrait_image: ""
 image_prompt: "A Markdown table morphs into a vibrant AST diagram, arrows showing the transformation from markdown source to rendered HTML, with plugin logos floating above a digital workspace."
-banner_image: ""
+banner_image: https://img.recraft.ai/hqZdYRtGG154hzdp8oQTqLboXYkNSi21blNssS3fG8E/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/159ecdd5-4c8d-4612-b93a-e802a9066e3c
 ---
 
 # How remark-gfm Renders Tables: The Complete, Life-Saving Technical Guide
