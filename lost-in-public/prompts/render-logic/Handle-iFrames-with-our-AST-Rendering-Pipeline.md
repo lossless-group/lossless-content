@@ -23,6 +23,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/p8KwAHuN288f8xAXbRy3RP62WY_8aJ_HmhKzcCgd-sw/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/6c0a9ac0-fc88-4423-b842-62a4bc2613d9
+banner_image: https://img.recraft.ai/aPXvAQX8sWBMmiC2oqdWvY7mwDQlLK2b_HKq6MolxBs/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/dd40b2cc-3d63-4238-aa50-bc719adb313b
 ---
 # Constraints
 1. Use customary naming conventions for both files and functions. In any kind of near-scripting I prefer camelCase. 

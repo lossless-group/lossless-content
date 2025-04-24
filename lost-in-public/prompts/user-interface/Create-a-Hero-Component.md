@@ -356,6 +356,7 @@ if (typeof document !== 'undefined') {
 Create a file at `site/src/components/basics/AnimationWrapper.astro` with the following structure:
 
 ```astro
+banner_image: https://img.recraft.ai/IUVgr548qUj024HgnbvCtjjjQixJDXf7HYObVOpeg_0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/f68bdab5-08ff-4b3f-abff-e50ee60599d8
 ---
 /**
  * AnimationWrapper.astro

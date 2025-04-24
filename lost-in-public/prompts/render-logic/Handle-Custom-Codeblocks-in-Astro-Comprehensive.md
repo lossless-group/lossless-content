@@ -59,6 +59,7 @@ Implement a hierarchical component system with the following structure:
 #### 1. BaseCodeblock.astro
 
 ```astro
+banner_image: https://img.recraft.ai/LwOZPmW3HdvCUIb2RumalT5UO3cT0Nh-EUfUsH12Ubc/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/950ea127-baae-419e-952f-4a02d7665f20
 ---
 /**
  * BaseCodeblock.astro

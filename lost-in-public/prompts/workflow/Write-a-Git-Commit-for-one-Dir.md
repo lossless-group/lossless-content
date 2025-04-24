@@ -23,6 +23,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/L9j4-1VcLgAYskc2l1FT9N4Ws4iLsf_rzfLABdW2D-0/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/b6a040c5-17ba-4077-a715-e48b661d5e99
+banner_image: https://img.recraft.ai/pdI1gFpiTryXplLRWJuh1hq7GL1icbiOGP4cYPdoiJk/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/aaea74fa-5aa0-4f96-9731-8dc1c4634a91
 ---
 # Purpose
 Generate a well-structured git commit message for changes in a specific directory, ensuring consistent documentation of modifications and maintaining a clear history of content updates.

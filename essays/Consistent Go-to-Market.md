@@ -1,8 +1,8 @@
 ---
 date_created: 2024-12-18
 date_modified: 2025-04-23
+site_uuid: a8ae951d-9235-4378-b399-9c4dbd79da84
 ---
-
 
 ![[concepts/Venture Design#^7a07f1]]
 

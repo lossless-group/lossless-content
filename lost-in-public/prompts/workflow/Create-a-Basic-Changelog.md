@@ -18,6 +18,7 @@ authors:
   - Michael Staton
 image_prompt: A column list of dates on the left, most recent on the top. On the right, the symbol representing infinite.
 portrait_image: https://img.recraft.ai/H2feao--To2ggBwZw8QigMymDgdGm8iU7ZTOwY04pUQ/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/e10008d7-aaa2-417a-b1a9-535179ea8d8b
+banner_image: https://img.recraft.ai/hdRad7Y_xfeIMty_9ehNZhdSDUmIA0rWSTNXJ2qyCOQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/c14f95a2-5917-4458-9a81-f72c6df80ff8
 ---
 # Purpose  # High-level goal
 Establish consistent, informative changelog entries that document changes to code and content across the project.

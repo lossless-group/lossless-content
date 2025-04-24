@@ -22,6 +22,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/BfPJ08EGHZFOrzurrQqPRZSq9nMNpJpM0Euam7ClofU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/f9feee05-1aa8-4ae3-a4c2-5bbbb3401e5e
+banner_image: https://img.recraft.ai/-rRke81gENhVzzcgbh6w4XiDqibavD3Nw-WEY2zCTk8/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/47fdaa56-bd91-4f09-85f8-2d253e5b0852
 ---
 ###### Sources
 https://www.namchee.dev/posts/upgrading-astro-code-snippets/

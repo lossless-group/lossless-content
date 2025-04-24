@@ -25,6 +25,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/q0HQF-uzFeb0PQ0xmdJ6Cm82Hv3GzWFEEXWQb4rtj_A/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/5915cca2-bb4a-4c7a-b0a6-f0b94066d2d3
+banner_image: https://img.recraft.ai/nfUpy93u3QV7IkWLTBZ8QYVXySYqoCDh3nBtPAeDNVY/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/caa0a577-57cc-4adc-b5dd-296722751731
 ---
 # Unfinished Work
 - [ ] handle citations sections INSIDE callouts, but include callout content that comes AFTER the citations section.  

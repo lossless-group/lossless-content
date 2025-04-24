@@ -19,6 +19,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/-AjChvT1u52TQsuHUseSqXz_HpTQL2IjJq2Ub8gP0HY/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/72e245c5-f228-488e-8ec9-aa40b3130e0d
+banner_image: https://img.recraft.ai/WTOB5N4w-4biWraoecSHsURdDe8VCi0hmB39HkzcZyE/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/f5ea76a0-771e-421e-ab76-58c6e0a9a18f
 ---
 # Custom Code Block Rendering in Astro
 

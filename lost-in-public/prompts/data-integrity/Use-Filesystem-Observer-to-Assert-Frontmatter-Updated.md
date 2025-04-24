@@ -18,6 +18,7 @@ tags: [Frontmatter-Validation, File-Processing, Build-Scripts, File-Systems, Dat
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/l009uCCokQzyIZ6OgT3IKzdrAZ3wx_cMK2o0ps5cq7A/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/be5e7a15-b933-48be-b34e-b5a2c441661b
+banner_image: https://img.recraft.ai/7S_7D_IrSJ09tqH9CYN-9aRUu10N7FMVQn2ZXPUk4h0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/736c8dfd-a6e9-41d1-8e12-c399e16b7622
 ---
 ## Objective
 Create a robust filesystem observer system that monitors Markdown files, validates frontmatter against predefined templates, and automatically corrects inconsistencies while preserving the most accurate metadata.

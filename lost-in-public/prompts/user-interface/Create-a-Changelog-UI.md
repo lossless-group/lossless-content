@@ -23,6 +23,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/-rXSeSJtCfOAKSoEwOcyrq2Xe4FoQFuaRAPfP0Hyvoo/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/e724c170-4236-442f-8958-2309152594b1
+banner_image: https://img.recraft.ai/Rpgi0wRP2OXSKevrhSDBiCIVM25bERDaYV0GiMVrSK0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/93a0868e-006f-4f8c-b4b6-6df4935e8f24
 ---
 # Data Flow & Component Pipeline
 

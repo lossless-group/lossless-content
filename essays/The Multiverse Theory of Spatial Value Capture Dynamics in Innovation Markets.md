@@ -1,6 +1,7 @@
 ---
 date_created: 2025-04-15
 date_modified: 2025-04-23
+site_uuid: a55ab81c-2a3c-41a4-a70d-cb83d2e97cdb
 ---
 
 Band-Based, Concentric Doughnut Shaped Standard Model Network Topology & Physics

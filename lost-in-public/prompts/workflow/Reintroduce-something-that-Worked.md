@@ -21,6 +21,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/6bCc0NmTSq-1O5EndSdhe9KNSZyim0MUhM9wP7HEea8/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/74e486d2-03b5-4a21-9c94-633651815653
+banner_image: https://img.recraft.ai/jV88_hO0AWFfiEPZC8xicLJfxfke5mFcYzm8qxj768Q/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/faaa6087-7248-4bd3-8015-8112853c2783
 ---
 # Constraints
 Do not blindly copy old code.  Instead, review the parts of the code that worked and are specific to this ask.  

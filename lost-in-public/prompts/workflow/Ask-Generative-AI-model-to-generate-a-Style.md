@@ -22,6 +22,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/swATgqzYfXLzAbXlR1y87pu7d4bhR7Ly9YfP2JEova0/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d42f96ca-4c3a-47d8-afdc-135a4a28cc67
+banner_image: https://img.recraft.ai/hst8IGEMK7eK0JKt4O1YDQi4L6-6ydcr2NnZiX8ryko/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/6d196162-772a-4bad-bb9a-da77f0294f6f
 ---
 
 # Goal

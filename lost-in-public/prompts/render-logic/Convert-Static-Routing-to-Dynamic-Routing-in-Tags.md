@@ -19,6 +19,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/bPswdNw_LwQBAGEVaar_tDxN6tM8LnwPnoIYhavFt1c/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d2ce09b5-8626-402e-90e1-1750a985234a
+banner_image: https://img.recraft.ai/ZUiJ388_JDxbqcwb3yu79ibL6wKreOO3LSLZmg9mkuo/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/b44fadd4-d18c-4e54-ae28-20077f50b055
 ---
 ## Context
 

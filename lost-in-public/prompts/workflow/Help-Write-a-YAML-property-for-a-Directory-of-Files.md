@@ -17,6 +17,7 @@ tags: [Workflow, YAML, AI-Creativity, Content-Automation]
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/Ywl9yl05a0q2pSCUxYVsMda8HY-qTD3zcJdAzpYtk4E/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/e28e99a8-1d34-4b53-a018-f3dc8f1c6a04
+banner_image: https://img.recraft.ai/gMgapoEkzcYNF0-BtgY6_zVUxBghstPNIyx8ClAgxhc/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/64c5cadb-ca0b-4492-9bff-a73629fa83b8
 ---
 # Context
 

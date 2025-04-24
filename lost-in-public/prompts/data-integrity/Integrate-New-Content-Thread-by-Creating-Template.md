@@ -21,6 +21,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/G0iadvwFcRdPQ4uxWYxyxg7VsQOVLsSbufR5fOUQN5c/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/78642f04-8bd3-40c7-82a7-62c851bf4508
+banner_image: https://img.recraft.ai/bOy3xfjLKeIvDvq2l3Fam8qHvAIDJOfpCVDBln6BpXg/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/801eb0ad-579d-4527-9bdb-b366548e83a9
 ---
 # Initial Role
 You are a content manager for a small but productive marketing team.  You are the "technical" lead that works most closely with developers who build and maintain a content-driven application and site.  

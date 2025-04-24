@@ -1,7 +1,9 @@
 ---
 date_created: 2024-12-18
 date_modified: 2025-04-23
+site_uuid: 651c6e9b-c169-46d0-ac7a-65af928da319
 ---
+
 Worrying about web security in 2025 is vastly different than the doom-cycle of nail-biting anxiety and public outrage that has been going on for decades. It's almost like worrying about Cholera in the 1860s, the decade after John Snow demonstrated that Cholera is spread through unclean water sources, .[^1] We know what to do, it's just a matter of getting everyone to do it.  
 
 >The best antivirus software out there is common sense. 

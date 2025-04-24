@@ -22,6 +22,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/meo5HPANBWz15V1bMI2sz-D1O9t5TM_YkpuQvT7_hUA/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d61b492c-420a-4b51-a329-10682d7d8d77
+banner_image: https://img.recraft.ai/zXWy9Aqn3ZaLvOgRfOqf2nrlhKqUu5_Mpz9uN21Xkhw/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/8fb689c4-277c-48a1-843b-95969bb769fa
 ---
 # Inputs
 

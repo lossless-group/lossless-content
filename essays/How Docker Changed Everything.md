@@ -1,6 +1,7 @@
 ---
 date_created: 2024-08-18
 date_modified: 2025-04-23
+site_uuid: a396bf72-3bc1-480f-80a1-e9d703d12f69
 ---
 
 A good example of innovation wanting to be lossless and emergent: distributing enabling software stacks and specs. 

@@ -16,6 +16,7 @@ image_prompt: A web page with a news article, with different size fonts and imag
 date_created: 2025-04-18
 date_modified: 2025-04-19
 portrait_image: https://img.recraft.ai/qNqokSNycd9ITWXblMyqW9El1ECXNNyUuH3JkBjA8rY/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/51eca0b9-1b09-4693-95c4-b8e18c20966b
+banner_image: https://img.recraft.ai/YlWKQP-aXJF2zmGXtGSqI52Xg_4XamzZr3i9u8z_AnE/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/a4f97feb-68a4-4586-bc7b-df280f74a959
 ---
 # Prompt: Build Our Proprietary Extended Markdown Flavor as a Micromark Extension
 

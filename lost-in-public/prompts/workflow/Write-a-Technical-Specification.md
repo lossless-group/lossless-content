@@ -24,6 +24,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/FmGrfhVRvt9sc-qBjDxWAQxptLSTT8UV_eL1xKLfP0w/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/37949159-80bf-4fa9-8180-5c1d0606b167
+banner_image: https://img.recraft.ai/-wZNaSXlj8wAJqCbDYcL8bs3cfvi9Q2y1b_F0hERhic/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/d162ed66-8c6a-45fe-8e1f-c317fc1ba90c
 ---
 # Write a Technical Specification with a Standard but Evolving Style
 

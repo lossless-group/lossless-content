@@ -22,6 +22,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/2DTIeuwQTuVqUWuDwGDkDi5SOQO7q_HteFg0wMPlve4/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/dd7f038b-bb1a-49bf-b3c0-bc2aa8a8796a
+banner_image: https://img.recraft.ai/PWGBmnK8busbjXyKA7XyjL_g6rGZvmSP0k003PbN7lQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/9805a0f4-debc-4a50-b839-6375486c9802
 ---
 # Repurpose a UI Template in our Codebase
 

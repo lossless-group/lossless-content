@@ -24,6 +24,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/BeTvcrLKUC9HlaxRLyvp0GAdl_-EPXj72PKERmW1UxA/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/e8f285af-3dc1-44ff-911d-ea9008c9b216
+banner_image: https://img.recraft.ai/24erG_iRUYqgrIl8VUsN2tnWsgrZOQvBI5JywUCAqLc/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/d9d4d30b-b44f-451c-a3d5-1248941ed47b
 ---
 # Goal  
 ## High-level objective

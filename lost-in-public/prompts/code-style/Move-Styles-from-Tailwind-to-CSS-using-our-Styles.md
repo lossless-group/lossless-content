@@ -19,6 +19,7 @@ tags: [Code-Style, Component-based Architecture, Readability, Component-Manageme
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/JCL4PlJaUHbOtVIspzx7w6tNdDAMdC4NDKP1oLhWaHY/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/b2d1f66d-11f1-4bba-8a16-3ee482c62b00
+banner_image: https://img.recraft.ai/i-Ob1y5uRyBe2l6g6EyU1BWNDhLkC2tUn7a4leb76tA/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/78565564-39ac-495b-ac84-15b442ea2998
 ---
 
 # Context

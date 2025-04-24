@@ -25,6 +25,7 @@ tags:
   - Metadata
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/QN9nkDjWEKXJBNaz-jvLSxfx5Ch8CrnRYFw0NQpEgEQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/b0bddfc5-33f2-4f53-bfff-e7e6f7b836fe
 ---
 ## Objective
 Enhance the existing filesystem observer system to monitor both the `content/lost-in-public/prompts` and `content/specs` directories, validate frontmatter against templates designed for prompts and specifications, and prepare these resources for publication on the website as resources for clients.

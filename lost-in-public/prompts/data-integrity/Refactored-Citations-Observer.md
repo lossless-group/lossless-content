@@ -22,6 +22,7 @@ authors:
   - Michael Staton
 image_prompt: "A software engineer refactoring a citations observer tool, with side-by-side code panels showing before and after improvements. Visual cues include citation icons, clean code structure, and a sense of technical refinement and clarity. The mood is focused and analytical."
 portrait_image: https://img.recraft.ai/Q4gjLWB8gwlww_4z7dpL12uEHuweJW4GfIM14m8Ch0o/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/50ffb283-f56c-4007-875d-e3453ae0d6b2
+banner_image: https://img.recraft.ai/JKwzz64mPeuKPSXsj74LkNHcp_AY1dTfaEAew1P2A2A/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/539db799-b538-4fc9-8898-f388a29ed40d
 ---
 <!-- Test comment to trigger observer processing - 2025-04-13 -->
 

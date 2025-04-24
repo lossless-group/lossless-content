@@ -1,7 +1,9 @@
 ---
 date_created: 2024-08-15
 date_modified: 2025-04-23
+site_uuid: c454fd11-77fd-4b20-aeab-0836bcd69377
 ---
+
 https://youtu.be/cdcjw5etCnw?si=MQWGQE_MLIbDaUun
 GitHub launched in 2009, and almost immediately became the primary code version control tool of new technology startups. From there, it's growth was meteoric and exponential. [^4]
 ![[Pasted image 20250216184410_GitHub_Chart--Repository-Growth.png]] [^5]

@@ -1,9 +1,8 @@
 ---
 date_created: 2025-04-15
 date_modified: 2025-04-23
+site_uuid: ecd2eff9-ef1a-475f-9b30-1c33c64ae8a6
 ---
-
-
 
 2023, May 10. [How Sodium-Ion Batteries May Challenge Lithium](https://youtu.be/RQE56ksVBB4?si=eKHm0ph7iuG3egdd). CNBC, [[YouTube]]
 

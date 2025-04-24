@@ -1,7 +1,9 @@
 ---
 date_created: 2024-05-18
 date_modified: 2025-04-23
+site_uuid: b496cd8e-1896-4214-96d7-b1cb167d0233
 ---
+
 1801: Joseph Jacquard invented the programmable Jacquard loom, introducing the concept of a programmable machine.
 
 1949, Claude Shannon publishes “Programming a Computer for Playing Chess”

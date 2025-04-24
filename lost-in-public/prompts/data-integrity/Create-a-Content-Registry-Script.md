@@ -22,6 +22,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/GdzImtxUy13Bz-MHCMmpDffj8li2BVWn_9Xohqfsxec/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/c7af97ba-99fe-4279-947e-5f33ae8b896b
+banner_image: https://img.recraft.ai/tUKbrp7oPquGoNUHl0a5f7eRZNVgNcVf74MhvbPGhow/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/4077d273-2919-4a3b-8a1b-7ef696c979ff
 ---
 # Create a Content Registry for Markdown Files
 

@@ -19,6 +19,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/YQmLdu_P3HWV0ob11jg827S4UZsYFzFzOoCTUv_TQaU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/055026cc-d643-4f8a-90c9-78e8a73aebee
+banner_image: https://img.recraft.ai/efcXBfAsVBrT0hQfFGmfGJ6tL1Rn74Fr6R5HfsvBClk/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/985419e0-a062-4233-bec5-095652d6d9c8
 ---
 I have installed through homebrew an open source library called Yamllint. 
 
