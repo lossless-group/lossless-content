@@ -1,21 +1,25 @@
 ---
 title: Prompt Rendering Pipeline Issue Resolution
 lede: Fixing content rendering issues in the dynamic prompt pages
-authors:
-- Cascade
-category: Issue Resolution
-tags:
-- Astro
-- Content-Collections
-- Rendering-Pipeline
+category: Issue-Resolution
 date_authored_initial_draft: 2025-04-14
 date_authored_current_draft: 2025-04-14
 date_authored_final_draft: null
-at_semantic_version: 0.0.0.1
-status: Implemented
 date_first_published: null
 date_last_updated: null
-augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+at_semantic_version: 0.0.0.1
+status: Implemented
+augmented_with: Windsurf Cascade on GPT 4.1
+category: Issue-Resolution
+date_created: 2025-04-14
+site_uuid: abbcbc82-5730-41c9-8eb2-aac50dab9da3
+tags:
+  - Astro
+  - Content-Collections
+  - Rendering-Pipeline
+authors:
+  - Michael Staton
+augmented_with: Windsurf Cascade on GPT 4.1
 ---
 
 # Prompt Rendering Pipeline Issue Resolution

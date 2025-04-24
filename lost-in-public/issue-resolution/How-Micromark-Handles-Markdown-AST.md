@@ -1,7 +1,33 @@
-# How Micromark Handles Markdown and the AST: The Ultimate Deep Dive
-
+---
+title: How Micromark Handles Markdown and the AST
+lede: A deep dive into how Micromark tokenizes Markdown and how the AST is built by higher-level utilities in the remark/unified ecosystem.
+date_authored_initial_draft: 2025-04-18
+date_authored_current_draft: 2025-04-23
+date_authored_final_draft: null
+date_first_published: null
+date_last_updated: null
+at_semantic_version: 0.0.0.1
+status: Complete
+augmented_with: Cascade AI
+category: Markdown-Parsing
+site_uuid: be6c6a53-45cc-4390-b701-26d96c751916
+date_created: 2025-04-18
+date_modified: 2025-04-23
+tags:
+  - Micromark
+  - Markdown-Parsing
+  - Abstract-Syntax-Trees
+  - Unified-Ecosystem
+authors:
+  - Michael Staton
+portrait_image: ""
+image_prompt: Micromark gears emitting a stream of tokens, transforming into an abstract syntax tree (AST) by higher-level utilities, with visual separation between token stream and AST.
+banner_image: ""
 ---
 
+# How Micromark Handles Markdown and the AST: The Ultimate Deep Dive
+
+***
 ## 1. What is Micromark?
 
 **Micromark** is the low-level, highly efficient streaming tokenizer and parser at the core of the modern markdown ecosystem (remark, unified, etc). It is responsible for:
@@ -11,7 +37,7 @@
 
 **Key fact:** Micromark itself does NOT build an AST. It emits a token/event stream. The AST (MDAST, HAST, etc) is built by higher-level utilities (like `mdast-util-from-markdown`).
 
----
+***
 
 ## 2. The Micromark Pipeline: Step by Step
 

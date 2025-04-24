@@ -1,13 +1,28 @@
 ---
 title: Preventing Infinite Loops in Observers
-lede: Strategies for preventing infinite loops in observers.
-date: 2025-04-17
-status: Draft
-category: Issue-Resolution
-related_prompts:
-  - "[[lost-in-public/prompts/workflow/Write-an-Issue-Resolution-Breadcrumb.md]]"
+lede: Strategies and atomic patterns for preventing infinite loops and redundant writes in observers, with robust frontmatter repair and idempotency.
+date_authored_initial_draft: 2025-04-17
+date_authored_current_draft: 2025-04-23
+date_authored_final_draft: null
+date_first_published: null
+date_last_updated: null
+at_semantic_version: 0.0.0.1
+status: Complete
+augmented_with: Windsurf Cascade on GPT 4.1
+category: Observer-Design-Patterns
+site_uuid: b1492d56-b0a3-42a9-8a30-030993ab3b2d
+date_created: 2025-04-18
+date_modified: 2025-04-23
+tags:
+  - Observer-Pattern
+  - Infinite-Loops
+  - Idempotency
+  - Frontmatter-Repair
 authors:
   - Michael Staton
+portrait_image: ""
+image_prompt: An observer process surrounded by looping arrows and YAML frontmatter blocks, with a shield icon representing prevention of infinite loops and redundant writes.
+banner_image: ""
 ---
 
 **Reference Prompt:** @[content/lost-in-public/prompts/workflow/Write-an-Issue-Resolution-Breadcrumb.md]

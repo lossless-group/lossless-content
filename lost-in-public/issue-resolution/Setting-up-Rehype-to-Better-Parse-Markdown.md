@@ -1,22 +1,29 @@
 ---
 title: Setting up Rehype to Better Parse Markdown
+lede: Implementing a custom unified pipeline with remark and rehype for Astro Flavored Markdown, solving file reference and plugin integration issues.
 date_authored_initial_draft: 2025-03-30
-date_authored_final_draft: 2025-03-30
+date_authored_current_draft: 2025-04-23
+date_authored_final_draft: null
 date_first_published: null
+date_last_updated: null
 at_semantic_version: 0.0.0.1
-authors:
-  - Michael Staton
-with_writing_assistant: Windsurf on Claude 3.7 Sonnet
-category: Issue Resolution
+status: Complete
+augmented_with: Windsurf Cascade on GPT 4.1
+category: Markdown-Parsing-Patterns
+date_created: 2025-03-30
+date_modified: 2025-04-23
+site_uuid: ead8b239-ff5e-4df9-b9a7-70eadf44263a
 tags:
-  - TypeScript
+  - Markdown-Parsing
   - Astro
-  - Markdown
   - Remark
   - Rehype
-  - Plugin Development
-date_created: 2025-03-30
-date_modified: 2025-03-30
+  - TypeScript
+authors:
+  - Michael Staton
+portrait_image: ""
+image_prompt: A code pipeline diagram showing markdown flowing through remark and rehype plugins, with Astro and TypeScript icons, in a clean, modern style.
+banner_image: ""
 ---
 
 # Setting up Rehype to Better Parse Markdown
