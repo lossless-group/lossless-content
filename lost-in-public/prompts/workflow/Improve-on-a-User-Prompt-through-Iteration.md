@@ -14,7 +14,6 @@ category: Prompts
 date_modified: 2025-04-16
 date_created: 2025-04-16
 image_prompt: "An AI assistant and user collaboratively editing a prompt, surrounded by evolving prompt bubbles, code suggestions, and feedback loops. Visuals include arrows showing iteration and a sense of creative, continuous improvement."
-portrait_image: "https://img.recraft.ai/5wPrIwgT9NCfPYHc0XmgfKK6jQil0-0Xo6LW_m3uuPY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/4bea8756-318a-4074-baf4-2ad3dcf2b2a4"
 site_uuid: b537985a-318f-4fdb-bd50-decad94ff90f
 tags:
   - Prompt-Engineering
@@ -23,7 +22,6 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/3A5gfAEuct_6_U9mCKX5yKABp08sqzM9Yf5IQZ4MhK8/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/003cfad2-dbfa-4b0b-bb92-b84a9d3421de
----
 
 # Constraints
 Do not be destructive, if there is content already there the user will decide on edits. 

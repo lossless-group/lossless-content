@@ -13,7 +13,6 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A script editor UI for making AI model API requests, with code snippets, API endpoints, and a preview of structured responses. Visuals include glowing neural network icons, request arrows, and a sense of technical automation."
-portrait_image: "https://img.recraft.ai/nV0xwsrd531dHzIZ-cCGEIReAdz_n6L8YQGXYncBmfc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/51d48d5b-2e54-4e88-8c3d-4fa9dc385c3f"
 site_uuid: 2c903f2a-b144-48f1-a508-781bde9d6760
 tags:
   - Workflow
@@ -23,7 +22,6 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/meo5HPANBWz15V1bMI2sz-D1O9t5TM_YkpuQvT7_hUA/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d61b492c-420a-4b51-a329-10682d7d8d77
----
 
 # Inputs
 

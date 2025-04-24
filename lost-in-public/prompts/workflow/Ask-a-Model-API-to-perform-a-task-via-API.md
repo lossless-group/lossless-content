@@ -13,7 +13,6 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A digital workspace showing an AI assistant interacting with multiple model APIs, sending and receiving data. Visuals include floating API icons, code snippets, and a glowing neural network, symbolizing seamless integration and intelligent automation."
-portrait_image: "https://img.recraft.ai/YZtuZ34HvFrDIOFS1N56gYK1v2ESqg1uzTA14EMdY1U/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/df3e789b-adf1-4ef2-b00d-6e8bd1fee6a0"
 site_uuid: 766bbc39-4d24-437b-9e47-2beb155ab837
 tags:
   - Workflow
@@ -24,5 +23,4 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/wghxfOweQOqiQ1Ye6YoIUaa8aYtsPOhYEDYL9efbV3U/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/493ee04a-7e49-4074-a05f-9e02bdb18ef0
----
 

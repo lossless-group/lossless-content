@@ -13,14 +13,12 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-19
 image_prompt: "A seamless flow of interactive UI elements demonstrating smooth CSS transitions and animations, with hover effects and consistent design patterns."
-portrait_image: "https://img.recraft.ai/eFEtgxgZ8z2yWR30eK4NWFA1y4cttaOpLZH2yWIACSM/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/bbdcad6a-ba52-45b4-93a1-f4837777aae3"
 publish: true
 site_uuid: c0184e74-3120-41ed-9204-a69b7bd42afa
 tags: [Code-Style, CSS-Architecture, Interaction-Design, Animation, Transitions, Component-Management, User-Experience]
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/umOwpC4V65wR7PMgyzKf7oOZBgk0oVvGKQWvfmZk5bU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/c04d4264-0ff3-40d9-9816-bd43f3e200bb
----
 
 # Context
 

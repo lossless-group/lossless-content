@@ -13,14 +13,12 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A configuration file open in a code editor, with YAML syntax highlighted and validation checks visible. Visual cues of correct and incorrect patterns, a settings panel, and a focus on structured, well-organized data. The scene conveys clarity, precision, and adherence to coding standards."
-portrait_image: "https://img.recraft.ai/VlSFaEbQkkxyrCIjLK2BW5gCJkE3F-70p2behN4gaOI/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/55d4061b-f736-49a9-a628-e0e073b3e2e2"
 site_uuid: ce3bcb76-a49d-4ec9-961e-f96fd9203fbe
 tags:
   - Data-Integrity
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/YQmLdu_P3HWV0ob11jg827S4UZsYFzFzOoCTUv_TQaU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/055026cc-d643-4f8a-90c9-78e8a73aebee
----
 
 I have installed through homebrew an open source library called Yamllint. 
 

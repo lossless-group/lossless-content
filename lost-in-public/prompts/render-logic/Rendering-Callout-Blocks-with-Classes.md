@@ -13,7 +13,6 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A content editor rendering callout blocks with custom classes, featuring styled note boxes, icons, and a code panel showing class assignments. The scene conveys clarity, organization, and the enhancement of user experience through visual cues."
-portrait_image: "https://img.recraft.ai/pUFfJUfMrTPmFaIENNeKaBQhVwy5Uwa4VAdNLMb8JKo/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/1002e0b6-8cfd-4087-970d-f36d1d223ff8"
 site_uuid: 1c88b33c-b5a2-43ea-956c-178838838e76
 tags:
   - Render-Logic
@@ -24,7 +23,6 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/eY3jKK4YNqJE6J5PnqgrqMAMiAX-073LeDAshb90XgM/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/1d7b82b3-589a-4e5d-a217-35417b8b2ec9
----
 
 # Context
 

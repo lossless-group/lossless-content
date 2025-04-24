@@ -13,14 +13,12 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-19
 image_prompt: "A split-screen showing Tailwind utility classes transforming into organized CSS files, with a modern interface and visual cues for maintainability and style."
-portrait_image: "https://img.recraft.ai/vrGplHqRSAYwblHd-1SyePMK0Bom5oTNmDHkIQmZsDU/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/e0e6fbe0-96b3-4393-a958-76ac30188cfb"
 publish: true
 site_uuid: f08a64f3-f771-472a-8845-b400d7db9ab7
 tags: [Code-Style, Component-based Architecture, Readability, Component-Management]
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/JCL4PlJaUHbOtVIspzx7w6tNdDAMdC4NDKP1oLhWaHY/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/b2d1f66d-11f1-4bba-8a16-3ee482c62b00
----
 
 # Context
 

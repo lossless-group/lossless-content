@@ -13,7 +13,6 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A documentation platform rendering extended markdown, with large, well-structured documents, navigation panels, and Astro component icons. The scene highlights scalability, clarity, and the power of advanced markdown rendering."
-portrait_image: "https://img.recraft.ai/vfO6RuQUGfDAko1zh_c9SDHRHcPiFQaSonI8rq__OOQ/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/ddac6a16-c62b-4a74-8a6a-aa18f73b345c"
 site_uuid: 0253c622-1520-4d7a-aaac-5afcce44aeb7
 tags:
   - Render-Logic
@@ -25,7 +24,6 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/5mNhJsZRnVon13NsvNSbZJLh7rCQDVD7MhKT6uPdmSA/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d6263856-ed8e-4b7e-a493-9ea283f67cf2
----
 
 # Implementation Details
 

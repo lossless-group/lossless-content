@@ -21,9 +21,7 @@ tags:
 authors:
   - Michael Staton
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
-portrait_image: https://img.recraft.ai/ThlRDvS6K6QQBqYWKsMYiBU2jN5D1cs7BBX-L0UCbh4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/01eb639a-cfa6-4583-b6be-f052172fedd0
 banner_image: https://img.recraft.ai/vMF0QFya6k8PAJY9vy8nmtp_NIU5JjHnR9cjlLZDNtU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/91157864-2b50-49d0-809e-27e20f52db56
----
 
 # Goal  
 

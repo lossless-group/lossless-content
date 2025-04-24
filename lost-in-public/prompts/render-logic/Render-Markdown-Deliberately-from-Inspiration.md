@@ -13,7 +13,6 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A creative workspace where markdown is rendered with intention, featuring a code editor, inspirational notes, and a preview pane showing beautifully formatted content. The mood is thoughtful, artistic, and focused on purposeful design."
-portrait_image: "https://img.recraft.ai/ziedQj20B1XL88weSW-kavk5ViAxND-gJ-BkOsC39B4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/84111178-8472-4834-9e01-47492d168f0f"
 site_uuid: bc63aecf-84da-4183-81cc-f69176cf0602
 tags:
   - Render-Logic
@@ -25,7 +24,6 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/cN7JYvHeXDMPpdgoU6kNN7cpyQSkRmJ40cmOniSDPDE/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/de789a39-3b68-4b5d-87ab-c7dfd26aa0bb
----
 
 # Comprehensive AST Transformation Pipeline
 

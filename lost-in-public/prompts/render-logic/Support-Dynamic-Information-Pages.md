@@ -12,14 +12,12 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-19
-portrait_image: https://img.recraft.ai/95_z2fVL-mG3BZL9cdWGv8mzFCe-hY5EH_h8DrcdQbA/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/e812a314-0fcf-4a06-9abf-06e415b94081
 site_uuid: 6487c56c-2072-4cc6-b6e0-62b7f9929b7a
 tags: [Render-Logic, Astro, Component-Architecture, MDX, Content-Collections, Dynamic-Routing, Layout-System, Content-Display]
 authors:
   - Michael Staton
 image_prompt: A page of code on the left, a web page on the right.
 banner_image: https://img.recraft.ai/wfdexSsKfkKQm0RQGDhBaVlEaPFsqsSiBrD50Al0KBM/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/fb6248f2-133f-4294-9093-75d65c16c676
----
 
 # Dynamic Information Page Rendering in Astro
 

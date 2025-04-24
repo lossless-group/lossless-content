@@ -12,7 +12,6 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
-portrait_image: "https://img.recraft.ai/vHDFunj7rZp7eNCPEenSuwX30_4ZFMuzaI8olLw7XX4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d373ce81-442c-4e87-8987-08f950100da3"
 image_prompt: "A web developer updating Open Graph metadata in a code editor, with browser preview windows displaying rich link previews. Visual cues include meta tags, social media icons, and highlighted code. The mood is modern, connected, and focused on web optimization."
 site_uuid: bbd4b81e-fa15-4d14-9b9d-ae2873188a02
 tags:
@@ -23,7 +22,6 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/EUi1EhjiZvELaOC8oZj4k_Y9E0EB1ToBRHglmb8Qx40/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/0e03768e-b5af-4476-a2c4-798ea0ae6629
----
 
 # Goal:
 

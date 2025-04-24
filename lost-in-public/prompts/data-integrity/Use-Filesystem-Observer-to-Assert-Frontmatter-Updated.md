@@ -13,13 +13,11 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-19
 image_prompt: "A monitoring dashboard showing a filesystem observer tracking real-time frontmatter updates in Markdown files. Visuals include file icons, update notifications, and highlighted YAML metadata, conveying automation, accuracy, and oversight."
-portrait_image: "https://img.recraft.ai/I6m8wFBHcyg_TX6pzO86LjvwUEP7ZALe5eLBK_3SGo8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/6c61a2ed-b4aa-4182-814f-475e859d7b77"
 site_uuid: 69332186-eed2-4b81-87ec-5aae40568f9f
 tags: [Frontmatter-Validation, File-Processing, Build-Scripts, File-Systems, Data-Integrity]
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/l009uCCokQzyIZ6OgT3IKzdrAZ3wx_cMK2o0ps5cq7A/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/be5e7a15-b933-48be-b34e-b5a2c441661b
----
 
 ## Objective
 Create a robust filesystem observer system that monitors Markdown files, validates frontmatter against predefined templates, and automatically corrects inconsistencies while preserving the most accurate metadata.

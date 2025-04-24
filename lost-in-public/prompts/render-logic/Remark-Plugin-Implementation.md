@@ -13,7 +13,6 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A developer implementing a remark plugin, with code editors, plugin architecture diagrams, and rendered markdown previews. The scene conveys extensibility, customization, and the technical creativity of enhancing content workflows."
-portrait_image: "https://img.recraft.ai/vAQti7-f_0A9f0JJaNAEx0GEcPFE9S0D6SbAdNNYR-A/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/6a9f48be-c7cb-46ff-a700-ed56e47c3610"
 site_uuid: debdb50b-f775-4677-915c-e000b9242c3d
 tags:
   - Render-Logic
@@ -23,7 +22,6 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/BfPJ08EGHZFOrzurrQqPRZSq9nMNpJpM0Euam7ClofU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/f9feee05-1aa8-4ae3-a4c2-5bbbb3401e5e
----
 
 ###### Sources
 https://www.namchee.dev/posts/upgrading-astro-code-snippets/

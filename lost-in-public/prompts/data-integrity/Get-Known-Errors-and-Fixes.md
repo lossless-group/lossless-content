@@ -17,9 +17,7 @@ site_uuid: 6522d034-9012-4456-81c6-0e2e3ffc6fd1
 tags: [Scripts, YAML, Error-Detection, Content-Fixes, Build-Process]
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/nxkbdbl0CFUlIvfPAeo7u4EjPrL-OzmVJAcrW6FxoV8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a2dd464d-78c4-40ef-9d00-192145fff688
 banner_image: https://img.recraft.ai/FxkHTss6aqMLw9hfRi_vBeYS3F_235yrcFcJs__rwus/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/77f3c44e-807b-4673-b4e3-bf3b885625e9
----
 
 ## Executive Summary
 
