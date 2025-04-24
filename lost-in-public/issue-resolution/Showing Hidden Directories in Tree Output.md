@@ -1,10 +1,30 @@
 ---
+title: Showing Hidden Directories in Tree Output
+lede: "How to configure the `tree` command to display hidden directories and files when visualizing project folder structures."
+date_authored_initial_draft: 2025-03-21
+date_authored_current_draft: 2025-04-23
+date_authored_final_draft: null
+date_first_published: null
+date_last_updated: null
+at_semantic_version: 0.0.0.1
+status: Complete
+augmented_with: Windsurf Cascade on GPT 4.1
+category: Directory-Visualization-Patterns
 date_created: 2025-03-21
-date_modified: 2025-03-26
+date_modified: 2025-04-23
+site_uuid: 115dcc0b-2716-4f0b-9692-e9d357091a2a
+tags:
+  - Directory-Visualization
+  - Tree-Command
+  - Command-Line
+  - Project-Structure
+authors:
+  - Michael Staton
+portrait_image: ""
+image_prompt: Terminal window showing a tree command output with hidden directories and files, modern developer workspace, clean visualization.
+banner_image: ""
 ---
 
-
-```
 .
 |-- 00 - Lossless-at-Laerdal Gameplan
 |   `-- 04.1 - AI to Insight Specifications
@@ -56,5 +76,3 @@ date_modified: 2025-03-26
 `-- Vocabulary
 
 49 directories
-
-```

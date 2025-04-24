@@ -1,21 +1,27 @@
 ---
-title: Comprehensive Rules to tame Code Generator LLMs
+title: Tame Generative AI with Rule Sets
+lede: Canonical rules and technical conventions for controlling, documenting, and collaborating with code-generating LLMs in complex TypeScript/Astro projects.
 date_authored_initial_draft: 2025-03-17
-date_authored_final_draft: 2025-03-17
-date_first_published: 2025-03-17
+date_authored_current_draft: 2025-04-23
 at_semantic_version: 0.0.0.1
-authors:
-  - Michael Staton
-with_writing_assistant: Windsurf on Claude 3.7 Sonnet
-category: Code-Generators
+status: Complete
+augmented_with: Cascade AI
+category: LLM-Governance-Patterns
+date_created: 2025-03-17
+date_modified: 2025-04-23
+site_uuid: 94e917af-2f46-498c-ae51-bc2111d4ec04
 tags:
   - Workflow-Management
-  - Client-Updates
-  - Platform-Mechanisms
-  - Workspace-Configurations
-date_created: 2025-03-17
-date_modified: 2025-03-24
+  - Prompt-Engineering
+  - Context-Windows
+  - AI-Collaboration
+authors:
+  - Michael Staton
+portrait_image: ""
+image_prompt: Developer workspace with AI code assistant, rulebooks, and TypeScript/Astro icons, all interconnected in a modern, organized layout.
+banner_image: ""
 ---
+
 # Stack, Libraries, Dependencies
 
 #### Preliminaries
@@ -120,7 +126,7 @@ Instead, we will both maintain and iterate on our current scripts in `site/scrip
 
 Why do all this?  Because it will be impossible to have prodigeous content generation and also have a working, error free user experience with hard data validation, type validation, or frontmatter validation. We have a team that is creating content with AI. They are creaties that lack attention to detail. Frontmatter will be inconsistent, we have to deal with it. 
 
-When we write scripts, we must never use glob or grey-matter or libraries that process frontmatter in Markdown files.  It causes too many errors. We must handle frontmatter using .cjs Common JS and use only the built in filesystem and path modules in Node.  
+When we write scripts, we must never use glob or grey-matter or libraries that process frontmatter in Markdown files.  It causes too many errors. We must handle frontmatter using .cjs Common JS and use only the filesystem and path modules in Node.  
 
 So build scripts, tidy scripts, graceful error handling, and helper/utility functions will follow the PREVENT critical errors and app failures by introducing the following pipeline:
 

@@ -1,3 +1,26 @@
+---
+title: "Conditional Console Logging as a Standard Practice"
+lede: "Establishing a DRY, configurable approach to console logging for transparent debugging and maintainability."
+date_authored_initial_draft: "2025-04-18"
+date_authored_current_draft: "2025-04-23"
+at_semantic_version: 0.0.0.5
+status: "Complete"
+augmented_with: "Windsurf Cascade on GPT 4.1"
+category: "Debugging Patterns and Configurable Logging"
+tags:
+  - Debugging
+  - DRY-Principles
+  - Best-Practices
+site_uuid: "a8b21dcb-86c1-435b-b40e-46efbae04886"
+date_created: "2025-04-18"
+date_modified: "2025-04-23"
+authors:
+  - "Michael Staton"
+portrait_image: ""
+image_prompt: "A developer toggling console log switches on a dashboard, with code streams lighting up or dimming in response, symbolizing fine-grained control over debugging output."
+banner_image: ""
+---
+
 # Issue Resolution Breadcrumb: Conditional Console Logging as a Standard Practice
 
 ## Context
