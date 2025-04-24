@@ -1,22 +1,23 @@
 ---
 date_created: 2024-11-02
-date_modified: 2025-04-23
+date_modified: 2025-04-24
 site_uuid: 727bfc80-ad69-4abc-ac99-43cd33e7d11f
-title: Quantum Computing is Confusing
+title: 'Quantum Computing is Confusing'
 lede: 
 date_authored_initial_draft: 2024-11-02
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
-augmented_with: Perplexica AI
+augmented_with: 'Perplexica AI'
 category: 
+portrait_image: 
+image_prompt: 
+banner_image: ''
 tags:
 authors:
   - Michael Staton
-portrait_image: 
-image_prompt: 
-banner_image:
 ---
+
 https://youtu.be/1_gJp2uAjO0?si=CfFsa5sRZj3yGpCx
 
 https://youtu.be/qQviI1d_hFA?si=MINFM3eMizJyhOfG
