@@ -23,8 +23,8 @@ tags:
   - Content-Display
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/pqtDq1REmUWtnTczrA7SxW9ivaB1DOfoO-x_7UsCvtI/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/5dcc5360-940e-454e-bffc-c3469cbbeabb
-
+portrait_image: https://img.recraft.ai/pqtDq1REmUWtnTczrA7SxW9ivaB1DOfoO-x_7UsCvtI/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/5dcc5360-940e-454e-bffc-c3469cbbeabb
+---
 # Handle Citations in Markdown Content
 
 ## Executive Summary

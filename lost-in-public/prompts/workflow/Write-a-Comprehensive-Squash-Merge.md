@@ -21,7 +21,7 @@ tags:
   - Documentation
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/sCMqqXUQojzsjROh8IufRAB4EIrQyTIgOAgOmXw1AiA/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/29a112ef-f364-4d6e-b39f-0fa8a013eccc
+portrait_image: https://img.recraft.ai/sCMqqXUQojzsjROh8IufRAB4EIrQyTIgOAgOmXw1AiA/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/29a112ef-f364-4d6e-b39f-0fa8a013eccc
 ---
 ```javascript
 interface Props {

@@ -23,7 +23,7 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/p8KwAHuN288f8xAXbRy3RP62WY_8aJ_HmhKzcCgd-sw/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/6c0a9ac0-fc88-4423-b842-62a4bc2613d9
-
+---
 # Constraints
 1. Use customary naming conventions for both files and functions. In any kind of near-scripting I prefer camelCase. 
 2. Under NO CIRCUMSTANCES should you "Take a Shortcut" and try to render the iFrames through Astro's built in collection rendering system.  

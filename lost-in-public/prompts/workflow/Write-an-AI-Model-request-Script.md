@@ -22,7 +22,7 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/meo5HPANBWz15V1bMI2sz-D1O9t5TM_YkpuQvT7_hUA/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d61b492c-420a-4b51-a329-10682d7d8d77
-
+---
 # Inputs
 
 ## Model API

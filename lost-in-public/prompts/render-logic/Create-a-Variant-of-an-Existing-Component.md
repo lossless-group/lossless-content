@@ -20,9 +20,8 @@ tags:
 - UI-Design
 authors:
 - Michael Staton
-
-banner_image: https://img.recraft.ai/fjoOE-vdQFXmJBhA6GrKlpGvZ9sc3i5ueeLgEuw0qqM/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/f01645fa-879c-47b8-be95-a8cf8a909cee
-
+portrait_image: https://img.recraft.ai/fjoOE-vdQFXmJBhA6GrKlpGvZ9sc3i5ueeLgEuw0qqM/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/f01645fa-879c-47b8-be95-a8cf8a909cee
+---
 ## Context
 
 We have a component that is great, but we need a variant of it.

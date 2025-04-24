@@ -24,7 +24,7 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/fTeevENO38UQQYSkQS1Kkh5T7sMSosbVWIIHGbJh6pM/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/24fa79d7-cb3c-4a0a-afdf-0b278fadbf48
-
+---
 # Goals
 
 Let's just start with one: 

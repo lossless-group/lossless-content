@@ -19,7 +19,7 @@ tags: [Code-Style, Code-Quality, Maintainability, Refactoring]
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/H9_69jkaKphcM6PCUQ5cW1lsVAXrh3ljWNkSprN370k/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d5f646cf-1088-4d5e-9507-84e0dcc5b6c5
-
+---
 ## Prompt
 
 ### Goal

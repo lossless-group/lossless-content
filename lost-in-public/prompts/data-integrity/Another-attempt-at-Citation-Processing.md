@@ -18,7 +18,7 @@ authors:
   - Michael Staton
 image_prompt: Two students at a library, sitting a desk, with a giant stack of books.
 banner_image: https://img.recraft.ai/AUl-O0AQYHVj0u5zA_fkZZmgiimWeYympWKElzItTcQ/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/533f0425-b84d-49f8-885c-0d5f5faac89e
-
+---
   
 
 # Citation Processing System

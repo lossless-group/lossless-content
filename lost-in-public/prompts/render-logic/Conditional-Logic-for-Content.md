@@ -19,7 +19,7 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/JgIyURKxi_VnG5cM6xQSNuE1ClkH3ZTckuGvevkfJFk/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/ca73a923-6834-4092-879c-24da549097a7
-
+---
 ## The 'status' property values
 
 | Value | isAdmin? | isPublic? |

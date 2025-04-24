@@ -19,7 +19,7 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/bPswdNw_LwQBAGEVaar_tDxN6tM8LnwPnoIYhavFt1c/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d2ce09b5-8626-402e-90e1-1750a985234a
-
+---
 ## Context
 
 As our content-driven application gets more and more content, we need to be able to route to different pages of content based on the "origin" of the user action, to the intended destination of the user action, and to the content itself.

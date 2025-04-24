@@ -21,8 +21,8 @@ tags:
   - Data-Integrity
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/mn4xzOqHVy3MweGmqFo8Z8quAonD_tThWSY6oGy8VL4/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/382a0d31-85e2-4221-9154-2634e94b082a
-
+portrait_image: https://img.recraft.ai/mn4xzOqHVy3MweGmqFo8Z8quAonD_tThWSY6oGy8VL4/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/382a0d31-85e2-4221-9154-2634e94b082a
+---
 # OpenGraph Data Fetching Script Implementation Guide
 
 Create a Node.js script (`runFetchOpenGraphData.cjs`) that processes Markdown files to fetch and update OpenGraph metadata and screenshots. This guide provides detailed specifications for implementing a robust, error-tolerant system.

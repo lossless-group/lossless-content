@@ -24,7 +24,7 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/cN7JYvHeXDMPpdgoU6kNN7cpyQSkRmJ40cmOniSDPDE/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/de789a39-3b68-4b5d-87ab-c7dfd26aa0bb
-
+---
 # Comprehensive AST Transformation Pipeline
 
 ## Core Principles

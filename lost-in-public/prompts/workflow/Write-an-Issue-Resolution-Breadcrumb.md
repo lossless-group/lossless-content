@@ -22,7 +22,7 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/HZRZVoxyNgAKLJjqBiJw6zhA2Qtae6lswvkV8DVa0bM/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/bf029905-038f-45d0-889f-ed6fea81128a
-
+---
 # Write an note that leaves a breadcrumb for future Issue Resolution
 
 ## Output Directory

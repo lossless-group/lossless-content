@@ -14,7 +14,7 @@ authors:
   - Michael Staton
 image_prompt: An open magazine on a desk with big images, like National Geographic or Vogue.
 banner_image: https://img.recraft.ai/3EmJWXOLblDTqDjwEQ_AP0zafIqIhwgdyBFBZ3wAXZk/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/16dd92c7-daf6-4ac5-8a34-04fd1baa9c1a
-
+---
 # Goals
 
 Use the magazine-style layout for the new Specs Collection, reusing as many components and render pipeline as possible. 

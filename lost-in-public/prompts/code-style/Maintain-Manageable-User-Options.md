@@ -19,6 +19,7 @@ tags: [Configuration, Build-Scripts, User-Options, Directory-Management, Code-St
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/hLJwbfPoQIjA9ywZQR3ktSiSdM4KTLxs-w5SW4Lwbdk/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/34bdd8f4-7862-4283-9e65-d0d4ff8ab755
+---
 
 ```javascript
 const USER_OPTIONS = {

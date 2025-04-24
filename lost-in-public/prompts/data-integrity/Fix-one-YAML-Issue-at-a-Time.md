@@ -21,8 +21,8 @@ tags:
   - Data-Integrity
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/f6QMaKQg5AoeNO38hxEeejQkDhmwwUdTQKkDEgm7XX0/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/917cfb2f-41dc-49f8-8719-9b53ae2ff3af
-
+portrait_image: https://img.recraft.ai/f6QMaKQg5AoeNO38hxEeejQkDhmwwUdTQKkDEgm7XX0/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/917cfb2f-41dc-49f8-8719-9b53ae2ff3af
+---
 ## Context
 We were developing a build script to be run at the `pnpm build` command, taking our code through the Astro Build Process.  Examine but do not act on that file:
 `site/scripts/tidy-up/attemptToFixKnownErrorsInYAML.cjs`

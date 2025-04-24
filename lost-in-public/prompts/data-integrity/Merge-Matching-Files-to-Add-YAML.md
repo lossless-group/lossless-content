@@ -18,7 +18,7 @@ tags: [YAML-Validation, Build-Scripts, Data-Integrity]
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/5qwis9PMnCmTggZ3K2bmK5DieqBiUoMxEtlMHiH6vts/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/7a45875a-e23c-4259-a67a-d76da5423ad3
-
+---
 **Objective:** Create a script that reads a list of files (missing URLs), finds corresponding files by filename in a source directory (`temp_old_repo/content/tooling`), extracts the `url:` property from the source file's frontmatter (if present, **without using a YAML library**), and inserts this `url:` line into the frontmatter of the target file (`content/tooling`).
 
 **New Script:** `tidyverse/tidy-up/tidy-one-property/import-url-from-old-repo.mjs`

@@ -24,7 +24,7 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/BeTvcrLKUC9HlaxRLyvp0GAdl_-EPXj72PKERmW1UxA/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/e8f285af-3dc1-44ff-911d-ea9008c9b216
-
+---
 # Goal  
 ## High-level objective
 Develop a maintainable full Component Pipeline for Content Collections in structure and skeleton HTML and CSS. What do I mean by that? Well, we separate the structural styles from the presentational styles that are applied upon render of a specific Content Collection.  

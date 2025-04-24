@@ -21,8 +21,8 @@ tags:
 authors:
   - Michael Staton
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
-banner_image: https://img.recraft.ai/vMF0QFya6k8PAJY9vy8nmtp_NIU5JjHnR9cjlLZDNtU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/91157864-2b50-49d0-809e-27e20f52db56
-
+portrait_image: https://img.recraft.ai/vMF0QFya6k8PAJY9vy8nmtp_NIU5JjHnR9cjlLZDNtU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/91157864-2b50-49d0-809e-27e20f52db56
+---
 # Goal  
 
 Create and introduce a new component pipeline for rendering simple messages dynamically generated from JSON data. The section that renders this component should draw from messages created by site admins, and be easily modifiable by them.

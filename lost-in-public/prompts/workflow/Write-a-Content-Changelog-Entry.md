@@ -22,8 +22,8 @@ tags:
   - Code-Changes
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/9Bj27-pw6Bn6KNd3CDbFdqWHoc37NHzMobrWDLyDkiw/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/2888c28b-a4bc-440a-b342-3488d7d90605
-
+portrait_image: https://img.recraft.ai/9Bj27-pw6Bn6KNd3CDbFdqWHoc37NHzMobrWDLyDkiw/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/2888c28b-a4bc-440a-b342-3488d7d90605
+---
 > Option Set for 'Changelog Type':
 > 1. Code Changes (site/src/content/changelog--code)
 >    - Build scripts
