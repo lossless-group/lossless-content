@@ -51,7 +51,7 @@ What do I mean by that? Well, we separate the generalized components from the sp
 
 ```mermaid
 graph TD
-    A[Entry: [vocabulary].astro] --> B[Collection: content/vocabulary]
+    A[Entry: vocabulary.astro] --> B[Collection: ContentVocabulary]
     A --> C[Layout.astro]
     C --> D[OneArticle.astro]
     D --> E[OneArticleOnPage.astro]

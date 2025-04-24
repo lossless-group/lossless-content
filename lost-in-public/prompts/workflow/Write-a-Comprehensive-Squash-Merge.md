@@ -1,35 +1,59 @@
 ---
-title: Write a Code Changelog Entry
-lede: Create structured and informative changelog entries for code changes
-date_authored_initial_draft: 2025-04-14
-date_authored_current_draft: 2025-04-21
+title: Write a Comprehensive Git Squash-Merge 
+lede: A step-by-step, human-readable workflow for safely squash-merging development into master in a multi-contributor project.
+date_authored_initial_draft: 2025-04-21
+date_authored_current_draft: 2025-04-22
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
 at_semantic_version: 0.0.1.0
-status: To-Do
+status: Implemented
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-date_created: 2025-04-14
-date_modified: 2025-04-21
-image_prompt: "A code changelog entry UI with structured sections for features, fixes, and improvements. Visuals include version tags, code snippets, and a collaborative editing space, symbolizing organized code history tracking."
+date_created: 2025-04-21
+date_modified: 2025-04-22
+image_prompt: "A visual representation of a Git squash-merge: two tree branches merging into one tree. Code is like leaves, being consolidated, with warnings signs and a checklist pinned on it."
 tags:
-  - Changelog
-  - Documentation
+  - Git
+  - Squash-Merge
   - Version-Control
-  - Code-Changes
+  - Workflow
+  - Documentation
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/sCMqqXUQojzsjROh8IufRAB4EIrQyTIgOAgOmXw1AiA/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/29a112ef-f364-4d6e-b39f-0fa8a013eccc
 ---
+```javascript
+interface Props {
+  code: string;
+  lang: string;
+}
+
+```
+
 
 ```markdown
 release(content): squash merge development into master
 
-# Summary
+
+
+Summary:
 
 This release merges all changes from the development branch into master, consolidating weeks of content, metadata, prompt, and YAML automation improvements. The following is a chronological summary of all commits included in this squash, preserving the intent and traceability of every feature, fix, and refactor.
 
-# Included Commits
+Changelog:
+
+- Major prompt, reminder, and documentation restructuring
+- YAML property, metadata, and automation improvements
+- Banner and portrait image standardization
+- New and improved issue resolution documentation
+- Expanded and standardized changelogs, specs, and session logs
+- Content, concepts, and prompt architecture enhancements
+- Tooling, vocabulary, and UI documentation updates
+
+For details on any specific change, see the commit summaries above or refer to the development branch history.
+
+Included Commits:
 
 47aa6ed improve(prompts): add banner_image with wide dimensions to prompts
 957613b new(issue-resolution): new issue resolution on change key script
@@ -109,21 +133,7 @@ ecd0276 updates(metadata): used observer to update metadata for all files
 89d29cf docs(changelog): update content changelog with citation documentation
 c5617f5 new(sys): add prompts, logs, etc.
 9906330 prebuild(render): save content related to context for Cadence prior to new AST transform
-14ea842 prerun(prompt): add prompt for render callouts  Changes to be committed:        new file:   lost-in-public/issue-resolution/Computing entry object values in Astro.md   modified:   lost-in-public/issue-resolution/Managing complex integrations through Git.md        modified:   lost-in-public/prompts/code-style/Maintain-Robust-Commenting-in-our-Flavor.md       modified:   lost-in-public/prompts/data-integrity/Use-Filesystem-Observer-to-Assert-Frontmatter.md      new file:   lost-in-public/prompts/render-logic/Rendering-Callout-Blocks-with-Classes.md        new file:   lost-in-public/prompts/user-interface/Create-a-Vocabulary-Collection-UI-using-Prior-Components.md   modified:   lost-in-public/prompts/workflow/Write-a-Raw-Text-Git-Commit.md      modified:   lost-in-public/rag-input/Comprehensive-Rules-for-Code-Generation.md         new file:   lost-in-public/rag-input/Read-Relevant-Documentation-before-major-edits.md  new file:   specs/Filesystem-Observer-for-Consistent-Metadata-in-Markdown-files.md      modified:   vocabulary/Agentic RAG.md
-
-# Changelog
-
-- Major prompt, reminder, and documentation restructuring
-- YAML property, metadata, and automation improvements
-- Banner and portrait image standardization
-- New and improved issue resolution documentation
-- Expanded and standardized changelogs, specs, and session logs
-- Content, concepts, and prompt architecture enhancements
-- Tooling, vocabulary, and UI documentation updates
-
-For details on any specific change, see the commit summaries above or refer to the development branch history.
-
-***
+  
 
 **This squash merge preserves a clean master history while retaining the full detail of all development work.**
 
@@ -232,12 +242,15 @@ For details on any specific change, see the commit summaries above or refer to t
 git checkout master
 git pull origin master
 git checkout -b squash-temp
-git merge-base master development   # Find <last-merge>
-git log <last-merge>..development --oneline   # Review changes
 git merge --squash development
-git commit -m "squash: all development changes since <last-merge>\n\n- List all features, fixes, etc.\n- See commits: <git log <last-merge>..development --oneline>"
+# git merge-base master development  # Find <last-merge>
+# git log <last-merge>..development --oneline   # Review changes
 git checkout master
 git merge squash-temp
+git checkout --theirs . # prefers the squash-temp branch if conflicts
+git add .
+# Ask AI Code Assistant to write comprenehsive squash commit message, using this prompt
+git commit
 git push origin master
 ```
 

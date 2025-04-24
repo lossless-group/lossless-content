@@ -172,9 +172,9 @@ During implementation, we identified a need for a more unified and flexible tag 
 
 ```mermaid
 graph TD
-    A[User clicks TagChip] --> B[/vibe-with/${tag}]
+    A[User clicks TagChip] --> B["vibe-with/tag"]
     B --> C{User selects an item}
-    C --> D[/vibe-with/[collection]/[...slug].astro]
+    C --> D["/vibe-with/collection/slug.astro"]
 ```
 
 #### Edge Cases

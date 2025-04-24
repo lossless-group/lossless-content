@@ -102,16 +102,16 @@ For a complete, real-world example of a specification file, see:
 
 ```mermaid
 graph TD
-    A[Dynamic Route: /prompts/[prompt] or /specs/[spec] or /thread/[magazine]]
+    A["Dynamic Route: /prompts/[prompt] or /specs/[spec] or /thread/[magazine]"]
       --> B{Content Loader}
     B -- Prompts --> C[Load Prompts Collection]
     B -- Specs --> D[Load Specs Collection]
-    C & D --> E[Unified Data Mapping (shared prop contract)]
+    C & D --> E["Unified Data Mapping (shared prop contract)"]
     E --> F[Magazine Layout: PostCardContentLayout.astro]
-    F --> G1[PostCardFeature.astro (first item)]
-    F --> G2[PostCard.astro (remaining items)]
-    G1 & G2 --> H[Magazine-Style Grid/List Output]
-    H --> I[Handles Edge Cases (missing metadata, empty collection, errors)]
+    F --> G1["PostCardFeature.astro (first item)"]
+    F --> G2["PostCard.astro (remaining items)"]
+    G1 & G2 --> H["Magazine-Style Grid/List Output"]
+    H --> I["Handles Edge Cases ie missing metadata, empty collection, errors"]
 ```
 
 **Legend:**
