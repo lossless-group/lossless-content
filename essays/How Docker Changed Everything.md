@@ -1,22 +1,23 @@
 ---
 date_created: 2024-08-18
-date_modified: 2025-04-23
+date_modified: 2025-04-24
 site_uuid: a396bf72-3bc1-480f-80a1-e9d703d12f69
-title: How Docker Changed Everything
+title: 'How Docker Changed Everything'
 lede: 
 date_authored_initial_draft: 2024-08-18
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
-augmented_with: Perplexica AI
+augmented_with: 'Perplexica AI'
 category: 
+portrait_image: 
+image_prompt: 
+banner_image: ''
 tags:
 authors:
   - Michael Staton
-portrait_image: 
-image_prompt: 
-banner_image:
 ---
+
 A good example of innovation wanting to be lossless and emergent: distributing enabling software stacks and specs. 
 
 A long time ago, in the computing medieval ages we call the "Personal Computing" era, people working on software ran into the same problem at such maddening frequency that they wanted to pull their hair out, break their computer, and kill the next new hire. It could be called the "environment consistency" problem.  

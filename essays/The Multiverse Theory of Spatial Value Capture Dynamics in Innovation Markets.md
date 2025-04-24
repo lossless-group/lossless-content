@@ -1,22 +1,23 @@
 ---
 date_created: 2025-04-15
-date_modified: 2025-04-23
+date_modified: 2025-04-24
 site_uuid: a55ab81c-2a3c-41a4-a70d-cb83d2e97cdb
-title: The Multiverse Theory of Spatial Value Capture Dynamics in Innovation Markets
+title: 'The Multiverse Theory of Spatial Value Capture Dynamics in Innovation Markets'
 lede: 
 date_authored_initial_draft: 2025-04-15
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
-augmented_with: Perplexica AI
+augmented_with: 'Perplexica AI'
 category: 
+portrait_image: 
+image_prompt: 
+banner_image: ''
 tags:
 authors:
   - Michael Staton
-portrait_image: 
-image_prompt: 
-banner_image:
 ---
+
 Band-Based, Concentric Doughnut Shaped Standard Model Network Topology & Physics
 
 2) Value Capture follows a multidimensional Pareto curve, with centers of value capture showing exponentially greater "heat."  

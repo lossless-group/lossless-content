@@ -1,22 +1,23 @@
 ---
 date_created: 2024-08-15
-date_modified: 2025-04-23
+date_modified: 2025-04-24
 site_uuid: c454fd11-77fd-4b20-aeab-0836bcd69377
-title: How GitHub Changed Everything
+title: 'How GitHub Changed Everything'
 lede: 
 date_authored_initial_draft: 2024-08-15
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
-augmented_with: Perplexica AI
+augmented_with: 'Perplexica AI'
 category: 
+portrait_image: 
+image_prompt: 
+banner_image: ''
 tags:
 authors:
   - Michael Staton
-portrait_image: 
-image_prompt: 
-banner_image:
 ---
+
 https://youtu.be/cdcjw5etCnw?si=MQWGQE_MLIbDaUun
 GitHub launched in 2009, and almost immediately became the primary code version control tool of new technology startups. From there, it's growth was meteoric and exponential. [^4]
 ![[Pasted image 20250216184410_GitHub_Chart--Repository-Growth.png]] [^5]
