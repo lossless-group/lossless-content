@@ -75,7 +75,7 @@ Here's a screenshot of [[concepts/Release Notes]] from [[Obsidian.md]].
 ##### [[Obsidian.md]] has a [[Chrome]] [[Plug-ins,  Add-ons,  Extensions|Extension]].
 ![[Screenshot 2025-02-23 at 3.24.52 AM_Obsidian--Web-Clipper.png]]
 ##### [[Obsidian.md]] created their own [[Data Standard]]
-![[JSON Canvas#An Data Standard for applying JSON syntax in Canvas User Interface UI , created by Obsidian.md]]
+![[emergent-innovation/Standards/JSON Canvas#An Data Standard for applying JSON syntax in Canvas User Interface UI , created by Obsidian.md]]
 
 ## [[Obsidian.md]] works well with [[Astro]]
 <iframe 

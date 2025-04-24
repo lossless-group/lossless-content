@@ -60,6 +60,6 @@ og_screenshot_url: >-
 
 
 
-[[TypeScript]] ecosystem [[User Authentication]], built on the [[OAuth]] industry standard.
+[[TypeScript]] ecosystem [[User Authentication]], built on the [[emergent-innovation/Standards/OAuth]] industry standard.
 
 https://youtu.be/w07F5vZbLTg?si=FakjbIMj2Eh19qex

@@ -14,7 +14,7 @@ augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
 category: To-Hero
 tags: [Command-Line]
 date_created: 2025-03-23
-date_modified: 2025-04-15
+date_modified: 2025-04-22
 ---
 
 Check for ports that are open.
@@ -22,6 +22,10 @@ Check for ports that are open.
 lsof -i :4321,4322
 ```
 
+Kill running ports
+```bash
+lsof -ti:4321-4323 | xargs -r kill
+```
 
 Check for node processes in the filesystem observers
 ```bash

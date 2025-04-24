@@ -4,7 +4,7 @@
 [[Yext]] 
 
 
-Generally uses a [[REST API]], but many also support [[GraphQL]]. 
+Generally uses a [[REST API]], but many also support [[emergent-innovation/Standards/GraphQL]]. 
 
 # Footnotes
 ***

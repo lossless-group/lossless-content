@@ -2,7 +2,7 @@
 aliases:
   - Linux
 ---
-[[SLSA]]
+[[emergent-innovation/Standards/SLSA]]
 [[organizations/The Linux Foundation|Linux]]
 [[Git]]
 
@@ -14,8 +14,8 @@ https://youtu.be/HL1XavoNqsM?si=lumiHXxoFmY1f9B9
 
 https://youtube.com/playlist?list=PLIhvC56v63IL2OjFvv_PI0B2yAXGfJLMI&si=UNklRHdR5rm6HuVX
 
-##### [[organizations/The Linux Foundation]] manages [[SLSA]]
-![[SLSA#Managed by The Linux Foundation , SLSA helps preserve code and assets.]]
+##### [[organizations/The Linux Foundation]] manages [[emergent-innovation/Standards/SLSA]]
+![[emergent-innovation/Standards/SLSA#Managed by The Linux Foundation , SLSA helps preserve code and assets.]]
 
 ##### GNOME has an [[Plug-ins,  Add-ons,  Extensions|Extension]] marketplace
 ![[Screenshot From 2024-12-24 21-46-33_Gnome--Extensions.png]]

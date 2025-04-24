@@ -1,3 +1,7 @@
+---
+date_created: 2024-11-08
+date_modified: 2025-04-23
+---
 
 
 For large scale businesses, [[concepts/Explainers for AI/Artificial Intelligence|AI]] represents an enormous, amorphous, and head-scratching opportunity.

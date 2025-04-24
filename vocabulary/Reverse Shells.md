@@ -6,4 +6,4 @@ date_created: 2025-04-06
 
 [How Hackers take over computers with Reverse Shells](https://youtu.be/Er1nb-4xHdE?si=mQTjFMJylV5ogWIv)
 
-[[01_Web Security is Oldschool]]
+[[essays/Web Security is about Idiocracy]]

@@ -7,8 +7,8 @@ aliases:
 ---
 
 [[Mermaid.js]]
-[[JSON]]
-[[JSON Canvas]]
+[[emergent-innovation/Standards/JSON]]
+[[emergent-innovation/Standards/JSON Canvas]]
 
 > [!NOTE] [[organizations/Perplexity AI]] explains [[Data Standard|Data Standards]]
 > ## What are Data Standards?
@@ -18,7 +18,7 @@ aliases:
 > Organizations create data standards to:
 > - Ensure **interoperability** between systems and platforms[4][11].
 > - Facilitate **data sharing** and reuse across industries[6].
-> - Maintain **data quality** and consistency for analytics and compliance with regulations like [[(GDPR) General Data Protection Regulation]] or HIPAA[9].
+> - Maintain **data quality** and consistency for analytics and compliance with regulations like [[emergent-innovation/Policy-&-Regulation/(GDPR) General Data Protection Regulation]] or HIPAA[9].
 > - Reduce inefficiencies in data integration and processing[2].
 > 
 > ### **How Are Data Standards Maintained?**
@@ -29,7 +29,7 @@ aliases:
 > 
 > ### **Important Data Standards in Technology**
 > Key examples include:
-> - **Technical Standards:** [[JSON]], [[XML]] (data formats), [[HTTPS]] (protocols)[4].
+> - **Technical Standards:** [[emergent-innovation/Standards/JSON]], [[XML]] (data formats), [[emergent-innovation/Standards/HTTPS]] (protocols)[4].
 > - **Semantic Standards:** [[organizations/HL7]] in healthcare for patient data sharing[4].
 > - **Industry-Specific Standards:** SWIFT for financial transactions, ISO 27001 for information security management[4][5].
 > 

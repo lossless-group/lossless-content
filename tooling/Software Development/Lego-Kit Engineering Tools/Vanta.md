@@ -77,5 +77,5 @@ tags:
 
 
 
-[[(GDPR) General Data Protection Regulation]]
+[[emergent-innovation/Policy-&-Regulation/(GDPR) General Data Protection Regulation]]
 

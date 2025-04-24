@@ -11,7 +11,7 @@ Especially for [[Low-Code]] tools, [[UI Builders]], and [[Agentic AI]]
 
 ![[BuildShip#BuildShip is a Visual Software Development Visual Low-Code Back-End Engineering Back-End , nearly a Backend-as-a-Service]]
 ## The role of [[concepts/CARBS/Flow Charts]]
-[[Mermaid.js]], [[MermaidChart]], [[JSON Canvas]].
+[[Mermaid.js]], [[MermaidChart]], [[emergent-innovation/Standards/JSON Canvas]].
 
 > [!NOTE]
 > ### **The Growing Importance of Visualization in Software Development**

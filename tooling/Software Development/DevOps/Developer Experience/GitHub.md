@@ -34,7 +34,7 @@ https://youtu.be/Oaj3RBIoGFc?si=20UOAFvl5oSiVs7s
 
 https://youtu.be/oa1wXWeH1IQ?si=AqDPU2_cmIPkhJrx
 
-![[How GitHub Changes Everything#AI Explains GitHub]]
+![[essays/How GitHub Changed Everything#AI Explains GitHub]]
 
 # GitHub Features
 
@@ -62,7 +62,7 @@ https://youtu.be/qgR88PEYXYE?si=363LeRDraHFvG5GB
 ##### [[GitHub]] has a Desktop App
 As an example of [[Cross-Platform Applications]]
 ![[Screenshot From 2025-02-19 09-11-46_GitHub-Desktop.png]]
-##### GitHub implements [[OAuth]] with [[2FA]]
+##### GitHub implements [[emergent-innovation/Standards/OAuth]] with [[2FA]]
 https://youtu.be/oI631eCAQnQ?si=XBUNg-tm-H9Ee3fK
 ![[Screenshot From 2024-12-25 02-33-02_GitHub--OAuth--Security.png]]
 ![[Screenshot From 2024-12-25 02-33-24_GitHub--OAuth.png]]

@@ -2,7 +2,7 @@
 aliases:
   - OSL
 ---
-[[Emergent-Innovation/OpenSSL]]
+[[emergent-innovation/OpenSSL]]
 
 The OpenSSL Foundation is a non-profit organization that supports the OpenSSL Project, which provides open-source tools for cryptography and secure communication. The Foundation focuses on non-commercial communities, such as individual developers, academic institutions, and open-source distributions, while its sister organization, the OpenSSL Corporation, handles commercial communities[1][5][6].
 

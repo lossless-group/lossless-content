@@ -14,7 +14,7 @@ https://youtu.be/p8eYHO07o6E?si=ddKUdNlWSm9vO-ZS
 https://youtu.be/p8eYHO07o6E?si=4QQ-QLuQB0RWrRna
 ## Perplexity API
 
-A [[REST API]], returning [[JSON]] objects.
+A [[REST API]], returning [[emergent-innovation/Standards/JSON]] objects.
 
 https://youtu.be/c35IPbZ_qbk?si=26pMg1TY4jwgVeEi
 

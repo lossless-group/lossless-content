@@ -1,3 +1,7 @@
+---
+date_created: 2024-05-18
+date_modified: 2025-04-23
+---
 1801: Joseph Jacquard invented the programmable Jacquard loom, introducing the concept of a programmable machine.
 
 1949, Claude Shannon publishes “Programming a Computer for Playing Chess”
@@ -24,15 +28,15 @@ https://youtu.be/OFS90-FX6pg?si=59krfZlRM21AkqLB
 
 1993, [[organizations/Nvidia|NVIDIA]] founded. 
 
-1995 Tatu Ylönen releases [[(SSH) Secure Shell]] v01 as free software. 
+1995 Tatu Ylönen releases [[emergent-innovation/Standards/(SSH) Secure Shell]] v01 as free software. 
 
-1997 the British Government releases the algorithm of [[RSA]] technology, which would become an important [[Web Standards|Web Standard]]. 
+1997 the British Government releases the algorithm of [[emergent-innovation/Standards/RSA]] technology, which would become an important [[Web Standards|Web Standard]]. 
 
 1997, [[organizations/IBM]]'s Deep Blue won a chess tournament with world champion Gary Kasparov.
 
 1999 Jun 01, [[organizations/The Apache Software Foundation]] was incorporated. 
 
-1999, December 1, Open [[(SSH) Secure Shell]] released by Open BSD.  
+1999, December 1, Open [[emergent-innovation/Standards/(SSH) Secure Shell]] released by Open BSD.  
 
 2000 [[Roy Fielding]] submits his Dissertation to the University of California, Irvine, entitled "Architectural Styles and the Design of Network-based Software Architectures"
 
@@ -40,21 +44,21 @@ https://youtu.be/OFS90-FX6pg?si=59krfZlRM21AkqLB
 
 2003, [[B.J. Fogg]] published *Persuasive Technology: Using Computers to Change What We Think and Do*, popularizing the theories of [[Persuasive Technology]].
 
-2004, Jun 24. the standard of [[Wi-Fi Protected Access|WPA]] 3 was ratified, increasing network security. 
+2004, Jun 24. the standard of [[emergent-innovation/Standards/Wi-Fi Protected Access|WPA]] 3 was ratified, increasing network security. 
 
 2006, June. NIST SP 800-90A was published by the [[organizations/National Institute of Standards and Technology]]. 
 
-2006, [[organizations/Nvidia]] introduced [[Compute Unified Device Architecture]].
+2006, [[organizations/Nvidia]] introduced [[emergent-innovation/Standards/Compute Unified Device Architecture]].
 
-2007, December 4. [[OAuth]] 1.0 specification published by the [[organizations/Internet Engineering Task Force]]. 
+2007, December 4. [[emergent-innovation/Standards/OAuth]] 1.0 specification published by the [[organizations/Internet Engineering Task Force]]. 
 
-2008, [[organizations/Apple]] introduces [[OpenCL|Open Computing Language]].
+2008, [[organizations/Apple]] introduces [[emergent-innovation/Standards/OpenCL|Open Computing Language]].
 
 2009, May 27. [[Ryan Dahl]] first releases [[Node.js]].
 
 2010, Dec. 2nd specification on Color published by the [[organizations/ISO]] ISO 15076-1:2010
 
-2013, Feb. Online Certificate Status Protocol [[OCSP]] standard was published. 
+2013, Feb. Online Certificate Status Protocol [[emergent-innovation/Standards/OCSP]] standard was published. 
 
 2016, AlphaGo by [[organizations/DeepMind]] wins 
 

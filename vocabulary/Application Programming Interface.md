@@ -23,7 +23,7 @@ https://youtube.com/shorts/b4TpO9pYpqk?si=zmW7at2x9MqfEGwp
 ## API Standards
 API standards
 
-- **[[The Open API Initiative|OpenAPI]]**
+- **[[emergent-innovation/Standards/The Open API Initiative|OpenAPI]]**
     
     A standard for describing RESTful APIs, including endpoints, parameters, responses, and security requirements. It can be written in JSON or YAML. [[REST API|REST APIs]]
     
@@ -35,13 +35,13 @@ API standards
 
 Other API-related topics
 
-- Common API authentication and authorization methods include [[Transport Layer Security|TLS]] encryption, [[OAuth]] 2.0, and [[JSON Web Tokens|JWT]]-based authentication. 
+- Common API authentication and authorization methods include [[emergent-innovation/Standards/Transport Layer Security|TLS]] encryption, [[emergent-innovation/Standards/OAuth]] 2.0, and [[emergent-innovation/Standards/JSON Web Tokens|JWT]]-based authentication. 
 
 - A composite API allows you to hit multiple API endpoints on a single call. 
 
 - [[REST API|REST APIs]] are the most common type of protocol. 
 
-- [[GraphQL]] is a newer type of protocol that allows for more efficient data retrieval.
+- [[emergent-innovation/Standards/GraphQL]] is a newer type of protocol that allows for more efficient data retrieval.
 ![](https://i.imgur.com/p81Sr7f.png)
 
 
@@ -108,7 +108,7 @@ Other API-related topics
 > 
 > ### **Common Tools for API Development**
 > 
-> 1. **[[Swagger]] ([[The Open API Initiative|OpenAPI]])**: A suite of tools for designing, documenting, and building RESTful APIs.
+> 1. **[[Swagger]] ([[emergent-innovation/Standards/The Open API Initiative|OpenAPI]])**: A suite of tools for designing, documenting, and building RESTful APIs.
 > 2. **[[Postman 1]]**: A popular tool for testing, building, and documenting APIs.
 > 3. **API Gateways**: Tools like Amazon API Gateway or Kong manage API traffic, enforce access policies, and provide monitoring and analytics.
 > 
@@ -118,7 +118,7 @@ Other API-related topics
 > 
 > 1. **[[OWASP API]] Security Top 10**: Highlights critical API security risks and offers mitigation strategies.
 > 2. **[[ISO/IEC 27001]]**: A broader standard that includes risk management practices applicable to API security.
-> 3. **[[(GDPR) General Data Protection Regulation]]**: Impacts APIs that handle personal data of EU citizens, requiring secure data processing and compliance with privacy regulations.
+> 3. **[[emergent-innovation/Policy-&-Regulation/(GDPR) General Data Protection Regulation]]**: Impacts APIs that handle personal data of EU citizens, requiring secure data processing and compliance with privacy regulations.
 > 
 > ---
 > 

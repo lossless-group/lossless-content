@@ -6,7 +6,7 @@ aliases:
   - Hackathon
 ---
 
-[[The Power of Challenges]]
+[[essays/The Power of Challenges]]
 
 
 Hi Hi Hi Hi
