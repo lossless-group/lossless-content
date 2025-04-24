@@ -1,6 +1,6 @@
 ---
-title: Ask a Model API to Perform a Task via API
-lede: Guidelines for making API calls to LLM services like Claude, GPT-4, and Groq
+title: Ask Local LLM to Generate Prompts in Metadata
+lede: Use a local LLM to generate prompt metadata for Markdown files in a content directory. This prompt is for scripting and content automation workflows.
 date_authored_initial_draft: 2025-04-14
 date_authored_current_draft: 2025-04-14
 date_authored_final_draft: null
@@ -12,16 +12,18 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
-image_prompt: "A creative digital workspace with an AI assistant analyzing markdown files, generating imaginative image prompts, and updating YAML frontmatter. Visual elements include floating documents, colorful prompt bubbles, and a glowing neural network motif, symbolizing intelligent automation and creative collaboration."
-site_uuid: 09bc5596-d875-4839-a7e2-0702bfc28d8f
+image_prompt: "A local LLM running on a developer workstation, generating structured prompt metadata. Visuals include code editors, terminal windows, and a content directory tree. The mood is technical, efficient, and focused."
+site_uuid: 8b7c7e7e-0d09-4b78-9c1c-0c9e2d7c2e7a
 tags:
   - Workflow
-  - Model-APIs
-  - API-Integration
-  - LLM-Services
+  - Local-LLM
+  - Metadata-Generation
+  - Content-Automation
 authors:
   - Michael Staton
+portrait_image: https://img.recraft.ai/4d8Y6A6t8f5s7O7b9t3b8u5b6c3a7e8d/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/5b6c3a7e-8d8b-4c7a-9e7e-0d09b7c7e7e8
 banner_image: https://img.recraft.ai/v9EIxr-J9agI3idbPoyV7EmvQwrmT7LSOTjaLSUnhJc/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/92ae5331-f163-4241-87f9-780f06dd3e07
+---
 
 # Role
 

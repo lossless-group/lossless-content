@@ -24,7 +24,7 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/Y60C5V9UuT1_PVrbHzFaAxtZbDHyiLIPsA3q-4eKt9E/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/007117ef-c0b2-4639-9227-99227d6b5d4a
-
+---
 ## Objective
 Integrate OpenGraph metadata fetching capabilities into the existing filesystem observer system to automatically fetch and update OpenGraph-related metadata in Markdown files when URLs are present.
 

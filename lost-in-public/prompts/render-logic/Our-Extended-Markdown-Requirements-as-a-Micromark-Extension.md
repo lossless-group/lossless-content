@@ -15,8 +15,8 @@ tags:
 image_prompt: A web page with a news article, with different size fonts and images, kind of jumping off the page.
 date_created: 2025-04-18
 date_modified: 2025-04-19
-banner_image: https://img.recraft.ai/qNqokSNycd9ITWXblMyqW9El1ECXNNyUuH3JkBjA8rY/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/51eca0b9-1b09-4693-95c4-b8e18c20966b
-
+portrait_image: https://img.recraft.ai/qNqokSNycd9ITWXblMyqW9El1ECXNNyUuH3JkBjA8rY/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/51eca0b9-1b09-4693-95c4-b8e18c20966b
+---
 # Prompt: Build Our Proprietary Extended Markdown Flavor as a Micromark Extension
 
 ## Executive Summary

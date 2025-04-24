@@ -18,8 +18,8 @@ tags:
   - Render-Logic
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/JW5Im_TgVD4qQCeXbbNhf3S2Px_8hDrmVPoDPMwTxDg/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/b965c261-5745-408e-b089-165baa839b5c
-
+portrait_image: https://img.recraft.ai/JW5Im_TgVD4qQCeXbbNhf3S2Px_8hDrmVPoDPMwTxDg/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/b965c261-5745-408e-b089-165baa839b5c
+---
 # Context
 
 ### Objective:

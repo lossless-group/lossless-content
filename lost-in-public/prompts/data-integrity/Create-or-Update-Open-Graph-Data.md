@@ -22,7 +22,7 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/EUi1EhjiZvELaOC8oZj4k_Y9E0EB1ToBRHglmb8Qx40/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/0e03768e-b5af-4476-a2c4-798ea0ae6629
-
+---
 # Goal:
 
 To start a build orchestrator from scrach as simple as possible, with no overly zealous validations, error corrections, or even error handlig.  

@@ -24,7 +24,7 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/jNyuOnLXz5hhe78LbjhGLka-b37d7K5tdPMe8iZqoyU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d28c8018-7a45-4386-870e-a61e990f40ec
-
+---
 # Resolving Local SVG Image Rendering Issues in Astro
 
 ## What We Were Trying to Do and Why

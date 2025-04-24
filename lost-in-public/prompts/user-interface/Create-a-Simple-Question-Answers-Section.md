@@ -21,8 +21,8 @@ tags:
 authors:
   - Michael Staton
 augmented_with: Windsurf Cascade on GPT-4.1
-banner_image: https://img.recraft.ai/ybzsU-nPmaAhcomu6-HRD7sli27RGyY9iHOpT8xoJYs/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/2a86c14b-cadf-4d96-858a-e6799f1f9c64
-
+portrait_image: https://img.recraft.ai/ybzsU-nPmaAhcomu6-HRD7sli27RGyY9iHOpT8xoJYs/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/2a86c14b-cadf-4d96-858a-e6799f1f9c64
+---
 # Goal  
 
 Design and implement a reusable Question & Answers (Q&A) section for our Astro site, following the established accordion/FAQ interaction pattern.

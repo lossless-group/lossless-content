@@ -20,7 +20,7 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/79Yv2_9WeSPdRsu9dG2AEqwabenvwKFPfaisrswYPCM/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/ad31f707-5948-4d0b-921d-44845bf0b1b3
-
+---
 # Higher-Order Objective
 
 Create a dynamic footer that is responsive and adaptive to the content of the page. 

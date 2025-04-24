@@ -21,7 +21,8 @@ tags:
   - LLM-Services
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/swATgqzYfXLzAbXlR1y87pu7d4bhR7Ly9YfP2JEova0/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d42f96ca-4c3a-47d8-afdc-135a4a28cc67
+portrait_image: https://img.recraft.ai/swATgqzYfXLzAbXlR1y87pu7d4bhR7Ly9YfP2JEova0/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d42f96ca-4c3a-47d8-afdc-135a4a28cc67
+---
 
 # Goal
 

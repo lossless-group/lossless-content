@@ -23,8 +23,8 @@ tags:
   - Rendering-Pipeline
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/aSgyk27kPn6RynW6ykOJdI7Gf3N6I5mWUtLcgvMAVsg/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/cf8eb1f9-5607-4cc9-ad08-35abcc0c877d
-
+portrait_image: https://img.recraft.ai/aSgyk27kPn6RynW6ykOJdI7Gf3N6I5mWUtLcgvMAVsg/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/cf8eb1f9-5607-4cc9-ad08-35abcc0c877d
+---
 # Constraints:
 Vocabulary Collection markdown files almost never have any metadata or frontmatter.  
 

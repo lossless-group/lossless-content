@@ -23,7 +23,7 @@ tags:
   - Best-Practices
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/BioG3iFwr_oet6tqCP5WadV3oeT-EOQiLCUJ3wG_R3s/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/40aa048a-0dd7-4d6d-b877-94578ec4a165
+portrait_image: https://img.recraft.ai/BioG3iFwr_oet6tqCP5WadV3oeT-EOQiLCUJ3wG_R3s/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/40aa048a-0dd7-4d6d-b877-94578ec4a165
 
 # Context
 We are currently trying create a build script that prepares a directory of Markdown files for publishing using Astro, the JavaScript framework for Static Site Generation. Read the full specification at `site/src/content/specs/Build-Script-Spec.md`
@@ -252,5 +252,13 @@ const CORRUPTION_PATTERNS = [
 
 
 
-
+```
+```
+```javascript
+function addClosingFrontmatterDelimiter(content) {
+  if (!content.endsWith('---\n')) {
+    content += '---\n';
+  }
+  return content;
+}
 ```

@@ -15,8 +15,8 @@ tags:
 authors:
   - Michael Staton
 image_prompt: "A magazine-style web layout with bold headlines, elegant typography, image-rich feature sections, and a balanced grid. The design evokes a premium print magazine adapted for digital, with modern UI elements and editorial flair."
-banner_image: https://img.recraft.ai/PIl0P8_VMKTDzq7WEOlQcSk9RCo9HSSqXw0BJmrUmpk/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d6bb5240-104c-4474-a282-7411908b7530
-
+portrait_image: https://img.recraft.ai/PIl0P8_VMKTDzq7WEOlQcSk9RCo9HSSqXw0BJmrUmpk/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d6bb5240-104c-4474-a282-7411908b7530
+---
 # Inspiration
 `http://127.0.0.1:4321/examples/blog-index-2`
 

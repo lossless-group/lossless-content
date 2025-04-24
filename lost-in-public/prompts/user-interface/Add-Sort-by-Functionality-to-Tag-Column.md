@@ -21,8 +21,8 @@ tags:
   - UI-Design
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/MeF_ynouDvjybXINUKr0lHlAFH-EKUCaFTs0RXp_Ly4/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/084a7787-83f0-48fc-94c8-cd9c2c70cf10
-
+portrait_image: https://img.recraft.ai/MeF_ynouDvjybXINUKr0lHlAFH-EKUCaFTs0RXp_Ly4/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/084a7787-83f0-48fc-94c8-cd9c2c70cf10
+---
 # Goal:
 
 To introduce a sorting functionality to the tag column, allowing users to sort tools by different criteria. Default criteria include: 

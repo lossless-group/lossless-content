@@ -18,7 +18,7 @@ tags: [Scripts, YAML, Error-Detection, Content-Fixes, Build-Process]
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/FxkHTss6aqMLw9hfRi_vBeYS3F_235yrcFcJs__rwus/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/77f3c44e-807b-4673-b4e3-bf3b885625e9
-
+---
 ## Executive Summary
 
 The `getKnownErrorsAndFixes.cjs` script is a critical component of our Markdown content processing pipeline. It identifies and corrects common YAML frontmatter errors that could prevent proper site generation or cause runtime issues. This script ensures content reliability without requiring manual intervention.

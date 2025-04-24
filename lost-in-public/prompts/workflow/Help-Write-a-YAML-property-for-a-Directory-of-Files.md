@@ -17,7 +17,7 @@ tags: [Workflow, YAML, AI-Creativity, Content-Automation]
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/Ywl9yl05a0q2pSCUxYVsMda8HY-qTD3zcJdAzpYtk4E/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/e28e99a8-1d34-4b53-a018-f3dc8f1c6a04
-
+---
 # Context
 
 This prompt extends the permanent conventions and workflow for writing or editing YAML frontmatter in Markdown content files throughout the content library.
