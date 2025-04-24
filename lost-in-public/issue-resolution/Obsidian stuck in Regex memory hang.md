@@ -8,7 +8,7 @@ date_first_published: null
 date_last_updated: null
 at_semantic_version: 0.0.0.1
 status: Complete
-augmented_with: Cascade AI
+augmented_with: GPT 4.1
 category: Obsidian-Troubleshooting
 site_uuid: ced41942-6cac-4627-b32b-2d0a15fe4e7b
 date_created: 2025-03-21
