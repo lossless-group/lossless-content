@@ -23,7 +23,7 @@ tags:
   - Rendering-Pipeline
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/BeTvcrLKUC9HlaxRLyvp0GAdl_-EPXj72PKERmW1UxA/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/e8f285af-3dc1-44ff-911d-ea9008c9b216
+portrait_image: https://img.recraft.ai/BeTvcrLKUC9HlaxRLyvp0GAdl_-EPXj72PKERmW1UxA/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/e8f285af-3dc1-44ff-911d-ea9008c9b216
 ---
 # Goal  
 ## High-level objective

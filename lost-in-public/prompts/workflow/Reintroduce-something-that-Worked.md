@@ -20,7 +20,7 @@ tags:
   - AI-Human-Workflow
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/6bCc0NmTSq-1O5EndSdhe9KNSZyim0MUhM9wP7HEea8/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/74e486d2-03b5-4a21-9c94-633651815653
+portrait_image: https://img.recraft.ai/6bCc0NmTSq-1O5EndSdhe9KNSZyim0MUhM9wP7HEea8/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/74e486d2-03b5-4a21-9c94-633651815653
 ---
 # Constraints
 Do not blindly copy old code.  Instead, review the parts of the code that worked and are specific to this ask.  

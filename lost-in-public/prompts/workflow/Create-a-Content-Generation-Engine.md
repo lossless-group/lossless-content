@@ -20,7 +20,7 @@ tags:
   - Workflow
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/rVftI9zBExO5QXeD8Ud70H-nvEBVC8Dn9eBJDA5mgVo/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/520f18eb-5223-4518-9a90-21555c945c10
+portrait_image: https://img.recraft.ai/rVftI9zBExO5QXeD8Ud70H-nvEBVC8Dn9eBJDA5mgVo/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/520f18eb-5223-4518-9a90-21555c945c10
 ---
 1. Create an API access config directory with files that house sample API call and response for possible Model APIs. 
 2. Set up RAG content directory structure. 
