@@ -2,8 +2,21 @@
 date_created: 2024-12-18
 date_modified: 2025-04-23
 site_uuid: 651c6e9b-c169-46d0-ac7a-65af928da319
+title: Web Security is about Idiocracy
+lede: 
+date_authored_initial_draft: 2024-12-18
+date_authored_current_draft: 2025-04-24
+at_semantic_version: 0.0.0.1
+status: To-Do
+augmented_with: Perplexica AI
+category: 
+tags:
+authors:
+  - Michael Staton
+portrait_image: 
+image_prompt: 
+banner_image:
 ---
-
 Worrying about web security in 2025 is vastly different than the doom-cycle of nail-biting anxiety and public outrage that has been going on for decades. It's almost like worrying about Cholera in the 1860s, the decade after John Snow demonstrated that Cholera is spread through unclean water sources, .[^1] We know what to do, it's just a matter of getting everyone to do it.  
 
 >The best antivirus software out there is common sense. 

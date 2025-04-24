@@ -2,8 +2,21 @@
 date_created: 2024-09-02
 date_modified: 2025-04-23
 site_uuid: 209e0f39-13de-46b3-829e-a2816d2f5aa7
+title: A Theory of Lossless Innovation
+lede: 
+date_authored_initial_draft: 2024-09-02
+date_authored_current_draft: 2025-04-24
+at_semantic_version: 0.0.0.1
+status: To-Do
+augmented_with: Perplexica AI
+category: 
+tags:
+authors:
+  - Michael Staton
+portrait_image: 
+image_prompt: 
+banner_image:
 ---
-
 >"We need better theories." -- [[Clayton Christensen]]
 
 AI has exploded into the world at gobsmacking speed. With [[OpenAI]]'s release of [[GPT-Series Models|GPT3]] in 2022, by 2025, 1/4th of all funded startups claim to be an AI startup.   

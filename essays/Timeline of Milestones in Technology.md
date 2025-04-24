@@ -2,8 +2,21 @@
 date_created: 2024-05-18
 date_modified: 2025-04-23
 site_uuid: b496cd8e-1896-4214-96d7-b1cb167d0233
+title: Timeline of Milestones in Technology
+lede: 
+date_authored_initial_draft: 2024-05-18
+date_authored_current_draft: 2025-04-24
+at_semantic_version: 0.0.0.1
+status: To-Do
+augmented_with: Perplexica AI
+category: 
+tags:
+authors:
+  - Michael Staton
+portrait_image: 
+image_prompt: 
+banner_image:
 ---
-
 1801: Joseph Jacquard invented the programmable Jacquard loom, introducing the concept of a programmable machine.
 
 1949, Claude Shannon publishes “Programming a Computer for Playing Chess”

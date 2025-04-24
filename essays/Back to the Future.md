@@ -2,8 +2,21 @@
 date_created: 2024-08-02
 date_modified: 2025-04-23
 site_uuid: 4dd251ea-2d66-42ca-ab35-1f5641f14396
+title: Back to the Future
+lede: 
+date_authored_initial_draft: 2024-08-02
+date_authored_current_draft: 2025-04-24
+at_semantic_version: 0.0.0.1
+status: To-Do
+augmented_with: Perplexica AI
+category: 
+tags:
+authors:
+  - Michael Staton
+portrait_image: 
+image_prompt: 
+banner_image:
 ---
-
 As we are living it, we often miss the radically historic shifts that are happening around us.  We miss their implications, and miss the opportunities they generate.  
 
 So let us go back to the future. 

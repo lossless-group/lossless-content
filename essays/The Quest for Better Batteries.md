@@ -2,8 +2,21 @@
 date_created: 2025-04-15
 date_modified: 2025-04-23
 site_uuid: ecd2eff9-ef1a-475f-9b30-1c33c64ae8a6
+title: The Quest for Better Batteries
+lede: 
+date_authored_initial_draft: 2025-04-15
+date_authored_current_draft: 2025-04-24
+at_semantic_version: 0.0.0.1
+status: To-Do
+augmented_with: Perplexica AI
+category: 
+tags:
+authors:
+  - Michael Staton
+portrait_image: 
+image_prompt: 
+banner_image:
 ---
-
 2023, May 10. [How Sodium-Ion Batteries May Challenge Lithium](https://youtu.be/RQE56ksVBB4?si=eKHm0ph7iuG3egdd). CNBC, [[YouTube]]
 
 https://youtu.be/BcoN2bdACGA?si=ZpW_ld6CHJAgsNUZ
