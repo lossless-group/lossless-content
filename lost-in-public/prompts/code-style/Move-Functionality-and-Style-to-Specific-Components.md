@@ -13,14 +13,12 @@ category: Prompted
 date_created: 2025-04-16
 date_modified: 2025-04-19
 image_prompt: "Abstract representation of modular UI components, each with distinct styles and icons, being assembled like building blocks in a developer's workspace."
-portrait_image: "https://img.recraft.ai/pS5J-7kmyrAjAR3El1QGwkcmZgnQ7MC0WOBNV4hJUcU/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/f8b4675d-9f3b-4033-9c2e-be797aad7121"
 publish: true
 site_uuid: 8cd0018e-1cda-4956-b7ca-600d5fa213a2
 tags: [Code-Style, Component-based Architecture, Readability, Component-Management]
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/QisGpY0GqH0HJYu4AZ_6fZ42aNF6_QRSoNfIT4wiyfg/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/a46ca94b-3170-4f97-bb20-eec3dadb0d65
----
 
 # Context
 

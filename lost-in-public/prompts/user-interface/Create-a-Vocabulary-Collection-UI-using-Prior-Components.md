@@ -13,7 +13,6 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A vocabulary collection UI using modular prior components, with interactive word cards, search and filter options, and a visually organized grid. The design is modern, educational, and user-friendly."
-portrait_image: "https://img.recraft.ai/EATUsltLFF3f_6NTh5Qhv32o-u2VDUQNK-jxPkcB__E/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/f09fdcbf-ce63-4525-911a-b3bc7eca101f"
 site_uuid: f27e393a-84d1-4bb3-b1ee-6ded41c3983b
 tags:
   - User-Interface
@@ -25,7 +24,6 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/aSgyk27kPn6RynW6ykOJdI7Gf3N6I5mWUtLcgvMAVsg/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/cf8eb1f9-5607-4cc9-ad08-35abcc0c877d
----
 
 # Constraints:
 Vocabulary Collection markdown files almost never have any metadata or frontmatter.  

@@ -13,7 +13,6 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A changelog user interface with a timeline of updates, interactive cards for each release, and filterable tags. Visual cues include icons for features and bug fixes, a clean layout, and a modern, collaborative workspace vibe."
-portrait_image: "https://img.recraft.ai/tYhFdj9JsL3o1SSu78LnrU49OeBeGneSAUIDczKojxI/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a30e65a6-f4db-4dd3-9fa4-123067a4416a"
 site_uuid: 88ad913c-b8f0-475e-ba90-abcbf71fc29b
 tags:
   - User-Interface
@@ -24,7 +23,6 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/-rXSeSJtCfOAKSoEwOcyrq2Xe4FoQFuaRAPfP0Hyvoo/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/e724c170-4236-442f-8958-2309152594b1
----
 
 # Data Flow & Component Pipeline
 

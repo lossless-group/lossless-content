@@ -12,7 +12,6 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
-portrait_image: "https://img.recraft.ai/CJV_lVr-cI5p0aRrvepxWRQV8chzHU65V47J-KNM9ks/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/820e605b-5427-4a94-add8-10e04de77071"
 image_prompt: "A developer enhancing a file observer tool to fetch and display Open Graph data, with code panels, network activity icons, and browser previews. The scene highlights automation, metadata enrichment, and real-time updates in a technical environment."
 site_uuid: 3a791e02-d25e-4a87-90d7-cefb952cf56c
 tags:
@@ -25,7 +24,6 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/Y60C5V9UuT1_PVrbHzFaAxtZbDHyiLIPsA3q-4eKt9E/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/007117ef-c0b2-4639-9227-99227d6b5d4a
----
 
 ## Objective
 Integrate OpenGraph metadata fetching capabilities into the existing filesystem observer system to automatically fetch and update OpenGraph-related metadata in Markdown files when URLs are present.

@@ -12,14 +12,12 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Documentation
 date_modified: 2025-04-19
 date_created: 2025-04-16
-portrait_image: https://img.recraft.ai/RcRXJ9AZIMRi31U7_tpXn3rs20EkWZCA3UbIqbDO3jc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a1ab7b7e-fa76-4413-ae97-696f3a9eab94
 site_uuid: 162f8c5c-ee3f-448d-97af-459cb9cee111
 tags: [Workflow]
 authors:
   - Michael Staton
 image_prompt: A column list of dates on the left, most recent on the top. On the right, the symbol representing infinite.
 banner_image: https://img.recraft.ai/H2feao--To2ggBwZw8QigMymDgdGm8iU7ZTOwY04pUQ/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/e10008d7-aaa2-417a-b1a9-535179ea8d8b
----
 
 # Purpose  # High-level goal
 Establish consistent, informative changelog entries that document changes to code and content across the project.

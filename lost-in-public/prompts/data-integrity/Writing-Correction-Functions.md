@@ -12,14 +12,12 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-19
-portrait_image: https://img.recraft.ai/bpBDjqAwaJb8Kaw629cG5OSmAGZlIcxgi6c0yy0caNk/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/5ea9d87e-6c52-4aac-af0e-0beeee466162
 site_uuid: 5f59b3c3-d003-44e8-a627-2daa9951666a
 tags: [Error-Correction, YAML-Validation, Function-Development, Build-Scripts]
 authors:
   - Michael Staton
 image_prompt: A plumber is on their knees under a sink, using a large wrench to try to fix a water leak.
 banner_image: https://img.recraft.ai/567rYk7prDkUnXPlej0MOquTIHJLX21AkJY7nhBeqw4/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/a93dcf59-615e-4a40-8ba1-5f4972a705fa
----
 
 ## Objective:
 

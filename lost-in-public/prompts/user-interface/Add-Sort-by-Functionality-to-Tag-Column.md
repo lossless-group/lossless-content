@@ -21,9 +21,7 @@ tags:
   - UI-Design
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/XGgZxsEZX358J-tltrAxVs0yJPioii9J5HPdvoEORPk/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/7f063c1c-963b-45b1-8be9-50a1e0d5e5ce
 banner_image: https://img.recraft.ai/MeF_ynouDvjybXINUKr0lHlAFH-EKUCaFTs0RXp_Ly4/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/084a7787-83f0-48fc-94c8-cd9c2c70cf10
----
 
 # Goal:
 

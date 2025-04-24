@@ -13,7 +13,6 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A reusable content collections UI structure featuring modular cards, dynamic filtering, and drag-and-drop reordering. The layout is clean, grid-based, and visually emphasizes reusability and organization."
-portrait_image: "https://img.recraft.ai/IWLuAZheKx7ZLSJUo8xwvSKPFBmPw-XWiAahAvehV2k/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/9b1d1275-9eec-45d1-aeaf-21235d74a3cb"
 site_uuid: f14d5718-3b17-420a-abb6-5efb5264e909
 tags:
   - User-Interface
@@ -25,7 +24,6 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/BeTvcrLKUC9HlaxRLyvp0GAdl_-EPXj72PKERmW1UxA/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/e8f285af-3dc1-44ff-911d-ea9008c9b216
----
 
 # Goal  
 ## High-level objective

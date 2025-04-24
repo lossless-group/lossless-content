@@ -9,7 +9,6 @@ date_modified: 2025-04-16
 at_semantic_version: 0.0.0.1
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 date_created: 2025-04-16
-portrait_image: "https://img.recraft.ai/R2jPcS3ylSmrTyIjGALxLKZMG7fqc_DrNDnW1w1kpUA/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/cc95dc04-770d-4fab-8fa4-b0288b0d4b74"
 image_prompt: "A focused developer resolving a single YAML issue in a code editor, with one highlighted error and a checklist of resolved problems. The environment is tidy, with clear visual cues of progress and attention to detail. The mood is methodical, patient, and precise."
 site_uuid: 5ed21282-2914-4f9e-a7af-44ef0a932bf6
 tags:
@@ -20,7 +19,6 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/JhDVpYAmbyhF16zZGXGM4NtESgQhyj85NgEeYEXN5hU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/a80635ac-caf5-452b-bde2-8e5a0bef71b9
----
 
 # Executive Summary
 

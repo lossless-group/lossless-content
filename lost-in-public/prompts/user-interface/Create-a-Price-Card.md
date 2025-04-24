@@ -13,7 +13,6 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A modern price card UI component with clear pricing tiers, feature checklists, and a prominent call-to-action button. The design uses soft gradients, clean lines, and visually distinct sections for each pricing option."
-portrait_image: "https://img.recraft.ai/W5knNvqT3e7EJxwAZIU3Z3Th-2OyWNcjr_U4KqWJjhk/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/e54e2262-c690-47a3-9b53-fe902fe04541"
 site_uuid: 553c54e2-ce52-4d8f-a472-91508466770d
 tags:
   - User-Interface
@@ -24,7 +23,6 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/45cFAgOhJgp43t1Vvc-g27z1C9nGyziDVsGOCCY5Krc/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/23de3e25-7106-4333-a106-88c40cdceb86
----
 
 # Inspiration Set
 A [[Pricing Card]] from [[GNews]] found at https://gnews.io/#pricing

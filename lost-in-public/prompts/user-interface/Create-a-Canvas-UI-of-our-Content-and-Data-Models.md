@@ -13,7 +13,6 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A dynamic digital canvas UI displaying interconnected content and data models as interactive nodes and links. Visual elements include drag-and-drop panels, vibrant color-coded data types, and a modern workspace with a sense of creative exploration and clarity."
-portrait_image: "https://img.recraft.ai/qe4_ZiTScfMhMRevxYRTiA6W_8qSS4N7BNQ70frXWqM/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/be2a4961-9922-49fc-b603-a05bb4112066"
 site_uuid: 8671d352-1e5e-4157-b63e-6b44e22f99c0
 tags:
   - User-Interface
@@ -24,7 +23,6 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/NC4eo2eq6hfVAxtIAYav_L9WSiUCgG5HTEsWduNVarc/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d929a011-2eee-47a9-8f08-679979be4f63
----
 
 [[emergent-innovation/Standards/JSON Canvas]]
 

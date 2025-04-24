@@ -13,7 +13,6 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A UI inspiration dashboard that pulls visual ideas from various URLs, displaying a mosaic of website screenshots, color palettes, and design notes. The interface is creative, exploratory, and visually rich."
-portrait_image: "https://img.recraft.ai/V2gGrbNfMRA-LkcR_Nu3LjVLHinakbZl2iIczsfgnBo/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/e31de2ec-44ba-4d49-811d-dc598f22c10d"
 site_uuid: 81ed24b3-1810-489d-90d3-7539e85f4f52
 tags:
   - User-Interface
@@ -24,6 +23,5 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/KU8Zm9y3JTYgP-lvBCBCj7ehxE2fMm4qX6l4x6pyrM8/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/7a00d3a9-64af-4658-abbd-9295e27b9a53
----
 
 [https://effect.website](https://effect.website/)

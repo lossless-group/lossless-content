@@ -5,7 +5,6 @@ date: 2023-11-20
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A developer configuring custom code blocks in Astro, with a code editor displaying syntax-highlighted blocks, Astro component icons, and rendered previews. The scene conveys technical depth, customization, and the seamless blending of code and content."
-portrait_image: "https://img.recraft.ai/OzYKbAeXN6_CQ6F3wn5_ypHM-OVf6-ngkrr-G_NU0Gc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/8e0ac0eb-2ded-45cc-81fb-cee06cfccdfb"
 lede: Brief description of the prompt functionality and purpose
 date_authored_initial_draft: 2025-04-16
 date_authored_current_draft: 2025-04-16
@@ -19,7 +18,6 @@ tags:
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/7m8Rm2v1ZFwj9AmAIguOay-MypKGWHfIzUTk2YCW1V4/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/eba5fc26-303d-439e-9490-16c75e461af8
----
 
 # Implement a Comprehensive Code Block Rendering System in Astro
 
