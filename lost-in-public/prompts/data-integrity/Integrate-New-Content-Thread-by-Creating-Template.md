@@ -131,21 +131,21 @@ For convenience, here's a Mermaid diagram of the logic and relationships among c
 
 ```mermaid
 graph TD
-    A[USER_OPTIONS Config\n(userOptionsConfig.ts)] --> B[FileSystemObserver\n(fileSystemObserver.ts)]
-    B --> P[propertyCollector\n(Orchestration Function)]
-    P --> D1[addSiteUUID Handler\n(handlers/addSiteUUID.ts)]
-    P --> D2[Other Operations/Services\n(handlers/remindersHandler.ts, etc.)]
+    A["USER_OPTIONS Config\n(userOptionsConfig.ts)"] --> B["FileSystemObserver\n(fileSystemObserver.ts)"]
+    B --> P["propertyCollector\n(Orchestration Function)"]
+    P --> D1["addSiteUUID Handler\n(handlers/addSiteUUID.ts)"]
+    P --> D2["Other Operations/Services\n(handlers/remindersHandler.ts, etc.)"]
     D1 --> P
     D2 --> P
-    P -->|Aggregates updates| Q[Write to Markdown File]
-    Q --> R[Session Memory\n(processedFiles Set)]
-    B --> C[Watcher(s)\n(watchers/remindersWatcher.ts, etc.)]
-    B --> G[Services\n(services/templateRegistry.ts, reportingService.ts)]
+    P -->|Aggregates updates| Q["Write to Markdown File"]
+    Q --> R["Session Memory\n(processedFiles Set)"]
+    B --> C["Watcher(s)\n(watchers/remindersWatcher.ts, etc.)"]
+    B --> G["Services\n(services/templateRegistry.ts, reportingService.ts)"]
     C --> D2
-    D2 --> E[Templates\n(templates/issue-resolution.ts, prompts.ts, etc.)]
-    D2 --> F[Utilities\n(utils/yamlFrontmatter.ts, commonUtils.ts, extractStringValueForFrontmatter.ts)]
-    G --> H[Reporting/Registry]
-    G -->|Writes Reports| J[Reports/Logs]
+    D2 --> E["Templates\n(templates/issue-resolution.ts, prompts.ts, etc.)"]
+    D2 --> F["Utilities\n(utils/yamlFrontmatter.ts, commonUtils.ts, extractStringValueForFrontmatter.ts)"]
+    G --> H["Reporting/Registry"]
+    G -->|Writes Reports| J["Reports/Logs"]
 ```
 
 ***

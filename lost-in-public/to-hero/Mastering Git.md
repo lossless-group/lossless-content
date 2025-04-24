@@ -121,3 +121,11 @@ If you already pushed, you need to override the remote commit with a new commit 
 ```bash
 git push --force-with-lease origin development
 ```
+
+```bash
+git show --name-only 751a182
+```
+
+```bash
+git -C /Users/mpstaton/code/lossless-monorepo/site log -n 3 --pretty=format:"%h - %s (%cr)" development
+```

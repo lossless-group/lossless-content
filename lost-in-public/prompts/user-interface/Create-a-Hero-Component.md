@@ -22,7 +22,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/5Q2bbmTAjxPhZB6zuu_YwSOgTun5fY7T5BVB5Wp3OOg/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/bc80b357-6312-4925-9f66-6d166c3dccdc
-
+---
 # Context
 
 The hero component will serve as the primary visual element at the top of key pages in our Astro-based site. It should be visually striking while maintaining our brand identity and supporting dark mode. The component should include smooth, performant scroll-based animations that enhance the user experience.
