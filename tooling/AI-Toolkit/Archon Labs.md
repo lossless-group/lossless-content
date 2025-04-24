@@ -8,9 +8,9 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:44:59.151Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:19:31.550Z
-date_modified: 2025-04-22
+date_modified: 2025-04-24
 date_created: 2025-03-30
-tags: [AI-Toolkit]
+tags: [AI-Toolkit, Consulting-Group]
 description_site_cp: developing advanced AI solutions that empower companies by enhancing their data and decision-making processes.
 ---
 
