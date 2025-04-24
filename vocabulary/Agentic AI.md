@@ -1,9 +1,8 @@
 ---
 date_created: 2025-03-30
-date_modified: 2025-04-12
+date_modified: 2025-04-24
 site_uuid: 8babe509-0827-4af4-bbfb-77957bf7482e
-aliases:
-  - AI Agents
+aliases: [AI Agents]
 ---
 
 [[Kestra]], [[n8n]], [[Flowise]]
