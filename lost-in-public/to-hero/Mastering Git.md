@@ -129,3 +129,11 @@ git show --name-only 751a182
 ```bash
 git -C /Users/mpstaton/code/lossless-monorepo/site log -n 3 --pretty=format:"%h - %s (%cr)" development
 ```
+
+```bash
+git diff --name-only
+```
+
+```bash
+git show
+```
