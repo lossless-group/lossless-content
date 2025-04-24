@@ -22,6 +22,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/HZRZVoxyNgAKLJjqBiJw6zhA2Qtae6lswvkV8DVa0bM/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/bf029905-038f-45d0-889f-ed6fea81128a
+banner_image: https://img.recraft.ai/V0P9HHu6yP9PL_Hbixv3fDCa8HE212-Yf7DA2f_DRzk/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/272dfb33-f184-4fea-a780-28837a5ee043
 ---
 # Write an note that leaves a breadcrumb for future Issue Resolution
 

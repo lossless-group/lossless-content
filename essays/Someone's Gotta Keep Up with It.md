@@ -1,7 +1,9 @@
 ---
 date_created: 2024-12-14
 date_modified: 2025-04-23
+site_uuid: 15bf6f3a-75e6-4095-b232-a24c3490496e
 ---
+
 [[uv]]
 [[Vite]]
 [[Vitest]]

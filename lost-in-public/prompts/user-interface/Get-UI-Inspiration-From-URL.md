@@ -23,5 +23,6 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/KU8Zm9y3JTYgP-lvBCBCj7ehxE2fMm4qX6l4x6pyrM8/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/7a00d3a9-64af-4658-abbd-9295e27b9a53
+banner_image: https://img.recraft.ai/Lq7sdwXWSW-eL0wjOvJ0BGU3JaUAXJD4l_lzrCs5Db8/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/28cd0c45-1f32-4063-b579-e6850cc3e4f2
 ---
 [https://effect.website](https://effect.website/)

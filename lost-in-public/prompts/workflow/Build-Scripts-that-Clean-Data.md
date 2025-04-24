@@ -95,6 +95,7 @@ After, we will eliminate the code in all the other scripts that try to validate 
 
 Here is an example of the corrupted YAML properties in a markdown file:
 ```yaml
+banner_image: https://img.recraft.ai/daWUF1eEMOyE3GgpGCwPNi_Aqy5PZXyS1c2O_8FmcGI/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/a52c8678-26be-4033-b1c3-434ad1b45d03
 ---
 site_uuid: "cef69788-9fe1-41d9-bb95-d9f1bd97e548"
 url: ""'https://www.skool.com/'""

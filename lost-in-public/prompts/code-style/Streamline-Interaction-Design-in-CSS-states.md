@@ -19,6 +19,7 @@ tags: [Code-Style, CSS-Architecture, Interaction-Design, Animation, Transitions,
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/umOwpC4V65wR7PMgyzKf7oOZBgk0oVvGKQWvfmZk5bU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/c04d4264-0ff3-40d9-9816-bd43f3e200bb
+banner_image: https://img.recraft.ai/_dAWJ1okHbnBqh_2anP5ANhLI5XqOHwXzna3wxVdbrw/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/68ec2f7a-98ca-429c-a49f-469094688695
 ---
 
 # Context

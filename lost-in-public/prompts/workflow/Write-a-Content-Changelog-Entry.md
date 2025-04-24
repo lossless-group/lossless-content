@@ -23,6 +23,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/9Bj27-pw6Bn6KNd3CDbFdqWHoc37NHzMobrWDLyDkiw/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/2888c28b-a4bc-440a-b342-3488d7d90605
+banner_image: https://img.recraft.ai/eXyf4H6QvqTR7JUByytDrzSTgCnTMGhV5oIytnb1W-s/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/de7b6f11-1d40-4125-be6f-cd808c483a6a
 ---
 > Option Set for 'Changelog Type':
 > 1. Code Changes (site/src/content/changelog--code)

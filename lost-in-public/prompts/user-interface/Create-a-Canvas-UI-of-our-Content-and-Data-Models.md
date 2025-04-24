@@ -23,6 +23,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/NC4eo2eq6hfVAxtIAYav_L9WSiUCgG5HTEsWduNVarc/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d929a011-2eee-47a9-8f08-679979be4f63
+banner_image: https://img.recraft.ai/-gheKQBLK6DaURFEW3QVJSWqwdeodb0R3QnxvRdmgic/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/83542252-b785-485b-8d4f-0fce53c8a11b
 ---
 [[emergent-innovation/Standards/JSON Canvas]]
 

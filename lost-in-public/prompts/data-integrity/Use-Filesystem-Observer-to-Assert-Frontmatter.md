@@ -18,6 +18,7 @@ authors:
   - Michael Staton
 image_prompt: A pair of binoculars is sitting on top of a set of filing folders.  A file cabinet is off to one side.
 portrait_image: https://img.recraft.ai/J-EpVRVHTznDMknDSKHYpUt0ks3yL_ZLNmf8dAColYI/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/78d22ffc-0573-40c3-a7e3-7680ae9d1a86
+banner_image: https://img.recraft.ai/6YWDoTM8qGUklhbVNSy6LITaAQEajd5uxnRg5XtDhqQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/90af847a-241c-4250-be5f-7be0168c035b
 ---
 ## Objective: 
 Leverage the file system libraries to observe directories for new files, insert frontmatter templates.

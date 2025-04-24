@@ -20,6 +20,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/79Yv2_9WeSPdRsu9dG2AEqwabenvwKFPfaisrswYPCM/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/ad31f707-5948-4d0b-921d-44845bf0b1b3
+banner_image: https://img.recraft.ai/nnKIxsX_PMiYRFTUrO_XJNK9j4gv_2DQ93KYujN9JBQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/119a68cd-1379-414b-b0c1-d65ca5c95260
 ---
 # Higher-Order Objective
 

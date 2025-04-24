@@ -22,6 +22,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/f6QMaKQg5AoeNO38hxEeejQkDhmwwUdTQKkDEgm7XX0/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/917cfb2f-41dc-49f8-8719-9b53ae2ff3af
+banner_image: https://img.recraft.ai/HwlWZLaEw7xh6tUKVo3QtlolPqqrhrwfyWA_-Pt_Q1c/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/919dbc7a-d8d9-499a-8e99-13102642deff
 ---
 ## Context
 We were developing a build script to be run at the `pnpm build` command, taking our code through the Astro Build Process.  Examine but do not act on that file:

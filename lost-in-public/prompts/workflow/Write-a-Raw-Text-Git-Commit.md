@@ -28,6 +28,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/TlVxuZlbstYs4LK3TVHW9fTxIlwZCk_qBXbmoukSz9k/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/92e296ea-918c-48fd-a0c0-23b3159d64fe
+banner_image: https://img.recraft.ai/fZ2fDHoqGL2vXkQVtwEUgGIFe0tL2VdszmzOncJUaxk/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/c20bceab-5e69-44b9-80df-8b7c8a3f2b6d
 ---
 # Goals
 Create a thorough yet succinct git commit message that will be used in a git commit. 

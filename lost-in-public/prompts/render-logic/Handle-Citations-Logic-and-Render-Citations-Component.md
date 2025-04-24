@@ -24,6 +24,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/pqtDq1REmUWtnTczrA7SxW9ivaB1DOfoO-x_7UsCvtI/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/5dcc5360-940e-454e-bffc-c3469cbbeabb
+banner_image: https://img.recraft.ai/P1106p6Z4z3DPWkBBvkZt4HwQBNxs6N0R89YVWN9mgM/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/d312dc7c-3e28-46c4-b490-ed7e7909fd45
 ---
 # Handle Citations in Markdown Content
 

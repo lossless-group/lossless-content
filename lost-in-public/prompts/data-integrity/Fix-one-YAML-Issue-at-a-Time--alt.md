@@ -19,6 +19,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/JhDVpYAmbyhF16zZGXGM4NtESgQhyj85NgEeYEXN5hU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/a80635ac-caf5-452b-bde2-8e5a0bef71b9
+banner_image: https://img.recraft.ai/JxlsTh8rxfCxEEdj7b7K0hJLjPHKYqyI5DQ4B3-_MMM/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/ea08024b-25bd-4d81-b8e3-b798aa445213
 ---
 # Executive Summary
 

@@ -22,6 +22,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/S01cfWsTdyzV6AKwynwQnZNSrOvMiAMYhNgDO7W-grs/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/cdbd461a-d504-4914-8dae-edb471909890
+banner_image: https://img.recraft.ai/Xx5dUjFy63ZeGwF9vnzL2CwVwh18faprwpJ7gzrPoXM/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/6710e89e-183c-4058-93d6-968f9c08eec5
 ---
 ## Objective: 
 Filter out any markdown files that have frontmatter content that could cause errors in another operation. Diagnose each error, and create a report listing all diagnosed errors. Return only files that have valid frontmatter to other functions that will perform operations on markdown files.  

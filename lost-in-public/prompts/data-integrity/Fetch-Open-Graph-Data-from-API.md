@@ -22,6 +22,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/mn4xzOqHVy3MweGmqFo8Z8quAonD_tThWSY6oGy8VL4/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/382a0d31-85e2-4221-9154-2634e94b082a
+banner_image: https://img.recraft.ai/sJV404zKCWXG95_JbaHpfAZOFsHQHUtK0rzHKI-4Ax8/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/054b177f-2c1b-4694-a498-3932d50fc9f7
 ---
 # OpenGraph Data Fetching Script Implementation Guide
 

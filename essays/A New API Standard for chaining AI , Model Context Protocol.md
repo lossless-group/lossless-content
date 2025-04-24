@@ -1,9 +1,10 @@
 ---
-tags: [Model-Context-Protocols]
-site_channel:
-  - Keeping-Up
+site_channel: Keeping-Up
 date_created: 2025-03-15
 date_modified: 2025-04-23
+site_uuid: ca6eed65-4ae5-4c20-bb47-efbcaa5d2524
+tags:
+  - Model-Context-Protocols
 ---
 
 Related: [[concepts/Explainers for AI/Model Context Protocol]], [[Anthropic]], [[concepts/Explainers for AI/Chain of Draft]]

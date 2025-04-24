@@ -18,6 +18,7 @@ authors:
   - Michael Staton
 image_prompt: A page of code on the left, a web page on the right.
 portrait_image: https://img.recraft.ai/wfdexSsKfkKQm0RQGDhBaVlEaPFsqsSiBrD50Al0KBM/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/fb6248f2-133f-4294-9093-75d65c16c676
+banner_image: https://img.recraft.ai/Kg7_6BQCBUb_7OHcNqf8Hpiyc33mb2kwqRgYFIAvs-A/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/ec0e9b36-72c8-4746-aa96-a7768c75ee11
 ---
 # Dynamic Information Page Rendering in Astro
 

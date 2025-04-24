@@ -1,7 +1,9 @@
 ---
 date_created: 2024-09-02
 date_modified: 2025-04-23
+site_uuid: 209e0f39-13de-46b3-829e-a2816d2f5aa7
 ---
+
 >"We need better theories." -- [[Clayton Christensen]]
 
 AI has exploded into the world at gobsmacking speed. With [[OpenAI]]'s release of [[GPT-Series Models|GPT3]] in 2022, by 2025, 1/4th of all funded startups claim to be an AI startup.   

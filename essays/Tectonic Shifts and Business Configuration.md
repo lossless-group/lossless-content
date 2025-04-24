@@ -1,6 +1,7 @@
 ---
 date_created: 2025-04-15
 date_modified: 2025-04-23
+site_uuid: d8b5b5b7-5ae4-4238-9b37-a9130d647437
 ---
 
 [[Enabling Technology Accelerants]] 

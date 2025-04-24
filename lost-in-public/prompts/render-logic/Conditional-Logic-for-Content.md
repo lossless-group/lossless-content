@@ -19,6 +19,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/JgIyURKxi_VnG5cM6xQSNuE1ClkH3ZTckuGvevkfJFk/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/ca73a923-6834-4092-879c-24da549097a7
+banner_image: https://img.recraft.ai/R8imj_g_aNqvBiSzpOfjX60Ez8ZzfJWFc2YyooUlRZ8/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/c7091772-75c7-4cbc-82a9-2e2b7eb0c949
 ---
 ## The 'status' property values
 
