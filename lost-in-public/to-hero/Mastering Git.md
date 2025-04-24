@@ -34,6 +34,14 @@ In your case, since you've already added `.DS_Store` to this global file, Git 
 
 Feedback submitted
 
+```bash
+git log -1 --stat
+```
+
+```bash
+git log -1 --patch
+```
+
 Generating...
 
 ```bash
