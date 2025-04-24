@@ -12,8 +12,8 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
+banner_image: https://img.recraft.ai/dNjC71HZTzhuGsVvZr7XPTmU5hs1U913AIyJ2qzKBBU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/cce8391e-96bf-4f25-aee5-1cf825546b78
 image_prompt: "A code changelog entry UI with structured sections for features, fixes, and improvements. Visuals include version tags, code snippets, and a collaborative editing space, symbolizing organized code history tracking."
-portrait_image: "https://img.recraft.ai/tA0aCSdbZt-iuxg-j0atj7Q9Hwi7lQH9OQtT-ywGy_I/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/22a14c22-ecbd-43f7-8436-04e7b4a3c16e"
 site_uuid: fe4fbbd8-79d7-49ce-90a0-4d027424ec28
 tags:
   - Changelog
@@ -22,7 +22,6 @@ tags:
   - Code-Changes
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/dNjC71HZTzhuGsVvZr7XPTmU5hs1U913AIyJ2qzKBBU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/cce8391e-96bf-4f25-aee5-1cf825546b78
 ---
 
 > Option Set for 'Changelog Type':

@@ -57,7 +57,7 @@ interface ChangelogEntry {
 graph TD
     A[Markdown Files] --> B[Content Collections]
     B --> C[changelog.astro]
-    B --> D[/log/[entry].astro]
+    B --> D["/log/[entry].astro"]
     C --> E[ArticleListColumn]
     D --> F[ChangelogEntryPage]
     E --> G[ChangelogEntry]

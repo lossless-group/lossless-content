@@ -3,18 +3,18 @@ title: Suggest a Non-Destructive Refactor
 lede: Provide recommendations for improving code organization and structure while preserving functionality and maintaining existing patterns
 date_authored_initial_draft: 2025-04-15
 date_authored_current_draft: 2025-04-15
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft: 
+date_first_published: 
+date_last_updated: 
 at_semantic_version: 0.0.0.1
 status: Prompted
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
-date_modified: 2025-04-19
-image_prompt: "A thoughtful developer reviewing code and suggesting improvements, surrounded by branching diagrams and preserved legacy code, symbolizing careful, non-destructive refactoring."
+date_modified: 2025-04-23
+image_prompt: A thoughtful developer reviewing code and suggesting improvements, surrounded by branching diagrams and preserved legacy code, symbolizing careful, non-destructive refactoring.
 site_uuid: a41c3eaa-5ce4-4773-a8b8-4666990571f4
-tags: [Code-Style, Refactor, Code-Quality, Maintainability]
+tags: [Code-Style, Code-Quality, Maintainability, Refactoring]
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/tAHiPbpq3D5VqxnwgeSoUee2V44GsyHBdguUjushaUU/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/ed1a0f67-8433-412d-9195-81a65ca654d4
