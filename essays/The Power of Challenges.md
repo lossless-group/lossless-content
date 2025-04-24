@@ -2,8 +2,21 @@
 date_created: 2025-04-18
 date_modified: 2025-04-23
 site_uuid: 3d3fe5bb-d088-4cca-871b-4ed2e9b7ad2b
+title: The Power of Challenges
+lede: 
+date_authored_initial_draft: 2025-04-18
+date_authored_current_draft: 2025-04-24
+at_semantic_version: 0.0.0.1
+status: To-Do
+augmented_with: Perplexica AI
+category: 
+tags:
+authors:
+  - Michael Staton
+portrait_image: 
+image_prompt: 
+banner_image:
 ---
-
 Alexander Graham Bell may have been pursuing the [[emergent-innovation/Examples/Volta Prize]].  
 James Clerk Maxwell may have been pursuing the [[emergent-innovation/Examples/Adams Prize]].
 
