@@ -12,9 +12,11 @@ https://youtu.be/w5Wr3j4h_1I?si=MkvjqMt3xPbBZjUL
 | world | hello |
 
 
-Talking with Tanuj [6] (https://www.linkedin.com/pulse/critique-agile-navigating-challenges-popular-seif-radwan-zjrlf)
+This uses citationReference [6] (https://www.linkedin.com/pulse/critique-agile-navigating-challenges-popular-seif-radwan-zjrlf)
 
+This, on the otherhand, is uses footnoteReference[^1]
 
+[^1]: Reference
 
 [[Vocabulary/Software Development|Software Development]]
 [[Vocabulary/Engineering Management|Engineering Management]]
@@ -208,3 +210,4 @@ A backlink to [[vocabulary/Affinity Network]]
 
 ---
  Answer from Perplexity: pplx.ai/share
+
