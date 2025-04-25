@@ -1,9 +1,8 @@
 ---
 date_created: 2025-03-28
-date_modified: 2025-04-12
+date_modified: 2025-04-25
 site_uuid: e19819a2-cba0-4498-b8e0-2a0e8d60b409
-aliases:
-  - AI Native
+aliases: [AI Native]
 ---
 
 [[Bricks 1]] is challenging [[Tooling/Products/Excel]] by being [[AI Native Applications|AI Native]]

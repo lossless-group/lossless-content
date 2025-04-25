@@ -1,6 +1,7 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-03-21
+date_modified: 2025-04-24
+site_uuid: 2c0a62a4-1cfe-43ed-b699-7a3d32062316
 ---
 
 Becoming a platform is, first and foremost, a mindset and cultural shift within an organization.  

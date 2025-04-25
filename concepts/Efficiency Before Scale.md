@@ -1,3 +1,9 @@
+---
+site_uuid: a720cb08-a47b-4478-9397-cf9bab81811b
+date_created: 2025-04-18
+date_modified: 2025-04-24
+---
+
 
 Organizations that hire in a manner that could cynically be called "throwing bodies at problems" often end up in cyclical cash crunches due to inflated payroll obligations. In the long run, they lose competitiveness to companies that achieve more efficiency.
 

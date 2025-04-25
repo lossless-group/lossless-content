@@ -1,3 +1,9 @@
+---
+site_uuid: 8441c04c-89ae-4df8-8842-15b25ac2608a
+date_created: 2025-04-18
+date_modified: 2025-04-24
+---
+
 
 ![[Pasted image 20250118131612.png]]
 

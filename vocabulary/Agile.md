@@ -12,6 +12,8 @@ https://youtu.be/w5Wr3j4h_1I?si=MkvjqMt3xPbBZjUL
 | world | hello |
 
 
+Talking with Tanuj [6] (https://www.linkedin.com/pulse/critique-agile-navigating-challenges-popular-seif-radwan-zjrlf)
+
 
 
 [[Vocabulary/Software Development|Software Development]]

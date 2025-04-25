@@ -1,3 +1,9 @@
+---
+site_uuid: ff1a314a-1da3-4c41-8f45-b3a1f73f2676
+date_created: 2025-04-18
+date_modified: 2025-04-24
+---
+
 Because [[concepts/Data Fluidics|data wants to become fluid]] through an explosion of [[REST API|REST APIs]], [[One-Click Integrations]], etc, it's becoming more important to think about the synergies that can be unlocked from [[concepts/Stack Compatibility]].
 
 [[Market Standard|Market Standards]] tend to emerge around [[Market Leaders]] that become a central node in the market network. They are also often created and/or maintained through [[Standards Organizations]], [^1] or emerge around [[Open Source]] initiatives. [^2]  

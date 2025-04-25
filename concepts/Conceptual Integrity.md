@@ -1,3 +1,9 @@
+---
+site_uuid: a8e04338-947d-4a4f-a00e-bae8e5e5f851
+date_created: 2025-04-18
+date_modified: 2025-04-24
+---
+
 Related to [[Software Development]], [[Agile]], [[Design Patterns]]
 
 > [!NOTE] [[organizations/Perplexity AI]] explains: 

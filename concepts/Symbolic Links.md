@@ -1,9 +1,9 @@
 ---
 date_created: 2025-03-20
-date_modified: 2025-03-21
-wikipedia_url: https://en.wikipedia.org/wiki/Symbolic_link
+date_modified: 2025-04-24
+wikipedia_url: 'https://en.wikipedia.org/wiki/Symbolic_link'
+site_uuid: 78de7906-6259-4770-a870-41dd5f504159
 ---
-
 
 Uses of Symbolic Links:
 

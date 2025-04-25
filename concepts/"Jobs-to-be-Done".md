@@ -1,3 +1,9 @@
+---
+site_uuid: 6f78cefa-18d6-4bdf-8f56-d5e19b42ad5e
+date_created: 2025-03-30
+date_modified: 2025-04-24
+---
+
 
 A key element of[[Clayton Christensen]]'s theory of [[Disruptive Innovation]], explained across several key books.  
 

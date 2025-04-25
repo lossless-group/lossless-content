@@ -1,11 +1,10 @@
 ---
+date_created: 2025-03-04
+date_modified: 2025-04-24
+site_uuid: 435dad66-b77d-493a-a61d-678f3f738480
 aliases:
   - Database
-date_created: 2025-03-04
-date_modified: 2025-03-19
 ---
-
-
 
 Many of the new database options are derivative of the handful of original open source databases, like [[MySQL]] and [[Postgres]], with most of the momentum going to [[Postgres]].
 

@@ -1,3 +1,9 @@
+---
+site_uuid: e7ae8820-095b-4663-94dd-ea782ed8b1b5
+date_created: 2025-03-30
+date_modified: 2025-04-24
+---
+
 
 Tools like [[Fast API]]. 
 

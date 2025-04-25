@@ -1,9 +1,13 @@
 ---
+site_uuid: 3b205a7a-830a-4521-a44c-bf0dc159d73e
+date_created: 2025-04-18
+date_modified: 2025-04-24
 aliases:
   - CD
   - CI
   - CI/CD
 ---
+
 [[BitBucket]]
 [[Nx]]
 [[GitKraken]]

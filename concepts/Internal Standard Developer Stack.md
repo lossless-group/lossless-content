@@ -1,3 +1,9 @@
+---
+site_uuid: 68b7a2e7-ac77-485b-8c0a-f00bfc8c11f8
+date_created: 2025-03-30
+date_modified: 2025-04-24
+---
+
 
 According to [[Poe AI]]:
 
