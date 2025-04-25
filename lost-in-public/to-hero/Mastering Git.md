@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-04-24
+date_modified: 2025-04-25
 ---
 
 ```bash
@@ -136,4 +136,8 @@ git diff --name-only
 
 ```bash
 git show
+```
+
+```bash
+git submodule update --remote
 ```

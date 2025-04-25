@@ -1,3 +1,7 @@
+# Any hidden files from content management systems
+
+.obsidian
+
 # macOS system files
 .DS_Store
 .AppleDouble
