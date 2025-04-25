@@ -6,16 +6,11 @@ authors:
   - Michael Staton
 publish: true
 category: Technical Specifications
-tags:
-  - Publication
-  - Content-Management
-  - Filesystem-Observer
-  - Astro
-  - Automation
+tags: [Content-Management, Astro, Automation, Filesystem-Observers]
 date_created: 2025-04-12
-date_modified: 2025-04-12
+date_modified: 2025-04-25
 site_uuid: 550e8400-e29b-41d4-a716-446655440000
-image_prompt: "A high-tech assembly line with documents moving through various quality checkpoints, ending in a polished, published article. The image conveys reliability, automation, and editorial excellence."
+image_prompt: A high-tech assembly line with documents moving through various quality checkpoints, ending in a polished, published article. The image conveys reliability, automation, and editorial excellence.
 banner_image: https://img.recraft.ai/TxR0LZ1ppUliGTrwYIbaSdll-VVVRgw2TaROAx5WNGs/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/fd1da19e-dcff-4a27-aaed-d52f16a6ca3e
 ---
 

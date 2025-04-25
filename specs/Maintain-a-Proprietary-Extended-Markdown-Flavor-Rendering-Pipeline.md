@@ -12,15 +12,10 @@ status: Draft
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Technical Specifications
 date_created: 2025-04-16
-date_modified: 2025-04-16
+date_modified: 2025-04-25
 image_prompt: "A pipeline of documents passing through various transformation stages, with icons for custom Markdown features. The scene is innovative and technical, illustrating advanced content processing."
 site_uuid: bc4e5951-73e6-4e3c-a64a-d298185c0321
-tags:
-  - Render-Logic
-  - Astro
-  - Markdown-Enhancement
-  - Custom-Rendering
-  - Content-Display
+tags: [Render-Logic, Astro, Markdown-Enhancement, Custom-Rendering, Content-Display]
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/ZuMoPafOOcwR-D7XH9Qi9TOsFAXFMjnbt6SL75VcNdE/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/b7dc63d3-7728-425d-81a1-fa8aa8f3209b

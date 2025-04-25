@@ -11,16 +11,10 @@ status: Implementation
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
-date_modified: 2025-04-16
+date_modified: 2025-04-25
 image_prompt: "A creative workspace where markdown is rendered with intention, featuring a code editor, inspirational notes, and a preview pane showing beautifully formatted content. The mood is thoughtful, artistic, and focused on purposeful design."
 site_uuid: bc63aecf-84da-4183-81cc-f69176cf0602
-tags:
-  - Render-Logic
-  - Remark
-  - Astro
-  - Build-Scripts
-  - Extended-Markdown
-  - AST
+tags: [Render-Logic, Remark, Astro, Build-Scripts, Extended-Markdown, AST]
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/cN7JYvHeXDMPpdgoU6kNN7cpyQSkRmJ40cmOniSDPDE/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/de789a39-3b68-4b5d-87ab-c7dfd26aa0bb

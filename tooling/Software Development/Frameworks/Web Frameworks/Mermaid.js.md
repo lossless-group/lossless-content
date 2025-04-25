@@ -10,13 +10,14 @@ image: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/4628814d9f
 jina_last_request: 2025-03-09T06:45:15.272Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:20:56.425Z
-date_modified: 2025-04-24
+date_modified: 2025-04-25
 date_created: 2025-03-30
 tags: [Software-Development, Frameworks, Documentation-Engines, Visual-Engineering, JavaScript-Ecosystem]
 github_repo_url: https://github.com/mermaid-js/mermaid
 github_profile_url: https://github.com/mermaid-js
 ---
 
+GitHub natively supports Mermaid diagrams in Markdown files (like README.md, issues, and PRs), and renders them as SVG diagrams when you view those files on github.com.
 
 
 
