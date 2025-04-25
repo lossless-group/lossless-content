@@ -1,3 +1,9 @@
+---
+site_uuid: f5d58958-5864-4c1c-af21-3ad9041edd6b
+date_created: 2025-04-18
+date_modified: 2025-04-24
+---
+
 
 ### Tools for Product Development
 Include [[Linear]], [[Whimsical]], [[Graphite]]

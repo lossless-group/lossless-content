@@ -1,7 +1,10 @@
 ---
-aliases: [Collaborative Documents, Documents Reimagined]
 date_created: 2025-03-31
-date_modified: 2025-04-15
+date_modified: 2025-04-24
+site_uuid: 01214966-d758-4ccf-9c69-192c0ebbcd14
+aliases:
+  - Collaborative Documents
+  - Documents Reimagined
 ---
 
 [[concepts/Explainers for Tooling/Advanced Documents]], alternately called [[concepts/Explainers for Tooling/Advanced Documents|Collaborative Documents]], or [[concepts/Explainers for Tooling/Advanced Documents|Documents Reimagined]] is a very dynamic, rapidly evolving set of tools that leap out from traditional personal productivity applications, notably Microsoft Word.  

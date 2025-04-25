@@ -1,3 +1,9 @@
+---
+site_uuid: d83cda25-a473-461f-9c59-17bbc1c3e719
+date_created: 2025-03-30
+date_modified: 2025-04-24
+---
+
 
 As discussed in our definition of a startup, startups must simultaneously develop 5 interdependent dimensions: Customer, Product, Team, Business Model and Financials.  “The art of high growth entrepreneurship is to master the chaos of getting each of these 5 dimensions to move in time and concert with one another. Most startup failures can be explained by one or more of these dimensions falling out of tune with the others.”
 

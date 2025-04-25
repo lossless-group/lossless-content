@@ -1,3 +1,9 @@
+---
+site_uuid: 984b25dd-9699-455a-9182-4280d5ec2461
+date_created: 2025-04-18
+date_modified: 2025-04-24
+---
+
 ### The Coherence Hit List
 [[concepts/Coherence]] almost universally has the following observed features: 
 Clear [[concepts/API First]] and [[Documentation First Development|Documentation First]] development with [[Service-Oriented Architecture]].  

@@ -1,3 +1,9 @@
+---
+site_uuid: d12ea940-6035-44e8-b5ce-9b30cab09914
+date_created: 2025-04-18
+date_modified: 2025-04-24
+---
+
 
 ![[concepts/Cognitive, Collaborative Tooling]]
 

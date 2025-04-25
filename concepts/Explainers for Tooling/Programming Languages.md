@@ -1,8 +1,10 @@
 ---
+site_uuid: b1414bca-37db-4c6f-8260-a80853ac2e72
+date_created: 2025-03-30
+date_modified: 2025-04-24
 aliases:
   - Programming Language
 ---
-
 
 The market-standard, never going anywhere languages are [[Python]] and [[JavaScript]]. 
 

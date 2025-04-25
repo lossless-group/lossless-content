@@ -10,7 +10,7 @@ at_semantic_version: 0.0.2.5
 generated_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Technical-Specification
 date_created: 2025-04-16
-date_modified: 2025-04-24
+date_modified: 2025-04-25
 status: In-Progress
 site_uuid: a065f528-1a6e-4e05-93e6-e72f00c7364b
 tags: 
@@ -173,6 +173,7 @@ graph TD
 ***
 
 ### Property Collector Architecture
+```mermaid
 graph TD
     A[File System Event] --> B[FileSystemObserver]
     U[User Options Config] -->|Configure| B
@@ -203,7 +204,7 @@ graph TD
     B -->|Log activity| RP[ReportingService]
     RP -->|Generate| RR[Markdown Reports]
 
-
+```
 
 ## 3. Reporting: The Heart of Trust
 
@@ -223,6 +224,7 @@ graph TD
   - Follow a markdown template with frontmatter for traceability
 
 ### Example Report Structure
+
 ```markdown
 ---
 title: Filesystem Observer Report
@@ -245,7 +247,6 @@ observer_version: 0.2.0
     - Missing required: authors (auto-added)
 
 ## /absolute/path/to/file2.md
-...
 
 # Conversion Map
 | Property | Before | After |
@@ -256,9 +257,10 @@ observer_version: 0.2.0
 # Observer Activity Log
 - 15:21:02 Processed [[/path/to/file1.md|file1]]
 - 15:21:03 Processed [[/path/to/file2.md|file2]]
-...
 
----
+```
+
+
 
 ## 4. Implementation Roadmap
 

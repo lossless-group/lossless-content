@@ -1,3 +1,9 @@
+---
+site_uuid: 9df111b7-3aaf-4846-92e5-cec8582c1bbc
+date_created: 2025-04-18
+date_modified: 2025-04-24
+---
+
 A [[concepts/Lossless]] artifact, part of the [[concepts/CARBS]] framework. 
 
 An example of a visualization of [[concepts/CARBS/Decision Trees]]:

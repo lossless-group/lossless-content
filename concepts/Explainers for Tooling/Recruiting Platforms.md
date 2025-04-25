@@ -1,7 +1,11 @@
 ---
+site_uuid: 647de043-301a-4e3b-8b45-c1e72504035c
+date_created: 2025-04-18
+date_modified: 2025-04-24
 aliases:
   - Recruiting Platform
 ---
+
 [[organizations/Perplexity AI]] explains [[concepts/Explainers for Tooling/Recruiting Platforms]]
 Modern companies utilize recruiting platforms to streamline hiring, reach diverse talent pools, and gain a competitive edge. Here's an overview:
 

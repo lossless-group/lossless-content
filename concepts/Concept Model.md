@@ -1,3 +1,9 @@
+---
+site_uuid: f2c15c60-5289-4237-b399-6a32ddabe228
+date_created: 2025-04-18
+date_modified: 2025-04-24
+---
+
 According to [[Poe AI]]:
 
 [[The Lossless Group]] proposes a higher-level abstraction on top of a data model and a content model.  We call this the [[concepts/Concept Model]].

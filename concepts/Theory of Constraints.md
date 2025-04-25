@@ -1,6 +1,10 @@
 ---
-url: https://en.wikipedia.org/wiki/Theory_of_constraints
+url: 'https://en.wikipedia.org/wiki/Theory_of_constraints'
+site_uuid: 2e3084da-dd6e-47b7-9289-02b66d379022
+date_created: 2025-03-30
+date_modified: 2025-04-24
 ---
+
 According to [[Poe AI]]:
 
 > [!AI describes the Theory of Constraints]
