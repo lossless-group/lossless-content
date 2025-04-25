@@ -1,25 +1,20 @@
 ---
-title: 'An Exhaustive list of content YAML patterns.'
-lede: 'Never repeat yourself—reference this comprehensive guide to all frontmatter YAML patterns for bulletproof data integrity and automation.'
+title: An Exhaustive list of content YAML patterns.
+lede: Never repeat yourself—reference this comprehensive guide to all frontmatter YAML patterns for bulletproof data integrity and automation.
 date_authored_initial_draft: 2025-03-24
 date_authored_current_draft: 2025-04-12
-date_authored_final_draft: null
-date_first_published: null
+date_authored_final_draft: 
+date_first_published: 
 at_semantic_version: 0.0.0.1
 status: Routine
-augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
-image_prompt: 'A robot at a giant clipboard, checking off a massive list of YAML patterns, surrounded by digital checklists and automation icons—symbolizing thoroughness and precision.'
+image_prompt: A robot at a giant clipboard, checking off a massive list of YAML patterns, surrounded by digital checklists and automation icons—symbolizing thoroughness and precision.
 date_created: 2025-03-24
-date_modified: 2025-04-12
+date_modified: 2025-04-25
 site_uuid: 1988ee9d-a35a-4540-9a23-9f8bc39995c0
 portrait_image: https://img.recraft.ai/78dIIjG98eqqgmnDd22Hp_4wnoFYDCmx9DCglNKOylE/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/bc94784a-de70-4ec7-86f8-96fc4b33d717
-tags:
-  - Workflow
-  - File-Observers
-  - YAML-Handling
-  - YAML-Conventions
-  - Bug-Prevention
+tags: [Workflow, YAML-Handling, YAML-Conventions, Bug-Prevention, Filesystem-Observers]
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/ah7upfY9apXMhHLVhPEAYBXFDJPvUFSHW97pk_ab9kw/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/1cd7454f-2c04-42d8-b8c4-a933b5672d17

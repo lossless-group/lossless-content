@@ -3,26 +3,18 @@ title: Enhanced Filesystem Observer with Prompts and Specifications Support
 lede: Extend the filesystem observer to monitor prompts and specifications directories, validating frontmatter against templates and preparing for publication
 date_authored_initial_draft: 2025-03-15
 date_authored_current_draft: 2025-04-12
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft: 
+date_first_published: 
+date_last_updated: 
 at_semantic_version: 0.3.0.0
 status: To-Implement
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
-date_modified: 2025-04-16
-image_prompt: "A system observer dashboard visualizing real-time file changes and prompt metadata updates, with animated folder icons, notification badges, and code snippets. The atmosphere is dynamic, technical, and focused on automation and monitoring."
+date_modified: 2025-04-25
+image_prompt: A system observer dashboard visualizing real-time file changes and prompt metadata updates, with animated folder icons, notification badges, and code snippets. The atmosphere is dynamic, technical, and focused on automation and monitoring.
 site_uuid: 219ae97c-b07a-41cb-9efd-076f48caf783
-tags:
-  - Filesystem-Observer
-  - Frontmatter
-  - YAML
-  - Validation
-  - Prompts
-  - Specifications
-  - Content-Management
-  - Metadata
+tags: [Frontmatter, YAML, Content-Management, Metadata, Filesystem-Observers]
 authors:
   - Michael Staton
 banner_image: https://img.recraft.ai/QN9nkDjWEKXJBNaz-jvLSxfx5Ch8CrnRYFw0NQpEgEQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/b0bddfc5-33f2-4f53-bfff-e7e6f7b836fe

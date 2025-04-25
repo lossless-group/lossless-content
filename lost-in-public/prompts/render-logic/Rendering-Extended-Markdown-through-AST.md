@@ -11,17 +11,10 @@ status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
-date_modified: 2025-04-16
+date_modified: 2025-04-25
 image_prompt: "A developer visualizing markdown rendering through an abstract syntax tree (AST), with code diagrams, node connections, and rendered content previews. The mood is technical, insightful, and focused on the transformation of structured data."
 site_uuid: 6a2855a4-ce1e-45c3-8734-7826c30b6fb1
-tags:
-  - Render-Logic
-  - Remark
-  - Astro
-  - Build-Scripts
-  - Extended-Markdown
-  - AST
-  - Citations
+tags: [Render-Logic, Remark, Astro, Build-Scripts, Extended-Markdown, AST, Citations]
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/q0HQF-uzFeb0PQ0xmdJ6Cm82Hv3GzWFEEXWQb4rtj_A/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/5915cca2-bb4a-4c7a-b0a6-f0b94066d2d3

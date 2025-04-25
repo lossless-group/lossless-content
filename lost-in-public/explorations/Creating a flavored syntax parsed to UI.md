@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-03-21
+date_modified: 2025-04-25
 ---
 ###### Map of Related Content
 - **Concepts: [[concepts/Flavored Syntax|Flavored Syntax]],  [[emergent-innovation/Standards/Markdown|Markdown]], [[Vocabulary/Markup]], [[Vocabulary/Text Parsing]]
@@ -17,11 +17,13 @@ date_modified: 2025-03-21
 I will probably need the following dedicated sections:
 1. Figures
 2. Images
+	1. Wikilink Images
 3. Asides
 4. Slides
 5. Media
 6. Cites and Citations
 7. Footnotes
+8. Collapsed Sections
 ---
 ### Inventing custom Dynamic Variables
 
@@ -44,3 +46,23 @@ TIPS,
 @SPEAKS::
 
 ---
+# Examples
+
+[Github Advanced Formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/)
+
+- [Collapsed Sections](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections): 
+```html
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+</details>
+```
+
+

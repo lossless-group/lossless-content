@@ -3,9 +3,9 @@ title: Filesystem Observer for Consistent Metadata in Markdown Files
 lede: Let content teams develop content. Handle frontmatter inconsistencies gracefully for a seamless user experience.
 date_authored_initial_draft: 2025-04-16
 date_authored_current_draft: 2025-04-24
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft: 
+date_first_published: 
+date_last_updated: 
 at_semantic_version: 0.0.2.5
 generated_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Technical-Specification
@@ -13,10 +13,10 @@ date_created: 2025-04-16
 date_modified: 2025-04-25
 status: In-Progress
 site_uuid: a065f528-1a6e-4e05-93e6-e72f00c7364b
-tags: [Filesystem-Observer, Frontmatter-Consistency, Data-Integrity, Metadata-Consistency, Content-Integrity, Content-Automation]
+tags: [Frontmatter-Consistency, Data-Integrity, Metadata-Consistency, Content-Integrity, Content-Automation, Filesystem-Observers]
 authors:
   - Michael Staton
-image_prompt: "A robotic eye scanning folders and files, overlaying metadata tags and consistency checks. The visual is futuristic, emphasizing vigilance and automated oversight."
+image_prompt: A robotic eye scanning folders and files, overlaying metadata tags and consistency checks. The visual is futuristic, emphasizing vigilance and automated oversight.
 banner_image: https://img.recraft.ai/A1bjY-BDZAn8v0q1M6t3Bum-SR9s2xlPli-Hm2xI_dg/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/74bebcac-ae77-4669-9453-1ac84bf9f42a
 ---
 
