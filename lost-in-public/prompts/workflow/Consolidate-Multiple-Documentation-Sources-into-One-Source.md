@@ -11,13 +11,9 @@ status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-20
-date_modified: 2025-04-20
+date_modified: 2025-04-25
 image_prompt: "Several documents are at the top of the image, curved arrows point from each document into a filter icon.  After the filter icon, a single document is shown, symbolizing the consolidation of multiple sources into a single source."
-tags:
-  - Workflow
-  - Prompt-Engineering
-  - Documentation
-  - Best-Practices
+tags: [Workflow, Prompt-Engineering, Documentation, Best-Practices]
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/-xWlkAFY0hFV3EudlJpo9CnbMHsNK7BYJusu9XYe5ws/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/f3b17ec4-6ea5-40b3-bad4-fca651eecb2f

@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-20
-date_modified: 2025-03-26
+date_modified: 2025-04-25
 ---
 # Continuous Integration Workflow
 This workflow was recommended by [[Tooling/AI-Toolkit/Generative AI/Code Generators/Warp|Warp]] an [[concepts/Explainers for AI/AI Terminal Assistant]]
@@ -545,6 +545,46 @@ Description:
 To Git change a commit message in the command line, you can use:
 
  `git commit --amend -m “new commit message”`
+
+# Git Modules
+```text
+[submodule "ai-labs"]
+    path = ai-labs
+    url = git@github.com:lossless-group/lossless-ai-labs.git
+    branch = development
+[submodule "content"]
+	path = content
+	url = git@github.com:lossless-group/lossless-content.git
+	branch = development
+[submodule "data"]
+	path = data
+	url = git@github.com:lossless-group/lossless-data.git
+	branch = development
+[submodule "docs"]
+	path = docs
+	url = git@github.com:lossless-group/lossless-docs.git
+	branch = development
+[submodule "site"]
+	path = site
+	url = git@github.com:lossless-group/lossless-site.git
+	branch = development
+[submodule "tidyverse"]
+	path = tidyverse
+	url = git@github.com:lossless-group/lossless-tidyverse.git
+	branch = development
+[submodule "site_archive"]
+	path = site_archive
+	url = git@github.com:lossless-group/lossless-site-archive.git
+	branch = development
+[submodule "mdbook"]
+	path = mdbook
+	url = https://github.com/rust-lang/mdBook.git
+[submodule "md-cookbook"]
+	path = md-cookbook
+	url = https://github.com/lossless-group/lossless-cookbook.git
+	branch = development
+
+```
 
 # Footnotes
 ***
