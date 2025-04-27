@@ -7,12 +7,19 @@ title: Open source background jobs with no timeouts.
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/23b2ced502ed35435b02845d2a6961a0b648856905044f1cd5eeaeafd43a1945.jpeg
 jina_last_request: 2025-03-09T06:45:13.616Z
 jina_error: Error occurred
-og_last_fetch: 2025-03-07T05:19:02.912Z
+og_last_fetch: '2025-03-07T05:19:02.912Z'
 date_modified: 2025-04-27
 date_created: 2025-03-30
-tags: [Software-Development, DevOps, Agentic-Ai, IPaaS, Workflow-Automation]
 description_site_cp: Write workflows in normal async code and we'll handle the rest, from queues to elastic scaling. No timeouts, retries, observability, and zero infrastructure to manage.
 zinger: Background jobs& AI infrastructure
+date_modified: 2025-04-27
+date_created: 2025-03-30
+tags:
+  - Software-Development
+  - DevOps
+  - Agentic-Ai
+  - IPaaS
+  - Workflow-Automation
 ---
 
 
