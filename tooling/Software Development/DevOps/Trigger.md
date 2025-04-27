@@ -12,8 +12,6 @@ date_modified: 2025-04-27
 date_created: 2025-03-30
 description_site_cp: Write workflows in normal async code and we'll handle the rest, from queues to elastic scaling. No timeouts, retries, observability, and zero infrastructure to manage.
 zinger: Background jobs& AI infrastructure
-date_modified: 2025-04-27
-date_created: 2025-03-30
 tags:
   - Software-Development
   - DevOps
