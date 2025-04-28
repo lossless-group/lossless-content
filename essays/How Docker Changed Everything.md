@@ -1,19 +1,19 @@
 ---
 date_created: 2024-08-18
-date_modified: 2025-04-24
+date_modified: 2025-04-28
 site_uuid: a396bf72-3bc1-480f-80a1-e9d703d12f69
-title: 'How Docker Changed Everything'
+title: How Docker Changed Everything
 lede: 
 date_authored_initial_draft: 2024-08-18
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
-augmented_with: 'Perplexica AI'
+augmented_with: Perplexica AI
 category: 
 portrait_image: 
 image_prompt: 
-banner_image: ''
-tags:
+banner_image: ""
+tags: [Container-Runtimes, Developer-Tools, DevOps, State-Of-The-Art-Practices]
 authors:
   - Michael Staton
 ---

@@ -1,19 +1,19 @@
 ---
 date_created: 2024-09-28
-date_modified: 2025-04-24
+date_modified: 2025-04-28
 site_uuid: 261aa002-d0a0-47b4-9f93-8f9cc09ded9d
-title: 'On Data Gathering'
+title: On Data Gathering
 lede: 
 date_authored_initial_draft: 2024-09-28
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
-augmented_with: 'Perplexica AI'
+augmented_with: Perplexica AI
 category: 
 portrait_image: 
 image_prompt: 
-banner_image: ''
-tags:
+banner_image: ""
+tags: [Data-Augmenters, Data-Capture, Data-Wrangling, Data-APIs]
 authors:
   - Michael Staton
 ---

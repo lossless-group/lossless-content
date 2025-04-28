@@ -1,19 +1,19 @@
 ---
 date_created: 2024-08-02
-date_modified: 2025-04-24
+date_modified: 2025-04-28
 site_uuid: 4dd251ea-2d66-42ca-ab35-1f5641f14396
-title: 'Back to the Future'
+title: Back to the Future
 lede: 
 date_authored_initial_draft: 2024-08-02
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
-augmented_with: 'Perplexica AI'
+augmented_with: Perplexica AI
 category: 
 portrait_image: 
 image_prompt: 
-banner_image: ''
-tags:
+banner_image: ""
+tags: [Near-Future-Anticipation, Best-Practices, Conceptual-Frameworks]
 authors:
   - Michael Staton
 ---
