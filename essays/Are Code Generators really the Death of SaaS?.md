@@ -13,9 +13,7 @@ category:
 portrait_image: 
 image_prompt: 
 banner_image: ""
-tags:
-  - Near-Future-Anticipation
-  - Explorations
+tags: [Near-Future-Anticipation, Explorations]
 authors:
   - Michael Staton
 ---
