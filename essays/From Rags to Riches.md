@@ -1,19 +1,19 @@
 ---
 date_created: 2024-11-08
-date_modified: 2025-04-24
+date_modified: 2025-04-28
 site_uuid: 20654883-39a1-44b4-a6ca-b7afbe5cff17
-title: 'From Rags to Riches'
+title: From Rags to Riches
 lede: 
 date_authored_initial_draft: 2024-11-08
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
-augmented_with: 'Perplexica AI'
+augmented_with: Perplexica AI
 category: 
 portrait_image: 
 image_prompt: 
-banner_image: ''
-tags:
+banner_image: ""
+tags: [Best-Practices, AI-Human-Workflow, Ai-Rag-Stack, Retrieval-Augmented-Generation]
 authors:
   - Michael Staton
 ---

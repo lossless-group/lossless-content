@@ -1,19 +1,19 @@
 ---
 date_created: 2024-12-18
-date_modified: 2025-04-24
+date_modified: 2025-04-28
 site_uuid: a8ae951d-9235-4378-b399-9c4dbd79da84
-title: 'Consistent Go-to-Market'
+title: Consistent Go-to-Market
 lede: 
 date_authored_initial_draft: 2024-12-18
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
-augmented_with: 'Perplexica AI'
+augmented_with: Perplexica AI
 category: 
 portrait_image: 
 image_prompt: 
-banner_image: ''
-tags:
+banner_image: ""
+tags: [Demand-Generation, Marketing-Automation]
 authors:
   - Michael Staton
 ---

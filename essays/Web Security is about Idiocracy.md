@@ -1,19 +1,19 @@
 ---
 date_created: 2024-12-18
-date_modified: 2025-04-24
+date_modified: 2025-04-28
 site_uuid: 651c6e9b-c169-46d0-ac7a-65af928da319
-title: 'Web Security is about Idiocracy'
+title: Web Security is about Idiocracy
 lede: 
 date_authored_initial_draft: 2024-12-18
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
-augmented_with: 'Perplexica AI'
+augmented_with: Perplexica AI
 category: 
 portrait_image: 
 image_prompt: 
-banner_image: ''
-tags:
+banner_image: ""
+tags: [Explainers, Explorations, Web-Security, Privacy-Cloud]
 authors:
   - Michael Staton
 ---
