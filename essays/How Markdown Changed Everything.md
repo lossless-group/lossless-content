@@ -1,19 +1,19 @@
 ---
 date_created: 2024-09-02
-date_modified: 2025-04-24
+date_modified: 2025-04-28
 site_uuid: 103d2dcd-4080-4f5c-a121-1b2bc609468f
-title: 'How Markdown Changed Everything'
+title: How Markdown Changed Everything
 lede: 
 date_authored_initial_draft: 2024-09-02
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
-augmented_with: 'Perplexica AI'
+augmented_with: Perplexica AI
 category: 
 portrait_image: 
 image_prompt: 
-banner_image: ''
-tags:
+banner_image: ""
+tags: [JAM-Stack, Open-Specifications, Content-Generation, Content-Automation, State-Of-The-Art-Practices]
 authors:
   - Michael Staton
 ---
