@@ -15,6 +15,7 @@ tags:
   - Render-Logic
 authors:
   - Michael Staton
+banner_image: https://img.recraft.ai/RvIDsgm35cGMoMfOZMhSKG9QDZKvX0NRk6uSL7FZXyU/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/4a54148e-9cbc-4636-95ec-5747fc9379b9
 ---
 
 # Goals:

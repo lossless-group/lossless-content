@@ -18,6 +18,7 @@ tags:
 authors:
   - Michael Staton
 portrait_image: https://img.recraft.ai/7m8Rm2v1ZFwj9AmAIguOay-MypKGWHfIzUTk2YCW1V4/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/eba5fc26-303d-439e-9490-16c75e461af8
+banner_image: https://img.recraft.ai/ayMJgJWRna_NZ-hADKVKXQZM3YRL5qWxb3Fc4mRHoZo/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/f79caf24-c7ef-438c-8a2a-bbce680da81c
 ---
 # Implement a Comprehensive Code Block Rendering System in Astro
 

@@ -12,12 +12,7 @@ date_modified: 2025-04-28
 date_created: 2025-03-30
 description_site_cp: Write workflows in normal async code and we'll handle the rest, from queues to elastic scaling. No timeouts, retries, observability, and zero infrastructure to manage.
 zinger: Background jobs& AI infrastructure
-tags:
-  - Software-Development
-  - DevOps
-  - Agentic-AI
-  - IPaaS
-  - Workflow-Automation
+tags: [Software-Development, DevOps, Agentic-AI, IPaaS, Workflow-Automation]
 ---
 
 An evangelical promoter shows why [[Trigger]] is cool at [this link](https://youtu.be/E2t821Ujb0k?si=oA6G59-S2RuYNc2B) on [[YouTube]].
