@@ -1,19 +1,19 @@
 ---
 date_created: 2025-04-18
-date_modified: 2025-04-24
+date_modified: 2025-04-28
 site_uuid: 10ebeb58-f593-4ff2-9c5e-94804cf1411e
-title: 'Technology wants to be Emergent'
+title: Technology wants to be Emergent
 lede: 
 date_authored_initial_draft: 2025-04-18
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
-augmented_with: 'Perplexica AI'
+augmented_with: Perplexica AI
 category: 
 portrait_image: 
 image_prompt: 
-banner_image: ''
-tags:
+banner_image: ""
+tags: [Technology-Trends, Conceptual-Frameworks]
 authors:
   - Michael Staton
 ---

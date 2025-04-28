@@ -1,19 +1,19 @@
 ---
 date_created: 2024-09-02
-date_modified: 2025-04-24
+date_modified: 2025-04-28
 site_uuid: 209e0f39-13de-46b3-829e-a2816d2f5aa7
-title: 'A Theory of Lossless Innovation'
+title: A Theory of Lossless Innovation
 lede: 
 date_authored_initial_draft: 2024-09-02
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.4
 status: To-Do
-augmented_with: 'Perplexica AI'
+augmented_with: Perplexica AI
 category: 
 portrait_image: 
 image_prompt: 
-banner_image: ''
-tags:
+banner_image: ""
+tags: [Best-Practices, Collaboration-Tooling, Conceptual-Frameworks]
 authors:
   - Michael Staton
 ---

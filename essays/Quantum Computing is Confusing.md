@@ -1,19 +1,19 @@
 ---
 date_created: 2024-11-02
-date_modified: 2025-04-24
+date_modified: 2025-04-28
 site_uuid: 727bfc80-ad69-4abc-ac99-43cd33e7d11f
-title: 'Quantum Computing is Confusing'
+title: Quantum Computing is Confusing
 lede: 
 date_authored_initial_draft: 2024-11-02
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
-augmented_with: 'Perplexica AI'
+augmented_with: Perplexica AI
 category: 
 portrait_image: 
 image_prompt: 
-banner_image: ''
-tags:
+banner_image: ""
+tags: [Near-Future-Anticipation, Explorations, Explainers]
 authors:
   - Michael Staton
 ---
