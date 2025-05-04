@@ -10,9 +10,9 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: 
+portrait_image: https://img.recraft.ai/jiljfhwuOZWuukkZBQaureU5YX-ONQTtLjJNdlqUTA0/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a2565a3a-ec94-42eb-a98c-0e42355db8ad
 image_prompt: "A network of glowing nodes and connections expanding outward, with new technologies sprouting organically from the web. The mood is dynamic, organic, and futuristic."
-banner_image: ""
+banner_image: https://img.recraft.ai/bZALEeY7xYebHyMevhfzu61Du1NlUSr7q6mRj4uUVI0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/c6977eee-db32-470b-9ff2-375465d850f5
 tags: [Technology-Trends, Conceptual-Frameworks]
 authors:
   - Michael Staton

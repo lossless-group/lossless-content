@@ -10,9 +10,9 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: 
+portrait_image: https://img.recraft.ai/nr04RHU25mgl_8J5x2BvE7NZN4T5x2oZ5K9KDB3eKKg/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d8c97686-17ed-458a-820c-66c8cb9e6804
 image_prompt: "A modern home office with computer parts spread out on a table, a person assembling a high-end PC, and AI model icons floating above the workstation. The vibe is technical, hands-on, and empowering."
-banner_image: ""
+banner_image: https://img.recraft.ai/LayReej5cHrhmp8UxtJsTs9Xf4NONAjhQ-oSmvul5H0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/8fcca967-3735-4fc3-8b05-c32902f756bc
 tags: [Near-Future-Anticipation, Home-Labs]
 authors:
   - Michael Staton

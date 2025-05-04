@@ -10,9 +10,9 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: 
+portrait_image: https://img.recraft.ai/JIDjrpQyOH_XrFgGxUzjh4bK6G4yMMj5Xu9M5A0BmSs/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/f6941f6e-6ab8-4eba-ad9c-0de811ca18ba
 image_prompt: "An Olympic medalist podium with many extra pedestals, each crowded with diverse winners, symbolizing broad participation in innovation challenges. The mood is triumphant, inclusive, and energetic."
-banner_image: ""
+banner_image: https://img.recraft.ai/H5yKHkLW1KRxmNz4fIylzwkQkM8kEaIeSTnfE4RLlb0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/dde94779-22e4-49e0-acc6-2a48ed6544cd
 tags: [Management-Strategies, State-Of-The-Art-Practices, Best-Practices]
 authors:
   - Michael Staton

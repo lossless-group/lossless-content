@@ -10,9 +10,9 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: 
+portrait_image: https://img.recraft.ai/rCRbLw5SgdOSEBt33KPqtz924hO71Rqm7Zo7UpHZkLY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/13d570b8-f658-4d0d-a143-3c4c4244321a
 image_prompt: "A writer at a desk switching between handwritten notes and a laptop, Markdown syntax glowing on the screen, and published articles appearing on the web. The scene is clean, minimal, and empowering."
-banner_image: ""
+banner_image: https://img.recraft.ai/P3PIctv5mz1PyCjtEi64IbBlft8d2o9S9V0BwFV7aAQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/5fd6a920-c03c-4608-b977-7f0db4aa9b54
 tags: [JAM-Stack, Open-Specifications, Content-Generation, Content-Automation, State-Of-The-Art-Practices]
 authors:
   - Michael Staton

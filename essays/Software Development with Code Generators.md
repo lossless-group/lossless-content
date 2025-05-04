@@ -10,9 +10,9 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: 
+portrait_image: https://img.recraft.ai/7KGMDm9qAvCLb-Os8vtuJQQSi5rIYD7tFp18lq00oVA/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/3205e00d-5685-4498-a28b-c31ea28e490e
 image_prompt: "A developer at a workstation, code flowing from a generator machine into multiple app windows, with gears and circuit diagrams in the background. The mood is technical, efficient, and slightly futuristic."
-banner_image: ""
+banner_image: https://img.recraft.ai/9x9Bj3vszhJLa3TSZovSLx1nlUne0NTZxAKpJ2uq-3c/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/a2efb89a-c444-4d44-bdd9-d398d11cb573
 tags: [State-Of-The-Art-Practices, Vibe-Coding-Practices, Near-Future-Anticipation]
 authors:
   - Michael Staton

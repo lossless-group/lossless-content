@@ -11,9 +11,9 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: 
+portrait_image: https://img.recraft.ai/ggyQNU3uLV9qVwrO3Ts6Zr-hAxz4u-_HzgLAhsXcVk0/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/5d0b9d49-d623-4400-9008-231a859d5a83
 image_prompt: "A geeky software engineer at a breakfast table, staring at a towering stack of pancakes with melting butter, surrounded by icons of modern tools and apps. The mood is playful, overwhelmed, and tech-focused."
-banner_image: ""
+banner_image: https://img.recraft.ai/DI6hwMD5hCEiD1hyX6Ih3JRQJmnafOZImB3ZngIJzEY/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/ce09b772-472c-4117-9333-150f70545c38
 tags: [Explorations, Collaboration-Tooling]
 authors:
   - Michael Staton

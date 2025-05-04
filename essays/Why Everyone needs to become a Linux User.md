@@ -10,9 +10,9 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: 
+portrait_image: https://img.recraft.ai/CR72J0vr_xfw55D_SJQ9AsZK2Vbx499VkL3GTormsSI/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/fa43d557-806f-4045-ac5b-8e6a120b0fbb
 image_prompt: "A diverse group of people gathered around a penguin (Tux), each using different devices—laptop, tablet, phone—against a backdrop of open-source icons. The mood is inclusive, empowering, and modern."
-banner_image: ""
+banner_image: https://img.recraft.ai/W_zjoF64K_h-uht9I_-gIyDRNEgNELMdl41vJv_fNxs/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/f0e2cd9d-7e7d-4fa2-ad35-26dff421a62f
 tags: [Recommendations, Linux-Distributions, State-Of-The-Art-Practices]
 authors:
   - Michael Staton
