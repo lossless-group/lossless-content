@@ -1,6 +1,6 @@
 ---
 date_created: 2024-12-18
-date_modified: 2025-04-28
+date_modified: 2025-04-30
 site_uuid: 651c6e9b-c169-46d0-ac7a-65af928da319
 title: Web Security is about Idiocracy
 lede: 
@@ -11,7 +11,7 @@ status: To-Do
 augmented_with: Perplexica AI
 category: 
 portrait_image: 
-image_prompt: 
+image_prompt: A big, old school computer monitor has a screen with a warning sign -- Do not click here.  And the mouse is hovering over the caution button.
 banner_image: ""
 tags: [Explainers, Explorations, Web-Security, Privacy-Cloud]
 authors:

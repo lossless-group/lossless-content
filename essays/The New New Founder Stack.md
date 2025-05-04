@@ -1,10 +1,10 @@
 ---
 initiated-here-on: "'\"[[2024-09-12]]\"'"
 date_created: 2024-08-23
-date_modified: 2025-04-28
+date_modified: 2025-04-30
 site_uuid: 9a6bbc69-1790-4960-836d-c79afe1daf0c
 title: The New New Founder Stack
-lede: 
+lede: There's a new stack of tooling every five years. Or is it two?
 date_authored_initial_draft: 2024-08-23
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
@@ -12,7 +12,7 @@ status: To-Do
 augmented_with: Perplexica AI
 category: 
 portrait_image: 
-image_prompt: 
+image_prompt: A geeky software engineer is at a breakfast table, looking at a giant stack of pancakes with butter melting over it.  He looks intimidated.
 banner_image: ""
 tags: [Explorations, Collaboration-Tooling]
 authors:

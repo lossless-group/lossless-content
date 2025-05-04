@@ -3,14 +3,14 @@ date_created: 2024-08-15
 date_modified: 2025-04-28
 site_uuid: c454fd11-77fd-4b20-aeab-0836bcd69377
 title: How GitHub Changed Everything
-lede: 
+lede: "GitHub has redefined how software is built, spread, and maintained. It's also upended the incentives related to Open Source projects.
 date_authored_initial_draft: 2024-08-15
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: 
+portrait_image: "We see a collage of software engineers at their desks, with internet cables visbily going from their desks into a central server.  That server has the GitHub logo"
 image_prompt: 
 banner_image: ""
 tags: [Continuous-Integration, Version-Control, Collaboration-Tooling, Collaborative-Workflow, Market-Standard-Tools]

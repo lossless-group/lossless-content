@@ -1,9 +1,9 @@
 ---
 date_created: 2025-04-15
-date_modified: 2025-04-28
+date_modified: 2025-04-30
 site_uuid: d8b5b5b7-5ae4-4238-9b37-a9130d647437
 title: Tectonic Shifts and Business Configuration
-lede: 
+lede: When looking at future competition, we usually only see the tip of the iceberg.
 date_authored_initial_draft: 2025-04-15
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
@@ -11,7 +11,7 @@ status: To-Do
 augmented_with: Perplexica AI
 category: 
 portrait_image: 
-image_prompt: 
+image_prompt: The image has a top and bottom. At the top, a set of waves crashing against the tip of an Iceberg.  On the bottom, a robotic factory system is feeding the bottom of the iceberg.
 banner_image: ""
 tags: [Conceptual-Frameworks, Near-Future-Anticipation]
 authors:

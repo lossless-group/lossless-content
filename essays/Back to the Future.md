@@ -3,7 +3,7 @@ date_created: 2024-08-02
 date_modified: 2025-04-28
 site_uuid: 4dd251ea-2d66-42ca-ab35-1f5641f14396
 title: Back to the Future
-lede: 
+lede: "As we are living it, we often assume that the new skills must be a huge learning curve.  Yet, for the future of AI, it turns out the old-school, textbook approach is exactly what we need.  So let us go back to the future. "
 date_authored_initial_draft: 2024-08-02
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1

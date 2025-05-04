@@ -1,6 +1,6 @@
 ---
 date_created: 2024-12-14
-date_modified: 2025-04-28
+date_modified: 2025-04-30
 site_uuid: 15bf6f3a-75e6-4095-b232-a24c3490496e
 title: Someone's Gotta Keep Up with It
 lede: 
@@ -11,7 +11,7 @@ status: To-Do
 augmented_with: Perplexica AI
 category: 
 portrait_image: 
-image_prompt: 
+image_prompt: A geeky software engineer is trying to juggle too many balls and spin too many plates.  He has four arms in motion.
 banner_image: ""
 tags: [Near-Future-Anticipation, Management-Strategies, Technology-Trends]
 authors:
