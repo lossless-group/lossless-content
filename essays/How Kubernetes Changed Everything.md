@@ -10,10 +10,10 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: https://img.recraft.ai/PbdMCdNkmMyExZTG5fSyk5E6ARYYyR1gmGbFKOZ-LDA/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/147eafce-8301-44d7-aec4-aa98a062dc24
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_How-Kubernetes-Changed-Everything_147eafce-8301-44d7-aec4-aa98a062dc24_CB3PX_4ua.jpg
 image_prompt: "A fleet of shipping containers arranged in a digital cloud, orchestrated by a conductor with the Kubernetes logo, with microservices represented as glowing cubes inside. The scene is technical, orchestrated, and futuristic."
-banner_image: https://img.recraft.ai/gtZxXSTXf9pPVRAOsOcubtdMIW0MotLCHAlLS1kWpLg/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/b94b1727-c1d0-401e-8b25-9d9c082cc989
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_How-Kubernetes-Changed-Everything_b94b1727-c1d0-401e-8b25-9d9c082cc989_MezgfXxIF.jpg
 tags: [Cloud-Infrastructure, Opsless-Deploy, Deployment]
-authors:
+authors: 
   - Michael Staton
 ---

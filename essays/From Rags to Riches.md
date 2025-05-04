@@ -10,11 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: https://img.recraft.ai/FgSkV8nJEXiiSHXijpHPgX8-Xv6RI96m4LXIR25Zke0/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/1c824280-8f16-4a82-abc0-bbcbefc2648e
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_From-Rags-to-Riches_1c824280-8f16-4a82-abc0-bbcbefc2648e_6fPgp5R15.jpg
 image_prompt: "A split scene: on top, a young street pauper in old London; below, a glowing software architecture diagram showing an AI chip fed by databases and fileservers, symbolizing the leap from rags to riches through RAG. The mood is transformative and technical."
-banner_image: https://img.recraft.ai/1g2JZVIU96nC_RvMUBJEvi1R4NrWxcQ-nZIkYiyqeuo/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/a256493c-2ecf-471a-a6e8-6c428858c704
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_From-Rags-to-Riches_a256493c-2ecf-471a-a6e8-6c428858c704_GqCMJtk3M.jpg
 tags: [Best-Practices, AI-Human-Workflow, AI-RAG-Stack, Retrieval-Augmented-Generation]
-authors:
+authors: 
   - Michael Staton
 ---
 

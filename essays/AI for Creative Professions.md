@@ -10,11 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: Creative-Industries
-portrait_image: https://img.recraft.ai/Kconwt9KnLcFFbhbtntYuBF0QqvgHHf3Fo4LSWKP1A8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/fdb57709-e6f6-4099-8080-815271047fbc
-banner_image: https://img.recraft.ai/UsPnWUuJCRSgLl9zfWgzT2Mlkuy821gZPV46aKE5VNA/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/cd12c3ad-1794-4352-849e-a9064eda2cfb
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_AI-for-Creative-Professions_fdb57709-e6f6-4099-8080-815271047fbc_PdQvI9fWZ.jpg
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_AI-for-Creative-Professions_cd12c3ad-1794-4352-849e-a9064eda2cfb_GLy1G8f5Q.jpg
 tags: [Creative, Creator-Tools, Generative-AI, Best-Practices]
 image_prompt: "On the left, a Renaissance painter at an easel. On the right, a team of robots collaboratively painting a large mural. The scene blends classic artistry with futuristic technology, vibrant and inspiring."
-authors:
+authors: 
   - Michael Staton
 ---
 

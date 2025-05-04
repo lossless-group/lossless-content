@@ -10,10 +10,10 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: https://img.recraft.ai/4sqOXbR9S3vnR0ay5gSOCWaZ9TORpBytcMEiE7eiW50/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/c542f9fe-2450-4e80-a39c-c29fd81b8b46
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_AI-is-first-a-Trojan-Horse_c542f9fe-2450-4e80-a39c-c29fd81b8b46_FSB44Ca6Y.jpg
 image_prompt: A team of Robots is pushing a large Trojan Horse into the doorway of a large commercial office building, and the employees and security guards are holding the door open for it.
-banner_image: https://img.recraft.ai/XmD-GFG0TLLMXkJTZJvSxQgI7qaSzQGKeNg3wgApOGQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/c70689f7-0149-4ae5-b076-c94bf98932ae
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_AI-is-first-a-Trojan-Horse_c70689f7-0149-4ae5-b076-c94bf98932ae_AKHwcg3RP.jpg
 tags: [Near-Future-Anticipation]
-authors:
+authors: 
   - Michael Staton
 ---

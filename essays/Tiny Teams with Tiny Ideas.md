@@ -10,10 +10,10 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: https://img.recraft.ai/mNQAvpg2dxwMeCQWnjVV4m_YsMq68flOLNqd0PRblks/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/2c10415b-5090-4c0e-b064-1e1b8e931b7f
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Tiny-Teams-with-Tiny-Ideas_2c10415b-5090-4c0e-b064-1e1b8e931b7f_xInMnulFM.jpg
 image_prompt: "A tiny group of people around a small table, a single bright light bulb above them, and big shadows cast on the wall behind. The mood is creative, intimate, and ambitious."
-banner_image: https://img.recraft.ai/rkkiVGHGv3dfAl3ZMZFueqVUsFfbXq29y3me2IT_Hvo/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/d0292b48-33cf-48de-b33a-8cfea6ec269b
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Tiny-Teams-with-Tiny-Ideas_d0292b48-33cf-48de-b33a-8cfea6ec269b_nbK3ajaz5.jpg
 tags: [Management-Strategies, Product-Development, Best-Practices]
-authors:
+authors: 
   - Michael Staton
 ---

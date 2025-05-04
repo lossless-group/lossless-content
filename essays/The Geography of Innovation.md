@@ -10,11 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: https://img.recraft.ai/n9ML6W8ad-pVAXbh-vSxhZEMa6_if1VsMI7wOCE1Fls/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/bdf864ef-f025-4cda-ba97-cb5a29e7dcec
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_The-Geography-of-Innovation_bdf864ef-f025-4cda-ba97-cb5a29e7dcec_FyTwl-hmF.jpg
 image_prompt: A world map with glowing spikes rising from major cities—San Francisco, New York, Beijing, Shanghai, Berlin, London, Tallinn—highlighting global innovation hubs. The mood is dynamic, urban, and interconnected.
-banner_image: https://img.recraft.ai/ArDGwX8IvGM-VEOo-2Dbm15-QXJQPpqrV-lcM-AOl90/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/d960544e-c51b-42bd-838b-9c07d609e3b1
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_The-Geography-of-Innovation_d960544e-c51b-42bd-838b-9c07d609e3b1_jAWQ8NFK_.jpg
 tags: [Conceptual-Frameworks, Near-Future-Anticipation]
-authors:
+authors: 
   - Michael Staton
 publish: false
 ---

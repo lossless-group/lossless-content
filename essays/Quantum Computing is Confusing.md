@@ -10,11 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: https://img.recraft.ai/HALq2qDHPklvU4JPSuW2PwSH1DjG9oNT07QLM5WgtNM/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/880aad60-0372-46d4-adf9-a7725a36a2fa
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Quantum-Computing-is-Confusing_880aad60-0372-46d4-adf9-a7725a36a2fa_GJ-iiyy7u.jpg
 image_prompt: A chalkboard filled with quantum equations, a perplexed scientist holding a qubit diagram, and swirling abstract shapes representing superposition and entanglement. The mood is mysterious, technical, and mind-bending.
-banner_image: https://img.recraft.ai/P6YRlFY9AxhywExPzld5DJGkjKRKY1zyptxNpVgfIIY/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/87d5e26b-a66d-47a6-98ea-3990f50ae510
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Quantum-Computing-is-Confusing_87d5e26b-a66d-47a6-98ea-3990f50ae510_dpQj18PPG.jpg
 tags: [Near-Future-Anticipation, Explorations, Explainers]
-authors:
+authors: 
   - Michael Staton
 ---
 

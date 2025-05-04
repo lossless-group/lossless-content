@@ -10,10 +10,10 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: https://img.recraft.ai/_1wN92JgNvrV_HGL2-m65JQr2XAYn1WLjnnXBy0i1J8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/74739585-b928-46f0-9fde-6595626388a6
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_How-Rest-APIs-Changed-Everything_74739585-b928-46f0-9fde-6595626388a6_sXUtWu1bH.jpg
 image_prompt: "A network diagram showing diverse apps and devices connected by glowing RESTful endpoints, with data flowing smoothly between them. The scene is technical, interconnected, and modern."
-banner_image: https://img.recraft.ai/N6BAdll95DcgJObNHD3Yofn1C42GEMhb_iS-VzYZuKQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/2c55d5db-3280-487c-98b2-4558fe45d82b
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_How-Rest-APIs-Changed-Everything_2c55d5db-3280-487c-98b2-4558fe45d82b_ICzC_A5lT.jpg
 tags: [API-Standards, State-Of-The-Art-Practices]
-authors:
+authors: 
   - Michael Staton
 ---

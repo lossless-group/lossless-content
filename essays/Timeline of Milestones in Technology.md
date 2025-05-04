@@ -10,11 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: https://img.recraft.ai/XUPB_lG0KxoZUw6U1pgkY37aUesh2U9E9fluXIPj-Ps/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/31799990-44ec-4523-8272-fdde9163fa13
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Timeline-of-Milestones-in-Technology_31799990-44ec-4523-8272-fdde9163fa13_1LY-ekjYL.jpg
 image_prompt: "A horizontal timeline with icons for major inventions—steam engine, telephone, computer, smartphone—each glowing at its milestone. The mood is historical, energetic, and optimistic."
-banner_image: https://img.recraft.ai/c0_GpkJbE8jK_kPCUOnzkbQ1Ppd5iDwVc9ESvuwGRto/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/33812139-bdc9-4981-b11b-24c67fa8ac7a
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Timeline-of-Milestones-in-Technology_33812139-bdc9-4981-b11b-24c67fa8ac7a_qwJGwy1ss.jpg
 tags: [Additional-Context, Explorations, Explainers]
-authors:
+authors: 
   - Michael Staton
 ---
 

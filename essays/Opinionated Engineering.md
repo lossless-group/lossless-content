@@ -10,10 +10,10 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: https://img.recraft.ai/PM1uaVCaEBMnhZYWR0CirxsE7OvFCsNivjSWftzNNik/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/23e9fa32-0c3f-4a27-8dcf-f585ba08106a
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Opinionated-Engineering_23e9fa32-0c3f-4a27-8dcf-f585ba08106a_mTtElgteW.jpg
 image_prompt: "A team of engineers at a whiteboard, some drawing strong lines and arrows, others debating with raised hands, and a blueprint in the center labeled 'Best Practices.' The mood is decisive, collaborative, and a bit contentious."
-banner_image: https://img.recraft.ai/_kPGf_X1qUSrSum2Yf7o9qB2bhoF_kSYCN3XoUHwogQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/fbe41fe4-74db-4d99-b154-060dbc24acc3
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Opinionated-Engineering_fbe41fe4-74db-4d99-b154-060dbc24acc3_MjGbYmvXA.jpg
 tags: [Management-Strategies, Developer-Experience, War-for-Talent, Talent-Development]
-authors:
+authors: 
   - Michael Staton
 ---

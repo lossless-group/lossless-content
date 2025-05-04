@@ -10,11 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: https://img.recraft.ai/sE-8utiw8h8w1XmuIUsvBQZDON1kg824t_8OOOUXNHw/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/98b9d0ae-8890-4181-b6af-dd804b1fd8c0
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_On-Data-Gathering_98b9d0ae-8890-4181-b6af-dd804b1fd8c0_CpkxwOjjc.jpg
 image_prompt: "A researcher in a lab surrounded by streams of raw data flowing into organized databases, with an AI chip processing the information. The mood is scientific, methodical, and forward-looking."
-banner_image: https://img.recraft.ai/d6mxnZ6HQYzkCsY_13HqGxmtvJDy-kvz2j7in4oHX9M/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/e1c78315-185e-42e3-a89f-8fc9dff6de42
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_On-Data-Gathering_e1c78315-185e-42e3-a89f-8fc9dff6de42_byc55hjwy.jpg
 tags: [Data-Augmenters, Data-Capture, Data-Wrangling, Data-APIs]
-authors:
+authors: 
   - Michael Staton
 ---
 

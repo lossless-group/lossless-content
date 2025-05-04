@@ -10,11 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: https://img.recraft.ai/1VjOKkwZ4RSnLd7vE2o9BMMNtZhDaMTeHnpw1F2hn2w/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/cf386855-8093-40dd-b07a-7c3a1eb7003a
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Someones-Gotta-Keep-Up-with-It_cf386855-8093-40dd-b07a-7c3a1eb7003a_tYY2k9aMF.jpg
 image_prompt: "A person sprinting on a treadmill made of circuit boards, with new technologies and icons flying by on a digital display. The mood is urgent, dynamic, and futuristic."
-banner_image: https://img.recraft.ai/14Fq-tCul5hDqH11lQh29tP6-g5SL0Ce37E4BJaPEuA/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/0094f420-5eec-4eac-8018-017867dd990c
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Someones-Gotta-Keep-Up-with-It_0094f420-5eec-4eac-8018-017867dd990c_YGGDZOjWY.jpg
 tags: [Near-Future-Anticipation, Management-Strategies, Technology-Trends]
-authors:
+authors: 
   - Michael Staton
 ---
 

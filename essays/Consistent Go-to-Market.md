@@ -10,11 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: Product-Development
-portrait_image: https://img.recraft.ai/TGPlXH_EQdEISZ6s9NT_D65OVvWjm3ZkYpryorBLbNk/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/459c7fb9-154c-4faf-86b5-decbdcb85850
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Consistent-Go-to-Market_459c7fb9-154c-4faf-86b5-decbdcb85850_LVhtpt9B1.jpg
 image_prompt: "A business team gathered around a whiteboard, mapping out a go-to-market strategy with colorful sticky notes and flowcharts, while a product prototype sits on the table. The mood is strategic, energetic, and collaborative."
-banner_image: https://img.recraft.ai/watV3NZvO6GqeD7TR6iVTF39_iqHKyXqn5YAJLny2-M/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/641a38ef-70d6-4639-be05-3e27c4c650de
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Consistent-Go-to-Market_641a38ef-70d6-4639-be05-3e27c4c650de_dwSdKlu2H.jpg
 tags: [Demand-Generation, Marketing-Automation]
-authors:
+authors: 
   - Michael Staton
 ---
 
