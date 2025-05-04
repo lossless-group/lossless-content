@@ -10,9 +10,9 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: 
+portrait_image: https://img.recraft.ai/HkX_WA7xDQRjAcFL9hMH6yXcWxVjdPLMISYpAXfOfzE/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/e0deec41-f157-4ff3-8f3a-01d8cd6119bc
 image_prompt: A digital fortress with a moat, inside are everyday users, while outside shadowy figures try to cross. The mood is vigilant, modern, and slightly tense.
-banner_image: ""
+banner_image: https://img.recraft.ai/JONbDVJF9VBF7sPFV1dnlCXKXmgRZEUIQU9zUr1be4A/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/b59c34e3-ddcf-4b36-b2e1-33361e161945
 tags: [Explainers, Explorations, Web-Security, Privacy-Cloud]
 authors:
   - Michael Staton

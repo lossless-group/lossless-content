@@ -10,9 +10,9 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: 
+portrait_image: https://img.recraft.ai/XmiLF9AKUB4O9rSk6fGWAAol8WMa8AhDaayFFceZ0jY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/99f9f41c-a6ba-4a8f-9b9f-19e87d42f2ec
 image_prompt: "A city skyline with skyscrapers shifting and reconfiguring like tectonic plates, while digital waves ripple through the scene. The mood is dramatic, business-focused, and transformative."
-banner_image: ""
+banner_image: https://img.recraft.ai/cC0e04F793m9xrvlW0wLLOpK72ZHOBwvb_4m6U8nRs8/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/0f2a2b7d-1cfa-43d9-bb50-7196ca5ef2b6
 tags: [Conceptual-Frameworks, Near-Future-Anticipation]
 authors:
   - Michael Staton

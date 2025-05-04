@@ -10,9 +10,9 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: 
+portrait_image: https://img.recraft.ai/sE-8utiw8h8w1XmuIUsvBQZDON1kg824t_8OOOUXNHw/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/98b9d0ae-8890-4181-b6af-dd804b1fd8c0
 image_prompt: "A researcher in a lab surrounded by streams of raw data flowing into organized databases, with an AI chip processing the information. The mood is scientific, methodical, and forward-looking."
-banner_image: A gold mine is in a mountain but all the miners only have shovels.
+banner_image: https://img.recraft.ai/d6mxnZ6HQYzkCsY_13HqGxmtvJDy-kvz2j7in4oHX9M/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/e1c78315-185e-42e3-a89f-8fc9dff6de42
 tags: [Data-Augmenters, Data-Capture, Data-Wrangling, Data-APIs]
 authors:
   - Michael Staton

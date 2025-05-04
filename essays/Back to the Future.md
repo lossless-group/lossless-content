@@ -10,9 +10,9 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: 
+portrait_image: https://img.recraft.ai/n6QBIhEX7i1pewo58-3EdIWHJH0xH2uWHCDw4aSbGNo/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/f185b129-8856-4150-891d-39a356745964
 image_prompt: "A robot scientist styled like 'Doc' from Back to the Future, standing beside a futuristic DeLorean with an AI logo, inviting a passenger to learn AI skills. The scene blends retro sci-fi with modern technology."
-banner_image: ""
+banner_image: https://img.recraft.ai/jAy24RSMNsOcYTzkj08N3Uf5EWqhxD7i6Ju3cPBDS1Q/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/8e54c711-a0ad-42c7-b5a6-56b4d9c253fd
 tags: [Near-Future-Anticipation, Best-Practices, Conceptual-Frameworks]
 authors:
   - Michael Staton

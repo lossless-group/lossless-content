@@ -10,8 +10,8 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: Creative-Industries
-portrait_image: https://img.recraft.ai/creative-ai-professions.png
-banner_image: ""
+portrait_image: https://img.recraft.ai/Kconwt9KnLcFFbhbtntYuBF0QqvgHHf3Fo4LSWKP1A8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/fdb57709-e6f6-4099-8080-815271047fbc
+banner_image: https://img.recraft.ai/UsPnWUuJCRSgLl9zfWgzT2Mlkuy821gZPV46aKE5VNA/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/cd12c3ad-1794-4352-849e-a9064eda2cfb
 tags: [Creative, Creator-Tools, Generative-AI, Best-Practices]
 image_prompt: "On the left, a Renaissance painter at an easel. On the right, a team of robots collaboratively painting a large mural. The scene blends classic artistry with futuristic technology, vibrant and inspiring."
 authors:

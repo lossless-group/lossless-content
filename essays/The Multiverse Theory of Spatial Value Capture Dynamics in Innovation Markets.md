@@ -10,9 +10,9 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: 
+portrait_image: https://img.recraft.ai/nUsk5WGAzqdczZ8ntAlO2DB16fL1Lej-CakO84r9-eE/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/dec84293-50c0-4cc3-94c5-7ff83359b684
 image_prompt: "A multidimensional doughnut-shaped universe, with glowing bands and clusters representing value capture, and dynamic arrows showing movement between zones. The mood is abstract, scientific, and visually striking."
-banner_image: ""
+banner_image: https://img.recraft.ai/2r67JVXtjfyglLRi2AbqEGEsQScBY6XPq8y_KHVri9o/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/3c25aae3-158a-47b6-894d-bfa965641439
 tags: [Conceptual-Frameworks]
 authors:
   - Michael Staton

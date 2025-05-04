@@ -10,9 +10,9 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: 
+portrait_image: https://img.recraft.ai/HALq2qDHPklvU4JPSuW2PwSH1DjG9oNT07QLM5WgtNM/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/880aad60-0372-46d4-adf9-a7725a36a2fa
 image_prompt: A chalkboard filled with quantum equations, a perplexed scientist holding a qubit diagram, and swirling abstract shapes representing superposition and entanglement. The mood is mysterious, technical, and mind-bending.
-banner_image: ""
+banner_image: https://img.recraft.ai/P6YRlFY9AxhywExPzld5DJGkjKRKY1zyptxNpVgfIIY/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/87d5e26b-a66d-47a6-98ea-3990f50ae510
 tags: [Near-Future-Anticipation, Explorations, Explainers]
 authors:
   - Michael Staton

@@ -10,9 +10,9 @@ at_semantic_version: 0.0.0.4
 status: To-Do
 augmented_with: Perplexica AI
 category: Conceptual-Frameworks
-portrait_image: https://img.recraft.ai/lossless-innovation-theory.png
+portrait_image: https://img.recraft.ai/w29iZX2-fRczbu_pPc92IEUxGl0tpR-pdnWFH4pzzNg/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/edfa7ba7-abd5-4c2d-b89f-5caab074c01e
 image_prompt: "A conceptual diagram showing a bridge between innovation and stability, with icons representing new ideas and customer loyalty. The style is clean and modern."
-banner_image: ""
+banner_image: https://img.recraft.ai/DxXIJiMGI0svfLfmQJBk1VSx4pNX1wjyjRTLPR6E34s/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/105fca66-f27a-44e8-975e-ae04b0a02ee5
 tags: [Best-Practices, Collaboration-Tooling, Conceptual-Frameworks]
 authors:
   - Michael Staton

@@ -10,9 +10,9 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: "We see geeky software engineers loading boxes labeled 'Code' onto a shipping contianer box at a large port like the port of Oakland. The container box is labeled 'Docker' and it is one of many being loaded onto a container ship."
+portrait_image: https://img.recraft.ai/xBxReHl1IwCVaAofFgH8hDMXbaDQZWjtloGGVT8EayA/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/84053ef6-ae1d-4e6c-ad7e-ba00d3315246
 image_prompt: "A shipping port filled with colorful containers, each labeled with software logos, and a giant blue whale (Docker) lifting containers onto ships. The scene is vibrant, technical, and global."
-banner_image: ""
+banner_image: https://img.recraft.ai/BGVLpXGphPdEwLZK7Ei1M7K5SeSpBL1dlabZTENyDBg/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/2e9ab367-c44f-46a0-af0d-7d2e7d1f372b
 tags: [Container-Runtimes, Developer-Tools, DevOps, State-Of-The-Art-Practices]
 authors:
   - Michael Staton

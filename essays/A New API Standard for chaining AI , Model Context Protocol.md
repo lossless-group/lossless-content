@@ -12,9 +12,9 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: AI-Workflows
-portrait_image: https://img.recraft.ai/ai-workflow-protocols.png
+portrait_image: https://img.recraft.ai/OHkp5yxuuL046GSyny35SYE9vSmXnluT6M_MuYce1N8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/91774ddc-d674-4da7-b4aa-8c47d7f4785b
 image_prompt: "A futuristic flowchart showing multiple AI models chained together, exchanging data and context. The visual is technical, precise, and emphasizes interoperability."
-banner_image: ""
+banner_image: https://img.recraft.ai/OwHfiFo2Y6Cnu3uXOcdmrTFx1Z_cX3paX_LXbgFGgGU/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/6a1365bf-c926-4bd6-ab5b-f4d2e6d02cbe
 tags: [Model-Context-Protocols, AI-Workflows, Code-Generators, Agentic-AI, AI-Human-Workflow]
 authors:
   - Michael Staton
