@@ -13,12 +13,12 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-19
 site_uuid: 6487c56c-2072-4cc6-b6e0-62b7f9929b7a
-tags: [Render-Logic, Astro, Component-Architecture, MDX, Content-Collections, Dynamic-Routing, Layout-System, Content-Display]
+tags: Render-Logic,Astro,Component-Architecture,MDX,Content-Collections,Dynamic-Routing,Layout-System,Content-Displays
 authors:
   - Michael Staton
 image_prompt: A page of code on the left, a web page on the right.
-portrait_image: https://img.recraft.ai/wfdexSsKfkKQm0RQGDhBaVlEaPFsqsSiBrD50Al0KBM/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/fb6248f2-133f-4294-9093-75d65c16c676
-banner_image: https://img.recraft.ai/Kg7_6BQCBUb_7OHcNqf8Hpiyc33mb2kwqRgYFIAvs-A/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/ec0e9b36-72c8-4746-aa96-a7768c75ee11
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Support-Dynamic-Information-Pages_3155a45e-d6db-442b-a53b-09ebd90a3fac_T5Qpsm_mm.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_banner_image_Support-Dynamic-Information-Pages_4964e33b-bebd-4caf-ad71-49eff66548a2_lWs2AOH9V.webp
 ---
 # Dynamic Information Page Rendering in Astro
 
