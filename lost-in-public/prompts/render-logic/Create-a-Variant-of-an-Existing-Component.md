@@ -14,14 +14,14 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 site_uuid: d3888762-69d1-40c7-8400-658e354fb85e
 image_prompt: "The Figma component icon, a purple diamond made of four smaller diamonds, on the upper left. Then repeating the icon -- the variant icon, the same diamond shape with no fill, just the outline -- repeating in a grid pattern."
-tags:
+tags: Render-Logic,Component-based-Architecture,UI-Design
 - Render-Logic
 - Component-based-Architecture
 - UI-Design
 authors:
 - Michael Staton
-portrait_image: https://img.recraft.ai/fjoOE-vdQFXmJBhA6GrKlpGvZ9sc3i5ueeLgEuw0qqM/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/f01645fa-879c-47b8-be95-a8cf8a909cee
-banner_image: https://img.recraft.ai/_W4mIXKphMna3CzXMkgqkYkyc0z-5_6ll_2zSidzYDM/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/0080f00e-c361-4fed-81b0-c35940c06a77
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Create-a-Variant-of-an-Existing-Component_9c032749-0e59-44d7-865e-2a588d60583f_Yn4padeMG.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_banner_image_Create-a-Variant-of-an-Existing-Component_d39333ea-8325-468b-9150-147b2c13ec01_DLX0A_Mrh.webp
 ---
 ## Context
 

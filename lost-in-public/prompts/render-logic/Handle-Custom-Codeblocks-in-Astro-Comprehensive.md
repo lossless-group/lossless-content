@@ -13,12 +13,13 @@ status: To-Prompt
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 site_uuid: 284d42ae-e9a0-45f0-aa84-8e8d2b7d42f6
-tags:
+tags: Render-Logic,Extended-Markdown
   - Render-Logic
+  - Extended-Markdown 
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/7m8Rm2v1ZFwj9AmAIguOay-MypKGWHfIzUTk2YCW1V4/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/eba5fc26-303d-439e-9490-16c75e461af8
-banner_image: https://img.recraft.ai/ayMJgJWRna_NZ-hADKVKXQZM3YRL5qWxb3Fc4mRHoZo/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/f79caf24-c7ef-438c-8a2a-bbce680da81c
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Handle-Custom-Codeblocks-in-Astro-Comprehensive_56388b45-ea9a-4825-b83b-c6a89469b38d_GshnrF-dg.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_banner_image_Handle-Custom-Codeblocks-in-Astro-Comprehensive_372b4bf9-0319-47bf-bfe2-951f70b6def2_qRsuQKiCu.webp
 ---
 # Implement a Comprehensive Code Block Rendering System in Astro
 
