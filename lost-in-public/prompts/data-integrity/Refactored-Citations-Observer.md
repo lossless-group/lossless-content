@@ -1,6 +1,6 @@
 ---
-title: Citation Processing for FileSystem Observer
-lede: Enhance the filesystem observer to automatically format citations, convert to hex IDs, and maintain a citation registry
+title: 'Citation Processing for FileSystem Observer'
+lede: 'Enhance the filesystem observer to automatically format citations, convert to hex IDs, and maintain a citation registry'
 date_authored_initial_draft: 2025-04-13
 date_authored_current_draft: 2025-04-13
 date_authored_final_draft: null
@@ -8,11 +8,14 @@ date_first_published: null
 date_last_updated: null
 at_semantic_version: 0.1.0
 status: Draft
-augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
 category: Prompts
 date_created: 2025-04-13
 date_modified: 2025-04-13
-site_uuid: 4cf59a40-fcb0-4297-b131-162d057a899f
+site_uuid: cb5954bd-0d86-431b-9b55-60fe7f2099ac
+image_prompt: "A software engineer tool up on a large blackboard, with side-by-side code panels showing a before and after improvements. Visual cues include messy, long code on the left and on the right is a more clean code structure. The mood is focused and analytical."
+portrait_image: 'https://img.recraft.ai/Q4gjLWB8gwlww_4z7dpL12uEHuweJW4GfIM14m8Ch0o/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/50ffb283-f56c-4007-875d-e3453ae0d6b2'
+banner_image: 'https://img.recraft.ai/JKwzz64mPeuKPSXsj74LkNHcp_AY1dTfaEAew1P2A2A/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/539db799-b538-4fc9-8898-f388a29ed40d'
 tags:
   - File-Processing
   - Build-Scripts
@@ -20,10 +23,8 @@ tags:
   - Data-Integrity
 authors:
   - Michael Staton
-image_prompt: "A software engineer refactoring a citations observer tool, with side-by-side code panels showing before and after improvements. Visual cues include citation icons, clean code structure, and a sense of technical refinement and clarity. The mood is focused and analytical."
-portrait_image: https://img.recraft.ai/Q4gjLWB8gwlww_4z7dpL12uEHuweJW4GfIM14m8Ch0o/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/50ffb283-f56c-4007-875d-e3453ae0d6b2
-banner_image: https://img.recraft.ai/JKwzz64mPeuKPSXsj74LkNHcp_AY1dTfaEAew1P2A2A/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/539db799-b538-4fc9-8898-f388a29ed40d
 ---
+
 <!-- Test comment to trigger observer processing - 2025-04-13 -->
 
 # Citation Processing System
