@@ -14,15 +14,15 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A developer meticulously correcting YAML errors one at a time in a code editor, with a progress tracker, error highlights, and a sense of careful, incremental improvement. The scene is orderly, with a focus on accuracy and systematic problem-solving."
 site_uuid: d22264ff-0946-4f52-880d-44ebaaa834d7
-tags:
+tags: YAML-Validation,Error-Handling,Build-Scripts,Data-Integrity
   - YAML-Validation
   - Error-Handling
   - Build-Scripts
   - Data-Integrity
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/f6QMaKQg5AoeNO38hxEeejQkDhmwwUdTQKkDEgm7XX0/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/917cfb2f-41dc-49f8-8719-9b53ae2ff3af
-banner_image: https://img.recraft.ai/HwlWZLaEw7xh6tUKVo3QtlolPqqrhrwfyWA_-Pt_Q1c/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/919dbc7a-d8d9-499a-8e99-13102642deff
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Fix-one-YAML-Issue-at-a-Time_d59527e3-5b39-4d4e-bcec-9f78f609e191_WZZTHQMau.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_banner_image_Fix-one-YAML-Issue-at-a-Time_cf494f04-600e-4b8c-a638-d938092f6f59_cD9OBK7Ai.webp
 ---
 ## Context
 We were developing a build script to be run at the `pnpm build` command, taking our code through the Astro Build Process.  Examine but do not act on that file:

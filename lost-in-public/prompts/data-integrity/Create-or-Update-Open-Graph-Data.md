@@ -14,15 +14,15 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A web developer updating Open Graph metadata in a code editor, with browser preview windows displaying rich link previews. Visual cues include meta tags, social media icons, and highlighted code. The mood is modern, connected, and focused on web optimization."
 site_uuid: bbd4b81e-fa15-4d14-9b9d-ae2873188a02
-tags:
+tags: Open-Graph,Data-Management,Build-Scripts,Data-Integrity
   - Open-Graph
   - Data-Management
   - Build-Scripts
   - Data-Integrity
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/EUi1EhjiZvELaOC8oZj4k_Y9E0EB1ToBRHglmb8Qx40/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/0e03768e-b5af-4476-a2c4-798ea0ae6629
-banner_image: https://img.recraft.ai/qsmbHhM4ftX1DYb7rgKSwMD06mXfBZFDsZxzN06nGh0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/fda1f6ac-3786-43f5-94a0-798b2a4f8283
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Create-or-Update-Open-Graph-Data_7e660f59-5121-43fa-ac73-c4090e0384a0_OmkszeLXV.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_banner_image_Create-or-Update-Open-Graph-Data_eac97272-7dc3-4832-b988-3af9c49c709a_Q0BVS2EBU.webp
 ---
 # Goal:
 

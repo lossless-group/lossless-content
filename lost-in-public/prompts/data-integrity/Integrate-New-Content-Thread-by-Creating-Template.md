@@ -12,16 +12,16 @@ augmented_with: Windsurf Cascade on GTP 4.1
 category: Prompts
 date_created: 2025-04-21
 date_modified: 2025-04-23
-image_prompt: "A robot with a clipboard, reviewing a list on a chalkboard. The right side shows a whiteboard with better handwriting."
-tags:
+image_prompt: "A robot with a clipboard, reviewing a list on a chalkboard. The left side is the chalkboard, with sloppy handwriting. The right side shows a whiteboard with better handwriting, with legible print in colored marker."
+tags: File-Processing,YAML,Frontmatter,Data-Integrity
   - File-Processing
   - YAML
   - Frontmatter
   - Data-Integrity
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/G0iadvwFcRdPQ4uxWYxyxg7VsQOVLsSbufR5fOUQN5c/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/78642f04-8bd3-40c7-82a7-62c851bf4508
-banner_image: https://img.recraft.ai/bOy3xfjLKeIvDvq2l3Fam8qHvAIDJOfpCVDBln6BpXg/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/801eb0ad-579d-4527-9bdb-b366548e83a9
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Integrate-New-Content-Thread-by-Creating-Template_9424f2aa-7aeb-43e0-a6bd-cca21e692e5f_aYmWq3VN9.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_banner_image_Integrate-New-Content-Thread-by-Creating-Template_72782448-849e-47c2-bda4-ccb92e89501b_P7rSXYCtb.webp
 ---
 # Initial Role
 You are a content manager for a small but productive marketing team.  You are the "technical" lead that works most closely with developers who build and maintain a content-driven application and site.  

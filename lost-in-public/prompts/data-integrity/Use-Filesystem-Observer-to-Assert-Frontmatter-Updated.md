@@ -14,11 +14,11 @@ date_created: 2025-04-16
 date_modified: 2025-04-19
 image_prompt: "A monitoring dashboard showing a filesystem observer tracking real-time frontmatter updates in Markdown files. Visuals include file icons, update notifications, and highlighted YAML metadata, conveying automation, accuracy, and oversight."
 site_uuid: 69332186-eed2-4b81-87ec-5aae40568f9f
-tags: [Frontmatter-Validation, File-Processing, Build-Scripts, File-Systems, Data-Integrity]
+tags: Frontmatter-Validation,File-Processing,Build-Scripts,File-Systems,Data-Integrity
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/l009uCCokQzyIZ6OgT3IKzdrAZ3wx_cMK2o0ps5cq7A/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/be5e7a15-b933-48be-b34e-b5a2c441661b
-banner_image: https://img.recraft.ai/7S_7D_IrSJ09tqH9CYN-9aRUu10N7FMVQn2ZXPUk4h0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/736c8dfd-a6e9-41d1-8e12-c399e16b7622
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Use-Filesystem-Observer-to-Assert-Frontmatter-Updated_a922e7a0-0f3b-43d7-9f59-a9d308046a79_uPRwebfA6.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_banner_image_Use-Filesystem-Observer-to-Assert-Frontmatter-Updated_ae4f2b53-371c-47c9-af80-0faaa823bf8d_JZ7ly_o2D.webp
 ---
 ## Objective
 Create a robust filesystem observer system that monitors Markdown files, validates frontmatter against predefined templates, and automatically corrects inconsistencies while preserving the most accurate metadata.

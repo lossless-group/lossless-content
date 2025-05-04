@@ -1,6 +1,6 @@
 ---
-title: Configure Yamllint based on our patterns
-lede: Configure Yamllint based on our patterns
+title: Configure Yamllint based on our patterns.
+lede: Use a smart library, Yamllint, to audit and fix our YAML frontmatter based on our specified patterns.
 date_authored_initial_draft: 2025-03-23
 date_authored_current_draft: 2025-03-23
 date_authored_final_draft: null
@@ -14,12 +14,12 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A configuration file open in a code editor, with YAML syntax highlighted and validation checks visible. Visual cues of correct and incorrect patterns, a settings panel, and a focus on structured, well-organized data. The scene conveys clarity, precision, and adherence to coding standards."
 site_uuid: ce3bcb76-a49d-4ec9-961e-f96fd9203fbe
-tags:
+tags: Data-Integrity
   - Data-Integrity
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/YQmLdu_P3HWV0ob11jg827S4UZsYFzFzOoCTUv_TQaU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/055026cc-d643-4f8a-90c9-78e8a73aebee
-banner_image: https://img.recraft.ai/efcXBfAsVBrT0hQfFGmfGJ6tL1Rn74Fr6R5HfsvBClk/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/985419e0-a062-4233-bec5-095652d6d9c8
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Configure-Yamllint-based-on-our-patterns_27083336-8ce0-4d82-85b1-4e8f022c1efe_13yMOFoko.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_banner_image_Configure-Yamllint-based-on-our-patterns_8e33a9c3-5758-4d09-8d4f-38ca15097d2c_rCj1FAI2v.webp
 ---
 I have installed through homebrew an open source library called Yamllint. 
 

@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A developer enhancing a file observer tool to fetch and display Open Graph data, with code panels, network activity icons, and browser previews. The scene highlights automation, metadata enrichment, and real-time updates in a technical environment."
 site_uuid: 3a791e02-d25e-4a87-90d7-cefb952cf56c
-tags:
+tags: Frontmatter-Validation,File-Processing,Build-Scripts,File-Systems,Data-Integrity,Data-APIs
   - Frontmatter-Validation
   - File-Processing
   - Build-Scripts
@@ -23,8 +23,8 @@ tags:
   - Data-APIs
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/Y60C5V9UuT1_PVrbHzFaAxtZbDHyiLIPsA3q-4eKt9E/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/007117ef-c0b2-4639-9227-99227d6b5d4a
-banner_image: https://img.recraft.ai/R6x1h0fv3x98k51bW3Wc8pj_r89YbNcYprp5OIGSuF0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/6eb22f94-2a49-420f-b07d-c45a6c3e1d02
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Integrate-OpenGraph-Fetch-into-Observer_a732dcc3-dd09-4ea9-bb25-09be0fb9090c_8MZjBd36E.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_banner_image_Integrate-OpenGraph-Fetch-into-Observer_76acbd01-1d7a-48fc-9256-9ca97b480202_gNhFUhvQa.webp
 ---
 ## Objective
 Integrate OpenGraph metadata fetching capabilities into the existing filesystem observer system to automatically fetch and update OpenGraph-related metadata in Markdown files when URLs are present.

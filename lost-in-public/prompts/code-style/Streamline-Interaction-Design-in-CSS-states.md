@@ -15,13 +15,12 @@ date_modified: 2025-04-19
 image_prompt: "A seamless flow of interactive UI elements demonstrating smooth CSS transitions and animations, with hover effects and consistent design patterns."
 publish: true
 site_uuid: c0184e74-3120-41ed-9204-a69b7bd42afa
-tags: [Code-Style, CSS-Architecture, Interaction-Design, Animation, Transitions, Component-Management, User-Experience]
+tags: Code-Style,CSS-Architecture,Interaction-Design,Animation,Transitions,Component-Management,User-Experience
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/umOwpC4V65wR7PMgyzKf7oOZBgk0oVvGKQWvfmZk5bU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/c04d4264-0ff3-40d9-9816-bd43f3e200bb
-banner_image: https://img.recraft.ai/_dAWJ1okHbnBqh_2anP5ANhLI5XqOHwXzna3wxVdbrw/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/68ec2f7a-98ca-429c-a49f-469094688695
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/code-style/2025-05-04_portraitimage_Streamline-Interaction-Design-in-CSS-states_ef4f902f-2aa0-4867-ab6a-99131591fd50_Wj3jG7J81.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/code-style/2025-05-04_bannerimage_Streamline-Interaction-Design-in-CSS-states_09b457b1-b3b9-49f3-9842-c96afa5ff59d_AYF3Pymce.webp
 ---
-
 # Context
 
 Our codebase currently contains various implementations of CSS animations and transitions for interactive elements, particularly hover states. These implementations are scattered across multiple components with inconsistent patterns, making them difficult to maintain, identify, and extend. We need to establish a unified approach to interaction design that ensures consistency while preserving valuable existing patterns.

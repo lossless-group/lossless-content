@@ -12,15 +12,14 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-23
-image_prompt: A thoughtful developer reviewing code and suggesting improvements, surrounded by branching diagrams and preserved legacy code, symbolizing careful, non-destructive refactoring.
+image_prompt: "A thoughtful developer reviewing code and suggesting improvements, surrounded by branching diagrams and preserved legacy code, symbolizing careful, non-destructive refactoring."
 site_uuid: a41c3eaa-5ce4-4773-a8b8-4666990571f4
-tags: [Code-Style, Code-Quality, Maintainability, Refactoring]
+tags: Code-Style,Code-Quality,Maintainability,Refactoring
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/5QWx9-_rM5H1IF53wvbl7t5eHLC9DIY0g84-_q9GIOQ/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/0c37993a-1190-449c-b99f-ce3410574356
-banner_image: https://img.recraft.ai/dttmVz4TKDAi20vor7B8TN4ROUunifxLTCacESNoFAU/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/80a298eb-600d-4225-b681-a9ea74b59777
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/code-style/2025-05-04_portraitimage_Merge-Functionality-into-One-File_cdbced4d-bf87-41c0-9cc5-2ece0cece933_xjUjjSV84.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/code-style/2025-05-04_bannerimage_Merge-Functionality-into-One-File_ef291f50-f06a-410d-b6aa-5101e5ef08a2_lWOs2a_V2.webp
 ---
-
 # Objective:
 
 Preserve and integrate key functionality while streamlining code organization and structure. 
