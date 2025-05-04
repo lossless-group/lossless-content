@@ -1,6 +1,6 @@
 ---
 date_created: 2025-01-24
-date_modified: 2025-04-28
+date_modified: 2025-04-30
 site_uuid: 0cd90519-55d0-4380-b7b9-d416ff0cb24a
 title: Software Development with Code Generators
 lede: 
@@ -11,7 +11,7 @@ status: To-Do
 augmented_with: Perplexica AI
 category: 
 portrait_image: 
-image_prompt: 
+image_prompt: A home is being carefully constructed by bricklayers. Dash from 'The Incredibles' and Flash from the DC Comics franchise are running through the scene, and bricks are flying.
 banner_image: ""
 tags: [State-Of-The-Art-Practices, Vibe-Coding-Practices, Near-Future-Anticipation]
 authors:

@@ -1,6 +1,6 @@
 ---
 date_created: 2024-09-28
-date_modified: 2025-04-28
+date_modified: 2025-04-30
 site_uuid: 261aa002-d0a0-47b4-9f93-8f9cc09ded9d
 title: On Data Gathering
 lede: 
@@ -12,7 +12,7 @@ augmented_with: Perplexica AI
 category: 
 portrait_image: 
 image_prompt: 
-banner_image: ""
+banner_image: A gold mine is in a mountain but all the miners only have shovels.
 tags: [Data-Augmenters, Data-Capture, Data-Wrangling, Data-APIs]
 authors:
   - Michael Staton

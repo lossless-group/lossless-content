@@ -1,28 +1,23 @@
 ---
-title: CSS Animation System
+title: Maintain a CSS Animation System
 lede: A comprehensive guide to the standardized animation and transition system
 date_authored_initial_draft: 2025-04-12
 date_authored_current_draft: 2025-04-12
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft: 
+date_first_published: 
+date_last_updated: 
 at_semantic_version: 0.0.1.0
 publish: true
 status: Implemented
 augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
 category: Specification
 date_created: 2025-04-16
-date_modified: 2025-04-16
+date_modified: 2025-04-30
 site_uuid: e2940d5c-3e5a-4a06-bc7d-c5d0c6bf0ccc
-tags:
-  - CSS-Architecture
-  - Animation
-  - Transitions
-  - Component-Management
-  - User-Experience
+tags: [CSS-Architecture, Animation, Transitions, Component-Management, User-Experience]
 authors:
   - Michael Staton
-image_prompt: "Colorful, smoothly animated shapes and UI elements in motion, set against a modern web interface. The scene radiates creativity and dynamic energy, highlighting the beauty of CSS-powered transitions and effects."
+image_prompt: Colorful, smoothly animated shapes and UI elements in motion, set against a modern web interface. The scene radiates creativity and dynamic energy, highlighting the beauty of CSS-powered transitions and effects.
 banner_image: https://img.recraft.ai/TCJ7hN_K4fmsxiH0vVieoVnMjotJvm_A8piPuBWjd5Y/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/1e8e1268-8647-46d0-a4df-10d0ddb1c161
 ---
 

@@ -3,7 +3,7 @@ date_created: 2024-10-30
 date_modified: 2025-04-28
 site_uuid: 75228be9-4d17-4628-a574-adca63f1f13b
 title: Are Code Generators really the Death of SaaS?
-lede: 
+lede: "At what point is building everything you can dream of cheaper than paying subscriptions?"
 date_authored_initial_draft: 2024-10-30
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1

@@ -6,4 +6,4 @@ date_created: 2025-04-06
 
 [How Hackers take over computers with Reverse Shells](https://youtu.be/Er1nb-4xHdE?si=mQTjFMJylV5ogWIv)
 
-[[essays/Web Security is about Idiocracy]]
+[[essays/Web Security is about Preventing Naivety]]

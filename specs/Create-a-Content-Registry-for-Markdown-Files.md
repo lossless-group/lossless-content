@@ -3,24 +3,20 @@ title: Create a Content Registry for Markdown Files
 lede: Centralized UUID-based registry system for tracking markdown files, their metadata, relationships, and change history
 date_authored_initial_draft: 2025-03-16
 date_authored_current_draft: 2025-03-16
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft: 
+date_first_published: 
+date_last_updated: 
 at_semantic_version: 0.0.1.5
 status: Iterating
-augmented_with: Windsurf IDE with Claude 3.5 Sonnet
+augmented_with: Windsurf IDE with Claude 3.7 Sonnet
 category: Specification
 date_created: 2025-04-16
-date_modified: 2025-04-16
+date_modified: 2025-04-30
 site_uuid: 6302e0f2-5567-44d9-825b-15f1cce1e2d9
-tags:
-  - Scripts
-  - Content-Management
-  - Data-Registry
-  - Build-Process
+tags: [Scripts, Content-Management, Data-Registry, Build-Process]
 authors:
   - Michael Staton
-image_prompt: "A digital library with rows of labeled files and glowing indexes, representing a structured registry. The scene is organized and accessible, conveying the idea of systematic content management."
+image_prompt: A digital library with rows of labeled files and glowing indexes, representing a structured registry. The scene is organized and accessible, conveying the idea of systematic content management.
 banner_image: https://img.recraft.ai/pgIMeSE8l_ULbyRHcLYnfL2at9_nIXK28rJmitTWXk8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/66de72a6-fd02-4477-bfea-113f652fc9ed
 ---
 

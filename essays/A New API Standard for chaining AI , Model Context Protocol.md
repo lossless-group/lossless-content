@@ -4,8 +4,8 @@ site_channel:
 date_created: 2025-03-15
 date_modified: 2025-04-28
 site_uuid: ca6eed65-4ae5-4c20-bb47-efbcaa5d2524
-title: A New API Standard for chaining AI , Model Context Protocol
-lede: 
+title: A New API Standard for chaining AI -- Model Context Protocol
+lede: "A new API standard for chaining and sequencing AI operations, Model Context Protocol, is a game-changer for AI and code generation."
 date_authored_initial_draft: 2025-03-15
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
