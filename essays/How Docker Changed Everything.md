@@ -3,7 +3,7 @@ date_created: 2024-08-18
 date_modified: 2025-04-28
 site_uuid: a396bf72-3bc1-480f-80a1-e9d703d12f69
 title: How Docker Changed Everything
-lede: "Containerization erased all kinds of problems with the scalability and deployement of web services."
+lede: "Docker revolutionized software deployment by making containers the new standard for portability and scalability."
 date_authored_initial_draft: 2024-08-18
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
@@ -11,7 +11,7 @@ status: To-Do
 augmented_with: Perplexica AI
 category: 
 portrait_image: "We see geeky software engineers loading boxes labeled 'Code' onto a shipping contianer box at a large port like the port of Oakland. The container box is labeled 'Docker' and it is one of many being loaded onto a container ship."
-image_prompt: 
+image_prompt: "A shipping port filled with colorful containers, each labeled with software logos, and a giant blue whale (Docker) lifting containers onto ships. The scene is vibrant, technical, and global."
 banner_image: ""
 tags: [Container-Runtimes, Developer-Tools, DevOps, State-Of-The-Art-Practices]
 authors:

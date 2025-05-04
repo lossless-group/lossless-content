@@ -3,7 +3,7 @@ date_created: 2024-11-08
 date_modified: 2025-04-28
 site_uuid: 20654883-39a1-44b4-a6ca-b7afbe5cff17
 title: From Rags to Riches
-lede: Enterprise AI is only powerful with well setup Retrieval Augemented Generation.
+lede: "Retrieval Augmented Generation transforms raw data into enterprise AI gold—if you set it up right."
 date_authored_initial_draft: 2024-11-08
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
@@ -11,7 +11,7 @@ status: To-Do
 augmented_with: Perplexica AI
 category: 
 portrait_image: 
-image_prompt: "The landscape view has a top half and a bottom half. On the top half, we see a young boy pauper begging on a London street corner. Walking by are financiers with suits and top hats. On the bottom half, a software architecture diagram seems to grow out of the point where the young boy stands. The software architecture diagram illustrates Retrieval Augmented Generation, showing an AI GPU chip being fed by a number of different databases and fileservers." 
+image_prompt: "A split scene: on top, a young street pauper in old London; below, a glowing software architecture diagram showing an AI chip fed by databases and fileservers, symbolizing the leap from rags to riches through RAG. The mood is transformative and technical."
 banner_image: ""
 tags: [Best-Practices, AI-Human-Workflow, AI-RAG-Stack, Retrieval-Augmented-Generation]
 authors:
@@ -27,4 +27,3 @@ But for the whole organization to benefit, [[Knowledge Base AI]], using [[RAG]] 
 While much of the tactical work can be left to professionals in [[Data & Analytics]], there is actual enabling work that can only be done by [[Executive Management]]. 
 
 One of the most crucial enabling [[concepts/CARBS]] is to codify [[concepts/Naming Conventions]]. 
-

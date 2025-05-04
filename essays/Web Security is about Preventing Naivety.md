@@ -2,8 +2,8 @@
 date_created: 2024-12-18
 date_modified: 2025-04-30
 site_uuid: 651c6e9b-c169-46d0-ac7a-65af928da319
-title: Web Security is about Idiocracy
-lede: 
+title: Web Security is about Preventing Naivety
+lede: Web security isn’t just about code—it’s about anticipating naivety at every layer.
 date_authored_initial_draft: 2024-12-18
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
@@ -11,7 +11,7 @@ status: To-Do
 augmented_with: Perplexica AI
 category: 
 portrait_image: 
-image_prompt: A big, old school computer monitor has a screen with a warning sign -- Do not click here.  And the mouse is hovering over the caution button.
+image_prompt: A digital fortress with a moat, inside are everyday users, while outside shadowy figures try to cross. The mood is vigilant, modern, and slightly tense.
 banner_image: ""
 tags: [Explainers, Explorations, Web-Security, Privacy-Cloud]
 authors:

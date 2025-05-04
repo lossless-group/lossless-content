@@ -9,9 +9,9 @@ date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.4
 status: To-Do
 augmented_with: Perplexica AI
-category: 
-portrait_image: 
-image_prompt: 
+category: Conceptual-Frameworks
+portrait_image: https://img.recraft.ai/lossless-innovation-theory.png
+image_prompt: "A conceptual diagram showing a bridge between innovation and stability, with icons representing new ideas and customer loyalty. The style is clean and modern."
 banner_image: ""
 tags: [Best-Practices, Collaboration-Tooling, Conceptual-Frameworks]
 authors:
@@ -102,7 +102,3 @@ Similar to [[Mimetic Theory]], to pursue [[concepts/Lossless]] goals is part of 
 
 [^1]:  The American Chemical Society. [George Eastman, Kodak, and the Birth of Consumer Photography: A National Historic Chemical Landmark](https://www.acs.org/education/whatischemistry/landmarks/eastman-kodak.html). 
 [^2]: 2021, May 23. "[History of digital cameras: From '70s prototypes to iPhone and Galaxy's everyday wonders](https://www.cnet.com/tech/computing/history-of-digital-cameras-from-70s-prototypes-to-iphone-and-galaxys-everyday-wonders/)". CNET, Richard Trenholm
-
-
-
-

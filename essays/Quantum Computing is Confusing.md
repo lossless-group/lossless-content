@@ -3,7 +3,7 @@ date_created: 2024-11-02
 date_modified: 2025-04-30
 site_uuid: 727bfc80-ad69-4abc-ac99-43cd33e7d11f
 title: Quantum Computing is Confusing
-lede: We are told it will change everything, but is it a solution looking for a problem?
+lede: Quantum computing shatters intuition, leaving even experts grasping for clarity.
 date_authored_initial_draft: 2024-11-02
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
@@ -11,7 +11,7 @@ status: To-Do
 augmented_with: Perplexica AI
 category: 
 portrait_image: 
-image_prompt: A large quantum computer is in a science laboratory.  It is growing tentacles and grabbing at things.
+image_prompt: A chalkboard filled with quantum equations, a perplexed scientist holding a qubit diagram, and swirling abstract shapes representing superposition and entanglement. The mood is mysterious, technical, and mind-bending.
 banner_image: ""
 tags: [Near-Future-Anticipation, Explorations, Explainers]
 authors:

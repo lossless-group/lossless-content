@@ -3,7 +3,7 @@ date_created: 2024-05-18
 date_modified: 2025-04-30
 site_uuid: b496cd8e-1896-4214-96d7-b1cb167d0233
 title: Timeline of Milestones in Technology
-lede: It's been a long, long time coming.
+lede: "Technology’s history is a timeline of breakthroughs—each milestone reshapes what’s possible."
 date_authored_initial_draft: 2024-05-18
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
@@ -11,7 +11,7 @@ status: To-Do
 augmented_with: Perplexica AI
 category: 
 portrait_image: 
-image_prompt: A historical timeline, with events coming out in angles.
+image_prompt: "A horizontal timeline with icons for major inventions—steam engine, telephone, computer, smartphone—each glowing at its milestone. The mood is historical, energetic, and optimistic."
 banner_image: ""
 tags: [Additional-Context, Explorations, Explainers]
 authors:
@@ -85,4 +85,3 @@ https://youtu.be/OFS90-FX6pg?si=59krfZlRM21AkqLB
 2022, Nov 30. [[GPT-Series Models]] was launched to the public by [[OpenAI]]
 
 2024, Sep 12. [[O-Series Models]] version 1 
-

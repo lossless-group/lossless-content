@@ -3,15 +3,15 @@ date_created: 2024-12-18
 date_modified: 2025-04-28
 site_uuid: a8ae951d-9235-4378-b399-9c4dbd79da84
 title: Consistent Go-to-Market
-lede: "Data inidicates a process to derisk new product development."
+lede: "A disciplined, step-by-step approach is the key to derisking new product launches."
 date_authored_initial_draft: 2024-12-18
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
-category: 
+category: Product-Development
 portrait_image: 
-image_prompt: 
+image_prompt: "A business team gathered around a whiteboard, mapping out a go-to-market strategy with colorful sticky notes and flowcharts, while a product prototype sits on the table. The mood is strategic, energetic, and collaborative."
 banner_image: ""
 tags: [Demand-Generation, Marketing-Automation]
 authors:
