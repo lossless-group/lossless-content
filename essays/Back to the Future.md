@@ -1,9 +1,9 @@
 ---
 date_created: 2024-08-02
-date_modified: 2025-04-28
+date_modified: 2025-05-04
 site_uuid: 4dd251ea-2d66-42ca-ab35-1f5641f14396
 title: Back to the Future
-lede: "As we are living it, we often assume that the new skills must be a huge learning curve.  Yet, for the future of AI, it turns out the old-school, textbook approach is exactly what we need.  So let us go back to the future. "
+lede: "Old-school, textbook approaches are the secret to mastering the future of AI — sometimes, progress means going back to proven basics."
 date_authored_initial_draft: 2024-08-02
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
@@ -11,7 +11,7 @@ status: To-Do
 augmented_with: Perplexica AI
 category: 
 portrait_image: 
-image_prompt: 
+image_prompt: "A robot scientist styled like 'Doc' from Back to the Future, standing beside a futuristic DeLorean with an AI logo, inviting a passenger to learn AI skills. The scene blends retro sci-fi with modern technology."
 banner_image: ""
 tags: [Near-Future-Anticipation, Best-Practices, Conceptual-Frameworks]
 authors:
