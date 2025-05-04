@@ -1,6 +1,6 @@
 ---
-title: Create a Simple Message Grid
-lede: Build a maintainable component pipeline for rendering simple messages dynamically generated from JSON data.
+title: 'Create a Simple Message Grid'
+lede: 'Build a maintainable component pipeline for rendering simple messages dynamically generated from JSON data.'
 date_authored_initial_draft: 2025-04-18
 date_authored_current_draft: 2025-04-18
 date_authored_final_draft: null
@@ -12,6 +12,10 @@ category: Prompts
 date_created: 2025-04-18
 date_modified: 2025-04-18
 image_prompt: "A reusable message grid UI structure featuring modular cards, dynamic filtering, and drag-and-drop reordering. The layout is clean, grid-based, and visually emphasizes reusability and organization."
+augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+portrait_image: 'https://img.recraft.ai/vMF0QFya6k8PAJY9vy8nmtp_NIU5JjHnR9cjlLZDNtU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/91157864-2b50-49d0-809e-27e20f52db56'
+banner_image: 'https://img.recraft.ai/BNdAVZ2qE3gtxWLAjlnmSz2FSGRBNtx2sB7Ul0GZjfk/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/06fcda1b-14bc-463e-9306-2ccea7aa878b'
+site_uuid: 10d162f1-4fb5-4f83-bad1-8cb5f61b1362
 tags:
   - User-Interface
   - Component-Architecture
@@ -20,10 +24,8 @@ tags:
   - Rendering-Pipeline
 authors:
   - Michael Staton
-augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
-portrait_image: https://img.recraft.ai/vMF0QFya6k8PAJY9vy8nmtp_NIU5JjHnR9cjlLZDNtU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/91157864-2b50-49d0-809e-27e20f52db56
-banner_image: https://img.recraft.ai/BNdAVZ2qE3gtxWLAjlnmSz2FSGRBNtx2sB7Ul0GZjfk/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/06fcda1b-14bc-463e-9306-2ccea7aa878b
 ---
+
 # Goal  
 
 Create and introduce a new component pipeline for rendering simple messages dynamically generated from JSON data. The section that renders this component should draw from messages created by site admins, and be easily modifiable by them.

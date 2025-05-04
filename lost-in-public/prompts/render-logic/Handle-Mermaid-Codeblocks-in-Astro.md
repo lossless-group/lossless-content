@@ -1,21 +1,22 @@
 ---
-title: Implement a Comprehensive Mermaid Chart Rendering System in Astro
-description: Create a gorgeous, elegant Mermaid chart rendering system in Astro using Unified.js, Remark, and Rehype. 
+title: 'Implement a Comprehensive Mermaid Chart Rendering System in Astro'
+description: 'Create a gorgeous, elegant Mermaid chart rendering system in Astro using Unified.js, Remark, and Rehype.'
 date_created: 2025-04-24
 date_modified: 2025-04-24
 image_prompt: "A developer at a white board drawing a technical diagram, a flow chart with typical flow chart elements. Several robots are seated, looking at the whiteboard as if they were students taking notes and learning."
-lede: Brief description of the prompt functionality and purpose
+lede: 'Brief description of the prompt functionality and purpose'
 date_authored_initial_draft: 2025-04-24
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Prompt
-augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
 category: Prompts
+banner_image: 'https://img.recraft.ai/RvIDsgm35cGMoMfOZMhSKG9QDZKvX0NRk6uSL7FZXyU/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/4a54148e-9cbc-4636-95ec-5747fc9379b9'
+site_uuid: 04660f3b-4f31-447b-a6b2-6c33add54338
 tags:
   - Render-Logic
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/RvIDsgm35cGMoMfOZMhSKG9QDZKvX0NRk6uSL7FZXyU/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/4a54148e-9cbc-4636-95ec-5747fc9379b9
 ---
 
 # Goals:
