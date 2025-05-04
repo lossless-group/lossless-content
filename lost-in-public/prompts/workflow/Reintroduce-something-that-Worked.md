@@ -1,6 +1,6 @@
 ---
-title: Reintroduce something that worked.
-lede: Speed up time to solution by asking an AI Code Assistant to draw from old code. 
+title: 'Reintroduce something that worked.'
+lede: 'Speed up time to solution by asking an AI Code Assistant to draw from old code.'
 date_authored_initial_draft: 2025-04-21
 date_authored_current_draft: 2025-04-21
 date_authored_final_draft: null
@@ -9,20 +9,22 @@ date_last_updated: 2025-04-21
 date_first_run: 2025-04-21
 at_semantic_version: 0.0.0.1
 status: To-Prompt
-augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
 category: Prompts
 date_modified: 2025-04-21
 date_created: 2025-04-21
 image_prompt: "An AI assistant and user collaboratively editing a prompt, surrounded by evolving prompt bubbles, code suggestions, and feedback loops. Visuals include arrows showing iteration and a sense of creative, continuous improvement."
+portrait_image: 'https://img.recraft.ai/6bCc0NmTSq-1O5EndSdhe9KNSZyim0MUhM9wP7HEea8/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/74e486d2-03b5-4a21-9c94-633651815653'
+banner_image: 'https://img.recraft.ai/jV88_hO0AWFfiEPZC8xicLJfxfke5mFcYzm8qxj768Q/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/faaa6087-7248-4bd3-8015-8112853c2783'
+site_uuid: cfac0a85-2718-45cb-9e8b-99b7e6327e11
 tags:
   - Prompt-Engineering
   - Code-Generators
   - AI-Human-Workflow
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/6bCc0NmTSq-1O5EndSdhe9KNSZyim0MUhM9wP7HEea8/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/74e486d2-03b5-4a21-9c94-633651815653
-banner_image: https://img.recraft.ai/jV88_hO0AWFfiEPZC8xicLJfxfke5mFcYzm8qxj768Q/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/faaa6087-7248-4bd3-8015-8112853c2783
 ---
+
 # Constraints
 Do not blindly copy old code.  Instead, review the parts of the code that worked and are specific to this ask.  
 
