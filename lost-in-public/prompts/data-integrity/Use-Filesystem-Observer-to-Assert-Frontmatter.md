@@ -13,12 +13,12 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-19
 site_uuid: a1e00d51-a725-44e9-af64-ff4eda718e4b
-tags: [Frontmatter-Validation, File-Processing, Build-Scripts, File-Systems]
+tags: Frontmatter-Validation,File-Processing,Build-Scripts,File-Systems
 authors:
   - Michael Staton
 image_prompt: A pair of binoculars is sitting on top of a set of filing folders.  A file cabinet is off to one side.
-portrait_image: https://img.recraft.ai/J-EpVRVHTznDMknDSKHYpUt0ks3yL_ZLNmf8dAColYI/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/78d22ffc-0573-40c3-a7e3-7680ae9d1a86
-banner_image: https://img.recraft.ai/6YWDoTM8qGUklhbVNSy6LITaAQEajd5uxnRg5XtDhqQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/90af847a-241c-4250-be5f-7be0168c035b
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Use-Filesystem-Observer-to-Assert-Frontmatter_2b3c0a99-d976-4c55-98cf-6a7eea9e5c78_fXaf2xQCf.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_banner_image_Use-Filesystem-Observer-to-Assert-Frontmatter_04c536a7-5cde-4c0e-bbeb-ecc251b1c11b_up_w9RUcr.webp
 ---
 ## Objective: 
 Leverage the file system libraries to observe directories for new files, insert frontmatter templates.
