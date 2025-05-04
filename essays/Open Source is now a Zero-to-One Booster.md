@@ -9,10 +9,10 @@ date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
-category: 
-portrait_image: https://img.recraft.ai/vpOS1uKXxUIHaJxuz562dy8gDDjDUpzhrV7ICR3BV7k/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/6d1e6e59-cedc-4446-a1e4-c5a3a59a9483
-image_prompt: "A rocket launching from a platform labeled 'Open Source,' with diverse engineers collaborating below and digital blueprints streaming into the sky. The mood is energetic, collaborative, and innovative."
-banner_image: https://img.recraft.ai/CBAbZ2T8n2GxRzuNPHkczH9gQLj1F000M7zhaBO8EX0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/20ba2b7d-2619-4c2f-8d11-3691bc37f9e8
+category: Open-Source
+portrait_image: 
+image_prompt: A Mario Kart style racing line is viewed from the side. The racer towards us is Mario in his Mario Kart, with a nitro booster firing from the back of his Kart.  Everyone is is a normal Race Horse Jockey on a Race Horse.
+banner_image: ""
 tags: [Open-Source, Open-Source-Alternatives, Developer-Experience, Developer-Tools]
 authors:
   - Michael Staton

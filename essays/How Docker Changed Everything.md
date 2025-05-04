@@ -10,11 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: https://img.recraft.ai/xBxReHl1IwCVaAofFgH8hDMXbaDQZWjtloGGVT8EayA/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/84053ef6-ae1d-4e6c-ad7e-ba00d3315246
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_How-Docker-Changed-Everything_84053ef6-ae1d-4e6c-ad7e-ba00d3315246_nFNqrcAnS.jpg
 image_prompt: "A shipping port filled with colorful containers, each labeled with software logos, and a giant blue whale (Docker) lifting containers onto ships. The scene is vibrant, technical, and global."
-banner_image: https://img.recraft.ai/BGVLpXGphPdEwLZK7Ei1M7K5SeSpBL1dlabZTENyDBg/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/2e9ab367-c44f-46a0-af0d-7d2e7d1f372b
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_How-Docker-Changed-Everything_2e9ab367-c44f-46a0-af0d-7d2e7d1f372b_0VO86qIFG.jpg
 tags: [Container-Runtimes, Developer-Tools, DevOps, State-Of-The-Art-Practices]
-authors:
+authors: 
   - Michael Staton
 ---
 

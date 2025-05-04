@@ -10,11 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: https://img.recraft.ai/HkX_WA7xDQRjAcFL9hMH6yXcWxVjdPLMISYpAXfOfzE/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/e0deec41-f157-4ff3-8f3a-01d8cd6119bc
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Web-Security-is-about-Preventing-Naivety_e0deec41-f157-4ff3-8f3a-01d8cd6119bc_0DzSYGdQm.jpg
 image_prompt: A digital fortress with a moat, inside are everyday users, while outside shadowy figures try to cross. The mood is vigilant, modern, and slightly tense.
-banner_image: https://img.recraft.ai/JONbDVJF9VBF7sPFV1dnlCXKXmgRZEUIQU9zUr1be4A/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/b59c34e3-ddcf-4b36-b2e1-33361e161945
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Web-Security-is-about-Preventing-Naivety_b59c34e3-ddcf-4b36-b2e1-33361e161945_f3ABHaI7G.jpg
 tags: [Explainers, Explorations, Web-Security, Privacy-Cloud]
-authors:
+authors: 
   - Michael Staton
 ---
 

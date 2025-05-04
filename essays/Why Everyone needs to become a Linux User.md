@@ -10,11 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: https://img.recraft.ai/CR72J0vr_xfw55D_SJQ9AsZK2Vbx499VkL3GTormsSI/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/fa43d557-806f-4045-ac5b-8e6a120b0fbb
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Why-Everyone-needs-to-become-a-Linux-User_fa43d557-806f-4045-ac5b-8e6a120b0fbb_N-ek3-5247.jpg
 image_prompt: "A diverse group of people gathered around a penguin (Tux), each using different devices—laptop, tablet, phone—against a backdrop of open-source icons. The mood is inclusive, empowering, and modern."
-banner_image: https://img.recraft.ai/W_zjoF64K_h-uht9I_-gIyDRNEgNELMdl41vJv_fNxs/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/f0e2cd9d-7e7d-4fa2-ad35-26dff421a62f
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Why-Everyone-needs-to-become-a-Linux-User_f0e2cd9d-7e7d-4fa2-ad35-26dff421a62f_vL00R6uJC.jpg
 tags: [Recommendations, Linux-Distributions, State-Of-The-Art-Practices]
-authors:
+authors: 
   - Michael Staton
 ---
 

@@ -10,11 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: https://img.recraft.ai/XmiLF9AKUB4O9rSk6fGWAAol8WMa8AhDaayFFceZ0jY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/99f9f41c-a6ba-4a8f-9b9f-19e87d42f2ec
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Tectonic-Shifts-and-Business-Configuration_99f9f41c-a6ba-4a8f-9b9f-19e87d42f2ec_C2iGTik5i.jpg
 image_prompt: "A city skyline with skyscrapers shifting and reconfiguring like tectonic plates, while digital waves ripple through the scene. The mood is dramatic, business-focused, and transformative."
-banner_image: https://img.recraft.ai/cC0e04F793m9xrvlW0wLLOpK72ZHOBwvb_4m6U8nRs8/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/0f2a2b7d-1cfa-43d9-bb50-7196ca5ef2b6
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Tectonic-Shifts-and-Business-Configuration_0f2a2b7d-1cfa-43d9-bb50-7196ca5ef2b6_R1SprsQGD.jpg
 tags: [Conceptual-Frameworks, Near-Future-Anticipation]
-authors:
+authors: 
   - Michael Staton
 ---
 

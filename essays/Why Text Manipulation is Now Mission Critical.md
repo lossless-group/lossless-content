@@ -8,12 +8,12 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: Blind-Spots
-portrait_image: https://img.recraft.ai/3lyt6y6hfYffOxP3xUf-q65LSZa4zFLVybiuH6R-Do0/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/20b00aea-430f-42f5-938f-bd45fbf50d45
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Why-Text-Manipulation-is-Now-Mission-Critical_20b00aea-430f-42f5-938f-bd45fbf50d45_or9ISGmLZ.jpg
 image_prompt: "A developer surrounded by swirling streams of text, code, and data, with tools like pipes and filters transforming the flow. The mood is technical, fast-paced, and empowering."
-banner_image: https://img.recraft.ai/nWn8bdItmon-L33Z5hSuQk48kXhrBsWfgbmzA_UqjV8/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/1cb56b21-45b2-41b4-988e-cc50dbefb356
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Why-Text-Manipulation-is-Now-Mission-Critical_1cb56b21-45b2-41b4-988e-cc50dbefb356_KODAjAMOq.jpg
 site_uuid: 78f5f271-c08f-4d80-98ff-8e1430f23f75
 title: Why Text Manipulation Is Now Mission Critical
 tags: [Abstract-Syntax-Trees, Near-Future-Anticipation, Additional-Context, Markdown, JavaScript-Ecosystem]
-authors:
+authors: 
   - Michael Staton
 ---

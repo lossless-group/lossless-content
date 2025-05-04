@@ -10,11 +10,11 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: https://img.recraft.ai/hXQcx07hayXbbexFfDrx4ssNcEnyXp-CI5eILfMo-dA/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/43cdd2a9-3f76-45d2-a444-8993277717ca
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Why-User-Research-Repositories_43cdd2a9-3f76-45d2-a444-8993277717ca_byb3I06aw.jpg
 image_prompt: "A Brady Bunch style layout with square frames around different user personas and archetypes."
-banner_image: https://img.recraft.ai/1RGf8NOcYUP4A2CLkd88VhDovrPQWY1kuvyniYGRnx8/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/2667a2fd-34b3-4404-a9c2-d1a269f79e29
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Why-User-Research-Repositories_2667a2fd-34b3-4404-a9c2-d1a269f79e29_lEtls1hsJ.jpg
 tags: [User-Experience, Design-Practices, State-Of-The-Art-Practices, Product-Development, Design-Tools]
-authors:
+authors: 
   - Michael Staton
 ---
 
