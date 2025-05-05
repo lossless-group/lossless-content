@@ -14,7 +14,7 @@ category: Technical-Specifications
 date_created: 2025-04-16
 date_modified: 2025-04-16
 site_uuid: 1e30bfb4-8613-4ebc-ad72-90fe2f462314
-tags:
+tags: 
   - Svelte
   - Component-Architecture
   - State-Management
@@ -23,9 +23,9 @@ tags:
 authors:
   - Michael Staton
 image_prompt: "Interactive UI panels with sortable and filterable lists, animated with smooth transitions. The design is sleek and modern, highlighting user empowerment and flexibility."
-banner_image: https://img.recraft.ai/1StH-cP2OuWh3IJp_Tagops56q6bqKDhZIgRSFsGOww/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/ad9c267c-ff99-4b8a-a24e-1d66aadbfa23
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Implement-Dynamic-Sort--Filter-with-Svelte_800f8658-473a-4608-a7df-0feb2ddba767_Vxz0dBDMS.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Implement-Dynamic-Sort--Filter-with-Svelte_9ca47a52-0206-4742-8a25-1e7a464aae16_vtLL9e5jQ.webp
 ---
-
 # Overview
 
 This specification outlines the migration of the TagColumn and filtering functionality from vanilla JavaScript in Astro to Svelte components. The goal is to leverage Svelte's reactive state management and component system to create a more maintainable and performant implementation.

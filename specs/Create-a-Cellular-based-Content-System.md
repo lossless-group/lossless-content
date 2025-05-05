@@ -6,18 +6,24 @@ generated_with: MSTY on Gemma 3
 categories:
   - Markdown-Rendering
 date_created: 2025-04-30
-date_modified: 2025-04-30
+date_modified: 2025-05-05
 lede: A Desktop Publisher for the Markdown era.
 status: Draft
-tags: [Markdown, Desktop-Publishing, Component-Architecture, Cross-Platform]
+tags: 
+- Markdown
+- Desktop-Publishing 
+- Component-Architecture
+- Cross-Platform
 authors:
   - Michael Staton
 image_prompt: A wall of different "Graphic Design" artifacts. Some look like pamphlets, some look like posters"
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Create-a-Cellular-based-Content-System_7a9546e3-125b-479e-a134-cabe7dc3ad70_wo1vk5ujl.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Create-a-Cellular-based-Content-System_fa0e86ec-967f-4f8c-8401-de21e226bd73_jLLqn7Kiz.webp
 ---
-
-
-
 Okay, let’s flesh out this concept with technical documentation, focusing on the core design and implementation. Here’s a draft, broken down into sections with detailed explanations and considerations. We’ll start with a high-level overview and then dive into specific aspects.
+
+# Inspiration Set
+
 
 **1. Core Concept: Cellular Node System**
 

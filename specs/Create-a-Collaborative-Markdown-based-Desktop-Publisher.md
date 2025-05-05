@@ -10,14 +10,17 @@ lede: Technical specification document outlining implementation details
 status: Draft
 category: Technical Specifications
 site_uuid: 22f247fd-39aa-48e9-84d8-f46d5fb8fc28
-tags: [Markdown, Desktop-Publishing, Component-Architecture, Cross-Platform]
+tags: 
+- Markdown 
+- Desktop-Publishing
+- Component-Architecture
+- Cross-Platform
 authors:
   - Michael Staton
 image_prompt: "A vibrant code editor window displaying highlighted code blocks, surrounded by glowing brackets and syntax symbols. The focus is on clarity, readability, and the elegance of well-rendered code."
-banner_image: https://img.recraft.ai/wLmggC-PI27PJCaBBBhdlC1PJkvGFkf9iqQ3zti19P8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d7de731b-3e7a-4575-be19-2a1cb73bc53c
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Create-a-Collaborative-Markdown-based-Desktop-Publisher_e5857fe4-f780-40bc-863f-6b4042254632_y1hFAhX4x.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Create-a-Collaborative-Markdown-based-Desktop-Publisher_b6e895a7-634b-48fa-8a60-577b09774334_YhRuUV44UD.webp
 ---
-
-
 There is a gap in the existing tools – the ability to create truly custom Markdown with a high degree of control and flexibility, and the desire for a native, cross-platform experience.  Let’s break down how you might approach this, considering your web development background and the requirements for a desktop publishing-like editor.
 
 Here’s a breakdown of the key challenges and potential architectural choices, focusing on a native, cross-platform approach:

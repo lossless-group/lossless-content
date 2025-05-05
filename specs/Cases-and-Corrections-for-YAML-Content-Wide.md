@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 status: Draft
 site_uuid: e2942c54-27e6-46c0-bacf-9b8320595063
-tags:
+tags: 
   - YAML
   - Frontmatter
   - Error-Detection
@@ -22,9 +22,9 @@ tags:
 authors:
   - Michael Staton
 image_prompt: "A detective’s magnifying glass hovering over lines of code and YAML files, with highlighted corrections and annotations. The atmosphere is investigative, emphasizing problem-solving and meticulous attention to detail."
-banner_image: https://img.recraft.ai/pySn9PpbSCdfUWZ9-QXnuhgSLg0z8UzvEDokjGaI1vg/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/344aa2e2-b07f-4bbe-bd8d-6eb3f6c1ebac
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Cases-and-Corrections-for-YAML-Content-Wide_9c3d0755-1b8c-4d14-9c5b-ae97ae37210f_ATZODzFAO.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Cases-and-Corrections-for-YAML-Content-Wide_1301a1a8-571d-4a55-bcee-7385fc2c9e5f_hAggZBkAr.webp
 ---
-
 # YAML Frontmatter Error Detection and Correction System
 
 ## Executive Summary
