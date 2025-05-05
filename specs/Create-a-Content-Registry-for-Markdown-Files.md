@@ -13,13 +13,17 @@ category: Specification
 date_created: 2025-04-16
 date_modified: 2025-04-30
 site_uuid: 6302e0f2-5567-44d9-825b-15f1cce1e2d9
-tags: [Scripts, Content-Management, Data-Registry, Build-Process]
+tags: 
+- Scripts 
+- Content-Management 
+- Data-Registry
+- Build-Process
 authors:
   - Michael Staton
 image_prompt: A digital library with rows of labeled files and glowing indexes, representing a structured registry. The scene is organized and accessible, conveying the idea of systematic content management.
-banner_image: https://img.recraft.ai/pgIMeSE8l_ULbyRHcLYnfL2at9_nIXK28rJmitTWXk8/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/66de72a6-fd02-4477-bfea-113f652fc9ed
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Create-a-Content-Registry-for-Markdown-Files_83bc1736-e670-4018-9832-b1bf5e72783a_fM7kKEn2n.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Create-a-Content-Registry-for-Markdown-Files_69e7471d-0a2b-4e8a-b88c-c2024adb4a4b_ZkTXtfWcfZ.webp
 ---
-
 ## Executive Summary
 
 The Content Registry system (`trackMarkdownFilesInRegistry.cjs`) is a critical component of our content management infrastructure. It maintains a centralized, UUID-based registry of all markdown files, tracking their metadata, relationships, and complete history of changes.

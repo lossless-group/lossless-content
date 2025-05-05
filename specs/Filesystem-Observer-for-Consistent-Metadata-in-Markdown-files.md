@@ -13,13 +13,19 @@ date_created: 2025-04-16
 date_modified: 2025-04-25
 status: In-Progress
 site_uuid: a065f528-1a6e-4e05-93e6-e72f00c7364b
-tags: [Frontmatter-Consistency, Data-Integrity, Metadata-Consistency, Content-Integrity, Content-Automation, Filesystem-Observers]
+tags: 
+- Frontmatter-Consistency
+- Data-Integrity
+- Metadata-Consistency
+- Content-Integrity
+- Content-Automation
+- Filesystem-Observers
 authors:
   - Michael Staton
 image_prompt: A robotic eye scanning folders and files, overlaying metadata tags and consistency checks. The visual is futuristic, emphasizing vigilance and automated oversight.
-banner_image: https://img.recraft.ai/A1bjY-BDZAn8v0q1M6t3Bum-SR9s2xlPli-Hm2xI_dg/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/74bebcac-ae77-4669-9453-1ac84bf9f42a
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Filesystem-Observer-for-Consistent-Metadata-in-Markdown-files_356c94c5-2315-4e14-8662-6566f2acd4d6_QDS5r0uh1.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Filesystem-Observer-for-Consistent-Metadata-in-Markdown-files_b9aa2e74-677f-400e-b8b0-546e48ea6e6c_XJ6A0WALQ.webp
 ---
-
 # Context
 
 ## Objective:

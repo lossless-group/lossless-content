@@ -14,7 +14,7 @@ category: Specification
 date_created: 2025-04-16
 date_modified: 2025-04-16
 site_uuid: 67328acf-d197-408b-8c52-1995d7d61d7a
-tags:
+tags: 
   - Search
   - Pagefind
   - Rust
@@ -23,7 +23,7 @@ tags:
 authors:
   - Michael Staton
 image_prompt: "A magnifying glass over a search bar, with highlighted results appearing on a digital interface. The image conveys discovery, clarity, and the power of effective search tools."
-banner_image: https://img.recraft.ai/064iVD0CztT-iE_ScX4z9x6vxnNbNLjoJBoEmOkjQyo/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/047f0e89-c3e8-4202-b823-ede7de950dba
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Search-Spec_70a07f30-1fcd-4974-b1f5-c38de755a6a0_nAskdVYWJ.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Search-Spec_2ea5294e-f248-4290-91ec-8e2b69aace47_ePkc55z2x.webp
 ---
-
 Use [[Tooling/Software Development/Programming Languages/Libraries/Pagefind|Pagefind]] written in Rust 

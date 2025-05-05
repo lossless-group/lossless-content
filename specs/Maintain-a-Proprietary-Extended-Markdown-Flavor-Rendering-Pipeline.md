@@ -15,12 +15,17 @@ date_created: 2025-04-16
 date_modified: 2025-04-25
 image_prompt: "A pipeline of documents passing through various transformation stages, with icons for custom Markdown features. The scene is innovative and technical, illustrating advanced content processing."
 site_uuid: bc4e5951-73e6-4e3c-a64a-d298185c0321
-tags: [Render-Logic, Astro, Markdown-Enhancement, Custom-Rendering, Content-Display]
+tags: 
+- Render-Logic
+- Astro
+- Extended-Markdown
+- Custom-Rendering
+- Content-Display
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/ZuMoPafOOcwR-D7XH9Qi9TOsFAXFMjnbt6SL75VcNdE/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/b7dc63d3-7728-425d-81a1-fa8aa8f3209b
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Maintain-a-Proprietary-Extended-Markdown-Flavor-Rendering-Pipeline_969f3519-cb5e-4c9f-b6d1-12903df77cdd_D21OVdfsp.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Maintain-a-Proprietary-Extended-Markdown-Flavor-Rendering-Pipeline_2452708e-6281-4093-a212-c8cd5be60543_6oEmSvy4c.webp
 ---
-
 # ABSOLUTE 150% DO NOT FUCKING FUCK WITH ME CONSTRAINTS
 
 ## THIS PROJECT IS DEVELOPED, EVERYTHING HAS A PLACE. 

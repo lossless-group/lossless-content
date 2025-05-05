@@ -14,13 +14,18 @@ category: Specification
 date_created: 2025-04-16
 date_modified: 2025-04-30
 site_uuid: e2940d5c-3e5a-4a06-bc7d-c5d0c6bf0ccc
-tags: [CSS-Architecture, Animation, Transitions, Component-Management, User-Experience]
+tags: 
+- CSS-Architecture
+- Animation
+- Transitions
+- Component-Management
+- User-Experience
 authors:
   - Michael Staton
 image_prompt: Colorful, smoothly animated shapes and UI elements in motion, set against a modern web interface. The scene radiates creativity and dynamic energy, highlighting the beauty of CSS-powered transitions and effects.
-banner_image: https://img.recraft.ai/TCJ7hN_K4fmsxiH0vVieoVnMjotJvm_A8piPuBWjd5Y/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/1e8e1268-8647-46d0-a4df-10d0ddb1c161
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Maintain-a-CSS-Animation-System_5106c20b-3175-403b-a0f9-b1e62d71aefc_g-60us6Y3.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Maintain-a-CSS-Animation-System_e559e258-efce-4609-baba-cb8e4cc24e24_Ddt-nqJ9i.webp
 ---
-
 # CSS Animation System
 
 This document outlines the standardized animation and transition system implemented across our component library. The system provides a consistent approach to animations, transitions, and interactive states.

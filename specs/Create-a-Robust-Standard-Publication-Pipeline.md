@@ -6,14 +6,18 @@ authors:
   - Michael Staton
 publish: true
 category: Technical Specifications
-tags: [Content-Management, Astro, Automation, Filesystem-Observers]
+tags: 
+- Content-Management
+- Astro 
+- Content-Automation
+- Filesystem-Observers
 date_created: 2025-04-12
 date_modified: 2025-04-25
 site_uuid: 550e8400-e29b-41d4-a716-446655440000
 image_prompt: A high-tech assembly line with documents moving through various quality checkpoints, ending in a polished, published article. The image conveys reliability, automation, and editorial excellence.
-banner_image: https://img.recraft.ai/TxR0LZ1ppUliGTrwYIbaSdll-VVVRgw2TaROAx5WNGs/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/fd1da19e-dcff-4a27-aaed-d52f16a6ca3e
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Create-a-Robust-Standard-Publication-Pipeline_7ebe61d1-ef44-4fe9-84f3-faa40187d27f_3fqwk2VsdM.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Create-a-Robust-Standard-Publication-Pipeline_a02e901e-b677-4960-b128-012fbe245165_0EogkBH-y.webp
 ---
-
 # Robust Standard Publication Pipeline
 
 ## Overview
