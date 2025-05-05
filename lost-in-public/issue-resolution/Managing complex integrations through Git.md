@@ -20,9 +20,9 @@ tags:
   - Monorepo-Management
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://img.recraft.ai/IwgX92tNhJkT4M5dY3TmGY7ocpsNiAL2mywyS_rkaN4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/fd6fe19a-1d2c-4343-8743-a10d420dca53
 image_prompt: A Git graph with multiple branches and submodules, showing complex integrations and command-line tools in action.
-banner_image: https://img.recraft.ai/8OxEMj7V7TO3A27iG370a4yQgsuFCeRht4hV8lcwT2w/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/d4f46115-68f4-40d8-823a-983fb4e49a59
+banner_image: https://img.recraft.ai/W2LPJaacvM8XglDTvRNTVurbEr1tM7GnUolo3vGMuiE/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/dad8dfad-cc2e-45e2-ac13-460ba19a7b53
 ---
 
 # Essential Git Commands for Complex Integrations

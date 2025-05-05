@@ -21,9 +21,9 @@ tags:
   - AST-Transformation
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://img.recraft.ai/Gw7bKQ2v4OY22_joWLM3LUZ4rGa8AWc_HotWvgwCEbk/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/b7b8d92b-48c7-4c54-b4a6-d62b76ca76e5
 image_prompt: Markdown document with citation superscripts, footnotes, and AST nodes, visualized in a modern code pipeline style.
-banner_image: https://img.recraft.ai/ba_y4Bj6MsWcyOiIq-ukdRIzWctcVZyPMXvTYymIlBo/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/e703f3d7-0a3c-40ec-b041-0b202c9029aa
+banner_image: https://img.recraft.ai/w4yhvakRPN2biZY4qwpmVj2ZYLiBwTDNRnqWskxb5BM/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/6b596573-95f9-4e2f-95e1-bff37df22b5c
 ---
 
 # Issue Resolution Breadcrumb: Citations Section Not Rendering Separately After Syntax Change

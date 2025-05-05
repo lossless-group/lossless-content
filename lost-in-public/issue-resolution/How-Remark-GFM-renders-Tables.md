@@ -19,9 +19,9 @@ tags:
 site_uuid: 8ca16303-83b4-4f02-b82c-3ff1f2c4f2a4
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://img.recraft.ai/jaTpqghUyV8fssE8DGmBGj2sXmqPQ1xw1dCjpkHAw6I/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/686bdea8-3111-4dac-86a6-8c132c212dc3
 image_prompt: "A Markdown table morphs into a vibrant AST diagram, arrows showing the transformation from markdown source to rendered HTML, with plugin logos floating above a digital workspace."
-banner_image: https://img.recraft.ai/hqZdYRtGG154hzdp8oQTqLboXYkNSi21blNssS3fG8E/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/159ecdd5-4c8d-4612-b93a-e802a9066e3c
+banner_image: https://img.recraft.ai/fEoBB6iOKLQEGlZatwKLCcBmzYKBf7qY0pizpeCc4r0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/94cdf527-9029-483a-9ae9-29d746db2e5a
 ---
 
 # How remark-gfm Renders Tables: The Complete, Life-Saving Technical Guide

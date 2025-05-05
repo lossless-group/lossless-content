@@ -20,9 +20,9 @@ tags:
   - Hidden-Files
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://img.recraft.ai/4Yr3KiA-F5896RsJhgjaaFEHKIK4Cx2qg7LrDptngyw/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d9987843-2547-4c6a-9a13-48e736722756
 image_prompt: An Obsidian vault frozen with a looping regex pattern, surrounded by hidden files and directory trees, visualizing a memory hang.
-banner_image: https://img.recraft.ai/8ERRrVo6jOu4i1V0hazN9Z_us7TlEwW6o-MMozPFkHQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/bc9ab224-7106-4c27-b930-81e205a3dc91
+banner_image: https://img.recraft.ai/A9ZfiaqDAXRWCQ6I3uWGtOrDdMtzkTmB2DLiS6UIwD4/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/2e49d249-fee0-4623-9337-0f502639c286
 ---
 
 ![](https://i.imgur.com/3HfecxN.gif)

@@ -22,7 +22,8 @@ tags:
   - Layout
   - Astro
   - Separators
-banner_image: https://img.recraft.ai/V23kPXRD6SMBJDXWlq9y5M7gv--d6YbzqDyiiuuKzs0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/98a84289-3760-46e7-8886-7bedae4e8c60
+banner_image: https://img.recraft.ai/zwGOV7_JgygWoqlCGgglCGOZRwmWEQBBPEpkw0SLSgo/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/4d208117-2735-419c-a196-39b9703d71cb
+portrait_image: https://img.recraft.ai/vTkSBU_7j3R0ll4s_gWSGLVfhoviwiD_9FkJx9CCtfc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/2dff6a22-ba8c-407b-b88a-e2f889b61d0a
 ---
 
 # Full-Width Separator Issue Resolution

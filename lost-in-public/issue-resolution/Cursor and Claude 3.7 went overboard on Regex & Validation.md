@@ -14,9 +14,9 @@ category: Vibe-Coding
 tags:
   - Regex
   - AI-Workflows
-portrait_image: ""
+portrait_image: https://img.recraft.ai/B8_eZt05YywwvSupUMz75A_VVJ4NWWqPYco_eg_CPGc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/1d6a7df9-cd5a-4646-ba06-fc4c88c367d0
 image_prompt: "A tangled web of regex symbols and warning signs, with two AI avatars (Cursor and Claude) struggling to untangle validation logic."
-banner_image: https://img.recraft.ai/suhAZ6jMTP4_gEsM_FcZQuLOKF6elL-VzrxSEfvyiMs/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/23df6d2b-9d7e-4e14-a487-227ca585f30f
+banner_image: https://img.recraft.ai/EzJx5-9kamx6YkEGchcXvN6kqVrvZNtxWMw66l7bIcI/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/2a084906-f547-4bd9-b8a1-661cd2fb5ea9
 date_modified: 2025-04-23
 date_created: 2025-03-30
 authors:

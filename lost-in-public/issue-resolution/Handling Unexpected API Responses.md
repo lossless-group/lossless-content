@@ -20,9 +20,9 @@ tags:
   - Error-Handling
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://img.recraft.ai/pm8_ivAUkMGNApVQAhb1UKWpza_dJF4nDDGl_h5OYCU/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/31a3518d-7159-4ce1-9873-fa3ea7860db8
 image_prompt: An API response with unpredictable shapes (strings, arrays, objects) being normalized into a clean, structured frontmatter block.
-banner_image: https://img.recraft.ai/eQQAKm8bsIqL7N-MxgK6Gp6iyo3irE5HGPBc4lGILZk/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/23640490-329b-49b5-b71c-fd27e5924dc0
+banner_image: https://img.recraft.ai/bXzXzWUIFjCz7t50bmEvrMyFC9dQGaO9SRBm2mEV_N4/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/b6550e88-5541-42bd-a842-d3ff4d693b78
 ---
 
 # Handling Unexpected API Responses

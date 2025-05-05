@@ -20,9 +20,9 @@ date_created: 2025-04-12
 date_modified: 2025-04-23
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://img.recraft.ai/1SQgS4n9GV4vyC0FKywddypiJiXfIJ7y-5XATze2Qlk/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/325d5621-cfca-46de-94be-9dc6de578f8d
 image_prompt: "Astro logo assembling puzzle pieces labeled 'title', 'slug', and 'aliases' into a complete data object, with a background of code and a successful build checkmark."
-banner_image: https://img.recraft.ai/iwYL9vmMFgGLRh1yB6ZykBAu3DLLlCZPuN4rY65afgU/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/51c608c6-1fb3-4ece-a748-84737b128178
+banner_image: https://img.recraft.ai/TgmQ4QBDYYmZcLTIjMGkK2yedtKcSLmB1WYjgOuN0Jc/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/2c9ff41e-a28c-483e-be87-f4080f8302c7
 ---
 
 # Computing Entry Object Values in Astro

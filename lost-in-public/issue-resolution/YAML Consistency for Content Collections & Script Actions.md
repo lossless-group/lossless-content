@@ -19,9 +19,9 @@ tags:
   - Automation-Tools
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://img.recraft.ai/JFoNamUQ5irp1NHTXa0o5WDAPxoOus9W8TP7V3-MreA/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/2a076b11-642f-4a45-86d3-7d239cfdf190
 image_prompt: YAML frontmatter with checkmarks, Astro content collection icons, and script automation visualized in a modern workspace.
-banner_image: https://img.recraft.ai/RV-7S8tyr7mQ3blunMcJXVS4gwQXMKDAziWQ2oN781I/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/64d57378-c657-44a1-966d-9e763ca4ad5b
+banner_image: https://img.recraft.ai/EI1zHsgDx0U2XKHp66PzemxHhULlGoF5wR7yq33slnY/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/4e36bbcb-1545-44f1-b91a-e7f297288168
 ---
 
 ## And it turns out that there is an [[Obsidian]] plugin that can do content-wide transormations:

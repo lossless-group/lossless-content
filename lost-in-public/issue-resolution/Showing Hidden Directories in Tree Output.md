@@ -20,9 +20,9 @@ tags:
   - Project-Structure
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://img.recraft.ai/7nZlT0SrHfPilAmcC5ZNbK3CEbOsM5E9YAo5SDr3PPA/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/b56c895f-cc46-411a-8be0-de862ae4d360
 image_prompt: Terminal window showing a tree command output with hidden directories and files, modern developer workspace, clean visualization.
-banner_image: https://img.recraft.ai/eqQaXeaUKp7kyF_QibedWXBwyL0nn-K1zfIae3SbXp8/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/51c69f72-4b8c-42fe-b1e2-b7aaf7585337
+banner_image: https://img.recraft.ai/5LEo84J6EJF_5tAxZP8cSXx_6W5nG8das3-NqnStGZ0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/0b25d8ca-8eae-4cc3-a39b-e8fa037301e0
 ---
 
 .

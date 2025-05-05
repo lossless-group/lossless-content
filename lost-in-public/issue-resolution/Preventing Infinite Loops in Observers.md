@@ -20,9 +20,9 @@ tags:
   - Frontmatter-Repair
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://img.recraft.ai/hTVPqe_ogZQe3n1FyYhFor8eWGgeXGnPHD_pO_AEV_M/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/62575486-384d-433a-a938-1d931a1a2fdb
 image_prompt: An observer process surrounded by looping arrows and YAML frontmatter blocks, with a shield icon representing prevention of infinite loops and redundant writes.
-banner_image: https://img.recraft.ai/1r5wrf6nhoI5l5YKP6QDlJ-GRvTC85T7wWilpOqxEiY/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/ff9c83c7-ee2d-4bed-88cd-805f9739453d
+banner_image: https://img.recraft.ai/1_s4fO6fQhRFjgV1aZW5-rdc-3_tS9ykMHhHUvWhg-Y/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/f08fe681-f1be-4abb-8d0a-1d56b2439c65
 ---
 
 **Reference Prompt:** @[content/lost-in-public/prompts/workflow/Write-an-Issue-Resolution-Breadcrumb.md]
