@@ -16,14 +16,14 @@ image_prompt: "A robot is writing at an antique desk with a quill and ink by can
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Help-Write-a-YAML-property-for-a-Directory-of-Files_194d6779-c61d-4752-9e41-9f62e2d65472_EfY0L5Jz_.webp
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Help-Write-a-YAML-property-for-a-Directory-of-Files_d49e031c-30d0-442c-8124-a6a57ebd2f9b_ILIUBDPO8.webp
 site_uuid: a8c08e45-4629-491f-b1b8-2d85b7fa98d1
-tags: Workflow,YAML,Generative-AI,Agentic-AI,Data-Integrity,Content-Automation
+tags: 
   - Workflow
   - YAML
   - Generative-AI
   - Agentic-AI
   - Data-Integrity
   - Content-Automation
-authors: Michael Staton
+authors: 
   - Michael Staton
 ---
 # Context

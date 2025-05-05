@@ -16,13 +16,13 @@ image_prompt: "An inspector with a clipboard is looking at a cloud of files, lai
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Report-on-YAML-Idiosyncracies_f43c70f0-cbbd-489e-b7db-df43101aa77b_pqJcONL6n.webp
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Report-on-YAML-Idiosyncracies_ae2f4751-3236-4e5f-88bc-ba5f68e7b916_oFKz-cyP5.webp
 site_uuid: 3ee8db36-e6e5-4e32-91a6-61b7c3b2df86
-tags: Scripting,YAML,Reporting-Templates,Data-Integrity,Content-Automation
+tags: 
   - Scripting
   - YAML
   - Reporting-Templates
   - Data-Integrity
   - Content-Automation
-authors: Michael Staton
+authors:
   - Michael Staton
 ---
 # Higher-Order Objective:

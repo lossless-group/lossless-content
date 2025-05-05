@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A UI template being repurposed in a codebase, with highlighted reusable components, a code editor view, and a preview pane showing the adapted interface. The design is collaborative, modular, and developer-focused."
 site_uuid: 87335a1c-7187-4274-a4e3-04e4976302b0
-tags: User-Interface,Component-Architecture,UI-Design,DRY-Principles,Refactoring
+tags: 
   - User-Interface
   - Component-Architecture
   - UI-Design

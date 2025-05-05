@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A content editor rendering callout blocks with custom classes, featuring styled note boxes, icons, and a code panel showing class assignments. The scene conveys clarity, organization, and the enhancement of user experience through visual cues."
 site_uuid: 1c88b33c-b5a2-43ea-956c-178838838e76
-tags: Render-Logic,Remark,Astro,Build-Scripts,Extended-Markdown
+tags: 
   - Render-Logic
   - Remark
   - Astro

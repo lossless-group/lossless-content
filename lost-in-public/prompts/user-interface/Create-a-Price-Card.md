@@ -14,12 +14,12 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A modern price card UI component with clear pricing tiers, feature checklists, and a prominent call-to-action button. The design uses soft gradients, clean lines, and visually distinct sections for each pricing option."
 site_uuid: 553c54e2-ce52-4d8f-a472-91508466770d
-tags: User-Interface,UI-Elements,CSS,Responsive-Design
+tags: 
   - User-Interface
   - UI-Elements
   - CSS
   - Responsive-Design
-authors:
+authors: 
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Create-a-Price-Card_f2884b94-a87a-4aa3-a4e3-45780d5bc83b_a5ELjUslI.webp
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Create-a-Price-Card_6e537791-dde6-4bf5-b48d-9522cbdbfc32_OHpPNENpf.webp

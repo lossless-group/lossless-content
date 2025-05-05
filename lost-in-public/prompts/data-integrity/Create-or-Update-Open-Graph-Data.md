@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A web developer updating Open Graph metadata in a code editor, with browser preview windows displaying rich link previews. Visual cues include meta tags, social media icons, and highlighted code. The mood is modern, connected, and focused on web optimization."
 site_uuid: bbd4b81e-fa15-4d14-9b9d-ae2873188a02
-tags: Open-Graph,Data-Management,Build-Scripts,Data-Integrity
+tags: 
   - Open-Graph
   - Data-Management
   - Build-Scripts

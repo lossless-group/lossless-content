@@ -14,7 +14,12 @@ date_created: 2025-04-16
 date_modified: 2025-04-25
 image_prompt: A system observer dashboard visualizing real-time file changes and prompt metadata updates, with animated folder icons, notification badges, and code snippets. The atmosphere is dynamic, technical, and focused on automation and monitoring.
 site_uuid: 219ae97c-b07a-41cb-9efd-076f48caf783
-tags: Frontmatter,YAML,Content-Management,Metadata,Filesystem-Observers
+tags: 
+  - Frontmatter
+  - YAML
+  - Content-Management
+  - Metadata
+  - Filesystem-Observers
 authors:
   - Michael Staton
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_banner_image_Enhanced-Filesystem-Observer-with-Prompts-Support_fd2faa52-ff69-4670-9317-ef2498a6a6ea_r1ZShlkwU.webp

@@ -16,7 +16,7 @@ date_modified: 2025-04-16
 date_created: 2025-04-16
 image_prompt: "A content generation engine visualized as interconnected gears and pipelines, with AI icons, flowing data streams, and generated documents. Visuals include dashboards, content cards, and a sense of automated creativity."
 site_uuid: 4980f468-3361-41a9-a35c-025ab6c5d113
-tags: Workflow,Content-Automation,Generative-AI,Inbound-Marketing,Demand-Generation,Marketing-Automation
+tags: 
   - Workflow
   - Content-Automation
   - Generative-AI

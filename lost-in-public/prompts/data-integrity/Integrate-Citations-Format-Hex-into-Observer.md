@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A developer integrating citation formatting logic into a file observer tool, with code snippets, citation icons, and a visual flow of data transformation. The scene emphasizes technical precision, academic rigor, and seamless automation."
 site_uuid: a57d2a7d-7402-48f7-a954-674fc66d543d
-tags: File-Processing,Build-Scripts,File-Systems,Data-Integrity
+tags: 
   - File-Processing
   - Build-Scripts
   - File-Systems

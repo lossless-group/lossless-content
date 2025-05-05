@@ -10,12 +10,12 @@ category: Prompts
 date_created: 2025-04-14
 date_modified: 2025-04-14
 site_uuid: 6bfa7ff2-d78c-4206-ac93-ca4420600d8b
-tags: User-Interface,Content-Displays,Content-Collections,Layout-Design
+tags: 
   - User-Interface
   - Content-Displays
   - Content-Collections
   - Layout-Design
-authors:
+authors: 
   - Michael Staton
 image_prompt: "A magazine-style web layout with bold headlines, elegant typography, image-rich feature sections, and a balanced grid. The design evokes a premium print magazine adapted for digital, with modern UI elements and editorial flair."
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Create-a-Magazine-Style-Layout_e85a638f-e305-46c8-985f-35ed603993b9_LABV6uanS.webp

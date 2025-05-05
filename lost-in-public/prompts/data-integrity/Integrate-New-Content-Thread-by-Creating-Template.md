@@ -18,6 +18,11 @@ banner_image: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-in
 site_uuid: eb50ce55-fa8d-4b3a-8446-ec99c63d880e
 authors:
   - Michael Staton
+tags: 
+  - File-Observers
+  - Build-Scripts
+  - File-Systems
+  - Data-Integrity
 ---
 
 # Initial Role

@@ -13,7 +13,7 @@ status: To-Prompt
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 site_uuid: 284d42ae-e9a0-45f0-aa84-8e8d2b7d42f6
-tags: Render-Logic,Extended-Markdown
+tags: 
   - Render-Logic
   - Extended-Markdown 
 authors:

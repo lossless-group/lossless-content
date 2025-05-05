@@ -16,12 +16,12 @@ site_uuid: cb5954bd-0d86-431b-9b55-60fe7f2099ac
 image_prompt: "A software engineer tool up on a large blackboard, with side-by-side code panels showing a before and after improvements. Visual cues include messy, long code on the left and on the right is a more clean code structure. The mood is focused and analytical."
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Refactored-Citations-Observer_c5f5eda2-c10c-4519-8527-66ea8c8a4c77_JQMHtVOlA.webp
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_banner_image_Refactored-Citations-Observer_f601b4ff-df69-4238-903e-af2e101ef51c_P2Y2OPcGbA.webp
-tags: File-Processing,Build-Scripts,File-Systems,Data-Integrity
+tags: 
   - File-Processing
   - Build-Scripts
   - File-Systems
   - Data-Integrity
-authors: Michael Staton
+authors: 
   - Michael Staton
 ---
 <!-- Test comment to trigger observer processing - 2025-04-13 -->

@@ -13,7 +13,7 @@ date_modified: 2025-04-19
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Our-Extended-Markdown-Requirements-as-a-Micromark-Extension_07f934df-40aa-4157-a95b-3cf35279c537_jXlmEFqnx.webp
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_banner_image_Our-Extended-Markdown-Requirements-as-a-Micromark-Extension_1dac71ea-d0a3-411f-9952-d59237ab9988_ZhhgQLoto.webp
 site_uuid: 3499f797-04cf-40bd-bcef-ddc0322862f7
-tags: Markdown-Rendering,Micromark,Extended-Markdown,Unified.js-Ecosystem
+tags: 
   - Markdown-Rendering
   - Micromark
   - Extended-Markdown
