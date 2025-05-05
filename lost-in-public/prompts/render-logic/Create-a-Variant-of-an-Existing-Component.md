@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 site_uuid: d3888762-69d1-40c7-8400-658e354fb85e
 image_prompt: "The Figma component icon, a purple diamond made of four smaller diamonds, on the upper left. Then repeating the icon -- the variant icon, the same diamond shape with no fill, just the outline -- repeating in a grid pattern."
-tags: Render-Logic,Component-based-Architecture,UI-Design
+tags:
 - Render-Logic
 - Component-based-Architecture
 - UI-Design
