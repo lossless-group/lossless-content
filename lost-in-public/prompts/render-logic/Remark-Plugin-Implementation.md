@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A developer implementing a remark plugin, with code editors, plugin architecture diagrams, and rendered markdown previews. The scene conveys extensibility, customization, and the technical creativity of enhancing content workflows."
 site_uuid: debdb50b-f775-4677-915c-e000b9242c3d
-tags: Render-Logic,Extended-Markdown,Remark-Plugin,Astro
+tags: 
   - Render-Logic
   - Extended-Markdown
   - Remark-Plugin

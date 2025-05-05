@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A digital knowledge graph connecting concepts to a 'More About' section in a content system. Visuals include interconnected nodes, concept icons, and a web interface showing seamless integration of information. The mood is exploratory, organized, and educational."
 site_uuid: 5616f085-c931-4c4d-88e1-166ec13b1a4c
-tags: Render-Logic,Extended-Markdown,Dynamic-Routing,Content-Collections
+tags: 
   - Render-Logic
   - Extended-Markdown
   - Dynamic-Routing

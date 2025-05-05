@@ -15,7 +15,11 @@ date_modified: 2025-04-19
 image_prompt: "Abstract representation of modular UI components, each with distinct styles and icons, being assembled like building blocks in a developer's workspace."
 publish: true
 site_uuid: 8cd0018e-1cda-4956-b7ca-600d5fa213a2
-tags: Code-Style,Component-based Architecture,Readability,Component-Management
+tags: 
+  - Code-Style
+  - Component-based Architecture
+  - Readability
+  - Component-Management
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/code-style/2025-05-04_portraitimage_Move-Functionality-and-Style-to-Specific-Components_271b3981-405e-4b10-ab8b-b3e53026eab7_qiSafVJhh.webp

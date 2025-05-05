@@ -14,7 +14,13 @@ date_created: 2025-04-16
 date_modified: 2025-04-25
 image_prompt: "A creative workspace where markdown is rendered with intention, featuring a code editor, inspirational notes, and a preview pane showing beautifully formatted content. The mood is thoughtful, artistic, and focused on purposeful design."
 site_uuid: bc63aecf-84da-4183-81cc-f69176cf0602
-tags: Render-Logic,Remark,Astro,Build-Scripts,Extended-Markdown,AST
+tags: 
+  - Render-Logic
+  - Remark
+  - Astro
+  - Build-Scripts
+  - Extended-Markdown
+  - AST
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Render-Markdown-Deliberately-from-Inspiration_271dd1a4-e994-4937-9ccb-bdbe74bd2788_8ladWix57.webp

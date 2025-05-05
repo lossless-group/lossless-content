@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A documentation platform rendering extended markdown, with large, well-structured documents, navigation panels, and Astro component icons. The scene highlights scalability, clarity, and the power of advanced markdown rendering."
 site_uuid: 0253c622-1520-4d7a-aaac-5afcce44aeb7
-tags: Render-Logic,Remark,Astro,Build-Scripts,Extended-Markdown,Code-Studies,AST
+tags: 
   - Render-Logic
   - Remark
   - Astro

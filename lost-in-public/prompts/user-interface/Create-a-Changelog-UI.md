@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A changelog user interface with a timeline of updates, interactive cards for each release, and filterable tags. Visual cues include icons for features and bug fixes, a clean layout, and a modern, collaborative workspace vibe."
 site_uuid: 88ad913c-b8f0-475e-ba90-abcbf71fc29b
-tags: User-Interface,Changelogs,Release-Notes,UI-Design,User-Experience
+tags: 
   - User-Interface
   - Changelogs
   - Release-Notes

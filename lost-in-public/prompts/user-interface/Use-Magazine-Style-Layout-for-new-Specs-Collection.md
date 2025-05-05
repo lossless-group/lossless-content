@@ -13,12 +13,12 @@ image_prompt: 'An open magazine on a desk with big images, like National Geograp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Use-Magazine-Style-Layout-for-new-Specs-Collection_47703319-eda4-48f4-988a-619f19940160_n7E6b3wduD.webp
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Use-Magazine-Style-Layout-for-new-Specs-Collection_5b874dfb-645f-4cf4-87ab-5c4325c9ecd9_ebilcQWiX.webp
 site_uuid: 7e00b40e-cc04-4066-a263-9aa2742765c4
-tags: User-Interface,Content-Displays,Content-Collections,Layout-Design
+tags: 
   - User-Interface
   - Content-Displays
   - Content-Collections
   - Layout-Design
-authors: Michael Staton
+authors: 
   - Michael Staton
 ---
 # Goals

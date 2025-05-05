@@ -14,13 +14,13 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A reusable content collections UI structure featuring modular cards, dynamic filtering, and drag-and-drop reordering. The layout is clean, grid-based, and visually emphasizes reusability and organization."
 site_uuid: f14d5718-3b17-420a-abb6-5efb5264e909
-tags: User-Interface,Component-Architecture,Content-Collections,UI-Design,Astro,Rendering-Pipeline
+tags: 
   - User-Interface
   - Component-Architecture
   - Content-Collections
   - UI-Design
   - Astro
-  - Rendering-Pipeline
+  - Rendering-Pipeline  
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Create-a-Reusable-Content-Collections-UI-Structure_3719cb8f-9830-4f1a-8946-f342d164e6e4_-adXROJjD.webp

@@ -14,8 +14,9 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A visual representation of conditional logic in content rendering, featuring flowcharts, branching arrows, and code snippets. The scene conveys dynamic decision-making, modularity, and the adaptability of digital content systems."
 site_uuid: 8dd7a6f2-424d-4007-ace6-d30465b0001f
-tags: Render-Logic
+tags: 
   - Render-Logic
+  - Component-based-Architecture
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Conditional-Logic-for-Content_99056779-ac21-4ad0-bb40-b76aeb09d473_R9KS5gmZ4.webp

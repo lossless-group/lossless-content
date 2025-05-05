@@ -14,7 +14,12 @@ date_created: 2025-04-16
 date_modified: 2025-04-19
 image_prompt: "A monitoring dashboard showing a filesystem observer tracking real-time frontmatter updates in Markdown files. Visuals include file icons, update notifications, and highlighted YAML metadata, conveying automation, accuracy, and oversight."
 site_uuid: 69332186-eed2-4b81-87ec-5aae40568f9f
-tags: Frontmatter-Validation,File-Processing,Build-Scripts,File-Systems,Data-Integrity
+tags: 
+  - Frontmatter-Validation
+  - File-Processing
+  - Build-Scripts
+  - File-Systems
+  - Data-Integrity
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Use-Filesystem-Observer-to-Assert-Frontmatter-Updated_a922e7a0-0f3b-43d7-9f59-a9d308046a79_uPRwebfA6.webp

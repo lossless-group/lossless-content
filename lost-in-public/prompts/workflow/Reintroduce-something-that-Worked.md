@@ -17,13 +17,13 @@ image_prompt: "An AI assistant and user collaboratively editing a prompt, surrou
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Reintroduce-something-that-Worked_9b6e5c06-4079-4459-bd20-a994afc3c0fc_BCHJiKG-P.webp
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Reintroduce-something-that-Worked_34504b8a-22d0-4c58-beac-8f6f9d46f35a_bYGzgrAME.webp
 site_uuid: cfac0a85-2718-45cb-9e8b-99b7e6327e11
-tags: Prompt-Engineering,Code-Generators,AI-Human-Workflow,Model-Context-Protocols,Refactoring
+tags: 
   - Prompt-Engineering
   - Code-Generators
   - AI-Human-Workflow
   - Model-Context-Protocols
   - Refactoring
-authors: Michael Staton
+authors:
   - Michael Staton
 ---
 # Constraints

@@ -16,14 +16,14 @@ augmented_with: 'Windsurf Cascade on GPT-4.1'
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Create-a-Simple-Question-Answers-Section_f3788a58-4589-446c-9457-425525c5193a_faHrtmyBV.webp
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Create-a-Simple-Question-Answers-Section_03bd413f-49bc-458c-84dc-c0d6fac903d5_h6EDCmbQO.webp
 site_uuid: c922b519-4b40-4fac-b94f-6a722b1fec07
-tags: User-Interface,Component-Architecture,UI-Elements,UI-Design,Astro,Rendering-Pipeline
+tags:
   - User-Interface
   - Component-Architecture
   - UI-Elements
   - UI-Design
   - Astro
   - Rendering-Pipeline
-authors: Michael Staton
+authors:
   - Michael Staton
 ---
 # Goal  

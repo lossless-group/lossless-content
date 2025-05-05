@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A git commit interface focused on a single directory, showing commit messages, file diffs, and version history. Visuals include directory trees, commit icons, and collaborative editing, symbolizing precise version control."
 site_uuid: 91397384-1d65-4f9a-905b-700e58a090ac
-tags: Git-Workflow,Continuous-Integration,Version-Control,Model-Context-Protocols,Collaboration-Tools,Collaborative-Workflow
+tags: 
   - Git-Workflow
   - Continuous-Integration
   - Version-Control

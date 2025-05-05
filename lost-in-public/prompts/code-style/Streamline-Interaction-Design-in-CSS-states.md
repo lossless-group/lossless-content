@@ -15,7 +15,14 @@ date_modified: 2025-04-19
 image_prompt: "A seamless flow of interactive UI elements demonstrating smooth CSS transitions and animations, with hover effects and consistent design patterns."
 publish: true
 site_uuid: c0184e74-3120-41ed-9204-a69b7bd42afa
-tags: Code-Style,CSS-Architecture,Interaction-Design,Animation,Transitions,Component-Management,User-Experience
+tags: 
+  - Code-Style
+  - CSS-Architecture
+  - Interaction-Design
+  - Animation
+  - Transitions
+  - Component-Management
+  - User-Experience
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/code-style/2025-05-04_portraitimage_Streamline-Interaction-Design-in-CSS-states_ef4f902f-2aa0-4867-ab6a-99131591fd50_Wj3jG7J81.webp

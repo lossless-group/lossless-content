@@ -15,7 +15,11 @@ date_modified: 2025-04-19
 image_prompt: "A split-screen showing Tailwind utility classes transforming into organized CSS files, with a modern interface and visual cues for maintainability and style."
 publish: true
 site_uuid: f08a64f3-f771-472a-8845-b400d7db9ab7
-tags: Code-Style,Component-based Architecture,Readability,Component-Management
+tags: 
+  - Code-Style
+  - Component-based Architecture
+  - Readability
+  - Component-Management
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/code-style/2025-05-04_portraitimage_Move-Styles-from-Tailwind-to-CSS-using-our-Styles_4dfa4d32-332b-4860-add9-01e1029eb12d_Hct68MRky.webp

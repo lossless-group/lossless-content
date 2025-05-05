@@ -16,11 +16,11 @@ image_prompt: "On top, a url with static strings. Below, a url route as a dynami
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Convert-Static-Routing-to-Dynamic-Routing-in-Tags_9408b0f9-31b3-4e18-8d15-00948ede8773_2P9goqUa9.webp
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_banner_image_Convert-Static-Routing-to-Dynamic-Routing-in-Tags_245e4d35-1126-4c77-98ec-3d3dc988970a_d9oZXF47z.webp
 site_uuid: 9bdcb3a7-b9ba-4cfe-b4fa-7182f3001350
-tags: Render-Logic,Dynamic-Routing,Content-Collections
+tags: 
   - Render-Logic
   - Dynamic-Routing
   - Content-Collections
-authors: Michael Staton
+authors: 
   - Michael Staton
 ---
 ## Context

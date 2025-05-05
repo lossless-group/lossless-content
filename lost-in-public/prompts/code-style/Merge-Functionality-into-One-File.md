@@ -14,7 +14,11 @@ date_created: 2025-04-16
 date_modified: 2025-04-23
 image_prompt: "A thoughtful developer reviewing code and suggesting improvements, surrounded by branching diagrams and preserved legacy code, symbolizing careful, non-destructive refactoring."
 site_uuid: a41c3eaa-5ce4-4773-a8b8-4666990571f4
-tags: Code-Style,Code-Quality,Maintainability,Refactoring
+tags: 
+  - Code-Style
+  - Code-Quality
+  - Maintainability
+  - Refactoring
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/code-style/2025-05-04_portraitimage_Merge-Functionality-into-One-File_cdbced4d-bf87-41c0-9cc5-2ece0cece933_xjUjjSV84.webp

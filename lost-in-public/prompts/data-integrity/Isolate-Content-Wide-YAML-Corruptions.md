@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A software developer inspecting YAML syntax on a large whiteboard."
 site_uuid: 05063216-597e-4318-a0e6-a16458447110
-tags: YAML,Frontmatter,Content-Management,Data-Cleaning,Automation
+tags: 
   - YAML
   - Frontmatter
   - Content-Management

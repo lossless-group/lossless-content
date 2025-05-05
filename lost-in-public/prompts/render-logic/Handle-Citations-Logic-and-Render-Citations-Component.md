@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A developer designing a citations component, with code panels, citation icons, and rendered citation blocks in a web interface. The scene emphasizes clarity, academic rigor, and seamless integration of source references into digital content."
 site_uuid: d3884182-69d1-40c7-8400-658e354fb85e
-tags: Render-Logic,Astro,Component-Architecture,Markdown-Enhancement,Custom-Rendering,Extended-Markdown,Content-Display
+tags: 
   - Render-Logic
   - Astro
   - Component-Architecture
