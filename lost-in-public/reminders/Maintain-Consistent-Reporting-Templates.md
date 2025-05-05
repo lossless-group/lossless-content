@@ -14,8 +14,8 @@ site_uuid: b8994593-83f1-4adb-accb-c475b6a70e4b
 tags: [Workflow]
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/H6gFujGhdHfc78opUSEH-kV7DgHW6kachmSU1cu11OY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/853bc931-9e5c-4299-9e1b-b139b1bd4cc8
-banner_image: https://img.recraft.ai/BBfZveiUJE7yX3ukYbvXipqkavYYPaH7JdXS-vhh3Xc/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d8dd5569-ec14-4483-bb3b-7290ed69b0a7
+portrait_image: https://img.recraft.ai/f9B_wsKYxTILdvqX2cHGBvAuI5HT_O2x1QVmpfSKYxg/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/ae2415ec-f54a-48ba-85c2-eaee09d20716
+banner_image: https://img.recraft.ai/5vD7XyQebiTRjpFgQNWijGxSt2E6dYDKpnIWxX3T3xw/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/af226242-a4ff-424d-8702-a7ddbe27103e
 ---
 
 ### Single Operation Process Report

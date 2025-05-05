@@ -18,11 +18,11 @@ image_prompt: 'A digital logbook with glowing dialog bubbles between a human and
 date_created: 2025-03-23
 date_modified: 2025-04-22
 site_uuid: 166e2b72-19ae-46b9-85f5-46de8d131685
-portrait_image: https://img.recraft.ai/Zp78q2En8T0-NeR8eXWQ9IOTYPhVaZQZiCVaXjU6npk/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/c6a9f871-ac16-4524-955f-fdd39b2f7c96
+portrait_image: https://img.recraft.ai/4AP3Cr9nPNhUf33qOwh6UenppO2mKcWNUXDbYPj3AdE/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/420e5bdd-7f90-4d4d-8465-1ff9fb5a4a41
 tags: [Session-Logs, LLM-Chat-History, Content-Generation, Code-Generators, Prompt-Engineering, Context-Windows, Version-Control]
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/nifL5lK-RmF2g5q4hsLZ7gGWES2T82R80dSN3ncGZ9k/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/c81ab585-9abe-4500-b358-6bc9ac0ae05a
+banner_image: https://img.recraft.ai/DAZF9qfrUocWRCZj1W55W7WABMUQN1GzHup_tAtCysk/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/e7aa3ebc-115d-4b8e-8d6c-6fb6eebf095f
 ---
 
 ### Working Directory:

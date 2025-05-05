@@ -14,11 +14,11 @@ category: Documentation
 date_created: 2025-04-13
 date_modified: 2025-04-22
 site_uuid: 92421e72-f568-4d69-8023-fda8af85b652
-portrait_image: https://img.recraft.ai/pgVuGWUtAk12Z7PjRSbwOx7S0b370MBoBuB05Ug0EgY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/56ea9dbf-4a0f-4e00-938f-1e3ad8330bd1
+portrait_image: https://img.recraft.ai/2M6ZPhLvghL7LnFrr5pDg0QoA8TIM7-AKxZ2oCzcqng/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/3f244cac-89ce-4817-9c88-1b7111313b85
 tags: [Data-Integrity, File-Processing, Observer-System]
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/mANjGXwnvVq1itz-vMmExJVc3YrTK_0hKasdRklxs_M/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/08958cc1-c093-4d93-8859-9bebc974a59d
+banner_image: https://img.recraft.ai/KH-zcQy-fhbOuNSaFQ_IbYc8u0jcG_BaiVts5i-XdyA/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/a6174a8d-5929-436d-bcd0-78323b091364
 ---
 
 # Running the Observer System

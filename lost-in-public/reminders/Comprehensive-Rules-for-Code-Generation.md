@@ -13,11 +13,11 @@ image_prompt: A futuristic AI robot at a command center, surrounded by digital c
 site_uuid: 12b6b1d5-c721-4e9d-9ac3-f1c4e46f39e6
 date_authored_current_draft: ""
 status: ""
-portrait_image: https://img.recraft.ai/tAHtmabO5TKI2iEB6lvguxz8UBCK1tjI3G0G8uFN12c/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/3b43c878-192d-45eb-acdb-2e3d24512f1c
+portrait_image: https://img.recraft.ai/-6tcHEak7MqRooYX9GbYkxPleW3z7ykZ7zpw8srvS_w/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d8db73d0-84b2-4778-80c8-159d98bb247b
 authors:
   - Michael Staton
 tags: [Code-Generators, Context-Windows, Model-Context-Protocols]
-banner_image: https://img.recraft.ai/gogLW0AhiWy9KRWtfBz4GGklbriggKGVk6KnhUKTAYk/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/7883113a-955f-4c6a-b278-de2a18292c4a
+banner_image: https://img.recraft.ai/SJ8dsrjL1t7mXZS8u6qYKopYF3kVh-ig4hxxlETKFvE/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/d7d8742a-811b-4d69-ad8f-1c90392aa9f0
 ---
 
 # Stack, Libraries, Dependencies

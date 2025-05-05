@@ -14,11 +14,11 @@ image_prompt: 'A robot in a library, pouring over a giant stack of books, surrou
 date_created: 2025-04-09
 date_modified: 2025-04-22
 site_uuid: 372a644a-7d4b-4909-adaf-b0f361b4fc27
-portrait_image: https://img.recraft.ai/AJpJqJ1tXfJRJMArq5VTPHEF9DU-QVn4Lx5NiG3M3ss/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/38336053-809c-497b-9879-282476bf3381
+portrait_image: https://img.recraft.ai/VErS0fj2i0WN0pjuI4R5h4bps7TeerOf4F2sKB3im90/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/cb61d1d5-cdd3-4470-a5ff-28809c7ac2a7
 tags: [Prompt-Engineering, Code-Standards, Best-Practices]
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/G5IGxvh-RAknArM13hufgwjMNvF1zGFNjrvlhXkqdfY/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/a32a2b2c-4ecf-4a63-a0f8-8d5653a23f70
+banner_image: https://img.recraft.ai/VCY3CtSwypXwN7-cYlbLDEAcYRX08X1k7Ma1Nc2LeeQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/526759f4-57e6-4dff-9250-1c4beab0bb80
 ---
 
 # Essential Documentation References

@@ -13,11 +13,11 @@ image_prompt: 'A digital blueprint of a monorepo, with highlighted directory pat
 date_created: 2025-04-06
 date_modified: 2025-04-22
 site_uuid: 05e41630-1753-4bae-a4d6-20bf9147d76b
-portrait_image: https://img.recraft.ai/M3EtNTAznDlHcw135hkYt3_q0BuReMvA7dk4pKPjngM/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/68d0f535-019b-4fbb-95d4-afe92fee6340
+portrait_image: https://img.recraft.ai/tgPGaCbZU92HQGP82zycjNGBmHnbiGiJ0MmmetgbxKs/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/6eafc83b-f4ca-472f-b81e-37b00af3c97b
 tags: [Code-Style, Software-Architecture, Code-Generators, Bug-Prevention]
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/cLpuMYOD5mnzSWJCRda9Zs-LvjMtuWPWyA8m3lmj4BU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/c9f2debe-5424-4b48-b46d-fce8163bc0ba
+banner_image: https://img.recraft.ai/_vArAHzeKBe5bKgjqd5tqhRGaYRq8oQ6i4M5-p2YqjY/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/adc5bcaa-0b61-45dd-846c-7817cdf66597
 ---
 
 # Project Directory Structure

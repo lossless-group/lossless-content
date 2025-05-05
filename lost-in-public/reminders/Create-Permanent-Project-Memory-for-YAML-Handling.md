@@ -16,8 +16,8 @@ site_uuid: cf0325fb-c19d-480c-a739-3118d28a7428
 tags: [Workflow, YAML, YAML-Handling, YAML-Conventions, Bug-Prevention]
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/K6w6-3g0BvIPTm0GGa_t_2E1BuuVLYH2FY_6EVRmmZ4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/c7d02b76-1f47-475c-9f81-c8ebdfd5a865
-banner_image: https://img.recraft.ai/NZbOdUFlCRx2y8OaorDVmVI3nEn27D-BZNF7Lf6NctQ/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/389b98ff-21c9-4e9a-9572-e07b5200ca1a
+portrait_image: https://img.recraft.ai/QJJlr-KKhjVtAmhlD-KB-1ThIMGTxMYoXc67TmEnAlw/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/812a67e7-8d73-487a-b7f8-0532dbe39abc
+banner_image: https://img.recraft.ai/g4HoslJB8tmAfHqk2yqEeKIHY3r2RcYQ05tFvO4el9M/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/ed2548c1-41f2-441e-8011-5ba854287043
 ---
 
 # Context

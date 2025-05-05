@@ -13,11 +13,11 @@ image_prompt: A robot at a giant clipboard, checking off a massive list of YAML 
 date_created: 2025-03-24
 date_modified: 2025-04-25
 site_uuid: 1988ee9d-a35a-4540-9a23-9f8bc39995c0
-portrait_image: https://img.recraft.ai/78dIIjG98eqqgmnDd22Hp_4wnoFYDCmx9DCglNKOylE/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/bc94784a-de70-4ec7-86f8-96fc4b33d717
+portrait_image: https://img.recraft.ai/TcNR7g_mi7mt5HrY6VrO1q0sUWXa_6z7yjdAv1afbIc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/ae6cb1cd-6192-4f37-9f92-148cd6b241bc
 tags: [Workflow, YAML-Handling, YAML-Conventions, Bug-Prevention, Filesystem-Observers]
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/ah7upfY9apXMhHLVhPEAYBXFDJPvUFSHW97pk_ab9kw/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/1cd7454f-2c04-42d8-b8c4-a933b5672d17
+banner_image: https://img.recraft.ai/SczGPDCdFFEOFrdYdTyod1nFBcV4eZDmAyjcRJdqApA/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/bd7bb3ee-cfe7-476e-b078-3b6a4c8bcfb8
 ---
 
 # YAML Patterns for Data Integrity
