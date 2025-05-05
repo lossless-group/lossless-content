@@ -17,11 +17,10 @@ date_created: 2025-04-11
 date_modified: 2025-04-17
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/8nra5kwqXZsDRzwMx7PbxNyY_IEVgv1Ms0JPCIUxNYo/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/cfa89bde-fb93-4d72-8e5e-2c9e432ba930
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Frontmatter--Date-formatting-fix_cfa89bde-fb93-4d72-8e5e-2c9e432ba930_i-aAU8A8C.webp
 image_prompt: "A calendar month view of a calendar has all of the dates crossed out with a red marker. There are new dates written with a green marker, and the format is YYYY-MM-DD."
-banner_image: https://img.recraft.ai/mBFVdiRGTEHg_6NayG2EQGcClita_gJgz-1p-B0FECM/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/02a86293-b23e-4050-8c70-9b810c839f13
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Frontmatter--Date-formatting-fix_02a86293-b23e-4050-8c70-9b810c839f13_-LeEYfMCR.webp
 ---
-
 # Frontmatter Date Formatting Fix
 
 ## Issue Description

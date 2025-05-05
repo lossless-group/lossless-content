@@ -22,10 +22,9 @@ tags:
   - Debugging
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/feh7qQV4Wq5_rIlTGi_6faHLtv4qzdbRkeBU4Vi2GmI/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d95f25cd-6c97-403a-b9fe-5427b6e1839e
-banner_image: https://img.recraft.ai/dv3B3Xols9-oGR-1XmumMRC1LSr1DUKzEtTM0cETUS8/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/58549152-a62e-4665-93ad-75aacb4380a8
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Fixing-Markdown-Frontmatter-Default-Values_d95f25cd-6c97-403a-b9fe-5427b6e1839e_nXS9O_E2g.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Fixing-Markdown-Frontmatter-Default-Values_58549152-a62e-4665-93ad-75aacb4380a8_Co9sVy9YG.webp
 ---
-
 # Fixing Markdown Frontmatter Default Values
 
 ## What We Were Trying to Do and Why

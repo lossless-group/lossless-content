@@ -20,11 +20,10 @@ tags:
   - Hidden-Files
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/4Yr3KiA-F5896RsJhgjaaFEHKIK4Cx2qg7LrDptngyw/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d9987843-2547-4c6a-9a13-48e736722756
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Obsidian-stuck-in-Regex-memory-hang_d9987843-2547-4c6a-9a13-48e736722756_nAg1KFslI.webp
 image_prompt: An Obsidian vault frozen with a looping regex pattern, surrounded by hidden files and directory trees, visualizing a memory hang.
-banner_image: https://img.recraft.ai/A9ZfiaqDAXRWCQ6I3uWGtOrDdMtzkTmB2DLiS6UIwD4/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/2e49d249-fee0-4623-9337-0f502639c286
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Obsidian-stuck-in-Regex-memory-hang_2e49d249-fee0-4623-9337-0f502639c286_D70l4eAaW8.webp
 ---
-
 ![](https://i.imgur.com/3HfecxN.gif)
 
 

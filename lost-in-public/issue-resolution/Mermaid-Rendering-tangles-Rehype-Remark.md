@@ -8,10 +8,9 @@ related_files:
   - site/src/components/markdown/AstroMarkdown.astro
   - site/src/utils/markdown/remarkMermaidTag.ts
   - site/src/utils/markdown/rehypeMermaidInline.ts
-banner_image: https://img.recraft.ai/HY5t7EyxtoEn6N3fhKPLQ5PgoRUQIK-LWe_adpLsEQk/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/21da9d5a-e673-42a7-9214-0d876ff949a1
-portrait_image: https://img.recraft.ai/VnvA39Gs7MhaMlBf7YZPMVk8o-qWyRMUbpp_XkbQakI/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/cced9c78-3e82-4e2d-be55-f11f0488b9c4
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Mermaid-Rendering-tangles-Rehype-Remark_21da9d5a-e673-42a7-9214-0d876ff949a1_zeFHASGnU.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Mermaid-Rendering-tangles-Rehype-Remark_cced9c78-3e82-4e2d-be55-f11f0488b9c4_5USUA8NXe.webp
 ---
-
 ## Issue Resolution Breadcrumb Pattern Reference
 
 > This section is included per the project workflow prompt: `@/content/lost-in-public/prompts/workflow/Write-an-Issue-Resolution-Breadcrumb.md`.

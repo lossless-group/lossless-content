@@ -19,11 +19,10 @@ tags:
 site_uuid: 8ca16303-83b4-4f02-b82c-3ff1f2c4f2a4
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/jaTpqghUyV8fssE8DGmBGj2sXmqPQ1xw1dCjpkHAw6I/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/686bdea8-3111-4dac-86a6-8c132c212dc3
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_How-Remark-GFM-renders-Tables_686bdea8-3111-4dac-86a6-8c132c212dc3_A00YLrId8.webp
 image_prompt: "A Markdown table morphs into a vibrant AST diagram, arrows showing the transformation from markdown source to rendered HTML, with plugin logos floating above a digital workspace."
-banner_image: https://img.recraft.ai/fEoBB6iOKLQEGlZatwKLCcBmzYKBf7qY0pizpeCc4r0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/94cdf527-9029-483a-9ae9-29d746db2e5a
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_How-Remark-GFM-renders-Tables_94cdf527-9029-483a-9ae9-29d746db2e5a_RZ3TYJXib.webp
 ---
-
 # How remark-gfm Renders Tables: The Complete, Life-Saving Technical Guide
 
 

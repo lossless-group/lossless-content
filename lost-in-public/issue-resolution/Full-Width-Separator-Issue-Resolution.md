@@ -22,10 +22,9 @@ tags:
   - Layout
   - Astro
   - Separators
-banner_image: https://img.recraft.ai/zwGOV7_JgygWoqlCGgglCGOZRwmWEQBBPEpkw0SLSgo/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/4d208117-2735-419c-a196-39b9703d71cb
-portrait_image: https://img.recraft.ai/vTkSBU_7j3R0ll4s_gWSGLVfhoviwiD_9FkJx9CCtfc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/2dff6a22-ba8c-407b-b88a-e2f889b61d0a
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Full-Width-Separator-Issue-Resolution_4d208117-2735-419c-a196-39b9703d71cb_TRNXpiIwL.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Full-Width-Separator-Issue-Resolution_2dff6a22-ba8c-407b-b88a-e2f889b61d0a_d3-gcuOSk.webp
 ---
-
 # Full-Width Separator Issue Resolution
 
 ## What We Were Trying to Do and Why

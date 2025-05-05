@@ -19,11 +19,10 @@ tags:
   - Developer-Experience
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/at-vuMfDW1E3ICD3-f2YTee3cz2Z5frurCAzncEqZDE/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/c751e467-56a7-4abc-a9ee-0ee63783d876
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Write-git-commit-messages-with-your-favorite-editor_c751e467-56a7-4abc-a9ee-0ee63783d876_dfRuaVvVD.webp
 image_prompt: Terminal window with Git commit message in Neovim, multi-line editing, and configuration icons, in a modern developer setup.
-banner_image: https://img.recraft.ai/MJpRvK078i4GX9hOYOi6GX1DAjVMHm_m1LnbQgUjDbY/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/e2e47810-9b95-451d-925f-b6d047f446d1
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Write-git-commit-messages-with-your-favorite-editor_e2e47810-9b95-451d-925f-b6d047f446d1_ynpchTDln.webp
 ---
-
 I hate it when I want to add a long message to a git commit and git launches nano.  I just never picked it up. Avoided even having to think about it, really. 
 
 I also never pondered that I could change the default editor for commit messages. That is, until I realized my [[concepts/Explainers for AI/AI Terminal Assistant|AI Terminal Assistant]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Warp|Warp]] is not just helpful but really really wise (and patient) and the hardcore command line skills that most wanna be app developers, me included, never bother to become hyperfluent in.  

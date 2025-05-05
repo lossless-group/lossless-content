@@ -20,11 +20,10 @@ tags:
   - Astro
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/AGUPYX5eFLtf4EJKYAwR5MS0e09M2PkX_tzBW7Xn6vY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/012308ef-e427-43f6-9dec-2a1ec57c021a
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_ReferenceGrid-Layout-Issue_012308ef-e427-43f6-9dec-2a1ec57c021a_j5MSAl4P9.webp
 image_prompt: A responsive grid layout transforming from a single column to multiple columns, with Tailwind CSS utility classes and code overlays, all in a clean, modern UI style.
-banner_image: https://img.recraft.ai/bT5V92NijU0pyyeD9xlS0uuDQZhbB11jm8U0hRiQiF4/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/a3dcd118-ba64-4a27-910b-bd2bb57a3ce9
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_ReferenceGrid-Layout-Issue_a3dcd118-ba64-4a27-910b-bd2bb57a3ce9_C-4wuhrCW.webp
 ---
-
 # Issue Resolution: ReferenceGrid Layout Incorrect on Combined Page
 
 ## 1. What were we trying to do and why?

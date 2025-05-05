@@ -20,11 +20,10 @@ tags:
   - Error-Handling
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/pm8_ivAUkMGNApVQAhb1UKWpza_dJF4nDDGl_h5OYCU/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/31a3518d-7159-4ce1-9873-fa3ea7860db8
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Handling-Unexpected-API-Responses_31a3518d-7159-4ce1-9873-fa3ea7860db8_U6VTnFry5.webp
 image_prompt: An API response with unpredictable shapes (strings, arrays, objects) being normalized into a clean, structured frontmatter block.
-banner_image: https://img.recraft.ai/bXzXzWUIFjCz7t50bmEvrMyFC9dQGaO9SRBm2mEV_N4/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/b6550e88-5541-42bd-a842-d3ff4d693b78
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Handling-Unexpected-API-Responses_b6550e88-5541-42bd-a842-d3ff4d693b78_IAnSU9XEb.webp
 ---
-
 # Handling Unexpected API Responses
 
 ## Output Directory

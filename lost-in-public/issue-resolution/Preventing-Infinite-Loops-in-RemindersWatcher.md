@@ -19,11 +19,10 @@ tags:
   - Inspector-Only
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/-yv0GzT2wmXhXiYGqQ5Ra87kMS4zn25edoVYNCoBET0/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/b23d2294-4137-4712-91ac-eb4d8e0a3cd9
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Preventing-Infinite-Loops-in-RemindersWatcher_b23d2294-4137-4712-91ac-eb4d8e0a3cd9_T9isANgpO.webp
 image_prompt: An observer process for reminders, surrounded by looping arrows and a memory chip, with a shield representing infinite loop prevention and inspector-only logic.
-banner_image: https://img.recraft.ai/EBXpdIVyLpXeaM71KwP1-Q3srCpvfJOknirFeWp2lQ4/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/662a6507-29e9-4262-8115-319b3497c6e7
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Preventing-Infinite-Loops-in-RemindersWatcher_662a6507-29e9-4262-8115-319b3497c6e7_ZxHM__yIg.webp
 ---
-
 # Preventing Infinite Loops in RemindersWatcher
 
 ## 1. What Were We Trying to Do and Why?

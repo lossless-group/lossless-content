@@ -19,10 +19,9 @@ tags:
   - Static-Variables
   - Process-Lifecycles
 image_prompt: "An auditor in a suit, with a clipboard, standing in front of a set of large file cabinets. The cabinets are filled with folders, each containing documents and papers. Some of them are messy and disorganized, while others are well-arranged and sorted. The auditor has a magnifying glass, hovering over a disorganized, messy cabinet drawer."
-banner_image: https://img.recraft.ai/xEFTwnCLWc2w9vAH6jkwiu9Kx-T1xBtDC-qfEGRsiqw/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/b94b6582-8fc0-47b5-8e5d-7cc5df46ac9c
-portrait_image: https://img.recraft.ai/AlWkhjfZLmgdnU-My90xXTyA4Wl7Ny5reNTEEnYCWFQ/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/20c80282-1386-4360-96cc-9ba5f4d036a6
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Persistent-File-Processing-State-in-Observer_b94b6582-8fc0-47b5-8e5d-7cc5df46ac9c_16ZVTjy0P.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Persistent-File-Processing-State-in-Observer_20c80282-1386-4360-96cc-9ba5f4d036a6_rj5bklRkw.webp
 ---
-
 # Persistent File Processing State in Observer
 
 ## Context

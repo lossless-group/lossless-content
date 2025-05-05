@@ -20,11 +20,10 @@ tags:
   - Project-Structure
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/7nZlT0SrHfPilAmcC5ZNbK3CEbOsM5E9YAo5SDr3PPA/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/b56c895f-cc46-411a-8be0-de862ae4d360
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Showing-Hidden-Directories-in-Tree-Output_b56c895f-cc46-411a-8be0-de862ae4d360_LQPLQMUmM.webp
 image_prompt: Terminal window showing a tree command output with hidden directories and files, modern developer workspace, clean visualization.
-banner_image: https://img.recraft.ai/5LEo84J6EJF_5tAxZP8cSXx_6W5nG8das3-NqnStGZ0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/0b25d8ca-8eae-4cc3-a39b-e8fa037301e0
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Showing-Hidden-Directories-in-Tree-Output_0b25d8ca-8eae-4cc3-a39b-e8fa037301e0_hybhFWAKL.webp
 ---
-
 .
 |-- 00 - Lossless-at-Laerdal Gameplan
 |   `-- 04.1 - AI to Insight Specifications

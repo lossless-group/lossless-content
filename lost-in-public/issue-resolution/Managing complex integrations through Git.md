@@ -20,11 +20,10 @@ tags:
   - Monorepo-Management
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/IwgX92tNhJkT4M5dY3TmGY7ocpsNiAL2mywyS_rkaN4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/fd6fe19a-1d2c-4343-8743-a10d420dca53
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Managing-complex-integrations-through-Git_fd6fe19a-1d2c-4343-8743-a10d420dca53_Mc6wAFqRG.webp
 image_prompt: A Git graph with multiple branches and submodules, showing complex integrations and command-line tools in action.
-banner_image: https://img.recraft.ai/W2LPJaacvM8XglDTvRNTVurbEr1tM7GnUolo3vGMuiE/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/dad8dfad-cc2e-45e2-ac13-460ba19a7b53
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Managing-complex-integrations-through-Git_dad8dfad-cc2e-45e2-ac13-460ba19a7b53_4SalfCFtv.webp
 ---
-
 # Essential Git Commands for Complex Integrations
 
 This guide provides solutions for managing complex Git integrations, particularly in monorepos with multiple submodules. The commands below are essential tools for your workflow.

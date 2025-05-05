@@ -21,11 +21,10 @@ tags:
   - TypeScript
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/DoDuP1CgU01FLX8XFab8_GACyuHytcaayrwNO08QJrY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/178e47ac-e930-4acc-960e-84ddef36ec7a
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Setting-up-Rehype-to-Better-Parse-Markdown_178e47ac-e930-4acc-960e-84ddef36ec7a_HQIJ--Ack.webp
 image_prompt: A code pipeline diagram showing markdown flowing through remark and rehype plugins, with Astro and TypeScript icons, in a clean, modern style.
-banner_image: https://img.recraft.ai/QKjQQim4yeSQtSALAAyuq8byeZwwRO8e1dTaWQW-XFc/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/11ef1788-a0e6-424a-b30d-4608c053f04a
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Setting-up-Rehype-to-Better-Parse-Markdown_11ef1788-a0e6-424a-b30d-4608c053f04a_UKTl6w0oU.webp
 ---
-
 # Setting up Rehype to Better Parse Markdown
 
 ## What We Were Trying to Do
