@@ -14,17 +14,16 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A build script UI with code lines transforming messy data into clean, organized tables. Visual elements include progress bars, checkmarks, and before-and-after data panels, symbolizing automation and data integrity."
 site_uuid: 859c1813-512a-4a90-91db-bcefb433da63
-tags:
+tags: Workflow,Build-Scripts,Data-Integrity,Best-Practices,Content-Automation
   - Workflow
   - Build-Scripts
-  - Code-Quality
-  - Error-Handling
-  - Variable-Naming
+  - Data-Integrity
   - Best-Practices
+  - Content-Automation
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/BioG3iFwr_oet6tqCP5WadV3oeT-EOQiLCUJ3wG_R3s/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/40aa048a-0dd7-4d6d-b877-94578ec4a165
-banner_image: https://img.recraft.ai/y3bD24VeKIf1gipL5WT9lNU3uk_W2vIGKkh2lqH2DnM/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/1d6e4b13-4dac-4db7-8c6c-83b9456b94e2
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Build-Scripts-that-Clean-Data_c6ff64e2-0510-483d-a635-9f4d4ed4e548_KsVWUc6Gt.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Build-Scripts-that-Clean-Data_7e555d1c-255e-4445-a841-6f0d0f6e98c6_kdzeTRP8f.webp
 ---
 # Context
 We are currently trying create a build script that prepares a directory of Markdown files for publishing using Astro, the JavaScript framework for Static Site Generation. Read the full specification at `site/src/content/specs/Build-Script-Spec.md`

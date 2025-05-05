@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A UI inspiration dashboard that pulls visual ideas from various URLs, displaying a mosaic of website screenshots, color palettes, and design notes. The interface is creative, exploratory, and visually rich."
 site_uuid: 81ed24b3-1810-489d-90d3-7539e85f4f52
-tags:
+tags: User-Interface,UI-Design,Design-Inspiration,Web-Design,Component-Analysis
   - User-Interface
   - UI-Design
   - Design-Inspiration
@@ -22,7 +22,7 @@ tags:
   - Component-Analysis
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/KU8Zm9y3JTYgP-lvBCBCj7ehxE2fMm4qX6l4x6pyrM8/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/7a00d3a9-64af-4658-abbd-9295e27b9a53
-banner_image: https://img.recraft.ai/Lq7sdwXWSW-eL0wjOvJ0BGU3JaUAXJD4l_lzrCs5Db8/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/28cd0c45-1f32-4063-b579-e6850cc3e4f2
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Get-UI-Inspiration-From-URL_ece3591f-31e2-42a4-a33d-1b576a167fe8_mvJmO3SRD.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Get-UI-Inspiration-From-URL_e0876860-ba2d-4873-8996-a5510c792020_29Pxy8OgB.webp
 ---
 [https://effect.website](https://effect.website/)

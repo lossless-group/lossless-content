@@ -14,12 +14,15 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A digital knowledge graph connecting concepts to a 'More About' section in a content system. Visuals include interconnected nodes, concept icons, and a web interface showing seamless integration of information. The mood is exploratory, organized, and educational."
 site_uuid: 5616f085-c931-4c4d-88e1-166ec13b1a4c
-tags:
+tags: Render-Logic,Extended-Markdown,Dynamic-Routing,Content-Collections
   - Render-Logic
+  - Extended-Markdown
+  - Dynamic-Routing
+  - Content-Collections
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/JW5Im_TgVD4qQCeXbbNhf3S2Px_8hDrmVPoDPMwTxDg/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/b965c261-5745-408e-b089-165baa839b5c
-banner_image: https://img.recraft.ai/M_SNyEggWdArX48mTwuAW7SumnW00JC5JMXwgHD_WLc/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/fd6c464a-e17a-4c3b-b16c-96b59cdfb09f
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Integrate-Concepts-into-More-About_14200fe0-abb8-4a33-b0bf-886a657c93f2_YjOFUIg-8.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_banner_image_Integrate-Concepts-into-More-About_dc69f596-696f-49c1-91e2-0a0b53a7c04b_MSoX8RN_k.webp
 ---
 # Context
 

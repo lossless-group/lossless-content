@@ -14,15 +14,15 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A developer implementing a remark plugin, with code editors, plugin architecture diagrams, and rendered markdown previews. The scene conveys extensibility, customization, and the technical creativity of enhancing content workflows."
 site_uuid: debdb50b-f775-4677-915c-e000b9242c3d
-tags:
+tags: Render-Logic,Extended-Markdown,Remark-Plugin,Astro
   - Render-Logic
   - Extended-Markdown
   - Remark-Plugin
   - Astro
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/BfPJ08EGHZFOrzurrQqPRZSq9nMNpJpM0Euam7ClofU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/f9feee05-1aa8-4ae3-a4c2-5bbbb3401e5e
-banner_image: https://img.recraft.ai/-rRke81gENhVzzcgbh6w4XiDqibavD3Nw-WEY2zCTk8/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/47fdaa56-bd91-4f09-85f8-2d253e5b0852
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Remark-Plugin-Implementation_cba64b99-c73c-4e71-848c-684f5ba06065_iov8Kjl50.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_banner_image_Remark-Plugin-Implementation_21d4dd9d-31f1-433d-9a38-f4071f2420dd_5VGuB3HtJ.webp
 ---
 ###### Sources
 https://www.namchee.dev/posts/upgrading-astro-code-snippets/

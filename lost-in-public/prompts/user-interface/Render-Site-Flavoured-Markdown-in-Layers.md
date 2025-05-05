@@ -14,17 +14,16 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A layered markdown rendering UI, with site-specific styles applied to each layer. Visual elements include tabs for different views, highlighted markdown syntax, and a modern, multi-layered interface."
 site_uuid: 81081479-0cc8-4af6-a581-1d28ed9a690b
-tags:
+tags: User-Interface,Component-Architecture,Content-Collections,Extended-Markdown,Rendering-Pipeline
   - User-Interface
   - Component-Architecture
   - Content-Collections
-  - UI-Design
-  - Astro
+  - Extended-Markdown
   - Rendering-Pipeline
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/fTeevENO38UQQYSkQS1Kkh5T7sMSosbVWIIHGbJh6pM/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/24fa79d7-cb3c-4a0a-afdf-0b278fadbf48
-banner_image: https://img.recraft.ai/fqJDbNxWFJdg0axKUfsasVUlKFyDvNE0g0fcPfFe-V0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/f6768376-4064-46e4-81cb-fa97b27f9b33
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Render-Site-Flavoured-Markdown-in-Layers_cd6ff291-3f8f-4883-bac6-53ec56d92260_v3gqB9m5H.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Render-Site-Flavoured-Markdown-in-Layers_b307c4c0-7bed-426e-a161-d99504261bfc_t9gRHJM1G.webp
 ---
 # Goals
 

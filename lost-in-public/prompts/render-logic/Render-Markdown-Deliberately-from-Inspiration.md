@@ -14,11 +14,11 @@ date_created: 2025-04-16
 date_modified: 2025-04-25
 image_prompt: "A creative workspace where markdown is rendered with intention, featuring a code editor, inspirational notes, and a preview pane showing beautifully formatted content. The mood is thoughtful, artistic, and focused on purposeful design."
 site_uuid: bc63aecf-84da-4183-81cc-f69176cf0602
-tags: [Render-Logic, Remark, Astro, Build-Scripts, Extended-Markdown, AST]
+tags: Render-Logic,Remark,Astro,Build-Scripts,Extended-Markdown,AST
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/cN7JYvHeXDMPpdgoU6kNN7cpyQSkRmJ40cmOniSDPDE/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/de789a39-3b68-4b5d-87ab-c7dfd26aa0bb
-banner_image: https://img.recraft.ai/K2EEAJqWLiAVt8XuJM1sxeXhd1rZk7RaP2zk2rnJLDQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/13457be5-c0b7-4d04-b58f-2885483880fa
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Render-Markdown-Deliberately-from-Inspiration_271dd1a4-e994-4937-9ccb-bdbe74bd2788_8ladWix57.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_banner_image_Render-Markdown-Deliberately-from-Inspiration_e5ac5c4c-3a90-4b16-bc09-1649e3f817cc_DtPo2dVQ3.webp
 ---
 # Comprehensive AST Transformation Pipeline
 

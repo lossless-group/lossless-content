@@ -14,11 +14,11 @@ date_created: 2025-04-16
 date_modified: 2025-04-19
 image_prompt: "A software developer in front of an Under Construction sign"
 site_uuid: 6522d034-9012-4456-81c6-0e2e3ffc6fd1
-tags: [Scripts, YAML, Error-Detection, Content-Fixes, Build-Process]
+tags: Scripts,YAML,Error-Detection,Content-Fixes,Build-Process
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/FxkHTss6aqMLw9hfRi_vBeYS3F_235yrcFcJs__rwus/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/77f3c44e-807b-4673-b4e3-bf3b885625e9
-banner_image: https://img.recraft.ai/HnDmO7FSqCQhL3ukz8Zo_iItp0LLtysleEA4gCAoB6M/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/00bfe3f5-778c-48ef-885e-d0e99e52ed37
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Get-Known-Errors-and-Fixes_2741f5b0-cac0-42b0-97bc-cb89d5ad7229_fK1C_6hWh.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_banner_image_Get-Known-Errors-and-Fixes_2696cf71-fa7b-461c-9159-5f9bcdbbb605_O5BlDPQE7.webp
 ---
 ## Executive Summary
 

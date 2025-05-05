@@ -15,13 +15,12 @@ date_modified: 2025-04-19
 image_prompt: "A split-screen showing Tailwind utility classes transforming into organized CSS files, with a modern interface and visual cues for maintainability and style."
 publish: true
 site_uuid: f08a64f3-f771-472a-8845-b400d7db9ab7
-tags: [Code-Style, Component-based Architecture, Readability, Component-Management]
+tags: Code-Style,Component-based Architecture,Readability,Component-Management
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/JCL4PlJaUHbOtVIspzx7w6tNdDAMdC4NDKP1oLhWaHY/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/b2d1f66d-11f1-4bba-8a16-3ee482c62b00
-banner_image: https://img.recraft.ai/i-Ob1y5uRyBe2l6g6EyU1BWNDhLkC2tUn7a4leb76tA/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/78565564-39ac-495b-ac84-15b442ea2998
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/code-style/2025-05-04_portraitimage_Move-Styles-from-Tailwind-to-CSS-using-our-Styles_4dfa4d32-332b-4860-add9-01e1029eb12d_Hct68MRky.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/code-style/2025-05-04_bannerimage_Move-Styles-from-Tailwind-to-CSS-using-our-Styles_868718bd-9cb8-4225-95f2-8b20139d59c7_VSML4RzMd.webp
 ---
-
 # Context
 
 As our codebase grows, we're moving away from inline Tailwind CSS classes toward a more maintainable CSS architecture using component-specific stylesheets. This transition helps improve code readability, reduces duplication, and creates a more consistent design system.

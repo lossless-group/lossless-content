@@ -14,16 +14,16 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A website has embedded videos, embedded pdfs, embdded artwork, all representing different types and use cases for iFrames."
 site_uuid: 51c1d36b-0897-4381-b24c-001d5455b59f
-tags:
+tags: Render-Logic,Astro,Custom-Rendering,Content-Display,Extended-Markdown
   - Render-Logic
   - Astro
-  - Markdown-Enhancement
   - Custom-Rendering
   - Content-Display
+  - Extended-Markdown
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/p8KwAHuN288f8xAXbRy3RP62WY_8aJ_HmhKzcCgd-sw/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/6c0a9ac0-fc88-4423-b842-62a4bc2613d9
-banner_image: https://img.recraft.ai/aPXvAQX8sWBMmiC2oqdWvY7mwDQlLK2b_HKq6MolxBs/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/dd40b2cc-3d63-4238-aa50-bc719adb313b
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Handle-iFrames-with-our-AST-Rendering-Pipeline_5fbdfb4d-8df3-4df8-83ff-edb568c98855_7VjALD2Xx.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_banner_image_Handle-iFrames-with-our-AST-Rendering-Pipeline_62c28b90-9b64-4e0e-9070-ae7a1326c596_v0csV8Lxb.webp
 ---
 # Constraints
 1. Use customary naming conventions for both files and functions. In any kind of near-scripting I prefer camelCase. 

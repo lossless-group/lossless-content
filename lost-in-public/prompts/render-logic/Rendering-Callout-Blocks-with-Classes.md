@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A content editor rendering callout blocks with custom classes, featuring styled note boxes, icons, and a code panel showing class assignments. The scene conveys clarity, organization, and the enhancement of user experience through visual cues."
 site_uuid: 1c88b33c-b5a2-43ea-956c-178838838e76
-tags:
+tags: Render-Logic,Remark,Astro,Build-Scripts,Extended-Markdown
   - Render-Logic
   - Remark
   - Astro
@@ -22,8 +22,8 @@ tags:
   - Extended-Markdown
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/eY3jKK4YNqJE6J5PnqgrqMAMiAX-073LeDAshb90XgM/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/1d7b82b3-589a-4e5d-a217-35417b8b2ec9
-banner_image: https://img.recraft.ai/dCyYFykg0cL_zs72FOTiDRIvDrUzu1Y8A365RaefR6k/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/e5bb2141-58cf-4c83-ab7f-6a86f87fffdf
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Rendering-Callout-Blocks-with-Classes_e966feb4-2311-45a4-a97f-66b154cb61dc_Qucab9295.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_banner_image_Rendering-Callout-Blocks-with-Classes_ad461af6-df4f-4193-9a8a-eecd290d2596_onaOISOjY.webp
 ---
 # Context
 

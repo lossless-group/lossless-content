@@ -14,12 +14,12 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A visual representation of conditional logic in content rendering, featuring flowcharts, branching arrows, and code snippets. The scene conveys dynamic decision-making, modularity, and the adaptability of digital content systems."
 site_uuid: 8dd7a6f2-424d-4007-ace6-d30465b0001f
-tags:
+tags: Render-Logic
   - Render-Logic
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/JgIyURKxi_VnG5cM6xQSNuE1ClkH3ZTckuGvevkfJFk/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/ca73a923-6834-4092-879c-24da549097a7
-banner_image: https://img.recraft.ai/R8imj_g_aNqvBiSzpOfjX60Ez8ZzfJWFc2YyooUlRZ8/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/c7091772-75c7-4cbc-82a9-2e2b7eb0c949
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Conditional-Logic-for-Content_99056779-ac21-4ad0-bb40-b76aeb09d473_R9KS5gmZ4.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_banner_image_Conditional-Logic-for-Content_ef4c8ecf-be9e-4cdd-ae82-0a39c4f798cd_mDVVuzeJI.webp
 ---
 ## The 'status' property values
 

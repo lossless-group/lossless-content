@@ -1,23 +1,30 @@
 ---
-title: Create a permanent memory for project YAML conventions
-lede: Eliminate frustration by observing guidelines, working within hard rules and constraints, and learning to detect YAML irregularties that could cause bugs and failures
+title: 'Create a permanent memory for project YAML conventions'
+lede: 'Eliminate frustration by observing guidelines, working within hard rules and constraints, and learning to detect YAML irregularties that could cause bugs and failures'
 date_authored_initial_draft: 2025-04-19
 date_authored_current_draft: 2025-04-19
 date_authored_final_draft: null
 date_first_published: null
-date_last_updated: 
+date_last_updated: null
 at_semantic_version: 0.0.1.0
 status: Implemented
-augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
 category: Prompts
 date_created: 2025-04-19
 date_modified: 2025-04-20
 image_prompt: "A robot is writing at an antique desk with a quill and ink by candle light."
-tags: [Workflow, YAML, AI-Creativity, Content-Automation]
-authors:
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Help-Write-a-YAML-property-for-a-Directory-of-Files_194d6779-c61d-4752-9e41-9f62e2d65472_EfY0L5Jz_.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Help-Write-a-YAML-property-for-a-Directory-of-Files_d49e031c-30d0-442c-8124-a6a57ebd2f9b_ILIUBDPO8.webp
+site_uuid: a8c08e45-4629-491f-b1b8-2d85b7fa98d1
+tags: Workflow,YAML,Generative-AI,Agentic-AI,Data-Integrity,Content-Automation
+  - Workflow
+  - YAML
+  - Generative-AI
+  - Agentic-AI
+  - Data-Integrity
+  - Content-Automation
+authors: Michael Staton
   - Michael Staton
-portrait_image: https://img.recraft.ai/Ywl9yl05a0q2pSCUxYVsMda8HY-qTD3zcJdAzpYtk4E/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/e28e99a8-1d34-4b53-a018-f3dc8f1c6a04
-banner_image: https://img.recraft.ai/gMgapoEkzcYNF0-BtgY6_zVUxBghstPNIyx8ClAgxhc/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/64c5cadb-ca0b-4492-9bff-a73629fa83b8
 ---
 # Context
 

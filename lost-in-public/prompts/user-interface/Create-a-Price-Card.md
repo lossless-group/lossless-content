@@ -14,16 +14,15 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A modern price card UI component with clear pricing tiers, feature checklists, and a prominent call-to-action button. The design uses soft gradients, clean lines, and visually distinct sections for each pricing option."
 site_uuid: 553c54e2-ce52-4d8f-a472-91508466770d
-tags:
+tags: User-Interface,UI-Elements,CSS,Responsive-Design
   - User-Interface
   - UI-Elements
-  - Pricing-Components
   - CSS
   - Responsive-Design
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/45cFAgOhJgp43t1Vvc-g27z1C9nGyziDVsGOCCY5Krc/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/23de3e25-7106-4333-a106-88c40cdceb86
-banner_image: https://img.recraft.ai/N_YPRn4yyQoupkkbgSp7OiglQJkEv_D_vBgRvut4tHQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/3b397d6d-2667-4e2e-a91a-40af5e2ceb01
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Create-a-Price-Card_f2884b94-a87a-4aa3-a4e3-45780d5bc83b_a5ELjUslI.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Create-a-Price-Card_6e537791-dde6-4bf5-b48d-9522cbdbfc32_OHpPNENpf.webp
 ---
 # Inspiration Set
 A [[Pricing Card]] from [[GNews]] found at https://gnews.io/#pricing

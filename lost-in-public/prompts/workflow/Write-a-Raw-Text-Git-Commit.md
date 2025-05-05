@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A minimalist text editor UI for writing raw git commit messages, with syntax highlighting, commit history, and version control icons. Visuals include branching diagrams and a focus on concise, meaningful text."
 site_uuid: 9c3f5c58-d83e-4842-9531-2f17ea47fd85
-tags:
+tags: Prompt-Engineering,Code-Generators,Code-Assistants,Version-Control,Context-Windows,Transparent-Organizations,State-of-The-Art-Practices,Continuous-Integration,Collaboration-Tools,Collaborative-Workflow
   - Prompt-Engineering
   - Code-Generators
   - Code-Assistants
@@ -23,12 +23,12 @@ tags:
   - Transparent-Organizations
   - State-of-The-Art-Practices
   - Continuous-Integration
-  - Collaboration-Tooling
+  - Collaboration-Tools
   - Collaborative-Workflow
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/TlVxuZlbstYs4LK3TVHW9fTxIlwZCk_qBXbmoukSz9k/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/92e296ea-918c-48fd-a0c0-23b3159d64fe
-banner_image: https://img.recraft.ai/fZ2fDHoqGL2vXkQVtwEUgGIFe0tL2VdszmzOncJUaxk/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/c20bceab-5e69-44b9-80df-8b7c8a3f2b6d
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Write-a-Raw-Text-Git-Commit_a65603ea-badb-4675-9e87-10e65eae5cef_c639Qi9cu.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Write-a-Raw-Text-Git-Commit_e03e75f8-41fb-4fd6-b37f-b1e08073cd0c_jyY4MRBjD.webp
 ---
 # Goals
 Create a thorough yet succinct git commit message that will be used in a git commit. 

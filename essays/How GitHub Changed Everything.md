@@ -3,18 +3,18 @@ date_created: 2024-08-15
 date_modified: 2025-04-28
 site_uuid: c454fd11-77fd-4b20-aeab-0836bcd69377
 title: How GitHub Changed Everything
-lede: 
+lede: "GitHub transformed how developers collaborate, making open source and distributed teamwork the global default."
 date_authored_initial_draft: 2024-08-15
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: 
-image_prompt: 
-banner_image: ""
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_How-GitHub-Changed-Everything_8dadc814-5aef-4047-9208-8309fb3bb627_1VBG15Ol8.jpg
+image_prompt: "A digital map connecting developers worldwide, with code snippets and pull requests flowing between them, and the Octocat mascot at the center. The scene is collaborative, digital, and energetic."
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_How-GitHub-Changed-Everything_062cfc6e-fa1c-4cf0-aa6a-b2b9247dc67f_v2UEEZStR.jpg
 tags: [Continuous-Integration, Version-Control, Collaboration-Tooling, Collaborative-Workflow, Market-Standard-Tools]
-authors:
+authors: 
   - Michael Staton
 ---
 

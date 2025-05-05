@@ -13,12 +13,17 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-19
 site_uuid: fbfdad58-d5ae-481f-8e39-71440825edb2
-tags:
+tags: User-Interface,UI-Elements,CSS,Responsive-Design,Content-Collections,Navigation
   - User-Interface
+  - UI-Elements
+  - CSS
+  - Responsive-Design
+  - Content-Collections
+  - Navigation
 authors:
   - Michael Staton
 publish: false
 image_prompt: "On the left, a group of tags, in different colors, floating around haphazardly.  On the right, a list of tags, in a column, sorted alphabetically."
-banner_image: https://img.recraft.ai/GobQleCGMUNcIoL9a2uZUn576U1XTAu7SV28Hd1sz-8/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/8b10c976-23dd-4568-b410-734153c61f18
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Recreate-the-Tag-Column-for-Prompts_7065c257-d1af-4e48-b0f1-d13af6e6e421_kNksk_Ikd.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Recreate-the-Tag-Column-for-Prompts_847ce740-451f-458c-b8a8-b32b4a8bf6f1_iCM1_C6DA.webp
 ---
-

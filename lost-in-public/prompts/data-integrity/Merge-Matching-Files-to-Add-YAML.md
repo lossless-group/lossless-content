@@ -12,13 +12,13 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-19
-image_prompt: A developer meticulously correcting YAML errors one at a time in a code editor, with a progress tracker, error highlights, and a sense of careful, incremental improvement. The scene is orderly, with a focus on accuracy and systematic problem-solving.
+image_prompt: "A developer meticulously correcting YAML errors one at a time in a code editor, with a progress tracker, error highlights, and a sense of careful, incremental improvement. The scene is orderly, with a focus on accuracy and systematic problem-solving."
 site_uuid: 0f2c53a6-db2c-43a3-8fcc-0b1e3b434abf
-tags: [YAML-Validation, Build-Scripts, Data-Integrity]
+tags: YAML-Validation,Build-Scripts,Data-Integrity
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/5qwis9PMnCmTggZ3K2bmK5DieqBiUoMxEtlMHiH6vts/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/7a45875a-e23c-4259-a67a-d76da5423ad3
-banner_image: https://img.recraft.ai/5rSCL5b4D1TBGy67iRJRVT23tJTQmgOg-FurvqGEmpo/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/4c77b868-546f-45a8-9f8c-06692b193632
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Merge-Matching-Files-to-Add-YAML_23af1c0b-a7c8-415c-9246-8b81edc5171f_D56dhhOL_.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_banner_image_Merge-Matching-Files-to-Add-YAML_b436d280-beb2-43cf-8392-c6dd771de344_qb-k6Prqx.webp
 ---
 **Objective:** Create a script that reads a list of files (missing URLs), finds corresponding files by filename in a source directory (`temp_old_repo/content/tooling`), extracts the `url:` property from the source file's frontmatter (if present, **without using a YAML library**), and inserts this `url:` line into the frontmatter of the target file (`content/tooling`).
 

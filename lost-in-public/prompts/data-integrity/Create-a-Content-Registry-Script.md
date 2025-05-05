@@ -12,17 +12,17 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
-image_prompt: "A software developer at a workstation designing a content registry system, with a digital dashboard displaying organized lists of files and metadata. Visual elements include code, folder icons, and a sense of systematic order and automation. The mood is focused, innovative, and efficient."
+image_prompt: "An immigration officer at a Passport Control station in an Airport receives a line of personified, walking files. They wait in line with a passport to be stamped. Visual elements include code, folder icons, and a sense of systematic order and automation. The mood is orderly, efficient, and comical."
 site_uuid: 1105cad0-cfe6-4c04-a5d5-66746971fa95
-tags:
+tags: Content-Registry,File-Management,Data-Tracking,UUID-Management
   - Content-Registry
   - File-Management
   - Data-Tracking
   - UUID-Management
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/GdzImtxUy13Bz-MHCMmpDffj8li2BVWn_9Xohqfsxec/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/c7af97ba-99fe-4279-947e-5f33ae8b896b
-banner_image: https://img.recraft.ai/tUKbrp7oPquGoNUHl0a5f7eRZNVgNcVf74MhvbPGhow/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/4077d273-2919-4a3b-8a1b-7ef696c979ff
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Create-a-Content-Registry-Script_a7c90dfb-66a5-4628-b82a-4c8c288abc22_zJj1OVOsg.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_banner_image_Create-a-Content-Registry-Script_cc569e3d-c01a-4a6c-adb0-6a179b7216d8_fk1dVt0Bq.webp
 ---
 # Create a Content Registry for Markdown Files
 

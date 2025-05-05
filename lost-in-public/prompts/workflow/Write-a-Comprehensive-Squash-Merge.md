@@ -1,6 +1,6 @@
 ---
-title: Write a Comprehensive Git Squash-Merge 
-lede: A step-by-step, human-readable workflow for safely squash-merging development into master in a multi-contributor project.
+title: 'Write a Comprehensive Git Squash-Merge'
+lede: 'A step-by-step, human-readable workflow for safely squash-merging development into master in a multi-contributor project.'
 date_authored_initial_draft: 2025-04-21
 date_authored_current_draft: 2025-04-22
 date_authored_final_draft: null
@@ -8,21 +8,25 @@ date_first_published: null
 date_last_updated: null
 at_semantic_version: 0.0.1.0
 status: Implemented
-augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
 category: Prompts
 date_created: 2025-04-21
 date_modified: 2025-04-22
 image_prompt: "A visual representation of a Git squash-merge: two tree branches merging into one tree. Code is like leaves, being consolidated, with warnings signs and a checklist pinned on it."
-tags:
-  - Git
-  - Squash-Merge
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Write-a-Comprehensive-Squash-Merge_3aa29eed-4fbf-4faf-a123-2387a302ec79_yzln1khf9.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Write-a-Comprehensive-Squash-Merge_c5a78ad6-8e13-480c-ad1c-46d0d6bfd237_YV0093SGZ.webp
+site_uuid: 66af63f5-4d05-4b7d-b8de-829503c04fe8
+tags: Git-Workflow,Tips-and-Tricks,Version-Control,Best-Practices,Continuous-Integration,Documentation,Collaboration-Tools,Collaborative-Workflow
+  - Git-Workflow
+  - Tips-and-Tricks
   - Version-Control
-  - Workflow
+  - Best-Practices
+  - Continuous-Integration
   - Documentation
-authors:
+  - Collaboration-Tools
+  - Collaborative-Workflow
+authors: Michael Staton
   - Michael Staton
-portrait_image: https://img.recraft.ai/sCMqqXUQojzsjROh8IufRAB4EIrQyTIgOAgOmXw1AiA/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/29a112ef-f364-4d6e-b39f-0fa8a013eccc
-banner_image: https://img.recraft.ai/gsfVqCsgz3tpXEx71NmFoLVSo5RA3ZRf_cTE2ibdsOI/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/e9aa643b-9b4b-4f89-b772-bf7fc74e0182
 ---
 ```javascript
 interface Props {

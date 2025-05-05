@@ -14,15 +14,15 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A dynamic display of floating tags, with a tidy tag column on the left, listing tags in a sorted order."
 site_uuid: 394a6a08-3589-4b9d-af05-ad7bea37be30
-tags:
+tags: User-Interface,Content-Models,Content-Sorting,UI-Design
   - User-Interface
   - Content-Models
   - Content-Sorting
   - UI-Design
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/MeF_ynouDvjybXINUKr0lHlAFH-EKUCaFTs0RXp_Ly4/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/084a7787-83f0-48fc-94c8-cd9c2c70cf10
-banner_image: https://img.recraft.ai/S6Nj6uvLQOFpAlRneyzo4GneKrzW3PZtgVuMA8eP2LM/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/5f663484-5560-411e-8279-ca43356ee11f
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Add-Sort-by-Functionality-to-Tag-Column_1c35fffd-c348-4957-8137-1c2d0429f3f2_solq3sHJg.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Add-Sort-by-Functionality-to-Tag-Column_7280879d-d47f-44b6-9f69-be431f04d58a_oUgl4-RBy.webp
 ---
 # Goal:
 

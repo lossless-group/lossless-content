@@ -1,20 +1,20 @@
 ---
 date_created: 2024-08-02
-date_modified: 2025-04-28
+date_modified: 2025-05-04
 site_uuid: 4dd251ea-2d66-42ca-ab35-1f5641f14396
 title: Back to the Future
-lede: 
+lede: "Old-school, textbook approaches are the secret to mastering the future of AI — sometimes, progress means going back to proven basics."
 date_authored_initial_draft: 2024-08-02
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: 
-image_prompt: 
-banner_image: ""
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Back-to-the-Future_f185b129-8856-4150-891d-39a356745964_1oWaU4F7R.jpg
+image_prompt: "A robot scientist styled like 'Doc' from Back to the Future, standing beside a futuristic DeLorean with an AI logo, inviting a passenger to learn AI skills. The scene blends retro sci-fi with modern technology."
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Back-to-the-Future_8e54c711-a0ad-42c7-b5a6-56b4d9c253fd_T8diY8KQy.jpg
 tags: [Near-Future-Anticipation, Best-Practices, Conceptual-Frameworks]
-authors:
+authors: 
   - Michael Staton
 ---
 

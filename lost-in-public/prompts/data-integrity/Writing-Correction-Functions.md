@@ -13,12 +13,12 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-19
 site_uuid: 5f59b3c3-d003-44e8-a627-2daa9951666a
-tags: [Error-Correction, YAML-Validation, Function-Development, Build-Scripts]
+tags: Error-Correction,YAML-Validation,Function-Development,Build-Scripts
 authors:
   - Michael Staton
-image_prompt: A plumber is on their knees under a sink, using a large wrench to try to fix a water leak.
-portrait_image: https://img.recraft.ai/567rYk7prDkUnXPlej0MOquTIHJLX21AkJY7nhBeqw4/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/a93dcf59-615e-4a40-8ba1-5f4972a705fa
-banner_image: https://img.recraft.ai/KHsF4rnb55aptD3S8hmCO1YQCmh2ThhCszmjWMBcjBo/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/3e5979b3-67f4-42d0-8517-5d4fd5694cbd
+image_prompt: "A plumber is on their knees under a sink, using a large wrench to try to fix a water leak. Behind them is a team of software engineers on their laptops looking helpless"
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Writing-Correction-Functions_c05d947b-a88a-4b81-89ef-5d0b2d471217_FIyFnR7Wu.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_banner_image_Writing-Correction-Functions_ccc8d0a6-99ce-496f-9d5a-7011a6df0d2c_mPaXQl0vH.webp
 ---
 ## Objective:
 

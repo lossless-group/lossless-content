@@ -1,11 +1,8 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2025-04-30
 site_uuid: 047ada1f-c96c-40f8-91c9-014b4cddcec3
 date_created: 2025-04-06
-aliases:
-  - LLM
-  - LLMs
-  - Large Language Model
+aliases: [LLM, LLMs, Large Language Model]
 ---
 
 Include [[OpenAI]]. 
@@ -52,8 +49,8 @@ LLMs are trained on massive data, yet there is a certain "cut-off" point:
   allowfullscreen
 ></iframe>
 >  
-[^6807ec] 2024, April 1. [Transformers (how LLMs work) explained visually | DL5](https://youtu.be/wjZofJX0v4M?si=yPc-sl9j6Wp5V7RB)
+[^1] 2024, April 1. [Transformers (how LLMs work) explained visually | DL5](https://youtu.be/wjZofJX0v4M?si=yPc-sl9j6Wp5V7RB)
 
 # Footnotes
 ***
-[^6807ec]: 2024, April 1. [Transformers (how LLMs work) explained visually | DL5](https://youtu.be/wjZofJX0v4M?si=yPc-sl9j6Wp5V7RB)
+[^1]: 2024, April 1. [Transformers (how LLMs work) explained visually | DL5](https://youtu.be/wjZofJX0v4M?si=yPc-sl9j6Wp5V7RB)
