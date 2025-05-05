@@ -22,7 +22,8 @@ tags:
   - Rehype
   - Plugin-Development
 image_prompt: "A Browser interface is growing arms like an Octopus. Some of the arms are robotic, and starting to move around."
-banner_image: https://img.recraft.ai/wDaOhmmbdCWiOaP1tBa64KgxQHpngBaTa3EegaD8nrY/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/70ee859f-a687-43fb-a3e7-52cf65d05a80
+banner_image: https://img.recraft.ai/fiHZFD0qlIAjtFFlnwQgIgdcabo8D3-heD5UqmcDdas/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/2a4825cb-8fb6-467c-901a-4b0341cfe035
+portrait_image: https://img.recraft.ai/L6KaJcToXA-MjOJKnADzKJ7y3HCedxbEonTun5c-MPc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d6b782c9-dc90-4f32-91f3-a1fdf2f26293
 ---
 
 [Extending Astro.js markdown processing with Remark and Rehype plugins](https://dev.to/fkurz/extending-astrojs-markdown-processing-with-remark-and-rehype-plugins-m1k)

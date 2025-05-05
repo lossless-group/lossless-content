@@ -19,9 +19,9 @@ date_created: 2025-04-21
 date_modified: 2025-04-21
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://img.recraft.ai/48e3xbmI_4YS1Kl9PaK3u05qe-Vs1c3vRk8jxUq-bXM/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d6e750af-63bc-447f-86b6-17a9c6ff5846
 image_prompt: "Automated script replacing YAML keys in a batch of Markdown files, with before/after code blocks and a green checkmark for success."
-banner_image: https://img.recraft.ai/LRWlfsdfCS8iGTd4aNFB40QvYGWMEmAKd4J-Mo0_UM0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/29f874e0-8b7d-474c-82b4-b8ec20b57176
+banner_image: https://img.recraft.ai/Zmny0BXo0OZj8PRkY5qOgrWfREXurgppUve9hkrYUtU/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/1de5dbca-4493-4955-a601-a3cb57ba5758
 ---
 
 # What were we trying to do and why

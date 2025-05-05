@@ -20,9 +20,9 @@ tags:
   - Astro
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://img.recraft.ai/AGUPYX5eFLtf4EJKYAwR5MS0e09M2PkX_tzBW7Xn6vY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/012308ef-e427-43f6-9dec-2a1ec57c021a
 image_prompt: A responsive grid layout transforming from a single column to multiple columns, with Tailwind CSS utility classes and code overlays, all in a clean, modern UI style.
-banner_image: https://img.recraft.ai/zS32sOcCcetviWuV312kLqd7qErZEPj7qQ92OZr-Dpc/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/f934d8ca-2d51-442b-9a13-8df8010ff538
+banner_image: https://img.recraft.ai/bT5V92NijU0pyyeD9xlS0uuDQZhbB11jm8U0hRiQiF4/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/a3dcd118-ba64-4a27-910b-bd2bb57a3ce9
 ---
 
 # Issue Resolution: ReferenceGrid Layout Incorrect on Combined Page

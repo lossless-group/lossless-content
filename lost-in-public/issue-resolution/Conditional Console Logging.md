@@ -19,9 +19,9 @@ date_created: "2025-04-18"
 date_modified: "2025-04-23"
 authors:
   - "Michael Staton"
-portrait_image: ""
+portrait_image: https://img.recraft.ai/9lqySqD4VoOKXx7OhjFXravxIIzcfj1eVzDyBZ5EZZ0/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/2a59ff0e-842b-461d-b672-738456c868cf
 image_prompt: "A developer toggling console log switches on a dashboard, with code streams lighting up or dimming in response, symbolizing fine-grained control over debugging output."
-banner_image: https://img.recraft.ai/buUMTJ7V8V2OfOb3jMHAe6760EshUKwRYs18C3i3Kas/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/5cc05420-514c-41aa-9d8c-e7649b9d5abc
+banner_image: https://img.recraft.ai/ofbgJ3H37fuetdl4SuEfhEFiHjgNAmsnnItKB8smYls/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/820ef5ab-4655-4e47-a653-c4316c5e6af9
 ---
 
 # Issue Resolution Breadcrumb: Conditional Console Logging as a Standard Practice

@@ -21,9 +21,9 @@ tags:
   - TypeScript
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://img.recraft.ai/DoDuP1CgU01FLX8XFab8_GACyuHytcaayrwNO08QJrY/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/178e47ac-e930-4acc-960e-84ddef36ec7a
 image_prompt: A code pipeline diagram showing markdown flowing through remark and rehype plugins, with Astro and TypeScript icons, in a clean, modern style.
-banner_image: https://img.recraft.ai/GcR0Wncyi2Gyo8bS5IesC9F8BiYc3uGfD5WmAEqR7NA/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/ef5068ea-c328-4aa6-92b4-317aaf9f803a
+banner_image: https://img.recraft.ai/QKjQQim4yeSQtSALAAyuq8byeZwwRO8e1dTaWQW-XFc/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/11ef1788-a0e6-424a-b30d-4608c053f04a
 ---
 
 # Setting up Rehype to Better Parse Markdown

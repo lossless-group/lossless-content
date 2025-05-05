@@ -19,9 +19,9 @@ tags:
   - Home-Labs
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://img.recraft.ai/qTs79q8Pteng1HTBgpGAltRM9dYzsSvhmdQbFpRYNiA/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/b333d0ad-a426-4126-b4fc-8f910e904ba4
 image_prompt: A developer workstation with local AI models, terminal windows, and icons for Ollama, LiteLLM, Fabric, and Perplexica, all connected in a modern workflow diagram.
-banner_image: https://img.recraft.ai/VYoawSuKIlt0zmbQO3_CUuQUA8ldBhxv_qKkTbYS9Rs/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/7eac7677-e96e-415f-9732-072be094ed49
+banner_image: https://img.recraft.ai/_gHx3rvAh7gjMhHuhGlncuLQKKZSJ89-HTOHUM6N15A/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/fcaf7568-f5f3-4301-af51-034848fbfab1
 ---
 
 #### [[MSTY]]
