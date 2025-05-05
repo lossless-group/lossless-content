@@ -17,11 +17,10 @@ tags:
   - AI-Collaboration
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/bZSZdlPvGMUGlrYI0WMqoDnFD27Hf-qXzxbUYI_EzB0/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/0faa237a-b19e-40ee-b2c6-db0669e6eaa1
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Tame-Generative-AI-with-rule-sets_0faa237a-b19e-40ee-b2c6-db0669e6eaa1_nRWW0vSmn.webp
 image_prompt: Developer workspace with AI code assistant, rulebooks, and TypeScript/Astro icons, all interconnected in a modern, organized layout.
-banner_image: https://img.recraft.ai/0Rc0iwK4Rwz6Sp6Fy5zuxUhcaUmKsxGbQ66WrAtMxZU/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/137346e8-693d-4438-b341-52652118512e
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Tame-Generative-AI-with-rule-sets_137346e8-693d-4438-b341-52652118512e_wxnuVfPoi.webp
 ---
-
 # Stack, Libraries, Dependencies
 
 #### Preliminaries

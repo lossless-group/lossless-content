@@ -20,11 +20,10 @@ tags:
   - Passthrough-Pattern
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/bUoPlyMaBy74oSgeqm-5gvsPLl8wW7v8tpkkNLNMPYM/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/e43785a5-64c3-471d-b8c7-c58fabf2703d
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Getting-Astro-Collections-to-work-on-Messy-Frontmatter_e43785a5-64c3-471d-b8c7-c58fabf2703d_bPw2bLXCU.webp
 image_prompt: An Astro logo surrounded by swirling Markdown frontmatter fields, some messy and some neat, with a .passthrough() filter cleaning them up.
-banner_image: https://img.recraft.ai/AAPGRhiufcODLCUFPqHdxrY2-EEDrOW9GqtoES-y2eg/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/c6aaf821-78f8-480b-8b8a-bf8e44453f4f
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Getting-Astro-Collections-to-work-on-Messy-Frontmatter_c6aaf821-78f8-480b-8b8a-bf8e44453f4f_dpo_xsZ6A.webp
 ---
-
 We're using `.passthrough()` which means we're not enforcing any schema validation on the incoming data. This is in line with your memory about avoiding hard validation for frontmatter, but we can still be more explicit about the type we expect after the transformation.
 
 ```typescript

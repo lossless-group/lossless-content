@@ -19,10 +19,9 @@ tags:
   - Dynamic-Routing
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/BTJa8BlmAfi6Mbc24o9nJmODWpE_f9q_TfB4CvUsuoA/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/f2c1b0ac-4c2f-4ef4-9c75-9d35740d1375
-portrait_image: https://img.recraft.ai/CtjF_5RmkgKea_b9675LEi_WXPIA0CwrEqtWBInXWoI/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/4082a631-7c00-4807-a3de-4d7a7fbde40b
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Dynamic-Route-Slug-Generation-404-Fix_f2c1b0ac-4c2f-4ef4-9c75-9d35740d1375_oPCqevw2Y.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Dynamic-Route-Slug-Generation-404-Fix_4082a631-7c00-4807-a3de-4d7a7fbde40b_6vYyIfKtN.webp
 ---
-
 # Fixing 404 Errors in Dynamic Routes with Proper Slug Generation
 
 ## The Challenge: 404 Errors on Valid Dynamic Routes

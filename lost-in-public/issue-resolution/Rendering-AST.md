@@ -20,11 +20,10 @@ tags:
   - Unified-Ecosystem
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/lyzZptsnGkSiTmyS302u7DTtb9Y6XrZg5_fP9KIwz1I/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/2a246945-a8c7-44b4-89be-e4e3d49c4eff
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Rendering-AST_2a246945-a8c7-44b4-89be-e4e3d49c4eff_STa0FWbc0.webp
 image_prompt: An abstract visualization of a markdown AST being transformed into a tree of UI components, with arrows showing the flow from markdown to rendered output, in a modern, technical style.
-banner_image: https://img.recraft.ai/RsOS-IroXj-cInc7L08m4qgelQqjxTMDiLYX-OTsG-o/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/716d334b-0754-4b4c-b083-ec008a26c086
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Rendering-AST_716d334b-0754-4b4c-b083-ec008a26c086_-bo7jHRuH.webp
 ---
-
 The parsedAst is successfully getting a blockquote, but it does not successfully understand that the `> ` after new lines that the callout is continued.
 
 parsedAst can't handle tables inside callouts:

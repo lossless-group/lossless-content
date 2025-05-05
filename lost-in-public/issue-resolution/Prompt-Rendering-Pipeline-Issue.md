@@ -20,10 +20,9 @@ tags:
 authors:
   - Michael Staton
 augmented_with: Windsurf Cascade on GPT 4.1
-banner_image: https://img.recraft.ai/OoZU7y22KJkNwsPgCrGL_JnnmNlcM71aT59nw0JbNJQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/3c3bb46b-3afb-4d32-9f44-2f846682aea6
-portrait_image: https://img.recraft.ai/jOsxhzyr4jdPZ6ASGXGj5oPVUxFHOH1bHLzD5jrUWOI/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/11a96132-38fb-4a06-b2d1-80a7bc716eef
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Prompt-Rendering-Pipeline-Issue_3c3bb46b-3afb-4d32-9f44-2f846682aea6_6AptzWyHf.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Prompt-Rendering-Pipeline-Issue_11a96132-38fb-4a06-b2d1-80a7bc716eef_6xnYhjOoc.webp
 ---
-
 # Prompt Rendering Pipeline Issue Resolution
 
 ## What we were trying to do and why

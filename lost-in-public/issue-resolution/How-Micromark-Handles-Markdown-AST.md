@@ -20,11 +20,10 @@ tags:
   - Unified-Ecosystem
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/4M4BKncpEeBY-0OH84Wt9MWN9RDn0gt4A-mEV2zEShI/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/33f6fe54-a532-4b40-8bd8-5a112fd8ea1c
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_How-Micromark-Handles-Markdown-AST_33f6fe54-a532-4b40-8bd8-5a112fd8ea1c_4Pd_DqnW3.webp
 image_prompt: Micromark gears emitting a stream of tokens, transforming into an abstract syntax tree (AST) by higher-level utilities, with visual separation between token stream and AST.
-banner_image: https://img.recraft.ai/fjAoOBiQKwL_Y-iAIbJ4Wq8lnwHso7PcJj6nONdQiH8/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/5995d10d-75a8-403b-b9be-9c954ea39897
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_How-Micromark-Handles-Markdown-AST_5995d10d-75a8-403b-b9be-9c954ea39897_GHdTLsKnu.webp
 ---
-
 # How Micromark Handles Markdown and the AST: The Ultimate Deep Dive
 
 ***

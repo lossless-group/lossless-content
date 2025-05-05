@@ -22,10 +22,9 @@ tags:
   - Component-Design
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/mavVf2JN-akanQVlhWvGxpsp1dOdyjGz9tg6Pd9IQ7M/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/d70c8076-7ab9-4310-b5e9-a794c0e72faf
-portrait_image: https://img.recraft.ai/EsTKEmQ-Jpv9M1kSKejCHWZ1QOK6NgBGNJ72vfHz0xk/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/16cd1fb5-b0cc-4bca-ab8b-fe5123ec0f17
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Dynamic-Image-Masking-Control_d70c8076-7ab9-4310-b5e9-a794c0e72faf_MzT6N529G.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Dynamic-Image-Masking-Control_16cd1fb5-b0cc-4bca-ab8b-fe5123ec0f17_hoS8XDRSr.webp
 ---
-
 # Dynamic Image Masking Control in FeatureSideImage Component
 
 ## What We Were Trying to Do and Why
