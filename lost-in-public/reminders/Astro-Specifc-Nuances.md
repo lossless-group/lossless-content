@@ -13,15 +13,14 @@ date_modified: 2025-04-21
 lede: 'Brief description of the reminder functionality and purpose'
 date_authored_current_draft: 2025-04-21
 site_uuid: 03842d81-d318-4483-833e-9292b26c9c8c
-portrait_image: https://img.recraft.ai/bYTtBDGK6XqCDAsRJ9oq3z7RVbjDQ3LugwXt47AaV58/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/037b7475-5fe6-4be2-8585-0c2f8f09711c
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Astro-Specifc-Nuances_037b7475-5fe6-4be2-8585-0c2f8f09711c_EywmY5ozr.webp
 image_prompt: ''
 tags: [Astro, Web-Frameworks, Code-Generators]
-authors:
+authors: 
   - Michael Staton
-banner_image: https://img.recraft.ai/pcSCXjUUtjYYxLRz7VdZf8Cfaf_ftY5OHeHmxRRXAoo/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/45431b20-c669-4f25-ae39-925d80aa2f0b
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Astro-Specifc-Nuances_45431b20-c669-4f25-ae39-925d80aa2f0b_CZZHD_Rfz.webp
 ---
 
-z
 # Astro does not Use JSX or React by default
 
 Do not use JSX, React syntax when writing components.  They don't work.  

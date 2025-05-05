@@ -1,4 +1,6 @@
 ---
+
+
 title: An Exhaustive list of content YAML patterns.
 lede: Never repeat yourself—reference this comprehensive guide to all frontmatter YAML patterns for bulletproof data integrity and automation.
 date_authored_initial_draft: 2025-03-24
@@ -13,13 +15,14 @@ image_prompt: A robot at a giant clipboard, checking off a massive list of YAML 
 date_created: 2025-03-24
 date_modified: 2025-04-25
 site_uuid: 1988ee9d-a35a-4540-9a23-9f8bc39995c0
-portrait_image: https://img.recraft.ai/TcNR7g_mi7mt5HrY6VrO1q0sUWXa_6z7yjdAv1afbIc/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/ae6cb1cd-6192-4f37-9f92-148cd6b241bc
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_YAML-Patterns--Exhaustive-Cases_ae6cb1cd-6192-4f37-9f92-148cd6b241bc_aeCfb6Gza.webp
 tags: [Workflow, YAML-Handling, YAML-Conventions, Bug-Prevention, Filesystem-Observers]
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/SczGPDCdFFEOFrdYdTyod1nFBcV4eZDmAyjcRJdqApA/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/bd7bb3ee-cfe7-476e-b078-3b6a4c8bcfb8
----
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_YAML-Patterns--Exhaustive-Cases_bd7bb3ee-cfe7-476e-b078-3b6a4c8bcfb8_uqwepesN4.webp
 
+
+---
 # YAML Patterns for Data Integrity
 
 This document provides guidelines for maintaining data integrity in YAML frontmatter within markdown files. Following these patterns helps ensure consistent parsing, prevents errors, and enables automation tools to process your content correctly.

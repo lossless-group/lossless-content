@@ -1,4 +1,6 @@
 ---
+
+
 title: 'Maintain Consistent Reporting'
 lede: 'Master the art of consistent, auditable reporting for every automation, script, and observer in your content pipeline.'
 date_authored_initial_draft: 2025-03-26
@@ -13,13 +15,14 @@ image_prompt: 'A digital ledger or dashboard with checklists, report icons, and 
 date_created: 2025-03-26
 date_modified: 2025-04-22
 site_uuid: f6ea2031-866d-457f-a7fe-834ae48ffd72
-portrait_image: https://img.recraft.ai/CyNBpcAxA4MRH7lXhvwo6Xt0DPA3z5N0-w6trkPhqPM/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d8fef918-51c9-4f0e-8779-0f891e3f422b
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Maintain-Consistent-Reporting_d8fef918-51c9-4f0e-8779-0f891e3f422b__E4BgF2-2.webp
 tags: [Workflow, Reporting, Automation, Auditing]
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/Mdn6QtziEywXHoB_lGmsNzv1AGMcqMzGFSACVoMZ2HE/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/afa93299-0928-4f0d-b7a1-a6da6737da7a
----
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Maintain-Consistent-Reporting_afa93299-0928-4f0d-b7a1-a6da6737da7a_ml6m7rcNa.webp
 
+
+---
 # Reports always always ALWAYS ALWAYS go in the following directory:
 `content/reports/`
 

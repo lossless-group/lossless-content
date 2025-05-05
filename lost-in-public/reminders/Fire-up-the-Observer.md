@@ -1,4 +1,6 @@
 ---
+
+
 title: 'Fire up the Observer'
 lede: 'Ready to automate? Learn how to launch the Observer system for seamless citation and frontmatter processing across your content library.'
 image_prompt: 'A futuristic terminal window launching an observer robot, with glowing file paths, citation icons, and YAML frontmatter floating in a digital workspace.'
@@ -14,13 +16,14 @@ category: Documentation
 date_created: 2025-04-13
 date_modified: 2025-04-22
 site_uuid: 92421e72-f568-4d69-8023-fda8af85b652
-portrait_image: https://img.recraft.ai/2M6ZPhLvghL7LnFrr5pDg0QoA8TIM7-AKxZ2oCzcqng/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/3f244cac-89ce-4817-9c88-1b7111313b85
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Fire-up-the-Observer_3f244cac-89ce-4817-9c88-1b7111313b85_FwiphjTvY.webp
 tags: [Data-Integrity, File-Processing, Observer-System]
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/KH-zcQy-fhbOuNSaFQ_IbYc8u0jcG_BaiVts5i-XdyA/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/a6174a8d-5929-436d-bcd0-78323b091364
----
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Fire-up-the-Observer_a6174a8d-5929-436d-bcd0-78323b091364_KiF40_cW8.webp
 
+
+---
 # Running the Observer System
 
 This document provides instructions for running the filesystem observer to process citations and frontmatter in markdown files.

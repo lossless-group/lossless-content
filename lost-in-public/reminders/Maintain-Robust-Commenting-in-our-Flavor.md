@@ -1,4 +1,6 @@
 ---
+
+
 title: Maintain Robust Commenting in our Flavor
 lede: "Unlock the power of readable, maintainable code with our signature commenting style—section openers, function docs, and clarity-first annotation for every project."
 date_authored_initial_draft: 2025-03-25
@@ -18,10 +20,11 @@ site_uuid: 0ab1abf6-701e-41e6-bf14-957e016a5448
 tags: [Code-Style, Documentation, Code-Comments, Readability]
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/uMjg_ib8-Ade4DYarJ3RifKb3uLqUcXB690xz1KpqGk/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/ea5a9fde-4b59-4a71-8695-8b7840695f38
-banner_image: https://img.recraft.ai/YMvwmjywAw6KxrwjBJKSLmZT-vGvMahrP5p8rOfpzjI/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/77fc4c67-722e-4e50-aac5-9ac897029f61
----
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Maintain-Robust-Commenting-in-our-Flavor_ea5a9fde-4b59-4a71-8695-8b7840695f38_1LrygDn75.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Maintain-Robust-Commenting-in-our-Flavor_77fc4c67-722e-4e50-aac5-9ac897029f61_GUxLMTmjG.webp
 
+
+---
 ### Coding Guidelines
 
 - Declare types inline. Aggregate a list of the types information in the comment sections

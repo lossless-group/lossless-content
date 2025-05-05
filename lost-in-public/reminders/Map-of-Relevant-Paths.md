@@ -1,4 +1,6 @@
 ---
+
+
 title: 'Map of Relevant Paths'
 lede: 'Review this file to ensure code generation is using the correct paths and directory structure in this complex monorepo.'
 date_authored_initial_draft: 2025-04-06
@@ -13,13 +15,14 @@ image_prompt: 'A digital blueprint of a monorepo, with highlighted directory pat
 date_created: 2025-04-06
 date_modified: 2025-04-22
 site_uuid: 05e41630-1753-4bae-a4d6-20bf9147d76b
-portrait_image: https://img.recraft.ai/tgPGaCbZU92HQGP82zycjNGBmHnbiGiJ0MmmetgbxKs/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/6eafc83b-f4ca-472f-b81e-37b00af3c97b
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Map-of-Relevant-Paths_6eafc83b-f4ca-472f-b81e-37b00af3c97b_ze33S8bam.webp
 tags: [Code-Style, Software-Architecture, Code-Generators, Bug-Prevention]
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/_vArAHzeKBe5bKgjqd5tqhRGaYRq8oQ6i4M5-p2YqjY/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/adc5bcaa-0b61-45dd-846c-7817cdf66597
----
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Map-of-Relevant-Paths_adc5bcaa-0b61-45dd-846c-7817cdf66597_AAS_MDchj.webp
 
+
+---
 # Project Directory Structure
 
 ## ⚠️ CRITICAL PATH STRUCTURE WARNING ⚠️

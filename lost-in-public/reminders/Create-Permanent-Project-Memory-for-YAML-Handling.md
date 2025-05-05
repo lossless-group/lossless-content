@@ -1,4 +1,6 @@
 ---
+
+
 title: Create a permanent memory for project YAML conventions
 lede: "Eliminate frustration by observing guidelines, working within hard rules and constraints, and learning to detect YAML irregularties that could cause bugs and failures."
 date_authored_initial_draft: 2025-03-17
@@ -16,10 +18,11 @@ site_uuid: cf0325fb-c19d-480c-a739-3118d28a7428
 tags: [Workflow, YAML, YAML-Handling, YAML-Conventions, Bug-Prevention]
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/QJJlr-KKhjVtAmhlD-KB-1ThIMGTxMYoXc67TmEnAlw/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/812a67e7-8d73-487a-b7f8-0532dbe39abc
-banner_image: https://img.recraft.ai/g4HoslJB8tmAfHqk2yqEeKIHY3r2RcYQ05tFvO4el9M/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/ed2548c1-41f2-441e-8011-5ba854287043
----
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Create-Permanent-Project-Memory-for-YAML-Handling_812a67e7-8d73-487a-b7f8-0532dbe39abc_gSMVotXRZ.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Create-Permanent-Project-Memory-for-YAML-Handling_ed2548c1-41f2-441e-8011-5ba854287043_kUI2Ga0Do.webp
 
+
+---
 # Context
 We have been set back over a week as of the initial draft of this prompt. You don't remember this, but we worked 16 hour days together, seven days a week, in an endless loop of trying to fix the same errors in the same files. Let's prevent this by creating a permanent project memory and ruleset so we just never have a setback due to YAML frontmatter again.  
 

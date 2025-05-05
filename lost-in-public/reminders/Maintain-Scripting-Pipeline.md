@@ -1,4 +1,6 @@
 ---
+
+
 title: 'Maintain a Scripting Pipeline'
 lede: 'Design modular pipelines to detect, clean, and report on markdown files—ensuring every content workflow is robust, maintainable, and auditable.'
 date_authored_initial_draft: 2025-03-26
@@ -13,13 +15,14 @@ image_prompt: 'A digital assembly line of scripts, each module passing markdown 
 date_created: 2025-03-26
 date_modified: 2025-04-22
 site_uuid: 33265b85-8890-4f38-b0cc-671cbf40fc80
-portrait_image: https://img.recraft.ai/kx8y6u93LKNU3FfE_Ylh0fvsyG2LX_Vh3d23LR6zkgU/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/4b24bfc6-5950-4a2e-a34e-637d072df077
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Maintain-Scripting-Pipeline_4b24bfc6-5950-4a2e-a34e-637d072df077_MQf15Ciy5.webp
 tags: [Script-Pipeline, Data-Cleaning, Tidy-Data, Markdown-Processing, Node-Scripts]
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/vu93DBSeGAtFYXcrgF9I3zDghJzlABlUdi9i459BD4E/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/5a991106-1491-4555-9e46-5f1548a54c84
----
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Maintain-Scripting-Pipeline_5a991106-1491-4555-9e46-5f1548a54c84_SRLVoZukD.webp
 
+
+---
 # Creating a Modular Script Pipeline
 
 ## Pipeline Structure
