@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A digital workspace showing an AI assistant interacting with multiple model APIs, sending and receiving data. Visuals include floating API icons, code snippets, and a glowing neural network, symbolizing seamless integration and intelligent automation."
 site_uuid: 766bbc39-4d24-437b-9e47-2beb155ab837
-tags:
+tags: Workflow,Model-APIs,API-Integration,LLM-Services,API-Guidelines
   - Workflow
   - Model-APIs
   - API-Integration
@@ -22,6 +22,6 @@ tags:
   - API-Guidelines
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/wghxfOweQOqiQ1Ye6YoIUaa8aYtsPOhYEDYL9efbV3U/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/493ee04a-7e49-4074-a05f-9e02bdb18ef0
-banner_image: https://img.recraft.ai/DP-1a7Dc0nJopg41fjdjdmIbYlrkO6ZuRltj9NwsMZA/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/8eb78251-5a07-4c03-a1ea-17b6a49542d4
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Ask-a-Model-API-to-perform-a-task-via-API_937f5f4c-052c-40d4-9974-ab3f02c333c4_MiiC01xx4.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Ask-a-Model-API-to-perform-a-task-via-API_85db5b53-edfe-45a3-916a-b3eec280312d_7VJ_Gf1Mj.webp
 ---

@@ -14,16 +14,17 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A git commit interface focused on a single directory, showing commit messages, file diffs, and version history. Visuals include directory trees, commit icons, and collaborative editing, symbolizing precise version control."
 site_uuid: 91397384-1d65-4f9a-905b-700e58a090ac
-tags:
-  - Workflow
-  - Content-Management
+tags: Git-Workflow,Continuous-Integration,Version-Control,Model-Context-Protocols,Collaboration-Tools,Collaborative-Workflow
+  - Git-Workflow
+  - Continuous-Integration
   - Version-Control
-  - Git
-  - Automation
+  - Model-Context-Protocols
+  - Collaboration-Tools
+  - Collaborative-Workflow
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/L9j4-1VcLgAYskc2l1FT9N4Ws4iLsf_rzfLABdW2D-0/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/b6a040c5-17ba-4077-a715-e48b661d5e99
-banner_image: https://img.recraft.ai/pdI1gFpiTryXplLRWJuh1hq7GL1icbiOGP4cYPdoiJk/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/aaea74fa-5aa0-4f96-9731-8dc1c4634a91
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Write-a-Git-Commit-for-one-Dir_fe045e02-a834-4241-92ee-d8f9e64579ac_f2ZeyIQiC.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Write-a-Git-Commit-for-one-Dir_5537538e-349d-42a1-ac30-ce4b48667a88_04v-o3efy.webp
 ---
 # Purpose
 Generate a well-structured git commit message for changes in a specific directory, ensuring consistent documentation of modifications and maintaining a clear history of content updates.

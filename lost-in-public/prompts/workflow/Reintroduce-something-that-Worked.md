@@ -14,17 +14,18 @@ category: Prompts
 date_modified: 2025-04-21
 date_created: 2025-04-21
 image_prompt: "An AI assistant and user collaboratively editing a prompt, surrounded by evolving prompt bubbles, code suggestions, and feedback loops. Visuals include arrows showing iteration and a sense of creative, continuous improvement."
-portrait_image: 'https://img.recraft.ai/6bCc0NmTSq-1O5EndSdhe9KNSZyim0MUhM9wP7HEea8/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/74e486d2-03b5-4a21-9c94-633651815653'
-banner_image: 'https://img.recraft.ai/jV88_hO0AWFfiEPZC8xicLJfxfke5mFcYzm8qxj768Q/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/faaa6087-7248-4bd3-8015-8112853c2783'
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Reintroduce-something-that-Worked_9b6e5c06-4079-4459-bd20-a994afc3c0fc_BCHJiKG-P.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Reintroduce-something-that-Worked_34504b8a-22d0-4c58-beac-8f6f9d46f35a_bYGzgrAME.webp
 site_uuid: cfac0a85-2718-45cb-9e8b-99b7e6327e11
-tags:
+tags: Prompt-Engineering,Code-Generators,AI-Human-Workflow,Model-Context-Protocols,Refactoring
   - Prompt-Engineering
   - Code-Generators
   - AI-Human-Workflow
-authors:
+  - Model-Context-Protocols
+  - Refactoring
+authors: Michael Staton
   - Michael Staton
 ---
-
 # Constraints
 Do not blindly copy old code.  Instead, review the parts of the code that worked and are specific to this ask.  
 

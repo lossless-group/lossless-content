@@ -14,16 +14,19 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A content changelog entry UI with sections for updates, improvements, and editorial notes. Visuals include content cards, timeline markers, and collaborative editing tools, symbolizing organized content history tracking."
 site_uuid: 3b7cba3a-b409-49ec-8a9b-383960e98c33
-tags:
+tags: Workflow,Changelog-First-Development,Documentation,Version-Control,Content-Management,Content-Automation,Collaboration-Tools,Collaborative-Workflow
   - Workflow
-  - Changelog
+  - Changelog-First-Development
   - Documentation
   - Version-Control
-  - Code-Changes
+  - Content-Management
+  - Content-Automation
+  - Collaboration-Tools
+  - Collaborative-Workflow
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/9Bj27-pw6Bn6KNd3CDbFdqWHoc37NHzMobrWDLyDkiw/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/2888c28b-a4bc-440a-b342-3488d7d90605
-banner_image: https://img.recraft.ai/eXyf4H6QvqTR7JUByytDrzSTgCnTMGhV5oIytnb1W-s/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/de7b6f11-1d40-4125-be6f-cd808c483a6a
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Write-a-Content-Changelog-Entry_0e2b1337-b18e-4c9e-8758-c832ff726958_MTkMLTth6.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Write-a-Content-Changelog-Entry_1f5f0f10-8b65-4fe5-8aa4-dddc77d59638_jt2fva9ru.webp
 ---
 > Option Set for 'Changelog Type':
 > 1. Code Changes (site/src/content/changelog--code)

@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A changelog user interface with a timeline of updates, interactive cards for each release, and filterable tags. Visual cues include icons for features and bug fixes, a clean layout, and a modern, collaborative workspace vibe."
 site_uuid: 88ad913c-b8f0-475e-ba90-abcbf71fc29b
-tags:
+tags: User-Interface,Changelogs,Release-Notes,UI-Design,User-Experience
   - User-Interface
   - Changelogs
   - Release-Notes
@@ -22,8 +22,8 @@ tags:
   - User-Experience
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/-rXSeSJtCfOAKSoEwOcyrq2Xe4FoQFuaRAPfP0Hyvoo/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/e724c170-4236-442f-8958-2309152594b1
-banner_image: https://img.recraft.ai/Rpgi0wRP2OXSKevrhSDBiCIVM25bERDaYV0GiMVrSK0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/93a0868e-006f-4f8c-b4b6-6df4935e8f24
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Create-a-Changelog-UI_32b4f9ab-068e-4e1d-b8ec-46c72d759cd6_yiXF93vSB.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Create-a-Changelog-UI_cc44ebb8-b831-445b-9f96-af09aadc64a1_QOccCe1Cj.webp
 ---
 # Data Flow & Component Pipeline
 

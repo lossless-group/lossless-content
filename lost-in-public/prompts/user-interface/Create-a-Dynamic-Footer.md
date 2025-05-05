@@ -13,17 +13,16 @@ category: Prompts
 date_created: 2025-04-19
 date_modified: 2025-04-19
 image_prompt: "A zoomed in view of a soccer shoe, the soccer player is kicking the soccer ball."
-portrait_image: 'https://img.recraft.ai/79Yv2_9WeSPdRsu9dG2AEqwabenvwKFPfaisrswYPCM/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/ad31f707-5948-4d0b-921d-44845bf0b1b3'
-banner_image: 'https://img.recraft.ai/nnKIxsX_PMiYRFTUrO_XJNK9j4gv_2DQ93KYujN9JBQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/119a68cd-1379-414b-b0c1-d65ca5c95260'
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Create-a-Dynamic-Footer_0d7ea45a-8074-476f-9120-0377cf99f50a_YDooqaUDz.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Create-a-Dynamic-Footer_b2aa6c30-2cdd-4874-a799-6bae6dc9abbb_m8kEgNnl1.webp
 site_uuid: 2ab7ee71-fb2c-462d-a341-8f83a98f3d20
-tags:
+tags: User-Interface,UI-Design,Navigation
   - User-Interface
   - UI-Design
   - Navigation
-authors:
+authors: Michael Staton
   - Michael Staton
 ---
-
 # Higher-Order Objective
 
 Create a dynamic footer that is responsive and adaptive to the content of the page. 

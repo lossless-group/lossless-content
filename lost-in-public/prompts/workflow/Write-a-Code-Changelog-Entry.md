@@ -12,19 +12,25 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
-portrait_image: https://img.recraft.ai/dNjC71HZTzhuGsVvZr7XPTmU5hs1U913AIyJ2qzKBBU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/cce8391e-96bf-4f25-aee5-1cf825546b78
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Write-a-Code-Changelog-Entry_4f34ad93-5e24-4695-ac44-21aa0ce3d07e_Wrx_67VFL.webp
 image_prompt: "A code changelog entry UI with structured sections for features, fixes, and improvements. Visuals include version tags, code snippets, and a collaborative editing space, symbolizing organized code history tracking."
 site_uuid: fe4fbbd8-79d7-49ce-90a0-4d027424ec28
-tags:
+tags: Changelog,Documentation,Version-Control,Best-Practices,Code-Changes,Changelog-First-Development,Workflow-Automation,AI-Human-Workflow,Model-Context-Protocols,Collaboration-Tools,Collaborative-Workflow
   - Changelog
   - Documentation
   - Version-Control
+  - Best-Practices
   - Code-Changes
+  - Changelog-First-Development
+  - Workflow-Automation
+  - AI-Human-Workflow
+  - Model-Context-Protocols
+  - Collaboration-Tools
+  - Collaborative-Workflow
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/6oGcDfXVQ6jFKxvRUWQljzgatsyczZNNmhAmwX78xQY/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/26220464-95c7-45c0-983a-db213e6c2cfe
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Write-a-Code-Changelog-Entry_0c881328-b39e-4f30-b8a7-dcd7faa6da03_hU-WCidVJ.webp
 ---
-
 > Option Set for 'Changelog Type':
 > 1. Code Changes (content/changelog--code)
 >    - Build scripts

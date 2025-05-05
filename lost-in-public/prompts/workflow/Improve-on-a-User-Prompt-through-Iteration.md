@@ -15,14 +15,15 @@ date_modified: 2025-04-16
 date_created: 2025-04-16
 image_prompt: "An AI assistant and user collaboratively editing a prompt, surrounded by evolving prompt bubbles, code suggestions, and feedback loops. Visuals include arrows showing iteration and a sense of creative, continuous improvement."
 site_uuid: b537985a-318f-4fdb-bd50-decad94ff90f
-tags:
+tags: Prompt-Engineering,Code-Generators,Model-Context-Protocols,AI-Human-Workflow
   - Prompt-Engineering
   - Code-Generators
+  - Model-Context-Protocols
   - AI-Human-Workflow
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/3A5gfAEuct_6_U9mCKX5yKABp08sqzM9Yf5IQZ4MhK8/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/003cfad2-dbfa-4b0b-bb92-b84a9d3421de
-banner_image: https://img.recraft.ai/VuotBIV2AIYK2-Kc5XfQxtBqglJpkqr1Zf2Bb7IKIfM/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/742a5b70-ba78-4a12-a7c4-2c9e7e57a197
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Improve-on-a-User-Prompt-through-Iteration_960b7632-9519-4397-8cd8-efd6d1e8d348_l3ryWKEda.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Improve-on-a-User-Prompt-through-Iteration_40222d0b-b6dd-40b1-9b2f-0fb5919759a4_Uq6jHh-75.webp
 ---
 # Constraints
 Do not be destructive, if there is content already there the user will decide on edits. 

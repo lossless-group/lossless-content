@@ -13,12 +13,18 @@ category: Documentation
 date_modified: 2025-04-19
 date_created: 2025-04-16
 site_uuid: 162f8c5c-ee3f-448d-97af-459cb9cee111
-tags: [Workflow]
+tags: Workflow,Documentation,Best-Practices,Changelog-First-Development,Continuous-Integration,Continuous-Deployment
+  - Workflow
+  - Documentation
+  - Best-Practices
+  - Changelog-First-Development
+  - Continuous-Integration
+  - Continuous-Deployment
 authors:
   - Michael Staton
 image_prompt: A column list of dates on the left, most recent on the top. On the right, the symbol representing infinite.
-portrait_image: https://img.recraft.ai/H2feao--To2ggBwZw8QigMymDgdGm8iU7ZTOwY04pUQ/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/e10008d7-aaa2-417a-b1a9-535179ea8d8b
-banner_image: https://img.recraft.ai/hdRad7Y_xfeIMty_9ehNZhdSDUmIA0rWSTNXJ2qyCOQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/c14f95a2-5917-4458-9a81-f72c6df80ff8
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Create-a-Basic-Changelog_9b7536d4-0cce-46c8-87c7-daa6a01d370c_zneO94Y3o.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Create-a-Basic-Changelog_92ad63f4-16b3-437a-8e1b-5914ccd79411_c1FxPRJ3f.webp
 ---
 # Purpose  # High-level goal
 Establish consistent, informative changelog entries that document changes to code and content across the project.

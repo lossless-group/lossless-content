@@ -14,15 +14,15 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A bold hero section UI with a striking headline, vibrant call-to-action button, and an engaging background image. The design is modern, clean, and visually impactful, drawing attention to the main message in a web interface."
 site_uuid: 598c707d-1f50-4c15-87dd-e5ecaca93afd
-tags:
+tags: User-Interface,UI-Design,User-Experience,Animations
   - User-Interface
   - UI-Design
   - User-Experience
   - Animations
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/5Q2bbmTAjxPhZB6zuu_YwSOgTun5fY7T5BVB5Wp3OOg/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/bc80b357-6312-4925-9f66-6d166c3dccdc
-banner_image: https://img.recraft.ai/vtXlx7H8q5up9NQzZtSgGRV8_0lgk_oCFgu02LPHEhw/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/631ac129-0322-4083-a2cf-2994de0e9465
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Create-a-Hero-Component_bd12719a-f8c6-4c28-b803-4ededbd6b424_aWEYw-wHu.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Create-a-Hero-Component_46532027-356a-43cb-987c-617eaedd0aee_A-mnRbg88.webp
 ---
 # Context
 

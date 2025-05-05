@@ -13,18 +13,19 @@ category: Prompts
 date_created: 2025-04-20
 date_modified: 2025-04-25
 image_prompt: "Several documents are at the top of the image, curved arrows point from each document into a filter icon.  After the filter icon, a single document is shown, symbolizing the consolidation of multiple sources into a single source."
-portrait_image: 'https://img.recraft.ai/-xWlkAFY0hFV3EudlJpo9CnbMHsNK7BYJusu9XYe5ws/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/f3b17ec4-6ea5-40b3-bad4-fca651eecb2f'
-banner_image: 'https://img.recraft.ai/GkVlib6_Way_F92wo82tBKu_rzQqJPdiLnq0etsgfDY/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/85e9121d-8144-4773-9920-59de9cf1cb4a'
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Consolidate-Multiple-Documentation-Sources-into-One-Source_d3f01ba3-bfa8-46b7-b7b8-5c1527a3e7eb_Ury0YwMnS.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Consolidate-Multiple-Documentation-Sources-into-One-Source_9d08e56a-eabe-4057-8fd6-d7a2dbb5a6e4_NsstCuoBh.webp
 site_uuid: d9010dba-0d07-4269-bcbb-e55b5cc9334e
-tags:
+tags: Workflow,Prompt-Engineering,Documentation,Best-Practices,Content-Refactoring,Content-Automation
   - Workflow
   - Prompt-Engineering
   - Documentation
   - Best-Practices
-authors:
+  - Content-Refactoring
+  - Content-Automation
+authors: Michael Staton
   - Michael Staton
 ---
-
 # Role
 You are a very experienced senior product manager, with singificant direct experience as a software engineer.  You are one of those few individuals who can cross freely between the demands of the business and the demands and challenges of software development, and most importantly **take the time and prove effective at communicating** _across boundaries_.  
 1. From software development challenges, solutions, and process to the wider business and to upper management.

@@ -15,7 +15,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A troubleshooting dashboard for SVG image rendering, showing a web page with broken and fixed SVG icons, diagnostic tools, and highlighted file paths. Visuals include warning symbols, code snippets, and a sense of technical problem-solving."
 site_uuid: 6551f209-9a8a-491a-9762-430e1e47a75d
-tags:
+tags: Issue-Resolution,Image-Rendering,SVG,Astro,Path-Resolution
   - Issue-Resolution
   - Image-Rendering
   - SVG
@@ -23,8 +23,8 @@ tags:
   - Path-Resolution
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/jNyuOnLXz5hhe78LbjhGLka-b37d7K5tdPMe8iZqoyU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d28c8018-7a45-4386-870e-a61e990f40ec
-banner_image: https://img.recraft.ai/SZy3bbAD8NhfpVwDa_8mQIR1snfFPd_qAtjr9trwzas/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/ff1e1175-669c-4937-9c51-5217d1b97a4b
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_SVG-Image-Rendering-Issue-Resolution_31f8f2d3-2176-4eb3-b4d5-38e0b498be6e_ELQyoQFid.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_SVG-Image-Rendering-Issue-Resolution_59a7b976-5adf-4d7a-b1fb-67011d7a5ef2_R5A_7r45m.webp
 ---
 # Resolving Local SVG Image Rendering Issues in Astro
 
