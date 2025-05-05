@@ -12,14 +12,14 @@ status: To-Do
 augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
 category: Prompts
 image_prompt: 'A detailed checklist and rulebook beside a prompt engineering workspace, with highlighted constraints, best-practice icons, and a glowing AI assistant. Visuals include sticky notes, error warnings, and a sense of meticulous order.'
-portrait_image: https://img.recraft.ai/O8hxmDrIlM67LaVOoJe36Rpt4pEQwu3gduixcCmBT1g/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/392fb252-85b8-44e3-bd3e-7cb9c4b38c40
+portrait_image: https://img.recraft.ai/lsaTUMO0HljnOxUTsTq3WQkpm6xfUZAejEjXwtTAMfE/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/2e10e623-adc2-41c0-bcc7-adb765134103
 date_created: 2025-04-09
 date_modified: 2025-04-22
 site_uuid: dcc81fa4-855d-4ad1-9385-205465955519
 tags: [Prompt-Engineering, Code-Standards, Best-Practices, Error-Handling]
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/qtJ6VIFuodoaGz9-R0yuBPHzUvEhRHBetQfwj3Bkq-g/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/8f2a9d21-42c3-4620-93f6-fe2618fad623
+banner_image: https://img.recraft.ai/PjkVfdYtL8J-l__PNoAOgwl48HdHJhR3EtSmWbj2xlE/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/60ed0b4e-14ea-4606-bff4-d5f3d4e1a69f
 ---
 
 ## Before starting:

@@ -15,11 +15,11 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 tags: [Memory-Layers, Session-Logs, LLM-Chat-History, Code-Generators, Prompt-Engineering, Context-Windows, Best-Practices, State-Of-The-Art-Practices]
 image_prompt: "An AI model surrounded by floating documentation pages, code snippets, and reference books. Visuals include a glowing lightbulb, search icons, and a sense of discovery and insight, symbolizing learning from documentation."
-portrait_image: https://img.recraft.ai/-7xwpb9uDTf_ny8ix49h9JfnqzQCzIfHDaDz7THf25Q/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/31effd04-a37b-4858-ade5-2891ed73bd98
+portrait_image: https://img.recraft.ai/LYYKalw1gaaLD88GcYCcDoXev9dbxtBql2rGHiZDZOw/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/502ec6e1-e3ab-4100-a2c1-68eaabd7f715
 site_uuid: 0043d2ec-aebc-4454-8424-06b323282524
 date_created: 2025-04-16
 date_modified: 2025-04-22
-banner_image: https://img.recraft.ai/PL-2wW3KIGsA7bY7NvM8c0LD_gaY_pNjBbPVGR2oQgE/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/0c8a7e87-0dcf-4190-a6b2-96bebebe0bbc
+banner_image: https://img.recraft.ai/ljpOkfoHFy-IBh1pWbjzRsz7PexoPuu9IpyyY_sJyCc/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/871d9bf2-ee52-464a-9c77-ad2abccbb2b8
 ---
 
 Handsontable
