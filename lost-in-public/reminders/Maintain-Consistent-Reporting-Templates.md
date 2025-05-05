@@ -1,4 +1,6 @@
 ---
+
+
 date_created: 2025-04-16
 date_modified: 2025-04-22
 title: Maintain Consistent Reporting Templates
@@ -14,10 +16,11 @@ site_uuid: b8994593-83f1-4adb-accb-c475b6a70e4b
 tags: [Workflow]
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/f9B_wsKYxTILdvqX2cHGBvAuI5HT_O2x1QVmpfSKYxg/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/ae2415ec-f54a-48ba-85c2-eaee09d20716
-banner_image: https://img.recraft.ai/5vD7XyQebiTRjpFgQNWijGxSt2E6dYDKpnIWxX3T3xw/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/af226242-a4ff-424d-8702-a7ddbe27103e
----
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Maintain-Consistent-Reporting-Templates_ae2415ec-f54a-48ba-85c2-eaee09d20716_4XNITJvCs.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Maintain-Consistent-Reporting-Templates_af226242-a4ff-424d-8702-a7ddbe27103e_vkNe8RMST.webp
 
+
+---
 ### Single Operation Process Report
 
 ```javascript

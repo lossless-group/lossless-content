@@ -1,4 +1,6 @@
 ---
+
+
 title: The Simplified Observer Logic
 lede: Clarify and streamline the Observer’s orchestration logic—ensuring every subsystem, expectation, and write operation is perfectly sequenced.
 date_authored_initial_draft: 2025-04-20
@@ -14,13 +16,14 @@ image_prompt: A robot orchestrator at an antique desk, illuminated by candleligh
 date_created: 2025-04-20
 date_modified: 2025-04-25
 site_uuid: 8be1b758-9590-43ae-8874-2cc2ee61f917
-portrait_image: https://img.recraft.ai/9KmoXaytvH8p16v1EXdyWX3C3kJFuhlV8XxpILRzgpM/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/49b6dfaf-7f8d-451e-a4d8-5a66f1855c74
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_The-Simplified-Observer-Logic_49b6dfaf-7f8d-451e-a4d8-5a66f1855c74_80SM0rG7r.webp
 tags: [Workflow, Filesystem-Observers]
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/9pD86RveLWFG5HVsuyOiiEWj3Tg8psMs8tmv4FCKjP0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/78edb0b6-22cc-4a73-a2c7-e545fa1c03e6
----
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_The-Simplified-Observer-Logic_78edb0b6-22cc-4a73-a2c7-e545fa1c03e6_t1Fgy5pRZ.webp
 
+
+---
 # Logic:
 
 1. The Observer is supposed to orchestrate subsystems. 

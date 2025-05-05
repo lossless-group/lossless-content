@@ -1,4 +1,6 @@
 ---
+
+
 title: 'Extending Markdown with Obsidian FlavoredSyntax'
 date_authored_initial_draft: 2025-03-19
 date_authored_final_draft: 2025-03-20
@@ -13,13 +15,14 @@ lede: "Discover how to supercharge your Markdown with Obsidian's advanced syntax
 image_prompt: 'A digital workspace filled with layered markdown notes, glowing Obsidian logo, code snippets, and visual automations connecting text blocks in a futuristic style.'
 site_uuid: b2300a61-e2ec-4048-bcfe-8cc30f7702b2
 date_authored_current_draft: ''
-portrait_image: https://img.recraft.ai/9dWvZdAswX2YsRq7Hly0D8hd9VE_HuT9ANVYryPVQV4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/bcc57119-aa29-4e84-b8f8-74769091c234
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Extended-Obsidian-Extended-Markdown_bcc57119-aa29-4e84-b8f8-74769091c234_GBHmozwf9.webp
 tags: [Workflow-Management, Client-Updates, Platform-Mechanisms, Workspace-Configurations]
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/cxsTklisdaSVtfJQ94iKOCgY6LsAIMQ3tudqJfDkATY/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/051a00d1-05e3-48da-ad20-5495341e13d1
----
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Extended-Obsidian-Extended-Markdown_051a00d1-05e3-48da-ad20-5495341e13d1_QF6RSzqJp.webp
 
+
+---
 [[Tooling/Productivity/Obsidian|Obsidian]]
 
 https://help.obsidian.md/syntax

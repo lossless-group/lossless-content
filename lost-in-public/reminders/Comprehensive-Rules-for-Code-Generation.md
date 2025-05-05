@@ -1,4 +1,5 @@
 ---
+
 title: Comprehensive Rules to tame Code Generator LLMs
 date_authored_initial_draft: 2025-03-17
 date_authored_final_draft: 2025-03-17
@@ -13,13 +14,13 @@ image_prompt: A futuristic AI robot at a command center, surrounded by digital c
 site_uuid: 12b6b1d5-c721-4e9d-9ac3-f1c4e46f39e6
 date_authored_current_draft: ""
 status: ""
-portrait_image: https://img.recraft.ai/-6tcHEak7MqRooYX9GbYkxPleW3z7ykZ7zpw8srvS_w/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d8db73d0-84b2-4778-80c8-159d98bb247b
-authors:
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Comprehensive-Rules-for-Code-Generation_d8db73d0-84b2-4778-80c8-159d98bb247b_tpk53ZEEC.webp
+authors: 
   - Michael Staton
 tags: [Code-Generators, Context-Windows, Model-Context-Protocols]
-banner_image: https://img.recraft.ai/SJ8dsrjL1t7mXZS8u6qYKopYF3kVh-ig4hxxlETKFvE/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/d7d8742a-811b-4d69-ad8f-1c90392aa9f0
----
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Comprehensive-Rules-for-Code-Generation_d7d8742a-811b-4d69-ad8f-1c90392aa9f0_XXk6iT8Uy.webp
 
+---
 # Stack, Libraries, Dependencies
 
 #### Preliminaries

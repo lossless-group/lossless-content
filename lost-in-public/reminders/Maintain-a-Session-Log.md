@@ -1,4 +1,6 @@
 ---
+
+
 title: 'Maintain a word-for-word dialog of our session'
 lede: 'Capture every word of your human-AI dialog for perfect transparency, reproducibility, and context-aware automation.'
 date_authored_initial_draft: 2025-03-17
@@ -18,13 +20,14 @@ image_prompt: 'A digital logbook with glowing dialog bubbles between a human and
 date_created: 2025-03-23
 date_modified: 2025-04-22
 site_uuid: 166e2b72-19ae-46b9-85f5-46de8d131685
-portrait_image: https://img.recraft.ai/4AP3Cr9nPNhUf33qOwh6UenppO2mKcWNUXDbYPj3AdE/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/420e5bdd-7f90-4d4d-8465-1ff9fb5a4a41
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Maintain-a-Session-Log_420e5bdd-7f90-4d4d-8465-1ff9fb5a4a41_Qwh2sAxNu.webp
 tags: [Session-Logs, LLM-Chat-History, Content-Generation, Code-Generators, Prompt-Engineering, Context-Windows, Version-Control]
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/DAZF9qfrUocWRCZj1W55W7WABMUQN1GzHup_tAtCysk/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/e7aa3ebc-115d-4b8e-8d6c-6fb6eebf095f
----
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Maintain-a-Session-Log_e7aa3ebc-115d-4b8e-8d6c-6fb6eebf095f_TEokQg8da.webp
 
+
+---
 ### Working Directory:
 `content/sessions`
 
