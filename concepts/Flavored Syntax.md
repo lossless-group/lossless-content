@@ -1,11 +1,11 @@
 ---
 date_created: 2025-03-20
-date_modified: 2025-04-24
+date_modified: 2025-05-05
 site_uuid: 641fe031-3da5-4187-bcc5-00d0c379512e
 ---
 
 ## Embed Syntax
-Found from [[Tooling/Software Development/DevOps/Documentation Engines/Readme]]
+Found from [[Tooling/Software Development/DevOps/Documentation Engines/Readme|Readme]]
 
 Simple embedded content is written as a Markdown link, with a title of "@embed", like so:
 
