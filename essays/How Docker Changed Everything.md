@@ -3,18 +3,18 @@ date_created: 2024-08-18
 date_modified: 2025-04-28
 site_uuid: a396bf72-3bc1-480f-80a1-e9d703d12f69
 title: How Docker Changed Everything
-lede: 
+lede: "Docker revolutionized software deployment by making containers the new standard for portability and scalability."
 date_authored_initial_draft: 2024-08-18
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: 
-image_prompt: 
-banner_image: ""
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_How-Docker-Changed-Everything_84053ef6-ae1d-4e6c-ad7e-ba00d3315246_nFNqrcAnS.jpg
+image_prompt: "A shipping port filled with colorful containers, each labeled with software logos, and a giant blue whale (Docker) lifting containers onto ships. The scene is vibrant, technical, and global."
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_How-Docker-Changed-Everything_2e9ab367-c44f-46a0-af0d-7d2e7d1f372b_0VO86qIFG.jpg
 tags: [Container-Runtimes, Developer-Tools, DevOps, State-Of-The-Art-Practices]
-authors:
+authors: 
   - Michael Staton
 ---
 

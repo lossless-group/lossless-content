@@ -14,17 +14,18 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A developer designing a citations component, with code panels, citation icons, and rendered citation blocks in a web interface. The scene emphasizes clarity, academic rigor, and seamless integration of source references into digital content."
 site_uuid: d3884182-69d1-40c7-8400-658e354fb85e
-tags:
+tags: Render-Logic,Astro,Component-Architecture,Markdown-Enhancement,Custom-Rendering,Extended-Markdown,Content-Display
   - Render-Logic
   - Astro
   - Component-Architecture
   - Markdown-Enhancement
   - Custom-Rendering
+  - Extended-Markdown
   - Content-Display
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/pqtDq1REmUWtnTczrA7SxW9ivaB1DOfoO-x_7UsCvtI/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/5dcc5360-940e-454e-bffc-c3469cbbeabb
-banner_image: https://img.recraft.ai/P1106p6Z4z3DPWkBBvkZt4HwQBNxs6N0R89YVWN9mgM/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/d312dc7c-3e28-46c4-b490-ed7e7909fd45
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Handle-Citations-Logic-and-Render-Citations-Component_9259e129-14a9-43d5-9b1c-d347e5635aa4_XYv6le-0t.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_banner_image_Handle-Citations-Logic-and-Render-Citations-Component_ca4355fa-d5c4-4b40-a3dd-abad3b8641a9_wUdyErBAR.webp
 ---
 # Handle Citations in Markdown Content
 

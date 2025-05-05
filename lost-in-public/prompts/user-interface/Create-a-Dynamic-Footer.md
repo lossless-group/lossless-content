@@ -1,6 +1,6 @@
 ---
-title: Create a Dynamic Footer
-lede: Design and implement a modern, user-friendly dynamic footer interface that handles both code and content changes
+title: 'Create a Dynamic Footer'
+lede: 'Design and implement a modern, user-friendly dynamic footer interface that handles both code and content changes'
 date_authored_initial_draft: 2025-04-19
 date_authored_current_draft: 2025-04-19
 date_authored_final_draft: null
@@ -8,19 +8,20 @@ date_first_published: null
 date_last_updated: null
 at_semantic_version: 0.0.0.1
 status: In-Progress
-augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
 category: Prompts
 date_created: 2025-04-19
 date_modified: 2025-04-19
 image_prompt: "A zoomed in view of a soccer shoe, the soccer player is kicking the soccer ball."
-tags:
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Create-a-Dynamic-Footer_0d7ea45a-8074-476f-9120-0377cf99f50a_YDooqaUDz.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Create-a-Dynamic-Footer_b2aa6c30-2cdd-4874-a799-6bae6dc9abbb_m8kEgNnl1.webp
+site_uuid: 2ab7ee71-fb2c-462d-a341-8f83a98f3d20
+tags: User-Interface,UI-Design,Navigation
   - User-Interface
   - UI-Design
   - Navigation
-authors:
+authors: Michael Staton
   - Michael Staton
-portrait_image: https://img.recraft.ai/79Yv2_9WeSPdRsu9dG2AEqwabenvwKFPfaisrswYPCM/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/ad31f707-5948-4d0b-921d-44845bf0b1b3
-banner_image: https://img.recraft.ai/nnKIxsX_PMiYRFTUrO_XJNK9j4gv_2DQ93KYujN9JBQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/119a68cd-1379-414b-b0c1-d65ca5c95260
 ---
 # Higher-Order Objective
 

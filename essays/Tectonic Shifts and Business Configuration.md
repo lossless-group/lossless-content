@@ -1,20 +1,20 @@
 ---
 date_created: 2025-04-15
-date_modified: 2025-04-28
+date_modified: 2025-04-30
 site_uuid: d8b5b5b7-5ae4-4238-9b37-a9130d647437
 title: Tectonic Shifts and Business Configuration
-lede: 
+lede: "Tectonic shifts in technology force businesses to reconfigure or risk being left behind."
 date_authored_initial_draft: 2025-04-15
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: 
-image_prompt: 
-banner_image: ""
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Tectonic-Shifts-and-Business-Configuration_99f9f41c-a6ba-4a8f-9b9f-19e87d42f2ec_C2iGTik5i.jpg
+image_prompt: "A city skyline with skyscrapers shifting and reconfiguring like tectonic plates, while digital waves ripple through the scene. The mood is dramatic, business-focused, and transformative."
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Tectonic-Shifts-and-Business-Configuration_0f2a2b7d-1cfa-43d9-bb50-7196ca5ef2b6_R1SprsQGD.jpg
 tags: [Conceptual-Frameworks, Near-Future-Anticipation]
-authors:
+authors: 
   - Michael Staton
 ---
 
@@ -93,4 +93,3 @@ According to [[Poe AI]]:
 > **Business configuration** is about how all the pieces of a business fit together to deliver value and achieve strategic goals. In an MBA program, understanding business configuration equips students to analyze, design, and optimize businesses for competitive advantage, operational excellence, and long-term success. It’s a vital concept for understanding why some companies outperform others and how leaders can drive transformation.
 
 ^aa153c
-

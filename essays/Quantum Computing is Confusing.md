@@ -1,20 +1,20 @@
 ---
 date_created: 2024-11-02
-date_modified: 2025-04-28
+date_modified: 2025-04-30
 site_uuid: 727bfc80-ad69-4abc-ac99-43cd33e7d11f
 title: Quantum Computing is Confusing
-lede: 
+lede: Quantum computing shatters intuition, leaving even experts grasping for clarity.
 date_authored_initial_draft: 2024-11-02
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: 
-portrait_image: 
-image_prompt: 
-banner_image: ""
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Quantum-Computing-is-Confusing_880aad60-0372-46d4-adf9-a7725a36a2fa_GJ-iiyy7u.jpg
+image_prompt: A chalkboard filled with quantum equations, a perplexed scientist holding a qubit diagram, and swirling abstract shapes representing superposition and entanglement. The mood is mysterious, technical, and mind-bending.
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Quantum-Computing-is-Confusing_87d5e26b-a66d-47a6-98ea-3990f50ae510_dpQj18PPG.jpg
 tags: [Near-Future-Anticipation, Explorations, Explainers]
-authors:
+authors: 
   - Michael Staton
 ---
 

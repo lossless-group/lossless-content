@@ -14,15 +14,15 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A script editor UI for making AI model API requests, with code snippets, API endpoints, and a preview of structured responses. Visuals include glowing neural network icons, request arrows, and a sense of technical automation."
 site_uuid: 2c903f2a-b144-48f1-a508-781bde9d6760
-tags:
-  - Workflow
+tags: AI-Human-Workflow,Model-APIs,API-Integration,LLM-Services
+  - AI-Human-Workflow
   - Model-APIs
   - API-Integration
   - LLM-Services
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/meo5HPANBWz15V1bMI2sz-D1O9t5TM_YkpuQvT7_hUA/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d61b492c-420a-4b51-a329-10682d7d8d77
-banner_image: https://img.recraft.ai/zXWy9Aqn3ZaLvOgRfOqf2nrlhKqUu5_Mpz9uN21Xkhw/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/8fb689c4-277c-48a1-843b-95969bb769fa
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Write-an-AI-Model-request-Script_9e4151ad-fccb-493e-a97b-e15edf25e378_driCvtxf3.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Write-an-AI-Model-request-Script_ddb5ad76-03f0-486d-b3ff-5d0cbbff807b_HzUQEXFvf.webp
 ---
 # Inputs
 

@@ -15,13 +15,12 @@ date_modified: 2025-04-19
 image_prompt: "Abstract representation of modular UI components, each with distinct styles and icons, being assembled like building blocks in a developer's workspace."
 publish: true
 site_uuid: 8cd0018e-1cda-4956-b7ca-600d5fa213a2
-tags: [Code-Style, Component-based Architecture, Readability, Component-Management]
+tags: Code-Style,Component-based Architecture,Readability,Component-Management
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/QisGpY0GqH0HJYu4AZ_6fZ42aNF6_QRSoNfIT4wiyfg/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/a46ca94b-3170-4f97-bb20-eec3dadb0d65
-banner_image: https://img.recraft.ai/J1vtfcvdyYA_Q-gQHYGrFrCZx3rmpbXwYV0ybYQt570/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/c3a91cd5-96a3-4051-9d8e-74039928362e
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/code-style/2025-05-04_portraitimage_Move-Functionality-and-Style-to-Specific-Components_271b3981-405e-4b10-ab8b-b3e53026eab7_qiSafVJhh.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/code-style/2025-05-04_bannerimage_Move-Functionality-and-Style-to-Specific-Components_df3c10ac-60ba-453c-aff5-44cfd0fcdd49_BP5zr0GQU.webp
 ---
-
 # Context
 
 I have moved the @components/vocabulary/VocabularyEntry.astro component to @components/reference/VocabularyEntry.astro.

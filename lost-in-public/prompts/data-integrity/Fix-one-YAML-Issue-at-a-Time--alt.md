@@ -11,15 +11,15 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 date_created: 2025-04-16
 image_prompt: "A focused developer resolving a single YAML issue in a code editor, with one highlighted error and a checklist of resolved problems. The environment is tidy, with clear visual cues of progress and attention to detail. The mood is methodical, patient, and precise."
 site_uuid: 5ed21282-2914-4f9e-a7af-44ef0a932bf6
-tags:
+tags: YAML-Validation,Error-Handling,Build-Scripts,URL-Processing
   - YAML-Validation
   - Error-Handling
   - Build-Scripts
   - URL-Processing
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/JhDVpYAmbyhF16zZGXGM4NtESgQhyj85NgEeYEXN5hU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/a80635ac-caf5-452b-bde2-8e5a0bef71b9
-banner_image: https://img.recraft.ai/JxlsTh8rxfCxEEdj7b7K0hJLjPHKYqyI5DQ4B3-_MMM/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/ea08024b-25bd-4d81-b8e3-b798aa445213
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Fix-one-YAML-Issue-at-a-Time--alt_6e1c9780-b5b7-4b79-a349-485e12364cca_wSu68Tzws.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_banner_image_Fix-one-YAML-Issue-at-a-Time--alt_28acde99-db85-4122-8cb3-4aa6773728f4_9CyWb6rCv.webp
 ---
 # Executive Summary
 

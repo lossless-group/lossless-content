@@ -15,13 +15,12 @@ date_modified: 2025-04-19
 image_prompt: "A clean, organized dashboard with toggles and dropdowns for user configuration, surrounded by code snippets and directory icons, in a modern developer workspace."
 publish: true
 site_uuid: 79dd17d5-6f00-41ab-9a88-5c97cf008295
-tags: [Configuration, Build-Scripts, User-Options, Directory-Management, Code-Style]
+tags: Configuration,Build-Scripts,User-Options,Directory-Management,Code-Style
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/hLJwbfPoQIjA9ywZQR3ktSiSdM4KTLxs-w5SW4Lwbdk/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/34bdd8f4-7862-4283-9e65-d0d4ff8ab755
-banner_image: https://img.recraft.ai/JrQttm26vD21dQklYtbWarHd7i7bFa_MolUIahbO9kY/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/f1a0aadf-0d52-4905-b5e7-eb59c66b5b12
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/code-style/2025-05-04_portraitimage_Maintain-Manageable-User-Options_d075adc2-d28e-45bf-bf88-179f4c073046_KTBZnU_Yp.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/code-style/2025-05-04_bannerimage_Maintain-Manageable-User-Options_86fcc92f-73d1-447f-b55f-21830214d736_QILSMdSxQ.webp
 ---
-
 ```javascript
 const USER_OPTIONS = {
     // Directory Configuration

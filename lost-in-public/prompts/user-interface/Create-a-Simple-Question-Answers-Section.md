@@ -1,6 +1,6 @@
 ---
-title: Create a Simple Question Answers Section
-lede: Build a maintainable component pipeline for rendering simple questions and answers dynamically generated from JSON data.
+title: 'Create a Simple Question Answers Section'
+lede: 'Build a maintainable component pipeline for rendering simple questions and answers dynamically generated from JSON data.'
 date_authored_initial_draft: 2025-04-18
 date_authored_current_draft: 2025-04-18
 date_authored_final_draft: null
@@ -12,17 +12,19 @@ category: Prompts
 date_created: 2025-04-18
 date_modified: 2025-04-18
 image_prompt: "A business man is pondering questions. Floating to the right, a reusable Q&A Section UI, each question is it's own dropdown, the top question is open with an answer."
-tags:
+augmented_with: 'Windsurf Cascade on GPT-4.1'
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Create-a-Simple-Question-Answers-Section_f3788a58-4589-446c-9457-425525c5193a_faHrtmyBV.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Create-a-Simple-Question-Answers-Section_03bd413f-49bc-458c-84dc-c0d6fac903d5_h6EDCmbQO.webp
+site_uuid: c922b519-4b40-4fac-b94f-6a722b1fec07
+tags: User-Interface,Component-Architecture,UI-Elements,UI-Design,Astro,Rendering-Pipeline
   - User-Interface
   - Component-Architecture
+  - UI-Elements
   - UI-Design
   - Astro
   - Rendering-Pipeline
-authors:
+authors: Michael Staton
   - Michael Staton
-augmented_with: Windsurf Cascade on GPT-4.1
-portrait_image: https://img.recraft.ai/ybzsU-nPmaAhcomu6-HRD7sli27RGyY9iHOpT8xoJYs/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/2a86c14b-cadf-4d96-858a-e6799f1f9c64
-banner_image: https://img.recraft.ai/a2ImIWbuhTxbEPVcqVCQakwkDsVA-rns3iG9kZhFs6k/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/664a1f2e-0780-4aec-8a39-6e5d8d33d74b
 ---
 # Goal  
 

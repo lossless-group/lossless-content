@@ -14,17 +14,18 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A documentation platform rendering extended markdown, with large, well-structured documents, navigation panels, and Astro component icons. The scene highlights scalability, clarity, and the power of advanced markdown rendering."
 site_uuid: 0253c622-1520-4d7a-aaac-5afcce44aeb7
-tags:
+tags: Render-Logic,Remark,Astro,Build-Scripts,Extended-Markdown,Code-Studies,AST
   - Render-Logic
   - Remark
   - Astro
   - Build-Scripts
   - Extended-Markdown
+  - Code-Studies
   - AST
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/5mNhJsZRnVon13NsvNSbZJLh7rCQDVD7MhKT6uPdmSA/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d6263856-ed8e-4b7e-a493-9ea283f67cf2
-banner_image: https://img.recraft.ai/AZbw28J-dlvlWcBZ_QXbmdhMMo0axu-SNDJhcivLAIY/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/33347ccc-c6a8-4383-a3f7-72432a78a43b
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Rendering-Extended-Markdown-like-Astro-Big-Doc_f777eacf-1619-4fc7-80cb-b0132fad319a_p_zaJc7q7.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_banner_image_Rendering-Extended-Markdown-like-Astro-Big-Doc_17f5313a-e3fc-40bc-a7ea-63c1e95c6a90_ICzJdjj-I.webp
 ---
 # Implementation Details
 

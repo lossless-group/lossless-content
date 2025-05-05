@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A dynamic digital canvas UI displaying interconnected content and data models as interactive nodes and links. Visual elements include drag-and-drop panels, vibrant color-coded data types, and a modern workspace with a sense of creative exploration and clarity."
 site_uuid: 8671d352-1e5e-4157-b63e-6b44e22f99c0
-tags:
+tags: User-Interface,Data-Visualization,Content-Models,JSON-Canvas,UI-Design
   - User-Interface
   - Data-Visualization
   - Content-Models
@@ -22,8 +22,8 @@ tags:
   - UI-Design
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/NC4eo2eq6hfVAxtIAYav_L9WSiUCgG5HTEsWduNVarc/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d929a011-2eee-47a9-8f08-679979be4f63
-banner_image: https://img.recraft.ai/-gheKQBLK6DaURFEW3QVJSWqwdeodb0R3QnxvRdmgic/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/83542252-b785-485b-8d4f-0fce53c8a11b
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Create-a-Canvas-UI-of-our-Content-and-Data-Models_fb6e3017-2c7c-4cde-bb17-7a9f33c2cc13_pmhMbtCEs.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Create-a-Canvas-UI-of-our-Content-and-Data-Models_ff565ec1-1663-4145-9e64-7896462fb4bd_sjTHdrtP9.webp
 ---
 [[emergent-innovation/Standards/JSON Canvas]]
 

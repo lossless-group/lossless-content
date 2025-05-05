@@ -1,24 +1,27 @@
 ---
 title: Citation Processing for FileSystem Observer
-lede: Enhance the filesystem observer to automatically format citations, convert to hex IDs, and maintain a citation registry
 date_authored_initial_draft: 2025-04-13
 date_authored_current_draft: 2025-04-13
-date_authored_final_draft: 
-date_first_published: 
-date_last_updated: 
+date_authored_final_draft: null
+date_first_published: null
+date_last_updated: null
 at_semantic_version: 0.0.0.5
 status: Draft
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
-category: Prompts=
+category: Prompts
 date_created: 2025-04-13
 date_modified: 2025-04-19
 site_uuid: 4cf59a40-fcb0-4297-b131-162d057a899f
-tags: [File-Processing, Build-Scripts, File-Systems, Data-Integrity]
-authors:
-  - Michael Staton
-image_prompt: Two students at a library, sitting a desk, with a giant stack of books.
-portrait_image: https://img.recraft.ai/AUl-O0AQYHVj0u5zA_fkZZmgiimWeYympWKElzItTcQ/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/533f0425-b84d-49f8-885c-0d5f5faac89e
-banner_image: https://img.recraft.ai/DYPTp8Vgpd0_iNOiA6nt920YwZuakH2Jxn6uXWNe1E4/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/5a146860-0c3f-4d4f-afba-ba4b628cb049
+tags:
+- File-Processing
+- Build-Scripts
+- File-Systems
+- Data-Integrity
+authors: null
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Another-attempt-at-Citation-Processing_e49658a1-a2b8-4daf-9e7e-1a8ceec48e4a_MupMOLXm2.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_banner_image_Another-attempt-at-Citation-Processing_33f2119c-2585-48ca-af95-3f96fe4d707d_373yl6OiX.webp
+lede: 'In the tangled web of academic references, a robust citation processing system transforms chaotic footnotes into a harmonized knowledge registry, ensuring every intellectual debt is properly acknowledged and seamlessly tracked.'
+image_prompt: 'A split-screen visualization: on the left, a chaotic tangle of numbered citations floating randomly around a document with broken links and missing references; on the right, an organized system where hexadecimal citations glow with connection lines forming an elegant network, with a central registry illuminating paths between documents. The transition shows order emerging from chaos with digital precision.'
 ---
   
 

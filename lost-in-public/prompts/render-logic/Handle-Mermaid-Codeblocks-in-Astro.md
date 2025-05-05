@@ -1,23 +1,27 @@
 ---
-title: Implement a Comprehensive Mermaid Chart Rendering System in Astro
-description: Create a gorgeous, elegant Mermaid chart rendering system in Astro using Unified.js, Remark, and Rehype. 
+title: 'Implement a Comprehensive Mermaid Chart Rendering System in Astro'
+description: 'Create a gorgeous, elegant Mermaid chart rendering system in Astro using Unified.js, Remark, and Rehype.'
 date_created: 2025-04-24
 date_modified: 2025-04-24
 image_prompt: "A developer at a white board drawing a technical diagram, a flow chart with typical flow chart elements. Several robots are seated, looking at the whiteboard as if they were students taking notes and learning."
-lede: Brief description of the prompt functionality and purpose
+lede: 'Brief description of the prompt functionality and purpose'
 date_authored_initial_draft: 2025-04-24
 date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Prompt
-augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
 category: Prompts
-tags:
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_banner_image_Handle-Mermaid-Codeblocks-in-Astro_b23634f5-202d-4014-8c5b-28c4e04b7512_nYIkwXLbq.webp
+site_uuid: 04660f3b-4f31-447b-a6b2-6c33add54338
+tags: Render-Logic,Extended-Markdown,Visual-Engineering,Diagramming
   - Render-Logic
+  - Extended-Markdown
+  - Visual-Engineering
+  - Diagramming
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/RvIDsgm35cGMoMfOZMhSKG9QDZKvX0NRk6uSL7FZXyU/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/4a54148e-9cbc-4636-95ec-5747fc9379b9
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Handle-Mermaid-Codeblocks-in-Astro_111eada5-d50c-411f-a9a4-d8d6932a3c58_kwSDWNMDq.webp
 ---
-
 # Goals:
 
 Create a flexible, component-based Mermaid chart rendering system for Astro that enhances the default markdown code blocks with the following features:

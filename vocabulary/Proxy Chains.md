@@ -4,7 +4,7 @@ site_uuid: d26df8f0-979f-4902-94a1-557b1a672080
 date_created: 2025-04-06
 ---
 
-Part of [[essays/Web Security is about Idiocracy]]
+Part of [[essays/Web Security is about Preventing Naivety]]
 
 [[Tor Network]]
 

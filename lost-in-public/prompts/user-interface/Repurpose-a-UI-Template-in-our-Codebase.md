@@ -14,15 +14,16 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A UI template being repurposed in a codebase, with highlighted reusable components, a code editor view, and a preview pane showing the adapted interface. The design is collaborative, modular, and developer-focused."
 site_uuid: 87335a1c-7187-4274-a4e3-04e4976302b0
-tags:
+tags: User-Interface,Component-Architecture,UI-Design,DRY-Principles,Refactoring
   - User-Interface
   - Component-Architecture
   - UI-Design
-  - Code-Reuse
+  - DRY-Principles
+  - Refactoring
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/2DTIeuwQTuVqUWuDwGDkDi5SOQO7q_HteFg0wMPlve4/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/dd7f038b-bb1a-49bf-b3c0-bc2aa8a8796a
-banner_image: https://img.recraft.ai/PWGBmnK8busbjXyKA7XyjL_g6rGZvmSP0k003PbN7lQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/9805a0f4-debc-4a50-b839-6375486c9802
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Repurpose-a-UI-Template-in-our-Codebase_a124688f-d4cd-4211-ad06-2bc9a65b7b65_67tWVrwWJ.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Repurpose-a-UI-Template-in-our-Codebase_f56163db-6ae9-4e4d-a812-5fe3e8ecc1c7_TDvW5l393.webp
 ---
 # Repurpose a UI Template in our Codebase
 

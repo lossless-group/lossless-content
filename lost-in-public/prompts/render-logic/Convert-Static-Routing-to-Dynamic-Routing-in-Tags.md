@@ -1,6 +1,6 @@
 ---
-title: Integrate the Concepts series into the "more-about" routing
-lede: Enhance the "more-about" path with Concepts as well as Vocabulary
+title: 'Integrate the Concepts series into the "more-about" routing'
+lede: 'Enhance the "more-about" path with Concepts as well as Vocabulary'
 date_authored_initial_draft: 2025-04-19
 date_authored_current_draft: 2025-04-19
 date_authored_final_draft: null
@@ -8,18 +8,20 @@ date_first_published: null
 date_last_updated: 2025-04-19
 at_semantic_version: 0.0.0.1
 status: Implemented
-augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
+augmented_with: 'Windsurf Cascade on Claude 3.7 Sonnet'
 category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "On top, a url with static strings. Below, a url route as a dynamic route with variables instead of static strings."
-tags:
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Convert-Static-Routing-to-Dynamic-Routing-in-Tags_9408b0f9-31b3-4e18-8d15-00948ede8773_2P9goqUa9.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_banner_image_Convert-Static-Routing-to-Dynamic-Routing-in-Tags_245e4d35-1126-4c77-98ec-3d3dc988970a_d9oZXF47z.webp
+site_uuid: 9bdcb3a7-b9ba-4cfe-b4fa-7182f3001350
+tags: Render-Logic,Dynamic-Routing,Content-Collections
   - Render-Logic
   - Dynamic-Routing
-authors:
+  - Content-Collections
+authors: Michael Staton
   - Michael Staton
-portrait_image: https://img.recraft.ai/bPswdNw_LwQBAGEVaar_tDxN6tM8LnwPnoIYhavFt1c/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d2ce09b5-8626-402e-90e1-1750a985234a
-banner_image: https://img.recraft.ai/ZUiJ388_JDxbqcwb3yu79ibL6wKreOO3LSLZmg9mkuo/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/b44fadd4-d18c-4e54-ae28-20077f50b055
 ---
 ## Context
 

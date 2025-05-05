@@ -14,15 +14,15 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A developer integrating citation formatting logic into a file observer tool, with code snippets, citation icons, and a visual flow of data transformation. The scene emphasizes technical precision, academic rigor, and seamless automation."
 site_uuid: a57d2a7d-7402-48f7-a954-674fc66d543d
-tags:
+tags: File-Processing,Build-Scripts,File-Systems,Data-Integrity
   - File-Processing
   - Build-Scripts
   - File-Systems
   - Data-Integrity
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/jgUEsk_ub3yeQG6qdsMXpRAhalxzlhalSUN4HhkAYzM/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/e94b236c-346b-4d1e-b8fe-9092e36f5eef
-banner_image: https://img.recraft.ai/jD9wSYDfYJk61oVOtORRELJNbejde7aO25tG2TIJv4o/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/ebe6d3c1-1cde-4ff6-9fb0-14a4e845f898
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Integrate-Citations-Format-Hex-into-Observer_c9e02a9b-1671-463f-bbb0-e7ff9bdf4701_53zKdjpwm.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_banner_image_Integrate-Citations-Format-Hex-into-Observer_bc43749b-0b6f-455a-ae20-f1b0b0e55e43_fEzoGnkL-.webp
 ---
 # Objective
 

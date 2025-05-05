@@ -14,12 +14,13 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A web developer working with custom code blocks in Astro, featuring a code editor, component icons, and live previews of styled code snippets. The scene highlights modularity, syntax highlighting, and the fusion of design and engineering."
 site_uuid: 044a1152-e92a-468a-b698-3454efe7077c
-tags:
+tags: Render-Logic,Extended-Markdown
   - Render-Logic
+  - Extended-Markdown
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/-AjChvT1u52TQsuHUseSqXz_HpTQL2IjJq2Ub8gP0HY/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/72e245c5-f228-488e-8ec9-aa40b3130e0d
-banner_image: https://img.recraft.ai/WTOB5N4w-4biWraoecSHsURdDe8VCi0hmB39HkzcZyE/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/f5ea76a0-771e-421e-ab76-58c6e0a9a18f
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Handle-Custom-Codeblocks-in-Astro_d131e0f8-fac5-4d0f-995e-d1312a015d69_2APBr2qCy.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_banner_image_Handle-Custom-Codeblocks-in-Astro_671374d9-4236-48ce-8a80-85617b13cbc2_YJMW7LBIw.webp
 ---
 # Custom Code Block Rendering in Astro
 

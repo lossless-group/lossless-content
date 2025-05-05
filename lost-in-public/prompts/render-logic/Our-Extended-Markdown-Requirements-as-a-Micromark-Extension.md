@@ -1,22 +1,25 @@
 ---
-title: Our Extended Markdown Requirements as a Micromark Extension
-lede: Implement our proprietary extended markdown flavor as a micromark extension—bypassing remark, rehype, and all unified abstractions.
+title: 'Our Extended Markdown Requirements as a Micromark Extension'
+lede: 'Implement our proprietary extended markdown flavor as a micromark extension—bypassing remark, rehype, and all unified abstractions.'
 date_authored_initial_draft: 2025-04-17
 date_authored_current_draft: 2025-04-17
 date_authored_final_draft: null
 date_first_published: null
 status: To-Prompt
-authors:
-  - Michael Staton
 category: Prompts
-tags:
-- Markdown-Rendering
-- Micromark
-image_prompt: A web page with a news article, with different size fonts and images, kind of jumping off the page.
+image_prompt: 'A web page with a news article, with different size fonts and images, kind of jumping off the page.'
 date_created: 2025-04-18
 date_modified: 2025-04-19
-portrait_image: https://img.recraft.ai/qNqokSNycd9ITWXblMyqW9El1ECXNNyUuH3JkBjA8rY/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/51eca0b9-1b09-4693-95c4-b8e18c20966b
-banner_image: https://img.recraft.ai/YlWKQP-aXJF2zmGXtGSqI52Xg_4XamzZr3i9u8z_AnE/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/a4f97feb-68a4-4586-bc7b-df280f74a959
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Our-Extended-Markdown-Requirements-as-a-Micromark-Extension_07f934df-40aa-4157-a95b-3cf35279c537_jXlmEFqnx.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_banner_image_Our-Extended-Markdown-Requirements-as-a-Micromark-Extension_1dac71ea-d0a3-411f-9952-d59237ab9988_ZhhgQLoto.webp
+site_uuid: 3499f797-04cf-40bd-bcef-ddc0322862f7
+tags: Markdown-Rendering,Micromark,Extended-Markdown,Unified.js-Ecosystem
+  - Markdown-Rendering
+  - Micromark
+  - Extended-Markdown
+  - Unified.js-Ecosystem
+authors: Michael Staton
+  - Michael Staton
 ---
 # Prompt: Build Our Proprietary Extended Markdown Flavor as a Micromark Extension
 

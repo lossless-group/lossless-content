@@ -15,16 +15,17 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A technical specification document UI with structured sections, flowcharts, and diagrams. Visuals include checklist icons, architecture sketches, and a collaborative workspace, symbolizing thorough planning and clear documentation."
 site_uuid: 14a124a8-8e61-4123-9a0c-9523adbdc2f4
-tags:
-  - Workflow
-  - Scripts
-  - Specifications
-  - Data-Integrity
-  - Content-Fixes
+tags: AI-Human-Workflow,Documentation,Documentation-First-Development,Best-Practices,Code-Generators,Collaborative-Workflow
+  - AI-Human-Workflow
+  - Documentation
+  - Documentation-First-Development
+  - Best-Practices
+  - Code-Generators
+  - Collaborative-Workflow
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/FmGrfhVRvt9sc-qBjDxWAQxptLSTT8UV_eL1xKLfP0w/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/37949159-80bf-4fa9-8180-5c1d0606b167
-banner_image: https://img.recraft.ai/-wZNaSXlj8wAJqCbDYcL8bs3cfvi9Q2y1b_F0hERhic/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/d162ed66-8c6a-45fe-8e1f-c317fc1ba90c
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Write-a-Technical-Specification_50175c01-58fd-4953-9157-ee4627cbfa4f_r4V6TpHlM.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Write-a-Technical-Specification_dc74ef96-3eb1-4518-b7f3-92fa6fe3b7b8_qB_y9NX6e.webp
 ---
 # Write a Technical Specification with a Standard but Evolving Style
 
