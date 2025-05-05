@@ -13,19 +13,20 @@ date_created: 2025-04-18
 date_modified: 2025-04-18
 image_prompt: "A reusable message grid UI structure featuring modular cards, dynamic filtering, and drag-and-drop reordering. The layout is clean, grid-based, and visually emphasizes reusability and organization."
 augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
-portrait_image: 'https://img.recraft.ai/vMF0QFya6k8PAJY9vy8nmtp_NIU5JjHnR9cjlLZDNtU/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/91157864-2b50-49d0-809e-27e20f52db56'
-banner_image: 'https://img.recraft.ai/BNdAVZ2qE3gtxWLAjlnmSz2FSGRBNtx2sB7Ul0GZjfk/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/06fcda1b-14bc-463e-9306-2ccea7aa878b'
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Create-a-Simple-Message-Grid_541652dd-50b5-4522-86e5-04ffe9b68a52_34CdnKIrn.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Create-a-Simple-Message-Grid_1f92027d-e9e5-4256-a99b-56b2bfd7439c_CBXo9P_B3.webp
 site_uuid: 10d162f1-4fb5-4f83-bad1-8cb5f61b1362
-tags:
+tags: User-Interface,Component-Architecture,CSS,Responsive-Design,UI-Design,Astro,Rendering-Pipeline
   - User-Interface
   - Component-Architecture
+  - CSS
+  - Responsive-Design
   - UI-Design
   - Astro
   - Rendering-Pipeline
-authors:
+authors: Michael Staton
   - Michael Staton
 ---
-
 # Goal  
 
 Create and introduce a new component pipeline for rendering simple messages dynamically generated from JSON data. The section that renders this component should draw from messages created by site admins, and be easily modifiable by them.

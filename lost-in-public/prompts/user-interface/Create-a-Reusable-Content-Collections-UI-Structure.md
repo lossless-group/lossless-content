@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A reusable content collections UI structure featuring modular cards, dynamic filtering, and drag-and-drop reordering. The layout is clean, grid-based, and visually emphasizes reusability and organization."
 site_uuid: f14d5718-3b17-420a-abb6-5efb5264e909
-tags:
+tags: User-Interface,Component-Architecture,Content-Collections,UI-Design,Astro,Rendering-Pipeline
   - User-Interface
   - Component-Architecture
   - Content-Collections
@@ -23,8 +23,8 @@ tags:
   - Rendering-Pipeline
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/BeTvcrLKUC9HlaxRLyvp0GAdl_-EPXj72PKERmW1UxA/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/e8f285af-3dc1-44ff-911d-ea9008c9b216
-banner_image: https://img.recraft.ai/24erG_iRUYqgrIl8VUsN2tnWsgrZOQvBI5JywUCAqLc/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/d9d4d30b-b44f-451c-a3d5-1248941ed47b
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Create-a-Reusable-Content-Collections-UI-Structure_3719cb8f-9830-4f1a-8946-f342d164e6e4_-adXROJjD.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Create-a-Reusable-Content-Collections-UI-Structure_7e0fc370-8dc0-4041-b3b4-d35cd52b4d5e_eUd59peYm.webp
 ---
 # Goal  
 ## High-level objective

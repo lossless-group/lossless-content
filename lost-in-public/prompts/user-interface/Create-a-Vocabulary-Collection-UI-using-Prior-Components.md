@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A vocabulary collection UI using modular prior components, with interactive word cards, search and filter options, and a visually organized grid. The design is modern, educational, and user-friendly."
 site_uuid: f27e393a-84d1-4bb3-b1ee-6ded41c3983b
-tags:
+tags: User-Interface,Component-Architecture,Content-Collections,UI-Design,Astro,Rendering-Pipeline
   - User-Interface
   - Component-Architecture
   - Content-Collections
@@ -23,8 +23,8 @@ tags:
   - Rendering-Pipeline
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/aSgyk27kPn6RynW6ykOJdI7Gf3N6I5mWUtLcgvMAVsg/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/cf8eb1f9-5607-4cc9-ad08-35abcc0c877d
-banner_image: https://img.recraft.ai/SW_01-S2h3lloRh3-Wetz4SW-AhJir5KC812p0Oe6A0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/c433bf3c-9bf6-43a2-833f-4a347ea25c01
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Create-a-Vocabulary-Collection-UI-using-Prior-Components_2dfa8abb-6012-4c10-8803-14871a3b0fbb_P9-hFrWyx.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Create-a-Vocabulary-Collection-UI-using-Prior-Components_acd9adb4-42b3-4bb6-9baf-bcd89c95362b_8XJeDar05.webp
 ---
 # Constraints:
 Vocabulary Collection markdown files almost never have any metadata or frontmatter.  

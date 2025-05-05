@@ -14,7 +14,7 @@ date_modified: 2025-04-16
 date_created: 2025-04-16
 image_prompt: "A content creation gateway powered by multiple LLMs, with data flowing through interconnected nodes, creative content cards, and a dashboard of AI models. Visuals include glowing pathways, document icons, and a sense of high-volume, automated content generation."
 site_uuid: 7e866c2b-a4e9-4480-9780-af3a5a9e0b5a
-tags:
+tags: Prompt-Engineering,Content-Generators,Retrieval-Augmented-Generation,State-Of-The-Art-Practices,Content-Marketing,Content-Automation
   - Prompt-Engineering
   - Content-Generators
   - Retrieval-Augmented-Generation
@@ -23,8 +23,8 @@ tags:
   - Content-Automation
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/f6fBcyaUEH78EJZYRFDem_l_AFGkrN8v9kVLl4O7k14/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/59ff9729-91d5-4bcb-b92a-c57170c08fc0
-banner_image: https://img.recraft.ai/duB29mzRfH-xQrDNwqHOitPt58vPImwTCV8qeFv3J2g/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/9cb829c9-b653-4226-b687-12ff7cb82375
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Use-LLM-Gateway-to-Augment-Content_02a62f4b-2d21-4dae-ba94-654fdc49c775_a_jvAMjda.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Use-LLM-Gateway-to-Augment-Content_8d863a16-bfd4-4bbd-a895-12a80e1a5649_g_2OHHNBA.webp
 ---
 ###### Covered
 [[Tooling/AI-Toolkit/AI Interfaces/OLlama]], [[Fabric]], [[LiteLLM]], [[LM Studio]], [[MSTY]]

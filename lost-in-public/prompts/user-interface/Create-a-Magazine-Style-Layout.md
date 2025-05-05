@@ -10,13 +10,16 @@ category: Prompts
 date_created: 2025-04-14
 date_modified: 2025-04-14
 site_uuid: 6bfa7ff2-d78c-4206-ac93-ca4420600d8b
-tags:
+tags: User-Interface,Content-Displays,Content-Collections,Layout-Design
   - User-Interface
+  - Content-Displays
+  - Content-Collections
+  - Layout-Design
 authors:
   - Michael Staton
 image_prompt: "A magazine-style web layout with bold headlines, elegant typography, image-rich feature sections, and a balanced grid. The design evokes a premium print magazine adapted for digital, with modern UI elements and editorial flair."
-portrait_image: https://img.recraft.ai/PIl0P8_VMKTDzq7WEOlQcSk9RCo9HSSqXw0BJmrUmpk/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d6bb5240-104c-4474-a282-7411908b7530
-banner_image: https://img.recraft.ai/O51c_KYRjJo5G0R0sy9Km2jz1IpR3mW9OMWlbIQ7RhY/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/df2f891f-f94a-4732-a70e-32b90262a348
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Create-a-Magazine-Style-Layout_e85a638f-e305-46c8-985f-35ed603993b9_LABV6uanS.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Create-a-Magazine-Style-Layout_9c1e8727-34b1-44e4-9a65-d2f8f76518d6_mogKj_r5F.webp
 ---
 # Inspiration
 `http://127.0.0.1:4321/examples/blog-index-2`

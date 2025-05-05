@@ -10,15 +10,17 @@ category: Prompts
 date_created: 2025-04-17
 date_modified: 2025-04-19
 image_prompt: 'An open magazine on a desk with big images, like National Geographic or Vogue.'
-portrait_image: 'https://img.recraft.ai/3EmJWXOLblDTqDjwEQ_AP0zafIqIhwgdyBFBZ3wAXZk/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/16dd92c7-daf6-4ac5-8a34-04fd1baa9c1a'
-banner_image: 'https://img.recraft.ai/xw7meASI2-KoEI5tWlLk-Z9xQ0gJ1K_SoDN4xNdVA44/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/8207b462-911f-48d1-b7d1-9d0da0172b3c'
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Use-Magazine-Style-Layout-for-new-Specs-Collection_47703319-eda4-48f4-988a-619f19940160_n7E6b3wduD.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Use-Magazine-Style-Layout-for-new-Specs-Collection_5b874dfb-645f-4cf4-87ab-5c4325c9ecd9_ebilcQWiX.webp
 site_uuid: 7e00b40e-cc04-4066-a263-9aa2742765c4
-tags:
+tags: User-Interface,Content-Displays,Content-Collections,Layout-Design
   - User-Interface
-authors:
+  - Content-Displays
+  - Content-Collections
+  - Layout-Design
+authors: Michael Staton
   - Michael Staton
 ---
-
 # Goals
 
 Use the magazine-style layout for the new Specs Collection, reusing as many components and render pipeline as possible. 

@@ -14,17 +14,17 @@ date_created: 2025-04-16
 date_modified: 2025-05-04
 image_prompt: "A local LLM running on a developer workstation, generating structured prompt metadata. Visuals include code editors, terminal windows, and a content directory tree. The mood is technical, efficient, and focused."
 site_uuid: 8b7c7e7e-0d09-4b78-9c8c-0c9e2d7c2e7a
-tags:
+tags: Workflow,Local-LLMs,Generative-AI,Metadata-Generation,Content-Automation
   - Workflow
-  - Local-LLM
+  - Local-LLMs
+  - Generative-AI
   - Metadata-Generation
   - Content-Automation
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/v9EIxr-J9agI3idbPoyV7EmvQwrmT7LSOTjaLSUnhJc/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/92ae5331-f163-4241-87f9-780f06dd3e07
-banner_image: https://img.recraft.ai/bApTjt8iAdZtUwhzO51-Td26DzDHnEUre3WSbyUQccg/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/3ad597bb-c878-4add-948a-3f1800bfe397
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Ask-Local-LLM-to-Be-a-Copywriter_d90ed413-3302-405b-b752-042727441a71_olaLmXO78.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Ask-Local-LLM-to-Be-a-Copywriter_acc719b1-04af-4f73-8dc5-62e3ea9fea0c_p4ar-0r1Y.webp
 ---
-
 ***
 # COPYWRITER REMINDER 
 (ALWAYS INCLUDE AT TOP OF PROMPT)

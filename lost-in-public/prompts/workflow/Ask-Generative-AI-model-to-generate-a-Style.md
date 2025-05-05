@@ -14,17 +14,16 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A generative AI model creating a unique digital style palette, with swirling colors, abstract shapes, and a neural network motif. Visual elements include sliders, color pickers, and a preview of generated styles, symbolizing creative automation."
 site_uuid: 68524391-4243-441a-9929-51ef9cf7a888
-tags:
+tags: Workflow,Model-APIs,API-Integration,LLM-Services
   - Workflow
   - Model-APIs
   - API-Integration
   - LLM-Services
 authors:
   - Michael Staton
-portrait_image: https://img.recraft.ai/swATgqzYfXLzAbXlR1y87pu7d4bhR7Ly9YfP2JEova0/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/d42f96ca-4c3a-47d8-afdc-135a4a28cc67
-banner_image: https://img.recraft.ai/hst8IGEMK7eK0JKt4O1YDQi4L6-6ydcr2NnZiX8ryko/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/6d196162-772a-4bad-bb9a-da77f0294f6f
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Ask-Generative-AI-model-to-generate-a-Style_737d82e0-9001-4dad-8fdf-b033820c30fb_HSGM7QeNO.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Ask-Generative-AI-model-to-generate-a-Style_3389845e-412c-45ec-b2a3-09529c5d856f_wlmhjkHhV.webp
 ---
-
 # Goal
 
 Generate a custom style for image requests using a Generative AI model.
