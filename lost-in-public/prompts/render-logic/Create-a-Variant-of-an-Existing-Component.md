@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Create a Variant of an Existing Component
 lede: The component we have is great, but we need a variant of it.
 date_authored_initial_draft: 2025-04-19
@@ -135,4 +135,4 @@ Note: we do not want the same styles as the Changelog layout.
 
 ---
 
-**If you need clarification or have suggestions for improvement, please comment directly in this prompt before implementation.**
+**If you need clarification or have suggestions for improvement, please comment directly in this prompt before implementation.** -->
