@@ -12,37 +12,20 @@ og_screenshot_url: >-
 jina_last_request: '2025-03-09T06:45:00.275Z'
 jina_error: Error occurred
 og_last_fetch: '2025-03-07T05:19:02.892Z'
-date_modified: 2025-04-16
+date_modified: 2025-05-07
 date_created: 2025-03-31
 tags: [AI-Toolkit]
 ---
 
+[[Tooling/AI-Toolkit/Agentic AI/smolagents|smolagents]]
 
+[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Hugging Face Spaces|Hugging Face Spaces]]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[[smolagents]]
-
-[[Hugging Face Spaces]]
+# The community platform for AI Geeks
 
 An [[Affinity Network]] for people interested in [[concepts/Explainers for AI/Artificial Intelligence]].
 
-The best news source for [[AI Models]], and posts publicly their [[Benchmarks]].  It keeps a [[Leaderboard]] on [[Benchmarks]] for [[Large Language Models]], [[Chatbots]], [[Massive Text Embedding]] at [this link](https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a).
+The best news source for [[Vocabulary/AI Models|AI Models]], and posts publicly their [[Vocabulary/Benchmarks|Benchmarks]].  It keeps a [[Leaderboard]] on [[Benchmarks]] for [[Vocabulary/Large Language Models|Large Language Models]], [[Chatbots]], [[Massive Text Embedding]] at [this link](https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a).
 
 https://youtu.be/nNIlnKuCNcI?si=PZEWAzA0V_WhxIlU
 

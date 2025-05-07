@@ -1,12 +1,12 @@
 ---
 date_created: 2025-03-29
-date_modified: 2025-04-25
+date_modified: 2025-05-07
 site_uuid: 070fcc3b-1d19-404e-91ff-0289dfe53017
 ---
 
 [[Lindy AI]]
 
-[[organizations/Ontra]]
+[[organizations/Ontra|Ontra]]
 
 ## Intelligent Agreement Management
 

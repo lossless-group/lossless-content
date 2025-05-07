@@ -9,11 +9,7 @@ date_created: 2025-04-30
 date_modified: 2025-05-05
 lede: A Desktop Publisher for the Markdown era.
 status: Draft
-tags: 
-- Markdown
-- Desktop-Publishing 
-- Component-Architecture
-- Cross-Platform
+tags: [Markdown, Desktop-Publishing, Component-Architecture, Cross-Platform]
 authors:
   - Michael Staton
 image_prompt: A wall of different "Graphic Design" artifacts. Some look like pamphlets, some look like posters"
@@ -23,7 +19,7 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-
 Okay, let’s flesh out this concept with technical documentation, focusing on the core design and implementation. Here’s a draft, broken down into sections with detailed explanations and considerations. We’ll start with a high-level overview and then dive into specific aspects.
 
 # Inspiration Set
-
+[[Velite]], [[micromark]], [[markdown-rs]], [[Eleventy]]. 
 
 **1. Core Concept: Cellular Node System**
 
