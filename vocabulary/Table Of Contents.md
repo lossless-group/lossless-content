@@ -1,3 +1,9 @@
+---
+site_uuid: 60a512b7-d9e6-4ae1-8675-c7e470dcc3de
+date_created: 2025-05-05
+date_modified: 2025-05-08
+---
+
 # My Awesome Article
 
 Welcome to this article. Below is a breakdown of its contents.
