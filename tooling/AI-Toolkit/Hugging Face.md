@@ -12,7 +12,7 @@ og_screenshot_url: >-
 jina_last_request: '2025-03-09T06:45:00.275Z'
 jina_error: Error occurred
 og_last_fetch: '2025-03-07T05:19:02.892Z'
-date_modified: 2025-05-07
+date_modified: 2025-05-08
 date_created: 2025-03-31
 tags: [AI-Toolkit]
 ---
@@ -23,7 +23,7 @@ tags: [AI-Toolkit]
 
 # The community platform for AI Geeks
 
-An [[Affinity Network]] for people interested in [[concepts/Explainers for AI/Artificial Intelligence]].
+An [[Affinity Network]] for people interested in and developing the [[Vocabulary/AI Models|AI Models]] that power [[concepts/Explainers for AI/Artificial Intelligence|Artificial Intelligence]] applications.  [[Model Vendors]]
 
 The best news source for [[Vocabulary/AI Models|AI Models]], and posts publicly their [[Vocabulary/Benchmarks|Benchmarks]].  It keeps a [[Leaderboard]] on [[Benchmarks]] for [[Vocabulary/Large Language Models|Large Language Models]], [[Chatbots]], [[Massive Text Embedding]] at [this link](https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a).
 
