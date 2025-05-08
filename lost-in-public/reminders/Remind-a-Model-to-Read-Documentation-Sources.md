@@ -1,6 +1,4 @@
 ---
-
-
 title: Remind a model to read documentation sources of included libraries
 lede: "Give your AI Code Assistant the Aha! moment it needs to get through your blockers by learning directly from documentation sources."
 date_authored_initial_draft: 2025-04-16
@@ -22,8 +20,6 @@ site_uuid: 0043d2ec-aebc-4454-8424-06b323282524
 date_created: 2025-04-16
 date_modified: 2025-04-22
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Remind-a-Model-to-Read-Documentation-Sources_871d9bf2-ee52-464a-9c77-ad2abccbb2b8_PmhbFKEms.webp
-
-
 ---
 Handsontable
 https://handsontable.com/docs/javascript-data-grid/

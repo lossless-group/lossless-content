@@ -1,6 +1,4 @@
 ---
-
-
 title: 'Read the relevant documentation before guessing.'
 lede: 'Illuminate your coding journey by diving into relevant documentation, and transform assumptions into accurate, well-informed decisions.'
 date_authored_initial_draft: 2025-03-14
@@ -21,8 +19,6 @@ tags: [Prompt-Engineering, Code-Standards, Best-Practices]
 authors:
   - Michael Staton
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Read-Relevant-Documentation-before-major-edits_526759f4-57e6-4dff-9250-1c4beab0bb80_U4ysQa1Dq.webp
-
-
 ---
 # Essential Documentation References
 

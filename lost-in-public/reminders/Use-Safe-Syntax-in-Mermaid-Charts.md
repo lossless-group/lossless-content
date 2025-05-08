@@ -1,6 +1,4 @@
 ---
-
-
 title: Use Safe Syntax in Mermaid Charts
 lede: Assure your Mermaid Charts render by avoiding unsafe characters and syntax while writing technical documentation
 date_authored_initial_draft: 2025-04-23
@@ -20,8 +18,6 @@ authors:
   - Michael Staton
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Use-Safe-Syntax-in-Mermaid-Charts_236ad8a5-42dd-49bf-849d-145abdd6e13b_BFX1VJ8rK.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Use-Safe-Syntax-in-Mermaid-Charts_07e83190-d5db-4e8b-8c7c-563cc072d23c_0yiwSKtKo.webp
-
-
 ---
 # Logic:
 

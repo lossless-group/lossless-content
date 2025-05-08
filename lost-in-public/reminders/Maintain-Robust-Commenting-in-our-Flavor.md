@@ -1,6 +1,4 @@
 ---
-
-
 title: Maintain Robust Commenting in our Flavor
 lede: "Unlock the power of readable, maintainable code with our signature commenting style—section openers, function docs, and clarity-first annotation for every project."
 date_authored_initial_draft: 2025-03-25
@@ -22,8 +20,6 @@ authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Maintain-Robust-Commenting-in-our-Flavor_ea5a9fde-4b59-4a71-8695-8b7840695f38_1LrygDn75.webp
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Maintain-Robust-Commenting-in-our-Flavor_77fc4c67-722e-4e50-aac5-9ac897029f61_GUxLMTmjG.webp
-
-
 ---
 ### Coding Guidelines
 

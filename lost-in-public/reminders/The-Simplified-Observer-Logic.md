@@ -1,6 +1,4 @@
 ---
-
-
 title: The Simplified Observer Logic
 lede: Clarify and streamline the Observer’s orchestration logic—ensuring every subsystem, expectation, and write operation is perfectly sequenced.
 date_authored_initial_draft: 2025-04-20
@@ -21,8 +19,6 @@ tags: [Workflow, Filesystem-Observers]
 authors:
   - Michael Staton
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_The-Simplified-Observer-Logic_78edb0b6-22cc-4a73-a2c7-e545fa1c03e6_t1Fgy5pRZ.webp
-
-
 ---
 # Logic:
 

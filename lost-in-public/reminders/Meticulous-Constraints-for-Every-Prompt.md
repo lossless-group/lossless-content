@@ -1,6 +1,4 @@
 ---
-
-
 title: 'Meticulous Constraints for Every Prompt'
 lede: 'Master prompt engineering with essential, actionable constraints—ensuring every code generation task is robust, DRY, and error-resilient.'
 date: 2025-03-13
@@ -22,8 +20,6 @@ tags: [Prompt-Engineering, Code-Standards, Best-Practices, Error-Handling]
 authors:
   - Michael Staton
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Meticulous-Constraints-for-Every-Prompt_60ed0b4e-14ea-4606-bff4-d5f3d4e1a69f_ad-N8LWMu.webp
-
-
 ---
 ## Before starting:
 

@@ -1,6 +1,4 @@
 ---
-
-
 title: 'Extending Markdown with Obsidian FlavoredSyntax'
 date_authored_initial_draft: 2025-03-19
 date_authored_final_draft: 2025-03-20
@@ -20,8 +18,6 @@ tags: [Workflow-Management, Client-Updates, Platform-Mechanisms, Workspace-Confi
 authors:
   - Michael Staton
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Extended-Obsidian-Extended-Markdown_051a00d1-05e3-48da-ad20-5495341e13d1_QF6RSzqJp.webp
-
-
 ---
 [[Tooling/Productivity/Obsidian|Obsidian]]
 

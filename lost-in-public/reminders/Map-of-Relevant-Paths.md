@@ -1,6 +1,4 @@
 ---
-
-
 title: 'Map of Relevant Paths'
 lede: 'Review this file to ensure code generation is using the correct paths and directory structure in this complex monorepo.'
 date_authored_initial_draft: 2025-04-06
@@ -20,8 +18,6 @@ tags: [Code-Style, Software-Architecture, Code-Generators, Bug-Prevention]
 authors:
   - Michael Staton
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Map-of-Relevant-Paths_adc5bcaa-0b61-45dd-846c-7817cdf66597_AAS_MDchj.webp
-
-
 ---
 # Project Directory Structure
 
