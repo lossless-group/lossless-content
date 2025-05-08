@@ -1,6 +1,4 @@
 ---
-
-
 date_created: 2025-04-16
 date_modified: 2025-04-22
 title: Maintain Consistent Reporting Templates
@@ -18,8 +16,6 @@ authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Maintain-Consistent-Reporting-Templates_ae2415ec-f54a-48ba-85c2-eaee09d20716_4XNITJvCs.webp
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Maintain-Consistent-Reporting-Templates_af226242-a4ff-424d-8702-a7ddbe27103e_vkNe8RMST.webp
-
-
 ---
 ### Single Operation Process Report
 

@@ -1,6 +1,4 @@
 ---
-
-
 title: 'Fire up the Observer'
 lede: 'Ready to automate? Learn how to launch the Observer system for seamless citation and frontmatter processing across your content library.'
 image_prompt: 'A futuristic terminal window launching an observer robot, with glowing file paths, citation icons, and YAML frontmatter floating in a digital workspace.'
@@ -21,8 +19,6 @@ tags: [Data-Integrity, File-Processing, Observer-System]
 authors:
   - Michael Staton
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Fire-up-the-Observer_a6174a8d-5929-436d-bcd0-78323b091364_KiF40_cW8.webp
-
-
 ---
 # Running the Observer System
 

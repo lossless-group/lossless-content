@@ -1,6 +1,4 @@
 ---
-
-
 title: 'Maintain Consistent Reporting'
 lede: 'Master the art of consistent, auditable reporting for every automation, script, and observer in your content pipeline.'
 date_authored_initial_draft: 2025-03-26
@@ -20,8 +18,6 @@ tags: [Workflow, Reporting, Automation, Auditing]
 authors:
   - Michael Staton
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Maintain-Consistent-Reporting_afa93299-0928-4f0d-b7a1-a6da6737da7a_ml6m7rcNa.webp
-
-
 ---
 # Reports always always ALWAYS ALWAYS go in the following directory:
 `content/reports/`

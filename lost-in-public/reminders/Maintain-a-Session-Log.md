@@ -1,6 +1,4 @@
 ---
-
-
 title: 'Maintain a word-for-word dialog of our session'
 lede: 'Capture every word of your human-AI dialog for perfect transparency, reproducibility, and context-aware automation.'
 date_authored_initial_draft: 2025-03-17
@@ -25,8 +23,6 @@ tags: [Session-Logs, LLM-Chat-History, Content-Generation, Code-Generators, Prom
 authors:
   - Michael Staton
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Maintain-a-Session-Log_e7aa3ebc-115d-4b8e-8d6c-6fb6eebf095f_TEokQg8da.webp
-
-
 ---
 ### Working Directory:
 `content/sessions`

@@ -1,6 +1,4 @@
 ---
-
-
 title: 'Map of Dependencies'
 lede: 'Eliminate frustration by observing guidelines, working within hard rules and constraints, and learning to detect YAML irregularities that could cause bugs and failures.'
 date_authored_initial_draft: 2025-03-17
@@ -20,8 +18,6 @@ tags: [Workflow, YAML, YAML-Handling, YAML-Conventions, Bug-Prevention]
 authors:
   - Michael Staton
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Map-of-Dependencies_0b78c3ff-e88c-41d6-88ff-792df62cc9b2_FIzptYWsM.webp
-
-
 ---
 [[Tooling/Software Development/Programming Languages/Libraries/PrismJS]]
 

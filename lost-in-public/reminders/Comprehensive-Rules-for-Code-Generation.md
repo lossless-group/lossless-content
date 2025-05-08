@@ -1,5 +1,4 @@
 ---
-
 title: Comprehensive Rules to tame Code Generator LLMs
 date_authored_initial_draft: 2025-03-17
 date_authored_final_draft: 2025-03-17
@@ -19,7 +18,6 @@ authors:
   - Michael Staton
 tags: [Code-Generators, Context-Windows, Model-Context-Protocols]
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Comprehensive-Rules-for-Code-Generation_d7d8742a-811b-4d69-ad8f-1c90392aa9f0_XXk6iT8Uy.webp
-
 ---
 # Stack, Libraries, Dependencies
 

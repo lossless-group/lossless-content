@@ -1,6 +1,4 @@
 ---
-
-
 title: An Exhaustive list of content YAML patterns.
 lede: Never repeat yourself—reference this comprehensive guide to all frontmatter YAML patterns for bulletproof data integrity and automation.
 date_authored_initial_draft: 2025-03-24
@@ -20,8 +18,6 @@ tags: [Workflow, YAML-Handling, YAML-Conventions, Bug-Prevention, Filesystem-Obs
 authors:
   - Michael Staton
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_YAML-Patterns--Exhaustive-Cases_bd7bb3ee-cfe7-476e-b078-3b6a4c8bcfb8_uqwepesN4.webp
-
-
 ---
 # YAML Patterns for Data Integrity
 
