@@ -1,15 +1,14 @@
 ---
 title: Broken YAML Key Replacement Workflow
 lede: Documenting a critical workflow bug and its resolution for YAML key replacement in Markdown frontmatter.
-date_authored_initial_draft: 2025-04-21
-date_authored_current_draft: 2025-04-21
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-04-21
+date_resolved: 2025-04-21
 date_last_updated: null
 at_semantic_version: 0.0.0.1
 status: Implemented
 augmented_with: Windsurf Cascade on GPT 4.1
 category: Frontmatter-Automation
+affected_systems: Content-Collections
 tags:
   - Content-Automation
   - Frontmatter-Automation

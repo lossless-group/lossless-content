@@ -1,13 +1,12 @@
 ---
 title: Handling Unexpected API Responses
 lede: Robust strategies for normalizing and integrating unpredictable API data into observer pipelines and frontmatter logic.
-date_authored_initial_draft: 2025-04-18
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-04-18
+date_resolved: 2025-04-23
 date_last_updated: null
+affected_systems: API-Integration
 at_semantic_version: 0.0.0.1
-status: Draft
+status: To-Draft
 augmented_with: Cascade AI
 category: Api-Response-Normalization
 site_uuid: 89270980-521b-4598-93c7-37e3b67b01d2

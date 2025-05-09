@@ -1,13 +1,12 @@
 ---
 title: Managing Complex Integrations Through Git
 lede: Solutions and essential commands for managing complex Git integrations, especially in monorepos with submodules and loosely-coupled architectures.
-date_authored_initial_draft: 2025-03-25
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-03-25
+date_resolved: 2025-04-23
 date_last_updated: null
+affected_systems: Source-Control-Management
 at_semantic_version: 0.0.0.1
-status: Complete
+status: Resolved
 augmented_with: Windsurf Cascade on GPT 4.1
 category: Continuous-Integration
 site_uuid: ea12f4c7-ef58-4d5d-90a8-942831bc6d78

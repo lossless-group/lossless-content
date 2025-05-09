@@ -1,13 +1,12 @@
 ---
 title: ReferenceGrid Layout Issue Resolution (CSS vs Tailwind)
 lede: Troubleshooting and resolving the ReferenceGrid component's layout issue—switching from custom CSS/media queries to Tailwind utilities for robust responsive grids.
-date_authored_initial_draft: 2025-04-13
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-04-13
+date_resolved: 2025-04-23
 date_last_updated: null
 at_semantic_version: 0.0.0.1
-status: Complete
+status: "Resolved"
+affected_systems: Layout-Design
 augmented_with: Windsurf Cascade on GPT 4.1
 category: Responsive-Design
 date_created: 2025-04-21

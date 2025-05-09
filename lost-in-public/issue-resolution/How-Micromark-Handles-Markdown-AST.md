@@ -1,13 +1,12 @@
 ---
 title: How Micromark Handles Markdown and the AST
 lede: A deep dive into how Micromark tokenizes Markdown and how the AST is built by higher-level utilities in the remark/unified ecosystem.
-date_authored_initial_draft: 2025-04-18
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-04-18
+date_resolved: 2025-04-23
 date_last_updated: null
+affected_systems: Markdown-Rendering
 at_semantic_version: 0.0.0.1
-status: Complete
+status: Resolved
 augmented_with: Cascade AI
 category: Markdown-Parsing
 site_uuid: be6c6a53-45cc-4390-b701-26d96c751916

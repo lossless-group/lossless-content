@@ -1,15 +1,14 @@
 ---
 title: Grid Layout Centering with Responsive Breakpoints
 lede: Solving complex CSS grid layout issues with simplified media queries
-date_authored_initial_draft: 2025-05-08
-date_authored_current_draft: 2025-05-08
-date_authored_final_draft: 2025-05-08
-date_first_published: 2025-05-08
+date_reported: 2025-05-08
+date_resolved: 2025-05-08
 date_last_updated: 2025-05-08
 at_semantic_version: 1.0.0
-status: Complete
+affected_systems: Layout-Design
+status: Resolved
 augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
-category: Issue-Resolution
+category: Layout-Design
 date_created: 2025-05-08
 date_modified: 2025-05-08
 tags:

@@ -1,13 +1,23 @@
 ---
 title: AstroMarkdown Mermaid Rendering Issue Resolution
 lede: Breadcrumb documenting the resolution of Markdown/AST rendering issues for Mermaid diagrams and code blocks in AstroMarkdown.astro.
-date: 2025-04-25
-status: Complete
-category: Issue-Resolution
-related_files:
-  - site/src/components/markdown/AstroMarkdown.astro
-  - site/src/utils/markdown/remarkMermaidTag.ts
-  - site/src/utils/markdown/rehypeMermaidInline.ts
+date_reported: 2025-04-25
+date_resolved: 2025-04-25
+date_last_updated: null
+affected_systems: Markdown-Rendering
+at_semantic_version: 0.0.0.1
+status: Resolved
+category: Extended-Markdown
+tags:
+- Mermaid
+- Code-Blocks
+- Markdown-Rendering
+- Rehype
+- Remark
+authors:
+  - Michael Staton
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnets
+image_prompt: "Fancy mermaid diagrams in a web article."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Mermaid-Rendering-tangles-Rehype-Remark_21da9d5a-e673-42a7-9214-0d876ff949a1_zeFHASGnU.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Mermaid-Rendering-tangles-Rehype-Remark_cced9c78-3e82-4e2d-be55-f11f0488b9c4_5USUA8NXe.webp
 ---

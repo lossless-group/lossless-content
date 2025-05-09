@@ -1,12 +1,13 @@
 ---
 title: Tame Generative AI with Rule Sets
 lede: Canonical rules and technical conventions for controlling, documenting, and collaborating with code-generating LLMs in complex TypeScript/Astro projects.
-date_authored_initial_draft: 2025-03-17
-date_authored_current_draft: 2025-04-23
+date_reported: 2025-03-17
+date_resolved: 2025-04-23
 at_semantic_version: 0.0.0.1
-status: Complete
-augmented_with: Cascade AI
-category: LLM-Governance-Patterns
+status: "Resolved"
+affected_systems: Code-Generators
+augmented_with: Cascade on Claude 3.7 Sonnet
+category: LLM-Governance
 date_created: 2025-03-17
 date_modified: 2025-04-23
 site_uuid: 94e917af-2f46-498c-ae51-bc2111d4ec04

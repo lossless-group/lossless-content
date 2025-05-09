@@ -1,15 +1,14 @@
 ---
 title: Setting up Rehype to Better Parse Markdown
 lede: Implementing a custom unified pipeline with remark and rehype for Astro Flavored Markdown, solving file reference and plugin integration issues.
-date_authored_initial_draft: 2025-03-30
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-03-30
+date_resolved: 2025-04-23
 date_last_updated: null
 at_semantic_version: 0.0.0.1
-status: Complete
+status: "Resolved"
+affected_systems: Markdown-Rendering
 augmented_with: Windsurf Cascade on GPT 4.1
-category: Markdown-Parsing-Patterns
+category: Markdown-Parsing
 date_created: 2025-03-30
 date_modified: 2025-04-23
 site_uuid: ead8b239-ff5e-4df9-b9a7-70eadf44263a
