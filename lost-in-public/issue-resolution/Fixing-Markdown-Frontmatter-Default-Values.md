@@ -1,15 +1,13 @@
 ---
 title: Fixing Markdown Frontmatter Default Values
 lede: Resolving issues with missing frontmatter fields not being populated with template defaults
-date_authored_initial_draft: 2025-04-24
-date_authored_current_draft: 2025-04-24
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-04-24
+date_resolved: 2025-04-24
 date_last_updated: null
 at_semantic_version: 0.0.0.1
-status: Complete
-augmented_with: Cascade
-working_with: Cascade
+status: "Resolved"
+affected_systems: Content-Collections
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Debugging
 date_created: 2025-04-24
 date_modified: 2025-04-24

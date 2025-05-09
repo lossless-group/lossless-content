@@ -1,13 +1,12 @@
 ---
 title: Write Git Commit Messages with Your Favorite Editor
 lede: How to configure Git to use your preferred editor (like Neovim) for writing multi-line commit messages, plus tips for advanced commit workflows.
-date_authored_initial_draft: 2025-03-20
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-03-20
+date_resolved: 2025-04-23
 date_last_updated: null
 at_semantic_version: 0.0.0.1
-status: Complete
+status: "Resolved"
+affects_systems: Continuous-Integration
 augmented_with: Warp on Claude Sonnet 3.7
 category: Continuous-Integration
 date_created: 2025-03-20

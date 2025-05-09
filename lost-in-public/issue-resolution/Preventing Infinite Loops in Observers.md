@@ -1,15 +1,14 @@
 ---
 title: Preventing Infinite Loops in Observers
 lede: Strategies and atomic patterns for preventing infinite loops and redundant writes in observers, with robust frontmatter repair and idempotency.
-date_authored_initial_draft: 2025-04-17
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-04-17
+date_resolved: 2025-04-23
 date_last_updated: null
+affected_systems: Filesystem-Observers
 at_semantic_version: 0.0.0.1
-status: Complete
+status: "Resolved"
 augmented_with: Windsurf Cascade on GPT 4.1
-category: Observer-Design-Patterns
+category: Filesystem-Observers
 site_uuid: b1492d56-b0a3-42a9-8a30-030993ab3b2d
 date_created: 2025-04-18
 date_modified: 2025-04-23

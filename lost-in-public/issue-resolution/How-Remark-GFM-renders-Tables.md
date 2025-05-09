@@ -1,13 +1,12 @@
 ---
 title: "How remark-gfm Renders Tables"
 lede: "A technical deep dive into how the remark-gfm plugin parses, transforms, and renders Markdown tables in the unified ecosystem."
-date_authored_initial_draft: 2025-04-18
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-04-18
+date_resolved: 2025-04-23
 date_last_updated: null
+affected_systems: Markdown-Rendering
 at_semantic_version: 0.0.0.1
-status: Complete
+status: Resolved
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Markdown-Parsing
 date_created: 2025-04-18

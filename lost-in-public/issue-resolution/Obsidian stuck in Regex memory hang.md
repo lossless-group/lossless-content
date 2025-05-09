@@ -1,13 +1,12 @@
 ---
 title: Obsidian Stuck in Regex Memory Hang
 lede: Diagnosing and resolving a persistent regex-induced freeze in Obsidian, including hidden file investigation and advanced directory tree commands.
-date_authored_initial_draft: 2025-03-21
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-03-21
+date_resolved: 2025-04-23
 date_last_updated: null
 at_semantic_version: 0.0.0.1
-status: Complete
+affected_systems: Content-Management
+status: Resolved
 augmented_with: GPT 4.1
 category: Obsidian-Troubleshooting
 site_uuid: ced41942-6cac-4627-b32b-2d0a15fe4e7b

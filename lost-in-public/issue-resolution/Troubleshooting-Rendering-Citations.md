@@ -1,21 +1,21 @@
 ---
 title: Troubleshooting Rendering Citations
 lede: Resolving issues with citation rendering in Markdown pipelines—strategies for AST transformation, plugin fallback, and robust user experience in Astro/Remark environments.
-date_authored_initial_draft: 2025-04-16
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-04-16
+date_resolved: 2025-04-23
 date_last_updated: null
 at_semantic_version: 0.0.0.1
-status: Complete
+affects_systems: Markdown-Rendering
+status: "Outstanding"
 augmented_with: Windsurf Cascade on Claude Sonnet 3.7
-category: Citation-Rendering-Patterns
+category: Extended-Markdown
 date_created: 2025-04-16
 date_modified: 2025-04-23
 site_uuid: c35c1d5d-53da-4ec0-805a-34bc32b56bd6
 tags:
   - Citation-Rendering
-  - Markdown-Pipeline
+  - Markdown-Rendering
+  - Extended-Markdown
   - Remark
   - Astro
   - AST-Transformation

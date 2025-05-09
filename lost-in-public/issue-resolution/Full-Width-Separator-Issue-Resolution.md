@@ -1,16 +1,15 @@
 ---
 title: Full-Width Separator Issue Resolution
 lede: Solving the challenge of creating truly full-viewport-width separators in a constrained layout
-date_authored_initial_draft: 2025-04-12
-date_authored_current_draft: 2025-04-12
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-04-12
+date_resolved: 2025-04-12
 date_last_updated: null
 at_semantic_version: 0.0.1.0
-status: Complete
+affected_systems: Layout-Design
+status: "Resolved"
 authors:
   - Michael Staton
-augmented_with: Winsurf Cascade on Claude 3.5 Sonnet
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Front-End
 date_created: 2025-04-16
 date_modified: 2025-04-16

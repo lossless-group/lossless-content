@@ -1,12 +1,13 @@
 ---
 title: Frontmatter Date Formatting Fix
 lede: Resolving timestamp and quoted date issues in frontmatter
-date_authored_initial_draft: 2025-04-11
-date_authored_current_draft: 2025-04-17
+date_reported: 2025-04-11
+date_resolved: 2025-04-17
 at_semantic_version: 0.0.0.1
-status: Complete
+status: Resolved
+affected_systems: Build-System
 augmented_with: Cascade AI
-category: Date-Formatting-And-Frontmatter-Standardization
+category: Data-Integrity
 tags:
   - Frontmatter-Standardization
   - Yaml-Date-Handling

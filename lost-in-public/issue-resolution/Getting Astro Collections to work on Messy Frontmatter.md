@@ -1,13 +1,12 @@
 ---
 title: Getting Astro Collections to Work on Messy Frontmatter
 lede: How to configure Astro content collections to handle Markdown files with inconsistent or incomplete frontmatter, using .passthrough and transform for robust schema handling.
-date_authored_initial_draft: 2025-03-26
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-03-26
+date_resolved: 2025-04-23
 date_last_updated: null
 at_semantic_version: 0.0.0.1
-status: Complete
+status: Resolved
+affected_systems: Build-System
 augmented_with: Cascade AI
 category: Content-Collections
 site_uuid: 69a7d062-3541-4ff7-9f8c-843801a64e57
