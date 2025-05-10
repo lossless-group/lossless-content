@@ -1,7 +1,7 @@
 ---
 title: Prompt Rendering Pipeline Issue Resolution
 lede: Fixing content rendering issues in the dynamic prompt pages
-category: Issue-Resolution
+category: Content-Collections
 date_reported: 2025-04-14
 date_resolved: 2025-04-14
 date_last_updated: null
@@ -9,7 +9,6 @@ at_semantic_version: 0.0.0.1
 status: "Resolved"
 affected_systems: Content-Collections
 augmented_with: Windsurf Cascade on GPT 4.1
-category: Content-Collections
 date_created: 2025-04-14
 site_uuid: abbcbc82-5730-41c9-8eb2-aac50dab9da3
 tags:
@@ -18,7 +17,6 @@ tags:
   - Rendering-Pipeline
 authors:
   - Michael Staton
-augmented_with: Windsurf Cascade on GPT 4.1
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Prompt-Rendering-Pipeline-Issue_3c3bb46b-3afb-4d32-9f44-2f846682aea6_6AptzWyHf.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Prompt-Rendering-Pipeline-Issue_11a96132-38fb-4a06-b2d1-80a7bc716eef_6xnYhjOoc.webp
 ---
