@@ -20,10 +20,11 @@ tags:
   - Content-Collections
 authors:
   - Michael Staton
-portrait_image: 
-banner_image: 
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-10_portrait_image_Integrate-Collection-into-Site_4d25ec70-8a94-4878-8868-0275c7a73c61_yyjYFHCXL.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-10_banner_image_Integrate-Collection-into-Site_102b84c3-af7f-43b1-af3f-52b35454cd3f_rGb-0jwv7.webp
 image_prompt: "A funnel leading to a computer monitor with a website interface that displays a list of news articles. Above the funnel is a lot of floating papers, newspapers, and notebooks. The mood is modern, but with a touch of nostalgia."
 ---
+
 # Context
 
 ## Objective:
@@ -268,12 +269,6 @@ const issueResolutionCollection = defineCollection({
 
 This plan is now ready for the engineer to begin implementation once approved.
 
-## Implementation Insights (Engineer to complete)
-
-*(This section will be filled in by the engineer [Cascade] after completing the implementation. It will detail any insights, challenges, or deviations from the plan.)*
-
-***
-
 # Expected Deliverables
 Upon completion, please ensure the following are delivered:
 
@@ -284,3 +279,12 @@ Upon completion, please ensure the following are delivered:
 5.  Refactoring opportunities documented in `content/lost-in-public/refactors/Ongoing-Log-of-Opportunities-to-Refactor.md`.
 6.  This prompt document updated with the final 'Implementation Plan' and 'Implementation Insights'.
 7.  All code changes committed to the appropriate branch with clear, descriptive commit messages.
+
+
+## Implementation Insights
+
+Managing Global CSS Conflicts with Utility-First Frameworks:
+Observation: Global styles (e.g., for heading elements in global.css) can override utility classes (e.g., Tailwind CSS).
+Insight: When using a utility-first CSS framework like Tailwind, ensure that global styles are either complementary or intentionally overridden. For typography and spacing controlled by Tailwind within components, it might be necessary to comment out or adjust conflicting global CSS rules.
+
+***

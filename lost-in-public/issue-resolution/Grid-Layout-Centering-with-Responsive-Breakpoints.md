@@ -20,6 +20,8 @@ tags:
 authors:
   - Michael Staton
 site_uuid: 828827c3-4a13-4f05-967f-d5eb837f5f05
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-10_banner_image_Grid-Layout-Centering-with-Responsive-Breakpoints_a931cb60-b1d4-4bf0-8745-6f5dc690564a_W60ZYjAHw.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-10_portrait_image_Grid-Layout-Centering-with-Responsive-Breakpoints_8f0b56c3-d7cb-439f-9aa0-048b3f3b29af_ticz-L5a5q.webp
 ---
 
 # Grid Layout Centering with Responsive Breakpoints
