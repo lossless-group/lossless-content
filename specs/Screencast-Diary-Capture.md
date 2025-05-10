@@ -22,4 +22,7 @@ tags:
 authors:
   - Michael Staton
 image_prompt: "A closeup view of a laptop, with the screen having a screencast software on display. There is a window with a persons face in it, and the rest of the screen is the VS Code Code Editor."
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-10_banner_image_Screencast-Diary-Capture_6bded2bf-7f65-49a1-9849-ad2bcf2e302b_XqR8zLOaN.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-10_portrait_image_Screencast-Diary-Capture_7a85a0ab-e658-44a3-a0ec-e5fb6cc70303_QfT9TdCtR.webp
 ---
+
