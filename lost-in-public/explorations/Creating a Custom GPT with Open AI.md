@@ -1,8 +1,9 @@
 ---
-tags:
-  - Explorations
-authors: 
-- Michael Staton
+tags: [Explorations]
+authors:
+  - Michael Staton
+date_created: 2025-04-18
+date_modified: 2025-05-12
 ---
 ## Context
 I'm following along to this [[YouTube]] video: [Creating Custom GPTs: API Key For Custom Actions | Complete Guide](https://youtu.be/6P6MQ_j73mI?si=jJGUcygTjmpLa_lA)
