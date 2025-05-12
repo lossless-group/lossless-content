@@ -13,13 +13,15 @@ image_prompt: 'A robot in a business suit at a desk, typing on one side, and a r
 date_created: 2025-04-15
 date_modified: 2025-04-22
 site_uuid: 2f5ae0f8-9fe8-45f4-9e5d-6101567b45ba
-portrait_image: https://img.recraft.ai/UxBfb9BKNeRCfPe3YYyWRRBy6QjUfcZpEo6GsC7Aow4/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d6466fdf-0b64-467b-abdd-ea0edb5bfece
-tags: [User-Interface, Content-Models, Content-Sorting, UI-Design]
-authors:
-  - Michael Staton
-banner_image: https://img.recraft.ai/UOUzCP-9afN_hG2IANtgcyMVZkysSsUjsypxH82_HZ0/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/f694fb0b-394e-4dea-b91b-92ade5ca7766
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Change-Role-to-Developer-and-Implement-Prompt_59e38427-537b-4026-9394-db84ef9446c6__ylbAYrJ1.webp
+authors: 
+- Michael Staton
+tags:
+  - AI-Human-Workflows
+  - Model-Context-Protocols
+  - Context-Windows
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Change-Role-to-Developer-and-Implement-Prompt_7dcc85ae-699e-4466-8cca-3da045d5423d_8IgB859at.webp
 ---
-
 # Objective:
 
 The AI assistant should change roles from product manager to developer. After reviewing any rulesets (.windsurfrules), memories, and parameters, the assistant should implement the prompt.

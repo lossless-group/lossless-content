@@ -1,15 +1,13 @@
 ---
 title: Fixing Markdown Frontmatter Default Values
 lede: Resolving issues with missing frontmatter fields not being populated with template defaults
-date_authored_initial_draft: 2025-04-24
-date_authored_current_draft: 2025-04-24
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-04-24
+date_resolved: 2025-04-24
 date_last_updated: null
 at_semantic_version: 0.0.0.1
-status: Complete
-augmented_with: Cascade
-working_with: Cascade
+status: "Resolved"
+affected_systems: Content-Collections
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Debugging
 date_created: 2025-04-24
 date_modified: 2025-04-24
@@ -22,10 +20,9 @@ tags:
   - Debugging
 authors:
   - Michael Staton
-portrait_image: 
-banner_image: 
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Fixing-Markdown-Frontmatter-Default-Values_d95f25cd-6c97-403a-b9fe-5427b6e1839e_nXS9O_E2g.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Fixing-Markdown-Frontmatter-Default-Values_58549152-a62e-4665-93ad-75aacb4380a8_Co9sVy9YG.webp
 ---
-
 # Fixing Markdown Frontmatter Default Values
 
 ## What We Were Trying to Do and Why

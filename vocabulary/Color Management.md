@@ -4,7 +4,7 @@ date_modified: 2025-04-12
 site_uuid: fea4cf15-2ea9-4480-b46d-08f413ce497a
 ---
 
-[[Sip (MacOS App)]]
+[[Tooling/Creative/Sip (MacOS App)]]
 
 > [!NOTE] AI Explains [[Color Management]]
 > ### **What Are Color Management Applications?**
@@ -123,7 +123,7 @@ site_uuid: fea4cf15-2ea9-4480-b46d-08f413ce497a
 >     - Exports colors in various formats (HEX, RGB, HSL, etc.).
 > - **Best For:** Mac users who need precise color capture and management.
 > 
-> #### **8. [[Sip (MacOS App)]]**
+> #### **8. [[Tooling/Creative/Sip (MacOS App)]]**
 > 
 > - **What It Does:** A color management app for macOS and iOS.
 > - **Unique Advantages:**

@@ -1,13 +1,12 @@
 ---
 title: Managing Complex Integrations Through Git
 lede: Solutions and essential commands for managing complex Git integrations, especially in monorepos with submodules and loosely-coupled architectures.
-date_authored_initial_draft: 2025-03-25
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-03-25
+date_resolved: 2025-04-23
 date_last_updated: null
+affected_systems: Source-Control-Management
 at_semantic_version: 0.0.0.1
-status: Complete
+status: Resolved
 augmented_with: Windsurf Cascade on GPT 4.1
 category: Continuous-Integration
 site_uuid: ea12f4c7-ef58-4d5d-90a8-942831bc6d78
@@ -20,11 +19,10 @@ tags:
   - Monorepo-Management
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Managing-complex-integrations-through-Git_fd6fe19a-1d2c-4343-8743-a10d420dca53_Mc6wAFqRG.webp
 image_prompt: A Git graph with multiple branches and submodules, showing complex integrations and command-line tools in action.
-banner_image: https://img.recraft.ai/8OxEMj7V7TO3A27iG370a4yQgsuFCeRht4hV8lcwT2w/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/d4f46115-68f4-40d8-823a-983fb4e49a59
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Managing-complex-integrations-through-Git_dad8dfad-cc2e-45e2-ac13-460ba19a7b53_4SalfCFtv.webp
 ---
-
 # Essential Git Commands for Complex Integrations
 
 This guide provides solutions for managing complex Git integrations, particularly in monorepos with multiple submodules. The commands below are essential tools for your workflow.

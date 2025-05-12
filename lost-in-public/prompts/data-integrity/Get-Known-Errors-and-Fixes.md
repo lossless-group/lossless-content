@@ -14,7 +14,12 @@ date_created: 2025-04-16
 date_modified: 2025-04-19
 image_prompt: "A software developer in front of an Under Construction sign"
 site_uuid: 6522d034-9012-4456-81c6-0e2e3ffc6fd1
-tags: Scripts,YAML,Error-Detection,Content-Fixes,Build-Process
+tags: 
+  - Scripts
+  - YAML
+  - Error-Detection
+  - Content-Fixes
+  - Build-Process
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Get-Known-Errors-and-Fixes_2741f5b0-cac0-42b0-97bc-cb89d5ad7229_fK1C_6hWh.webp

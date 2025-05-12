@@ -14,7 +14,10 @@ date_created: 2025-04-16
 date_modified: 2025-04-19
 image_prompt: "A developer meticulously correcting YAML errors one at a time in a code editor, with a progress tracker, error highlights, and a sense of careful, incremental improvement. The scene is orderly, with a focus on accuracy and systematic problem-solving."
 site_uuid: 0f2c53a6-db2c-43a3-8fcc-0b1e3b434abf
-tags: YAML-Validation,Build-Scripts,Data-Integrity
+tags: 
+  - YAML-Validation
+  - Build-Scripts
+  - Data-Integrity
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Merge-Matching-Files-to-Add-YAML_23af1c0b-a7c8-415c-9246-8b81edc5171f_D56dhhOL_.webp

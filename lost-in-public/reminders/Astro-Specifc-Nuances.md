@@ -13,17 +13,22 @@ date_modified: 2025-04-21
 lede: 'Brief description of the reminder functionality and purpose'
 date_authored_current_draft: 2025-04-21
 site_uuid: 03842d81-d318-4483-833e-9292b26c9c8c
-portrait_image: https://img.recraft.ai/cOEqma6RDIOqXpgaF4y7Mx1hy26Q83LeWANEFlYIjnU/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d35fe275-96c9-43be-a1bc-006d32f06444
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Astro-Specifc-Nuances_037b7475-5fe6-4be2-8585-0c2f8f09711c_EywmY5ozr.webp
 image_prompt: ''
 tags: [Astro, Web-Frameworks, Code-Generators]
-authors:
+authors: 
   - Michael Staton
-banner_image: https://img.recraft.ai/bAdSd5Oox6OtuxfSHxtRYzJ5BmqUSYo9t8LlItjK2PA/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/a09a244b-b3bb-4a0c-9d85-5554c3a6608e
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Astro-Specifc-Nuances_45431b20-c669-4f25-ae39-925d80aa2f0b_CZZHD_Rfz.webp
 ---
+This project is in Astro. We are avoiding implementing an additional framework until we absolutely must. 
 
-z
+The list of documentation we have referenced before is in:
+[[lost-in-public/reminders/Read-Relevant-Documentation-before-major-edits.md|Read Relevant Documentation before major edits]]
+
 # Astro does not Use JSX or React by default
 
-Do not use JSX, React syntax when writing components.  They don't work.  
+Do not use JSX or React syntax when writing components.  They break the build and render.
 
-DO NOT USE JSX STYLE COMMENTING IN THE COMPONENTS OUTSIDE OF THE FRONTMATTER. IT CAUSES ERRORS THAT ARE HARD TO DEBUG, ONLY BECAUSE WHY WOULD THERE BE JSX STYLE COMMENTS IN AN HTML COMPONENT?
+DO NOT USE JSX STYLE COMMENTING in components, particulary in the HTML of the component. IT CAUSES ERRORS THAT ARE HARD TO DEBUG, ONLY BECAUSE WHY WOULD THERE BE JSX STYLE COMMENTS IN AN HTML COMPONENT?
+
+TRY TO KEEP JAVASCRIPT IN FRONTMATTER as a matter of convention. 

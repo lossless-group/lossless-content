@@ -15,7 +15,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A technical specification document UI with structured sections, flowcharts, and diagrams. Visuals include checklist icons, architecture sketches, and a collaborative workspace, symbolizing thorough planning and clear documentation."
 site_uuid: 14a124a8-8e61-4123-9a0c-9523adbdc2f4
-tags: AI-Human-Workflow,Documentation,Documentation-First-Development,Best-Practices,Code-Generators,Collaborative-Workflow
+tags: 
   - AI-Human-Workflow
   - Documentation
   - Documentation-First-Development

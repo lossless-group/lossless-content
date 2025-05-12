@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A developer enhancing a file observer tool to fetch and display Open Graph data, with code panels, network activity icons, and browser previews. The scene highlights automation, metadata enrichment, and real-time updates in a technical environment."
 site_uuid: 3a791e02-d25e-4a87-90d7-cefb952cf56c
-tags: Frontmatter-Validation,File-Processing,Build-Scripts,File-Systems,Data-Integrity,Data-APIs
+tags: 
   - Frontmatter-Validation
   - File-Processing
   - Build-Scripts

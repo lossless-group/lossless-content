@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A code utility scanning a directory and returning only Markdown files with valid YAML frontmatter, visualized as a digital checklist, file icons, and highlighted metadata. The mood is efficient, organized, and focused on data quality assurance."
 site_uuid: 8d09aab2-a159-4016-9167-ea0f880c10b9
-tags: Frontmatter-Validation,Error-Handling,File-Processing,Build-Scripts
+tags: 
   - Frontmatter-Validation
   - Error-Handling
   - File-Processing

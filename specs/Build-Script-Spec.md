@@ -14,7 +14,7 @@ publish: false
 date_created: 2025-04-16
 date_modified: 2025-04-16
 site_uuid: f8f59b34-dd5b-4f79-b8a7-74c3fc99a89f
-tags:
+tags: 
   - Build-Scripts
   - YAML
   - Frontmatter
@@ -25,9 +25,9 @@ tags:
 authors:
   - Michael Staton
 image_prompt: "A complex flowchart with interconnected gears and code snippets, representing an automated build process. The background features digital blueprints and progress bars, evoking efficiency and precision in software development."
-banner_image: https://img.recraft.ai/M_7OipNcyj1sf_lMXmj4n6l3p-R6D5N7K8SJjzkl6oE/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/32506eeb-9c0b-4b00-ab76-7201e1edb68e
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Build-Script-Spec_39259b0d-6bed-4157-baf7-53c35deebb35_rr5hYOulP.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Build-Script-Spec_21af46f2-dd20-45e5-86da-c0815542f01e_e1OL2d6mN.webp
 ---
-
 # Build Scripts Architecture Specification
 
 ## 1. Overview

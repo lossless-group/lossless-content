@@ -16,7 +16,7 @@ image_prompt: "A visual representation of a Git squash-merge: two tree branches 
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Write-a-Comprehensive-Squash-Merge_3aa29eed-4fbf-4faf-a123-2387a302ec79_yzln1khf9.webp
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Write-a-Comprehensive-Squash-Merge_c5a78ad6-8e13-480c-ad1c-46d0d6bfd237_YV0093SGZ.webp
 site_uuid: 66af63f5-4d05-4b7d-b8de-829503c04fe8
-tags: Git-Workflow,Tips-and-Tricks,Version-Control,Best-Practices,Continuous-Integration,Documentation,Collaboration-Tools,Collaborative-Workflow
+tags: 
   - Git-Workflow
   - Tips-and-Tricks
   - Version-Control
@@ -25,7 +25,7 @@ tags: Git-Workflow,Tips-and-Tricks,Version-Control,Best-Practices,Continuous-Int
   - Documentation
   - Collaboration-Tools
   - Collaborative-Workflow
-authors: Michael Staton
+authors: 
   - Michael Staton
 ---
 ```javascript

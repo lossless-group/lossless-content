@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A content changelog entry UI with sections for updates, improvements, and editorial notes. Visuals include content cards, timeline markers, and collaborative editing tools, symbolizing organized content history tracking."
 site_uuid: 3b7cba3a-b409-49ec-8a9b-383960e98c33
-tags: Workflow,Changelog-First-Development,Documentation,Version-Control,Content-Management,Content-Automation,Collaboration-Tools,Collaborative-Workflow
+tags: 
   - Workflow
   - Changelog-First-Development
   - Documentation

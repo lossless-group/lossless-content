@@ -1,12 +1,13 @@
 ---
 title: Frontmatter Date Formatting Fix
 lede: Resolving timestamp and quoted date issues in frontmatter
-date_authored_initial_draft: 2025-04-11
-date_authored_current_draft: 2025-04-17
+date_reported: 2025-04-11
+date_resolved: 2025-04-17
 at_semantic_version: 0.0.0.1
-status: Complete
+status: Resolved
+affected_systems: Build-System
 augmented_with: Cascade AI
-category: Date-Formatting-And-Frontmatter-Standardization
+category: Data-Integrity
 tags:
   - Frontmatter-Standardization
   - Yaml-Date-Handling
@@ -17,11 +18,10 @@ date_created: 2025-04-11
 date_modified: 2025-04-17
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Frontmatter--Date-formatting-fix_cfa89bde-fb93-4d72-8e5e-2c9e432ba930_i-aAU8A8C.webp
 image_prompt: "A calendar month view of a calendar has all of the dates crossed out with a red marker. There are new dates written with a green marker, and the format is YYYY-MM-DD."
-banner_image: https://img.recraft.ai/VCUXUVNOaNnP_7ROJT37Fy8BehqqMl3bvNL13YylxSQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/e7b7446c-8ddc-4485-8b57-ae3056cbe1fc
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Frontmatter--Date-formatting-fix_02a86293-b23e-4050-8c70-9b810c839f13_-LeEYfMCR.webp
 ---
-
 # Frontmatter Date Formatting Fix
 
 ## Issue Description

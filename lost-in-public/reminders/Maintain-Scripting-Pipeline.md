@@ -13,13 +13,12 @@ image_prompt: 'A digital assembly line of scripts, each module passing markdown 
 date_created: 2025-03-26
 date_modified: 2025-04-22
 site_uuid: 33265b85-8890-4f38-b0cc-671cbf40fc80
-portrait_image: https://img.recraft.ai/824z8Ouxp0CnYf5NjqC0RiDF1WvDYJrGgIDeqsYh-3s/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/28d82a4a-a9a9-4888-9634-c9867de86576
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Maintain-Scripting-Pipeline_4b24bfc6-5950-4a2e-a34e-637d072df077_MQf15Ciy5.webp
 tags: [Script-Pipeline, Data-Cleaning, Tidy-Data, Markdown-Processing, Node-Scripts]
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/sh37R-xf95ZmcAPgkPrbFpGu8mmnH8SlzGi_Gk6Xmjc/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/a1ded193-a776-4b5b-bb2c-17fe480038ea
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Maintain-Scripting-Pipeline_5a991106-1491-4555-9e46-5f1548a54c84_SRLVoZukD.webp
 ---
-
 # Creating a Modular Script Pipeline
 
 ## Pipeline Structure

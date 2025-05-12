@@ -11,7 +11,7 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 date_created: 2025-04-16
 image_prompt: "A focused developer resolving a single YAML issue in a code editor, with one highlighted error and a checklist of resolved problems. The environment is tidy, with clear visual cues of progress and attention to detail. The mood is methodical, patient, and precise."
 site_uuid: 5ed21282-2914-4f9e-a7af-44ef0a932bf6
-tags: YAML-Validation,Error-Handling,Build-Scripts,URL-Processing
+tags: 
   - YAML-Validation
   - Error-Handling
   - Build-Scripts

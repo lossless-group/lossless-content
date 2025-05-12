@@ -16,11 +16,11 @@ image_prompt: "A zoomed in view of a soccer shoe, the soccer player is kicking t
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Create-a-Dynamic-Footer_0d7ea45a-8074-476f-9120-0377cf99f50a_YDooqaUDz.webp
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Create-a-Dynamic-Footer_b2aa6c30-2cdd-4874-a799-6bae6dc9abbb_m8kEgNnl1.webp
 site_uuid: 2ab7ee71-fb2c-462d-a341-8f83a98f3d20
-tags: User-Interface,UI-Design,Navigation
+tags: 
   - User-Interface
   - UI-Design
   - Navigation
-authors: Michael Staton
+authors: 
   - Michael Staton
 ---
 # Higher-Order Objective

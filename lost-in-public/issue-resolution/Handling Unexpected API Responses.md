@@ -1,13 +1,12 @@
 ---
 title: Handling Unexpected API Responses
 lede: Robust strategies for normalizing and integrating unpredictable API data into observer pipelines and frontmatter logic.
-date_authored_initial_draft: 2025-04-18
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-04-18
+date_resolved: 2025-04-23
 date_last_updated: null
+affected_systems: API-Integration
 at_semantic_version: 0.0.0.1
-status: Draft
+status: To-Draft
 augmented_with: Cascade AI
 category: Api-Response-Normalization
 site_uuid: 89270980-521b-4598-93c7-37e3b67b01d2
@@ -20,9 +19,9 @@ tags:
   - Error-Handling
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-10_portrait_image_Handling-Unexpected-API-Responses_beac308d-b74c-498f-a8c5-075dd3cf9526_rI0RC3iyC.webp
 image_prompt: An API response with unpredictable shapes (strings, arrays, objects) being normalized into a clean, structured frontmatter block.
-banner_image: https://img.recraft.ai/eQQAKm8bsIqL7N-MxgK6Gp6iyo3irE5HGPBc4lGILZk/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/23640490-329b-49b5-b71c-fd27e5924dc0
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-10_banner_image_Handling-Unexpected-API-Responses_65f50891-9eec-4a24-bf71-a34a492a0389_zoR7rClwq.webp
 ---
 
 # Handling Unexpected API Responses

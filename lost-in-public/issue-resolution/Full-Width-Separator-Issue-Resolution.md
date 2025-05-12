@@ -1,16 +1,15 @@
 ---
 title: Full-Width Separator Issue Resolution
 lede: Solving the challenge of creating truly full-viewport-width separators in a constrained layout
-date_authored_initial_draft: 2025-04-12
-date_authored_current_draft: 2025-04-12
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-04-12
+date_resolved: 2025-04-12
 date_last_updated: null
 at_semantic_version: 0.0.1.0
-status: Complete
+affected_systems: Layout-Design
+status: "Resolved"
 authors:
   - Michael Staton
-augmented_with: Winsurf Cascade on Claude 3.5 Sonnet
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Front-End
 date_created: 2025-04-16
 date_modified: 2025-04-16
@@ -22,9 +21,9 @@ tags:
   - Layout
   - Astro
   - Separators
-banner_image: https://img.recraft.ai/V23kPXRD6SMBJDXWlq9y5M7gv--d6YbzqDyiiuuKzs0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/98a84289-3760-46e7-8886-7bedae4e8c60
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Full-Width-Separator-Issue-Resolution_4d208117-2735-419c-a196-39b9703d71cb_TRNXpiIwL.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Full-Width-Separator-Issue-Resolution_2dff6a22-ba8c-407b-b88a-e2f889b61d0a_d3-gcuOSk.webp
 ---
-
 # Full-Width Separator Issue Resolution
 
 ## What We Were Trying to Do and Why

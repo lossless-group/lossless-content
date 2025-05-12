@@ -32,7 +32,7 @@ git submodule add https://github.com/logseq/logseq.git inspiration/logseq
 WikiBonsai has a thoughtful approach, documented here [in their Getting Started](https://github.com/wikibonsai/wikibonsai/blob/main/docs/USE.md).
 
 ### Eleventy
-[[Eleventy]]: 
+[[Tooling/Software Development/Frameworks/Web Frameworks/Eleventy]]: 
 ```bash
 
 ```

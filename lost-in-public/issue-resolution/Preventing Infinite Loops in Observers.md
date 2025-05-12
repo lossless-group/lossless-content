@@ -1,15 +1,14 @@
 ---
 title: Preventing Infinite Loops in Observers
 lede: Strategies and atomic patterns for preventing infinite loops and redundant writes in observers, with robust frontmatter repair and idempotency.
-date_authored_initial_draft: 2025-04-17
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-04-17
+date_resolved: 2025-04-23
 date_last_updated: null
+affected_systems: Filesystem-Observers
 at_semantic_version: 0.0.0.1
-status: Complete
+status: "Resolved"
 augmented_with: Windsurf Cascade on GPT 4.1
-category: Observer-Design-Patterns
+category: Filesystem-Observers
 site_uuid: b1492d56-b0a3-42a9-8a30-030993ab3b2d
 date_created: 2025-04-18
 date_modified: 2025-04-23
@@ -20,11 +19,10 @@ tags:
   - Frontmatter-Repair
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Preventing-Infinite-Loops-in-Observers_62575486-384d-433a-a938-1d931a1a2fdb_vBiC2UymJ.webp
 image_prompt: An observer process surrounded by looping arrows and YAML frontmatter blocks, with a shield icon representing prevention of infinite loops and redundant writes.
-banner_image: https://img.recraft.ai/1r5wrf6nhoI5l5YKP6QDlJ-GRvTC85T7wWilpOqxEiY/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/ff9c83c7-ee2d-4bed-88cd-805f9739453d
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Preventing-Infinite-Loops-in-Observers_f08fe681-f1be-4abb-8d0a-1d56b2439c65_xjhKPkHmP.webp
 ---
-
 **Reference Prompt:** @[content/lost-in-public/prompts/workflow/Write-an-Issue-Resolution-Breadcrumb.md]
 
 # Preventing Infinite Loops in Observers

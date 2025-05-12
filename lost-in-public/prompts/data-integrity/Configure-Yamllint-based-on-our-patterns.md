@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A configuration file open in a code editor, with YAML syntax highlighted and validation checks visible. Visual cues of correct and incorrect patterns, a settings panel, and a focus on structured, well-organized data. The scene conveys clarity, precision, and adherence to coding standards."
 site_uuid: ce3bcb76-a49d-4ec9-961e-f96fd9203fbe
-tags: Data-Integrity
+tags: 
   - Data-Integrity
 authors:
   - Michael Staton

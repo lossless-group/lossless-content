@@ -8,12 +8,9 @@ authors:
   - Michael Staton
 with_writing_assistant: Windsurf on Claude 3.7 Sonnet
 category: Issue Resolution
-tags:
-  - Git
-  - Loosely-Coupled-Architecture
-  - Git-Submodules
+tags: [Git, Loosely-Coupled-Architecture, Git-Submodules]
 date_created: 2025-04-02
-date_modified: 2025-04-02
+date_modified: 2025-05-12
 ---
 
 

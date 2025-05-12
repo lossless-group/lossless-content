@@ -1,15 +1,14 @@
 ---
 title: Broken YAML Key Replacement Workflow
 lede: Documenting a critical workflow bug and its resolution for YAML key replacement in Markdown frontmatter.
-date_authored_initial_draft: 2025-04-21
-date_authored_current_draft: 2025-04-21
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-04-21
+date_resolved: 2025-04-21
 date_last_updated: null
 at_semantic_version: 0.0.0.1
 status: Implemented
 augmented_with: Windsurf Cascade on GPT 4.1
 category: Frontmatter-Automation
+affected_systems: Content-Collections
 tags:
   - Content-Automation
   - Frontmatter-Automation
@@ -19,11 +18,10 @@ date_created: 2025-04-21
 date_modified: 2025-04-21
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Broken-YAML-Key-Replacement-Workflow_d6e750af-63bc-447f-86b6-17a9c6ff5846_jx3E7-t3V.webp
 image_prompt: "Automated script replacing YAML keys in a batch of Markdown files, with before/after code blocks and a green checkmark for success."
-banner_image: https://img.recraft.ai/LRWlfsdfCS8iGTd4aNFB40QvYGWMEmAKd4J-Mo0_UM0/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/29f874e0-8b7d-474c-82b4-b8ec20b57176
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Broken-YAML-Key-Replacement-Workflow_1de5dbca-4493-4955-a601-a3cb57ba5758_jVW3IbXCy.webp
 ---
-
 # What were we trying to do and why
 
 We needed to batch-replace the `banner_image` key with `portrait_image` in the YAML frontmatter of all Markdown files in `content/lost-in-public/prompts/`. This was required to align with updated content conventions and to prevent breakages in downstream processing and rendering.

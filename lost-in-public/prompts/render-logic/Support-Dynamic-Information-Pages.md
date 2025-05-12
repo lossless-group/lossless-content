@@ -13,7 +13,15 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-19
 site_uuid: 6487c56c-2072-4cc6-b6e0-62b7f9929b7a
-tags: Render-Logic,Astro,Component-Architecture,MDX,Content-Collections,Dynamic-Routing,Layout-System,Content-Displays
+tags: 
+  - Render-Logic
+  - Astro
+  - Component-Architecture
+  - MDX
+  - Content-Collections
+  - Dynamic-Routing
+  - Layout-System
+  - Content-Displays
 authors:
   - Michael Staton
 image_prompt: A page of code on the left, a web page on the right.

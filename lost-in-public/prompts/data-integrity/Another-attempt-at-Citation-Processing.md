@@ -17,7 +17,8 @@ tags:
 - Build-Scripts
 - File-Systems
 - Data-Integrity
-authors: null
+authors: 
+- Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Another-attempt-at-Citation-Processing_e49658a1-a2b8-4daf-9e7e-1a8ceec48e4a_MupMOLXm2.webp
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_banner_image_Another-attempt-at-Citation-Processing_33f2119c-2585-48ca-af95-3f96fe4d707d_373yl6OiX.webp
 lede: 'In the tangled web of academic references, a robust citation processing system transforms chaotic footnotes into a harmonized knowledge registry, ensuring every intellectual debt is properly acknowledged and seamlessly tracked.'

@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Create a Variant of an Existing Component
 lede: The component we have is great, but we need a variant of it.
 date_authored_initial_draft: 2025-04-19
@@ -14,12 +14,12 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 site_uuid: d3888762-69d1-40c7-8400-658e354fb85e
 image_prompt: "The Figma component icon, a purple diamond made of four smaller diamonds, on the upper left. Then repeating the icon -- the variant icon, the same diamond shape with no fill, just the outline -- repeating in a grid pattern."
-tags: Render-Logic,Component-based-Architecture,UI-Design
-- Render-Logic
-- Component-based-Architecture
-- UI-Design
+tags: 
+  - Render-Logic
+  - Component-based-Architecture
+  - UI-Design
 authors:
-- Michael Staton
+  - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Create-a-Variant-of-an-Existing-Component_9c032749-0e59-44d7-865e-2a588d60583f_Yn4padeMG.webp
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_banner_image_Create-a-Variant-of-an-Existing-Component_d39333ea-8325-468b-9150-147b2c13ec01_DLX0A_Mrh.webp
 ---
@@ -60,7 +60,7 @@ Instead of it mimicking a "Card" it should resemble a "News Article" preview ren
 
 Instead of having a border with four sides, it should have no border, but may be "separated" by a separator where it is listed.
 
----
+***
 
 ## Prompt: Create a Variant of an Existing Article List Component
 
@@ -133,6 +133,6 @@ Note: we do not want the same styles as the Changelog layout.
 - Mobile and desktop layouts are visually consistent and accessible.
 - No regressions to existing article list components.
 
----
+***
 
 **If you need clarification or have suggestions for improvement, please comment directly in this prompt before implementation.** -->

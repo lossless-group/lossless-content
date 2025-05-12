@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A bold hero section UI with a striking headline, vibrant call-to-action button, and an engaging background image. The design is modern, clean, and visually impactful, drawing attention to the main message in a web interface."
 site_uuid: 598c707d-1f50-4c15-87dd-e5ecaca93afd
-tags: User-Interface,UI-Design,User-Experience,Animations
+tags: 
   - User-Interface
   - UI-Design
   - User-Experience

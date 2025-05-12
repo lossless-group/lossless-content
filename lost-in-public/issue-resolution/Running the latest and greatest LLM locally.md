@@ -1,13 +1,11 @@
 ---
 title: Running the Latest and Greatest LLM Locally
 lede: Step-by-step guide for installing and configuring local LLMs—including Ollama, LiteLLM, Fabric, and Perplexica—for modern AI workflows and toolchains.
-date_authored_initial_draft: 2025-04-18
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-04-18
+date_resolved: 2025-04-23
 date_last_updated: null
 at_semantic_version: 0.0.0.1
-status: In-Progress
+status: "Open"
 augmented_with: Windsurf Cascade on GPT 4.1
 category: Local-LLM
 date_created: 2025-04-18
@@ -19,11 +17,10 @@ tags:
   - Home-Labs
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Running-the-latest-and-greatest-LLM-locally_b333d0ad-a426-4126-b4fc-8f910e904ba4_NrzwH0BoE.webp
 image_prompt: A developer workstation with local AI models, terminal windows, and icons for Ollama, LiteLLM, Fabric, and Perplexica, all connected in a modern workflow diagram.
-banner_image: https://img.recraft.ai/VYoawSuKIlt0zmbQO3_CUuQUA8ldBhxv_qKkTbYS9Rs/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/7eac7677-e96e-415f-9732-072be094ed49
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Running-the-latest-and-greatest-LLM-locally_fcaf7568-f5f3-4301-af51-034848fbfab1_JneCH1LUv.webp
 ---
-
 #### [[MSTY]]
 
 

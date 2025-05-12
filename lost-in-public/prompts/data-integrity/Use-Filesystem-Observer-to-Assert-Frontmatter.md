@@ -13,7 +13,11 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-19
 site_uuid: a1e00d51-a725-44e9-af64-ff4eda718e4b
-tags: Frontmatter-Validation,File-Processing,Build-Scripts,File-Systems
+tags: 
+  - Frontmatter-Validation
+  - File-Processing
+  - Build-Scripts
+  - File-Systems
 authors:
   - Michael Staton
 image_prompt: A pair of binoculars is sitting on top of a set of filing folders.  A file cabinet is off to one side.

@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A digital dashboard or code editor interface showing a global search and replace operation, with highlighted tag strings being updated across multiple files. The scene conveys automation, precision, and data integrity, with visual cues like checkmarks, code snippets, and a unified UI palette."
 site_uuid: 76e80bb8-71f1-4721-9738-808d3392ab2f
-tags: Data-Integrity
+tags: 
   - Data-Integrity
 authors:
   - Michael Staton

@@ -1,13 +1,12 @@
 ---
 title: ReferenceGrid Layout Issue Resolution (CSS vs Tailwind)
 lede: Troubleshooting and resolving the ReferenceGrid component's layout issue—switching from custom CSS/media queries to Tailwind utilities for robust responsive grids.
-date_authored_initial_draft: 2025-04-13
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-04-13
+date_resolved: 2025-04-23
 date_last_updated: null
 at_semantic_version: 0.0.0.1
-status: Complete
+status: "Resolved"
+affected_systems: Layout-Design
 augmented_with: Windsurf Cascade on GPT 4.1
 category: Responsive-Design
 date_created: 2025-04-21
@@ -20,11 +19,10 @@ tags:
   - Astro
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_ReferenceGrid-Layout-Issue_012308ef-e427-43f6-9dec-2a1ec57c021a_j5MSAl4P9.webp
 image_prompt: A responsive grid layout transforming from a single column to multiple columns, with Tailwind CSS utility classes and code overlays, all in a clean, modern UI style.
-banner_image: https://img.recraft.ai/zS32sOcCcetviWuV312kLqd7qErZEPj7qQ92OZr-Dpc/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/f934d8ca-2d51-442b-9a13-8df8010ff538
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_ReferenceGrid-Layout-Issue_a3dcd118-ba64-4a27-910b-bd2bb57a3ce9_C-4wuhrCW.webp
 ---
-
 # Issue Resolution: ReferenceGrid Layout Incorrect on Combined Page
 
 ## 1. What were we trying to do and why?

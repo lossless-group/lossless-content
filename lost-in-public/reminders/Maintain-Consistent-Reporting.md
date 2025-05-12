@@ -13,13 +13,12 @@ image_prompt: 'A digital ledger or dashboard with checklists, report icons, and 
 date_created: 2025-03-26
 date_modified: 2025-04-22
 site_uuid: f6ea2031-866d-457f-a7fe-834ae48ffd72
-portrait_image: https://img.recraft.ai/RDfcxCNG_2wlYv6PaH2qCGUu52XMMK1dA_WBO2dGagU/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/a7698159-0c3a-44cc-86c0-0394b1f9c07e
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Maintain-Consistent-Reporting_d8fef918-51c9-4f0e-8779-0f891e3f422b__E4BgF2-2.webp
 tags: [Workflow, Reporting, Automation, Auditing]
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/TqhCS0PYfblQx6LMz6eX5Ig7Z44oexxfEp2TjfB29iw/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/38432377-9cb8-4325-855b-b4eb8fa96422
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Maintain-Consistent-Reporting_afa93299-0928-4f0d-b7a1-a6da6737da7a_ml6m7rcNa.webp
 ---
-
 # Reports always always ALWAYS ALWAYS go in the following directory:
 `content/reports/`
 

@@ -1,15 +1,14 @@
 ---
 title: Rendering AST Through a Thoughtful Transformation Pipeline
 lede: Achieving robust component-based markdown rendering by optimizing the AST transformation pipeline, fixing blockquote/callout handling, and leveraging the unified ecosystem for efficiency.
-date_authored_initial_draft: 2025-04-03
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-04-03
+date_resolved: 2025-04-23
 date_last_updated: null
 at_semantic_version: 0.0.0.1
-status: Complete
+status: "Resolved"
+affected_systems: Markdown-Rendering
 augmented_with: Windsurf Cascade on GPT 4.1
-category: AST-Transformation-Patterns
+category: AST-Transformation
 date_created: 2025-04-03
 date_modified: 2025-04-23
 site_uuid: 06ca83ca-9f48-4d03-9912-019fcc5e31eb
@@ -20,11 +19,10 @@ tags:
   - Unified-Ecosystem
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Rendering-AST_2a246945-a8c7-44b4-89be-e4e3d49c4eff_STa0FWbc0.webp
 image_prompt: An abstract visualization of a markdown AST being transformed into a tree of UI components, with arrows showing the flow from markdown to rendered output, in a modern, technical style.
-banner_image: https://img.recraft.ai/0sFLu5ehf3wNfnt1ZeWgoYbq7uJPg3c8fsa5hMTvOk8/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/91d2411b-cd2b-4841-8d87-2b53590bb140
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Rendering-AST_716d334b-0754-4b4c-b083-ec008a26c086_-bo7jHRuH.webp
 ---
-
 The parsedAst is successfully getting a blockquote, but it does not successfully understand that the `> ` after new lines that the callout is continued.
 
 parsedAst can't handle tables inside callouts:

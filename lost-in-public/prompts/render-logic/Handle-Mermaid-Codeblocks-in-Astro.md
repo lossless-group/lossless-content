@@ -13,7 +13,7 @@ augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
 category: Prompts
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_banner_image_Handle-Mermaid-Codeblocks-in-Astro_b23634f5-202d-4014-8c5b-28c4e04b7512_nYIkwXLbq.webp
 site_uuid: 04660f3b-4f31-447b-a6b2-6c33add54338
-tags: Render-Logic,Extended-Markdown,Visual-Engineering,Diagramming
+tags: 
   - Render-Logic
   - Extended-Markdown
   - Visual-Engineering

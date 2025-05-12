@@ -14,7 +14,7 @@ category: Specification
 date_created: 2025-04-16
 date_modified: 2025-04-16
 site_uuid: a08aa44e-a513-475a-a1dd-edfcd7752127
-tags:
+tags: 
   - Scripts
   - YAML
   - Data-Integrity
@@ -22,9 +22,9 @@ tags:
 authors:
   - Michael Staton
 image_prompt: "A tidy workspace with neatly organized folders and checklists, each item being ticked off one by one. The visual theme is clarity and order, symbolizing systematic correction of individual YAML issues."
-banner_image: https://img.recraft.ai/5qpL62FRAEB39yDSbblBdzOLRLd-vju0LR3gT4Oh61Q/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/d773e025-363c-41ff-8ccc-b7b2dcb55399
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Clean-Specific-Issues-in-YAML-One-at-a-Time_9a922cb6-ddc2-487e-aa83-d1507a2715ee_39_ECkA0a.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Clean-Specific-Issues-in-YAML-One-at-a-Time_8b9d8cf9-1a39-4e56-b854-a865e1ee9e51_Hbm9XJhAv.webp
 ---
-
 ## Executive Summary
 
 The YAML cleanup scripts (`convertMultiLineStringsToSingleLineStrings.cjs` and `convertKeyNamesInYAML.cjs`) are essential components of our content management pipeline. They address specific YAML frontmatter issues that could impact site generation, content organization, and maintainability.

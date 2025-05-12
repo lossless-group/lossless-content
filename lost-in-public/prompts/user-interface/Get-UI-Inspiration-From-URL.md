@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A UI inspiration dashboard that pulls visual ideas from various URLs, displaying a mosaic of website screenshots, color palettes, and design notes. The interface is creative, exploratory, and visually rich."
 site_uuid: 81ed24b3-1810-489d-90d3-7539e85f4f52
-tags: User-Interface,UI-Design,Design-Inspiration,Web-Design,Component-Analysis
+tags:
   - User-Interface
   - UI-Design
   - Design-Inspiration

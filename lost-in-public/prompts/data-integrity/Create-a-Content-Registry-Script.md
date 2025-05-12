@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "An immigration officer at a Passport Control station in an Airport receives a line of personified, walking files. They wait in line with a passport to be stamped. Visual elements include code, folder icons, and a sense of systematic order and automation. The mood is orderly, efficient, and comical."
 site_uuid: 1105cad0-cfe6-4c04-a5d5-66746971fa95
-tags: Content-Registry,File-Management,Data-Tracking,UUID-Management
+tags: 
   - Content-Registry
   - File-Management
   - Data-Tracking

@@ -1,16 +1,14 @@
 ---
 title: Prompt Rendering Pipeline Issue Resolution
 lede: Fixing content rendering issues in the dynamic prompt pages
-category: Issue-Resolution
-date_authored_initial_draft: 2025-04-14
-date_authored_current_draft: 2025-04-14
-date_authored_final_draft: null
-date_first_published: null
+category: Content-Collections
+date_reported: 2025-04-14
+date_resolved: 2025-04-14
 date_last_updated: null
 at_semantic_version: 0.0.0.1
-status: Implemented
+status: "Resolved"
+affected_systems: Content-Collections
 augmented_with: Windsurf Cascade on GPT 4.1
-category: Issue-Resolution
 date_created: 2025-04-14
 site_uuid: abbcbc82-5730-41c9-8eb2-aac50dab9da3
 tags:
@@ -19,10 +17,9 @@ tags:
   - Rendering-Pipeline
 authors:
   - Michael Staton
-augmented_with: Windsurf Cascade on GPT 4.1
-banner_image: https://img.recraft.ai/tOLmajaaY85v0nlgvCDXK7XkHL4zyhlgLj2IXT1AWOU/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/39e9e099-a622-42cb-ab10-a3240a5e606b
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Prompt-Rendering-Pipeline-Issue_3c3bb46b-3afb-4d32-9f44-2f846682aea6_6AptzWyHf.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Prompt-Rendering-Pipeline-Issue_11a96132-38fb-4a06-b2d1-80a7bc716eef_6xnYhjOoc.webp
 ---
-
 # Prompt Rendering Pipeline Issue Resolution
 
 ## What we were trying to do and why

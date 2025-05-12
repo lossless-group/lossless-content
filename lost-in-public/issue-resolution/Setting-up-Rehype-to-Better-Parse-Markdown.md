@@ -1,15 +1,14 @@
 ---
 title: Setting up Rehype to Better Parse Markdown
 lede: Implementing a custom unified pipeline with remark and rehype for Astro Flavored Markdown, solving file reference and plugin integration issues.
-date_authored_initial_draft: 2025-03-30
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-03-30
+date_resolved: 2025-04-23
 date_last_updated: null
 at_semantic_version: 0.0.0.1
-status: Complete
+status: "Resolved"
+affected_systems: Markdown-Rendering
 augmented_with: Windsurf Cascade on GPT 4.1
-category: Markdown-Parsing-Patterns
+category: Markdown-Parsing
 date_created: 2025-03-30
 date_modified: 2025-04-23
 site_uuid: ead8b239-ff5e-4df9-b9a7-70eadf44263a
@@ -21,11 +20,10 @@ tags:
   - TypeScript
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Setting-up-Rehype-to-Better-Parse-Markdown_178e47ac-e930-4acc-960e-84ddef36ec7a_HQIJ--Ack.webp
 image_prompt: A code pipeline diagram showing markdown flowing through remark and rehype plugins, with Astro and TypeScript icons, in a clean, modern style.
-banner_image: https://img.recraft.ai/GcR0Wncyi2Gyo8bS5IesC9F8BiYc3uGfD5WmAEqR7NA/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/ef5068ea-c328-4aa6-92b4-317aaf9f803a
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Setting-up-Rehype-to-Better-Parse-Markdown_11ef1788-a0e6-424a-b30d-4608c053f04a_UKTl6w0oU.webp
 ---
-
 # Setting up Rehype to Better Parse Markdown
 
 ## What We Were Trying to Do

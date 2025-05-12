@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A minimalist text editor UI for writing raw git commit messages, with syntax highlighting, commit history, and version control icons. Visuals include branching diagrams and a focus on concise, meaningful text."
 site_uuid: 9c3f5c58-d83e-4842-9531-2f17ea47fd85
-tags: Prompt-Engineering,Code-Generators,Code-Assistants,Version-Control,Context-Windows,Transparent-Organizations,State-of-The-Art-Practices,Continuous-Integration,Collaboration-Tools,Collaborative-Workflow
+tags: 
   - Prompt-Engineering
   - Code-Generators
   - Code-Assistants

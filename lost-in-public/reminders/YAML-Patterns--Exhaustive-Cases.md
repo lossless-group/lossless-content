@@ -13,13 +13,12 @@ image_prompt: A robot at a giant clipboard, checking off a massive list of YAML 
 date_created: 2025-03-24
 date_modified: 2025-04-25
 site_uuid: 1988ee9d-a35a-4540-9a23-9f8bc39995c0
-portrait_image: https://img.recraft.ai/78dIIjG98eqqgmnDd22Hp_4wnoFYDCmx9DCglNKOylE/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/bc94784a-de70-4ec7-86f8-96fc4b33d717
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_YAML-Patterns--Exhaustive-Cases_ae6cb1cd-6192-4f37-9f92-148cd6b241bc_aeCfb6Gza.webp
 tags: [Workflow, YAML-Handling, YAML-Conventions, Bug-Prevention, Filesystem-Observers]
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/ah7upfY9apXMhHLVhPEAYBXFDJPvUFSHW97pk_ab9kw/rs:fit:1024:2048:0/raw:1/plain/abs://external/images/1cd7454f-2c04-42d8-b8c4-a933b5672d17
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_YAML-Patterns--Exhaustive-Cases_bd7bb3ee-cfe7-476e-b078-3b6a4c8bcfb8_uqwepesN4.webp
 ---
-
 # YAML Patterns for Data Integrity
 
 This document provides guidelines for maintaining data integrity in YAML frontmatter within markdown files. Following these patterns helps ensure consistent parsing, prevents errors, and enables automation tools to process your content correctly.

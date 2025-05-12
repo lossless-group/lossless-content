@@ -12,9 +12,9 @@ status: Draft
 augmented_with: Windsurf Cascade on GPT 4.1
 category: Technical Specifications
 date_created: 2025-04-24
-date_modified: 2025-04-24  
-image_prompt: ""
-tags:
+date_modified: 2025-04-24
+image_prompt: "A man with glasses is reviewing a large, oversized Report on his desk.  The view is from above his right shoulder, with the Report spread out in front of him. There are all kinds of bugs crawling out from the report"
+tags: 
   - Render-Logic
   - Astro
   - Markdown-Enhancement
@@ -22,4 +22,6 @@ tags:
   - Content-Display
 authors:
   - Michael Staton
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Maintain-a-Robust-AST-Debugging-Report_01e6fc6d-87e9-409e-aa08-07ae1f46ee58_upbqsZ5Z1.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Maintain-a-Robust-AST-Debugging-Report_251afaec-ae11-45d9-86be-2e159418af02_KHXJPfNLy.webp
 ---

@@ -1,31 +1,30 @@
 ---
 title: Troubleshooting Rendering Citations
 lede: Resolving issues with citation rendering in Markdown pipelines—strategies for AST transformation, plugin fallback, and robust user experience in Astro/Remark environments.
-date_authored_initial_draft: 2025-04-16
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-04-16
+date_resolved: 2025-04-23
 date_last_updated: null
 at_semantic_version: 0.0.0.1
-status: Complete
+affects_systems: Markdown-Rendering
+status: "Outstanding"
 augmented_with: Windsurf Cascade on Claude Sonnet 3.7
-category: Citation-Rendering-Patterns
+category: Extended-Markdown
 date_created: 2025-04-16
 date_modified: 2025-04-23
 site_uuid: c35c1d5d-53da-4ec0-805a-34bc32b56bd6
 tags:
   - Citation-Rendering
-  - Markdown-Pipeline
+  - Markdown-Rendering
+  - Extended-Markdown
   - Remark
   - Astro
   - AST-Transformation
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Troubleshooting-Rendering-Citations_b7b8d92b-48c7-4c54-b4a6-d62b76ca76e5_ThU2D-qt8.webp
 image_prompt: Markdown document with citation superscripts, footnotes, and AST nodes, visualized in a modern code pipeline style.
-banner_image: https://img.recraft.ai/ba_y4Bj6MsWcyOiIq-ukdRIzWctcVZyPMXvTYymIlBo/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/e703f3d7-0a3c-40ec-b041-0b202c9029aa
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Troubleshooting-Rendering-Citations_6b596573-95f9-4e2f-95e1-bff37df22b5c_ZXE5y_WNJ.webp
 ---
-
 # Issue Resolution Breadcrumb: Citations Section Not Rendering Separately After Syntax Change
 
 ## 1. What were we trying to do and why?

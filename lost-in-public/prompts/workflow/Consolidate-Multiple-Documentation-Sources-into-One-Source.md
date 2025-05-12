@@ -16,14 +16,14 @@ image_prompt: "Several documents are at the top of the image, curved arrows poin
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Consolidate-Multiple-Documentation-Sources-into-One-Source_d3f01ba3-bfa8-46b7-b7b8-5c1527a3e7eb_Ury0YwMnS.webp
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Consolidate-Multiple-Documentation-Sources-into-One-Source_9d08e56a-eabe-4057-8fd6-d7a2dbb5a6e4_NsstCuoBh.webp
 site_uuid: d9010dba-0d07-4269-bcbb-e55b5cc9334e
-tags: Workflow,Prompt-Engineering,Documentation,Best-Practices,Content-Refactoring,Content-Automation
+tags: 
   - Workflow
   - Prompt-Engineering
   - Documentation
   - Best-Practices
   - Content-Refactoring
   - Content-Automation
-authors: Michael Staton
+authors: 
   - Michael Staton
 ---
 # Role

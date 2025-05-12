@@ -23,8 +23,10 @@ Part of the infinite loop I have been in is that Astro and Obsidian treat markdo
 ## Focal Points:
 
 ### Vibe Coding & AI Use
+Reminders: `lost-in-public/reminders`
 Prompts: `lost-in-public/prompts`
 Specifications: `specs`
+Issue Resolutions: `lost-in-public/issue-resolution`
 RAG Input: `lost-in-public/rag-input`
 
 ### Changelogs

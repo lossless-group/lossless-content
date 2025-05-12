@@ -14,7 +14,8 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A vocabulary collection UI using modular prior components, with interactive word cards, search and filter options, and a visually organized grid. The design is modern, educational, and user-friendly."
 site_uuid: f27e393a-84d1-4bb3-b1ee-6ded41c3983b
-tags: User-Interface,Component-Architecture,Content-Collections,UI-Design,Astro,Rendering-Pipeline
+tags: 
+  - Rendering-Pipeline
   - User-Interface
   - Component-Architecture
   - Content-Collections

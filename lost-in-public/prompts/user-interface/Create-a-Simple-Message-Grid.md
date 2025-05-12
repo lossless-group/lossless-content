@@ -16,7 +16,7 @@ augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Create-a-Simple-Message-Grid_541652dd-50b5-4522-86e5-04ffe9b68a52_34CdnKIrn.webp
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Create-a-Simple-Message-Grid_1f92027d-e9e5-4256-a99b-56b2bfd7439c_CBXo9P_B3.webp
 site_uuid: 10d162f1-4fb5-4f83-bad1-8cb5f61b1362
-tags: User-Interface,Component-Architecture,CSS,Responsive-Design,UI-Design,Astro,Rendering-Pipeline
+tags: 
   - User-Interface
   - Component-Architecture
   - CSS
@@ -24,7 +24,7 @@ tags: User-Interface,Component-Architecture,CSS,Responsive-Design,UI-Design,Astr
   - UI-Design
   - Astro
   - Rendering-Pipeline
-authors: Michael Staton
+authors: 
   - Michael Staton
 ---
 # Goal  

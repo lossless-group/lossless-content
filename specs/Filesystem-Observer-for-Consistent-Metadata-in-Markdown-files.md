@@ -10,16 +10,16 @@ at_semantic_version: 0.0.2.5
 generated_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Technical-Specification
 date_created: 2025-04-16
-date_modified: 2025-04-25
+date_modified: 2025-05-05
 status: In-Progress
 site_uuid: a065f528-1a6e-4e05-93e6-e72f00c7364b
 tags: [Frontmatter-Consistency, Data-Integrity, Metadata-Consistency, Content-Integrity, Content-Automation, Filesystem-Observers]
 authors:
   - Michael Staton
 image_prompt: A robotic eye scanning folders and files, overlaying metadata tags and consistency checks. The visual is futuristic, emphasizing vigilance and automated oversight.
-banner_image: https://img.recraft.ai/A1bjY-BDZAn8v0q1M6t3Bum-SR9s2xlPli-Hm2xI_dg/rs:fit:1024:1820:0/raw:1/plain/abs://external/images/74bebcac-ae77-4669-9453-1ac84bf9f42a
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Filesystem-Observer-for-Consistent-Metadata-in-Markdown-files_356c94c5-2315-4e14-8662-6566f2acd4d6_QDS5r0uh1.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Filesystem-Observer-for-Consistent-Metadata-in-Markdown-files_b9aa2e74-677f-400e-b8b0-546e48ea6e6c_XJ6A0WALQ.webp
 ---
-
 # Context
 
 ## Objective:
@@ -180,6 +180,7 @@ graph TD
     W -->|Essays| W1[EssaysWatcher]
     W -->|Vocabulary| W2[VocabularyWatcher]
     W -->|Reminders| W3[RemindersWatcher]
+    W -->|Tooling| W4[ToolingWatcher]
     
     subgraph "Property Collector Pattern"
         C -->|Initialize| PC[Property Collector]
@@ -192,14 +193,218 @@ graph TD
     W1 -->|Has own| PC1[Property Collector]
     W2 -->|Has own| PC2[Property Collector]
     W3 -->|Has own| PC3[Property Collector]
+    W4 -->|Has own| PC4[Property Collector]
     
     WF -->|Mark file as| MP[Processed in this session]
     MP -->|Add to| P
     
     B -->|Log activity| RP[ReportingService]
     RP -->|Generate| RR[Markdown Reports]
-
 ```
+
+### Template-Driven Watcher Architecture
+
+The latest evolution of our observer system introduces a modular, template-driven architecture centered around specialized watchers for different content types. This approach addresses several key challenges:
+
+1. **Separation of Concerns**: Each content type has its own dedicated watcher class
+2. **Maintainability**: Issues in one watcher don't affect others
+3. **Extensibility**: New content types can be added without modifying core code
+4. **Testability**: Each component can be tested in isolation
+
+```mermaid
+graph TD
+    FSO[FileSystemObserver] -->|Orchestrates| TR[TemplateRegistry]
+    FSO -->|Delegates to| TW[ToolingWatcher]
+    FSO -->|Delegates to| VW[VocabularyWatcher]
+    FSO -->|Delegates to| RW[RemindersWatcher]
+    
+    TR -->|Provides templates to| TW
+    TR -->|Provides templates to| VW
+    TR -->|Provides templates to| RW
+    
+    TW -->|Uses| OGS[OpenGraphService]
+    TW -->|Reports to| RS[ReportingService]
+    VW -->|Reports to| RS
+    RW -->|Reports to| RS
+    
+    TT[Tooling Template] -->|Registered with| TR
+    VT[Vocabulary Template] -->|Registered with| TR
+    RT[Reminders Template] -->|Registered with| TR
+    
+    subgraph "Common Utilities"
+        CU[CommonUtils]
+        YF[YamlFrontmatter]
+    end
+    
+    TW -->|Uses| CU
+    TW -->|Uses| YF
+    VW -->|Uses| CU
+    VW -->|Uses| YF
+    RW -->|Uses| CU
+    RW -->|Uses| YF
+```
+
+#### ToolingWatcher Implementation
+
+The `ToolingWatcher` class exemplifies our new approach:
+
+```typescript
+// File: /tidyverse/observers/watchers/toolkitWatcher.ts
+export class ToolingWatcher {
+  private watcher: chokidar.FSWatcher | null = null;
+  private toolingCollectionPath: string;
+  private reportingService: ReportingService;
+  private templateRegistry: TemplateRegistry;
+  
+  constructor(
+    specificWatchPath: string,
+    reportingService: ReportingService,
+    templateRegistry: TemplateRegistry
+  ) {
+    this.toolingCollectionPath = specificWatchPath;
+    this.reportingService = reportingService;
+    this.templateRegistry = templateRegistry;
+  }
+  
+  public start(): void {
+    // Initialize chokidar watcher for the specific path
+    // Set up event handlers for file changes
+  }
+  
+  public stop(): void {
+    // Clean shutdown of watcher
+  }
+  
+  private async processFile(filePath: string, eventType: 'add' | 'change'): Promise<void> {
+    // 1. Read file and extract frontmatter
+    // 2. Find matching template from registry
+    // 3. Validate frontmatter against template
+    // 4. Collect necessary changes in propertyCollector
+    // 5. Write changes to file only if needed
+    // 6. Report success/failure to ReportingService
+  }
+}
+```
+
+#### Template Registry Service
+
+The `TemplateRegistry` service centralizes template management:
+
+```typescript
+// File: /tidyverse/observers/services/templateRegistry.ts
+export class TemplateRegistry {
+  private templates: Map<string, MetadataTemplate>;
+  
+  constructor() {
+    this.templates = new Map<string, MetadataTemplate>();
+    
+    // Register built-in templates
+    this.registerTemplate(toolingTemplate);
+    this.registerTemplate(vocabularyTemplate);
+    this.registerTemplate(promptsTemplate);
+    this.registerTemplate(specificationsTemplate);
+  }
+  
+  registerTemplate(template: MetadataTemplate): void {
+    this.templates.set(template.id, template);
+  }
+  
+  findTemplate(filePath: string): MetadataTemplate | null {
+    // Match file path to appropriate template
+    // Return matching template or null
+  }
+  
+  generateDefaults(template: MetadataTemplate, filePath: string): Record<string, any> {
+    // Generate default values for required fields based on template
+  }
+}
+```
+
+#### Template Definition
+
+Templates define the structure and validation rules for each content type:
+
+```typescript
+// File: /tidyverse/observers/templates/tooling.ts
+import { MetadataTemplate } from '../types/template';
+import { generateUUID, getCurrentDate } from '../utils/commonUtils';
+
+const toolingTemplate: MetadataTemplate = {
+  id: 'tooling',
+  name: 'Tooling Collection',
+  version: '1.0.0',
+  appliesTo: {
+    directories: ['content/tooling/**/*']
+  },
+  required: {
+    site_uuid: {
+      type: 'string',
+      defaultValueFn: () => generateUUID(),
+      inspectFn: requiredStringInspector('site_uuid')
+    },
+    tags: {
+      type: 'array',
+      defaultValueFn: (filePath) => generateTagsFromPath(filePath),
+      inspectFn: arrayInspector('tags')
+    },
+    date_created: {
+      type: 'date',
+      defaultValueFn: () => getCurrentDate(),
+      inspectFn: dateInspector('date_created')
+    },
+    date_modified: {
+      type: 'date',
+      defaultValueFn: () => getCurrentDate(),
+      inspectFn: dateInspector('date_modified')
+    }
+  },
+  optional: {
+    url: {
+      type: 'string',
+      inspectFn: urlInspector('url', true)
+    },
+    favicon: {
+      type: 'string',
+      inspectFn: optionalStringInspector('favicon')
+    },
+    // Additional optional fields...
+  }
+};
+
+export default toolingTemplate;
+```
+
+#### Field Validation
+
+Specialized inspector functions validate different field types:
+
+```typescript
+// Example validation functions from tooling.ts
+function urlInspector(fieldName: string, allowEmpty: boolean = false): (value: any) => { 
+  status: InspectorStatus; 
+  message: string 
+} {
+  return (value: any) => {
+    if (typeof value === 'undefined') {
+      return allowEmpty ? 
+        { status: "ok", message: `${fieldName} is missing (optional and empty allowed)`} : 
+        { status: "missing", message: `${fieldName} is missing` };
+    }
+    if (typeof value !== 'string') return { status: "malformed", message: `${fieldName} is not a string` };
+    
+    // Clean the value by removing quotes
+    const cleanedValue = value.replace(/^['"']|['"']$/g, '');
+    
+    if (!allowEmpty && cleanedValue.trim() === '') 
+      return { status: "empty", message: `${fieldName} is empty` };
+      
+    if (cleanedValue.trim() !== '' && !cleanedValue.startsWith('http')) 
+      return { status: "malformed", message: `${fieldName} does not start with http(s)://` };
+      
+    return { status: "ok", message: `${fieldName} is a valid URL` };
+  };
+}
+````
 
 ## 3. Reporting: The Heart of Trust
 

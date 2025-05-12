@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-05-04
 image_prompt: "A local LLM running on a developer workstation, generating structured prompt metadata. Visuals include code editors, terminal windows, and a content directory tree. The mood is technical, efficient, and focused."
 site_uuid: 8b7c7e7e-0d09-4b78-9c8c-0c9e2d7c2e7a
-tags: Workflow,Local-LLMs,Generative-AI,Metadata-Generation,Content-Automation
+tags:
   - Workflow
   - Local-LLMs
   - Generative-AI

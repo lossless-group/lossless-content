@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A dynamic display of floating tags, with a tidy tag column on the left, listing tags in a sorted order."
 site_uuid: 394a6a08-3589-4b9d-af05-ad7bea37be30
-tags: User-Interface,Content-Models,Content-Sorting,UI-Design
+tags:
   - User-Interface
   - Content-Models
   - Content-Sorting

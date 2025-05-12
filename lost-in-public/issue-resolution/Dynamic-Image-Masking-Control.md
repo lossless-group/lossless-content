@@ -1,19 +1,17 @@
 ---
 title: Dynamic Image Masking Control in FeatureSideImage Component
 lede: Implementing flexible image masking with configurable dimensions via JSON data
-date: 2025-04-24
-date_authored_initial_draft: 2025-04-24
-date_authored_current_draft: 2025-04-24
-date_authored_final_draft: 2025-04-24
-date_first_published: 2025-04-24
+date_reported: 2025-04-24
+date_resolved: 2025-04-24
 date_last_updated: 2025-04-24
-at_semantic_version: 0.0.0.1
-status: Completed
-augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
-working_with: Windsurf IDE with Claude 3.5
-category: Issue Resolution
+affected_systems: Content-Rendering
 date_created: 2025-04-24
 date_modified: 2025-04-24
+at_semantic_version: 0.0.0.1
+status: "Resolved"
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+working_with: Windsurf IDE with Claude 3.5
+category: Content-Rendering
 tags:
   - Astro
   - CSS
@@ -22,8 +20,9 @@ tags:
   - Component-Design
 authors:
   - Michael Staton
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Dynamic-Image-Masking-Control_d70c8076-7ab9-4310-b5e9-a794c0e72faf_MzT6N529G.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Dynamic-Image-Masking-Control_16cd1fb5-b0cc-4bca-ab8b-fe5123ec0f17_hoS8XDRSr.webp
 ---
-
 # Dynamic Image Masking Control in FeatureSideImage Component
 
 ## What We Were Trying to Do and Why

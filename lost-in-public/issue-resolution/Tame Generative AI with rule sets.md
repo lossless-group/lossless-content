@@ -1,12 +1,13 @@
 ---
 title: Tame Generative AI with Rule Sets
 lede: Canonical rules and technical conventions for controlling, documenting, and collaborating with code-generating LLMs in complex TypeScript/Astro projects.
-date_authored_initial_draft: 2025-03-17
-date_authored_current_draft: 2025-04-23
+date_reported: 2025-03-17
+date_resolved: 2025-04-23
 at_semantic_version: 0.0.0.1
-status: Complete
-augmented_with: Cascade AI
-category: LLM-Governance-Patterns
+status: "Resolved"
+affected_systems: Code-Generators
+augmented_with: Cascade on Claude 3.7 Sonnet
+category: LLM-Governance
 date_created: 2025-03-17
 date_modified: 2025-04-23
 site_uuid: 94e917af-2f46-498c-ae51-bc2111d4ec04
@@ -17,11 +18,10 @@ tags:
   - AI-Collaboration
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Tame-Generative-AI-with-rule-sets_0faa237a-b19e-40ee-b2c6-db0669e6eaa1_nRWW0vSmn.webp
 image_prompt: Developer workspace with AI code assistant, rulebooks, and TypeScript/Astro icons, all interconnected in a modern, organized layout.
-banner_image: https://img.recraft.ai/azLPVBCDqaBdTSbfnlmxycMfZovA-PeBurnCKSYQdnk/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/04ae16b8-2dfc-4a33-88b3-92d76b1e009b
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Tame-Generative-AI-with-rule-sets_137346e8-693d-4438-b341-52652118512e_wxnuVfPoi.webp
 ---
-
 # Stack, Libraries, Dependencies
 
 #### Preliminaries

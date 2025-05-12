@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A website has embedded videos, embedded pdfs, embdded artwork, all representing different types and use cases for iFrames."
 site_uuid: 51c1d36b-0897-4381-b24c-001d5455b59f
-tags: Render-Logic,Astro,Custom-Rendering,Content-Display,Extended-Markdown
+tags: 
   - Render-Logic
   - Astro
   - Custom-Rendering

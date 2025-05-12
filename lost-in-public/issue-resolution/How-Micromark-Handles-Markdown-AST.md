@@ -1,13 +1,12 @@
 ---
 title: How Micromark Handles Markdown and the AST
 lede: A deep dive into how Micromark tokenizes Markdown and how the AST is built by higher-level utilities in the remark/unified ecosystem.
-date_authored_initial_draft: 2025-04-18
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-04-18
+date_resolved: 2025-04-23
 date_last_updated: null
+affected_systems: Markdown-Rendering
 at_semantic_version: 0.0.0.1
-status: Complete
+status: Resolved
 augmented_with: Cascade AI
 category: Markdown-Parsing
 site_uuid: be6c6a53-45cc-4390-b701-26d96c751916
@@ -20,9 +19,9 @@ tags:
   - Unified-Ecosystem
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-10_portrait_image_How-Micromark-Handles-Markdown-AST_81bef1e5-b166-49f1-9439-7118dbad12db_G0OpoFsJL.webp
 image_prompt: Micromark gears emitting a stream of tokens, transforming into an abstract syntax tree (AST) by higher-level utilities, with visual separation between token stream and AST.
-banner_image: https://img.recraft.ai/xBn1_weMLgVgEYSMLNY5BVhOzOUCjR7ICwMDLmo-lto/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/39a41ade-ffa1-42f8-8146-4186f8b549fe
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-10_banner_image_How-Micromark-Handles-Markdown-AST_d195657c-9822-47a2-8473-1b083cd4ab56_uOqyd6GEF.webp
 ---
 
 # How Micromark Handles Markdown and the AST: The Ultimate Deep Dive

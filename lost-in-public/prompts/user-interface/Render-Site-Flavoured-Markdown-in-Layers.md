@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A layered markdown rendering UI, with site-specific styles applied to each layer. Visual elements include tabs for different views, highlighted markdown syntax, and a modern, multi-layered interface."
 site_uuid: 81081479-0cc8-4af6-a581-1d28ed9a690b
-tags: User-Interface,Component-Architecture,Content-Collections,Extended-Markdown,Rendering-Pipeline
+tags:
   - User-Interface
   - Component-Architecture
   - Content-Collections

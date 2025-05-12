@@ -1,13 +1,12 @@
 ---
 title: Write Git Commit Messages with Your Favorite Editor
 lede: How to configure Git to use your preferred editor (like Neovim) for writing multi-line commit messages, plus tips for advanced commit workflows.
-date_authored_initial_draft: 2025-03-20
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-03-20
+date_resolved: 2025-04-23
 date_last_updated: null
 at_semantic_version: 0.0.0.1
-status: Complete
+status: "Resolved"
+affects_systems: Continuous-Integration
 augmented_with: Warp on Claude Sonnet 3.7
 category: Continuous-Integration
 date_created: 2025-03-20
@@ -19,11 +18,10 @@ tags:
   - Developer-Experience
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Write-git-commit-messages-with-your-favorite-editor_c751e467-56a7-4abc-a9ee-0ee63783d876_dfRuaVvVD.webp
 image_prompt: Terminal window with Git commit message in Neovim, multi-line editing, and configuration icons, in a modern developer setup.
-banner_image: https://img.recraft.ai/jCcGkzD26XD80cTUDggV9G3ZVYBnbaOnoF1o32WsS1I/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/09b704c7-4f5a-4466-9d7b-31b50b7a02d3
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Write-git-commit-messages-with-your-favorite-editor_e2e47810-9b95-451d-925f-b6d047f446d1_ynpchTDln.webp
 ---
-
 I hate it when I want to add a long message to a git commit and git launches nano.  I just never picked it up. Avoided even having to think about it, really. 
 
 I also never pondered that I could change the default editor for commit messages. That is, until I realized my [[concepts/Explainers for AI/AI Terminal Assistant|AI Terminal Assistant]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Warp|Warp]] is not just helpful but really really wise (and patient) and the hardcore command line skills that most wanna be app developers, me included, never bother to become hyperfluent in.  

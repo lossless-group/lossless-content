@@ -1,13 +1,12 @@
 ---
 title: Obsidian Stuck in Regex Memory Hang
 lede: Diagnosing and resolving a persistent regex-induced freeze in Obsidian, including hidden file investigation and advanced directory tree commands.
-date_authored_initial_draft: 2025-03-21
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-03-21
+date_resolved: 2025-04-23
 date_last_updated: null
 at_semantic_version: 0.0.0.1
-status: Complete
+affected_systems: Content-Management
+status: Resolved
 augmented_with: GPT 4.1
 category: Obsidian-Troubleshooting
 site_uuid: ced41942-6cac-4627-b32b-2d0a15fe4e7b
@@ -20,11 +19,10 @@ tags:
   - Hidden-Files
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Obsidian-stuck-in-Regex-memory-hang_d9987843-2547-4c6a-9a13-48e736722756_nAg1KFslI.webp
 image_prompt: An Obsidian vault frozen with a looping regex pattern, surrounded by hidden files and directory trees, visualizing a memory hang.
-banner_image: https://img.recraft.ai/8ERRrVo6jOu4i1V0hazN9Z_us7TlEwW6o-MMozPFkHQ/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/bc9ab224-7106-4c27-b930-81e205a3dc91
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Obsidian-stuck-in-Regex-memory-hang_2e49d249-fee0-4623-9337-0f502639c286_D70l4eAaW8.webp
 ---
-
 ![](https://i.imgur.com/3HfecxN.gif)
 
 

@@ -12,13 +12,9 @@ authors:
 status: To-Do
 augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
 category: Explorations
-tags:
-- Remark
-- Astro
-- AST
-- Code-Snippets
+tags: [Remark, Astro, AST, Code-Snippets]
 date_created: 2025-04-02
-date_modified: 2025-04-02
+date_modified: 2025-05-12
 ---
 
 https://www.namchee.dev/posts/upgrading-astro-code-snippets/

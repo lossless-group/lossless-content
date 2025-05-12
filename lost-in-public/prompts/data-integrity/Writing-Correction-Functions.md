@@ -13,7 +13,11 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-19
 site_uuid: 5f59b3c3-d003-44e8-a627-2daa9951666a
-tags: Error-Correction,YAML-Validation,Function-Development,Build-Scripts
+tags: 
+  - Error-Correction
+  - YAML-Validation
+  - Function-Development
+  - Build-Scripts
 authors:
   - Michael Staton
 image_prompt: "A plumber is on their knees under a sink, using a large wrench to try to fix a water leak. Behind them is a team of software engineers on their laptops looking helpless"

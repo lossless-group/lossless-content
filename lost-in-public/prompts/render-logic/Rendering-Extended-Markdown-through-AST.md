@@ -14,7 +14,14 @@ date_created: 2025-04-16
 date_modified: 2025-04-25
 image_prompt: "A developer visualizing markdown rendering through an abstract syntax tree (AST), with code diagrams, node connections, and rendered content previews. The mood is technical, insightful, and focused on the transformation of structured data."
 site_uuid: 6a2855a4-ce1e-45c3-8734-7826c30b6fb1
-tags: Render-Logic,Remark,Astro,Build-Scripts,Extended-Markdown,AST,Citations
+tags: 
+  - Render-Logic
+  - Remark
+  - Astro
+  - Build-Scripts
+  - Extended-Markdown
+  - AST
+  - Citations
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Rendering-Extended-Markdown-through-AST_9fa06e2a-2a0e-410d-b1a9-793223a28132_nzypU__H8.webp

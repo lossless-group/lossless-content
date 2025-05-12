@@ -1,15 +1,14 @@
 ---
 title: 'Fixing 404 Errors in Dynamic Routes with Proper Slug Generation'
 lede: 'Resolving path mismatches between URL construction and getStaticPaths in Astro dynamic routes'
-date_authored_initial_draft: 2025-04-22
-date_authored_current_draft: 2025-04-22
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-04-22
+date_resolved: 2025-04-22
 date_last_updated: null
 at_semantic_version: 0.0.1.0
-status: Implemented
+affected_systems: Content-Rendering
+status: "Implemented"
 augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
-category: Issue-Resolution
+category: Rendering-Pipeline
 date_created: 2025-04-22
 date_modified: 2025-04-22
 image_prompt: "A person driving a car towards a large Browser window, the Browser window is in the way of the car, and it has a big error sign on it."
@@ -19,9 +18,9 @@ tags:
   - Dynamic-Routing
 authors:
   - Michael Staton
-banner_image: https://img.recraft.ai/TU54QQUVRB57LlJtJV84Ua7_e0EdX8KA6C6giLpruNw/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/c0c71bc5-075d-4191-85b8-0a6f2a473bf8
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Dynamic-Route-Slug-Generation-404-Fix_f2c1b0ac-4c2f-4ef4-9c75-9d35740d1375_oPCqevw2Y.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Dynamic-Route-Slug-Generation-404-Fix_4082a631-7c00-4807-a3de-4d7a7fbde40b_6vYyIfKtN.webp
 ---
-
 # Fixing 404 Errors in Dynamic Routes with Proper Slug Generation
 
 ## The Challenge: 404 Errors on Valid Dynamic Routes

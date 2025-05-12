@@ -1,15 +1,13 @@
 ---
 title: Showing Hidden Directories in Tree Output
 lede: "How to configure the `tree` command to display hidden directories and files when visualizing project folder structures."
-date_authored_initial_draft: 2025-03-21
-date_authored_current_draft: 2025-04-23
-date_authored_final_draft: null
-date_first_published: null
+date_reported: 2025-03-21
+date_resolved: 2025-04-23
 date_last_updated: null
 at_semantic_version: 0.0.0.1
-status: Complete
-augmented_with: Windsurf Cascade on GPT 4.1
-category: Directory-Visualization-Patterns
+status: "Resolved"
+affected_systems: Documentation
+category: Documentation
 date_created: 2025-03-21
 date_modified: 2025-04-23
 site_uuid: 115dcc0b-2716-4f0b-9692-e9d357091a2a
@@ -20,11 +18,10 @@ tags:
   - Project-Structure
 authors:
   - Michael Staton
-portrait_image: ""
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Showing-Hidden-Directories-in-Tree-Output_b56c895f-cc46-411a-8be0-de862ae4d360_LQPLQMUmM.webp
 image_prompt: Terminal window showing a tree command output with hidden directories and files, modern developer workspace, clean visualization.
-banner_image: https://img.recraft.ai/eqQaXeaUKp7kyF_QibedWXBwyL0nn-K1zfIae3SbXp8/rs:fit:2048:1024:0/raw:1/plain/abs://external/images/51c69f72-4b8c-42fe-b1e2-b7aaf7585337
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Showing-Hidden-Directories-in-Tree-Output_0b25d8ca-8eae-4cc3-a39b-e8fa037301e0_hybhFWAKL.webp
 ---
-
 .
 |-- 00 - Lossless-at-Laerdal Gameplan
 |   `-- 04.1 - AI to Insight Specifications

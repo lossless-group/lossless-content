@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A generative AI model creating a unique digital style palette, with swirling colors, abstract shapes, and a neural network motif. Visual elements include sliders, color pickers, and a preview of generated styles, symbolizing creative automation."
 site_uuid: 68524391-4243-441a-9929-51ef9cf7a888
-tags: Workflow,Model-APIs,API-Integration,LLM-Services
+tags: 
   - Workflow
   - Model-APIs
   - API-Integration

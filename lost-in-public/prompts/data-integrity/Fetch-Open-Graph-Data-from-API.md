@@ -14,7 +14,7 @@ date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A developer interacting with an API dashboard to fetch Open Graph data, with code snippets, network request icons, and browser previews of enriched link cards. The scene emphasizes data flow, connectivity, and real-time web enhancement."
 site_uuid: 0d30049e-c655-41e8-a112-6a84a1854f0b
-tags: Open-Graph,API-Integration,Data-Fetching,Data-Integrity
+tags: 
   - Open-Graph
   - API-Integration
   - Data-Fetching

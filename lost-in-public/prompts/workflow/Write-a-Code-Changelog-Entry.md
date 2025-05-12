@@ -15,17 +15,14 @@ date_modified: 2025-04-16
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Write-a-Code-Changelog-Entry_4f34ad93-5e24-4695-ac44-21aa0ce3d07e_Wrx_67VFL.webp
 image_prompt: "A code changelog entry UI with structured sections for features, fixes, and improvements. Visuals include version tags, code snippets, and a collaborative editing space, symbolizing organized code history tracking."
 site_uuid: fe4fbbd8-79d7-49ce-90a0-4d027424ec28
-tags: Changelog,Documentation,Version-Control,Best-Practices,Code-Changes,Changelog-First-Development,Workflow-Automation,AI-Human-Workflow,Model-Context-Protocols,Collaboration-Tools,Collaborative-Workflow
-  - Changelog
+tags: 
   - Documentation
   - Version-Control
   - Best-Practices
-  - Code-Changes
   - Changelog-First-Development
   - Workflow-Automation
   - AI-Human-Workflow
   - Model-Context-Protocols
-  - Collaboration-Tools
   - Collaborative-Workflow
 authors:
   - Michael Staton

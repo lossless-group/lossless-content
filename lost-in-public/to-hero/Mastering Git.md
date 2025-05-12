@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-04-28
+date_modified: 2025-05-08
 ---
 
 ```bash
@@ -144,4 +144,12 @@ git submodule update --remote
 
 ```bash
 git diff master..development -- .
+git diff --stat development..origin/master
+git log --graph --oneline --decorate development origin/master
 ```
+
+`git log --graph --oneline --decorate development origin/master` produces the following:
+![](https://i.imgur.com/l59Ng3S.png)
+
+`git diff --stat development..origin/master` produces the following:
+![](https://i.imgur.com/YpgDMoH.png)
