@@ -21,4 +21,4 @@ publish: false
 
 [[organizations/X|Twitter]], [[organizations/Facebook|Facebook]], [[organizations/Amazon|Amazon]], [[organizations/Reddit|Reddit]], [[Whatsapp]]
 
-[[Aaron Swartz]]
+[[Sources/People/Aaron Swartz]]

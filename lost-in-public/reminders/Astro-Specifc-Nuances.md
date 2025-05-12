@@ -20,9 +20,15 @@ authors:
   - Michael Staton
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Astro-Specifc-Nuances_45431b20-c669-4f25-ae39-925d80aa2f0b_CZZHD_Rfz.webp
 ---
+This project is in Astro. We are avoiding implementing an additional framework until we absolutely must. 
+
+The list of documentation we have referenced before is in:
+[[lost-in-public/reminders/Read-Relevant-Documentation-before-major-edits.md|Read Relevant Documentation before major edits]]
 
 # Astro does not Use JSX or React by default
 
-Do not use JSX, React syntax when writing components.  They don't work.  
+Do not use JSX or React syntax when writing components.  They break the build and render.
 
-DO NOT USE JSX STYLE COMMENTING IN THE COMPONENTS OUTSIDE OF THE FRONTMATTER. IT CAUSES ERRORS THAT ARE HARD TO DEBUG, ONLY BECAUSE WHY WOULD THERE BE JSX STYLE COMMENTS IN AN HTML COMPONENT?
+DO NOT USE JSX STYLE COMMENTING in components, particulary in the HTML of the component. IT CAUSES ERRORS THAT ARE HARD TO DEBUG, ONLY BECAUSE WHY WOULD THERE BE JSX STYLE COMMENTS IN AN HTML COMPONENT?
+
+TRY TO KEEP JAVASCRIPT IN FRONTMATTER as a matter of convention. 
