@@ -254,6 +254,37 @@ private formatPublicationLog(): string {
 }
 ```
 
+## Current Implmentations use Destructuring instead of Validation:
+your pattern:
+
+Props Structure: The component expects an array of objects via the contentThreads prop.
+```astro
+const { contentThreads = [] } = Astro.props;
+```
+Passthrough Data: As you pointed out, and as the comments confirm, there's no explicit TypeScript interface or type definition for the items within contentThreads at this layout level. The component relies on the upstream data source to provide objects with the necessary fields.
+
+No type enforcement is used; this is required by .windsurfrules.
+
+Prop Spreading: The objects from contentThreads are spread directly as props to child components (PostCardFeature.astro and PostCard.astro). For example:
+astro
+```astro
+<PostCardFeature {...contentThreads[0]} />
+// ...
+<PostCard {...item} />
+```
+This means that PostCardFeature.astro and PostCard.astro are responsible for defining and accessing the specific properties they need from the spread object. They must also handle cases where expected properties might be missing, if applicable.
+This "passthrough" and prop-spreading approach shifts the responsibility of knowing the data shape to the components that ultimately consume the individual fields.
+
+Destructure Directly: We should destructure all expected fields (e.g., title, lede, category, banner_image, portrait_image, authors, date_created, date_last_updated, tags, imageAlt) directly from Astro.props (or Astro.props.entry.data if the prop is named entry and contains the full collection entry object).
+
+Type Coercion/Handling: For fields like tags or dates, we need to implement similar defensive logic to what PostCard.astro does:
+Ensure tags becomes a clean array.
+Format dates carefully, handling potential undefined or incorrect string formats.
+
+Conditional Rendering and Fallbacks: Use conditional rendering (e.g., &&) for optional elements and provide fallbacks (e.g., ||) where appropriate (like using a default placeholder image if banner_image and portrait_image are missing).
+
+No Explicit Interface in Props: We will not define a TypeScript interface Props for the component's props if the data is coming directly from a collection entry using .passthrough(). The "type safety" comes from careful, defensive access within the component's script.
+
 ## Implementation Plan
 
 ### Phase 1: Core Publication Infrastructure

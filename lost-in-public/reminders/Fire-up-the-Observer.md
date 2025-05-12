@@ -57,6 +57,9 @@ So, instead, we will have independent watchers for each collection. This involve
 - `tidyverse/observers/watchers/vocabularyWatcher.ts`
 - `tidyverse/observers/watchers/essaysWatcher.ts`
 - `tidyverse/observers/watchers/remindersWatcher.ts`
+- `tidyverse/observers/watchers/toolkitsWatcher.ts`
+- `tidyverse/observers/watchers/issueResolutionWatcher.ts`
+
 
 #### List of Templates
 
