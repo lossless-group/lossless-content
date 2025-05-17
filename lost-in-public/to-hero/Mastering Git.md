@@ -153,3 +153,10 @@ git log --graph --oneline --decorate development origin/master
 
 `git diff --stat development..origin/master` produces the following:
 ![](https://i.imgur.com/YpgDMoH.png)
+
+```bash
+git --no-pager branch -a
+git rev-parse --is-inside-worktree
+git fetch [site|content] 
+```
+

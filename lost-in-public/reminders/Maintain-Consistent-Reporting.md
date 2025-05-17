@@ -19,8 +19,31 @@ authors:
   - Michael Staton
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Maintain-Consistent-Reporting_afa93299-0928-4f0d-b7a1-a6da6737da7a_ml6m7rcNa.webp
 ---
-# Reports always always ALWAYS ALWAYS go in the following directory:
+# Reports always always ALWAYS ALWAYS 
+
+## Output reports to the following directory:
 `content/reports/`
+
+## Name the report with the following naming convention:
+2025-05-14_Report-Name_01.md where 2025-05-14 is the date, Report-Name is the name of the report, and 01 is the index or count of the report run (e.g. 02, 03, etc.) on the same calendar day. 
+
+# Reuse Reporting Code, Utilities, and Functions
+
+## The Tidyverse Reporting System
+We have a reporting system in place that is used by many scripts and observers. Please reuse it. If the code we are writing is in the site submodule, we should copy the reporting code from the tidy-up submodule as precisely as possible. That reporting code in the tidyverse submodule went through many iterations, no need to go through it all again.
+
+It can be found in:
+`tidyverse/tidy-up/observers/services/reportingService.cjs`
+`tidyverse/observers/utils` // has several utility files.
+
+## The Site Debug and Reporting System
+We had to create a Debug System in the site submodule when we were troubleshooting AST transformation in the Unified, Remark, and Rehype render pipelines. Please reuse it, codify it if it is not already codified, and use it as a template for any future debugging and reporting needs.
+
+It can be found in:
+`site/src/utils/debugService.cjs`
+
+
+
 
 ## Mandatory Utilities
 

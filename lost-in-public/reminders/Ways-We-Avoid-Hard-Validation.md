@@ -16,6 +16,8 @@ date_modified: 2025-05-10
 tags: [Data-Integrity, Content-Rendering, Content-Collections]
 authors:
   - Michael Staton
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-14_banner_image_Ways-We-Avoid-Hard-Validation_41144485-5d75-4d1d-8ed7-2744c12c4118_Nyo-YvNoM.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-14_portrait_image_Ways-We-Avoid-Hard-Validation_94a115d4-e86c-483d-a096-55ba0a292e06_z13j0PbQP.webp
 ---
 
 # Slugs
