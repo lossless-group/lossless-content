@@ -12,8 +12,6 @@ at_semantic_version: 0.0.0.1
 status: Draft
 augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
 category: Reminders
-date_created: 2025-05-14
-date_modified: 2025-05-14
 tags: [Workflow]
 authors:
   - Michael Staton
