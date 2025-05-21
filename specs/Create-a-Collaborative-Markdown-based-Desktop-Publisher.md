@@ -18,6 +18,7 @@ banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Create-a-Collaborative-Markdown-based-Desktop-Publisher_b6e895a7-634b-48fa-8a60-577b09774334_YhRuUV44UD.webp
 ---
 [[Tooling/Software Development/Programming Languages/Libraries/Velite|Velite]]
+(KeenWrite)[https://keenwrite.com/screenshots.html]
 
 There is a gap in the existing tools – the ability to create truly custom Markdown with a high degree of control and flexibility, and the desire for a native, cross-platform experience.  Let’s break down how you might approach this, considering your web development background and the requirements for a desktop publishing-like editor.
 

@@ -1,6 +1,6 @@
 ---
 title: 'Implement a specific task described in this Prompt as part of larger specification'
-lede: 'Specifications are too large to use as prompts. Prompts are missing the larger context. Resolve the two by using both a Prompt and a Specification.
+lede: 'Specifications are too large to use as prompts. Prompts are missing the larger context. Resolve the two by using both a Prompt and a Specification.'
 date_authored_initial_draft: 2025-05-14
 date_authored_current_draft: 2025-05-14
 date_authored_final_draft: null
