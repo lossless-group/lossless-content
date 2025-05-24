@@ -1,0 +1,204 @@
+---
+date_created: 2024-12-09
+date_modified: 2025-05-24
+date_authored_initial_draft: 2024-12-09
+date_authored_current_draft: 2025-05-24
+at_semantic_version: 0.0.0.1
+status: To-Do
+augmented_with: Perplexica AI
+title: Recommendations for Engineering
+lede: The whole stack has changed, the options are infinite, and somewhere in there are the right set of tools for the job.
+authors:
+  - Michael Staton
+category: Engineering
+tags: [Software-Engineering, Software-Development, State-of-the-Art]
+---
+## TLDR (get to the point)
+The Lossless Group recommends:
+1. An all-in commitment to [[concepts/Reproducible Builds|Reproducible Builds]], using [[Containers]] and [[Ephemeral Environments]] alongside appropriate onboarding, training, and [[Documentation]].
+	1. To make things simple, everyone learns the fluent use of [[organizations/Nix|Nix]] and [[Docker]].
+2. An exploration and selection of a [[concepts/Explainers for Tooling/Backend-as-a-Service|Backend-as-a-Service]] platform, which significantly reduce the developer time required to build functional prototypes as well as production level applications that do not need to design for massive, rapid scale (think billions of records per day.)
+	1. To reduce it down, we advise [[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/SingleStore|SingleStore]].
+3. Create a working group to streamline [[concepts/Stack Compatibility|Stack Compatibility]]. 
+4. An all-in commitment to the [[#A Brief comment on the React Stack|React Stack]], including adoption of [[StyleX]] and [[Skip]] for styling and back-end data movement, respectively.  In addition, it seems [[Tinybase]] is the best way to implement super-fast [[Local-First Applications|Local-First]] experiences. We don’t really care about the React ecosystem in particular, but the sweat of maintaining everything doesn’t need an extra headache of coping with various stacks. 
+5. Assuming it’s all in [[React]], Laerdal should converge on a single [[concepts/Explainers for Tooling/Headless CMS|Headless CMS]] that’s [[concepts/State of the Art|State of the Art]]. 
+6. A wholesale commitment to [[Component-Based Software Architecture]], starting with organization-wide love for the [[Life Design System]], with celebrated and heroic team members that translate that into an always current, always upgraded [[UI-Kit]] and [[UI-Kit|Component Library]].
+7. A dedicated team member to apply the [[UI-Kit|Component Library]] to legacy products and services, likely reporting to the [[Digital Business Unit]] and almost embedded with the [[Life Design System]] team. 
+8. Collaborate with executive team members to articulate and visualize a [[concepts/Concept Model]], which then aligns the development of an organization, all vendor-inclusive data model, and the development of an organization-wide content model.  
+9. Initiate a long-term, higher-order goal of having a [[concepts/Unified API|Unified API]], and take the time to implement [[concepts/Platform Mechanisms]] across every initiative. 
+10. Create and uphold an [[concepts/Internal Standard Developer Stack|Internal Standard Developer Stack]] using [[Documentation First Development|Documentation First]] development, while somehow making room for [[#Convergence and Divergence Cycles for a flexible, Unified Stack|Convergence and Divergence Cycles]].
+	1. Initiate and oversee the rewrite of every legacy product or service to an [[concepts/Internal Standard Developer Stack|Internal Standard Developer Stack]]. 
+	2. Create and maintain a very small but high-caliber team who is on point, or the [[concepts/Single Point of Contact|SPOC]] to simply keep up with upgrades to the [[concepts/Internal Standard Developer Stack|Internal Standard Developer Stack]] and all its dependencies. 
+	3. Develop internal processes with [[concepts/Protected Play|Protected Play]], iteration, testing, for additions to and transitions within the [[concepts/Internal Standard Developer Stack|Internal Standard Developer Stack]].
+11. Align on and use by default an engineering tool for [[Workflow Management]], accessible to the Product and Design teams. The current [[concepts/State of the Art]] is [[Linear]].
+
+
+[[organizations/LinearB|LinearB]], 
+
+## A Brief comment on the React Stack
+For solid reasons, the [[UI-Kit|Component Library]] (derived from the [[UI-Kit]], derived from the [[Design Systems|Design System]]) is implemented in [[React]] and published as an [[Node Package Manager]] package. Good news, people are using it. It's being implemented. This seems to be working and is [[Market Standard]] practice. 
+
+[[React]] is created and maintained by [[organizations/Meta]] (aka [[organizations/Facebook]]). In any technology choice, there are subtle, often extensive, benefits of compatibility and interoperability. So, there are implications of choosing [[React]] that are all fine, but should be illuminated and understood widely. 
+
+For instance, the most beloved CSS [[concepts/Explainers for Tooling/Web Frameworks|Framework]] is [[Tailwind]]. However, the styling framework created and maintained by [[organizations/Meta|Meta]] is [[StyleX]].  
+
+And in 2025, [[organizations/Meta|Meta]] also released [[Skip]].  Skip is an [[Open Source]] [[concepts/Explainers for Tooling/Web Frameworks|Framework]] to streamline [[Back-End Engineering|Back-End]] implementations.  Why the need for a whole other framework? Largely because [[React]] is maintained as a [[Front-End]] library for interactive, dynamic, optimistic data loading for [[Component-Based Software Architecture]], and it is the [[Market Standard]].  
+
+There are several [[Cross-Platform Frameworks]] that take [[React]] code and transpile it to native applications across all mobile and desktop native environments. A [[Market Standard]] is [[Expo]]. 
+
+So, if Laerdal was to assume that there are many, valuable, and indecipherable reasons to align on the same stack, there should be at least a few people trying to figure out [[Skip]] and [[StyleX]], and migrating or transitioning projects and products towards them. 
+
+https://youtu.be/Hc9HtESrvdM?si=nN21A0V1FyOjhv7D
+
+## A Primer on AI
+Engineering has an outsized role to play in assuring that AI impacts the whole organization. Organization-wide benefits from the AI revolution are not possible without [[Deep Work]] that can be performed at senior-most roles within any organization. The default trajectory for every company is that top-performers use AI tools to radically improve their individual productivity.  Anything beyond that needs a strong vision.  
+
+### Bite-Sized code-bases.
+Our experience thus far, while limited, is that [[AI Models]], even the ones that reason, do not have a long-term memory outside of an immediate context. Therefore, [[concepts/Explainers for AI/Code Generators|Code Generators]] are prone to rewrite parts of any application that work while trying to develop new parts of the application. This necessitates a [[Microservices]] architecture in building complex applications with [[concepts/Explainers for AI/Code Generators|Code Generators]].
+
+The tendency for [[concepts/Explainers for AI/Code Generators|Code Generators]] to rewrite code that should be preserved makes writing anything complex purely with AI models unlikely as of now. However, there are some ways around this we are just figuring out this.  In addition to the [[Microservices]] architecture, getting back to [[concepts/Test-Driven Development|Test-Driven Development]] has a very strong rationale.  [[Acceptance Testing]].  [[Testing Frameworks
+
+A suite of tools is using [[concepts/Explainers for AI/Artificial Intelligence|AI]] for [[Code Review]]. Examples include [[CodeAnt AI]]. One way to make the output of [[Generative AI]] be useful is:]]
+
+Key people need to be active on [[Hugging Face]], a [[Developer Community]] for those working on [[concepts/Explainers for AI/Artificial Intelligence|AI]].  It is the largest repository of [[AI Models]].
+
+Many market entrants promise to help write code.  While there is still much left to be desired, progress is happening at astonishing speed.  
+
+![[Code Generator 1#Copilots for Software Engineers take off]]
+
+[[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editors or IDEs]] include [[Cursor]], [[AgentFarm]] and [[Windsurf IDE]].
+[[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulators]] include [[Warp]]. Terminal assistants include [[Aider]].
+
+[[concepts/Opsless Deployment Providers|Opsless Deployment Providers]] that can provides a [[concepts/Explainers for AI/Code Generators|Code Generators]], includes [[Tooling/Software Development/Cloud Infrastructure/Bolt.new]], [[v0]], [[Replit]] and [[Lovable]]. 
+
+## The Only Constant is Accelerating Change
+We now have [[concepts/Opsless Deployment Providers]], [[concepts/Reproducible Builds]], [[concepts/Explainers for Tooling/Backend-as-a-Service|Backend-as-a-Service]], [[concepts/Explainers for Tooling/Databases#Multi-Model Databases|Multi-Model Databases]], not to mention an explosion of [[concepts/Explainers for Tooling/Web Frameworks|Web Frameworks]]. All of these are part of a [[essays/Tectonic Shifts and Business Configuration|Tectonic Shift]] that fundamentally changes, nay -- profoundly changes -- the realm of the possible.  For everyone.  
+
+[[essays/How GitHub Changed Everything|How GitHub Changed Everything]]. Some strange combination [[Enabling Technology]] has really changed everything for software developers in the last few years. An amorphous, multi-variate blend of [[GitHub]], [[Open Source]] projects, [[concepts/Reproducible Builds|Reproducible Builds]] with [[Containers]], (especially with [[Docker#Docker Hub|Docker Hub]]), added to worldwide convergence on [[JavaScript]], [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]] paradigms, and [[Python]], all create a whole new world for anyone with Internet access.
+
+Add to this [[organizations/Reddit]] forums, [[YouTube]] influencers and tutorials, and [[concepts/Explainers for AI/AI Copilots]] that are huge breakthroughs in [[concepts/Explainers for AI/Code Generators|Code Generation]], well they amount fundamental, game-changing shifts in how software is conceived, teams assemble, ideas spread, and traction won.  
+
+There are two fundamental beliefs that need to be assimilated as a result:
+- There is a greater need to be watching whatever might be [[concepts/State of the Art|State of the Art]] and is in the process of [[Crossing the Chasm]] to widespread market adoption.  
+- There is a greater need for [[Continuous Refactoring]] code that is maintained by the company, to such an extreme it might as well necessitate a fierce commitment to [[Continuous Refactoring#Continuous Rewrites|Continuous Rewrites]].   
+
+## investing for S-Curves
+In [[Michael Staton]]'s visits with many across the Laerdal organization, there seems to be a pervasive need to meet defined goals, impact the top line, grow grow grow and go go go.  Yet, an urgent need for growth now on existing product lines and with existing technology stacks create a rationale for hiring to fuel growth. Beware, proceed with caution.
+
+The perverse irony of both grinding on goals, or hiring to fuel growth, then, is that people that are hired to add fuel to and grind on an existing [[essays/Tectonic Shifts and Business Configuration|Business Configuration]]. So, all new hires who fuel the pace towards existing goals on an existing set of processes and with an existing set of tools are inherently behind any [[essays/Tectonic Shifts and Business Configuration||Tectonic Shift]] that may be occurring. 
+
+Irony squared: investing quickly in innovation and piling on budgets, resources, and people, have the effect of [[Mythical Man Month|slowing down innovation]] because the most profound innovations follow an [[S-Curves|S-Curve]].
+
+[[S-Curves]] are a simple visual that describes a slow and gradual start, a fast and often exponential rise, and then a plateau.  It is often used to describe the [[Diffusion of Innovations]], with [[S-Curves#for Market Adoption|Market Adoption]] often seeming small and gradual for prolonged periods before taking off at an inflection point.  
+
+Typical idioms about creating new products and services, and understanding the [[S-Curves]] paradigm, are primarily focused on marketing and sales. Particularly in light of understanding and having deep respect for the dynamic of [[Crossing the Chasm]].
+
+A less discussed bit of wise practice is to keep teams and investments small -- to the extent it feels counterintuitive -- even if there is a mandate to invest more. [^1]  
+
+![[concepts/Efficiency Before Scale#^b65523]]
+
+It's become common wisdom in the Startup ecosystem that the number one reason companies fail is [[concepts/Premature Scaling]], when ambitions and goals outpace reality, and organizations don't follow a [[essays/Consistent Go-to-Market]] playbook.
+## towards a Unified API
+
+It's beyond extremely important that Laerdal move towards an [[concepts/Unified API]]. [[Application Programming Interface|API]] design is a skill set, but it's also more of a *reasoning skill set* than a technical one. Therefore, most anyone that can enjoy mathematical reasoning and has a basic understanding of the [[REST API]] conventions, and how a [[Data Model]] should look can contribute or even drive the process. There's even a common standard to follow, [[emergent-innovation/Standards/The Open API Initiative|OpenAPI]].
+
+More importantly, it's only going to become as valuable as it can be if its designed with a foundational [[concepts/Concept Model]] of the organization.  Having the full context of the Laerdal organizations, its activities, and its data, is paramount.  It's important to use practices from [[Domain-Driven Design]]. 
+
+Having a [[concepts/Unified API]] is, ironically, even more important for moving away from (or avoiding) a [[Monolith]]. If Laerdal would move towards [[Microservices]] and [[Component-Based Software Architecture]], and [[concepts/Unified API]] is the roads and bridges infrastructure that brings it all together. 
+
+There are tools to assist with this, many you are probably already using...  such as [[Postman 1]]
+
+## Stack Engineering
+
+[[concepts/Stack Engineering]] is the term we are using to propose the mission critical, but quite newfangled role of Software Developers to manage [[concepts/Information Flows]] across the organization using modern conventions that have formed around [[REST API]]s and between software systems. 
+
+We propose that this is, in fact, a new role that requires a new kind of talent. Most prideful Software Developers -- and most good ones mostly are prideful -- do not want to spend their time [[concepts/Stack Engineering]]. If they agree to it to be a team player, they will want to get out of it as soon as the opportunity arises.  
+
+To get something out of the box, check out [[iPaaS]] vendors. Apparently, you already use both [[Boomi]] and [[Fivetran]], which could be redundant.  They may also not be [[concepts/State of the Art]], we really don't know.  Based on marketing alone, we would guess that [[Merge]] is the standout provider.  
+
+## Convergence and Divergence Cycles for a flexible, Unified Stack
+In trying to use [[concepts/Cognitive, Collaborative Tooling]], people and teams adopt many technologies. Over time, this can lead to issues with [[concepts/Stack Compatibility]]. 
+Here are some incongruous things happening:
+- The marketing website is written in [[Vue.js]], but developers and designers have converged on [[React]]. This means that no one seems to own, maintain, and iterate on the marketing website with any proficiency. 
+- Someone somewhere is still using [[AdaptCMS]], which is a [[concepts/Explainers for Tooling/Content Management System]] for teams developing in [[Laravel]].  However, I have yet to meet any team developing in [[Laravel]] or using [[PHP]].
+	- [[Sanity]] is a modern, [[concepts/Explainers for Tooling/Headless CMS]] and is a [[Market Leaders|Market Leader]]. However, [[Sanity]] seems to only be used in a specific product, which I believe is [[Scenario Cloud]]. ([[concepts/Explainers for Tooling/Headless CMS]] are almost always designed around [[JavaScript]], and universally use [[REST API|REST APIs]] to move around [[emergent-innovation/Standards/JSON]] data.) 
+- [[Eloqua]] is, at this point, an out-of-date [[Marketing Automation]] System. It was acquired and is thus maintained by [[organizations/Oracle]]. The [[Sales Marketing and Services]] team use [[Salesforce]] as their primary workflow tool and data system. [[Salesforce]] and [[organizations/Oracle]] do not play nice, and their rivalry is well known and comical. 
+
+
+[[concepts/Divergence and Convergence]].
+
+[[Developer Tools]] like [[Graphite]], which is a value-added layer on top of [[Git]] and [[GitHub]], are known to add to developer productivity.  
+
+[[concepts/Opsless Deployment Providers]] remove the headaches involved with deploying code on core cloud hosting services like [[Azure]] and [[Amazon Web Services|AWS]]. [[Netlify]] and [[Vercel]] have become the go-to, early market leaders. However, even more fancy ones exist like [[Render]] and [[Replit]].  
+
+
+
+
+## Extreme Replication
+
+Someone should have the informal or formal role of obsessing about eliminating the "works on my machine" problem, assuring that anything being done on anyone's computer can be replicated in as few steps and with the least frustration possible.  Thus enter the concept of being radically dedicated to [[concepts/Reproducible Builds]]. 
+
+There are many different approaches to this, and even more tools, services, and stacks to achieve it.  
+
+The market standard is a full commitment to [[Docker]], using it to make [[Containers]] for all software development.  Some influencers have been raving about [[ContainerD]], though it has much less adoption as of this writing. [[organizations/Microsoft]], of course, has created their own variant, along with an attempt at a standard, called [[emergent-innovation/Standards/Devcontainer]].  There are creative ways to use [[Containers]] for many goals or preferences within Engineering.  
+
+Recently, the dev influencer community has been raving about [[organizations/Nix]], which seems to add a "pop-up" aspect to the [[Containers]] paradigm that's being called [[Ephemeral Environments]].  Engineering teams love [[organizations/Nix]] so much that there is a meme about a "[Nix God Complex](https://www.reddit.com/r/NixOS/comments/kauf1m/dealing_with_post_nixflake_god_complex/)"
+
+>Watch a short [overview of Nix](https://youtu.be/FJVFXsNzYZQ?si=KGKuXEUgpELJnyHf), Nix in 100 Seconds, by influencer [[Fireship]] on YouTube.
+
+>Follow a [blog tutorial](https://mitchellh.com/writing/nix-with-dockerfiles) on using [[organizations/Nix]] with [[Docker]] written by [[Mitchell Hashimoto]], the founder of [[organizations/HashiCorp]], (about 1hr with installations, 15 minutes without).
+
+### Intersection with Product & Design
+
+New developments in [[Enabling Technology]] have flipped the constraint of Software Engineering on its head. Up until quite recently, the constraint was [[Back-End Engineering|Back-End]] engineering. But today, the constraint is on the [[Front-End]].
+
+The Product & Design teams should be working from one [[concepts/Unified Design System]].  This design system should be followed religiously, and as it is developed into an interface it becomes a [[UI-Kit]].  Most often, the design system is slightly ahead of the [[UI-Kit]].  Regardless, the entire [[UI-Kit]] should be reflected in the design system. 
+
+The [[UI-Kit]] needs to be helpful enough to gain [[Grassroots Adoption]]. This is already happening, and there is an owner.  However, there is not an owner that can take the [[UI-Kit]] and [[UI-Kit|Component Library]] and apply it to legacy systems.  
+
+# Footnotes
+***
+[^1]: **On Premature Scaling**
+
+  
+
+
+
+
+
+***
+# Idea Bin
+
+### The New New Engineering Toolkit
+
+[[CodeAnt AI]], 
+
+[[Logfire]]
+
+[[Dagger]]
+
+
+
+Assure everyone is remarkably fluent in [[Git]] and [[GitHub]].
+Move towards [[concepts/Compostable Architecture]]. 
+
+
+
+[[LinearB 2025 Benchmark Report.pdf]]
+
+## On Standards and their Institutions
+
+The most recognized seems to be the [[organizations/ISO]]. However, most of the standards related to progress on the Internet seem to come from [[organizations/The Internet Society]], yet some seem to come from [[organizations/OASIS Open]]. When it comes to progress in graphics, the standards body seems to be both [[emergent-innovation/Standards/OpenGL]] and the [[organizations/International Color Consortium]].  [[Standards Organizations]]. 
+
+### Participation is recommended. 
+
+[[emergent-innovation/Standards/OSIM]], [[emergent-innovation/Standards/OpenTelemetry]], [[organizations/Institute of Electrical and Electronics Engineers|IEE]].
+
+[[Obsidian.md]] created their own [[Data Standard]].
+
+
+## Related Essays
+
+We're working on the essay [[essays/Opinionated Engineering]].
+
+
