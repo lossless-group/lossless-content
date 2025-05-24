@@ -18,7 +18,7 @@ Some apps may also support less common platforms like HarmonyOS or KaiOS[2][4][1
 
 ### How Providers Create and Maintain Cross-Platform Apps
 Developers use several strategies to handle the complexity:
-1. **Shared Codebase**: A single codebase is written using frameworks like [[Flutter]], [[Tooling/Software Development/Frameworks/React Native]], or [[Xamarin]]. This code is designed to work across platforms with minimal modifications[2][5][12].
+1. **Shared Codebase**: A single codebase is written using frameworks like [[Tooling/Enterprise Jobs-to-be-Done/Flutter]], [[Tooling/Software Development/Frameworks/React Native]], or [[Xamarin]]. This code is designed to work across platforms with minimal modifications[2][5][12].
 2. **Abstraction Layers**: These frameworks abstract platform-specific details, allowing developers to focus on app functionality without worrying about underlying differences[1][5].
 3. **Platform-Specific Customization**: Some parts of the app (e.g., UI) are tailored to specific platforms to ensure a native-like experience while maintaining shared logic[2][13].
 4. **Testing and Optimization**: Rigorous testing ensures compatibility across various devices, screen sizes, and OS versions[5].
