@@ -31,3 +31,8 @@ Check for node processes in the filesystem observers
 ```bash
 ps aux | grep -i "node.*tidyverse" | grep -v grep
 ```
+
+Save the output of a command to a file.  In this example, `pnpm build`:
+```bash
+pnpm build 2>&1 | tee build_output.txt
+```

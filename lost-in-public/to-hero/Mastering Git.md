@@ -160,3 +160,8 @@ git rev-parse --is-inside-worktree
 git fetch [site|content] 
 ```
 
+```bash
+git fetch --all --recurse-submodules=yes
+git submodule update --init --recursive --remote --force
+```
+

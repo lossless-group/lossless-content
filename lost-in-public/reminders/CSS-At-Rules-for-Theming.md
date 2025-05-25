@@ -23,6 +23,8 @@ tags:
 authors:
   - Michael Staton
 image_prompt: "A stylized CSS code editor showing at-rules with color themes being applied."
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-25_banner_image_CSS-At-Rules-for-Theming_971e15ea-2a34-4e94-acf3-1396dff9cc8b_0HNL2uZlC.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-25_portrait_image_CSS-At-Rules-for-Theming_2678b27c-ff11-4496-b4b8-0ffaafd683d1_Wf_hZaJ-d.webp
 ---
 
 # Understanding CSS At-Rules for Theming
