@@ -1,6 +1,6 @@
 ---
 date_created: 2024-08-02
-date_modified: 2025-05-04
+date_modified: 2025-05-25
 site_uuid: 4dd251ea-2d66-42ca-ab35-1f5641f14396
 title: Back to the Future
 lede: "Old-school, textbook approaches are the secret to mastering the future of AI — sometimes, progress means going back to proven basics."
@@ -14,7 +14,7 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05
 image_prompt: "A robot scientist styled like 'Doc' from Back to the Future, standing beside a futuristic DeLorean with an AI logo, inviting a passenger to learn AI skills. The scene blends retro sci-fi with modern technology."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Back-to-the-Future_8e54c711-a0ad-42c7-b5a6-56b4d9c253fd_T8diY8KQy.jpg
 tags: [Near-Future-Anticipation, Best-Practices, Conceptual-Frameworks]
-authors: 
+authors:
   - Michael Staton
 ---
 
