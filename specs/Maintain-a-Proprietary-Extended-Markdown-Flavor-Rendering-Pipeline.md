@@ -12,15 +12,10 @@ status: Draft
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Technical Specifications
 date_created: 2025-04-16
-date_modified: 2025-04-25
+date_modified: 2025-05-26
 image_prompt: "A pipeline of documents passing through various transformation stages, with icons for custom Markdown features. The scene is innovative and technical, illustrating advanced content processing."
 site_uuid: bc4e5951-73e6-4e3c-a64a-d298185c0321
-tags: 
-- Render-Logic
-- Astro
-- Extended-Markdown
-- Custom-Rendering
-- Content-Display
+tags: [Render-Logic, Astro, Extended-Markdown, Custom-Rendering, Content-Display]
 authors:
   - Michael Staton
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Maintain-a-Proprietary-Extended-Markdown-Flavor-Rendering-Pipeline_969f3519-cb5e-4c9f-b6d1-12903df77cdd_D21OVdfsp.webp
@@ -161,6 +156,16 @@ site/src/
    - Custom block types
    - Metadata support
    - Component mapping
+
+#### Custom Codeblocks in Production
+`imageGallery`
+`toolingGallery`
+
+#### Ideas for Custom Codeblocks
+Much Smaller Tooling Gallery
+ImageGrid
+
+
 
 ## 3. Implementation Details
 

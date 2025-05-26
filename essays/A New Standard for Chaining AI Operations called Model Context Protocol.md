@@ -1,8 +1,8 @@
 ---
-site_channel: 
+site_channel:
   - Keeping-Up
 date_created: 2025-03-15
-date_modified: 2025-05-25
+date_modified: 2025-05-26
 site_uuid: ca6eed65-4ae5-4c20-bb47-efbcaa5d2524
 title: A New API Standard for chaining AI -- Model Context Protocol
 lede: Chain and sequence AI operations with Model Context Protocol, a game-changer for AI use and code generation.
@@ -16,7 +16,7 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05
 image_prompt: "A futuristic flowchart showing multiple AI models chained together, exchanging data and context. The visual is technical, precise, and emphasizes interoperability."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_A-New-API-Standard-for-chaining-AI--Model-Context-Protocol_6a1365bf-c926-4bd6-ab5b-f4d2e6d02cbe_i-PdP_VjT.jpg
 tags: [Model-Context-Protocols, AI-Workflows, Code-Generators, Agentic-AI, AI-Human-Workflow]
-authors: 
+authors:
   - Michael Staton
 ---
 

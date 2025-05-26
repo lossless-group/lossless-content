@@ -19,6 +19,8 @@ tags:
   - UI-Design
 authors:
   - Michael Staton
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/2025-05-26_banner_image_Create-Fallbacks-Error-Waiting-Components_b2fe33ec-a7b0-4335-ab17-c5f3cc4d180d_Sy3X7yHzp.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/2025-05-26_portrait_image_Create-Fallbacks-Error-Waiting-Components_47a99c94-a1db-4882-84cb-339840c7e3d8_n7vfsctrB.webp
 ---
 
 ## Context
