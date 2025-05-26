@@ -1,6 +1,6 @@
 ---
 date_created: 2024-09-02
-date_modified: 2025-04-28
+date_modified: 2025-05-26
 site_uuid: 209e0f39-13de-46b3-829e-a2816d2f5aa7
 title: A Theory of Lossless Innovation
 lede: "To go forth and innovate while not losing the core business or loyalty of the current customer base is the challenge of our new era."
@@ -14,11 +14,16 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05
 image_prompt: "A conceptual diagram showing a bridge between innovation and stability, with icons representing new ideas and customer loyalty. The style is clean and modern."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_A-Theory-of-Lossless-Innovation_105fca66-f27a-44e8-975e-ae04b0a02ee5_FLkwI0e91.jpg
 tags: [Best-Practices, Collaboration-Tooling, Conceptual-Frameworks]
-authors: 
+authors:
   - Michael Staton
 ---
 
 >"We need better theories." -- [[Clayton Christensen]]
+
+```imageGallery
+- https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_A-Theory-of-Lossless-Innovation_105fca66-f27a-44e8-975e-ae04b0a02ee5_FLkwI0e91.jpg
+- https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_A-Theory-of-Lossless-Innovation_105fca66-f27a-44e8-975e-ae04b0a02ee5_FLkwI0e91.jpg
+```
 
 AI has exploded into the world at gobsmacking speed. With [[OpenAI]]'s release of [[GPT-Series Models|GPT3]] in 2022, by 2025, 1/4th of all funded startups claim to be an AI startup.   
 

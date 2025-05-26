@@ -1,6 +1,7 @@
 ---
 title: 'Refactor Plan: Consolidate Callout Processing to Pipeline Architecture'
-date_created: '2025-04-03T13:19:16-07:00'
+date_created: '2025-04-03'
+date_modified: '2025-05-26'
 type: refactor-plan
 status: proposed
 affects:
