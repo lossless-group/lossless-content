@@ -1,7 +1,64 @@
 ---
 date_created: 2024-11-01
-date_modified: 2025-03-26
+date_modified: 2025-05-26
 ---
+
+|>update_start::2025-05-26T12:33:46.108Z
+
+# Resolving Paths at Build Time across Deployments
+
+Updated the build script in package.json to use `shell: true` in the `execSync` options. This ensures that file paths with spaces are properly handled by the shell.
+
+```json
+"build": "node -e \"require('dotenv').config({ path: '.env' }); require('child_process').execSync('astro build --remote', { stdio: 'inherit', shell: true });\""
+```
+
+Created a `vercel.json` configuration file with optimized settings for Astro and Vercel, including proper caching headers and build configurations that should handle file paths more reliably.
+
+```json
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": "astro",
+  "installCommand": "npm install",
+  "devCommand": "npm run dev",
+  "build": {
+    "env": {
+      "NODE_OPTIONS": "--dns-result-order=ipv4first"
+    }
+  },
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ],
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
+      ]
+    },
+    {
+      "source": "/_astro/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
+  ]
+}
+```
+
+
 
 |>update_start::2025-03-19T19:25:22.108Z
 #### Backlinks should be set to Absolute Path 
