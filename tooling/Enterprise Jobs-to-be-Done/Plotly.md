@@ -9,10 +9,12 @@ og_image: 'https://images.prismic.io/plotly-marketing-website-2/45139d28-6d34-41
 og_url: 'https://plotly.com/'
 title: 'Data Apps for Production | Plotly'
 description: 'Discover data applications for production with Plotly Dash. Put data and AI into action with scalable, interactive data apps for your organization.'
-og_screenshot_url: 'https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/f675f519fbb7170d6c607b0e00f1270d300a11846d4a231971de334884100863.jpeg'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/_uploads_lossless_screenshots_20250527_Plotly_og_screenshot.jpeg'
 og_last_fetch: '2025-05-24T08:01:47.974Z'
 site_uuid: efb89b85-fd6b-45b6-8929-ffc061fb9a98
-tags: [Data-Visualizations, Data-Utilities]
+tags:
+  - Data-Visualizations
+  - Data-Utilities
 ---
 
 [Plotly.py](https://github.com/plotly/plotly.py) "The interactive graphing library for Python ✨"

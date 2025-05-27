@@ -4,7 +4,7 @@ url: 'https://www.mermaidchart.com/'
 site_name: 'Mermaid Chart'
 title: 'Mermaid Chart'
 favicon: 'https://www.mermaidchart.com/img/favicon.ico'
-og_screenshot_url: '>-'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/_uploads_lossless_screenshots_20250527_MermaidChart_og_screenshot.jpeg'
 https: //og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/1783984c991045b11ebcece0f423b559f7644489fa8a99052ad8cda44fedd82e.jpeg
 og_errors: true
 og_last_error: '2025-03-07T10:19:44.514Z'
