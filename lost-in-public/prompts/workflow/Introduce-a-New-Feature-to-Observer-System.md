@@ -661,3 +661,94 @@ The ImageKit script is located at: `ai-labs/apis/imagekit/convertImageToImagkitU
 - No retry mechanism for failed uploads
 
 ## Analysis of starter ImageKit Service
+
+
+# Troubleshooting
+
+## First Attempt:
+
+The `imageKitService.ts` service is almost working after only one attempt. However, the timing is incorrect.  
+
+What I can see happening is that the `imageKitService` is pre-emptively catching the OpenGraph Screenshot return object, and then sending it to the ImageKit API, then because the ImageKit API is fast, it returns the custom url for the new image and then writes it to file BEFORE the full orchestration of the `fileSystemObserver` and in specific the `propertyCollector` is "done" and then writes the frontmatter to the file.  
+
+The result is that for a brief moment, the "og_screenshot_url" property is a working ImageKit url. Then, the `propertyCollector` finishes and overwrites the frontmatter with the original OpenGraph Screenshot Endpoint response url.  
+
+The fix is to either
+1. Make the `imageKitService` use the `propertyCollector` properly -- which includes letting the propertyCollector know it should be expecting a return object, and then passing the ImageKit url to the propertyCollector... then let the properyCollector write to file.
+- This would also mean we need to amend the way the OpenGraph response object is handled, namely that it does not send the "og_screenshot_url" value to the propertyCollector, and instead sends it to the `imageKitService`.
+2. Or, have the imageKitService write to a new property with a new key.  So "ik_screenshot_url".  Then, the `propertyCollector` can write the "og_screenshot_url" property to the file without overwriting the "ik_screenshot_url" property value.  
+
+# Second Attempt: Using a Separate Property for ImageKit URLs
+
+## Problem Addressed
+The issue with the first approach was a race condition where:
+1. The `imageKitService` would update the `og_screenshot_url` with an ImageKit URL
+2. The `propertyCollector` would then overwrite this with the original OpenGraph URL
+
+## Solution: Dedicated `ik_screenshot_url` Property
+
+### Key Changes Made
+
+1. **Property Naming**:
+   - Changed all references from `og_screenshot_url` to `ik_screenshot_url` in the `imageKitService`
+   - This prevents any collision with the OpenGraph service's property
+
+2. **FileSystemObserver Integration**:
+   - Modified the observer to handle both properties independently
+   - The OpenGraph service writes to `og_screenshot_url`
+   - The ImageKit service writes to `ik_screenshot_url`
+
+3. **Property Collector Updates**:
+   - Ensured the property collector preserves both properties during updates
+   - Added proper type definitions for the new property
+
+### Benefits of This Approach
+
+1. **No Race Conditions**: Each service writes to its own dedicated property
+2. **Backward Compatibility**: Existing code looking for `og_screenshot_url` continues to work
+3. **Clear Separation**: Makes it explicit which URLs come from which service
+4. **Easier Debugging**: Can compare OpenGraph and ImageKit versions if needed
+
+### Implementation Details
+
+```typescript
+// In FileSystemObserver's property collector
+if (dirConfig.services.imageKit?.enabled && this.imageKitService) {
+  const imageKitUrl = await this.imageKitService.processScreenshots(filePath, originalFrontmatter);
+  if (imageKitUrl) {
+    propertyCollector.results.ik_screenshot_url = imageKitUrl;
+  }
+}
+```
+
+### Frontmatter Example
+
+```yaml
+---
+title: Example Document
+og_screenshot_url: https://example.com/original-screenshot.jpg
+ik_screenshot_url: https://ik.imagekit.io/account/transformed-screenshot.jpg
+---
+```
+
+### Next Steps
+
+1. Update any templates or components that display screenshots to use the new `ik_screenshot_url` property
+2. Consider adding a migration script to backfill the new property for existing content
+3. Document the new property in the project's schema documentation
+
+This approach provides a clean separation of concerns while maintaining flexibility for future changes to either service.
+
+## Third Attempt: 
+
+Now the OpenGraph services is only running the Screenshot process, which is good.  
+
+However, 
+
+1) It is no longer writing the updated screenshot url to the file. That's okay, but, if you remember the prompt from above.... We have to download the image from the og_screenshot_url and then upload it to ImageKit.  
+
+To save the memory load for others, I've used .gitignore at the monorepo level to ignore the `toolkit-screenshots` directory.  
+
+Let's use that directory to store the downloaded images from the og_screenshot_url.  We should save the image with the same name as the file it is associated with.  Let's use this syntax: 20250526_${filename}_og_screenshot.jpeg
+
+One the file is downloaded, the imageKitService should immediately know.  Maybe because the propertyCollector confirms?  Then it should go to the imageKitService and upload it to ImageKit and then update the frontmatter with the new url.  

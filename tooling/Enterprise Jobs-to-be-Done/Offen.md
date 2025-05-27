@@ -9,9 +9,14 @@ og_url: 'https://www.offen.dev/'
 site_name: 'Fair Web Analytics | Offen'
 title: 'Offen Fair Web Analytics'
 description: 'Let your users access their data. Gain valuable insights at the same time. Open, lightweight, self hosted and free.'
-og_screenshot_url: 'https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/f746dd667d142367ba2c6f35a93bdedfce637d33e6ce6fb77b1604f0ee3348a0.jpeg'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/_uploads_lossless_screenshots_20250527_Offen_og_screenshot.jpeg'
 og_last_fetch: '2025-05-12T21:47:50.900Z'
 site_uuid: f1dc4f80-7947-4852-b9ad-064405379e87
-tags: [Enterprise-Jobs-To-Be-Done, Digital-Marketing-Tools, Product-Analytics, Self-Hosted-Alternatives, Low-Cost-Alternatives]
+tags:
+  - Enterprise-Jobs-To-Be-Done
+  - Digital-Marketing-Tools
+  - Product-Analytics
+  - Self-Hosted-Alternatives
+  - Low-Cost-Alternatives
 ---
 

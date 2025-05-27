@@ -8,10 +8,15 @@ og_description: 'Matrix, the open protocol for secure decentralised communicatio
 og_image: 'https://matrix.org/blog/img/matrix-logo.png'
 og_url: 'https://matrix.org/'
 og_last_fetch: '2025-05-12T21:06:22.622Z'
-og_screenshot_url: '>-'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/_uploads_lossless_screenshots_20250527_Matrix_og_screenshot.jpeg'
 https: //og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/23b8ee7e292a625cb68826f0a92f2e344aef1de5cca63f9df0763e9e33e8b958.jpeg
 title: Matrix.org
 description: 'Matrix, the open protocol for secure decentralised communications'
-tags: [Self-Hosted-Alternatives, Asynchronous-Communication, Async-Tools, User-Forums, Open-Source-Alternatives]
+tags:
+  - Self-Hosted-Alternatives
+  - Asynchronous-Communication
+  - Async-Tools
+  - User-Forums
+  - Open-Source-Alternatives
 ---
 

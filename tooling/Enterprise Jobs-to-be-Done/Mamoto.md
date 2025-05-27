@@ -1,17 +1,17 @@
 ---
-docs_url: https://developer.matomo.org/
+docs_url: 'https://developer.matomo.org/'
 date_created: 2025-03-27
 date_modified: 2025-05-26
-url: https://matomo.org/
-zinger: Web & app analytics for teams who demand accuracy
-description_site_cp: Other web & app analytics give you estimates, Matomo gives you answers. Track 100% of available traffic with confidence.
-og_image: https://matomo.org/wp-content/uploads/2020/06/website-graphics-2020-v5-1-e1611111459689.png
-og_url: https://matomo.org/
-site_name: Matomo Analytics
-title: The Google Analytics alternative that protects your data
-description: Matomo's the Google Analytics alternative that protects your data and your customer's privacy. A powerful web analytics platform with 100% data ownership.
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/5b1ec224ee35edee8c2d781d2e272208f19191dc01647af55581e06e159317c4.jpeg
-og_last_fetch: 2025-05-26T22:05:22.485Z
+url: 'https://matomo.org/'
+zinger: 'Web & app analytics for teams who demand accuracy'
+description_site_cp: 'Other web & app analytics give you estimates, Matomo gives you answers. Track 100% of available traffic with confidence.'
+og_image: 'https://matomo.org/wp-content/uploads/2020/06/website-graphics-2020-v5-1-e1611111459689.png'
+og_url: 'https://matomo.org/'
+site_name: 'Matomo Analytics'
+title: 'The Google Analytics alternative that protects your data'
+description: "Matomo's the Google Analytics alternative that protects your data and your customer's privacy. A powerful web analytics platform with 100% data ownership."
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/_uploads_lossless_screenshots_20250527_Mamoto_og_screenshot.jpeg'
+og_last_fetch: '2025-05-26T22:05:22.485Z'
 site_uuid: ba268b25-4116-4976-8164-5b8e3bc09725
 tags:
   - Web-Analytics

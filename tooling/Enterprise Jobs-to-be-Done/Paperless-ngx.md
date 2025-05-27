@@ -13,6 +13,6 @@ site_name: Paperless
 title: Paperless-ngx
 description: 'Paperless-ngx is a community-supported open-source document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper.'
 og_last_fetch: '2025-04-17T22:45:15.017Z'
-og_screenshot_url: 'https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/632d4fee7cef479a4734253c0c95f8b61b2c536df63e34877b43d2b1232b38f7.jpeg'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/_uploads_lossless_screenshots_20250527_Paperless-ngx_og_screenshot.jpeg'
 ---
 

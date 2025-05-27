@@ -18,6 +18,8 @@ authors:
   - Michael Staton
 ---
 
-https://world.hey.com/dhh/linux-as-the-new-developer-default-at-37signals-ef0823b7
+The world's servers run on Linux. Like, all of them.
 
-[[Tooling/Productivity/Omakub|Omakub]] and [[Garuda Linux]] are [[Vocabulary/Opinionated|Opinionated]] "flavors" of their respective distributions, [[Arch Linux]] and [[Ubuntu]]
+[Linux as the new developer default](https://world.hey.com/dhh/linux-as-the-new-developer-default-at-37signals-ef0823b7)
+
+[[Tooling/Productivity/Omakub|Omakub]] and [[Garuda Linux]] are [[vocabulary/Opinionated|opinionated]] "flavors" of their respective distributions, [[Arch Linux]] and [[Ubuntu]]

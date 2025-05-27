@@ -11,7 +11,7 @@ og_last_fetch: '2025-05-26T11:45:17.331Z'
 site_uuid: 53d28444-5a25-4829-ae17-1183345268e2
 screenshot_url: 'https://i.imgur.com/TG1tGlN.jpeg'
 og_image: 'https://www.rillion.com/hubfs/Web%2025/Images/Career/16_9_Career_Hero_V4.jpg'
-og_screenshot_url: 'https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/1dffb7fd6349c7c67f7135404dbb64fa9a4a7b050c0ebb567c0ad28fde2a3c72.jpeg'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/_uploads_lossless_screenshots_20250527_Rillion_og_screenshot.jpeg'
 tags:
   - Finance-Tools
   - Workflow-Automation

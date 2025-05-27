@@ -8,6 +8,9 @@ title: 'Bolto – Easily hire and onboard global software developers.'
 description: 'Simplify global talent recruitment with our platform. Cut interview hours, ensure compliance, and seamlessly onboard top engineers with matching skills. We handle payments, benefits, and global compliance for you.'
 og_last_fetch: '2025-05-24T08:36:29.784Z'
 site_uuid: 38684bc6-607a-4b59-801e-0060ec5e5bc2
-tags: [Recruiting-Platforms, AI-Native]
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/_uploads_lossless_screenshots_20250527_Bolto_og_screenshot.jpeg'
+tags:
+  - Recruiting-Platforms
+  - AI-Native
 ---
 
