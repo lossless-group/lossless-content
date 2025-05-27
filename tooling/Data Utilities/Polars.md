@@ -8,10 +8,13 @@ og_image: 'https://www.pola.rs/share.jpg'
 og_url: 'https://www.pola.rs/'
 title: Polars
 description: 'DataFrames for the new era'
-og_screenshot_url: 'https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/298637fc2e5bf33981b6429dd8dc6f28a9a5f840687328ce68a6e82c6c2ea2c5.jpeg'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250527_Polars_og_screenshot.jpeg'
 og_last_fetch: '2025-05-24T07:49:59.119Z'
 site_uuid: c7907ca0-ffdc-4e0d-80d4-443167770a13
-tags: [Python-Ecosystem, Data-Utilities, Data-Dashboards]
+tags:
+  - Python-Ecosystem
+  - Data-Utilities
+  - Data-Dashboards
 ---
 
 https://plotly.com/blog/polars-to-build-fast-dash-apps-for-large-datasets/
