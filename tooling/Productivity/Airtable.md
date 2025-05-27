@@ -1,50 +1,24 @@
 ---
 site_uuid: 196f796c-01b8-4033-9d8d-382cd2624107
-image: https://www.airtable.com/images/airtable-seo.jpg
+image: 'https://www.airtable.com/images/airtable-seo.jpg'
 site_name: Airtable
-title: The platform to build next‒gen apps
-favicon: https://www.airtable.com/favicon.ico
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/78242d8f3ebfd297f184895df2c4cb1f76fe53ad45f507c83d9cda105e3df0ac.jpeg
+title: 'The platform to build next‒gen apps'
+favicon: 'https://www.airtable.com/favicon.ico'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads_lossless_screenshots_20250527_Airtable_og_screenshot.jpeg'
+https: //og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/78242d8f3ebfd297f184895df2c4cb1f76fe53ad45f507c83d9cda105e3df0ac.jpeg
 jina_last_request: '2025-03-09T06:45:04.681Z'
-jina_error: Error occurred
+jina_error: 'Error occurred'
 og_last_fetch: '2025-03-07T05:19:01.824Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.854Z'
+date_modified: 2025-04-12
+date_created: 2025-03-30
+url: 'https://www.airtable.com/'
 tags:
   - Productivity
   - Database-Apps
   - Asynchronous-Communication
   - Workflow-Management
   - JAM-Stack
-url: 'https://www.airtable.com/'
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 One of the [[concepts/Explainers for Tooling/Database Apps]], and is also partially an [[Advanced Spreadsheets]] Applies [[concepts/API First]] and [[Documentation First Development|Documentation First]] strategies.
 

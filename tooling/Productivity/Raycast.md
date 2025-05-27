@@ -3,8 +3,7 @@ site_uuid: 6ffc471f-6b84-4df4-82ba-6f5d0044c08e
 url: https://www.raycast.com/
 youtube_channel_url: https://www.youtube.com/@raycastapp
 zinger: Your shortcut to everything.
-description_site_cp: >-
-  A collection of powerful productivity tools all within an extendable launcher.
+description_site_cp: A collection of powerful productivity tools all within an extendable launcher.
   Fast, ergonomic and reliable.
 docs_url: https://developers.raycast.com/
 date_modified: '2025-04-12'
