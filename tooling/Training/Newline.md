@@ -8,6 +8,6 @@ og_image: 'https://d8dgeb1f3fxgw.cloudfront.net/static/img/og/newline-site-twitt
 site_name: newline
 title: 'Learn React, Angular, Vue, GraphQL, & Node.js with Real-World Projects'
 date_modified: 2025-04-18
-og_screenshot_url: 'https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/083681724f2f9db069949753d2f74ed2318518cc9fcc54f3a5a37003493ea872.jpeg'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/_uploads_lossless_screenshots_20250527_Newline_og_screenshot.jpeg'
 ---
 
