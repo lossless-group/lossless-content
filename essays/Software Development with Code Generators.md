@@ -9,7 +9,7 @@ date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
-category: 
+category: 'Best Practices'
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Software-Development-with-Code-Generators_1634a98f-dcc0-4eef-98b7-e6dd72857344_A3fxcJLs1.jpg
 image_prompt: A home is being carefully constructed by bricklayers. Dash from 'The Incredibles' and Flash from the DC Comics franchise are running through the scene, and bricks are flying.
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Software-Development-with-Code-Generators_7a6137af-e28c-4296-a8d0-a798ed08f58e_-Gkxu5jxw.jpg

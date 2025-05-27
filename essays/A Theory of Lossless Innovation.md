@@ -9,7 +9,7 @@ date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.4
 status: To-Do
 augmented_with: Perplexica AI
-category: Conceptual-Frameworks
+category: 'Conceptual Frameworks'
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_A-Theory-of-Lossless-Innovation_edfa7ba7-abd5-4c2d-b89f-5caab074c01e_XpX7K0-BK.jpg
 image_prompt: "A conceptual diagram showing a bridge between innovation and stability, with icons representing new ideas and customer loyalty. The style is clean and modern."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_A-Theory-of-Lossless-Innovation_105fca66-f27a-44e8-975e-ae04b0a02ee5_FLkwI0e91.jpg

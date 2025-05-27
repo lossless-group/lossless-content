@@ -6,7 +6,7 @@ date_authored_current_draft: 2025-05-27
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: 'Perplexica AI'
-category: Marketing-Strategies
+category: 'Counterintuitive Approaches'
 date_created: 2025-04-24
 date_modified: 2025-05-27
 site_uuid: bb01a67a-595a-4c0d-bc6b-694be9a497c0

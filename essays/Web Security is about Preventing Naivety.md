@@ -9,7 +9,7 @@ date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
-category: 
+category: 'Counterintuitive Approaches'
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Web-Security-is-about-Preventing-Naivety_e0deec41-f157-4ff3-8f3a-01d8cd6119bc_0DzSYGdQm.jpg
 image_prompt: A digital fortress with a moat, inside are everyday users, while outside shadowy figures try to cross. The mood is vigilant, modern, and slightly tense.
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Web-Security-is-about-Preventing-Naivety_b59c34e3-ddcf-4b36-b2e1-33361e161945_f3ABHaI7G.jpg
