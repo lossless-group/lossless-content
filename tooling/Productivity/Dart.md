@@ -1,52 +1,18 @@
 ---
 site_uuid: cddc683c-828c-4d2a-a628-4ff12e595599
-url: https://www.itsdart.com/
-zinger: AI project management software for smarter teams
-description_site_cp: Dart will save you seven hours per week in project management overhead
-image: >-
-  https://cdn.prod.website-files.com/659e83b16fe25e7824e48b3a/6604a9ac211a7874356f2514_open%20graph.png
+url: 'https://www.itsdart.com/'
+zinger: 'AI project management software for smarter teams'
+description_site_cp: 'Dart will save you seven hours per week in project management overhead'
 site_name: Dart
-title: AI project management software for smarter teams
-favicon: >-
-  https://cdn.prod.website-files.com/659e83b16fe25e7824e48b3a/65ce9b2768c10a8152de1df8_favicon.png
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/48983fdb2c7f075d88429fd6d99983a6ae6d62a04bf0841d32bf7970e25a6dd7.jpeg
-jina_last_request: '2025-03-09T06:45:04.067Z'
-jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:19:01.823Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.854Z'
+title: 'AI project management software for smarter teams'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads_lossless_screenshots_20250527_Dart_og_screenshot.jpeg'
+date_modified: 2025-04-12
+date_created: 2025-03-30
 tags:
   - Productivity
+  - AI-Native
+  - Workflow-Management
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [[Workflow Management]]
 

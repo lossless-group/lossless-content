@@ -1,50 +1,25 @@
 ---
 site_uuid: ced5bc2f-723c-4a6f-af09-2ef9078d6052
-image: https://clickup.com/assets/brand/clickup-meta.png
+image: 'https://clickup.com/assets/brand/clickup-meta.png'
 site_name: ClickUp™
-title: The everything app for work
-favicon: https://clickup.com/favicons/favicon-32x32.png
+title: 'The everything app for work'
+favicon: 'https://clickup.com/favicons/favicon-32x32.png'
 og_errors: true
 og_last_error: '2025-03-07T05:36:38.596Z'
-og_error_message: Error occurred
+og_error_message: 'Error occurred'
 jina_last_request: '2025-03-09T06:45:17.120Z'
-jina_error: Error occurred
+jina_error: 'Error occurred'
 og_last_fetch: '2025-03-07T05:19:01.823Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.854Z'
+date_modified: 2025-04-12
+date_created: 2025-03-30
+url: 'https://clickup.com/'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads_lossless_screenshots_20250527_ClickUp_og_screenshot.jpeg'
 tags:
   - Productivity
   - Workflow-Management
   - Check-It-Out
   - Asynchronous-Communication
-url: 'https://clickup.com/'
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [[Rebundling]], [[Workflow Management]], [[concepts/Cognitive, Collaborative Tooling]]
 [[All-in-One Platforms|All-in-One Platform]]
