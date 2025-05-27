@@ -11,8 +11,7 @@ jina_error: 'Error occurred'
 og_last_fetch: '2025-05-27T03:09:24.552Z'
 date_modified: 2025-05-27
 date_created: 2025-03-30
-tags:
-  - Training
+tags: [Training]
 ---
 
 ![](https://i.imgur.com/USlZfVg.jpeg)
