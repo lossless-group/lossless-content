@@ -8,7 +8,7 @@ date_authored_current_draft: 2025-05-04
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
-category: Blind-Spots
+category: 'Blind Spots'
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Why-Text-Manipulation-is-Now-Mission-Critical_20b00aea-430f-42f5-938f-bd45fbf50d45_or9ISGmLZ.jpg
 image_prompt: "A developer surrounded by swirling streams of text, code, and data, with tools like pipes and filters transforming the flow. The mood is technical, fast-paced, and empowering."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Why-Text-Manipulation-is-Now-Mission-Critical_1cb56b21-45b2-41b4-988e-cc50dbefb356_KODAjAMOq.jpg

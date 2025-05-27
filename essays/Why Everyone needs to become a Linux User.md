@@ -9,7 +9,7 @@ date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
-category: 
+category: 'Blind Spots'
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Why-Everyone-needs-to-become-a-Linux-User_fa43d557-806f-4045-ac5b-8e6a120b0fbb_N-ek3-5247.jpg
 image_prompt: "A diverse group of people gathered around a penguin (Tux), each using different devices—laptop, tablet, phone—against a backdrop of open-source icons. The mood is inclusive, empowering, and modern."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Why-Everyone-needs-to-become-a-Linux-User_f0e2cd9d-7e7d-4fa2-ad35-26dff421a62f_vL00R6uJC.jpg

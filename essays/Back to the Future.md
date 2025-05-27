@@ -9,7 +9,7 @@ date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
-category: 
+category: 'Best-Practices'
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Back-to-the-Future_f185b129-8856-4150-891d-39a356745964_1oWaU4F7R.jpg
 image_prompt: "A robot scientist styled like 'Doc' from Back to the Future, standing beside a futuristic DeLorean with an AI logo, inviting a passenger to learn AI skills. The scene blends retro sci-fi with modern technology."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Back-to-the-Future_8e54c711-a0ad-42c7-b5a6-56b4d9c253fd_T8diY8KQy.jpg
@@ -21,6 +21,8 @@ authors:
 As we are living it, we often miss the radically historic shifts that are happening around us.  We miss their implications, and miss the opportunities they generate.  
 
 So let us go back to the future. 
+
+> I think we have been working in collaborative workshops. We will be working in collaborative supply chains.
 
 Up until well into the industrial revolution, industries were mainly organized by guilds of skilled tradesman. Products were designed and manufactured in workshops, their component parts were either made in-house or sourced through local, or sometimes regional networks. 
 

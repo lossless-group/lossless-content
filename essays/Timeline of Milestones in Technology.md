@@ -9,7 +9,7 @@ date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
-category: 
+category: 'Tectonic Shifts'
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Timeline-of-Milestones-in-Technology_31799990-44ec-4523-8272-fdde9163fa13_1LY-ekjYL.jpg
 image_prompt: "A horizontal timeline with icons for major inventions—steam engine, telephone, computer, smartphone—each glowing at its milestone. The mood is historical, energetic, and optimistic."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Timeline-of-Milestones-in-Technology_33812139-bdc9-4981-b11b-24c67fa8ac7a_qwJGwy1ss.jpg

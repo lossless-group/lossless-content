@@ -9,7 +9,7 @@ date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
-category: 
+category: 'Full-Body Commitments'
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_From-Rags-to-Riches_1c824280-8f16-4a82-abc0-bbcbefc2648e_6fPgp5R15.jpg
 image_prompt: "A split scene: on top, a young street pauper in old London; below, a glowing software architecture diagram showing an AI chip fed by databases and fileservers, symbolizing the leap from rags to riches through RAG. The mood is transformative and technical."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_From-Rags-to-Riches_a256493c-2ecf-471a-a6e8-6c428858c704_GqCMJtk3M.jpg

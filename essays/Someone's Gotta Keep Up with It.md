@@ -9,7 +9,7 @@ date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
-category: 
+category: 'Avoid and Peril'
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Someones-Gotta-Keep-Up-with-It_cf386855-8093-40dd-b07a-7c3a1eb7003a_tYY2k9aMF.jpg
 image_prompt: "A person sprinting on a treadmill made of circuit boards, with new technologies and icons flying by on a digital display. The mood is urgent, dynamic, and futuristic."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Someones-Gotta-Keep-Up-with-It_0094f420-5eec-4eac-8018-017867dd990c_YGGDZOjWY.jpg

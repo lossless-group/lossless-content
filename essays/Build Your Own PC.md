@@ -9,7 +9,7 @@ date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
-category: 
+category: 'Counterintutive Approaches'
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Build-Your-Own-PC_d8c97686-17ed-458a-820c-66c8cb9e6804_I5Ok1O8EH.jpg
 image_prompt: "A modern home office with computer parts spread out on a table, a person assembling a high-end PC, and AI model icons floating above the workstation. The vibe is technical, hands-on, and empowering."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Build-Your-Own-PC_8fcca967-3735-4fc3-8b05-c32902f756bc_nGA1ft24y.jpg

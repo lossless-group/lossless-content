@@ -9,7 +9,7 @@ date_authored_current_draft: 2025-04-24
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
-category: 
+category: 'Conceptual Frameworks'
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_Technology-wants-to-be-Emergent_a2565a3a-ec94-42eb-a98c-0e42355db8ad_-SKBBhqSH.jpg
 image_prompt: "A network of glowing nodes and connections expanding outward, with new technologies sprouting organically from the web. The mood is dynamic, organic, and futuristic."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Technology-wants-to-be-Emergent_c6977eee-db32-470b-9ff2-375465d850f5_gEGkdDaHF.jpg
