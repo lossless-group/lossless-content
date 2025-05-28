@@ -1,9 +1,8 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2025-05-28
 site_uuid: b807001a-8207-463a-8ecd-c51c2c3ed4c0
 date_created: 2025-04-06
-aliases:
-  - WASM
+aliases: [WASM]
 ---
 
 A [[Web Standards|Web Standard]]
@@ -34,7 +33,7 @@ WebAssembly (Wasm) is maintained as an open standard by the **World Wide Web Con
 - **Microsoft**: Actively supports Wasm through its integration in tools like Azure and Edge.
 - **Google**: Provides support via Chrome and V8, its JavaScript engine.
 - **Apple**: Contributes through WebKit and Safari.
-- **Fastly**: Focuses on Wasm's use in edge computing.
+- **[[Fastly]]**: Focuses on Wasm's use in edge computing.
 - **Intel and Red Hat**: Work on expanding Wasm's capabilities in cloud-native and enterprise environments[4][5].
 
 Other contributors include companies like Cloudflare, Vercel, and Netlify, which support deploying Wasm in edge runtimes[6].

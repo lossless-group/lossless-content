@@ -36,7 +36,7 @@ Independent organizations creating models include:
 - [[Anthropic]], maintaining [[Claude]].
 - [[Cognition AI]], maintaining [[Devin]].
 - [[DeepSeek]], maintaining [[DeepSeek]] and [[r1]].
-- [[organizations/Mistral]], maintaining [[Small]]. 
+- [[Tooling/AI-Toolkit/Model Producers/Mistral]], maintaining [[Small]]. 
 - [[Black Forest Labs]], maintaining [[Flux]]
 - [[organizations/Stanford Research Institute|SRI]], maintaining [[STORM]]. 
 - [[organizations/X]], maintaining [[Grok]]
