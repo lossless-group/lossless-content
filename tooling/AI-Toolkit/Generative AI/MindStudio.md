@@ -1,85 +1,19 @@
 ---
 site_uuid: 601a5b30-d336-458f-b022-2c55883dd8e2
-url: https://www.mindstudio.ai/
-image: >-
-  https://cdn.prod.website-files.com/66291ea753afcdeb0a5406f1/672530c84cf86cc774b0d161_Getting%20Started%20with%20MindStudio%201.png
+url: 'https://www.mindstudio.ai/'
 site_name: MindStudio
-title: MindStudio
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/a066df0370b87c348389a35b906473f8b3886088d08794cec0002160b35cad95.jpeg
+title: 'Build Powerful AI Agents With MindStudio'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_MindStudio_og_screenshot.jpeg'
 jina_last_request: '2025-03-09T06:45:00.072Z'
-jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:19:59.536Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.836Z'
+jina_error: 'Error occurred'
+og_last_fetch: '2025-05-28T15:48:36.930Z'
+date_modified: 2025-05-28
+date_created: 2025-03-30
+og_image: 'https://youai-cdn.s3.us-west-2.amazonaws.com/images/76b81a63-51ec-43f4-b4ea-0b5023be600a_1744129864010.png'
+og_url: 'https://www.mindstudio.ai/build-agents'
+description: 'For yourself, your team, or your enterprise—no coding required.'
 tags:
   - AI-Toolkit
   - Generative-AI
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://youtu.be/uMmIZ1yvTR4?si=EqnTkKD2uBHrHClW

@@ -1,83 +1,18 @@
 ---
 site_uuid: 2547def5-fc19-49e2-9c17-e1651c8b6fb5
-url: https://www.capcut.com/
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/080b8ca5fc3b8b4fff4e350e8d4d501f167b01c72862170bfe22b70c4d62041e.jpeg
-og_errors: true
-og_last_error: '2025-03-07T10:19:45.897Z'
-og_error_message: HTTP error 401
-jina_last_request: '2025-03-09T06:45:08.064Z'
-jina_error: Error occurred
-og_last_fetch: '2025-03-07T06:12:36.466Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.832Z'
+url: 'https://www.capcut.com/'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_CapCut_og_screenshot.jpeg'
+date_modified: 2025-05-28
+date_created: 2025-03-30
+og_image: 'https://sf16-web-tos-buz.capcutstatic.com/obj/capcut-web-buz-sg/ies/lvweb_os_monorepo/platformSSR/3f7c59f36d529f90-1200.png'
+og_url: 'https://www.capcut.com/'
+site_name: CapCut
+title: 'CapCut | All-in-one video editor & graphic design tool driven by AI'
+description: 'CapCut is an all-in-one creative platform powered by AI that enables video editing and image design on browsers, Windows, Mac, Android, and iOS.'
+og_last_fetch: '2025-05-28T15:04:38.620Z'
 tags:
   - AI-Toolkit
   - Generative-AI
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Has a native [[Desktop Application]]

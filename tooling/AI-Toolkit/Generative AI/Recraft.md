@@ -1,14 +1,18 @@
 ---
-url: https://www.recraft.ai/
+url: 'https://www.recraft.ai/'
 date_created: 2025-04-14
-date_modified: 2025-04-18
+date_modified: 2025-05-28
 site_uuid: 1ee9e920-95ce-406e-b315-b93d09b8f883
-og_image: https://www.recraft.ai/images/recraftai-og.jpg?1
-og_url: https://www.recraft.ai/
+og_image: 'https://www.recraft.ai/images/recraftai-og.jpg?1'
+og_url: 'https://www.recraft.ai/'
 site_name: Recraft
-title: Infinite AI Artboard
-description: Premium image generation and editing tool. Store and share your own styles, create, fine-tune, upscale, and perfect your visuals.
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/1f5d0a73df8df7c2e6ac5ddf2a1320a42c54f07b19758b017a2ceaa5a6cd589f.jpeg
+title: 'Infinite AI Artboard'
+description: 'Premium image generation and editing tool. Store and share your own styles, create, fine-tune, upscale, and perfect your visuals.'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Recraft_og_screenshot.jpeg'
+og_last_fetch: '2025-05-28T16:00:03.848Z'
+tags:
+  - Text-to-Image
+  - API-Integrations
 ---
 
 Slava had an interview [^1]
@@ -44,4 +48,4 @@ Slava had an interview [^1]
 
 # Footnotes
 ***
-[^1]: April 16, 2025. Meeting with Slava.  
+[^1]: April 16, 2025. Meeting with Slava.
