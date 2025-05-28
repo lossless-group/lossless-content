@@ -149,7 +149,7 @@ https://youtu.be/qYChSSP8TTA?si=Leah7CGH_oGHbfK0
 https://youtu.be/5P4IJS9q_yg?si=2kp7Hm7cT7XrgkZ7
 
 [[concepts/Explainers for AI/Prompt Engineering]]
-[[RAG]]
+[[Vocabulary/Retrieval-Augmented Generation]]
 
 [[Anthropic]] released a [[Data Standard]]
 
@@ -181,7 +181,7 @@ https://youtu.be/m46tZX6vceI?si=Xhuz94XNYIa1y3Xp
 
 
 [[concepts/Explainers for AI/Prompt Engineering]]
-[[RAG]]
+[[Vocabulary/Retrieval-Augmented Generation]]
 
 [[Anthropic]] released a [[Data Standard]]
 

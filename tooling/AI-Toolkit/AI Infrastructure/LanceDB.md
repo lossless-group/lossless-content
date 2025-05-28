@@ -16,7 +16,7 @@ tags:
 ---
 
 [[Vocabulary/Vector Databases|Vector Databases]]
-[[Vocabulary/RAG|RAG]]
+[[Vocabulary/Retrieval-Augmented Generation|RAG]]
 
 
 

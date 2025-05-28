@@ -1,11 +1,16 @@
 ---
 site_uuid: 6f78cefa-18d6-4bdf-8f56-d5e19b42ad5e
 date_created: 2025-03-30
-date_modified: 2025-04-24
+date_modified: 2025-05-28
 ---
 
 
-A key element of[[Clayton Christensen]]'s theory of [[Disruptive Innovation]], explained across several key books.  
+A key element of[[Clayton Christensen]]'s theory of [[Disruptive Innovation]], explained across several key books, is the **Jobs to be Done** (JTBD) framework. 
+
+Yet, I think most companies do not fully grasp the message that Christensen is trying to convey, probably because he used a phrase that is too familiar. It's worth reading his case studies with some strong attention to patterns and detail, and fully digesting the deeper, more challenging message.
+
+Customers often want a product or service for reasons that are not immediately obvious. When asked, customers are often inarticulate or silent. And they may invent perfectly rational, better explanations that turn out to be plausible but not the core of their motivation and decisioning.
+
 
 From [[Poe AI]]:
 

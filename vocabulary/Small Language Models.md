@@ -9,4 +9,4 @@ aliases:
 
 https://youtu.be/C4mcQ3gAUNg?si=EBGJirCaDuV65xSs
 
-[[RAG]]
+[[Vocabulary/Retrieval-Augmented Generation]]

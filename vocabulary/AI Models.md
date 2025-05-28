@@ -80,7 +80,7 @@ Tools
 2024, Nov 20. [Multimodal AI: LLMs that can see (and hear)](https://youtu.be/Ot2c5MKN_-w?si=ku0hpAHSCfcRZmXR) Shaw Talebi, [[YouTube]].
 ![[IMG_1914_Concept-Diagram--Multimodal-Models.png]]
 
-[[RAG]] and [[Knowledge Augmented Generation|KAG]]
+[[Vocabulary/Retrieval-Augmented Generation]] and [[Knowledge Augmented Generation|KAG]]
 
 ![[Cursor#Cursor connects to AI Models by using Application Programming Interface APIs]]
 

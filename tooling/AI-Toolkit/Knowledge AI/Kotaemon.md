@@ -67,7 +67,7 @@ tags:
 
 
 
-[[Open Source]] [[RAG]]
+[[Open Source]] [[Vocabulary/Retrieval-Augmented Generation]]
 
 [[Knowledge Base AI]]
 

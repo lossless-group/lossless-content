@@ -14,13 +14,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 og_image: https://msty.app/msty-screenshots/msty-og-image.png
 og_url: https://msty.app/
 description: 'AI beyond just plain chat. Private, Offline, Split chats, Branching, Concurrent chats, Web Search, RAG, Prompts Library, Vapor Mode, and more. Perfect LM Studio, Jan AI, and Perplexity alternative. Use models from Open AI, Deepseek, Claude, Ollama, and HuggingFace in a unified interface.'
-tags:
-  - AI-Toolkit
-  - AI-Interfaces
-  - AI-Workspaces
-  - Check-It-Out
-  - Must-Have
-  - Desktop-App
+tags: [AI-Toolkit, AI-Interfaces, AI-Workspaces, Check-It-Out, Must-Have, Desktop-App]
 ---
 
 [[MSTY]] installs LLM [[AI Models]] that [[Local LLM|run local]] deep in your filesystem:
@@ -40,3 +34,7 @@ https://youtu.be/8dy-HdURrn0?si=j8M6CO36RQBqgV7f
 ![[Screenshot From 2025-03-04 01-28-52_MSTY--Cross-Platform.png]]
 
 ![[Screenshot From 2025-03-04 01-32-19_MSTY--Getting-Started.png]]
+
+## MSTY offers a Personalized [[Vocabulary/Retrieval-Augmented Generation|RAG]] Interface
+
+![](https://i.imgur.com/JrYsxmt.png)
