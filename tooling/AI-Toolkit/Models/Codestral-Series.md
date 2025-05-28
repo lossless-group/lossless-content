@@ -60,4 +60,4 @@ tags:
 
 
 [[AI Models|AI Model]]
-[[organizations/Mistral]]
+[[Tooling/AI-Toolkit/Model Producers/Mistral]]

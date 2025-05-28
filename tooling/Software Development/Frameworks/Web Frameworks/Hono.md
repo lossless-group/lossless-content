@@ -12,9 +12,7 @@ date_modified: 2025-05-28
 date_created: 2025-03-30
 og_image: https://hono.dev/images/hono-title.png
 description: 'Hono is a small, simple, and ultrafast web framework built on Web Standards. It works on Cloudflare Workers, Fastly Compute, Deno, Bun, Vercel, Netlify, AWS Lambda, Lambda@Edge, and Node.js. Fast, but not only fast.'
-tags:
-  - AI-Toolkit
-  - AI-Programming-Frameworks
+tags: [AI-Toolkit, AI-Programming-Frameworks]
 ---
 
 [[concepts/Explainers for AI/Artificial Intelligence|AI]]
