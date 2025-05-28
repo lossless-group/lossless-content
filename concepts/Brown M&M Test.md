@@ -1,3 +1,6 @@
+---
+title: "Brown M&M Testing"
+---
 At the zenith of it's popularity, the band Van Halen gained a reputation for being temperamental, entitled jerks who would berate the venue staff for not catering to their needs and desires. An article in Rolling Stone profiled them, and quoted a venue support staff member claiming that Eddie Van Halen had berated everyone because venue staff had left brown M&Ms in their M&M bowl.  
 
 Decades later, in another profile, David Lee Roth (their future front man) explained another side to the story.  They were a successful rock band playing to large crowds, who would often pile up next to the stage. And they were the first stadium rock band to put on expensive, and dangerous, pyrotechnics -- explosions and streams of fire and fireworks went off on stage, close to the band and close to the fans.  
