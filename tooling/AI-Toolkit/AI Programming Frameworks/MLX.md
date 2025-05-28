@@ -1,6 +1,6 @@
 ---
 site_uuid: 22e4bc0d-af67-417c-8c81-08b0d84030ba
-url: 
+url: https://ml-explore.github.io/mlx/build/html/index.html
 zinger: "MLX: An array framework for Apple silicon"
 date_created: 2025-03-19T00:00:00.000Z
 date_modified: 2025-04-12

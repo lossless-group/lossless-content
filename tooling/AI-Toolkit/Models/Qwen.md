@@ -3,12 +3,13 @@ site_uuid: af0ad643-4a71-4862-8bff-fc4b6b46dd25
 github_repo_url: https://github.com/QwenLM
 parent_org: "[[organizations/Alibaba]]"
 huggingface_url: https://huggingface.co/Qwen
-date_modified: 2025-04-12
-date_created: 2025-03-31T20:44:50.511Z
-tags:
-  - AI-Toolkit
+date_modified: 2025-05-28
+date_created: 2025-03-31
+tags: [AI-Toolkit]
+product_of: "[[Tooling/AI-Toolkit/Model Producers/Cerbras|Cerbras]]"
 ---
 
+[[Tooling/AI-Toolkit/Model Producers/Cerbras|Cerbras]] seems to be a spin out of [[organizations/Alibaba|Alibaba]]
 
 
 

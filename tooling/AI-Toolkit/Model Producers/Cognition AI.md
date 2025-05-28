@@ -12,11 +12,9 @@ favicon: https://www.cognition.ai/icons/favicon.svg
 jina_last_request: '2025-03-09T06:44:58.701Z'
 jina_error: Error occurred
 og_last_fetch: '2025-03-07T05:19:18.720Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.840Z'
-tags:
-  - AI-Toolkit
-  - Model-Producers
+date_modified: 2025-05-28
+date_created: 2025-03-30
+tags: [AI-Toolkit, Model-Producers]
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/5e05e5035378609e6561af88712d58c3320bae57abff6db126da26a0f4c935bb.jpeg
 ---
