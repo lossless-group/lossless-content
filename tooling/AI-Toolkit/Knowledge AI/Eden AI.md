@@ -1,85 +1,20 @@
 ---
 site_uuid: c6478f3d-22d6-4ae7-811c-28dc034c703e
-url: https://www.edenai.co/
-image: >-
-  https://cdn.prod.website-files.com/61e7d259b7746e2d1df0b68d/621dcbfc999a57b1b4694c19_edenlogowebclip.png
-site_name: Eden AI
-title: Eden AI | The Full Stack AI Platform for Developers
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/dbb92ea6ca8eef3137612d4264b71e61db526de5ab3aeb33358e9a322851a9c5.jpeg
+url: 'https://www.edenai.co/'
+site_name: 'Eden AI'
+title: 'AI made easy for Product builders'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Eden_AI_og_screenshot.jpeg'
 jina_last_request: '2025-03-09T06:45:12.407Z'
-jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:19:18.724Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.838Z'
+jina_error: 'Error occurred'
+og_last_fetch: '2025-05-28T17:54:27.568Z'
+date_modified: 2025-05-28
+date_created: 2025-03-30
+description: 'Eden AI provides everything you need to build with AI: a unified AI API, an orchestration layer, and monitoring tools—all on a single, easy-to-use platform.'
 tags:
   - AI-Toolkit
   - Knowledge-AI
+  - AI-Developer-Platforms
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <iframe 
   style="aspect-ratio:16/9;width:100%;height:auto" 
@@ -91,6 +26,3 @@ tags:
   allowfullscreen
 ></iframe>
 2025, February 19. [Building an AI App Fast: Monitoring, Orchestration, and More Under One Roof with Eden AI](https://youtu.be/G0ylKloEIPk?si=vCPuuSuPyD4remNh). Developers Digest.
-
-
-https://youtu.be/gfNx7gGitlo?si=TUYaJNL2D6s8gnwI

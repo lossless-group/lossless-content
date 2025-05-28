@@ -8,8 +8,6 @@ og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshot
 date_modified: 2025-05-28
 date_created: 2024-12-03
 og_last_fetch: '2025-05-28T15:04:38.352Z'
-tags:
-  - AI-Toolkit
-  - Generative-AI
+tags: [AI-Toolkit, Generative-AI]
 ---
 

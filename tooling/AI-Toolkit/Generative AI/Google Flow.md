@@ -8,11 +8,7 @@ zinger: A new state of creation
 og_last_error: 2025-05-28T16:25:12.237Z
 og_error_message: OpenGraph subsystem did not return any data (timeout or crash).
 og_errors: true
-tags:
-  - AI-Toolkit
-  - Generative-AI
-  - Text-to-Video
-  - Video-Generators
+tags: [AI-Toolkit, Generative-AI, Text-to-Video, Video-Generators]
 product_of: "[[organizations/Google Labs|Google Labs]]"
 ---
 
