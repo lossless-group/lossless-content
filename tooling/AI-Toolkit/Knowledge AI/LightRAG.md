@@ -1,68 +1,25 @@
 ---
 site_uuid: e7211a66-affd-4033-b873-bc00e6671cfb
-github_repo_url: https://github.com/HKUDS/LightRAG
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.838Z'
+github_repo_url: 'https://github.com/HKUDS/LightRAG'
+url: 'https://arxiv.org/abs/2410.05779'
+date_modified: 2025-05-28
+date_created: 2025-03-30
+og_image: 'https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png'
+og_url: 'https://arxiv.org/abs/2410.05779v3'
+site_name: arXiv.org
+title: 'LightRAG: Simple and Fast Retrieval-Augmented Generation'
+desscription_site_cp: 'A framework for incorporating graph structures into text indexing and retrieval processes, employing a dual-level retrieval system that enhances comprehensive information retrieval from both low-level and high-level knowledge discovery.'
+description_extended_site_cp: 'Retrieval-Augmented Generation (RAG) systems enhance large language models (LLMs) by integrating external knowledge sources, enabling more accurate and contextually relevant responses tailored to user needs. However, existing RAG systems have significant limitations, including reliance on flat data representations and inadequate contextual awareness, which can lead to fragmented answers that fail to capture complex inter-dependencies. To address these challenges, we propose LightRAG, which incorporates graph structures into text indexing and retrieval processes. This innovative framework employs a dual-level retrieval system that enhances comprehensive information retrieval from both low-level and high-level knowledge discovery. Additionally, the integration of graph structures with vector representations facilitates efficient retrieval of related entities and their relationships, significantly improving response times while maintaining contextual relevance. This capability is further enhanced by an incremental update algorithm that ensures the timely integration of new data, allowing the system to remain effective and responsive in rapidly changing data environments. Extensive experimental validation demonstrates considerable improvements in retrieval accuracy and efficiency compared to existing approaches. We have made our LightRAG open-source and available at the link: https://github.com/HKUDS/LightRAG'
+og_screenshot_url: 'https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/067269392d9c9f6823f2e3dcf0bff76839d399199162e52e3fb2fd794913569d.jpeg'
+og_last_fetch: '2025-05-28T17:53:22.605Z'
+description: 'Retrieval-Augmented Generation (RAG) systems enhance large language models (LLMs) by integrating external knowledge sources, enabling more accurate and contextually relevant responses tailored to user needs. However, existing RAG systems have significant limitations, including reliance on flat data representations and inadequate contextual awareness, which can lead to fragmented answers that fail to capture complex inter-dependencies. To address these challenges, we propose LightRAG, which incorporates graph structures into text indexing and retrieval processes. This innovative framework employs a dual-level retrieval system that enhances comprehensive information retrieval from both low-level and high-level knowledge discovery. Additionally, the integration of graph structures with vector representations facilitates efficient retrieval of related entities and their relationships, significantly improving response times while maintaining contextual relevance. This capability is further enhanced by an incremental update algorithm that ensures the timely integration of new data, allowing the system to remain effective and responsive in rapidly changing data environments. Extensive experimental validation demonstrates considerable improvements in retrieval accuracy and efficiency compared to existing approaches. We have made our LightRAG open-source and available at the link: https://github.com/HKUDS/LightRAG'
 tags:
   - AI-Toolkit
+  - Knowledge-AI
+  - RAG-Frameworks
+  - AI-Powered-Research
+  - Open-Source-Alternatives
+  - Public-Repos
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[[Knowledge Base AI]], [[Vocabulary/Retrieval-Augmented Generation|RAG]]

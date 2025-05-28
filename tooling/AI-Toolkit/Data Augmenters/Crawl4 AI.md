@@ -1,70 +1,19 @@
 ---
 site_uuid: 69d949b9-4674-4fe0-a80b-cbde120fa24f
-github_repo_url: https://github.com/unclecode/crawl4ai
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.838Z'
+url: 'https://docs.crawl4ai.com/'
+github_repo_url: 'https://github.com/unclecode/crawl4ai'
+date_modified: 2025-05-28
+date_created: 2025-03-30
+zinger: 'Open-Source LLM-Friendly Web Crawler & Scraper'
+og_errors: true
+og_last_error: '2025-05-28T17:58:10.885Z'
+og_error_message: 'OpenGraph subsystem did not return any data (timeout or crash).'
 tags:
   - AI-Toolkit
+  - Open-Source-Alternatives
+  - AI-Web-Crawlers
+  - Data-Augmenters
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 https://youtu.be/FHVfMxOYTBM?si=WHLeAinIWsfPz3mY
 
