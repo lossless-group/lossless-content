@@ -76,4 +76,4 @@ og_screenshot_url: >-
 
 
 
-[[Knowledge Base AI]], provides the ability to chat or speak with your own [[RAG]] or [[Knowledge Augmented Generation|KAG]] setup.
+[[Knowledge Base AI]], provides the ability to chat or speak with your own [[Vocabulary/Retrieval-Augmented Generation]] or [[Knowledge Augmented Generation|KAG]] setup.

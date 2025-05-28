@@ -82,4 +82,4 @@ tags:
 
 
 
-[[RAG]]
+[[Vocabulary/Retrieval-Augmented Generation]]

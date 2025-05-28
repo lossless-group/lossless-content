@@ -3,71 +3,20 @@ site_uuid: 831aff8a-59ae-4ab7-aaaa-6f23ab86ea2c
 url: https://repoprompt.com/
 date_modified: 2025-04-24
 date_created: 2025-03-30
-og_title: Repo Prompt
-og_description: A macOS native app designed to remove all the friction involved in iterating on your code with the most powerful AI models.
+og_title: 'Repo Prompt'
+og_description: 'A macOS native app designed to remove all the friction involved in iterating on your code with the most powerful AI models.'
 og_image: https://repoprompt.com/logo192.png
 og_url: https://repoprompt.com/
-og_last_fetch: 2025-04-07T17:38:08.762Z
-tags: [Visual-Engineering, Fine-Tuners, Check-It-Out, AI-Toolkit, Prompt-Engineering, Code-Generators]
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/4f80033c3b0953497ddc6c8407a857aab53a208c5a0878fb7e105cf5abf9c786.jpeg
+og_last_fetch: '2025-04-07T17:38:08.762Z'
+og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_RepoPrompt_og_screenshot.jpeg
+tags:
+  - Visual-Engineering
+  - Fine-Tuners
+  - Check-It-Out
+  - AI-Toolkit
+  - Prompt-Engineering
+  - Code-Generators
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 https://youtu.be/13CNFjd1CwE?si=b-v0dUEBNqWbQwBU
 

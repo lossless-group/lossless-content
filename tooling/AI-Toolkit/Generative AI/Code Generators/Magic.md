@@ -4,84 +4,17 @@ url: https://21st.dev/magic
 parent_org: '[[21st.dev]]'
 image: https://21st.dev/magic-agent-og-image.png
 site_name: 21st.dev
-title: >-
-  Magic - AI Agent for Your IDE That Creates Professional UI Components |
-  21st.dev
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/d91e4feb614da04bd15c16235e51ff0f3ea99c4f776adc19f78263ac7ed4a898.jpeg
+title: 'An AI Agent for Your IDE That Creates Professional UI Components | 21st.dev'
 jina_last_request: '2025-03-09T06:45:08.108Z'
-jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:20:56.437Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.833Z'
+jina_error: 'Error occurred'
+og_last_fetch: '2025-05-28T12:14:58.641Z'
+date_modified: 2025-05-28
+date_created: 2025-03-30
+og_image: https://21st.dev/magic-agent-og-image.png
+description: 'Transform your IDE with our AI agent that understands Modern Component Patterns. Create production-ready UI components in seconds instead of hours. Built for developers who want beautiful, consistent, and maintainable React components.'
 tags:
   - AI-Toolkit
   - Generative-AI
   - Code-Generators
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

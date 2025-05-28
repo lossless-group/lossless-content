@@ -7,7 +7,6 @@ image: https://exafunction.github.io/public/images/windsurf/windsurf-ide-thumbna
 site_name: Windsurf
 title: Windsurf Editor by Codeium
 favicon: https://codeium.com/favicon.ico
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/2d10e118ad40fd692c4d55156f2285e7eae2c033a29fd9606373da510fbed0f6.jpeg
 jina_last_request: 2025-03-09T06:45:11.368Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:20:56.434Z

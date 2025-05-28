@@ -81,4 +81,4 @@ tags:
 
 
 
-[[RAG]] and [[Knowledge Augmented Generation|KAG]]
+[[Vocabulary/Retrieval-Augmented Generation]] and [[Knowledge Augmented Generation|KAG]]

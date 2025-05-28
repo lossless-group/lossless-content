@@ -4,80 +4,23 @@ github_repo_url: https://github.com/Aider-AI/aider
 url: https://aider.chat/
 image: https://aider.chat/assets/aider.jpg
 site_name: aider
-title: Home
+title: AI pair programming in your terminal
+description_site_cp: 'Aider lets you pair program with LLMs to start a new project or build on your existing codebase.'
 favicon: https://aider.chat/assets/icons/favicon-32x32.png
 og_errors: true
 og_last_error: '2025-03-07T05:38:03.917Z'
-og_error_message: Error occurred
+og_error_message: 'Error occurred'
 jina_last_request: '2025-03-09T06:45:14.990Z'
-jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:20:56.441Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.832Z'
+jina_error: 'Error occurred'
+og_last_fetch: '2025-05-28T12:26:18.953Z'
+date_modified: 2025-05-28
+date_created: 2025-03-30
+og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Aider_og_screenshot.jpeg
 tags:
   - AI-Toolkit
   - Generative-AI
   - Code-Generators
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/15cd85fdd0a91f0d76397e4c224024bde4e3693d3f6b795cf78356a392aa769d.jpeg
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [[concepts/Explainers for AI/Code Generators]] inside [[concepts/Explainers for Tooling/Terminal Emulators]], it simulates [[Pair Programming]] and is helpful for [[Code Review]].
 

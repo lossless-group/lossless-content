@@ -1,89 +1,24 @@
 ---
 site_uuid: 0cafad8f-594e-4b73-85da-303586640e5e
 url: https://www.zed.dev
-zinger: The editor for whats next
-description: >-
-  Zed is a next-generation code editor designed forhigh-performance
-  collaboration with humans and AI.
+zinger: 'The editor for whats next'
 image: https://zed.dev/api/og?title=The%20editor%20for%0Awhat%27s%20next
 site_name: Zed
-title: Zed - The editor for whats next
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/4ec42a68d8a1a84d2e195e4a8a18812ff14585034898a24648bd4e63992c54cc.jpeg
+title: "Zed — The editor for what's next"
+og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Zed_og_screenshot.jpeg
 jina_last_request: '2025-03-09T06:45:12.551Z'
-jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:20:56.434Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.834Z'
+jina_error: 'Error occurred'
+og_last_fetch: '2025-05-28T12:16:49.182Z'
+date_modified: 2025-05-28
+date_created: 2025-03-30
+og_image: https://zed.dev/api/og?title=The%20editor%20for%0Awhat%27s%20next
+og_url: https://www.zed.dev
+description: 'Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.'
 tags:
   - AI-Toolkit
   - Generative-AI
   - Code-Generators
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [[concepts/Explainers for Tooling/Text Editors or IDEs]]
 
