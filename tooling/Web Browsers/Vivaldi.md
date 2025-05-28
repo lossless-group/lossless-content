@@ -8,7 +8,6 @@ og_description: 'With all the features and tools you need built-in and unmatched
 og_url: 'https://vivaldi.com/'
 site_name: Vivaldi
 og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250527_Vivaldi_og_screenshot.jpeg'
-tags:
-  - Web-Browsers
+tags: [Web-Browsers]
 ---
 
