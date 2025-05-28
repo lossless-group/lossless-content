@@ -3,13 +3,17 @@ site_uuid: bdccc07c-f8a4-44de-8cb7-4f7f662f3e0d
 url: https://msty.app/
 image: https://msty.app/msty-screenshots/msty-og-image.png
 site_name: Msty
-title: Msty - Using AI Models made Simple and Easy
+title: 'Msty - Using AI Models made Simple and Easy'
 favicon: https://msty.app/favicon.ico
 jina_last_request: '2025-03-09T06:45:20.658Z'
-jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:20:56.747Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.820Z'
+jina_error: 'Error occurred'
+og_last_fetch: '2025-05-28T02:45:14.956Z'
+date_modified: 2025-05-28
+date_created: 2025-03-30
+og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_MSTY_og_screenshot.jpeg
+og_image: https://msty.app/msty-screenshots/msty-og-image.png
+og_url: https://msty.app/
+description: 'AI beyond just plain chat. Private, Offline, Split chats, Branching, Concurrent chats, Web Search, RAG, Prompts Library, Vapor Mode, and more. Perfect LM Studio, Jan AI, and Perplexity alternative. Use models from Open AI, Deepseek, Claude, Ollama, and HuggingFace in a unified interface.'
 tags:
   - AI-Toolkit
   - AI-Interfaces
@@ -17,66 +21,7 @@ tags:
   - Check-It-Out
   - Must-Have
   - Desktop-App
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/2d243b015c15897c49c435b077e62a8ccd3573caa27f7822a3086fab22e0aeac.jpeg
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [[MSTY]] installs LLM [[AI Models]] that [[Local LLM|run local]] deep in your filesystem:
 `/home/[user]/.config/Msty/models`

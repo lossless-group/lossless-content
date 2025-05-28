@@ -1,16 +1,16 @@
 ---
 site_uuid: d729680e-d296-4c7c-be91-9e08544aea99
 created_by: '[[organizations/Meta]]'
-github_repo_url: 'https://github.com/ollama/ollama'
-github_profile_url: 'https://github.com/ollama'
+github_repo_url: https://github.com/ollama/ollama
+github_profile_url: https://github.com/ollama
 date_modified: 2025-04-18
 date_created: 2025-03-31
-url: 'https://ollama.com/'
-og_image: 'https://ollama.com/public/og.png'
-og_url: 'https://ollama.com'
+url: https://ollama.com/
+og_image: https://ollama.com/public/og.png
+og_url: https://ollama.com
 title: Ollama
 description: 'Get up and running with large language models.'
-og_screenshot_url: 'https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/1d9fc6d9882416d423457fc4a350b42611d8160f76a2aa2535009af9e159cdfa.jpeg'
+og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_OLlama_og_screenshot.jpeg
 ---
 
 Created and maintained by [[organizations/Meta]]
