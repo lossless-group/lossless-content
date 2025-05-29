@@ -9,10 +9,6 @@ jina_error: 'Error occurred'
 og_last_fetch: '2025-05-28T03:18:36.666Z'
 date_modified: 2025-05-28
 date_created: 2025-03-30
-tags:
-  - AI-Toolkit
-  - Data-Augmenters
-  - AI-Notetakers
-  - Meeting-Notes
+tags: [AI-Toolkit, Data-Augmenters, AI-Notetakers, Meeting-Notes]
 ---
 

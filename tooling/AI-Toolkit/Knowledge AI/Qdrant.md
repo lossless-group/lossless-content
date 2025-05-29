@@ -13,12 +13,7 @@ date_created: 2025-03-30
 og_image: 'https://qdrant.tech/images/previews/social-preview-A.png'
 og_url: 'https://qdrant.tech/'
 description: 'Qdrant is an Open-Source Vector Database and Vector Search Engine written in Rust. It provides fast and scalable vector similarity search service with convenient API.'
-tags:
-  - AI-Toolkit
-  - Knowledge-AI
-  - Database
-  - Open-Source-Alternatives
-  - Vector-Databases
+tags: [AI-Toolkit, Knowledge-AI, Database, Open-Source-Alternatives, Vector-Databases]
 ---
 
 A [[Vector Databases]] commonly used in [[Vocabulary/Retrieval-Augmented Generation]] and [[Knowledge Augmented Generation|KAG]] systems.

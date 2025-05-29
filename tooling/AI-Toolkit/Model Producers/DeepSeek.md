@@ -1,80 +1,23 @@
 ---
 site_uuid: b264dd92-d77d-48ec-9255-8241d8632f1a
-url: https://www.deepseek.com/
-image: https://chat.deepseek.com/deepseek-chat.jpeg
+url: 'https://www.deepseek.com/'
+image: 'https://chat.deepseek.com/deepseek-chat.jpeg'
 site_name: DeepSeek
-title: DeepSeek
-favicon: https://www.deepseek.com/favicon.ico
+title: '深度求索'
+favicon: 'https://www.deepseek.com/favicon.ico'
 jina_last_request: '2025-03-09T06:45:08.080Z'
-jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:19:18.720Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.840Z'
+jina_error: 'Error occurred'
+og_last_fetch: '2025-05-28T23:02:07.376Z'
+date_modified: 2025-05-29
+date_created: 2025-03-30
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_DeepSeek_og_screenshot.jpeg'
+og_image: 'https://chat.deepseek.com/deepseek-chat.jpeg'
+og_url: 'https://www.deepseek.com/'
+description: '深度求索（DeepSeek），成立于2023年，专注于研究世界领先的通用人工智能底层模型与技术，挑战人工智能前沿性难题。基于自研训练框架、自建智算集群和万卡算力等资源，深度求索团队仅用半年时间便已发布并开源多个百亿级参数大模型，如DeepSeek-LLM通用大语言模型、DeepSeek-Coder代码大模型，并在2024年1月率先开源国内首个MoE大模型（DeepSeek-MoE），各大模型在公开评测榜单及真实样本外的泛化效果均有超越同级别模型的出色表现。和 DeepSeek AI 对话，轻松接入 API。'
 tags:
   - AI-Toolkit
   - Model-Producers
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/bd62c0962c92f5aec74eaff6566de1dc28669b3f91cc035284cf3410ba19947e.jpeg
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://youtu.be/48GRiu-TMmg?si=pHoh4c7zcwk69AAC
 
 One of the primary organizations creating [[AI Models]].
 <iframe 
@@ -98,8 +41,6 @@ One of the primary organizations creating [[AI Models]].
   allowfullscreen
 ></iframe>
 2025, February 3. [Can China Really Defeat the U.S. in Technology? | @VisualPolitikEN](https://youtu.be/FuTFid1iFBw?si=Pg4-T5q5sjzNTXrc). VisualPolitik EN.
-
-https://youtu.be/0VLAoVGf_74?si=Xe11X1pLiysmX0DM
 
 <iframe 
   style="aspect-ratio:16/9;width:100%;height:auto" 
@@ -155,14 +96,3 @@ https://youtu.be/0VLAoVGf_74?si=Xe11X1pLiysmX0DM
   allowfullscreen
 ></iframe>
 2025, February 18. [Automate 1000s of Document Processing with Deepseek + Wrk | Part 2 of using Deepseek for BPA](https://youtu.be/nJeW6_tikuI?si=ckvbeW3flsX8RRb2). Wrk. [[Document Processing]], [[Workflow Automations]])
-
-https://youtu.be/0VLAoVGf_74?si=jDAwRAusEF6q-1NM
-
-https://youtu.be/fTjPEE0fk-U?si=hK-1VNBmOHjqdJN3
-
-https://youtu.be/iEda8_Mvvo4?si=KRPhmhOmg2aCLGM4
-
-https://youtu.be/KoGnxuZmuYg?si=vg2A-b_Qrrzt3Kki
-
-
-https://youtu.be/0VLAoVGf_74?si=9Q48zF0pE_hP9VE0

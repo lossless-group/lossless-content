@@ -1,78 +1,17 @@
 ---
 site_uuid: 541235f6-b488-4042-8a76-9f144ccccf36
 title: OpenAI
+url: 'https://openai.com/'
 site_visibility: public
-date_modified: '2025-04-12'
-date_created: '2025-03-31T20:44:50.510Z'
+date_modified: 2025-05-29
+date_created: 2025-03-31
+og_image: 'https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/aa2f914943c839ce6b75b8620a46b340/SEO_Banner_2560x1440_02.png?w=1600&h=900&fit=fill'
+description: 'We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and beneficial AGI is our mission.'
+og_last_fetch: '2025-05-28T23:24:31.977Z'
 tags:
   - AI-Toolkit
   - Model-Producers
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 https://youtu.be/RPbmMmcNvYA?si=2HVnqr9U2mQ607Bn
 

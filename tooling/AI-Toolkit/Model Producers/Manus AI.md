@@ -1,73 +1,19 @@
 ---
 site_uuid: d3acc327-4739-469e-a06a-e3bc115625d7
-url: https://manus.im/
-description_site_cp: "Manus is a general AI agent that bridges minds and actions: it doesnt just think, it delivers results. Manus excels at various tasks in work and life, getting everything done while you rest."
+url: 'https://manus.im/'
+description_site_cp: 'Manus is a general AI agent that bridges minds and actions: it doesnt just think, it delivers results. Manus excels at various tasks in work and life, getting everything done while you rest.'
 date_created: 2025-03-09
-date_modified: 2025-04-12
-zinger: Leave it to Manus
-og_error: Failed to fetch OpenGraph data
-og_last_fetch: 2025-04-07T17:38:16.161Z
-tags: [Agentic-Workspaces, AI-Models]
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/3174330a4ca47da94bef103de6b5d83d910778de5309066abdcb025a8c2abd67.jpeg
+date_modified: 2025-05-29
+zinger: 'Leave it to Manus'
+og_last_fetch: '2025-05-28T23:17:57.454Z'
 site_name: Manus
+og_image: 'https://files.manuscdn.com/webapp/media/ogBanner.png'
+title: Manus
+description: 'Manus is a general AI agent that turns your thoughts into actions. It excels at various tasks in work and life, getting everything done while you rest.'
+tags:
+  - Agentic-Workspaces
+  - AI-Models
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [[concepts/Explainers for AI/Artificial General Intelligence|AGI]]
 

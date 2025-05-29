@@ -16,9 +16,7 @@ date_created: 2025-03-30
 og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Elai.io_og_screenshot.jpeg'
 og_image: 'https://elai.io/wp-content/uploads/2024/04/Group3.webp'
 og_url: 'https://elai.io/'
-tags:
-  - AI-Toolkit
-  - Generative-AI
+tags: [AI-Toolkit, Generative-AI]
 ---
 
 [[Video Generator]].

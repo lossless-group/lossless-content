@@ -8,11 +8,7 @@ zinger: 'Open-Source LLM-Friendly Web Crawler & Scraper'
 og_errors: true
 og_last_error: '2025-05-28T17:58:10.885Z'
 og_error_message: 'OpenGraph subsystem did not return any data (timeout or crash).'
-tags:
-  - AI-Toolkit
-  - Open-Source-Alternatives
-  - AI-Web-Crawlers
-  - Data-Augmenters
+tags: [AI-Toolkit, Open-Source-Alternatives, AI-Web-Crawlers, Data-Augmenters]
 ---
 
 https://youtu.be/FHVfMxOYTBM?si=WHLeAinIWsfPz3mY

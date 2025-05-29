@@ -1,83 +1,24 @@
 ---
 site_uuid: 0b506300-1c8b-4619-bc08-362bd9a3edb9
-url: https://www.anthropic.com
+url: 'https://www.anthropic.com'
 jina_last_request: '2025-03-09T06:45:13.495Z'
-jina_error: Error occurred
-og_errors: true
+jina_error: 'Error occurred'
 og_last_error: '2025-03-09T08:16:01.669Z'
 og_error_message: 'Fetch error: fetch failed'
-image: >-
-  https://cdn.sanity.io/images/4zrzovbb/website/4b8bc05b916dc4fbaf2543f76f946e5587aaeb43-2400x1260.png
-site_name: Home
-title: Home
-favicon: https://www.anthropic.com/favicon.ico
-og_fetched_url: https://www.anthropic.com
-og_last_fetch: '2025-03-14T04:43:29.669Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-31T20:44:50.510Z'
+site_name: Anthropic
+zinger: 'A better future with AI'
+favicon: 'https://www.anthropic.com/favicon.ico'
+og_fetched_url: 'https://www.anthropic.com'
+og_last_fetch: '2025-05-28T22:49:53.467Z'
+date_modified: 2025-05-29
+date_created: 2025-03-31
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Anthropic_og_screenshot.jpeg'
+og_image: 'https://cdn.prod.website-files.com/67ce28cfec624e2b733f8a52/68309ab48369f7ad9b4a40e1_open-graph.jpg'
+description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
 tags:
   - AI-Toolkit
   - Model-Producers
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/afe2508ac4caf5ee1733a2f27207ba7219f309f11664d73da2368c3d760c4eb9.jpeg
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [[Claude]], [[Haiku]]
 
@@ -115,5 +56,3 @@ Sources
 
 ### Error Handling in the [[Anthropic]] [[REST API]].
 ![[20250125_Errors - Anthropic.jpeg]]
-
-https://www.youtube.com/live/esCSpbDPJik?si=1YFe9Kh7PEZNtapM
