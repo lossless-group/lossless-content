@@ -56,7 +56,7 @@ https://youtu.be/OFS90-FX6pg?si=59krfZlRM21AkqLB
 
 2000 [[Roy Fielding]] submits his Dissertation to the University of California, Irvine, entitled "Architectural Styles and the Design of Network-based Software Architectures"
 
-2003 [[Eelco Dolstra]] submits his Dissertation entitled "[The Purely Functional Software Deployment Model](https://edolstra.github.io/pubs/phd-thesis.pdf)," the thinking would later become the inspiration for [[organizations/Nix]].
+2003 [[Eelco Dolstra]] submits his Dissertation entitled "[The Purely Functional Software Deployment Model](https://edolstra.github.io/pubs/phd-thesis.pdf)," the thinking would later become the inspiration for [[organizations/NixOS]].
 
 2003, [[B.J. Fogg]] published *Persuasive Technology: Using Computers to Change What We Think and Do*, popularizing the theories of [[Persuasive Technology]].
 

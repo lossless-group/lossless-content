@@ -6,7 +6,7 @@ generated_with: MSTY on Gemma 3
 categories:
   - Markdown-Rendering
 date_created: 2025-04-30
-date_modified: 2025-05-05
+date_modified: 2025-05-29
 lede: A Desktop Publisher for the Markdown era.
 status: Draft
 tags: [Markdown, Desktop-Publishing, Component-Architecture, Cross-Platform]
@@ -19,7 +19,7 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-
 Okay, let’s flesh out this concept with technical documentation, focusing on the core design and implementation. Here’s a draft, broken down into sections with detailed explanations and considerations. We’ll start with a high-level overview and then dive into specific aspects.
 
 # Inspiration Set
-[[Tooling/Software Development/Programming Languages/Libraries/Velite]], [[Tooling/Software Development/Programming Languages/Libraries/micromark]], [[Tooling/Software Development/Programming Languages/Libraries/markdown-rs]], [[Tooling/Software Development/Frameworks/Web Frameworks/Eleventy]]. 
+[[Tooling/Software Development/Programming Languages/Libraries/Velite|Velite]], [[Tooling/Software Development/Programming Languages/Libraries/micromark|micromark]], [[Tooling/Software Development/Programming Languages/Libraries/markdown-rs|markdown-rs]], [[Tooling/Software Development/Frameworks/Web Frameworks/Eleventy|Eleventy]], [[iA]] 
 
 **1. Core Concept: Cellular Node System**
 

@@ -1,14 +1,14 @@
 ---
 created-on: 2024-11-01
 url: https://nixos.org/
-tags:
-  - package-manager
-  - dev-ops--tools
+tags: [package-manager, dev-ops--tools]
 hero: "![[Screenshot 2025-02-20 at 6.49.17 AM_Nix--Hero.png]]"
+date_created: 2025-04-18
+date_modified: 2025-05-29
 ---
 >Watch a short [overview of Nix](https://youtu.be/FJVFXsNzYZQ?si=KGKuXEUgpELJnyHf), Nix in 100 Seconds, by influencer Fireship on YouTube.
 
-[[organizations/Nix]] was created by [[Eelco Dolstra]] in 2003
+[[organizations/NixOS|NixOS]] was created by [[Eelco Dolstra]] in 2003
 
 https://youtu.be/DMQWirkx5EY?si=gETDKa9G9OpztgHZ
 
@@ -17,14 +17,14 @@ https://youtu.be/DMQWirkx5EY?si=gETDKa9G9OpztgHZ
 
  https://youtu.be/RoMArT8UCKM?si=S-44eBCPDK8_aVfb
 
-##### [[organizations/Nix]] has a [[Visual Studio Code|VS Code]] [[Plug-ins,  Add-ons,  Extensions|Extension]]
+##### [[organizations/NixOS|NixOS]] has a [[Visual Studio Code|VS Code]] [[Plug-ins,  Add-ons,  Extensions|Extension]]
 ![[Screenshot From 2024-12-25 02-36-11_Nix__VSCode--Extension.png]]
 
 
-##### [[organizations/Nix]] has a [[concepts/User Forums|User Forum]]
+##### [[organizations/NixOS|NixOS]] has a [[concepts/User Forums|User Forum]]
 ![[Screenshot From 2024-12-25 02-15-34_Nix--User-Forum.png]]
 
-#### AI Explains [[Docker]] and [[organizations/Nix]] combo.
+#### AI Explains [[Docker]] and [[organizations/NixOS|NixOS]] combo.
 
 > [!NOTE]
 > Docker and Nix serve complementary purposes, even though there's some overlap. Here are the key benefits of using Docker alongside Nix:
@@ -63,7 +63,7 @@ https://youtu.be/DMQWirkx5EY?si=gETDKa9G9OpztgHZ
 > 
 > Using both tools lets you leverage the strengths of each: Nix for development environment reproducibility and Docker for application isolation and distribution.
 
-#### [[organizations/Nix]] has its own [[concepts/Explainers for Tooling/Programming Languages|Programming Language]], which declares the [[Ephemeral Environments]]
+#### [[organizations/NixOS]] has its own [[concepts/Explainers for Tooling/Programming Languages|Programming Language]], which declares the [[Ephemeral Environments]]
 ``` Nix
 #!/bin/bash
 

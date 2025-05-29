@@ -2,38 +2,22 @@
 site_uuid: 545d904c-98c7-430d-b246-5d9b6def7029
 url: https://astro.build/
 zinger: The web framework for content-driven websites
-description: >-
-  Astro powers the worlds fastest marketing sites, blogs, e-commerce websites,
-  and more.
+description: Astro powers the worlds fastest marketing sites, blogs, e-commerce websites, and more.
 image: https://astro.build/og/astro.jpg
 site_name: Astro
 title: Astro
 favicon: https://astro.build/favicon.svg
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/0ea1e02c7fe5afc1e858ef9f4cb74623c2beac1690f6b9bd60d46b5188b23009.jpeg
-jina_last_request: '2025-03-09T06:45:08.724Z'
+og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/0ea1e02c7fe5afc1e858ef9f4cb74623c2beac1690f6b9bd60d46b5188b23009.jpeg
+jina_last_request: 2025-03-09T06:45:08.724Z
 jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:20:56.428Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.867Z'
-tags:
-  - Web-Frameworks
-  - Software-Development
-  - Frameworks
+og_last_fetch: 2025-03-07T05:20:56.428Z
+date_modified: 2025-05-29
+date_created: 2025-03-30
+tags: [Web-Frameworks, Software-Development, Frameworks, Static-Site-Generators]
+aliases: [Astro Framework, Astro SSG, Astro Static Site Generator]
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-A new [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]] that focuses on [[Static Site Generators|Static Site Generation]], but also perfectly implements [[Islands Architecture]]
+A new [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]] that focuses on [[Static Site Generators|Static Site Generation]], but also perfectly implements [[Islands Architecture]]. They created and maintain the [[Tooling/Software Development/DevOps/Starlight|Starlight]] [[Vocabulary/Documentation Engines|Documentation Engine]]
 
 https://youtu.be/tWEx_cm0cf8?si=1ELVD6iww1luMzKn
 
@@ -46,7 +30,7 @@ https://youtu.be/Q1GJpcJLXhQ?si=3zb5CxBXmmmF1pQO
 https://youtu.be/tWEx_cm0cf8?si=heNm0oOMMiE8Dfeu
 
 https://youtu.be/kIftpNnN_8I?si=wi_AROloNjgEQFJ_
-### [[concepts/Getting Started]] with Astro
+### [[concepts/Getting Started|Getting Started]] with Astro
 [[Astro]] does a lot to help people with [[concepts/Getting Started]]
 
 ![[Screenshot 2025-01-22 at 1.03.36 PM_Astro_Docs--Ebook.png]]

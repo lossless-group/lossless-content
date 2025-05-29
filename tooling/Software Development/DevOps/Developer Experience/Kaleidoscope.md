@@ -1,30 +1,22 @@
 ---
 site_uuid: 9d78c7cc-4756-4bb5-9516-3e7328cfa8b8
-url: https://kaleidoscope.app/
-image: https://framerusercontent.com/images/WKCnCkBdp8GpTCQ9jtP6AlvcjzE.jpeg
+url: 'https://kaleidoscope.app/'
+image: 'https://framerusercontent.com/images/WKCnCkBdp8GpTCQ9jtP6AlvcjzE.jpeg'
 site_name: Kaleidoscope
-title: Git Diff and Merge Tool and Text Comparison
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/e27b11485323566563af5be6b42eb5e86b44e39f3f007ece70b6104c08f900dd.jpeg
+zinger: 'Git Diff and Merge Tool and Text Comparison'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250529_Kaleidoscope_og_screenshot.jpeg'
 jina_last_request: '2025-03-09T06:45:07.755Z'
-jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:20:56.431Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.864Z'
+jina_error: 'Error occurred'
+og_last_fetch: '2025-05-29T13:28:06.747Z'
+date_modified: 2025-05-29
+date_created: 2025-03-30
+og_image: 'https://framerusercontent.com/images/WKCnCkBdp8GpTCQ9jtP6AlvcjzE.jpeg'
+og_url: 'https://kaleidoscope.app/'
+description: 'Spot the differences, merge in seconds.'
 tags:
   - Developer-Experience
   - Software-Development
   - DevOps
 ---
-
-
-
-
-
-
-
-
-
-
 
 [[Git]] tool exposing differences between files.  [[Nova]] is better.

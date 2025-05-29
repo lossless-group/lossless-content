@@ -44,7 +44,7 @@ Shadows, etc
 
 
 ### Are you using any AI based design anything?  
-Like [[Creatie]], or [[CopyCoder]], [[UIzard]], [[UX Pilot]], [[Luny AI]], [[v0]], 
+Like [[Creatie]], or [[CopyCoder]], [[UIzard]], [[UX Pilot]], [[Tooling/Software Development/DevOps/Developer Experience/Luny AI]], [[v0]], 
 
 
 

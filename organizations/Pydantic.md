@@ -1,6 +1,6 @@
 
 
-Creators and maintainers of [[Open Source]] [[Python]] projects [[Logfire]] and [[Pydantic AI]]
+Creators and maintainers of [[Open Source]] [[Python]] projects [[Tooling/Software Development/DevOps/Developer Experience/Logfire]] and [[Pydantic AI]]
 
 https://youtu.be/yj-wSRJwrrc?si=f0gOUH7In8-flsAn
 
