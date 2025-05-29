@@ -1,61 +1,13 @@
 ---
 site_uuid: ec214e49-26aa-4210-8f6f-647a96653d1b
-url: https://dphn.ai/
-date_modified: '2025-04-12'
-date_created: '2025-03-31T20:44:50.510Z'
+url: 'https://dphn.ai/'
+date_modified: 2025-04-12
+date_created: 2025-03-31
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250529_Diffusion_Language_Models_og_screenshot.jpeg'
 tags:
   - AI-Toolkit
   - AI-Models
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://youtu.be/KMuXaSQCfro?si=BHFDeXZCtUQO5L5p
-
-https://youtu.be/0B9EMddwlOQ?si=-4Chhj3GADI6s8Nu
 
 [[organizations/Perplexity AI]] explains [[Diffusion Language Models]]
 Diffusion-based language models (DLMs) represent a novel approach to natural language processing, combining the strengths of diffusion models with large language models. Unlike traditional autoregressive language models, DLMs use an iterative process of adding and removing noise to generate text[1]. This approach allows for more flexible and controllable text generation, as the model can refine its output through multiple steps[2].
