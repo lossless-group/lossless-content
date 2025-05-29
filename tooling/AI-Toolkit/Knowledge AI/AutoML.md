@@ -14,11 +14,7 @@ date_created: 2025-03-30
 og_image: 'https://auto-rag.com/assets/images/share.jpg?v=ed20f1ab'
 og_url: 'https://auto-rag.com'
 description: 'Create optimal RAG pipelines for your own data.'
-tags:
-  - AI-Toolkit
-  - Knowledge-AI
-  - AI-Interfaces
-  - RAG-Stack
+tags: [AI-Toolkit, Knowledge-AI, AI-Interfaces, RAG-Stack]
 ---
 
 [[Vocabulary/Retrieval-Augmented Generation]]

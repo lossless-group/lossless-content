@@ -13,11 +13,6 @@ og_image: 'https://cdn.sanity.io/images/rjtqmwfu/web3-prod/0750efbc3db33b1a67bc7
 og_url: 'https://cohere.com/'
 video: 'https://cohere.com/logo_video.mp4'
 description: 'Deploy multilingual models, advanced retrieval, and intelligent agents securely and privately — without the risks of ordinary AI.'
-tags:
-  - AI-Toolkit
-  - Knowledge-AI
-  - RAG-Stack
-  - Enterprise-AI
-  - Model-Producers
+tags: [AI-Toolkit, Knowledge-AI, RAG-Stack, Enterprise-AI, Model-Producers]
 ---
 

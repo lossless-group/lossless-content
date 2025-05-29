@@ -14,10 +14,7 @@ og_image: 'https://framerusercontent.com/images/N2v3BVSuFpZ9rNtpCbL0i4R7uc.png'
 og_url: 'https://www.banani.co/'
 description: 'AI-powered UI design tool. Free text to UI design generation. Create stunning wireframes and high-fidelity designs fast. Edit designs with text prompts.'
 title: 'Banani | Generate UI from Text | AI Copilot for UI Design'
-tags:
-  - AI-Toolkit
-  - Generative-AI
-  - UI-Generators
+tags: [AI-Toolkit, Generative-AI, UI-Generators]
 ---
 
 [[UI Builders]] [[AI Native Applications|AI Native]]

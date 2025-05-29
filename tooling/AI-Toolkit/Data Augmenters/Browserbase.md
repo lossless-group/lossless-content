@@ -13,10 +13,7 @@ date_modified: 2025-05-28
 date_created: 2025-03-30
 og_image: https://www.browserbase.com/assets/social_share.png?v=2
 description: "Open to developers everywhere. We can't wait to see what you build."
-tags:
-  - AI-Toolkit
-  - Data-Augmenters
-  - Web-Scrapers
+tags: [AI-Toolkit, Data-Augmenters, Web-Scrapers]
 ---
 
 [[concepts/Explainers for AI/AI Powered Data Capture]].

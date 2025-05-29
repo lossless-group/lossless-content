@@ -13,9 +13,7 @@ url: https://exa.ai
 og_image: https://exa.imgix.net/og-image.png/
 og_url: https://exa.ai
 description: 'The Exa API retrieves the best, realtime data from the web for your AI'
-tags:
-  - AI-Toolkit
-  - Data-Augmenters
+tags: [AI-Toolkit, Data-Augmenters]
 ---
 
 [[concepts/Explainers for AI/AI Powered Data Capture]]
