@@ -18,3 +18,4 @@ tags:
 ---
 
 A brand of personal work by [[Eric Hartford]], and producer of [[Tooling/AI-Toolkit/Models/Dolphin]]
+https://dphn.ai
