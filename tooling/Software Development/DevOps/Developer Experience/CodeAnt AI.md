@@ -15,13 +15,9 @@ date_created: 2025-03-30
 og_image: https://framerusercontent.com/assets/D2BdJiZA43PJ2u2ovYMkwTYeQL4.png
 og_url: https://www.codeant.ai/
 description: AI code reviewer that helps teams cut manual code review time and bugs by 50%. Start your 14-days free trial today!
-tags:
-  - Developer-Experience
-  - Software-Development
-  - DevOps
-  - Large-Codebase-AI
+tags: [Developer-Experience, Software-Development, DevOps, Large-Codebase-AI]
 ---
 
-[[client-content/Laerdal/Recommendations/for Engineering]]
+
 
 [[Model Wrappers]] for [[Software Development]], [[Bug Reporting]]

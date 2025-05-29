@@ -1,23 +1,21 @@
 ---
 site_uuid: b4ce2008-4695-42b3-848f-2174c9494cd4
-url: https://tanstack.com/
-zinger: High-quality open-source software for web developers.
-date_created: 2025-03-16T00:00:00.000Z
-date_modified: '2025-04-12'
-og_title: TanStack | High Quality Open-Source Software for Web Developers
-og_description: >-
-  Headless, type-safe, powerful utilities for complex workflows like Data
-  Management, Data Visualization, Charts, Tables, and UI Components.
-og_image: https://tanstack.com/_build/assets/og-A4BVqboc.png
-og_url: https://tanstack.com/
-og_last_fetch: '2025-04-07T17:38:12.299Z'
+url: 'https://tanstack.com/'
+zinger: 'High-quality open-source software for web developers.'
+date_created: 2025-03-16
+date_modified: 2025-05-29
+og_title: 'TanStack | High Quality Open-Source Software for Web Developers'
+og_description: '>-'
+og_image: 'https://tanstack.com/assets/og-A4BVqboc.png'
+og_url: 'https://tanstack.com/'
+og_last_fetch: '2025-05-29T15:37:13.023Z'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250529_Tanstack_og_screenshot.jpeg'
+site_name: TanStack
+title: 'High Quality Open-Source Software for Web Developers'
+description: 'Headless, type-safe, powerful utilities for complex workflows like Data Management, Data Visualization, Charts, Tables, and UI Components.'
 tags:
   - Software-Development
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/62eff3d5802564ff1b726ede774923e17ea63549f0f1056c4ba8db73f42de9b1.jpeg
+  - Web-Frameworks
+  - Influencer-Favorites
 ---
 
-
-
-
-https://youtu.be/aezimBnSJqY?si=unuiAWv24c9QorK4

@@ -1,7 +1,7 @@
 
 ## 2025-01-08 Meeting with [[Troels Villumsen]]
 
-We discussed the need for a clear and streamlined process to get our [[03 - Design Work]] into the [[Life Design System]].  
+We discussed the need for a clear and streamlined process to get our [[client-content/Laerdal/Projects/03 - Design Work]] into the [[Life Design System]].  
 ## 2025-01-09 with [[Hector Mejia]]
 
 #### Do you also work in assets like posters and presentations and screens around the office?  
