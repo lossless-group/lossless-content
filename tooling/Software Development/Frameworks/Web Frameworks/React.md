@@ -1,53 +1,28 @@
 ---
 site_uuid: bd55d7af-1e33-4143-860c-1209990460c9
-url: https://react.dev/
-parent_org: "[[organizations/Meta]]"
-image: https://react.dev/images/og-home.png
+url: 'https://react.dev/'
+parent_org: '[[organizations/Meta]]'
+image: 'https://react.dev/images/og-home.png'
 site_name: React
 title: React
-favicon: https://react.dev/favicon-32x32.png
-og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/ddc6a11b6e0607cf0fced41dbc927d3f8e8cc05491223bb082beae0cd2b4bdef.jpeg
-jina_last_request: 2025-03-09T06:45:12.860Z
-jina_error: Error occurred
-og_last_fetch: 2025-03-07T05:20:56.420Z
-date_modified: 2025-04-12
-date_created: 2025-03-31T20:44:50.516Z
+favicon: 'https://react.dev/favicon-32x32.png'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250529_React_og_screenshot.jpeg'
+jina_last_request: '2025-03-09T06:45:12.860Z'
+jina_error: 'Error occurred'
+og_last_fetch: '2025-05-29T15:35:25.819Z'
+date_modified: 2025-05-29
+date_created: 2025-03-31
+og_image: 'https://react.dev/images/og-home.png'
+og_url: 'https://react.dev/'
+description: 'React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript. React is designed to let you seamlessly combine components written by independent people, teams, and organizations.'
 tags:
   - Web-Frameworks
   - Software-Development
   - Frameworks
+  - JavaScript-Ecosystem
 ---
 
-
-
-
-
-
-
-
-
-
-
-
 Created and maintained by [[organizations/Meta]]. It is the most popular, thus [[Market Standard]], for [[Front-End]] development.  It's essentially a [[JavaScript]] library that enables [[Component-Based Software Architecture]].
-
-https://youtu.be/Y12sGu8-qFE?si=rilEvj2P-hZGQMXG
-
-https://youtu.be/INLq9RPAYUw?si=P1g6Vu1pQEu9jGwf
-
-https://youtu.be/qERgb3pWfu0?si=qmR3nVhwp52__DK-
-
-https://youtu.be/4AXQgOcL1mo?si=7Gw496pGxIVbmagV
-
-https://youtu.be/gjxY0aVdoCY?si=NVmb5I2lFbkYae3h
-
-https://youtu.be/xfzNXa8WYW8?si=TGnk-BOj2-Q_NChV
-
-https://youtu.be/3EnathFYgz8?si=AsMUXSTeGVGaeftJ
-
-https://youtu.be/wIyHSOugGGw?si=cjUnbWHww1Dake8D
-
-https://youtu.be/ROKRTZ_xCgo?si=pZq8TSHhVHrubsVk
 
 | Version | First-Release | Stable-Release | <- Announcement                                         |
 | ------- | ------------- | -------------- | ------------------------------------------------------- |
@@ -59,7 +34,3 @@ https://youtu.be/ROKRTZ_xCgo?si=pZq8TSHhVHrubsVk
 ### React has getting started documentation
 [[concepts/Getting Started]] is easy with [[React]].
 ![[Screenshot 2025-01-27 at 3.53.45 PM_React--Getting-Started.png]]
-https://youtu.be/NVuxUktUvxc?si=WW3uxmtjbpnqMIdw
-
-
-https://youtu.be/yi8UCnXPu8U?si=EJpeWrVZGrYprprj

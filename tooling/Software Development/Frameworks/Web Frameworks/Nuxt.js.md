@@ -1,36 +1,21 @@
 ---
 site_uuid: bd879dea-4289-4b68-b46f-5bd4a743ee57
-url: https://nuxt.com/
-image: https://nuxt.com/new-social.jpg
+url: 'https://nuxt.com/'
+image: 'https://nuxt.com/new-social.jpg'
 site_name: Nuxt
-title: 'Nuxt: The Intuitive Vue Framework'
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/1c4176bac409bfcdb80feed7ff08a546d90fa56493b5cd7242d26a4e12c077f5.jpeg
+title: 'Nuxt: The Progressive Web Framework'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250529_Nuxt.js_og_screenshot.jpeg'
 jina_last_request: '2025-03-09T06:45:00.450Z'
-jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:20:56.422Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.868Z'
+jina_error: 'Error occurred'
+og_last_fetch: '2025-05-29T15:33:54.161Z'
+date_modified: 2025-05-29
+date_created: 2025-03-30
+og_image: 'https://nuxt.com/new-social.jpg'
+description: 'Create high-quality web applications with Nuxt, the open source framework that makes full-stack development with Vue.js intuitive.'
 tags:
   - Software-Development
   - Frameworks
   - Web-Frameworks
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 A [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]] for [[Vue.js]] that handles [[Server Side Rendering]]
-
-https://youtu.be/X0M4R0Qx6n4?si=_q7ApfESUalAhKBu

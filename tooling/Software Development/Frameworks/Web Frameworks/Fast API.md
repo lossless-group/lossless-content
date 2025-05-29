@@ -1,40 +1,29 @@
 ---
 site_uuid: efb9b03b-6bb3-4055-b59a-a777aa26e4a8
-image: https://fastapi.tiangolo.com/assets/images/social/index.png
+image: 'https://fastapi.tiangolo.com/assets/images/social/index.png'
 site_name: FastAPI
 title: FastAPI
-favicon: https://fastapi.tiangolo.com/img/favicon.png
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/c889b62860c33a44dc8a7a9613e6234d218661b6a081ebcb9e51d4c04adabd23.jpeg
+favicon: 'https://fastapi.tiangolo.com/img/favicon.png'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250529_Fast_API_og_screenshot.jpeg'
 jina_last_request: '2025-03-09T06:45:13.042Z'
-jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:20:56.426Z'
-github_repo_url: https://github.com/fastapi/fastapi
-github_profile_url: https://github.com/fastapi
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.868Z'
+jina_error: 'Error occurred'
+og_last_fetch: '2025-05-29T15:30:12.306Z'
+github_repo_url: 'https://github.com/fastapi/fastapi'
+github_profile_url: 'https://github.com/fastapi'
+date_modified: 2025-05-29
+date_created: 2025-03-30
+url: 'https://fastapi.tiangolo.com/'
+og_image: 'https://fastapi.tiangolo.com/assets/images/social/index.png'
+og_url: 'https://fastapi.tiangolo.com/'
+description: 'FastAPI framework, high performance, easy to learn, fast to code, ready for production'
 tags:
   - Frameworks
   - Software-Development
   - Web-Frameworks
   - Python-Ecosystem
-url: 'https://fastapi.tiangolo.com/'
 ---
 
-
-
-
-
-
-
-
-
-
-
-
 A light, stable [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]] in [[Python]] designed to get developers up and running with an [[Application Programming Interface|API]].
-
-https://youtube.com/shorts/Z1XHeMgpg8A?si=7uQXcdKGVIqr1IT7
 
 > [!NOTE]
 > "The key features are:
@@ -52,4 +41,3 @@ https://youtube.com/shorts/Z1XHeMgpg8A?si=7uQXcdKGVIqr1IT7
 # Footnotes
 ***
 [^8d64af]: https://fastapi.tiangolo.com/
-
