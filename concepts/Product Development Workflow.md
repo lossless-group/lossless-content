@@ -14,7 +14,7 @@ For instance:
 - Asking Developers to spend a large amount of time pouring over [[User Research]] in the [[concepts/Explainers for Tooling/User Research Repositories|User Research Repository]]. 
 
 ## Tooling for Product Development Workflow
-Includes [[Linear]], and [[Whimsical]]
+Includes [[Tooling/Software Development/DevOps/Developer Experience/Linear]], and [[Whimsical]]
 
 
 

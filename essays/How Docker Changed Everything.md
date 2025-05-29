@@ -30,7 +30,7 @@ The most important, now market standard breakthrough service was produced by [Do
 
 However, [[Docker]] didn't just win the whole market causing the end of history and the last developer.  An upstart called [[ContainerD]] is receiving a lot of attention. 
 
-A whole trend is emerging around [[concepts/Standardized Workspaces]], represented by [[organizations/DevZero]].  And, [[organizations/Nix]] has perfected a concept called [[Ephemeral Environments]].
+A whole trend is emerging around [[concepts/Standardized Workspaces]], represented by [[organizations/DevZero]].  And, [[organizations/NixOS]] has perfected a concept called [[Ephemeral Environments]].
 
 When asking [[Poe AI]] how [[Docker]] has changed Software Engineering, it responded with the following:
 

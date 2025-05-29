@@ -4,6 +4,6 @@ date_modified: 2025-04-12
 site_uuid: ea30c773-691e-470c-bf7c-10e5c53f4b18
 ---
 
-[[Garuda Linux]]
+[[Tooling/Software Development/DevOps/Developer Experience/Garuda Linux]]
 
 [[organizations/Apple|Apple]] [[Tooling/Hardware/MacBook Air]], [[Tooling/Hardware/Mac Studio]] [[Macbook Pro]]

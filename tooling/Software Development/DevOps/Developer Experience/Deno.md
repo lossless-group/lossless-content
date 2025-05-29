@@ -1,26 +1,22 @@
 ---
-url: https://deno.land/
-date_created: 2025-04-07T00:00:00.000Z
-date_modified: '2025-04-12'
+url: 'https://deno.land/'
+date_created: 2025-04-07
+date_modified: 2025-05-29
 site_uuid: 95eaef3e-5af7-475d-bcb2-cec71ee262b8
-og_title: Deno, the next-generation JavaScript runtime
-og_description: >-
-  Deno features improved security, performance, and developer experience
-  compared to its predecessor. It's a great time to upgrade your Node.js project
-  to run on Deno.
-og_image: https://deno.com/og/image.jpg
-og_url: https://deno.com/
-og_last_fetch: '2025-04-07T17:41:46.119Z'
+og_title: 'Deno, the next-generation JavaScript runtime'
+og_description: '>-'
+og_image: 'https://deno.com/og/image.jpg'
+og_url: 'https://deno.com/'
+og_last_fetch: '2025-05-29T13:34:54.721Z'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250529_Deno_og_screenshot.jpeg'
+site_name: Deno
+title: 'Deno, the next-generation JavaScript runtime'
+description: "Deno features improved security, performance, and developer experience compared to its predecessor. It's a great time to upgrade your Node.js project to run on Deno."
 tags:
   - Software-Development
   - JavaScript
   - Runtime
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/491d1c5f8d5eaa49d0ee3166c5aca7fbf9af5c466365713577ab3c739342712c.jpeg
 ---
-
-
-
 
 # Deno
 

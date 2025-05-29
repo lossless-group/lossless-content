@@ -6,4 +6,4 @@ aliases:
   - Ticket Manager
 ---
 
-[[Jira]], [[Linear]]
+[[Jira]], [[Tooling/Software Development/DevOps/Developer Experience/Linear]]

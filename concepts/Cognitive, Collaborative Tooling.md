@@ -6,7 +6,7 @@ date_modified: 2025-04-24
 
 
 ### Tools for Product Development
-Include [[Linear]], [[Whimsical]], [[Graphite]]
+Include [[Tooling/Software Development/DevOps/Developer Experience/Linear]], [[Whimsical]], [[Graphite]]
 
 ### Tools for [[Workflow Management]]
 [[ClickUp]], [[Asana]], 
@@ -15,7 +15,7 @@ Include [[Linear]], [[Whimsical]], [[Graphite]]
 
 https://youtu.be/tzr7hRXcwkw?si=F6HgchXfCXMeWSAj
 ### Tooling for [[Software Development]]
-[[Docker]], [[organizations/Nix]], [[Nx]], [[Bun 1]]
+[[Docker]], [[organizations/NixOS]], [[Nx]], [[Bun 1]]
 # AI writes an Overview
 > [!AI explains Tooling Engineering]
 > A **tooling engineer** plays a critical role in designing, developing, and maintaining the tools, fixtures, and systems used in manufacturing, production, or software development processes. Their primary goal is to ensure that tools and equipment are efficient, reliable, and optimized for the specific needs of the organization, whether that involves physical tools for manufacturing or digital tools in software engineering.

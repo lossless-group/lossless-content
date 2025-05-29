@@ -62,7 +62,7 @@ Most of the platforms have an obsessive focus on helping people and organization
 
 #### Let them find bugs for you:
 
-![[organizations/JetBrains#JetBrains has its own community bug reporting system]]
+![[Tooling/Software Development/DevOps/Developer Experience/JetBrains#JetBrains has its own community bug reporting system]]
 
 ### Let them build for you.
 

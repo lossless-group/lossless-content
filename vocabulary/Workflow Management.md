@@ -6,7 +6,7 @@ tags: [Enterprise-Wide-Tools]
 aliases: [Project Management]
 ---
 
-Specializing in [[Software Development]] is [[Linear]]
+Specializing in [[Software Development]] is [[Tooling/Software Development/DevOps/Developer Experience/Linear]]
 
 [[Monday]], [[Asana]], [[Tooling/Productivity/Dart|Dart]]
 

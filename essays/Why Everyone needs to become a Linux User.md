@@ -22,4 +22,4 @@ The world's servers run on Linux. Like, all of them.
 
 [Linux as the new developer default](https://world.hey.com/dhh/linux-as-the-new-developer-default-at-37signals-ef0823b7)
 
-[[Tooling/Productivity/Omakub|Omakub]] and [[Garuda Linux]] are [[vocabulary/Opinionated|opinionated]] "flavors" of their respective distributions, [[Arch Linux]] and [[Ubuntu]]
+[[Tooling/Productivity/Omakub|Omakub]] and [[Tooling/Software Development/DevOps/Developer Experience/Garuda Linux]] are [[vocabulary/Opinionated|opinionated]] "flavors" of their respective distributions, [[Arch Linux]] and [[Ubuntu]]

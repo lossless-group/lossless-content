@@ -6,7 +6,7 @@ date_modified: 2025-04-24
 ---
 
 [[Porrfor]]
-[[organizations/Nix]]
+[[organizations/NixOS]]
 [[Docker]]
 [[ContainerD]]
 

@@ -1,6 +1,8 @@
 ---
 amazon-url: https://www.amazon.com/dp/B0189PVAWY?ref_=cm_sw_r_ffobk_cp_ud_dp_AYX8G6WYWJ9R1SNJKC07
 full-title: "Deep Work: Rules for Focused Success in a Distracted World"
+date_created: 2025-04-19
+date_modified: 2025-05-29
 ---
 
 Basically, minimize [[concepts/Drag]] and allocate large blocks of time to focus.  
