@@ -4,7 +4,7 @@ aliases:
 ---
 [[emergent-innovation/Standards/SLSA]]
 [[organizations/The Linux Foundation|Linux]]
-[[Git]]
+[[Tooling/Products/Git]]
 
 https://youtu.be/HIJ6LixbcAY?si=5m9XZortBzzgq7H1
 

@@ -3,8 +3,8 @@ site_uuid: 41dc16a2-1ae7-492f-a3b1-f6362ff61ffc
 url: 'https://huggingface.co/'
 image: 'https://huggingface.co/front/thumbnails/v2-2.png'
 site_name: 'Hugging Face'
-title: 'Hugging Face – The AI community building the future.'
-description_site_cp: '>-'
+zinger: 'The AI community building the future.'
+description_site_cp: "The platform where the machine learning community collaborates on models, datasets, and applications."
 og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250529_Hugging_Face_og_screenshot.jpeg'
 jina_last_request: '2025-03-09T06:45:00.275Z'
 jina_error: 'Error occurred'

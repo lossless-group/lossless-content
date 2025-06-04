@@ -1,68 +1,22 @@
 ---
 site_uuid: 39b1a805-5e93-4272-9cfa-a55567e94403
-url: https://dgraph.io/
-zinger: The only open source, AI-ready graph database
-description: >-
-  A fault-tolerant, distributed graph database, that gives developers the tools
-  to rapidly build applications that scale
-github_repo_url: https://github.com/dgraph-io/dgraph
-image: >-
-  https://cdn.prod.website-files.com/63fa3e9d303f20f698270a7a/6419f91b6297a72e0ea955c5_Open%20Graph.webp
-site_name: Dgraph
-title: Open Source, AI-Ready Graph Database
-favicon: >-
-  https://cdn.prod.website-files.com/63fa3e9d303f20f698270a7a/63ff53715c070ec57e1adfeb_Size%3D32x32%20(2).svg
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/6d8d6a3b0353ff875182499ac636a8b4646bdde8e0c9897a45d113387dc327c7.jpeg
+url: 'https://dgraph.io/'
+zinger: 'The only open source, AI-ready graph database'
+github_repo_url: 'https://github.com/dgraph-io/dgraph'
+site_name: Hypermode
+title: 'Overview - Dgraph'
+favicon: '>-'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250529_Dgraph_og_screenshot.jpeg'
 jina_last_request: '2025-03-09T06:45:21.746Z'
-jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:19:02.924Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.861Z'
+jina_error: 'Error occurred'
+og_last_fetch: '2025-05-29T16:42:02.101Z'
+date_modified: 2025-05-29
+date_created: 2025-03-30
+og_image: 'https://hypermode.mintlify.app/mintlify-assets/_next/image?url=%2Fapi%2Fog%3Fdivision%3DDocumentation%26title%3DDgraph%26logoLight%3Dhttps%253A%252F%252Fmintlify.s3.us-west-1.amazonaws.com%252Fhypermode%252Fimages%252Flogo%252Flight.svg%26logoDark%3Dhttps%253A%252F%252Fmintlify.s3.us-west-1.amazonaws.com%252Fhypermode%252Fimages%252Flogo%252Fdark.svg%26primaryColor%3D%2523FF00EE%26lightColor%3D%2523CC00BE%26darkColor%3D%2523CC00BE&w=1200&q=100'
+og_url: 'https://docs.hypermode.com/dgraph/overview'
 tags:
   - Software-Development
   - Databases
   - Open-Source
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -19,7 +19,7 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-
 Okay, let’s flesh out this concept with technical documentation, focusing on the core design and implementation. Here’s a draft, broken down into sections with detailed explanations and considerations. We’ll start with a high-level overview and then dive into specific aspects.
 
 # Inspiration Set
-[[Tooling/Software Development/Programming Languages/Libraries/Velite|Velite]], [[Tooling/Software Development/Programming Languages/Libraries/micromark|micromark]], [[Tooling/Software Development/Programming Languages/Libraries/markdown-rs|markdown-rs]], [[Tooling/Software Development/Frameworks/Web Frameworks/Eleventy|Eleventy]], [[iA]] 
+[[Tooling/Software Development/Programming Languages/Libraries/Velite|Velite]], [[Tooling/Software Development/Programming Languages/Libraries/micromark|micromark]], [[Tooling/Software Development/Programming Languages/Libraries/markdown-rs|markdown-rs]], [[Tooling/Software Development/Frameworks/Web Frameworks/Eleventy|Eleventy]], [[Tooling/Products/iA]] 
 
 **1. Core Concept: Cellular Node System**
 

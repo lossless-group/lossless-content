@@ -1,59 +1,28 @@
 ---
 site_uuid: 9c6dba50-6d21-4799-b46b-9ad198aa5d6b
-url: https://git-scm.com
-docs_url: https://git-scm.com/doc
+url: 'https://git-scm.com'
+docs_url: 'https://git-scm.com/doc'
 og_errors: true
 og_last_error: '2025-03-08T20:39:42.148Z'
-og_error_message: HTTP error 401
+og_error_message: 'HTTP error 401'
 jina_last_request: '2025-03-09T06:45:03.928Z'
-jina_error: Unexpected token
-image: https://git-scm.com/images/logo@2x.png
+jina_error: 'Unexpected token'
+image: 'https://git-scm.com/images/logo@2x.png'
 site_name: Git
-title: Git
-favicon: https://git-scm.com/favicon.ico
-og_fetched_url: https://git-scm.com
-og_last_fetch: '2025-03-14T04:41:46.355Z'
-date_created: 2025-02-19T00:00:00.000Z
-date_modified: '2025-04-12'
-tags:
-  - Products
-  - Developer-Experience
-  - Workflow-Management
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/94c5655da22a143da4d63cdd36b6efe1189c63708219dcce16b14cdf11a79265.jpeg
+zinger: 'A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.'
+description_site_cp: 'Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.'
+favicon: 'https://git-scm.com/favicon.ico'
+og_fetched_url: 'https://git-scm.com'
+og_last_fetch: '2025-05-30T15:38:11.707Z'
+date_created: 2025-02-19
+date_modified: 2025-05-30
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250530_Git_og_screenshot.jpeg'
+tags: [Products, Developer-Experience, Workflow-Management]
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://youtu.be/0Hk2XjGSzbA?si=idNrPLL_nQg2oDpR
-
-https://youtu.be/rH3zE7VlIMs?si=cmf5DCQPv0kkT3DJ
-
-https://youtu.be/leYrUhWSBUk?si=JraVnHylZg21xnQt
-
-https://git-scm.com/book/en/v2
 ## Git Hooks
 
 >Git hooks are scripts that run automatically every time a particular event occurs in a Git repository. They let you customize Git’s internal behavior and trigger customizable actions at key points in the development life cycle. Atlassian[ on Git Hooks](https://www.atlassian.com/git/tutorials/git-hooks#:~:text=Git%20hooks%20are%20scripts%20that,in%20the%20development%20life%20cycle.). 
-
-
 
 ## Git Branch
 
@@ -70,8 +39,7 @@ You can name a branch to indicate the branch’s function, like a feature, bug f
 - feature/feature-name
 - hotfix/description
 
-Another branching strategy is having branches dedicated to the different development cycles, like feature or hotfix. As work items come up, you create a branch for that item from its respective branch. Yes, you can create branches from branches! Check out Option 4 below for an example. [^597f02]
-
+Another branching strategy is having branches dedicated to the different development cycles, like feature or hotfix. As work items come up, you create a branch for that item from its respective branch. Yes, you can create branches from branches! Check out Option 4 below for an example. [^1]
 
 ### Git Merge
 
@@ -98,5 +66,4 @@ git merge development-temp
 
 `git diff site/src/content/tooling/Software\ Development/Databases/Postgres.md`
 
-
-[^597f02]: [Git Branching and Merging: A Step-By-Step Guide](https://www.varonis.com/blog/git-branching)
+[^1]: [Git Branching and Merging: A Step-By-Step Guide](https://www.varonis.com/blog/git-branching)

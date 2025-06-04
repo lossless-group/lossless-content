@@ -19,7 +19,7 @@ A [[Programming Framework]] for using [[Python]] for [[Agentic AI]]
 
 Made and maintained by [[organizations/Microsoft]]
 
-[[concepts/Community Engagement]] on [[Discord]]
+[[concepts/Community Engagement]] on [[Tooling/Products/Discord]]
 
 ![[Screenshot 2025-01-22 at 9.15.27 PM_Autogen-by-Microsoft.png]]
 https://youtu.be/0PFexhfA4Pk?si=CXGg3be1xouyTbVg

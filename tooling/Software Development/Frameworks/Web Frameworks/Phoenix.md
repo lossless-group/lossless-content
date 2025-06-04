@@ -7,13 +7,10 @@ title: 'Peace of mind from prototype to production'
 jina_last_request: '2025-03-09T06:45:02.909Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-05-29T15:34:09.802Z'
-date_modified: 2025-05-29
+date_modified: 2025-05-30
 date_created: 2025-03-30
 description_site_cp: 'Build rich, interactive web applications quickly, with less code and fewer moving parts. Join our growing community of developers using Phoenix to craft APIs, HTML5 apps and more, for fun or at scale.'
-tags:
-  - Software-Development
-  - Frameworks
-  - Web-Frameworks
+tags: [Software-Development, Frameworks, Web-Frameworks]
 ---
 
 A [[concepts/Explainers for Tooling/Web Frameworks|Framework]] for the [[Tooling/Software Development/Programming Languages/Elixir|Elixir]] [[concepts/Explainers for Tooling/Programming Languages|Programming Language]].
