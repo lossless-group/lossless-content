@@ -19,4 +19,4 @@ tags:
   - DevOps
 ---
 
-[[Git]] tool exposing differences between files.  [[Nova]] is better.
+[[Tooling/Products/Git]] tool exposing differences between files.  [[Nova]] is better.

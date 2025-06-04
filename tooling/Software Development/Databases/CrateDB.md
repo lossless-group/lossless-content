@@ -1,60 +1,21 @@
 ---
 site_uuid: 1b08084b-7350-482f-be38-620a3530d615
-url: https://cratedb.com
-image: https://crate.io/hubfs/cr-featured-image-23.jpg
+url: 'https://cratedb.com'
+image: 'https://crate.io/hubfs/cr-featured-image-23.jpg'
 site_name: CrateDB
-title: The Database for Real-Time Analytics and Hybrid Search
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/d267c407ebe8b02462c66dc625810882c1d58d3dc31b185f0927fbfe4b949691.jpeg
+title: 'Real-time Unified Data Layer for Analytics, Search and AI'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250529_CrateDB_og_screenshot.jpeg'
 jina_last_request: '2025-03-09T06:45:05.390Z'
-jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:19:02.924Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.861Z'
+jina_error: 'Error occurred'
+og_last_fetch: '2025-05-29T16:40:47.405Z'
+date_modified: 2025-05-29
+date_created: 2025-03-30
+og_image: 'https://cratedb.com/hubfs/cr-featured-image-23.jpg'
+og_url: 'https://cratedb.com'
+description: 'Real-time unified data layer for instant analytics, search and AI. Execute complex ad-hoc queries in milliseconds, perform hybrid search effortlessly, integrate with AI tools and boost all with the simplicity of SQL.'
 tags:
   - Software-Development
   - Databases
   - Database
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
