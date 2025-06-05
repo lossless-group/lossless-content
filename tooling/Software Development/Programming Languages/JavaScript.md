@@ -147,7 +147,7 @@ https://youtu.be/k4xuEl6TmT4?si=0hxbL-1xVxjeTqSD
 > 
 > These are used to manage and coordinate builds, especially in projects with multiple applications.
 > 
-> ### **[[Nx]]**
+> ### **[[Tooling/Software Development/DevOps/Nx]]**
 > 
 > - **What it is:** A development platform for managing monorepos.
 > - **Why we need it:** Nx helps developers manage multiple projects in a single repository, providing tools for dependency management, task orchestration, and optimized builds.

@@ -13,7 +13,7 @@ site_uuid: 228b1643-27e9-4ee1-9bb7-4a7692d18896
 portrait_image: ''
 image_prompt: ''
 banner_image: ''
-tags: []
+tags:
 authors:
   - Michael Staton
 ---
