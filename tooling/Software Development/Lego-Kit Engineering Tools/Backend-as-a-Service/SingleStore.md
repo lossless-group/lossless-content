@@ -1,78 +1,17 @@
 ---
 site_uuid: dc77d5c7-cf26-4588-bea6-5d7027faca9e
-image: >-
-  https://images.contentstack.io/v3/assets/bltac01ee6daa3a1e14/blt65460a223657f85f/661047721952f027eefc0104/img_primary_opengraph_(1).png
 site_name: SingleStore
-title: SingleStore | The Real-Time Data Platform for Intelligent Applications
-favicon: >-
-  https://www.singlestore.com/favicon-32x32.png?v=277b9cbbe31e8bc416504cf3b902d430
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/2d238e31187dd06a0fbe1c477af1007f580d954c638cd97a64e11f4e2271d69b.jpeg
+title: 'SingleStore | The Performance You Need for Enterprise AI'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250604_SingleStore_og_screenshot.jpeg'
 jina_last_request: '2025-03-09T06:45:03.870Z'
-jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:20:56.415Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.870Z'
-tags:
-  - Lego-Kit-Engineering-Tools
-  - Software-Development
-  - Databases
-  - Backend-As-A-Service
-  - Products
+jina_error: 'Error occurred'
+og_last_fetch: '2025-06-05T16:16:26.724Z'
+date_modified: 2025-06-05
+date_created: 2025-03-30
 url: 'https://www.singlestore.com/'
+og_image: 'https://images.contentstack.io/v3/assets/bltac01ee6daa3a1e14/blt65460a223657f85f/661047721952f027eefc0104/img_primary_opengraph_(1).png'
+og_url: 'https://www.singlestore.com/'
+description: 'SingleStore delivers the performance you need for enterprise AI. We combine transactional (OLTP) and analytical (OLAP) processing, multi-model data support (vectors, full-text, JSON, time-series, etc.) and real-time analytics all in one platform.'
+tags: [Lego-Kit-Engineering-Tools, Software-Development, Databases, Backend-As-A-Service, Products]
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -1,6 +1,6 @@
 ---
 date_created: 2024-09-02
-date_modified: 2025-05-26
+date_modified: 2025-06-05
 site_uuid: 209e0f39-13de-46b3-829e-a2816d2f5aa7
 title: A Theory of Lossless Innovation
 lede: "To go forth and innovate while not losing the core business or loyalty of the current customer base is the challenge of our new era."
@@ -35,7 +35,7 @@ Organizations need an overarching strategy that can guide smaller decisions — 
 
 And above all that, organizations need a unifying motive and story.  Providing tactical improvements is more valuable as part of a larger strategy, and any strategy is more valuable as part of a larger set of beliefs.  To have beliefs that will endure beyond the day to day dynamics, organizations need to embrace a common theory. 
 
-We propose [[essays/A Theory of Lossless Innovation]].  What do we mean?  Well, let us ground it in a story, one that is a parable for the next century.  
+We propose [[essays/A Theory of Lossless Innovation|A Theory of Lossless Innovation]].  What do we mean?  Well, let us ground it in a story, one that is a parable for the next century.  
 
 ## A Parable of Directionality
 
@@ -49,7 +49,7 @@ Developing Bell's invention into something that could deliver audible, clear cal
 
 > What goes in one end should come out the other. 
 
-Even more worth understanding is that the countless inventions and technologies that had no direct, immediate commercial application would go on to reinvent the whole world.  [[organizations/Bell Labs]], which housed the research and development arm of the near monopoly that was AT&T at its zenith, would also spin out
+Even more worth understanding is that the countless inventions and technologies that had no direct, immediate commercial application would go on to reinvent the whole world.  [[organizations/Bell Labs|Bell Labs]], which housed the research and development arm of the near monopoly that was AT&T at its zenith, would also spin out
 - the foundations of computer-based cryptography.
 - the photovoltaic cell, the pixel of solar energy. 
 - charge-coupled devices, the base of digital photography and radio astronomy
@@ -58,30 +58,30 @@ Even more worth understanding is that the countless inventions and technologies 
 - cellular networks for mobile device calls and data
 - lasers, which are now the primary instrument in lithography to make chips, fiber optic data transmission, realtime computer vision, untold military applications in precision weapons, and various medical procedures. 
 
-From the animating, common goal of [[concepts/Lossless]] Communication, we have most technologies that define life in the 21st Century.  
+From the animating, common goal of [[concepts/Lossless|Lossless]] Communication, we have most technologies that define life in the 21st Century.  
 
 ## Lossless as Analogy
 
 >What goes in one end should come out the other. 
 
-The term [[concepts/Lossless]] has become technical, referring to algorithmic methods that reduce then reconstruct data with perfect fidelity, I posit that applying it as an analogy to almost any human pursuit will loosely predict the emergence and distribution of invention, technology, and commerce. 
+The term [[concepts/Lossless|Lossless]] has become technical, referring to algorithmic methods that reduce then reconstruct data with perfect fidelity, I posit that applying it as an analogy to almost any human pursuit will loosely predict the emergence and distribution of invention, technology, and commerce. 
 
 ## Communication
-[[organizations/Bell Labs]] was likely the epicenter of invention in the 20th Century. An eager read of it's hagiography, [[The Idea Factory]], or even just a perusal of it's Wikipedia page, inspires awe. Work at Bell Labs led to eleven Nobel Prizes and five Turing Awards. Their inventions defined most of the modern era. The Transistor, the Laser, photovoltaic cells, charge-coupled devices. The Unix operating system, the C, C++, and AWK programming languages. The field of Information Theory was birthed at MIT, but Claude Shannon, the creator, worked at Bell Labs for much of his life.  
+[[organizations/Bell Labs|Bell Labs]] was likely the epicenter of invention in the 20th Century. An eager read of it's hagiography, [[The Idea Factory]], or even just a perusal of it's Wikipedia page, inspires awe. Work at Bell Labs led to eleven Nobel Prizes and five Turing Awards. Their inventions defined most of the modern era. The Transistor, the Laser, photovoltaic cells, charge-coupled devices. The Unix operating system, the C, C++, and AWK programming languages. The field of Information Theory was birthed at MIT, but Claude Shannon, the creator, worked at Bell Labs for much of his life.  
 
 ## Imagery
 
 The first color photograph is attributed to [[James Clerk Maxwell]], the image taken in 1861. 
 
-[[organizations/Kodak]] and [[organizations/Xerox]] were also pursuing [[concepts/Lossless]] goals, pursuing the goal of making images better and better, and more and more widely accessible.  
+[[organizations/Kodak|Kodak]] and [[organizations/Xerox|Xerox]] were also pursuing [[concepts/Lossless|Lossless]] goals, pursuing the goal of making images better and better, and more and more widely accessible.  
 
 At age 24, George Eastman was planning a trip to the Caribbean for the summer of of 1878. He wanted to keep his memories. Hauling around a wet plate camera, taking pictures, and developing photos was still an unwieldy process.  2 years later, Eastman received a patent from the US Patent Office, patent 226,503, for a "Method and Apparatus for Coating Plates for Use in Photography." [^1]
 
 After selling the first roll-film and hand camera in 1888, George Eastman founded Eastman [[organizations/Kodak]] and was granted the patent. Kodak went on to become the market leader in photography.  It's no wonder then, a spin out service provider [[organizations/Xerox]] became the market leader in photocopying.  
 
-Steve Sasson was an engineer at [[organizations/Kodak]] when he invented the [world's first digital camera](https://www.freepatentsonline.com/4131919.html) in 1975. Willis Adcock was working with [[organizations/Texas Instruments]] when he [filed a patent](https://www.freepatentsonline.com/4057830.html) for a digital camera in 1977. [^2]   
+Steve Sasson was an engineer at [[organizations/Kodak|Kodak]] when he invented the [world's first digital camera](https://www.freepatentsonline.com/4131919.html) in 1975. Willis Adcock was working with [[organizations/Texas Instruments|Texas Instruments]] when he [filed a patent](https://www.freepatentsonline.com/4057830.html) for a digital camera in 1977. [^2]   
 
-[[organizations/Xerox]] developed [[organizations/PARC]] in 1970 as it pursued [[concepts/Lossless]] image duplication. PARC follows [[organizations/Bell Labs]] closely in the sheer number of inventions that have managed to reinvent our world. Wikipedia lists major inventions as: the Personal Computer, the Graphical User Interface, the Ethernet, Object-Oriented Programming, the Mouse, and the VSLI design for semiconductors. 
+[[organizations/Xerox|Xerox]] developed [[organizations/PARC|PARC]] in 1970 as it pursued [[concepts/Lossless|Lossless]] image duplication. PARC follows [[organizations/Bell Labs|Bell Labs]] closely in the sheer number of inventions that have managed to reinvent our world. Wikipedia lists major inventions as: the Personal Computer, the Graphical User Interface, the Ethernet, Object-Oriented Programming, the Mouse, and the VSLI design for semiconductors. 
 
 ## Sound
 
@@ -91,7 +91,7 @@ On the success of AT&T, many brilliant  were searching for a wireless method of 
 
 ## Data
 
-[[organizations/DARPA]] did not have a vision for the Internet.  As America entered the Nuclear Age, the American Defense establishment became paranoid that a single bomb could wipe out all of their data.  [[organizations/DARPA]] published its usual challenge to the public: invent a way to network computers so we could make data redundant. 
+[[organizations/DARPA|DARPA]] did not have a vision for the Internet.  As America entered the Nuclear Age, the American Defense establishment became paranoid that a single bomb could wipe out all of their data.  [[organizations/DARPA|DARPA]] published its usual challenge to the public: invent a way to network computers so we could make data redundant. 
 
 ## Memories
 
@@ -100,7 +100,7 @@ Facebook and LinkedIn could be thought of as networks of humans trying to keep (
 
 ## Human Nature
 
-Similar to [[Mimetic Theory]], to pursue [[concepts/Lossless]] goals is part of human nature itself.  Decades of research in [[Behavioral Economics]] have demonstrated that [[Loss Aversion]] is one of the most powerful of human motives. 
+Similar to [[Mimetic Theory]], to pursue [[concepts/Lossless|Lossless]] goals is part of human nature itself.  Decades of research in [[Behavioral Economics]] have demonstrated that [[Loss Aversion]] is one of the most powerful of human motives. 
 
 ***
 # Footnotes

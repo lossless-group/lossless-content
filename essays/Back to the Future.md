@@ -1,6 +1,6 @@
 ---
 date_created: 2024-08-02
-date_modified: 2025-05-25
+date_modified: 2025-06-05
 site_uuid: 4dd251ea-2d66-42ca-ab35-1f5641f14396
 title: Back to the Future
 lede: "Old-school, textbook approaches are the secret to mastering the future of AI — sometimes, progress means going back to proven basics."
@@ -17,6 +17,9 @@ tags: [Near-Future-Anticipation, Best-Practices, Conceptual-Frameworks]
 authors:
   - Michael Staton
 ---
+![](https://i.imgur.com/Kdb5uZ3.png)
+
+We are entering an era where knowledge work will reorganize from the "workshop" model to an "assembly line" model. 
 
 As we are living it, we often miss the radically historic shifts that are happening around us.  We miss their implications, and miss the opportunities they generate.  
 
@@ -25,6 +28,8 @@ So let us go back to the future.
 > I think we have been working in collaborative workshops. We will be working in collaborative supply chains.
 
 Up until well into the industrial revolution, industries were mainly organized by guilds of skilled tradesman. Products were designed and manufactured in workshops, their component parts were either made in-house or sourced through local, or sometimes regional networks. 
+
+
 
 It wasn't until the late 1700s that the concept of interchangeable parts began its path to widespread adoption, largely through the booming musket industry fueled by the French and American revolutions. Needing larger and larger numbers of men to leave their farms, pick up arms, and shoot at one another, Thomas Jefferson returned from France having observed the French success at standardizing cannons and cannonball production, and the nifty application of standardization to flintlocks on muskets. Flintlocks were the part most likely to break or be defective, so a standardized make enabled those men whose muskets were acting up to quickly fix them with a replacement part. Jefferson put in motion what is likely the first American Government RFP process, and Eli Whitney of Cotton Gin fame was awarded the largest contract. As the Whitney Armory had to build all of the interchangeable parts themselves, it had to set up a series of workshops that specialized in component parts. The process really wasn't mastered and used until 1827.
 
