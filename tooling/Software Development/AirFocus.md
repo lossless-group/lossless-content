@@ -17,10 +17,9 @@ title: Strategic Product Management Platform
 favicon: https://airfocus.com/favicon-32x32.png?v=23206af13918f4ec72b2582ef7d0e3c7
 og_fetched_url: https://airfocus.com
 og_last_fetch: '2025-03-14T04:41:27.821Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.858Z'
-tags:
-  - Software-Development
+date_modified: 2025-06-05
+date_created: 2025-03-30
+tags: [Software-Development]
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/cb8d665d5a67e5148a0434cf8f9d54ffd71ad19c09c10740ba144f04b94cf054.jpeg
 ---
