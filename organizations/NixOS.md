@@ -24,7 +24,7 @@ https://youtu.be/DMQWirkx5EY?si=gETDKa9G9OpztgHZ
 ##### [[organizations/NixOS|NixOS]] has a [[concepts/User Forums|User Forum]]
 ![[Screenshot From 2024-12-25 02-15-34_Nix--User-Forum.png]]
 
-#### AI Explains [[Docker]] and [[organizations/NixOS|NixOS]] combo.
+#### AI Explains [[Tooling/Software Development/DevOps/Docker]] and [[organizations/NixOS|NixOS]] combo.
 
 > [!NOTE]
 > Docker and Nix serve complementary purposes, even though there's some overlap. Here are the key benefits of using Docker alongside Nix:

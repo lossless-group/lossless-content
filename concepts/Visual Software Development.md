@@ -10,7 +10,7 @@ Especially for [[Low-Code]] tools, [[UI Builders]], and [[Agentic AI]]
 
 [[Agentic AI]] usually has very visual programming.  Look at [[Flowise]], [[n8n]], and [[Crew AI]]. 
 
-[[Eraser]] is a an AI assisted diagramming tool for software architecture.
+[[Tooling/Software Development/DevOps/Eraser]] is a an AI assisted diagramming tool for software architecture.
 
 [[AppMap]] allows [[AI Native Applications|AI Native]] [[concepts/Explainers for AI/Code Generators|Code Generation]] to be managed visually through all kinds of diagrams. 
 
@@ -74,7 +74,7 @@ Especially for [[Low-Code]] tools, [[UI Builders]], and [[Agentic AI]]
 >     - Helps developers understand how components interact and provides observability in the code editor.
 > - **[[CodeSee]]**:
 >     - Automatically generates visual maps of codebases to help developers understand architecture and dependencies.
-> - **[[GitKraken]]**:
+> - **[[Tooling/Software Development/DevOps/GitKraken]]**:
 >     - Provides visual tools for Git workflows and repository management, helping teams collaborate on codebases more effectively.
 > - **IntelliJ IDEA (with plugins)**:
 >     - Supports UML generation and diagramming to visualize code structure and relationships.

@@ -13,11 +13,6 @@ og_last_fetch: 2025-06-05T16:20:37.346Z
 og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250605_Effect_og_screenshot.jpeg
 og_image: https://website-landing-seven.vercel.app/opengraph-image.jpg?6fada1acf1f76e7e
 description: Effect is a powerful TypeScript library designed to help developers easily create complex, synchronous, and asynchronous programs.
-tags:
-  - Software-Development
-  - Lego-Kit-Engineering-Tools
-  - Developer-Tools
-  - Developer-Experience
-  - TypeScript-Ecosystem
+tags: [Software-Development, Lego-Kit-Engineering-Tools, Developer-Tools, Developer-Experience, TypeScript-Ecosystem]
 ---
 
