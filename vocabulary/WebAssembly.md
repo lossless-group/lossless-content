@@ -61,7 +61,7 @@ Sources
 [9] Understanding Wasm, Part 2: Whence Wasm - Chris Dickinson https://www.neversaw.us/2023/06/30/understanding-wasm/part2/whence-wasm/
 
 ***
-### Boilerplate [[Rust]] Project for WebAssembly
+### Boilerplate [[Tooling/Software Development/Programming Languages/Rust]] Project for WebAssembly
 
 Below is a simple Rust project setup for compiling to WebAssembly.
 
@@ -137,7 +137,7 @@ This boilerplate demonstrates how to set up a Rust project for WebAssembly and i
 
 Sources
 [1] Loading and running WebAssembly code - MDN Web Docs https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/Loading_and_running
-[2] Web Application with [[Rust]] and Web Assembly - YouTube https://www.youtube.com/watch?v=hcA_GuZHyZM
+[2] Web Application with [[Tooling/Software Development/Programming Languages/Rust]] and Web Assembly - YouTube https://www.youtube.com/watch?v=hcA_GuZHyZM
 [3] WebAssembly concepts - MDN Web Docs https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/Concepts
 [4] Compiling from Rust to WebAssembly - MDN Web Docs https://developer.mozilla.org/en-US/docs/WebAssembly/Guides/Rust_to_Wasm
 [5] Fundamentals of WebAssembly, the start of the Wasm in the wild ... https://www.jakobmeier.ch/wasm-road-0

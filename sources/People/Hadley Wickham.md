@@ -2,5 +2,5 @@
 
 [[Data Analysis]]
 
-[[R Programming Language|R]]
+[[Tooling/Software Development/Programming Languages/R Programming Language|R]]
 

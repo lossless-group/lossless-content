@@ -6,30 +6,15 @@ site_name: Julia
 title: The Julia Programming Language
 favicon: https://julialang.org/assets/infra/julia.ico
 og_errors: true
-og_last_error: '2025-03-07T05:36:39.032Z'
+og_last_error: 2025-03-07T05:36:39.032Z
 og_error_message: Error occurred
-jina_last_request: '2025-03-09T06:45:07.756Z'
+jina_last_request: 2025-03-09T06:45:07.756Z
 jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:19:02.896Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.873Z'
-tags:
-  - Software-Development
-  - Programming-Languages
+og_last_fetch: 2025-06-06T13:18:33.631Z
+date_modified: 2025-06-06
+date_created: 2025-03-30
+tags: [Programming-Languages, Data-Analysis, Data-Tooling]
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 A [[concepts/Explainers for Tooling/Programming Languages]]
 

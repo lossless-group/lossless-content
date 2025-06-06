@@ -18,7 +18,7 @@ description: 'Discover Baserow, the open-source no-code platform for building da
 tags: [Lego-Kit-Engineering-Tools, Software-Development, Databases, Backend-As-A-Service]
 ---
 
-[[concepts/Explainers for Tooling/Database Apps]], defaults to [[Open Source]] as an alternative to [[Airtable]]
+[[concepts/Explainers for Tooling/Database Apps]], defaults to [[Open Source]] as an alternative to [[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Airtable]]
 
 ## Baserow API
 [[Tooling/Software Development/Backend-as-a-Service/Baserow]] also sports a robust [[REST API]] with clear commitment to [[Documentation First Development|Documentation First]]

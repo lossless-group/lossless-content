@@ -16,7 +16,7 @@ tags:
   - Python-Ecosystem
 ---
 
-[[Python]] tooling creator of [[uv]] and [[ruff]]
+[[Tooling/Software Development/Programming Languages/Python]] tooling creator of [[uv]] and [[ruff]]
 
 #### [[GitHub]] repositories:
 [[uv]]

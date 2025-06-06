@@ -1,17 +1,13 @@
 ---
 site_uuid: f8139ec9-0469-4e94-af21-89198f650e6b
-aliases:
-  - ASM
-date_created: 2025-03-09T00:00:00.000Z
-date_modified: '2025-04-12'
-tags:
-  - Software-Development
+url: 'https://developer.arm.com/documentation/den0013/d/Introduction-to-Assembly-Language/Introduction-to-the-GNU-Assembler'
+date_created: 2025-03-09
+date_modified: 2025-06-06
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250605_Assembly_og_screenshot.jpeg'
+og_last_fetch: '2025-06-06T13:08:20.459Z'
+tags: [Software-Development]
+aliases: [ASM]
 ---
-
-
-
-
-
 
 > [!LLM Response] [[organizations/Perplexity AI|Perplexity AI]] explains [[Tooling/Software Development/Programming Languages/Assembly|ASM]]
 > 
@@ -65,6 +61,5 @@ tags:
 > 38. [https://learn.microsoft.com/en-us/dotnet/fundamentals/standards](https://learn.microsoft.com/en-us/dotnet/fundamentals/standards)
 > 39. [https://ecma-international.org/publications-and-standards/standards/ecma-335/](https://ecma-international.org/publications-and-standards/standards/ecma-335/)
 ---
-
 
 Answer from Perplexity: [pplx.ai/share](https://www.perplexity.ai/search/pplx.ai/share)

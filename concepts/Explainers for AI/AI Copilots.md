@@ -68,7 +68,7 @@ tags: [AI-Toolkit]
 
 A feature within any kind of software that provides assistance using [[Generative AI]].
 
-![[Airtable#Airtable Copilot]]
+![[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Airtable#Airtable Copilot]]
 
 [[Tableau]] Einstein
 

@@ -1,0 +1,7 @@
+---
+date_created: 2025-05-29
+date_modified: 2025-05-29
+---
+
+[[Tooling/Software Development/Databases/CrateDB|CrateDB]]
+[[Tooling/Data Utilities/DataBricks|DataBricks]]

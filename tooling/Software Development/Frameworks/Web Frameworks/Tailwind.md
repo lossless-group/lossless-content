@@ -21,7 +21,7 @@ tags:
   - CSS-Frameworks
 ---
 
-A [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]] for managing [[CSS]]. It's [[Opinionated]] about [[Inline Styles]]
+A [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]] for managing [[Tooling/Software Development/Programming Languages/CSS]]. It's [[Opinionated]] about [[Inline Styles]]
 
 [[Theo-t3.gg]] has good [[YouTube]] coverage of [[Tailwind]] v.4 at [this link](https://youtu.be/q55u3_Nj3Lw?si=vx5lFyilExipbhTe).
 

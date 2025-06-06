@@ -11,7 +11,7 @@ og_screenshot_url: 'https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/fa
 og_last_fetch: '2025-05-30T15:51:52.628Z'
 ---
 
-[[iA Writer]]
+[[Tooling/Productivity/iA Writer]]
 [[Tooling/Products/iA Presenter]]
 [[Vocabulary/Markdown Presentations|Markdown Presentations]]
 [[]]

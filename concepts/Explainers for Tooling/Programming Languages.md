@@ -6,9 +6,9 @@ aliases:
   - Programming Language
 ---
 
-The market-standard, never going anywhere languages are [[Python]] and [[JavaScript]]. 
+The market-standard, never going anywhere languages are [[Tooling/Software Development/Programming Languages/Python]] and [[JavaScript]]. 
 
-Data Science and Data Analytics are starting to gravitate towards [[Julia]] 
+Data Science and Data Analytics are starting to gravitate towards [[Tooling/Software Development/Programming Languages/Julia]] 
 
 [[Vocabulary/Embedded Systems|Embedded Systems]] are migrating from [[C]] to [[Tooling/Software Development/Programming Languages/Rust|Rust]]
 

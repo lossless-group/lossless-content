@@ -6,7 +6,7 @@ date_modified: 2025-04-12
 site_uuid: d314f0fc-6aab-445d-890f-be46bbaef2e7
 ---
 
-A set of packages for the [[R Programming Language]] created by [[Hadley Wickham]].
+A set of packages for the [[Tooling/Software Development/Programming Languages/R Programming Language]] created by [[Hadley Wickham]].
 
 ## Getting Started in the [[Tidyverse]]
 An example of easing [[concepts/Getting Started]], how about a quick install process:

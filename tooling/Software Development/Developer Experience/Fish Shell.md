@@ -14,4 +14,4 @@ tags:
   - Developer-Tools
 ---
 
-[[Rust]]
+[[Tooling/Software Development/Programming Languages/Rust]]

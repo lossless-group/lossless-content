@@ -17,4 +17,4 @@ tags:
 
 https://youtu.be/gtkGboGmD2M?si=xIAoxTu58awucZaB
 
-[[TypeScript]]
+[[Tooling/Software Development/Programming Languages/TypeScript]]

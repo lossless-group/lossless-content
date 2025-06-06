@@ -23,7 +23,7 @@ tags:
   - Python-Ecosystem
 ---
 
-A light, stable [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]] in [[Python]] designed to get developers up and running with an [[Application Programming Interface|API]].
+A light, stable [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]] in [[Tooling/Software Development/Programming Languages/Python]] designed to get developers up and running with an [[Application Programming Interface|API]].
 
 > [!NOTE]
 > "The key features are:
