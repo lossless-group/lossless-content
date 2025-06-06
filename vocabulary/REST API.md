@@ -147,7 +147,7 @@ According to [[Poe AI]]:
 > #### **5. Microservices and Cloud Architectures**
 > 
 > - REST APIs are essential for **[[Microservices]]**, where applications are broken into smaller, loosely coupled services that communicate through APIs.
-> - They are also widely used in cloud-based systems (e.g., [[Amazon Web Services|AWS]], [[Azure]]).
+> - They are also widely used in cloud-based systems (e.g., [[Tooling/Software Development/Frameworks/Amazon Web Services|AWS]], [[Azure]]).
 > 
 > #### **6. Democratization of Technology**
 > 

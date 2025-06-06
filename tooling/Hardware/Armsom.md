@@ -1,7 +1,7 @@
 ---
 site_uuid: 91fcf1b5-2487-4504-9140-5a790eae801e
-date_created: 2025-03-19T00:00:00.000Z
-date_modified: '2025-04-12'
+date_created: 2025-03-19
+date_modified: 2025-06-06
 zinger: Powerful Replacement for Raspberry Pi CM4
 url: https://www.armsom.org
 image: >-
@@ -14,8 +14,7 @@ favicon: >-
   https://static.wixstatic.com/media/ad7bd1_c1336fd587574349a3dbbc68c0119aba%7Emv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/ad7bd1_c1336fd587574349a3dbbc68c0119aba%7Emv2.png
 og_fetched_url: https://www.armsom.org/
 og_last_fetch: '2025-03-24T06:28:30.871Z'
-tags:
-  - Hardware
+tags: [Hardware]
 og_screenshot_url: >-
   https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/3cc27a5a5fd2924540eac44ff412900e696267d0e8b5cc200b7e764d42641058.jpeg
 ---
