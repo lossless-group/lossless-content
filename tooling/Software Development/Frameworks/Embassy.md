@@ -73,6 +73,6 @@ tags: [Software-Development, Frameworks]
 
 
 
-A [[organizations/Framework]] in [[Rust]]
+A [[organizations/Framework]] in [[Tooling/Software Development/Programming Languages/Rust]]
 
 

@@ -1,37 +1,22 @@
 ---
 site_uuid: 8128ddd8-c583-4c79-9451-7a9ef2377f91
-url: https://ecma-international.org/publications-and-standards/standards/ecma-262/
-site_name: Ecma International
-title: ECMA-262 - Ecma International
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/ea6d742078d0a298ddac4afe56a53c161c4b9c2d09fb6c57621578095194f890.jpeg
+url: 'https://ecma-international.org/publications-and-standards/standards/ecma-262/'
+site_name: 'Ecma International'
+title: 'ECMA-262 - Ecma International'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250605_JavaScript_og_screenshot.jpeg'
+https: //og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/ea6d742078d0a298ddac4afe56a53c161c4b9c2d09fb6c57621578095194f890.jpeg
 og_errors: true
 og_last_error: '2025-03-07T10:19:44.820Z'
-og_error_message: HTTP error 401
+og_error_message: 'HTTP error 401'
 jina_last_request: '2025-03-09T06:45:19.160Z'
-jina_error: Error occurred
+jina_error: 'Error occurred'
 og_last_fetch: '2025-03-07T06:11:14.691Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.873Z'
+date_modified: 2025-04-12
+date_created: 2025-03-30
 tags:
   - Software-Development
   - Programming-Languages
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://youtu.be/k4xuEl6TmT4?si=0hxbL-1xVxjeTqSD
-
 
 [[concepts/Explainers for Tooling/Web Frameworks]] include [[NEXT.js]], [[React]], [[Vue.js]], [[Solid.js]], [[Nextra]], [[Astro]].
 
@@ -40,7 +25,6 @@ https://youtu.be/k4xuEl6TmT4?si=0hxbL-1xVxjeTqSD
 >"I call this the "JavaScript treadmill", where everything that's more than two years old is garbage written by nincompoops, but _now_ we all got it right and _now_ everything is fantastic, and the only people who criticize it are grumpy crusty old backend boomers too lazy to learn anything new." [^d30f45]
 
 [^d30f45]: 2025, Oct 2025. [Rsbuild – A Better Vite?](https://news.ycombinator.com/item?id=41941414) [[HackerNews]]
-
 
 <iframe style="aspect-ratio:16/9;width:100%;height:auto" src="https://www.youtube.com/embed/d_oVysaqG_0?si=xworDx9cpky4dnHD&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -53,7 +37,7 @@ https://youtu.be/k4xuEl6TmT4?si=0hxbL-1xVxjeTqSD
 > 
 > These allow developers to execute JavaScript outside the browser.
 > 
-> ### **[[Node.js]]**
+> ### **[[Tooling/Software Development/DevTools/Node.js]]**
 > 
 > - **What it is:** A cross-platform runtime for executing JavaScript on the server-side.
 > - **Why we need it:** Node.js enables developers to use JavaScript for building server-side applications, command-line tools, REST APIs, and more.
@@ -62,7 +46,7 @@ https://youtu.be/k4xuEl6TmT4?si=0hxbL-1xVxjeTqSD
 >     - Provides server-side APIs for tasks like file I/O, networking, and process management.
 >     - Forms the backbone of many JavaScript tools.
 > 
-> ### **[[Deno]]**
+> ### **[[Tooling/Software Development/DevTools/Deno]]**
 > 
 > - **What it is:** A modern runtime created by the original developer of Node.js.
 > - **Why we need it:** Deno improves upon Node.js by addressing security concerns, providing built-in TypeScript support, and allowing module imports directly from URLs.
@@ -71,7 +55,7 @@ https://youtu.be/k4xuEl6TmT4?si=0hxbL-1xVxjeTqSD
 >     - Simplified module management (no `node_modules`).
 >     - Supports TypeScript out of the box.
 > 
-> ### **[[Bun]]**
+> ### **[[Tooling/Software Development/DevTools/Bun]]**
 > 
 > - **What it is:** A fast JavaScript runtime and toolkit, similar to Node.js and Deno.
 > - **Why we need it:** Bun focuses on speed and ease of use, combining runtime execution, a package manager, and a bundler into one tool.

@@ -1,7 +1,7 @@
 ---
 site_uuid: dc77d5c7-cf26-4588-bea6-5d7027faca9e
 site_name: SingleStore
-title: 'SingleStore | The Performance You Need for Enterprise AI'
+zinger: 'The Performance You Need for Enterprise AI'
 og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250604_SingleStore_og_screenshot.jpeg'
 jina_last_request: '2025-03-09T06:45:03.870Z'
 jina_error: 'Error occurred'

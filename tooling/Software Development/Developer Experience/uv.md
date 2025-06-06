@@ -15,5 +15,5 @@ tags:
 
 https://youtube.com/shorts/_iKchC7NjEE?si=kpjSdOWfYvtmKicX
 
-[[Python]] [[Packages and Libraries|Package]] manager
+[[Tooling/Software Development/Programming Languages/Python]] [[Packages and Libraries|Package]] manager
 2024, December 13. [UV for Python… (Almost) All Batteries Included](http://localhost:5173/). ArjanCodes.

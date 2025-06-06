@@ -23,7 +23,7 @@ tags:
   - Python-Ecosystem
 ---
 
-An [[Interactive Notebooks]] solution, focused on [[Python]] scripting.  [[Open Source]].
+An [[Interactive Notebooks]] solution, focused on [[Tooling/Software Development/Programming Languages/Python]] scripting.  [[Open Source]].
 
 
 

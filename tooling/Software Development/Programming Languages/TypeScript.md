@@ -1,16 +1,14 @@
 ---
 site_uuid: 846d9d7a-8db8-4794-8e59-e8daab3b46c2
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.874Z'
-tags:
-  - Software-Development
+date_modified: 2025-06-06
+date_created: 2025-03-30
+url: https://www.typescriptlang.org/
+title: JavaScript With Syntax For Types.
+description: TypeScript extends JavaScript by adding types to the language. TypeScript speeds up your development experience by catching errors and providing fixes before you even run your code.
+og_last_fetch: 2025-06-06T13:30:09.127Z
+tags: [Software-Development]
+maintained_by: "[[organizations/Microsoft|Microsoft]]"
 ---
-
-
-
-
-
-
 
 An extension of [[JavaScript]]
 

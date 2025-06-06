@@ -76,5 +76,5 @@ tags:
 
 
 
-[[Rust]]
+[[Tooling/Software Development/Programming Languages/Rust]]
 

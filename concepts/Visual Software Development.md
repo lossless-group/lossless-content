@@ -6,7 +6,7 @@ date_modified: 2025-04-24
 
 Especially for [[Low-Code]] tools, [[UI Builders]], and [[Agentic AI]]
 
-[[Webflow]], [[Adalo]], [[Bubble]], [[OutSystems]]. 
+[[Webflow]], [[Adalo]], [[Bubble]], [[Tooling/Software Development/Lego-Kit Engineering Tools/UI Builders/Outsystems]]. 
 
 [[Agentic AI]] usually has very visual programming.  Look at [[Flowise]], [[n8n]], and [[Crew AI]]. 
 
@@ -83,7 +83,7 @@ Especially for [[Low-Code]] tools, [[UI Builders]], and [[Agentic AI]]
 > 
 > #### **3. Low-Code and No-Code Platforms**
 > 
-> - **[[OutSystems]]**:
+> - **[[Tooling/Software Development/Lego-Kit Engineering Tools/UI Builders/Outsystems]]**:
 >     - A low-code development platform that uses drag-and-drop interfaces and visual workflows to build applications.
 > - **Mendix**:
 >     - Provides visual modeling tools to create applications, including process diagrams and entity-relationship models.

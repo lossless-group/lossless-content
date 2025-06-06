@@ -15,7 +15,7 @@ tags:
   - AI-Programming-Frameworks
 ---
 
-A [[Programming Framework]] for using [[Python]] for [[Agentic AI]]
+A [[Programming Framework]] for using [[Tooling/Software Development/Programming Languages/Python]] for [[Agentic AI]]
 
 Made and maintained by [[organizations/Microsoft]]
 

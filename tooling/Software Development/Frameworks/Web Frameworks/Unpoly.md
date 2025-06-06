@@ -17,4 +17,4 @@ tags:
   - Web-Frameworks
 ---
 
-[[HTML]] enhancement, similar to [[HTMX]]
+[[Tooling/Software Development/Programming Languages/HTML]] enhancement, similar to [[HTMX]]

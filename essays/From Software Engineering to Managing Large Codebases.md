@@ -1,6 +1,6 @@
 ---
 date_created: 2025-06-05
-date_modified: 2025-06-05
+date_modified: 2025-06-06
 slug: from-engineering-to-managing-large-codebases
 title: 'From Software Engineering To Managing Large Codebases'
 lede: ''

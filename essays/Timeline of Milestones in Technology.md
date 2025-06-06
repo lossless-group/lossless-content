@@ -70,7 +70,7 @@ https://youtu.be/OFS90-FX6pg?si=59krfZlRM21AkqLB
 
 2008, [[organizations/Apple]] introduces [[emergent-innovation/Standards/OpenCL|Open Computing Language]].
 
-2009, May 27. [[Ryan Dahl]] first releases [[Node.js]].
+2009, May 27. [[Ryan Dahl]] first releases [[Tooling/Software Development/DevTools/Node.js]].
 
 2010, Dec. 2nd specification on Color published by the [[organizations/ISO]] ISO 15076-1:2010
 
