@@ -9,11 +9,9 @@ og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshot
 jina_last_request: '2025-03-09T06:45:09.462Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-06-05T20:00:13.485Z'
-date_modified: 2025-06-05
+date_modified: 2025-06-06
 date_created: 2025-03-30
-tags:
-  - Software-Development
-  - DevOps
+tags: [Software-Development, DevOps]
 ---
 
 [[Tooling/Software Development/DevOps/Docker]] is a tool for [[Containers|Container]] creation and management, and enables [[concepts/Reproducible Builds]].

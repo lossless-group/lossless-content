@@ -73,7 +73,7 @@ https://youtu.be/9lBTS5dM27c?si=ntl2_3eWmaWxSICJ
 >         - Highly customizable with Python-based workflows.
 >         - Strong community support with integrations for many tools.
 >     - **Best For:** Organizations that need flexibility and are comfortable managing infrastructure.
-> 2. **[[Amazon Web Services|AWS]] Glue**
+> 2. **[[Tooling/Software Development/Frameworks/Amazon Web Services|AWS]] Glue**
 >     
 >     - **Positioning:** A serverless ETL (Extract, Transform, Load) service fully integrated with the AWS ecosystem.
 >     - **Unique Features:**
