@@ -49,7 +49,7 @@ The way to best serve customers changes from directly serving them to letting ot
 Leading technology companies offer a suite of tools to develop on their platforms, typically called an [[SDK|Software Development Kit]] or [[SDK]]. This includes not just [[organizations/Microsoft]], [[organizations/Apple]] and [[organizations/Android]], but also [[organizations/Nvidia]] and other hardware providers.  
 
 ### Developer Community Hub
-![[Airtable#Airtable Developer Community Hub]]
+![[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Airtable#Airtable Developer Community Hub]]
 
 #### Ease of [[concepts/Getting Started]]
 Most of the platforms have an obsessive focus on helping people and organizations [[concepts/Getting Started|get started]].
@@ -90,14 +90,14 @@ Web Applications often have a slightly different way they become a platform -- t
 
 ![[organizations/Google#Google has APIs for everything.]]
 
-![[Airtable#Airtable API Docs]]
+![[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Airtable#Airtable API Docs]]
 
-[[Airtable]] also sports a less common, but extremely helpful, personalized set of [[Documentation]] that allows you to follow the docs with your own data model.  
+[[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Airtable]] also sports a less common, but extremely helpful, personalized set of [[Documentation]] that allows you to follow the docs with your own data model.  
 
-![[Airtable#Airtable Custom API Docs]]
+![[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Airtable#Airtable Custom API Docs]]
 
 Thus, instead of having an App Store or an Extension library, they have an [[Integration Library]], that often include [[One-Click Integrations]].  
-![[Airtable#Airtable Marketplace]]
+![[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Airtable#Airtable Marketplace]]
 
 ## Unlimited Content or Options
 

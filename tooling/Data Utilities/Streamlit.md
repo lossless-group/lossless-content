@@ -19,4 +19,4 @@ tags:
   - Fine-Tuners
 ---
 
-[[Python]], [[Interactive Notebooks]]
+[[Tooling/Software Development/Programming Languages/Python]], [[Interactive Notebooks]]

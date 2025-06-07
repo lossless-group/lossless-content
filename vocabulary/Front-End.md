@@ -4,7 +4,7 @@ site_uuid: 4a3faede-a49a-4ad8-bd85-d2fc717f7914
 date_created: 2025-04-06
 ---
 
-Usually involves heavy use of [[JavaScript]], [[CSS]], and [[HTML]].  
+Usually involves heavy use of [[JavaScript]], [[Tooling/Software Development/Programming Languages/CSS]], and [[Tooling/Software Development/Programming Languages/HTML]].  
 
 [[concepts/Explainers for Tooling/Web Frameworks|Frameworks]] that create more functionality include [[React]], [[Vue.js]], and [[HTMX]] and [[Unpoly]]
 

@@ -9,8 +9,8 @@ aliases:
 ---
 
 [[BitBucket]]
-[[Nx]]
-[[GitKraken]]
+[[Tooling/Software Development/DevOps/Nx]]
+[[Tooling/Software Development/DevOps/GitKraken]]
 
 https://youtu.be/NcU0oEk6z8Y?si=jlehpNLVdqz7tazp
 

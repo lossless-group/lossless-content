@@ -72,7 +72,7 @@ https://youtu.be/ZaA0kNm18pE?si=kcqZx_2arRW04sno
 > 
 > ---
 > 
-> #### **1. [[Amazon Web Services]] (AWS)**
+> #### **1. [[Tooling/Software Development/Frameworks/Amazon Web Services]] (AWS)**
 > 
 > - **Overview**: AWS is the largest and most mature cloud provider, offering a comprehensive suite of services.
 > - **Strengths**:
@@ -160,7 +160,7 @@ https://youtu.be/ZaA0kNm18pE?si=kcqZx_2arRW04sno
 > 
 > The global cloud infrastructure market is highly competitive. Here's a rough breakdown of market share (as of 2023):
 > 
-> - **[[Amazon Web Services|AWS]]**: ~32% (Market Leader)
+> - **[[Tooling/Software Development/Frameworks/Amazon Web Services|AWS]]**: ~32% (Market Leader)
 > - **Microsoft Azure**: ~23% (Second Place)
 > - **Google Cloud (GCP)**: ~10% (Third Place)
 > - **Others**: ~35% (Includes IBM Cloud, Oracle Cloud, Alibaba Cloud, and smaller providers)

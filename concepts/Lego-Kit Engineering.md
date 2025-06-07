@@ -13,7 +13,7 @@ https://youtu.be/GirrkYXoEGM?si=K7Lcv6xDXWpGaUQt
 
 [[Tooling/AI-Toolkit/Generative AI/Code Generators/Tempo|Tempo]]
 
-[[Tooling/Software Development/Lego-Kit Engineering Tools/Clerk|Clerk]], [[Tooling/Software Development/Lego-Kit Engineering Tools/Auth0|Auth0]]
+[[Tooling/Software Development/Backend-as-a-Service/Clerk|Clerk]], [[Tooling/Software Development/Lego-Kit Engineering Tools/Auth0|Auth0]]
 
 [[Polar]], [[organizations/Stripe|Stripe]]
 

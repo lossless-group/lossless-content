@@ -9,5 +9,5 @@ An influencer on [[YouTube]]
 
 Promotes [[Hostinger]]
 
-Has an adulatory video on [[Docker]]
+Has an adulatory video on [[Tooling/Software Development/DevOps/Docker]]
 

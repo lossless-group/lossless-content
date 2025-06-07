@@ -10,7 +10,7 @@ Because [[concepts/Data Fluidics|data wants to become fluid]] through an explosi
 
 ##### Examples of [[Market Leaders]]-driven.
 [[ASP.NET]], created and maintained by [[organizations/Microsoft]].
-[[Angular]], [[Material Design]], [[Go]] created and maintained by [[organizations/Google]].
+[[Angular]], [[Material Design]], [[Tooling/Software Development/Programming Languages/Go]] created and maintained by [[organizations/Google]].
 [[React]], [[StyleX]], [[Skip]] created and maintained by [[organizations/Meta]].
 [[NEXT.js]], [[Nextra]] maintained by [[Vercel]].
 

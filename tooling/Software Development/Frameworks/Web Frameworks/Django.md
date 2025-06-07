@@ -19,4 +19,4 @@ tags:
   - Frameworks
 ---
 
-[[Python]] [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]]
+[[Tooling/Software Development/Programming Languages/Python]] [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]]

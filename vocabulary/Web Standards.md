@@ -32,7 +32,7 @@ aliases:
 > 
 > ---
 > 
-> ### **2. [[CSS]] (Cascading Style Sheets)**
+> ### **2. [[Tooling/Software Development/Programming Languages/CSS]] (Cascading Style Sheets)**
 > 
 > - **Purpose**:  
 >     CSS is used to define the visual presentation of web pages, including layout, colors, fonts, animations, and responsiveness.

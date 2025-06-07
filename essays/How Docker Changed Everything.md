@@ -26,13 +26,13 @@ This was a very common scenario: someone has something working on their machine.
 
 First, we had Virtual Machines.  Then, Virtual Environments. Then, Containers. Then, Ephemeral Environments. Then, Workspaces. 
 
-The most important, now market standard breakthrough service was produced by [Docker](https://www.docker.com/). [[Docker]] allows developers to package applications and all their dependencies into a single unit called a container. This means the software can run consistently on any machine, whether it's on a developer's laptop or a cloud server.
+The most important, now market standard breakthrough service was produced by [Docker](https://www.docker.com/). [[Tooling/Software Development/DevOps/Docker]] allows developers to package applications and all their dependencies into a single unit called a container. This means the software can run consistently on any machine, whether it's on a developer's laptop or a cloud server.
 
-However, [[Docker]] didn't just win the whole market causing the end of history and the last developer.  An upstart called [[ContainerD]] is receiving a lot of attention. 
+However, [[Tooling/Software Development/DevOps/Docker]] didn't just win the whole market causing the end of history and the last developer.  An upstart called [[ContainerD]] is receiving a lot of attention. 
 
 A whole trend is emerging around [[concepts/Standardized Workspaces]], represented by [[organizations/DevZero]].  And, [[organizations/NixOS]] has perfected a concept called [[Ephemeral Environments]].
 
-When asking [[Poe AI]] how [[Docker]] has changed Software Engineering, it responded with the following:
+When asking [[Poe AI]] how [[Tooling/Software Development/DevOps/Docker]] has changed Software Engineering, it responded with the following:
 
 > [!NOTE]
 > Docker has significantly transformed software engineering in several key ways:

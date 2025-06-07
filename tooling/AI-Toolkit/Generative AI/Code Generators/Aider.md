@@ -24,7 +24,7 @@ tags:
 
 [[concepts/Explainers for AI/Code Generators]] inside [[concepts/Explainers for Tooling/Terminal Emulators]], it simulates [[Pair Programming]] and is helpful for [[Code Review]].
 
-It seems only helpful for [[Python]].
+It seems only helpful for [[Tooling/Software Development/Programming Languages/Python]].
 
 2024, Nov 11. [Aider vs. Cline vs. Continue : The ULTIMATE Coding Assistant for Developers?](https://youtu.be/wFWoSvLijSE?si=F5PQvRot8JCx-2Hg) 
 

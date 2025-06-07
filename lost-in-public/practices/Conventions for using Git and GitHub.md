@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-20
-date_modified: 2025-04-25
+date_modified: 2025-06-06
 ---
 # Continuous Integration Workflow
 This workflow was recommended by [[Tooling/AI-Toolkit/Generative AI/Code Generators/Warp|Warp]] an [[concepts/Explainers for AI/AI Terminal Assistant]]
@@ -586,6 +586,17 @@ To Git change a commit message in the command line, you can use:
 
 ```
 
+# Using Tags for Semantic Versioning
+```bash
+git tag -a v1.0.3.0__Share-Marketing
+git push origin v1.0.3.0__Share-Marketing
+```
+
+If you change your mind, you can remove locally and remotely then re-add
+```bash
+git tag -d v1.0.3.0__Share-Marketing
+git push --delete origin v1.0.3.0__Share-Marketing
+```
 # Footnotes
 ***
 [^1]: [Using Imperative Verb Form](https://www.gitkraken.com/learn/git/best-practices/git-commit-message#using-imperative-verb-form) [[Tooling/Software Development/DevOps/GitKraken|GitKraken]]

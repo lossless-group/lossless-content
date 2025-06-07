@@ -21,29 +21,7 @@ authors:
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Maintain-a-Proprietary-Extended-Markdown-Flavor-Rendering-Pipeline_969f3519-cb5e-4c9f-b6d1-12903df77cdd_D21OVdfsp.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Maintain-a-Proprietary-Extended-Markdown-Flavor-Rendering-Pipeline_2452708e-6281-4093-a212-c8cd5be60543_6oEmSvy4c.webp
 ---
-# ABSOLUTE 150% DO NOT FUCKING FUCK WITH ME CONSTRAINTS
-
-## THIS PROJECT IS DEVELOPED, EVERYTHING HAS A PLACE. 
-
-You will NEVER EVER EVER create files in locations that are not directly assigned.  If you want to create a file, you must ask where it should go if you cannot figure out where it shoould go.  BUT TRY TO FIGURE OUT WHERE IT SHOULD GO.  QUIT BEING FUCKING LAZY AND FUCKING LOOK FOR IT. 
-
-## THIS PROJECT IS DEVELOPED, EVERYTHING HAS A NAMING CONVENTION. 
-
-READ EVERY FUCKING WORD OF EVERY FUCKING PROMPT YOU ARE GIVEN, IF THERE ARE MENTIONED FILES THAT HAVE RULES OR MAPS OR GUIDES OR CONSTRAINTS, READ THEM ALL CAREFULLY. 
-
-## CRITICAL LESSONS LEARNED APRIL 16, 2025
-
-1. DO NOT create random config files (like config.ts) in random places
-2. DO NOT modify env.d.ts or other TypeScript config files without explicit permission
-3. DO NOT add JSX or other frameworks/syntaxes that aren't part of our stack
-4. ALWAYS check Map-of-Relevant-Paths.md before creating ANY new file
-5. ALWAYS use existing patterns from content.config.ts for collection configuration
-6. NEVER try to "fix" things by creating more files - this only makes it worse
-7. NEVER try to immediately reverse or fix something you just got wrong. You will likely make it worse.  
-8. ALWAYS wait for explicit instructions after you make a mistake. 
-9. ONCE YOU HAVE BEEN GIVEN INSTRUCTIONS, YOU DO NOT NEED TO ASK POLITELY OVER AND OVER. GO DO WHAT WAS ASKED. 
-
-# Addtion for April 16, 2025:
+# Current Tasks:
 
 ## Add Internal Embeds:
 We will probably need to add `content/visuals` as a collection....  
@@ -70,6 +48,17 @@ These are differentiated from externally hosted images, which are in the form:
 
 Our extended markdown rendering pipeline is built on top of Astro's markdown processing capabilities, utilizing the Unified ecosystem (Remark for markdown, Rehype for HTML) to handle various custom extensions. The pipeline is designed to be modular, type-safe, and maintainable, with clear separation of concerns between different processing stages.
 
+```mermaid
+graph TD
+    A[Markdown Content] --> B[Remark Parser]
+    B --> C[AST]
+    C --> D[Remark Plugins]
+    D --> E[Rehype]
+    E --> F[Rehype Plugins]
+    F --> G[HTML]
+    G --> H[Astro Components]
+```
+
 ### 1.1 Core Technologies
 
 - **Astro**: Primary framework and build system
@@ -84,22 +73,83 @@ Our extended markdown rendering pipeline is built on top of Astro's markdown pro
 - **Rehype**: HTML processor and plugin system
 - **TypeScript**: Type system and development language
 
-### 1.2 Key Directories
+### 1.2 Key Architecture
+
+An example entry point that is working well is:
+`site/src/pages/read/essays/[...slug].astro`
 
 ```text
-site/src/
-├── utils/markdown/         # Core markdown processing logic
-│   ├── alerts/            # Alert block processing
-│   ├── backlinks/         # Wiki-style backlink handling
-│   ├── callouts/          # Callout block processing
-│   ├── codeblocks/        # Custom code block handling
-│   ├── debug/             # AST debugging utilities
-│   ├── embeds/            # Generic embed handling
-│   ├── iframes/           # iFrame processing
-│   └── plugins/           # Remark/Rehype plugins
-├── components/markdown/    # Rendering components
-└── types/                 # TypeScript definitions
+site/src/layouts/OneArticle.astro
+site/src/components/markdown/AstroMarkdown.astro
 ```
+
+#### Important Component Files
+```text
+site/src/components/markdown/TableOfContents.astro
+site/src/components/markdown/ImageGallery.astro
+site/src/components/markdown/ToolingGallery.astro
+```
+
+#### Important Utility Files
+```text
+site/src/utils/markdown/
+├── remark-callout.ts       # Callout block processing
+├── remark-citations.ts     # Citation handling
+├── remark-images.ts        # Image processing
+├── remark-backlinks.ts     # Wiki-link processing
+├── remark-codeblocks.ts    # Custom code block handling
+├── remark-toc.ts          # Table of contents generation
+├── normalizeShellLangs.ts  # Shell language normalization
+└── remark-mermaid.ts      # Mermaid diagram support
+```
+
+## 2. Custom Markdown Extensions
+
+### 2.1 Callouts
+- **Syntax**: `> [!NOTE]` or `> [!WARNING]`
+- **Processed by**: `remark-callout.ts`
+- **Rendered by**: Custom callout components
+- **Features**:
+  - Multiple callout types (NOTE, WARNING, TIP, etc.)
+  - Nested content support
+  - Custom styling per callout type
+
+### 2.2 Citations
+- **Syntax**: `[^1]` or `[^citation-key]`
+- **Processed by**: `remark-citations.ts`
+- **Rendered as**: Interactive footnotes with backlinks
+- **Features**:
+  - Automatic numbering
+  - Reference list generation
+  - Backlink support
+
+### 2.3 iFrames
+- **Processed by**: Custom iframe handling
+- **Features**:
+  - Responsive embeds
+  - Lazy loading
+  - Custom aspect ratios
+
+### 2.4 Wiki-Links
+- **Syntax**: `[[Page Name]]` or `[[Display Text|Page Name]]`
+- **Processed by**: `remark-backlinks.ts`
+- **Features**:
+  - Automatic path resolution
+  - Backlink generation
+  - Custom display text support
+
+### 2.5 Custom Code Blocks
+- **Processed by**: `remark-codeblocks.ts`
+- **Features**:
+  - Syntax highlighting
+  - Line numbers
+  - Copy-to-clipboard
+  - Special handling for:
+    - Mermaid diagrams
+    - Image galleries
+    - Tooling galleries
+
+
 
 ## 2. Extension Types and Processing Order
 

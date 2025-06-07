@@ -16,7 +16,7 @@ tags:
   - Agentic-AI
 ---
 
-An [[Agentic AI]] framework in [[Python]].
+An [[Agentic AI]] framework in [[Tooling/Software Development/Programming Languages/Python]].
 
 [[Open Source]]
 

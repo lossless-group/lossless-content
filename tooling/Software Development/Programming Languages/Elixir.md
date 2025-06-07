@@ -1,31 +1,18 @@
 ---
 site_uuid: 6c2a9837-0846-4dd9-be3a-77455e68b29c
-url: https://elixir-lang.org/
-image: https://elixir-lang.org/images/social/elixir-og-card.jpg
-site_name: Elixir
-title: The Elixir programming language
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/597d862ddb283e49ebd771ee077af08990da1839fe1a37a77f42754028b24efb.jpeg
+url: 'https://elixir-lang.org/'
+image: 'https://elixir-lang.org/images/social/elixir-og-card.jpg'
+site_name: 'The Elixir programming language'
+title: 'The Elixir programming language'
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250605_Elixir_og_screenshot.jpeg'
 jina_last_request: '2025-03-09T06:45:19.012Z'
-jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:19:02.899Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.873Z'
-tags:
-  - Software-Development
-  - Programming-Languages
+jina_error: 'Error occurred'
+og_last_fetch: '2025-06-06T13:14:30.426Z'
+date_modified: 2025-06-06
+date_created: 2025-03-30
+og_image: 'https://elixir-lang.org/images/social/elixir-og-card.jpg'
+og_url: 'https://elixir-lang.org/'
+description: 'Website for Elixir'
+tags: [Software-Development, Programming-Languages]
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
 

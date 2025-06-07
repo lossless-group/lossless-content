@@ -6,16 +6,16 @@ date_modified: 2025-04-24
 
 Especially for [[Low-Code]] tools, [[UI Builders]], and [[Agentic AI]]
 
-[[Webflow]], [[Adalo]], [[Bubble]], [[OutSystems]]. 
+[[Webflow]], [[Adalo]], [[Bubble]], [[Tooling/Software Development/Lego-Kit Engineering Tools/UI Builders/Outsystems]]. 
 
 [[Agentic AI]] usually has very visual programming.  Look at [[Flowise]], [[n8n]], and [[Crew AI]]. 
 
-[[Eraser]] is a an AI assisted diagramming tool for software architecture.
+[[Tooling/Software Development/DevOps/Eraser]] is a an AI assisted diagramming tool for software architecture.
 
 [[AppMap]] allows [[AI Native Applications|AI Native]] [[concepts/Explainers for AI/Code Generators|Code Generation]] to be managed visually through all kinds of diagrams. 
 
 
-![[BuildShip#BuildShip is a Visual Software Development Visual Low-Code Back-End Engineering Back-End , nearly a Backend-as-a-Service]]
+![[Tooling/Software Development/Backend-as-a-Service/BuildShip#BuildShip is a Visual Software Development Visual Low-Code Back-End Engineering Back-End , nearly a Backend-as-a-Service]]
 ## The role of [[concepts/CARBS/Flow Charts]]
 [[Mermaid.js]], [[MermaidChart]], [[emergent-innovation/Standards/JSON Canvas]].
 
@@ -74,7 +74,7 @@ Especially for [[Low-Code]] tools, [[UI Builders]], and [[Agentic AI]]
 >     - Helps developers understand how components interact and provides observability in the code editor.
 > - **[[CodeSee]]**:
 >     - Automatically generates visual maps of codebases to help developers understand architecture and dependencies.
-> - **[[GitKraken]]**:
+> - **[[Tooling/Software Development/DevOps/GitKraken]]**:
 >     - Provides visual tools for Git workflows and repository management, helping teams collaborate on codebases more effectively.
 > - **IntelliJ IDEA (with plugins)**:
 >     - Supports UML generation and diagramming to visualize code structure and relationships.
@@ -83,7 +83,7 @@ Especially for [[Low-Code]] tools, [[UI Builders]], and [[Agentic AI]]
 > 
 > #### **3. Low-Code and No-Code Platforms**
 > 
-> - **[[OutSystems]]**:
+> - **[[Tooling/Software Development/Lego-Kit Engineering Tools/UI Builders/Outsystems]]**:
 >     - A low-code development platform that uses drag-and-drop interfaces and visual workflows to build applications.
 > - **Mendix**:
 >     - Provides visual modeling tools to create applications, including process diagrams and entity-relationship models.

@@ -5,9 +5,9 @@ date_created: 2025-04-18
 date_modified: 2025-04-24
 ---
 
-[[Porrfor]]
+[[Tooling/Software Development/DevOps/Porrfor]]
 [[organizations/NixOS]]
-[[Docker]]
+[[Tooling/Software Development/DevOps/Docker]]
 [[ContainerD]]
 
 

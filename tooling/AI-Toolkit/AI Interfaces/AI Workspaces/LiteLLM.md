@@ -16,7 +16,7 @@ tags:
   - LLM-Gateways
 ---
 
-Has a [[Python]] [[SDK]].
+Has a [[Tooling/Software Development/Programming Languages/Python]] [[SDK]].
 
 [[Amazon Bedrock]], [[Azure]], [[OpenAI]], [[VertexAI]], [[Cohere]], [[Anthropic]], [[Sagemaker]], [[Hugging Face]], [[Replicate]], [[Groq]]
 
