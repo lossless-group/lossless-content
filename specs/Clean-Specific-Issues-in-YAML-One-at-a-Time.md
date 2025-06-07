@@ -12,13 +12,9 @@ status: Iterating
 augmented_with: Windsurf IDE with Claude 3.5 Sonnet
 category: Specification
 date_created: 2025-04-16
-date_modified: 2025-04-16
+date_modified: 2025-06-07
 site_uuid: a08aa44e-a513-475a-a1dd-edfcd7752127
-tags: 
-  - Scripts
-  - YAML
-  - Data-Integrity
-  - Content-Fixes
+tags: [Scripts, YAML, Data-Integrity, Content-Fixes]
 authors:
   - Michael Staton
 image_prompt: "A tidy workspace with neatly organized folders and checklists, each item being ticked off one by one. The visual theme is clarity and order, symbolizing systematic correction of individual YAML issues."
