@@ -11,14 +11,10 @@ publish: true
 generated_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Technical-Specification
 date_created: 2025-04-16
-date_modified: 2025-04-16
+date_modified: 2025-06-07
 status: Draft
 site_uuid: e2942c54-27e6-46c0-bacf-9b8320595063
-tags: 
-  - YAML
-  - Frontmatter
-  - Error-Detection
-  - Error-Corrections
+tags: [YAML, Frontmatter, Error-Detection, Error-Corrections]
 authors:
   - Michael Staton
 image_prompt: "A detective’s magnifying glass hovering over lines of code and YAML files, with highlighted corrections and annotations. The atmosphere is investigative, emphasizing problem-solving and meticulous attention to detail."

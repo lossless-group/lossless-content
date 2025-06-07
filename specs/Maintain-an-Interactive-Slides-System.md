@@ -1,22 +1,19 @@
 ---
 title: Create an Interactive Slides System
-lede: Make your site more useful by adding a site preview using HTML iFrames and OpenGraph.io
+lede: Ditch presentation software and let AI assist in content development by creating presentations-as-code and Markdown-based presentation rendering.
 date_authored_initial_draft: 2025-06-06
 date_authored_current_draft: 2025-06-06
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft: 
+date_first_published: 
+date_last_updated: 
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-06-06
-date_modified: 2025-06-06
-image_prompt: "A robot representing AI is presenting a slide deck to a board room of people."
-tags:
-  - User-Interface
-  - Slide-Decks
-  - Interactive-Content
+date_modified: 2025-06-07
+image_prompt: A robot representing AI is presenting a slide deck to a board room of people.
+tags: [User-Interface, Slide-Decks, Interactive-Content, Presentations-as-Code]
 authors:
   - Michael Staton
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-06-07_banner_image_Maintain-an-Interactive-Slides-System_6a26dec5-8467-42e9-ad5f-10641f1c5421_yy0gvWgec.webp
