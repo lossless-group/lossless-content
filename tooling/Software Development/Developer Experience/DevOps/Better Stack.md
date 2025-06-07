@@ -12,9 +12,6 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 og_image: https://betterstack.com/assets/v2/og_homepage_v3-6e7c1c5083184ac0e5e080758588682b0cdf4f63680ddb81b8a57376b5666e7e.jpg
 title: Radically better observability stack
 description: Ship higher-quality software faster. Be the hero of your engineering teams. Start for free.
-tags:
-  - Software-Development
-  - Observability-Tools
-  - Observability-Platforms
+tags: [Software-Development, Observability-Tools, Observability-Platforms]
 ---
 

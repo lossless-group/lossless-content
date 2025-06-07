@@ -19,8 +19,8 @@ tags:
   - Interactive-Content
 authors:
   - Michael Staton
-banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/2025-05-26_banner_image_Add-a-Site-Preview-to-ToolKit-Tool-Card_d69d157f-ac66-47c0-9218-a1b13a5301fb_rDWyPlvy8.webp
-portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/2025-05-26_portrait_image_Add-a-Site-Preview-to-ToolKit-Tool-Card_382d72db-5553-4a10-9a7b-71a3e149a931_0okw2hpo2.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-06-07_banner_image_Maintain-an-Interactive-Slides-System_6a26dec5-8467-42e9-ad5f-10641f1c5421_yy0gvWgec.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-06-07_portrait_image_Maintain-an-Interactive-Slides-System_62aa0a83-e431-4eb7-a546-6aef476ba969_KIbMOQrh8.webp
 ---
 
 # Slide Deck System
@@ -286,10 +286,12 @@ export const collections = {
 - [x] Review Astro components for Extended Syntax (documented in spec)
 - [x] Document relevant files and patterns (see spec)
 - [x] Review if we need to develop a dynamic variant of each Markdown extension component for slides.
-- [x] Define slide-specific Markdown extensions (see below)
-- [x] Plan integration points with existing pipeline
+- [ ] Define slide-specific Markdown extensions (see below)
+- [ ] Plan integration points with existing pipeline
 
-### 1. Slide-Specific Markdown Extensions
+### Phase 2: Just get a single slideshow working from a different directory using the existing page rendering pipeline.
+
+
 
 #### 1.1 Slide Separators
 ```markdown
@@ -386,6 +388,8 @@ site/src/
       _config.ts
       index.json.ts
 ```
+
+### Phase 1
 
 ### 4. Integration Points
 1. Extend `astro.config.mjs` to include slide processing
