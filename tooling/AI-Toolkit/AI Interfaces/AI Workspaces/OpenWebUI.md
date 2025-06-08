@@ -10,13 +10,10 @@ og_error_message: 'HTTP error 401'
 jina_last_request: '2025-03-09T06:45:07.222Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-05-28T02:44:58.645Z'
-date_modified: 2025-05-28
+date_modified: 2025-06-08
 date_created: 2025-03-30
 og_url: https://www.openwebui.com
-tags:
-  - AI-Toolkit
-  - AI-Interfaces
-  - AI-Workspaces
+tags: [AI-Toolkit, AI-Interfaces, AI-Workspaces]
 ---
 
 Creates a UI for [[concepts/Explainers for AI/Artificial Intelligence|AI]]

@@ -1,125 +1,16 @@
 ---
 site_uuid: 7a43f934-fdfc-453d-b17b-da7c8eba6dda
-aliases:
-  - MCP
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.830Z'
-tags:
-  - Agentic-AI
+aliases: [MCP]
+date_modified: 2025-06-07
+date_created: 2025-03-30
+tags: [Agentic-AI]
+github_profile_url: https://github.com/modelcontextprotocol
+docs_url: https://modelcontextprotocol.io/introduction
 ---
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[[Tooling/Software Development/Frameworks/Web Frameworks/Fastify|Fastify]]
 
 
 

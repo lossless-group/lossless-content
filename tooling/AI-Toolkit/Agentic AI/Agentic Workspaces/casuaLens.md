@@ -17,4 +17,4 @@ tags:
   - Agentic-AI
 ---
 
-Met CEO at [[Private Company Software & Internet Conference]]
+Met CEO at [[Sources/Events/Private Company Software & Internet Conference]]

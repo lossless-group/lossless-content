@@ -1,6 +1,6 @@
 ---
 date_created: 2024-12-31
-date_modified: 2025-04-30
+date_modified: 2025-06-08
 site_uuid: 1dd092dd-ae22-4771-9e94-d76a9829627f
 title: Holacracy-Inspired Reorganization
 lede: "Holacracy-inspired reorgs promise agility, but require buy-in at every level to succeed."
@@ -14,7 +14,7 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05
 image_prompt: "A company org chart transforming into a network of interconnected circles, each with empowered teams, and a central hub glowing with collaborative energy. The mood is modern, dynamic, and organizational."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Holacracy-Inspired-Reorganization_06caed4f-02f1-4594-b00c-623559357c5d_m-4ECyzlP.jpg
 tags: [Management-Strategies, War-for-Talent]
-authors: 
+authors:
   - Michael Staton
 ---
 

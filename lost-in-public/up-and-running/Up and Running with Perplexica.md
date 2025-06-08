@@ -5,6 +5,15 @@ date_modified: 2025-06-07
 [[Tooling/AI-Toolkit/Models/Perplexica|Perplexica]] is an [[concepts/Open Source Alternatives|Open Source Alternative]] to [[organizations/Perplexity AI|Perplexity AI]] using the [[Searxng]] search API, which is an open source alternative to Google or other [[Search Engines]].
 
 ```bash
+# Build the Docker image 
+docker compose build 
+# Start the container in detached mode 
+docker compose up -d 
+# View the logs to ensure everything starts correctly 
+docker compose logs -f
+```
+
+```bash
 docker-compose up
 ```
 
@@ -36,4 +45,10 @@ http://localhost:3030
   "stream": false
 }
 ```
+
+## Install LM Studio
+```bash
+lms server start
+```
+
 
