@@ -1,10 +1,26 @@
 ---
 url: null
-date_modified: 2025-04-12
+date_modified: 2025-06-08
 site_uuid: dbbec104-be64-47a6-8413-05079caad984
 date_created: 2025-04-06
 ---
 
+# Why Vibe Coding Matters
+
+## Need a Solution? Don't shop and buy, just Fork and Deploy
+Nowadays there are [[concepts/Open Source Alternatives|Open Source Alternatives]] or [[concepts/Open Source, DIY Variant|DIY Variants]] of just about any kind of software you can think of. And for many you would never even imagine.  
+
+All you have to do is create a [[Forked Repositories|Forked Repository]] for [[Tooling/Software Development/Developer Experience/GitHub|GitHub]] (see [[concepts/Explainers for Tooling/Github Forks|Github Forks]]), and then do a [[Vocabulary/One-Click Deployments|One-Click Deployment]].
+
+Vibe Coding is allowing non-engineers to become [[concepts/Stack Engineering|Stack Engineers]]. So, someone who is marketing can fork a [[Vocabulary/CRM|CRM]] like [[Tooling/Enterprise Jobs-to-be-Done/Twenty|Twenty]], deploy it on [[Tooling/Software Development/Cloud Infrastructure/Railway|Railway]], and get to work. 
+
+## Giving Developer Superpowers to Non-Developers
+
+
+
+
+
+# What is Vibe Coding?
 When [[Software Development]] is largely done with [[concepts/Explainers for AI/Code Generators|Code Generators]], to the point where engineers just sit back and let the [[Large Language Models|LLM]] do most of the work.  
 
 <iframe 
@@ -17,6 +33,7 @@ When [[Software Development]] is largely done with [[concepts/Explainers for AI/
   allowfullscreen
 ></iframe>
 2025, February 21. [Vibe coding: Epigenetic age calculator GUI with Cursor and Lovable](https://youtu.be/UYPHqrtfGfo?si=djrP1ZOmeHNZi5qX). DrDan's ponderings on AI and longevity 🤖🧬.
+
 
 2025, February 13. [What is Vibe Coding? ☮️ 😎](https://youtube.com/shorts/8TQaJDCw-dE?si=EuuvPIGReGv477-v). Matthew Berman.
 
