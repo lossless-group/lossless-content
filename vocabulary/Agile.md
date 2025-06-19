@@ -48,6 +48,7 @@ Some content here.
   allowfullscreen
 ></iframe>
 
+[[AI Avatars]]
 A backlink to [[vocabulary/Affinity Network]]
 
 > [!LLM Response] Perplexity explains agile.
