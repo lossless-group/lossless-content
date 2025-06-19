@@ -49,8 +49,8 @@ For instance, an agentic AI system might be able to:
 
 [2] A research paper published in the journal Nature Medicine showcased the use of agentic AI to develop personalized pharmacogenomics platforms, leading to improved treatment outcomes and reduced adverse reactions.
 
-```toolGallery
-- Agentic-AI
+```toolingGallery
+- tag: [[Agentic-AI]]
 ```
 
 
