@@ -36,7 +36,6 @@ This, on the otherhand, is uses footnoteReference[^1]
 ![[assets/Screenshot_2025-04-14_Kling-AI.png]]
 
 
-
 Some content here.  
 
 <iframe 
