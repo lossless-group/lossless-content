@@ -1,6 +1,6 @@
 ---
 date_created: 2024-11-08
-date_modified: 2025-04-28
+date_modified: 2025-06-19
 site_uuid: 20654883-39a1-44b4-a6ca-b7afbe5cff17
 title: From Rags to Riches
 lede: "Retrieval Augmented Generation transforms raw data into enterprise AI gold—if you set it up right."
@@ -14,7 +14,7 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05
 image_prompt: "A split scene: on top, a young street pauper in old London; below, a glowing software architecture diagram showing an AI chip fed by databases and fileservers, symbolizing the leap from rags to riches through RAG. The mood is transformative and technical."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_From-Rags-to-Riches_a256493c-2ecf-471a-a6e8-6c428858c704_GqCMJtk3M.jpg
 tags: [Best-Practices, AI-Human-Workflow, AI-RAG-Stack, Retrieval-Augmented-Generation]
-authors: 
+authors:
   - Michael Staton
 ---
 
