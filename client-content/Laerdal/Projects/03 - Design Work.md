@@ -1,6 +1,7 @@
 ---
 date_created: 2025-01-07
 date_modified: 2025-05-29
+title: Test Title
 ---
 ## Assessment of the [[Life Design System]]
 The [[Life Design System]] should be considered [[concepts/State of the Art|State of the Art]], and is one of the primary efforts we see as working towards [[concepts/Coherence|Coherence]].  The [[Life Design System]] is managed from the [[Copenhagen Office]], overseen by [[Hector Mejia]]. [[Troels Villumsen]] is our [[concepts/Single Point of Contact|SPOC]].
