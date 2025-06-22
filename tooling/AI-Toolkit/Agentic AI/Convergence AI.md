@@ -32,4 +32,4 @@ tags:
   allowfullscreen
 ></iframe>
 
-2025, Febr[[]]uary 20. [FREE Convergence Proxy BEATS OpenAI Operator (SAVE $200/mo!)🤖 Best AI Browsing Agent?](https://youtu.be/xw1ixweU-Bk?si=c-0ITlbO6kN8VIlM). Josh Pocock.
+2025, February 20. [FREE Convergence Proxy BEATS OpenAI Operator (SAVE $200/mo!)🤖 Best AI Browsing Agent?](https://youtu.be/xw1ixweU-Bk?si=c-0ITlbO6kN8VIlM). Josh Pocock.
