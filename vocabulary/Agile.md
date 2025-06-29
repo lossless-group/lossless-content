@@ -6,26 +6,6 @@ site_uuid: 7b615412-bbfe-4a5c-a0e7-a883e5d15466
 
 https://youtu.be/w5Wr3j4h_1I?si=MkvjqMt3xPbBZjUL
 
-
-| Hello | World |
-| ----- | ----- |
-| world | hello |
-
-
-This uses citationReference [6] (https://www.linkedin.com/pulse/critique-agile-navigating-challenges-popular-seif-radwan-zjrlf)
-
-This, on the otherhand, is uses footnoteReference[^1]
-
-[^1]: Reference
-
-[[Vocabulary/Software Development|Software Development]]
-[[Vocabulary/Engineering Management|Engineering Management]]
-
-
-| Left | Center | Right |
-|:-----|:------:|------:|
-| 1    |   2    |     3 |
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/291f2534e5a142048b7c5df73758c581?sid=d136039f-d327-4f45-bedb-e80bf456800d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
@@ -48,8 +28,6 @@ Some content here.
   allowfullscreen
 ></iframe>
 
-[[AI Avatars]]
-A backlink to [[vocabulary/Affinity Network]]
 
 > [!LLM Response] Perplexity explains agile.
 > Explain agile methodologies in software development. How did it become a trend? Who first wrote about it or promoted it? What firms are known to be religious practitioners? What are the controversies? Is there any data or research to back up either believers or non-believers?
