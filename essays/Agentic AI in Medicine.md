@@ -1,6 +1,6 @@
 ---
 date_created: 2025-06-19
-date_modified: 2025-06-19
+date_modified: 2025-06-26
 site_uuid: a0354223-396h-4rb4-a6ca-97afbe5cff17
 title: Agentic AI in Medicine
 lede: Let's help medical professionals focus on treating patients, and let AI agents do the busy work.
@@ -49,7 +49,7 @@ For instance, an agentic AI system might be able to:
 
 [2] A research paper published in the journal Nature Medicine showcased the use of agentic AI to develop personalized pharmacogenomics platforms, leading to improved treatment outcomes and reduced adverse reactions.
 
-```toolingGallery
+``` yaml toolingGallery
 - tag: [[Agentic-AI]]
 ```
 
