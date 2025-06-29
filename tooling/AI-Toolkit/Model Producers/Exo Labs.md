@@ -11,11 +11,8 @@ og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshot
 jina_last_request: '2025-03-09T06:45:02.388Z'
 jina_error: 'TIMEOUT'
 og_last_fetch: '2025-05-28T23:07:12.301Z'
-date_modified: 2025-05-29
+date_modified: 2025-06-26
 date_created: 2025-03-30
-tags:
-  - AI-Toolkit
-  - Model-Producers
-  - Runs-Local
+tags: [AI-Toolkit, Model-Producers, Runs-Local]
 ---
 
