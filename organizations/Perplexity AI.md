@@ -1,8 +1,9 @@
 ---
 url: https://www.perplexity.ai/
-tags:
-  - Model-Producers
+tags: [Model-Producers]
 mcp_server: https://github.com/ppl-ai/modelcontextprotocol/tree/main
+date_created: 2025-04-25
+date_modified: 2025-07-07
 ---
 
 [[organizations/Perplexity AI]] focuses on the "search" use case for AI, to some degree performing realtime search, focusing on the quality of information sources, and embedding and citing its own sources.  
