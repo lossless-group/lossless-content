@@ -12,16 +12,9 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Specification
 publish: false
 date_created: 2025-04-16
-date_modified: 2025-04-16
+date_modified: 2025-07-07
 site_uuid: f8f59b34-dd5b-4f79-b8a7-74c3fc99a89f
-tags: 
-  - Build-Scripts
-  - YAML
-  - Frontmatter
-  - Architecture
-  - Documentation
-  - OpenGraph
-  - YouTube
+tags: [Build-Scripts, YAML, Frontmatter, Architecture, Documentation, OpenGraph, YouTube]
 authors:
   - Michael Staton
 image_prompt: "A complex flowchart with interconnected gears and code snippets, representing an automated build process. The background features digital blueprints and progress bars, evoking efficiency and precision in software development."

@@ -10,11 +10,9 @@ at_semantic_version: "0.0.0.1"
 authors: Michael Staton
 status: Draft
 augmented_with: Windsurf Cascade with SWE-1
-tags:
-  - Explorations
-  - Model-Context-Protocols
+tags: [Explorations, Model-Context-Protocols]
 date_created: 2025-06-07
-date_modified: 2025-06-07
+date_modified: 2025-07-08
 ---
 
 # Model Context Protocol (MCP) Analysis
