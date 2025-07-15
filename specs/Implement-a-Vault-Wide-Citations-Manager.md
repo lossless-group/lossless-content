@@ -12,7 +12,7 @@ augmented_with: Windsurf Cascade on SWE-1
 category: Content-Management
 publish: true
 date_created: 2025-03-12
-date_modified: 2025-07-09
+date_modified: 2025-07-15
 site_uuid: y8f59v34-aa5b-4f79-b8a7-93c3fc99a89f
 tags: [Build-Scripts, YAML, Frontmatter, Architecture, Documentation, OpenGraph, YouTube]
 authors:
@@ -21,6 +21,13 @@ image_prompt: A complex flowchart with interconnected gears and code snippets, r
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Build-Script-Spec_39259b0d-6bed-4157-baf7-53c35deebb35_rr5hYOulP.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Build-Script-Spec_21af46f2-dd20-45e5-86da-c0815542f01e_e1OL2d6mN.webp
 ---
+# Status
+
+### Convert to Hex Modal
+Here's how it works:
+![](https://i.imgur.com/dBMKnV7.gif)
+
+
 # Objective
 
 Implement our work that transforms citations and footnotes in Markdown files in a dedicated [[Tooling/Productivity/Obsidian|Obsidian]] plugin. 
@@ -78,8 +85,11 @@ They usually create a footnotes section that may have different syntactic struct
 	2. Within the same operation, match the corresponding "footnote" reference, which may read as 
 		1. "`1. [https://www.mailersend.com/features/multiple-domains](https://www.mailersend.com/features/multiple-domains).`", or  
 		2. "`[1]. [MailerSend](https://www.mailersend.com/features/multiple-domains).`"
-	3. Transform the target value (e.g., `[1]` or `[^1]`) to unique hexadecimal identifiers with the proper [[emergent-innovation/Standards/Markdown|Extended Markdown]] syntax 
-		1. Citation instances transform to (e.g., ` [^a1b2c3]`). **Note:** there must be a  space before the citation opening bracket. **Note:** if there are contiguous or sequential citations they must have spaces between them.  (e.g., ` [^a1b2c3] [^b2c3d4]`)
+	3. Transform the target value (e.g., `[1]` or `[^1]`) to unique hexadecimal identifiers with the proper [[emergent-innovation/Standards/Markdown|Extended Markdown]] syntax. 
+		1. Citation instances transform to (e.g., ` [^a1b2c3]`). 
+			1. **Note:** there must be a space before the citation opening bracket. 
+			2. **Note:** if there are contiguous or sequential citations they must have spaces between them.  (e.g., ` [^a1b2c3] [^b2c3d4]`)
+			3. **Note**: default hex generation uses base 16 which only uses letters a-f.  This is unnecessary, we are not optimizing on performance.  We should use all letters to get more unique potential hex identifiers. 
 		2. and in the SAME OPERATION transform the **final instance** in the footnotes or reference section to `[^a1b2c3]: ` **Note:** there must be a colon immediately following the closing bracket, followed by a space. 
 
 2. Ensure all citations have corresponding footnote definitions
@@ -128,9 +138,8 @@ Our current transformation is expecting only:
 
 The desired transformation in this instances is:
 ```markdown
-[^8e965e]: [Disciplined Entrepreneurship - Summaries.Com, PDF](https://public.summaries.com/files/1-page-summary/disciplined-entrepreneurship.pdf)
+[^8e965e]: [Disciplined Entrepreneurship - Summaries.Com](https://public.summaries.com/files/1-page-summary/disciplined-entrepreneurship.pdf)
 ```
-
 # Implementation Plan
 
 ## Project Architecture
@@ -314,6 +323,31 @@ Preference for:
 
 Preference for:
 `[^c9e413]: [Generative AI - Transforming Art, Design, and Media]( https://tcognition.com/blogs/generative-ai-in-art-design-and-media/)`
+
+### Breaking the Footnotes Section with the moving citations relative to punctuation marks
+<<20250715
+  
+We keep going in circles trying to get three functionalities right. Every time we have one right, we work on another and break that one that was working before. Right now, the command "Move Citations after Punctuation" is broken. We had it fixed, but then we broke it again. The command should move any citations that are in a position in the line before a comma or a period to the position after the comma and the period, also assuring a space between the comma or period and the citation, and also assuring a space between each citation that is found in a contiguous sequence. This should NOT apply to the references/sources/footnotes section at the bottom. We diagnose the special section in three ways: It is below a header that is called either "References" "Sources" or "Footnotes." And the citations are in the position in the text as THE FIRST text characters at THE BEGINNING of the line. They also HAVE A COLON IMMEDIATELY AFTER THE CLOSING BRACKET. These special instances of the same character set that matches a citation are to be left alone in this command. So, This pattern found in the markdown page: 
+```markdown 
+This approach, while uncomfortable, leads to better decision-making and prevents the groupthink that destroys many organizations[^730279][^5f9af3]. 
+
+# Sources 
+*** 
+[^730279]: [Procrastinating? Don't stop - it's making you more creative](https://www.weforum.org/stories/2016/03/why-procrastination-might-be-a-good-thing/) 
+
+[^5f9af3]: [Adam Grant: Özgün düşünenlerin şaşırtıcı alışkanlıkları | TED Talk](https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers?language=en) 
+
+Should become: 
+
+This approach, while uncomfortable, leads to better decision-making and prevents the groupthink that destroys many organizations. [^730279] [^5f9af3] 
+# Sources 
+*** 
+[^730279]: [Procrastinating? Don't stop - it's making you more creative](https://www.weforum.org/stories/2016/03/why-procrastination-might-be-a-good-thing/) 
+[^5f9af3]: [Adam Grant: Özgün düşünenlerin şaşırtıcı alışkanlıkları | TED Talk](https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers?language=en)
+```
+
+
+Reintroduced 
 
 ### Clean the Sources, Footnotes, References
 
