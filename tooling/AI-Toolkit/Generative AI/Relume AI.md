@@ -19,6 +19,6 @@ tags:
   - Marketing-AI
 ---
 
-[[App Builder]], [[concepts/Explainers for Tooling/Site Builders]], [[UI Builders]]
+[[Vocabulary/App Builders]], [[concepts/Explainers for Tooling/Site Builders]], [[UI Builders]]
 
 2025, Jan 15. [Relume AI: The Secret to Building Custom Websites in 5 Minutes](https://youtu.be/2H7UgosabMM?si=2GrmTdPO1EHEt3ZR) [[YouTube]]

@@ -19,4 +19,4 @@ tags:
   - UI-Builders
 ---
 
-An [[App Builder]], focused on [[concepts/Visual Software Development]].
+An [[Vocabulary/App Builders]], focused on [[concepts/Visual Software Development]].

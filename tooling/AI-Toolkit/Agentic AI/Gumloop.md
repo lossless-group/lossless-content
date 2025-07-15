@@ -24,5 +24,5 @@ tags:
 [[Agentic AI]]
 [[Workflow Automations]]
 
-##### [[Gumloop]] manages [[Agentic AI]] for [[Workflow Automations]]
+##### [[Tooling/AI-Toolkit/Agentic AI/Gumloop]] manages [[Agentic AI]] for [[Workflow Automations]]
 ![[Screenshot 2025-02-20 at 2.41.49 AM_Gumloop--Hero.png]]

@@ -20,7 +20,7 @@ tags:
 Now has a [[Generative AI]] feature that will build webpages, apps, and [[User Interface|UI]] for users.
 
 ### Replit Assistant
-[[App Builder]], [[concepts/Explainers for AI/Code Generators]]
+[[Vocabulary/App Builders]], [[concepts/Explainers for AI/Code Generators]]
 
 [Introducing Replit Assistant](https://youtu.be/fxiVDlylORQ?si=HRQ85Vq-G_ZtRy5R)
 

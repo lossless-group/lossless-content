@@ -8,7 +8,7 @@ date_created: 2025-04-06
 ## Power Grids, AI, and Renewables
 
 ### AI needs Data Centers
-The need for [[Data Centers]] was already exponential. [[concepts/Explainers for AI/Artificial Intelligence|AI]] just added another exponent. Specialized GPU-based servers are even more power hungry than the CPU-based ones. 
+The need for [[Vocabulary/Data Centers]] was already exponential. [[concepts/Explainers for AI/Artificial Intelligence|AI]] just added another exponent. Specialized GPU-based servers are even more power hungry than the CPU-based ones. 
 
 ### Robotics and Advanced Manufacturing
 Factories have always consumed a lot of power. With the rise of advanced manufacturing, with power hungry robots of every type, this is exploding.
