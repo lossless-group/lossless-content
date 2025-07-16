@@ -49,7 +49,7 @@ App Builders represent the fastest-growing segment, enabling the creation of mob
 
 **[[Tooling/Enterprise Jobs-to-be-Done/Bubble|Bubble]]** has emerged as a leading full-stack no-code platform, raising $106.3 million in funding with its last Series A round in July 2021. [^9sgdyp] The platform enables users to build complex web applications with sophisticated databases, user authentication, and API integrations. Bubble's visual programming approach makes it accessible to non-developers while providing the power needed for scalable applications. [^zda1ki]
 
-**[[Retool]]** focuses on internal tool development for enterprises, generating $138.6 million in revenue in 2024 with a $3.2 billion valuation. [^e3cmgo]  [^5mbcc1] The platform has shown impressive growth with a 48.16% year-over-year increase, targeting businesses that need to quickly build custom interfaces for their internal data and processes. [^5mbcc1]
+**[[Tooling/Software Development/Lego-Kit Engineering Tools/Retool]]** focuses on internal tool development for enterprises, generating $138.6 million in revenue in 2024 with a $3.2 billion valuation. [^e3cmgo]  [^5mbcc1] The platform has shown impressive growth with a 48.16% year-over-year increase, targeting businesses that need to quickly build custom interfaces for their internal data and processes. [^5mbcc1]
 
 **Glide** specializes in mobile app development, particularly for creating apps from Google Sheets and databases. While specific revenue figures aren't publicly available, the platform has gained significant traction among SMBs looking to create mobile-first applications quickly. [^zda1ki]  [^e4m1zq]
 

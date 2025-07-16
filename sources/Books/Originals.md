@@ -1,6 +1,6 @@
 ---
 date_created: 2025-07-08
-date_modified: 2025-07-15
+date_modified: 2025-07-16
 generated_with: Perplexity AI
 ---
 >[!RELATED] Related Content:
@@ -10,29 +10,29 @@ generated_with: Perplexity AI
 Adam Grant's groundbreaking book "Originals: How Non-Conformists Move the World" challenges conventional wisdom about creativity, innovation, and what it takes to drive meaningful change. Through extensive research and compelling case studies, Grant reveals counterintuitive insights that fundamentally reshape our understanding of originality and how it emerges in both individuals and organizations.
 ## The Counterintuitive Nature of Originality
 
-Grant's most profound contribution lies in debunking widespread myths about original thinkers. His research reveals that **originals are not the fearless risk-takers we imagine them to be**. [^0b5c3e]  [^787632] Instead, they are careful strategists who manage risk rather than embrace it recklessly. This finding challenges the popular narrative of the daredevil entrepreneur who bets everything on a single idea. [^984195]  [^1b34df]
+Grant's most profound contribution lies in debunking widespread myths about original thinkers. His research reveals that **originals are not the fearless risk-takers we imagine them to be**. [^0b5c3e] [^787632] Instead, they are careful strategists who manage risk rather than embrace it recklessly. This finding challenges the popular narrative of the daredevil entrepreneur who bets everything on a single idea. [^984195] [^1b34df]
 
 The book demonstrates that successful originals share four surprising characteristics that contradict popular assumptions: they are risk-averse rather than risk-seeking, they feel doubt and fear like everyone else, they generate many bad ideas alongside good ones, and they are often slow to act rather than quick first-movers. [^69a95f] These insights fundamentally reframe how we think about innovation and creative leadership.
 ## Procrastination as a Creative Force
 
 One of Grant's most surprising discoveries concerns the relationship between procrastination and creativity. His research shows that **moderate procrastination can boost creativity by 16%**. [^89dc53]  [^d8ff86] This finding challenges the conventional wisdom that procrastination is always detrimental to performance and productivity.
 
-Grant illustrates this concept through powerful historical examples. Leonardo da Vinci took 16 years to complete the Mona Lisa, frequently setting it aside to pursue other interests like optics, which ultimately made him a better painter. [^d8ff86]  [^c94515] Similarly, Martin Luther King Jr.'s most famous phrase, "I have a dream," was not in his prepared speech but was improvised on the spot after being encouraged by someone in the audience. [^607c40]  [^c94515]
+Grant illustrates this concept through powerful historical examples. Leonardo da Vinci took 16 years to complete the Mona Lisa, frequently setting it aside to pursue other interests like optics, which ultimately made him a better painter. [^d8ff86] [^c94515] Similarly, Martin Luther King Jr.'s most famous phrase, "I have a dream," was not in his prepared speech but was improvised on the spot after being encouraged by someone in the audience. [^607c40] [^c94515]
 The mechanism behind this phenomenon involves **incubation** - the mental process that allows ideas to develop and mature over time. Procrastination provides space for divergent thinking, enabling individuals to make unexpected connections and approach problems from novel angles. [^89dc53]  [^59fc6f] However, Grant emphasizes that this applies specifically to moderate procrastination, not extreme delays that lead to panic and rushed work.
 
 ## The Volume-Quality Connection
 
 Grant reveals a fundamental truth about creativity: **quantity is the most predictable path to quality**. [^5c153e]  [^f8df25] This insight directly contradicts the popular belief that creators should focus on perfecting a few ideas rather than generating many. His research shows that even creative geniuses cannot reliably predict which of their ideas will succeed.
 
-The evidence is compelling: Thomas Edison filed over 1,100 patents, Mozart composed more than 600 pieces, and Picasso created over 15,000 works of art. [^5c153e]  [^f8df25] These prolific creators are remembered for their masterpieces, but their success came from producing vast quantities of work, understanding that most ideas would not achieve lasting impact.
+The evidence is compelling: Thomas Edison filed over 1,100 patents, Mozart composed more than 600 pieces, and Picasso created over 15,000 works of art. [^5c153e] [^f8df25] These prolific creators are remembered for their masterpieces, but their success came from producing vast quantities of work, understanding that most ideas would not achieve lasting impact.
 
 Grant explains that **the biggest barrier to originality is not idea generation—it's idea selection**. [^5c153e]  [^92e28c] People struggle to identify which of their ideas will resonate with others, making it essential to create multiple options to increase the odds of success. This principle applies across fields, from scientific research to business innovation.
 
 ## First-Mover Disadvantage
 
-Perhaps one of Grant's most counterintuitive insights concerns the myth of first-mover advantage. His research demonstrates that **pioneers face a 47% failure rate compared to only 8% for "improvers" who enter markets later**. [^1b34df]  [^e91d55] This finding challenges the Silicon Valley mantra that being first to market is crucial for success.
+Perhaps one of Grant's most counterintuitive insights concerns the myth of first-mover advantage. His research demonstrates that **pioneers face a 47% failure rate compared to only 8% for "improvers" who enter markets later**. [^1b34df] [^e91d55] This finding challenges the Silicon Valley mantra that being first to market is crucial for success.
 
-The book provides compelling examples of this principle in action. Google was not the first search engine (AltaVista and Yahoo preceded it), Facebook was not the first social network (Friendster and MySpace came first), and Apple was not the first to create smartphones (BlackBerry held that distinction). [^e91d55]  [^deed29] These companies succeeded by learning from early pioneers' mistakes and improving upon existing concepts.
+The book provides compelling examples of this principle in action. Google was not the first search engine (AltaVista and Yahoo preceded it), Facebook was not the first social network (Friendster and MySpace came first), and Apple was not the first to create smartphones (BlackBerry held that distinction). [^e91d55] [^deed29] These companies succeeded by learning from early pioneers' mistakes and improving upon existing concepts.
 
 Grant identifies three key reasons why first-movers often fail: they frequently overstep by being too ambitious too early, they bear the cost of educating the market about new concepts, and they lack the advantage of learning from others' mistakes. [^38f166]  [^deed29] **Improvers benefit from better timing, reduced market education costs, and the ability to refine products based on pioneer feedback**. [^117489]  [^deed29]
 
@@ -102,10 +102,10 @@ These insights have profound implications for how we approach education, busines
 [^117489]: [Adam Grant: Özgün düşünenlerin şaşırtıcı alışkanlıkları | TED Talk](https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers?language=en)
 [^f1b613]: [Originals Book Summary - You Exec](https://youexec.com/book-summaries/originals-by-adam-grant)
 [^31b435]: [Originals Summary of Key Ideas and Review | Adam Grant - Blinkist](https://www.blinkist.com/en/books/originals-en)
-[^fee8f0]: [Procrastinating? Don't stop - it's making you more creative](https://www.weforum.org/stories/2016/03/why-procrastination-might-be-a-good-thing/)
+[^fee8f0]: "[Procrastinating? Don't stop - it's making you more creative](https://www.weforum.org/stories/2016/03/why-procrastination-might-be-a-good-thing/)" [World Economic Forum](https://www.weforum.org).
 [^d43846]: [Fighting groupthink with Adam Grant - LinkedIn](https://www.linkedin.com/pulse/fighting-groupthink-adam-grant-tracey-tong)
 [^07fffc]: [Originals by Adam Grant Free Book Summary | Readitfor.me](https://readitfor.me/free-book-summaries/originals-by-adam-grant/)
-[^9b08b4]: [Adam Grant: How to harness the power of non-conformists](https://www.nbforum.com/nbreport/adam-grant-how-to-harness-the-power-of-non-conformists/)
+[^vif2qx]: "[Adam Grant: How to harness the power of non-conformists | Nordic Business Forum](https://www.nbforum.com/nbreport/adam-grant-how-to-harness-the-power-of-non-conformists/))". Nordic Business Forum. [Nordic Business Forum](https://www.nbforum.com).
 [^670d8d]: [Adam Grant TED Talk: Procrastinators Are More Creative](https://www.businessinsider.com/adam-grant-ted-talk-procrastinators-are-more-creative-2016-4)
 [^03aac5]: [5 Innovation Lessons from 'Originals' - LinkedIn](https://www.linkedin.com/pulse/innovation-lessons-from-originals-pichaya-jagger)
 [^988dbd]: [Adam Grant on 'How Non-Conformists Move the World' - YouTube](https://www.youtube.com/watch?v=Nt2_QFezLmU)
@@ -137,11 +137,11 @@ These insights have profound implications for how we approach education, busines
 [^75e7a8]: [Originals by Adam Grant: Summary & Notes - oksarah](https://www.oksarah.com/originals-by-adam-grant-summary-notes/)
 [^9b6aa2]: [Adam Grant - Defensive Pessimism #shorts - YouTube](https://www.youtube.com/watch?v=KeQkwZVN7FA)
 [^47ade5]: [(PDF) The effects of authentic and contrived dissent on escalation of ...](https://www.academia.edu/19554816/The_effects_of_authentic_and_contrived_dissent_on_escalation_of_commitment_in_group_decision_making)
-[^5971ff]: [Why First Mover Advantage Is Overrated - And What Actually Drives ...](https://www.extrology.com/blog/why-first-mover-advantage-is-overrated-and-what-actually-drives-success)
+[^5971ff]: 2016, Feb. "[Wharton Professor Adam Grant On Creativity And The First Mover Myth](https://techcrunch.com/2016/02/02/wharton-professor-adam-grant-on-creativity-and-the-first-mover-myth/))". Connie Loizos. [TechCrunch](https://techcrunch.com).
 [^2a9e6c]: [It's Not the Ideas You Create, It's Which Ones You Choose](https://www.inc.com/leigh-buchanan/adam-grant-originals-book-review.html)
 [^eec72f]: [Vuja De: Seeing the Old as New - LinkedIn](https://www.linkedin.com/pulse/vuja-de-seeing-old-new-integratedcomputersolutionsinc-bsxmf)
 [^5d0e69]: [On a Journey of Ideas with Adam Grant | BMW.com](https://www.bmw.com/en/innovation/adam-grant-originals.html/1000)
-[^52cde1]: [First Mover Disadvantage | MRU](https://www.mtroyal.ca/ProgramsCourses/FacultiesSchoolsCentres/Business/Institutes/InstituteInnovationEntrepreneurship/Blog/IIE_BLOG_MOVER.htm)
+[^0kal5f]: "[First Mover Disadvantage](https://www.mtroyal.ca/ProgramsCourses/FacultiesSchoolsCentres/Business/Institutes/InstituteInnovationEntrepreneurship/Blog/IIE_BLOG_MOVER.htm)". [Mtroyal](https://www.mtroyal.ca).
 [^0c4804]: [Three Keys to Establishing the Innovation Mindset - SHIFT](https://www.shiftthework.com/blog/three-keys-to-establishing-the-innovation-mindset)
 [^5c4a1e]: [Key takeways from the book Originals by Adam Grant - LinkedIn](https://www.linkedin.com/pulse/key-takeways-from-book-originals-adam-grant-mohit-bhatia)
 [^eba56b]: [The art of innovating - Jotform](https://www.jotform.com/10million/story/the-art-of-innovating/)

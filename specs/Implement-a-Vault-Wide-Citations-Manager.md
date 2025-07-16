@@ -12,7 +12,7 @@ augmented_with: Windsurf Cascade on SWE-1
 category: Content-Management
 publish: true
 date_created: 2025-03-12
-date_modified: 2025-07-15
+date_modified: 2025-07-16
 site_uuid: y8f59v34-aa5b-4f79-b8a7-93c3fc99a89f
 tags: [Build-Scripts, YAML, Frontmatter, Architecture, Documentation, OpenGraph, YouTube]
 authors:
@@ -21,6 +21,9 @@ image_prompt: A complex flowchart with interconnected gears and code snippets, r
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Build-Script-Spec_39259b0d-6bed-4157-baf7-53c35deebb35_rr5hYOulP.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Build-Script-Spec_21af46f2-dd20-45e5-86da-c0815542f01e_e1OL2d6mN.webp
 ---
+![Cite Wide Obsidian Plugin Banner](https://i.imgur.com/CJ18gyp.png)
+
+
 # Status
 
 ### Convert to Hex Modal

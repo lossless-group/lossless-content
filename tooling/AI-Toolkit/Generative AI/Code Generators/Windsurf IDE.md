@@ -13,81 +13,13 @@ og_last_fetch: 2025-03-07T05:20:56.434Z
 docs_url: https://docs.codeium.com/windsurf/
 parent_org: "[[organizations/Codeium]]"
 reddit_forum_url: https://www.reddit.com/r/Codeium/
-date_modified: 2025-04-12
-date_created: 2025-03-31T20:44:50.509Z
-tags:
-  - AI-Toolkit
-  - Generative-AI
-  - Code-Generators
+date_modified: 2025-07-15
+date_created: 2025-03-31
+tags: [AI-Toolkit, Generative-AI, Code-Generators, IDEs, AI-Native, Text-Editors]
 ---
+As of July 14, 2025, [[Tooling/AI-Toolkit/Generative AI/Code Generators/Windsurf IDE|Windsurf IDE]] was acquired by [[Tooling/AI-Toolkit/Model Producers/Cognition AI|Cognition AI]], makers of code specific trained [[Vocabulary/AI Models|AI Models]]. [^f3tghx]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[[concepts/Explainers for AI/Code Generators]] [[AI Native Applications|AI Native]] [[concepts/Explainers for Tooling/Text Editors or IDEs|IDE]]
+[[concepts/Explainers for AI/Code Generators|Code Generators]] [[AI Native Applications|AI Native]] [[concepts/Explainers for Tooling/Text Editors or IDEs|IDE]]
 
 ### Cascade
 From [Memories and Rules](https://docs.codeium.com/windsurf/memories):
@@ -118,3 +50,6 @@ https://youtu.be/tztQJ5MKNgs?si=rv9Aj1PymR9WEuUt
 https://youtu.be/lTDKg7IcY0c?si=zBUor397atAa4AXC
 ##### [[Windsurf IDE]] by codeium is a full [[AI Native Applications]] [[concepts/Explainers for Tooling/Text Editors or IDEs|IDE]]
 ![[Screenshot 2025-02-22 at 9.34.28 PM_Windsurf-IDE--Hero.png]]
+
+
+[^f3tghx]: 2025, Jul. "[The Next Chapter](https://windsurf.com/blog/windsurfs-next-chapter)." Windsurf Blog.    

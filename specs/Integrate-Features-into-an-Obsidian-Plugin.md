@@ -10,7 +10,7 @@ at_semantic_version: 0.0.0.1
 generated_with: Windsurf Cascade on SWE-1
 category: Technical-Specification
 date_created: 2025-06-07
-date_modified: 2025-06-07
+date_modified: 2025-07-16
 status: In-Progress
 tags: [Frontmatter-Consistency, Data-Integrity, Metadata-Consistency, Content-Integrity, Content-Automation, Filesystem-Observers]
 authors:
@@ -19,6 +19,7 @@ image_prompt: "Lots of websites and mobile apps are falling from the sky into a 
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-06-08_banner_image_Integrate-Features-into-an-Obsidian-Plugin_5854a42f-5d3e-4bf0-a187-7335cc35cb17_K5Mg9eNha.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-06-08_portrait_image_Integrate-Features-into-an-Obsidian-Plugin_29e2f5da-f875-4f4b-8052-86d24d463b22_EL69qO1G5.webp
 ---
+![Cite Wide Obsidian Plugin Banner](https://i.imgur.com/CJ18gyp.png)
 
 # Context
 

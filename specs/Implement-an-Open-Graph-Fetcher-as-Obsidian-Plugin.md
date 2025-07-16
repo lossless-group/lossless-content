@@ -12,7 +12,7 @@ augmented_with: Windsurf Cascade on SWE-1
 category: Content-Management
 publish: true
 date_created: 2025-03-12
-date_modified: 2025-07-15
+date_modified: 2025-07-16
 site_uuid: c4f72e37-bb5b-4f21-b8a7-93c3fc99a89f
 tags: [Frontmatter, OpenGraph]
 authors:
@@ -21,6 +21,9 @@ image_prompt: A robot representing API calls is fishing off a boat. There are se
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Build-Script-Spec_39259b0d-6bed-4157-baf7-53c35deebb35_rr5hYOulP.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Build-Script-Spec_21af46f2-dd20-45e5-86da-c0815542f01e_e1OL2d6mN.webp
 ---
+
+![Open Graph Fetcher Obsidian Plugin Banner Image](https://i.imgur.com/0v6sPkv.png)
+
 # Objective
 
 Implement our work that fetches OpenGraph.io into a dedicated [[Tooling/Productivity/Obsidian|Obsidian]] plugin. 
@@ -42,7 +45,83 @@ We have implemented this as a script several times, then ported it to a filesyst
 `tidyverse/observers/templates/tooling.ts`
 `tidyverse/observers/watchers/toolkitWatcher.ts`
 
+## How Obsidian Plugin Updates Work
 
+The reason your version bump script doesn't automatically update the version in Obsidian's community plugin list is because **Obsidian doesn't pull updates from your local** 
+
+**manifest.json file**. Here's how the update mechanism actually works:
+
+### The Update Process:
+
+1. **GitHub Releases are the Source of Truth**: Obsidian fetches plugin updates from your **GitHub releases**, not from your local files or repository's main branch.
+    
+2. **Release Process Required**: To update a plugin in the community list, you need to:
+    
+    - Update 
+        
+        manifest.json with the new version number
+    - Update 
+        
+        ```
+        versions.json
+        ```
+        
+         with version compatibility info
+    - **Create a GitHub release** with the exact version number as a tag
+    - **Upload the built files** (
+        
+        manifest.json, 
+        
+        ```
+        main.js
+        ```
+        
+        , 
+        
+        styles.css) as binary attachments to that release
+3. **Obsidian's Update Check**:
+    
+    - Obsidian reads the list from 
+        
+        ```
+        community-plugins.json
+        ```
+        
+         in the obsidian-releases repo
+    - When checking for updates, it pulls the 
+        
+        manifest.json from your repo to see the latest version
+    - When users install/update, it downloads the files from your **GitHub releases** (not from the repo files)
+
+### Your Current Setup:
+
+Your 
+
+version-bump.mjs script only updates local files but doesn't create the GitHub release that Obsidian needs to detect the update. You need to:
+
+1. **Create a GitHub Release**: After running your version bump script, you need to create a GitHub release with the new version as the tag
+2. **Upload Built Files**: Attach 
+    
+    manifest.json, 
+    
+    ```
+    main.js
+    ```
+    
+    , and 
+    
+    styles.css to that release
+3. **Publish the Release**: This makes it available for Obsidian to detect and download
+
+### Recommended Solution:
+
+Consider using GitHub Actions to automate this process. The Obsidian sample plugin suggests using 
+
+```
+npm version patch/minor/major
+```
+
+ commands which can trigger automated releases via GitHub Actions, making the entire process seamless.
 # Task at Hand
 
 ### 1st Prompt 
@@ -137,12 +216,12 @@ This implementation follows the project's established patterns for observer-base
 ### Desired Functionality
 
 1. **Settings Management**
-   - [ ] Settings Section similar to `content-farm/main.ts` where the user can configure:
-     - [ ] OpenGraph API Key (stored securely in Obsidian's vault)
-     - [ ] Base URL for OpenGraph.io API (configurable for different environments)
-     - [ ] Retry settings (number of attempts, backoff delay)
-     - [ ] Rate limiting configuration
-     - [ ] Cache duration settings
+   - [x] Settings Section similar to `content-farm/main.ts` where the user can configure:
+     - [x] OpenGraph API Key (stored securely in Obsidian's vault)
+     - [x] Base URL for OpenGraph.io API (configurable for different environments)
+     - [x] Retry settings (number of attempts, backoff delay)
+     - [x] Rate limiting configuration
+     - [x] Cache duration settings
 
 2. **Modal Interface**
    - [ ] OpenGraph Fetch Modal with:
@@ -165,6 +244,13 @@ This implementation follows the project's established patterns for observer-base
      - [ ] Button: "Fetch Open Graph Screenshot"
        - [ ] Uses OpenGraph.io screenshot API
        - [ ] Handles screenshot errors separately from metadata errors
+
+## 3rd Prompt: Batch Fetch for Target Directory
+Okay, so this "Batch Delay" part of the modal is actually part of another command and modal. The idea is there is a command called "Target Folder for Open Graph Fetch" This opens a Modal where it confirms the current working directory, and counts the number of files with urls but no open graph data, lists those files by file name, and then allows the user to run the fetch in an iterative batch
+
+
+
+# Implementation
 
 ### Implementation Details
 
