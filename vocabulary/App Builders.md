@@ -1,9 +1,12 @@
 ---
 date_created: 2025-03-28
-date_modified: 2025-07-15
+date_modified: 2025-07-18
 site_uuid: 9b316a7d-f341-4ec1-b22e-c1cda0c189ba
 aliases: [App Builder]
 ---
+###### Examples:
+[[Tooling/Enterprise Jobs-to-be-Done/Base44]], [[Tooling/Enterprise Jobs-to-be-Done/Bubble|Bubble]], [[Tooling/Data Utilities/Node-RED|Node-RED]], [[Tooling/Enterprise Jobs-to-be-Done/Glide|Glide]], [[Tooling/Enterprise Jobs-to-be-Done/GrapesJS]]
+
 # Site Builders, App Builders, and Web Builders: Comprehensive Market Analysis
 
 The no-code/low-code development ecosystem has evolved into three distinct but interconnected categories that are fundamentally reshaping how software is built. This comprehensive analysis examines Site Builders, App Builders, and Web Builders—their differences, market dynamics, key players, and future trajectories.

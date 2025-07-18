@@ -36,7 +36,7 @@ aliases:
 > 
 > - **[[WSO2]] API Manager**: A fully open-source API management platform that provides comprehensive capabilities for managing APIs [[1]](https://github.com/stn1slv/awesome-integration).
 > - **[[Gravitee.io]]**: A flexible and lightweight open-source API management solution that simplifies API management [[1]](https://github.com/stn1slv/awesome-integration).
-> - **[[Tyk]]**: An open-source enterprise API gateway that supports various protocols and offers advanced management features [[1]](https://github.com/stn1slv/awesome-integration).
+> - **[[Tooling/Software Development/Lego-Kit Engineering Tools/Tyk]]**: An open-source enterprise API gateway that supports various protocols and offers advanced management features [[1]](https://github.com/stn1slv/awesome-integration).
 > 
 > #### GitHub Links for Open Source Vendors
 > 

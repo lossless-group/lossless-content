@@ -28,34 +28,67 @@ banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-int
 ### Desired Functionality
 
 1. **Settings Management**
-   - [ ] Settings Section similar to `content-farm/main.ts` where the user can configure:
-     - [ ] OpenGraph API Key (stored securely in Obsidian's vault)
-     - [ ] Base URL for OpenGraph.io API (configurable for different environments)
-     - [ ] Retry settings (number of attempts, backoff delay)
-     - [ ] Rate limiting configuration
-     - [ ] Cache duration settings
+   - [ ] Settings Section where the user can configure:
+     - [ ] OpenGraph.io Settings
+       - [x] OpenGraph API Key (stored securely in Obsidian's vault)
+       - [x] Base URL for OpenGraph.io API (configurable for different environments)
+       - [x] Retry settings (number of attempts, backoff delay)
+       - [x] Rate limiting configuration
+       - [x] Cache duration settings
+     - [ ] Image Service Settings (ImageKit, Imgur, or Cloudinary)
+     - [ ] Tooltip: "Screenshots available through the Open Graph API are impermanent, and may become unavailable at any time. Download the screenshot locally, then upload it to an image service like ImageKit, Imgur, or Cloudinary."
+      - [ ] Link to Request Support for an Image Service API.
+      - [ ] Image Service API Key (stored securely in Obsidian's vault)
+      - [ ] Base URL for Image Service API (configurable for different environments)
+      - [ ] Retry settings (number of attempts, backoff delay)
+      - [ ] Rate limiting configuration
+      - [ ] Cache duration settings
 
-2. **Modal Interface**
-   - [ ] OpenGraph Fetch Modal with:
-     - [ ] Checkbox: "Overwrite Existing Open Graph YAML properties?"
+2. **Open Graph Fetch Modal Interface**
+   
+   A. - [x] OpenGraph Fetch Modal with:
+     - [x] Checkbox: "Overwrite Existing Open Graph YAML properties?"
+     - [x] Checkbox: "Create new YAML properties if none exists?"
+     - [x] Checkbox: "Write any returned Errors into YAML?"
+     - [x] Checkbox: "Write or Overwrite date for This Fetch?"
+     - [x] Button: "Fetch Open Graph Data"
+     - [x] Progress indicator for fetch operations
+     - [x] Status message area for feedback
+     - [x] Close button upon successful completion
+
+   B. **Open Graph Fetch Modal Implementation**
+      - [ ] Button: "Fetch Screenshot"
+      - [ ] Progress indicator for fetch operations
+      - [ ] Status message area for feedback
+      - [ ] Button: "Convert to Image Service"
+      - [ ] Tooltip: "Screenshots available through the Open Graph API are impermanent, and may become unavailable at any time. Download the screenshot locally, then upload it to an image service like ImageKit, Imgur, or Cloudinary."
+      - [ ] Close button upon successful completion
+
+  C. **Open Graph Fetch Modal Implementation**
+     - [ ] Text form field for path to target directory (default: current working directory)
+     - [ ] Checkbox: "Scan nested directories?"
+     - [ ] Checkbox: "Overwrite existing Open Graph YAML properties?"
      - [ ] Checkbox: "Create new YAML properties if none exists?"
      - [ ] Checkbox: "Write any returned Errors into YAML?"
      - [ ] Checkbox: "Write or Overwrite date for This Fetch?"
-     - [ ] Button: "Fetch Open Graph Data"
-     - [ ] Button: "Fetch Screenshot"
+     - [ ] Button: "Fetch for All Files in Directory"
      - [ ] Progress indicator for fetch operations
+      - [ ] File List Section:
+       - [ ] Scrollable list of eligible files
+       - [ ] Accurate diagnostics of key value pairs relevant to Open Graph Data
+       - [ ] Checkbox for each file (select/deselect)
+       - [ ] "Select All" / "Deselect All" buttons
+       - [ ] File status indicators (✓ processed, ⚠ error, ⏳ pending)
      - [ ] Status message area for feedback
+     - [ ] Close button upon successful completion
 
 3. **Command Implementation**
-   - [ ] Register a Command called "Fetch Open Graph Data" that:
-     - [ ] Opens the OpenGraph Fetch Modal
-     - [ ] Button: "Fetch Open Graph Data"
-       - [ ] Fetches Open Graph Data from OpenGraph.io using URL from YAML frontmatter
-       - [ ] Reviews modal settings and performs accordingly
-       - [ ] Handles errors gracefully and displays feedback
-     - [ ] Button: "Fetch Open Graph Screenshot"
-       - [ ] Uses OpenGraph.io screenshot API
-       - [ ] Handles screenshot errors separately from metadata errors
+   - [x] Register a Command called "Fetch Open Graph Data for Current File" that:
+     - [x] Opens the OpenGraph Fetch Modal
+     - [x] Button: "Fetch Open Graph Data"
+       - [x] Fetches Open Graph Data from OpenGraph.io using URL from YAML frontmatter
+       - [x] Reviews modal settings and performs accordingly
+       - [x] Handles errors gracefully and displays feedback
 
 ### Implementation Details
 
@@ -63,13 +96,24 @@ banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-int
    ```typescript
    src/
      main.ts            // Plugin entry point
-     settings.ts        // Settings management
-     modal.ts          // OpenGraph Fetch Modal
-     services/
-       openGraph.ts    // OpenGraph API integration
-       screenshot.ts   // Screenshot fetching
-     types.ts          // TypeScript interfaces
-     utils.ts          // Helper functions
+     modals/            // Modal components
+       OpenGraphFetcherModal.ts      // Main modal for single file operations
+       BatchOpenGraphFetcherModal.ts // Batch processing modal
+     services/          // Service layer
+       openGraphService.ts   // OpenGraph API integration and processing
+       directoryScanner.ts   // File system scanning utilities
+     settings/          // Settings management
+       settings.ts           // Settings definition and defaults
+       settings-tab.ts       // Settings UI components
+     types/             // TypeScript type definitions
+       batch-processing.d.ts // Batch processing types
+       obsidian.d.ts         // Obsidian type extensions
+       open-graph-service.d.ts // OpenGraph service types
+     utils/             // Utility functions
+       logger.ts             // Logging utilities
+       yamlFrontmatter.ts    // Frontmatter parsing and formatting
+     styles/            // CSS styles
+       open-graph-fetcher.css // Plugin styles
    ```
 
 2. **Key Components**
