@@ -108,7 +108,7 @@ Other API-related topics
 > 
 > ### **Common Tools for API Development**
 > 
-> 1. **[[Swagger]] ([[emergent-innovation/Standards/The Open API Initiative|OpenAPI]])**: A suite of tools for designing, documenting, and building RESTful APIs.
+> 1. **[[Tooling/Software Development/Lego-Kit Engineering Tools/Swagger API]] ([[emergent-innovation/Standards/The Open API Initiative|OpenAPI]])**: A suite of tools for designing, documenting, and building RESTful APIs.
 > 2. **[[Postman 1]]**: A popular tool for testing, building, and documenting APIs.
 > 3. **API Gateways**: Tools like Amazon API Gateway or Kong manage API traffic, enforce access policies, and provide monitoring and analytics.
 > 
