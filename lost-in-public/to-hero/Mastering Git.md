@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-05-08
+date_modified: 2025-07-19
 ---
 
 ```bash
@@ -165,3 +165,32 @@ git fetch --all --recurse-submodules=yes
 git submodule update --init --recursive --remote --force
 ```
 
+## When Images crash your Site
+
+I added `visuals/Screenshots` to `.gitignore`
+```zsh
+git lfs migrate import --include="*.png" --everything
+
+migrate: Sorting commits: ..., done.                                                                      
+migrate: Rewriting commits: 100% (282/282), done.                                                         
+  backup/20250607       2fee863d05f7ce225a8db7719526f78c5c48b934 -> c0cc50aebbc9cd019b2e08701992737dbc9afdde
+  dev-squash            47aa6ed8d994ce664ae5ae5ca6ead8042d155fd6 -> 9aa6a2f82a6976591b9e8c0ed4165881cb240ef3
+  dev-squash-tmp        aa02bd24993d9ba86d167f3f90a5ca2237a7bc63 -> 3e74adf4b97c7a64c1ec076a7013ab10e58a9e57
+  development           6140c39ad667a67bd4543848496a23027a73d66b -> 2b8eda0fba9907fb8607db890ee0e2c7fa0b8770
+  master                746551349161a41f64108221232df0b06f44f2f7 -> 82f181f5a60a65bbc772cb76b101b29b606d6120
+  merge-temp            c2c3627182a07f6e609e6f52527cd4753f21ab01 -> 9007cf441e58507866d3249ac5f4bac772650638
+  save-b725101          4a46493d2c9c3ecf6bedf1ef247224fa19ed6fa5 -> 7f28274a9ef4f9ebe7070f350c12fa0e3352f3f3
+  save/20250715         5749c69674a9ebb3c6aa147e0df21d6f6e1125cb -> 24ff5436f12edebeb3dd39283bef55cc03b118dd
+  squash-temp           eefe9340a52ec52aa88a54b18ee7386cff39dab6 -> b9b2b2af8db6a8204bb03203f9d401dcad9a1579
+  temp-branch           5a46520cbec7633a36cdb54f4e919028828f825c -> c280c967b25922eb67dd7d291b7836fea02112c5
+  temp-clean-branch     a4654bf52143c8d079c4e1eb66ce57a944fcf5d1 -> 34d0cc0346df43edc10bf9762baf7e261fd2d0ec
+migrate: Updating refs: ..., done.                                                                        
+migrate: checkout: ..., done.  
+```
+
+
+Then to remove the cache
+```zsh
+git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch -r visuals/Screenshots/' --
+prune-empty --tag-name-filter cat -- --all
+```
