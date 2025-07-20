@@ -1,5 +1,5 @@
 ---
-title: Implement a Research  focused LLM-based Obsidian Plugin using Perplexity and Perplexica APIs
+title: "Cite Wide: A Research focused LLM-based Obsidian Plugin using Perplexity and Perplexica APIs"
 lede: Developing quality content is hard, LLMs hallucinate. Let's focus on the ones that cite their sources and iterate from there.
 date_authored_initial_draft: 2025-07-19
 date_authored_current_draft: 2025-07-19
@@ -12,7 +12,7 @@ augmented_with: War on Claude 4.0
 category: Content-Automation
 publish: true
 date_created: 2025-07-19
-date_modified: 2025-07-19
+date_modified: 2025-07-20
 site_uuid: e2c91bb9-ba4e-2e51-b9c7-93c3fc99a89f
 tags: [Frontmatter, OpenGraph]
 authors:
@@ -21,7 +21,10 @@ image_prompt: A robot representing API calls is fishing off a boat. There are se
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Build-Script-Spec_39259b0d-6bed-4157-baf7-53c35deebb35_rr5hYOulP.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Build-Script-Spec_21af46f2-dd20-45e5-86da-c0815542f01e_e1OL2d6mN.webp
 ---
+![Perplexed: An Obsidian Plugin for Perplexity and Perplexica](https://i.imgur.com/MVOK3rk.png)
 
+# Cite Wide: A Research focused LLM-based Obsidian Plugin 
+using Perplexity and Perplexica APIs
 # Objective
 ✅ New Interactive Commands:
 

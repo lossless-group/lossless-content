@@ -11,13 +11,9 @@ status: To-Do
 augmented_with: Windsurf Cascade on SWE-1
 category: Prompts
 date_created: 2025-05-26
-date_modified: 2025-05-26
+date_modified: 2025-07-20
 image_prompt: "An observatory already has two telescopes pointed into two different parts of the sky.  A team of robots is unloading a new telescope off of a truck to add a third."
-tags:
-  - Workflow-Automation
-  - Observer-System
-  - API-Integration
-  - Data-Integrity
+tags: [Workflow-Automation, Observer-System, API-Integration, Data-Integrity]
 authors:
   - Michael Staton
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/2025-05-26_banner_image_Introduce-a-New-Feature-to-Observer-System_e41e2fa9-8668-4be2-bd13-72f38e4b0542_9CPt6JxbN.webp

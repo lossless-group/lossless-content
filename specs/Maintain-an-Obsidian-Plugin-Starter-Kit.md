@@ -12,7 +12,7 @@ augmented_with: Windsurf Cascade on SWE-1
 category: Content-Management
 publish: true
 date_created: 2025-03-12
-date_modified: 2025-07-19
+date_modified: 2025-07-20
 site_uuid: c4f72e37-bb5b-4f21-b8a7-93c3fc99a89f
 tags: [Frontmatter, OpenGraph]
 authors:
@@ -22,25 +22,31 @@ banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Build-Script-Spec_21af46f2-dd20-45e5-86da-c0815542f01e_e1OL2d6mN.webp
 ---
 
-![Open Graph Fetcher Obsidian Plugin Banner Image](https://i.imgur.com/0v6sPkv.png)
+![](https://i.imgur.com/sO13jFC.png)
 
 # Objective
 
-currentFileService.ts - File Operations
-•  listHeaders() - Extracts all markdown headers from content
-•  addText() - Adds text at a specified position
-•  deleteText() - Removes text within a range
-•  extractYamlFrontmatter() - Extracts YAML frontmatter from content  
-•  changeYamlValue() - Updates key-value pairs in YAML frontmatter
 
-2. textProcessingService.ts - Text Processing Operations
-•  findMatches() - Finds pattern matches with positions
-•  replaceAll() - Replaces all instances of a pattern
-•  transformText() - Transforms text using custom functions
-•  extractAll() - Extracts all pattern matches
-•  countOccurrences() - Counts pattern occurrences
-•  removeDuplicateLines() - Removes duplicate lines
-•  normalizeWhitespace() - Cleans up whitespace formattingExample text
+## Services
+
+1. `currentFileService.ts` - File Operations
+	- `listHeaders()` - Extracts all markdown headers from content
+	- `addText()` - Adds text at a specified position
+	- `deleteText()` - Removes text within a range
+	- `extractYamlFrontmatter()` - Extracts YAML frontmatter from content 
+	- reorderYamlFrontmatter() - Reorders YAML frontmatter in Alphabetical order.
+	- `changeYamlValue()` - Updates key-value pairs in YAML frontmatter.
+	- `changeYamlKey()` - Updates the key in a key-value pair in YAML frontmatter.
+
+2. `textProcessingService.ts` - Text Processing Operations
+	- `findMatches()` - Finds pattern matches with positions
+	- `replaceAll()` - Replaces all instances of a pattern
+	- `transformText()` - Transforms text using custom functions
+	- `extractAll()` - Extracts all pattern matches
+	- `countOccurrences()` - Counts pattern occurrences
+	- `removeDuplicateLines()` - Removes duplicate lines
+	- `normalizeWhitespace()` - Cleans up whitespace formattingExample text
+	- `normalizeHeaderSpacing()` - 
 
 3. selectionService.ts - Selection Processing Operations
 •  toUpperCase(), toLowerCase(), toTitleCase() - Text case transformations
@@ -63,15 +69,15 @@ Summary of the Created Modals
 
 #### CurrentFileModal.ts
 This modal allows you to interact with the current file in focus. It includes sections for:
-•  File Operations: such as listing headers, adding or deleting text, extracting YAML, and updating YAML values.
-•  Text Processing: including finding matches, replacing text, and normalizing whitespace.
-•  Selection Operations: for case transformations, wrapping lines, removing empty lines, sorting lines, and adding line numbers.
+•  **File Operations:*** such as listing headers, adding or deleting text, extracting YAML, and updating YAML values.
+•  **Text Processing:** including finding matches, replacing text, and normalizing whitespace.
+•  **Selection Operations:** for case transformations, wrapping lines, removing empty lines, sorting lines, and adding line numbers.
 
 #### BatchDirectoryModal.ts
 This modal is for batch processing of files within a directory. It includes:
-•  Directory Selection: to choose and list files within a target directory.
-•  Batch File Operations: for extracting headers and updating YAML across all files.
-•  Batch Text Processing: for replacing text patterns, removing duplicates, and normalizing whitespace.
-•  Batch Analysis: allows counting pattern matches and generating directory statistics.
+•  **Directory Selection:** to choose and list files within a target directory.
+•  **Batch File Operations:** for extracting headers and updating YAML across all files.
+•  **Batch Text Processing:** for replacing text patterns, removing duplicates, and normalizing whitespace.
+•  **Batch Analysis:** allows counting pattern matches and generating directory statistics.
 
 With these modals, you have full interaction capabilities for both individual files and whole directories, allowing you to perform comprehensive text operations directly within Obsidian.

@@ -11,18 +11,13 @@ at_semantic_version: 0.0.0.1
 status: To-Prompt
 augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
 category: Prompts
-date_modified: 2025-04-21
+date_modified: 2025-07-20
 date_created: 2025-04-21
 image_prompt: "An AI assistant and user collaboratively editing a prompt, surrounded by evolving prompt bubbles, code suggestions, and feedback loops. Visuals include arrows showing iteration and a sense of creative, continuous improvement."
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Reintroduce-something-that-Worked_9b6e5c06-4079-4459-bd20-a994afc3c0fc_BCHJiKG-P.webp
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Reintroduce-something-that-Worked_34504b8a-22d0-4c58-beac-8f6f9d46f35a_bYGzgrAME.webp
 site_uuid: cfac0a85-2718-45cb-9e8b-99b7e6327e11
-tags: 
-  - Prompt-Engineering
-  - Code-Generators
-  - AI-Human-Workflow
-  - Model-Context-Protocols
-  - Refactoring
+tags: [Prompt-Engineering, Code-Generators, AI-Human-Workflow, Model-Context-Protocols, Refactoring]
 authors:
   - Michael Staton
 ---

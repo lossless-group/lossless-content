@@ -5,17 +5,12 @@ publish: true
 generated_with: Windsurf Cascade on Claude 3.5 Sonnet
 categories: Technical-Specification
 date_created: 2025-04-16
-date_modified: 2025-04-19
+date_modified: 2025-07-20
 lede: Technical specification document outlining implementation details
 status: Draft
 category: Technical Specifications
 site_uuid: 22f247fd-39aa-48e9-84d8-f46d5fb8fc28
-tags: 
-  - Markdown
-  - Code-Blocks
-  - Syntax-Highlighting
-  - Astro
-  - Component-Architecture
+tags: [Markdown, Code-Blocks, Syntax-Highlighting, Astro, Component-Architecture]
 authors:
   - Michael Staton
 image_prompt: "A vibrant code editor window displaying highlighted code blocks, surrounded by glowing brackets and syntax symbols. The focus is on clarity, readability, and the elegance of well-rendered code."

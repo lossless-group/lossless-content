@@ -11,13 +11,9 @@ status: Iterating
 augmented_with: Windsurf IDE with Claude 3.7 Sonnet
 category: Specification
 date_created: 2025-04-16
-date_modified: 2025-04-30
+date_modified: 2025-07-20
 site_uuid: 6302e0f2-5567-44d9-825b-15f1cce1e2d9
-tags: 
-- Scripts 
-- Content-Management 
-- Data-Registry
-- Build-Process
+tags: [Scripts, Content-Management, Data-Registry, Build-Process]
 authors:
   - Michael Staton
 image_prompt: A digital library with rows of labeled files and glowing indexes, representing a structured registry. The scene is organized and accessible, conveying the idea of systematic content management.

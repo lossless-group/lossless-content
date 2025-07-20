@@ -11,14 +11,10 @@ status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
-date_modified: 2025-04-16
+date_modified: 2025-07-20
 image_prompt: "A script editor UI for making AI model API requests, with code snippets, API endpoints, and a preview of structured responses. Visuals include glowing neural network icons, request arrows, and a sense of technical automation."
 site_uuid: 2c903f2a-b144-48f1-a508-781bde9d6760
-tags: 
-  - AI-Human-Workflow
-  - Model-APIs
-  - API-Integration
-  - LLM-Services
+tags: [AI-Human-Workflow, Model-APIs, API-Integration, LLM-Services]
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Write-an-AI-Model-request-Script_9e4151ad-fccb-493e-a97b-e15edf25e378_driCvtxf3.webp

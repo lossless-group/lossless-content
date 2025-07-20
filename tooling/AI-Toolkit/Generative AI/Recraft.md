@@ -1,18 +1,19 @@
 ---
-url: 'https://www.recraft.ai/'
+url: https://www.recraft.ai/
 date_created: 2025-04-14
-date_modified: 2025-05-28
+date_modified: 2025-07-20
 site_uuid: 1ee9e920-95ce-406e-b315-b93d09b8f883
-og_image: 'https://www.recraft.ai/images/recraftai-og.jpg?1'
-og_url: 'https://www.recraft.ai/'
+og_image: https://www.recraft.ai/images/recraftai-og.jpg?1
+og_url: https://www.recraft.ai/
 site_name: Recraft
-title: 'Infinite AI Artboard'
-description: 'Premium image generation and editing tool. Store and share your own styles, create, fine-tune, upscale, and perfect your visuals.'
-og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Recraft_og_screenshot.jpeg'
-og_last_fetch: '2025-05-28T16:00:03.848Z'
+title: Infinite AI Artboard
+description: Premium image generation and editing tool. Store and share your own styles, create, fine-tune, upscale, and perfect your visuals.
+og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Recraft_og_screenshot.jpeg
+og_last_fetch: 2025-05-28T16:00:03.848Z
 tags:
   - Text-to-Image
   - API-Integrations
+docs_url: https://www.recraft.ai/docs
 ---
 
 Slava had an interview [^1]
