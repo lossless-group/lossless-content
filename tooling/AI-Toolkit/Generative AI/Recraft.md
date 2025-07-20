@@ -10,9 +10,7 @@ title: Infinite AI Artboard
 description: Premium image generation and editing tool. Store and share your own styles, create, fine-tune, upscale, and perfect your visuals.
 og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Recraft_og_screenshot.jpeg
 og_last_fetch: 2025-05-28T16:00:03.848Z
-tags:
-  - Text-to-Image
-  - API-Integrations
+tags: [Text-to-Image, API-Integrations]
 docs_url: https://www.recraft.ai/docs
 ---
 

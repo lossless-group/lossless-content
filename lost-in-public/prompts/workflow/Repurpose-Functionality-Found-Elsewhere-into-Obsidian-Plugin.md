@@ -1,25 +1,25 @@
 ---
-title: Repurpose Functionality Found Elsewhere into an Obsidian Plugin
-lede: When you've built functionality several times it can feel like a slog to rewrite.  Let AI Code Generators do it Step by Step.
+title: "Repurpose Functionality Found Elsewhere into an Obsidian Plugin"
+lede: "When you've built functionality several times it can feel like a slog to rewrite.  Let AI Code Generators do it Step by Step."
 date_authored_initial_draft: 2025-07-20
 date_authored_current_draft: 2025-07-20
-date_authored_final_draft: 
-date_first_published: 
+date_authored_final_draft: []
+date_first_published: []
 date_last_updated: 2025-07-20
 date_first_run: 2025-07-20
 at_semantic_version: 0.0.0.1
 status: To-Prompt
-augmented_with: Windsurf Cascade on SWE-1
+augmented_with: "Windsurf Cascade on SWE-1"
 category: Prompts
 date_modified: 2025-07-20
 date_created: 2025-04-21
-image_prompt: An AI assistant and user collaboratively editing a prompt, surrounded by evolving prompt bubbles, code suggestions, and feedback loops. Visuals include arrows showing iteration and a sense of creative, continuous improvement.
-portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Reintroduce-something-that-Worked_9b6e5c06-4079-4459-bd20-a994afc3c0fc_BCHJiKG-P.webp
-banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_banner_image_Reintroduce-something-that-Worked_34504b8a-22d0-4c58-beac-8f6f9d46f35a_bYGzgrAME.webp
-site_uuid: cfac0a85-2718-45cb-9e8b-99b7e6327e11
+image_prompt: "An AI assistant and nerd developer are garbage men with orange vests getting off the back of a garbage truck.  The camera lens can see the brand of the garbage truck, it says `Refactor & Recycle.` The robot is climbing into a large, commercial garbage bin.  The man is grabbing a residential garbage bin being handed to him by another robot."
+site_uuid: cfac0a82-cc18-45cb-9e8b-99b7e6327e11
 tags: [Prompt-Engineering, Code-Generators, AI-Human-Workflow, Model-Context-Protocols, Refactoring]
-authors:
-  - Michael Staton
+authors: ["Michael Staton"]
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Repurpose-Functionality-Found-Elsewhere-into-Obsidian-Plugin_banner_image_1753052270918__Y7MwiIlq.webp"
+square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Repurpose-Functionality-Found-Elsewhere-into-Obsidian-Plugin_square_image_1753052275546_WXFmYg2nU.webp"
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Repurpose-Functionality-Found-Elsewhere-into-Obsidian-Plugin_portrait_image_1753052273414_NA_h9fFkA.webp"
 ---
 # Objective
 We are implementing the specification [[specs/Maintain-an-Image-Generator-Obsidian-Plugin|Maintain-an-Image-Generator-Obsidian-Plugin]] phase by phase and step by step. 
@@ -27,37 +27,39 @@ We are implementing the specification [[specs/Maintain-an-Image-Generator-Obsidi
 # Immediate Task at Hand
 
 ### Tasks:  
-3. **Phase 3: Iterate on Modal**
-	- [ ] Assure proper YAML extraction and `image_prompt:` value extraction using the `yamlFrontmatter.ts` utility.
-	- [ ] Load settings from data.json that display in the modal.
-		- [ ] Request Portrait?
-		- [ ] Request Banner?
-		- [ ] Request Square?
-		- [ ] Confirm style?
-		- [ ] Use Custom Styles?
-	- [ ] Create a button to submit the `image_prompt` value to the Recraft API as part of the curl based request JSON object.
-		- [ ] Add progress indicators using the OpenGraphFetcher example
-		- [ ] Successfully send the `image_prompt` value to the Recraft API and receive a response, updating the progress bar.
-	- [ ] Audit the implementation of proper Obsidian classes through Obsidian Class Variables
-	- [ ] Implement error handling and recovery. Errors need to be sent through Obsidian notifications. 
+4.  **Phase 4: Introduce ImageKit API Settings & Upload Functionality**
+	- [ ] Analyze the working script at `ai-labs/apis/imagekit/convertImageToImagkitUrl.cjs`
+	- [ ] Introduce ImageKit API Settings 
+	    - [ ] Setting to remove downloaded Recraft Generated images from the download folder but only after successfully uploading to ImageKit with a response object from ImageKit with the unique image URL written to file in place of the Recraft generated image URL.
+        - [ ] Toggle on Modal for removing downloaded Recraft Generated images for the above, default to the user preference in settings.
 	- [ ] Update the Code Changelog file. 
 
 ### Expected Deliverables for Task at Hand
 
-1. `src/modals/CurrentFileModal.ts` file implementing:
-   - [ ] `CurrentFileModal` class extending `Modal`
-	- [ ] uses `yamlFrontmatter.ts` from utils to extract `image_prompt` from frontmatter.
-	- [ ] displays a form with a text input for the `image_prompt` value, allowing the user to edit the `image_prompt` value.
-	- [ ] if no `image_prompt` is found, a form is displayed to the user to enter an `image_prompt`
-	- [ ] a setting checkbox is displayed to the user, defaults to selected, that the `imgage_prompt` value will be written to the frontmatter
-   - [ ] `onOpen` method to display modal content
-   - [ ] `onClose` method to clean up modal content
+1. Discuss implementation plan after analyzing the working script at `ai-labs/apis/imagekit/convertImageToImagkitUrl.cjs`
 
-2. `main.ts` updates:
-   - [ ] Load and save settings in `onload()`
-   - [ ] Register command "Generate Images for Current File"
+2. `src/settings/SettingsTab.ts` file implementing:
+   - [ ] `SettingsTab` extends `PluginSettingTab`
+   - [ ] `SettingsTab` includes toggle for removing downloaded Recraft Generated images from the download folder 
+		- [ ] Assures only happens after successfully uploading to ImageKit with a response object from ImageKit with the unique image URL written to file in place of the Recraft generated image URL.
+		- [ ] Toggle on Modal for removing downloaded Recraft Generated images for the above, default to the user preference in settings.
 
-3. Documentation:
+3. `src/modals/CurrentFileModal.ts` file implementing:
+   - [ ] `CurrentFileModal` includes toggle for removing downloaded Recraft Generated images from the download folder 
+		- [ ] only happens after successfully uploading to ImageKit with a response object from ImageKit with the unique image URL written to file in place of the Recraft generated image URL.
+	- [ ] uses `yamlFrontmatter.ts` to extract the image property values from the frontmatter
+	- [ ] uses `yamlFrontmatter.ts` to write the image property values to the frontmatter
+	- [] once the above is complete, integrate "progress bar" into the modal to show the progress of the image generation process, including success nodes at 
+		- [ ] Recraft image generations, 
+		- [ ] successful downloads, 
+		- [ ] successful uploads to ImageKit, 
+		- [ ] successful ImageKit response received with unique ImageKit URL, 
+		- [ ] successful writing of the image URL to the frontmatter.
+
+4. `main.ts` updates:
+   - [ ] Necessary updates to `main.ts` to support the above functionality.
+
+5. Documentation:
    - [ ] Update README.md with setup instructions
    - [ ] Add settings description in CHANGELOG.md
 

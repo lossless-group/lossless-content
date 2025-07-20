@@ -11,15 +11,10 @@ status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
-date_modified: 2025-04-16
+date_modified: 2025-07-20
 image_prompt: "A dynamic digital canvas UI displaying interconnected content and data models as interactive nodes and links. Visual elements include drag-and-drop panels, vibrant color-coded data types, and a modern workspace with a sense of creative exploration and clarity."
 site_uuid: 8671d352-1e5e-4157-b63e-6b44e22f99c0
-tags:
-  - User-Interface
-  - Data-Visualization
-  - Content-Models
-  - JSON-Canvas
-  - UI-Design
+tags: [User-Interface, Data-Visualization, Content-Models, JSON-Canvas, UI-Design]
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Create-a-Canvas-UI-of-our-Content-and-Data-Models_fb6e3017-2c7c-4cde-bb17-7a9f33c2cc13_pmhMbtCEs.webp

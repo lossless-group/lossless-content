@@ -12,13 +12,8 @@ status: To-Implement
 augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
 category: Content-Management
 date_created: 2025-05-14
-date_modified: 2025-05-14
-tags: 
-  - Backend
-  - Content-Management
-  - Databases
-  - Extended-Markdown
-  - Data-Persistence
+date_modified: 2025-07-20
+tags: [Backend, Content-Management, Databases, Extended-Markdown, Data-Persistence]
 authors:
   - Michael Staton
 image_prompt: "A sprawling diagram, with the top half showing piles of notebooks and notebook paper, some pages have been torn out to show handwritten notes and are floating in the wind and stacked on top of each other. As the image transitions to the bottom half, diagram arrows start at clusters of these notebooks and paper and flow towards a central server icon and a database icon, with popular database logos such as Postgres, MongoDB, and SurrealDB. The design is sleek and modern, with the top half feeling chaotic and the bottom half feeling ordered and structured"

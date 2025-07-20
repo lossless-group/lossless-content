@@ -12,13 +12,9 @@ status: Idea
 augmented_with: Gemini 2.5 on MSTY
 category: Open-Ideas
 date_created: 2025-05-10
-date_modified: 2025-05-10
+date_modified: 2025-07-20
 site_uuid: aad9a307-5897-418b-a822-f02gdbf6cb48
-tags:
-  - Screencasts
-  - Content-Generation
-  - Realtime-Applications
-  - Automation
+tags: [Screencasts, Content-Generation, Realtime-Applications, Automation]
 authors:
   - Michael Staton
 image_prompt: "A closeup view of a laptop, with the screen having a screencast software on display. There is a window with a persons face in it, and the rest of the screen is the VS Code Code Editor."

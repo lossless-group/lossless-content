@@ -1,14 +1,14 @@
 ---
-title: Maintain an Image Generator Obsidian Plugin
-lede: A specification for developing and maintaining an Obsidian plugin that generates and manages images using the Recraft API, with secure API key management and frontmatter integration.
+title: "Maintain an Image Generator Obsidian Plugin"
+lede: "A specification for developing and maintaining an Obsidian plugin that generates and manages images using the Recraft API, with secure API key management and frontmatter integration."
 date_authored_initial_draft: 2025-07-19
 date_authored_current_draft: 2025-07-20
-date_authored_final_draft: 
-date_first_published: 
+date_authored_final_draft: []
+date_first_published: []
 date_last_updated: 2025-07-20
 at_semantic_version: 0.1.0
 status: In-Review
-augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+augmented_with: "Windsurf Cascade on Claude 3.5 Sonnet"
 category: Technical-Specification
 date_created: 2025-07-20
 date_modified: 2025-07-20
@@ -16,9 +16,9 @@ site_uuid: c2b72f37-ed8b-7f21-b6a3-16c9fd89a89f
 tags: [Obsidian-Plugin, Image-Generation, Frontmatter, API-Integration]
 authors:
   - Michael Staton
-image_prompt: A robot representing API calls is fishing off a boat. There are several fishing poles that have been cast onto a large representation of a web browser. The web browser has a web page loaded with headers and images. The fishing lines are hooked into images and text and are pulling copies of them off the web browser page and towards the boat.
-banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Build-Script-Spec_39259b0d-6bed-4157-baf7-53c35deebb35_rr5hYOulP.webp
-portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Build-Script-Spec_21af46f2-dd20-45e5-86da-c0815542f01e_e1OL2d6mN.webp
+image_prompt: "A robot representing API calls is fishing off a boat. There are several fishing poles that have been cast onto a large representation of a web browser. The web browser has a web page loaded with headers and images. The fishing lines are hooked into images and text and are pulling copies of them off the web browser page and towards the boat."
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Build-Script-Spec_39259b0d-6bed-4157-baf7-53c35deebb35_rr5hYOulP.webp"
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Build-Script-Spec_21af46f2-dd20-45e5-86da-c0815542f01e_e1OL2d6mN.webp"
 ---
 
 ![](https://i.imgur.com/Xcy9vaG.png)
@@ -208,7 +208,9 @@ obsidian-image-generator/
 	- [x] Update the Code Changelog file. 
 
 Finished on 2025-07-20
-![Image Gin Settings as of 2025-07-20](https://i.imgur.com/7cHV4S1.png)
+
+![Image Gin Demo GIF: Settings Page for Image Gin](https://i.imgur.com/snCuXt6.gif)
+
 
 2. **Phase 2:** Test API Calls
 	- [x] Create basic image generation command using curl or typescript APIs
@@ -219,14 +221,39 @@ Finished on 2025-07-20
 Finished on 2025-07-20
 
 3. **Phase 3: Iterate on Modal**
-	- [ ] Implement proper Obsidian classes through Obsidian Class Variables
-	- [ ] Add support for custom styles
-	- [ ] Add progress indicators using the OpenGraphFetcher example
 	- [ ] Assure proper YAML extraction and `image_prompt:` value extraction using the `yamlFrontmatter.ts` utility.
+	- [x] Load settings from data.json that display in the modal.
+		- [ ] Request Portrait?
+		- [ ] Request Banner?
+		- [ ] Request Square?
+		- [x] Confirm style?
+		- [x] Use Custom Styles?
+	- [x] Create a button to submit the `image_prompt` value to the Recraft API as part of the curl based request JSON object.
+		- [ ] Add progress indicators using the OpenGraphFetcher example
+		- [x] Successfully send the `image_prompt` value to the Recraft API and receive a response, 
+            - [x] updating the progress bar.
+	- [ ] Audit the implementation of proper Obsidian classes through Obsidian Class Variables
 	- [ ] Implement error handling and recovery. Errors need to be sent through Obsidian notifications. 
+	- [x] Update the Code Changelog file. 
+
+Partially Finished on 2025-07-21
+
+
+![Image Gin Demo Gif: Demo Image Generation from Image Prompt](https://i.imgur.com/12WhBJg.gif)
+**Note:** Only supports [[Tooling/AI-Toolkit/Generative AI/Recraft|Recraft]] as of July 21st, 2025. 
+
+4.  **Phase 4: Introduce ImageKit API Settings & Upload Functionality**
+	- [ ] Introduce ImageKit API Settings 
+	    - [ ] Setting to remove downloaded Recraft Generated images from the download folder but only after successfully uploading to ImageKit with a response object from ImageKit with the unique image URL written to file in place of the Recraft generated image URL.
+        - [ ] Toggle on Modal for removing downloaded Recraft Generated images for the above, default to the user preference in settings.
 	- [ ] Update the Code Changelog file. 
 
-4.  **Phase 3: Polish and Optimization**
+![Image Gin Demo GIF: Convert Locally Stored Images to a Remote Image Delivery Service URL with ImageKit](https://i.imgur.com/HfytkK3.gif)
+**Note:** Only supports [[Tooling/Software Development/Lego-Kit Engineering Tools/ImageKit|ImageKit]] as of July 21, 2025. 
+
+Finished on 2025-07-21
+
+5. **Phase 5: Polish and Optimization**
 	1. Assure write operations to YAML are flawless.
 	2. Performance optimizations
 	3. Add configuration options
@@ -234,11 +261,11 @@ Finished on 2025-07-20
 		2. Analyze other request options for Recraft API
 	4. Update the Code Changelog file. 
 
-5. User Documentation and user guides
+6. **Phase 6: User Documentation and user guides**
 	1. Audit Settings and Modal for helpful user instructions and tooltips.
 	2. Update README with thorough user instructions.
 
-6. Developer Documentation
+7. **Phase 7: Developer Documentation**
 	1. Update README for potential contributors
 	2. Update Astro Starlight documentation. 
 
@@ -249,8 +276,6 @@ Finished on 2025-07-20
 	   1. Identify and match the list of possible image generations.
 	   2. Identify and match the list of possible local images to send to image delivery service. 
    4. Implement MCP for using LLM API calls to generate potential image prompts. 
-
-
 
 ### Dependencies
 - [[pnpm]]

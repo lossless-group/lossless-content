@@ -3,7 +3,7 @@ title: Implement a Comprehensive Code Block Rendering System in Astro
 description: Technical specification for creating a flexible, extensible code block rendering system with copy buttons, language indicators, and custom language support in Astro
 date: 2023-11-20
 date_created: 2025-04-16
-date_modified: 2025-04-16
+date_modified: 2025-07-20
 image_prompt: "A developer configuring custom code blocks in Astro, with a code editor displaying syntax-highlighted blocks, Astro component icons, and rendered previews. The scene conveys technical depth, customization, and the seamless blending of code and content."
 lede: Brief description of the prompt functionality and purpose
 date_authored_initial_draft: 2025-04-16
@@ -13,9 +13,7 @@ status: To-Prompt
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 site_uuid: 284d42ae-e9a0-45f0-aa84-8e8d2b7d42f6
-tags: 
-  - Render-Logic
-  - Extended-Markdown 
+tags: [Render-Logic, Extended-Markdown]
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Handle-Custom-Codeblocks-in-Astro-Comprehensive_56388b45-ea9a-4825-b83b-c6a89469b38d_GshnrF-dg.webp

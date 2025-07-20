@@ -11,15 +11,10 @@ status: In-Progress
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
-date_modified: 2025-04-16
+date_modified: 2025-07-20
 image_prompt: "A changelog user interface with a timeline of updates, interactive cards for each release, and filterable tags. Visual cues include icons for features and bug fixes, a clean layout, and a modern, collaborative workspace vibe."
 site_uuid: 88ad913c-b8f0-475e-ba90-abcbf71fc29b
-tags: 
-  - User-Interface
-  - Changelogs
-  - Release-Notes
-  - UI-Design
-  - User-Experience
+tags: [User-Interface, Changelogs, Release-Notes, UI-Design, User-Experience]
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Create-a-Changelog-UI_32b4f9ab-068e-4e1d-b8ec-46c72d759cd6_yiXF93vSB.webp

@@ -11,12 +11,10 @@ status: To-Prompt
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
-date_modified: 2025-04-16
+date_modified: 2025-07-20
 image_prompt: "A web developer working with custom code blocks in Astro, featuring a code editor, component icons, and live previews of styled code snippets. The scene highlights modularity, syntax highlighting, and the fusion of design and engineering."
 site_uuid: 044a1152-e92a-468a-b698-3454efe7077c
-tags: 
-  - Render-Logic
-  - Extended-Markdown
+tags: [Render-Logic, Extended-Markdown]
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Handle-Custom-Codeblocks-in-Astro_d131e0f8-fac5-4d0f-995e-d1312a015d69_2APBr2qCy.webp
