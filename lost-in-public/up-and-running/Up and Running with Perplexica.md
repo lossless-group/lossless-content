@@ -2,7 +2,7 @@
 date_created: 2025-06-07
 date_modified: 2025-06-07
 ---
-[[Tooling/AI-Toolkit/Models/Perplexica|Perplexica]] is an [[concepts/Open Source Alternatives|Open Source Alternative]] to [[organizations/Perplexity AI|Perplexity AI]] using the [[Searxng]] search API, which is an open source alternative to Google or other [[Search Engines]].
+[[Tooling/AI-Toolkit/Models/Perplexica|Perplexica]] is an [[concepts/Open Source Alternatives|Open Source Alternative]] to [[organizations/Perplexity AI|Perplexity AI]] using the [[Tooling/AI-Toolkit/Searxng]] search API, which is an open source alternative to Google or other [[Search Engines]].
 
 ```bash
 # Build the Docker image 

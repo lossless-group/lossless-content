@@ -7,7 +7,7 @@ date_modified: 2025-06-07
 date_created: 2025-03-31
 tags: [Runs-Local, Open-Source, AI-Models, AI-Toolkit]
 ---
-[[Tooling/AI-Toolkit/Models/Perplexica|Perplexica]] is an [[concepts/Open Source Alternatives|Open Source Alternative]] or [[concepts/Open Source, DIY Variant|Open Source, DIY Variant]] of [[organizations/Perplexity AI|Perplexity AI]] using the [[Searxng]] search API.
+[[Tooling/AI-Toolkit/Models/Perplexica|Perplexica]] is an [[concepts/Open Source Alternatives|Open Source Alternative]] or [[concepts/Open Source, DIY Variant|Open Source, DIY Variant]] of [[organizations/Perplexity AI|Perplexity AI]] using the [[Tooling/AI-Toolkit/Searxng]] search API.
 ![](https://i.imgur.com/wOld3wR.png)
 
 
