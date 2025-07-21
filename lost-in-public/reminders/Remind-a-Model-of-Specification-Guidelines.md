@@ -4,31 +4,21 @@ lede: Comprehensive guidelines and template for creating clear, consistent, and 
 date_authored_initial_draft: 2025-07-20
 date_authored_current_draft: 2025-07-20
 date_first_published: 
-date_last_updated: 
-at_semantic_version: 0.0.0.1
+date_last_updated:
+date_created: 2025-07-20
+date_modified: 2025-07-21
+at_semantic_version: 0.0.0.8
 status: Active
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Guidelines
-date_created: 2025-07-20
-date_modified: 2025-07-20
-site_uuid: c441b7e3-4ba5-4adb-accb-a475b6a70e4b
-tags: 
-  - Documentation
-  - Specifications
-  - Best-Practices
-  - Contribution-Guide
+site_uuid: c241b7e3-4ba5-4adb-accb-a475b6a70e4b
+tags: [Documentation, Specifications, Best-Practices, Contribution-Guide]
 authors:
   - Michael Staton
-image_prompt: A modern, clean document template with structured sections, code examples, and visual diagrams, representing well-organized technical documentation.
-category: Prompts
-site_uuid: c441b7e3-4ba5-4adb-accb-a475b6a70e4b
-tags: [Workflow]
-authors:
-  - Michael Staton
-portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Maintain-Consistent-Reporting-Templates_ae2415ec-f54a-48ba-85c2-eaee09d20716_4XNITJvCs.webp
-banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Maintain-Consistent-Reporting-Templates_af226242-a4ff-424d-8702-a7ddbe27103e_vkNe8RMST.webp
+image_prompt: "A modern, clean document template with structured sections, code examples, and visual diagrams, representing well-organized technical documentation."
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Maintain-Consistent-Reporting-Templates_ae2415ec-f54a-48ba-85c2-eaee09d20716_4XNITJvCs.webp"
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Maintain-Consistent-Reporting-Templates_af226242-a4ff-424d-8702-a7ddbe27103e_vkNe8RMST.webp"
 ---
-
 
 # Specification Development Guidelines
 
