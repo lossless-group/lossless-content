@@ -1,24 +1,24 @@
 ---
-title: 'Fire up the Observer'
-lede: 'Ready to automate? Learn how to launch the Observer system for seamless citation and frontmatter processing across your content library.'
-image_prompt: 'A futuristic terminal window launching an observer robot, with glowing file paths, citation icons, and YAML frontmatter floating in a digital workspace.'
+title: "Fire up the Observer"
+lede: "Ready to automate? Learn how to launch the Observer system for seamless citation and frontmatter processing across your content library."
+image_prompt: "A robot representing an AI Code Assistant lighting firework rockets.  Behind them is a large telescope pointing into the night sky."
 date_authored_initial_draft: 2025-04-13
 date_authored_current_draft: 2025-04-13
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft: []
+date_first_published: []
+date_last_updated: 2025-07-21
 at_semantic_version: 0.1.0.0
 status: To-Implement
-augmented_with: 'Windsurf Cascade on Claude 3.7 Sonnet'
+augmented_with: "Windsurf Cascade on Claude 3.7 Sonnet"
 category: Documentation
 date_created: 2025-04-13
-date_modified: 2025-04-22
+date_modified: 2025-07-20
 site_uuid: 92421e72-f568-4d69-8023-fda8af85b652
-portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_portrait_image_Fire-up-the-Observer_3f244cac-89ce-4817-9c88-1b7111313b85_FwiphjTvY.webp
 tags: [Data-Integrity, File-Processing, Observer-System]
-authors:
-  - Michael Staton
-banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Fire-up-the-Observer_a6174a8d-5929-436d-bcd0-78323b091364_KiF40_cW8.webp
+authors: ["Michael Staton"]
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Fire-up-the-Observer_banner_image_1753055485725_J5mSxyJ2c.webp"
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Fire-up-the-Observer_portrait_image_1753055488227_vJxw323Sg.webp"
+square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Fire-up-the-Observer_square_image_1753055491138_8yUU_kQWT.webp"
 ---
 # USER GOAL:
 

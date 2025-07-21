@@ -11,7 +11,7 @@ at_semantic_version: 0.0.0.1
 status: To-Prompt
 augmented_with: "Windsurf Cascade on SWE-1"
 category: Prompts
-date_modified: 2025-07-20
+date_modified: 2025-07-21
 date_created: 2025-04-21
 image_prompt: "An AI assistant and nerd developer are garbage men with orange vests getting off the back of a garbage truck.  The camera lens can see the brand of the garbage truck, it says `Refactor & Recycle.` The robot is climbing into a large, commercial garbage bin.  The man is grabbing a residential garbage bin being handed to him by another robot."
 site_uuid: cfac0a82-cc18-45cb-9e8b-99b7e6327e11
