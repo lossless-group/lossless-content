@@ -1,0 +1,11 @@
+---
+url: https://harmonic.fun
+date_created: 2025-11-24
+date_modified: 2025-07-21
+tags: [Model-Producers, Model-Vendors, AI-Toolkit]
+og_title: Mathematical Superintelligence
+og_description: AI for Formal Mathematical Reasoning
+og_image: https://harmonic.fun/harmonic-icon-512x512.png
+og_favicon: https://harmonic.fun/favicon.ico
+og_last_fetch: 2025-07-21T18:02:22.105Z
+---
