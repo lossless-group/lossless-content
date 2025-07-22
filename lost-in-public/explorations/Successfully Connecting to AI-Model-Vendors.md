@@ -1,10 +1,13 @@
 ---
 date_created: 2025-03-24
-date_modified: 2025-03-24
-tags:
-  - Model-APIs
-  - LLM-Gateways
-  - API-based-Services
+date_modified: 2025-07-22
+tags: [Model-APIs, LLM-Gateways, API-based-Services]
+site_uuid: 38562a36-1195-4b00-acbf-37b67d6f3ced
+publish: true
+title: "Successfully Connecting To AI Model Vendors"
+lede: "Connect to AI Model vendors via API"
+slug: successfully-connecting-to-ai-model-vendors
+at_semantic_version: 0.0.0.1
 ---
 
 Made connection example for [[Tooling/AI-Toolkit/Model Producers/Groq|Groq]] with sample response object. 

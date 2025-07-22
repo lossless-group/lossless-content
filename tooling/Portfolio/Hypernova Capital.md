@@ -1,7 +1,6 @@
 ---
 url: https://hypernova.capital/
-tags:
-  - Venture-Capital
+tags: [Venture-Capital]
 people:
   - Michael Staton
   - Tugce-Ergul
@@ -10,6 +9,14 @@ og_description: We are a hybrid fundand fund-of-funds betting on emerging fund m
 og_image: https://ik.imagekit.io/xvpgfijuw/screenshots/ogImage__Hypernova.png
 og_favicon: https://hypernova.capital/wp-content/uploads/2022/05/hypernova_favicon-01.png
 og_last_fetch: 2025-07-22T16:22:47.256Z
-aliases:
-  - Hypernova
+aliases: [Hypernova]
+date_created: 2025-07-22
+date_modified: 2025-07-22
 ---
+
+# Portfolio
+```yaml imageGallery
+- [[Tooling/Portfolio/Blue Layer|Blue Layer]]
+- [[Tooling/Portfolio/Thinking Machines|Thinking Machines]]
+- [[Tooling/Portfolio/Harmonic|Harmonic]]
+```

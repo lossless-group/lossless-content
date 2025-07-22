@@ -1,18 +1,21 @@
 ---
-title: "Exploring Model Context Protocol SDK"  
-lede: 'Tinker with the Model Context Protocol SDK created by Anthropic'  
+title: "Exploring Model Context Protocol SDK"
+lede: "Tinker with the Model Context Protocol SDK created by Anthropic"
 date_authored_initial_draft: 2025-06-07
 date_authored_current_draft: 2025-06-07
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: 2025-06-07
-at_semantic_version: "0.0.0.1"
-authors: Michael Staton
+at_semantic_version: 0.0.0.1
+authors: "Michael Staton"
 status: Draft
-augmented_with: Windsurf Cascade with SWE-1
+augmented_with: "Windsurf Cascade with SWE-1"
 tags: [Explorations, Model-Context-Protocols]
 date_created: 2025-06-07
-date_modified: 2025-07-08
+date_modified: 2025-07-22
+site_uuid: fc0fd3b8-0110-4b2d-b544-f162c1a23b4f
+publish: true
+slug: exploring-model-context-protocol-sdk
 ---
 
 # Model Context Protocol (MCP) Analysis

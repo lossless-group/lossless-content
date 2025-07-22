@@ -1,5 +1,7 @@
 ---
 amazon-url: https://www.amazon.com/Chip-War-Worlds-Critical-Technology/dp/1982172002
+date_created: 2025-04-18
+date_modified: 2025-07-22
 ---
 2022, Oct 04. Chip War: The Fight for the World's Most Critical Technology. Chris Miller. Scribner.  
 
@@ -22,3 +24,5 @@ https://youtu.be/OxUP51qk4lQ?si=R9LnHtnBdntvWlH-
 [[organizations/AMD]]
 [[organizations/Texas Instruments]]
 [[organizations/TSMC]]
+
+

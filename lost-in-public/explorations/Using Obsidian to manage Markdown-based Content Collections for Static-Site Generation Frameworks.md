@@ -1,6 +1,11 @@
 ---
 date_created: 2024-11-01
-date_modified: 2025-05-26
+date_modified: 2025-07-22
+site_uuid: 3ffd48be-b0b6-448c-994e-784069c5b041
+publish: true
+title: "Using Obsidian To Manage Markdown Based Content Collections For Static Site Generation Frameworks"
+slug: using-obsidian-to-manage-markdown-based-content-collections-for-static-site-generation-frameworks
+at_semantic_version: 0.0.0.1
 ---
 
 |>update_start::2025-05-26T12:33:46.108Z

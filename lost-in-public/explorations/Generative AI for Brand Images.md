@@ -1,7 +1,7 @@
 ---
 site_uuid: 3597102b-8adb-4793-892d-5cc4245234f0
-title: Manageable User Options
-lede: Configure and manage user options for build scripts and content processing
+title: "Manageable User Options"
+lede: "Configure and manage user options for build scripts and content processing"
 date_authored_initial_draft: 2025-04-14
 date_authored_current_draft: 2025-04-14
 date_authored_final_draft: null
@@ -9,18 +9,15 @@ date_first_published: null
 date_last_updated: null
 at_semantic_version: 0.0.0.1
 status: To-Do
-augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+augmented_with: "Windsurf Cascade on Claude 3.5 Sonnet"
 category: Explorations
 date_created: 2025-04-14
-date_modified: 2025-04-14
-tags:
-  - Configuration
-  - Build-Scripts
-  - User-Options
-  - Directory-Management
-  - Code-Style
+date_modified: 2025-07-22
+tags: [Configuration, Build-Scripts, User-Options, Directory-Management, Code-Style]
 authors:
   - Michael Staton
+publish: true
+slug: generative-ai-for-brand-images
 ---
 
 ## Background

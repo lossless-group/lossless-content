@@ -1,6 +1,11 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-04-25
+date_modified: 2025-07-22
+site_uuid: 93b4264e-115d-4e22-996c-848e87ec70cf
+publish: true
+title: "Creating A Flavored Syntax Parsed To UI"
+slug: creating-a-flavored-syntax-parsed-to-ui
+at_semantic_version: 0.0.0.1
 ---
 ###### Map of Related Content
 - **Concepts: [[concepts/Flavored Syntax|Flavored Syntax]],  [[emergent-innovation/Standards/Markdown|Markdown]], [[Vocabulary/Markup]], [[Vocabulary/Text Parsing]]

@@ -3,10 +3,12 @@ title: "Creating a Custom GPT with OpenAI"
 authors:
   - Michael Staton
 date_created: 2025-04-18
-date_modified: 2025-05-12
+date_modified: 2025-07-22
 site_uuid: 56394750-0b7a-498d-8106-b7ea477a990c
-tags: [Explorations]
+tags: [Explorations, Fine-Tuners]
 publish: true
+slug: creating-a-custom-gpt-with-openai
+at_semantic_version: 0.0.0.1
 ---
 ## Context
 I'm following along to this [[YouTube]] video: [Creating Custom GPTs: API Key For Custom Actions | Complete Guide](https://youtu.be/6P6MQ_j73mI?si=jJGUcygTjmpLa_lA)

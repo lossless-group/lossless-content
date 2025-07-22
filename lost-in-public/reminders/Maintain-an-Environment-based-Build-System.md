@@ -11,16 +11,13 @@ date_last_run: 2025-05-25
 at_semantic_version: 0.0.0.1
 status: Implemented
 augmented_with: 'Windsurf Cascade on SWE-1'
-user_name: 'Michael Staton'
 category: Prompts
 date_created: 2025-05-25
-date_modified: 2025-05-25
+date_modified: 2025-07-22
 image_prompt: 'A factory is the centerpiece of the image. From the left, a train approaches the factory to unload the cars, which has code files popping out of the train cars. The factory has cranes that are unloading the code files. The factory is then pushing out beautiful web pages to the right.  The left part of the image seems a little polluted, while the right side is beautiful.'
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-25_portrait_image_Maintain-an-Environment-based-Build-System_fd550553-5ab0-4c56-b8cb-45ac3a8705b5_0j44Q1oFa.webp
 site_uuid: a79064dc-eaf0-4e94-8085-175ea9e4e765
-tags:
-  - Build-Systems
-  - Configuration
+tags: [Build-Systems, Configuration]
 authors:
   - Michael Staton
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-25_banner_image_Maintain-an-Environment-based-Build-System_5cf0d6a9-2ee4-469a-a3a3-fe5745d4b2d8_Qg5urXFe-.webp

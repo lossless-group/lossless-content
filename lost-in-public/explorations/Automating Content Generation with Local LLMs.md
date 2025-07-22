@@ -4,8 +4,12 @@ dependencies:
   - Docker
   - OLlama
 date_created: 2025-03-06
-date_modified: 2025-03-19
+date_modified: 2025-07-22
 site_uuid: c77ac06a-4b4d-4930-9310-63d4434b5e56
+title: "Automating Content Generation With Local LLMs"
+slug: automating-content-generation-with-local-llms
+at_semantic_version: 0.0.0.1
+publish: true
 ---
 
 ## [[Fabric]] for [[YouTube]] consumption and output.

@@ -5,4 +5,5 @@ publish: true
 slug: agentic-workspaces
 title: "Agentic Workspaces"
 at_semantic_version: 0.0.0.1
+date_modified: 2025-07-22
 ---

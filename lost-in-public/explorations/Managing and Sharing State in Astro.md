@@ -16,6 +16,8 @@ tags: [State-Management]
 authors:
   - Michael Staton
 site_uuid: 97ecd107-faf8-44b2-810a-6c5fb805d076
+publish: false
+slug: managing-and-sharing-state-in-astro
 ---
 
 

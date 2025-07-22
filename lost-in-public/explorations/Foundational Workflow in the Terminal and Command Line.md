@@ -1,7 +1,11 @@
 ---
 date_created: 2025-03-19
-date_modified: 2025-03-21
+date_modified: 2025-07-22
 site_uuid: c757697f-94f6-4a54-ba63-092af3a2552e
+publish: true
+title: "Foundational Workflow In The Terminal And Command Line"
+slug: foundational-workflow-in-the-terminal-and-command-line
+at_semantic_version: 0.0.0.1
 ---
 
   

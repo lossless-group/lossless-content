@@ -1,6 +1,6 @@
 ---
 date_created: 2025-07-20
-date_modified: 2025-07-21
+date_modified: 2025-07-22
 participants: ["Michael Staton", "Oz Silahtar"]
 google_maps_url: "https://maps.app.goo.gl/ks4bpfmxT3PqXC2b6"
 date_of_event: 2025-07-23
@@ -27,7 +27,10 @@ Michael has been in Venture Capital for nearly 15 years, investing across 5 diff
 Of 66 "high conviction" investments, 12 are now "Unicorns", and 5 have IPO'd 
 including 
 - [[Tooling/Training/Udemy|Udemy]], 
-- [[Tooling/Training/Coursera|Coursera]], Chime, Dr. on Demand, and Wish. 
+- [[Tooling/Training/Coursera|Coursera]], 
+- [[Tooling/Portfolio/Chime|Chime]]
+- Dr. on Demand
+- Wish
 
 ### Related Investments
 His AI related investments include: 
@@ -66,6 +69,7 @@ His AI related investments include:
 
 We will be glad to offload the work AI will replace. 
 
+
 ### 2. Easier to learn up learning curves.
 
 AI will make it easier to learn new "Knowledge Economy" skills, as well as perform them. 
@@ -89,7 +93,7 @@ Context Engineers cannot be successful without the deep involvement of senior, p
 
 ### 6. AI is not that Intelligent.  It's pretty stupid, actually. 
 
-Generative AI and Agentic AI is mostly hot air and bullshit right now.  It only really unseats humans in very limited use cases, and even then the only people that can "tell it what to do" are the same humans whose jobs they are theoretically replacing. 
+[[Generative AI]] and [[Agentic AI]] is mostly hot air and bullshit right now.  It only really unseats humans in very limited use cases, and even then the only people that can "tell it what to do" are the same humans whose jobs they are theoretically replacing. 
 
 
 ### 6. It's the accountants that should be scared. 

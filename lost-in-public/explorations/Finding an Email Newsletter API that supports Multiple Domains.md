@@ -1,19 +1,22 @@
 ---
-title: Finding an Email Newsletter API that Supports Multiple Domains
-lede: Most email newsletter services boast the deliverability and the large number of emails. But what if you just need to send a limited number of emails but support multiple domains?
+title: "Finding an Email Newsletter API that Supports Multiple Domains"
+lede: "Most email newsletter services boast the deliverability and the large number of emails. But what if you just need to send a limited number of emails but support multiple domains?"
 date_authored_initial_draft: 2025-07-05
 date_authored_current_draft: 2025-07-06
-date_authored_final_draft: 
-date_first_published: 
+date_authored_final_draft: "[]"
+date_first_published: "[]"
 date_last_updated: 2025-07-06
 at_semantic_version: 0.0.0.1
 authors:
   - Michael Staton
 status: To-Do
-augmented_with: Perplexity AI
+augmented_with: "Perplexity AI"
 tags: [Email-Marketing, Marketing-Automation]
 date_created: 2025-07-06
-date_modified: 2025-07-08
+date_modified: 2025-07-22
+site_uuid: 6521c5c0-dc31-400d-8104-f1c6cc9ebe7b
+publish: true
+slug: finding-an-email-newsletter-api-that-supports-multiple-domains
 ---
 
 # Article Text

@@ -1,9 +1,13 @@
 ---
 date_created: 2025-03-20
-date_modified: 2025-03-24
+date_modified: 2025-07-22
 status: To-Do
 authors:
   - Michael Staton
+site_uuid: a435fac0-54e1-48b9-8e86-36253b845a10
+title: "Automating Progess Updates Through Clever Use Of AI Code Assistants"
+slug: automating-progess-updates-through-clever-use-of-ai-code-assistants
+at_semantic_version: 0.0.0.1
 ---
 
 ```json
