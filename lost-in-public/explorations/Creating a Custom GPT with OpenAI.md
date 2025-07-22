@@ -1,9 +1,12 @@
 ---
-tags: [Explorations]
+title: "Creating a Custom GPT with OpenAI"
 authors:
   - Michael Staton
 date_created: 2025-04-18
 date_modified: 2025-05-12
+site_uuid: 56394750-0b7a-498d-8106-b7ea477a990c
+tags: [Explorations]
+publish: true
 ---
 ## Context
 I'm following along to this [[YouTube]] video: [Creating Custom GPTs: API Key For Custom Actions | Complete Guide](https://youtu.be/6P6MQ_j73mI?si=jJGUcygTjmpLa_lA)
@@ -91,6 +94,7 @@ Here was [[GPT-Series Models|GPT's]] response:
 > ✅ Write an OpenAPI schema for GNews integration  
 > ✅ Set up API authentication  
 > ✅ Handle API responses and formatting
+
 
 ##### You said:
 

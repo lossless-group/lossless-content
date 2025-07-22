@@ -5,6 +5,7 @@ dependencies:
   - OLlama
 date_created: 2025-03-06
 date_modified: 2025-03-19
+site_uuid: c77ac06a-4b4d-4930-9310-63d4434b5e56
 ---
 
 ## [[Fabric]] for [[YouTube]] consumption and output.

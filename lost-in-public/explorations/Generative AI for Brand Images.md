@@ -1,4 +1,5 @@
 ---
+site_uuid: 3597102b-8adb-4793-892d-5cc4245234f0
 title: Manageable User Options
 lede: Configure and manage user options for build scripts and content processing
 date_authored_initial_draft: 2025-04-14
@@ -20,7 +21,7 @@ tags:
   - Code-Style
 authors:
   - Michael Staton
-  ---
+---
 
 ## Background
 
@@ -62,7 +63,7 @@ pip3 install dotenv
 
 
 
-7. Run the script
+8. Run the script
 ```bash
 python3 script.py
 ```

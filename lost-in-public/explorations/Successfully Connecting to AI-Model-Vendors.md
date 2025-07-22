@@ -3,6 +3,8 @@ date_created: 2025-03-24
 date_modified: 2025-03-24
 tags:
   - Model-APIs
+  - LLM-Gateways
+  - API-based-Services
 ---
 
 Made connection example for [[Tooling/AI-Toolkit/Model Producers/Groq|Groq]] with sample response object. 

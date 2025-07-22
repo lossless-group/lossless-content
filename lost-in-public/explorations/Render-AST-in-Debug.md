@@ -1,24 +1,20 @@
 ---
-title: 'Render AST in Debug'
-lede: 'Exploration of AST structure at each stage of markdown processing to understand how to handle callouts'
+title: "Render AST in Debug"
+lede: "Exploration of AST structure at each stage of markdown processing to understand how to handle callouts"
 date_authored_initial_draft: 2025-04-02
 date_authored_current_draft: 2025-04-02
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
-at_semantic_version: '0.0.0.1'
-authors: 
-  Michael Staton
+at_semantic_version: 0.0.0.1
+authors: []
 status: In-Progress
-augmented_with: 'Windsurf Cascade on Claude 3.5 Sonnet'
+augmented_with: "Windsurf Cascade on Claude 3.5 Sonnet"
 category: Explorations
-tags:
-- Remark
-- Astro
-- AST
-- Debug
+tags: [Remark, Astro, AST, Debug]
 date_created: 2025-04-02
-date_modified: 2025-04-02
+date_modified: 2025-07-22
+site_uuid: 585d8526-ab18-4f94-a626-e2a2f7c2d7e2
 ---
 
 # Objective

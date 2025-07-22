@@ -1,22 +1,19 @@
 ---
 title: "Accessing Figma through a Windsurf MCP Server"  
-lede: 'Interact with Figma Designs while building an application, straight from the IDE'  
+lede: "Interact with Figma Designs while building an application, straight from the IDE"  
 date_authored_initial_draft: 2025-03-19
 date_authored_current_draft: null 
 date_authored_final_draft: null
 date_first_published: null
 date_last_updated: null
 at_semantic_version: "0.0.0.1"
-authors: Michael Staton
 status: To-Do
-augmented_with: null  # Current AI system
-tags:
-  - Explorations
-  - Model-Context-Protocols
-authors: 
-- Michael Staton
+augmented_with: Windsurf Cascade with SWE-1
+tags: [Explorations, Model-Context-Protocols]
+authors:
+  - Michael Staton
 date_created: 2025-03-20
-date_modified: 2025-03-20
+date_modified: 2025-07-22
 ---
 session-open::'2025-03-19T04:51:05.362Z'
 
