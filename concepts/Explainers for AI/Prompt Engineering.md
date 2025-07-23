@@ -1,10 +1,11 @@
 ---
 site_uuid: 124f0c8d-09ac-48e3-b68f-ddc48570cd7a
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.830Z'
-tags:
-  - AI-Toolkit
+date_modified: 2025-07-23
+date_created: 2025-03-30
+tags: [AI-Toolkit]
 ---
+One of the core skill sets of [[Vocabulary/Vibe Coding|Vibe Coding]], involving [[concepts/Explainers for AI/Vibe Planning|Vibe Planning]].
+https://youtu.be/uDIW34h8cmM?si=upMFFu1o3aMG-8_E
 
 
 

@@ -1,11 +1,16 @@
 ---
 date_created: 2025-03-30
-date_modified: 2025-04-24
+date_modified: 2025-07-23
 site_uuid: 8babe509-0827-4af4-bbfb-77957bf7482e
 aliases: [AI Agents]
 ---
-
+###### Examples
 [[Kestra]], [[n8n]], [[Flowise]]
+
+
+```yaml toolingGallery
+tag: Agentic-AI
+```
 
 https://youtu.be/2vj2BF_dWeY?si=9Z-loqAHp1zEFZl3
 
@@ -25,7 +30,6 @@ https://youtu.be/yRIEpNlacd0?si=dpWW7pOAARrFN7DY
 
 https://youtu.be/1OLrT3dEzhA?si=7AZdTQ3OfcxjAaDq
 
-
 https://youtu.be/1OLrT3dEzhA?si=ML-EOtSXsGZOmM2U
 
 https://youtu.be/ED4SUWgoAhw?si=cxfR1tLMMyLPuY_1
@@ -41,7 +45,9 @@ https://youtu.be/2Ai7_5G70xY?si=viQnaaKV7XOBHGtr
 https://youtu.be/QhujcQk8pyU?si=GKfWkBlBsO29gSrk
 
 https://youtu.be/O0GNrvO7wD0?si=hKgEcvdDDvlf4Z1d
-[[organizations/Perplexity AI]] explains [[Agentic AI]]
+
+
+[[organizations/Perplexity AI|Perplexity AI]] explains [[Agentic AI]]
 AI is a transformative form of artificial intelligence that autonomously makes decisions, takes actions, and adapts to achieve specific goals. It integrates technologies like large language models (LLMs), machine learning, and natural language processing (NLP) to create AI agents capable of reasoning, planning, and executing tasks with minimal human intervention[1][2][6].
 
 ## How It Works

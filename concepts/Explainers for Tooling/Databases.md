@@ -1,9 +1,8 @@
 ---
 date_created: 2025-03-04
-date_modified: 2025-04-24
+date_modified: 2025-07-23
 site_uuid: 435dad66-b77d-493a-a61d-678f3f738480
-aliases:
-  - Database
+aliases: [Database]
 ---
 
 Many of the new database options are derivative of the handful of original open source databases, like [[MySQL]] and [[Postgres]], with most of the momentum going to [[Postgres]].
@@ -26,18 +25,18 @@ https://youtu.be/zSn8il5Mo5s?si=de9AGdzGmCxzXtiJ
 
 
 
-| Relational        | Documenent      | Graph          | Vector                                                    | Multi-Model                                                         | Big Table     |
-| ----------------- | --------------- | -------------- | --------------------------------------------------------- | ------------------------------------------------------------------- | ------------- |
-| [[Postgres]]      | [[Tooling/Enterprise Jobs-to-be-Done/MongoDB]]     | [[Neo4j]]      | [[Tooling/AI-Toolkit/Knowledge AI/Qdrant]]                | [[SurrealDB]]                                                       | [[Cassandra]] |
-| - [[Xata]]        | [[Redis]]       | [[JanusGraph]] | [[Milvus]]                                                | [[ArangoDB]]                                                        |               |
-| - [[Supabase]]    | [[Aerospike]]   | [[Dgraph]]     | [[ChromaDB]]                                              | [[Fauna]]                                                           |               |
-| - [[EdgeDB]]      | [[Couchbase]]   | [[Graphwise]]  | [[Tooling/Software Development/Databases/Qdrant\|Qdrant]] | [[tooling/Software Development/Databases/SingleStore\|SingleStore]] |               |
-| - [[CockroachDB]] | [[DragonflyDB]] |                |                                                           | [[TypeDB]]                                                          |               |
-|                   |                 |                |                                                           |                                                                     |               |
-| [[MySQL]]         |                 |                |                                                           |                                                                     |               |
-| - [[Vitess]]      |                 |                |                                                           |                                                                     |               |
-| - [[MariaDB]]     |                 |                |                                                           |                                                                     |               |
-| [[SQLite]]        |                 |                |                                                           |                                                                     |               |
+| Relational        | Documenent                                              | Graph          | Vector                                                    | Multi-Model                                                         | Big Table     |
+| ----------------- | ------------------------------------------------------- | -------------- | --------------------------------------------------------- | ------------------------------------------------------------------- | ------------- |
+| [[Postgres]]      | [[Tooling/Enterprise Jobs-to-be-Done/MongoDB\|MongoDB]] | [[Neo4j]]      | [[Tooling/AI-Toolkit/Knowledge AI/Qdrant]]                | [[SurrealDB]]                                                       | [[Cassandra]] |
+| - [[Xata]]        | [[Redis]]                                               | [[JanusGraph]] | [[Milvus]]                                                | [[ArangoDB]]                                                        |               |
+| - [[Supabase]]    | [[Aerospike]]                                           | [[Dgraph]]     | [[ChromaDB]]                                              | [[Fauna]]                                                           |               |
+| - [[EdgeDB]]      | [[Couchbase]]                                           | [[Graphwise]]  | [[Tooling/Software Development/Databases/Qdrant\|Qdrant]] | [[tooling/Software Development/Databases/SingleStore\|SingleStore]] |               |
+| - [[CockroachDB]] | [[DragonflyDB]]                                         |                |                                                           | [[TypeDB]]                                                          |               |
+|                   |                                                         |                |                                                           |                                                                     |               |
+| [[MySQL]]         |                                                         |                |                                                           |                                                                     |               |
+| - [[Vitess]]      |                                                         |                |                                                           |                                                                     |               |
+| - [[MariaDB]]     |                                                         |                |                                                           |                                                                     |               |
+| [[SQLite]]        |                                                         |                |                                                           |                                                                     |               |
 
 ## Multi-Model Databases
 

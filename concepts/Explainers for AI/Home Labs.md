@@ -86,7 +86,7 @@ A Home Lab is a personal computer setup designed to provide an immersive experie
 Building a Home Lab can help individuals get the most out of the era of AI by:
 
 1. **Providing hands-on experience** and geekery with AI development, training, and deployment.
-2. Utilizing [[concepts/Open Source Alternatives|Open Source Alternatives]] to [[Model Vendors]] who monetize their APIs by selling "tokens."
+2. Utilizing [[concepts/Open Source Alternatives|Open Source Alternatives]] to [[concepts/Explainers for AI/Model Vendors]] who monetize their APIs by selling "tokens."
 	1. Saving money and not worrying about the cost of model vendor APIs. 
 3. **Enabling customization** of hardware and software configurations to suit specific needs.
 4. **Fostering innovation** through experimentation and exploration of emerging technologies.

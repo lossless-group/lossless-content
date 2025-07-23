@@ -1,6 +1,6 @@
 ---
 url: null
-date_modified: 2025-06-08
+date_modified: 2025-07-23
 site_uuid: dbbec104-be64-47a6-8413-05079caad984
 date_created: 2025-04-06
 ---
@@ -50,5 +50,7 @@ https://youtu.be/EVsJ-qlEQp8?si=B7ZMMaExqe-_xla2
 https://youtu.be/8Zg85pKj988?si=_rN5WLXQIfyJ6wKw
 
 https://youtu.be/riyh_CIshTs?si=KOJdANl1jjipslYN 
+
+https://youtu.be/76K2r2UFeM4?si=f3kh5IiIO31hUSgi
 
 https://www.youtube.com/live/qPZSXtzMEEs?si=LWclH_9h7HxdPfXA

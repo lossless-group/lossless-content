@@ -1,14 +1,18 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2025-07-23
 site_uuid: f523037e-f522-466c-83e8-2af7793df711
 date_created: 2025-04-06
-aliases:
-  - Self-Host
+aliases: [Self-Host, Self-Hostable]
+tags: [Self-Hosting-Cloud]
 ---
 
-Including [[Coolify]], [[Tooling/Software Development/Cloud Infrastructure/Bolt.diy]], [[DeepSeek]], [[n8n]], [[Kestra]]
+Including [[Coolify]], [[Tooling/Software Development/Cloud Infrastructure/Bolt.diy|Bolt.diy]], [[DeepSeek]], [[n8n]], [[Kestra]]
 
 [[Railway]], [[DollarDeploy]]
+
+```yaml toolingGallery
+tag: Self-Hosting-Cloud
+```
 
 
 https://youtu.be/OpmMe0md0tA?si=Tq8KZ-BK7-3Tt75c

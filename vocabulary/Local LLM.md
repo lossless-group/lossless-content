@@ -1,12 +1,12 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2025-07-22
 site_uuid: cbb77b02-3f87-411e-90eb-f88da9824ef8
 date_created: 2025-04-06
-aliases:
-  - Local LLMs
+aliases: [Local LLMs]
 ---
 
-[[Tooling/AI-Toolkit/AI Interfaces/OLlama]]
+[[Tooling/AI-Toolkit/AI Interfaces/OLlama|OLlama]], [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/LM Studio|LM Studio]], [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/MSTY|MSTY]].  
+
 
 https://youtube.com/shorts/czdSVWT1u3M?si=cGeeXcqhn8xFLEf0
 
@@ -23,4 +23,4 @@ https://youtu.be/wW-Rj5MW2EU?si=WWpz3XDGNMDLz7CK
 
 https://youtu.be/wW-Rj5MW2EU?si=JxWwCYlLyRX0LQbd
 
-[[Large Language Models|LLMs]]
+[[Large Language Models|LLMs]], [[concepts/Explainers for AI/Model Vendors]]

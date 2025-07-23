@@ -8,16 +8,19 @@ favicon: 'https://www.deepseek.com/favicon.ico'
 jina_last_request: '2025-03-09T06:45:08.080Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-05-28T23:02:07.376Z'
-date_modified: 2025-05-29
+date_modified: 2025-07-22
 date_created: 2025-03-30
 og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_DeepSeek_og_screenshot.jpeg'
 og_image: 'https://chat.deepseek.com/deepseek-chat.jpeg'
 og_url: 'https://www.deepseek.com/'
 description: '深度求索（DeepSeek），成立于2023年，专注于研究世界领先的通用人工智能底层模型与技术，挑战人工智能前沿性难题。基于自研训练框架、自建智算集群和万卡算力等资源，深度求索团队仅用半年时间便已发布并开源多个百亿级参数大模型，如DeepSeek-LLM通用大语言模型、DeepSeek-Coder代码大模型，并在2024年1月率先开源国内首个MoE大模型（DeepSeek-MoE），各大模型在公开评测榜单及真实样本外的泛化效果均有超越同级别模型的出色表现。和 DeepSeek AI 对话，轻松接入 API。'
-tags:
-  - AI-Toolkit
-  - Model-Producers
+tags: [AI-Toolkit, Model-Producers]
 ---
+Models include:
+[[Tooling/AI-Toolkit/Models/r1|r1]]
+[[Tooling/AI-Toolkit/Models/Kimi]]
+
+
 
 One of the primary organizations creating [[AI Models]].
 <iframe 

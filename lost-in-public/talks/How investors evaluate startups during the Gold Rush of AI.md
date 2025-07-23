@@ -1,6 +1,6 @@
 ---
 date_created: 2025-07-20
-date_modified: 2025-07-22
+date_modified: 2025-07-23
 participants: ["Michael Staton", "Oz Silahtar"]
 google_maps_url: "https://maps.app.goo.gl/ks4bpfmxT3PqXC2b6"
 date_of_event: 2025-07-23
@@ -83,6 +83,8 @@ Organizations seeking to adopt AI will quickly find that it's not about adopting
 
 Model "creators" or "producers" or "vendors" are in the greatest dogfight in generations. The value will go to the "Vertical Wrappers" that nail a particular customer base because they power a specific use case. (Examples: [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Jasper|Jasper]], [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Granola|Granola]] )
 
+While models become commodity, the art of [[concepts/Explainers for AI/Fine Tuning|Fine Tuning]] can become very proprietary and value-add.  Yet it required a lot of [[Vocabulary/Retrieval-Augmented Generation|Retrieval-Augmented Generation]], and [[Vocabulary/In Context Learning|In Context Learning]].
+
 
 ### 5. Demand for Software Engineering will rise even faster
 
@@ -90,6 +92,7 @@ Model "creators" or "producers" or "vendors" are in the greatest dogfight in gen
 
 Context Engineers cannot be successful without the deep involvement of senior, philosopher Software Engineers who have very artful opinions on how to develop code, how to architect complex projects, how to manage hundreds or thousands of people contributing to codebases. Demand for real Software Engineers goes up not down in the future. 
 
+In addition, it's likely that most of the market will trend towards [[Vocabulary/Self-Hosting|Self-Hosting]], using [[Vocabulary/Open-Source Alternatives|Open-Source Alternatives]] as a way to save on costs of using AI Models. 
 
 ### 6. AI is not that Intelligent.  It's pretty stupid, actually. 
 
