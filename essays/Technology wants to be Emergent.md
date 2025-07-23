@@ -18,7 +18,7 @@ authors:
   - Michael Staton
 ---
 
-[[organizations/Y Combinator]], [[500startups]], [[organizations/Antler]], [[DevPost]]
+[[organizations/Y Combinator]], [[500 Global]], [[organizations/Antler]], [[DevPost]]
 
 [[Web Standards]]
 

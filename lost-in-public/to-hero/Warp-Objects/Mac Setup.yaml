@@ -1,6 +1,0 @@
----
-type: agent_mode
-name: Mac Setup
-query: Assuring consi
-description: For consistent setup across machine changes or clean starts
-arguments: []

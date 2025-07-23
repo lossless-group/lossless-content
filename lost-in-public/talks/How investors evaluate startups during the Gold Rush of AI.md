@@ -107,12 +107,37 @@ White Collar jobs that pay very well are the first to have to massively repositi
 ### 7. Sitting this out is not an option. 
 Everyone should be getting their hands dirty.  Even though AI is massively overhyped and its really just idiocracy, the future will go to those that have a coherent vision on what to do and why.  AI can generate good sounding strategies, but ultimately it will be humans who make the decisions, set priorities, create purpose, rally teams, etc. The only way to know how to do that for the new era is to go in and break your face on it.  
 
-# Preview of Related Content
+##  Related Content
 - [[essays/AI is first a Trojan Horse|AI is first a Trojan Horse]]
 - [[essays/Are Code Generators really the Death of SaaS|Are Code Generators really the Death of SaaS]]
 - [[essays/From Rags to Riches|From Rags to Riches]]
 - [[essays/On Data Gathering|On Data Gathering]]
 - [[essays/The AI Model Wars|The AI Model Wars]]
 - [[concepts/Explainers for Tooling/Vertical Wrappers|Vertical Wrappers]]
+
+# Reflections based on Audience Questions
+
+## The three primary stages of company building and their playbooks
+
+### 1. Finders to Founders
+Being a founder is a misnomer, in the beginning you are a finder.  You are searching for clarity.  According to [[Dave McClure]], a startup is an organization that is confused about its product, its customers, and its business model.  And a company is an organization that is confused about none of them. 
+
+#### Double Differentiation
+[[concepts/Double Differentiation|Double Differentiation]]
+[[Positioning]]
+
+
+
+
+
+
+### 2. From Iterating on the Product to Iterating on the Growth Engine
+
+### 3. Nailed it, Now Scale it. 
+
+[[Sources/Books/Platform Scale|Platform Scale]]
+[[Sources/Books/Blitzscaling|Blitzscaling]]
+# The Geography of Opportunity
+
 
 

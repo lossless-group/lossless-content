@@ -1,18 +1,49 @@
 ---
 tags: [Specifications]
 date_created: 2025-02-24
-date_modified: 2025-04-10
+date_modified: 2025-07-23
 ---
 
 ## Purpose
-The [[client-content/Laerdal/Projects/Laugment/04.1 - AI to Insight Specifications/RecordCollector]] is a [[Microfrontend Architecture|Microfrontend]] that gives users the ability to upload, import, or connect to data sources. 
+The [[client-content/Laerdal/Projects/Laugment/04.1 - AI to Insight Specifications/RecordCollector|RecordCollector]] is a [[Microfrontend Architecture|Microfrontend]] and [[Vocabulary/Microservices|Microservice]] that takes a data set and then makes it available as variables for Prompt Templates created in the [[client-content/Laerdal/Projects/Laugment/04.1 - AI to Insight Specifications/PromptManager|PromptManager]]
+
+gives users the ability to 
+1. upload, import, or connect to data sources, most easily imagined as a CRM connection, or a table CSV upload. 
+	1. For imports, creates human readable documentation that shows the structure of the data being imported, and allows the user to 
+		1. Rename field names
+		2. Write descriptions of fields for others to see.
+2. skim, preview, and get a sense of the data
+3. create "synthetic" properties by combining available fields/properties, (e.g. `First-Name + Last-Name = Full-Name` or `Street Address + City + Province + Postal Code = Full Address`). 
+4. run basic text transformation operations on all records. The most pressing of which is changing casing and spacing. 
+5. exposes this list of records via REST API to another service
+6. creates human-readable documentation on how to connect to the API, and how to call records and process the data. 
+
+In its first versions, it should be imagined as receiving (or collecting) a single table, collection, or list/array of records, all of which have the same or broadly overlapping fields. 
+
+The RecordCollector then 
+1. displays this list in a way that is obviously meaningful to the average user that has little interest in data models or nerdy object relational mapping. 
+2. gives the user an easily used snippet and example for API calls to pull these records, including iterate through them one by one. 
+3. allows the user to generate a link and PDF to hand this off to anyone that might need to pull these records. 
+
+
 ## Components
 ### Custom Components
+[[UploadReviewer]]
 [[RecordPropertiesTable]]
+[[RecordList]]
+[[RecordListItem]]
+[[CustomPropertiesCreator]]
+
 
 ### Shared Components
 [[SearchContainer]]
+[[ApiConnector]]
 [[FilterContainer]]
+[[ApiDocsGenerator]]
+[[ApiDocsShareLinkGenerator]]
+[[ApiDocsPdfGenerator]]
+
+
 [[client-content/Laerdal/Projects/Laugment/04.1 - AI to Insight Specifications/shared/ModalWrapper]]
 
 # RecordCollector Remote (Federated Microfrontend)

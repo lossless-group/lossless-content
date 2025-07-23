@@ -1,6 +1,12 @@
 ---
 date_created: 2025-03-19
-date_modified: 2025-03-19
+date_modified: 2025-07-23
+site_uuid: a4a26399-a06f-4bdd-b49a-a1e9df9f7411
+title: Up And Running With Docker
+slug: up-and-running-with-docker
+at_semantic_version: 0.0.0.1
+publish: true
+tags: [Container-Runtimes, Reproducible-Builds, Continuous-Deployment]
 ---
 ```bash
    sudo apt remove docker docker-engine docker.io containerd runc

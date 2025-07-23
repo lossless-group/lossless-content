@@ -1,9 +1,12 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-03-21
-tags:
-  - Text-Editors
-  - Workspace-Configurations
+date_modified: 2025-07-23
+tags: [Text-Editors, Workspace-Configurations, Terminal-Applications]
+publish: true
+site_uuid: f4a71b9f-8f52-4e4d-af6f-af4040f7b671
+title: Up And Running With Neovim
+slug: up-and-running-with-neovim
+at_semantic_version: 0.0.0.1
 ---
 
 ```bash

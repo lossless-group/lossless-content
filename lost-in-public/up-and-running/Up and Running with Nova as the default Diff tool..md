@@ -1,12 +1,14 @@
 ---
 date_created: 2025-03-08
-date_modified: 2025-03-20
-tags:
-  - Version-Control
-  - Continuous-Integration
-  - Desktop-App
-  - Text-Editors
+date_modified: 2025-07-23
+tags: [Version-Control, Continuous-Integration, Desktop-App, Text-Editors]
+site_uuid: 3f364d68-984f-4244-8895-742e1e2c5af7
+publish: true
+title: "Up And Running With Nova As The Default Diff Tool."
+slug: up-and-running-with-nova-as-the-default-diff-tool
+at_semantic_version: 0.0.0.1
 ---
+
 
 [[Tooling/Software Development/DevOps/Developer Experience/Nova|Nova]] is a beautiful [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editor]] if you're on a [[organizations/Apple|Apple]] machine, and you don't need all the functionality of a hardy, possibly bloated [[concepts/Explainers for Tooling/Text Editors or IDEs|IDE]].
 

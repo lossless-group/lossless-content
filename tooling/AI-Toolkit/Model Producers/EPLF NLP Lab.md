@@ -11,4 +11,4 @@ tags:
   - AI-Research-Labs
 ---
 `
-Makers of [[Meditron]]
+Makers of [[Tooling/AI-Toolkit/Model Producers/Meditron]]

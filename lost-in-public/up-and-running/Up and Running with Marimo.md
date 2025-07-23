@@ -1,6 +1,12 @@
 ---
 date_created: 2025-05-18
-date_modified: 2025-05-18
+date_modified: 2025-07-23
+site_uuid: f1448846-3835-40e2-87c3-18671703ada5
+publish: true
+title: Up And Running With Marimo
+slug: up-and-running-with-marimo
+at_semantic_version: 0.0.0.1
+tags: [Data-Analysis, Interactive-Notebooks]
 ---
 
 

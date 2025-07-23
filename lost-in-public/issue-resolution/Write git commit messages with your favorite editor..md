@@ -38,7 +38,7 @@ git config --global --edit
 ```
 
 Now, command's I am confident with:
-[[lost-in-public/to-hero/Warp-Objects/neovim]] will open instead of nano. You can edit your message, and then:
+[[Diary/Warp-Objects/neovim]] will open instead of nano. You can edit your message, and then:
 •  To save and exit: `:wq`
 •  To exit without saving: `:q!`
 •  To just save: `:w`

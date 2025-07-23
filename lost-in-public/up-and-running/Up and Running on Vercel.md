@@ -1,7 +1,14 @@
 ---
 date_created: 2025-05-26
-date_modified: 2025-05-26
+date_modified: 2025-07-23
+site_uuid: a34e8649-f1c9-42f3-a30a-f3f4672320e7
+title: Up And Running On Vercel
+at_semantic_version: 0.0.0.1
+slug: up-and-running-on-vercel
+publish: true
+tags: [Continuous-Deployment, Continuous-Integration]
 ---
+[[Tooling/Software Development/Cloud Infrastructure/Vercel|Vercel]]
 
 This section of the vercel.json configuration file sets up HTTP response headers for your Vercel deployment, specifically controlling how browsers and CDNs cache your website's content. Here's what each part does:
 

@@ -1,10 +1,14 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-07-19
+date_modified: 2025-07-23
+site_uuid: dc99c733-0a2e-4261-93a6-146650d3f664
+publish: true
+title: "Mastering Git"
+slug: mastering-git
+at_semantic_version: 0.0.1.1
 ---
 
 ```bash
-
 echo ".DS_Store" >> ~/.gitignore_global
 
 # Tell Git to use this file 

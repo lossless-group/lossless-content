@@ -157,7 +157,7 @@ site_uuid: fea4cf15-2ea9-4480-b46d-08f413ce497a
 >     - Provides real-time feedback on contrast ratios.
 > - **Best For:** Designers ensuring compliance with accessibility standards.
 > 
-> #### **12. [[Canva]] Color Palette Generator**
+> #### **12. [[Tooling/Creative/Canva]] Color Palette Generator**
 > 
 > - **What It Does:** A simple tool for generating palettes from images.
 > - **Unique Advantages:**

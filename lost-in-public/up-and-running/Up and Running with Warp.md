@@ -1,7 +1,12 @@
 ---
-tags: [Terminal-Assistants]
+tags: [Terminal-Assistants, Code-Generators]
 date_created: 2025-03-20
-date_modified: 2025-04-20
+date_modified: 2025-07-23
+site_uuid: 78995a23-7d1a-4841-a998-68f0aca69715
+publish: true
+title: Up And Running With Warp
+slug: up-and-running-with-warp
+at_semantic_version: 0.0.0.1
 ---
 If you can use a package manager, that will be better. 
 ```bash

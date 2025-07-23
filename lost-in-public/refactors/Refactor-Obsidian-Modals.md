@@ -6,6 +6,8 @@ site_uuid: 4a35545d-f528-4e86-8f00-dd94d0c18a58
 publish: true
 lede: "Creating modular maintainable code for Obsidian Plugin Modals"
 at_semantic_version: 0.0.0.1
+date_created: 2025-07-22
+date_modified: 2025-07-23
 ---
 
 Because the [[Tooling/Productivity/Obsidian|Obsidian]] API and developer docs have their own peculiarity, I thought I would document how to refactor a really long modal into importable sections:

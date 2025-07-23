@@ -11,16 +11,8 @@ status: Draft
 augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
 category: Web Development
 date_created: 2025-05-15
-date_modified: 2025-05-15
-tags: 
-  - CSS
-  - Design-Systems
-  - Web-Development
-  - Gradients
-  - Color-Management
-  - Transparency
-  - HSLA
-  - Variables
+date_modified: 2025-07-23
+tags: [CSS, Design-Systems, Web-Development, Gradients, Color-Management, Transparency, HSLA, Variables]
 authors:
   - Michael Staton
 image_prompt: "A modern, responsive website can be seen across a Large Monitor, Laptop, Tablet, and Mobile Phones."
