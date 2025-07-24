@@ -120,7 +120,7 @@ Everyone should be getting their hands dirty.  Even though AI is massively overh
 ## The three primary stages of company building and their playbooks
 
 ### 1. Finders to Founders
-Being a founder is a misnomer, in the beginning you are a finder.  You are searching for clarity.  According to [[Dave McClure]], a startup is an organization that is confused about its product, its customers, and its business model.  And a company is an organization that is confused about none of them. 
+Being a founder is a misnomer, in the beginning you are a finder.  You are searching for clarity.  According to [[Sources/People/Influencers/Dave McClure]], a startup is an organization that is confused about its product, its customers, and its business model.  And a company is an organization that is confused about none of them. 
 
 #### Double Differentiation
 [[concepts/Double Differentiation|Double Differentiation]]

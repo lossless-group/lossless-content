@@ -1,13 +1,11 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2025-07-24
 site_uuid: 05ddc181-6cf4-49d6-995a-7daa19683ca1
 date_created: 2025-04-06
-aliases:
-  - Microfrontends
-  - Microfrontend
+aliases: [Microfrontends, Microfrontend]
 ---
 
-[[Module Federation]]
+[[Vocabulary/Module Federation]]
 
 https://youtu.be/lKKsjpH09dU?si=O6u5c4mVf3Ns74qs
 

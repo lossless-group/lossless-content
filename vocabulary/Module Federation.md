@@ -12,7 +12,7 @@ https://youtu.be/njXeMeAu4Sg?si=S4j65ULgH9iYwJsf
 
 
 https://youtu.be/0WIFW3s2fDM?si=oslq0CCW1rR8SVIA
-> [!NOTE] AI Explains [[Module Federation]]
+> [!NOTE] AI Explains [[Vocabulary/Module Federation]]
 > ### **What is Module Federation?**
 > 
 > **Module Federation** is a concept in modern web development that enables multiple JavaScript applications (or "modules") to share code and resources dynamically at runtime. It was introduced in **Webpack 5** as a feature to facilitate the sharing of modules between separate, independently deployed applications.

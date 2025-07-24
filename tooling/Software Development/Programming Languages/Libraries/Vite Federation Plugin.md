@@ -56,4 +56,4 @@ tags:
 
 
 [[Vite]]
-[[Module Federation]]
+[[Vocabulary/Module Federation]]

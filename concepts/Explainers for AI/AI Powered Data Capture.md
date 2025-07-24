@@ -1,18 +1,27 @@
 ---
 site_uuid: 800eb7d5-144f-4b76-9c39-f1d08bab549c
-date_modified: 2025-04-15
+date_modified: 2025-07-24
 date_created: 2025-03-30
 tags: [AI-Toolkit]
 ---
-
 ### AI Powered Web Crawlers
-Tools like [[Hexomatic]], [[Spider]], [[Jina.ai]], [[Firecrawl]]
+See [[AI Web Crawlers]]
+
+Tools like: 
+``` yaml toolingGallery
+[[Hexomatic]] 
+[[Spider]]
+[[Jina.ai]] 
+[[Firecrawl]]
 [[Crawl4 AI]]
 [[Ahrefs AI]]
 [[Exa.ai]]
 [[Browserbase]]
 [[browserless]]
 [[Puppeteer]]
+```
+
+
 
 https://youtu.be/mK_h1OZHzHE?si=4dPfGigzUZFO6Wtw
 ### AI Powered Transcription Services

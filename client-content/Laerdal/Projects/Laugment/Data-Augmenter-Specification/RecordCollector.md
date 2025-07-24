@@ -1,5 +1,5 @@
 ---
-tags: [Specifications]
+tags: [Specifications, Data-Capture]
 date_created: 2025-02-24
 date_modified: 2025-07-24
 site_uuid: b9ad496b-0446-4e06-a79f-d452ddabb2ce
@@ -14,7 +14,7 @@ The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/Reco
 ## Required Features
 
 ### 1) Connection to Monorepo through MainContainerUI
-The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/MainContainerUI|MainContainerUI]] is the main set of windows enabling a user-interface as part of the [[concepts/Data Augmentation Workflow|Data Augmentation Workflow]] 
+The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/MainContainerUI|MainContainerUI]] is the main set of windows enabling a user-interface as part of the [[concepts/Data Augmentation Workflow|Data Augmentation Workflow]]. 
 
 
 ### 2) User Stories
@@ -41,13 +41,16 @@ The RecordCollector then
 
 ## Components
 ### Shared Components
-[[UploadButton]]
-[[UploadReviewer]]
+[[SharedUploadButton]]
+[[SharedUploadProgress]]
+[[SharedUploadReviewer]]
+[[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/shared-ui-elements/RecordListItem|RecordListItem]]
 ### Custom Components
 
 [[RecordPropertiesTable]]
-[[RecordList]]
-[[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/shared-ui-elements/SharedRecordListItem]]
+[[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/shared-ui-elements/SharedListColumn]]
+
+
 [[CustomPropertiesCreator]]
 
 

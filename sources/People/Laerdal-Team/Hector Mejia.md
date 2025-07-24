@@ -13,7 +13,7 @@ Dovetail doesn't pull in from [[Teams]]
 
 Could help Sales teams on [[Design Interviews]] 
 
-[[Design Research]] 
+[[concepts/Design Research]] 
 
 Creating a dashboard on top of [[organizations/Dovetail]] that shows the "comprehensiveness" of the data.  
 

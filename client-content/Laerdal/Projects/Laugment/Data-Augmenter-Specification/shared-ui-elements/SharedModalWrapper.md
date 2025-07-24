@@ -7,3 +7,5 @@ title: SharedModalWrapper
 slug: shared_modal-wrapper
 at_semantic_version: 0.0.0.1
 ---
+# Purpose
+The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/shared-ui-elements/SharedModalWrapper|SharedModalWrapper]] creates consistency in the opening and closing of modals.  Modals will be launched from the different 
