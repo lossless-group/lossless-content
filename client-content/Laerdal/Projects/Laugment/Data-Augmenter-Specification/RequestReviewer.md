@@ -10,7 +10,7 @@ at_semantic_version: 0.0.0.1
 ---
 
 ## Purpose
-The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/RequestReviewer|RequestReviewer]] is a [[Microfrontend Architecture|Microfrontend]] that gives users the ability to review the selected prompt from the [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/PromptManager|PromptManager]] filled with variables from the [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/RecordCollector|RecordCollector]]
+The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/RequestReviewer|RequestReviewer]] is a [[Microfrontend Architecture|Microfrontend]] that gives users the ability to review the selected prompt from the [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/PromptTemplateManager|PromptTemplateManager]] filled with variables from the [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/RecordCollector|RecordCollector]]
 
 # Shared Components
 [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/shared-ui-elements/SharedModalWrapper|SharedModalWrapper]]

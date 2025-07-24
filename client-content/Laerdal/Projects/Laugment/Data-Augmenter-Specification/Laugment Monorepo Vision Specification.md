@@ -6,11 +6,13 @@ publish: true
 title: Laugment Monorepo
 slug: laugment-monorepo-vision
 at_semantic_version: 0.0.0.1
+aliases: [Laugment Monorepo, Laugment, Data Augmenter]
 ---
+How to share API Keys and other secure info.
 
 # Vision
 
-To use [[AI Web Research]], [[Vocabulary/Large Language Models|Large Language Models]], and [[concepts/Explainers for AI/AI Powered Data Capture|AI Powered Data Capture]] to augment basic data sets.  These augmentations will need a workflow that involves a set of tools, each with their own purpose as part of the multi-step workflow.  
+To use [[concepts/Explainers for AI/AI Web Research]], [[Vocabulary/Large Language Models|Large Language Models]], and [[concepts/Explainers for AI/AI Powered Data Capture|AI Powered Data Capture]] to augment basic data sets.  These augmentations will need a workflow that involves a set of tools, each with their own purpose as part of the multi-step workflow.  
 
 ## Microservices and Microfrontends Architecture
 
@@ -33,7 +35,7 @@ TypeScript, WebSockets or REST APIs for communication with microfrontend and oth
 # Version 1
 1. [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/MainContainerUI|MainContainerUI]]
 	1. [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/RecordCollector|RecordCollector]]
-	2. [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/PromptManager|PromptManager]]
+	2. [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/PromptTemplateManager|PromptTemplateManager]]
 	3. [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/RequestReviewer|RequestReviewer]]
 	4. [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/ResponseReviewer|ResponseReviewer]]
 	5. [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/HighlightCollector|HighlightCollector]]

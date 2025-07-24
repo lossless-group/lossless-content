@@ -9,7 +9,7 @@ slug: record-collector
 at_semantic_version: 0.0.1.1
 ---
 ## Purpose
-The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/RecordCollector|RecordCollector]] is a [[Microfrontend Architecture|Microfrontend]] and [[Vocabulary/Microservices|Microservice]] that takes a data set and then makes it available as variables for Prompt Templates created in the [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/PromptManager|PromptManager]]
+The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/RecordCollector|RecordCollector]] is a [[Microfrontend Architecture|Microfrontend]] and [[Vocabulary/Microservices|Microservice]] that takes a data set and then makes it available as variables for Prompt Templates created in the [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/PromptTemplateManager|PromptTemplateManager]]
 
 ## Required Features
 

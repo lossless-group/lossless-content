@@ -11,15 +11,12 @@ jina_last_request: '2025-03-09T06:45:19.022Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-05-29T13:34:09.352Z'
 date_created: 2025-03-04
-date_modified: 2025-05-29
+date_modified: 2025-07-24
 og_image: 'https://github.githubassets.com/assets/home24-5939032587c9.jpg'
 og_url: 'https://github.com/'
 title: 'GitHub · Build and ship software on a single, collaborative platform'
 description: "Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity."
-tags:
-  - Developer-Experience
-  - Software-Development
-  - DevOps
+tags: [Developer-Experience, Software-Development, DevOps]
 ---
 
 [[organizations/Microsoft]] acquired [[GitHub]].

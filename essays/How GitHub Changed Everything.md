@@ -1,6 +1,6 @@
 ---
 date_created: 2024-08-15
-date_modified: 2025-06-05
+date_modified: 2025-07-24
 site_uuid: c454fd11-77fd-4b20-aeab-0836bcd69377
 title: How GitHub Changed Everything
 lede: "GitHub transformed how developers collaborate, making open source and distributed teamwork the global default."
@@ -31,6 +31,11 @@ You can find little libraries that can speed you up considerably, such as [Swapy
 The social network and community features of [[GitHub]] enable new [[Decision Heuristics]] in evaluating potential software solutions in the adoption process. [^2] 
 
 [[GitHub]] has become the mainstay in the development and adoption of [[Open Source]] software. Every year, they publish the premier industry report, the [Octoverse](https://github.blog/news-insights/octoverse/), which uses data on the [[GitHub]] platform. 
+
+
+![Image 5](https://static.seekingalpha.com/uploads/2022/5/51760760_16538565907286_rId7.jpg)
+*Source: https://seekingalpha.com/article/4515335-gitlab-too-much-competition-little-differentiation-elevated-valuation-sell-for-better-entry-point*
+
 
 Taking a step back, the Enlightenment and Scientific Revolution developed a complex, emergent system of codifying and sharing knowledge: the endgame of academic work became the publication of an article to a peer reviewed journal. For those now doing their work by using programming languages to do computational work, they actually just use [[GitHub]] (which probably doesn't affect hiring and tenure at academic institutions yet, but...). Take for example this code base for analyzing DNA -- [Dart-Eval: A Comprehensive DNA Language Model Evaluation Benchmark on Regulatory DNA](https://github.com/kundajelab/DART-Eval).
 ![[Screenshot 2025-02-02 at 12.49.07 PM_Dart-Eval--GitHub.png]]
