@@ -1,15 +1,27 @@
 ---
-tags:
-  - Specifications
+tags: [Specifications]
 date_created: 2025-02-24
-date_modified: 2025-03-21
+date_modified: 2025-07-24
+site_uuid: bda6e819-a071-4622-84d6-c2967c187169
+publish: true
+title: PromptReviewer
+slug: prompt-reviewer
+at_semantic_version: 0.0.0.1
 ---
 
 ## Purpose
-The [[client-content/Laerdal/Projects/Laugment/04.1 - AI to Insight Specifications/PromptReviewer]] is a [[Microfrontend Architecture|Microfrontend]] that gives users the ability to review the selected prompt from the [[client-content/Laerdal/Projects/Laugment/04.1 - AI to Insight Specifications/PromptManager]] to assure 
+The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/RequestReviewer|RequestReviewer]] is a [[Microfrontend Architecture|Microfrontend]] that gives users the ability to review the selected prompt from the [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/PromptManager|PromptManager]] filled with variables from the [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/RecordCollector|RecordCollector]]
+
+# Shared Components
+[[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/shared-ui-elements/SharedModalWrapper|SharedModalWrapper]]
+
 
 ## Custom Components
 [[mdxRenderer]]
+[[yamlEditor]]
+[[variableManager]]
+
+
 
 # Prompt: Creating an AI API Connector Component
 

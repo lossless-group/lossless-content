@@ -1,22 +1,36 @@
 ---
 tags: [Specifications]
 date_created: 2025-02-24
-date_modified: 2025-07-23
+date_modified: 2025-07-24
+site_uuid: b9ad496b-0446-4e06-a79f-d452ddabb2ce
+publish: true
+title: RecordCollector
+slug: record-collector
+at_semantic_version: 0.0.1.1
 ---
-
 ## Purpose
-The [[client-content/Laerdal/Projects/Laugment/04.1 - AI to Insight Specifications/RecordCollector|RecordCollector]] is a [[Microfrontend Architecture|Microfrontend]] and [[Vocabulary/Microservices|Microservice]] that takes a data set and then makes it available as variables for Prompt Templates created in the [[client-content/Laerdal/Projects/Laugment/04.1 - AI to Insight Specifications/PromptManager|PromptManager]]
+The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/RecordCollector|RecordCollector]] is a [[Microfrontend Architecture|Microfrontend]] and [[Vocabulary/Microservices|Microservice]] that takes a data set and then makes it available as variables for Prompt Templates created in the [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/PromptManager|PromptManager]]
 
-gives users the ability to 
+## Required Features
+
+### 1) Connection to Monorepo through MainContainerUI
+The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/MainContainerUI|MainContainerUI]] is the main set of windows enabling a user-interface as part of the [[concepts/Data Augmentation Workflow|Data Augmentation Workflow]] 
+
+
+### 2) User Stories
+The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/RecordCollector|RecordCollector]] gives users the ability to: 
 1. upload, import, or connect to data sources, most easily imagined as a CRM connection, or a table CSV upload. 
 	1. For imports, creates human readable documentation that shows the structure of the data being imported, and allows the user to 
 		1. Rename field names
 		2. Write descriptions of fields for others to see.
 2. skim, preview, and get a sense of the data
-3. create "synthetic" properties by combining available fields/properties, (e.g. `First-Name + Last-Name = Full-Name` or `Street Address + City + Province + Postal Code = Full Address`). 
-4. run basic text transformation operations on all records. The most pressing of which is changing casing and spacing. 
+3. create "synthetic" properties by combining available fields/properties, (e.g. `First-Name + Last-Name = Full-Name` or `Street Address + City + Province + Postal Code = Full Address` using _the same string syntax operations_ found in [[concepts/Explainers for Tooling/Database Apps|Database Apps]] such as [[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/NocoDB|NocoDB]])
+4. run basic text transformation operations on all records. The most pressing of which are
+	1. changing casing to be uniform
+	2. changing spacing to be uniform
 5. exposes this list of records via REST API to another service
 6. creates human-readable documentation on how to connect to the API, and how to call records and process the data. 
+7. push updated records back into their source API, or to another system via an API Connection
 
 In its first versions, it should be imagined as receiving (or collecting) a single table, collection, or list/array of records, all of which have the same or broadly overlapping fields. 
 
@@ -25,13 +39,15 @@ The RecordCollector then
 2. gives the user an easily used snippet and example for API calls to pull these records, including iterate through them one by one. 
 3. allows the user to generate a link and PDF to hand this off to anyone that might need to pull these records. 
 
-
 ## Components
-### Custom Components
+### Shared Components
+[[UploadButton]]
 [[UploadReviewer]]
+### Custom Components
+
 [[RecordPropertiesTable]]
 [[RecordList]]
-[[RecordListItem]]
+[[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/shared-ui-elements/SharedRecordListItem]]
 [[CustomPropertiesCreator]]
 
 
@@ -44,7 +60,7 @@ The RecordCollector then
 [[ApiDocsPdfGenerator]]
 
 
-[[client-content/Laerdal/Projects/Laugment/04.1 - AI to Insight Specifications/shared/ModalWrapper]]
+[[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/shared-ui-elements/SharedModalWrapper]]
 
 # RecordCollector Remote (Federated Microfrontend)
 

@@ -1,11 +1,11 @@
 ---
 tags: [Specifications]
 date_created: 2025-02-24
-date_modified: 2025-06-16
+date_modified: 2025-07-24
 ---
 
 ## Purpose
-The [[client-content/Laerdal/Projects/Laugment/04.1 - AI to Insight Specifications/MainContainerUI]] dynamically loads [[Microfrontend Architecture|Microfrontends]] in a columnar layout. Each column functions as a Window, and the root directory uses a [[Module Federation]] library to load the Microfrontend "Apps" within these Windows. 
+The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/MainContainerUI|MainContainerUI]] dynamically loads [[Microfrontend Architecture|Microfrontends]] in a columnar layout. Each column functions as a Window, and the root directory uses a [[Module Federation]] library to load the Microfrontend "Apps" within these Windows. 
 
 ## Components
 [[AppWindow]]

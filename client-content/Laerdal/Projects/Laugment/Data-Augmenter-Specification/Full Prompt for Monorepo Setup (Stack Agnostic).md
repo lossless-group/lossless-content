@@ -1,8 +1,7 @@
 ---
-tags:
-  - Specifications
+tags: [Specifications]
 date_created: 2025-02-24
-date_modified: 2025-03-21
+date_modified: 2025-07-24
 ---
 Similar to [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Adaline AI|Adaline AI]]
 
