@@ -12,6 +12,6 @@ og_last_fetch: '2025-05-08T12:17:46.597Z'
 tags: [Virtual-Machines, Container-Runtimes, Container-Management-Tools, Continuous-Deployment, DevOps]
 ---
 
-Streamlines the use of [[Tooling/Software Development/DevOps/ContainerD|ContainerD]], or broadly speaking deploying [[Vocabulary/Containers|Containers]] and using [[Container Orchestration]] tools. 
+Streamlines the use of [[Tooling/Software Development/DevOps/ContainerD|ContainerD]], or broadly speaking deploying [[Vocabulary/Containers|Containers]] and using [[Vocabulary/Container Orchestration]] tools. 
 
 ![[Vocabulary/Graphics Processing Units|GPU Architecture]]

@@ -13,7 +13,7 @@ aliases: [Laugment Monorepo, Laugment, Data Augmenter]
 
 # Vision
 
-To use [[concepts/Explainers for AI/AI Web Research]], [[Vocabulary/Large Language Models|Large Language Models]], and [[concepts/Explainers for AI/AI Powered Data Capture|AI Powered Data Capture]] to augment basic data sets.  These augmentations will need a workflow that involves a set of tools, each with their own purpose as part of the multi-step workflow.  
+To use [[concepts/Explainers for AI/AI Web Research|AI Web Research]] , [[Vocabulary/Large Language Models|Large Language Models]], and [[concepts/Explainers for AI/AI Powered Data Capture|AI Powered Data Capture]] to augment basic data sets.  These augmentations will need a workflow that involves a set of tools, each with their own purpose as part of the multi-step workflow.  
 
 ## Microservices and Microfrontends Architecture
 
@@ -34,7 +34,7 @@ TypeScript, WebSockets or REST APIs for communication with microfrontend and oth
         - Implement communication patterns (e.g., using Events or Remote Procedure Calls) to facilitate interaction between federation providers.
 
 # Version 1
-1. [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/MainContainerUI|MainContainerUI]]
+1. [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/shell-ui/MainContainerUI|MainContainerUI]]
 	1. [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/RecordCollector|RecordCollector]]
 	2. [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/PromptTemplateManager|PromptTemplateManager]]
 	3. [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/RequestReviewer|RequestReviewer]]
@@ -42,7 +42,7 @@ TypeScript, WebSockets or REST APIs for communication with microfrontend and oth
 	5. [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/HighlightCollector|HighlightCollector]]
 	6. [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/InsightManager|InsightManager]]
 
-The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/MainContainerUI|MainContainerUI]] is a [[Vocabulary/Front-End|Front-End]] that enables users to work through various [[Vocabulary/Microfrontend Architecture|Microfrontends]]  as part of a [[concepts/Data Augmentation Workflow|Data Augmentation Workflow]].
+The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/shell-ui/MainContainerUI|MainContainerUI]] is a [[Vocabulary/Front-End|Front-End]] that enables users to work through various [[Vocabulary/Microfrontend Architecture|Microfrontends]]  as part of a [[concepts/Data Augmentation Workflow|Data Augmentation Workflow]].
 
 # Open Questions
 How to share API Keys and other secure info.

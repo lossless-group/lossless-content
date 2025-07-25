@@ -14,7 +14,7 @@ The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/Reco
 ## Required Features
 
 ### 1) Connection to Monorepo through MainContainerUI
-The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/MainContainerUI|MainContainerUI]] is the main set of windows enabling a user-interface as part of the [[concepts/Data Augmentation Workflow|Data Augmentation Workflow]]. 
+The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/shell-ui/MainContainerUI|MainContainerUI]] is the main set of windows enabling a user-interface as part of the [[concepts/Data Augmentation Workflow|Data Augmentation Workflow]]. 
 
 
 ### 2) User Stories

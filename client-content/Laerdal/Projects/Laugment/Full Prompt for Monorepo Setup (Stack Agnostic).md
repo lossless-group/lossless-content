@@ -1,14 +1,20 @@
 ---
 tags: [Specifications]
 date_created: 2025-02-24
-date_modified: 2025-07-24
+date_modified: 2025-07-25
+site_uuid: cd6691a8-320b-45f1-9d69-8e3e6e1093a1
+title: Full Prompt For Monorepo Setup (Stack Agnostic)
+slug: full-prompt-for-monorepo-setup
+at_semantic_version: 0.0.1.0
+authors:
+  - Michael Staton
 ---
 Similar to [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Adaline AI|Adaline AI]]
 
 [[Vocabulary/Loosely Coupled Monolith|Loosely Coupled Monolith]]
 
 
-Let's build a monorepo called "Data Augmenter."
+Let's build a monorepo called "Data Augmenter" or "Augment-It"
 
 ## Situation
 Situation: I am a designer and developer needing to use AI Models to augment data that my company has on customers, and to make use of that data in various workflows of different teams. 

@@ -5,7 +5,7 @@ site_uuid: 507a8818-d11a-43c4-85e0-1e4b1acf0c3d
 date_created: 2025-04-05
 aliases: [Retrieval-Augmented Generation, RAG]
 ---
-[[Vocabulary/Retrieval-Augmented Generation|Retrieval-Augmented Generation]] is a technique using prior data and/or content, ingesting that data into a specialized [[concepts/Explainers for Tooling/Databases|Database]], most likely a [[Vocabulary/Vector Databases|Vector Databases]] or a [[Multi-Modal Databases]], and then feeding it into an [[Vocabulary/AI Models|AI Model]], such as an [[Vocabulary/Large Language Models|LLM]].  [[Vocabulary/Retrieval-Augmented Generation|RAG]] promises to solve for the issue that most people and organizations are trying to work with AI in a way that is specific.
+[[Vocabulary/Retrieval-Augmented Generation|Retrieval-Augmented Generation]] is a technique using prior data and/or content, ingesting that data into a specialized [[concepts/Explainers for Tooling/Databases|Database]], most likely a [[Vocabulary/Vector Databases|Vector Databases]] or a [[Vocabulary/Multi-Modal Databases]], and then feeding it into an [[Vocabulary/AI Models|AI Model]], such as an [[Vocabulary/Large Language Models|LLM]].  [[Vocabulary/Retrieval-Augmented Generation|RAG]] promises to solve for the issue that most people and organizations are trying to work with AI in a way that is specific.
 
 
 [Building Production-Ready RAG Applications: Jerry Liu](https://youtu.be/TRjq7t2Ms5I?si=k7m-SZR8UKG8ExaM)

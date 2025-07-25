@@ -86,7 +86,7 @@ Container system: [[Tooling/Software Development/Developer Experience/DevOps/Doc
 Pulls data from: [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/RecordCollector|RecordCollector]]
 Makes prompts available for [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/RequestReviewer|RequestReviewer]]
 
-Window to [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/PromptTemplateManager|PromptTemplateManager]] available in [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/MainContainerUI|MainContainerUI]]
+Window to [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/PromptTemplateManager|PromptTemplateManager]] available in [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/shell-ui/MainContainerUI|MainContainerUI]]
 
 
 ```mermaid

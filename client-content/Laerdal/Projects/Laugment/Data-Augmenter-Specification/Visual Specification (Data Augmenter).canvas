@@ -9,7 +9,7 @@
 		{"id":"94b233468da136ef","type":"group","x":2000,"y":-49,"width":440,"height":399,"label":"Target APIs"},
 		{"id":"5b113c1075955dbc","type":"group","x":-840,"y":-11,"width":472,"height":361,"label":"Source Data"},
 		{"id":"6e01eec504d98a90","type":"file","file":"05 - Essays--Drafts/Can Laerdal Know what Laerdal Has Known?.md","x":860,"y":-1614,"width":340,"height":303},
-		{"id":"7efdbbe0c4742315","type":"file","file":"client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/MainContainerUI.md","x":-800,"y":-1035,"width":297,"height":50},
+		{"id":"7efdbbe0c4742315","type":"file","file":"client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/shell-ui/MainContainerUI.md","x":-800,"y":-1035,"width":297,"height":50},
 		{"id":"59e896bc8da20699","type":"text","text":"Apps (Augmentation Flow)\n\n1. [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/RecordCollector]]\n2. [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/PromptTemplateManager]]\n3. [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/RequestReviewer]]\n4. [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/ResponseReviewer]]\n5. [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/HighlightCollector]]\n6. [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/InsightManager]]","x":-400,"y":-1115,"width":250,"height":300},
 		{"id":"51d15d2ce16a48d8","type":"file","file":"Visuals/Trademarks/trademark__Boomi--Lightest.svg","x":161,"y":-1200,"width":230,"height":66},
 		{"id":"be1452e5e20e8f67","type":"file","file":"Visuals/Screenshots/jon-laerdal-just-headshot.png","x":360,"y":-1600,"width":399,"height":289},
@@ -31,7 +31,7 @@
 		{"id":"d3d1da37b5833e97","type":"file","file":"Visuals/trademark__Salesforce 1.svg","x":1495,"y":-1026,"width":210,"height":146},
 		{"id":"b89e6e1ab22db2c0","type":"file","file":"Visuals/Trademarks/trademark__Productboard--Lighter.svg","x":1400,"y":-1239,"width":389,"height":48},
 		{"id":"c55f4597cc383849","type":"file","file":"Vocabulary/Large Language Models.md","x":680,"y":-1175,"width":260,"height":346},
-		{"id":"0c61d3b228ab02b1","type":"file","file":"client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/MainContainerUI.md","x":560,"y":-680,"width":600,"height":275},
+		{"id":"0c61d3b228ab02b1","type":"file","file":"client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/shell-ui/MainContainerUI.md","x":560,"y":-680,"width":600,"height":275},
 		{"id":"7dd4f305710dd16d","type":"file","file":"Visuals/Trademarks/trademark__Salesforce.svg","x":40,"y":-1100,"width":200,"height":139},
 		{"id":"795933f3ea315016","type":"file","file":"Visuals/Trademarks/trademark__Databricks--Lightest.svg","x":100,"y":-940,"width":400,"height":61}
 	],
