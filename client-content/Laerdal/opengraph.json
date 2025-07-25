@@ -1,6 +1,12 @@
 {
    "title": "Welcome to Laerdal's Portal",
    "description": "Explore AI tooling, vocabulary, and concepts designed for Laerdal.",
-   "image": "https://www.news-medical.net/image-handler/picture/2016/3/Laerdal2.jpg"
- }
+   "image": "https://www.news-medical.net/image-handler/picture/2016/3/Laerdal2.jpg",
+   "heroTitle": "Welcome, Laerdal",
+   "heroSubtitle": "It's time to enter the era of AI",
+   "heroDescription": "With the right tools, mindset, processes, and culture, any organization can upskill everyone for the era of AI",
+   "heroImage": "https://www.news-medical.net/image-handler/picture/2016/3/Laerdal2.jpg",
+   "ctaText": "Explore Tools",
+   "ctaUrl": "/toolkit"
+}
  
