@@ -39,7 +39,7 @@ graph TD
 
 ## Context in Monorepo
 
-The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/PromptTemplateManager|PromptTemplateManager]] will be the second available module in the set and sequence of [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/Data Augmentation Microfrontends|Data Augmentation Microfrontends]]. The goal of the [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/Laugment Monorepo Vision Specification|Laugment Monorepo]] is to transform and augment a set of records by using various AI services.  For instance, [[concepts/Explainers for AI/AI-Powered Search|AI-Powered Search]] models, [[concepts/Explainers for AI/AI Powered Data Capture|AI Powered Data Capture]] techniques, such as [[AI Web Crawlers]] and [[Vocabulary/Web Scraping|Web Scrapers]] through their respective APIs. By properly integrating the [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/PromptTemplateManager|PromptTemplateManager]] with the [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/RecordCollector|RecordCollector]], we better ensure prompts well leverage AI capabilities and augment specific customer data effectively.
+The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/PromptTemplateManager|PromptTemplateManager]] will be the second available module in the set and sequence of [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/Data Augmentation Microfrontends|Data Augmentation Microfrontends]]. The goal of the [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/Augment-It Monorepo Vision Specification|Laugment Monorepo]] is to transform and augment a set of records by using various AI services.  For instance, [[concepts/Explainers for AI/AI-Powered Search|AI-Powered Search]] models, [[concepts/Explainers for AI/AI Powered Data Capture|AI Powered Data Capture]] techniques, such as [[AI Web Crawlers]] and [[Vocabulary/Web Scraping|Web Scrapers]] through their respective APIs. By properly integrating the [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/PromptTemplateManager|PromptTemplateManager]] with the [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/RecordCollector|RecordCollector]], we better ensure prompts well leverage AI capabilities and augment specific customer data effectively.
 
 ## Functionality of PromptManager
 
@@ -123,8 +123,8 @@ sequenceDiagram
 
 ### Shared Components
 [[SharedSearchContainer]]
-[[SharedFilterContainer]]
-[[SharedFilterDropdown]]
+[[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/shared-ui-elements/SharedFilterContainer]]
+[[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/shared-ui-elements/SharedFilterDropdown]]
 [[SharedPromptEditor]]
 	[[SharedMdxEditor]]
 	[[SharedJsonEditor]]
@@ -138,7 +138,7 @@ How will we handle saving?
 
 Attribution of prompts to User Accounts.  Filter prompts by team.  Limit prompts to being visible and usable by team, lists of other users, and the organization (verified by email).
 
-[[Source Control Management]], [[concepts/Version Control|Version Control]]
+[[concepts/Version Control|Source Control Management]], [[concepts/Version Control|Version Control]]
 
 **Error Collection:** Collects errors associated with a specific prompt. 
 

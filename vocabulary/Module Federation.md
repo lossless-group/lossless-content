@@ -1,10 +1,11 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2025-07-24
 site_uuid: 079858df-0339-4d65-8cdd-d37f12e51d74
 date_created: 2025-04-06
 ---
 
 [[Vite Federation Plugin]]
+[Module Federation](https://rsbuild.rs/guide/advanced/module-federation) in [[Tooling/Software Development/Developer Experience/DevTools/RS Build|RS Build]] is apparently better than in [[Tooling/Software Development/Developer Experience/DevTools/Vite|Vite]] or [[Tooling/Software Development/Programming Languages/Libraries/Webpack|Webpack]]
 
 https://youtu.be/aFhysuTUoQY?si=tJkHWW4PmlKF7GZM
 

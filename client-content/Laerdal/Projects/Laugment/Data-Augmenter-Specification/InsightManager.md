@@ -1,5 +1,5 @@
 ---
-tags: [Specifications]
+tags: [Specifications, Microfrontends]
 date_created: 2025-02-25
 date_modified: 2025-07-24
 title: InsightManager

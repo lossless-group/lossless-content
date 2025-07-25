@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-07-23
+date_modified: 2025-07-24
 site_uuid: dc99c733-0a2e-4261-93a6-146650d3f664
 publish: true
 title: "Mastering Git"
@@ -197,4 +197,9 @@ Then to remove the cache
 ```zsh
 git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch -r visuals/Screenshots/' --
 prune-empty --tag-name-filter cat -- --all
+```
+
+# Starting from a Clone
+```zsh
+git remote rename origin upstream
 ```

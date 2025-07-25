@@ -1,7 +1,12 @@
 ---
-tags: [Specifications]
+tags: [Specifications, Microfrontends]
 date_created: 2025-02-25
 date_modified: 2025-07-24
+site_uuid: 1741bd7b-0116-47ed-97f0-01b59d7c2dc0
+publish: true
+title: HighlightCollector
+slug: highlight-collector
+at_semantic_version: 0.0.0.1
 ---
 [[specs/Build-Script-Spec|Build-Script-Spec]]
 

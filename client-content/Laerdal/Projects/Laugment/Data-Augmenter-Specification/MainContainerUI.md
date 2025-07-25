@@ -1,11 +1,21 @@
 ---
-tags: [Specifications]
-date_created: 2025-02-24
-date_modified: 2025-07-24
+tags: [Specifications, Microfrontends]
+date_created: 2025-03-02
+date_modified: 2025-07-25
+site_uuid: d1a829ee-a6ae-496d-bcd5-252a1000600e
+publish: true
+title: MainContainerUI
+slug: main-container-ui
+at_semantic_version: 0.0.0.1
+lede: The `shell` that creates the windows for other apps to be loaded into.
 ---
 
 ## Purpose
 The [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/MainContainerUI|MainContainerUI]] dynamically loads [[Microfrontend Architecture|Microfrontends]] in a columnar layout. Each column functions as a Window, and the root directory uses a [[Vocabulary/Module Federation]] library to load the Microfrontend "Apps" within these Windows. 
+
+###### Barebones Layout
+As of February 21st, 2025
+![MainContainerUI as of February 21st, 2025](https://i.imgur.com/v4QVUkM.gif)
 
 ## Components
 [[AppWindow]]
