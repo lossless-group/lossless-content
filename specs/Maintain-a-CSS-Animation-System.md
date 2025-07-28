@@ -25,6 +25,19 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-
 
 This document outlines the standardized animation and transition system implemented across our component library. The system provides a consistent approach to animations, transitions, and interactive states.
 
+## Interactive Presentation
+
+Here's an interactive slide presentation that covers CSS animation systems in detail:
+
+```slides
+theme: black
+transition: slide
+controls: true
+progress: true
+
+- [[slides/css-animation-systems.md|CSS Animation Systems]]
+```
+
 ## Table of Contents
 
 1. [Overview](#overview)
@@ -325,6 +338,8 @@ To migrate existing components to the new animation system:
   <!-- Button content -->
 </button>
 ```
+
+
 
 ## Conclusion
 
