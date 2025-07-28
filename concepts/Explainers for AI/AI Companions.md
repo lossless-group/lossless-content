@@ -91,7 +91,7 @@ tags: [Generative-AI, AI-Companions]
 AI companions employ advanced machine learning and **natural language processing** to simulate human-like conversations and behaviors[4][1]. These companions can be accessed through smartphones, computers, and smart devices, adapting to user preferences for highly personalized experiences. They serve diverse roles—including as confidants offering emotional support, workplace assistants managing tasks and communications, and interactive partners for entertainment or learning[3].
 
 **Practical examples** of AI companions abound:
-- **Mental wellness**: Solutions like **[[Tooling/AI-Toolkit/Replika|Replika]]** and **[[Woebot]]** help users manage stress, anxiety, and loneliness by offering empathetic conversations and cognitive behavioral therapy exercises[3].
+- **Mental wellness**: Solutions like **[[Tooling/AI-Toolkit/Replika|Replika]]** and **[[Tooling/AI-Toolkit/Generative AI/Woebot]]** help users manage stress, anxiety, and loneliness by offering empathetic conversations and cognitive behavioral therapy exercises[3].
 - **Productivity**: Integrated into work platforms, AI companions summarize conversations, identify action items, and streamline workflows, boosting efficiency with context-aware assistance[3].
 - **Personalized coaching and education**: Some AI companions provide life coaching, language practice, or tutoring, adapting content to individual learning styles.
 

@@ -1,24 +1,24 @@
 ---
-title: "Maintain an Image Generator Obsidian Plugin"
-lede: "A specification for developing and maintaining an Obsidian plugin that generates and manages images using the Recraft API, with secure API key management and frontmatter integration."
+title: Maintain an Image Generator Obsidian Plugin
+lede: A specification for developing and maintaining an Obsidian plugin that generates and manages images using the Recraft API, with secure API key management and frontmatter integration.
 date_authored_initial_draft: 2025-07-19
 date_authored_current_draft: 2025-07-20
-date_authored_final_draft: []
-date_first_published: []
+date_authored_final_draft: 
+date_first_published: 
 date_last_updated: 2025-07-20
 at_semantic_version: 0.1.0
 status: In-Review
-augmented_with: "Windsurf Cascade on Claude 3.5 Sonnet"
+augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Technical-Specification
 date_created: 2025-07-20
-date_modified: 2025-07-20
+date_modified: 2025-07-28
 site_uuid: c2b72f37-ed8b-7f21-b6a3-16c9fd89a89f
-tags: [Obsidian-Plugin, Image-Generation, Frontmatter, API-Integration]
+tags: [Obsidian-Plugin, Image-Generation, Frontmatter, API-Integrations]
 authors:
   - Michael Staton
-image_prompt: "A robot representing API calls is fishing off a boat. There are several fishing poles that have been cast onto a large representation of a web browser. The web browser has a web page loaded with headers and images. The fishing lines are hooked into images and text and are pulling copies of them off the web browser page and towards the boat."
-banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Build-Script-Spec_39259b0d-6bed-4157-baf7-53c35deebb35_rr5hYOulP.webp"
-portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Build-Script-Spec_21af46f2-dd20-45e5-86da-c0815542f01e_e1OL2d6mN.webp"
+image_prompt: A robot representing API calls is fishing off a boat. There are several fishing poles that have been cast onto a large representation of a web browser. The web browser has a web page loaded with headers and images. The fishing lines are hooked into images and text and are pulling copies of them off the web browser page and towards the boat.
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Build-Script-Spec_39259b0d-6bed-4157-baf7-53c35deebb35_rr5hYOulP.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Build-Script-Spec_21af46f2-dd20-45e5-86da-c0815542f01e_e1OL2d6mN.webp
 ---
 
 ![](https://i.imgur.com/Xcy9vaG.png)

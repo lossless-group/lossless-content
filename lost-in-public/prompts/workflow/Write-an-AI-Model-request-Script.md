@@ -3,18 +3,18 @@ title: Ask a Model API to Perform a Task via API
 lede: Guidelines for making API calls to LLM services like Claude, GPT-4, and Groq
 date_authored_initial_draft: 2025-04-14
 date_authored_current_draft: 2025-04-14
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft: 
+date_first_published: 
+date_last_updated: 
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
-date_modified: 2025-07-20
-image_prompt: "A script editor UI for making AI model API requests, with code snippets, API endpoints, and a preview of structured responses. Visuals include glowing neural network icons, request arrows, and a sense of technical automation."
+date_modified: 2025-07-28
+image_prompt: A script editor UI for making AI model API requests, with code snippets, API endpoints, and a preview of structured responses. Visuals include glowing neural network icons, request arrows, and a sense of technical automation.
 site_uuid: 2c903f2a-b144-48f1-a508-781bde9d6760
-tags: [AI-Human-Workflow, Model-APIs, API-Integration, LLM-Services]
+tags: [AI-Human-Workflow, Model-APIs, LLM-Services, API-Integrations]
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Write-an-AI-Model-request-Script_9e4151ad-fccb-493e-a97b-e15edf25e378_driCvtxf3.webp

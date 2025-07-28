@@ -3,18 +3,18 @@ title: Fetch Open Graph Data from API
 lede: Create a Node.js script to process Markdown files and fetch OpenGraph metadata and screenshots from external APIs
 date_authored_initial_draft: 2025-02-03
 date_authored_current_draft: 2025-03-23
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft: 
+date_first_published: 
+date_last_updated: 
 at_semantic_version: 0.0.0.1
 status: To-Prompt
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
-date_modified: 2025-07-15
-image_prompt: "A developer interacting with an API dashboard to fetch Open Graph data, with code snippets, network request icons, and browser previews of enriched link cards. The scene emphasizes data flow, connectivity, and real-time web enhancement."
+date_modified: 2025-07-28
+image_prompt: A developer interacting with an API dashboard to fetch Open Graph data, with code snippets, network request icons, and browser previews of enriched link cards. The scene emphasizes data flow, connectivity, and real-time web enhancement.
 site_uuid: 0d30049e-c655-41e8-a112-6a84a1854f0b
-tags: [Open-Graph, API-Integration, Data-Fetching, Data-Integrity]
+tags: [Open-Graph, Data-Fetching, Data-Integrity, API-Integrations]
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Fetch-Open-Graph-Data-from-API_1ab9e2fe-bba5-4fd9-82a6-10cd1ca7f476_t1wAc0GSL.webp

@@ -8,18 +8,14 @@ at_semantic_version: 0.0.0.5
 affected_systems: Content-Rendering
 status: Resolved
 augmented_with: Windsurf Cascade on GPT 4.1
-category: API-Integration
+category: API-Integrations
 date_created: 2025-03-21
-date_modified: 2025-07-05
-tags:
-  - Cross-Origin-Requests
-  - Web-Security
-  - OpenGraph
-  - Image-Proxy
+date_modified: 2025-07-28
+tags: [Cross-Origin-Requests, Web-Security, OpenGraph, Image-Proxy]
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Getting-through-CORS_c56620d0-e033-4478-9bd3-cc60a400483e_Dsf69ZSpw.webp
-image_prompt: "A browser window with a red CORS error, arrows showing blocked cross-origin requests, and a developer troubleshooting the issue."
+image_prompt: A browser window with a red CORS error, arrows showing blocked cross-origin requests, and a developer troubleshooting the issue.
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Getting-through-CORS_3fa2d086-578d-4d64-8666-8bec5114159c_FGtO4_-xi.webp
 ---
 
