@@ -10,7 +10,7 @@ date_created: 2025-04-06
 ## Need a Solution? Don't shop and buy, just Fork and Deploy
 Nowadays there are [[concepts/Open Source Alternatives|Open Source Alternatives]] or [[concepts/Open Source, DIY Variant|DIY Variants]] of just about any kind of software you can think of. And for many you would never even imagine.  
 
-All you have to do is create a [[Forked Repositories|Forked Repository]] for [[Tooling/Software Development/Developer Experience/GitHub|GitHub]] (see [[concepts/Explainers for Tooling/Github Forks|Github Forks]]), and then do a [[Vocabulary/One-Click Deployments|One-Click Deployment]].
+All you have to do is create a [[Vocabulary/Forked Repositories|Forked Repository]] for [[Tooling/Software Development/Developer Experience/GitHub|GitHub]] (see [[concepts/Explainers for Tooling/Github Forks|Github Forks]]), and then do a [[Vocabulary/One-Click Deployments|One-Click Deployment]].
 
 Vibe Coding is allowing non-engineers to become [[concepts/Stack Engineering|Stack Engineers]]. So, someone who is marketing can fork a [[Vocabulary/CRM|CRM]] like [[Tooling/Enterprise Jobs-to-be-Done/Twenty|Twenty]], deploy it on [[Tooling/Software Development/Cloud Infrastructure/Railway|Railway]], and get to work. 
 

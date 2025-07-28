@@ -1,3 +1,5 @@
+![Content Repository of The Lossless Group](https://i.imgur.com/KY16xYu.png)
+
 #### Introduction
 
 This repository contains the content for the Lossless site.  The site can be found as the 'site' directory in the monorepo, or [the Github Repo](https://github.com/lossless-group/lossless-site.git)
@@ -48,11 +50,14 @@ Vocabulary: `vocabulary`
 Includes:
 
 - Changelog
+   - Code Changelog
+   - Content Changelog
+- Citations
 - Concepts
-- Keeping Up
 - Lost in Public
    - Explorations
    - Inspirations
+   - Keeping Up
    - Issue Resolutions
    - Practices
    - Prompts
@@ -62,6 +67,8 @@ Includes:
    - Up and Running
 - Notes from the Near Future
 - Organizations
+- Slides
+- Sessions
 - Sources
 - Specifications
 - Tooling

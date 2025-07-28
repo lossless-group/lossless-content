@@ -5,7 +5,7 @@ date_created: 2025-03-30
 tags: [AI-Toolkit]
 ---
 ### AI Powered Web Crawlers
-See [[AI Web Crawlers]]
+See [[concepts/Explainers for AI/AI Web Crawlers]]
 
 Tools like: 
 ``` yaml toolingGallery
