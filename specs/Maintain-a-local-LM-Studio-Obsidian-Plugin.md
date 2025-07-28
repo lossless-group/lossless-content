@@ -12,10 +12,12 @@ status: Draft
 augmented_with: Windsurf Cascade on SWE-1
 category: Technical Specifications
 date_created: 2025-07-26
-date_modified: 2025-07-26
+date_modified: 2025-07-28
 authors:
   - Michael Staton
 ---
+# Result
+![LMStud-yo Obsidian Community Plugin, quick GIF Demo on July 27, 2025](https://i.imgur.com/blhuOx8.gif)
 
 # Purpose
 

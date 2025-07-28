@@ -1,8 +1,7 @@
 ---
 date_created: 2025-03-30
 date_modified: 2025-07-28
-aliases:
-  - Alphabet Inc.
+aliases: [Alphabet Inc.]
 site_uuid: c42694cd-1641-4cbd-8105-08409d8dea82
 publish: true
 title: Alphabet

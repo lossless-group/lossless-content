@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-07-24
+date_modified: 2025-07-28
 site_uuid: dc99c733-0a2e-4261-93a6-146650d3f664
 publish: true
 title: "Mastering Git"
@@ -202,4 +202,31 @@ prune-empty --tag-name-filter cat -- --all
 # Starting from a Clone
 ```zsh
 git remote rename origin upstream
+```
+
+# Git LFS
+Git LFS (Large File Storage) is a Git extension that helps manage large files in your Git repositories. Here's a quick overview:
+
+### What Git LFS Does:
+
+1. **Handles Large Files**: Git isn't efficient with large files (like binaries, datasets, media files). LFS stores these files on a separate server while keeping only pointers in your Git repository.
+    
+2. **How It Works**:
+    
+    - When you add a large file, Git LFS replaces it with a small text pointer file.
+    - The actual file content is stored in the LFS store.
+    - When you clone or checkout, Git LFS downloads the correct version of the large file based on the pointer.
+3. **Common Uses**:
+    
+    - Binary files (like .psd, .zip, .dll)
+    - Media files (images, audio, video)
+    - Large datasets
+    - Game assets
+    - Database dumps
+```bash
+git lfs install           # Set up Git LFS in your repository
+git lfs track "*.psd"     # Start tracking a file type
+git lfs ls-files          # Show currently tracked files
+git lfs pull              # Download LFS files for current commit
+git lfs push              # Upload LFS files to remote
 ```
