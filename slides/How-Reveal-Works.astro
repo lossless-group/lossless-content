@@ -1,0 +1,100 @@
+---
+/**
+ * Example RevealJS presentation using the OneSlideDeck component within the base Layout
+ * This demonstrates how to create slides while keeping the site's header and footer
+ */
+ import Layout from '@layouts/Layout.astro';
+import OneSlideDeck from '@layouts/OneSlideDeck.astro';
+
+// Title and description for the presentation
+const title = "Introduction to RevealJS with Astro";
+const description = "A demonstration of RevealJS integration with the Lossless site";
+---
+
+<Layout title={title} description={description}>
+  <OneSlideDeck>
+      <!-- Title Slide -->
+      <section class="title-slide">
+        <h1>{title}</h1>
+        <p>A simple example to get started</p>
+        <p><small>Edit this file directly to customize your presentation</small></p>
+      </section>
+
+      <!-- Introduction Slide -->
+      <section>
+        <h2>What is RevealJS?</h2>
+        <ul>
+          <li>A framework for creating beautiful presentations using HTML</li>
+          <li>Supports Markdown content</li>
+          <li>Features animations, transitions, and speaker notes</li>
+          <li>Works well with Astro's component model</li>
+        </ul>
+      </section>
+
+      <!-- Features Slide -->
+      <section>
+        <h2>Key Features</h2>
+        <ul>
+          <li class="fragment">Nested slides</li>
+          <li class="fragment">Markdown support</li>
+          <li class="fragment">PDF export</li>
+          <li class="fragment">Speaker notes</li>
+          <li class="fragment">Syntax highlighted code</li>
+        </ul>
+        <aside class="notes">
+          Speaker notes go here. Press 's' to view them during the presentation.
+        </aside>
+      </section>
+
+      <!-- Code Example Slide -->
+      <section>
+        <h2>Code Example</h2>
+        {`
+        <pre><code class="javascript" data-trim data-line-numbers>
+function createSlide(title, content) {
+  const slide = document.createElement('section');
+  const heading = document.createElement('h2');
+  heading.textContent = title;
+  
+  slide.appendChild(heading);
+  slide.innerHTML += content;
+  
+  return slide;
+}
+        </code></pre>
+        `}
+      </section>
+
+      <!-- Vertical Slides Example -->
+      <section>
+        <section>
+          <h2>Vertical Slides</h2>
+          <p>Use the down arrow to navigate</p>
+          <p>↓</p>
+        </section>
+        <section>
+          <h3>Vertical Slide 1</h3>
+          <p>This is a nested slide</p>
+        </section>
+        <section>
+          <h3>Vertical Slide 2</h3>
+          <p>You can have as many nested slides as you want</p>
+        </section>
+      </section>
+
+      <!-- Image Example -->
+      <section>
+        <h2>Add Images</h2>
+        <img src="https://placekitten.com/450/300" alt="Example image">
+        <p>Use images to enhance your presentations</p>
+      </section>
+
+      <!-- Final Slide -->
+      <section>
+        <h2>Get Started</h2>
+        <p>Edit this file to create your own presentation</p>
+        <p>Add or remove slides as needed</p>
+        <p>Customize styles and options</p>
+      </section>
+  </OneSlideDeck>
+</Layout>

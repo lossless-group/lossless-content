@@ -15,6 +15,6 @@ og_last_fetch: '2025-05-29T13:32:10.499Z'
 tags: [Package-Managers, Apple-Ecosystem]
 ---
 
-[[Tools-I-Use/MacOS (Operating System)|MacOS (Operating System)]]
+[[Tooling/Productivity/MacOS (Operating System)|MacOS (Operating System)]]
 [[Shortcat]]
 
