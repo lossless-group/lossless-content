@@ -15,7 +15,7 @@ https://youtu.be/GirrkYXoEGM?si=K7Lcv6xDXWpGaUQt
 
 [[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Clerk|Clerk]] , [[Tooling/Software Development/Lego-Kit Engineering Tools/Auth0|Auth0]]
 
-[[Polar]], [[organizations/Stripe|Stripe]]
+[[Tooling/Software Development/Lego-Kit Engineering Tools/Polar]], [[organizations/Stripe|Stripe]]
 
 
 

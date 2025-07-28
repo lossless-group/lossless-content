@@ -1,10 +1,9 @@
 ---
 date_created: 2025-07-21
-date_modified: 2025-07-21
+date_modified: 2025-07-28
 site_uuid: a9c45b37-c8b1-4f96-be3c-54b886eea3ad
 publish: true
-aliases:
-  - Vertical Wrapper
+aliases: [Vertical Wrapper]
 generated_with: Perplexity AI
 ---
 # Vertical Wrappers: Creating Value on top of AI Model APIS
@@ -82,7 +81,7 @@ While many early "wrappers" simply provided a user interface for an LLM, vertica
 
 ### Finance & Accounting
 
-- **Vic.ai**: Automates accounts payable and invoice processing for finance teams.
+- **[[Tooling/Enterprise Jobs-to-be-Done/Vic AI]]**: Automates accounts payable and invoice processing for finance teams.
 - **Pry** (acquired by Copilot): Financial modeling and scenario planning for startups, embedded with AI.
 
 ### Manufacturing & Supply Chain
