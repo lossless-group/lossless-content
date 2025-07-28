@@ -1,6 +1,8 @@
 ---
-aliases: ["[Fork", Forked Repo, Forked Repository]]
-date_created: 2025-06-08
+aliases:
+  - Forked Repo
+  - Forked Repository
+date_created: 2025-02-01
 date_modified: 2025-07-28
 site_uuid: 60fedf8b-25c8-495e-934c-e363176f7efb
 publish: true

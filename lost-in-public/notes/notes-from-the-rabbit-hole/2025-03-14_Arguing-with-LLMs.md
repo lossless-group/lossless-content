@@ -1,3 +1,7 @@
+---
+date_created: 2025-04-25
+date_modified: 2025-07-28
+---
 
 
 ![CHAT] Arguing with LLM Dialog:

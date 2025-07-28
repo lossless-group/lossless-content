@@ -3,22 +3,18 @@ title: Ask Generative AI Model to Generate a Style
 lede: Generate a custom style object for image requests using a Generative AI model. This prompt is for scripting and API integration workflows.
 date_authored_initial_draft: 2025-04-14
 date_authored_current_draft: 2025-04-14
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft: 
+date_first_published: 
+date_last_updated: 
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
-date_modified: 2025-04-16
-image_prompt: "A generative AI model creating a unique digital style palette, with swirling colors, abstract shapes, and a neural network motif. Visual elements include sliders, color pickers, and a preview of generated styles, symbolizing creative automation."
+date_modified: 2025-07-28
+image_prompt: A generative AI model creating a unique digital style palette, with swirling colors, abstract shapes, and a neural network motif. Visual elements include sliders, color pickers, and a preview of generated styles, symbolizing creative automation.
 site_uuid: 68524391-4243-441a-9929-51ef9cf7a888
-tags: 
-  - Workflow
-  - Model-APIs
-  - API-Integration
-  - LLM-Services
+tags: [Workflow, Model-APIs, LLM-Services, API-Integrations]
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/workflow/2025-05-05_portrait_image_Ask-Generative-AI-model-to-generate-a-Style_737d82e0-9001-4dad-8fdf-b033820c30fb_HSGM7QeNO.webp
