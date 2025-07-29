@@ -70,6 +70,8 @@ https://www.figma.com/developers/api?fuid=848939066063262638#files
 # Figma Updates
 https://youtu.be/UxOvqHjcLMY?si=jQ8l0k2UTQRvhIfc
 
+## Figma Glass
+
 # Footnotes
 ***
 

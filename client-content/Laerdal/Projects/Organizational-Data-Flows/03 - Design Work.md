@@ -1,6 +1,6 @@
 ---
 date_created: 2025-01-07
-date_modified: 2025-05-29
+date_modified: 2025-07-29
 title: Test Title
 ---
 ## Assessment of the [[Life Design System]]
@@ -13,90 +13,13 @@ These two workflows could be thought of as the most vital organs of [[concepts/S
 3. 
 We are also observing that software development is becoming more [[concepts/Visual Software Development|Visual]]. This is, in part, due to the rise of [[Low-Code]] tools, and [[Agentic AI]], particularly in setting up [[Sequential Agents]].  Therefore, our primary perspective is that the Life Design System can contribute more to the organization by expanding its mandate and scope of concern, and the audience that utilizes it.  
 
-<div class="sliderbody">
-<h4> Image-Slider</h4>
-<section class="carousel" aria-label="Gallery">
-  <ol class="carousel__viewport">
-    <li id="carousel__slide1"
-        tabindex="0"
-        class="carousel__slide">
-      <div class="carousel__snapper"> 
-	      <section class="internal-embed"><img src="visuals/Screenshot 2025-01-30 at 2.08.16 PM.png"></section>
-	      <span><p>Figma Work</p></span>
-      </div>
-        <a href="#carousel__slide4"
-           class="carousel__prev">Go to last slide</a>
-        <a href="#carousel__slide2"
-           class="carousel__next">Go to next slide</a>
-    </li>
-    <li id="carousel__slide2"
-        tabindex="0"
-        class="carousel__slide">
-      <div class="carousel__snapper">
-            <section class="internal-embed"><img src="visuals/Screenshot 2025-01-16 at 12.26.58 PM_Scenario-Cloud.png"></section> 
-            <span><p>Scenario Cloud</p></span>
-    </div>
-      <a href="#carousel__slide1"
-         class="carousel__prev">Go to previous slide</a>
-      <a href="#carousel__slide3"
-         class="carousel__next">Go to next slide</a>
-    </li>
-    <li id="carousel__slide3"
-        tabindex="0"
-        class="carousel__slide">
-      <div class="carousel__snapper">
-            <section class="internal-embed"><img src="visuals/Screenshot 2025-01-27 at 1.50.27 PM.png"></section></div>
-      <a href="#carousel__slide2"
-         class="carousel__prev">Go to previous slide</a>
-      <a href="#carousel__slide4"
-         class="carousel__next">Go to next slide</a>
-    </li>
-    <li id="carousel__slide4"
-        tabindex="0"
-        class="carousel__slide">
-      <div class="carousel__snapper">
-            <section class="internal-embed" src="4.jpeg"></section></div>
-      <a href="#carousel__slide3"
-         class="carousel__prev">Go to previous slide</a>
-      <a href="#carousel__slide5"
-         class="carousel__next">Go to first slide</a>
-    </li>
-    <li id="carousel__slide5"
-        tabindex="0"
-        class="carousel__slide">
-      <div class="carousel__snapper">
-            <section class="internal-embed" src="5.jpg"></section></div>
-      <a href="#carousel__slide4"
-         class="carousel__prev">Go to previous slide</a>
-      <a href="#carousel__slide6"
-         class="carousel__next">Go to first slide</a>
-    </li>
-  </ol>
-</section>
-</div>
-
-> [!callout|left wtiny]
-> I am a callout
-
-
-> [!even-columns]
->
-> > [!abstract]
-> >
- ><span query="get(Organizations/Nix.md/hero)"></span>![[Screenshot 2025-02-20 at 6.49.17 AM_Nix--Hero.png]]<span type="end"></span>
-
->
-> > [!bookinfo] Reading
-> >
-
-
 
 ### Our Angle on our Work
-The [[Life Design System]] is [[concepts/State of the Art]] and is being utilized across teams and geographies for [[User Interface|UI]] design and implementation. Therefore, our hope was to be thought-provoking on what might be included in a [[Design Systems|Design System]], and how the [[Life Design System]] might impact workflows in the larger organization.
+The [[Life Design System]] is [[concepts/State of the Art|State of the Art]] and is being utilized across teams and geographies for [[User Interface|UI]] design and implementation. Therefore, our hope was to be thought-provoking on what might be included in a [[Design Systems|Design System]], and how the [[Life Design System]] might impact workflows in the larger organization.
 
-Right now, better visual communication can dramatically impact [[concepts/Product Development Workflow]]; even more specific -- [[concepts/Product Development Workflow#On the Fiasco of Handoffs|the handoffs]]. 
+Right now, better visual communication can dramatically impact [[concepts/Product Development Workflow|Product Development Workflow]]; even more specific -- [[concepts/Product Development Workflow#On the Fiasco of Handoffs|the handoffs]]. 
 
-We foresee an accelerating force on software development as two trends collide: the need to refactor and rewrite code at accelerating paces, and the possibility of using AI [[concepts/Explainers for AI/Code Generators|Code Generators]], and AI Powered [[concepts/Explainers for Tooling/Text Editors or IDEs]] and [[concepts/Explainers for Tooling/Terminal Emulators]] to let [[Large Language Models]] do much of the heavy lifting for mind-numbing boiler-plate parts of writing code. This creates a phenomenon we call [[concepts/Lego-Kit Engineering]] 
+We foresee an accelerating force on software development as two trends collide: the need to refactor and rewrite code at accelerating paces, and the possibility of using AI [[concepts/Explainers for AI/Code Generators|Code Generators]], and AI Powered [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editors or IDEs]] and [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulators]] to let [[Large Language Models]] do much of the heavy lifting for mind-numbing boiler-plate parts of writing code. This creates a phenomenon we call [[concepts/Lego-Kit Engineering]] 
 
 By empowering [[concepts/Visual Leadership]], visual communication and collaboration, a large swath of hangups, misunderstandings, meetings to get more clarity, etc, and other forms of [[concepts/Drag]] can be reduced or even eliminated.  
  
