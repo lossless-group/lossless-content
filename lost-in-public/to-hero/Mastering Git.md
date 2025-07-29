@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-07-28
+date_modified: 2025-07-29
 site_uuid: dc99c733-0a2e-4261-93a6-146650d3f664
 publish: true
 title: "Mastering Git"
@@ -229,4 +229,37 @@ git lfs track "*.psd"     # Start tracking a file type
 git lfs ls-files          # Show currently tracked files
 git lfs pull              # Download LFS files for current commit
 git lfs push              # Upload LFS files to remote
+```
+
+# Git Stash
+```zsh
+git stash list
+```
+
+```zsh
+git stash show -p stash@{n}  # Replace n with stash number
+```
+
+```zsh
+git stash show stash@{n}  # Shows file changes
+```
+
+```zsh
+git stash apply stash@{n}
+```
+
+```zsh
+git stash pop stash@{n}
+```
+
+```zsh
+git stash branch new-branch-name stash@{n}
+```
+
+```zsh
+git stash clear
+```
+
+```zsh
+git stash save "WIP: working on feature X"
 ```
