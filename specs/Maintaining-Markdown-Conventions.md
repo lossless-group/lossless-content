@@ -12,18 +12,15 @@ status: Iterating
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Specification
 date_created: 2025-04-16
-date_modified: 2025-04-16
+date_modified: 2025-07-29
 site_uuid: bbbc80ed-bb0d-41ab-87db-71093acb5727
-tags:
-  - Extended-Markdown
-  - Content-Management
+tags: [Extended-Markdown, Content-Management]
 authors:
   - Michael Staton
 image_prompt: "A style guide book open to Markdown syntax rules, surrounded by neatly formatted documents. The mood is orderly and instructive, promoting best practices and consistency."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Maintaining-Markdown-Conventions_1b3f20dc-21c7-47da-b195-d092a4d5422c_DJo7xtcvrC.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Maintaining-Markdown-Conventions_4cd8aac9-e171-4e91-939f-3b6b8d24aa7e_k-xDmxpn3.webp
 ---
-## Dataview Syntax
 `session-close::'2025-03-19T04:51:05.362Z'`
 `kebab-case` immediately followed by two colons followed by a value is Dataview Syntax. 
 

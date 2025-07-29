@@ -25,7 +25,7 @@ https://www.namchee.dev/posts/upgrading-astro-code-snippets/
 
 https://younagi.dev/blog/remark-card/
 
-[[Remark.js]]
+[[Tooling/Software Development/Programming Languages/Libraries/Remark.js]]
 
 
 
