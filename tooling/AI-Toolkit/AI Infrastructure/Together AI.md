@@ -10,12 +10,10 @@ favicon: https://cdn.prod.website-files.com/64f6f2c0e3f4c5a91c1e823a/654693d5694
 og_last_error: '2025-03-07T05:38:03.521Z'
 jina_last_request: '2025-03-09T06:45:20.025Z'
 jina_error: 'Error occurred'
-date_modified: 2025-05-27
+date_modified: 2025-07-28
 date_created: 2025-04-23
 og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250527_Together_AI_og_screenshot.jpeg
-tags:
-  - AI-Toolkit
-  - AI-Infrastructure
+tags: [AI-Toolkit, AI-Infrastructure]
 ---
 
 [[Self-Hosting]] [[Cloud Infrastructure]]

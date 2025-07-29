@@ -1,12 +1,13 @@
 ---
 date_created: 2025-03-29
-date_modified: 2025-05-07
+date_modified: 2025-07-29
 site_uuid: 070fcc3b-1d19-404e-91ff-0289dfe53017
 ---
 
 [[Lindy AI]]
 
-[[Tooling/Portfolio/Ontra|Ontra]]
+[[client-content/Hypernova/Portfolio/Ontra|Ontra]], [[concepts/Explainers for Tooling/Contract Automation]]
+
 
 ## Intelligent Agreement Management
 

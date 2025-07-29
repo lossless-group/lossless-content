@@ -11,12 +11,15 @@ og_favicon: https://hypernova.capital/wp-content/uploads/2022/05/hypernova_favic
 og_last_fetch: 2025-07-22T16:22:47.256Z
 aliases: [Hypernova]
 date_created: 2025-07-22
-date_modified: 2025-07-22
+date_modified: 2025-07-29
 ---
 
 # Portfolio
 ```yaml imageGallery
 - [[Tooling/Portfolio/Blue Layer|Blue Layer]]
-- [[Tooling/Portfolio/Thinking Machines|Thinking Machines]]
-- [[Tooling/Portfolio/Harmonic|Harmonic]]
+- [[Tooling/AI-Toolkit/Model Producers/Thinking Machines|Thinking Machines]]
+- [[Tooling/AI-Toolkit/Model Producers/Harmonic|Harmonic]]
+- [[Tooling/AI-Toolkit/Model Producers/Ruya|Ruya]]
+- [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Catio|Catio]]
+
 ```

@@ -1,7 +1,7 @@
 ---
 url: https://www.ontra.ai/
 date_created: 2025-04-18
-date_modified: 2025-07-22
+date_modified: 2025-07-29
 og_title: AI-Powered Contract Automation for Private Markets
 og_description: Ontra's AI-powered platform automates legal workflows for private markets, streamlining contract management, fund compliance, and entity management for 700+ firms globally.
 og_image: https://www.ontra.ai/wp-content/uploads/2024/06/2024-Website-Refresh-Homepage-Social-Card-V2-1200x630-1.png
@@ -13,7 +13,8 @@ portfolios:
 augmented_with: Perplexity AI using Sonar Pro
 ---
 
-Uses [[Vocabulary/Generative AI|Generative AI]] and provides [[concepts/On-Demand Talent|On-Demand Talent]] for the Legal Profession to manage contract negotiations. They can be thought of as a [[concepts/Explainers for Tooling/Vertical Wrappers|Vertical Wrapper]], but with a very large niche. 
+Uses [[Vocabulary/Generative AI|Generative AI]] and provides [[concepts/On-Demand Talent|On-Demand Talent]] for the Legal Profession to manage contract negotiations. They can be thought of as a [[concepts/Explainers for Tooling/Vertical Wrappers|Vertical Wrapper]], but with a very large niche. They describe their services as [[concepts/Explainers for Tooling/Contract Automation]]
+
 
 ## **Overview**  
 Ontra (formerly known as InCloudCounsel) is a leading provider of **AI-powered contract automation and intelligence solutions**, with a primary focus on the private capital investment sector. [^bog3qh] [^htb49x] Established in 2014 and headquartered in Concord, California, Ontra delivers a suite of technology-driven services to streamline and digitize the entire contract lifecycle for over 700 global firms. [^bog3qh]
