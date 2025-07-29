@@ -145,7 +145,50 @@ The current custom component of concern is `Figma-Object--Display.astro`, which 
    - Update the directive parsing logic to detect the unique Figma link.
    - Ensure the directive properly translates the link into a renderable component instance.
 
-4. - [ ] **Testing:**
+## Handling Directives with AstroMarkdown
+
+4. - [x] **Support Both Leaf and Container Directives in AstroMarkdown:**
+   The `AstroMarkdown.astro` component was updated to handle both directive types from `remark-directive`:
+   
+   - **Leaf Directives:** Single-line syntax like `::figma-embed{ src="..." width="800" }`
+   - **Container Directives:** Multi-line syntax with triple colons:
+     ```markdown
+     :::figma-embed
+     src="..."
+     width="800"
+     height="600"
+     :::
+     ```
+
+5. - [x] **Attribute Parsing Logic:**
+   For container directives, implemented parsing of content as key-value pairs:
+   
+   ```typescript
+   // Extract content from container directive children
+   const content = node.children
+     .filter(child => child.type === 'paragraph')
+     .map(child => child.children
+       .filter(subchild => subchild.type === 'text')
+       .map(subchild => subchild.value)
+       .join(''))
+     .join('\n');
+   
+   // Parse key="value" pairs from content
+   const contentProps = {};
+   const lines = content.split('\n').filter(line => line.trim());
+   for (const line of lines) {
+     const match = line.match(/^\s*(\S+)\s*=\s*["']([^"']*)["']\s*$/);
+     if (match) {
+       contentProps[match[1]] = match[2];
+     }
+   }
+   props = { ...props, ...contentProps };
+   ```
+
+6. - [x] **Breakout Layout and Modal Implementation:**
+   Successfully implemented the breakout container styling and expand/collapse modal behavior similar to the Mermaid component, with proper focus management and accessibility features.
+
+7. - [ ] **Testing:**
    The user will test by trying to render Figma components. Focus on parsing the Figma link and rendering the corresponding component.
 
 5. - [ ] **Document the Changes:**

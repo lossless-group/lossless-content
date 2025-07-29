@@ -206,6 +206,50 @@ This example demonstrates:
 - **Initial view** set to design mode
 - **Clean embed URL** that will render the Go-Lossless design
 
+## Implementation Findings
+
+### Directive Syntax Resolution
+
+During implementation, we discovered that `remark-directive` supports two distinct syntax formats:
+
+1. **Leaf Directives (Single-line):**
+   ```markdown
+   ::figma-embed{ src="..." width="800" height="600" }
+   ```
+
+2. **Container Directives (Multi-line):**
+   ```markdown
+   :::figma-embed
+   src="..."
+   width="800"
+   height="600"
+   :::
+   ```
+
+### AstroMarkdown Integration
+
+The implementation required updating `AstroMarkdown.astro` to handle both `leafDirective` and `containerDirective` node types:
+
+- **Leaf directives** have attributes directly available in `node.attributes`
+- **Container directives** require parsing child nodes to extract key-value pairs from text content
+- Both formats are now fully supported with proper attribute extraction
+
+### Enhanced Features Implemented
+
+1. **Breakout Layout:** Full-width container that breaks out of normal content padding, similar to Mermaid charts
+2. **Modal Expansion:** Click-to-expand functionality for fullscreen viewing with proper focus management
+3. **Node-Specific Embedding:** Proper URL construction to focus on specific Figma nodes using `node-id` parameters
+4. **Accessibility:** ARIA labels, keyboard navigation, and focus trapping in modal view
+
+### URL Construction
+
+The final embed URL format includes:
+```
+https://www.figma.com/embed?embed_host=lossless.group&url=ENCODED_URL&node-id=NODE_ID&viewer=1&scaling=min-zoom
+```
+
+This ensures proper node focusing and optimal viewing experience.
+
 ## Future Work
 
 Consider extending the component to handle additional parameters or support themes and other customization.

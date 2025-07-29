@@ -55,12 +55,12 @@ https://www.figma.com/developers/embed
 
 #### Example 
 
-::figma-embed{
-   src="https://www.figma.com/design/splN6L6DgSf61khdyfpybl/Go-Lossless?node-id=2459-9610&t=u6HwEgch9WcmWQbF-4"
-   auth-user="michael@colearn.com"
-   width="800"
-   height="600"
-}
+:::figma-embed
+src="https://www.figma.com/design/splN6L6DgSf61khdyfpybl/Go-Lossless?node-id=2459-9610&t=u6HwEgch9WcmWQbF-4"
+auth-user="michael@colearn.com"
+width="800"
+height="600"
+:::
 
 ::figma-embed{ src="https://www.figma.com/design/splN6L6DgSf61khdyfpybl/Go-Lossless?node-id=2459-9610&t=u6HwEgch9WcmWQbF-4" width="800" height="600" }
 ### Node Types
