@@ -11,14 +11,10 @@ status: To-Prompt
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Prompts
 date_created: 2025-04-16
-date_modified: 2025-04-16
+date_modified: 2025-07-29
 image_prompt: "A developer implementing a remark plugin, with code editors, plugin architecture diagrams, and rendered markdown previews. The scene conveys extensibility, customization, and the technical creativity of enhancing content workflows."
 site_uuid: debdb50b-f775-4677-915c-e000b9242c3d
-tags: 
-  - Render-Logic
-  - Extended-Markdown
-  - Remark-Plugin
-  - Astro
+tags: [Render-Logic, Extended-Markdown, Remark-Plugin, Astro]
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-logic/2025-05-04_portrait_image_Remark-Plugin-Implementation_cba64b99-c73c-4e71-848c-684f5ba06065_iov8Kjl50.webp
@@ -28,6 +24,9 @@ banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/render-l
 https://www.namchee.dev/posts/upgrading-astro-code-snippets/
 
 https://younagi.dev/blog/remark-card/
+
+[[Remark.js]]
+
 
 
 # Implementation Plan for Remark and Rehype Plugins in Astro

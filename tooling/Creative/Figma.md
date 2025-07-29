@@ -1,37 +1,26 @@
 ---
 site_uuid: 15fc7eb6-5e46-4e1e-b72e-f00348e1da73
-image: >-
-  https://cdn.sanity.io/images/599r6htc/regionalized/1adfa5a99040c80af7b4b5e3e2cf845315ea2367-2400x1260.png?w=1200&q=70&fit=max&auto=format
+image: https://cdn.sanity.io/images/599r6htc/regionalized/1adfa5a99040c80af7b4b5e3e2cf845315ea2367-2400x1260.png?w=1200&q=70&fit=max&auto=format
 site_name: Figma
 title: The Collaborative Interface Design Tool
 favicon: https://static.figma.com/app/icon/1/icon-192.png
 youtube_channel_url: https://www.youtube.com/@Figma
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/68fedf64924894e13bb99abb21c12be64ecfb0387bc39c7acd2c64cd5949932f.jpeg
+og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/68fedf64924894e13bb99abb21c12be64ecfb0387bc39c7acd2c64cd5949932f.jpeg
 jina_last_request: 2025-03-09T06:45:10.742Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:19:01.838Z
-date_modified: '2025-04-12'
-date_created: 2025-03-30T00:00:00.000Z
-tags:
-  - Creative
-  - Design-Tools
-url: 'https://www.figma.com/'
+date_modified: 2025-07-29
+date_created: 2025-03-30
+tags: [Creative, Design-Tools, Collaboration-Tooling, Realtime-Collaboration, UI-Design-Tools]
+url: https://www.figma.com/
+url_help_page: https://help.figma.com/hc/en-us
+docs_url: https://www.figma.com/developers/api
 ---
-
-
-
-
-
-
-
-
-
 
 
 [[Realtime Collaboration]]
 
-##### [[Tooling/Creative/Figma]] does [[concepts/Release Notes]] on [[YouTube]]
+##### [[Tooling/Creative/Figma|Figma]] does [[concepts/Release Notes|Release Notes]] on [[YouTube]]
 <iframe 
 style="aspect-ratio:16/9;width:100%;height:auto" 
 src="https://www.youtube.com/embed/LuUuzCVaLLk?controls=0" 
@@ -42,11 +31,14 @@ referrerpolicy="strict-origin-when-cross-origin"
 allowfullscreen
 ></iframe> [^a36677]
 
-##### Figma has a [[User Forum]]
+## Figma Presentations
+https://youtu.be/UxOvqHjcLMY?si=jQ8l0k2UTQRvhIfc
+
+##### Figma has a [[concepts/User Forums|User Forum]]
 
 ![[Screenshot 2025-01-09 at 7.03.33 PM_Figma--User-Forum.png]]![[Screenshot 2025-01-09 at 7.09.59 PM_Figma--User-Forum.png]]
 ## Figma [[Plug-ins,  Add-ons,  Extensions|Plug-ins]]
-[[Tooling/Creative/Figma]] also has its own [[Extension Libraries|Extension Library]]
+[[Tooling/Creative/Figma|Figma]] also has its own [[Extension Libraries|Extension Library]]
 
 ![[Screenshot 2025-01-22 at 2.48.16 PM_Figma_Plugin-Library.png]]
 Any [[Plug-ins,  Add-ons,  Extensions|Plug-in]] provider gets its own page, including the a place in their [[Reputation Systems]].
@@ -55,6 +47,26 @@ Any [[Plug-ins,  Add-ons,  Extensions|Plug-in]] provider gets its own page, incl
 http://youtube.com/post/UgkxlYKibLLGuEOFJbmgzVyEuQwclso9R0ZF?si=qxvcjLnGreivVOKY
 
 https://youtu.be/0jze5RbyoW4?si=5Hjlmi2XIAiiL8ZY
+
+
+# Embed Kit
+[[Vocabulary/Application Programming Interface|API]]
+https://www.figma.com/developers/embed
+
+#### Example 
+::figma-embed{
+   src="https://www.figma.com/design/splN6L6DgSf61khdyfpybl/Go-Lossless?node-id=2459-9610&t=u6HwEgch9WcmWQbF-4"
+   auth-user="michael@colearn.com"
+   width="800"
+   height="600"
+}
+### Node Types
+https://www.figma.com/developers/api?fuid=848939066063262638#files
+
+
+# Figma Updates
+https://youtu.be/UxOvqHjcLMY?si=jQ8l0k2UTQRvhIfc
+
 # Footnotes
 ***
 
