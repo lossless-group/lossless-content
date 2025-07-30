@@ -2,20 +2,13 @@
 site_uuid: 9c6dba50-6d21-4799-b46b-9ad198aa5d6b
 url: 'https://git-scm.com'
 docs_url: 'https://git-scm.com/doc'
-og_errors: true
-og_last_error: '2025-03-08T20:39:42.148Z'
-og_error_message: 'HTTP error 401'
-jina_last_request: '2025-03-09T06:45:03.928Z'
-jina_error: 'Unexpected token'
 image: 'https://git-scm.com/images/logo@2x.png'
 site_name: Git
-zinger: 'A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.'
-description_site_cp: 'Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.'
+zinger: "A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
+description_site_cp: "Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows."
 favicon: 'https://git-scm.com/favicon.ico'
-og_fetched_url: 'https://git-scm.com'
-og_last_fetch: '2025-05-30T15:38:11.707Z'
 date_created: 2025-02-19
-date_modified: 2025-07-24
+date_modified: 2025-07-30
 og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250530_Git_og_screenshot.jpeg'
 tags: [Products, Developer-Experience, Workflow-Management]
 ---

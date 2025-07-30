@@ -2,7 +2,7 @@
 site_channel:
   - Keeping-Up
 date_created: 2025-03-15
-date_modified: 2025-07-08
+date_modified: 2025-07-30
 site_uuid: ca6eed65-4ae5-4c20-bb47-efbcaa5d2524
 title: A New API Standard for chaining AI -- Model Context Protocol
 lede: Chain and sequence AI operations with Model Context Protocol, a game-changer for AI use and code generation.
@@ -22,7 +22,7 @@ authors:
 
 Anthropic launched the Model Context Protocol on November 25, 2024, [^8cac05] it was a game-changer for AI use and code generation. It allowed for the chaining of AI operations, which made it possible to create complex workflows that could be used to generate code, documents, and other content.
 
-```imageGallery
+```yaml imageGallery
  - /visuals/repVector__Prompt.svg
  - /visuals/repVector__Reminder.svg
  - /visuals/repVector__Specification.svg

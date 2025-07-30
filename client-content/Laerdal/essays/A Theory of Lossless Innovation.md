@@ -20,7 +20,7 @@ authors:
 
 >"We need better theories." -- [[Clayton Christensen]]
 
-```imageGallery
+```yaml imageGallery
 - https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_A-Theory-of-Lossless-Innovation_105fca66-f27a-44e8-975e-ae04b0a02ee5_FLkwI0e91.jpg
 - https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_A-Theory-of-Lossless-Innovation_105fca66-f27a-44e8-975e-ae04b0a02ee5_FLkwI0e91.jpg
 ```

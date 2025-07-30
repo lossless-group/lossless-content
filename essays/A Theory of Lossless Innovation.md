@@ -1,6 +1,6 @@
 ---
 date_created: 2024-09-02
-date_modified: 2025-06-05
+date_modified: 2025-07-30
 site_uuid: 209e0f39-13de-46b3-829e-a2816d2f5aa7
 title: A Theory of Lossless Innovation
 lede: "To go forth and innovate while not losing the core business or loyalty of the current customer base is the challenge of our new era."
@@ -20,7 +20,7 @@ authors:
 
 >"We need better theories." -- [[Clayton Christensen]]
 
-```imageGallery
+```yaml imageGallery
 - https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_A-Theory-of-Lossless-Innovation_105fca66-f27a-44e8-975e-ae04b0a02ee5_FLkwI0e91.jpg
 - https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_A-Theory-of-Lossless-Innovation_105fca66-f27a-44e8-975e-ae04b0a02ee5_FLkwI0e91.jpg
 ```

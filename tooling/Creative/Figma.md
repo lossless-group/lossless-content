@@ -14,8 +14,9 @@ date_created: 2025-03-30
 tags: [Creative, Design-Tools, Collaboration-Tooling, Realtime-Collaboration, UI-Design-Tools]
 url: https://www.figma.com/
 url_help_page: https://help.figma.com/hc/en-us
-docs_url: https://www.figma.com/developers/api
+docs_url: https://www.figma.com/developers/api"
 ---
+
 
 
 [[Realtime Collaboration]]
@@ -36,13 +37,13 @@ https://youtu.be/UxOvqHjcLMY?si=jQ8l0k2UTQRvhIfc
 
 ##### Figma has a [[concepts/User Forums|User Forum]]
 
-![[Screenshot 2025-01-09 at 7.03.33 PM_Figma--User-Forum.png]]![[Screenshot 2025-01-09 at 7.09.59 PM_Figma--User-Forum.png]]
+![](https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Figma_content_1753831364571_JnfyCAvLh.webp)![](https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Figma_content_1753831369779_J2QwsPjG8.webp)
 ## Figma [[Plug-ins,  Add-ons,  Extensions|Plug-ins]]
 [[Tooling/Creative/Figma|Figma]] also has its own [[Extension Libraries|Extension Library]]
 
-![[Screenshot 2025-01-22 at 2.48.16 PM_Figma_Plugin-Library.png]]
+![](https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Figma_content_1753831374917_Httwlc-2-.webp)
 Any [[Plug-ins,  Add-ons,  Extensions|Plug-in]] provider gets its own page, including the a place in their [[Reputation Systems]].
-![[Screenshot 2025-01-22 at 2.47.49 PM_Figma_Plugin-Landing.png]]
+![](https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Figma_content_1753831378155_mTGYStgvJ.webp)
 
 http://youtube.com/post/UgkxlYKibLLGuEOFJbmgzVyEuQwclso9R0ZF?si=qxvcjLnGreivVOKY
 
