@@ -7,3 +7,6 @@ title: "Image Gin (Obsidian Community Plugin)"
 slug: image-gin-obsidian-community-plugin
 at_semantic_version: 0.0.0.1
 ---
+
+
+![Image Gin: Obsidian Community Plugin now uploads local images found in a Markdown file. July 20, 2025](https://i.imgur.com/vx10bdC.png)

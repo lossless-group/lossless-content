@@ -1,78 +1,84 @@
 ---
 date_created: 2025-07-11
-date_modified: 2025-07-29
+date_modified: 2025-07-30
 site_uuid: c3149383-fa6d-4980-8ea5-7423b7aafdf3
 publish: true
-title: AI In Fintech
+title: "Agentic AI in Fintech"
 slug: ai-in-fintech
 at_semantic_version: 0.0.0.1
-tags:
-  - Fin-Tech
-  - Near-Future-Anticipation
-  - Accounts-Payable-AI
-  - Market-Maps
-  - Agentic-Workspaces
-  - Helpdesk-AI
-  - AI-Call-Centers
+tags: [Fin-Tech, Near-Future-Anticipation, Accounts-Payable-AI, Market-Maps, Agentic-Workspaces, Helpdesk-AI, AI-Call-Centers]
 authors:
   - Michael Staton
-augmented_with: Perplexity AI
+augmented_with: "Perplexity AI"
+lede: "If it's a magical breakthrough, why is everyone struggling?"
+image_prompt: "A mobile phone is open to a payments app. A woman is using an ATM. A kiosk is using a Tablet based point of sale system.  Imagery related to FinTech."
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_in_Fintech_banner_image_1753837199878_ujokWzQh6.webp"
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_in_Fintech_portrait_image_1753837202194_MvuijTdGt.webp"
+square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_in_Fintech_square_image_1753837204290_102neBaRK.webp"
 ---
-Open Standards
+
+
+# Lighthouse Examples
+### Open Standards
 [[emergent-innovation/Standards/Interledger|Interledger]]
 
-Agentic Workspaces
+### Agentic Workspaces
+[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Dynamiq AI|Dynamiq AI]]
 [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/n8n|n8n]]
 [[Tooling/AI-Toolkit/Agentic AI/Flowise|Flowise]]
 [[Tooling/AI-Toolkit/Agentic AI/Zams|Zams]]
+
+### Agentic Finance Workspaces
+[[vertical-toolkits/FinTech/Hebbia|Hebbia]]
+
+
+### Agentic Frameworks, SDKs, Plugins
 [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Adopt AI|Adopt AI]]
 
-Agentic Frameworks, SDKs, Plugins
-[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Adopt AI|Adopt AI]]
-
-AI Agentic Helpdesk
-[[Tooling/Enterprise Jobs-to-be-Done/Protegee AI|Protegee AI]]
-
-AI Onboarding Concierge
+### AI Onboarding Concierge
 [[Tooling/Training/Parta IO|Parta IO]]
 
-AI Invoice & Billing
+### AI Invoice & Billing
 [[Tooling/Enterprise Jobs-to-be-Done/Vic AI|Vic AI]]
 
-Payments Platforms
+### Payments Platforms
 [[Tooling/Software Development/Lego-Kit Engineering Tools/Polar|Polar]]
 [[Tooling/Software Development/Lego-Kit Engineering Tools/Unit|Unit]]
 [[Tooling/Enterprise Jobs-to-be-Done/Adyen|Adyen]]
 
-Agentic Payments
+### Agentic Payments
 [[vertical-toolkits/FinTech/Skyfire AI|Skyfire AI]]
 
-
-Moving Money
+### Agentic KYC
+[[vertical-toolkits/FinTech/Multimodal|Multimodal]]
+### Moving Money
 [[Tooling/Enterprise Jobs-to-be-Done/OFX|OFX]]
 [[vertical-toolkits/FinTech/Payman AI|Payman AI]]
 
-Vertical Payments
+### Vertical Payments
 [[Tooling/Enterprise Jobs-to-be-Done/Loadpass|Loadpass]]
 
-Regional Analogs
+### Regional Analogs
 [[Tooling/Enterprise Jobs-to-be-Done/Yoco|Yoco]]
 
-Accounting Tools
+### Accounting Tools
 [[Tooling/Enterprise Jobs-to-be-Done/Rillion|Rillion]]
 [[Tooling/AI-Toolkit/Knowledge AI/Terzo|Terzo]]
 
+### Accounts Payable Agents
 [[Tooling/Enterprise Jobs-to-be-Done/Vic AI|Vic AI]]
 
-Agentic Treasury
+### Agentic Treasury
 [[vertical-toolkits/FinTech/Multimodal|Multimodal]]
 
+### Embedded Finance
+[[vertical-toolkits/FinTech/Alviere|Alviere]]
 
-Commercial Neobanks
+### Commercial Neobanks
 [[Mercury]]
 [[Copper]]
 
-Platforms SDKs
+### Platforms SDKs
 [[Tooling/Software Development/Developer Experience/DevTools/Domo|Domo]]
 
 
@@ -168,7 +174,7 @@ Agentic AI is redefining how payments are initiated, processed, and settled, ena
 Agentic AI streamlines regulatory adherence through real-time anomaly detection and autonomous policy updates.  
 
 ### **AnChain.AI**  
-**Link**: [anchain.ai](https://www.americanbanker.com/news/agentic-ai-stars-at-new-yorks-fintech-innovation-lab)  [[vertical-toolkits/FinTech/Anchain AI]]
+**Link**: [anchain.ai](https://www.americanbanker.com/news/agentic-ai-stars-at-new-yorks-fintech-innovation-lab)  [[vertical-toolkits/FinTech/Anchain AI|Anchain AI]]
 **Offering**: Blockchain analytics platform with agentic capabilities for detecting fraud, sanctions risks, and DeFi compliance. Integrated with leading financial institutions via the Fintech Innovation Lab. [^nl78e8]  
 **Funding**: Part of Accenture’s Fintech Innovation Lab accelerator. [^nl78e8]  
 
@@ -177,15 +183,13 @@ Agentic AI streamlines regulatory adherence through real-time anomaly detection 
 **Offering**: AI-powered anti-fraud solution using agentic agents to intercept and block fraudulent transactions in real time. Deployed in top-tier banks for transaction monitoring. [^nl78e8]  
 **Funding**: Seed stage (Acctelecomperton).  
 
+### **Hummingbird**
+[[vertical-toolkits/FinTech/Hummingbird|Hummingbird]]
+
 ---
 
 ## **Corporate Finance and Capital Markets**  
 Agentic AI is optimizing portfolio management, M&A analysis, and market trend prediction.  
-
-### **[[Kuvi.ai]]**  
-**Link**: [kuvi.ai](https://www.globenewswire.com/news-release/2025/07/29/3123504/0/en/Kuvi-ai-Launches-Private-Beta-of-Agentic-Finance-OS-with-Seed-Round-Led-by-Moon-Pursuit-Capital-with-Additional-Support-from-Transform-Ventures-and-VirtualBacon.html)  
-**Offering**: Agentic Finance OS (AF-OS) for crypto portfolio management. Users define strategies via natural language (e.g., *“Buy $1K in memecoins when sentiment spikes”*), and Kuvi.ai executes trades across chains. [^ttdk1h]  
-**Funding**: Seed round (Moon Pursuit Capital, Transform Ventures). [^ttdk1h]  
 
 ### **LGT Private Banking & Pictet Group**  
 **Link**: Not publicly available ( clients of Unique.ai)  
@@ -193,8 +197,15 @@ Agentic AI is optimizing portfolio management, M&A analysis, and market trend pr
 
 ---
 
+## **Web3 Agentic Finance Platforms**
+### **[[Kuvi.ai]]**  
+**Link**: [kuvi.ai](https://www.globenewswire.com/news-release/2025/07/29/3123504/0/en/Kuvi-ai-Launches-Private-Beta-of-Agentic-Finance-OS-with-Seed-Round-Led-by-Moon-Pursuit-Capital-with-Additional-Support-from-Transform-Ventures-and-VirtualBacon.html)  
+**Offering**: Agentic Finance OS (AF-OS) for crypto portfolio management. Users define strategies via natural language (e.g., *“Buy $1K in memecoins when sentiment spikes”*), and Kuvi.ai executes trades across chains. [^ttdk1h]  
+**Funding**: Seed round (Moon Pursuit Capital, Transform Ventures). [^ttdk1h]  
 ## **Infrastructure & Enabling Technologies**  
 Core platforms empowering agentic AI development across finance.  
+
+***
 
 ### **Fintech Innovation Lab**  
 **Link**: [partnerfundnyc.org](https://www.partnershipfundnyc.org/)  
@@ -215,7 +226,8 @@ Key voices shaping the narrative and technical standards of agentic finance:
 **Perspective**: Advocates for "agentic finance infomediaries" that fully automate financial lives via digital twins and zero-knowledge proofs (ZKPs). Predicts a shift toward B2B-Al authentication. [^cm8stc]  
 
 ### **Fintech Wrap Up & Fintech PrimeTime**  
-**Coverage**: Explored gleich PayPal’s Agent Toolkit, Stripe’s agentic APIs, and Visa’s Intelligent Commerce initiatives. Cacked h regional infrastructure challenges and innovation potential. [^619a2i] [^nvqcq1]  
+[[Sources/People/Influencers/FinTech Wrap Up|FinTech Wrap Up]]
+**Coverage**: Explored PayPal’s Agent Toolkit, Stripe’s agentic APIs, and Visa’s Intelligent Commerce initiatives. Cracked regional infrastructure challenges and innovation potential. [^619a2i] [^nvqcq1]  
 
 ### **Moody’s & Cambridge Centre for Alternative Finance**  
 **Reports**: Analyze agentic AI’s impact on credit risk assessment, compliance automation, and personalized financial services. Emphasize efficiency gains (e.g., 60% higher research consumption, 30% faster workflows). [^w8o400] [^b4xbg3]  
