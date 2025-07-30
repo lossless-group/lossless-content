@@ -3,18 +3,18 @@ date_created: 2025-07-11
 date_modified: 2025-07-30
 site_uuid: c3149383-fa6d-4980-8ea5-7423b7aafdf3
 publish: true
-title: "Agentic AI in Fintech"
+title: Agentic AI in Fintech
 slug: ai-in-fintech
-at_semantic_version: 0.0.0.1
+at_semantic_version: 0.0.1.1
 tags: [Fin-Tech, Near-Future-Anticipation, Accounts-Payable-AI, Market-Maps, Agentic-Workspaces, Helpdesk-AI, AI-Call-Centers]
 authors:
   - Michael Staton
-augmented_with: "Perplexity AI"
-lede: "If it's a magical breakthrough, why is everyone struggling?"
-image_prompt: "A mobile phone is open to a payments app. A woman is using an ATM. A kiosk is using a Tablet based point of sale system.  Imagery related to FinTech."
-banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_in_Fintech_banner_image_1753837199878_ujokWzQh6.webp"
-portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_in_Fintech_portrait_image_1753837202194_MvuijTdGt.webp"
-square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_in_Fintech_square_image_1753837204290_102neBaRK.webp"
+augmented_with: Perplexity AI
+lede: If it's a magical breakthrough, why is everyone struggling?
+image_prompt: A mobile phone is open to a payments app. A woman is using an ATM. A kiosk is using a Tablet based point of sale system.  Imagery related to FinTech.
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_in_Fintech_banner_image_1753837199878_ujokWzQh6.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_in_Fintech_portrait_image_1753837202194_MvuijTdGt.webp
+square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_in_Fintech_square_image_1753837204290_102neBaRK.webp
 ---
 
 
@@ -26,15 +26,22 @@ square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI
 [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Dynamiq AI|Dynamiq AI]]
 [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/n8n|n8n]]
 [[Tooling/AI-Toolkit/Agentic AI/Flowise|Flowise]]
+[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Crew AI|Crew AI]]
+[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Datbot AI|Datbot AI]]
 [[Tooling/AI-Toolkit/Agentic AI/Zams|Zams]]
-
+[[Tooling/AI-Toolkit/Knowledge AI/Epsilla|Epsilla]]
+[[Tooling/AI-Toolkit/Model Producers/Deepset|Deepset]]
+[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Kestra|Kestra]]
+[[Tooling/Enterprise Jobs-to-be-Done/Integration Platforms/Pipedream|Pipedream]]
 ### Agentic Finance Workspaces
 [[vertical-toolkits/FinTech/Hebbia|Hebbia]]
 
 
 ### Agentic Frameworks, SDKs, Plugins
 [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Adopt AI|Adopt AI]]
-
+[[Tooling/AI-Toolkit/AI Programming Frameworks/Kiro|Kiro]]
+[[Tooling/AI-Toolkit/Model Producers/Manus AI|Manus AI]]
+[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Shield AI|Shield AI]]
 ### AI Onboarding Concierge
 [[Tooling/Training/Parta IO|Parta IO]]
 
@@ -65,6 +72,12 @@ square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI
 [[Tooling/Enterprise Jobs-to-be-Done/Rillion|Rillion]]
 [[Tooling/AI-Toolkit/Knowledge AI/Terzo|Terzo]]
 
+### Small Business Agents
+[[Sintra]]
+[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Breezy|Breezy]]
+[[Tooling/Enterprise Jobs-to-be-Done/LocalOperator|LocalOperator]]
+[[Tooling/AI-Toolkit/Agentic AI/TersaAI|TersaAI]]
+[[Tooling/AI-Toolkit/Data Augmenters/Skyvern|Skyvern]]
 ### Accounts Payable Agents
 [[Tooling/Enterprise Jobs-to-be-Done/Vic AI|Vic AI]]
 
@@ -82,6 +95,14 @@ square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI
 [[Tooling/Software Development/Developer Experience/DevTools/Domo|Domo]]
 
 
+### Compliance Agents
+[[vertical-toolkits/FinTech/Anchain AI|Anchain AI]]
+[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Delve|Delve]]
+[[vertical-toolkits/FinTech/Hummingbird|Hummingbird]]
+[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Integral|Integral]]
+[[Tooling/Software Development/Lego-Kit Engineering Tools/Vanta|Vanta]]
+
+
 ***
 > [!info] **Perplexity Deep Research Query** (2025-07-29T22:17:04.742Z)
 > **Question:**
@@ -94,12 +115,7 @@ square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI
 > The more references to tech media and coverage, as well as influencers, bloggers, and Youtubers the better.  
 > 
 > Cite sources, be comprehensive with your search
-> 
-> **Image References:**
-> Please include the following image references throughout your response where appropriate:
-> - [IMAGE 1: Relevant diagram or illustration related to the topic]
-> - [IMAGE 2: Practical example or use case visualization]
-> - [IMAGE 3: Additional supporting visual content]
+>
 > **Model:** sonar-deep-research
 > 
 > 🔍 **Conducting exhaustive research across hundreds of sources...**
@@ -118,7 +134,7 @@ Below, we unpack the specialized innovators driving this transformation, their t
 ---
 
 ## **Autonomous Workflows and Back-Office Efficiency**  
-[[Vocabulary/Agentic AI|Agentic AI]] excels at automating repetitive, data-intensive tasks while maintaining regulatory compliance, [[Compliance AI]]. Startups in this space focus on rebuilding legacy systems with autonomous agents.  
+[[Vocabulary/Agentic AI|Agentic AI]] excels at automating repetitive, data-intensive tasks while maintaining regulatory compliance, [[concepts/Explainers for AI/Compliance AI]]. Startups in this space focus on rebuilding legacy systems with autonomous agents.  
 
 ### **Multimodal**  
 **Link**: [multimodal.dev](https://www.multimodal.dev)  [[vertical-toolkits/FinTech/Multimodal|Multimodal]]
@@ -198,7 +214,7 @@ Agentic AI is optimizing portfolio management, M&A analysis, and market trend pr
 ---
 
 ## **Web3 Agentic Finance Platforms**
-### **[[Kuvi.ai]]**  
+### **[[vertical-toolkits/FinTech/Kuvi.ai]]**  
 **Link**: [kuvi.ai](https://www.globenewswire.com/news-release/2025/07/29/3123504/0/en/Kuvi-ai-Launches-Private-Beta-of-Agentic-Finance-OS-with-Seed-Round-Led-by-Moon-Pursuit-Capital-with-Additional-Support-from-Transform-Ventures-and-VirtualBacon.html)  
 **Offering**: Agentic Finance OS (AF-OS) for crypto portfolio management. Users define strategies via natural language (e.g., *“Buy $1K in memecoins when sentiment spikes”*), and Kuvi.ai executes trades across chains. [^ttdk1h]  
 **Funding**: Seed round (Moon Pursuit Capital, Transform Ventures). [^ttdk1h]  
@@ -253,30 +269,31 @@ While agentic AI promises efficiency, adoption faces hurdles:
 
 ---  
 **Citations**:  
-[^nl78e8]l78e8]: [^619a2i] [^b4xbg3] [^zr19lg] [^660o1p] [^ttdk1h] [^tp9ght] [^nvqcq1] [^nnl5up] [^rgeis8] [^8ds700] [^a7hnhr] [^qxtt75] [^w4v68l] [^cm8stc] [^v1w95i]
+[^nl78e8] [^l78e8] [^619a2i] [^b4xbg3] [^zr19lg] [^660o1p] [^ttdk1h] [^tp9ght] [^nvqcq1] [^nnl5up] [^rgeis8] [^8ds700] [^a7hnhr] [^qxtt75] [^w4v68l] [^cm8stc] [^v1w95i]
+***
 
 ## Sources
-
-[^nl78e8] https://www.americanbanker.com/news/agentic-ai-stars-at-new-yorks-fintech-innovation-lab
-[^w8o400] https://www.moodys.com/web/en/us/creditview/blog/agentic-ai-in-financial-services.html
-[^619a2i] https://www.fintechwrapup.com/p/deep-dive-agentic-ai-in-payments
-[^b4xbg3] https://www.weforum.org/stories/2024/12/agentic-ai-financial-services-autonomy-efficiency-and-inclusion/
-[^76x16x] https://fintechnews.ch/aifintech/agentic-ai-poised-to-transform-financial-services-through-automation-and-personalization/76862/
-[^zr19lg] https://www.multimodal.dev
-[^660o1p] https://techcrunch.com/2025/02/27/unique-a-swiss-ai-platform-for-finance-raises-30m/
-[^ttdk1h] https://www.globenewswire.com/news-release/2025/07/29/3123504/0/en/Kuvi-ai-Launches-Private-Beta-of-Agentic-Finance-OS-with-Seed-Round-Led-by-Moon-Pursuit-Capital-with-Additional-Support-from-Transform-Ventures-and-VirtualBacon.html
-[^tp9ght] https://www.artian.ai/funding/seed
-[^nvqcq1] https://fintechprimetime.substack.com/p/agentic-payments-deep-dive
-[^nnl5up] https://indianstartupnews.com/funding/agentic-ai-startup-adopt-ai-raises-6-million-in-a-seed-funding-round-9067103
-[^rgeis8] https://www.unique.ai/en/blog/unique-secures-usd-30-million-series-a-to-pioneer-agentic-ai-workforce-in-financial-services-2
-[^wguuk3] https://aimmediahouse.com/ai-startups/turn-any-app-agentic-within-24-hours-says-adopt-ai-with-6m-backing
-[^8ds700] https://hiretop.com/blog2/protegee-ai-agents-payments-api/
-[^a7hnhr] https://www.disrupts.com/news/skyfire-launches-agent-checkout-to-enable-ai-agent-payments-and-identity-in-the-digital-economy
-[^qxtt75] https://www.nevermined.ai
-[^w4v68l] https://aiagentslist.com/agent/payman
-[^zx7o12] https://www.adopt.ai
-[^cm8stc] https://thefinanser.com/2025/07/agentic-finance-the-customer-is-now-in-control
-[^v1w95i] https://metia.com/blog/fintech-forward-cutting-through-the-hype-of-agentic-ai/
+***
+[^nl78e8]: https://www.americanbanker.com/news/agentic-ai-stars-at-new-yorks-fintech-innovation-lab
+[^w8o400]: https://www.moodys.com/web/en/us/creditview/blog/agentic-ai-in-financial-services.html
+[^619a2i]: https://www.fintechwrapup.com/p/deep-dive-agentic-ai-in-payments
+[^b4xbg3]: https://www.weforum.org/stories/2024/12/agentic-ai-financial-services-autonomy-efficiency-and-inclusion/
+[^76x16x]: https://fintechnews.ch/aifintech/agentic-ai-poised-to-transform-financial-services-through-automation-and-personalization/76862/
+[^zr19lg]: https://www.multimodal.dev
+[^660o1p]: https://techcrunch.com/2025/02/27/unique-a-swiss-ai-platform-for-finance-raises-30m/
+[^ttdk1h]: https://www.globenewswire.com/news-release/2025/07/29/3123504/0/en/Kuvi-ai-Launches-Private-Beta-of-Agentic-Finance-OS-with-Seed-Round-Led-by-Moon-Pursuit-Capital-with-Additional-Support-from-Transform-Ventures-and-VirtualBacon.html
+[^tp9ght]: https://www.artian.ai/funding/seed
+[^nvqcq1]: https://fintechprimetime.substack.com/p/agentic-payments-deep-dive
+[^nnl5up]: https://indianstartupnews.com/funding/agentic-ai-startup-adopt-ai-raises-6-million-in-a-seed-funding-round-9067103
+[^rgeis8]: https://www.unique.ai/en/blog/unique-secures-usd-30-million-series-a-to-pioneer-agentic-ai-workforce-in-financial-services-2
+[^wguuk3]: https://aimmediahouse.com/ai-startups/turn-any-app-agentic-within-24-hours-says-adopt-ai-with-6m-backing
+[^8ds700]: https://hiretop.com/blog2/protegee-ai-agents-payments-api/
+[^a7hnhr]: https://www.disrupts.com/news/skyfire-launches-agent-checkout-to-enable-ai-agent-payments-and-identity-in-the-digital-economy
+[^qxtt75]: https://www.nevermined.ai
+[^w4v68l]: https://aiagentslist.com/agent/payman
+[^zx7o12]: https://www.adopt.ai
+[^cm8stc]: https://thefinanser.com/2025/07/agentic-finance-the-customer-is-now-in-control
+[^v1w95i]: https://metia.com/blog/fintech-forward-cutting-through-the-hype-of-agentic-ai/
 
 
 
