@@ -26,14 +26,16 @@ The directive rendering pipeline involves multiple files working together to tra
 
 ```mermaid
 graph TB
-    MD["Markdown File<br/>with ::figma-embed directive"] --> AC["astro.config.mjs<br/>(Remark Plugins)"]
+    MD["Markdown File<br/>with ::figma-embed or :::tool-showcase"] --> AC["astro.config.mjs<br/>(Remark Plugins)"]
     AC --> RP1["remarkDirective<br/>(Parse directive syntax)"]
     RP1 --> RP2["remarkDirectiveToComponent<br/>(Preserve directive nodes)"]
     RP2 --> OA["OneArticle.astro<br/>(Layout)"]
     OA --> OAOP["OneArticleOnPage.astro<br/>(Article Component)"]
     OAOP --> AM["AstroMarkdown.astro<br/>(Markdown Renderer)"]
     AM --> FO["Figma-Object--Display.astro<br/>(Component)"]
-    FO --> HTML["Rendered HTML<br/>with Figma iframe"]
+    AM --> TS["ToolShowcaseIsland.astro<br/>(Server Island Component)"]
+    FO --> HTML1["Rendered HTML<br/>with Figma iframe"]
+    TS --> HTML2["Rendered HTML<br/>with tool carousel"]
     
     style MD fill:#f9f,stroke:#333,stroke-width:2px
     style AC fill:#9ff,stroke:#333,stroke-width:2px
@@ -43,7 +45,9 @@ graph TB
     style OAOP fill:#9f9,stroke:#333,stroke-width:2px
     style AM fill:#99f,stroke:#333,stroke-width:2px
     style FO fill:#f99,stroke:#333,stroke-width:2px
-    style HTML fill:#fff,stroke:#333,stroke-width:2px
+    style TS fill:#f99,stroke:#333,stroke-width:2px
+    style HTML1 fill:#fff,stroke:#333,stroke-width:2px
+    style HTML2 fill:#fff,stroke:#333,stroke-width:2px
 ```
 
 ## Installation and Setup
@@ -69,21 +73,28 @@ graph TB
 ## Directive Syntax
 2. - [x] **Agree on directive syntax in markdown files**
    
-   **Simple Example with no additional arguments**
+   **Leaf Directive Example (single-line with attributes)**
    ```markdown
    ::figma-embed{src="https://www.figma.com/object-link"}
    ```
 
-   **Example with additional arguments**
-
-```markdown
+   **Leaf Directive with additional arguments**
+   ```markdown
    ::figma-embed{
    src="https://www.figma.com/design/abc123/My-Design"
    auth-user="mpstaton"
    width="800"
    height="600"
    }
-```
+   ```
+
+   **Container Directive Example (multi-line with content)**
+   ```markdown
+   :::tool-showcase
+   - [[Tooling/AI-Toolkit/Tool Name|Display Name]]
+   - [[vertical-toolkits/Category/Another Tool|Another Tool]]
+   :::
+   ```
 
 ## Agree on Conventions for Defining Directives and mapping to Components
 2. - [x] **Agree on conventions for defining directives and mapping to components**
@@ -93,12 +104,13 @@ graph TB
    ### Directive Naming Convention:
    - Use kebab-case for directive names
    - Include the service/tool name as prefix: `::figma-embed`, `::miro-board`, `::notion-page`
-   - Use descriptive suffixes for different render types: `-embed`, `-display`, `-preview`
+   - Use descriptive suffixes for different render types: `-embed`, `-display`, `-preview`, `-showcase`
 
    ### Component File Convention:
    - Components should follow the pattern: `{Service}-{Type}--{Action}.astro`
-   - Examples: `Figma-Object--Display.astro`, `Miro-Board--Embed.astro`, `Notion-Page--Preview.astro`
+   - Examples: `Figma-Object--Display.astro`, `Miro-Board--Embed.astro`, `Notion-Page--Preview.astro`, `ToolShowcaseIsland.astro`
    - Use PascalCase for component files to match Astro conventions
+   - Server island components should include "Island" suffix for client-side functionality
 
    ### Directive-to-Component Mapping Implementation:
    The mapping is defined in `src/utils/markdown/remark-directives.ts`:
@@ -106,6 +118,7 @@ graph TB
    ```typescript
    export const directiveComponentMap: Record<string, string> = {
      'figma-embed': 'Figma-Object--Display.astro',
+     'tool-showcase': 'ToolShowcaseIsland.astro',
      // Future components following the same pattern:
      // 'miro-board': 'Miro-Board--Embed.astro',
      // 'notion-page': 'Notion-Page--Preview.astro',
@@ -239,6 +252,78 @@ graph TB
 3. - [x] **Integration with remark-directive:**
    The directive parsing is handled automatically by the `remark-directive` plugin, and the component is rendered through `AstroMarkdown.astro` without needing to modify the remark-directive package itself.
 
+## Tool Showcase Directive Implementation
+
+### Overview
+The `tool-showcase` directive enables rendering interactive tool carousels from backlink lists in markdown. It supports both `vertical-toolkits` and `tooling` collections, making it versatile for different content types.
+
+### Component Architecture
+The `ToolShowcaseIsland.astro` component is implemented as a server island, allowing it to:
+- Fetch tool data from multiple Astro content collections
+- Parse backlink syntax from container directive content
+- Render interactive carousel components with tool metadata
+
+### Key Implementation Details
+
+```typescript
+// Server-side data fetching across multiple collections
+const [verticalToolkits, tooling] = await Promise.all([
+  getCollection('vertical-toolkits').catch(() => []),
+  getCollection('tooling').catch(() => [])
+]);
+
+// Combine all tools from different collections
+const allTools = [...verticalToolkits, ...tooling];
+
+// Parse backlink patterns like [[path/to/tool|Display Name]]
+function parseBacklinks(content: string): Array<{path: string, displayName?: string}> {
+  const backlinkRegex = /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g;
+  const backlinks = [];
+  let match;
+  
+  while ((match = backlinkRegex.exec(content)) !== null) {
+    backlinks.push({
+      path: match[1].trim(),
+      displayName: match[2] ? match[2].trim() : undefined
+    });
+  }
+  
+  return backlinks;
+}
+```
+
+### Container Directive Processing
+The component handles container directives by parsing their content for markdown list items:
+
+```typescript
+// In AstroMarkdown.astro - tool-showcase directive handling
+if (directiveName === 'tool-showcase') {
+  let toolPaths = [];
+  
+  if (node.type === "containerDirective" && node.children) {
+    // Find list nodes in the container
+    const listNodes = node.children.filter(child => child.type === 'list');
+    
+    for (const listNode of listNodes) {
+      if (listNode.children) {
+        for (const listItem of listNode.children) {
+          if (listItem.type === 'listItem' && listItem.children) {
+            // Extract text content from list item
+            const textContent = extractTextFromNode(listItem);
+            const backlinks = parseBacklinks(textContent);
+            toolPaths.push(...backlinks);
+          }
+        }
+      }
+    }
+  }
+  
+  if (toolPaths.length > 0) {
+    return <ToolShowcaseIsland toolPaths={toolPaths} />;
+  }
+}
+```
+
 ## Handling Directives with AstroMarkdown
 
 4. - [x] **Support Both Leaf and Container Directives in AstroMarkdown:**
@@ -290,6 +375,33 @@ graph TB
        );
      }
      
+     if (directiveName === 'tool-showcase') {
+       // Parse the container content for markdown list items with backlinks
+       let toolPaths = [];
+       
+       if (node.type === "containerDirective" && node.children) {
+         // Find list nodes in the container
+         const listNodes = node.children.filter(child => child.type === 'list');
+         
+         for (const listNode of listNodes) {
+           if (listNode.children) {
+             for (const listItem of listNode.children) {
+               if (listItem.type === 'listItem' && listItem.children) {
+                 // Extract text content from list item
+                 const textContent = extractTextFromNode(listItem);
+                 const backlinks = parseBacklinks(textContent);
+                 toolPaths.push(...backlinks);
+               }
+             }
+           }
+         }
+       }
+       
+       if (toolPaths.length > 0) {
+         return <ToolShowcaseIsland toolPaths={toolPaths} />;
+       }
+     }
+     
      // Handle other directive types or show debug info
      return (
        <div class="unknown-directive" data-directive={directiveName}>
@@ -316,7 +428,10 @@ sequenceDiagram
     participant OAOP as OneArticleOnPage.astro
     participant AM as AstroMarkdown.astro
     participant FO as Figma-Object--Display.astro
+    participant TS as ToolShowcaseIsland.astro
+    participant CC as Content Collections
     
+    Note over MD: Leaf Directive Processing
     MD->>RD: ::figma-embed{src="..."}
     RD->>RD: Parse directive syntax
     RD->>RDC: AST with directive nodes
@@ -330,6 +445,21 @@ sequenceDiagram
     AM->>FO: Render Figma component
     FO->>FO: Parse URL, fetch metadata
     FO-->>MD: Rendered iframe HTML
+    
+    Note over MD: Container Directive Processing
+    MD->>RD: :::tool-showcase<br/>- [[tool1]]<br/>- [[tool2]]<br/>:::
+    RD->>RD: Parse container directive
+    RD->>RDC: AST with containerDirective node
+    RDC->>RDC: Validate & preserve nodes
+    RDC->>OA: Processed MDAST
+    OA->>OAOP: Pass transformedMdast
+    OAOP->>AM: Render with AstroMarkdown
+    AM->>AM: Check node.type === "containerDirective"
+    AM->>AM: Parse list items for backlinks
+    AM->>TS: Render ToolShowcase with toolPaths
+    TS->>CC: Fetch tool data from collections
+    CC-->>TS: Return tool metadata
+    TS-->>MD: Rendered carousel HTML
 ```
 
 ## Layout Integration
@@ -384,13 +514,27 @@ const transformedMdast = await processor.run(mdast);
 
 ## Usage
 
-To use the new directive, you can include a Figma link in your Markdown as follows:
+### Figma Embed Directive
+To embed a Figma object, use a leaf directive:
 
 ```markdown
-::figma-object{src="https://www.figma.com/object-link"}
+::figma-embed{src="https://www.figma.com/design/abc123/My-Design"}
 ```
 
-This will automatically render the Figma object using the `Figma-Object--Display.astro` component during the Markdown to HTML conversion process.
+This renders the Figma object using the `Figma-Object--Display.astro` component.
+
+### Tool Showcase Directive  
+To create an interactive tool carousel, use a container directive with backlink lists:
+
+```markdown
+:::tool-showcase
+- [[Tooling/AI-Toolkit/Tool Name|Display Name]]
+- [[vertical-toolkits/Category/Another Tool|Another Tool]]
+- [[Tooling/Enterprise/Third Tool|Third Tool]]
+:::
+```
+
+This renders an interactive carousel using the `ToolShowcaseIsland.astro` server island component, which fetches tool metadata from the content collections.
 
 ## Maintenance
 
@@ -437,16 +581,20 @@ The component supports flexible authentication patterns:
 ## Summary of Key Files
 
 1. **astro.config.mjs**: Configures remark plugins in the correct order
-2. **remark-directives.ts**: Defines directive-to-component mapping and preservation logic
+2. **remark-directives.ts**: Defines directive-to-component mapping and preservation logic  
 3. **OneArticle.astro**: Layout that processes markdown through the plugin pipeline
 4. **OneArticleOnPage.astro**: Article component that passes content to AstroMarkdown
 5. **AstroMarkdown.astro**: Core renderer that handles directive nodes and renders components
-6. **Figma-Object--Display.astro**: The actual Figma embed component with smart features
+6. **Figma-Object--Display.astro**: Figma embed component with smart URL parsing and metadata fetching
+7. **ToolShowcaseIsland.astro**: Server island component for rendering tool carousels from backlink lists
 
 ## Future Work
 
+- [x] **Tool Showcase Directive**: Successfully implemented container directive for rendering tool carousels from backlink lists
 - [ ] Add support for directives in the Obsidian native markdown editor, which requires a different way of handling styles for the custom components and will not be in Astro.
 - [ ] Implement additional directive types following the established patterns (Miro, Notion, etc.)
-- [ ] Add support for directive transformations during build time for better performance
+- [ ] Add support for directive transformations during build time for better performance  
 - [ ] Create a directive preview mode for the development environment
+- [ ] Extend tool-showcase directive to support additional content collection types
+- [ ] Add filtering and sorting capabilities to tool carousel components
 

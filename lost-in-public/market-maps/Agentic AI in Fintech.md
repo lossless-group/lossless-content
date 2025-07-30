@@ -23,7 +23,7 @@ square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_
 [[emergent-innovation/Standards/Interledger|Interledger]]
 
 ### Agentic Workspaces
-::tool-showcase{
+:::tool-showcase
 - [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Dynamiq AI|Dynamiq AI]]
 - [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/n8n|n8n]]
 - [[Tooling/AI-Toolkit/Agentic AI/Flowise|Flowise]]
@@ -34,18 +34,18 @@ square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_
 - [[Tooling/AI-Toolkit/Model Producers/Deepset|Deepset]]
 - [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Kestra|Kestra]]
 - [[Tooling/Enterprise Jobs-to-be-Done/Integration Platforms/Pipedream|Pipedream]]
-}
+:::
 ### Agentic Finance Workspaces
 [[vertical-toolkits/FinTech/Hebbia|Hebbia]]
 
 
 ### Agentic Frameworks, SDKs, Plugins
-::tool-showcase{
+:::tool-showcase
 - [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Adopt AI|Adopt AI]]
 - [[Tooling/AI-Toolkit/AI Programming Frameworks/Kiro|Kiro]]
 - [[Tooling/AI-Toolkit/Model Producers/Manus AI|Manus AI]]
 - [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Shield AI|Shield AI]]
-}
+:::
 ### AI Onboarding Concierge
 [[Tooling/Training/Parta IO|Parta IO]]
 
