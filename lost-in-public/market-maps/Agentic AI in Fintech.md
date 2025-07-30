@@ -23,25 +23,29 @@ square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_
 [[emergent-innovation/Standards/Interledger|Interledger]]
 
 ### Agentic Workspaces
-[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Dynamiq AI|Dynamiq AI]]
-[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/n8n|n8n]]
-[[Tooling/AI-Toolkit/Agentic AI/Flowise|Flowise]]
-[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Crew AI|Crew AI]]
-[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Datbot AI|Datbot AI]]
-[[Tooling/AI-Toolkit/Agentic AI/Zams|Zams]]
-[[Tooling/AI-Toolkit/Knowledge AI/Epsilla|Epsilla]]
-[[Tooling/AI-Toolkit/Model Producers/Deepset|Deepset]]
-[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Kestra|Kestra]]
-[[Tooling/Enterprise Jobs-to-be-Done/Integration Platforms/Pipedream|Pipedream]]
+::tool-showcase{
+- [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Dynamiq AI|Dynamiq AI]]
+- [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/n8n|n8n]]
+- [[Tooling/AI-Toolkit/Agentic AI/Flowise|Flowise]]
+- [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Crew AI|Crew AI]]
+- [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Datbot AI|Datbot AI]]
+- [[Tooling/AI-Toolkit/Agentic AI/Zams|Zams]]
+- [[Tooling/AI-Toolkit/Knowledge AI/Epsilla|Epsilla]]
+- [[Tooling/AI-Toolkit/Model Producers/Deepset|Deepset]]
+- [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Kestra|Kestra]]
+- [[Tooling/Enterprise Jobs-to-be-Done/Integration Platforms/Pipedream|Pipedream]]
+}
 ### Agentic Finance Workspaces
 [[vertical-toolkits/FinTech/Hebbia|Hebbia]]
 
 
 ### Agentic Frameworks, SDKs, Plugins
-[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Adopt AI|Adopt AI]]
-[[Tooling/AI-Toolkit/AI Programming Frameworks/Kiro|Kiro]]
-[[Tooling/AI-Toolkit/Model Producers/Manus AI|Manus AI]]
-[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Shield AI|Shield AI]]
+::tool-showcase{
+- [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Adopt AI|Adopt AI]]
+- [[Tooling/AI-Toolkit/AI Programming Frameworks/Kiro|Kiro]]
+- [[Tooling/AI-Toolkit/Model Producers/Manus AI|Manus AI]]
+- [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Shield AI|Shield AI]]
+}
 ### AI Onboarding Concierge
 [[Tooling/Training/Parta IO|Parta IO]]
 
@@ -52,6 +56,10 @@ square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_
 [[Tooling/Software Development/Lego-Kit Engineering Tools/Polar|Polar]]
 [[Tooling/Software Development/Lego-Kit Engineering Tools/Unit|Unit]]
 [[Tooling/Enterprise Jobs-to-be-Done/Adyen|Adyen]]
+
+### Agentic Call-Based Commerce
+[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Hostie|Hostie]]
+[[Tooling/AI-Toolkit/Consio|Consio]]
 
 ### Agentic Payments
 [[vertical-toolkits/FinTech/Skyfire AI|Skyfire AI]]
@@ -211,6 +219,28 @@ Agentic AI is optimizing portfolio management, M&A analysis, and market trend pr
 **Link**: Not publicly available ( clients of Unique.ai)  
 **Use Case**: Deployed Unique.ai’s agents for investment research and compliance checks, streamlining due diligence and document analysis. [^rgeis8]  
 
+
+**Error:** Failed to fetch
+
+***
+
+
+***
+> [!info] **Perplexity Query** (2025-07-30T18:26:49.259Z)
+> **Question:**
+> How can multi-agent systems be used in corporate finance?
+> 
+> **Image References:**
+> Please include the following image references throughout your response where appropriate:
+> - [IMAGE 1: Relevant diagram or illustration related to the topic]
+> - [IMAGE 2: Practical example or use case visualization]
+> - [IMAGE 3: Additional supporting visual content]
+> **Model:** sonar-pro
+> 
+> ### **Response from sonar-pro**:
+
+
+
 ---
 
 ## **Web3 Agentic Finance Platforms**
@@ -266,6 +296,9 @@ While agentic AI promises efficiency, adoption faces hurdles:
 - **[IMAGE 1]**: Architectural diagram of a multi-agent workflow in compliance (refer to Multimodal’s RAG/GenAI applications).  
 - **[IMAGE 2]**: Visual depicting agentic payment flows (Skyfire’s Agent Checkout use case).  
 - **[IMAGE 3]**: Screenshot of an agentic interface for crypto trading (Kuvi.ai’s natural-language platform).  
+
+## Customer Insights
+
 
 ---  
 **Citations**:  
