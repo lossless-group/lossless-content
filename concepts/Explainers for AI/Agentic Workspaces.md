@@ -5,12 +5,14 @@ publish: true
 slug: agentic-workspaces
 title: "Agentic Workspaces"
 at_semantic_version: 0.0.0.1
-date_modified: 2025-07-29
+date_modified: 2025-07-30
 ---
-[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Adopt AI|Adopt AI]]
-[[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/n8n|n8n]]
-[[Tooling/AI-Toolkit/Agentic AI/Flowise|Flowise]]
-[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Dynamiq AI|Dynamiq AI]]
+:::tool-showcase
+- [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Adopt AI|Adopt AI]]
+- [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/n8n|n8n]]
+- [[Tooling/AI-Toolkit/Agentic AI/Flowise|Flowise]]
+- [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Dynamiq AI|Dynamiq AI]]
+:::
 
 
 ```yaml toolingGallery

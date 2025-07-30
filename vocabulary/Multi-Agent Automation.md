@@ -1,7 +1,8 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2025-07-30
 site_uuid: a9f1049a-8655-487a-b11f-f0bfc5bc5373
 date_created: 2025-04-06
+aliases: [Multi-Agent Systems, MAS]
 ---
 
 A concept in [[Agentic AI]]
