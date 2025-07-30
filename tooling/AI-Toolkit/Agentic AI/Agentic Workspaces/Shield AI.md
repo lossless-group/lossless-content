@@ -2,7 +2,7 @@
 url: https://shield.ai/
 zinger: 'Develop, test, and deploy autonomy faster than ever'
 date_created: 2025-03-28
-date_modified: 2025-05-28
+date_modified: 2025-07-30
 site_uuid: d948795d-3589-4d46-bff6-8ae08e148e41
 og_title: 'Shield AI'
 og_description: 'Autonomy for the world.'
@@ -13,7 +13,6 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 site_name: 'Shield AI'
 title: 'Shield AI'
 description: 'Autonomy for the world.'
-tags:
-  - Agentic-Workspaces
+tags: [Agentic-Workspaces]
 ---
 
