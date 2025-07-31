@@ -26,16 +26,18 @@ The directive rendering pipeline involves multiple files working together to tra
 
 ```mermaid
 graph TB
-    MD["Markdown File<br/>with ::figma-embed or :::tool-showcase"] --> AC["astro.config.mjs<br/>(Remark Plugins)"]
+    MD["Markdown File<br/>with directives"] --> AC["astro.config.mjs<br/>(Remark Plugins)"]
     AC --> RP1["remarkDirective<br/>(Parse directive syntax)"]
     RP1 --> RP2["remarkDirectiveToComponent<br/>(Preserve directive nodes)"]
     RP2 --> OA["OneArticle.astro<br/>(Layout)"]
     OA --> OAOP["OneArticleOnPage.astro<br/>(Article Component)"]
     OAOP --> AM["AstroMarkdown.astro<br/>(Markdown Renderer)"]
-    AM --> FO["Figma-Object--Display.astro<br/>(Component)"]
-    AM --> TS["ToolShowcaseIsland.astro<br/>(Server Island Component)"]
+    AM --> FO["Figma-Object--Display.astro<br/>(::figma-embed)"]
+    AM --> TS["ToolShowcaseIsland.astro<br/>(:::tool-showcase)"]
+    AM --> SD["SlidesDirective.astro<br/>(:::slides)"]
     FO --> HTML1["Rendered HTML<br/>with Figma iframe"]
     TS --> HTML2["Rendered HTML<br/>with tool carousel"]
+    SD --> HTML3["Rendered HTML<br/>with slides embed"]
     
     style MD fill:#f9f,stroke:#333,stroke-width:2px
     style AC fill:#9ff,stroke:#333,stroke-width:2px
@@ -46,8 +48,10 @@ graph TB
     style AM fill:#99f,stroke:#333,stroke-width:2px
     style FO fill:#f99,stroke:#333,stroke-width:2px
     style TS fill:#f99,stroke:#333,stroke-width:2px
+    style SD fill:#f99,stroke:#333,stroke-width:2px
     style HTML1 fill:#fff,stroke:#333,stroke-width:2px
     style HTML2 fill:#fff,stroke:#333,stroke-width:2px
+    style HTML3 fill:#fff,stroke:#333,stroke-width:2px
 ```
 
 ## Installation and Setup
@@ -535,6 +539,286 @@ To create an interactive tool carousel, use a container directive with backlink 
 ```
 
 This renders an interactive carousel using the `ToolShowcaseIsland.astro` server island component, which fetches tool metadata from the content collections.
+
+## Slideshows as Directives (Planned)
+
+### Overview
+The `slides` directive will enable embedding markdown-based presentations directly within content pages. This builds on our existing `SlidesEmbed.astro` component but will require adaptation for the directive pattern.
+
+### Proposed Syntax
+
+The slides system will support two methods of embedding presentations:
+
+#### 1. Custom Codeblock Method (Existing)
+As implemented in the current system, using special codeblocks:
+````markdown
+```slides
+slides/introduction-to-ai
+slides/advanced-concepts
+slides/case-studies
+```
+````
+
+#### 2. Directive Method (New Addition)
+Using the container directive syntax to align with our other directives:
+```markdown
+:::slides
+- [[slides/introduction-to-ai|Introduction to AI]]
+- [[slides/advanced-concepts|Advanced Concepts]]
+- [[slides/case-studies|Case Studies]]
+:::
+```
+
+Both methods will render the same output, giving authors flexibility in how they embed presentations.
+
+### Architecture Considerations
+
+The directive implementation will complement the existing custom codeblock approach:
+
+#### Existing System (Custom Codeblocks)
+- Already implemented and working
+- Processed during the markdown parsing phase
+- Uses special language identifier in code blocks
+
+#### New Directive Addition
+- Follows the established directive pattern (like tool-showcase)
+- Processed by AstroMarkdown.astro
+- Provides backlink syntax support
+
+#### Implementation Approach
+1. Keep the existing custom codeblock functionality unchanged
+2. Add directive support that:
+   - Parses backlink paths from the container directive
+   - Converts them to the same format as custom codeblocks
+   - Delegates to the existing `SlidesEmbed.astro` component
+3. Both methods ultimately use the same rendering component
+
+### Implementation Plan
+
+#### 1. Update Directive Mapping
+```typescript
+export const directiveComponentMap: Record<string, string> = {
+  'figma-embed': 'Figma-Object--Display.astro',
+  'tool-showcase': 'ToolShowcaseIsland.astro',
+  'slides': 'SlidesDirective.astro',  // New mapping
+};
+```
+
+#### 2. Create SlidesDirective.astro
+```typescript
+---
+import { getCollection } from 'astro:content';
+import SlidesEmbed from './SlidesEmbed.astro';
+
+export interface Props {
+  slidePaths: Array<{path: string, displayName?: string}>;
+}
+
+const { slidePaths } = Astro.props;
+
+// Fetch slide data from content collection
+const slides = await getCollection('slides');
+const selectedSlides = slidePaths
+  .map(({ path }) => {
+    // Normalize path (remove collection prefix if present)
+    const normalizedPath = path.replace(/^slides\//, '');
+    return slides.find(slide => slide.slug === normalizedPath);
+  })
+  .filter(Boolean)
+  .map(slide => ({
+    path: `slides/${slide.slug}`,
+    title: slide.data.title || slide.slug
+  }));
+---
+
+<SlidesEmbed slides={selectedSlides} config={{
+  theme: 'black',
+  transition: 'slide',
+  controls: true,
+  progress: true
+}} />
+```
+
+#### 3. Add Directive Processing in AstroMarkdown
+```typescript
+if (directiveName === 'slides') {
+  let slidePaths = [];
+  
+  if (node.type === "containerDirective" && node.children) {
+    // Parse list items for slide backlinks
+    const listNodes = node.children.filter(child => child.type === 'list');
+    
+    for (const listNode of listNodes) {
+      if (listNode.children) {
+        for (const listItem of listNode.children) {
+          if (listItem.type === 'listItem' && listItem.children) {
+            const textContent = extractTextFromNode(listItem);
+            const backlinks = parseBacklinks(textContent);
+            slidePaths.push(...backlinks);
+          }
+        }
+      }
+    }
+  }
+  
+  if (slidePaths.length > 0) {
+    return <SlidesDirective slidePaths={slidePaths} />;
+  }
+}
+```
+
+### Configuration Options
+Both methods support optional configuration. If no attributes are provided, slides render with default styling:
+
+#### Default Rendering (No Attributes)
+````markdown
+```slides
+slides/intro
+slides/demo
+```
+````
+
+Or with directive syntax:
+```markdown
+:::slides
+- [[slides/intro|Introduction]]
+- [[slides/demo|Live Demo]]
+:::
+```
+
+#### With Custom Configuration
+````markdown
+```slides{theme="white" transition="fade"}
+slides/intro
+slides/demo
+```
+````
+
+Or with directive syntax:
+```markdown
+:::slides{theme="white" transition="fade"}
+- [[slides/intro|Introduction]]
+- [[slides/demo|Live Demo]]
+:::
+```
+
+### Benefits of Directive Approach
+1. **Content Integration**: Presentations can be embedded directly in documentation
+2. **Reusability**: Same slides can be embedded in multiple locations
+3. **Consistency**: Follows established directive patterns
+4. **Flexibility**: Supports both simple lists and complex configurations
+
+### Technical Challenges
+1. **Route Handling**: Ensure embedded slide routes work correctly
+2. **Performance**: Consider lazy loading for multiple presentations
+3. **Responsive Design**: Adapt iframe dimensions for mobile devices
+4. **Error Handling**: Gracefully handle missing or invalid slide paths
+
+### Future Enhancements
+- Support for external slide sources (URLs)
+- Custom themes per directive
+- Presentation navigation controls
+- Export to PDF functionality
+- Speaker notes integration
+
+### If Client Loading is Needed: Implement in Server Islands and Svelte
+
+**Note:** This section documents the pattern for future implementation if client-side interactivity is needed for the slides directive. We are not implementing this now, but may need to later.
+
+When a directive requires client-side interactivity (like the ToolShowcase carousel with its navigation controls and touch gestures), the implementation pattern involves two components:
+
+#### 1. Server Island Component (Astro)
+The `.astro` component acts as a server-side data fetcher and bridge:
+
+```typescript
+// SlidesDirectiveIsland.astro
+---
+import { getCollection } from 'astro:content';
+import SlidesCarousel from './SlidesCarousel.svelte';
+
+interface Props {
+  slidePaths: Array<{path: string, displayName?: string}>;
+}
+
+const { slidePaths } = Astro.props;
+
+// Server-side data fetching
+const slides = await getCollection('slides');
+const matchedSlides = slidePaths
+  .map(({ path }) => {
+    const normalizedPath = path.replace(/^slides\//, '');
+    return slides.find(slide => slide.slug === normalizedPath);
+  })
+  .filter(Boolean);
+
+// Transform data for client component
+const slidesData = matchedSlides.map(slide => ({
+  title: slide.data.title,
+  path: `slides/${slide.slug}`,
+  // ... other needed properties
+}));
+---
+
+{slidesData.length > 0 ? (
+  <SlidesCarousel slides={slidesData} client:load />
+) : (
+  <div class="slides-error">No matching slides found</div>
+)}
+```
+
+Key aspects:
+- Handles server-side data fetching from content collections
+- Transforms data into a format suitable for the client component
+- Uses `client:load` directive to hydrate the Svelte component
+- Provides error handling for missing content
+
+#### 2. Client Component (Svelte)
+The `.svelte` component provides the interactive functionality:
+
+```typescript
+// SlidesCarousel.svelte
+<script lang="ts">
+  export let slides: Array<{ title: string; path: string }> = [];
+  
+  let currentSlide = 0;
+  
+  function nextSlide() {
+    currentSlide = (currentSlide + 1) % slides.length;
+  }
+  
+  function prevSlide() {
+    currentSlide = currentSlide === 0 ? slides.length - 1 : currentSlide - 1;
+  }
+  
+  // Touch handling, keyboard navigation, etc.
+</script>
+
+<!-- Interactive carousel UI -->
+```
+
+Key aspects:
+- Manages client-side state (current slide, navigation)
+- Handles user interactions (touch, click, keyboard)
+- Provides smooth transitions and animations
+- Fully interactive without server round-trips
+
+#### 3. Directive Integration
+The AstroMarkdown component would then use the island component:
+
+```typescript
+if (directiveName === 'slides') {
+  // ... parse slidePaths from directive content ...
+  
+  if (slidePaths.length > 0) {
+    return <SlidesDirectiveIsland slidePaths={slidePaths} />;
+  }
+}
+```
+
+This pattern separates concerns effectively:
+- **Server-side**: Data fetching, content resolution, SEO
+- **Client-side**: Interactivity, animations, user controls
+- **Bridge**: The island component connects both worlds
 
 ## Maintenance
 

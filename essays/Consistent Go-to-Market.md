@@ -91,6 +91,16 @@ This is where you decide *where* you'll spend your marketing and sales efforts. 
 * **Feedback Collection:** Gathering feedback from customers to identify areas for improvement.
 * **Iteration & Refinement:** Continuously adjusting your strategy based on data and feedback.
 
+## Related Presentations
+
+Here are some presentations that complement this Go-to-Market strategy content:
+
+:::slides
+- [[slides/git-basics|Git Basics for Teams]]
+- [[slides/docker-intro|Docker Introduction]]
+- [[slides/typescript-fundamentals|TypeScript Fundamentals]]
+:::
+
 
 
 
