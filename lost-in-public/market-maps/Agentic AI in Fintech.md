@@ -1,6 +1,6 @@
 ---
 date_created: 2025-07-11
-date_modified: 2025-07-30
+date_modified: 2025-07-31
 site_uuid: c3149383-fa6d-4980-8ea5-7423b7aafdf3
 publish: true
 title: Agentic AI in Fintech
@@ -89,6 +89,10 @@ square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_
 - [[Tooling/Enterprise Jobs-to-be-Done/LocalOperator|LocalOperator]]
 - [[Tooling/AI-Toolkit/Agentic AI/TersaAI|TersaAI]]
 :::
+
+### Small Business Advisory 
+[[vertical-toolkits/FinTech/OffDeal|OffDeal]]
+
 ### Accounts Payable Agents
 [[Tooling/Enterprise Jobs-to-be-Done/Vic AI|Vic AI]]
 
@@ -97,7 +101,8 @@ square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_
 
 ### Embedded Finance
 [[vertical-toolkits/FinTech/Alviere|Alviere]]
-
+[[Tooling/Enterprise Jobs-to-be-Done/Adyen|Adyen]]
+[[Tooling/Software Development/Lego-Kit Engineering Tools/Unit|Unit]]
 ### Commercial Neobanks
 [[Mercury]]
 [[Copper]]
