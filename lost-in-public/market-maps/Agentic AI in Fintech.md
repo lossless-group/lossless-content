@@ -17,7 +17,6 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_A
 square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_in_Fintech_square_image_1753837204290_102neBaRK.webp
 ---
 
-
 # Lighthouse Examples
 ### Open Standards
 [[emergent-innovation/Standards/Interledger|Interledger]]
