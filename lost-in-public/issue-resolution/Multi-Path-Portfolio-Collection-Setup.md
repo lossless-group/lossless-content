@@ -104,9 +104,12 @@ Since both portfolio directories share a common parent in the content structure,
 // src/content.config.ts
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
+import { join } from 'node:path';
+import { pathToFileURL } from 'url';
 import { contentBasePath } from './utils/envUtils.js';
 
-// Function to resolve content paths based on environment
+// Note: The resolveContentPath function already exists in src/content.config.ts
+// You don't need to create it, just use the existing one
 function resolveContentPath(relativePath: string): string {
   // If already within generated-content, return as-is
   if (relativePath.startsWith('./src/generated-content')) {
@@ -249,13 +252,45 @@ export const collections = {
 
 Based on the existing patterns in the codebase, here's how to integrate portfolio collections into the client pages structure:
 
+### Prerequisites
+
+Before starting, verify that you have:
+- Access to `src/content.config.ts` (the main content configuration file)
+- The `resolveContentPath` function already exists in `src/content.config.ts` (around line 10-21)
+- The necessary imports at the top of `src/content.config.ts`:
+  ```typescript
+  import { defineCollection, z } from 'astro:content';
+  import { glob } from 'astro/loaders';
+  import { join } from 'node:path';
+  import { pathToFileURL } from 'url';
+  import { contentBasePath } from './utils/envUtils.js';
+  ```
+
 ### 1. Update Content Configuration
 
-First, add the portfolio collection to `src/content.config.ts`:
+**File:** `src/content.config.ts`
+
+**Note:** The `resolveContentPath` function should already exist in this file. If not, here's the complete function:
 
 ```typescript
-// Add to src/content.config.ts
+// This function should already exist around line 10-21 in src/content.config.ts
+function resolveContentPath(relativePath: string): string {
+  // If already within generated-content, return as-is
+  if (relativePath.startsWith('./src/generated-content')) {
+    return relativePath;
+  }
 
+  const absolutePath = join(contentBasePath, relativePath);
+
+  // Convert to file:// URL
+  return pathToFileURL(absolutePath).href;
+}
+```
+
+**Add this portfolio collection definition** after the other collection definitions (around line 400+):
+
+```typescript
+// Add this new collection definition BEFORE the export statement
 const portfolioCollection = defineCollection({
   loader: glob({ 
     pattern: [
@@ -290,34 +325,48 @@ const portfolioCollection = defineCollection({
     };
   })
 });
+```
 
-// Add to collections export
+**Update the collections export** (around line 500+) by adding the portfolio collection:
+
+```typescript
+// Find the existing export and add 'portfolio' to it
 export const collections = {
-  // ... existing collections
-  'portfolio': portfolioCollection,
+  'cards': cardCollection,
+  'concepts': conceptsCollection,
+  // ... other existing collections ...
+  'client-projects': clientProjectsCollection,
+  'portfolio': portfolioCollection, // ADD THIS LINE
 };
 ```
 
 ### 2. Update Route Manager
 
-Add portfolio route mapping to `src/utils/routing/routeManager.ts`:
+**File:** `src/utils/routing/routeManager.ts`
+
+**Location:** Inside the `defaultRouteMappings` array (around line 33-85)
+
+**Note:** The `client-content` mapping already exists (around line 69-71), so you only need to add the tooling portfolio mapping.
+
+**Add this entry** to the `defaultRouteMappings` array (suggest adding after line 59, after the 'tooling' entry):
 
 ```typescript
-// Add to defaultRouteMappings array
+// Around line 60, after the 'tooling' mapping
 {
   contentPath: 'tooling/Portfolio',
   routePath: 'portfolio'
 },
-{
-  contentPath: 'client-content',
-  routePath: 'client',
-  // Portfolio will be a sub-route under client
-}
+// The client-content mapping already exists and will handle client portfolios
 ```
 
 ### 3. Create Portfolio List Page
 
-Create `src/pages/client/[client]/portfolio/index.astro`:
+**First, create the directory structure:**
+```bash
+mkdir -p src/pages/client/[client]/portfolio
+```
+
+**Then create the file:** `src/pages/client/[client]/portfolio/index.astro`
 
 ```astro
 ---
@@ -411,7 +460,7 @@ const portfolioReferences = portfolioItems.map(item => ({
 
 ### 4. Create Individual Portfolio Page
 
-Create `src/pages/client/[client]/portfolio/[...slug].astro`:
+**Create the file:** `src/pages/client/[client]/portfolio/[...slug].astro`
 
 ```astro
 ---
@@ -465,12 +514,36 @@ const { Content } = await entry.render();
 
 ### 5. Add Portfolio Link to Client Portal Cards
 
-Update the `messages/clientPortalCards.json` to include a portfolio card:
+**File:** `src/content/messages/clientPortalCards.json`
+
+**Important:** The `[client]` placeholder in the link is handled automatically by the IconHeaderMessageCardGrid component. You use it literally as shown.
+
+**Add this card to the existing cards array:**
 
 ```json
 {
   "cards": [
-    // ... existing cards
+    {
+      "title": "Recommendations",
+      "content": "Strategic insights and recommendations tailored for your business",
+      "link": "/client/[client]/recommendations",
+      "icon": "lightbulb",
+      "order": 1
+    },
+    {
+      "title": "Projects",
+      "content": "Active projects and ongoing initiatives",
+      "link": "/client/[client]/projects",
+      "icon": "folder",
+      "order": 2
+    },
+    {
+      "title": "Essays",
+      "content": "In-depth articles and thought leadership pieces",
+      "link": "/client/[client]/essays",
+      "icon": "document",
+      "order": 3
+    },
     {
       "title": "Portfolio",
       "content": "View our portfolio of completed projects and case studies",
@@ -484,7 +557,12 @@ Update the `messages/clientPortalCards.json` to include a portfolio card:
 
 ### 6. Create General Portfolio Page
 
-For non-client-specific portfolio items, create `src/pages/portfolio/[...slug].astro`:
+**First, create the directory:**
+```bash
+mkdir -p src/pages/portfolio
+```
+
+**Then create the file:** `src/pages/portfolio/[...slug].astro`
 
 ```astro
 ---
@@ -538,16 +616,106 @@ const { Content } = await entry.render();
 
 ## Testing the Implementation
 
-1. Add test portfolio files:
-   - `tooling/Portfolio/general-portfolio-item.md`
-   - `client-content/Hypernova/Portfolio/hypernova-case-study.md`
+### 1. Create Test Portfolio Files
 
-2. Verify routes are generated:
-   - `/portfolio/general-portfolio-item`
-   - `/client/hypernova/portfolio`
-   - `/client/hypernova/portfolio/hypernova-case-study`
+**Create test file:** `tooling/Portfolio/general-portfolio-item.md`
+```markdown
+---
+title: General Portfolio Item
+lede: This is a test portfolio item in the general tooling section
+date: 2025-08-02
+tags: 
+  - test
+  - portfolio
+status: published
+banner_image: /images/test-banner.jpg
+---
 
-3. Check that portfolio items appear in the appropriate client portal
+# General Portfolio Item
+
+This is test content for a general portfolio item.
+```
+
+**Create test file:** `client-content/Hypernova/Portfolio/hypernova-case-study.md`
+```markdown
+---
+title: Hypernova Case Study
+lede: A successful project implementation for Hypernova
+date: 2025-08-02
+tags: 
+  - case-study
+  - hypernova
+status: published
+authors: Michael Staton
+---
+
+# Hypernova Case Study
+
+This is test content for a client-specific portfolio item.
+```
+
+### 2. Start Development Server
+
+```bash
+pnpm dev
+```
+
+### 3. Verify Routes
+
+Visit these URLs in your browser:
+- `http://localhost:4321/portfolio/general-portfolio-item` - General portfolio item
+- `http://localhost:4321/client/hypernova/portfolio` - Client portfolio list
+- `http://localhost:4321/client/hypernova/portfolio/hypernova-case-study` - Client portfolio item
+
+### 4. Common Issues and Solutions
+
+**Issue:** Collection not found error
+- **Solution:** Ensure you've added the portfolio collection to the exports in `src/content.config.ts`
+- **Check:** Run `pnpm build` to see detailed error messages
+
+**Issue:** Routes return 404
+- **Solution:** Verify the route manager update and that portfolio directories exist
+- **Check:** Look for build output showing generated routes
+
+**Issue:** Portfolio items not showing in client portal
+- **Solution:** Ensure the client name in the path matches exactly (case-sensitive)
+- **Check:** Console logs will show the detected client name
+
+**Issue:** Markdown not rendering correctly
+- **Solution:** Verify that `entry.render()` is being called in the portfolio page
+- **Check:** The `Content` component should be rendered inside `OneArticle`
+
+## Implementation Checklist
+
+Follow these steps in order:
+
+- [ ] **Step 1:** Open `src/content.config.ts`
+  - [ ] Verify imports are present (join, pathToFileURL, etc.)
+  - [ ] Confirm `resolveContentPath` function exists
+  - [ ] Add portfolio collection definition (around line 400+)
+  - [ ] Add 'portfolio' to the collections export
+
+- [ ] **Step 2:** Update `src/utils/routing/routeManager.ts`
+  - [ ] Add tooling/Portfolio route mapping after line 59
+
+- [ ] **Step 3:** Create portfolio page directories
+  - [ ] Run: `mkdir -p src/pages/client/[client]/portfolio`
+  - [ ] Run: `mkdir -p src/pages/portfolio`
+
+- [ ] **Step 4:** Create portfolio pages
+  - [ ] Create `src/pages/client/[client]/portfolio/index.astro`
+  - [ ] Create `src/pages/client/[client]/portfolio/[...slug].astro`
+  - [ ] Create `src/pages/portfolio/[...slug].astro`
+
+- [ ] **Step 5:** Update client portal cards
+  - [ ] Edit `src/content/messages/clientPortalCards.json`
+  - [ ] Add portfolio card to the cards array
+
+- [ ] **Step 6:** Test the implementation
+  - [ ] Create test portfolio markdown files
+  - [ ] Run `pnpm dev`
+  - [ ] Visit the test URLs
+  - [ ] Verify portfolio items render correctly
 
 ## Final Notes
 
@@ -558,3 +726,12 @@ This solution integrates seamlessly with the existing codebase patterns:
 - Maintains consistency with other content collections
 
 The portfolio collection can be extended with additional fields as needed, and the schema ensures type safety throughout the application.
+
+## Still Having Issues?
+
+If you encounter problems:
+1. Check the console output when running `pnpm dev` for specific error messages
+2. Verify file paths match exactly (case-sensitive)
+3. Ensure all imports are correct at the top of each file
+4. Run `pnpm build` for more detailed error messages
+5. Check that the `DEPLOY_ENV` variable is set correctly in your `.env` file
