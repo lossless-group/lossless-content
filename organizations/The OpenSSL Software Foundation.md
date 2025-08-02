@@ -1,6 +1,7 @@
 ---
-aliases:
-  - OSL
+aliases: [OSL]
+date_created: 2025-04-25
+date_modified: 2025-08-02
 ---
 [[emergent-innovation/OpenSSL]]
 

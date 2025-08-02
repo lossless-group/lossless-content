@@ -16,5 +16,5 @@ tags: [Package-Managers, Apple-Ecosystem]
 ---
 
 [[Tooling/Productivity/MacOS (Operating System)|MacOS (Operating System)]]
-[[Shortcat]]
+[[Tooling/Productivity/Shortcat]]
 

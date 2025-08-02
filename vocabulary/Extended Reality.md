@@ -10,4 +10,4 @@ aliases: [Extended Reality, Virtual Reality, VR, XR]
 
 https://youtu.be/Lp_lH_sq6DA?si=5zJBLQLbOh7MOw9C
 
-[[OpenXR]]
+[[emergent-innovation/Standards/OpenXR]]

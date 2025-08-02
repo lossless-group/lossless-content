@@ -567,7 +567,7 @@ The revenue intelligence market has consolidated around several key players offe
 
 **AI agents now handle end-to-end prospecting workflows, from research to initial outreach**. These systems can identify companies using complementary technologies, craft hyper-personalized messages referencing specific pain points or recent events, and automatically follow up based on engagement patterns[^iqv8pk]. **SaaS companies using agentic AI can appear ubiquitously in front of target buyers**, often doubling or tripling sales qualified leads with the same human headcount.
 
-**Predictive [[Lead Scoring]] uses AI to analyze customer behavior patterns and past interactions**, helping businesses identify which leads are most likely to convert[^2adjnh]. **Salesforce's Einstein automatically ranks leads based on conversion likelihood**, enabling sales teams to focus efforts on high-potential prospects and improving acquisition efficiency.
+**Predictive [[Vocabulary/Lead Scoring]] uses AI to analyze customer behavior patterns and past interactions**, helping businesses identify which leads are most likely to convert[^2adjnh]. **Salesforce's Einstein automatically ranks leads based on conversion likelihood**, enabling sales teams to focus efforts on high-potential prospects and improving acquisition efficiency.
 
 ### Real-Time Personalization at Scale
 

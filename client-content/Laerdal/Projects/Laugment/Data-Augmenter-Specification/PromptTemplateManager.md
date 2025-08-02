@@ -122,10 +122,10 @@ sequenceDiagram
 [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/PromptManagerSrc/ListItem--Prompt|ListItem--Prompt]]
 
 ### Shared Components
-[[SharedSearchContainer]]
+[[client-content/Laerdal/Projects/Laugment/SharedSearchContainer]]
 [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/shared-ui-elements/SharedFilterContainer]]
 [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/shared-ui-elements/SharedFilterDropdown]]
-[[SharedPromptEditor]]
+[[client-content/Laerdal/Projects/Laugment/SharedPromptEditor]]
 	[[SharedMdxEditor]]
 	[[SharedJsonEditor]]
 [[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/shared-ui-elements/SharedListColumn|SharedListColumn]]

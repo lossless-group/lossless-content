@@ -7,5 +7,5 @@ date_modified: 2025-08-01
 
 
 A [[Standards Organizations|Standards Organization]].
-[[OpenXR]]
+[[emergent-innovation/Standards/OpenXR]]
 

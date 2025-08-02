@@ -1,14 +1,18 @@
 ---
 site_uuid: 800eb7d5-144f-4b76-9c39-f1d08bab549c
-date_modified: 2025-07-24
+date_modified: 2025-08-02
 date_created: 2025-03-30
-tags: [AI-Toolkit]
+tags: [AI-Toolkit, AI-Powered-Data-Capture, Data-Capture, Explainers]
+publish: true
+title: AI Powered Data Capture
+slug: ai-powered-data-capture
+at_semantic_version: 0.0.0.1
 ---
 ### AI Powered Web Crawlers
-See [[concepts/Explainers for AI/AI Web Crawlers]]
+See [[concepts/Explainers for AI/AI Web Crawlers|AI Web Crawlers]]
 
 Tools like: 
-``` yaml toolingGallery
+```tool-showcase
 [[Hexomatic]] 
 [[Spider]]
 [[Jina.ai]] 
@@ -27,9 +31,9 @@ https://youtu.be/mK_h1OZHzHE?si=4dPfGigzUZFO6Wtw
 ### AI Powered Transcription Services
 Include [[Fathom AI]], [[Granola]], [[Bubbles]]
 
-A wearable device is [[Limitless AI]]
+A wearable device is [[Tooling/AI-Toolkit/Data Augmenters/Limitless AI|Limitless AI]]
 
-[[Unstract]]
+[[Tooling/AI-Toolkit/Data Augmenters/Unstract|Unstract]]
 
 https://youtu.be/PYkjffkLLZ8?si=yTeFbmfFnOTfSPGi
 
@@ -54,11 +58,11 @@ https://youtu.be/_Y_1ojMSNdg?si=jAOUzGPUhbKxiFoD
 >     
 >     - Extract data from websites with dynamic content or anti-bot measures.
 >     - Process non-standard formats like embedded tables, PDFs, or images.
->     - Use Natural Language Processing (NLP) to clean and contextualize the data.
+>     - Use [[Vocabulary/Natural Language Processing|Natural Language Processing]] (NLP) to clean and contextualize the data.
 > - **Notable Providers:**
 >     
->     - **Diffbot:** Offers AI-driven web scraping and data extraction with its Knowledge Graph, which structures web data automatically.
->     - **Octoparse:** Provides a no-code platform for web scraping with AI-based features to handle complex sites.
+>     - **[[Diffbot]]:** Offers AI-driven web scraping and data extraction with its Knowledge Graph, which structures web data automatically.
+>     - **[[Octoparse]]:** Provides a no-code platform for web scraping with AI-based features to handle complex sites.
 >     - **[[BrightData]] (formerly Luminati):** Offers advanced web scraping tools with powerful AI capabilities for real-time data collection.
 > 
 > **Use Case:** A retailer could track competitor pricing, customer reviews, and product availability using AI scrapers.
@@ -76,9 +80,9 @@ https://youtu.be/_Y_1ojMSNdg?si=jAOUzGPUhbKxiFoD
 >     - Automate workflows like document digitization or inventory management.
 > - **Notable Providers:**
 >     
->     - **Clarifai:** Specializes in computer vision and AI-powered image and video analysis, including OCR and object detection.
->     - **Sighthound:** Provides enterprise-level computer vision solutions for video analytics and object recognition.
->     - **OpenCV AI Kit (OAK):** Offers open-source tools and hardware for edge-based computer vision applications.
+>     - **[[Clarifai]]:** Specializes in computer vision and AI-powered image and video analysis, including OCR and object detection.
+>     - **[[Sighthound]]:** Provides enterprise-level computer vision solutions for video analytics and object recognition.
+>     - **[[OpenCV AI Kit]] (OAK):** Offers open-source tools and hardware for edge-based computer vision applications.
 > 
 > **Use Case:** A logistics company can track shipments and inventory using AI-powered image and video analysis.
 > 
@@ -95,9 +99,9 @@ https://youtu.be/_Y_1ojMSNdg?si=jAOUzGPUhbKxiFoD
 >     - Normalize and clean datasets for analysis.
 > - **Notable Providers:**
 >     
->     - **DataRobot:** Uses machine learning to automate the cleaning and processing of semi-structured data for modeling.
->     - **PandasAI:** Built on the popular Pandas library, it uses AI to assist with data wrangling and sense-making from semi-structured sources.
->     - **Super.AI:** A platform for automating semi-structured data extraction and annotation, integrating AI workflows seamlessly.
+>     - **[[DataRobot]]:** Uses machine learning to automate the cleaning and processing of semi-structured data for modeling.
+>     - **[[Tooling/Data Utilities/Pandas AI|Pandas AI]]:** Built on the popular Pandas library, it uses AI to assist with data wrangling and sense-making from semi-structured sources.
+>     - **[[Super AI]]:** A platform for automating semi-structured data extraction and annotation, integrating AI workflows seamlessly.
 > 
 > **Use Case:** A SaaS company could analyze customer support tickets in JSON format to identify common issues.
 > 
@@ -114,9 +118,9 @@ https://youtu.be/_Y_1ojMSNdg?si=jAOUzGPUhbKxiFoD
 >     - Summarize and analyze content using LLMs.
 > - **Notable Providers:**
 >     
->     - **DocParser:** Extracts structured data from PDFs, invoices, and other documents using AI.
->     - **Rossum:** Focuses on AI-based document processing, especially for invoices and contracts.
->     - **Read.ai:** Uses AI to process messy files, offering deep insights and integrations with business systems.
+>     - **[[DocParser]]:** Extracts structured data from PDFs, invoices, and other documents using AI.
+>     - **[[Rossum]]:** Focuses on AI-based document processing, especially for invoices and contracts.
+>     - **[[Read.ai]]:** Uses AI to process messy files, offering deep insights and integrations with business systems.
 > 
 > **Use Case:** A finance team could extract transactional data from scanned receipts and spreadsheets for expense analysis.
 > 
@@ -133,8 +137,8 @@ https://youtu.be/_Y_1ojMSNdg?si=jAOUzGPUhbKxiFoD
 >     - Use LLMs to query legacy systems conversationally.
 > - **Notable Providers:**
 >     
->     - **Celonis:** Offers process mining tools that analyze data from legacy systems to identify inefficiencies.
->     - **Workato:** Provides AI-powered automation for integrating legacy systems with modern platforms.
+>     - **[[Celonis]]:** Offers process mining tools that analyze data from legacy systems to identify inefficiencies.
+>     - **[[Workato]]:** Provides AI-powered automation for integrating legacy systems with modern platforms.
 >     - **[[Hevo Data]]:** A no-code solution for integrating and syncing data from legacy databases to cloud systems.
 > 
 > **Use Case:** A manufacturing company could modernize its ERP system by migrating data from on-premise databases to the cloud.
@@ -152,9 +156,9 @@ https://youtu.be/_Y_1ojMSNdg?si=jAOUzGPUhbKxiFoD
 >     - Enable conversational search for non-technical users.
 > - **Notable Providers:**
 >     
->     - **Lucidworks:** Provides AI-powered enterprise search and discovery solutions.
->     - **Algolia:** Specializes in AI-enhanced search for websites and applications.
->     - **Elastic (Elasticsearch):** Offers advanced search and analytics capabilities, with AI-driven extensions.
+>     - **[[Lucidworks]]:** Provides AI-powered enterprise search and discovery solutions.
+>     - **[[Algolia]]:** Specializes in AI-enhanced search for websites and applications.
+>     - **[[Elastic]] (Elasticsearch):** Offers advanced search and analytics capabilities, with AI-driven extensions.
 > 
 > **Use Case:** A law firm can use AI-powered search to quickly locate relevant case files and legal precedents.
 > 
@@ -171,9 +175,9 @@ https://youtu.be/_Y_1ojMSNdg?si=jAOUzGPUhbKxiFoD
 >     - Automate the creation of dashboards and reports.
 > - **Notable Providers:**
 >     
->     - **ThoughtSpot:** Provides AI-driven BI tools with natural language search capabilities for analytics.
->     - **Mode Analytics:** Combines AI with collaborative data analysis for business insights.
->     - **Looker (by Google):** Integrates AI for advanced data visualization and analysis.
+>     - **[[ThoughtSpot]]:** Provides AI-driven BI tools with natural language search capabilities for analytics.
+>     - **[[Tooling/Data Utilities/Mode|Mode]] Analytics:** Combines AI with collaborative data analysis for business insights.
+>     - **[[Looker]] (by Google):** Integrates AI for advanced data visualization and analysis.
 > 
 > **Use Case:** A marketing team could use AI-powered dashboards to track campaign performance and predict customer engagement trends.
 > 
@@ -184,9 +188,9 @@ https://youtu.be/_Y_1ojMSNdg?si=jAOUzGPUhbKxiFoD
 > By connecting these capabilities across the organization, businesses can create unified data ecosystems for real-time insights and decision-making.
 > 
 > - **End-to-End Providers:**
->     - **Palantir:** Offers comprehensive data integration and analysis platforms for large-scale enterprises.
->     - **Databricks:** Provides a unified platform for data engineering, machine learning, and analytics.
->     - **Snowflake:** A cloud-based data warehouse with AI-powered integrations for analytics and collaboration.
+>     - **[[Palantir]]:** Offers comprehensive data integration and analysis platforms for large-scale enterprises.
+>     - **[[Tooling/Data Utilities/DataBricks|DataBricks]]:** Provides a unified platform for data engineering, machine learning, and analytics.
+>     - **[[Snowflake]]:** A cloud-based data warehouse with AI-powered integrations for analytics and collaboration.
 > 
 > ---
 > 
