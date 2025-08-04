@@ -89,11 +89,44 @@ const portfolioCollection = defineCollection({
 ```
 
 ## The "Aha!" Moment
+
+### Initial Discovery
 After researching the Astro documentation and community solutions, we discovered three viable approaches:
 
 1. **Pattern Arrays with Common Parent** - Use glob patterns to match multiple subdirectories
 2. **Multiple Collections Approach** - Create separate collections and combine them programmatically
 3. **Custom Loader** - Build a custom loader to handle multiple directories
+
+### The Real Eureka: Layout Pipeline Issue
+
+After implementing the portfolio collection and fixing the case sensitivity issue, we discovered that portfolio routes were returning 200 OK but displaying the wrong content. The routes were returning HTML but it was showing the Client Portal page instead of the actual portfolio markdown content.
+
+**The Root Cause**: The portfolio route was using `ClientPortalLayout` instead of the proper markdown rendering pipeline. This meant:
+
+1. **What we expected**: Portfolio markdown content rendered through OneArticle.astro → OneArticleOnPage.astro → AstroMarkdown.astro
+2. **What we got**: Client Portal page template instead of the markdown content
+
+**The Critical Realization**: Portfolio files are markdown documents that need to go through the standard content rendering pipeline, just like essays, recommendations, and projects. They should NOT use the ClientPortalLayout - that's only for portal landing pages.
+
+**The Solution**: Change the portfolio route from:
+```astro
+<ClientPortalLayout client={client} slug={slug} />
+```
+
+To the proper markdown rendering pipeline:
+```astro
+<Layout title={entry.data.title || 'Portfolio Item'} frontmatter={entry.data}>
+  <OneArticle
+    Component={OneArticleOnPage}
+    content={entry.body}
+    markdownFile={entry.id}
+    data={contentData}
+    title={entry.data.title}
+  />
+</Layout>
+```
+
+This ensures that markdown directives like `:::slideshow` render correctly and the portfolio content displays as intended.
 
 ## Proposed Solutions
 
@@ -378,19 +411,50 @@ import ReferenceGrid from '@components/reference/ReferenceGrid.astro';
 export async function getStaticPaths() {
   const portfolio = await getCollection('portfolio');
   
-  // Get unique client names from portfolio items
+  // Get list of client directories from filesystem to preserve case
+  const fs = await import('node:fs/promises');
+  const path = await import('node:path');
+  const { contentBasePath } = await import('@utils/envUtils');
+  
+  const clientContentDir = path.resolve(`${contentBasePath}/client-content`);
+  const clientDirs = await fs.readdir(clientContentDir, { withFileTypes: true });
+  const clientNames = clientDirs
+    .filter(entry => entry.isDirectory())
+    .map(entry => entry.name);
+  
+  // Create a case-insensitive map to preserve original case
+  const clientCaseMap = new Map(
+    clientNames.map(name => [name.toLowerCase(), name])
+  );
+  
+  // Extract client from the id path for items in client-content
+  const portfolioWithClients = portfolio.map(item => {
+    const idParts = item.id.split('/');
+    const isClientContent = idParts.includes('client-content');
+    const clientIndex = idParts.indexOf('client-content');
+    const extractedClientLower = isClientContent && clientIndex !== -1 ? idParts[clientIndex + 1] : null;
+    // Restore original case from filesystem
+    const extractedClient = extractedClientLower ? clientCaseMap.get(extractedClientLower) || extractedClientLower : null;
+    
+    return {
+      ...item,
+      extractedClient
+    };
+  });
+  
+  // Get unique client names with proper case
   const clients = [...new Set(
-    portfolio
-      .filter(item => item.data.client)
-      .map(item => item.data.client)
+    portfolioWithClients
+      .filter(item => item.extractedClient)
+      .map(item => item.extractedClient)
   )];
   
   return clients.map(client => ({
-    params: { client: getReferenceSlug(client) },
+    params: { client },
     props: { 
       client,
-      portfolioItems: portfolio.filter(item => 
-        item.data.client?.toLowerCase() === client.toLowerCase()
+      portfolioItems: portfolioWithClients.filter(item => 
+        item.extractedClient?.toLowerCase() === client.toLowerCase()
       )
     }
   }));
@@ -674,8 +738,9 @@ Visit these URLs in your browser:
 - **Check:** Run `pnpm build` to see detailed error messages
 
 **Issue:** Routes return 404
-- **Solution:** Verify the route manager update and that portfolio directories exist
-- **Check:** Look for build output showing generated routes
+- **Solution:** This is likely a case sensitivity issue. Astro's glob loader normalizes paths to lowercase
+- **Fix:** The portfolio pages must preserve the original case from the filesystem
+- **Check:** Ensure the getStaticPaths function reads actual directory names from the filesystem
 
 **Issue:** Portfolio items not showing in client portal
 - **Solution:** Ensure the client name in the path matches exactly (case-sensitive)
