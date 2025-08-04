@@ -97,16 +97,36 @@ After researching the Astro documentation and community solutions, we discovered
 2. **Multiple Collections Approach** - Create separate collections and combine them programmatically
 3. **Custom Loader** - Build a custom loader to handle multiple directories
 
-### The Real Eureka: Case Sensitivity Issue
+### The Real Eureka: Layout Pipeline Issue
 
-After implementing the portfolio collection, we discovered that routes were returning 404 errors despite the pages being built. The issue turned out to be a case sensitivity mismatch between:
+After implementing the portfolio collection and fixing the case sensitivity issue, we discovered that portfolio routes were returning 200 OK but displaying the wrong content. The routes were returning HTML but it was showing the Client Portal page instead of the actual portfolio markdown content.
 
-1. **What was requested**: `/client/Hypernova/portfolio` (with capital H)
-2. **What was generated**: `/client/hypernova/portfolio` (lowercase)
+**The Root Cause**: The portfolio route was using `ClientPortalLayout` instead of the proper markdown rendering pipeline. This meant:
 
-The root cause: Astro's glob loader normalizes file paths to lowercase when creating collection IDs. This meant that even though our filesystem had `client-content/Hypernova/Portfolio/`, the collection entries had IDs like `client-content/hypernova/portfolio/item-name`.
+1. **What we expected**: Portfolio markdown content rendered through OneArticle.astro → OneArticleOnPage.astro → AstroMarkdown.astro
+2. **What we got**: Client Portal page template instead of the markdown content
 
-**The Solution**: Preserve the original case by reading the actual directory names from the filesystem and mapping them back to the collection entries. This ensures that routes match the expected case-sensitive URLs.
+**The Critical Realization**: Portfolio files are markdown documents that need to go through the standard content rendering pipeline, just like essays, recommendations, and projects. They should NOT use the ClientPortalLayout - that's only for portal landing pages.
+
+**The Solution**: Change the portfolio route from:
+```astro
+<ClientPortalLayout client={client} slug={slug} />
+```
+
+To the proper markdown rendering pipeline:
+```astro
+<Layout title={entry.data.title || 'Portfolio Item'} frontmatter={entry.data}>
+  <OneArticle
+    Component={OneArticleOnPage}
+    content={entry.body}
+    markdownFile={entry.id}
+    data={contentData}
+    title={entry.data.title}
+  />
+</Layout>
+```
+
+This ensures that markdown directives like `:::slideshow` render correctly and the portfolio content displays as intended.
 
 ## Proposed Solutions
 
