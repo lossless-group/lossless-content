@@ -13,7 +13,7 @@ augmented_with: "Claude Code with Claude Opus 4"
 working_with: "Claude Code"
 category: Issue-Resolution
 date_created: 2025-08-02
-date_modified: 2025-08-04
+date_modified: 2025-08-05
 image_prompt: "A digital flowchart showing multiple portfolio folders merging into a single collection stream, with Astro logo and file paths"
 site_uuid: 828827c3-4a13-4f05-967f-d5eb837f5f05
 tags: [Astro, Content-Collections, Portfolio, Multi-Path-Collections, Static-Site-Generation]
