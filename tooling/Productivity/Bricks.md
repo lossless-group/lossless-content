@@ -10,10 +10,9 @@ og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads_lossless_screenshot
 jina_last_request: '2025-03-09T06:45:02.163Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-03-07T05:19:01.824Z'
-date_modified: 2025-04-12
+date_modified: 2025-08-04
 date_created: 2025-03-30
-tags:
-  - Productivity
+tags: [Productivity]
 ---
 
 [[Advanced Spreadsheets]], [[AI Native Applications|AI Native]]

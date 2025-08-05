@@ -1,32 +1,29 @@
 ---
-title: Creating an Astro Collection from Multiple Directory Paths
-lede: Solving the challenge of combining multiple portfolio directories into a single unified collection
-date: Sat Aug 02 2025 12:00:00 GMT-0500 (Central Daylight Time)
+title: "Creating an Astro Collection from Multiple Directory Paths"
+lede: "Solving the challenge of combining multiple portfolio directories into a single unified collection"
+date: "Sat Aug 02 2025 12:00:00 GMT-0500 (Central Daylight Time)"
 date_authored_initial_draft: 2025-08-02
 date_authored_current_draft: 2025-08-02
 date_authored_final_draft: null
-date_first_published: null
+date_first_published: 2025-08-04
 date_last_updated: null
 at_semantic_version: 0.0.0.1
 status: In-Progress
-augmented_with: Claude Code with Claude Opus 4
-working_with: Claude Code
+augmented_with: "Claude Code with Claude Opus 4"
+working_with: "Claude Code"
 category: Issue-Resolution
 date_created: 2025-08-02
-date_modified: 2025-08-02
+date_modified: 2025-08-04
 image_prompt: "A digital flowchart showing multiple portfolio folders merging into a single collection stream, with Astro logo and file paths"
 site_uuid: 828827c3-4a13-4f05-967f-d5eb837f5f05
-tags: 
-  - Astro
-  - Content-Collections
-  - Portfolio
-  - Multi-Path-Collections
-  - Static-Site-Generation
+tags: [Astro, Content-Collections, Portfolio, Multi-Path-Collections, Static-Site-Generation]
 authors:
   - Michael Staton
-portrait_image: null
-banner_image: null
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Multi-Path-Portfolio-Collection-Setup_portrait_image_1754305063964_yEWI-SXRt.webp"
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Multi-Path-Portfolio-Collection-Setup_banner_image_1754305061462_DheeGyouA.webp"
+square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Multi-Path-Portfolio-Collection-Setup_square_image_1754305065863_MY1GlwjfT.webp"
 ---
+
 
 # Creating an Astro Collection from Multiple Directory Paths
 
