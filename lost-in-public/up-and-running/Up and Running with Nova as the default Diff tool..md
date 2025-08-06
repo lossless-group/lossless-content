@@ -4,6 +4,7 @@ date_modified: 2025-07-23
 tags: [Version-Control, Continuous-Integration, Desktop-App, Text-Editors]
 site_uuid: 3f364d68-984f-4244-8895-742e1e2c5af7
 publish: true
+authors: [Michael Staton]
 title: "Up And Running With Nova As The Default Diff Tool."
 slug: up-and-running-with-nova-as-the-default-diff-tool
 at_semantic_version: 0.0.0.1

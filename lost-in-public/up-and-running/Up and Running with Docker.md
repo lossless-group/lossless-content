@@ -6,6 +6,7 @@ title: Up And Running With Docker
 slug: up-and-running-with-docker
 at_semantic_version: 0.0.0.1
 publish: true
+authors: [Michael Staton]
 tags: [Container-Runtimes, Reproducible-Builds, Continuous-Deployment]
 ---
 ```bash

@@ -6,6 +6,7 @@ publish: false
 title: Up And Running With Nixpacks
 slug: up-and-running-with-nixpacks
 at_semantic_version: 0.0.0.1
+authors: [Michael Staton]
 tags: [Reproducible-Builds, Emphemeral-Environments]
 ---
 

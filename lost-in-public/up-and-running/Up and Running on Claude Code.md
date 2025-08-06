@@ -5,6 +5,7 @@ title: "Up And Running On Claude Code"
 at_semantic_version: 0.0.0.1
 slug: up-and-running-on-claude-code
 publish: true
+authors: [Michael Staton]
 tags: [Code-Generators, Terminal-Applications]
 site_uuid: c9631a38-55a0-4d05-8201-266e99df62f7
 ---

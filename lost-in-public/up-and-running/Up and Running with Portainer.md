@@ -1,3 +1,14 @@
+---
+date_created: 2025-07-28
+date_modified: 2025-08-06
+site_uuid: 181775c5-7336-4a34-b55e-39961b47fece
+publish: true
+title: Up And Running With Portainer
+slug: up-and-running-with-portainer
+at_semantic_version: 0.0.0.1
+authors: [Michael Staton]
+tags: [Open-Source-Alternatives, Container-Management]
+---
 # Up and Running with Portainer
 
 A complete guide to setting up Portainer as a container management interface for Podman on Linux systems.

@@ -6,6 +6,7 @@ publish: true
 title: Up And Running With Marimo
 slug: up-and-running-with-marimo
 at_semantic_version: 0.0.0.1
+authors: [Michael Staton]
 tags: [Data-Analysis, Interactive-Notebooks]
 ---
 

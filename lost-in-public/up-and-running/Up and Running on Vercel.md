@@ -6,6 +6,7 @@ title: Up And Running On Vercel
 at_semantic_version: 0.0.0.1
 slug: up-and-running-on-vercel
 publish: true
+authors: [Michael Staton]
 tags: [Continuous-Deployment, Continuous-Integration]
 ---
 

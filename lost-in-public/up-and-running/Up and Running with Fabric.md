@@ -7,6 +7,7 @@ title: Up And Running With Fabric
 slug: up-and-running-with-fabric
 at_semantic_version: 0.0.0.1
 publish: false
+authors: [Michael Staton]
 tags: [AI-Orchestrators, Open-Source-Alternatives, Terminal-Applications, Text-User-Interfaces]
 ---
 

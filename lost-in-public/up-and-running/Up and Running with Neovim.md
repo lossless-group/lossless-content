@@ -7,6 +7,7 @@ site_uuid: f4a71b9f-8f52-4e4d-af6f-af4040f7b671
 title: Up And Running With Neovim
 slug: up-and-running-with-neovim
 at_semantic_version: 0.0.0.1
+authors: [Michael Staton]
 ---
 
 ```bash

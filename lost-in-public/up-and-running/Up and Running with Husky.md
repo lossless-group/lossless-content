@@ -6,6 +6,8 @@ title: "Up And Running With Husky"
 slug: up-and-running-with-husky
 at_semantic_version: 0.0.0.1
 publish: false
+authors: [Michael Staton]
+tags: [Version-Control, Git-Ecosystem, Continuous-Integration]
 ---
 [[Tooling/Products/Husky|Husky]]
 

@@ -6,6 +6,7 @@ publish: true
 title: Up And Running With Python
 slug: up-and-running-with-python
 at_semantic_version: 0.0.0.1
+authors: [Michael Staton]
 tags: [Python-Ecosystem, Programming-Languages]
 ---
 

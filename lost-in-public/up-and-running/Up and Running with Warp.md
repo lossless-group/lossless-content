@@ -7,6 +7,7 @@ publish: true
 title: Up And Running With Warp
 slug: up-and-running-with-warp
 at_semantic_version: 0.0.0.1
+authors: [Michael Staton]
 ---
 If you can use a package manager, that will be better. 
 ```bash

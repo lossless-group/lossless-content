@@ -6,6 +6,7 @@ publish: true
 title: Up And Running With Mermaid
 slug: up-and-running-with-mermaid
 at_semantic_version: 0.0.0.1
+authors: [Michael Staton]
 tags: [Diagrams-as-Code, Visual-Communication, Visual-Engineering]
 ---
 

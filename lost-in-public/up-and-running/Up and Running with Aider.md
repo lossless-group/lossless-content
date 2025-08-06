@@ -7,6 +7,7 @@ title: Up And Running With Aider
 slug: up-and-running-with-aider
 at_semantic_version: 0.0.0.1
 publish: true
+authors: [Michael Staton]
 tags: [Terminal-Applications, Code-Generators, Text-User-Interfaces]
 ---
 
