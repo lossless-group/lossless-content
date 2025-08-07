@@ -4,21 +4,27 @@ title: "Manageable User Options"
 lede: "Configure and manage user options for build scripts and content processing"
 date_authored_initial_draft: 2025-04-14
 date_authored_current_draft: 2025-04-14
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft: "[]"
+date_first_published: "[]"
+date_last_updated: "[]"
 at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: "Windsurf Cascade on Claude 3.5 Sonnet"
 category: Explorations
 date_created: 2025-04-14
-date_modified: 2025-07-28
+date_modified: 2025-08-07
 tags: [Configuration, Build-Scripts, User-Options, Directory-Management, Code-Style]
 authors:
   - Michael Staton
 publish: true
 slug: generative-ai-for-brand-images
+image_prompt: "A robot representing generative AI is Bob Ross the painter from televisions, he has an afro and a Painbrush, and a wall of his work is behind him."
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Generative_AI_for_Brand_Images_banner_image_1754567276174_heQe1JnZd.webp"
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Generative_AI_for_Brand_Images_portrait_image_1754567278320_KqWNJW3bj.webp"
+square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Generative_AI_for_Brand_Images_square_image_1754567280274_DZ7dC0X2J.webp"
 ---
+###### Related Content
+[[lost-in-public/market-maps/AI for Creative Professions|AI for Creative Professions]]
 ## Background
 
 
