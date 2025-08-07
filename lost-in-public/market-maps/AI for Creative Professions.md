@@ -1,6 +1,6 @@
 ---
 date_created: 2024-12-15
-date_modified: 2025-07-08
+date_modified: 2025-08-07
 site_uuid: d66ab607-bee2-4799-968f-be7fe0f83f5a
 title: AI for Creative Professions
 lede: Generative AI is a powerful tool that can only be used effectively with a solid foundation of knowledge and skills.
@@ -61,7 +61,7 @@ Generative AI is rapidly transforming creative fields—such as design, photogra
 - **Augmented Creativity:** AI serves as a collaborative partner, offering novel ideas and perspectives, and helping overcome creative blocks. [^4cdfe9] [^e1f350]
 - **Democratization:** Access to powerful creative tools is no longer limited to those with specialized training, fostering greater diversity in creative outputs. [^f37b62] [^4cdfe9]
 
-- [ ] ### Challenges and **Concerns****
+### Challenges and ***Concerns***
 
 - **Job Security:** Many creative professionals, especially freelancers, report decreased job security and compensation as AI-generated content becomes more prevalent. [^4668d2] [^48cad1]
 - **Originality & Authorship:** The rise of AI-generated works raises complex questions about intellectual property, authorship, and the value of human creativity. [^f37b62] [^4668d2]
@@ -83,23 +83,24 @@ Generative AI is rapidly transforming creative fields—such as design, photogra
 Generative AI is fundamentally reshaping creative professions by boosting productivity, expanding creative horizons, and democratizing access to powerful tools. However, it also introduces significant challenges related to job security, originality, and ethics. The future of creative work will likely depend on how professionals, organizations, and policymakers navigate these opportunities and risks. [^f37b62] [^4cdfe9] [^4668d2]
 
 # Sources
-[^c9e413]: Generative AI - Transforming Art, Design, and Media https://tcognition.com/blogs/generative-ai-in-art-design-and-media/
-[^e1f350]: Generative AI in Creative Work: Shocking Study https://magai.co/generative-ai-has-transformed-creative-work/
-[^f37b62]: Impacts of Generative AI on Creative Work https://aisel.aisnet.org/amcis2025/sig_cnow/sig_cnow/14/
-[^4cdfe9]: Creative professions in danger ? How generative AI ... https://anthemcreation.com/en/artificial-intelligence/creative-professions-in-danger-how-generative-ai-is-reshaping-the-future-of-creation/
-[^7b9d1e]: Generative AI in Media & Entertainment: Use Cases https://www.miquido.com/blog/generative-ai-in-media-and-entertainment/
-[^490304]: We made an ad with generative AI - Microsoft Design https://microsoft.design/articles/we-made-an-ad-with-generative-ai/
-[^052a50]: Generative AI In Creative Industries Global Market Report 2025 https://www.thebusinessresearchcompany.com/report/generative-ai-in-creative-industries-global-market-report
-[^5713d4]: AI Revolution in Creative Industries: Tools & Trends 2025 https://futuramo.com/blog/how-ai-is-transforming-creative-work/
-[^fcb9b5]: Revolutionizing Ad Creatives: Generative AI in Action https://www.clickguard.com/blog/chatgpt-supercharges-image-video-production-with-generative-ai/
-[^4668d2]: New Report Reveals Alarming Impact of Generative AI on ... https://www.rareformaudio.com/blog/generative-ai-impact-on-creative-jobs
-[^48cad1]: Creative Industries and GenAI: Executive Summary - IFOW https://www.ifow.org/publications/executive-summary-creative-industries
-[^fdb144]: The impact of GenAI on the creative industries https://www.weforum.org/stories/2025/01/the-impact-of-genai-on-the-creative-industries/
-[^b056f3]: AI in the workplace: A report for 2025 https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/superagency-in-the-workplace-empowering-people-to-unlock-ais-full-potential-at-work
-[^a6f1d1]: The effects of generative AI on productivity, innovation and ... https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/the-effects-of-generative-ai-on-productivity-innovation-and-entrepreneurship_da1d085d/b21df222-en.pdf
-[^254a23]: The impending disruption of creative industries by generative AI https://www.sciencedirect.com/science/article/abs/pii/S0268401224000070
-[^8e767b]: AI's Impact On Creative Professions In The B2B Space https://www.forbes.com/sites/kaleighmoore/2025/03/02/ais-impact-on-creative-professions-in-the-b2b-space/
-[^82dcd0]: Generative AI in the Creative Industries - PhilArchive https://philarchive.org/rec/ELHGAI
-[^06e571]: The Impact of Generative AI on Creativity and Productivity ... https://esoftskills.ie/the-impact-of-generative-ai-on-creativity-and-productivity/
-[^2d7d88]: From visuals to value: leveraging generative AI to explore ... https://www.sciencedirect.com/science/article/abs/pii/S0148296325003212
-[^bcee67]: Generative AI has its sights set on advertising, film, and TV https://www.forbes.com.au/news/innovation/openai-sora-what-does-it-mean-for-the-future-of-media/
+
+[^c9e413]: [Generative AI - Transforming Art, Design, and Media](https://tcognition.com/blogs/generative-ai-in-art-design-and-media/)
+[^e1f350]: [Generative AI in Creative Work: Shocking Study](https://magai.co/generative-ai-has-transformed-creative-work/)
+[^f37b62]: [Impacts of Generative AI on Creative Work](https://aisel.aisnet.org/amcis2025/sig_cnow/sig_cnow/14/)
+[^4cdfe9]: [Creative professions in danger ? How generative AI ...](https://anthemcreation.com/en/artificial-intelligence/creative-professions-in-danger-how-generative-ai-is-reshaping-the-future-of-creation/)
+[^7b9d1e]: [Generative AI in Media & Entertainment: Use Cases](https://www.miquido.com/blog/generative-ai-in-media-and-entertainment/)
+[^490304]: [We made an ad with generative AI - Microsoft Design](https://microsoft.design/articles/we-made-an-ad-with-generative-ai/)
+[^052a50]: [Generative AI In Creative Industries Global Market Report 2025](https://www.thebusinessresearchcompany.com/report/generative-ai-in-creative-industries-global-market-report)
+[^5713d4]: [AI Revolution in Creative Industries: Tools & Trends 2025](https://futuramo.com/blog/how-ai-is-transforming-creative-work/)
+[^fcb9b5]: [Revolutionizing Ad Creatives: Generative AI in Action](https://www.clickguard.com/blog/chatgpt-supercharges-image-video-production-with-generative-ai/)
+[^4668d2]: [New Report Reveals Alarming Impact of Generative AI on ...](https://www.rareformaudio.com/blog/generative-ai-impact-on-creative-jobs)
+[^48cad1]: [Creative Industries and GenAI: Executive Summary - IFOW](https://www.ifow.org/publications/executive-summary-creative-industries)
+[^fdb144]: [The impact of GenAI on the creative industries](https://www.weforum.org/stories/2025/01/the-impact-of-genai-on-the-creative-industries/)
+[^b056f3]: [AI in the workplace: A report for 2025](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/superagency-in-the-workplace-empowering-people-to-unlock-ais-full-potential-at-work)
+[^a6f1d1]: [The effects of generative AI on productivity, innovation and ...](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/the-effects-of-generative-ai-on-productivity-innovation-and-entrepreneurship_da1d085d/b21df222-en.pdf)
+[^254a23]: [The impending disruption of creative industries by generative AI](https://www.sciencedirect.com/science/article/abs/pii/S0268401224000070)
+[^8e767b]: [AI's Impact On Creative Professions In The B2B Space](https://www.forbes.com/sites/kaleighmoore/2025/03/02/ais-impact-on-creative-professions-in-the-b2b-space/)
+[^82dcd0]: [Generative AI in the Creative Industries - PhilArchive](https://philarchive.org/rec/ELHGAI)
+[^06e571]: [The Impact of Generative AI on Creativity and Productivity ...](https://esoftskills.ie/the-impact-of-generative-ai-on-creativity-and-productivity/)
+[^2d7d88]: [From visuals to value: leveraging generative AI to explore ...](https://www.sciencedirect.com/science/article/abs/pii/S0148296325003212)
+[^bcee67]: [Generative AI has its sights set on advertising, film, and TV](https://www.forbes.com.au/news/innovation/openai-sora-what-does-it-mean-for-the-future-of-media/)

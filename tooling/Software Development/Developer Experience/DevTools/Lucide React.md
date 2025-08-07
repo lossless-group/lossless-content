@@ -8,11 +8,11 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:44:59.543Z
 jina_error: Error occurred
 og_last_fetch: 2025-06-06T13:49:58.450Z
-date_modified: 2025-07-24
+date_modified: 2025-08-06
 date_created: 2025-03-30
 og_image: https://lucide.dev/og.png
 og_url: https://lucide.dev
 description: Beautiful & consistent icon toolkit made by the community.
-tags: [Software-Development, Digital-Assets-Library, UI-Libraries]
+tags: [Software-Development, UI-Libraries, Digital-Asset-Libraries]
 ---
 
