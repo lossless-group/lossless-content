@@ -10,10 +10,10 @@ at_semantic_version: 0.0.0.1
 ---
 
 ## Purpose
-The [[client-content/Laerdal/Projects/Augment-It/Specs/RequestReviewer|RequestReviewer]] is a [[Microfrontend Architecture|Microfrontend]] that gives users the ability to review the selected prompt from the [[client-content/Laerdal/Projects/Augment-It/Specs/PromptTemplateManager|PromptTemplateManager]] filled with variables from the [[client-content/Laerdal/Projects/Augment-It/Specs/RecordCollector|RecordCollector]]
+The [[projects/Augment-It/Specs/RequestReviewer|RequestReviewer]] is a [[Microfrontend Architecture|Microfrontend]] that gives users the ability to review the selected prompt from the [[projects/Augment-It/Specs/PromptTemplateManager|PromptTemplateManager]] filled with variables from the [[projects/Augment-It/Specs/RecordCollector|RecordCollector]]
 
 # Shared Components
-[[client-content/Laerdal/Projects/Augment-It/Specs/shared-ui-elements/SharedModalWrapper|SharedModalWrapper]]
+[[projects/Augment-It/Specs/shared-ui-elements/SharedModalWrapper|SharedModalWrapper]]
 
 
 ## Custom Components

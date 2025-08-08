@@ -490,6 +490,9 @@ c. Update this specification based on any utility files, wrapper components, etc
      - Clickable behavior for file navigation
     - **Styling**: Reuse existing card and content styling patterns from AstroMarkdown
 
+
+![JSON Canvas UI as of August 8, 2025](https://i.imgur.com/SkkJSEu.gif)
+
 #### COMPLETED: Mermaid Diagram Rendering in File Previews
 
 **Implementation Details:**
@@ -557,6 +560,7 @@ if (window.mermaid && window.__MERMAID_LOADED__) {
 
 ### 🚀 Next Phase: Visual Polish and Enhancement
 1. **Visual Improvements**
+   - 🔄When inside the zoom percentage field, Up and down keys increment up and down.  Shift up and down increment by 5%
    - 🔄 Enhanced styling and visual polish ("make it pretty")
    - 🔄 Better node styling with improved typography and spacing
    - 🔄 Enhanced edge styling with better arrow rendering

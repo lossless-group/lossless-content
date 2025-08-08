@@ -18,4 +18,4 @@ tags: [Microservices]
     - PUT /prompts/{id}: Update an existing prompt.
     - SAVE /prompts/{id}: Save this version of an existing prompt.
     - DELETE /prompts/{id}: Delete a prompt.
-    - POST /prompts/execute: Execute a prompt against the data from the [[client-content/Laerdal/Projects/Augment-It/Specs/RecordCollector|RecordCollector]], utilizing [[Vocabulary/Module Federation|Module Federation]] on to access AI search model and web crawler services.
+    - POST /prompts/execute: Execute a prompt against the data from the [[projects/Augment-It/Specs/RecordCollector|RecordCollector]], utilizing [[Vocabulary/Module Federation|Module Federation]] on to access AI search model and web crawler services.

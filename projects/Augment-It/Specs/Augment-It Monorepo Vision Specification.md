@@ -34,15 +34,15 @@ TypeScript, WebSockets or REST APIs for communication with microfrontend and oth
         - Implement communication patterns (e.g., using Events or Remote Procedure Calls) to facilitate interaction between federation providers.
 
 # Version 1
-1. [[client-content/Laerdal/Projects/Augment-It/Specs/shell-ui/MainContainerUI|MainContainerUI]]
-	1. [[client-content/Laerdal/Projects/Augment-It/Specs/RecordCollector|RecordCollector]]
-	2. [[client-content/Laerdal/Projects/Augment-It/Specs/PromptTemplateManager|PromptTemplateManager]]
-	3. [[client-content/Laerdal/Projects/Augment-It/Specs/RequestReviewer|RequestReviewer]]
-	4. [[client-content/Laerdal/Projects/Augment-It/Specs/ResponseReviewer|ResponseReviewer]]
-	5. [[client-content/Laerdal/Projects/Augment-It/Specs/HighlightCollector|HighlightCollector]]
-	6. [[client-content/Laerdal/Projects/Augment-It/Specs/InsightManager|InsightManager]]
+1. [[projects/Augment-It/Specs/shell-ui/MainContainerUI|MainContainerUI]]
+	1. [[projects/Augment-It/Specs/RecordCollector|RecordCollector]]
+	2. [[projects/Augment-It/Specs/PromptTemplateManager|PromptTemplateManager]]
+	3. [[projects/Augment-It/Specs/RequestReviewer|RequestReviewer]]
+	4. [[projects/Augment-It/Specs/ResponseReviewer|ResponseReviewer]]
+	5. [[projects/Augment-It/Specs/HighlightCollector|HighlightCollector]]
+	6. [[projects/Augment-It/Specs/InsightManager|InsightManager]]
 
-The [[client-content/Laerdal/Projects/Augment-It/Specs/shell-ui/MainContainerUI|MainContainerUI]] is a [[Vocabulary/Front-End|Front-End]] that enables users to work through various [[Vocabulary/Microfrontend Architecture|Microfrontends]]  as part of a [[concepts/Data Augmentation Workflow|Data Augmentation Workflow]].
+The [[projects/Augment-It/Specs/shell-ui/MainContainerUI|MainContainerUI]] is a [[Vocabulary/Front-End|Front-End]] that enables users to work through various [[Vocabulary/Microfrontend Architecture|Microfrontends]]  as part of a [[concepts/Data Augmentation Workflow|Data Augmentation Workflow]].
 
 # Open Questions
 How to share API Keys and other secure info.

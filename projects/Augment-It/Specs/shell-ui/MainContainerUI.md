@@ -11,15 +11,15 @@ lede: The `shell` that creates the windows for other apps to be loaded into.
 ---
 
 ## Purpose
-The [[client-content/Laerdal/Projects/Augment-It/Specs/shell-ui/MainContainerUI|MainContainerUI]] dynamically loads [[Microfrontend Architecture|Microfrontends]] in a columnar layout. Each column functions as a Window, and the root directory uses a [[Vocabulary/Module Federation]] library to load the Microfrontend "Apps" within these Windows. 
+The [[projects/Augment-It/Specs/shell-ui/MainContainerUI|MainContainerUI]] dynamically loads [[Microfrontend Architecture|Microfrontends]] in a columnar layout. Each column functions as a Window, and the root directory uses a [[Vocabulary/Module Federation]] library to load the Microfrontend "Apps" within these Windows. 
 
 ###### Barebones Layout
 As of February 21st, 2025
 ![MainContainerUI as of February 21st, 2025](https://i.imgur.com/v4QVUkM.gif)
 
 ## Components
-[[client-content/Laerdal/Projects/Augment-It/Specs/shell-ui/AppWindow|AppWindow]]
-[[client-content/Laerdal/Projects/Augment-It/Specs/shared-ui-elements/SharedHeader|SharedHeader]]
+[[projects/Augment-It/Specs/shell-ui/AppWindow|AppWindow]]
+[[projects/Augment-It/Specs/shared-ui-elements/SharedHeader|SharedHeader]]
 
 
 
