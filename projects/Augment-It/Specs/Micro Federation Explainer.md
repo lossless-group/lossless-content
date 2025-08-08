@@ -1,3 +1,14 @@
+---
+date_created: 2025-08-08
+date_modified: 2025-08-08
+tags: [Microfrontends, Module-Federation]
+site_uuid: fb08f7d0-fe0f-416e-8841-bbafc0acfd68
+publish: true
+title: "Micro Federation Explainer"
+slug: micro-federation-explainer
+at_semantic_version: 0.0.0.1
+---
+
 # 📘 Micro-Federation Technical Supplement
 
 This document expands on the **Micro-Federation Architecture Blueprint**, providing deeper explanations of the concepts, tools, and decisions behind the chosen stack.

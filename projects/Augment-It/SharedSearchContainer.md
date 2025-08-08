@@ -1,7 +1,7 @@
 ---
 date_created: 2025-07-24
-date_modified: 2025-07-24
-tags: [Components]
+date_modified: 2025-08-08
+tags: [Components, Module-Federation]
 site_uuid: 030ab07e-5cfd-4b8b-aece-5347c732b959
 publish: true
 title: SharedSearchContainer

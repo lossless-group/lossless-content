@@ -1,3 +1,14 @@
+---
+date_created: 2025-08-08
+date_modified: 2025-08-08
+tags: [Module-Federation, Microservices, Microfrontends]
+site_uuid: 347190b6-2acc-457c-807d-f3309cf05be7
+publish: true
+title: "Micro Federation Blueprint"
+slug: micro-federation-blueprint
+at_semantic_version: 0.0.0.1
+---
+
 # Micro-Federation Architecture Blueprint
 ## Module Federation with Vite, React, and Turborepo
 

@@ -1,7 +1,7 @@
 ---
-tags: [Specifications]
+tags: [Specifications, Module-Federation, Microfrontends]
 date_created: 2025-02-25
-date_modified: 2025-07-24
+date_modified: 2025-08-08
 site_uuid: 7239d549-9ce1-4d31-9e6b-d784b73d35af
 publish: true
 title: ResponseReviewer

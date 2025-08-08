@@ -6,6 +6,7 @@ title: InsightManager
 slug: insight-manager
 at_semantic_version: 0.0.0.1
 publish: true
+site_uuid: 23b9a747-29bd-4af3-9f2e-e417e463d7f7
 ---
 
 

@@ -5,6 +5,6 @@ title: AppWindow
 slug: app-window
 at_semantic_version: 0.0.0.1
 date_created: 2025-07-25
-date_modified: 2025-07-25
-tags: [Components]
+date_modified: 2025-08-08
+tags: [Components, Microfrontends, Module-Federation]
 ---

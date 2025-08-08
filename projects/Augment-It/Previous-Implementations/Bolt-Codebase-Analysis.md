@@ -1,3 +1,13 @@
+---
+date_created: 2025-08-08
+date_modified: 2025-08-08
+site_uuid: 01528df0-a923-4414-8894-3a41c36ca6be
+publish: true
+title: Bolt Codebase Analysis
+slug: bolt-codebase-analysis
+at_semantic_version: 0.0.0.1
+tags: [Code-Generators, Rapid-Prototyping]
+---
 # Bolt Codebase Analysis
 
 ## Overview

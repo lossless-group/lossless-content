@@ -1,6 +1,12 @@
 ---
 date_created: 2025-08-08
 date_modified: 2025-08-08
+site_uuid: 79db56a6-6b80-4581-a45b-2146e97bccd6
+publish: true
+title: APIProviderWidget Analysis
+slug: apiproviderwidget-analysis
+at_semantic_version: 0.0.0.1
+tags: [API-Integrations]
 ---
 # API Provider Widget Analysis and Specification
 

@@ -6,6 +6,7 @@ publish: true
 title: UserAuthorizationService
 slug: user-authorization-service
 at_semantic_version: 0.0.0.1
+tags: [Microservices]
 ---
 # Purpose
 The User Authorization Service allows users to create accounts, manage passwords and other forms of [[Personally Idenfying Information]]

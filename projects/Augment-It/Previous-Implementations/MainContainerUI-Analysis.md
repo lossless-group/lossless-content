@@ -1,3 +1,14 @@
+---
+date_created: 2025-08-08
+date_modified: 2025-08-08
+site_uuid: 4881bdb2-0eb2-47a0-af25-5930d70762e7
+publish: true
+title: MainContainerUI Analysis
+slug: maincontainerui-analysis
+at_semantic_version: 0.0.0.1
+tags: [Module-Federation, UI-Components]
+---
+
 # MainContainerUI Analysis and Specification
 
 ## Current Architecture Analysis

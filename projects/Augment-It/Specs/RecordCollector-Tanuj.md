@@ -1,9 +1,12 @@
 ---
-tags: [Specifications]
-
+tags: [Specifications, Microfrontends, Microservices]
 date_created: 2025-02-24
-
-date_modified: 2025-07-24
+date_modified: 2025-08-08
+site_uuid: a3c04589-12f3-450f-84a4-fb2e14267be0
+publish: true
+title: RecordCollector Tanuj
+slug: recordcollector-tanuj
+at_semantic_version: 0.0.0.1
 ---
 # Data Augmenter - Phase 1 Implementation
 

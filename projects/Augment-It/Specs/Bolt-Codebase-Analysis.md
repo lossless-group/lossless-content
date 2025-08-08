@@ -1,3 +1,14 @@
+---
+date_created: 2025-08-08
+date_modified: 2025-08-08
+tags: [Specifications, Rapid-Prototyping]
+site_uuid: fced36cd-4c1f-497f-b1ce-20863c029417
+publish: true
+title: "Bolt Codebase Analysis"
+slug: bolt-codebase-analysis
+at_semantic_version: 0.0.0.1
+---
+
 # Bolt Codebase Analysis
 
 ## Overview

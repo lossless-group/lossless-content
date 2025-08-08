@@ -1,6 +1,12 @@
 ---
 date_created: 2025-07-24
-date_modified: 2025-07-24
+date_modified: 2025-08-08
+site_uuid: b37337cd-e1dd-41c7-9917-f0e6469886e9
+publish: true
+title: Data Augmentation Microfrontends
+slug: data-augmentation-microfrontends
+at_semantic_version: 0.0.0.1
+tags: [Data-Augmenters, Module-Federation, Microfrontends]
 ---
 
 

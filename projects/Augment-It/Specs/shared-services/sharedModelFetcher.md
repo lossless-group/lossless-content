@@ -1,4 +1,10 @@
 ---
 date_created: 2025-06-07
-date_modified: 2025-07-24
+date_modified: 2025-08-08
+site_uuid: 5e641bbc-53a7-4e89-9783-009ddbd4a229
+publish: true
+title: SharedModelFetcher
+slug: sharedmodelfetcher
+at_semantic_version: 0.0.0.1
+tags: [Microservices]
 ---

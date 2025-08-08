@@ -1,12 +1,12 @@
 ---
 date_created: 2025-02-24
-date_modified: 2025-07-25
+date_modified: 2025-08-08
 site_uuid: bcb620da-8fa4-4eab-b0b8-09b9634dfab2
 publish: true
 title: Laugment Monorepo
 slug: laugment-monorepo-vision
 at_semantic_version: 0.0.0.1
-aliases: [Laugment Monorepo, Laugment, Data Augmenter]
+aliases: [Augment-It, Augment It]
 ---
 
 ![Augment-It Working Banner Image](https://i.imgur.com/JFdSlQt.png)
