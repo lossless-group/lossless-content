@@ -1,11 +1,10 @@
 ---
 site_uuid: b1414bca-37db-4c6f-8260-a80853ac2e72
 date_created: 2025-03-30
-date_modified: 2025-04-24
-aliases:
-  - Programming Language
+date_modified: 2025-08-07
+aliases: [Programming Language]
 ---
-
+![Practical example or use case visualization](https://assets.janbasktraining.com/blog/uploads/images/15_best_programming_languages_to_learn_1.webp)
 The market-standard, never going anywhere languages are [[Tooling/Software Development/Programming Languages/Python]] and [[JavaScript]]. 
 
 Data Science and Data Analytics are starting to gravitate towards [[Tooling/Software Development/Programming Languages/Julia]] 

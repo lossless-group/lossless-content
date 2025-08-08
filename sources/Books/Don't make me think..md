@@ -1,7 +1,7 @@
 ---
 amazon-url: https://a.co/d/1SUwwui
 ---
-Influential in [[User Interface]] design and [[Customer Experience]].
+Influential in [[User Interface]] design and [[Sources/Laerdal Entities/Customer Experience]].
 
 2022, Jan 01. 3rd Edition. [Don't Make Me Think, Revisited : A Common Sense Approach to Web & Mobile Usability](https://a.co/d/1SUwwui). Pearson, Neha Publishers & Distributors.  
 

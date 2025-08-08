@@ -21,7 +21,7 @@ og_favicon: https://cdn.prod.website-files.com/6130fa1501794ed4d11867ba/6157393b
 ---
 
 [[iPaaS]], [[concepts/Data Fluidics|Data Fluidics]]
-[[Data Hubs]]
+[[concepts/Explainers for Tooling/Data Hubs]]
 
 
 

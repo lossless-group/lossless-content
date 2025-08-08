@@ -1,10 +1,9 @@
 ---
-wikipedia-url: 'https://en.wikipedia.org/wiki/State_of_the_art'
+wikipedia_url: https://en.wikipedia.org/wiki/State_of_the_art
 site_uuid: 7e01043d-4e19-466d-8cca-d6f779787795
 date_created: 2025-03-30
-date_modified: 2025-04-24
-aliases:
-  - SOTA
+date_modified: 2025-08-08
+aliases: [SOTA]
 ---
 
 According to Wikipedia:

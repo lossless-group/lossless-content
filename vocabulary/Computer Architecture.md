@@ -1,27 +1,23 @@
 ---
 site_uuid: d37576f7-289c-4cbd-9909-fe13cdf84f92
 publish: true
-title: "Computer Architecture"
+title: Computer Architecture
 slug: computer-architecture
 at_semantic_version: 0.0.0.1
 date_created: 2025-08-07
-date_modified: 2025-08-07
+date_modified: 2025-08-08
+tags: [Software-Architecture, Home-Labs, Emphemeral-Environments]
 ---
 
-**Error:** Failed to fetch
 
-***
-
-
-***
 > [!info] **Perplexity Query** (2025-08-07T16:45:52.149Z)
 > **Question:**
 > What is Computer Architecture?  How is it different than Chip Design?  Who are the major inventors of state of the art computer architecture?  What companies do what kind of revenues that have this kind of IP?  Include links to companies, bios, and please make rigorous citations.
 > 
 > **Image References:**
 > Please include the following image references throughout your response where appropriate:
-> - ![Relevant diagram or illustration related to the topic](https://d8it4huxumps7.cloudfront.net/bites/wp-content/banners/2024/2/65c3272fe07d3_copy_of_blog_template__32_.jpg)
-> - ![Practical example or use case visualization](https://media.geeksforgeeks.org/wp-content/uploads/20190512115102/Untitled-Diagram28.png)
+> - 
+> - 
 > - ![Additional supporting visual content](https://upload.wikimedia.org/wikipedia/commons/0/08/Computer_architecture_block_diagram.png)
 > **Model:** sonar-pro
 > 
@@ -48,26 +44,6 @@ date_modified: 2025-08-07
 > ### **Response from sonar-pro**:
 
 
-**Error:** Failed to fetch
-
-***
-
-
-***
-> [!info] **Perplexity Query** (2025-08-07T16:47:42.532Z)
-> **Question:**
-> What is Computer Architecture? How is it different than Chip Design? Who are the major inventors of state of the art computer architecture? What companies do what kind of revenues that have this kind of IP? Include links to companies, bios, and please make rigorous citations.
-> 
-> **Image References:**
-> Please include the following image references throughout your response where appropriate:
-> - ![Relevant diagram or illustration related to the topic](https://www.instaclustr.com/wp-content/uploads/2021/10/image1-2.png)
-> - ![Practical example or use case visualization](https://tutorialspedia.com/wp-content/uploads/2020/10/kafka-architecture.png)
-> - ![Additional supporting visual content](https://daxg39y63pxwu.cloudfront.net/images/blog/apache-kafka-architecture-/image_589142173211625734253276.png)
-> **Model:** sonar-pro
-> 
-> ### **Response from sonar-pro**:
-
-
 
 ***
 > [!info] **Perplexity Query** (2025-08-07T16:57:56.813Z)
@@ -76,8 +52,8 @@ date_modified: 2025-08-07
 > 
 > **Image References:**
 > Please include the following image references throughout your response where appropriate:
-> - ![Relevant diagram or illustration related to the topic](https://media.geeksforgeeks.org/wp-content/uploads/20240604175624/Kafka-Architecture-01-01.webp)
-> - ![Practical example or use case visualization](https://assets.janbasktraining.com/blog/uploads/images/15_best_programming_languages_to_learn_1.webp)
+> - 
+> - 
 > - ![Additional supporting visual content](https://www.ksolves.com/wp-content/uploads/Best-Programming-Languages-For-Artificial-Intelligence-Projects_11zon.jpg)
 > **Model:** sonar-pro
 > 
@@ -85,22 +61,16 @@ date_modified: 2025-08-07
 
 **Computer architecture** is the structural and functional design of a computer system's core components, including the processor, memory, and input/output controls, as seen from both hardware and software perspectives. [^nr9iur] [^f1ohsv] This high-level blueprint determines how a machine executes instructions and interacts with programs, focusing on performance, reliability, and efficiency. [^nr9iur] [^f1ohsv]
 
+![Relevant diagram or illustration related to the topic](https://d8it4huxumps7.cloudfront.net/bites/wp-content/banners/2024/2/65c3272fe07d3_copy_of_blog_template__32_.jpg)
+
 **How Computer Architecture Differs from Chip Design:**
 - **Computer architecture** is primarily concerned with *what* a system does—its organization, instruction set (ISA), memory systems, and data pathways. It shapes what programs can do and how efficiently they can run. [^nr9iur] [^f1ohsv]
 - **Chip design** (or microarchitecture/physical design) is the process of *how* to implement the architecture's functions at the circuit and layout level. This involves detailed design of integrated circuits, logic gates, chip layouts, and meeting constraints like power and cost. [^62p53b] [^yblc0d]
 
-| Aspect                             | Computer Architecture             | Chip Design (Microarchitecture/Physical)                |
-|-------------------------------------|-----------------------------------|----------------------------------------------------------|
-| Scope                              | System structure & instruction set| Physical implementation of functional blocks              |
-| Focus                              | Functionality, performance        | Transistors, logic gates, silicon layouts                 |
-| Example Decisions                  | ISA, cache hierarchy, pipeline    | Flip-flop choice, layout of ALU, physical wiring         |
-| Skills                             | Systems engineering, algorithms   | Electrical/IC engineering, semiconductor physics          |
+![Practical example or use case visualization](https://media.geeksforgeeks.org/wp-content/uploads/20190512115102/Untitled-Diagram28.png)
 
+![Relevant diagram or illustration related to the topic](https://www.instaclustr.com/wp-content/uploads/2021/10/image1-2.png)
 
-**IMAGE 1: ![Relevant diagram or illustration related to the topic](https://bunny-wp-pullzone-3xue3q6yzy.b-cdn.net/resources/wp-content/uploads/sites/4/2020/06/NortheasternUniversity-ProgrammingLanguage-option2-1.jpg)**
-*(A common diagram here would compare the layers: high-level architecture, microarchitecture, RTL, and physical layout, showing the abstraction stack from system design to chip tapeout.)*
-
----
 
 **Major Inventors of State-of-the-Art Computer Architecture:**
 Several pioneering computer architects have shaped modern computing. Not all have direct corporate association (some were academics, leaders at multiple companies, or government researchers).
@@ -109,16 +79,16 @@ Several pioneering computer architects have shaped modern computing. Not all hav
 - **Seymour Cray**: Invented several supercomputers, notably the CDC 6600 and Cray-1, introducing advanced pipelining and vector processing. [^nr9iur]
 - **Gordon Bell**: Led the development of the DEC VAX architecture. [^nr9iur]
 - **Jim Keller**: Instrumental at AMD (K8, Zen), Apple (A4/A5 chips), and Tesla (AI chips) in CPU/microarchitecture design. [^nr9iur]
-- **David Patterson & John Hennessy**: Created the RISC (Reduced Instruction Set Computing) architecture, foundational for ARM and modern CPUs. [^nr9iur]
+- **David Patterson & John Hennessy**: Created the [[emergent-innovation/Standards/RISC-V|RISC]] (Reduced Instruction Set Computing) architecture, foundational for ARM and modern CPUs. [^nr9iur]
 - **John Cocke**: Key developer behind IBM's RISC efforts. [^nr9iur]
 - **Yale Patt**: Developed out-of-order execution and other performance improvements used in modern processors. [^nr9iur]
 
-**IMAGE 2: ![Practical example or use case visualization](https://www.inapps.net/wp-content/uploads/2022/02/Fastest-Programming-Languages.jpg)**
+![Practical example or use case visualization](https://tutorialspedia.com/wp-content/uploads/2020/10/kafka-architecture.png)
+
+**
 *(A visualization here might show a side-by-side of RISC and CISC pipelines, illustrating their microarchitectural differences and performance advantages.)*
 
----
-
-**Major Companies and Their Computer Architecture Revenue**
+### **Major Companies and Their Computer Architecture Revenue**
 
 | Company        | Notable Architecture IP          | Major Revenue Streams (2024)                 |
 |----------------|---------------------------------|-----------------------------------------------|
@@ -137,30 +107,20 @@ Several pioneering computer architects have shaped modern computing. Not all hav
 - **NVIDIA:** 2024 revenue estimates exceed $60 billion, fueled by AI/datacenter accelerators.
 - **Apple:** Hardware devices (integrating proprietary ARM SoCs) drive >$200 billion in annual revenue, though their chip IP is not sold externally.
 
-**IMAGE 3: ![Additional supporting visual content](https://media.geeksforgeeks.org/wp-content/uploads/20240517173121/Top-Programming-Languages-for-Machine-Learning.webp)**
-*(A pie chart showing market share or revenue distribution among leading architecture/IP vendors.)*
-
-
 
 ***
-> [!info] **Perplexity Query** (2025-08-07T16:59:52.786Z)
-> **Question:**
-> How would you define platforms like Kafka and Java?  These seem to be more than programming languages.  What are they? How do they work?
-> 
-> **Image References:**
-> Please include the following image references throughout your response where appropriate:
-> - [IMAGE 1: Relevant diagram or illustration related to the topic]
-> - [IMAGE 2: Practical example or use case visualization]
-> - [IMAGE 3: Additional supporting visual content]
-> **Model:** sonar-pro
-> 
-> ### **Response from sonar-pro**:
+# Computational Virtual Machines
+
+
+![Additional supporting visual content](https://media.geeksforgeeks.org/wp-content/uploads/20240517173121/Top-Programming-Languages-for-Machine-Learning.webp)
+_(A pie chart showing market share or revenue distribution among leading architecture/IP vendors.)_
 
 **Kafka and Java are not programming languages; they are fundamentally different types of software platforms that serve distinct, complementary roles in the development and operation of modern systems.**
 
----
-
 **Kafka: Data Streaming and Messaging Platform**
+
+![Additional supporting visual content](https://daxg39y63pxwu.cloudfront.net/images/blog/apache-kafka-architecture-/image_589142173211625734253276.png)
+*Kafka architecture diagram showing producers, topics (with partitions), consumers, and brokers working together in a distributed system.*
 
 - **What is it?**
   
@@ -178,13 +138,7 @@ Several pioneering computer architects have shaped modern computing. Not all hav
     - **Streams API:** Process streams of data in real time  
     - **Connector API:** Integrate with external systems[^n71xfk] [^dlgxf7]
 
-**[IMAGE 1: Relevant diagram or illustration related to the topic]**
-
-*Kafka architecture diagram showing producers, topics (with partitions), consumers, and brokers working together in a distributed system.*
-
----
-
-**Java: Programming Language and Software Platform**
+#### **Java: Programming Language and Software Platform**
 
 - **What is it?**
   
@@ -198,13 +152,7 @@ Several pioneering computer architects have shaped modern computing. Not all hav
 
   Java is not itself a messaging or data streaming system—it is the *foundation upon which applications (including Kafka) are often built*.
 
-**[IMAGE 2: Practical example or use case visualization]**
-
-*Visualization of a Java developer writing code, which gets compiled and runs on multiple types of platforms (server, desktop, mobile) thanks to the JVM.*
-
----
-
-**Kafka vs. Java: Nature and Purpose**
+### **Kafka vs. Java: Nature and Purpose**
 
 | Feature/Property       | Kafka                                              | Java                                               |
 |------------------------|---------------------------------------------------|----------------------------------------------------|
@@ -215,18 +163,20 @@ Several pioneering computer architects have shaped modern computing. Not all hav
 | **Core APIs/Functions**| Producer, Consumer, Streams, Connector APIs       | Standard APIs, rich library and framework support  |
 | **Relation**           | Often built using Java (Kafka is implemented in Java/Scala) | Can be used to build Kafka producers/consumers     |
 
----
+ ![Practical example or use case visualization](https://www.inapps.net/wp-content/uploads/2022/02/Fastest-Programming-Languages.jpg)
 
 **How They Work Together**
 
 - **Kafka is implemented in Java (and Scala),** leveraging Java’s maturity and performance.
 - Developers often use **Java to write applications that send data to or consume data from Kafka clusters.**
 
-**[IMAGE 3: Additional supporting visual content]**
+[IMAGE 3: Additional supporting visual content]
 
 *Illustration showing Java applications (producers and consumers) connecting to Kafka clusters to produce and consume event streams.*
 
----
+
+[Relevant diagram or illustration related to the topic](https://media.geeksforgeeks.org/wp-content/uploads/20240604175624/Kafka-Architecture-01-01.webp) 
+
 
 **Summary**
 
@@ -236,33 +186,24 @@ Several pioneering computer architects have shaped modern computing. Not all hav
 Kafka is infrastructure for data movement; Java is a tool for building software, including the very infrastructure that Kafka relies upon. [^yblc0d] [^nr9iur] [^f1ohsv]
 
 
-
-***
 > [!info] **Perplexity Query** (2025-08-07T17:05:15.076Z)
 > **Question:**
 > What other programming languages also have their own computational Virtual Machines?
-> 
-> **Image References:**
-> Please include the following image references throughout your response where appropriate:
-> - [IMAGE 1: Relevant diagram or illustration related to the topic]
-> - [IMAGE 2: Practical example or use case visualization]
-> - [IMAGE 3: Additional supporting visual content]
-> **Model:** sonar-pro
-> 
+>
 > ### **Response from sonar-pro**:
 
 Many modern programming languages have their own computational **Virtual Machines (VMs)** that execute code in a platform-independent way, similar to the Java Virtual Machine (JVM). These VMs provide a runtime environment for the language, enabling features such as portability, security, and performance optimizations.
 
 **Key Programming Languages with Their Own Virtual Machines:**
 
-- **Java**: Runs on the **Java Virtual Machine (JVM)**. The JVM is notable for supporting many additional languages beyond Java, such as Scala, Kotlin, Groovy, JRuby, Jython, Clojure, and more, by translating source code into JVM bytecode[1][2][4].  
+- **Java**: Runs on the **Java Virtual Machine (JVM)**. The JVM is notable for supporting many additional languages beyond Java, such as [[Scala]], [[Kotlin]], [[Groovy]], JRuby, Jython, [[Clojure]], and more, by translating source code into JVM bytecode. [^1nfskw] [^od46nc] [^7hn9qh]  
   [IMAGE 1: Relevant diagram or illustration related to JVM and multi-language support]
 
 - **Python**: Standard implementation (CPython) operates with a **Python Virtual Machine (PVM)**, interpreting Python bytecode.
 
 - **.NET Languages** (C#, F#, VB.NET): Execute on the **Common Language Runtime (CLR)**, the VM component of Microsoft's .NET framework. Languages compile to a common Intermediate Language (IL), which the CLR executes.
 
-- **Ruby**: Has multiple VMs, including **YARV** (Yet Another Ruby VM, the standard since Ruby 1.9), **Rubinius**, and **JRuby** (which targets JVM bytecode)[4].
+- **Ruby**: Has multiple VMs, including **YARV** (Yet Another Ruby VM, the standard since Ruby 1.9), **Rubinius**, and **JRuby** (which targets JVM bytecode). [^7hn9qh]
 
 - **Erlang**: Uses the **BEAM VM**, designed for highly concurrent and fault-tolerant systems.
 
@@ -278,11 +219,10 @@ Many modern programming languages have their own computational **Virtual Machine
 
 - **Haskell**: Has VMs such as the GHCi runtime for interpreted execution (but typically compiles to native code for production).
 
-[IMAGE 2: Practical example or use case visualization—show, for instance, how multiple languages target the JVM or CLR for enterprise applications]
 
 **Additional Notes:**
-- Some languages also target the VMs of other ecosystems for interoperability. For example, Python (as Jython), Ruby (as JRuby), and Haskell (as Eta or Frege) can be compiled to run on the JVM, while others target the .NET CLR[1][2][4].  
-- Polyglot VMs like **GraalVM** enable running multiple programming languages in the same runtime environment, including Java, JavaScript, Ruby, R, Python, and more, facilitating language interoperability[3].
+- Some languages also target the VMs of other ecosystems for interoperability. For example, [[Tooling/Software Development/Programming Languages/Python|Python]] (as Jython), [[Tooling/Software Development/Programming Languages/Ruby|Ruby]] (as JRuby), and [[Tooling/Software Development/Programming Languages/Haskell]] (as Eta or Frege) can be compiled to run on the JVM, while others target the .NET CLR. [^1nfskw] [^od46nc] [^7hn9qh]  
+- Polyglot VMs like **GraalVM** enable running multiple programming languages in the same runtime environment, including Java, JavaScript, Ruby, R, Python, and more, facilitating language interoperability. [^no9zeq]
 
 | Language   | Virtual Machine         | Notable Features                               |
 |:-----------|:-----------------------|:-----------------------------------------------|
@@ -299,17 +239,10 @@ Many modern programming languages have their own computational **Virtual Machine
 
 [IMAGE 3: Additional supporting visual content—diagram of polyglot GraalVM running multiple language runtimes side by side]
 
-Most modern, widely adopted programming languages are either built with their own VM or support execution on a generalized VM, significantly enhancing code portability, language tooling, and runtime capabilities[1][2][4].
-
-***
+Most modern, widely adopted programming languages are either built with their own VM or support execution on a generalized VM, significantly enhancing code portability, language tooling, and runtime capabilities. [^1nfskw] [^od46nc] [^7hn9qh]
 
 
-***
-
-
----
-
-**Links to Companies and Notable Inventors' Bios:**
+#### **Links to Companies and Notable Inventors' Bios:**
 
 - [Intel Corporation](https://www.intel.com)
 - [AMD](https://www.amd.com)
@@ -318,25 +251,19 @@ Most modern, widely adopted programming languages are either built with their ow
 - [ARM Ltd.](https://www.arm.com)
 - [IBM](https://www.ibm.com)
 
-Notable Inventors:
-- [John von Neumann - Wikipedia] [^nr9iur]
-- [Jim Keller - Wikipedia] [^nr9iur]
-- [David Patterson - Wikipedia] [^nr9iur]
-- [John Hennessy - Wikipedia] [^nr9iur]
-- [Seymour Cray - Wikipedia] [^nr9iur]
-- [Gordon Bell - Wikipedia] [^nr9iur]
+#### Notable Inventors:
+- [John von Neumann ](https://en.wikipedia.org/wiki/John_von_Neumann) 
+- [Jim Keller](https://en.wikipedia.org/wiki/Jim_Keller_(engineer)) 
+- [David Patterson](https://en.wikipedia.org/wiki/David_Patterson_(computer_scientist)) 
+- [John Hennessy](https://en.wikipedia.org/wiki/John_L._Hennessy)
+- [Seymour Cray](https://en.wikipedia.org/wiki/Seymour_Cray)
+- [Gordon Bell](https://en.wikipedia.org/wiki/Gordon_Bell)
 
----
 
 **Citations:**
-- For definitions and distinctions between architecture and chip design: . [^nr9iur] [^62p53b] [^f1ohsv] [^yblc0d]
+- For definitions and distinctions between architecture and chip design. [^nr9iur] [^62p53b] [^f1ohsv] [^yblc0d]
 - For inventor contributions: . [^nr9iur]
 - For company revenues and IP leadership: publicly disclosed annual reports and . [^nr9iur]
-
-If further links or very specific bios are required, please specify the individual(s) or company of interest.
-
-***
-
 
 ### Citations
 
@@ -348,13 +275,13 @@ If further links or very specific bios are required, please specify the individu
 
 [^yblc0d]: 2025, Jul 31. ["From Chip Design to Chip Learning" by Yunji CHEN, Zidong DU et al.](https://bulletinofcas.researchcommons.org/journal/vol37/iss1/3/). Updated: 2025-07-31
 
-[5]: 2025, Jul 21. [What is the difference between chip architecture, design and design ...](https://forum.allaboutcircuits.com/threads/what-is-the-difference-between-chip-architecture-design-and-design-verification.185938/). Updated: 2025-07-21
+[^g3b7mw]: 2025, Jul 21. [What is the difference between chip architecture, design and design ...](https://forum.allaboutcircuits.com/threads/what-is-the-difference-between-chip-architecture-design-and-design-verification.185938/). Updated: 2025-07-21
 
 
 
 ### Citations
 
-[^n71xfk]: 2025, Aug 01. [Apache Kafka® architecture: A complete guide [2025]](https://www.instaclustr.com/education/apache-kafka/apache-kafka-architecture-a-complete-guide-2025/). Published: 2025-06-03 | Updated: 2025-08-01
+[^n71xfk]: 2025, Aug 01. [Apache Kafka® architecture: A complete guide, 2025](https://www.instaclustr.com/education/apache-kafka/apache-kafka-architecture-a-complete-guide-2025/). Published: 2025-06-03 | Updated: 2025-08-01
 
 [^q6cbsa]: 2025, Jun 16. [Apache Kafka Architecture: What You Need to Know | Upsolver](https://www.upsolver.com/blog/apache-kafka-architecture-what-you-need-to-know). Published: 2022-07-29 | Updated: 2025-06-16
 
@@ -368,13 +295,15 @@ If further links or very specific bios are required, please specify the individu
 
 ### Citations
 
-[1]: 2025, Jun 03. [List of JVM languages - Wikipedia](https://en.wikipedia.org/wiki/List_of_JVM_languages). Published: 2008-01-20 | Updated: 2025-06-03
+[^1nfskw]: 2025, Jun 03. [List of JVM languages - Wikipedia](https://en.wikipedia.org/wiki/List_of_JVM_languages). Published: 2008-01-20 | Updated: 2025-06-03
 
-[2]: 2025, Jun 16. [A Complete Guide to JVM Languages - Whizlabs Blog](https://www.whizlabs.com/blog/jvm-languages/). Published: 2021-03-04 | Updated: 2025-06-16
+[^od46nc]: 2025, Jun 16. [A Complete Guide to JVM Languages - Whizlabs Blog](https://www.whizlabs.com/blog/jvm-languages/). Published: 2021-03-04 | Updated: 2025-06-16
 
-[3]: 2025, Jun 16. [List of Java virtual machines - Wikipedia](https://en.wikipedia.org/wiki/List_of_Java_virtual_machines). Published: 2006-04-08 | Updated: 2025-06-16
+[^no9zeq]: 2025, Jun 16. [List of Java virtual machines - Wikipedia](https://en.wikipedia.org/wiki/List_of_Java_virtual_machines). Published: 2006-04-08 | Updated: 2025-06-16
 
-[4]: 2025, Aug 06. [14 JVM Languages for Software Development - spec india](https://www.spec-india.com/blog/jvm-languages). Published: 2022-07-08 | Updated: 2025-08-06
+[^7hn9qh]: 2025, Aug 06. [14 JVM Languages for Software Development - spec india](https://www.spec-india.com/blog/jvm-languages). Published: 2022-07-08 | Updated: 2025-08-06
 
-[5]: 2025, Apr 04. [What other famous virtual/abstract machines are there other than the ...](https://elixirforum.com/t/what-other-famous-virtual-abstract-machines-are-there-other-than-the-beam-and-the-jvm/38348). Published: 2021-03-21 | Updated: 2025-04-04
+[^xwak0f]: 2025, Apr 04. [What other famous virtual/abstract machines are there other than the ...](https://elixirforum.com/t/what-other-famous-virtual-abstract-machines-are-there-other-than-the-beam-and-the-jvm/38348). Published: 2021-03-21 | Updated: 2025-04-04
+
+
 

@@ -9,4 +9,4 @@ og_favicon: https://www.rybbit.io/icon.ico?e5caf3051b11d9c2
 og_last_fetch: 2025-08-07T12:25:22.577Z
 tags: [Web-Analytics, Open-Source-Alternatives]
 ---
-[[Web Analytics]]
+[[concepts/Explainers for Tooling/Web Analytics]]

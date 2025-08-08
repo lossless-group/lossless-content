@@ -86,7 +86,7 @@ tags: [AI-Toolkit]
 > 2. **Machine Learning Models**:
 >     
 >     - **[[concepts/Explainers for AI/Deep Learning]]**: Neural networks, particularly **[[Generative Adversarial Networks]] (GANs)**, are used to generate realistic images or videos of a person. GANs work by training two models—a generator and a discriminator—to create and refine realistic outputs.
->     - **Text-to-Image/Video Models**: Models like **[[DALL·E]]**, **Stable Diffusion**, or **[[Runway]] Gen-2** generate visual content based on textual descriptions.
+>     - **Text-to-Image/Video Models**: Models like **[[Tooling/AI-Toolkit/Models/DALL·E]]**, **Stable Diffusion**, or **[[Runway]] Gen-2** generate visual content based on textual descriptions.
 >     - **Text-to-Speech Models**: AI systems like **[[WaveNet]]** or **[[ElevenLabs]]** synthesize speech that sounds natural and personalized.
 >     - **Motion Capture & Animation**: Technologies like **[[DeepMotion]]** or **[[MetaHuman]] Creator** simulate human body movements and facial expressions.
 > 3. **Avatar Generation**:

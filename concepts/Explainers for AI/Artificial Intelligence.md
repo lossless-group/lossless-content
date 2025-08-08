@@ -1,14 +1,11 @@
 ---
 site_uuid: 2714bd4b-69e5-434c-89cd-4f215ebcb114
-aliases:
-  - AI
-  - Enterprise AI
-date_modified: '2025-04-12'
-date_created: '2025-03-31T20:44:50.508Z'
-tags:
-  - Tech-Trend
+aliases: [AI, Enterprise AI]
+date_modified: 2025-08-08
+date_created: 2025-03-31
+tags: [Tech-Trend]
 ---
-
+[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Blackbird AI|Blackbird AI]]
 
 
 
@@ -247,7 +244,7 @@ https://youtu.be/SjSl2re_Fm8?si=hfX2YFP0tJND5eH4
 >         - GPT-3 (June 2020)
 >         - GPT-3.5 (March 2022)
 >         - GPT-4 (March 2023)
->     - [[DALL·E]] (Generative AI for images):
+>     - [[Tooling/AI-Toolkit/Models/DALL·E]] (Generative AI for images):
 >         - DALL·E 1 (January 2021)
 >         - DALL·E 2 (April 2022)
 >     - Codex (for code generation):

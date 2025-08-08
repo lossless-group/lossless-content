@@ -22,5 +22,5 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-
 site_uuid: 8b6dc7b4-da54-4cfb-b9e2-36bd5ad0ac87
 ---
 [[Whatsapp]]
-[[Channel Fragmentation]]
+[[concepts/Channel Fragmentation]]
 

@@ -15,5 +15,5 @@ github_profile_url: https://github.com/sapientinc
 date_created: 2025-08-04
 date_modified: 2025-08-04
 ---
-[[Hierarchical Reasoning]]
+[[concepts/Explainers for AI/Hierarchical Reasoning]]
 The [Sapient HRM Model](https://github.com/sapientinc/HRM)

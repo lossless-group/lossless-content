@@ -1,9 +1,11 @@
 ---
-wikipedia-url: https://en.wikipedia.org/wiki/PARC_(company)
+wikipedia_url: https://en.wikipedia.org/wiki/PARC_(company)
+date_created: 2025-03-30
+date_modified: 2025-08-08
 ---
 By 1971, Gary Starkweather had led a team to invent the first Laser Printer. [^1] 
 
-In 2023, PARC joined the Stanford Research Institute. [^2]
+In 2023, PARC joined the [[organizations/Stanford Research Institute|Stanford Research Institute]]. [^2]
 
 
 
