@@ -7,6 +7,9 @@ at_semantic_version: 0.0.0.1
 date_created: 2025-08-07
 date_modified: 2025-08-08
 tags: [Software-Architecture, Home-Labs, Emphemeral-Environments]
+augmented_with: Perplexity AI
+authors:
+  - Michael Staton
 ---
 
 ***
@@ -169,25 +172,25 @@ Many modern programming languages have their own computational **Virtual Machine
 - **Java**: Runs on the **Java Virtual Machine (JVM)**. The JVM is notable for supporting many additional languages beyond Java, such as [[Scala]], [[Kotlin]], [[Groovy]], JRuby, Jython, [[Clojure]], and more, by translating source code into JVM bytecode. [^1nfskw] [^od46nc] [^7hn9qh]  
   [IMAGE 1: Relevant diagram or illustration related to JVM and multi-language support]
 
-- **Python**: Standard implementation (CPython) operates with a **Python Virtual Machine (PVM)**, interpreting Python bytecode.
+- **[[Tooling/Software Development/Programming Languages/Python|Python]]**: Standard implementation (CPython) operates with a **Python Virtual Machine (PVM)**, interpreting Python bytecode.
 
-- **.NET Languages** (C#, F#, VB.NET): Execute on the **Common Language Runtime (CLR)**, the VM component of Microsoft's .NET framework. Languages compile to a common Intermediate Language (IL), which the CLR executes.
+- **[[Tooling/Software Development/Frameworks/Web Frameworks/DotNET|ASP.NET]] Languages** (C#, F#, VB.NET): Execute on the **Common Language Runtime (CLR)**, the VM component of Microsoft's .NET framework. Languages compile to a common Intermediate Language (IL), which the CLR executes.
 
-- **Ruby**: Has multiple VMs, including **YARV** (Yet Another Ruby VM, the standard since Ruby 1.9), **Rubinius**, and **JRuby** (which targets JVM bytecode). [^7hn9qh]
+- **[[Tooling/Software Development/Programming Languages/Ruby|Ruby]]**: Has multiple VMs, including **YARV** (Yet Another Ruby VM, the standard since Ruby 1.9), **Rubinius**, and **JRuby** (which targets JVM bytecode). [^7hn9qh]
 
-- **Erlang**: Uses the **BEAM VM**, designed for highly concurrent and fault-tolerant systems.
+- **[[Tooling/Software Development/Programming Languages/Erlang]]**: Uses the **BEAM VM**, designed for highly concurrent and fault-tolerant systems.
 
-- **JavaScript**: Run on engines/VMs such as **V8** (Google Chrome, Node.js), **SpiderMonkey** (Mozilla), and **JavaScriptCore** (WebKit).
+- **[[Tooling/Software Development/Programming Languages/JavaScript|JavaScript]]**: Run on engines/VMs such as **V8** (Google Chrome, Node.js), **SpiderMonkey** (Mozilla), and **JavaScriptCore** (WebKit).
 
-- **PHP**: Utilizes the **Zend Engine** as its VM.
+- **[[Tooling/Software Development/Programming Languages/PHP|PHP]]**: Utilizes the **Zend Engine** as its VM.
 
-- **Lua**: Runs on the **Lua Virtual Machine**, interpreting Lua bytecode.
+- **[[Tooling/Software Development/Programming Languages/Lua]]**: Runs on the **Lua Virtual Machine**, interpreting Lua bytecode.
 
-- **Smalltalk**: Uses its own Smalltalk VM.
+- **[[Smalltalk]]**: Uses its own Smalltalk VM.
 
-- **Prolog**: Uses variants like **WAM** (Warren Abstract Machine).
+- **[[Prolog]]**: Uses variants like **WAM** (Warren Abstract Machine).
 
-- **Haskell**: Has VMs such as the GHCi runtime for interpreted execution (but typically compiles to native code for production).
+- **[[Tooling/Software Development/Programming Languages/Haskell|Haskell]]**: Has VMs such as the GHCi runtime for interpreted execution (but typically compiles to native code for production).
 
 
 **Additional Notes:**
@@ -228,12 +231,13 @@ Most modern, widely adopted programming languages are either built with their ow
 - [Gordon Bell](https://en.wikipedia.org/wiki/Gordon_Bell)
 
 
-**Citations:**
+# Citations
+
 - For definitions and distinctions between architecture and chip design. [^nr9iur] [^62p53b] [^f1ohsv] [^yblc0d]
 - For inventor contributions: . [^nr9iur]
-- For company revenues and IP leadership: publicly disclosed annual reports and . [^nr9iur]
+- For company revenues and IP leadership:  [^nr9iur]
 
-### Citations
+***
 
 [^nr9iur]: 2025, Jul 27. [Computer architecture - Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture). Published: 2001-10-16 | Updated: 2025-07-27
 
@@ -245,10 +249,6 @@ Most modern, widely adopted programming languages are either built with their ow
 
 [^g3b7mw]: 2025, Jul 21. [What is the difference between chip architecture, design and design ...](https://forum.allaboutcircuits.com/threads/what-is-the-difference-between-chip-architecture-design-and-design-verification.185938/). Updated: 2025-07-21
 
-
-
-### Citations
-
 [^n71xfk]: 2025, Aug 01. [Apache Kafka® architecture: A complete guide, 2025](https://www.instaclustr.com/education/apache-kafka/apache-kafka-architecture-a-complete-guide-2025/). Published: 2025-06-03 | Updated: 2025-08-01
 
 [^q6cbsa]: 2025, Jun 16. [Apache Kafka Architecture: What You Need to Know | Upsolver](https://www.upsolver.com/blog/apache-kafka-architecture-what-you-need-to-know). Published: 2022-07-29 | Updated: 2025-06-16
@@ -258,10 +258,6 @@ Most modern, widely adopted programming languages are either built with their ow
 [^dlgxf7]: 2025, Jul 22. [What is Apache Kafka? Definition of Event Streaming Platform - AWS](https://aws.amazon.com/what-is/apache-kafka/). Published: 2025-07-18 | Updated: 2025-07-22
 
 [10]: 2025, Jul 25. [Kafka Architecture - GeeksforGeeks](https://www.geeksforgeeks.org/apache-kafka/kafka-architecture/). Published: 2025-07-23 | Updated: 2025-07-25
-
-
-
-### Citations
 
 [^1nfskw]: 2025, Jun 03. [List of JVM languages - Wikipedia](https://en.wikipedia.org/wiki/List_of_JVM_languages). Published: 2008-01-20 | Updated: 2025-06-03
 

@@ -15,7 +15,7 @@ tags: [Software-Development, Frameworks, Web-Frameworks]
 
 A [[concepts/Explainers for Tooling/Web Frameworks|Framework]] for the [[Tooling/Software Development/Programming Languages/Elixir|Elixir]] [[concepts/Explainers for Tooling/Programming Languages|Programming Language]].
 
-[[Tooling/Software Development/Programming Languages/Elixir|Elixir]] is a more readable, modern abstraction layer on top of [[Erlang]], which has very strong handling of [[Vocabulary/Parallel Computing|Parallel Computing]]. 
+[[Tooling/Software Development/Programming Languages/Elixir|Elixir]] is a more readable, modern abstraction layer on top of [[Tooling/Software Development/Programming Languages/Erlang]], which has very strong handling of [[Vocabulary/Parallel Computing|Parallel Computing]]. 
 
 
 

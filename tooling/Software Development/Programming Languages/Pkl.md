@@ -13,6 +13,6 @@ og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshot
 tags: [Programming-Languages]
 ---
 
-Similar to [[Lua]]
+Similar to [[Tooling/Software Development/Programming Languages/Lua]]
 
 [[Configuration]]
