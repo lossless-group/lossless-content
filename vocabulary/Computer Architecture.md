@@ -9,42 +9,6 @@ date_modified: 2025-08-08
 tags: [Software-Architecture, Home-Labs, Emphemeral-Environments]
 ---
 
-
-> [!info] **Perplexity Query** (2025-08-07T16:45:52.149Z)
-> **Question:**
-> What is Computer Architecture?  How is it different than Chip Design?  Who are the major inventors of state of the art computer architecture?  What companies do what kind of revenues that have this kind of IP?  Include links to companies, bios, and please make rigorous citations.
-> 
-> **Image References:**
-> Please include the following image references throughout your response where appropriate:
-> - 
-> - 
-> - ![Additional supporting visual content](https://upload.wikimedia.org/wikipedia/commons/0/08/Computer_architecture_block_diagram.png)
-> **Model:** sonar-pro
-> 
-> ### **Response from sonar-pro**:
-
-
-**Error:** Failed to fetch
-
-***
-
-
-***
-> [!info] **Perplexity Query** (2025-08-07T16:46:21.607Z)
-> **Question:**
-> What is Computer Architecture? How is it different than Chip Design? Who are the major inventors of state of the art computer architecture? What companies do what kind of revenues that have this kind of IP? Include links to companies, bios, and please make rigorous citations.
-> 
-> **Image References:**
-> Please include the following image references throughout your response where appropriate:
-> - ![Relevant diagram or illustration related to the topic](https://www.logic-fruit.com/wp-content/uploads/2023/11/Comparative-table-of-FPGA-and-CPU-1024x1024.jpg.webp)
-> - ![Practical example or use case visualization](https://www.techspot.com/articles-info/1821/images/2019-04-21-image-2.png)
-> - ![Additional supporting visual content](https://images.ctfassets.net/gt6dp23g0g38/4DA2zHan28tYNAV2c9Vd98/b9fca38c23e2b2d16a4c4de04ea6dd3f/Kafka_Internals_004.png)
-> **Model:** sonar-pro
-> 
-> ### **Response from sonar-pro**:
-
-
-
 ***
 > [!info] **Perplexity Query** (2025-08-07T16:57:56.813Z)
 > **Question:**
@@ -52,18 +16,19 @@ tags: [Software-Architecture, Home-Labs, Emphemeral-Environments]
 > 
 > **Image References:**
 > Please include the following image references throughout your response where appropriate:
-> - 
-> - 
-> - ![Additional supporting visual content](https://www.ksolves.com/wp-content/uploads/Best-Programming-Languages-For-Artificial-Intelligence-Projects_11zon.jpg)
+
 > **Model:** sonar-pro
 > 
 > ### **Response from sonar-pro**:
 
+# What is Computer Architecture?
+
+![Additional supporting visual content](https://upload.wikimedia.org/wikipedia/commons/0/08/Computer_architecture_block_diagram.png)
 **Computer architecture** is the structural and functional design of a computer system's core components, including the processor, memory, and input/output controls, as seen from both hardware and software perspectives. [^nr9iur] [^f1ohsv] This high-level blueprint determines how a machine executes instructions and interacts with programs, focusing on performance, reliability, and efficiency. [^nr9iur] [^f1ohsv]
 
 ![Relevant diagram or illustration related to the topic](https://d8it4huxumps7.cloudfront.net/bites/wp-content/banners/2024/2/65c3272fe07d3_copy_of_blog_template__32_.jpg)
 
-**How Computer Architecture Differs from Chip Design:**
+#### **How Computer Architecture Differs from Chip Design:**
 - **Computer architecture** is primarily concerned with *what* a system does—its organization, instruction set (ISA), memory systems, and data pathways. It shapes what programs can do and how efficiently they can run. [^nr9iur] [^f1ohsv]
 - **Chip design** (or microarchitecture/physical design) is the process of *how* to implement the architecture's functions at the circuit and layout level. This involves detailed design of integrated circuits, logic gates, chip layouts, and meeting constraints like power and cost. [^62p53b] [^yblc0d]
 
@@ -72,14 +37,14 @@ tags: [Software-Architecture, Home-Labs, Emphemeral-Environments]
 ![Relevant diagram or illustration related to the topic](https://www.instaclustr.com/wp-content/uploads/2021/10/image1-2.png)
 
 
-**Major Inventors of State-of-the-Art Computer Architecture:**
+## **Major Inventors of State-of-the-Art Computer Architecture:**
 Several pioneering computer architects have shaped modern computing. Not all have direct corporate association (some were academics, leaders at multiple companies, or government researchers).
 
 - **John von Neumann**: Defined the *von Neumann architecture* that underpins nearly all classical computers. [^nr9iur]
 - **Seymour Cray**: Invented several supercomputers, notably the CDC 6600 and Cray-1, introducing advanced pipelining and vector processing. [^nr9iur]
 - **Gordon Bell**: Led the development of the DEC VAX architecture. [^nr9iur]
 - **Jim Keller**: Instrumental at AMD (K8, Zen), Apple (A4/A5 chips), and Tesla (AI chips) in CPU/microarchitecture design. [^nr9iur]
-- **David Patterson & John Hennessy**: Created the [[emergent-innovation/Standards/RISC-V|RISC]] (Reduced Instruction Set Computing) architecture, foundational for ARM and modern CPUs. [^nr9iur]
+- **David Patterson & John Hennessy**: Created the [[emergent-innovation/Standards/RISC-V|RISC]] (Reduced Instruction Set Computing) architecture, foundational for [[emergent-innovation/Standards/ARM|ARM]] and modern CPUs. [^nr9iur]
 - **John Cocke**: Key developer behind IBM's RISC efforts. [^nr9iur]
 - **Yale Patt**: Developed out-of-order execution and other performance improvements used in modern processors. [^nr9iur]
 
@@ -88,24 +53,27 @@ Several pioneering computer architects have shaped modern computing. Not all hav
 **
 *(A visualization here might show a side-by-side of RISC and CISC pipelines, illustrating their microarchitectural differences and performance advantages.)*
 
-### **Major Companies and Their Computer Architecture Revenue**
+## **Major Companies and Their Computer Architecture Revenue**
 
-| Company        | Notable Architecture IP          | Major Revenue Streams (2024)                 |
-|----------------|---------------------------------|-----------------------------------------------|
-| ARM Holdings   | ARM ISA and CPU cores           | Licensing to Apple, Qualcomm, etc.            |
-| Intel          | x86, Itanium, custom AI chips   | CPUs (Data Center, PC), foundry services      |
-| AMD            | x86 CPUs, Radeon GPUs, Zen core | CPUs, GPUs (Data Center, Gaming, Licensed IP) |
-| NVIDIA         | GPU architecture (CUDA, AI, HPC)| GPUs, data centers, accelerated computing     |
-| Apple          | ARM-based SoCs (A/M series)     | Devices (iPhone, Mac), vertical integration   |
-| IBM            | Power/POWER architecture        | Enterprise servers, cloud, licensing          |
+| Company      | Notable Architecture IP                                                                                 | Major Revenue Streams (2024)                                              |
+| ------------ | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| ARM Holdings | ARM ISA and CPU cores                                                                                   | Licensing to Apple, Qualcomm, etc.                                        |
+| Intel        | [[x86]], Itanium, custom AI chips                                                                       | CPUs (Data Center, PC), foundry services                                  |
+| AMD          | x86 CPUs, Radeon GPUs, Zen core                                                                         | CPUs, GPUs ([[concepts/Data Centers\|Data Centers]], Gaming, Licensed IP) |
+| NVIDIA       | GPU architecture ([[emergent-innovation/Standards/Compute Unified Device Architecture\|CUDA]], AI, HPC) | GPUs, data centers, accelerated computing                                 |
+| Apple        | ARM-based SoCs (A/M series)                                                                             | Devices (iPhone, Mac), [[Vertical Integration]]                           |
+| IBM          | Power/POWER architecture                                                                                | Enterprise servers, cloud, licensing                                      |
+![Relevant diagram or illustration related to the topic](https://www.logic-fruit.com/wp-content/uploads/2023/11/Comparative-table-of-FPGA-and-CPU-1024x1024.jpg.webp)
+[[Vocabulary/Field Programmable Gate Array|Field Programmable Gate Array]] [Wikipedia Article](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
+
 
 **Example revenue estimates (2024):**
 
-- **ARM Holdings** (now public, owned by SoftBank): FY 2023 revenue ~$3.2 billion, primarily from IP licensing and royalties.
-- **Intel:** 2023 revenue ~$54 billion, with most from CPUs and data center products.
-- **AMD:** 2023 revenue ~$22.7 billion, mix of CPUs, GPUs, and semi-custom.
-- **NVIDIA:** 2024 revenue estimates exceed $60 billion, fueled by AI/datacenter accelerators.
-- **Apple:** Hardware devices (integrating proprietary ARM SoCs) drive >$200 billion in annual revenue, though their chip IP is not sold externally.
+- **[[emergent-innovation/Standards/ARM|ARM]] Holdings** (now public, owned by SoftBank): FY 2023 revenue ~$3.2 billion, primarily from IP licensing and royalties.
+- **[[organizations/Intel|Intel]]:** 2023 revenue ~$54 billion, with most from CPUs and data center products.
+- **[[organizations/AMD|AMD]]:** 2023 revenue ~$22.7 billion, mix of CPUs, GPUs, and semi-custom.
+- **[[organizations/Nvidia|Nvidia]]:** 2024 revenue estimates exceed $60 billion, fueled by AI/datacenter accelerators.
+- **[[organizations/Apple|Apple]]:** Hardware devices (integrating proprietary ARM SoCs) drive >$200 billion in annual revenue, though their chip IP is not sold externally.
 
 
 ***
@@ -117,11 +85,13 @@ _(A pie chart showing market share or revenue distribution among leading archite
 
 **Kafka and Java are not programming languages; they are fundamentally different types of software platforms that serve distinct, complementary roles in the development and operation of modern systems.**
 
-**Kafka: Data Streaming and Messaging Platform**
+**[[Tooling/Data Utilities/Kafka|Kafka]]: Data Streaming and Messaging Platform**
 
 ![Additional supporting visual content](https://daxg39y63pxwu.cloudfront.net/images/blog/apache-kafka-architecture-/image_589142173211625734253276.png)
 *Kafka architecture diagram showing producers, topics (with partitions), consumers, and brokers working together in a distributed system.*
 
+
+![Additional supporting visual content](https://images.ctfassets.net/gt6dp23g0g38/4DA2zHan28tYNAV2c9Vd98/b9fca38c23e2b2d16a4c4de04ea6dd3f/Kafka_Internals_004.png)
 - **What is it?**
   
   **Apache Kafka** is a *distributed event streaming platform* designed for *real-time ingestion, storage, and processing of massive streams of data*. [^dlgxf7] [^n71xfk] It is often classified as a *message broker* or *event streaming system*.
@@ -138,7 +108,7 @@ _(A pie chart showing market share or revenue distribution among leading archite
     - **Streams API:** Process streams of data in real time  
     - **Connector API:** Integrate with external systems[^n71xfk] [^dlgxf7]
 
-#### **Java: Programming Language and Software Platform**
+#### **[[Tooling/Software Development/Programming Languages/Java|Java]]: Programming Language and Software Platform**
 
 - **What is it?**
   
@@ -221,8 +191,8 @@ Many modern programming languages have their own computational **Virtual Machine
 
 
 **Additional Notes:**
-- Some languages also target the VMs of other ecosystems for interoperability. For example, [[Tooling/Software Development/Programming Languages/Python|Python]] (as Jython), [[Tooling/Software Development/Programming Languages/Ruby|Ruby]] (as JRuby), and [[Tooling/Software Development/Programming Languages/Haskell]] (as Eta or Frege) can be compiled to run on the JVM, while others target the .NET CLR. [^1nfskw] [^od46nc] [^7hn9qh]  
-- Polyglot VMs like **GraalVM** enable running multiple programming languages in the same runtime environment, including Java, JavaScript, Ruby, R, Python, and more, facilitating language interoperability. [^no9zeq]
+- Some languages also target the [[Vocabulary/Virtual Machines|Virtual Machines]] of other ecosystems for interoperability. For example, [[Tooling/Software Development/Programming Languages/Python|Python]] (as Jython), [[Tooling/Software Development/Programming Languages/Ruby|Ruby]] (as JRuby), and [[Tooling/Software Development/Programming Languages/Haskell]] (as Eta or Frege) can be compiled to run on the JVM, while others target the .NET CLR. [^1nfskw] [^od46nc] [^7hn9qh]  
+- Polyglot VMs like **GraalVM** enable running multiple programming languages in the same runtime environment, including Java, JavaScript, [[Tooling/Software Development/Programming Languages/Ruby|Ruby]], [[Tooling/Software Development/Programming Languages/R Programming Language|R]], Python, and more, facilitating language interoperability. [^no9zeq]
 
 | Language   | Virtual Machine         | Notable Features                               |
 |:-----------|:-----------------------|:-----------------------------------------------|
@@ -240,8 +210,6 @@ Many modern programming languages have their own computational **Virtual Machine
 [IMAGE 3: Additional supporting visual content—diagram of polyglot GraalVM running multiple language runtimes side by side]
 
 Most modern, widely adopted programming languages are either built with their own VM or support execution on a generalized VM, significantly enhancing code portability, language tooling, and runtime capabilities. [^1nfskw] [^od46nc] [^7hn9qh]
-
-
 #### **Links to Companies and Notable Inventors' Bios:**
 
 - [Intel Corporation](https://www.intel.com)
