@@ -4,8 +4,8 @@ date_created: 2025-02-24
 date_modified: 2025-08-08
 site_uuid: bda6e819-a071-4622-84d6-c2967c187169
 publish: true
-title: PromptReviewer
-slug: prompt-reviewer
+title: RequestReviewer
+slug: request-reviewer
 at_semantic_version: 0.0.0.1
 ---
 

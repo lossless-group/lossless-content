@@ -1,56 +1,10 @@
 ---
 tags: [Conference-Series]
 date_created: 2025-03-31
-date_modified: 2025-06-07
+date_modified: 2025-08-09
 ---
 
-![[visuals/615d0ec836e14e28a5926981105620d5.pdf]]
 
-
-```requestjson--perplexica
-{
-            "chatModel": {
-                "provider": "ollama",
-                "name": "llama3.2:latest"
-            },
-            "embeddingModel": {
-                "provider": "ollama",
-                "name": "llama3.2:latest"
-            },
-            "optimizationMode": "speed",
-            "focusMode": "webSearch",
-            "query": "Please describe the market size and dynamics of growth capital for technology companies",
-            "history": [
-                ["human", "Hi, I am developing well-researched, informative content rich with citations, the more links the better."],
-                ["assistant", "I can play the role of research assistant and prepare content for you."]
-            ],
-            "systemInstructions": "Focus on authoritative sources, or recognizable or reputable sources. Output content in Markdown with good structure.",
-            "stream": true
-}
-```
-
-
-```requestjson--perplexica
-{
-	"chatModel": {
-		"provider": "ollama",
-		"name": "llama3.2:latest"
-	},
-	"embeddingModel": {
-		"provider": "ollama",
-		"name": "llama3.2:latest"
-	},
-	"optimizationMode": "speed",
-	"focusMode": "webSearch",
-	"query": "Please describe the market size and dynamics of growth capital for technology companies",
-	"history": [
-		["human", "Hi, I am developing well-researched, informative and content-rich website for thought leadership. Our content is heavy on with citations, the more links the better."],
-		["assistant", "I can play the role of research assistant and prepare content for you."]
-	],
-	"systemInstructions": "Focus on authoritative sources, or recognizable or reputable sources. Output content in Markdown with good structure.",
-	"stream": true
-}
-```
 
 ## Market Size and Dynamics of Growth Capital for Technology Companies
 

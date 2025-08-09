@@ -12,7 +12,7 @@ status: Implemented
 augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
 category: Specification
 date_created: 2025-04-16
-date_modified: 2025-07-20
+date_modified: 2025-08-09
 site_uuid: e2940d5c-3e5a-4a06-bc7d-c5d0c6bf0ccc
 tags: [CSS-Architecture, Animation, Transitions, Component-Management, User-Experience]
 authors:
@@ -29,13 +29,14 @@ This document outlines the standardized animation and transition system implemen
 
 Here's an interactive slide presentation that covers CSS animation systems in detail:
 
-```slides
+:::slides
 theme: black
 transition: slide
 controls: true
 progress: true
 
 - [[slides/css-animation-systems.md|CSS Animation Systems]]
+:::
 ```
 
 ## Table of Contents

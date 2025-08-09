@@ -1,6 +1,6 @@
 ---
 date_created: 2025-07-29
-date_modified: 2025-07-29
+date_modified: 2025-08-09
 site_uuid: 96c29b79-db06-4564-a324-56605045c1aa
 publish: true
 title: Maintain Directives In Extended Markdown Render Pipeline
@@ -552,11 +552,11 @@ The slides system will support two methods of embedding presentations:
 #### 1. Custom Codeblock Method (Existing)
 As implemented in the current system, using special codeblocks:
 ````markdown
-```slides
+:::slides
 slides/introduction-to-ai
 slides/advanced-concepts
 slides/case-studies
-```
+:::
 ````
 
 #### 2. Directive Method (New Addition)
@@ -672,10 +672,10 @@ Both methods support optional configuration. If no attributes are provided, slid
 
 #### Default Rendering (No Attributes)
 ````markdown
-```slides
+:::
 slides/intro
 slides/demo
-```
+:::
 ````
 
 Or with directive syntax:
@@ -688,10 +688,10 @@ Or with directive syntax:
 
 #### With Custom Configuration
 ````markdown
-```slides{theme="white" transition="fade"}
+:::slides{theme="white" transition="fade"}
 slides/intro
 slides/demo
-```
+:::
 ````
 
 Or with directive syntax:

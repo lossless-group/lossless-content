@@ -7,5 +7,7 @@
 
 :::portfolio
 - [[Aalo Atomics]]
-- [[Pencil Spaces]]
+- [[Harmonic]]
+- [[Thinking Machines]]
+- [[Catio]]
 :::

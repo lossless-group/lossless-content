@@ -1,36 +1,14 @@
 ---
 site_uuid: 177517b2-6a67-4b03-952d-524efa507a62
-date_modified: 2025-06-07
+date_modified: 2025-08-09
 date_created: 2025-03-30
 tags: [AI-Toolkit]
 ---
 
 
-```requestjson--perplexica
-{
-  "chatModel": {
-    "provider": "ollama",
-    "name": "llama3.2:latest"
-  },
-  "embeddingModel": {
-    "provider": "ollama",
-    "name": "llama3.2:latest"
-  },
-  "optimizationMode": "accuracy",
-  "focusMode": "webSearch",
-  "query": "Indy hackers and geeks have been revisiting their youth when they built PCs from individually selected parts. With the rise of LLMs that are open source and run local, lots of influencers and technologists have been building a Home Lab. Please describe a Home Lab, list PC makers and chip makers and parts makers, and explain why building a Home Lab can help people get the most out of the era of AI.",
-  "history": [
-    ["human", "I need well-researched, informative content with proper citations and source URLs from authoritative sources."],
-    ["assistant", "I'll help you gather comprehensive, well-cited information from reliable web sources."]
-  ],
-  "systemInstructions": "1. Perform a thorough web search using the most recent data available (2024-2025), and the best citations should include web links in Markdown format.\n2. Include specific statistics, figures, and data points with their sources.\n3. For each key point, provide a citation with the source URL in Markdown format: [Source Name](URL).\n4. Be sure to use authoritative sources like:\n   - Industry reports (CB Insights, PitchBook, KPMG, PwC)\n   - Reputable business news (TechCrunch, Bloomberg, WSJ)\n   - Government and economic data sources\n5. If a source is behind a paywall, note that and provide the citation anyway.\n6. Organize the response with clear headings and subheadings.\n7. Include a 'Sources' section at the end with all URLs used.",
-  "stream": true
-}
-```
-
-
-"query": "Find the latest (2024-2025) information about home labs for AI development, including current PC makers, chip manufacturers, and components. Focus on recent hardware releases, benchmarks, and industry trends in AI-optimized home computing.",
+"Find the latest (2024-2025) information about home labs for AI development, including current PC makers, chip manufacturers, and components. Focus on recent hardware releases, benchmarks, and industry trends in AI-optimized home computing.",
 "systemInstructions": "1. Prioritize sources from 2024-2025 from an outbound web search only. Do not use built in knowledge. 2. Include specific model numbers, release dates, and performance benchmarks. 3. Focus on AI/ML specific optimizations. 4. Include both high-end and budget-conscious options. 5. Provide direct links to manufacturer pages where possible."
+
 https://youtu.be/yQHVkRxioNU?si=M95LGJawk72ojxZI
 
 https://youtu.be/wW-Rj5MW2EU?si=JxWwCYlLyRX0LQbd

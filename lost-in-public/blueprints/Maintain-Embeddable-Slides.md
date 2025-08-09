@@ -1,6 +1,6 @@
 ---
 date_created: 2025-07-28
-date_modified: 2025-07-29
+date_modified: 2025-08-09
 site_uuid: 39273105-c5e3-4c4a-8bb9-6272d88764e0
 publish: true
 title: Maintain Embeddable Slides
@@ -21,16 +21,16 @@ This specification defines how to embed Reveal.js presentations within rendered 
 
 #### Basic Usage
 ```markdown
-```slides
+:::slides
 - [[essays/my-presentation.md|Introduction to AI]]
 - [[essays/deep-learning.md|Deep Learning Fundamentals]]
 - [[essays/neural-networks.md|Neural Network Architecture]]
-```
+:::
 ```
 
 #### With Configuration Options
 ```markdown
-```slides
+:::slides
 theme: dark
 transition: slide
 controls: true
@@ -41,15 +41,15 @@ loop: false
 - [[essays/intro.md|Introduction]]
 - [[essays/chapter1.md|Chapter 1: Getting Started]]
 - [[essays/chapter2.md|Chapter 2: Advanced Topics]]
-```
+:::
 ```
 
 #### Compact Configuration
 ```markdown
-```slides theme=dark transition=slide
+:::slides theme=dark transition=slide
 - [[essays/intro.md|Introduction]]
 - [[essays/chapter1.md|Chapter 2]]
-```
+:::
 ```
 
 ### Implementation Details

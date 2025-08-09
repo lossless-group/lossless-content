@@ -41,11 +41,11 @@ classDiagram
     class LMStudioService {
         -settings: LMStudioSettings
         -promptsService: any
-        +queryLMStudio(editor, model, messages, stream, options): Promise<void>
-        +listModels(): Promise<{data, error?}>
-        -handleStreamingResponse(): Promise<void>
-        -handleNonStreamingResponse(): Promise<void>
-        -makeRequest(): Promise<Response>
+        +queryLMStudio(editor, model, messages, stream, options): Promise~void~
+        +listModels(): Promise~ModelResponse~
+        -handleStreamingResponse(): Promise~void~
+        -handleNonStreamingResponse(): Promise~void~
+        -makeRequest(): Promise~Response~
         -processContentWithImages(): string
     }
 ```

@@ -25,6 +25,12 @@ square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-a-
 
 # Maintain a Dynamic User Interface for the JSON Canvas Standard
 
+**Path Resolution (Fixed 2025-08-09):**
+- File location: `/content/projects/Astro-Turf/Specs/Maintain-a-UI-for-JSON-Canvas.md`
+- Generated slug: `astro-turf/specs/maintain-a-ui-for-json-canvas` (preserves directory structure)
+- URL: `/projects/astro-turf/specs/maintain-a-ui-for-json-canvas`
+- Collection: `projects` (using `generateId` function to preserve nested paths)
+
 ## 1. Executive Summary
 This specification outlines the development of a dynamic user interface system that can render JSON Canvas documents (created in Obsidian) as interactive, web-based visualizations. The solution will enable users to view and interact with canvas documents through a browser interface, maintaining the spatial relationships and visual hierarchy of the original canvas while adding web-native interaction capabilities.
 

@@ -44,7 +44,8 @@ The RecordCollector then
 [[projects/Augment-It/Specs/shared-ui-elements/SharedUploadButton|SharedUploadButton]]
 [[SharedProgressPill]]
 [[SharedUploadReviewer]]
-[[client-content/Laerdal/Projects/Laugment/Data-Augmenter-Specification/shared-ui-elements/RecordListItem|RecordListItem]]
+[[projects/Augment-It/Specs/1_Record-Collector-Src/RecordList--Item]]
+
 ### Custom Components
 
 [[RecordPropertiesTable]]

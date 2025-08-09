@@ -48,14 +48,14 @@ Finish introducing the "Issue Resolution" collection to the observer system by i
 
    ```mermaid
    graph TD
-       subgraph IssueResolutionWatcher Integration
-           A[File Event in 'content/lost-in-public/issue-resolution'] --> B(FileSystemObserver);
-           B --> C{PropertyCollector Check};
-           C --> D[issueResolutionWatcher.ts];
-           D --> E[Read 'issue-resolution.ts' Template];
-           D --> F[Process Frontmatter (yamlFrontmatter.ts)];
-           F --> G[Apply Handlers (e.g., addSiteUUID.ts)];
-           G --> H[Write Updated File];
+       subgraph "IssueResolutionWatcher Integration"
+           A["File Event in content/lost-in-public/issue-resolution"] --> B("FileSystemObserver")
+           B --> C{"PropertyCollector Check"}
+           C --> D["issueResolutionWatcher.ts"]
+           D --> E["Read issue-resolution.ts Template"]
+           D --> F["Process Frontmatter via yamlFrontmatter.ts"]
+           F --> G["Apply Handlers like addSiteUUID.ts"]
+           G --> H["Write Updated File"]
        end
    ```
 

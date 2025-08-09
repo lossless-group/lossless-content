@@ -5,6 +5,11 @@ type: "tools"
 MAX_CARDS: 20
 ---
 
-- [[Assembly AI]]
+- [[AgentQL]]
 - [[Flowise]]
-- tag: [[AI Toolkit]]
+- [[Numbers Station]]
+- [[Spider]]
+- [[Hex]]
+- [[Mem0]]
+- [[LM Studio]]
+- [[Exa.ai]]
