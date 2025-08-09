@@ -1,10 +1,10 @@
 ---
-date_created: 2025-08-08
-date_modified: 2025-08-08
+date_created: 2025-07-20
+date_modified: 2025-08-09
 tags: [Microfrontends, Module-Federation]
 site_uuid: fb08f7d0-fe0f-416e-8841-bbafc0acfd68
 publish: true
-title: "Micro Federation Explainer"
+title: Micro Federation Explainer
 slug: micro-federation-explainer
 at_semantic_version: 0.0.0.1
 ---
@@ -39,14 +39,14 @@ Micro-federation is a runtime technique that allows one frontend app (the host) 
 
 ## 🏗️ Why Next.js Does Not Work Well for Module Federation
 
-Next.js is a **full-stack React framework** with server-side rendering (SSR), routing, and build-time optimizations. It was not designed with runtime federation in mind.
+[[Tooling/Software Development/Frameworks/Web Frameworks/NEXT.js|NEXT.js]] is a **full-stack React framework** with server-side rendering ([[Vocabulary/Server Side Rendering|SSR]]), routing, and build-time optimizations. It was not designed with runtime federation in mind.
 
 - ❌ Next.js bundles pages at build time. Remote modules loaded at runtime can break SSR.
 - ❌ Requires special handling of both server and client bundles.
 - ❌ Community-maintained solutions existed (like `@module-federation/nextjs-mf`), but they required complex patches.
 
 ### What `nextjs-mf` Did
-`@module-federation/nextjs-mf` was a plugin to integrate Webpack Module Federation into Next.js apps:
+`@module-federation/nextjs-mf` was a plugin to integrate [[Tooling/Software Development/Programming Languages/Libraries/Webpack|Webpack]] Module Federation into Next.js apps:
 - ✅ Expose Next.js pages/components as remotes.
 - ✅ Import from other Next.js apps at runtime.
 
@@ -65,7 +65,7 @@ Vercel seems to be trying to repair their reputation with the community through 
 
 ## 🌐 What Vercel Microfrontends Does
 
-Vercel introduced **Vercel Microfrontends**, but it’s **route-based**, not runtime federation:
+[[Tooling/Software Development/Cloud Infrastructure/Vercel|Vercel]] introduced **Vercel Microfrontends**, but it’s **route-based**, not runtime federation:
 - ✅ Splits an app into multiple Next.js projects, each serving specific routes (e.g., `/docs` or `/dashboard`).
 - ✅ Seamless routing via Vercel’s edge network.
 - ❌ Does not support loading components dynamically at runtime; instead, each route belongs to a specific project.
@@ -78,11 +78,11 @@ Vercel introduced **Vercel Microfrontends**, but it’s **route-based**, not run
 
 ## ⚡ Why We Chose Vite + vite-plugin-federation
 
-### Vite Overview
+### [[Tooling/Software Development/Developer Experience/DevTools/Vite|Vite]] Overview
 [Vite](https://vitejs.dev/) is a **frontend build tool and dev server** that sits on top of Rollup and uses ES Modules natively:
 - 🚀 **Instant server start** thanks to on-demand module loading.
 - 🔥 **Fast HMR (Hot Module Replacement)** for a great dev experience.
-- 🛠️ **Supports React, Vue, Svelte, and more.**
+- 🛠️ **Supports [[Tooling/Software Development/Frameworks/Web Frameworks/React|React]], [[Tooling/Software Development/Frameworks/Web Frameworks/Vue.js|Vue.js]], [[Tooling/Software Development/Frameworks/Web Frameworks/Svelte|Svelte]], and more.**
 
 **Vite is not a backend**—it’s a bundler/dev server, unlike Next.js which is a full-stack framework.
 
@@ -94,7 +94,7 @@ Vercel introduced **Vercel Microfrontends**, but it’s **route-based**, not run
 
 ### Why this combo?
 - ✔️ Purely frontend, no SSR complexity.
-- ✔️ Works well with React and ES Modules.
+- ✔️ Works well with React and [[ES Modules]].
 - ✔️ Faster dev cycle than Next.js federation hacks.
 - ✔️ Active development and simpler config.
 
@@ -123,12 +123,12 @@ const CardA = React.lazy(() => import('cardA/Card'));
 
 ## ✅ Final Decision
 
-| Tool | Purpose | Why |
-|------|---------|-----|
-| **React** | UI framework | Declarative components, huge ecosystem |
-| **Vite** | Build tool/dev server | Fast, simple, modern |
-| **vite-plugin-federation** | Module Federation | Runtime federation support |
-| **Turborepo** | Monorepo manager | Orchestrates builds/dev across multiple apps |
+| Tool                                                                                    | Purpose               | Why                                          |
+| --------------------------------------------------------------------------------------- | --------------------- | -------------------------------------------- |
+| **React**                                                                               | UI framework          | Declarative components, huge ecosystem       |
+| **Vite**                                                                                | Build tool/dev server | Fast, simple, modern                         |
+| **vite-plugin-federation**                                                              | Module Federation     | Runtime federation support                   |
+| **[[Tooling/Software Development/Developer Experience/DevTools/Turborepo\|Turborepo]]** | Monorepo manager      | Orchestrates builds/dev across multiple apps |
 
 ---
 

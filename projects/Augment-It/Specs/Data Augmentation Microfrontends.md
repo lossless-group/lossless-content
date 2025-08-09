@@ -11,10 +11,10 @@ tags: [Data-Augmenters, Module-Federation, Microfrontends]
 
 
 
-1. [[projects/Augment-It/Specs/RecordCollector|RecordCollector]]
-2. [[projects/Augment-It/Specs/PromptTemplateManager|PromptTemplateManager]]
-3. [[projects/Augment-It/Specs/RequestReviewer|RequestReviewer]]
-4. [[projects/Augment-It/Specs/ResponseReviewer|ResponseReviewer]]
-5. [[projects/Augment-It/Specs/HighlightCollector|HighlightCollector]]
-6. [[projects/Augment-It/Specs/InsightManager|InsightManager]]
+1. [[projects/Augment-It/Specs/apps/RecordCollector|RecordCollector]]
+2. [[projects/Augment-It/Specs/apps/PromptTemplateManager|PromptTemplateManager]]
+3. [[projects/Augment-It/Specs/apps/RequestReviewer|RequestReviewer]]
+4. [[projects/Augment-It/Specs/apps/ResponseReviewer|ResponseReviewer]]
+5. [[projects/Augment-It/Specs/apps/HighlightCollector|HighlightCollector]]
+6. [[projects/Augment-It/Specs/apps/InsightAssembler|InsightAssembler]]
 7. 

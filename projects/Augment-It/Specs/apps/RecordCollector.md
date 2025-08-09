@@ -9,16 +9,16 @@ slug: record-collector
 at_semantic_version: 0.0.1.1
 ---
 ## Purpose
-The [[projects/Augment-It/Specs/RecordCollector|RecordCollector]] is a [[Microfrontend Architecture|Microfrontend]] and [[Vocabulary/Microservices|Microservice]] that takes a data set and then makes it available as variables for Prompt Templates created in the [[projects/Augment-It/Specs/PromptTemplateManager|PromptTemplateManager]]
+The [[projects/Augment-It/Specs/apps/RecordCollector|RecordCollector]] is a [[Microfrontend Architecture|Microfrontend]] and [[Vocabulary/Microservices|Microservice]] that takes a data set and then makes it available as variables for Prompt Templates created in the [[projects/Augment-It/Specs/apps/PromptTemplateManager|PromptTemplateManager]]
 
 ## Required Features
 
 ### 1) Connection to Monorepo through MainContainerUI
-The [[projects/Augment-It/Specs/shell-ui/MainContainerUI|MainContainerUI]] is the main set of windows enabling a user-interface as part of the [[concepts/Data Augmentation Workflow|Data Augmentation Workflow]]. 
+The [[projects/Augment-It/Specs/host-shell-ui/MainContainerUI|MainContainerUI]] is the main set of windows enabling a user-interface as part of the [[concepts/Data Augmentation Workflow|Data Augmentation Workflow]]. 
 
 
 ### 2) User Stories
-The [[projects/Augment-It/Specs/RecordCollector|RecordCollector]] gives users the ability to: 
+The [[projects/Augment-It/Specs/apps/RecordCollector|RecordCollector]] gives users the ability to: 
 1. upload, import, or connect to data sources, most easily imagined as a CRM connection, or a table CSV upload. 
 	1. For imports, creates human readable documentation that shows the structure of the data being imported, and allows the user to 
 		1. Rename field names
@@ -48,7 +48,7 @@ The RecordCollector then
 ### Custom Components
 
 [[RecordPropertiesTable]]
-[[projects/Augment-It/Specs/shared-ui-elements/SharedListColumn]]
+[[projects/Augment-It/Specs/shared-ui-elements/Shared_Single-Column-Layout/Shared_List-Column_Layout]]
 
 
 [[CustomPropertiesCreator]]
@@ -63,7 +63,7 @@ The RecordCollector then
 [[ApiDocsPdfGenerator]]
 
 
-[[projects/Augment-It/Specs/shared-ui-elements/SharedModalWrapper]]
+[[projects/Augment-It/Specs/shared-ui-elements/Shared_Modal-Wrapper]]
 
 # RecordCollector Remote (Federated Microfrontend)
 

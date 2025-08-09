@@ -9,4 +9,4 @@ at_semantic_version: 0.0.0.1
 tags: [UI-Elements]
 ---
 # Purpose
-The [[projects/Augment-It/Specs/shared-ui-elements/SharedModalWrapper|SharedModalWrapper]] creates consistency in the opening and closing of modals.  Modals will be launched from the different 
+The [[projects/Augment-It/Specs/shared-ui-elements/Shared_Modal-Wrapper|Shared_Modal-Wrapper]] creates consistency in the opening and closing of modals.  Modals will be launched from the different 

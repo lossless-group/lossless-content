@@ -1,10 +1,10 @@
 ---
-date_created: 2025-08-08
-date_modified: 2025-08-08
+date_created: 2025-07-20
+date_modified: 2025-08-09
 tags: [Module-Federation, Microservices, Microfrontends]
 site_uuid: 347190b6-2acc-457c-807d-f3309cf05be7
 publish: true
-title: "Micro Federation Blueprint"
+title: Micro Federation Blueprint
 slug: micro-federation-blueprint
 at_semantic_version: 0.0.0.1
 ---
