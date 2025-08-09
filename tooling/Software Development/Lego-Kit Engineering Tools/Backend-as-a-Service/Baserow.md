@@ -21,7 +21,7 @@ tags: [Lego-Kit-Engineering-Tools, Software-Development, Databases, Backend-As-A
 [[concepts/Explainers for Tooling/Database Apps]], defaults to [[Open Source]] as an alternative to [[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Airtable]]
 
 ## Baserow API
-[[Tooling/Software Development/Backend-as-a-Service/Baserow]] also sports a robust [[REST API]] with clear commitment to [[Documentation First Development|Documentation First]]
+[[Tooling/Software Development/Backend-as-a-Service/Baserow]] also sports a robust [[REST API]] with clear commitment to [[concepts/Documentation First Development|Documentation First]]
 ![[Screenshot 2025-01-23 at 2.22.10 PM_Baserow_API-Docs.png]]
 
 ### Baserow [[concepts/Getting Started]]

@@ -17,4 +17,4 @@ tags:
   - RAG-Chat
 ---
 
-[[Knowledge Base AI]], provides the ability to chat or speak with your own [[Vocabulary/Retrieval-Augmented Generation]] or [[Knowledge Augmented Generation|KAG]] setup.
+[[concepts/Explainers for AI/Knowledge Base AI]], provides the ability to chat or speak with your own [[Vocabulary/Retrieval-Augmented Generation]] or [[Knowledge Augmented Generation|KAG]] setup.

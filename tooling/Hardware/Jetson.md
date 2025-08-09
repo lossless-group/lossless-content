@@ -54,7 +54,7 @@ tags:
 
 
 
-[[organizations/Nvidia]] hardware for [[Local LLM]].  An example of an [[Enabling Technology]] and is [[Enabling Technology Accelerants|accelerating]] the market of
+[[organizations/Nvidia]] hardware for [[Local LLM]].  An example of an [[concepts/Enabling Technology]] and is [[Enabling Technology Accelerants|accelerating]] the market of
 
 
 

@@ -16,4 +16,4 @@ description: "Retrieval-Augmented Generation (RAG) systems enhance large languag
 tags: [AI-Toolkit, Knowledge-AI, RAG-Frameworks, AI-Powered-Research, Open-Source-Alternatives, Public-Repos]
 ---
 
-[[Knowledge Base AI]], [[Vocabulary/Retrieval-Augmented Generation|RAG]]
+[[concepts/Explainers for AI/Knowledge Base AI]], [[Vocabulary/Retrieval-Augmented Generation|RAG]]

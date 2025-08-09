@@ -21,4 +21,4 @@ tags:
   - Vertical-Wrappers
 ---
 
-Example of [[Predictable Revenue]], [[Persuasive Technology]].
+Example of [[Predictable Revenue]], [[concepts/Persuasive Technology]].

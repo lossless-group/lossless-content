@@ -6,4 +6,4 @@ date_created: 2025-04-06
 
 [[Tooling/Software Development/Developer Experience/DevOps/Documentation Engines/Paligo]] is part of the [[Current Stack|Laerdal Stack]].
 
-![[Documentation First Development#A screenshot of ASP.NET Documentation .]]
+![[concepts/Documentation First Development#A screenshot of ASP.NET Documentation .]]

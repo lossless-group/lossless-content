@@ -17,7 +17,7 @@ description: 'Airtable is a low‒code platform to build next‒gen apps. Move b
 tags: [Productivity, Database-Apps, Asynchronous-Communication, Workflow-Management, JAM-Stack]
 ---
 
-One of the [[concepts/Explainers for Tooling/Database Apps]], and is also partially an [[Advanced Spreadsheets]] Applies [[concepts/API First]] and [[Documentation First Development|Documentation First]] strategies.
+One of the [[concepts/Explainers for Tooling/Database Apps]], and is also partially an [[Advanced Spreadsheets]] Applies [[concepts/API First]] and [[concepts/Documentation First Development|Documentation First]] strategies.
 
 ### Airtable API
 
@@ -28,7 +28,7 @@ One of the [[concepts/Explainers for Tooling/Database Apps]], and is also partia
 
 ^235da1
 
-[[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Airtable]] has clear [[Documentation First Development|Documentation First]] development standards, and even their [[Developer Community]] to contribute to the [[Documentation]]
+[[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Airtable]] has clear [[concepts/Documentation First Development|Documentation First]] development standards, and even their [[Developer Community]] to contribute to the [[Documentation]]
 ![[Screenshot 2025-01-20 at 1.55.09 PM_Airtable-Docs.png]]
 #### Airtable Custom API Docs
  ![[Screenshot 2025-01-20 at 1.55.40 PM_Airtable-Custom-Docs.png]]

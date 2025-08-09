@@ -4,7 +4,7 @@ date_modified: 2025-04-24
 site_uuid: 4d89c83a-9752-4d58-8707-567b5752a073
 ---
 
-[[Complexity Cost]]
+[[concepts/Complexity Cost]]
 
 Let's take the example of Facebook Pages. This is, for all intents and purposes, a business account on Facebook. However, Facebook did not do design research and identify something Businesses wanted. The forced businesses to use the exact same feature set that all users experience on Facebook.  A Feed, a Wall, Photos, Videos, "connections." LinkedIn and Twitter have followed a similar route. 
 ## Abstraction

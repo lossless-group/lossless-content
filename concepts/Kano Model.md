@@ -11,7 +11,7 @@ Applicable to [[Design]] and [[Product Management]].
 
 Helps hone in on a [[Blue Ocean Strategy]].  
 
-Prevents [[Complexity Cost]].
+Prevents [[concepts/Complexity Cost]].
 
 Helps keep [[essays/The Irony of UI Stability]].
 

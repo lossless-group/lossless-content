@@ -6,7 +6,7 @@ date_modified: 2025-04-24
 
 ### The Coherence Hit List
 [[concepts/Coherence]] almost universally has the following observed features: 
-Clear [[concepts/API First]] and [[Documentation First Development|Documentation First]] development with [[Service-Oriented Architecture]].  
+Clear [[concepts/API First]] and [[concepts/Documentation First Development|Documentation First]] development with [[Service-Oriented Architecture]].  
 Clean [[concepts/Unified Design System]] that assures [[Best-in-class]] design across the entire [[Sources/Laerdal Entities/Customer Experience]]
 [[concepts/Impute Marketing]] across all social media channels. 
 Streamlined [[Sources/Laerdal Entities/Customer Experience]] with smart use of [[Chatbots]]

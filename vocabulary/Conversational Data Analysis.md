@@ -4,6 +4,6 @@ site_uuid: 65270106-42ff-41b1-ad6f-06c5ad0d5b6f
 date_created: 2025-04-06
 ---
 
-Used in [[Knowledge Base AI]]:
+Used in [[concepts/Explainers for AI/Knowledge Base AI]]:
 
-![[Knowledge Base AI#^8aaa09]]
+![[concepts/Explainers for AI/Knowledge Base AI#^8aaa09]]

@@ -10,7 +10,7 @@ Examples include “account created on” — Seniority
 Point Systems
 Visibility Orchestration
 
-Part of [[Persuasive Technology]] Design. 
+Part of [[concepts/Persuasive Technology]] Design. 
 
 ## Reputation Heuristics
 

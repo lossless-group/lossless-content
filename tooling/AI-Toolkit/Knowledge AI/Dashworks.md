@@ -19,4 +19,4 @@ tags:
   - Check-it-Out
 ---
 
-[[Knowledge Base AI]],
+[[concepts/Explainers for AI/Knowledge Base AI]],

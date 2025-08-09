@@ -18,6 +18,6 @@ tags:
   - Software-Development
 ---
 
-[[Documentation First Development|Documentation First]]
+[[concepts/Documentation First Development|Documentation First]]
 
 [[emergent-innovation/Standards/AsciiDoc]]

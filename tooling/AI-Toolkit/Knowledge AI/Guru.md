@@ -18,7 +18,7 @@ tags:
   - AI-Native
 ---
 
-[[Knowledge Base AI]]
+[[concepts/Explainers for AI/Knowledge Base AI]]
 
 ##### Guru Hero
 ![[Screenshot 2025-02-20 at 1.21.57 AM_GetGuru--Hero.png]]

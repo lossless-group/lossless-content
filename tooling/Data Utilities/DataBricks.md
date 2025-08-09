@@ -24,7 +24,7 @@ tags:
 Part of the [[Current Stack]] of Laerdal.
 
 ### Example of Databricks Documentation
-A good example of [[Documentation]] and [[Documentation First Development|Documentation First]] development.
+A good example of [[Documentation]] and [[concepts/Documentation First Development|Documentation First]] development.
 ![[Screenshot 2025-01-30 at 12.30.47 PM_Databricks--Documentation.png]]
 
 ### Unity Catalog

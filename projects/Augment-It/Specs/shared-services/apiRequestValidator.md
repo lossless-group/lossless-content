@@ -6,7 +6,5 @@ publish: true
 title: ApiRequestValidator
 slug: api-request-validator
 at_semantic_version: 0.0.0.1
-tags:
-  - Microservices
-  - Shared-Services
+tags: [Microservices, Shared-Services]
 ---

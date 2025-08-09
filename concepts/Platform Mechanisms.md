@@ -27,7 +27,7 @@ The way to best serve customers changes from directly serving them to letting ot
 
 - Aligning to the goals of others -- "Promote your thing, reach more people."
 - Unburdening value propositions -- "We make it easy."
-- Obsessive [[Documentation]], with a [[Documentation First Development]] methodology. 
+- Obsessive [[Documentation]], with a [[concepts/Documentation First Development]] methodology. 
 	- Clear [[Error Handling]]
 - Clear Onramps
 	- Ease of [[concepts/Getting Started]]

@@ -20,6 +20,6 @@ tags:
 
 [[Enterprise SaaS]]
 
-[[Knowledge Base AI]]
+[[concepts/Explainers for AI/Knowledge Base AI]]
 
 [[concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]]

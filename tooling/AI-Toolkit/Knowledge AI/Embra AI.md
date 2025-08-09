@@ -19,6 +19,6 @@ tags:
   
 ---
 
-A form of [[Knowledge Base AI]], that uses Team Communications as the source data, thus using [[Knowledge Augmented Generation]] to summarize what's happening around the company.
+A form of [[concepts/Explainers for AI/Knowledge Base AI]], that uses Team Communications as the source data, thus using [[Knowledge Augmented Generation]] to summarize what's happening around the company.
 
 [[concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]]

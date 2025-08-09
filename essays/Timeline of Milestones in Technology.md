@@ -58,7 +58,7 @@ https://youtu.be/OFS90-FX6pg?si=59krfZlRM21AkqLB
 
 2003 [[Eelco Dolstra]] submits his Dissertation entitled "[The Purely Functional Software Deployment Model](https://edolstra.github.io/pubs/phd-thesis.pdf)," the thinking would later become the inspiration for [[organizations/NixOS]].
 
-2003, [[B.J. Fogg]] published *Persuasive Technology: Using Computers to Change What We Think and Do*, popularizing the theories of [[Persuasive Technology]].
+2003, [[B.J. Fogg]] published *Persuasive Technology: Using Computers to Change What We Think and Do*, popularizing the theories of [[concepts/Persuasive Technology]].
 
 2004, Jun 24. the standard of [[emergent-innovation/Standards/Wi-Fi Protected Access|WPA]] 3 was ratified, increasing network security. 
 

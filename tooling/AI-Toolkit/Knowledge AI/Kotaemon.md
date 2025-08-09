@@ -19,5 +19,5 @@ tags:
 
 [[Open Source]] [[Vocabulary/Retrieval-Augmented Generation]]
 
-[[Knowledge Base AI]]
+[[concepts/Explainers for AI/Knowledge Base AI]]
 
