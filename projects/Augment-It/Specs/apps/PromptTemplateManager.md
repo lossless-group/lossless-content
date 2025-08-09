@@ -1,6 +1,6 @@
 ---
 date_created: 2025-02-24
-date_modified: 2025-07-24
+date_modified: 2025-08-09
 tags: [Specifications, Prompt-Engineering, Best-Practices]
 site_uuid: a9719dbc-fac9-4ae4-8694-45c4b2cf5392
 publish: true
@@ -11,6 +11,13 @@ status: Active
 category: Microfrontend
 project: Data Augmenter
 ---
+
+# Purpose
+
+## Context in Monorepo
+
+The [[projects/Augment-It/Specs/apps/PromptTemplateManager|PromptTemplateManager]] will be the second available module in the set and sequence of [[projects/Augment-It/Specs/Data Augmentation Microfrontends|Data Augmentation Microfrontends]]. The goal of the [[projects/Augment-It/Specs/Augment-It Monorepo Vision Specification|Laugment Monorepo]] is to transform and augment a set of records by using various AI services.  For instance, [[concepts/Explainers for AI/AI-Powered Search|AI-Powered Search]] models, [[concepts/Explainers for AI/AI Powered Data Capture|AI Powered Data Capture]] techniques, such as [[concepts/Explainers for AI/AI Web Crawlers|AI Web Crawlers]] and [[Vocabulary/Web Scraping|Web Scrapers]] through their respective APIs. By properly integrating the [[projects/Augment-It/Specs/apps/PromptTemplateManager|PromptTemplateManager]] with the [[projects/Augment-It/Specs/apps/RecordCollector|RecordCollector]], we better ensure prompts well leverage AI capabilities and augment specific customer data effectively.
+
 
 ```mermaid
 graph TD
@@ -35,13 +42,8 @@ graph TD
     F -->|Syncs with| H
 ```
 
-# Purpose
 
-## Context in Monorepo
-
-The [[projects/Augment-It/Specs/apps/PromptTemplateManager|PromptTemplateManager]] will be the second available module in the set and sequence of [[projects/Augment-It/Specs/Data Augmentation Microfrontends|Data Augmentation Microfrontends]]. The goal of the [[projects/Augment-It/Specs/Augment-It Monorepo Vision Specification|Laugment Monorepo]] is to transform and augment a set of records by using various AI services.  For instance, [[concepts/Explainers for AI/AI-Powered Search|AI-Powered Search]] models, [[concepts/Explainers for AI/AI Powered Data Capture|AI Powered Data Capture]] techniques, such as [[concepts/Explainers for AI/AI Web Crawlers]] and [[Vocabulary/Web Scraping|Web Scrapers]] through their respective APIs. By properly integrating the [[projects/Augment-It/Specs/apps/PromptTemplateManager|PromptTemplateManager]] with the [[projects/Augment-It/Specs/apps/RecordCollector|RecordCollector]], we better ensure prompts well leverage AI capabilities and augment specific customer data effectively.
-
-## Functionality of PromptManager
+## Functionality of PromptTemplateManager
 
 The [[projects/Augment-It/Specs/apps/PromptTemplateManager|PromptTemplateManager]] will provide functionalities to allow users to upload prompts, author new ones, and insert _managed variables_ called from the records made available from the [[projects/Augment-It/Specs/apps/RecordCollector|RecordCollector]]. 
 

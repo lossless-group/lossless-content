@@ -1,6 +1,6 @@
 ---
 date_created: 2025-02-24
-date_modified: 2025-08-08
+date_modified: 2025-08-09
 tags: [Specifications, Prompt-Engineering, Best-Practices, Implementation, React-Ecosystem]
 site_uuid: a9719dbc-fac9-4ae4-8694-45c4b2cf5392
 publish: true
@@ -8,6 +8,8 @@ title: PromptManager
 slug: prompt-manager
 at_semantic_version: 0.1.0.0
 status: Implemented
+authors:
+  - Tanuj Siripurapu
 ---
 
 ## Purpose

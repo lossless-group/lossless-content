@@ -6,7 +6,5 @@ publish: true
 title: SharedListRow
 slug: shared-list-row
 at_semantic_version: 0.0.0.1
-tags:
-  - Components
-  - Shared-Components
+tags: [Components, Shared-Components]
 ---
