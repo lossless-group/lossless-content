@@ -7,5 +7,5 @@ title: "Learning Experience Platforms"
 slug: learning-experience-platforms
 at_semantic_version: 0.0.0.1
 ---
-[[Degreed]]
+[[Tooling/Training/Degreed]]
 

@@ -42,7 +42,7 @@ The RecordCollector then
 ## Components
 ### Shared Components
 [[projects/Augment-It/Specs/shared-ui-elements/SharedUploadButton|SharedUploadButton]]
-[[SharedProgressPill]]
+[[projects/Augment-It/Specs/shared-ui-elements/SharedProgressPill]]
 [[SharedUploadReviewer]]
 [[projects/Augment-It/Specs/1_Record-Collector-Src/RecordList--Item]]
 
