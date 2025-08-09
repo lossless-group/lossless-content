@@ -510,7 +510,7 @@ observer_version: 0.2.0
 - [Refactored Citations Observer](../lost-in-public/prompts/data-integrity/Refactored-Citations-Observer.md)
 - [Handle Citations in Markdown Content](../lost-in-public/prompts/render-logic/Handle-Citations-Logic-and-Render-Citations-Component.md)
 - [Cases and Corrections for YAML Content Wide](Cases-and-Corrections-for-YAML-Content-Wide.md)
-- [Create a Content Registry for Markdown Files](Create-a-Content-Registry-for-Markdown-Files.md)
+- [Create a Content Registry for Markdown Files](projects/Astro-Turf/Specs/Create-a-Content-Registry-for-Markdown-Files.md)
 
 ***
 

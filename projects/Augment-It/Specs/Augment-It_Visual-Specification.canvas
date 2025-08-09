@@ -17,7 +17,7 @@
 		{"id":"ac2afdf05e87ca89","type":"file","file":"projects/Augment-It/Specs/apps/ResponseReviewer.md","x":860,"y":-40,"width":340,"height":400},
 		{"id":"e57b4c5d510757d2","type":"file","file":"projects/Augment-It/Specs/apps/PromptTemplateManager.md","x":120,"y":-40,"width":320,"height":400},
 		{"id":"1a9c649e46a79f26","type":"file","file":"projects/Augment-It/Specs/apps/RecordCollector.md","x":-220,"y":-40,"width":280,"height":400},
-		{"id":"47b0c16079cd33b9","type":"file","file":"projects/Augment-It/Specs/Full Prompt for Monorepo Setup (Stack Agnostic).md","x":-703,"y":-740,"width":400,"height":400},
+		{"id":"47b0c16079cd33b9","type":"file","file":"projects/Augment-It/Prompts/Prompt-Queue/Full Prompt for Monorepo Setup (Stack Agnostic).md","x":-703,"y":-740,"width":400,"height":400},
 		{"id":"fee2304cdc0ca011","type":"file","file":"projects/Augment-It/Specs/apps/HighlightCollector.md","x":1220,"y":-40,"width":340,"height":400},
 		{"id":"b23f04a938fab8aa","type":"file","file":"Visuals/Trademarks/trademark__Boomi--Lightest.svg","x":-687,"y":9,"width":174,"height":50},
 		{"id":"ac1783545211319f","type":"file","file":"Visuals/Trademarks/trademark__Salesforce.svg","x":-626,"y":89,"width":113,"height":79},

@@ -6,6 +6,7 @@ publish: true
 title: "Using Obsidian To Manage Markdown Based Content Collections For Static Site Generation Frameworks"
 slug: using-obsidian-to-manage-markdown-based-content-collections-for-static-site-generation-frameworks
 at_semantic_version: 0.0.0.1
+augmented_with: Windsurf Cascade on Claude Sonnet 4
 ---
 
 |>update_start::2025-05-26T12:33:46.108Z
@@ -161,6 +162,61 @@ Mapped to [[YAML]], [[emergent-innovation/Standards/Markdown|Markdown]]
 Convert one yaml property
 Check for duplicate filenames
 Audit backlinks
+
+# Using Obsidian Git Plugin for Submodule Management
+
+Based on my review of the obsidian-git plugin source code, here's a comprehensive analysis of its submodule support and how it fits your use case.
+
+## ✅ Submodule Support Analysis
+
+### What the Plugin Supports:
+
+- **Automatic Submodule Detection**: The plugin can automatically detect when a file is within a submodule using Git's `rev-parse --show-superproject-working-tree` command
+- **Per-Submodule Operations**: When you perform Git operations (commit, pull, push) on files, the plugin automatically determines which submodule the file belongs to and executes the command in the correct repository context
+- **Submodule-Aware Commands**: All major Git operations work within submodules:
+  - Staging/unstaging files
+  - Committing changes
+  - Pulling/pushing
+  - Viewing diffs and history
+  - Opening files in GitHub
+- **Configuration Options**:
+  - `updateSubmodules`: Enable/disable submodule support (disabled by default)
+  - `submoduleRecurseCheckout`: Automatically checkout matching branches in submodules
+
+### How It Works:
+
+The plugin uses Git's native submodule detection to:
+
+- Identify which submodule a file belongs to
+- Execute Git commands with the correct working directory (`-C <submodule-path>`)
+- Handle relative file paths within each submodule context
+
+### Perfect Match for Your Use Case:
+
+**YES!** This plugin appears to be exactly what you need:
+
+- **Multiple Repository Management**: You can have `projects/Augment-It` connected to one repo and `changelog--code` connected to another repo
+- **Selective Commits**: You can choose which submodule to commit to - the plugin automatically detects the correct repository based on the file you're working with
+- **Independent Operations**: Each submodule operates independently - you can commit to one without affecting others
+
+### Setup Requirements:
+
+1. **Enable Submodule Support**: In Obsidian Git settings, turn on "Update submodules"
+2. **Proper Git Structure**: Your vault needs to be structured as a Git repository with proper submodules
+3. **Tracking Branches**: Each submodule needs to have a tracking branch set up
+
+### Limitations to Consider:
+
+- **Desktop Only**: Submodule support is explicitly desktop-only (not available on mobile)
+- **Opt-in Feature**: Disabled by default, must be manually enabled
+- **Some Missing Features**: The documentation mentions "Missing features: Conflicted files, count of pulled/pushed/committed files" for submodules
+- **Tracking Branch Requirement**: Each submodule needs proper tracking branch configuration
+
+### Recommendation:
+
+This plugin should work perfectly for your monorepo structure where different directories are separate Git repositories. The automatic submodule detection means you can work naturally in Obsidian, and the plugin will handle routing your Git operations to the correct repository automatically.
+
+The key is setting up your vault as a proper Git repository with submodules, then enabling the "Update submodules" setting in the plugin configuration.
 
 
 

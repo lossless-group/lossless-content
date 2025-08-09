@@ -1,6 +1,6 @@
 ---
-title: "Maintain a Dynamic User Interface for the JSON Canvas Standard"
-lede: "Enable JSON Canvas documents in Obsidian to have a dynamic, interactive UI on your website with real-time rendering and user interaction capabilities."
+title: Maintain a Context Engineering MCP Suite for Obsidian
+lede: Enable JSON Canvas documents in Obsidian to have a dynamic, interactive UI on your website with real-time rendering and user interaction capabilities.
 date_authored_initial_draft: 2025-08-07
 date_authored_current_draft: 2025-08-08
 date_authored_final_draft: 
@@ -8,19 +8,19 @@ date_first_published: 2025-08-08
 date_last_updated: 2025-08-08
 at_semantic_version: 0.2.0.0
 status: In-Progress
-augmented_with: "Windsurf Cascade on Claude 4 Sonnet"
-category: Technical-Specification
+augmented_with: Windsurf Cascade on Claude 4 Sonnet
+category: Open-Ideas
 date_created: 2025-08-08
-date_modified: 2025-08-08
+date_modified: 2025-08-09
 tags: [JSON-Canvas, UI-Components, Interactive-Visualization, Obsidian-Integration, Dynamic-Rendering]
 authors:
   - Michael Staton
-image_prompt: "A UI of an interactive whiteboard on a large computer monitor, with objects and stickies laid out in clusters on the canvas, showing dynamic connections and real-time updates."
+image_prompt: A UI of an interactive whiteboard on a large computer monitor, with objects and stickies laid out in clusters on the canvas, showing dynamic connections and real-time updates.
 site_uuid: 55cb28e9-f44a-4b06-9d7d-4d6f3994bbb1
 slug: maintain-a-ui-for-json-canvas
-banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-a-UI-for-JSON-Canvas_banner_image_1754681170348_LldRKlZwK.webp"
-portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-a-UI-for-JSON-Canvas_portrait_image_1754681172277_nueBwEWxk.webp"
-square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-a-UI-for-JSON-Canvas_square_image_1754681174321_sgiH75YUo.webp"
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-a-UI-for-JSON-Canvas_banner_image_1754681170348_LldRKlZwK.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-a-UI-for-JSON-Canvas_portrait_image_1754681172277_nueBwEWxk.webp
+square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-a-UI-for-JSON-Canvas_square_image_1754681174321_sgiH75YUo.webp
 ---
 
 # Maintain a Dynamic User Interface for the JSON Canvas Standard

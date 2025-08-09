@@ -22,7 +22,7 @@ square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Repurpose-
 portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Repurpose-Functionality-Found-Elsewhere-into-Obsidian-Plugin_portrait_image_1753052273414_NA_h9fFkA.webp"
 ---
 # Objective
-We are implementing the specification [[specs/Maintain-an-Image-Generator-Obsidian-Plugin|Maintain-an-Image-Generator-Obsidian-Plugin]] phase by phase and step by step. 
+We are implementing the specification [[projects/Content-Farm/Specs/Maintain-an-Image-Generator-Obsidian-Plugin|Maintain-an-Image-Generator-Obsidian-Plugin]] phase by phase and step by step. 
 
 # Immediate Task at Hand
 

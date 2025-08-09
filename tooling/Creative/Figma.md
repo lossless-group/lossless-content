@@ -9,14 +9,16 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:10.742Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:19:01.838Z
-date_modified: 2025-07-29
+date_modified: 2025-08-09
 date_created: 2025-03-30
 tags: [Creative, Design-Tools, Collaboration-Tooling, Realtime-Collaboration, UI-Design-Tools]
 url: https://www.figma.com/
 url_help_page: https://help.figma.com/hc/en-us
 docs_url: https://www.figma.com/developers/api"
 ---
+https://www.figma.com/ai/
 
+https://www.figma.com/make/
 
 
 [[Realtime Collaboration]]

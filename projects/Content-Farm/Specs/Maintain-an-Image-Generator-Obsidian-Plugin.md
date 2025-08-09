@@ -9,9 +9,9 @@ date_last_updated: 2025-07-20
 at_semantic_version: 0.1.0
 status: In-Review
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
-category: Technical-Specification
+category: Obsidian-Plugins
 date_created: 2025-07-20
-date_modified: 2025-07-28
+date_modified: 2025-08-09
 site_uuid: c2b72f37-ed8b-7f21-b6a3-16c9fd89a89f
 tags: [Obsidian-Plugin, Image-Generation, Frontmatter, API-Integrations]
 authors:

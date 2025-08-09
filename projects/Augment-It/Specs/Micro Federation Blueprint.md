@@ -7,8 +7,10 @@ publish: true
 title: Micro Federation Blueprint
 slug: micro-federation-blueprint
 at_semantic_version: 0.0.0.1
+authors:
+  - Tanuj Siripurapu
+augmented_with: Cursor on ChatGPT 4o
 ---
-
 # Micro-Federation Architecture Blueprint
 ## Module Federation with Vite, React, and Turborepo
 

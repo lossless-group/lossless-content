@@ -1,12 +1,15 @@
 ---
 date_created: 2025-07-24
-date_modified: 2025-08-08
+date_modified: 2025-08-09
 site_uuid: b37337cd-e1dd-41c7-9917-f0e6469886e9
 publish: true
-title: Data Augmentation Microfrontends
-slug: data-augmentation-microfrontends
+title: Data Augmentation Workflow with Microfrontends
+slug: data-augmentation-workflow-with-microfrontends
 at_semantic_version: 0.0.0.1
 tags: [Data-Augmenters, Module-Federation, Microfrontends]
+authors:
+  - Michael Staton
+augmented_with: Windsurf on Claude Sonnet 4
 ---
 
 

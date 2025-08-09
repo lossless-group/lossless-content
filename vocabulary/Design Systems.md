@@ -1,11 +1,15 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2025-08-09
 site_uuid: ee6c8f55-ecf1-45ff-832c-cae79ae8c31d
 date_created: 2025-04-06
-aliases:
-  - Design System
+aliases: [Design System]
 ---
 
 [[Brad Frost]] cites the 2012 article by Laura Kalbag as one of the first primers on [[Design Systems]]
 
 Uses principles of [[Vocabulary/Atomic Design|Atomic Design]], and complimented efforts in software development to use [[Component-Based Software Architecture]].
+
+
+
+[^4kz5n4]: Aug 2025. "[Design Systems And AI: Why MCP Servers Are The Unlock](https://www.figma.com/blog/design-systems-ai-mcp/)". [Figma Blog](https://www.figma.com/blog/). [Figma](https://www.figma.com).
+

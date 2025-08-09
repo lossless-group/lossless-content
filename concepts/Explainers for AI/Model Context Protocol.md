@@ -1,7 +1,7 @@
 ---
 site_uuid: 7a43f934-fdfc-453d-b17b-da7c8eba6dda
 aliases: [MCP]
-date_modified: 2025-06-07
+date_modified: 2025-08-09
 date_created: 2025-03-30
 tags: [Agentic-AI]
 github_profile_url: https://github.com/modelcontextprotocol
@@ -95,3 +95,5 @@ https://youtu.be/_rFissIE6CA?si=8bNO4zfc57lcJSjn
 https://youtu.be/m46tZX6vceI?si=7CpwyesS6mTxEXfk
 
 https://youtu.be/eur8dUO9mvE?si=SdJgtKl4m4xrbIgk
+
+[^4kz5n4]: Aug 2025. "[Design Systems And AI: Why MCP Servers Are The Unlock](https://www.figma.com/blog/design-systems-ai-mcp/)". [Figma Blog](https://www.figma.com/blog/). [Figma](https://www.figma.com).
