@@ -2,7 +2,7 @@
 url: https://www.heretto.com/
 tags: [Content-Automation, Content-Workflow-Automators, Digital-Marketing-Tools, Check-It-Out, Content-Management-Systems, Content-Marketing]
 date_created: 2025-07-28
-date_modified: 2025-07-28
+date_modified: 2025-08-10
 site_uuid: 2bb4fe93-edda-4778-a4a6-ff00f70c0e34
 publish: true
 title: Heretto
@@ -14,3 +14,4 @@ og_image: https://cdn.prod.website-files.com/6509fcbc0abe42cb5a51bd01/651fc7809d
 og_favicon: https://cdn.prod.website-files.com/6509fcbc0abe42cb5a51bd01/65243bac1eb2ef63cf7a2fda_Favicon%20dark.jpg
 og_last_fetch: 2025-07-28T18:01:42.168Z
 ---
+[[concepts/Explainers for Tooling/Content Management Systems|Content Management System]]

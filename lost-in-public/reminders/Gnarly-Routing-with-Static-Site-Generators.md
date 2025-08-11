@@ -24,3 +24,5 @@ Pseudo-code for route resolution
 3. If found, serve content with appropriate layout  
 4. If still not found, check for redirects/aliases  
 5. Finally, show 404 with suggestions
+
+Note: more specific and longer path resolutions get priority in Astro, which may be counterintuitive to some. 

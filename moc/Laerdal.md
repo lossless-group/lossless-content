@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-09
-date_modified: 2025-08-09
+date_modified: 2025-08-10
 ---
 :::features
 - Reader
@@ -49,6 +49,7 @@ date_modified: 2025-08-09
 
 :::concepts
 - [[Coherence]]
+- [[concepts/Explainers for AI/Voice Agents|Voice Agents]]
 - [[concepts/Persuasive Technology|Persuasive Technology]]
 - [[AI Avatars]]
 - [[concepts/Explainers for Tooling/Learning Experience Platforms|Learning Experience Platforms]]
