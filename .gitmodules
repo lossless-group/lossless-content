@@ -1,0 +1,3 @@
+[submodule "projects/Water-Template-CE"]
+	path = projects/Water-Template-CE
+	url = https://github.com/lossless-group/water-foundation-ce.git
