@@ -8,8 +8,10 @@ aliases: [AI Agents, AI Agent, Agent]
 [[Kestra]], [[n8n]], [[Flowise]]
 
 
-```yaml toolingGallery
-tag: Agentic-AI
+:::tooling-gallery
+- [[Agentic AI]]
+:::
+
 ```
 
 https://youtu.be/2vj2BF_dWeY?si=9Z-loqAHp1zEFZl3

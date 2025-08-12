@@ -4,14 +4,6 @@ date_modified: 2025-07-29
 site_uuid: 2742fe0c-7bee-4f2c-9cee-b0630f9be3e3
 aliases: [Models, AI Model, Model]
 ---
-
-| Column 1 | Column 2 |
-|----------|----------|
-| Row 1    | Row 1 c2 |
-| Row 2    | Row 2 c2 |
-| Row 3    | Row 3 c2 |
-
-
 https://youtu.be/ncqVZnot99c?si=I3QhZqPIh6umTibW
 
 ![Uploading file...8zu56]()

@@ -11,7 +11,6 @@ at_semantic_version: 0.0.0.1
 
 :::tool-showcase{
 - [[Tooling/Software Development/Lego-Kit Engineering Tools/Unit|Unit]]
-- [[]]
 }
 
 

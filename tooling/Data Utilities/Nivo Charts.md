@@ -2,7 +2,6 @@
 url: 'https://nivo.rocks/'
 date_created: 2025-05-23
 date_modified: 2025-05-28
-og_image: '[object Object]'
 og_url: 'https://nivo.rocks/'
 site_name: Nivo
 title: 'Supercharged React dataviz components.'
