@@ -60,5 +60,5 @@ tags:
 
 
 
-A [[concepts/Explainers for Tooling/Content Management System]], part of the [[Current Stack|Laerdal Stack]]
+A [[concepts/Explainers for Tooling/Content Management Systems]], part of the [[Current Stack|Laerdal Stack]]
 

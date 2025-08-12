@@ -29,6 +29,6 @@ description: "'Packed with advanced features, customizable workflows, supported 
 
 ##### [[Twenty]] uses [[GitHub]] to publicly manage product workflow:
 ![[Screenshot 2025-02-18 at 3.57.53 PM_Twenty__Roadmap.png]]![[Screenshot 2025-02-18 at 3.58.12 PM_Twenty__Kanban-on-GitHub.png]]
-##### Twenty uses [[GitHub]] as a [[concepts/Explainers for Tooling/Content Management System]]
+##### Twenty uses [[GitHub]] as a [[concepts/Explainers for Tooling/Content Management Systems]]
 [[Twenty]] posts it's [[Documentation]] using [[GitHub]] as a repository for it's [[emergent-innovation/Standards/Markdown]] content.
 ![[Screenshot 2025-02-18 at 1.37.12 PM_Twenty__GitHub-as-CMS.png]]

@@ -1,9 +1,8 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2025-08-11
 site_uuid: 0a911e3d-8642-4646-9da1-8878c5281a18
 date_created: 2025-04-06
-aliases:
-  - UI
+aliases: [UI]
 ---
 
 [[Don't make me think.]]
@@ -13,6 +12,11 @@ aliases:
 [[Component-Based Software Architecture]]
 
 [[JavaScript]]
+
+[[Tooling/Creative/Rive]]
+
+[[Tooling/Creative/Figma|Figma]]
+
 
 [[concepts/Explainers for Tooling/Web Frameworks]] like [[Astro]], [[NEXT.js]].  
 
