@@ -11,24 +11,17 @@ status: Draft
 augmented_with: Windsurf on Claude Sonnet 4
 category: Technical-Specification
 date_created: 2025-07-24
-date_modified: 2025-08-09
+date_modified: 2025-08-12
 site_uuid: b37337cd-e1dd-41c7-9917-f0e6469886e9
 publish: true
 slug: data-augmentation-workflow
-tags: 
-  - Data-Augmenters
-  - Module-Federation
-  - Microfrontends
-  - Workflow-Architecture
-  - AI-Assisted-Processing
+tags: [Data-Augmenters, Module-Federation, Microfrontends, Workflow-Architecture, AI-Assisted-Processing]
 authors:
   - Michael Staton
 image_prompt: A modern workflow diagram showing interconnected microfrontend applications processing data through various stages, with AI augmentation symbols and modular architecture components.
 banner_image: {{URL-to-relevant-image}}
 portrait_image: {{optional-URL-to-portrait-image}}
 ---
-
-# Data Augmentation Workflow with Microfrontends
 
 ## 1. Executive Summary
 

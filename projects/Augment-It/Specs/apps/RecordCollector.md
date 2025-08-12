@@ -10,7 +10,7 @@ status: Implemented
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Technical-Specification
 date_created: 2025-02-22
-date_modified: 2025-08-11
+date_modified: 2025-08-12
 site_uuid: b9ad496b-0446-4e06-a79f-d452ddabb2ce
 tags: 
   - Data-Capture
@@ -23,10 +23,11 @@ image_prompt: A modern web interface showing a data table with customer records,
 banner_image: /images/record-collector-banner.jpg
 ---
 
-# RecordCollector
-
-## 1. Executive Summary
+# Executive Summary
 The RecordCollector is a microfrontend application that serves as the data ingestion and management layer for the Augment-It platform. It enables users to import customer data from various sources, transform and prepare the data, and make it available for AI-powered augmentation. The application provides an intuitive interface for non-technical users to work with data while offering powerful features for data manipulation and integration.
+
+# Purpose
+
 
 ## 2. Background & Motivation
 ### Problem Statement

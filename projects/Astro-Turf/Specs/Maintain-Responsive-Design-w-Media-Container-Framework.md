@@ -1,203 +1,323 @@
 ---
-title: Maintain Themes and Modes Across CSS and Tailwind
-lede: "Maintain Themes and Modes Across CSS and Tailwind"
-date_authored_initial_draft: 2025-05-14
-date_authored_current_draft: 2025-05-14
+title: Responsive Design with Media and Container Queries
+lede: "Implementing a robust responsive design system with modern CSS features"
+date_authored_initial_draft: 2025-08-12
+date_authored_current_draft: 2025-08-12
 date_authored_final_draft: null
 date_first_published: null
-date_last_updated: null
-at_semantic_version: 0.0.0.1
-publish: false
-status: To-Implement
+date_last_updated: 2025-08-12
+at_semantic_version: 1.0.0
+publish: true
+status: Draft
 augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
 category: Frontend-Development
-date_created: 2025-05-14
-date_modified: 2025-07-20
-tags: [CSS, Tailwind, Themes, Modes, Design-Systems, Frontend-Development]
+date_created: 2025-08-12
+date_modified: 2025-08-12
+tags: [CSS, Responsive-Design, Container-Queries, Media-Queries, Frontend-Development]
 authors:
   - Michael Staton
-image_prompt: "A computer monitor showing a website with consistent color themes."
-banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-17_banner_image_Maintain-Themes-Mode-Across-CSS-Tailwind_1464152f-bdeb-4523-9bbf-1db31bf14725_xi5kwK2c3.webp
-portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-17_portrait_image_Maintain-Themes-Mode-Across-CSS-Tailwind_66ca10fa-d7b0-4f41-b841-2d8574142af8_NGDBacfLz.webp
+image_prompt: "A responsive website layout adapting to different screen sizes"
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-08-12_banner_image_responsive-design_abc123.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-08-12_portrait_image_responsive-design_xyz456.webp
 ---
 
-# Executive Summary
-With CSS becoming more feature rich, and Tailwind becoming more market standard, it's important to master both. This requires managing both concurrently and thoughtfully. 
+# Responsive Design with Media and Container Queries
 
-Given our client-services approach, we need to be able to implement a client-specific theme across both light and dark mode. 
+## Executive Summary
 
-Implementing this thoughtfully is more a matter of creating and upholding clear conventions for variable naming and organization. In particular, maintaining system level variables, which are then assigned to values from client-specific variables. 
+Modern web development requires a robust approach to responsive design that goes beyond simple viewport-based breakpoints. This document outlines our approach to implementing a comprehensive responsive design system using both traditional media queries and the newer container queries, along with a structured file organization system.
 
-For instance:
+## File Structure
+
+```
+src/
+├── styles/
+│   ├── base/
+│   │   └── global.css       # Global styles and CSS resets
+│   ├── components/          # Component-specific styles
+│   ├── responsive/
+│   │   ├── breakpoints.css  # Media query breakpoints
+│   │   ├── container-queries.css # Container query utilities
+│   │   ├── utilities.css    # Responsive utility classes
+│   │   └── index.css        # Main responsive styles entry point
+│   └── theme/               # Theme variables and theming logic
+└── components/              # Component files
+```
+
+## Breakpoint System
+
+### Breakpoint Variables
 
 ```css
-/* Base theme variables (system level) */
+/* src/styles/responsive/breakpoints.css */
 :root {
-  /* Core colors */
-  --sys-color-primary: #4a6cf7;
-  --sys-color-secondary: #f97316;
-  --sys-color-accent: #00ccff;
+  /* Mobile-first breakpoints */
+  --breakpoint-sm: 640px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+  --breakpoint-2xl: 1536px;
   
-  /* Semantic colors */
-  --sys-color-text-primary: #121212;
-  --sys-color-text-secondary: #555555;
-  --sys-color-background-primary: #ffffff;
-  --sys-color-background-secondary: #f8f9fa;
-  
-  /* Component-specific variables that reference system colors */
-  --comp-button-bg: var(--sys-color-primary);
-  --comp-button-text: white;
-  --comp-card-bg: var(--sys-color-background-secondary);
+  /* Container query breakpoints */
+  --container-sm: 640px;
+  --container-md: 768px;
+  --container-lg: 1024px;
+  --container-xl: 1280px;
+  --container-2xl: 1536px;
 }
+```
 
-/* Dark mode overrides at system level */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --sys-color-text-primary: #f1f1f1;
-    --sys-color-text-secondary: #cccccc;
-    --sys-color-background-primary: #121212;
-    --sys-color-background-secondary: #1e1e1e;
+### Media Query Usage
+
+```css
+/* Example component using media queries */
+.component {
+  /* Mobile styles (default) */
+  padding: 1rem;
+  font-size: 1rem;
+
+  /* Small screens and up */
+  @media (min-width: 640px) {
+    padding: 1.5rem;
   }
-}
 
-/* Client-specific themes */
-.theme-client1 {
-  --sys-color-primary: #e63946;
-  --sys-color-secondary: #457b9d;
-  --sys-color-accent: #a8dadc;
-}
-
-/* Client-specific dark mode overrides */
-@media (prefers-color-scheme: dark) {
-  .theme-client1 {
-    --sys-color-primary: #f48c99;
-    --sys-color-secondary: #6fa8c9;
+  /* Medium screens and up */
+  @media (min-width: 768px) {
+    padding: 2rem;
+    font-size: 1.125rem;
   }
 }
 ```
 
-```javascript
-// tailwind.config.js
-module.exports = {
-  theme: {
-    extend: {
-      colors: {
-        primary: 'var(--sys-color-primary)',
-        secondary: 'var(--sys-color-secondary)',
-        accent: 'var(--sys-color-accent)',
-        'text-primary': 'var(--sys-color-text-primary)',
-        'text-secondary': 'var(--sys-color-text-secondary)',
-        'bg-primary': 'var(--sys-color-background-primary)',
-        'bg-secondary': 'var(--sys-color-background-secondary)',
-      },
-    },
-  },
-  plugins: [],
+## Container Queries
+
+### Container Query Setup
+
+```css
+/* src/styles/responsive/container-queries.css */
+.container {
+  container-type: inline-size;
+  container-name: component;
+  width: 100%;
 }
+
+/* Basic container query */
+@container component (min-width: 400px) {
+  .card {
+    grid-template-columns: 1fr 2fr;
+  }
+}
+```
+
+### Container Query Usage
+
+```html
+<!-- Example component using container queries -->
+<div class="container">
+  <div class="card">
+    <img src="image.jpg" alt="Example" />
+    <div class="content">
+      <h3>Card Title</h3>
+      <p>This card will adapt based on its container size.</p>
+    </div>
+  </div>
+</div>
+```
+
+## Mermaid Diagram: Responsive Design Flow
+
+```mermaid
+flowchart TD
+    A[User Device] -->|Viewport Size| B[Media Queries]
+    A -->|Container Size| C[Container Queries]
+    
+    B --> D[Layout Adjustments]
+    B --> E[Typography Scaling]
+    B --> F[Component Variations]
+    
+    C --> G[Component-Level Adaptations]
+    C --> H[Content Reordering]
+    C --> I[Interactive Elements]
+    
+    D --> J[Responsive Layout]
+    E --> J
+    F --> J
+    G --> J
+    H --> J
+    I --> J
+    
+    J --> K[Optimal User Experience]
+```
+
+## Best Practices
+
+### 1. Mobile-First Approach
+
+```css
+/* Bad - Desktop-first approach */
+.component {
+  width: 50%;
+  @media (max-width: 768px) {
+    width: 100%;
+  }
+}
+
+/* Good - Mobile-first approach */
+.component {
+  width: 100%;
+  @media (min-width: 768px) {
+    width: 50%;
+  }
+}
+```
+
+### 2. Use Container Queries for Component-Level Responsiveness
+
+```css
+/* Container query for a card component */
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+@container (min-width: 480px) {
+  .card {
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .card img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+}
+```
+
+### 3. Combine Media and Container Queries
+
+```css
+/* Base styles */
+.hero {
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+/* Container query for component-level adjustments */
+@container component (min-width: 600px) {
+  .hero {
+    text-align: left;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: 2rem;
+  }
+}
+
+/* Media query for viewport-specific adjustments */
+@media (min-width: 1024px) {
+  .hero {
+    padding: 4rem 2rem;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+}
+```
+
+## Implementation Example: Responsive Navigation
+
+```html
+<!-- HTML -->
+<nav class="nav container">
+  <a href="/" class="nav__logo">Logo</a>
+  <button class="nav__toggle" aria-expanded="false" aria-controls="nav-menu">
+    <span class="sr-only">Menu</span>
+  </button>
+  <div class="nav__menu" id="nav-menu">
+    <ul class="nav__list">
+      <li><a href="/about">About</a></li>
+      <li><a href="/services">Services</a></li>
+      <li><a href="/contact">Contact</a></li>
+    </ul>
+  </div>
+</nav>
 ```
 
 ```css
-/* Base theme */
-:root {
-  --sys-color-primary: #4a6cf7;
+/* CSS with container queries */
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 1rem;
+  gap: 1rem;
 }
 
-/* Theme switching with data attributes */
-[data-theme="client1"] {
-  --sys-color-primary: #e63946;
+.nav__toggle {
+  margin-left: auto;
+  display: block;
 }
 
-[data-theme="client2"] {
-  --sys-color-primary: #2a9d8f;
+.nav__menu {
+  width: 100%;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-in-out;
 }
 
-/* Dark mode variations per theme */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --sys-color-primary: #6c8cff;
+.nav__menu[data-visible="true"] {
+  max-height: 100vh;
+}
+
+/* Container query for navigation */
+@container (min-width: 768px) {
+  .nav__toggle {
+    display: none;
   }
   
-  [data-theme="client1"] {
-    --sys-color-primary: #f48c99;
+  .nav__menu {
+    width: auto;
+    max-height: none;
+    display: block;
+    margin-left: auto;
   }
   
-  [data-theme="client2"] {
-    --sys-color-primary: #4ecdc4;
+  .nav__list {
+    display: flex;
+    gap: 2rem;
   }
 }
 ```
 
-```css
-@layer base, themes, components;
+## Performance Considerations
 
-@layer base {
-  :root {
-    --sys-color-primary: #4a6cf7;
-    /* other base variables */
-  }
-}
+1. **Use `contain` property** to optimize rendering performance:
+   ```css
+   .component {
+     contain: layout style;
+   }
+   ```
 
-@layer themes {
-  .theme-client1 {
-    --sys-color-primary: #e63946;
-    /* other theme overrides */
-  }
-  
-  .theme-client2 {
-    --sys-color-primary: #2a9d8f;
-    /* other theme overrides */
-  }
-}
+2. **Limit container query usage** to components that truly need it
 
-@layer components {
-  .button {
-    background-color: var(--sys-color-primary);
-    /* other styles */
-  }
-}
-```
+3. **Use `content-visibility: auto`** for off-screen content:
+   ```css
+   .off-screen-content {
+     content-visibility: auto;
+     contain-intrinsic-size: 0 500px;
+   }
+   ```
 
-```javascript
-// Check for saved user preference
-const savedTheme = localStorage.getItem('theme');
-const savedMode = localStorage.getItem('mode');
+## Browser Support
 
-// Apply saved theme if it exists
-if (savedTheme) {
-  document.documentElement.setAttribute('data-theme', savedTheme);
-}
+- **Media Queries**: Widely supported in all modern browsers
+- **Container Queries**: Supported in all modern browsers (Chrome 105+, Safari 16+, Firefox 110+)
+- **CSS Nesting**: Supported in all modern browsers (Chrome 112+, Safari 16.5+, Firefox 117+)
 
-// Apply saved mode if it exists
-if (savedMode) {
-  document.documentElement.setAttribute('data-mode', savedMode);
-}
+## Conclusion
 
-// Function to toggle between light and dark mode
-function toggleMode(mode) {
-  document.documentElement.setAttribute('data-mode', mode);
-  localStorage.setItem('mode', mode);
-}
-```
-
-## Tailwind CSS v4 Implementation
-
-### Migration from v3 to v4
-
-**Key Changes Made (August 2025):**
-
-1. **Removed tailwind.config.js**: Tailwind v4 uses CSS-based configuration instead of JavaScript
-2. **Updated Astro config**: Uses `@tailwindcss/vite` plugin instead of `@astrojs/tailwind`
-3. **Implemented `@theme` directive**: Proper v4 syntax for defining custom colors
-
-### Correct Tailwind v4 Configuration
-
-```css
-/* global.css - Tailwind v4 Style */
-@import "tailwindcss";
-
-@theme {
-  --color-primary-50: #fafafa;
-  --color-primary-100: #f4f4f5;
+By combining media queries and container queries, we can create truly responsive components that adapt to both viewport and container sizes. This approach provides more flexibility and maintainability in our responsive design system.
   --color-primary-200: #e4e4e7;
   --color-primary-300: #d4d4d8;
   --color-primary-400: #a1a1aa;

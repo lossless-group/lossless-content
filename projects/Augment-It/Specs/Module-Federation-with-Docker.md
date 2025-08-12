@@ -13,14 +13,7 @@ date_created: 2025-08-12
 date_modified: 2025-08-12
 publish: true
 slug: module-federation-with-docker
-tags: 
-  - Architecture
-  - Module-Federation
-  - Docker
-  - Microservices
-  - Microfrontends
-  - Kubernetes
-  - DevOps
+tags: [Architecture, Module-Federation, Docker, Microservices, Microfrontends, Kubernetes, DevOps]
 authors:
   - Michael Staton
 image_prompt: A sophisticated system architecture diagram showing containerized microservices, federated micro frontends, and distributed modules interconnected through API gateways, with Docker containers floating in a cloud-native environment.
@@ -1278,7 +1271,7 @@ describe('ModuleLoader', () => {
 - [Docker Best Practices](https://docs.docker.com/develop/best-practices/)
 - [Kubernetes Documentation](https://kubernetes.io/docs/)
 - [Microfrontend Patterns](https://micro-frontends.org/)
-- [API Related Services Specification](./API-Related-Services.md)
+- [API Related Services Specification](projects/Augment-It/Specs/API%20Related%20Services.md)
 - [API Connector Service Specification](./shared-services/apiConnectorService.md)
 
 ### Revision History
