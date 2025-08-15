@@ -720,10 +720,10 @@ interface TestingStrategy {
 - **[Flavored Markdown Parser](./shared-services/flavoredMarkdownParser.md)**: Extended markdown processing with AI-specific features
 
 ### Application Integrations
-- **[Prompt Template Manager](./apps/PromptTemplateManager.md)**: Template-driven AI interactions
-- **[Insight Assembler](./apps/InsightAssembler.md)**: Multi-source data aggregation and analysis
-- **[Request Reviewer](./apps/RequestReviewer.md)**: AI request analysis and optimization
-- **[Record Collector](./apps/RecordCollector.md)**: Automated data collection and processing
+- **[Prompt Template Manager](projects/Augment-It/Specs/apps-microfrontends/PromptTemplateManager.md)**: Template-driven AI interactions
+- **[Insight Assembler](projects/Augment-It/Specs/apps-microfrontends/InsightAssembler.md)**: Multi-source data aggregation and analysis
+- **[Request Reviewer](projects/Augment-It/Specs/apps-microfrontends/RequestReviewer.md)**: AI request analysis and optimization
+- **[Record Collector](projects/Augment-It/Specs/apps-microfrontends/RecordCollector.md)**: Automated data collection and processing
 
 ## Conclusion
 

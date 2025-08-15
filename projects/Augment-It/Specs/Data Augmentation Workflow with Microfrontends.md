@@ -53,12 +53,12 @@ This specification defines a data augmentation workflow implemented through a mi
 
 The workflow consists of seven specialized microfrontend applications:
 
-1. **[[projects/Augment-It/Specs/apps/RecordCollector|RecordCollector]]** - Initial data collection and ingestion
-2. **[[projects/Augment-It/Specs/apps/PromptTemplateManager|PromptTemplateManager]]** - Template management for AI prompts
-3. **[[projects/Augment-It/Specs/apps/RequestReviewer|RequestReviewer]]** - Review and validation of processing requests
-4. **[[projects/Augment-It/Specs/apps/ResponseReviewer|ResponseReviewer]]** - Quality assurance for AI-generated responses
-5. **[[projects/Augment-It/Specs/apps/HighlightCollector|HighlightCollector]]** - Extraction and collection of key insights
-6. **[[projects/Augment-It/Specs/apps/InsightAssembler|InsightAssembler]]** - Final assembly and synthesis of processed data
+1. **[[projects/Augment-It/Specs/apps-microfrontends/RecordCollector|RecordCollector]]** - Initial data collection and ingestion
+2. **[[projects/Augment-It/Specs/apps-microfrontends/PromptTemplateManager|PromptTemplateManager]]** - Template management for AI prompts
+3. **[[projects/Augment-It/Specs/apps-microfrontends/RequestReviewer|RequestReviewer]]** - Review and validation of processing requests
+4. **[[projects/Augment-It/Specs/apps-microfrontends/ResponseReviewer|ResponseReviewer]]** - Quality assurance for AI-generated responses
+5. **[[projects/Augment-It/Specs/apps-microfrontends/HighlightCollector|HighlightCollector]]** - Extraction and collection of key insights
+6. **[[projects/Augment-It/Specs/apps-microfrontends/InsightAssembler|InsightAssembler]]** - Final assembly and synthesis of processed data
 7. **{{Additional Component}}** - {{To be defined}}
 
 ### Detailed Design

@@ -10,17 +10,11 @@ status: Draft
 augmented_with: Warp Agent on Claude 3.5 Sonnet
 category: Technical-Specification
 date_created: 2025-08-09
-date_modified: 2025-08-12
+date_modified: 2025-08-13
 site_uuid: 52f97d5b-9b13-43c1-9e81-563982c71452
 publish: true
 slug: yaml-parser
-tags: 
-  - Shared-Services
-  - YAML
-  - Frontmatter
-  - Data-Processing
-  - Markdown
-  - Microservices
+tags: [Shared-Services, YAML, Frontmatter, Data-Processing, Markdown, Microservices]
 authors:
   - Michael Staton
 image_prompt: A sophisticated YAML processing interface showing frontmatter parsing, validation indicators, and consistent formatting with markdown files and configuration data.

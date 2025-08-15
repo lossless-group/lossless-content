@@ -10,15 +10,11 @@ status: Draft
 augmented_with: Warp Agent on Claude 3.5 Sonnet
 category: Technical-Specification
 date_created: 2025-08-09
-date_modified: 2025-08-12
+date_modified: 2025-08-13
 site_uuid: b3eac2e1-1d9c-4420-b232-abc27da3f921
 publish: true
 slug: csv-parser
-tags: 
-  - Shared-Services
-  - Data-Processing
-  - CSV
-  - Microservices
+tags: [Shared-Services, Data-Processing, CSV, Microservices]
 authors:
   - Michael Staton
 image_prompt: A modern data processing interface showing CSV file parsing with columns and rows, data type detection, and validation indicators.
@@ -474,7 +470,7 @@ class CSVParser {
 
 ### References
 - [RFC 4180 - Common Format and MIME Type for CSV Files](https://tools.ietf.org/html/rfc4180)
-- [Existing CSV Parser Implementation in RecordList.tsx](../apps/RecordCollector.md)
+- [Existing CSV Parser Implementation in RecordList.tsx](projects/Augment-It/Specs/apps-microfrontends/RecordCollector.md)
 - [Web File API Documentation](https://developer.mozilla.org/en-US/docs/Web/API/File)
 
 ### Revision History

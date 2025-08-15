@@ -16,11 +16,11 @@ project: Data Augmenter
 
 ## Context in Monorepo
 
-The [[projects/Augment-It/Specs/apps/PromptTemplateManager|PromptTemplateManager]] will be the second available module in the set and sequence of [[projects/Augment-It/Specs/Data Augmentation Workflow with Microfrontends|Data Augmentation Workflow with Microfrontends]]. 
+The [[projects/Augment-It/Specs/apps-microfrontends/PromptTemplateManager|PromptTemplateManager]] will be the second available module in the set and sequence of [[projects/Augment-It/Specs/Data Augmentation Workflow with Microfrontends|Data Augmentation Workflow with Microfrontends]]. 
 
 The goal of the [[projects/Augment-It/Specs/Augment-It Monorepo Vision Specification|Augment-It Monorepo]] is to transform and augment a set of records by using various AI services.  For instance, [[concepts/Explainers for AI/AI-Powered Search|AI-Powered Search]] models, [[concepts/Explainers for AI/AI Powered Data Capture|AI Powered Data Capture]] techniques, such as [[concepts/Explainers for AI/AI Web Crawlers|AI Web Crawlers]] and [[Vocabulary/Web Scraping|Web Scrapers]] through their respective APIs. 
 
-By properly integrating the [[projects/Augment-It/Specs/apps/PromptTemplateManager|PromptTemplateManager]] with the [[projects/Augment-It/Specs/apps/RecordCollector|RecordCollector]], we better ensure prompts well leverage AI capabilities and augment specific customer data effectively.
+By properly integrating the [[projects/Augment-It/Specs/apps-microfrontends/PromptTemplateManager|PromptTemplateManager]] with the [[projects/Augment-It/Specs/apps-microfrontends/RecordCollector|RecordCollector]], we better ensure prompts well leverage AI capabilities and augment specific customer data effectively.
 
 
 ```mermaid
@@ -49,25 +49,25 @@ graph TD
 
 ## Functionality of PromptTemplateManager
 
-The [[projects/Augment-It/Specs/apps/PromptTemplateManager|PromptTemplateManager]] will provide functionalities to allow users to upload prompts, author new ones, and insert _managed variables_ called from the records made available from the [[projects/Augment-It/Specs/apps/RecordCollector|RecordCollector]]. 
+The [[projects/Augment-It/Specs/apps-microfrontends/PromptTemplateManager|PromptTemplateManager]] will provide functionalities to allow users to upload prompts, author new ones, and insert _managed variables_ called from the records made available from the [[projects/Augment-It/Specs/apps-microfrontends/RecordCollector|RecordCollector]]. 
 
-> The **_initial use case_** is using the [[projects/Augment-It/Specs/apps/RecordCollector|RecordCollector]] to pull records from the CRM system about customers.  
+> The **_initial use case_** is using the [[projects/Augment-It/Specs/apps-microfrontends/RecordCollector|RecordCollector]] to pull records from the CRM system about customers.  
 
 This data may be mediated through [[Tooling/Data Utilities/DataBricks|DataBricks]] (or another data aggregator service).
 
-The [[projects/Augment-It/Specs/apps/PromptTemplateManager|PromptTemplateManager]] shall be the tool that empowers users to select,  generate, and iterate on _meaningful_ prompts likely to have the best results.  These prompts will specifically make easy the addition of  _fields as variables_ to allow the generation of customer specific prompts from a template. 
+The [[projects/Augment-It/Specs/apps-microfrontends/PromptTemplateManager|PromptTemplateManager]] shall be the tool that empowers users to select,  generate, and iterate on _meaningful_ prompts likely to have the best results.  These prompts will specifically make easy the addition of  _fields as variables_ to allow the generation of customer specific prompts from a template. 
 
-The [[projects/Augment-It/Specs/apps/PromptTemplateManager|PromptTemplateManager]] will enable the users to select the most appropriate prompt to send to the [[projects/Augment-It/Specs/apps/RequestReviewer|RequestReviewer]], which may or may not be the one they were just creating, working on, or saved to disk. 
+The [[projects/Augment-It/Specs/apps-microfrontends/PromptTemplateManager|PromptTemplateManager]] will enable the users to select the most appropriate prompt to send to the [[projects/Augment-It/Specs/apps-microfrontends/RequestReviewer|RequestReviewer]], which may or may not be the one they were just creating, working on, or saved to disk. 
 
 **APIs:**
         - AI Search Model: An API endpoint (REST or WebSocket) to send prompts and receive search results.
         - Web Crawler Service: An API endpoint for triggering web crawls based on provided parameters (e.g., target URLs, variables).
 
-The [[projects/Augment-It/Specs/apps/PromptTemplateManager|PromptTemplateManager]] gives users the tools to 
-1) Create prompts templates _with variables_ from the current set of records loaded in the [[projects/Augment-It/Specs/apps/RecordCollector|RecordCollector]] through **Variable Mapping:** mapping variables from current systems into the prompt templates before execution.
-	1) See available variables from the [[projects/Augment-It/Specs/apps/RecordCollector|RecordCollector]], available via API.  
+The [[projects/Augment-It/Specs/apps-microfrontends/PromptTemplateManager|PromptTemplateManager]] gives users the tools to 
+1) Create prompts templates _with variables_ from the current set of records loaded in the [[projects/Augment-It/Specs/apps-microfrontends/RecordCollector|RecordCollector]] through **Variable Mapping:** mapping variables from current systems into the prompt templates before execution.
+	1) See available variables from the [[projects/Augment-It/Specs/apps-microfrontends/RecordCollector|RecordCollector]], available via API.  
 	2) Enter a [[Vocabulary/WYSIWYG]] editor for crafting custom prompts with syntax highlighting and auto-completion for supported languages (like Python, JavaScript). a [[Tooling/Software Development/Frameworks/Web Frameworks/MDX|MDX]] editor to write prompts. 
-		1) Variable Management: Interface to map variables from records available from the [[projects/Augment-It/Specs/apps/RecordCollector|RecordCollector]] into the prompt template, possibly using a _drag-and-drop_ or _input field-based_ system.
+		1) Variable Management: Interface to map variables from records available from the [[projects/Augment-It/Specs/apps-microfrontends/RecordCollector|RecordCollector]] into the prompt template, possibly using a _drag-and-drop_ or _input field-based_ system.
 	3) Upload markdown or mdx files.
 	4) Save prompt templates that have valid variable syntax. 
 2) Search, filter, and select saved prompts. 
@@ -76,7 +76,7 @@ The [[projects/Augment-It/Specs/apps/PromptTemplateManager|PromptTemplateManager
 
 # 3. Goals & Non-Goals  
 ### Goals  
-- PromptTemplateManager uses a standard templating syntax to apply data from the [[projects/Augment-It/Specs/apps/RecordCollector|RecordCollector]] to a PromptTemplate, resulting in a filled out template on a per-record basis. 
+- PromptTemplateManager uses a standard templating syntax to apply data from the [[projects/Augment-It/Specs/apps-microfrontends/RecordCollector|RecordCollector]] to a PromptTemplate, resulting in a filled out template on a per-record basis. 
 - Users can create, delete, and update PromptTemplates
   
 ### Non-Goals  
@@ -89,10 +89,10 @@ Front-end Framework: [[Tooling/Software Development/Frameworks/Web Frameworks/Re
 Back-end Framework: [[Tooling/Software Development/Frameworks/Web Frameworks/NEXT.js|NEXT.js]]
 Container system: [[Tooling/Software Development/Developer Experience/DevOps/Docker|Docker]]
 
-Pulls data from: [[projects/Augment-It/Specs/apps/RecordCollector|RecordCollector]]
-Makes prompts available for [[projects/Augment-It/Specs/apps/RequestReviewer|RequestReviewer]]
+Pulls data from: [[projects/Augment-It/Specs/apps-microfrontends/RecordCollector|RecordCollector]]
+Makes prompts available for [[projects/Augment-It/Specs/apps-microfrontends/RequestReviewer|RequestReviewer]]
 
-Window to [[projects/Augment-It/Specs/apps/PromptTemplateManager|PromptTemplateManager]] available in [[projects/Augment-It/Specs/host-shell-ui/MainContainerUI|MainContainerUI]]
+Window to [[projects/Augment-It/Specs/apps-microfrontends/PromptTemplateManager|PromptTemplateManager]] available in [[projects/Augment-It/Specs/host-shell-ui/MainContainerUI|MainContainerUI]]
 
 
 ```mermaid

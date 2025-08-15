@@ -10,7 +10,7 @@ at_semantic_version: 0.0.0.1
 ---
 
 ## Purpose
-The [[projects/Augment-It/Specs/apps/RequestReviewer|RequestReviewer]] is a [[Microfrontend Architecture|Microfrontend]] that gives users the ability to review the selected prompt from the [[projects/Augment-It/Specs/apps/PromptTemplateManager|PromptTemplateManager]] filled with variables from the [[projects/Augment-It/Specs/apps/RecordCollector|RecordCollector]]
+The [[projects/Augment-It/Specs/apps-microfrontends/RequestReviewer|RequestReviewer]] is a [[Microfrontend Architecture|Microfrontend]] that gives users the ability to review the selected prompt from the [[projects/Augment-It/Specs/apps-microfrontends/PromptTemplateManager|PromptTemplateManager]] filled with variables from the [[projects/Augment-It/Specs/apps-microfrontends/RecordCollector|RecordCollector]]
 
 # Shared Components
 [[projects/Augment-It/Specs/shared-ui-elements/Shared_Modal-Wrapper|Shared_Modal-Wrapper]]
