@@ -10,16 +10,11 @@ status: Draft
 augmented_with: Warp Agent on Claude 3.5 Sonnet
 category: Technical-Specification
 date_created: 2025-08-09
-date_modified: 2025-08-12
+date_modified: 2025-08-13
 site_uuid: 928b788e-7c0c-4947-989e-76951ecb292e
 publish: true
 slug: json-parser
-tags: 
-  - Shared-Services
-  - JSON
-  - Data-Processing
-  - AI-Response-Handling
-  - Microservices
+tags: [Shared-Services, JSON, Data-Processing, AI-Response-Handling, Microservices]
 authors:
   - Michael Staton
 image_prompt: A sophisticated JSON processing interface showing syntax highlighting, validation indicators, and transformation tools with nested object structures and array handling.

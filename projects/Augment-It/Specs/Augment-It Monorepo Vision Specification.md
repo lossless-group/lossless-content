@@ -37,12 +37,12 @@ TypeScript, WebSockets or REST APIs for communication with microfrontend and oth
 
 # Version 1
 1. [[projects/Augment-It/Specs/host-shell-ui/MainContainerUI|MainContainerUI]]
-	1. [[projects/Augment-It/Specs/apps/RecordCollector|RecordCollector]]
-	2. [[projects/Augment-It/Specs/apps/PromptTemplateManager|PromptTemplateManager]]
-	3. [[projects/Augment-It/Specs/apps/RequestReviewer|RequestReviewer]]
-	4. [[projects/Augment-It/Specs/apps/ResponseReviewer|ResponseReviewer]]
-	5. [[projects/Augment-It/Specs/apps/HighlightCollector|HighlightCollector]]
-	6. [[projects/Augment-It/Specs/apps/InsightAssembler|InsightAssembler]]
+	1. [[projects/Augment-It/Specs/apps-microfrontends/RecordCollector|RecordCollector]]
+	2. [[projects/Augment-It/Specs/apps-microfrontends/PromptTemplateManager|PromptTemplateManager]]
+	3. [[projects/Augment-It/Specs/apps-microfrontends/RequestReviewer|RequestReviewer]]
+	4. [[projects/Augment-It/Specs/apps-microfrontends/ResponseReviewer|ResponseReviewer]]
+	5. [[projects/Augment-It/Specs/apps-microfrontends/HighlightCollector|HighlightCollector]]
+	6. [[projects/Augment-It/Specs/apps-microfrontends/InsightAssembler|InsightAssembler]]
 
 The [[projects/Augment-It/Specs/host-shell-ui/MainContainerUI|MainContainerUI]] is a [[Vocabulary/Front-End|Front-End]] that enables users to work through various [[Vocabulary/Microfrontend Architecture|Microfrontends]]  as part of a [[concepts/Data Augmentation Workflow|Data Augmentation Workflow]].
 
