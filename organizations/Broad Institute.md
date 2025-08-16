@@ -7,8 +7,7 @@ publish: true
 title: "Broad Institute"
 slug: broad-institute
 at_semantic_version: 0.0.0.1
-tags:
-  - Biomedical-Research
+tags: [Biomedical-Research]
 og_title: "Broad Institute"
 og_description: "Broad Institute is a multidisciplinary community of researchers on a mission to improve human health."
 og_image: "https://www.broadinstitute.org/themes/custom/broad/logo.png"
