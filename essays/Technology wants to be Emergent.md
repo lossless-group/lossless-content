@@ -18,7 +18,7 @@ authors:
   - Michael Staton
 ---
 
-[[organizations/Y Combinator]], [[500 Global]], [[organizations/Antler]], [[DevPost]]
+[[organizations/Y Combinator]], [[vertical-toolkits/Venture-Capital-Firms/500 Global]], [[organizations/Antler]], [[DevPost]]
 
 [[Web Standards]]
 

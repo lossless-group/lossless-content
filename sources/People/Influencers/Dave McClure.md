@@ -5,4 +5,4 @@ slug: dave-mcclure
 date_created: 2025-07-23
 date_modified: 2025-07-23
 ---
-Founder of [[500 Global]]
+Founder of [[vertical-toolkits/Venture-Capital-Firms/500 Global]]

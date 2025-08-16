@@ -32,7 +32,7 @@ Trela is a **Brazilian foodtech company** that operates an end-to-end digital ma
 Trela has raised significant investment from a mix of Brazilian and international funds:
 
 - Raised **$25 million in a Series A round** in 2022. [^8tqfmy]
-- Investors include **[[Kaszek Ventures]]**, **SoftBank Latin America Fund**, [^8tqfmy] **[[organizations/Y Combinator|Y Combinator]]r** (Winter 2021 batch), [^eph1pn] **Magma Partners**, and **Canary**. [^ib8bkn] [^eph1pn] [^bsq8de]
+- Investors include **[[vertical-toolkits/Venture-Capital-Firms/Kaszek Ventures]]**, **SoftBank Latin America Fund**, [^8tqfmy] **[[organizations/Y Combinator|Y Combinator]]r** (Winter 2021 batch), [^eph1pn] **Magma Partners**, and **Canary**. [^ib8bkn] [^eph1pn] [^bsq8de]
 - Total disclosed funding is around **$28 million**. [^b4uen4]
 
 ***

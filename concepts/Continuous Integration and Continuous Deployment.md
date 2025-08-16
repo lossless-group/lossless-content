@@ -1,16 +1,16 @@
 ---
 site_uuid: 3b205a7a-830a-4521-a44c-bf0dc159d73e
 date_created: 2025-04-18
-date_modified: 2025-04-24
-aliases:
-  - CD
-  - CI
-  - CI/CD
+date_modified: 2025-08-16
+aliases: [CD, CI, CI/CD]
 ---
 
 [[BitBucket]]
-[[Tooling/Software Development/DevOps/Nx]]
-[[Tooling/Software Development/DevOps/GitKraken]]
+[[Tooling/Software Development/Developer Experience/DevOps/Nx|Nx]]
+[[Tooling/Software Development/Developer Experience/DevOps/GitKraken|GitKraken]]
+[[Tooling/Software Development/Developer Experience/DevOps/GitKraken Desktop]]
+[[Tooling/Software Development/Developer Experience/DevOps/Retcon|Retcon]]
+
 
 https://youtu.be/NcU0oEk6z8Y?si=jlehpNLVdqz7tazp
 
