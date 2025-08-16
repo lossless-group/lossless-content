@@ -25,7 +25,7 @@ Major trends in OceanTech as of 2025 include the rapid adoption of **autonomous 
 
   AI plays a critical role in processing vast sensor data from ships, ports, and autonomous vehicles to optimize operations (such as routing and collision avoidance), predict maintenance needs, and drive real-time decision-making. Companies like [[vertical-toolkits/OceanTech/Orca AI|Orca AI]] and [[vertical-toolkits/OceanTech/OceanZ|OceanZ]] are using AI for collision avoidance and large-scale ocean condition monitoring, respectively, leveraging thermal imaging and intelligent algorithms to enable safer and more efficient maritime activities[^j28qqs] [^k8xuch] [^e5rpd2] ![Practical example or use case visualization](https://cyprusshippingnews.com/wp-content/uploads/2025/03/Advancing-Ocean-Tech-for-Marine-Sustainability-a-dive-into-Marine-Science-Innovations.jpg).
 
-- **Clean Energy and [[domains/vocabulary/Decarbonization]]**
+- **Clean Energy and [[domains/vocabulary/Decarbonization|Decarbonization]]**
 
   The maritime industry faces increasing regulatory pressure to reduce its carbon footprint. Efforts include the development and adoption of:
   

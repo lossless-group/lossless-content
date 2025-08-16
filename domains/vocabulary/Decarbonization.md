@@ -34,7 +34,7 @@ At its core, decarbonization means moving away from fossil fuels and transitioni
 
 **Practical Examples and Use Cases**
 
-- **Corporate Initiatives:** Companies like Microsoft, General Motors, Honeywell, and Google have set ambitious net-zero targets and are redesigning supply chains to eliminate emissions, from raw materials to product delivery. [^lp5z04]
+- **Corporate Initiatives:** Companies like Microsoft, General Motors, Honeywell, and Google have set ambitious [[domains/concepts/Net-Zero Targets|Net-Zero Targets]] and are redesigning supply chains to eliminate emissions, from raw materials to product delivery. [^lp5z04]
 - **Policy Measures:** The European Union has launched the Carbon Border Adjustment Mechanism (CBAM), aligning the cost of carbon-intensive imports (like steel and cement) with stricter EU standards. [^mnzxc6]
 - **Local Projects:** Cities and regions are investing in electric mass transit, district heating networks powered by renewables, and mandating energy performance in building codes. [^f860tb]
 
