@@ -28,7 +28,7 @@ We, the [[The Lossless Group]] believes the the [[Life Design System]] should be
 - [[Brand and Corporate Communication]] 
 - [[Laerdal Marketing|Marketing]]
 - [[concepts/Visual Leadership]] and internal communication.
-- [[Product Management]] (the process and artifacts of, rather than the UI designs from)
+- [[Sources/Laerdal Entities/Laerdal Product Management]] (the process and artifacts of, rather than the UI designs from)
 
 Therefore, we hope that the [[Life Design System]] can expand its mandate and have starter kits and component libraries that can streamline the development of:
 - Diagrams and Blueprints

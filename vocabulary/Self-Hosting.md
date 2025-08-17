@@ -1,5 +1,5 @@
 ---
-date_modified: 2025-07-23
+date_modified: 2025-08-17
 site_uuid: f523037e-f522-466c-83e8-2af7793df711
 date_created: 2025-04-06
 aliases: [Self-Host, Self-Hostable]
@@ -9,6 +9,8 @@ tags: [Self-Hosting-Cloud]
 Including [[Coolify]], [[Tooling/Software Development/Cloud Infrastructure/Bolt.diy|Bolt.diy]], [[DeepSeek]], [[n8n]], [[Kestra]]
 
 [[Railway]], [[DollarDeploy]]
+
+[[Tooling/Enterprise Jobs-to-be-Done/Plunk|Plunk]]
 
 ```yaml toolingGallery
 tag: Self-Hosting-Cloud

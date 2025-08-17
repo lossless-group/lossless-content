@@ -1,5 +1,5 @@
 ---
-date_modified: 2025-08-15
+date_modified: 2025-08-17
 site_uuid: a8083f54-b276-4f6a-8cf0-896a5811aa05
 date_created: 2025-04-06
 aliases: [Refactoring, Continuous Rewrites]
@@ -18,6 +18,7 @@ aliases: [Refactoring, Continuous Rewrites]
 
 **[[Continuous Refactoring]]** is the disciplined practice of improving and tidying up code *regularly*—not as a one-off task, but as a continuous activity throughout the software development lifecycle. Although recognized as a best practice, it is frequently neglected due to short-term deadlines or the mistaken belief that refactoring is only necessary when problems become visible.
 
+https://youtu.be/re7whFXlOFk?si=QjD0BTrJfs_Uhbo_
 ---
 
 **What is Continuous Refactoring?**

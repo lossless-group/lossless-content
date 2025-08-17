@@ -1,6 +1,6 @@
 ---
 date_created: 2025-07-11
-date_modified: 2025-07-31
+date_modified: 2025-08-17
 site_uuid: c3149383-fa6d-4980-8ea5-7423b7aafdf3
 publish: true
 title: Agentic AI in Fintech
@@ -16,6 +16,9 @@ banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_in_Fintech_portrait_image_1753837202194_MvuijTdGt.webp
 square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_in_Fintech_square_image_1753837204290_102neBaRK.webp
 ---
+###### Topics
+[[concepts/Explainers for AI/Explainable AI]]
+[[concepts/Explainers for AI/Compliance AI|Compliance AI]]
 
 # Lighthouse Examples
 ### Open Standards

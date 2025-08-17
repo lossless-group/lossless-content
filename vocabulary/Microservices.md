@@ -1,18 +1,23 @@
 ---
-date_modified: 2025-07-25
+date_modified: 2025-08-17
 site_uuid: 5d0cc054-0c24-44fc-8d66-b215fcfd825e
 date_created: 2025-04-06
-aliases: [Microservice Architecture, Microservice]
+aliases: [Microservice Architecture, Microservice, Microservices Architecture]
+authors:
+  - Michael Staton
+publish: true
+title: Microservices
+slug: microservices
+at_semantic_version: 0.0.1.0
+augmented_with: Poe AI
 ---
 
-[[Microservices]] are really only possible with the proper use of [[Containers]], and using [[Vocabulary/Container Orchestration]] tooling like [[Kubernetes]]. When many [[Microservices]] have been created, senior engineering executives will need to architect a [[Service Mesh]]. 
+[[Microservices]] are part of a [[Vocabulary/Software Architecture|Software Architecture]] that emphasizes small, maintainable code bases that are accessible via [[Vocabulary/Application Programming Interface|API]] to other parts of the system. 
 
-<iframe style="display:block;position:absolute;top:0;left:0;width:100%;aspect-ratio:16/9;" src="https://www.youtube.com/embed/lL_j7ilk7rc?si=MQt72cGS4xcCz5MS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+They have only become mainstream since the mass adoption and proper use of [[Containers]] like [[Tooling/Software Development/Developer Experience/DevOps/Docker|Docker]], and using [[Vocabulary/Container Orchestration|Container Orchestration]] tooling like [[Kubernetes]]. When many [[Microservices]] have been created, senior engineering executives will need to architect a [[Service Mesh]]. 
 
-[Microservices explained in 5 Minutes.](https://youtu.be/lL_j7ilk7rc?si=gMtKl3jCI0MrwRu6) 5 minutes or less.  [[YouTube]]. 
 
-***
-According to [[Poe AI]]:
+https://youtu.be/lL_j7ilk7rc?si=q6s-MvhrxAxCfoY8 [^qgw95q] 
 
 
 Imagine a bustling workshop filled with artisans, each specializing in their craft—potters shaping clay, weavers creating intricate patterns, and blacksmiths forging tools. This is akin to the world of microservices, where each small, autonomous service focuses on a specific function, working harmoniously within a larger system.
@@ -38,3 +43,5 @@ Imagine a bustling workshop filled with artisans, each specializing in their cra
 
 https://youtu.be/d8NDgwOllaI?si=hUaO8qEtWcXwQyfY
 
+
+[^qgw95q]: 2022, Dec 18. [Microservices explained in 5 Minutes.](https://youtu.be/lL_j7ilk7rc?si=gMtKl3jCI0MrwRu6) 5 minutes or less.  [[YouTube]].

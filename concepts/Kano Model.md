@@ -7,7 +7,7 @@ date_modified: 2025-04-24
 
 ![[Pasted image 20250118131612.png]]
 
-Applicable to [[Design]] and [[Product Management]].  
+Applicable to [[Design]] and [[Sources/Laerdal Entities/Laerdal Product Management]].  
 
 Helps hone in on a [[Blue Ocean Strategy]].  
 

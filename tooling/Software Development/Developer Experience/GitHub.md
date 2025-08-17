@@ -1,22 +1,23 @@
 ---
 site_uuid: 92125cde-81fc-43d4-bd38-9bb3a125e301
-url: 'https://github.com/'
-parent_org: '[[organizations/Microsoft]]'
-image: 'https://github.githubassets.com/assets/home24-5939032587c9.jpg'
+url: https://github.com/
+parent_org: "[[organizations/Microsoft]]"
+image: https://github.githubassets.com/assets/home24-5939032587c9.jpg
 site_name: GitHub
-zinger: 'Build and ship software on a single, collaborative platform'
-favicon: 'https://github.githubassets.com/favicons/favicon.svg'
-og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250529_GitHub_og_screenshot.jpeg'
-jina_last_request: '2025-03-09T06:45:19.022Z'
-jina_error: 'Error occurred'
-og_last_fetch: '2025-05-29T13:34:09.352Z'
+zinger: Build and ship software on a single, collaborative platform
+favicon: https://github.githubassets.com/favicons/favicon.svg
+og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250529_GitHub_og_screenshot.jpeg
+jina_last_request: 2025-03-09T06:45:19.022Z
+jina_error: Error occurred
+og_last_fetch: 2025-05-29T13:34:09.352Z
 date_created: 2025-03-04
-date_modified: 2025-07-24
-og_image: 'https://github.githubassets.com/assets/home24-5939032587c9.jpg'
-og_url: 'https://github.com/'
-title: 'GitHub · Build and ship software on a single, collaborative platform'
-description: "Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity."
+date_modified: 2025-08-17
+og_image: https://github.githubassets.com/assets/home24-5939032587c9.jpg
+og_url: https://github.com/
+title: GitHub · Build and ship software on a single, collaborative platform
+description: Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.
 tags: [Developer-Experience, Software-Development, DevOps]
+youtube_channel_url: https://www.youtube.com/@GitHub
 ---
 
 [[organizations/Microsoft]] acquired [[GitHub]].
