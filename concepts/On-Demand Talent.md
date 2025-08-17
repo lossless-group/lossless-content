@@ -14,7 +14,7 @@ Talent Networks include:
 - [[organizations/Andela]]
 - [[organizations/ScaleArmy]]
 - [[organizations/TopTal]]
-- [[organizations/Invisible.co]]
+- [[Tooling/AI-Toolkit/Invisible.co]]
 
 
 

@@ -24,11 +24,11 @@ portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Churn-Co
 square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Churn-Content-Editor-for-the-Web_square_image_1755407985588_4cGNIBQR8.webp"
 ---
 
-Why are we still using complex formats?  [[Vocabulary/AI Models|AI Models]] and [[concepts/Explainers for AI/Code Generators|Code Generators]] all speak [[emergent-innovation/Standards/Markdown|Markdown]], [[Tooling/Software Development/Programming Languages/HTML|HTML]], [[Tooling/Software Development/Programming Languages/CSS|CSS]], even [[Scalable Vector Graphics]]. 
+Why are we still using complex file formats?  [[Vocabulary/AI Models|AI Models]] and [[concepts/Explainers for AI/Code Generators|Code Generators]] all speak [[emergent-innovation/Standards/Markdown|Markdown]], [[Tooling/Software Development/Programming Languages/HTML|HTML]], [[Tooling/Software Development/Programming Languages/CSS|CSS]], even [[Vocabulary/Scalable Vector Graphics]]. 
 
-We can use [[Tooling/Software Development/Programming Languages/HTML|HTML]] and [[Tooling/Software Development/Programming Languages/CSS|CSS]] for layout design.  We don't need [[organizations/Adobe|Adobe]] or [[Tooling/Creative/Affinity|Affinity]]. We need to make it a [[Vocabulary/Responsive Design|Responsive Design]] and publish it to the web anyway. 
+We can use [[Tooling/Software Development/Programming Languages/HTML|HTML]] and [[Tooling/Software Development/Programming Languages/CSS|CSS]] for layout design.  We don't need [[organizations/Adobe|Adobe]] or [[Tooling/Creative/Affinity|Affinity]]. We need to make it a [[Vocabulary/Responsive Design|Responsive Design]] and publish it to the web anyway.  Emails and reports, fine okay. 
 
-Markdown editors are growing like crazy: [[Tooling/Productivity/Obsidian|Obsidian]], [[Tooling/Productivity/Anytype|Anytype]], [[Tooling/Productivity/CraftDocs|CraftDocs]], [[Tooling/Productivity/Logseq|Logseq]].
+Markdown editors are growing like crazy: [[Tooling/Productivity/Obsidian|Obsidian]], [[Tooling/Productivity/Anytype|Anytype]], [[Tooling/Productivity/CraftDocs|CraftDocs]], [[Tooling/Productivity/Logseq|Logseq]], 
 
 We have open standards like [[emergent-innovation/Standards/WebGL|WebGL]]. 
 
@@ -45,6 +45,20 @@ Only deal with [[emergent-innovation/Standards/Markdown|Extended Markdown]],
 Embedded [[concepts/Explainers for AI/AI Integrations|AI Integrations]] for both [[concepts/Content Generation|Content Generation]] and [[Vocabulary/Web Development|Web Development]]. 
 
 Build once play anywhere [[Vocabulary/Cross-Platform Applications|Cross-Platform Applications]] with [[Tooling/Software Development/Programming Languages/Rust|Rust]] using [[Tooling/Software Development/Programming Languages/Libraries/wgpu|wgpu]]
+
+Private notes
+Variants
+Versions
+
+[[Tooling/Software Development/Developer Experience/DevOps/Jujutsu|Jujutsu]] integration.
+
+[[uuid]] generation
+Split markdown file into two. 
+
+
+## Citation Management Automation
+Sources
+
 
 
 ## Dependencies
@@ -75,3 +89,9 @@ Build once play anywhere [[Vocabulary/Cross-Platform Applications|Cross-Platform
 [[Ditto]]
 [[Sources/Media/Substack|Substack]]
 [[Tooling/Enterprise Jobs-to-be-Done/Plunk|Plunk]]
+[[Pages]]
+
+# One Day
+[[concepts/Explainers for Tooling/Advanced Documents|Collaborative Documents]]
+Contribution monitoring.  Edits, amends, saves timestamps. 
+

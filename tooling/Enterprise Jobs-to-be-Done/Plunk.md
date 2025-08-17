@@ -35,6 +35,8 @@ augmented_with: Perplexity AI
 **Plunk is valuable as an open-source, self-hosted alternative to proprietary email marketing tools, offering businesses full control, privacy, and significant cost savings.** Its primary competition includes platforms such as Mailchimp, SendGrid, [[Tooling/Software Development/Lego-Kit Engineering Tools/Mailgun|Mailgun]], Resend, as well as other open-source email frameworks like [[Mautic]].
 
 ---
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I didn&#39;t buy a 1.8m domain, but I have great news too.<br><br>Plunk is now the open-source email platform! <a href="https://t.co/IGXtrgI26C">pic.twitter.com/IGXtrgI26C</a></p>&mdash; Dries Augustyns (@driaug_) <a href="https://twitter.com/driaug_/status/1818689098762031627?ref_src=twsrc%5Etfw">July 31, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+***
 
 **Value Proposition of Plunk**
 
