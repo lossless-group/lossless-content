@@ -6,7 +6,7 @@ aliases: [Self-Host, Self-Hostable]
 tags: [Self-Hosting-Cloud]
 ---
 
-Including [[Coolify]], [[Tooling/Software Development/Cloud Infrastructure/Bolt.diy|Bolt.diy]], [[DeepSeek]], [[n8n]], [[Kestra]]
+Including [[Coolify]], [[Tooling/Software Development/Cloud Infrastructure/Bolt.diy|Bolt.diy]], [[DeepSeek]], [[projects/ACE-It/UseCases/n8n]], [[Kestra]]
 
 [[Railway]], [[DollarDeploy]]
 

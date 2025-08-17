@@ -8,7 +8,7 @@ Especially for [[Low-Code]] tools, [[UI Builders]], and [[Agentic AI]]
 
 [[Webflow]], [[Adalo]], [[Bubble]], [[Tooling/Software Development/Lego-Kit Engineering Tools/UI Builders/Outsystems]]. 
 
-[[Agentic AI]] usually has very visual programming.  Look at [[Flowise]], [[n8n]], and [[Crew AI]]. 
+[[Agentic AI]] usually has very visual programming.  Look at [[Flowise]], [[projects/ACE-It/UseCases/n8n]], and [[Crew AI]]. 
 
 [[Tooling/Software Development/DevOps/Eraser]] is a an AI assisted diagramming tool for software architecture.
 

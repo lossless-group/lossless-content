@@ -15,7 +15,7 @@ og_last_fetch: 2025-05-27T22:17:52.268Z
 tags: [IPaaS, Workflow-Automation, Agentic-AI, Agentic-Workspaces, Check-It-Out]
 ---
 
-Here's an [[n8n]] beginner course on [[YouTube]] created by n8n. The [n8n Beginner course](https://youtube.com/playlist?list=PLlET0GsrLUL59YbxstZE71WszP3pVnZfI&si=T8vhC2cKnjVlxh4u)
+Here's an [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/n8n]] beginner course on [[YouTube]] created by n8n. The [n8n Beginner course](https://youtube.com/playlist?list=PLlET0GsrLUL59YbxstZE71WszP3pVnZfI&si=T8vhC2cKnjVlxh4u)
 
 https://youtube.com/shorts/KPxlRfTyC4c?si=2Iw7R9sAQbN2tcrF
 
@@ -73,11 +73,11 @@ https://youtu.be/m8NqaHUuGX0?si=4vj9nYp_nZ0gRJFB
 
 https://youtu.be/_lsXx-3jz-0?si=HiMDr3zhZqK8G1kJ
 
-### [[organizations/Perplexity AI]] explains [[n8n]]
+### [[organizations/Perplexity AI]] explains [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/n8n]]
 n8n is a low-code, open-source workflow automation platform that enables users to connect applications, services, and APIs to automate tasks and processes without extensive coding. Founded in 2019 by Jan Oberhauser and Ricardo J. Mendonça, n8n has gained popularity for its user-friendly interface, extensive integrations (over 400 platforms), and flexibility for both simple and complex workflows[1][2]. It supports self-hosting for enhanced data control and offers advanced features like branching, merging, AI integration, and developer-friendly tools[2][7].
 
 ### Differentiation
-- **Open Source**: Unlike competitors like [[Zapier]] or [[IFTTT]], [[n8n]] allows users to modify its core code and self-host the platform for greater customization and data privacy[2][8].
+- **Open Source**: Unlike competitors like [[Zapier]] or [[IFTTT]], [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/n8n]] allows users to modify its core code and self-host the platform for greater customization and data privacy[2][8].
 - **Advanced Features**: It supports complex workflows with branching logic, custom coding (JavaScript/Python), and AI-driven automation[2].
 - **Community-Driven**: Its open-source nature fosters a vibrant community that contributes templates, integrations, and feedback[1][2].
 

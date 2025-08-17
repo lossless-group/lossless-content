@@ -1,3 +1,17 @@
+---
+site_uuid: 74ffb9c4-5af4-4ec6-863c-d3dafa97bbbb
+publish: true
+title: Data Layer
+slug: data-layer
+at_semantic_version: 0.0.1.0
+authors:
+  - Slava Sobolev
+  - Ida Soboleva
+date_created: 2025-08-15
+date_modified: 2025-08-17
+tags: [Microservices]
+---
+
 # Data Layer & Modeling
 ---
 

@@ -1,3 +1,7 @@
+---
+date_created: 2025-08-15
+date_modified: 2025-08-17
+---
 # Iterative Approach to AI-Augmented Development
 
 ## Overview

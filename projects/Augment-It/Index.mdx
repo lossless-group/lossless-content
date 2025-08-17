@@ -1,0 +1,41 @@
+---
+site_uuid: fd2efaf2-9872-48da-a035-3cd06156f0fb
+publish: true
+title: "Augment It: A Data Pipeline to augment records with AI"
+slug: index
+at_semantic_version: 0.0.0.1
+date_created: 2025-08-17
+date_modified: 2025-08-17
+lede: Use state of the art AI models, deep research, and web crawlers to augment records.
+---
+> ![warning] Prerequisite:
+> Read the [[projects/ACE-It/Index.mdx|ACE-It]] project documentation first, as then our documentation-first and documentation heavy set up here will make more sense. 
+
+# Augment-It
+
+Augment any data by importing records or connecting to data sources. 
+1. Use Case: Generate insights about our customers that can be used by our Product Development teams. 
+2. Use Case: Generate insights to more fully inform our outside sales teams about customers just-in-time before sales meetings and site visits.
+
+### (Flow / Journey)
+1. Connect a data source or upload a CSV. 
+	1. [[projects/Augment-It/Specs/shared-ui-elements/Shared_API-Connector-Src/Shared_Supported-Data-Stores-Widget|Shared Supported Data Stores Widget]]
+2. Review records and compute synthetic properties.
+	1. [[projects/Augment-It/Specs/apps-microfrontends/RecordCollector|RecordCollector]]
+3. Create prompt templates with variables for real data. 
+	1. [[projects/Augment-It/Specs/apps-microfrontends/PromptTemplateManager|PromptTemplateManager]]
+4. Populate prompt templates with real data, see a meaningful prompt and request.
+	1. [[projects/Augment-It/Specs/apps-microfrontends/RequestReviewer|RequestReviewer]]
+5. Choose your favorite AI services, or use our recommendations
+	1. [[projects/Augment-It/Specs/shared-ui-elements/Shared_API-Connector-Src/Shared_Supported-Models_Widget|Shared Supported Models Widget]]
+		1. Perplexity AI Deep Research
+		2. Firecrawl
+6. Highlight good information and capture variables.
+	1. [[projects/Augment-It/Specs/apps-microfrontends/HighlightCollector|HighlightCollector]]
+7. Generate insight reports for business use cases, teams, or management.
+	1. [[projects/Augment-It/Specs/apps-microfrontends/InsightAssembler|InsightAssembler]]
+8. Put robust, up-to-date data back into the data source!
+
+
+
+

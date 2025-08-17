@@ -1,6 +1,15 @@
 ---
 date_created: 2025-08-15
-date_modified: 2025-08-16
+date_modified: 2025-08-17
+site_uuid: 8881963b-80e2-46ee-9df4-df04896eacb1
+publish: true
+title: Host User Interface
+slug: host-user-interface
+at_semantic_version: 0.0.1.0
+authors:
+  - Slava Sobolev
+  - Ida Soboleva
+tags: [User-Interface, Microfrontends]
 ---
 # UI Libraries
 

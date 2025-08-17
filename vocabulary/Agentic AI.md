@@ -5,7 +5,7 @@ site_uuid: 8babe509-0827-4af4-bbfb-77957bf7482e
 aliases: [AI Agents, AI Agent, Agent, Agents]
 ---
 ###### Examples
-[[Kestra]], [[n8n]], [[Flowise]]
+[[Kestra]], [[projects/ACE-It/UseCases/n8n]], [[Flowise]]
 
 
 :::tooling-gallery

@@ -29,7 +29,7 @@ aliases:
 > 
 > ### **Important Data Standards in Technology**
 > Key examples include:
-> - **Technical Standards:** [[emergent-innovation/Standards/JSON]], [[XML]] (data formats), [[emergent-innovation/Standards/HTTPS]] (protocols)[4].
+> - **Technical Standards:** [[emergent-innovation/Standards/JSON]], [[emergent-innovation/Standards/Extensible Markup Language]] (data formats), [[emergent-innovation/Standards/HTTPS]] (protocols)[4].
 > - **Semantic Standards:** [[organizations/HL7]] in healthcare for patient data sharing[4].
 > - **Industry-Specific Standards:** SWIFT for financial transactions, ISO 27001 for information security management[4][5].
 > 

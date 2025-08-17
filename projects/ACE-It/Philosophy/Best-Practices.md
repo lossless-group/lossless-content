@@ -1,3 +1,7 @@
+---
+date_created: 2025-08-15
+date_modified: 2025-08-17
+---
 # Best Practices for AI-Augmented Development
 
 ## Overview
@@ -24,12 +28,13 @@ Modern AI tools for software development can be divided into several categories 
 ### Rapid Prototyping Tools / Web-IDEs
 
 **Most Notable:**
-- [Lovable.dev](https://lovable.dev/)
-- [V0.dev](https://v0.dev/)
-- [Bolt.new](https://bolt.new/)
-- [Manus.im](http://manus.im)
+- [Lovable.dev](https://lovable.dev/), [[Tooling/AI-Toolkit/Generative AI/Code Generators/Lovable|Lovable]]
+- [V0.dev](https://v0.dev/) [[Tooling/AI-Toolkit/Generative AI/Code Generators/v0|v0]]
+- [Bolt.new](https://bolt.new/) [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bolt.new|Bolt.new]]
+- [Manus.im](http://manus.im) [[Manus.im]]
 
-**Best For:** Rapid prototyping and hypothesis testing
+
+**Best For:** [[Rapid Prototyping]] and [[Hypothesis Testing]]
 
 These tools are excellent for product owners and designers who want to explore ideas without dedicating development team resources. They excel at prototyping small applications using modern tech stacks like React and Node.js, with seamless integration to cloud providers like Supabase and Vercel.
 
@@ -46,11 +51,14 @@ These tools are excellent for product owners and designers who want to explore i
 ### Copilots/Coding Assistants
 
 **Most Notable:**
-- Cursor
-- Windsurf
-- VSCode Copilot
-- Cline
-- Cody
+- [[Tooling/AI-Toolkit/Generative AI/Code Generators/Cursor|Cursor]]
+- [[Tooling/AI-Toolkit/Generative AI/Code Generators/Windsurf IDE|Windsurf IDE]]
+- [[Tooling/Software Development/Developer Experience/DevTools/Visual Studio Code|VS Code]] with [[Tooling/AI-Toolkit/Generative AI/Code Generators/GitHub Copilot|GitHub Copilot]]
+- [[Tooling/AI-Toolkit/Generative AI/Code Generators/Cline|Cline]]
+- [[Cody]]
+- [[Tooling/AI-Toolkit/AI Programming Frameworks/Kiro|Kiro]]
+- [[Tooling/AI-Toolkit/Generative AI/Code Generators/DX.ai|DX.ai]]
+
 
 **Best For:** Professional developers seeking productivity enhancement
 
@@ -65,16 +73,17 @@ These tools have had the most noticeable impact on the software development indu
 
 #### Offline / CLI / In-Editor
 **Tools:**
-- Claude Code
+- [[Tooling/AI-Toolkit/Generative AI/Code Generators/Claude Code|Claude Code]]
+- [[Tooling/AI-Toolkit/Generative AI/Code Generators/Aider|Aider]]
 - OpenAI Codex CLI
 - Amazon Q Developer
 - [Smol AI Developer](https://github.com/smol-ai/developer)
 - [TabbyML](https://www.tabbyml.com/)
 
 **Capabilities:**
-- Major refactorings and technology migrations
+- Major refactoring and technology migrations
 - Routine code changes across large codebases
-- Framework migrations (can save weeks of development time)
+- **_Framework migrations_** (can save weeks of development time)
 
 **Examples:**
 - [Frontend framework migration](https://x.com/flavioAd/status/1923742238502220082)
@@ -82,9 +91,9 @@ These tools have had the most noticeable impact on the software development indu
 
 #### Cloud-Based
 **Tools:**
-- [Devin.ai](https://devin.ai/)
+- [Devin.ai](https://devin.ai/), [[Tooling/AI-Toolkit/Models/Devin|Devin]]
 - [Sweep](https://github.com/sweepai/sweep)
-- [Replit](https://replit.com/)
+- [Replit](https://replit.com/), [[Tooling/Software Development/Cloud Infrastructure/Replit|Replit]]
 
 **Features:**
 - Integration with cloud infrastructure
@@ -105,7 +114,7 @@ These tools have had the most noticeable impact on the software development indu
 ### Testing and Quality Assurance Tools
 
 **AI-Enabled Testing:**
-- [Octomind](https://www.octomind.dev/)
+- [Octomind](https://www.octomind.dev/) 
 - [Carbonate](https://carbonate.dev/)
 - [Meticulous](https://www.meticulous.ai)
 
@@ -114,16 +123,16 @@ These tools have had the most noticeable impact on the software development indu
 **Traditional Testing Tools:**
 - [Sauce Labs](https://saucelabs.com/)
 - [WebDriver.io](https://webdriver.io/)
-- [Playwright](https://playwright.dev/)
+- [Playwright](https://playwright.dev/) [[Tooling/Software Development/Developer Experience/DevTools/Playwright|Playwright]]
 - [BrowserStack](https://www.browserstack.com/)
 - [LambdaTest](https://www.lambdatest.com/)
 
 ### Workflow Automation
 
 **Tools:**
-- [N8N](https://n8n.io/)
-- [Zapier](https://zapier.com/)
-- [Make](https://make.com)
+- [N8N](https://n8n.io/) [[projects/ACE-It/UseCases/n8n|n8n]]
+- [Zapier](https://zapier.com/) [[Tooling/Software Development/Developer Experience/DevOps/Zapier|Zapier]]
+- [Make](https://make.com) [[Tooling/Enterprise Jobs-to-be-Done/Integration Platforms/Make|Make]]
 
 **Use Cases:**
 - Customer onboarding automation
@@ -136,7 +145,7 @@ These tools have had the most noticeable impact on the software development indu
 ### Data Visibility Tools / RAG
 
 **Tools:**
-- [Microsoft Fabric](https://www.microsoft.com/en-us/microsoft-fabric)
+- [Microsoft Fabric](https://www.microsoft.com/en-us/microsoft-fabric) 
 - [Power BI Copilot](https://learn.microsoft.com/en-us/power-bi/create-reports/copilot-introduction)
 
 **Purpose:** Increase data transparency and accessibility through natural language queries

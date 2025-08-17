@@ -4,7 +4,7 @@ site_uuid: 565407d7-ea14-47fc-a849-8efdffafccc2
 date_created: 2025-04-06
 ---
 
-Examples include [[Flowise]], [[n8n]], [[Crew AI]]. 
+Examples include [[Flowise]], [[projects/ACE-It/UseCases/n8n]], [[Crew AI]]. 
 
 > [!AI describes sequential agents]
 > **Sequential Agents** are AI systems or models that operate by performing a series of tasks or actions in a specific order, with each step building on the output or outcomes of the previous one. These agents are designed to handle **complex, multi-step processes** by breaking them down into smaller, manageable tasks, executing them in sequence, and adapting dynamically based on the results of earlier steps.

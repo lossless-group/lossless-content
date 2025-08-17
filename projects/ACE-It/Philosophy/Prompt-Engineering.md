@@ -4,10 +4,14 @@ date_modified: 2025-08-17
 ---
 # Prompt Engineering Essentials
 
+> Essential: [work on prompts](#meta-prompts) with AI, but with a "Product Management role." Once the documentation is all ready, then ask the model to switch roles.  Even better, create a new chat so you have a clean context window
 
+[work on prompts][#6. Let the AI help you write prompts (meta‑prompts)]
 ## 1. What is a prompt?
 
 A **prompt** is a short brief for the AI: what you want, what the AI should consider, and how the answer should look. Think of it like a creative brief or a task description.
+
+[[Vocabulary/Markup|Markup]]
 
 Typical pieces:
 
@@ -81,6 +85,7 @@ Example of a good answer:
 
 ---
 
+<a name="meta-prompts"></a>
 ## 6. Let the AI help you write prompts (meta‑prompts)
 
 **Draft a prompt from a brief**
@@ -194,7 +199,7 @@ Example of a good answer:
 Some workflows legitimately require very large prompts (for example: bootstrapping or refactoring a large codebase, setting up a mono‑/multi‑package repository, or laying down end‑to‑end acceptance criteria and conventions in one place). When using long prompts, keep them navigable: add a short table of contents, use clear section headers, number the steps, keep file paths and IDs exact, and separate stable policy from task‑specific context.
 
 See our full example used to set up a monorepo:
-[**Example**](../Prompts/Prompt-Queue/Full%20Prompt%20for%20Monorepo%20Setup%20(Stack%20Agnostic).md)
+[**Example**](projects/Augment-It/Prompts/Prompt-Queue/Full%20Prompt%20for%20Monorepo%20Setup%20(Stack%20Agnostic).md)
 
 
 

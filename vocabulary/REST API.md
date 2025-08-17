@@ -8,7 +8,7 @@ aliases:
 ---
 
 ![[Screenshot 2025-01-03 at 2.51.20 PM_API-Analogy.png]]
-Found the image at n8n Beginner Course on [[n8n]] by their [[YouTube]] channel, the video [Introduction to APIs and Webhooks](https://youtu.be/y_cpFMF1pzk?si=gbsR0crro7VHulHG). [^808e11]
+Found the image at n8n Beginner Course on [[projects/ACE-It/UseCases/n8n]] by their [[YouTube]] channel, the video [Introduction to APIs and Webhooks](https://youtu.be/y_cpFMF1pzk?si=gbsR0crro7VHulHG). [^808e11]
 
 2023, Jul 30. [REST API Design and Best Practices](https://youtu.be/7nm1pYuKAhY?si=rMwxzaaNlHhxsT9T)  [[Software Developer Diaries]], [[YouTube]]
 
@@ -181,4 +181,4 @@ According to [[Poe AI]]:
 > The REST API is one of the most influential technologies in modern software development. Its simplicity, scalability, and compatibility have made it the foundation of countless applications, from social media platforms to enterprise systems. While it faces competition from newer alternatives like GraphQL, REST remains a versatile and reliable tool for building robust, scalable, and interoperable web services. Its impact on the way software systems communicate and integrate cannot be overstated.
 > 
 
-[^808e11]: 2024, Jun 29. [n8n Beginner Course (2/9) - Introduction to APIs and Webhooks](https://youtu.be/y_cpFMF1pzk?si=gbsR0crro7VHulHG) [[n8n]], [[YouTube]].
+[^808e11]: 2024, Jun 29. [n8n Beginner Course (2/9) - Introduction to APIs and Webhooks](https://youtu.be/y_cpFMF1pzk?si=gbsR0crro7VHulHG) [[projects/ACE-It/UseCases/n8n]], [[YouTube]].

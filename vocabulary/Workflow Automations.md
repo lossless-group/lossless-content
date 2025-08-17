@@ -11,7 +11,7 @@ Workflow automation tools and software automate manual processes and repetitive 
 
 :::tool-showcase
 [[Kestra]]
-[[n8n]]
+[[projects/ACE-It/UseCases/n8n]]
 [[Make]]
 [[Tooling/AI-Toolkit/Agentic AI/Bardeen|Bardeen]]
 [[Tooling/AI-Toolkit/Agentic AI/Gumloop|Gumloop]]

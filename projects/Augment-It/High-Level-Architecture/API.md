@@ -1,6 +1,18 @@
+---
+site_uuid: 2c329f37-697b-4749-895b-2b3a6c152bbd
+publish: true
+title: API
+lede: API Design & Integration
+date_created: 2025-08-15
+date_modified: 2025-08-17
+at_semantic_version: 0.0.1.0
+authors:
+  - Slava Sobolev
+  - Ida Soboleva
+tags: [API-Integrations, API-Services]
+---
+
 # API Design & Integration
-
-
 
 ## Introduction
 

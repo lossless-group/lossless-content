@@ -81,7 +81,7 @@ tags: [Tech-Trend]
 
 
 ## Enterprise AI
-[[n8n]], [[Flowise]], [[Dynamiq AI]], [[Coveo]], [[Glean]],  [[Abacus AI]], [[Tribe AI]]
+[[projects/ACE-It/UseCases/n8n]], [[Flowise]], [[Dynamiq AI]], [[Coveo]], [[Glean]],  [[Abacus AI]], [[Tribe AI]]
 [[Upstage AI]]
 
 https://youtu.be/kbG2CWrmKTw?si=IszFpFxy41V-XjbI

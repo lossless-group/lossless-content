@@ -1,3 +1,14 @@
+---
+site_uuid: e62a014d-a857-4bf2-baa3-86762a07ad1a
+publish: true
+title: Microfrontends
+slug: microfrontends
+at_semantic_version: 0.0.1.0
+date_created: 2025-08-15
+date_modified: 2025-08-17
+tags: [Microfrontends]
+---
+
 # Microfrontends: Isolation & Parallel Feature Development
 
 
@@ -43,7 +54,7 @@
 
 ## 3. Minimal architecture
 
-* **Host shell**: global router, auth/session, navigation, error boundaries, design tokens/themes.
+* **[[projects/Augment-It/Specs/host-shell-ui/MainContainerUI|MainContainerUI]]**: global router, auth/session, navigation, error boundaries, design tokens/themes.
 * **Remotes (features)**: self‑contained apps for domains (e.g., `profile`, `billing`, `analytics`). Each exposes a mountable entry (page or widget) and a small public API.
 * **Shared libraries**: design system (e.g., **shared‑ui‑elements**), types, and small utilities. Treat as versioned packages; avoid ad‑hoc cross‑imports.
 * **Contracts at the seams**: define what a remote exports (components, types, events). Changes are additive; breaking changes require a major bump.

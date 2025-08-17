@@ -6,15 +6,16 @@ og_last_fetch: '2025-03-17T05:14:27.000Z'
 youtube_channel_url: 'https://www.youtube.com/@ObsidianOfficial'
 github_profile_url: 'https://github.com/obsidianmd'
 docs_url: 'https://docs.obsidian.md/'
-date_modified: 2025-04-12
+date_modified: 2025-08-17
 date_created: 2025-03-30
 og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads_lossless_screenshots_20250527_Obsidian_og_screenshot.jpeg'
 https: //og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/f18916e4fda284a0673b4b4f67bd554fa0797066d423295f43a40a4c2cce4f60.jpeg
-tags:
-  - Productivity
+tags: [Productivity]
 ---
 
 [[Markdown Editor]]
+
+Follows the [[emergent-innovation/Standards/Markdown Derivatives/CommonMark|CommonMark]] standard, which is light. 
 
 https://youtu.be/37aJiD0ey-8?si=ZzdTMlFH5le8w1Rt
 
@@ -40,7 +41,7 @@ https://youtu.be/hRCiuycpAIU?si=e7Z_Fdes-Wd1Vpwl
 
 https://youtu.be/-J1v65yZdcQ?si=FvyUPylHF-ercOp_
 
-### Obsidian using Properties in [[Vocabulary/Markup]]
+### Obsidian using Properties in [[Vocabulary/Markup|Markup]]
 ![[Screenshot 2025-01-31 at 1.14.17 PM_Obsidian--Properties.png]]
 ### Obsidian maintains [[concepts/Release Notes]].
 Here's a screenshot of [[concepts/Release Notes]] from [[Obsidian.md]].
