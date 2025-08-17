@@ -7,6 +7,6 @@ tags:
   - Vocabulary
 ---
 
-[[Vocabulary/User Interface|UI]] [[Vocabulary/UI-Kit|UI-Kit]], [[Vocabulary/Design Systems|Design Systems]]
+[[Vocabulary/User Interface|UI]] [[concepts/Explainers for Tooling/UI-Kit|UI-Kit]], [[Vocabulary/Design Systems|Design Systems]]
 
 https://youtu.be/yUvGHNzqG7M?si=Au-QNqB-1suxv6ln

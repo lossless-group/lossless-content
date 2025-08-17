@@ -7,7 +7,7 @@ favicon: https://exa.ai/images/favicon-32x32.png
 jina_last_request: 2025-03-09T06:44:59.223Z
 jina_error: Error occurred
 og_last_fetch: 2025-05-28T03:37:51.921Z
-date_modified: 2025-08-02
+date_modified: 2025-08-17
 date_created: 2025-03-30
 url: https://exa.ai
 og_image: https://exa.imgix.net/og-image.png/
@@ -18,6 +18,7 @@ x_url: https://x.com/exaailabs
 ---
 
 [[concepts/Explainers for AI/AI Powered Data Capture|AI Powered Data Capture]]
-![[Screenshot 2025-02-20 at 11.37.14 PM_Exa-AI--Hero.png]]
-
 [[Tooling/AI-Toolkit/Websets|Websets]]
+
+[Exa MCP Server](https://github.com/exa-labs/exa-mcp-server)
+

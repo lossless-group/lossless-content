@@ -142,6 +142,15 @@ These tools have had the most noticeable impact on the software development indu
 - Social proof/testimonial collection
 - Content generation and publishing pipelines
 
+
+### An Aside on Model Context Protocol
+There is a lot of hype about MCP Servers. And the market is adopting [[concepts/Explainers for AI/Model Context Protocol|Model Context Protocol]] very quickly. 
+
+Our experience to date is that we are slightly ahead of where any of these servers are. Yet everyone seems to be creating them.  So, we will need to keep you up to date.
+
+Some MCP Servers that look useful but we have not really battle tested:
+[[Ref Tools]]
+
 ### Data Visibility Tools / RAG
 
 **Tools:**

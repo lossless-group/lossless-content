@@ -12,4 +12,4 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 tags: [Lego-Kit-Engineering-Tools, Frontend, UI-Libraries, UI-Kits]
 ---
 
-Another [[Vocabulary/UI-Kit|UI-Kit]] for [[Vocabulary/Front-End|Front-End]] development
+Another [[concepts/Explainers for Tooling/UI-Kit|UI-Kit]] for [[Vocabulary/Front-End|Front-End]] development

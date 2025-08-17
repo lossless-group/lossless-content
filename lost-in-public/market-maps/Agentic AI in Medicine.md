@@ -68,7 +68,7 @@ For example, an agentic AI system might be able to:
 
 ### 4. **Virtual Clinicians**
 
-Agentic AI can be integrated with [[Vocabulary/Virtual Doctors|Virtual Clinicians]] (VCs) to provide personalized support and guidance to patients. VCs can offer:
+Agentic AI can be integrated with [[domains/Virtual Doctors|Virtual Clinicians]] (VCs) to provide personalized support and guidance to patients. VCs can offer:
 
 * Real-time symptom monitoring and alerts
 * Personalized health education and coaching

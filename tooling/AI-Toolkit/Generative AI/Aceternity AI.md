@@ -19,4 +19,4 @@ tags:
   - Gen-Ai-User-Interface
 ---
 
-A [[UI-Kit]] and [[Generative AI]] [[Model Wrappers|Model Wrapper]] for [[User Interface]] design.
+A [[concepts/Explainers for Tooling/UI-Kit]] and [[Generative AI]] [[Model Wrappers|Model Wrapper]] for [[User Interface]] design.
