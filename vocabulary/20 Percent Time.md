@@ -1,7 +1,17 @@
 ---
 date_created: 2025-08-16
-date_modified: 2025-08-16
+date_modified: 2025-08-17
+title: 20% Time
+site_uuid: ba27c6a7-3d20-48d7-bf89-69c374c57940
+publish: true
+slug: 20-percent-time
+at_semantic_version: 0.0.0.1
+tags:
+  - Emergent-Innovation-Examples
 ---
+[[concepts/Emergent Innovation|Emergent Innovation]]
+[[organizations/Google|Google]]
+
  ![Additional supporting visual content](https://i.ytimg.com/vi/aEhAxjZ3HXs/maxresdefault.jpg)
 
 ***
