@@ -9,8 +9,8 @@ at_semantic_version: 0.0.0.1
 ---
 [[Tooling/AI-Toolkit/Data Augmenters/Exa.ai|Exa.ai]]
 [[Pieces]]
-[[Semgrep]]
-[[Ref Tools]]
+[[Tooling/Software Development/Developer Experience/DevOps/Semgrep]]
+[[Tooling/Software Development/Developer Experience/DevOps/Ref Tools]]
 
 ***
 > [!info] **Perplexity Query** (2025-08-17T21:09:04.466Z)

@@ -53,7 +53,7 @@ Working with AI is remarkably similar to working with a highly capable but inexp
 ***
 ### The Challenges AI will Introduce:
 - **Leaps into generating large volumes** of unnecessary code rather than well-crafted, well-architected code
-	- **Disregards the [[DRY Principle]]**, reckless generation of redundant or unnecessary code. 
+	- **Disregards the [[concepts/DRY Principle]]**, reckless generation of redundant or unnecessary code. 
 	- **Defaults to lumping** all code into one or a few files, to an extreme. [^e2kfhb]
 - **Will overwrite working, valuable code:** that no engineer would even think to overwrite. 
 	- **Creates a hyper-vigilance with version control**: which then changes the pace at which commits and pull requests happen. 
