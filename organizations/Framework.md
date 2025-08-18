@@ -5,7 +5,7 @@ https://youtu.be/qzEd50uzdF0?si=Ui36CHAUk4YbVUvJ
 
 https://www.youtube.com/live/dnCGwii7FqY?si=PdVc8Z3VJ6q8_CqR
 
-[[emergent-innovation/Standards/RISC-V]]
+[[projects/Emergent-Innovation/Standards/RISC-V]]
 
 https://youtu.be/n378PL2GmcU?si=McobkgMmG5UBDef8
 

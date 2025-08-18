@@ -137,7 +137,7 @@ tags: [AI-Toolkit]
 > #### **7. Healthcare**
 > 
 > - **Therapy and Support**: AI avatars can provide mental health support or companionship to patients.
-> - **[[domains/Virtual Doctors]]**: Simulated avatars can assist in telemedicine consultations.
+> - **[[content-areas/Health/Virtual Doctors]]**: Simulated avatars can assist in telemedicine consultations.
 > 
 > ---
 > 

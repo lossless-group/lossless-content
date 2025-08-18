@@ -7,5 +7,5 @@ title: "Ambition Shelters"
 slug: ambition-shelters
 at_semantic_version: 0.0.0.1
 ---
-[[emergent-innovation/Codeberg|Codeberg]]
+[[projects/Emergent-Innovation/Codeberg|Codeberg]]
 

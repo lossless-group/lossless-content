@@ -22,7 +22,7 @@ square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_
 
 # Lighthouse Examples
 ### Open Standards
-[[emergent-innovation/Standards/Interledger|Interledger]]
+[[projects/Emergent-Innovation/Standards/Interledger|Interledger]]
 
 ### Agentic Workspaces
 :::tool-showcase

@@ -11,7 +11,7 @@ authors:
   - Michael Staton
 ---
 
-[[emergent-innovation/Examples/Unified Modeling Language|Unified Modeling Language]]
+[[projects/Emergent-Innovation/Examples/Unified Modeling Language|Unified Modeling Language]]
 ***
 > [!info] **Perplexity Query** (2025-08-17T00:29:22.101Z)
 > **Question:**
@@ -72,7 +72,7 @@ The primary software architecture diagrams used in software development include 
 - **Layered/N-Tier Architecture Diagrams** are considered foundational, as they clearly separate responsibilities (UI, logic, data), are familiar to most teams, and greatly enhance maintainability and communication. [^zjo7uv] [^p5imij]
 - **Application Architecture Diagrams** are critical in almost every environment, particularly for onboarding, impact analysis, and stakeholder communication. [^u5541u] [^3peski]
 - **Deployment and Network Diagrams** are increasingly vital due to cloud adoption and security requirements; they ensure robust, scalable, and secure deployments.
-- **[[emergent-innovation/Examples/Unified Modeling Language|UML]] Diagrams** (especially class, component, and sequence diagrams) remain essential for complex systems and design-phase documentation. [^t9r3is] [^p5imij]
+- **[[projects/Emergent-Innovation/Examples/Unified Modeling Language|UML]] Diagrams** (especially class, component, and sequence diagrams) remain essential for complex systems and design-phase documentation. [^t9r3is] [^p5imij]
 
 No single diagram suffices for every scenario; best practice is to combine several types for comprehensive understanding and communication. For example, pairing a high-level application diagram with detailed deployment and sequence diagrams covers both “what” the system does and “how” it operates and is maintained. [^3peski] [^p5imij]
 

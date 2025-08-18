@@ -9,7 +9,7 @@ augmented_with: Poe AI
 [[organizations/International Color Consortium|International Color Consortium]]
 [[organizations/W3C|W3C]]
 [[organizations/The Internet Society|The Internet Society]]
-[[emergent-innovation/Standards/OpenGL|OpenGL]]
+[[projects/Emergent-Innovation/Standards/OpenGL|OpenGL]]
 [[organizations/OASIS Open|OASIS Open]]
 [[organizations/ISO|International Standards Organization]]
 [[organizations/Internet Corporation for Assigned Names and Numbers|ICANN]]

@@ -26,7 +26,7 @@ Digital transformation is the strategic integration of digital technology into a
 
 ### Understanding Digital Transformation
 
-At its core, digital transformation goes far beyond technology upgrades. It involves a comprehensive reevaluation of processes, products, and business models, ushering in new ways of working and thinking. [^0ehs9q] For example, retailers now leverage artificial intelligence (AI) to personalize product recommendations online, while banks use mobile apps and cloud platforms to streamline financial services and enhance customer experiences. [^6lrtk8] [^6makn5] Healthcare providers have adopted [[Telehealth|Telemedicine]] and electronic records, making patient care more efficient and accessible.
+At its core, digital transformation goes far beyond technology upgrades. It involves a comprehensive reevaluation of processes, products, and business models, ushering in new ways of working and thinking. [^0ehs9q] For example, retailers now leverage artificial intelligence (AI) to personalize product recommendations online, while banks use mobile apps and cloud platforms to streamline financial services and enhance customer experiences. [^6lrtk8] [^6makn5] Healthcare providers have adopted [[content-areas/Health/Telehealth|Telemedicine]] and electronic records, making patient care more efficient and accessible.
 
 Key practical applications include:
 

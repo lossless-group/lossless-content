@@ -6,4 +6,4 @@ tags:
   - Tech-Trend
 ---
 
-A term coined by the founder of [[Netlify]], short for [[JavaScript]], [[Application Programming Interface|APIs]], and [[emergent-innovation/Standards/Markdown]].
+A term coined by the founder of [[Netlify]], short for [[JavaScript]], [[Application Programming Interface|APIs]], and [[projects/Emergent-Innovation/Standards/Markdown]].

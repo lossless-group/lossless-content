@@ -28,6 +28,6 @@ A necessary precursor to market-wide emergent innovation is the development of "
 
 Terrance Tao keeps a blog about his work, detailing both successes and where he is stuck.  Paul Erdos put forth challenges during his lifetime, unsolved problems in mathematics.  When posting about his struggles, a random commenter said that he was working on an algorithm to solve sudoku puzzles that may help.  It turned out to be the breakthrough , as their collaboration helped solve the problems. [^1]
 
-[[organizations/The Linux Foundation]] manages [[organizations/The Linux Foundation|Linux]], [[Tooling/Products/Git]], and [[emergent-innovation/Standards/SLSA]].
+[[organizations/The Linux Foundation]] manages [[organizations/The Linux Foundation|Linux]], [[Tooling/Products/Git]], and [[projects/Emergent-Innovation/Standards/SLSA]].
 
 [^1]: Lex Clips: https://youtu.be/E3ZwM5MZdkg?si=-dYtEfbJYODTt0NU

@@ -41,7 +41,7 @@ An [[concepts/Explainers for AI/AI Copilots]] from [[GitHub]] that performs [[Co
 ##### [[GitHub]] has a Desktop App
 As an example of [[Cross-Platform Applications]]
 ![[Screenshot From 2025-02-19 09-11-46_GitHub-Desktop.png]]
-##### GitHub implements [[emergent-innovation/Standards/OAuth]] with [[2FA]]
+##### GitHub implements [[projects/Emergent-Innovation/Standards/OAuth]] with [[2FA]]
 
 ![[Screenshot From 2024-12-25 02-33-02_GitHub--OAuth--Security.png]]
 ![[Screenshot From 2024-12-25 02-33-24_GitHub--OAuth.png]]

@@ -30,7 +30,7 @@ Everyday citizens can now be rest assured that the wild-west of the Internet has
 
 
 
-The Online Certificate Status Protocol (OCSP) [[emergent-innovation/Standards/OCSP]] standard was published February 2013. This protocol is managed by a non-profit Trust called "[The Internet Society](https://www.internetsociety.org/)", and among the several umbrella efforts of theirs includes [Extending Encryption](https://www.internetsociety.org/action-plan/encryption/) and [Securing Global Routing](https://www.internetsociety.org/action-plan/securing-global-routing/)
+The Online Certificate Status Protocol (OCSP) [[projects/Emergent-Innovation/Standards/OCSP]] standard was published February 2013. This protocol is managed by a non-profit Trust called "[The Internet Society](https://www.internetsociety.org/)", and among the several umbrella efforts of theirs includes [Extending Encryption](https://www.internetsociety.org/action-plan/encryption/) and [Securing Global Routing](https://www.internetsociety.org/action-plan/securing-global-routing/)
 The protocols that govern routing are managed by [The Global Cyber Alliance](https://globalcyberalliance.org/).  The [Internet Engineering Task Force](https://www.ietf.org/).
 
 As of August 2018, all browsers were "notified" that any cipher without perfect forward secrecy would no longer need to be supported, nor would they be supported.  The TLS Specification for 1.3 was released on August 2018
@@ -44,18 +44,18 @@ Eavesdropping
 Cross-Site Scripting (XSS)
 SQL Injection
 
-[[emergent-innovation/Standards/HTTPS]] 
+[[projects/Emergent-Innovation/Standards/HTTPS]] 
 Secure Socket Layer (SSL)/Transport Layer Security (TLS), including getting a SSL/TLS certificate
 Two-Factor Authentication (2FA)
 SSH
-[[emergent-innovation/Standards/XACML]]
-[[emergent-innovation/Standards/One-Time Password]]
+[[projects/Emergent-Innovation/Standards/XACML]]
+[[projects/Emergent-Innovation/Standards/One-Time Password]]
 
 
 
 HTTPS uses public-key cryptography to generate temporary private "session" keys.  These session keys secure the "transport" of data from "server" to "client." Even "cookies" must have a "secure attribute."
 
-[[emergent-innovation/Standards/XACML]] (eXtensible Access Control Markup Language) is a protocol 
+[[projects/Emergent-Innovation/Standards/XACML]] (eXtensible Access Control Markup Language) is a protocol 
 
 The migration to HTTPS has been exponential.   HTTPS Everywhere, originally a browser extension, is now embedded into all updated browsers.  Users must specifically bypass a browser warning to travel to destinations that are "uncertified" with TLS.  
 
@@ -63,7 +63,7 @@ The migration to HTTPS has been exponential.   HTTPS Everywhere, originally a br
 
 Web Security technologies, like most technologies of the Internet, are generally created by insightful individuals or small teams, proposed through a White Paper, and eventually managed by a transparent and meritocratic, yet open membership organization. As an example, Alex Pentland, a Professor at MIT, published early work that became the [Kerberos](https://www.kerberos.org/) user identity management protocols. Kerberos as an organization has evolved into the [MIT Trust Data Consortium](https://trust.mit.edu/)  The white papers were sythesized and published as Trust::Data: A New Framework for Identity and Data sharing by MIT Press in 2016.  
 
-Similarly, the [[organizations/Internet Engineering Task Force]] published [[emergent-innovation/Standards/OAuth]] as a specification in 2007. 
+Similarly, the [[organizations/Internet Engineering Task Force]] published [[projects/Emergent-Innovation/Standards/OAuth]] as a specification in 2007. 
 
 Industries that capture user data are generally both self-governed through industry membership organizations, and regulated by policies and agencies across many jurisdictions.  For instance, credit card information is taken through the Payment Card Industry Data Security Standard (PCI DSS). The cloud hosting providers have cloud security posture management (CSPM) tooling. 
 

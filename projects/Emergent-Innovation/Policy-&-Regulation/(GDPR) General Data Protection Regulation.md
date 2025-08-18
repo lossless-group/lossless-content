@@ -1,0 +1,1 @@
+General Data Protection Regulation (GDPR), enforced in May 2018, mandates EEA businesses dealing with personal data to comply with specific data processing practices detailed in the Regulation. Failing to comply with these standards can lead to long-term and serious repercussions – fines up to 20 million euros or 4% of a company’s yearly turnover, whichever is higher.

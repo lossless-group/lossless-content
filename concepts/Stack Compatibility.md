@@ -15,7 +15,7 @@ Because [[concepts/Data Fluidics|data wants to become fluid]] through an explosi
 [[NEXT.js]], [[Nextra]] maintained by [[Vercel]].
 
 ##### Examples of [[Standards Organizations]]-driven. 
-[[organizations/International Color Consortium]] and/or [[emergent-innovation/Standards/OpenGL]].
+[[organizations/International Color Consortium]] and/or [[projects/Emergent-Innovation/Standards/OpenGL]].
 [[JavaScript]], maintained by [[organizations/The Internet Society]]. 
 
 

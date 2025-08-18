@@ -7,5 +7,5 @@ title: Tesla
 slug: tesla
 at_semantic_version: 0.0.0.1
 ---
-[[domains/topics/AI & Robotics|AI & Robotics]]
+[[content-areas/general/topics/AI & Robotics|AI & Robotics]]
 

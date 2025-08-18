@@ -47,7 +47,7 @@ Several pioneering computer architects have shaped modern computing. Not all hav
 - **Seymour Cray**: Invented several supercomputers, notably the CDC 6600 and Cray-1, introducing advanced pipelining and vector processing. [^nr9iur]
 - **Gordon Bell**: Led the development of the DEC VAX architecture. [^nr9iur]
 - **Jim Keller**: Instrumental at AMD (K8, Zen), Apple (A4/A5 chips), and Tesla (AI chips) in CPU/microarchitecture design. [^nr9iur]
-- **David Patterson & John Hennessy**: Created the [[emergent-innovation/Standards/RISC-V|RISC]] (Reduced Instruction Set Computing) architecture, foundational for [[emergent-innovation/Standards/ARM|ARM]] and modern CPUs. [^nr9iur]
+- **David Patterson & John Hennessy**: Created the [[projects/Emergent-Innovation/Standards/RISC-V|RISC]] (Reduced Instruction Set Computing) architecture, foundational for [[projects/Emergent-Innovation/Standards/ARM|ARM]] and modern CPUs. [^nr9iur]
 - **John Cocke**: Key developer behind IBM's RISC efforts. [^nr9iur]
 - **Yale Patt**: Developed out-of-order execution and other performance improvements used in modern processors. [^nr9iur]
 
@@ -63,7 +63,7 @@ Several pioneering computer architects have shaped modern computing. Not all hav
 | ARM Holdings | ARM ISA and CPU cores                                                                                   | Licensing to Apple, Qualcomm, etc.                                        |
 | Intel        | [[x86]], Itanium, custom AI chips                                                                       | CPUs (Data Center, PC), foundry services                                  |
 | AMD          | x86 CPUs, Radeon GPUs, Zen core                                                                         | CPUs, GPUs ([[concepts/Data Centers\|Data Centers]], Gaming, Licensed IP) |
-| NVIDIA       | GPU architecture ([[emergent-innovation/Standards/Compute Unified Device Architecture\|CUDA]], AI, HPC) | GPUs, data centers, accelerated computing                                 |
+| NVIDIA       | GPU architecture ([[projects/Emergent-Innovation/Standards/Compute Unified Device Architecture\|CUDA]], AI, HPC) | GPUs, data centers, accelerated computing                                 |
 | Apple        | ARM-based SoCs (A/M series)                                                                             | Devices (iPhone, Mac), [[Vertical Integration]]                           |
 | IBM          | Power/POWER architecture                                                                                | Enterprise servers, cloud, licensing                                      |
 ![Relevant diagram or illustration related to the topic](https://www.logic-fruit.com/wp-content/uploads/2023/11/Comparative-table-of-FPGA-and-CPU-1024x1024.jpg.webp)
@@ -72,7 +72,7 @@ Several pioneering computer architects have shaped modern computing. Not all hav
 
 **Example revenue estimates (2024):**
 
-- **[[emergent-innovation/Standards/ARM|ARM]] Holdings** (now public, owned by SoftBank): FY 2023 revenue ~$3.2 billion, primarily from IP licensing and royalties.
+- **[[projects/Emergent-Innovation/Standards/ARM|ARM]] Holdings** (now public, owned by SoftBank): FY 2023 revenue ~$3.2 billion, primarily from IP licensing and royalties.
 - **[[organizations/Intel|Intel]]:** 2023 revenue ~$54 billion, with most from CPUs and data center products.
 - **[[organizations/AMD|AMD]]:** 2023 revenue ~$22.7 billion, mix of CPUs, GPUs, and semi-custom.
 - **[[organizations/Nvidia|Nvidia]]:** 2024 revenue estimates exceed $60 billion, fueled by AI/datacenter accelerators.

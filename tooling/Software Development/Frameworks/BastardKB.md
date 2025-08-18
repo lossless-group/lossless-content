@@ -13,7 +13,7 @@ description: 'Complete Dactyl Manuform prebuilts, DIY Kits, custom flexible PCBs
 tags: [Hardware]
 ---
 
-[[Vocabulary/Custom Keyboards|Custom Keyboards]] [[emergent-innovation/Examples/Corne Keyboards|Corne Keyboards]]
+[[Vocabulary/Custom Keyboards|Custom Keyboards]] [[projects/Emergent-Innovation/Examples/Corne Keyboards|Corne Keyboards]]
 
 
 

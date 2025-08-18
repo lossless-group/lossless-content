@@ -16,6 +16,6 @@ tags:
   - Markdown-Editor
 ---
 
-[[emergent-innovation/Standards/Markdown]]
+[[projects/Emergent-Innovation/Standards/Markdown]]
 
 [[Markdown Editor]]

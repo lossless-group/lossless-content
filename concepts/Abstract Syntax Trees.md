@@ -7,7 +7,7 @@ date_modified: 2025-07-23
 
 https://youtu.be/tM_S-pa4xDk?si=VofEQZ5us06B5NAd
 
-[[emergent-innovation/Standards/Markdown|Markdown]]
+[[projects/Emergent-Innovation/Standards/Markdown|Markdown]]
 [[Tooling/Software Development/Programming Languages/JavaScript|JavaScript]]
 
 [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editors or IDEs]]

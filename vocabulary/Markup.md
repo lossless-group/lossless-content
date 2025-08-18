@@ -8,7 +8,7 @@ title: Markup
 slug: markup
 at_semantic_version: 0.0.0.1
 ---
-[[emergent-innovation/Standards/Extensible Markup Language]]
+[[projects/Emergent-Innovation/Standards/Extensible Markup Language]]
 ***
 > [!info] **Perplexity Query** (2025-08-17T13:31:55.260Z)
 > **Question:**
@@ -21,7 +21,7 @@ Markup languages are systems for annotating and structuring documents using stan
 Markup languages work by embedding descriptive elements alongside textual content. The three main types are **semantic (descriptive), presentational, and procedural**:
 - **Semantic markup** defines the meaning or structure of content, enhancing searchability and interoperability. For example, `<author>John Doe</author>` in XML clearly identifies the author without dictating how the text appears. [^aftj7u]
 - **Presentational markup** specifies how content should look. In HTML, `<b>Bold Text</b>` displays the text in bold, focusing on visual appearance. [^aftj7u] [^zwj139]
-- **Procedural markup** provides instructions for processing text, often used in systems like [[emergent-innovation/Standards/LaTeX]] for academic publishing, where `\textbf{Bold Text}` tells the system to render the text in bold. [^aftj7u] [^guy16h]
+- **Procedural markup** provides instructions for processing text, often used in systems like [[projects/Emergent-Innovation/Standards/LaTeX]] for academic publishing, where `\textbf{Bold Text}` tells the system to render the text in bold. [^aftj7u] [^guy16h]
 
 **Practical examples** abound:
 - **HTML (HyperText Markup Language)** is the backbone of the web, structuring everything from news articles to e-commerce product pages. For example, an HTML snippet might look like:
@@ -53,7 +53,7 @@ However, **challenges exist**, such as:
 
 ### Current State and Trends
 
-Markup languages remain vital in modern technology. HTML5 drives the front end of the web, [[emergent-innovation/Standards/Extensible Markup Language]] underpins data interchange in countless applications, and Markdown powers technical writing and collaborative platforms like [[Tooling/Software Development/Developer Experience/GitHub|GitHub]] Readme files. [^elh9vd] [^r3hy04] Industry-wide adoption is led by organizations like the [[organizations/W3C|World Wide Web Consortium]] (W3C), which sets standards for markup languages.
+Markup languages remain vital in modern technology. HTML5 drives the front end of the web, [[projects/Emergent-Innovation/Standards/Extensible Markup Language]] underpins data interchange in countless applications, and Markdown powers technical writing and collaborative platforms like [[Tooling/Software Development/Developer Experience/GitHub|GitHub]] Readme files. [^elh9vd] [^r3hy04] Industry-wide adoption is led by organizations like the [[organizations/W3C|World Wide Web Consortium]] (W3C), which sets standards for markup languages.
 
 **Recent developments** include:
 - **HTML's evolution** toward greater interactivity and multimedia integration.

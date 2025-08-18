@@ -27,7 +27,7 @@ The [[organizations/IKEA Foundation|IKEA Foundation]], established in 1982 and r
 **Key Accomplishments:**
 
 - **Direct Philanthropy:**  
-  - Funded **long-term education, health, and [[domains/Blue Economy/Livelihood]] programs** with partners such as UNICEF, supporting initiatives like school attendance, women’s self-help groups, and emergency relief (e.g., rapid deployment of 350,000 blankets after the 2005 Pakistan earthquake). [^pi4ot0]
+  - Funded **long-term education, health, and [[content-areas/Blue-Economy/Concepts/Livelihoods]] programs** with partners such as UNICEF, supporting initiatives like school attendance, women’s self-help groups, and emergency relief (e.g., rapid deployment of 350,000 blankets after the 2005 Pakistan earthquake). [^pi4ot0]
   - Provided **38 agriculture-related grants (€165 million in total)** as of December 2023, aimed at sustainable livelihoods. [^7rvwe0]
 
 - **Climate Action:**  

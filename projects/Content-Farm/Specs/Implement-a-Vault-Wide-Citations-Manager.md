@@ -89,7 +89,7 @@ They usually create a footnotes section that may have different syntactic struct
 	2. Within the same operation, match the corresponding "footnote" reference, which may read as 
 		1. "`1. [https://www.mailersend.com/features/multiple-domains](https://www.mailersend.com/features/multiple-domains).`", or  
 		2. "`[1]. [MailerSend](https://www.mailersend.com/features/multiple-domains).`"
-	3. Transform the target value (e.g., `[1]` or `[^1]`) to unique hexadecimal identifiers with the proper [[emergent-innovation/Standards/Markdown|Extended Markdown]] syntax. 
+	3. Transform the target value (e.g., `[1]` or `[^1]`) to unique hexadecimal identifiers with the proper [[projects/Emergent-Innovation/Standards/Markdown|Extended Markdown]] syntax. 
 		1. Citation instances transform to (e.g., ` [^a1b2c3]`). 
 			1. **Note:** there must be a space before the citation opening bracket. 
 			2. **Note:** if there are contiguous or sequential citations they must have spaces between them.  (e.g., ` [^a1b2c3] [^b2c3d4]`)

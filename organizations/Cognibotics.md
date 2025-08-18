@@ -10,4 +10,4 @@ at_semantic_version: 0.0.0.1
 tags: [Robot-Producers]
 ---
 [[Vocabulary/Robotics|Robotics]]
-[[domains/topics/AI & Robotics|AI & Robotics]]
+[[content-areas/general/topics/AI & Robotics|AI & Robotics]]

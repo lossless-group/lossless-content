@@ -20,7 +20,7 @@ authors:
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_portrait_image_Create-a-Canvas-UI-of-our-Content-and-Data-Models_fb6e3017-2c7c-4cde-bb17-7a9f33c2cc13_pmhMbtCEs.webp
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/user-interface/2025-05-05_banner_image_Create-a-Canvas-UI-of-our-Content-and-Data-Models_ff565ec1-1663-4145-9e64-7896462fb4bd_sjTHdrtP9.webp
 ---
-[[emergent-innovation/Standards/JSON Canvas]]
+[[projects/Emergent-Innovation/Standards/JSON Canvas]]
 
 ```json
 {

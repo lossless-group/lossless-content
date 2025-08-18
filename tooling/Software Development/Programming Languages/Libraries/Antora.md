@@ -20,4 +20,4 @@ tags:
 
 [[concepts/Documentation First Development|Documentation First]]
 
-[[emergent-innovation/Standards/AsciiDoc]]
+[[projects/Emergent-Innovation/Standards/AsciiDoc]]

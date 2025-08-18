@@ -17,4 +17,4 @@ tags:
   - Cloud-Infrastructure
 ---
 
-The Guild is one of the [[concepts/Explainers for Tooling/API Managers]] designed for [[emergent-innovation/Standards/GraphQL]].
+The Guild is one of the [[concepts/Explainers for Tooling/API Managers]] designed for [[projects/Emergent-Innovation/Standards/GraphQL]].

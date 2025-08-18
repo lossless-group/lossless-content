@@ -23,7 +23,7 @@ augmented_with: Perplexity AI
 [[concepts/Open Source Alternatives|Open Source Alternative]]
 [[concepts/Account-Based Marketing|Account-Based Marketing]]
 [[Vocabulary/Marketing Automation|Marketing Automation]]
-[[emergent-innovation/Standards/Markdown|Markdown]]
+[[projects/Emergent-Innovation/Standards/Markdown|Markdown]]
 
 ***
 > [!info] **Perplexity Query** (2025-08-17T05:24:58.533Z)

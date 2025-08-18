@@ -6,7 +6,7 @@ aliases:
   - Web Standard
 ---
 
-[[emergent-innovation/OpenSSL]]
+[[projects/Emergent-Innovation/OpenSSL]]
 
 > [!NOTE] AI Explains, ([[Poe AI]])
 > ### **Primary Web Standards and Their Maintainers**
@@ -131,7 +131,7 @@ aliases:
 > ### **9. Web APIs**
 > 
 > - **Purpose**:  
->     Web APIs provide interfaces for interacting with browser features, hardware, and services (e.g., Geolocation API, [[WebRTC]], [[emergent-innovation/Standards/WebGL]]).
+>     Web APIs provide interfaces for interacting with browser features, hardware, and services (e.g., Geolocation API, [[projects/Emergent-Innovation/Standards/WebRTC]], [[projects/Emergent-Innovation/Standards/WebGL]]).
 >     
 > - **Maintainer**:
 >     
@@ -144,7 +144,7 @@ aliases:
 > 
 > ---
 > 
-> ### **10. [[emergent-innovation/Standards/Transport Layer Security]] (Transport Layer Security)**
+> ### **10. [[projects/Emergent-Innovation/Standards/Transport Layer Security]] (Transport Layer Security)**
 > 
 > - **Purpose**:  
 >     TLS is the cryptographic protocol that ensures secure communication over the web (e.g., HTTPS).
@@ -165,7 +165,7 @@ aliases:
 >     
 > - **Maintainer**:
 >     
->     - **[[organizations/ECMA International]]** standardized [[emergent-innovation/Standards/JSON]] in **ECMA-404**.
+>     - **[[organizations/ECMA International]]** standardized [[projects/Emergent-Innovation/Standards/JSON]] in **ECMA-404**.
 > 
 > ---
 > 

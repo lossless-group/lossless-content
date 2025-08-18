@@ -11,14 +11,14 @@ authors:
 augmented_with: Perplexity AI
 ---
 
-[[emergent-innovation/Standards/JSON Canvas|JSON Canvas]]
-[[emergent-innovation/Examples/Corne Keyboards|Corne Keyboards]]
-[[emergent-innovation/Standards/Markdown|Markdown]]
+[[projects/Emergent-Innovation/Standards/JSON Canvas|JSON Canvas]]
+[[projects/Emergent-Innovation/Examples/Corne Keyboards|Corne Keyboards]]
+[[projects/Emergent-Innovation/Standards/Markdown|Markdown]]
 [[Colon Attribute Markup Language]]
 [[Vocabulary/Systems Biology Markup Language|Systems Biology Markup Language]]
-[[emergent-innovation/Standards/LaTeX|LaTeX]]
+[[projects/Emergent-Innovation/Standards/LaTeX|LaTeX]]
 [[concepts/Explainers for AI/Model Context Protocol|Model Context Protocol]]
-[[emergent-innovation/Standards/Extensible Markup Language|Extensible Markup Language]]
+[[projects/Emergent-Innovation/Standards/Extensible Markup Language|Extensible Markup Language]]
 
 
 
@@ -51,7 +51,7 @@ Below are some **lesser-known but highly impactful open specifications**:
 | Specification      | Area/Use                    | Description                                                      | Maintaining Organization(s)                                 |
 | ------------------ | --------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------- |
 | **OAuth**          | Security/Identity           | Open protocol for secure authorization in internet applications  | IETF, OpenID Foundation                                     |
-| **[[WebRTC]]**     | Real-time Communications    | Standards for real-time voice, video, & data in browsers/devices | IETF, W3C                                                   |
+| **[[projects/Emergent-Innovation/Standards/WebRTC]]**     | Real-time Communications    | Standards for real-time voice, video, & data in browsers/devices | IETF, W3C                                                   |
 | **FIDO2/WebAuthn** | Passwordless Authentication | Standards for strong, phishing-resistant authentication          | FIDO Alliance, W3C                                          |
 | **LoRaWAN**        | IoT Networking              | Long-range, low-power wireless protocol for IoT networks         | LoRa Alliance                                               |
 | **CAN bus**        | Automotive and Industrial   | Robust vehicle and industrial control communication protocol     | ISO, CiA (CAN in Automation)                                |

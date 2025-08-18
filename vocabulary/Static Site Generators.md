@@ -6,4 +6,4 @@ aliases: [SSG, Static Site Generation, Static Site Generator]
 tags: [Tech-Trend]
 ---
 
-Heavily use [[emergent-innovation/Standards/Markdown]], related to [[Vocabulary/JAM Stack|JAM Stack]]
+Heavily use [[projects/Emergent-Innovation/Standards/Markdown]], related to [[Vocabulary/JAM Stack|JAM Stack]]

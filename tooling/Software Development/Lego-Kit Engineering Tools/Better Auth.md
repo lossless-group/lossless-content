@@ -16,4 +16,4 @@ description: 'The most comprehensive authentication library for TypeScript.'
 tags: [Lego-Kit-Engineering-Tools]
 ---
 
-[[Tooling/Software Development/Programming Languages/TypeScript]] ecosystem [[User Authentication]], built on the [[emergent-innovation/Standards/OAuth]] industry standard.
+[[Tooling/Software Development/Programming Languages/TypeScript]] ecosystem [[User Authentication]], built on the [[projects/Emergent-Innovation/Standards/OAuth]] industry standard.

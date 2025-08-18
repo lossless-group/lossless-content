@@ -145,7 +145,7 @@ Tests also **_prevent disaster_**. As discussed before, AI Models will naively a
 
 ### Phase 0: Team ACE content repository
 1. Create or access your documentation repository used for this process. 
-2. Define the metadata (YAML [[Frontmatter]]) you intend to use for this content.  
+2. Define the metadata (YAML [[Vocabulary/Frontmatter]]) you intend to use for this content.  
 3. We recommend everyone either use copilots to help with complex git commands, or using an easy to use app like [[Tooling/Software Development/Developer Experience/DevOps/GitKraken|GitKraken]] or [[Tooling/Software Development/Developer Experience/DevOps/Retcon|Retcon]]. There will be a ton of version control from here out, not just on content but on the code as well. 
 4. Include example "Rules" or "Rulesets" that can be used for the different [[Vocabulary/AI Native Applications|AI Native]] [[concepts/Explainers for Tooling/Text Editors or IDEs|IDEs]].  (We switch between [[Tooling/AI-Toolkit/Generative AI/Code Generators/Windsurf IDE|Windsurf IDE]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Cursor|Cursor]], and [[Tooling/AI-Toolkit/Generative AI/Code Generators/Claude Code|Claude Code]].)
 5. Make sure everyone knows how to create snippets in their [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editors or IDEs]], they are usually used for comments or boilerplate code but they are very very helpful as a sub for [[projects/ACE-It/Docs-Kit/Reminders|Reminders]]. 

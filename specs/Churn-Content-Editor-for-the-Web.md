@@ -24,13 +24,13 @@ portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Churn-Co
 square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Churn-Content-Editor-for-the-Web_square_image_1755407985588_4cGNIBQR8.webp"
 ---
 
-Why are we still using complex file formats?  [[Vocabulary/AI Models|AI Models]] and [[concepts/Explainers for AI/Code Generators|Code Generators]] all speak [[emergent-innovation/Standards/Markdown|Markdown]], [[Tooling/Software Development/Programming Languages/HTML|HTML]], [[Tooling/Software Development/Programming Languages/CSS|CSS]], even [[Vocabulary/Scalable Vector Graphics]]. 
+Why are we still using complex file formats?  [[Vocabulary/AI Models|AI Models]] and [[concepts/Explainers for AI/Code Generators|Code Generators]] all speak [[projects/Emergent-Innovation/Standards/Markdown|Markdown]], [[Tooling/Software Development/Programming Languages/HTML|HTML]], [[Tooling/Software Development/Programming Languages/CSS|CSS]], even [[Vocabulary/Scalable Vector Graphics]]. 
 
 We can use [[Tooling/Software Development/Programming Languages/HTML|HTML]] and [[Tooling/Software Development/Programming Languages/CSS|CSS]] for layout design.  We don't need [[organizations/Adobe|Adobe]] or [[Tooling/Creative/Affinity|Affinity]]. We need to make it a [[Vocabulary/Responsive Design|Responsive Design]] and publish it to the web anyway.  Emails and reports, fine okay. 
 
 Markdown editors are growing like crazy: [[Tooling/Productivity/Obsidian|Obsidian]], [[Tooling/Productivity/Anytype|Anytype]], [[Tooling/Productivity/CraftDocs|CraftDocs]], [[Tooling/Productivity/Logseq|Logseq]], 
 
-We have open standards like [[emergent-innovation/Standards/WebGL|WebGL]]. 
+We have open standards like [[projects/Emergent-Innovation/Standards/WebGL|WebGL]]. 
 
 We now have a next generation [[Vocabulary/Cross-Platform Applications|Cross-Platform]] framework to build [[Vocabulary/Cross-Platform Applications|Cross-Platform Applications]]
 
@@ -40,7 +40,7 @@ Show, hide HTML, CSS
 Apps and [[Vocabulary/Plug-ins,  Add-ons,  Extensions|Plug-ins,  Add-ons,  Extensions]]
 Use [[Tooling/Software Development/Frameworks/Web Frameworks/Tailwind|Tailwind]]
 
-Only deal with [[emergent-innovation/Standards/Markdown|Extended Markdown]], 
+Only deal with [[projects/Emergent-Innovation/Standards/Markdown|Extended Markdown]], 
 
 Embedded [[concepts/Explainers for AI/AI Integrations|AI Integrations]] for both [[concepts/Content Generation|Content Generation]] and [[Vocabulary/Web Development|Web Development]]. 
 
@@ -50,7 +50,21 @@ Private notes
 Variants
 Versions
 
+### Header syntactial mods for subheaders and subtitles
+In markdown there are by default 6 levels of headers.  However, if you want to render a subheader or subtitle you can use syntax to render the remaining text in as a subheading, subtitle, or lede.  For example, 
+
+1. a double pipe (||)
+2. a double dash (--)
+3. a double colon (::)
+4. a double asterisk (**)
+5. a double equals (==)
+6. a double plus (++)
+7. surrounded by parenthesis (Heading (Text))
+
+
 [[Tooling/Software Development/Developer Experience/DevOps/Jujutsu|Jujutsu]] integration.
+
+Auto path and backlink adjustment on changes in files.
 
 [[uuid]] generation
 Split markdown file into two. 

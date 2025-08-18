@@ -14,4 +14,4 @@ title: "Maven Clinic"
 slug: maven-clinic
 at_semantic_version: 0.0.0.1
 ---
-[[Telehealth]]
+[[content-areas/Health/Telehealth]]

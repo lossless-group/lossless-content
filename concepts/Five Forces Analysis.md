@@ -87,7 +87,7 @@ Recent developments include:
 
 ### Future Outlook
 
-The Five Forces framework will likely evolve with advancements in digital analytics, AI-driven decision support, and increasing market complexity. Future applications may focus on real-time competitive analysis and integration with ESG ([[domains/Blue Economy/Environmental, Social, Governance]]) criteria, deepening insights for sustainable strategy. The impact will be most profound in industries where transformation—driven by technology or new regulations—reshapes traditional competitive boundaries. [^ds6sp1]
+The Five Forces framework will likely evolve with advancements in digital analytics, AI-driven decision support, and increasing market complexity. Future applications may focus on real-time competitive analysis and integration with ESG ([[content-areas/Finance/Private-Markets/Concepts/Environmental, Social, Governance]]) criteria, deepening insights for sustainable strategy. The impact will be most profound in industries where transformation—driven by technology or new regulations—reshapes traditional competitive boundaries. [^ds6sp1]
 
 Porter's Five Forces Analysis remains a vital tool for understanding competition, guiding strategic choices, and anticipating market changes. As business environments become more volatile, mastering this framework will be essential for shaping successful, future-ready organizations.
 

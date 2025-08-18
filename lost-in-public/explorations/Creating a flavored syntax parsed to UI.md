@@ -8,7 +8,7 @@ slug: creating-a-flavored-syntax-parsed-to-ui
 at_semantic_version: 0.0.0.1
 ---
 ###### Map of Related Content
-- **Concepts: [[concepts/Flavored Syntax|Flavored Syntax]],  [[emergent-innovation/Standards/Markdown|Markdown]], [[Vocabulary/Markup]], [[Vocabulary/Text Parsing]]
+- **Concepts: [[concepts/Flavored Syntax|Flavored Syntax]],  [[projects/Emergent-Innovation/Standards/Markdown|Markdown]], [[Vocabulary/Markup]], [[Vocabulary/Text Parsing]]
 - **Inspiration**: [[Tooling/Software Development/DevOps/Documentation Engines/Readme]], [[Tooling/Productivity/Obsidian|Obsidian]],
 
 [content-structure](https://github.com/MicroWebStacks/content-structure)

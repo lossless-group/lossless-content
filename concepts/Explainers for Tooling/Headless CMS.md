@@ -10,7 +10,7 @@ date_modified: 2025-08-10
 [[Yext]] 
 
 
-Generally uses a [[REST API]], but many also support [[emergent-innovation/Standards/GraphQL]]. 
+Generally uses a [[REST API]], but many also support [[projects/Emergent-Innovation/Standards/GraphQL]]. 
 
 # Footnotes
 ***

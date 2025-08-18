@@ -11,7 +11,7 @@ tags: [Software-Development]
 
 Used to create the [[Front-End]] along with [[Tooling/Software Development/Programming Languages/CSS]] and [[JavaScript]].
 
-Can be extended through [[emergent-innovation/Standards/Web Components]]
+Can be extended through [[projects/Emergent-Innovation/Standards/Web Components]]
 
 https://alexanderpetros.com/triptych/
 

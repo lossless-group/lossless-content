@@ -19,4 +19,4 @@ tags:
   - DevOps
 ---
 
-[[emergent-innovation/Standards/GraphQL]] caching.
+[[projects/Emergent-Innovation/Standards/GraphQL]] caching.

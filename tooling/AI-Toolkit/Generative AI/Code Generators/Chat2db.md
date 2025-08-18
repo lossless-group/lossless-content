@@ -24,6 +24,6 @@ https://youtu.be/Nmxozp7FyvM?si=iqxaqXI7kd6ShN0B
 
 https://youtu.be/XU9uwRCT3NM?si=trdiO6HeAwcXIocu
 
-##### [[Chat2db]] is a [[concepts/Explainers for AI/Code Generators]] specializing in [[emergent-innovation/Standards/SQL]]
+##### [[Chat2db]] is a [[concepts/Explainers for AI/Code Generators]] specializing in [[projects/Emergent-Innovation/Standards/SQL]]
 ![[Screenshot 2025-02-25 at 3.56.18 PM_Chat2db--Hero.png]]
 https://youtu.be/QAOSpMbg7yk?si=4K7Fu2Zqr6jxsJOY

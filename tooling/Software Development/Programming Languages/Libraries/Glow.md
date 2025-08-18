@@ -10,7 +10,7 @@ tags: [Software-Development, Markdown-Ecoystem]
 
 
 
-[[emergent-innovation/Standards/Markdown|Markdown]] renderer in [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulators]].  Great for [[Tooling/Software Development/Developer Experience/Ghostty|Ghostty]]
+[[projects/Emergent-Innovation/Standards/Markdown|Markdown]] renderer in [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulators]].  Great for [[Tooling/Software Development/Developer Experience/Ghostty|Ghostty]]
 
 
 

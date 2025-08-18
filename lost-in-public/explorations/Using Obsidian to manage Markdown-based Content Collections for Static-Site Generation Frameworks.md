@@ -148,7 +148,7 @@ console.log('Code Tab B');
 
 
 # Using YAML Frontmatter
-Mapped to [[YAML]], [[emergent-innovation/Standards/Markdown|Markdown]]
+Mapped to [[YAML]], [[projects/Emergent-Innovation/Standards/Markdown|Markdown]]
 
 
 

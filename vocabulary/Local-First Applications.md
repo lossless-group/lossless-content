@@ -33,7 +33,7 @@ Local-first applications prioritize storing and processing data on users' device
    - Automerge, Yjs for collaborative editing.
    - [[Expo]] for local-first architecture in mobile apps[2].
 3. **Protocols**:
-   - Peer-to-peer syncing (e.g., [[WebRTC]]).
+   - Peer-to-peer syncing (e.g., [[projects/Emergent-Innovation/Standards/WebRTC]]).
    - Encrypted channels for secure synchronization[13].
 4. **Development Tools**:
    - Declarative sync engines to simplify state management and conflict resolution[10][13].

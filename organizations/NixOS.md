@@ -1,21 +1,24 @@
 ---
 created-on: 2024-11-01
 url: https://nixos.org/
-tags: [package-manager, dev-ops--tools]
-hero: "![[Screenshot 2025-02-20 at 6.49.17 AM_Nix--Hero.png]]"
-date_created: 2025-04-18
-date_modified: 2025-05-29
+tags: [Package-Managers, Dev-Ops-Tools, DevOps]
+date_created: 2024-10-01
+date_modified: 2025-08-18
+og_title: Nix & NixOS | Declarative builds and deployments
+og_description: Nix is a tool that takes a unique approach to package management and system configuration. Learn how to make reproducible, declarative and reliable systems.
+og_image: https://nixos.org/apple-touch-icon.png
+og_favicon: https://nixos.org/favicon-48x48.png
+og_last_fetch: 2025-08-18T20:00:48.001Z
 ---
 >Watch a short [overview of Nix](https://youtu.be/FJVFXsNzYZQ?si=KGKuXEUgpELJnyHf), Nix in 100 Seconds, by influencer Fireship on YouTube.
 
-[[organizations/NixOS|NixOS]] was created by [[Eelco Dolstra]] in 2003
+[[organizations/NixOS|NixOS]] (https://nixos.org/) was created by [[Eelco Dolstra]] in 2003
+
 
 https://youtu.be/DMQWirkx5EY?si=gETDKa9G9OpztgHZ
 
-<span query="get(url)"></span>https://nixos.org/<span type="end"></span>
 
-
- https://youtu.be/RoMArT8UCKM?si=S-44eBCPDK8_aVfb
+https://youtu.be/RoMArT8UCKM?si=S-44eBCPDK8_aVfb
 
 ##### [[organizations/NixOS|NixOS]] has a [[Visual Studio Code|VS Code]] [[Plug-ins,  Add-ons,  Extensions|Extension]]
 ![[Screenshot From 2024-12-25 02-36-11_Nix__VSCode--Extension.png]]
@@ -279,3 +282,4 @@ EOL
 
 echo "flake.nix created successfully."
 ```
+
