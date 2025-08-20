@@ -22,10 +22,12 @@ authors:
 
 Anthropic launched the Model Context Protocol on November 25, 2024, [^8cac05] it was a game-changer for AI use and code generation. It allowed for the chaining of AI operations, which made it possible to create complex workflows that could be used to generate code, documents, and other content.
 
-```yaml imageGallery
+:::image-gallery
  - /visuals/repVector__Prompt.svg
  - /visuals/repVector__Reminder.svg
  - /visuals/repVector__Specification.svg
+ :::
+ 
 ```
 
 Related: [[concepts/Explainers for AI/Model Context Protocol|Model Context Protocol]], [[Tooling/AI-Toolkit/Model Producers/Anthropic|Anthropic]], [[concepts/Explainers for AI/Chain of Draft|Chain of Draft]]

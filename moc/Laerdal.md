@@ -5,12 +5,12 @@ date_modified: 2025-08-10
 :::features
 - Reader
 - Projects
-- Portfolio
 - Recommendations
 :::
 
 :::projects
-- [[projects/Augment-It/Specs/Augment-It.canvas|Augment-It]]
+- { path: [[projects/Augment-It/Specs/Data Augmentation Workflow with Microfrontends]], title: "Augment-It" }
+- { path: [[projects/ACE-It/Philosophy/Our-Approach]], title: "ACE-It" }
 :::
 
 :::vocabulary
@@ -60,4 +60,13 @@ date_modified: 2025-08-10
 - [[concepts/Contrarian Talent|Contrarian Talent]]
 :::
 
+:::toolingGallery
+- [[Flowise]]
+- tag: [[AI Models]]
+:::
 
+:::reader
+- [[essays/A New Standard for Chaining AI Operations called Model Context Protocol|A New Standard for Chaining AI Operations called Model Context Protocol]]
+- [[essays/AI is first a Trojan Horse|AI is first a Trojan Horse]]
+- [[Can Organizations Know what their People have Known]]
+:::

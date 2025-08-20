@@ -4,6 +4,16 @@ site_uuid: 53988f5c-cfa4-4dd1-8a1b-63c6726c8a78
 date_created: 2025-04-06
 ---
 
+```mermaid
+graph TD
+    A[RecordCollector] --> B[PromptTemplateManager]
+    B --> C[RequestReviewer]
+    C --> D[AI Processing]
+    D --> E[ResponseReviewer]
+    E --> F[HighlightCollector]
+    F --> G[InsightAssembler]
+    G --> H[Final Output]
+```
 
 ***
 > [!info] **Perplexity Query** (2025-08-12T03:38:57.824Z)
