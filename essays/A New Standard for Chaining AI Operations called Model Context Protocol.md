@@ -27,8 +27,6 @@ Anthropic launched the Model Context Protocol on November 25, 2024, [^8cac05] it
  - /visuals/repVector__Reminder.svg
  - /visuals/repVector__Specification.svg
  :::
- 
-```
 
 Related: [[concepts/Explainers for AI/Model Context Protocol|Model Context Protocol]], [[Tooling/AI-Toolkit/Model Producers/Anthropic|Anthropic]], [[concepts/Explainers for AI/Chain of Draft|Chain of Draft]]
 

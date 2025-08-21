@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-09
-date_modified: 2025-08-10
+date_modified: 2025-08-21
 ---
 :::features
 - Reader
@@ -58,6 +58,7 @@ date_modified: 2025-08-10
 - [[concepts/Explainers for AI/Knowledge Base AI|Knowledge Base AI]]
 - [[concepts/Pareto Curves|Pareto Curves]]
 - [[concepts/Contrarian Talent|Contrarian Talent]]
+- [[concepts/Dialog Syntax|Dialog Syntax]]
 :::
 
 :::toolingGallery
