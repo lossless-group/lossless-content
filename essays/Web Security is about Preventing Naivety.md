@@ -1,6 +1,6 @@
 ---
 date_created: 2024-12-18
-date_modified: 2025-04-30
+date_modified: 2025-08-20
 site_uuid: 651c6e9b-c169-46d0-ac7a-65af928da319
 title: Web Security is about Preventing Naivety
 lede: Web security isn’t just about code—it’s about anticipating naivety at every layer.
@@ -14,7 +14,7 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05
 image_prompt: A digital fortress with a moat, inside are everyday users, while outside shadowy figures try to cross. The mood is vigilant, modern, and slightly tense.
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Web-Security-is-about-Preventing-Naivety_b59c34e3-ddcf-4b36-b2e1-33361e161945_f3ABHaI7G.jpg
 tags: [Explainers, Explorations, Web-Security, Privacy-Cloud]
-authors: 
+authors:
   - Michael Staton
 ---
 

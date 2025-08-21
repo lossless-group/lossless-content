@@ -1,6 +1,6 @@
 ---
 date_created: 2025-04-18
-date_modified: 2025-04-30
+date_modified: 2025-08-20
 site_uuid: 10ebeb58-f593-4ff2-9c5e-94804cf1411e
 title: Technology wants to be Emergent
 lede: "Emergent technology evolves unpredictably—shaping and reshaping our world in surprising ways."
@@ -14,7 +14,7 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05
 image_prompt: "A network of glowing nodes and connections expanding outward, with new technologies sprouting organically from the web. The mood is dynamic, organic, and futuristic."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Technology-wants-to-be-Emergent_c6977eee-db32-470b-9ff2-375465d850f5_gEGkdDaHF.jpg
 tags: [Technology-Trends, Conceptual-Frameworks]
-authors: 
+authors:
   - Michael Staton
 ---
 

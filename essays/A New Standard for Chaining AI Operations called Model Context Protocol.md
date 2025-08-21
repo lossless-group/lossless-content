@@ -2,7 +2,7 @@
 site_channel:
   - Keeping-Up
 date_created: 2025-03-15
-date_modified: 2025-07-30
+date_modified: 2025-08-20
 site_uuid: ca6eed65-4ae5-4c20-bb47-efbcaa5d2524
 title: A New API Standard for chaining AI -- Model Context Protocol
 lede: Chain and sequence AI operations with Model Context Protocol, a game-changer for AI use and code generation.
@@ -22,13 +22,12 @@ authors:
 
 Anthropic launched the Model Context Protocol on November 25, 2024, [^8cac05] it was a game-changer for AI use and code generation. It allowed for the chaining of AI operations, which made it possible to create complex workflows that could be used to generate code, documents, and other content.
 
-```yaml imageGallery
- - /visuals/repVector__Prompt.svg
- - /visuals/repVector__Reminder.svg
- - /visuals/repVector__Specification.svg
-```
-
 Related: [[concepts/Explainers for AI/Model Context Protocol|Model Context Protocol]], [[Tooling/AI-Toolkit/Model Producers/Anthropic|Anthropic]], [[concepts/Explainers for AI/Chain of Draft|Chain of Draft]]
+
+:::tool-showcase
+[[Tooling/AI-Toolkit/Knowledge AI/Kapa AI]]
+
+
 
 ## What is the Model Context Protocol (MCP)?
 
@@ -53,20 +52,20 @@ MCP draws inspiration from the Language Server Protocol (LSP), which unified how
 
 MCP has seen rapid adoption across major technology companies, AI platforms, and open-source communities. Below is a summary of notable adopters and their use cases:
 
-| Company/Service | Adoption Details | Source/Announcement |
-| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| **Anthropic** | Creator of MCP; integrated into Claude Desktop and open-sourced core SDKs and servers | [^8cac05] [^b9fb3b] |
-| **Block (Square)** | Early adopter, using MCP to build agentic systems for business automation | [^8cac05] |
-| **Apollo** | Integrated MCP for enhanced AI-driven workflows | [^8cac05] |
-| **Microsoft** | Adopted MCP in Copilot Studio and Azure AI Foundry Agent Service for seamless agent integration across Microsoft 365 | [^b778b7] [^3222d7] |
-| **Amazon AWS** | Integrated MCP into AWS Bedrock agents for enterprise-scale, context-aware AI | [^b778b7] [^8d2e1f] |
-| **GitHub** | Added MCP server support to GitHub AI assistants and VS Code extensions | [^b778b7] [^cecf76] |
-| **Deepset** | Uses MCP to power context-aware RAG and AI pipelines | [^b778b7] |
-| **Atlassian** | Announced MCP support for connecting structured knowledge to AI tools | [^b055c1] |
-| **Cloudflare** | Integrated MCP for AI-driven security and automation workflows | [^b9fb3b] |
-| **Zed, Replit, Codeium, Sourcegraph** | Enhanced AI coding assistants with MCP for deeper context and tool integration | [^8cac05] [^ce07e9] |
-| **OpenAI, Google DeepMind** | Announced MCP support for their AI platforms | [^081ad2] [^cecf76] |
-| **Windows 11** | Previewed MCP as a foundational layer for secure, interoperable agentic apps | [^91430e] |
+| Company/Service                                             | Adoption Details                                                                                                     | Source/Announcement |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| **Anthropic**                                               | Creator of MCP; integrated into Claude Desktop and open-sourced core SDKs and servers                                | [^8cac05] [^b9fb3b] |
+| **Block (Square)**                                          | Early adopter, using MCP to build agentic systems for business automation                                            | [^8cac05]           |
+| **Apollo**                                                  | Integrated MCP for enhanced AI-driven workflows                                                                      | [^8cac05]           |
+| **Microsoft**                                               | Adopted MCP in Copilot Studio and Azure AI Foundry Agent Service for seamless agent integration across Microsoft 365 | [^b778b7] [^3222d7] |
+| **Amazon AWS**                                              | Integrated MCP into AWS Bedrock agents for enterprise-scale, context-aware AI                                        | [^b778b7] [^8d2e1f] |
+| **GitHub**                                                  | Added MCP server support to GitHub AI assistants and VS Code extensions                                              | [^b778b7] [^cecf76] |
+| **[[Tooling/AI-Toolkit/Model Producers/Deepset\|Deepset]]** | Uses MCP to power context-aware RAG and AI pipelines                                                                 | [^b778b7]           |
+| **Atlassian**                                               | Announced MCP support for connecting structured knowledge to AI tools                                                | [^b055c1]           |
+| **Cloudflare**                                              | Integrated MCP for AI-driven security and automation workflows                                                       | [^b9fb3b]           |
+| **Zed, Replit, Codeium, Sourcegraph**                       | Enhanced AI coding assistants with MCP for deeper context and tool integration                                       | [^8cac05] [^ce07e9] |
+| **OpenAI, Google DeepMind**                                 | Announced MCP support for their AI platforms                                                                         | [^081ad2] [^cecf76] |
+| **Windows 11**                                              | Previewed MCP as a foundational layer for secure, interoperable agentic apps                                         | [^91430e]           |
 
 ## Recent Company Blog Announcements
 

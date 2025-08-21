@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-09
-date_modified: 2025-08-10
+date_modified: 2025-08-20
 ---
 :::features
 - Reader
@@ -10,7 +10,7 @@ date_modified: 2025-08-10
 :::
 
 :::projects
-- [[projects/Augment-It/Specs/Augment-It.canvas|Augment-It]]
+- [[projects/Augment-It/Specs/Augment-It.canvas|Augment-It]] 
 :::
 
 :::vocabulary
@@ -60,4 +60,8 @@ date_modified: 2025-08-10
 - [[concepts/Contrarian Talent|Contrarian Talent]]
 :::
 
-
+:::essays
+- [[essays/Technology wants to be Emergent|Technology wants to be Emergent]]
+- [[essays/Load up on CARBS|Load up on CARBS]]
+- [[essays/Consistent Go-to-Market|Consistent Go-to-Market]]
+:::
