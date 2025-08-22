@@ -1,9 +1,9 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-07-22
+date_modified: 2025-08-22
 site_uuid: 075ae5c5-37bd-4d94-bb38-4d5b49299999
-publish: true
-title: "Terminal Output With The Terminal'S Color Scheme"
+publish: false
+title: Terminal Output With The Terminal'S Color Scheme
 slug: terminal-output-with-the-terminals-color-scheme
 at_semantic_version: 0.0.0.1
 ---

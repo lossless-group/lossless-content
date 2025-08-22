@@ -1,8 +1,8 @@
 ---
 date_created: 2025-07-25
-date_modified: 2025-07-25
+date_modified: 2025-08-22
 site_uuid: e0ef586d-2eeb-4779-9638-5a124b227141
-publish: true
+publish: false
 title: Using Architecture Conventions For Code Organization
 lede: A clearer breakdown of the differences between `lib` and `utils` directories in a TypeScript/JavaScript project.
 slug: using-architecture-conventions-for-code-organization

@@ -1,22 +1,28 @@
 ---
-title: "Accessing Figma through a Windsurf MCP Server"
-lede: "Interact with Figma Designs while building an application, straight from the IDE"
+title: Accessing Figma through a Windsurf MCP Server
+lede: Interact with Figma Designs while building an application, straight from the IDE
 date_authored_initial_draft: 2025-03-19
-date_authored_current_draft: null
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_current_draft: 2025-03-31
+date_authored_final_draft: "[]"
+date_first_published: "[2025-04-12]"
+date_last_updated: "[]"
 at_semantic_version: 0.0.0.1
 status: To-Do
-augmented_with: "Windsurf Cascade with SWE-1"
+augmented_with: Windsurf Cascade with SWE-1
 tags: [Explorations, Model-Context-Protocols]
 authors:
   - Michael Staton
 date_created: 2025-03-20
-date_modified: 2025-07-22
+date_modified: 2025-08-22
 site_uuid: d579c50d-ba11-4085-87e6-6487c8b22218
 slug: accessing-figma-through-a-windsurf-mcp-server
+image_prompt: A startup nerd and a robot are speeding away in a convertible like outlaws from the Figma corporate headquarters. In the back seat are components and ui designs, some flying in the wind in their wake.
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Accessing_Figma_through_a_Windsurf_MCP_Server_banner_image_1755821574655_6GSh-ggE3.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Accessing_Figma_through_a_Windsurf_MCP_Server_portrait_image_1755821568159_FK6HJ80_4.webp
+square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Accessing_Figma_through_a_Windsurf_MCP_Server_square_image_1755821564555_gXts6lDsrW.webp
 ---
+
+
 session-open::'2025-03-19T04:51:05.362Z'
 
 1. Found what seems to be the standard MCP server, even though it doesn't look like it: [figma-mcp](https://github.com/MatthewDailey/figma-mcp?tab=readme-ov-file)

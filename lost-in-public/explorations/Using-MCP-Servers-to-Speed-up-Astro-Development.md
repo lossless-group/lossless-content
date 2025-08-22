@@ -12,13 +12,18 @@ status: To-Implement
 augmented_with: "Windsurf Cascade on Claude Sonnet 4"
 category: Frontend-Development
 date_created: 2025-08-09
-date_modified: 2025-08-09
+date_modified: 2025-08-22
 tags: [Astro, Islands-Architeture, Frontend-Development, Svelte]
 authors:
   - Michael Staton
 image_prompt: "A robot is playing that basketball shooting game at a fair trying to shoot basketballs into hoops. The robot is playing several simulataneously and has 8 arms like an octopus.  All the backboards have different brands on them like Figma, Supabase, Terso, Astro, and Svelte."
 slug: using-mcp-servers-to-speed-up-astro-development
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Using-MCP-Servers-to-Speed-up-Astro-Development_banner_image_1755820646699_qk9RRgsHM.webp"
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Using-MCP-Servers-to-Speed-up-Astro-Development_portrait_image_1755820658442_NvHHNlfql.webp"
+square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Using-MCP-Servers-to-Speed-up-Astro-Development_square_image_1755820670568_hNfpeTbr-.webp"
 ---
+
+
 
 # What is MCP (Model Context Protocol)?
 

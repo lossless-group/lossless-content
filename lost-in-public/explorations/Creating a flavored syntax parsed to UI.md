@@ -1,12 +1,19 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-07-22
+date_modified: 2025-08-21
 site_uuid: 93b4264e-115d-4e22-996c-848e87ec70cf
 publish: true
-title: "Creating A Flavored Syntax Parsed To UI"
+title: Creating A Flavored Syntax Parsed To UI
 slug: creating-a-flavored-syntax-parsed-to-ui
 at_semantic_version: 0.0.0.1
+image_prompt: "A set of children are being handed what looks like lollipops from a food truck.  The lollipops are absurdly large and all have characters on them like : > < ? @ # % : ; ~"
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Creating_a_flavored_syntax_parsed_to_UI_banner_image_1755820229035_PmVLdADQG.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Creating_a_flavored_syntax_parsed_to_UI_portrait_image_1755820236629_iDKVayIZU.webp
+square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Creating_a_flavored_syntax_parsed_to_UI_square_image_1755820244524_yMKGoRjTd.webp
+tags: [Flavored-Markdown]
 ---
+
+
 ###### Map of Related Content
 - **Concepts: [[concepts/Flavored Syntax|Flavored Syntax]],  [[projects/Emergent-Innovation/Standards/Markdown|Markdown]], [[Vocabulary/Markup]], [[Vocabulary/Text Parsing]]
 - **Inspiration**: [[Tooling/Software Development/DevOps/Documentation Engines/Readme]], [[Tooling/Productivity/Obsidian|Obsidian]],

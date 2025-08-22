@@ -1,9 +1,9 @@
 ---
 date_created: 2025-04-25
-date_modified: 2025-07-22
+date_modified: 2025-08-22
 site_uuid: b2b1a5ce-f3e5-465f-a5a1-a4a196f66032
-publish: true
-title: "Setting Up An Open Source Code Study"
+publish: false
+title: Setting Up An Open Source Code Study
 slug: setting-up-an-open-source-code-study
 at_semantic_version: 0.0.0.1
 ---

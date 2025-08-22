@@ -1,13 +1,20 @@
 ---
 date_created: 2024-11-01
-date_modified: 2025-07-22
+date_modified: 2025-08-21
 site_uuid: 3ffd48be-b0b6-448c-994e-784069c5b041
 publish: true
 title: "Using Obsidian To Manage Markdown Based Content Collections For Static Site Generation Frameworks"
 slug: using-obsidian-to-manage-markdown-based-content-collections-for-static-site-generation-frameworks
 at_semantic_version: 0.0.0.1
-augmented_with: Windsurf Cascade on Claude Sonnet 4
+augmented_with: "Windsurf Cascade on Claude Sonnet 4"
+tags: [Content-Generation, Content-Management, JAM-Stack]
+image_prompt: "The room has boxes of documents, tattered.  The desk and floor have documents, all over in a mess. It looks like a lawyers document review room. Two robots are filing documents away into filing cabinets."
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Using_Obsidian_to_manage_Markdown-based_Content_Collections_for_Static-Site_Generation_Frameworks_banner_image_1755820412697_ZIwWvPG76.webp"
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Using_Obsidian_to_manage_Markdown-based_Content_Collections_for_Static-Site_Generation_Frameworks_portrait_image_1755820417679_w2WjD2kbC.webp"
+square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Using_Obsidian_to_manage_Markdown-based_Content_Collections_for_Static-Site_Generation_Frameworks_square_image_1755820426873_PRGL5bOq4.webp"
 ---
+
+
 
 |>update_start::2025-05-26T12:33:46.108Z
 

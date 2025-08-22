@@ -3,8 +3,8 @@ title: "Exploring Model Context Protocol SDK"
 lede: "Tinker with the Model Context Protocol SDK created by Anthropic"
 date_authored_initial_draft: 2025-06-07
 date_authored_current_draft: 2025-06-07
-date_authored_final_draft: null
-date_first_published: null
+date_authored_final_draft: "[]"
+date_first_published: "[]"
 date_last_updated: 2025-06-07
 at_semantic_version: 0.0.0.1
 authors: "Michael Staton"
@@ -12,11 +12,17 @@ status: Draft
 augmented_with: "Windsurf Cascade with SWE-1"
 tags: [Explorations, Model-Context-Protocols]
 date_created: 2025-06-07
-date_modified: 2025-07-22
+date_modified: 2025-08-22
 site_uuid: fc0fd3b8-0110-4b2d-b544-f162c1a23b4f
 publish: true
 slug: exploring-model-context-protocol-sdk
+image_prompt: "A startup founder with a hoodie is a captain of a pirate ship, steam punk style in the sky.  They are flying over server farms. The captain is looking ahead with his scope."
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Exploring_Model_Context_Protocol_SDK_banner_image_1755822108997_Y5hKq7myY.webp"
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Exploring_Model_Context_Protocol_SDK_portrait_image_1755822120836_pmE1qIg6a.webp"
+square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Exploring_Model_Context_Protocol_SDK_square_image_1755822113721_64RGbAjIP.webp"
 ---
+
+
 
 # Model Context Protocol (MCP) Analysis
 

@@ -1,22 +1,22 @@
 ---
-title: "Using Astro Islands with Frontend Frameworks"
-lede: "Add islands of reactive components in anotherwise static site."
+title: Using Astro Islands with Frontend Frameworks
+lede: Add islands of reactive components in anotherwise static site.
 date_authored_initial_draft: 2025-05-15
 date_authored_current_draft: 2025-05-15
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft:
+date_first_published:
+date_last_updated:
 at_semantic_version: 0.0.0.1
-publish: true
+publish: false
 status: To-Implement
-augmented_with: "Windsurf Cascade on Claude 3.7 Sonnet"
+augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
 category: Frontend-Development
 date_created: 2025-05-15
-date_modified: 2025-07-22
+date_modified: 2025-08-22
 tags: [Astro, Islands-Architeture, Frontend-Development, Svelte]
 authors:
   - Michael Staton
-image_prompt: "An vast ocean, full of islands. Some islands have logos of frameworks. Include logos of Astro, Svelte, React, and Vue."
+image_prompt: An vast ocean, full of islands. Some islands have logos of frameworks. Include logos of Astro, Svelte, React, and Vue.
 slug: using-astro-islands-w-frameworks
 site_uuid: d7c6ee45-f4f7-48e1-a3f0-f870f7ec0bef
 ---

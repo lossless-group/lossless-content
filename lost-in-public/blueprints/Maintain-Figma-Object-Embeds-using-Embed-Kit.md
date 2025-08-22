@@ -1,15 +1,25 @@
 ---
 date_created: 2025-07-29
-date_modified: 2025-07-29
+date_modified: 2025-08-21
 site_uuid: 27417cb8-645d-4686-bb30-808d79ec6f8a
 publish: true
+date_authored_initial_draft: 2025-07-29
+date_authored_current_draft: 2025-08-02
+date_authored_final_draft:
+date_first_published: 2025-03-18
 title: Maintain Figma Object Embeds Using Embed Kit
 slug: maintain-figma-object-embeds-using-embed-kit
 at_semantic_version: 0.0.0.1
 authors:
   - Michael Staton
 augmented_with: Warp on Claude Sonnet 4.0
+image_prompt: A team of tiny robots is on a desk, taking a set of web UI components, and carrying them to the back of a computer monitor.  On the computer monitor, you can see beautiful UI mockups.
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-Figma-Object-Embeds-using-Embed-Kit_banner_image_1755815941823_YvitG--88.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-Figma-Object-Embeds-using-Embed-Kit_portrait_image_1755815950469_UsSm3cibW.webp
+square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-Figma-Object-Embeds-using-Embed-Kit_square_image_1755815958668_1lRXdMK02.webp
 ---
+
+
 
 # Maintain Components that Embed Figma Objects using Embed Kit
 

@@ -3,13 +3,16 @@ title: "Using Test Coverage to Constrain AI Code Assistants"
 authors:
   - Michael Staton
 date_created: 2025-08-12
-date_modified: 2025-08-12
+date_modified: 2025-08-21
 tags: [Explorations, Fine-Tuners]
 publish: true
 slug: using-test-coverage-to-constrain-ai-code-assistants
 at_semantic_version: 0.0.0.1
+image_prompt: "A robot representing AI is fully sequestered in a prisoners full body jacket, mask, and chains just like silence of the lambs"
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Using-Test-Coverage-to-Constrain-AI_banner_image_1755820554515_LXR3-zkWM.webp"
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Using-Test-Coverage-to-Constrain-AI_portrait_image_1755820560605_fP88ZsNeC.webp"
+square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Using-Test-Coverage-to-Constrain-AI_square_image_1755820567410_PSpRWhFep.webp"
 ---
-
 ## Context
 
 This document demonstrates how comprehensive test coverage can be used to effectively constrain and guide AI code assistants, using the `ModeSwitcher` class as an example.

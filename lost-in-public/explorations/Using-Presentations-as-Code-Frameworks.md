@@ -1,22 +1,22 @@
 ---
-title: "Using Presentations-as-Code Frameworks"
-lede: "Presentations-as-Code frameworks can be used to create dynamic presentations."
+title: Using Presentations-as-Code Frameworks
+lede: Presentations-as-Code frameworks can be used to create dynamic presentations.
 date_authored_initial_draft: 2025-05-15
 date_authored_current_draft: 2025-05-15
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft:
+date_first_published:
+date_last_updated:
 at_semantic_version: 0.0.0.1
-publish: true
+publish: false
 status: To-Implement
-augmented_with: "Windsurf Cascade on Claude 3.7 Sonnet"
+augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
 category: Frontend-Development
 date_created: 2025-05-15
-date_modified: 2025-07-22
+date_modified: 2025-08-22
 tags: [Astro, Islands-Architeture, Frontend-Development, Svelte]
 authors:
   - Michael Staton
-image_prompt: "An young alien astronaut is in front of a human business boardroom. The astronaut is giving a presentation."
+image_prompt: An young alien astronaut is in front of a human business boardroom. The astronaut is giving a presentation.
 site_uuid: 84df9380-2722-4ea7-b01b-f7f08b223553
 slug: using-presentations-as-code-frameworks
 ---

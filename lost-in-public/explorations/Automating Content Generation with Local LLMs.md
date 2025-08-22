@@ -3,17 +3,27 @@ date_initiated: 2025-03-05
 dependencies:
   - Docker
   - OLlama
+  - LiteLLM
+  - MSTY
 date_created: 2025-03-06
-date_modified: 2025-07-22
+date_modified: 2025-08-22
 site_uuid: c77ac06a-4b4d-4930-9310-63d4434b5e56
 title: "Automating Content Generation With Local LLMs"
 slug: automating-content-generation-with-local-llms
 at_semantic_version: 0.0.0.1
 publish: true
+authors:
+  - Michael Staton
+image_prompt: "on the left and right side of the image, robots are at desks in rows typing on a typewriter furiously.  The desks are facing each other.  The typewriters are writing on one continuous roll of paper, so there is a scramble of paper all over the floor.  On the extreme right and left a `line foreman` is coaching and motivating the typists."
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Automating_Content_Generation_with_Local_LLMs_banner_image_1755821371868_K90JM3Oj7.webp"
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Automating_Content_Generation_with_Local_LLMs_portrait_image_1755821378694_gl4AH_-6Z.webp"
+square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Automating_Content_Generation_with_Local_LLMs_square_image_1755821393655_UXM-IdCEu.webp"
 ---
 
+
+``
 ## [[Fabric]] for [[YouTube]] consumption and output.
-Fabric allows you to frontload a lot of [[concepts/Explainers for AI/Prompt Engineering]] in an [[Opinionated]] fashion.  It then allows users to run "patterns" (think a set of inputs and a prompt, like an ephemeral [[concepts/Explainers for AI/Fine Tuning]] operation). 
+Fabric allows you to frontload a lot of [[concepts/Explainers for AI/Prompt Engineering|Prompt Engineering]] in an [[Opinionated]] fashion.  It then allows users to run "patterns" (think a set of inputs and a prompt, like an ephemeral [[concepts/Explainers for AI/Fine Tuning|Fine Tuning]] operation). 
 
 ##### Could it be the Model Context length?
 update::2025-03-19T18:59:03.914Z

@@ -3,13 +3,19 @@ title: "Creating a Custom GPT with OpenAI"
 authors:
   - Michael Staton
 date_created: 2025-04-18
-date_modified: 2025-07-22
+date_modified: 2025-08-22
 site_uuid: 56394750-0b7a-498d-8106-b7ea477a990c
 tags: [Explorations, Fine-Tuners]
 publish: true
 slug: creating-a-custom-gpt-with-openai
 at_semantic_version: 0.0.0.1
+image_prompt: "Two humans are looking like tailors dressing a Robot who is standing in front of a mirror at a department store."
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Creating_a_Custom_GPT_with_OpenAI_banner_image_1755821734992_eFlk3Mj6-.webp"
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Creating_a_Custom_GPT_with_OpenAI_portrait_image_1755821743002_qpXuNUody.webp"
+square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Creating_a_Custom_GPT_with_OpenAI_square_image_1755821756814__wcudnt62.webp"
 ---
+
+
 ## Context
 I'm following along to this [[YouTube]] video: [Creating Custom GPTs: API Key For Custom Actions | Complete Guide](https://youtu.be/6P6MQ_j73mI?si=jJGUcygTjmpLa_lA)
 

@@ -1,17 +1,20 @@
 ---
 date_created: 2025-07-29
-date_modified: 2025-08-09
+date_modified: 2025-08-21
 site_uuid: 96c29b79-db06-4564-a324-56605045c1aa
 publish: true
-title: Maintain Directives In Extended Markdown Render Pipeline
+title: "Maintain Directives In Extended Markdown Render Pipeline"
 lede: "Directives bring MDX like component rendering using special extended markdown syntax. "
 slug: maintain-directives-in-extended-markdown-render-pipeline
 at_semantic_version: 0.0.0.1
 authors:
   - Michael Staton
-augmented_with: Claude Code on Claude Sonnet 4
+augmented_with: "Claude Code on Claude Sonnet 4"
+image_prompt: "A robot representing AI is in an intersection directing traffic at a busy intersection.  Instead of cars there are flying web components with various UI patterns."
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-Directives-in-Extended-Markdown-Render-Pipeline_banner_image_1755814211355_AEvMbqrBg.webp"
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-Directives-in-Extended-Markdown-Render-Pipeline_portrait_image_1755814218739_6ysZM_lpX.webp"
+square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-Directives-in-Extended-Markdown-Render-Pipeline_square_image_1755814233744_VhZPczidH.webp"
 ---
-
 # Maintain Directives as part of our Extended Markdown
 
 ## Overview

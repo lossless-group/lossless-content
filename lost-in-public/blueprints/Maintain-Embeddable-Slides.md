@@ -1,18 +1,28 @@
 ---
 date_created: 2025-07-28
-date_modified: 2025-08-09
+date_modified: 2025-08-21
+date_authored_initial_draft: 2025-07-28
+date_authored_current_draft: 2025-08-18
+date_authored_final_draft:
+date_first_published: 2025-03-18
 site_uuid: 39273105-c5e3-4c4a-8bb9-6272d88764e0
 publish: true
-title: Maintain Embeddable Slides
+title: "Maintain Embeddable Slides"
 slug: maintain-embeddable-slides
 at_semantic_version: 0.0.0.1
 authors:
   - Michael Staton
-augmented_with: Claude Code on Claude Sonnet 4
+augmented_with: "Claude Code on Claude Sonnet 4"
+tags: [Slides-as-Code, Slide-Decks, Deck-Generators]
+image_prompt: "A small robot stands with a small projector on top of a computer desk, behind the monitor.  He is projecting like old movies were projected, but on the computer monitor is a Keynote slide deck."
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-Embeddable-Slides_banner_image_1755815513881_vG9H27ZKx.webp"
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-Embeddable-Slides_portrait_image_1755815520946_NlMeL6qdl.webp"
+square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-Embeddable-Slides_square_image_1755815527652_HEYKVBKOm.webp"
 ---
-# Maintain-Embeddable-Slides.md
 
-## Specification for Embedding Reveal.js Presentations in Markdown
+
+
+# Specification for Embedding Reveal.js Presentations in Markdown
 
 ### Overview
 This specification defines how to embed Reveal.js presentations within rendered markdown files using a consistent syntax that aligns with the existing backlink convention.
