@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-17
-date_modified: 2025-08-17
+date_modified: 2025-08-22
 authors:
   - Michael Staton
 site_uuid: 2d4cc2aa-19c3-4cb6-83a0-58667febce14
@@ -14,6 +14,8 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/From_Qual
 square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/From_Qualitative_Love_to_Quantitative_Love_square_image_1755400989164_FGIiJD1hM.webp
 tags: [Business-Intelligence, Web-Analytics, Data-Analytics, Founder-Toolkit]
 augmented_with: Perplexity AI
+categories:
+  - Best-Practices
 ---
 
 
