@@ -9,10 +9,8 @@ aliases: [AI Agents, AI Agent, Agent, Agents]
 
 
 :::tooling-gallery
-- [[Agentic AI]]
+- tag: [[Agentic AI]]
 :::
-
-```
 
 https://youtu.be/2vj2BF_dWeY?si=9Z-loqAHp1zEFZl3
 
