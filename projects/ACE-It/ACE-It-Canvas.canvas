@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"3a070f3a7ee85715","x":1191,"y":480,"width":1431,"height":974,"type":"group","label":"Helpful Context"},
+		{"id":"951a1d56953951a6","type":"group","x":680,"y":-800,"width":1021,"height":1000,"label":"Context Engineering Kit"},
+		{"id":"21a4ffb33dba2946","type":"group","x":-440,"y":480,"width":1447,"height":600,"label":"Safety"},
+		{"id":"a668775a0a578d90","type":"group","x":-440,"y":-800,"width":885,"height":972,"label":"Philosophy"},
+		{"id":"7b5914341197b117","type":"file","file":"projects/ACE-It/Philosophy/Our-Approach.md","x":-420,"y":-780,"width":400,"height":400},
+		{"id":"785c15874b2f0fd5","type":"file","file":"projects/ACE-It/Philosophy/Best-Practices.md","x":-420,"y":-248,"width":400,"height":400},
+		{"id":"3c9d77139992e644","type":"file","file":"projects/ACE-It/Philosophy/Prompt-Engineering.md","x":25,"y":-780,"width":400,"height":400},
+		{"id":"7f4ba3ffc689c9e1","type":"file","file":"projects/ACE-It/Philosophy/Iterative-Approach.md","x":25,"y":-248,"width":400,"height":400},
+		{"id":"8b05788a8722d851","type":"file","file":"projects/ACE-It/Docs-Kit/Living Specifications.md","x":700,"y":-780,"width":400,"height":400},
+		{"id":"e87b21decac3fefc","type":"file","file":"projects/ACE-It/Docs-Kit/Blueprints.md","x":700,"y":-220,"width":400,"height":400},
+		{"id":"792a197e5279a757","type":"file","file":"projects/ACE-It/Docs-Kit/Prompts.md","x":1281,"y":-780,"width":400,"height":400},
+		{"id":"9dc05d6234b9648d","type":"file","file":"projects/ACE-It/Docs-Kit/Reminders.md","x":1281,"y":-220,"width":400,"height":400},
+		{"id":"e134af7c12f8dc82","type":"file","file":"projects/ACE-It/Models/Tokens.md","x":1211,"y":505,"width":400,"height":400},
+		{"id":"894769dbd4b0615e","x":1211,"y":1034,"width":400,"height":400,"type":"file","file":"projects/ACE-It/Models/Thinking-Models.md"},
+		{"id":"75d7d2fc78dea168","type":"file","file":"projects/ACE-It/Models/Function-Calling.md","x":1682,"y":500,"width":400,"height":400},
+		{"id":"4c886bfc666ab544","type":"text","text":"","x":2034,"y":840,"width":250,"height":60},
+		{"id":"41f908eae960747a","type":"file","file":"projects/ACE-It/Models/Modalities.md","x":2202,"y":500,"width":400,"height":400},
+		{"id":"58012a6ffd83b66b","type":"file","file":"projects/ACE-It/Safety/Security-Foundations.md","x":-375,"y":591,"width":400,"height":400},
+		{"id":"be925e16c820f799","type":"file","file":"projects/ACE-It/Safety/TDD.md","x":97,"y":591,"width":400,"height":400},
+		{"id":"8207b83ad26d9061","type":"file","file":"projects/ACE-It/Safety/Audits.md","x":577,"y":591,"width":400,"height":400}
+	],
+	"edges":[]
+}

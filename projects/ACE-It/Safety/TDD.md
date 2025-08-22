@@ -1,3 +1,7 @@
+---
+date_created: 2025-08-17
+date_modified: 2025-08-22
+---
 # Specification by Tests: LLM‑Driven TDD
 
 Until now we often asked the LLM to produce the final result right away: write the code, assemble the screen, wire the API. There is another, equally valid way to build with an LLM: express the requirement as checks first and only then implement. Using tests as the specification gives a concrete, objective definition of done and keeps the assistant from guessing.
