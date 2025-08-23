@@ -15,7 +15,7 @@ Workflow automation tools and software automate manual processes and repetitive 
 [[Make]]
 [[Tooling/AI-Toolkit/Agentic AI/Bardeen|Bardeen]]
 [[Tooling/AI-Toolkit/Agentic AI/Gumloop|Gumloop]]
-[[Xano]]
+[[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Xano]]
 [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Dynamiq AI|Dynamiq AI]]
 :::
 

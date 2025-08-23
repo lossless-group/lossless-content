@@ -6,8 +6,11 @@ publish: true
 title: Prompts
 slug: prompts
 at_semantic_version: 0.0.0.1
+aliases: [Step Prompts]
 ---
 In the context of Vibe Coding (also known as Conversational AI or Chatbot Development), a "Prompt" refers to an input given to the model, which then generates a response. It's essentially a question or statement designed to elicit a specific type of reaction or answer from the AI model.
+
+We recommend that other than conversational prompting to develop documentation, you only create Prompts for a step or phase. 
 
 Here are some best practices for creating effective prompts in Vibe Coding:
 

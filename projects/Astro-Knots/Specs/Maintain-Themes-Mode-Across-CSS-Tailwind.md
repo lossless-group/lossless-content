@@ -1,22 +1,22 @@
 ---
 title: Maintain Themes and Modes Across CSS and Tailwind
-lede: "Maintain Themes and Modes Across CSS and Tailwind"
+lede: Everybody is doing modes and themes these days. It takes the proper setup, early.
 date_authored_initial_draft: 2025-05-14
 date_authored_current_draft: 2025-05-14
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft:
+date_first_published:
+date_last_updated:
 at_semantic_version: 0.0.0.1
 publish: false
 status: To-Implement
 augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
 category: Frontend-Development
 date_created: 2025-05-14
-date_modified: 2025-07-20
+date_modified: 2025-08-23
 tags: [CSS, Tailwind, Themes, Modes, Design-Systems, Frontend-Development]
 authors:
   - Michael Staton
-image_prompt: "A computer monitor showing a website with consistent color themes."
+image_prompt: A computer monitor showing a website with consistent color themes.
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-17_banner_image_Maintain-Themes-Mode-Across-CSS-Tailwind_1464152f-bdeb-4523-9bbf-1db31bf14725_xi5kwK2c3.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-17_portrait_image_Maintain-Themes-Mode-Across-CSS-Tailwind_66ca10fa-d7b0-4f41-b841-2d8574142af8_NGDBacfLz.webp
 ---

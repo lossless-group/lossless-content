@@ -40,6 +40,6 @@ In the context of computing and programming, data flow is more technical. It's a
 
 2. **Bidirectional Data Flow**: In contrast, bidirectional data flow allows for information to move in both directions - from source to destination and vice versa. This is common in reactive or state management systems, such as the Flux architecture used by ReactJS, where actions can trigger updates in components, but component state changes can also generate new actions.
 
-[[Data Flow Diagrams]] (DFD) are visual tools used to illustrate this concept. They show how data is processed and moved around within a system or between different systems, helping to understand complex processes at a glance. 
+[[Vocabulary/Data Flow Diagrams]] (DFD) are visual tools used to illustrate this concept. They show how data is processed and moved around within a system or between different systems, helping to understand complex processes at a glance. 
 
 Proper management of data flow is crucial for efficient system operation, data integrity, and security. It's essential to ensure that data is accurately transmitted, processed, and stored throughout its journey from origin to destination.

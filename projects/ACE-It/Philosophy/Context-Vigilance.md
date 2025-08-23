@@ -1,17 +1,45 @@
 ---
 date_created: 2025-08-15
-date_modified: 2025-08-17
+date_modified: 2025-08-23
 ---
-# Prompt Engineering Essentials
+# Context Vigilance Essentials
 
-> Essential: [work on prompts](#meta-prompts) with AI, but with a "Product Management role." Once the documentation is all ready, then ask the model to switch roles.  Even better, create a new chat so you have a clean context window
+> Essential: Work on a [[projects/ACE-It/Docs-Kit/Living-Specifications|Living-Specification]], then break efforts down into steps.  Then write coherent step implementation [prompts](#meta-prompts) with AI, but with a "Product Management role." 
+> 
+> Only once the documentation is well developed, then ask the model to switch roles.  Even better, create a new chat so you have a clean context window
+
+
+```mermaid
+graph TD
+    %% Main Flow
+    A[Specification] --> B[Breakdown to Step by Step]
+    B --> C[Create Step Prompt]
+    C --> D[Fork to Step Prompt File]
+    D --> E[Verify Step Implementation Plan]
+    E --> F{Good Plan?}
+    F -->|No| C[Iterate on Step Prompt]
+    F -->|Yes| G[New Role: Lead Developer]
+    G --> H[Implement Step]
+    H --> I[Validate and Test]
+    I --> J{Passed?}
+    J -->|No| C[Iterate on Step Prompt]
+    J -->|Yes| K[Update Prompt & Specification]
+    K --> L[Next Step]
+    
+    %% Styling
+    classDef decision fill:#f9f,stroke:#333,stroke-width:2px
+    classDef process fill:#bbf,stroke:#333,stroke-width:2px
+    classDef role fill:#bfb,stroke:#333,stroke-width:2px
+    
+    class F,J decision
+    class A,B,C,D,E,H,I,K,L process
+    class G role
+```
 
 [work on prompts][#6. Let the AI help you write prompts (meta‑prompts)]
 ## 1. What is a prompt?
 
 A **prompt** is a short brief for the AI: what you want, what the AI should consider, and how the answer should look. Think of it like a creative brief or a task description.
-
-[[Vocabulary/Markup|Markup]]
 
 Typical pieces:
 
@@ -200,9 +228,6 @@ Some workflows legitimately require very large prompts (for example: bootstrappi
 
 See our full example used to set up a monorepo:
 [**Example**](projects/Augment-It/Prompts/Prompt-Queue/Full%20Prompt%20for%20Monorepo%20Setup%20(Stack%20Agnostic).md)
-
-
-
 
 ### Takeaway
 

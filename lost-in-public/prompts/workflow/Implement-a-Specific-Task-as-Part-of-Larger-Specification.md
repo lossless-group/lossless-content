@@ -44,7 +44,7 @@ This will help with "social media" participation as we will be able to "mention"
 
 ### Success Criteria
 
-1. Thoroughly discuss and document a versatile but comprehensive data model for citations and sources. Document it in [[projects/Astro-Turf/Specs/Integrate-Backend-Data-Stores-for-Dynamic-Content|Integrate Backend Data Stores for Dynamic Content]].
+1. Thoroughly discuss and document a versatile but comprehensive data model for citations and sources. Document it in [[projects/Astro-Knots/Specs/Integrate-Backend-Data-Stores-for-Dynamic-Content|Integrate Backend Data Stores for Dynamic Content]].
 2. Properly set up AstroDB files for this feature (citations, Source Registry)
 a. Source "type" behaves as an enum, but is stored as a string.
 2. Code can "evaluate" the source type and use the appropriate API to fetch citation information. User settings are clear and discoverable, and the user can "add" or "remove" types and API calls to the system as needed.
@@ -59,7 +59,7 @@ a. Check and verify that data is saved to AstroDB correctly.
 
 ## Reference Specification for this Prompt:
 
-[[projects/Astro-Turf/Specs/Integrate-Backend-Data-Stores-for-Dynamic-Content|Integrate Backend Data Stores for Dynamic Content]]
+[[projects/Astro-Knots/Specs/Integrate-Backend-Data-Stores-for-Dynamic-Content|Integrate Backend Data Stores for Dynamic Content]]
 
 Please note the section on the "Global Citation Registry." We will be performing a single task working towards the larger goals outlined in the reference specification.
 

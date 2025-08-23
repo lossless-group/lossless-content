@@ -2,23 +2,39 @@
 date_created: 2025-08-17
 date_modified: 2025-08-23
 aliases: [Specifications, Living Specification, Specification]
+image_prompt: "Dr. Frankenstein has his boxes of files on the operating table.  He is trying to galvanize them.  They have grown roots down to the ground and are starting to blossom as flowers."
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Living-Specifications_banner_image_1755977030439_ZrprJEKTn.webp"
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Living-Specifications_portrait_image_1755977033633_iD9EjOFVE.webp"
+square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Living-Specifications_square_image_1755977035759_DZ3lT4W4l.webp"
 ---
+
+
 
 ```mermaid
 graph TD
-    A[Specification] --> B[Step by Step Breakdown]
-    A --> B[Step Prompt]
-    B --> C[Step Prompt: Detail current step]
-    C --> D[Plan Verification: Confirm the plan with human.]
-    D --> E{Good Plan?}
-    E -- Yes --> F[New Role: Switch to lead developer role and implement step prompt.]
-    E -- No --> B[Iterate on step prompt.]
-    F --> G[Validate and Test: Verify if the output meets expectations.]
-    G --> I{Passed?}
-    I -- yes --> J[Update Specification based on successful implementation]
-    I -- no --> D
-    J --> L[End]
-    K --> G
+    %% Main Flow
+    A[Specification] --> B[Breakdown to Step by Step]
+    B --> C[Create Step Prompt]
+    C --> D[Fork to Step Prompt File]
+    D --> E[Verify Step Implementation Plan]
+    E --> F{Good Plan?}
+    F -->|No| C[Iterate on Step Prompt]
+    F -->|Yes| G[New Role: Lead Developer]
+    G --> H[Implement Step]
+    H --> I[Validate and Test]
+    I --> J{Passed?}
+    J -->|No| C[Iterate on Step Prompt]
+    J -->|Yes| K[Update Prompt & Specification]
+    K --> L[Next Step]
+    
+    %% Styling
+    classDef decision fill:#f9f,stroke:#333,stroke-width:2px
+    classDef process fill:#bbf,stroke:#333,stroke-width:2px
+    classDef role fill:#bfb,stroke:#333,stroke-width:2px
+    
+    class F,J decision
+    class A,B,C,D,E,H,I,K,L process
+    class G role
 ```
 
 This Mermaid diagram represents a workflow that starts with a specification. It then breaks down into steps, each of which is prompted and planned for verification. Depending on whether a role change is necessary, the process may either execute the step directly or gather more information. After execution, the step is validated and tested. If successful, the specification is updated based on this implementation. If not, the process goes back to identify issues and rectify them.

@@ -1,6 +1,7 @@
 ---
 date_created: 2025-08-15
-date_modified: 2025-08-17
+date_modified: 2025-08-23
+image_prompt: A startup hacker and a robot (representing AI) are pair juggling, facing each other, large bowling pins, laptops, and NVIDIA external GPU chips.
 ---
 # Our Approach: AI-Human Collaboration Principles
 
@@ -12,7 +13,7 @@ Our approach to AI-augmented development is built on this fundamental principle:
 
 Just as you wouldn't expect a new team member to deliver quality work without proper onboarding, clear requirements, and iterative feedback, AI tools require the same structured approach to collaboration. The Internet is abuzz with the majority of Vibe Coding tourists being somewhere between disappointed and maddeningly frustrated. [^xaz7sh]
 
-[[concepts/Accelerated Context Engineering|Accelerated Context Engineering]] > [[concepts/Explainers for AI/Context Engineering|Context Engineering]] > [[concepts/Explainers for AI/Vibe Planning|Vibe Planning]] > [[Vocabulary/Vibe Coding|Vibe Coding]]
+[[projects/ACE-It/Philosophy/Context-Vigilance|Context-Vigilance]] > [[concepts/Explainers for AI/Context Engineering|Context Engineering]] > [[concepts/Explainers for AI/Vibe Planning|Vibe Planning]] > [[Vocabulary/Vibe Coding|Vibe Coding]]
 ## The Team Member Analogy
 
 Working with AI is remarkably similar to working with a highly capable but inexperienced developer (that is also ironically as naive and blameless as a three-year old.)

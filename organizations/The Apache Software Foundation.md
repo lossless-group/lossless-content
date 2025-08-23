@@ -23,7 +23,7 @@ aliases: [Apache]
 
 9. Apache Subversion (SVN): A version control system used for tracking changes in source code during software development.
 
-10. Apache CloudStack: An open-source cloud computing software used for building public and private [[Infrastructure as a Service]] (IaaS) clouds.
+10. Apache CloudStack: An open-source cloud computing software used for building public and private [[Vocabulary/Infrastructure as a Service]] (IaaS) clouds.
 
 11. Apache Flex: A software development kit used to build and maintain Adobe Flash applications that can run on the Adobe Flash Player.
 

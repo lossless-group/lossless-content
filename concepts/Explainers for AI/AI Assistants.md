@@ -1,7 +1,7 @@
 ---
 date_created: 2025-08-17
-date_modified: 2025-08-17
-aliases: [AI Executive Assistants]
+date_modified: 2025-08-23
+aliases: [AI Executive Assistants, Virtual Assistants]
 covers_tags:
   - AI-Assistants
 tags: [AI-Assistants]

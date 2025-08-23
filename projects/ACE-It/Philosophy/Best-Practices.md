@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-15
-date_modified: 2025-08-17
+date_modified: 2025-08-23
 ---
 # Best Practices for AI-Augmented Development
 
@@ -149,7 +149,7 @@ There is a lot of hype about MCP Servers. And the market is adopting [[concepts/
 Our experience to date is that we are slightly ahead of where any of these servers are. Yet everyone seems to be creating them.  So, we will need to keep you up to date.
 
 Some MCP Servers that look useful but we have not really battle tested:
-[[Tooling/Software Development/Developer Experience/DevOps/Ref Tools]]
+- [[Tooling/Software Development/Developer Experience/DevOps/Ref Tools|Ref Tools]]
 
 ### Data Visibility Tools / RAG
 
@@ -233,10 +233,12 @@ Some MCP Servers that look useful but we have not really battle tested:
 ### Iteration Patterns
 
 #### Start Small, Build Up
-1. **MVP First**: Get basic functionality working
-2. **Validate Early**: Test core assumptions
-3. **Iterate Quickly**: Make small, frequent improvements
-4. **Add Complexity**: Layer on advanced features
+1. **Use Version Control**: At every step use version control hygiene. 
+2. **MVP First**: Get basic functionality working
+3. **Validate Early**: Test core assumptions
+4. **Iterate Quickly**: Make small, frequent improvements
+5. **Add Complexity**: Layer on advanced features
+6. **Assume rewrites**: Assume that some massive code generation will need to be reset and rewritten.
 
 #### Feedback Loops
 - Review AI output before integration

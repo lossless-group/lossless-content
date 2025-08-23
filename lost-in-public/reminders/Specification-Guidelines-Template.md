@@ -171,7 +171,7 @@ When working with AI to generate or update specifications:
 ## Examples
 For reference, see these well-structured specifications:
 - [Filesystem Observer for Consistent Metadata in Markdown Files](../../specs/Filesystem-Observer-for-Consistent-Metadata-in-Markdown-files.md)
-- [Content Registry for Markdown Files](projects/Astro-Turf/Specs/Create-a-Content-Registry-for-Markdown-Files.md)
+- [Content Registry for Markdown Files](projects/Astro-Knots/Specs/Create-a-Content-Registry-for-Markdown-Files.md)
 
 ## Template Usage Instructions
 1. Copy the template into a new file in the appropriate directory

@@ -20,7 +20,7 @@ Several databases and graph platforms support GraphQL for graph-like data access
 
 - **[[StarfishETL]]**: A platform supporting data integration and transformation, providing GraphQL APIs for interacting with graph-modeled data. [^fuqqt5]
 
-- **[[Xano]]**: A back-end service popular for API-driven applications, provides postgreSQL-backed databases with native GraphQL support for querying nested and relational data. [^fuqqt5]
+- **[[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Xano]]**: A back-end service popular for API-driven applications, provides postgreSQL-backed databases with native GraphQL support for querying nested and relational data. [^fuqqt5]
 
 - **[[Tooling/Software Development/Lego-Kit Engineering Tools/Retool|Retool]]**: While not a graph database per se, Retool empowers users to connect databases and generate GraphQL APIs for querying, visualizing, and manipulating data with a graph-like schema in mind. [^fuqqt5]
 

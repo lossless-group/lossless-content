@@ -40,7 +40,7 @@ Data analysis has become increasingly vital for businesses due to several reason
 
 5. **Operational Efficiency**: Data analysis can uncover inefficiencies in business operations, helping to streamline processes, reduce waste, and lower costs.
 
-The metaphor "Data is the new Oil" was popularized by [[Clive Humby]], mathematician and co-founder of World Wide Web pioneer, SAS Institute. Here's why:
+The metaphor "Data is the new Oil" was popularized by [[Sources/People/Clive Humby]], mathematician and co-founder of World Wide Web pioneer, SAS Institute. Here's why:
 
 1. **Source of Power**: Just as oil fuels economic growth and transformation across various industries, data drives innovation and progress in the digital age. It powers technological advancements and enables new business models.
 

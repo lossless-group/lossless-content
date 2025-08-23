@@ -6,7 +6,7 @@
 		{"id":"a668775a0a578d90","type":"group","x":-440,"y":-800,"width":885,"height":972,"label":"Philosophy"},
 		{"id":"7b5914341197b117","type":"file","file":"projects/ACE-It/Philosophy/Our-Approach.md","x":-420,"y":-780,"width":400,"height":400},
 		{"id":"785c15874b2f0fd5","type":"file","file":"projects/ACE-It/Philosophy/Best-Practices.md","x":-420,"y":-248,"width":400,"height":400},
-		{"id":"3c9d77139992e644","type":"file","file":"projects/ACE-It/Philosophy/Prompt-Engineering.md","x":25,"y":-780,"width":400,"height":400},
+		{"id":"3c9d77139992e644","type":"file","file":"projects/ACE-It/Philosophy/Context-Vigilance.md","x":25,"y":-780,"width":400,"height":400},
 		{"id":"7f4ba3ffc689c9e1","type":"file","file":"projects/ACE-It/Philosophy/Iterative-Approach.md","x":25,"y":-248,"width":400,"height":400},
 		{"id":"8b05788a8722d851","type":"file","file":"projects/ACE-It/Docs-Kit/Living Specifications.md","x":700,"y":-780,"width":400,"height":400},
 		{"id":"e87b21decac3fefc","type":"file","file":"projects/ACE-It/Docs-Kit/Blueprints.md","x":700,"y":-220,"width":400,"height":400},

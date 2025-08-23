@@ -279,7 +279,7 @@ export const collections = {
 ## 6. Development Roadmap
 
 ### Phase 1: Markdown Rendering System Integration
-- [x] Review and document our Markdown rendering system (see [[projects/Astro-Turf/Specs/Maintain-a-Proprietary-Extended-Markdown-Flavor-Rendering-Pipeline|Markdown Rendering Pipeline Spec]])
+- [x] Review and document our Markdown rendering system (see [[projects/Astro-Knots/Specs/Maintain-a-Proprietary-Extended-Markdown-Flavor-Rendering-Pipeline|Markdown Rendering Pipeline Spec]])
 - [x] Review Astro components for Extended Syntax (documented in spec)
 - [x] Document relevant files and patterns (see spec)
 - [x] Review if we need to develop a dynamic variant of each Markdown extension component for slides.

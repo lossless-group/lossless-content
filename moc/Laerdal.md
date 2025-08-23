@@ -23,6 +23,7 @@ date_modified: 2025-08-23
 - [[Vocabulary/Self-Hosting|Self-Hosting]]
 - [[Vocabulary/Microfrontend Architecture|Microfrontends]]
 - [[Vocabulary/Microservices|Microservices]]
+- [[Vocabulary/Standards Organizations|Standards Organizations]]
 - [[Vocabulary/Smart Glasses|Smart Glasses]]
 - [[Vocabulary/Yak Shaving|Yak Shaving]]
 - [[Vocabulary/REST API|REST API]]
@@ -49,12 +50,13 @@ date_modified: 2025-08-23
 - [[Vocabulary/Continuous Refactoring|Refactoring]]
 - [[Vocabulary/Cognitive Diversity|Cognitive Diversity]]
 - [[concepts/Demand Generation|Demand Generation]]
-- [[Growth Engines]]
+- [[concepts/Growth Engines]]
 :::
 
 :::concepts
 - [[Coherence]]
 - [[concepts/CARBS|CARBS]]
+- [[concepts/Technology Radar|Technology Radar]]
 - [[concepts/Emergent Innovation|Emergent Innovation]]
 - [[concepts/Open Innovation|Open Innovation]]
 - [[concepts/Persuasive Technology|Persuasive Technology]]
@@ -75,7 +77,6 @@ date_modified: 2025-08-23
 - [[concepts/On-Demand Talent|On-Demand Talent]]
 - [[concepts/Asymmetric Competition|Asymmetric Competition]]
 - [[concepts/Explainers for AI/Voice Agents|Voice Agents]]
-- [[concepts/Technology Radar|Technology Radar]]
 - [[concepts/Omnichannel Marketing|Omnichannel Marketing]]
 - [[concepts/Design to Engineering Handoff|Design to Engineering Handoff]]
 - [[concepts/Technical Debt|Technical Debt]]
