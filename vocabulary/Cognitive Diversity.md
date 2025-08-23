@@ -1,9 +1,12 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2025-08-23
 site_uuid: 60047552-e2aa-4d9e-a658-b4d192071ea4
 date_created: 2025-04-06
-aliases:
-  - Divergent Thinking
+aliases: [Divergent Thinking]
+publish: true
+title: "Cognitive Diversity"
+slug: cognitive-diversity
+at_semantic_version: 0.0.0.1
 ---
 
 https://youtu.be/MnFTk8mVrs4?si=qVino0QHnse51XVc
@@ -18,20 +21,20 @@ https://youtu.be/MnFTk8mVrs4?si=qVino0QHnse51XVc
 >    - Teams with greater cognitive diversity solve problems up to three times faster and boost innovation by up to 20% compared to homogeneous teams[2][6].
 >    - Diverse perspectives help identify errors, propose creative solutions, and adapt to change effectively[1][2].
 > 
-> 1. **Improved Decision-Making**  
+> 2. **Improved Decision-Making**  
 >    - Cognitive diversity enables teams to consider a broader range of viewpoints, reducing biases and fostering better decisions[1]. This creates an environment where employees feel safe to share ideas, reducing groupthink[1].
 > 
-> 1. **Increased Team Performance**  
+> 3. **Increased Team Performance**  
 >    - Teams with diverse thinking styles show improved productivity, efficiency, and adaptability. They are better equipped to tackle uncertainty and disruption in dynamic business environments[1][4].
 > 
-> 1. **Customer Insights and Market Understanding**  
+> 4. **Customer Insights and Market Understanding**  
 >    - Cross-functional teams with diverse cognitive styles can break silos, share knowledge, and better serve customers by leveraging varied perspectives[1].
 > 
 > ### **Challenges of Cognitive Diversity**
-> 1. **Coordination Difficulties**  
+> 5. **Coordination Difficulties**  
 >    - High levels of cognitive diversity can disrupt team coordination and collective intelligence, leading to inefficiencies in implicit learning and collaboration[3]. This relationship often follows an inverted-U curve: moderate diversity is beneficial, but excessive diversity can hinder performance[3].
 > 
-> 1. **Conflict Management**  
+> 6. **Conflict Management**  
 >    - Without proper management, cognitive diversity can increase conflicts within teams, negatively impacting performance[1][3].
 > 
 > ### **Practical Implications**

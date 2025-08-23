@@ -15,5 +15,5 @@ og_favicon: https://cdn.prod.website-files.com/5fe349b0112dc43657761ee3/5ffc4771
 og_last_fetch: 2025-08-07T12:42:55.957Z
 laerdal_rec: true
 ---
-[[concepts/GRC|GRC]]
+[[concepts/Governance Risk and Compliance|GRC]]
 [[concepts/Explainers for AI/Compliance AI|Compliance AI]]

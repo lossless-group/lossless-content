@@ -34,7 +34,7 @@ Modern AI tools for software development can be divided into several categories 
 - [Manus.im](http://manus.im) [[Manus.im]]
 
 
-**Best For:** [[Rapid Prototyping]] and [[Hypothesis Testing]]
+**Best For:** [[concepts/Rapid Prototyping]] and [[Hypothesis Testing]]
 
 These tools are excellent for product owners and designers who want to explore ideas without dedicating development team resources. They excel at prototyping small applications using modern tech stacks like React and Node.js, with seamless integration to cloud providers like Supabase and Vercel.
 

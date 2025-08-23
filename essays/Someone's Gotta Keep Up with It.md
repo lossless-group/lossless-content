@@ -1,6 +1,6 @@
 ---
 date_created: 2024-12-14
-date_modified: 2025-08-22
+date_modified: 2025-08-23
 site_uuid: 15bf6f3a-75e6-4095-b232-a24c3490496e
 title: Someone's Gotta Keep Up with It
 lede: Keeping up with rapid tech change is a relentless challenge, but it’s the key to staying relevant.
@@ -25,6 +25,7 @@ authors:
 [[Legend State]]
 [[RS Build]]
 
+> The pace of change is happening at greater and greater speeds. It feels like a neverending whirlwind.
 # Every few months
 
 Since the launch of GPT-3 in June 2020, major “shake-up” AI models that significantly impact developers have been released roughly every 6–12 months, sometimes even more frequently in recent years[^0sn4rl][^93ow3w][^le0xqp][^w1hax6][^ho7gd7][^34oscb][^r1z5tc]. This trend has accelerated notably since 2023, with several key releases annually and intensified competition from Chinese tech giants and indie labs.
@@ -38,7 +39,7 @@ Since the launch of GPT-3 in June 2020, major “shake-up” AI models that sign
 
 ## Recent Frequency Trends (2023–2025)
 - **Global developer “shake-up” events:** There have been at least **2–4 globally influential releases per year** since mid-2023, with 2024 and 2025 showing increasing frequency (every 3–6 months)[^ho7gd7][^34oscb][^on3lm5][^r1z5tc].
-- **Regional waves:** With Chinese (DeepSeek, ERNIE, Qwen), UAE (Falcon), and indie European labs (Mistral), the pace is only quickening—often with effects on developers localized by language, cost, or API adoption[^dm2yar][^4v3cls][^r1z5tc][^34oscb].
+- **Regional waves:** With Chinese ([[Tooling/AI-Toolkit/Model Producers/DeepSeek|DeepSeek]], ERNIE, [[Tooling/AI-Toolkit/Models/Qwen|Qwen]]), UAE (Falcon), and indie European labs ([[Tooling/AI-Toolkit/Model Producers/Mistral|Mistral]]), the pace is only quickening—often with effects on developers localized by language, cost, or API adoption[^dm2yar][^4v3cls][^r1z5tc][^34oscb].
 
 ## Overall Estimate
 A major, developer-impacting AI model comes out on average **every 3–6 months** as of 2024–2025, with some cycles seeing monthly shifts due to cascading open-source and region-specific breakthroughs[^34oscb][^cpire1][^on3lm5][^ho7gd7]. Most notable disruptions require engineers to rapidly adapt tools, prompts, workflows, and sometimes entire products.
@@ -51,9 +52,7 @@ https://youtu.be/ZTPrbAKmcdo?si=Zk8Zv8S4hqRMVS2p
 
 https://github.blog/changelog/2025-06-17-visual-studio-17-14-june-release/
 
-The pace of change is happening at greater and greater speeds
 
-Now let me create a comprehensive table displaying this timeline 
 
 # AI Model Series Release Timeline: From GPT-3 to Present
 
@@ -147,15 +146,15 @@ This comprehensive timeline tracks major AI model series releases from the launc
 
 **OpenAI Leadership**: Started the modern LLM era with GPT-3 in June 2020, [^yuvqy4] followed by consistent innovation through GPT-3.5, [^czl8su] GPT-4, [^beb80l] and o1 reasoning models. [^ot2tn3]
 
-**Chinese Innovation**: Major players include Baidu (ERNIE series), [^4ymfau] Alibaba (Qwen family), [^hcajs1] DeepSeek (breakthrough efficiency models), [^n1tgc9] and academic institutions like BAAI (Wu Dao series). [^zoej3v]
+**Chinese Innovation**: Major players include Baidu (ERNIE series), [^4ymfau] Alibaba (Qwen family), [^hcajs1] [[Tooling/AI-Toolkit/Model Producers/DeepSeek|DeepSeek]] (breakthrough efficiency models), [^n1tgc9] and academic institutions like BAAI (Wu Dao series). [^zoej3v]
 
-**Open Source Movement**: EleutherAI pioneered open alternatives with GPT-J and GPT-NeoX, [^1whs3f] followed by BigScience BLOOM, [^o1gtnw] Meta's LLaMA series, [^oz1pr0] and Mistral AI's efficient models. [^n2trtc]
+**Open Source Movement**: [[EleutherAI]] pioneered open alternatives with GPT-J and GPT-NeoX, [^1whs3f] followed by BigScience BLOOM, [^o1gtnw] Meta's [[Tooling/AI-Toolkit/Models/LLaMA|LLaMA]] series, [^oz1pr0] and Mistral AI's efficient models. [^n2trtc]
 
-**Multimodal Evolution**: From text-only models to multimodal capabilities, with Google's Gemini, [^0gi5pf] OpenAI's GPT-4o, [^sshg25] and Meta's LLaMA 4[^dwv8ck] leading vision integration.
+**Multimodal Evolution**: From text-only models to multimodal capabilities, with Google's [[Tooling/AI-Toolkit/Models/Gemini|Gemini]], [^0gi5pf] OpenAI's [[Tooling/AI-Toolkit/Models/GPT-Series Models|GPT-Series Models]], [^sshg25] and Meta's LLaMA 4[^dwv8ck] leading vision integration.
 
-**Indie Success Stories**: Mistral AI emerged as a European champion, [^n2trtc] TII's Falcon models represent Middle Eastern AI advancement, [^w7wo8g] and companies like Cohere focus on enterprise RAG applications.
+**Indie Success Stories**: Mistral AI emerged as a European champion, [^n2trtc] TII's Falcon models represent Middle Eastern AI advancement, [^w7wo8g] and companies like [[Tooling/AI-Toolkit/Knowledge AI/Cohere|Cohere]] focus on enterprise [[Vocabulary/Retrieval-Augmented Generation|RAG]] applications.
 
-**Recent Trends**: 2025 has seen a focus on reasoning models (DeepSeek-R1, [^n1tgc9] Claude 4[^rv1mzc]), efficiency improvements, and the democratization of powerful AI through open-weight releases.
+**Recent Trends**: 2025 has seen a focus on [[concepts/Explainers for AI/AI Reasoning|Reasoning-based-Models]] models (DeepSeek-R1, [^n1tgc9] Claude 4[^rv1mzc]), efficiency improvements, and the democratization of powerful AI through open-weight releases.
 
 # Sources
 

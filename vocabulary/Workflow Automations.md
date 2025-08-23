@@ -1,5 +1,5 @@
 ---
-date_modified: 2025-08-17
+date_modified: 2025-08-23
 site_uuid: 564994a2-a7ec-46ef-8778-c23b2b53c223
 date_created: 2025-04-06
 aliases: [Workflow Automation]
@@ -11,10 +11,12 @@ Workflow automation tools and software automate manual processes and repetitive 
 
 :::tool-showcase
 [[Kestra]]
-[[projects/ACE-It/UseCases/n8n]]
+[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/n8n|n8n]]
 [[Make]]
 [[Tooling/AI-Toolkit/Agentic AI/Bardeen|Bardeen]]
 [[Tooling/AI-Toolkit/Agentic AI/Gumloop|Gumloop]]
+[[Xano]]
+[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Dynamiq AI|Dynamiq AI]]
 :::
 
 

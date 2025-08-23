@@ -5,7 +5,7 @@ tags: [Compliance-AI, GRC-Platforms, Open-Innovation, Industry-Associations]
 ---
 
 ###### Related Content
-[[concepts/Explainers for AI/Compliance AI|Compliance AI]], [[concepts/GRC]]
+[[concepts/Explainers for AI/Compliance AI|Compliance AI]], [[concepts/Governance Risk and Compliance]]
 
 ***
 > [!info] **Perplexity Query** (2025-08-08T11:42:01.986Z)

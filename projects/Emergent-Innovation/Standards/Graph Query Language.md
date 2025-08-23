@@ -1,7 +1,7 @@
 ---
 url: https://www.gqlstandards.org/
 date_created: 2025-08-22
-date_modified: 2025-08-22
+date_modified: 2025-08-23
 site_uuid: e72669a9-d734-49a0-82fa-4273c4dc66ee
 publish: true
 title: Graph Query Language
@@ -10,11 +10,11 @@ at_semantic_version: 0.0.0.1
 tags: [Knowledge-Graphs, Databases, Query-AI]
 ---
 
-Several databases and graph platforms support GraphQL for graph-like data access, either natively or via mapping layers. Here are **key offerings already to market as of 2025** [^3pkpr7] [^7dviz9] :
+Several databases and graph platforms support GraphQL for graph-like data access, either natively or via mapping layers. Here are **key offerings already to market as of 2025**: [^3pkpr7] [^7dviz9]
 
 - **Dgraph**: A native, distributed graph database with built-in GraphQL query syntax. Dgraph is designed from the ground up for GraphQL support, enabling direct query of graph data via GraphQL and is used in production by major companies. [^7dviz9] [^3pkpr7] [[Tooling/Software Development/Databases/Dgraph|Dgraph]] offers both open-source and hosted cloud options.
 
-- **PuppyGraph**: While technically more a graph query engine than a pure graph database, PuppyGraph supports connections over popular graph query languages, including GraphQL (as well as Cypher and Gremlin). It allows querying relational data as graphs with GraphQL. [^3pkpr7] 
+- **[[PuppyGraph]]**: While technically more a graph query engine than a pure graph database, PuppyGraph supports connections over popular graph query languages, including GraphQL (as well as Cypher and Gremlin). It allows querying relational data as graphs with GraphQL. [^3pkpr7] 
 
 - **[[HarperDB]]**: HarperDB offers robust GraphQL endpoints alongside SQL and REST. This multi-model database gives direct GraphQL API access for querying and manipulating tabular and graph data. [^fuqqt5]
 

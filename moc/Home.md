@@ -3,6 +3,8 @@ title: "Home Page Tools"
 description: "Tools listed on the Home Page (lossless.group)"
 type: "tools"
 MAX_CARDS: 20
+date_created: 2025-08-08
+date_modified: 2025-08-22
 ---
 
 - [[AgentQL]]
@@ -13,3 +15,6 @@ MAX_CARDS: 20
 - [[Mem0]]
 - [[LM Studio]]
 - [[Exa.ai]]
+- [[Tooling/Software Development/Databases/ChromaDB|ChromaDB]]
+- [[Tooling/Data Utilities/Marimo|Marimo]]
+

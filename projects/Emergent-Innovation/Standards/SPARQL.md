@@ -1,7 +1,7 @@
 ---
 wikipedia_url: "https://en.wikipedia.org/wiki/SPARQL"
 date_created: 2025-08-22
-date_modified: 2025-08-22
+date_modified: 2025-08-23
 authors:
   - Michael Staton
 augmented_with: "Perplexity AI"
@@ -17,7 +17,7 @@ SPARQL is indeed a formal standard for querying graph data—specifically, it is
 
 Other notable graph query standards and languages include:
 
-- **GQL (Graph Query Language):** GQL was officially published as an ISO/IEC standard (ISO/IEC 39075) in April 2024 for property graph databases. It is supported by the same committee that works on SQL and aims to bring consistency and interoperability to property graph querying across different systems. [^iylk5u] [^28af69] [^53fr9r]
+- **GQL ([[projects/Emergent-Innovation/Standards/Graph Query Language|Graph Query Language]]):** GQL was officially published as an ISO/IEC standard (ISO/IEC 39075) in April 2024 for property graph databases. It is supported by the same committee that works on SQL and aims to bring consistency and interoperability to property graph querying across different systems. [^iylk5u] [^28af69] [^53fr9r]
 - **Cypher:** Originally developed for Neo4j, Cypher is widely adopted and, through the OpenCypher initiative, has become a kind of de facto standard for property graph querying although not officially an international standard like GQL. [^337czz] [^53fr9r]
 - **Gremlin:** Part of the Apache TinkerPop framework, Gremlin is a popular open-source graph traversal/query language. It's not an ISO standard but is widely supported across graph databases for operational graph analytics and traversal. [^337czz] [^dd48pn]
 - **GraphQL:** Though not traditionally a graph database query language, GraphQL is another popular API query language that supports querying nested, graph-like data, including through mapping to graph database schemas. [^ano2hs] [^337czz]

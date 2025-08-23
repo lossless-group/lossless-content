@@ -1,7 +1,7 @@
 ---
 date_created: 2025-08-07
-date_modified: 2025-08-08
-aliases: [Governance Risk and Compliance]
+date_modified: 2025-08-23
+aliases: [Governance Risk and Compliance, GRC]
 site_uuid: 532f57b7-2876-4bcd-93a9-e1424f776422
 publish: true
 title: GRC

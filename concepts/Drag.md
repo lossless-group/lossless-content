@@ -1,14 +1,14 @@
 ---
 site_uuid: 763339dd-24a9-4cdb-9dae-f7fcded55b4d
-date_created: 2025-04-18
-date_modified: 2025-04-24
+date_created: 2024-06-18
+date_modified: 2025-08-23
 ---
 
 Relates to [[concepts/Cognitive, Collaborative Tooling]]. 
 ### The Drag of Knowledge Workers
 In 2022, a survey of over a thousand professionals found that the average American spends an average of 2 hours a day, or 25% of their work week, looking for documents, information or people to do their jobs. And 26% spend 5 hours a day searching for information they need.  26% have recently created a work item that they later discovered already existed. 24% are guilty of asking colleagues for documents and information rather than finding it for themselves. And, 18% get interrupted by colleagues at least 5 times an hour. [^1]
 
-## AI Explains [[concepts/Drag]]
+## AI Explains [[concepts/Drag|Drag]]
 According to [[Poe AI]]:
 
 > [!Ai explains Drag]

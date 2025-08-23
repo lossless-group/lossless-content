@@ -1,9 +1,9 @@
 ---
 site_uuid: 137c2663-0e6e-4814-8646-ecb59a4fff4c
-date_modified: 2025-07-23
+date_modified: 2025-08-23
 date_created: 2025-03-30
 tags: [AI-Toolkit]
-aliases: [Reasoning-based-Models]
+aliases: [Reasoning-based-Models, Reasoning Models]
 ---
 https://youtu.be/PvDaPeQjxOE?si=bRk1akOPf5rv3rbL
 
@@ -11,40 +11,6 @@ https://youtu.be/PvDaPeQjxOE?si=bRk1akOPf5rv3rbL
 > **Question:**
 > Write a comprehensive one-page article about "AI Reasoning and Reasoning-based Models". 
 > 
-> Structure the article as follows:
-> 
-> 1. **Introduction** (2-3 sentences)
->    - Define the term and its significance
->    - Provide context for why it matters
-> 
-> 2. **Main Content** (3-4 paragraphs)
->    - Explain the concept in detail
->    - Include practical examples and use cases
->    - Discuss benefits and potential applications
->    - Address any challenges or considerations
-> 
-> 3. **Current State and Trends** (1-2 paragraphs)
->    - Discuss current adoption and market status
->    - Mention key players or technologies
->    - Highlight recent developments
-> 
-> 4. **Future Outlook** (1 paragraph)
->    - Predict future developments
->    - Discuss potential impact
-> 
-> 5. **Conclusion** (1-2 sentences)
->    - Summarize key points
->    - End with a forward-looking statement
-> 
-> **Important Guidelines:**
-> - Keep the total length to approximately one page (500-800 words)
-> - Use clear, accessible language
-> - Include specific examples and real-world applications
-> - Make it engaging and informative for a general audience
-> - Use markdown formatting for structure
-> 
-> **Image References:**
-> Include 
 
 ![AI Reasoning and Reasoning-based Models concept diagram or illustration](https://www.passionned.com/wp/wp-content/uploads/what-is-artificial-intelligence.png)
 *Source: https://www.passionned.com/artificial-intelligence/*
@@ -87,7 +53,7 @@ Despite these benefits, there are challenges. Many reasoning-based models can op
 
 ## **Current State and Trends**
 
-AI reasoning is moving rapidly from research labs into real-world adoption. Enterprises now deploy these models across customer service, healthcare, finance, manufacturing, and robotics, spurred by advances in natural language processing and deep learning. [^d5moau] [^9loyzi] [^t6nrzj] Key industry players—including NVIDIA, IBM, and emerging startups—are racing to make AI reasoning more interpretable and scalable, often integrating reinforcement learning and multimodal analysis for more powerful agents. [^9loyzi] [^d5moau] Recent innovations such as DeepSeek and context-aware LLMs show the shift toward models that require fewer resources while maintaining robust reasoning abilities. [^omnt01] Across sectors, there is a notable emphasis on building more transparent, auditable systems to address trust and compliance needs. [^d5moau]
+AI reasoning is moving rapidly from research labs into real-world adoption. Enterprises now deploy these models across customer service, healthcare, finance, manufacturing, and robotics, spurred by advances in natural language processing and deep learning. [^d5moau] [^9loyzi] [^t6nrzj] Key industry players—including NVIDIA, IBM, and emerging startups—are racing to make AI reasoning more interpretable and scalable, often integrating [[concepts/Explainers for AI/Reinforcement Learning|Reinforcement Learning]] and multimodal analysis for more powerful agents. [^9loyzi] [^d5moau] Recent innovations such as [[Tooling/AI-Toolkit/Model Producers/DeepSeek|DeepSeek]] and context-aware LLMs show the shift toward models that require fewer resources while maintaining robust reasoning abilities. [^omnt01] Across sectors, there is a notable emphasis on building more transparent, auditable systems to address trust and compliance needs. [^d5moau]
 
 
 
@@ -104,31 +70,31 @@ AI reasoning is moving rapidly from research labs into real-world adoption. Ente
 > 
 > ### **Response from sonar-pro**:
 
-Below is a structured comparison of the most **well-known and innovative reasoning-based AI models** in 2025, including their creators, release timing, unique differentiators, openness, and, where available, links to their GitHub and Hugging Face profiles.
+Below is a structured comparison of the most **well-known and innovative [[concepts/Explainers for AI/AI Reasoning|Reasoning-based-Models]]** in 2025, including their creators, release timing, unique differentiators, openness, and, where available, links to their [[Tooling/Software Development/Developer Experience/GitHub|GitHub]] and [[Tooling/AI-Toolkit/Hugging Face|Hugging Face]] profiles.
 
 | Model                 | Creator                                                      | Release Date | Differentiators                                                                                  | Open Source | GitHub/Hugging Face              |
 | --------------------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------ | ----------- | -------------------------------- |
-| **Gemini 2.5 Pro**    | Google DeepMind                                              | Early 2025   | Leading in **multimodal tasks** (text, image, video, audio); context window up to **1M tokens**. | No          | Not public                       |
+| **Gemini 2.5 Pro**    | Google [[organizations/DeepMind\|DeepMind]]                  | Early 2025   | Leading in **multimodal tasks** (text, image, video, audio); context window up to **1M tokens**. | No          | Not public                       |
 | **Claude 4 Opus**     | [[Tooling/AI-Toolkit/Model Producers/Anthropic\|Anthropic]]  | Q2 2025      | Excels at **nuanced, step-by-step reasoning** and creative generation; top in coding benchmarks. | No          | Not public                       |
 | **GPT-4.5** / **O3**  | [[Tooling/AI-Toolkit/Model Producers/OpenAI\|OpenAI]]        | Early 2025   | Strong at **structured logical reasoning**; robust general-purpose model; improved tool use.     | No          | Not public                       |
-| **Grok 3**            | xAI (Elon Musk)                                              | 2025         | **Real-time knowledge** (access to X's feed); personality; strong at logic/math problems.        | Partial*    | Not public (partial open tools)  |
-| **Llama 4 ("Scout")** | Meta AI                                                      | 2025         | **Fully open source**; up to **10M token context**, strong customization, best for self-hosting. | Yes         | [GitHub][^qlu2by], [HF][^qlu2by] |
-| **DeepSeek-R1**       | [[Tooling/AI-Toolkit/Model Producers/DeepSeek\|DeepSeek]] AI | Q2 2025      | **Open source**; high performance in **math/logic**; cost-effective for research/developers.     | Yes         | [GitHub][^qlu2by], [HF][^qlu2by] |
+| **Grok 3**            | [[xAI]] (Elon Musk)                                          | 2025         | **Real-time knowledge** (access to X's feed); personality; strong at logic/math problems.        | Partial*    | Not public (partial open tools)  |
+| **Llama 4 ("Scout")** | [[organizations/Meta\|Meta]] AI                              | 2025         | **Fully open source**; up to **10M token context**, strong customization, best for self-hosting. | Yes         | , [GitHub] [^qlu2by] [HF] [^qlu2by] |
+| **DeepSeek-R1**       | [[Tooling/AI-Toolkit/Model Producers/DeepSeek\|DeepSeek]] AI | Q2 2025      | **Open source**; high performance in **math/logic**; cost-effective for research/developers.     | Yes         | , [GitHub] [^qlu2by] [HF] [^qlu2by] |
 
 ### Details on Differentiators
 
-- **Gemini 2.5 Pro**: Stands out in **multimodal integration** (processing/understanding text, image, code, and sometimes audio), plus extremely **long context** capability for large documents or video[^kjs9ve][^z6c0eh].
-- **Claude 4 Opus**: Renowned for **instruction-following**, detailed stepwise reasoning, excelled at code, and **"most nuanced creative responses"**[^kjs9ve][^z6c0eh].
-- **GPT-4.5/O3**: Fast, reliable, very strong **general-purpose reasoning**; highly structured outputs with new tools integration[^kjs9ve][^z6c0eh].
-- **Grok 3**: Focuses on **real-time information** (via the X platform's data firehose), "with personality," and strong logic/math[^kjs9ve][^z6c0eh].
-- **Llama 4**: *Most advanced open-source* LLM; supports context windows of up to **10 million tokens** (ideal for book/codebase summarization)[^qlu2by]. Fully open-licensed and [[Vocabulary/Self-Hosting|Self-Hosting]]hostable.
-- **DeepSeek-R1**: *Best open-source for reasoning-heavy tasks/logic/math*, efficient and very cost-effective, ideal for budget researchers/developers[^z6c0eh][^qlu2by].
+- **[[Tooling/AI-Toolkit/Models/Gemini|Gemini]] 2.5 Pro**: Stands out in **multimodal integration** (processing/understanding text, image, code, and sometimes audio), plus extremely **long context** capability for large documents or video. [^kjs9ve] [^z6c0eh]
+- **[[Tooling/AI-Toolkit/Models/Claude|Claude]] 4 Opus**: Renowned for **instruction-following**, detailed stepwise reasoning, excelled at code, and **"most nuanced creative responses"**. [^kjs9ve] [^z6c0eh]
+- **GPT-4.5/O3**: Fast, reliable, very strong **general-purpose reasoning**; highly structured outputs with new tools integration. [^kjs9ve] [^z6c0eh]
+- **[[Tooling/AI-Toolkit/Models/Grok|Grok]] 3**: Focuses on **real-time information** (via the X platform's data firehose), "with personality," and strong logic/math. [^kjs9ve] [^z6c0eh]
+- **[[Tooling/AI-Toolkit/Models/LLaMA|LLaMA]] 4**: *Most advanced open-source* LLM; supports context windows of up to **10 million tokens** (ideal for book/codebase summarization). [^qlu2by] Fully open-licensed and [[Vocabulary/Self-Hosting|Self-Hosting]].
+- **DeepSeek-R1**: *Best open-source for reasoning-heavy tasks/logic/math*, efficient and very cost-effective, ideal for budget researchers/developers. [^z6c0eh] [^qlu2by]
 
 ### Open Source Status
 
-- **Open-source models**: **Llama 4** and **DeepSeek-R1** are freely available, with major communities on GitHub and Hugging Face[^qlu2by].
+- **Open-source models**: **Llama 4** and **DeepSeek-R1** are freely available, with major communities on GitHub and Hugging Face. [^qlu2by]
 - **Partially open**: Grok has some open tooling, but the full model weights are not public.
-- **Closed source**: Gemini, Claude, and GPT (latest) are not open-sourced as of July 2025[^kjs9ve][^z6c0eh][^qlu2by].
+- **Closed source**: Gemini, Claude, and GPT (latest) are not open-sourced as of July 2025. [^kjs9ve] [^z6c0eh] [^qlu2by]
 
 ### Links to GitHub/Hugging Face
 
@@ -147,13 +113,13 @@ For open-source models, here are the typical locations:
 ### Important Limitations and Notes
 
 - Not all foundational AI models are **fully open**—the largest advances from the top proprietary labs are closed.
-- The *public* open-source models (Llama 4, DeepSeek-R1) now support context and reasoning capabilities that approach commercial proprietary models, but may lag on specific creative or real-time tasks[^qlu2by].
-- For **reasoning benchmarks** (math, logic, code), Claude and Gemini lead proprietary models; DeepSeek and Llama are preferred for open-source/academic use[^z6c0eh][^qlu2by].
+- The *public* open-source models (Llama 4, DeepSeek-R1) now support context and reasoning capabilities that approach commercial proprietary models, but may lag on specific creative or real-time tasks. [^qlu2by]
+- For **reasoning benchmarks** (math, logic, code), Claude and Gemini lead proprietary models; DeepSeek and Llama are preferred for open-source/academic use. [^z6c0eh] [^qlu2by]
 - Links for **Gemini**, **Claude**, **GPT-4.5**, and **Grok** are not available as these models' weights and code are not publicly released.
 
-If you need models for experimentation or research, **Llama 4** and **DeepSeek-R1** are the primary open-source options in 2025[^qlu2by][^z6c0eh]. For production applications needing top-tier reasoning, closed-source models often lead—though at a higher cost and with less customization[^kjs9ve][^z6c0eh].
+If you need models for experimentation or research, **Llama 4** and **DeepSeek-R1** are the primary open-source options in 2025. [^qlu2by] [^z6c0eh] For production applications needing top-tier reasoning, closed-source models often lead—though at a higher cost and with less customization. [^kjs9ve] [^z6c0eh]
 
-[^kjs9ve]js9ve]: [^z6c0eh][^qlu2by] (Open-source links taken from standard organization profile pages confirmed for latest models as of July 2025.)
+(Open-source links taken from standard organization profile pages confirmed for latest models as of July 2025.) [^kjs9ve] [^z6c0eh] [^qlu2by] 
 
 ## **Future Outlook**
 
@@ -165,21 +131,19 @@ AI reasoning and reasoning-based models are redefining the boundaries of machine
 
 https://youtu.be/7Dr8rUV723M?si=HUEv4cJewXHBwPNZ
 
+## Sources
 
+[^9loyzi]: https://www.nvidia.com/en-us/glossary/ai-reasoning/
+[^omnt01]: https://aisera.com/blog/ai-reasoning/
+[^d5moau]: https://www.ibm.com/think/topics/ai-reasoning
+[^t6nrzj]: https://lumenalta.com/insights/what-is-ai-reasoning-in-2025
+[^n8vpr4]: https://www.denodo.com/en/glossary/reasoning-model-definition-types-applications
 
 ## Sources
 
-[^9loyzi] https://www.nvidia.com/en-us/glossary/ai-reasoning/
-[^omnt01] https://aisera.com/blog/ai-reasoning/
-[^d5moau] https://www.ibm.com/think/topics/ai-reasoning
-[^t6nrzj] https://lumenalta.com/insights/what-is-ai-reasoning-in-2025
-[^n8vpr4] https://www.denodo.com/en/glossary/reasoning-model-definition-types-applications
-
-## Sources
-
-[^kjs9ve] https://www.labellerr.com/blog/compare-reasoning-models/
-[^z6c0eh] https://collabnix.com/comparing-top-ai-models-in-2025-claude-grok-gpt-llama-gemini-and-deepseek-the-ultimate-guide/
-[^qlu2by] https://blog.typingmind.com/which-ai-model-to-use/
-[^ozm75y] https://www.jdsupra.com/legalnews/breaking-new-ground-evaluating-the-top-4887602/
-[^pxgyo6] https://artificialanalysis.ai/models
+[^kjs9ve]: https://www.labellerr.com/blog/compare-reasoning-models/
+[^z6c0eh]: https://collabnix.com/comparing-top-ai-models-in-2025-claude-grok-gpt-llama-gemini-and-deepseek-the-ultimate-guide/
+[^qlu2by]: https://blog.typingmind.com/which-ai-model-to-use/
+[^ozm75y]: https://www.jdsupra.com/legalnews/breaking-new-ground-evaluating-the-top-4887602/
+[^pxgyo6]: https://artificialanalysis.ai/models
 
