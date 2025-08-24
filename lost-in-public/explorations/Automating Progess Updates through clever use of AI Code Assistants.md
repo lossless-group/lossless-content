@@ -1,14 +1,22 @@
 ---
 date_created: 2025-03-20
-date_modified: 2025-07-22
+date_modified: 2025-08-24
 status: To-Do
 authors:
   - Michael Staton
 site_uuid: a435fac0-54e1-48b9-8e86-36253b845a10
-title: "Automating Progess Updates Through Clever Use Of AI Code Assistants"
+title: Automating Progess Updates Through Clever Use Of AI Code Assistants
 slug: automating-progess-updates-through-clever-use-of-ai-code-assistants
 at_semantic_version: 0.0.0.1
+image_prompt: On the left a startup office with hackers at a whiteboard. Robots representing AI are at a table in the middle, observing and using morse code tappers.  One of them is filming on camera.  They are sending signals and data to the right.
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Automating_Progess_Updates_through_clever_use_of_AI_Code_Assistants_banner_image_1755994793779_7mUBO-Pc2.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Automating_Progess_Updates_through_clever_use_of_AI_Code_Assistants_portrait_image_1755994795759_AtepwiD-W.webp
+square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Automating_Progess_Updates_through_clever_use_of_AI_Code_Assistants_square_image_1755994797819_l3aV47elS.webp
+tags:
+  - Code-Generators
 ---
+
+
 
 ```json
 {

@@ -7,10 +7,12 @@ date_first_published: 2025-08-09
 date_last_updated: 2025-08-09
 at_semantic_version: 2.0.0.0
 status: Complete
-category: Technical-Specification
+category: Project-Setup
 tags: [Astro, Content-Collections, Routing, Slug-Generation, Projects, JSONCanvas, Client-Routing]
 authors:
-  - Michael Staton
+  - Tanuj
+date_created: 2025-08-09
+date_modified: 2025-08-23
 ---
 
 # Complete Project Routing Fix Implementation

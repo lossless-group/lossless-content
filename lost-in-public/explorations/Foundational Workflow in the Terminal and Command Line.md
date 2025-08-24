@@ -1,12 +1,19 @@
 ---
 date_created: 2025-03-19
-date_modified: 2025-07-22
+date_modified: 2025-08-24
 site_uuid: c757697f-94f6-4a54-ba63-092af3a2552e
 publish: true
-title: "Foundational Workflow In The Terminal And Command Line"
+title: Foundational Workflow In The Terminal And Command Line
 slug: foundational-workflow-in-the-terminal-and-command-line
 at_semantic_version: 0.0.0.1
+image_prompt: A big monitor displays several terminal windows open doing nerdy stuff.
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Foundational_Workflow_in_the_Terminal_and_Command_Line_banner_image_1755995073622_9_bgEXkYb-.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Foundational_Workflow_in_the_Terminal_and_Command_Line_portrait_image_1755995075390_1YlqUP5J7.webp
+square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Foundational_Workflow_in_the_Terminal_and_Command_Line_square_image_1755995077189_GM47Lqdue.webp
+tags: [Terminal-Emulators, Command-Line]
 ---
+
+
 
   
 
