@@ -1,8 +1,8 @@
 ---
 selectedClients: ["laerdal"]
-subject: Hello Hypernova!
+subject: Hello Everyone!
 subscribedOnly: false
-campaignId: 596f3ce0-5425-49cc-81cb-15ba66664b7f
+campaignId: fb27a69c-e5c1-42f2-8e88-671c468cc2de
 ---
 
 IM ADDING A BACKLINK HERE [[vocabulary/AI Hallucinations|AI Hallucinations]]
