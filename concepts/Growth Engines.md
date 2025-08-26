@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-23
-date_modified: 2025-08-23
+date_modified: 2025-08-26
 site_uuid: 58a6e905-8413-4a2d-aa7c-378f1dfa1aae
 publish: true
 title: Growth Engines
@@ -90,14 +90,14 @@ Modern users interact across multiple touchpoints, requiring growth teams to **o
 
 Growth teams face the critical challenge of **defining success metrics** that align with long-term business objectives while providing actionable insights for optimization efforts. This involves:
 
-- **Metric hierarchy**: Establishing primary, secondary, and tertiary metrics
+- **[[Metric Hierarchy]]**: Establishing primary, secondary, and tertiary metrics
 - **Leading vs. lagging indicators**: Balancing predictive metrics with outcome measures
 - **Cohort definitions**: Segmenting users for more precise analysis
 - **Statistical significance**: Ensuring adequate sample sizes for reliable conclusions. [^m4xwfl] [^zt5ahw] [^k3lgdk]
 
 **AARRR Framework Implementation**
 
-The traditional AARRR (Acquisition, Activation, Retention, Revenue, Referral) funnel requires careful adaptation to specific business models:
+The traditional [[AARRR]] (Acquisition, Activation, Retention, Revenue, Referral) funnel requires careful adaptation to specific business models:
 
 - **Acquisition metrics**: CAC, organic vs. paid ratios, channel effectiveness
 - **Activation definitions**: Time-to-value, feature adoption, "aha moment" identification  
@@ -113,7 +113,7 @@ Growth teams frequently encounter **systematic problems** that impede their effe
 
 **Moving Too Slowly**: The most common failure mode involves over-engineering solutions when rapid iteration is required. Teams must balance **technical debt management** with **experimental velocity**, often dedicating 10-20% of engineering time to infrastructure improvements while maintaining rapid testing cycles.
 
-**Prioritization Paralysis**: With unlimited potential experiments, teams struggle to focus on **high-impact opportunities**. This requires sophisticated **ICE scoring** (Impact, Confidence, Ease) frameworks and ruthless prioritization discipline.
+**Prioritization Paralysis**: With unlimited potential experiments, teams struggle to focus on **high-impact opportunities**. This requires sophisticated **[[ICE Scoring]]** (Impact, Confidence, Ease) frameworks and ruthless prioritization discipline.
 
 **Idea Generation Fatigue**: Successful growth teams eventually exhaust obvious optimization opportunities, requiring **systematic approaches** to idea generation including user research, competitive analysis, and cross-industry inspiration. [^s6tygq] [^jp2n2y]
 
@@ -187,7 +187,7 @@ Analysis of growth team evolution across leading companies reveals common patter
 
 Growth teams face new challenges as the discipline matures:
 
-**Privacy Regulation Compliance**: GDPR, CCPA, and emerging regulations require **privacy-first growth strategies** and **consent management systems**.
+**Privacy Regulation Compliance**: [[projects/Emergent-Innovation/Policy-&-Regulation/General Data Protection Regulation||GDPR]], [[CCPA]], and emerging regulations require **privacy-first growth strategies** and **consent management systems**.
 
 **AI and Machine Learning Integration**: Incorporating **predictive analytics**, **automated optimization**, and **personalization at scale** while maintaining experimental control.
 

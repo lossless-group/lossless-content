@@ -118,7 +118,7 @@ Other API-related topics
 > 
 > 1. **[[OWASP API]] Security Top 10**: Highlights critical API security risks and offers mitigation strategies.
 > 2. **[[ISO/IEC 27001]]**: A broader standard that includes risk management practices applicable to API security.
-> 3. **[[projects/Emergent-Innovation/Policy-&-Regulation/(GDPR) General Data Protection Regulation]]**: Impacts APIs that handle personal data of EU citizens, requiring secure data processing and compliance with privacy regulations.
+> 3. **[[projects/Emergent-Innovation/Policy-&-Regulation/General Data Protection Regulation]]**: Impacts APIs that handle personal data of EU citizens, requiring secure data processing and compliance with privacy regulations.
 > 
 > ---
 > 

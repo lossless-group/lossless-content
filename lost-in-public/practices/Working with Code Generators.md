@@ -3,8 +3,12 @@ tags:
   - Code-Generators
   - Best-Practices
 date_created: 2025-03-23
-date_modified: 2025-03-24
+date_modified: 2025-08-26
 ---
+
+![](https://i.imgur.com/tosxJol.png)
+
+https://youtu.be/tbDDYKRFjhk?si=-JAkcKLi35tMgF1_
 
 > [!CopyPasta] Copypasta from [Windsurf best practices](https://www.reddit.com/r/Codeium/comments/1h2psgy/windsurf_best_practices/) 
 > ---- START INIT TEMPLATE ----
@@ -62,3 +66,4 @@ date_modified: 2025-03-24
 > ---- END INIT TEMPLATE ----
 > 
 > I hope this is helpful!
+> 

@@ -16,4 +16,4 @@ tags: [Software-Development, Lego-Kit-Engineering-Tools, Compliance-Tools, Compl
 laerdal_rec: true
 ---
 
-[[projects/Emergent-Innovation/Policy-&-Regulation/(GDPR) General Data Protection Regulation|(GDPR) General Data Protection Regulation]]
+[[projects/Emergent-Innovation/Policy-&-Regulation/General Data Protection Regulation|General Data Protection Regulation]]

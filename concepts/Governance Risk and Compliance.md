@@ -122,7 +122,7 @@ GRC related technology applications are transforming how organizations manage ri
 - **Internal Policies:** Codes of conduct, conflict of interest policies, delegation of authority, data governance rules, business continuity standards.
 - **External Regulations:** Vary by sector and region, common examples include:
   - **[[Sarbanes-Oxley Act]] (SOX)** – corporate accountability (US public companies)
-  - **[[projects/Emergent-Innovation/Policy-&-Regulation/(GDPR) General Data Protection Regulation|(GDPR) General Data Protection Regulation]]** – data protection (EU)
+  - **[[projects/Emergent-Innovation/Policy-&-Regulation/General Data Protection Regulation|General Data Protection Regulation]]** – data protection (EU)
   - **[[COSO Framework]]** – widely adopted internal control standards
   - **[[NIST Cybersecurity Framework]]** – information security controls
   - **[[organizations/ISO|ISO]] 37000:2021 Governance of organizations** – international governance guidance

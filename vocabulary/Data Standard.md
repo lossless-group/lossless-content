@@ -18,7 +18,7 @@ aliases:
 > Organizations create data standards to:
 > - Ensure **interoperability** between systems and platforms[4][11].
 > - Facilitate **data sharing** and reuse across industries[6].
-> - Maintain **data quality** and consistency for analytics and compliance with regulations like [[projects/Emergent-Innovation/Policy-&-Regulation/(GDPR) General Data Protection Regulation]] or HIPAA[9].
+> - Maintain **data quality** and consistency for analytics and compliance with regulations like [[projects/Emergent-Innovation/Policy-&-Regulation/General Data Protection Regulation]] or HIPAA[9].
 > - Reduce inefficiencies in data integration and processing[2].
 > 
 > ### **How Are Data Standards Maintained?**

@@ -1,9 +1,9 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2025-08-26
 site_uuid: b9d6b5fc-7772-41ed-8570-08cc67f6c408
 date_created: 2025-04-06
-aliases:
-  - Data Wrangling
+aliases: [Data Wrangling]
+augmented_with: Poe AI
 ---
 
 [[Wrangling]] is a loosely defined but often used term in technology circles, used in circumstances in which efforts on the actual value creation, focus on the goal,  requires a rabbit hole of unglamorous, painstaking pre-work. If there is a project that should take a week, it may turn out there are three weeks worth of efforts just to unblock or prepare for the actual project.  This is inspired by [[#Data Wrangling]]. 
