@@ -27,14 +27,7 @@ graph TD
     J -->|Yes| K[Update Prompt & Specification]
     K --> L[Next Step]
     
-    %% Styling
-    classDef decision fill:#f9f,stroke:#333,stroke-width:2px
-    classDef process fill:#bbf,stroke:#333,stroke-width:2px
-    classDef role fill:#bfb,stroke:#333,stroke-width:2px
-    
-    class F,J decision
-    class A,B,C,D,E,H,I,K,L process
-    class G role
+
 ```
 
 This Mermaid diagram represents a workflow that starts with a specification. It then breaks down into steps, each of which is prompted and planned for verification. Depending on whether a role change is necessary, the process may either execute the step directly or gather more information. After execution, the step is validated and tested. If successful, the specification is updated based on this implementation. If not, the process goes back to identify issues and rectify them.
