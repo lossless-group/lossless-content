@@ -106,14 +106,14 @@ An important guiding idea leading to the industry practice of creating [[Design 
 >     - Integration with design tools like Sketch and Figma.
 > - **Value for Atomic Design:** Focused on managing and scaling design systems, InVision DSM is designed to support methodologies like Atomic Design.
 > 
-> #### **5. [[Storybook]]**
+> #### **5. [[Tooling/Software Development/Developer Experience/DevOps/Documentation Engines/Storybook]]**
 > 
 > - **Features:**
 >     - A development environment for building, documenting, and testing UI components.
 >     - Supports React, Vue, Angular, and other frameworks.
 > - **Value for Atomic Design:** While not a design tool, Storybook is invaluable for implementing and testing Atomic Design principles in development.
 > 
-> #### **6. [[ZeroHeight]]**
+> #### **6. [[Tooling/Software Development/Developer Experience/DevOps/Documentation Engines/ZeroHeight]]**
 > 
 > - **Features:**
 >     - A platform for creating and maintaining design systems.

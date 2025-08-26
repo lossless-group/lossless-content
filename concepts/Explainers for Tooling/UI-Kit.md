@@ -1,5 +1,5 @@
 ---
-date_modified: 2025-08-17
+date_modified: 2025-08-25
 site_uuid: aa9ed531-8973-4865-becd-1444df493a4a
 date_created: 2025-04-06
 aliases: [Component Library]
@@ -14,6 +14,7 @@ augmented_with: Perplexity AI
 
 A mainstay of [[Component-Based Software Architecture]].
 [[Tooling/Software Development/Lego-Kit Engineering Tools/shadcn|shadcn]]
+[[Tooling/Software Development/Lego-Kit Engineering Tools/Build at Lightspeed]]
 
 ***
 > [!info] **Perplexity Query** (2025-08-17T21:21:42.159Z)

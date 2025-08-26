@@ -39,7 +39,7 @@ While there are no standard tools that automatically generate Data Flow Diagrams
 
 1. **Database Reverse Engineering Tools**: These tools can generate ER (Entity-Relationship) diagrams from your database schema. While not DFDs per se, these can give you a starting point for creating your DFDs. Examples include MySQL Workbench, pgAdmin (for PostgreSQL), and Oracle SQL Developer Data Modeler.
 
-2. **[[Vocabulary/Automated Code Analysis|Automated Code Analysis]] Tools**: Some tools can analyze application code to infer data flows, though they may not produce diagrams directly. Examples include [[Cast AIP]] (Application Understanding) and [[SonarQube]].
+2. **[[Vocabulary/Automated Code Analysis|Automated Code Analysis]] Tools**: Some tools can analyze application code to infer data flows, though they may not produce diagrams directly. Examples include [[Tooling/Software Development/Developer Experience/DevOps/Cast AIP]] (Application Understanding) and [[Tooling/Software Development/Developer Experience/DevOps/SonarQube]].
 
 3. **Custom Scripts/Programs**: For those with programming skills, custom scripts or programs can be written to parse database schemas or even application logs to generate basic DFDs. Libraries like `django-dataflow` for Python can assist in this process. 
 

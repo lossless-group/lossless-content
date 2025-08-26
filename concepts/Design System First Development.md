@@ -148,7 +148,7 @@ Successful design system implementation requires dedicated, cross-functional tea
 Modern design system success depends on integrated toolchains:
 - **Design tools**: Figma, Sketch with component libraries and auto-layout
 - **Development frameworks**: [[Tooling/Software Development/Frameworks/Web Frameworks/React|React]], [[Tooling/Software Development/Frameworks/Web Frameworks/Vue.js|Vue.js]], [[Tooling/Software Development/Frameworks/Web Frameworks/Angular|Angular]] with component abstraction
-- **Documentation platforms**: [[Storybook]], [[ZeroHeight]] for living documentation
+- **Documentation platforms**: [[Tooling/Software Development/Developer Experience/DevOps/Documentation Engines/Storybook]], [[Tooling/Software Development/Developer Experience/DevOps/Documentation Engines/ZeroHeight]] for living documentation
 - **Version control**: Git-based workflows for design and code synchronization
 
 ### Governance and Evolution
