@@ -9,7 +9,7 @@ at_semantic_version: 0.0.0.1
 ---
 [[Vocabulary/All-in-One Platforms|All-in-One Platforms]]
 
-Revenue Orchestration (RO) is a relatively new concept in the business software landscape, primarily used in the [[Subscription Economy]] - industries where businesses sell and deliver services or products on a recurring basis. It's a comprehensive approach that manages the entire revenue lifecycle, from quoting and billing to collections, revenue recognition, and financial close processes.
+Revenue Orchestration (RO) is a relatively new concept in the business software landscape, primarily used in the [[Vocabulary/Subscription Economy]] - industries where businesses sell and deliver services or products on a recurring basis. It's a comprehensive approach that manages the entire revenue lifecycle, from quoting and billing to collections, revenue recognition, and financial close processes.
 
 Here are some key aspects of Revenue Orchestration:
 

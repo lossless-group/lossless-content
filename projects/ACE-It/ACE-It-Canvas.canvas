@@ -1,25 +1,32 @@
 {
 	"nodes":[
-		{"id":"3a070f3a7ee85715","x":1191,"y":480,"width":1431,"height":974,"type":"group","label":"Helpful Context"},
-		{"id":"951a1d56953951a6","type":"group","x":680,"y":-800,"width":1021,"height":1000,"label":"Context Engineering Kit"},
-		{"id":"21a4ffb33dba2946","type":"group","x":-440,"y":480,"width":1447,"height":600,"label":"Safety"},
-		{"id":"a668775a0a578d90","type":"group","x":-440,"y":-800,"width":885,"height":972,"label":"Philosophy"},
+		{"id":"951a1d56953951a6","type":"group","x":680,"y":-1200,"width":1951,"height":1440,"label":"Context Engineering Kit"},
+		{"id":"3a070f3a7ee85715","type":"group","x":1220,"y":480,"width":1431,"height":974,"label":"Helpful Context"},
+		{"id":"a668775a0a578d90","type":"group","x":-520,"y":-880,"width":1017,"height":1120,"label":"Philosophy"},
+		{"id":"21a4ffb33dba2946","type":"group","x":-440,"y":480,"width":1480,"height":600,"label":"Safety"},
 		{"id":"7b5914341197b117","type":"file","file":"projects/ACE-It/Philosophy/Our-Approach.md","x":-420,"y":-780,"width":400,"height":400},
 		{"id":"785c15874b2f0fd5","type":"file","file":"projects/ACE-It/Philosophy/Best-Practices.md","x":-420,"y":-248,"width":400,"height":400},
 		{"id":"3c9d77139992e644","type":"file","file":"projects/ACE-It/Philosophy/Context-Vigilance.md","x":25,"y":-780,"width":400,"height":400},
 		{"id":"7f4ba3ffc689c9e1","type":"file","file":"projects/ACE-It/Philosophy/Iterative-Approach.md","x":25,"y":-248,"width":400,"height":400},
-		{"id":"8b05788a8722d851","type":"file","file":"projects/ACE-It/Docs-Kit/Living Specifications.md","x":700,"y":-780,"width":400,"height":400},
-		{"id":"e87b21decac3fefc","type":"file","file":"projects/ACE-It/Docs-Kit/Blueprints.md","x":700,"y":-220,"width":400,"height":400},
-		{"id":"792a197e5279a757","type":"file","file":"projects/ACE-It/Docs-Kit/Prompts.md","x":1281,"y":-780,"width":400,"height":400},
-		{"id":"9dc05d6234b9648d","type":"file","file":"projects/ACE-It/Docs-Kit/Reminders.md","x":1281,"y":-220,"width":400,"height":400},
-		{"id":"e134af7c12f8dc82","type":"file","file":"projects/ACE-It/Models/Tokens.md","x":1211,"y":505,"width":400,"height":400},
-		{"id":"894769dbd4b0615e","x":1211,"y":1034,"width":400,"height":400,"type":"file","file":"projects/ACE-It/Models/Thinking-Models.md"},
-		{"id":"75d7d2fc78dea168","type":"file","file":"projects/ACE-It/Models/Function-Calling.md","x":1682,"y":500,"width":400,"height":400},
-		{"id":"4c886bfc666ab544","type":"text","text":"","x":2034,"y":840,"width":250,"height":60},
-		{"id":"41f908eae960747a","type":"file","file":"projects/ACE-It/Models/Modalities.md","x":2202,"y":500,"width":400,"height":400},
 		{"id":"58012a6ffd83b66b","type":"file","file":"projects/ACE-It/Safety/Security-Foundations.md","x":-375,"y":591,"width":400,"height":400},
 		{"id":"be925e16c820f799","type":"file","file":"projects/ACE-It/Safety/TDD.md","x":97,"y":591,"width":400,"height":400},
-		{"id":"8207b83ad26d9061","type":"file","file":"projects/ACE-It/Safety/Audits.md","x":577,"y":591,"width":400,"height":400}
+		{"id":"8207b83ad26d9061","type":"file","file":"projects/ACE-It/Safety/Audits.md","x":577,"y":591,"width":400,"height":400},
+		{"id":"75d7d2fc78dea168","type":"file","file":"projects/ACE-It/Models/Function-Calling.md","x":1711,"y":500,"width":400,"height":400},
+		{"id":"e134af7c12f8dc82","type":"file","file":"projects/ACE-It/Models/Tokens.md","x":1240,"y":505,"width":400,"height":400},
+		{"id":"4c886bfc666ab544","type":"text","text":"","x":2063,"y":840,"width":250,"height":60},
+		{"id":"894769dbd4b0615e","type":"file","file":"projects/ACE-It/Models/Thinking-Models.md","x":1240,"y":1034,"width":400,"height":400},
+		{"id":"41f908eae960747a","type":"file","file":"projects/ACE-It/Models/Modalities.md","x":2231,"y":500,"width":400,"height":400},
+		{"id":"8b05788a8722d851","type":"file","file":"projects/ACE-It/Docs-Kit/Living-Specifications.md","x":777,"y":-1046,"width":503,"height":1198},
+		{"id":"792a197e5279a757","type":"file","file":"projects/ACE-It/Docs-Kit/Prompts.md","x":1972,"y":-1046,"width":518,"height":1198},
+		{"id":"9dc05d6234b9648d","type":"file","file":"projects/ACE-It/Docs-Kit/Reminders.md","x":1440,"y":-1120,"width":400,"height":400},
+		{"id":"e87b21decac3fefc","type":"file","file":"projects/ACE-It/Docs-Kit/Blueprints.md","x":1440,"y":-248,"width":400,"height":400}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"44321d60cab6fad0","fromNode":"a668775a0a578d90","fromSide":"right","toNode":"951a1d56953951a6","toSide":"left"},
+		{"id":"85e2fed42d66d429","fromNode":"8b05788a8722d851","fromSide":"right","toNode":"9dc05d6234b9648d","toSide":"left"},
+		{"id":"2d50fb6e7aa3063b","fromNode":"e87b21decac3fefc","fromSide":"right","toNode":"792a197e5279a757","toSide":"left"},
+		{"id":"9870b1917d4ed477","fromNode":"8b05788a8722d851","fromSide":"right","toNode":"792a197e5279a757","toSide":"left"},
+		{"id":"ff7a9e1011d2a30e","fromNode":"9dc05d6234b9648d","fromSide":"right","toNode":"792a197e5279a757","toSide":"left"},
+		{"id":"40f6929793c0af81","fromNode":"8b05788a8722d851","fromSide":"right","toNode":"e87b21decac3fefc","toSide":"left"}
+	]
 }

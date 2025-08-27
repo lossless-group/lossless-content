@@ -1,9 +1,7 @@
 ---
-tags:
-  - Code-Generators
-  - Best-Practices
+tags: [Code-Generators, Best-Practices]
 date_created: 2025-03-23
-date_modified: 2025-08-26
+date_modified: 2025-08-27
 ---
 
 ![](https://i.imgur.com/tosxJol.png)

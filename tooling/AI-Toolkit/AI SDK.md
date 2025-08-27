@@ -15,4 +15,4 @@ og_favicon: https://ai-sdk.dev/favicon.ico
 og_last_fetch: 2025-08-25T12:25:31.274Z
 product_of: "[[Tooling/Software Development/Cloud Infrastructure/Vercel|Vercel]]"
 ---
-[[LLM Gateways]]
+[[concepts/Explainers for AI/LLM Gateways]]

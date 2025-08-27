@@ -60,7 +60,7 @@ augmented_with: Poe AI
 6. **Slowing Innovation Due to Bureaucracy**
   
      - The process of defining and updating standards can be slow, creating delays in markets with rapid technological advancements.
-     - **Example (Current):** The pace of updating standards for **[[Autonomous Vehicles]]** and [[AI Safety]] regulations has lagged behind technological advancements, slowing deployment at scale.
+     - **Example (Current):** The pace of updating standards for **[[Autonomous Vehicles]]** and [[concepts/Explainers for AI/AI Safety]] regulations has lagged behind technological advancements, slowing deployment at scale.
 
 7. **Creating Barriers to Entry**
   

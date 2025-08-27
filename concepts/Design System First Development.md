@@ -29,7 +29,7 @@ A **design system** encompasses far more than a collection of UI components. It 
 
 ### The Component-Driven Methodology
 
-**[[Component-Driven Development]] (CDD)** forms the technical foundation of this approach. Teams build applications by creating modular, independent components first, then composing them into larger interfaces. [^c4nizq] [^60apq6] This methodology provides several key advantages:
+**[[concepts/Component-Driven Development]] (CDD)** forms the technical foundation of this approach. Teams build applications by creating modular, independent components first, then composing them into larger interfaces. [^c4nizq] [^60apq6] This methodology provides several key advantages:
 
 - **Faster development**: Teams can build with narrowly-focused APIs and reusable building blocks
 - **Simpler maintenance**: Updates to components propagate across all implementations
