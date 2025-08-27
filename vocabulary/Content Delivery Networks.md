@@ -1,7 +1,12 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2025-08-27
 site_uuid: 5f963e53-792b-48fc-9f4b-7cb5db8ecd36
 date_created: 2025-04-06
+aliases: [Content Delivery Network, CDN, CDNs]
+publish: true
+title: "Content Delivery Networks"
+slug: content-delivery-networks
+at_semantic_version: 0.0.0.1
 ---
 
 [[Cloudflare]]
