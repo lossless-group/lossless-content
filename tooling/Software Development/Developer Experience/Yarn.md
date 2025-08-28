@@ -1,6 +1,6 @@
 ---
 date_created: 2025-04-25
-date_modified: 2025-08-23
+date_modified: 2025-08-28
 url: https://yarnpkg.com/
 zinger: Safe, stable, reproducible projects
 description_site_cp: Yarn is a package manager that doubles down as project manager. Whether you work on simple projects or industry monorepos, whether you're an open source developer or an enterprise user, Yarn has your back.
@@ -13,11 +13,12 @@ og_last_fetch: 2025-05-29T13:16:06.421Z
 site_uuid: 3a83aec7-aa38-449a-9973-b9a0d0535872
 tags: [Package-Managers, Developer-Experience, Monorepo-Management]
 maintained_by: "[[organizations/Facebook|Facebook]]"
+aliases: [Yet Another Resource Negotiator]
 ---
 
 [Yarn Workspaces](https://yarnpkg.com/features/workspaces)
 
-Yarn is a fast, reliable, and secure package manager developed by Facebook (now [[organizations/Meta|Meta]]) in 2016. It was created to improve upon the existing package manager for JavaScript, npm (Node Package Manager), addressing some of its known issues such as slow installation speeds due to caching and network requests.
+Yarn is a fast, reliable, and secure package manager developed by Facebook (now [[organizations/Meta|Meta]]) in 2016. It was created to improve upon the existing package manager for [[Tooling/Software Development/Programming Languages/JavaScript|JavaScript]], [[Tooling/Software Development/Developer Experience/DevTools/Node Package Manager|npm]] (Node Package Manager), addressing some of its known issues such as slow installation speeds due to caching and network requests.
 
 Key Features of Yarn:
 

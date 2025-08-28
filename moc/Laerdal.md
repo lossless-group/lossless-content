@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-09
-date_modified: 2025-08-23
+date_modified: 2025-08-28
 ---
 :::features
 - Reader
@@ -83,7 +83,8 @@ date_modified: 2025-08-23
 :::
 
 :::tool-showcase
-- [[Flowise]]
+- [[Tooling/AI-Toolkit/Agentic AI/Flowise|Flowise]]
+- [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Wordware]]
 - tag: [[AI Models]]
 :::
 

@@ -30,7 +30,7 @@ A [[concepts/Explainers for Tooling/Programming Languages|Programming Languages]
 
 5. **Multiple Dispatch:** Julia's multiple dispatch feature allows functions to be dispatched based on the types of all input arguments, including closures and dynamic languages. It provides a level of flexibility and expressiveness that Python and R lack.
 
-6. **[[Vocabulary/Parallel Computing|Parallel Computing]] and [[Distributed Computing]]:** Julia has built-in support for parallel and distributed computing, making it easier to write programs that can utilize multiple processors or even multiple machines. This is especially useful in data science where tasks often involve large datasets that need to be processed quickly.
+6. **[[Vocabulary/Parallel Computing|Parallel Computing]] and [[Vocabulary/Distributed Computing]]:** Julia has built-in support for parallel and distributed computing, making it easier to write programs that can utilize multiple processors or even multiple machines. This is especially useful in data science where tasks often involve large datasets that need to be processed quickly.
 
 7. **Integration with Other Languages:** Julia allows calling C functions without wrappers or special APIs, and provides Python and Fortran integration as well. This makes it easy to incorporate existing libraries written in these languages into your Julia code.
 

@@ -7,7 +7,7 @@ aliases: [Apache]
 ---
 1. Apache HTTP Server (httpd): A robust, commercial-grade, featureful, and mature web server used to serve web content across the Internet.
 
-2. Apache [[Hadoop]]: An open-source framework for distributed storage and processing of big data using the MapReduce programming model.
+2. Apache [[Tooling/Data Utilities/Hadoop]]: An open-source framework for distributed storage and processing of big data using the MapReduce programming model.
 
 3. Apache [[Spark]]: A fast and general engine for large-scale data processing, known for its speed and ease of use.
 
