@@ -3,18 +3,6 @@ date_modified: 2025-04-12
 site_uuid: 53988f5c-cfa4-4dd1-8a1b-63c6726c8a78
 date_created: 2025-04-06
 ---
-
-```mermaid
-graph TD
-    A[RecordCollector] --> B[PromptTemplateManager]
-    B --> C[RequestReviewer]
-    C --> D[AI Processing]
-    D --> E[ResponseReviewer]
-    E --> F[HighlightCollector]
-    F --> G[InsightAssembler]
-    G --> H[Final Output]
-```
-
 ***
 > [!info] **Perplexity Query** (2025-08-12T03:38:57.824Z)
 > **Question:**
@@ -93,13 +81,13 @@ In sum, 3D graphics transforms ideas into vivid, interactive realities that info
 
 ### Citations
 
-[1]: 2025, Aug 07. [What is 3D Animation? Types, Processes, and Key Techniques](https://www.garageproductions.in/what-is-3d-animation/). Published: 2025-08-08 | Updated: 2025-08-08
+[^d7dfnt] 2025, Aug 07. [What is 3D Animation? Types, Processes, and Key Techniques](https://www.garageproductions.in/what-is-3d-animation/). Published: 2025-08-08 | Updated: 2025-08-08
 
-[2]: 2025, Jul 30. [What is 3D Modeling and Why it is used? - GeeksforGeeks](https://www.geeksforgeeks.org/blogs/what-is-3d-modeling/). Published: 2025-07-23 | Updated: 2025-07-31
+[^v63nrm] 2025, Jul 30. [What is 3D Modeling and Why it is used? - GeeksforGeeks](https://www.geeksforgeeks.org/blogs/what-is-3d-modeling/). Published: 2025-07-23 | Updated: 2025-07-31
 
-[3]: 2025, Jul 18. [3D Visual Computing in Modern Tech Systems - TechnoLynx](https://www.technolynx.com/post/3d-visual-computing-in-modern-tech-systems). Published: 2025-07-18 | Updated: 2025-07-19
+[^12x9ms] 2025, Jul 18. [3D Visual Computing in Modern Tech Systems - TechnoLynx](https://www.technolynx.com/post/3d-visual-computing-in-modern-tech-systems). Published: 2025-07-18 | Updated: 2025-07-19
 
-[4]: 2025, Jul 23. [Introduction to Computer Graphics - GeeksforGeeks](https://www.geeksforgeeks.org/computer-graphics/introduction-to-computer-graphics/). Published: 2025-07-12 | Updated: 2025-07-24
+[^su9e7c] 2025, Jul 23. [Introduction to Computer Graphics - GeeksforGeeks](https://www.geeksforgeeks.org/computer-graphics/introduction-to-computer-graphics/). Published: 2025-07-12 | Updated: 2025-07-24
 
-[5]: 2025, Jul 15. [Different Types of 3D Modeling: Benefits and Uses](https://thekowcompany.com/blog/different-types-of-3d-modeling). Published: 2025-07-16 | Updated: 2025-07-16
+[^enj8u7] 2025, Jul 15. [Different Types of 3D Modeling: Benefits and Uses](https://thekowcompany.com/blog/different-types-of-3d-modeling). Published: 2025-07-16 | Updated: 2025-07-16
 
