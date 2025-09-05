@@ -1,13 +1,15 @@
 ---
 date_created: 2025-04-22
-date_modified: 2025-07-29
-title: "Up And Running On Claude Code"
+date_modified: 2025-09-05
+title: Up And Running On Claude Code
 at_semantic_version: 0.0.0.1
 slug: up-and-running-on-claude-code
 publish: true
-authors: [Michael Staton]
+authors:
+  - Michael Staton
 tags: [Code-Generators, Terminal-Applications]
 site_uuid: c9631a38-55a0-4d05-8201-266e99df62f7
+og_favicon: https://ik.imagekit.io/xvpgfijuw/lossless-content-embeds/appIcon__Claude.png?updatedAt=1757078166433
 ---
 # Installation on Mac
 

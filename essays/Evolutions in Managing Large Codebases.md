@@ -5,12 +5,12 @@ site_uuid: cb3993bb-d221-4be5-ba92-c1bc625f5ecb
 publish: true
 title: Evolutions In Managing Large Codebases
 slug: evolutions-in-managing-large-codebases
-lede: While Vibe Coding is causing challenges as Software Developers use AI Code Assistants, AI is also showing to give engineering managers superpowers at managing large codebases.
+lede: 'While Vibe Coding is causing challenges as Software Developers use AI Code Assistants, AI is also showing to give engineering managers superpowers at managing large codebases.'
 date_authored_initial_draft: 2025-04-22
 date_authored_current_draft: 2025-09-04
 augmented_with: Perplexity AI
 at_semantic_version: 0.0.1.1
-image_prompt: A robot representing AI is wearing a cowboy hat, cowboy boots, and is winding up a lasso above his head.  He is standing in front of a bunch of very large dinosaurs who all have hacker T-Shirts, one with .NET, one with Java, and one with C++. They all have eye-glasses, and they are far too big to lasso.
+image_prompt: "A robot representing AI is wearing a cowboy hat, cowboy boots, and is winding up a lasso above his head.  He is standing in front of a bunch of very large dinosaurs who all have hacker T-Shirts, one with .NET, one with Java, and one with C++. They all have eye-glasses, and they are far too big to lasso."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Evolutions_in_Managing_Large_Codebases_banner_image_1757071280604_CG99gmz7h.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Evolutions_in_Managing_Large_Codebases_portrait_image_1757071282702_X8CpmVpAe.webp
 square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Evolutions_in_Managing_Large_Codebases_square_image_1757071284533_lx_By9HwY.webp
@@ -127,7 +127,7 @@ The synergistic relationship between platform engineering and artificial intelli
 
 ## Legacy System Modernization Strategies
 
-[[Legacy System Modernization]] represents one of the most complex challenges facing CTOs of large organizations, requiring careful balance between maintaining business continuity and achieving technological advancement. Modern approaches emphasize incremental transformation strategies that minimize disruption while delivering measurable value improvements.
+[[concepts/Legacy System Modernization]] represents one of the most complex challenges facing CTOs of large organizations, requiring careful balance between maintaining business continuity and achieving technological advancement. Modern approaches emphasize incremental transformation strategies that minimize disruption while delivering measurable value improvements.
 
 The assessment phase of legacy modernization requires comprehensive understanding of existing systems, their interdependencies, and their business criticality. [^lj8gui] This assessment must evaluate existing infrastructure, hardware, software, and data architecture while identifying pain points, bottlenecks, and areas requiring immediate attention. The most effective assessments also analyze scalability, performance, and security characteristics of legacy systems to inform modernization prioritization decisions.
 
@@ -167,7 +167,7 @@ Version control integration provides powerful capabilities for infrastructure ma
 
 Auditability and compliance benefits prove particularly valuable for large organizations operating under regulatory requirements. [^zh7o39] Infrastructure as Code provides confidence in compliance capabilities with the ability to prove compliance to auditors through complete change tracking. When compliance requirements become code, they can be easily enforced and scanned for issues, with automatic remediation of conflicts between system configurations and desired end states.
 
-[[DevSecOps]] integration ensures that security considerations are embedded throughout the infrastructure management lifecycle. [^xdw88p] Establishing security-first culture involves embedding security considerations into all aspects of development and operations, with regular training and awareness programs strengthening security understanding and compliance. Security-first thinking ensures that security becomes a natural part of the development process, minimizing risks without sacrificing agility.
+[[concepts/DevSecOps]] integration ensures that security considerations are embedded throughout the infrastructure management lifecycle. [^xdw88p] Establishing security-first culture involves embedding security considerations into all aspects of development and operations, with regular training and awareness programs strengthening security understanding and compliance. Security-first thinking ensures that security becomes a natural part of the development process, minimizing risks without sacrificing agility.
 
 ## Organizational and Cultural Transformation
 
@@ -203,7 +203,7 @@ Testing strategy implementation requires cultural change alongside technical imp
 
 Legacy modernization efforts should follow incremental approaches that minimize disruption while delivering measurable improvements. [^zwf8r7] Starting with the most problematic systems that cause frequent developer frustration or operational issues provides clear value demonstration. The [[strangler fig pattern]] enables gradual replacement of legacy components while maintaining business continuity and reducing transformation risk.
 
-Security integration through [[DevSecOps]] practices should be implemented from the beginning rather than retrofitted later. [^om654l] Establishing [[concepts/Security-First Development]] culture involves embedding security considerations into development processes, implementing automated security scanning in CI/CD pipelines, and providing developers with tools and training to identify and address security issues proactively.
+Security integration through [[concepts/DevSecOps]] practices should be implemented from the beginning rather than retrofitted later. [^om654l] Establishing [[concepts/Security-First Development]] culture involves embedding security considerations into development processes, implementing automated security scanning in CI/CD pipelines, and providing developers with tools and training to identify and address security issues proactively.
 
 Monitoring and measurement systems must be established to track progress and identify areas requiring adjustment. [^6r335y] Key metrics should include deployment frequency, lead time for changes, mean time to recovery, and change failure rate, as well as developer satisfaction and productivity indicators. These measurements provide objective feedback on transformation effectiveness and guide continued improvement efforts.
 

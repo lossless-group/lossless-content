@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-19
-date_modified: 2025-07-23
+date_modified: 2025-09-05
 site_uuid: a4a26399-a06f-4bdd-b49a-a1e9df9f7411
 title: Up And Running With Docker
 slug: up-and-running-with-docker
@@ -8,6 +8,7 @@ at_semantic_version: 0.0.0.1
 publish: true
 authors: [Michael Staton]
 tags: [Container-Runtimes, Reproducible-Builds, Continuous-Deployment]
+og_favicon: https://ik.imagekit.io/xvpgfijuw/lossless-content-embeds/appIcon__Docker.svg?updatedAt=1757077788436
 ---
 ```bash
    sudo apt remove docker docker-engine docker.io containerd runc

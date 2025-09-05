@@ -6,9 +6,9 @@ publish: true
 title: Up And Running With Mermaid
 slug: up-and-running-with-mermaid
 at_semantic_version: 0.0.0.1
-authors: "[Michael Staton]"
+authors: [Michael Staton]
 tags: [Diagrams-as-Code, Visual-Communication, Visual-Engineering]
-og_favicon: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Up_and_Running_with_Mermaid_content_1757067750094_FSYthI89C.svg
+og_favicon: "https://ik.imagekit.io/xvpgfijuw/lossless-content-embeds/appIcon__Mermaid.svg?updatedAt=1757077068072"
 ---
 
 

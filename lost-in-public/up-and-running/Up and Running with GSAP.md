@@ -1,12 +1,13 @@
 ---
 date_created: 2025-04-22
-date_modified: 2025-07-29
+date_modified: 2025-09-05
 title: "Up And Running with GSAP"
 at_semantic_version: 0.0.0.1
 slug: up-and-running-with-gsap
 publish: true
 authors: [Michael Staton]
 tags: [Animations, JavasScript-Ecosystem]
+og_favicon: https://ik.imagekit.io/xvpgfijuw/lossless-content-embeds/appIcon__GSAP.png?updatedAt=1757077570286
 ---
 # Read the Docs
 

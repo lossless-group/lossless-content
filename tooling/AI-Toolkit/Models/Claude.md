@@ -1,20 +1,20 @@
 ---
 site_uuid: 6b55ee97-cdc9-4c3c-bd32-11dfd47e2c92
-url: 'https://claude.ai/'
-image: 'https://claude.ai/images/claude_ogimage.png'
+url: https://claude.ai/
+image: https://claude.ai/images/claude_ogimage.png
 site_name: Claude
 title: Claude
-og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250529_Claude_og_screenshot.jpeg'
-https: //og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/4c1282370971cad9188c46732eb691491d9c98a4b9866acb4c0afd8014b79943.jpeg
-jina_last_request: '2025-03-09T06:45:06.973Z'
-jina_error: 'Error occurred'
-og_last_fetch: '2025-03-07T05:19:19.161Z'
-date_modified: 2025-04-12
+og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250529_Claude_og_screenshot.jpeg
+jina_last_request: 2025-03-09T06:45:06.973Z
+jina_error: Error occurred
+og_last_fetch: 2025-09-05T13:13:45.574Z
+date_modified: 2025-09-05
 date_created: 2025-03-30
-tags:
-  - AI-Toolkit
-  - Models
-  - Desktop-App
+tags: [AI-Toolkit, Models, Desktop-App]
+og_title: Claude
+og_description: Talk with Claude, an AI assistant from Anthropic
+og_image: https://claude.ai/images/claude_ogimage.png
+og_favicon: https://ik.imagekit.io/xvpgfijuw/lossless-content-embeds/appIcon__Claude.png?updatedAt=1757078166433
 ---
 
 Models by [[Anthropic]].

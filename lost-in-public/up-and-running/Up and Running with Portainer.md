@@ -1,13 +1,15 @@
 ---
 date_created: 2025-07-28
-date_modified: 2025-08-06
+date_modified: 2025-09-05
 site_uuid: 181775c5-7336-4a34-b55e-39961b47fece
 publish: true
 title: Up And Running With Portainer
 slug: up-and-running-with-portainer
 at_semantic_version: 0.0.0.1
-authors: [Michael Staton]
+authors:
+  - Michael Staton
 tags: [Open-Source-Alternatives, Container-Management]
+og_favicon: https://ik.imagekit.io/xvpgfijuw/lossless-content-embeds/appIcon__Portainer.webp?updatedAt=1757078520159
 ---
 # Up and Running with Portainer
 

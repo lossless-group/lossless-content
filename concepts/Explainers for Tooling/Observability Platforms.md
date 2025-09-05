@@ -25,7 +25,7 @@ Observability platforms are comprehensive solutions designed to provide visibili
 
 ### Understanding Observability Platforms
 
-Modern digital infrastructures, characterized by distributed microservices, cloud-native architectures, and hybrid deployments, are inherently intricate. Traditional monitoring tools fall short in these environments, as they typically focus on predefined outputs and static health indicators. In contrast, observability platforms go further—they collate and correlate diverse streams of **[[Telemetry Data]]** (metrics, events, logs, and traces, known as MELT) to infer the internal state of systems in real time. [^98ou3v] [^4wuqkt]
+Modern digital infrastructures, characterized by distributed microservices, cloud-native architectures, and hybrid deployments, are inherently intricate. Traditional monitoring tools fall short in these environments, as they typically focus on predefined outputs and static health indicators. In contrast, observability platforms go further—they collate and correlate diverse streams of **[[Vocabulary/Telemetry Data]]** (metrics, events, logs, and traces, known as MELT) to infer the internal state of systems in real time. [^98ou3v] [^4wuqkt]
 
 For instance, when a user encounters a delay on an e-commerce site, an observability platform aggregates logs from web servers, traces the transaction through backend microservices, and correlates with infrastructure metrics to pinpoint the exact service or database causing the bottleneck. [^e3y0a6] Popular use cases include:
 

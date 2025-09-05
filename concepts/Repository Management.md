@@ -65,7 +65,7 @@ Recent advancements include:
 
 ## Future Outlook
 
-As software supply chains grow more complex, repository management is expected to evolve with AI-powered analytics, granular policy enforcement, and tighter integration with security ([[DevSecOps]]) tooling. The rise of machine learning and edge computing may see repositories extend support for new asset types. Organizations prioritizing repository best practices will gain significant agility and resilience in developing and delivering secure, scalable software.
+As software supply chains grow more complex, repository management is expected to evolve with AI-powered analytics, granular policy enforcement, and tighter integration with security ([[concepts/DevSecOps]]) tooling. The rise of machine learning and edge computing may see repositories extend support for new asset types. Organizations prioritizing repository best practices will gain significant agility and resilience in developing and delivering secure, scalable software.
 
 ## Conclusion
 
