@@ -18,5 +18,5 @@ tags:
   - Enterprise-Jobs-To-Be-Done
 ---
 
-[[Knowledge Base]], [[Knowledge Hub]]
+[[Vocabulary/Knowledge Bases]], [[Knowledge Hub]]
 [[Documentation Engines]], [[Workflow Management]]

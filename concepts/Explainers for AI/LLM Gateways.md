@@ -59,7 +59,7 @@ Deploying an LLM Gateway requires careful design to address:
 
 ## Current State and Trends
 
-LLM Gateways are seeing rapid adoption, particularly among enterprises scaling up AI-powered systems for [[Vocabulary/Customer Experience|Customer Experience]], [[concepts/Explainers for Tooling/Knowledge Management|Knowledge Management]], and automation. [^1dpuyj] [^7ajhor] Key vendors in this space include OpenAI, Google Vertex AI, Anthropic, as well as gateway providers like [[Kong]] and [[TrueFoundry]], who offer dedicated platforms for LLM orchestration and governance. [^1dpuyj] [^7ajhor] [^j0xasc]
+LLM Gateways are seeing rapid adoption, particularly among enterprises scaling up AI-powered systems for [[Vocabulary/Customer Experience|Customer Experience]], [[concepts/Explainers for Tooling/Knowledge Management|Knowledge Management]], and automation. [^1dpuyj] [^7ajhor] Key vendors in this space include OpenAI, Google Vertex AI, Anthropic, as well as gateway providers like [[Tooling/AI-Toolkit/Kong]] and [[Tooling/AI-Toolkit/Agentic AI/TrueFoundry]], who offer dedicated platforms for LLM orchestration and governance. [^1dpuyj] [^7ajhor] [^j0xasc]
 
 Recent innovations focus on **observability, fine-grained access control, and session persistence** for multi-turn dialogues, with features such as:
 

@@ -1,7 +1,7 @@
 ---
 category: Avoid and Peril
 date_created: 2024-11-11
-date_modified: 2025-08-21
+date_modified: 2025-08-28
 tags: [Near-Future-Anticipation]
 title: AI is full of Hot Air.
 lede: From hallucinations to probabilistic creativity, to the need to fulfill its trained duty.  AI Models can just make things up.  Sometimes amazingly, sometimes catastrophically.
@@ -16,10 +16,12 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/AI_is_Ful
 square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/AI_is_Full_of_Hot_Air_square_image_1755789149460_b3pRzzrx-.webp
 ---
 
+>[!tip]
+>
 >AI doesn’t admit ignorance because it isn’t deeply programmed to do so—it’s built to offer helpful answers, sometimes at the cost of transparency when it’s out of its depth.
 
 
-> [!Dialog] From Microsoft's Phi model when asked about Excel
+> [!llm-response] From Microsoft's Phi model when asked about Excel
 > 
 > I'm assuming you know excel functions?  And how to do relatively complex things in Excel?
 > 

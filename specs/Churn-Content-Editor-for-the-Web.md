@@ -12,7 +12,7 @@ status: Idea
 augmented_with: "Claude Sonnet 4 on Warp"
 category: Open-Ideas
 date_created: 2025-05-10
-date_modified: 2025-08-17
+date_modified: 2025-08-28
 authors:
   - Michael Staton
 image_prompt: "A closeup view of a monitor, a laptop, and a mobile device. The laptop has a text editor, it looks like a markdown editor, a simple version of a document editor.  There is some text there, headers, etc. On the monitor and on the mobile the same text is rendered as a beautiful web page.  There are connecting lines from the laptop to the monitor and the phone"
@@ -30,9 +30,13 @@ We can use [[Tooling/Software Development/Programming Languages/HTML|HTML]] and 
 
 Markdown editors are growing like crazy: [[Tooling/Productivity/Obsidian|Obsidian]], [[Tooling/Productivity/Anytype|Anytype]], [[Tooling/Productivity/CraftDocs|CraftDocs]], [[Tooling/Productivity/Logseq|Logseq]], 
 
-We have open standards like [[projects/Emergent-Innovation/Standards/WebGL|WebGL]]. 
+Open source text editors like [[Tooling/Software Development/Developer Experience/Helix|Helix]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Zed|Zed]].
 
-We now have a next generation [[Vocabulary/Cross-Platform Applications|Cross-Platform]] framework to build [[Vocabulary/Cross-Platform Applications|Cross-Platform Applications]]
+Open source version control systems like [[Tooling/Products/Git|Git]], [[Gitoxide]], [[Tooling/Software Development/Developer Experience/DevOps/Jujutsu|Jujutsu]].
+
+We have open standards like [[projects/Emergent-Innovation/Standards/WebGL|WebGL]], and [[Vocabulary/WebGPU|WebGPU]], 
+
+We now have a next generation [[Vocabulary/Cross-Platform Applications|Cross-Platform]] framework to build [[Vocabulary/Cross-Platform Applications|Cross-Platform Applications]] with libraries like [[projects/Emergent-Innovation/wgpu|wgpu]].
 
 # Features
 Aliases: defaults to plural, singular, acronym, acronym plural. 
@@ -89,11 +93,14 @@ Sources
 [[Tooling/Productivity/Quip|Quip]]
 [[Tooling/Software Development/Developer Experience/Helix|Helix]]
 [[Tooling/Productivity/Notion|Notion]]
+[[Tooling/Productivity/Affine|Affine]]
 [[Tooling/Enterprise Jobs-to-be-Done/Coda|Coda]]
 [[Tooling/Productivity/Obsidian|Obsidian]]
 [[Affinity Publisher]]
 [[Tooling/AI-Toolkit/Generative AI/Code Generators/Windsurf IDE|Windsurf IDE]]
+[[Tooling/AI-Toolkit/Generative AI/Code Generators/Zed|Zed]]
 [[Tooling/Enterprise Jobs-to-be-Done/Content Management Systems/Hygraph|Hygraph]]
+[[Tooling/Enterprise Jobs-to-be-Done/Content Management Systems/Payload|Payload]]
 [[Tooling/Software Development/Lego-Kit Engineering Tools/UI Builders/WebStudio|WebStudio]]
 [[Tooling/Enterprise Jobs-to-be-Done/GrapesJS|GrapesJS]]
 [[Tooling/Creative/Figma|Figma]]

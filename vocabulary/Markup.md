@@ -1,5 +1,5 @@
 ---
-date_modified: 2025-08-17
+date_modified: 2025-08-28
 site_uuid: 7cdb3273-44ee-4eaa-9b3b-0d11dc4e7e8c
 date_created: 2025-04-06
 aliases: [Markup Language, Markup Languages]
@@ -8,7 +8,12 @@ title: Markup
 slug: markup
 at_semantic_version: 0.0.0.1
 ---
-[[projects/Emergent-Innovation/Standards/Extensible Markup Language]]
+[[projects/Emergent-Innovation/Standards/Extensible Markup Language|Extensible Markup Language]]
+
+[[projects/Emergent-Innovation/Standards/YAML]]
+
+
+
 ***
 > [!info] **Perplexity Query** (2025-08-17T13:31:55.260Z)
 > **Question:**

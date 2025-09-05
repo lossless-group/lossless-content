@@ -4,7 +4,7 @@ url: https://www.zed.dev
 zinger: The editor for whats next
 image: https://zed.dev/api/og?title=The%20editor%20for%0Awhat%27s%20next
 site_name: Zed
-title: Zed — The editor for what's next
+title: The editor for what's next
 og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Zed_og_screenshot.jpeg
 jina_last_request: 2025-03-09T06:45:12.551Z
 jina_error: Error occurred

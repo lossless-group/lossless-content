@@ -26,7 +26,7 @@ Semantic caching is an advanced data retrieval mechanism that focuses on the *me
 - **Azure Cosmos DB**: Implements vector-based semantic caching for LLMs[2].
 - **Fastly AI Accelerator**: Provides semantic caching for LLM APIs to enhance performance and reduce costs[3].
 - **[[Redis]]**: Integrates semantic caching with AI embedding models for faster retrieval[13].
-- **[[Kong]] AI Semantic Cache Plugin**: Adds semantic caching capabilities to APIs[7].
+- **[[Tooling/AI-Toolkit/Kong]] AI Semantic Cache Plugin**: Adds semantic caching capabilities to APIs[7].
 
 Semantic caching is increasingly vital for modern AI systems, enabling faster, smarter, and more cost-efficient data handling in dynamic environments.
 

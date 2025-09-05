@@ -28,7 +28,7 @@ aliases:
 > - **[[Tooling/Software Development/Lego-Kit Engineering Tools/Zuplo]]**: A lightweight, fully-managed API management platform designed for developers, featuring GitOps, fast deployments, and full OpenAPI support.
 > - **[[Apigee]]**: A comprehensive API management solution from Google that helps create, secure, and scale APIs.
 > - **MuleSoft**: Offers a unified platform for API management and integration, allowing for easy design and management of APIs.
-> - **[[Kong]]**: A cloud-native API management platform that provides extensive features for managing APIs and microservices.
+> - **[[Tooling/AI-Toolkit/Kong]]**: A cloud-native API management platform that provides extensive features for managing APIs and microservices.
 > 
 > ### Open Source Vendors
 > 

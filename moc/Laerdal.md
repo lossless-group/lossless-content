@@ -9,8 +9,8 @@ date_modified: 2025-08-28
 :::
 
 :::projects
-- { path: [[projects/Augment-It/Specs/Data Augmentation Workflow with Microfrontends]], title: "Augment-It" }
-- { path: [[projects/ACE-It/Philosophy/Our-Approach]], title: "ACE-It" }
+- { path: [[projects/Augment-It/Specs/Data Augmentation Workflow with Microfrontends]], title: "Augment It" }
+- { path: [[projects/ACE-It/Philosophy/Our-Approach]], title: "Context Vigilance" }
 :::
 
 :::vocabulary
@@ -50,11 +50,12 @@ date_modified: 2025-08-28
 - [[Vocabulary/Continuous Refactoring|Refactoring]]
 - [[Vocabulary/Cognitive Diversity|Cognitive Diversity]]
 - [[concepts/Demand Generation|Demand Generation]]
-- [[concepts/Growth Engines]]
+- [[concepts/Growth Engines|Growth Engines]]
 :::
 
 :::concepts
 - [[Coherence]]
+- [[concepts/Explainers for AI/LLM Gateways|LLM Gateways]]
 - [[concepts/CARBS|CARBS]]
 - [[concepts/Technology Radar|Technology Radar]]
 - [[concepts/Emergent Innovation|Emergent Innovation]]
@@ -84,7 +85,7 @@ date_modified: 2025-08-28
 
 :::tool-showcase
 - [[Tooling/AI-Toolkit/Agentic AI/Flowise|Flowise]]
-- [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Wordware]]
+- [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Wordware|Wordware]]
 - tag: [[AI Models]]
 :::
 
