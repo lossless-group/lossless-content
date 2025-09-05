@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-08-06
+date_modified: 2025-09-05
 tags: [Text-Editors, Workspace-Configurations, Terminal-Applications]
 publish: true
 site_uuid: f4a71b9f-8f52-4e4d-af6f-af4040f7b671
@@ -11,6 +11,7 @@ authors:
   - Michael Staton
 og_favicon: https://ik.imagekit.io/xvpgfijuw/lossless-content-embeds/appIcon__Neovim.svg?updatedAt=1754477375821
 ---
+
 
 ```bash
 brew install neovim

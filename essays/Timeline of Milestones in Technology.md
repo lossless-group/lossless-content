@@ -1,6 +1,6 @@
 ---
 date_created: 2024-05-18
-date_modified: 2025-04-30
+date_modified: 2025-09-05
 site_uuid: b496cd8e-1896-4214-96d7-b1cb167d0233
 title: Timeline of Milestones in Technology
 lede: "Technology’s history is a timeline of breakthroughs—each milestone reshapes what’s possible."
@@ -14,7 +14,7 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05
 image_prompt: "A horizontal timeline with icons for major inventions—steam engine, telephone, computer, smartphone—each glowing at its milestone. The mood is historical, energetic, and optimistic."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_Timeline-of-Milestones-in-Technology_33812139-bdc9-4981-b11b-24c67fa8ac7a_qwJGwy1ss.jpg
 tags: [Additional-Context, Explorations, Explainers]
-authors: 
+authors:
   - Michael Staton
 ---
 

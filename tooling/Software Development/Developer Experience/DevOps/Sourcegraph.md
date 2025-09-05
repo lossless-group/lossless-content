@@ -1,7 +1,7 @@
 ---
 url: https://sourcegraph.com/
 date_created: 2025-08-28
-date_modified: 2025-08-28
+date_modified: 2025-09-05
 og_title: Industrializing software development with AI agents
 og_description: Sourcegraph is accelerating how the most important companies in the world build software. Sourcegraph automates routine development tasks with AI agents and a contextual understanding of large codebases, freeing enterprise dev teams of soul-sucking work and improving their ability to innovate.
 og_image: https://cdn.prod.website-files.com/673f71b4ebbb99190437de75/679a3d1bcea8597c602b4ba2_Sourcegraph%20homepage%20OG%20image.avif
@@ -13,6 +13,9 @@ publish: true
 title: Sourcegraph
 slug: sourcegraph
 at_semantic_version: 0.0.1.1
+for_clients:
+  - Laerdal
+  - Param
 ---
 [[concepts/Explainers for AI/Large Codebase AI|Large Codebase AI]]
 [[Vocabulary/Engineering Management|Engineering Management]]

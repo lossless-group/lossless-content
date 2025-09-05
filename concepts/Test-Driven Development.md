@@ -1,6 +1,7 @@
 ---
-aliases:
-  - TDD
+aliases: [TDD]
+date_created: 2025-04-18
+date_modified: 2025-09-05
 ---
 
 > [!NOTE] [[Poe AI]] explains [[concepts/Test-Driven Development]]
@@ -183,3 +184,5 @@ aliases:
 > ### **Conclusion**
 > 
 > Test-Driven Development is an effective methodology for writing reliable, maintainable code, especially in the age of AI-assisted coding. By adopting TDD, companies can ensure that their software aligns with business requirements, avoids regressions, and is easier to maintain. In the React and JavaScript ecosystem, state-of-the-art frameworks like Jest, React Testing Library, Cypress, and Playwright empower developers to create robust tests that enhance the development process.
+
+[[concepts/Explainers for Tooling/Test Pyramid Architecture]]

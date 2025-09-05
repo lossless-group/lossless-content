@@ -1,8 +1,8 @@
 ---
-date_modified: 2025-08-17
+date_modified: 2025-09-05
 site_uuid: 5d0cc054-0c24-44fc-8d66-b215fcfd825e
 date_created: 2025-04-06
-aliases: [Microservice Architecture, Microservice, Microservices Architecture]
+aliases: [Microservice Architecture, Microservice, Microservices Architecture, Microservices Architectures]
 authors:
   - Michael Staton
 publish: true

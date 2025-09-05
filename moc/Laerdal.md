@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-09
-date_modified: 2025-08-28
+date_modified: 2025-09-05
 ---
 :::features
 - Reader
@@ -55,6 +55,7 @@ date_modified: 2025-08-28
 
 :::concepts
 - [[Coherence]]
+- [[concepts/Platform Engineering|Platform Engineering]]
 - [[concepts/Explainers for AI/LLM Gateways|LLM Gateways]]
 - [[concepts/CARBS|CARBS]]
 - [[concepts/Technology Radar|Technology Radar]]
@@ -62,12 +63,15 @@ date_modified: 2025-08-28
 - [[concepts/Open Innovation|Open Innovation]]
 - [[concepts/Persuasive Technology|Persuasive Technology]]
 - [[concepts/Open Source Alternatives|Open Source Alternatives]]
+- [[Vocabulary/Lock In|Lock In]]
 - [[AI Avatars]]
 - [[concepts/Explainers for Tooling/Learning Experience Platforms|Learning Experience Platforms]]
 - [[concepts/Documentation First Development|Documentation First Development]]
 - [[concepts/Design System First Development|Design System First Development]]
+- [[concepts/Security-First Development|Security-First Development]]
 - [[concepts/Changelog First Development|Changelog First Development]]
 - [[concepts/Visual Software Development|Visual Software Development]]
+- [[concepts/Event-Driven Architecture|Event-Driven Architecture]]
 - [[concepts/Open Specifications|Open Specifications]]
 - [[concepts/Complexity Cost|Complexity Cost]]
 - [[concepts/Explainers for AI/Knowledge Base AI|Knowledge Base AI]]

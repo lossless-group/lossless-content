@@ -24,7 +24,7 @@ In Fastify, "transports" refers to the mechanisms used for routing data and mana
 
 Here's a more detailed explanation:
 
-- [[Event-Driven Architecture]]: Fastify utilizes an event-driven architecture, which means it handles events like request arrival and response sending through a system of callbacks and promises. This architecture allows Fastify to efficiently process large numbers of concurrent requests. [^9c0e3r]
+- [[concepts/Event-Driven Architecture]]: Fastify utilizes an event-driven architecture, which means it handles events like request arrival and response sending through a system of callbacks and promises. This architecture allows Fastify to efficiently process large numbers of concurrent requests. [^9c0e3r]
 - Schema-Based Validation: Fastify supports schema-based validation, which means you can define a schema for your API requests and responses. This schema is used to validate the data received and sent, ensuring that the data conforms to the expected format. This validation process is often performed before and after data is sent or received, enhancing the overall reliability and performance of the application. [^i1runr] [^ihrnf8]
 - Plugin Architecture: Fastify's plugin architecture allows developers to extend its capabilities by adding custom functionalities and features. Plugins can be used to handle various aspects of data transportation, such as routing, middleware, and logging.
 - [[Vocabulary/Logging]]: Fastify uses [[Tooling/Software Development/Developer Experience/DevOps/Pino]], a fast and efficient logger, to handle logging operations. This logger can be configured to send logs to different destinations, including files, streams, or even other logging services. 
