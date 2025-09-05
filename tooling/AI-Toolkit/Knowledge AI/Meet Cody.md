@@ -16,5 +16,5 @@ title: "Meet Cody"
 slug: meet-cody
 at_semantic_version: 0.0.0.1
 ---
-[[Vocabulary/Knowledge Base|Knowledge Base]]
+[[Vocabulary/Knowledge Bases|Knowledge Base]]
 [[concepts/Explainers for AI/Knowledge Base AI|Knowledge Base AI]]

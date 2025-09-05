@@ -1,10 +1,7 @@
 ---
 date_created: 2025-08-28
 date_modified: 2025-08-28
-aliases:
-  - human in the loop
-  - HITL
-  - Human in the Loop
+aliases: [human in the loop, HITL, Human in the Loop]
 site_uuid: 88599226-1d46-49f2-8fbc-ff8c30aa8f02
 publish: true
 title: Human In The Loop

@@ -11,4 +11,4 @@ tags: [Infrastructure-as-Code, Dev-Ops-Tools]
 ---
 [[Vocabulary/Dev Ops|DevOps]]
 [[Vocabulary/Infrastructure as a Service|Infrastructure as a Service]]
-[[Infrastructure-as-Code]]
+[[concepts/Infrastructure-as-Code]]

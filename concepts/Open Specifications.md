@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-08-17
+date_modified: 2025-08-28
 site_uuid: b9c4540c-5975-4632-ac2c-708e27f03656
 publish: true
 title: Open Specifications
@@ -9,6 +9,7 @@ at_semantic_version: 0.0.0.1
 authors:
   - Michael Staton
 augmented_with: Perplexity AI
+aliases: [Open Specification]
 ---
 
 [[projects/Emergent-Innovation/Standards/JSON Canvas|JSON Canvas]]

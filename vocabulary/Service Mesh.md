@@ -1,10 +1,11 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2025-08-28
 site_uuid: d7faf481-347e-4295-9b1d-a03894232483
 date_created: 2025-04-06
 ---
 
 A [[Service Mesh]] is an umbrella layer around [[Microservices]] 
+[[Tooling/AI-Toolkit/Kong]]
 
 ![[Screenshot 2025-01-25 at 12.32.18 PM_Service-Mesh--Figure.png]] [^ebab16]
 

@@ -10,14 +10,12 @@ zinger: 'A better future with AI'
 favicon: 'https://www.anthropic.com/favicon.ico'
 og_fetched_url: 'https://www.anthropic.com'
 og_last_fetch: '2025-05-28T22:49:53.467Z'
-date_modified: 2025-05-29
+date_modified: 2025-08-28
 date_created: 2025-03-31
 og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Anthropic_og_screenshot.jpeg'
 og_image: 'https://cdn.prod.website-files.com/67ce28cfec624e2b733f8a52/68309ab48369f7ad9b4a40e1_open-graph.jpg'
 description: "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems."
-tags:
-  - AI-Toolkit
-  - Model-Producers
+tags: [AI-Toolkit, Model-Producers]
 ---
 
 [[Claude]], [[Haiku]]

@@ -1,7 +1,7 @@
 ---
 aliases: [Code Generation, Code Generators, Coding Agent, Coding Assistant, Code Generator]
 site_uuid: 691a7615-2aa5-4a1b-9ad9-519a48dac670
-date_modified: 2025-08-17
+date_modified: 2025-08-28
 date_created: 2025-03-31
 tags: [AI-Toolkit]
 publish: true
@@ -40,80 +40,19 @@ Looking ahead, AI code generators are expected to grow even smarter, integrating
 
 In summary, AI code generators represent a transformative leap in software development, offering speed, accuracy, and inclusivity. As these technologies evolve, they promise to redefine how code is written, tested, and maintained, heralding a future of smarter, faster, and more creative innovation.
 
-***
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##### Examples:
 - [[concepts/Explainers for Tooling/Text Editors or IDEs|IDEs]] include [[Cursor]], [[Windsurf IDE]], [[Trae AI]], [[Bloop.ai]], [[Zed]], [[Pear IDE]], [[CodeLLM]]
 	- [[Melty]] is just a [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editor]], but has strong reviews.
 - [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulators]] include [[Warp]] and [[Aider]]
-- [[concepts/Opsless Deployment Providers]] include [[Tooling/Software Development/Cloud Infrastructure/Bolt.new]], [[v0]], [[Lovable]], [[Replit]], [[Hostinger]] and [[ScrBook]]
-- [[Plug-ins,  Add-ons,  Extensions|Plug-ins]] to other Text Editors include [[Aider]], [[Databutton]], [[Claude#Cline|Cline]], [[Devin]], [[supermaven]], [[Augment Code]], [[Continue AI]], [[AppMap]] who embed into [[concepts/Explainers for Tooling/Text Editors or IDEs]], such as [[Tooling/Software Development/DevOps/Developer Experience/JetBrains]] but especially [[Visual Studio Code|VS Code]].
+- [[concepts/Opsless Deployment Providers]] include [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bolt.new|Bolt.new]], [[v0]], [[Lovable]], [[Replit]], [[Hostinger]] and [[ScrBook]]
+- [[Plug-ins,  Add-ons,  Extensions|Plug-ins]] to other Text Editors include [[Aider]], [[Databutton]], [[Claude#Cline|Cline]], [[Devin]], [[supermaven]], [[Augment Code]], [[Continue AI]], [[AppMap]] who embed into [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editors or IDEs]], such as [[Tooling/Software Development/Developer Experience/JetBrains|JetBrains]] but especially [[Visual Studio Code|VS Code]].
 - Starting from your own code repositories, services like [[Poolside]], [[AppMap]], [[smolagents]], [[RepoPrompt]]
 - Specializing in [[Bug Reporting]] is [[CodeAnt AI]]
 - Specialized [[AI Models]] include [[InceptionLabs]] [[Mercury Coder]]
 
 We don't know what some even claim to be, such as [[Fine.dev]]
 
-There is a blurry line between [[Code Generator|Code Generation]] and using an [[concepts/Explainers for AI/AI Copilots]] to work on your own code. Going whole hog and letting the [[Code Generator]] do it's thing is being called [[Vibe Coding]].
+There is a blurry line between [[concepts/Explainers for AI/Code Generators|Code Generators]] and using an [[concepts/Explainers for AI/AI Copilots|AI Copilots]] to work on your own code. Going whole hog and letting the [[concepts/Explainers for AI/Code Generators|Code Generator]] do it's thing is being called [[Vibe Coding]].
 
 ---
 ## Problems with Code Generators:
@@ -121,7 +60,7 @@ There is a blurry line between [[Code Generator|Code Generation]] and using an [
 They don't have a long term memory, they don't even have a short term working memory. [[Pear IDE]] is trying to fix that with their "[memory integration](https: '//trypear.ai/docs/integrations/memory)" and [[Mem0]] seems to be a technology company trying to figure it out. But, thus far, code generators are frustratingly oblivious to what they just did, and are prone to rewrite over it.
 
 ---
-## [[Claude]] lists lauded [[Code Generator|Code Generators]]
+## [[Claude]] lists lauded [[concepts/Explainers for AI/Code Generators|Code Generators]]
 # Best Open Source Coding Models
 
 Here's a curated list of some of the best open source coding models currently available:
@@ -267,23 +206,12 @@ https://youtu.be/fKtvRTFISq4?si=0QuLEn91P7j6_Cje
 
 Attempts at a fully featured [[concepts/Explainers for Tooling/Text Editors or IDEs|IDE]] include, [[Cursor]], [[AgentFarm]], [[Windsurf IDE]].
 
-``` litegal
-[[Screenshot From 2025-02-19 07-00-02_Cursor--Hero.png]]
-[[Screenshot 2025-02-22 at 9.34.28 PM_Windsurf-IDE--Hero.png]]
-```
-
 [[Warp]] is differentiated, as it is a [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulator]] with built in [[AI Models|AI Models]] that can reason on the code you are writing in another application.
 
 [[CopyCoder]] is differentiated, as it works from Images to generate code. Grade for [[User Interface|UI]] Design. [[concepts/Rapid Prototyping Infrastructure]].
 
-[[Code Generator|Code Generators]] have also been created by [[concepts/Opsless Deployment Providers]], including [[Tooling/Software Development/Cloud Infrastructure/Bolt.new]] by [[StackBlitz]], [[v0]] by [[Vercel]]. [[Lovable]] and [[ScrBook]]
+[[concepts/Explainers for AI/Code Generators|Code Generators]] have also been created by [[concepts/Opsless Deployment Providers|Opsless Deployment Providers]], including [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bolt.new|Bolt.new]] by [[StackBlitz]], [[v0]] by [[Vercel]]. [[Lovable]] and [[ScrBook]]
 https://youtu.be/l-YbaSzDmhU?si=yTLceEj5oI8pWQH3
-
-
-``` litegal
-[[Screenshot 2025-02-22 at 9.03.38 PM_AugmentCode--Hero.png]]
-[[Screenshot 2025-02-20 at 7.57.47 PM_GitHub-Copilot--Getting-Started.png]]
-```
 
 ***
 ## Recommended Sources
