@@ -13,13 +13,10 @@ og_error_message: 'Error occurred'
 jina_last_request: '2025-03-09T06:45:14.990Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-05-28T12:26:18.953Z'
-date_modified: 2025-05-28
+date_modified: 2025-09-05
 date_created: 2025-03-30
 og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Aider_og_screenshot.jpeg
-tags:
-  - AI-Toolkit
-  - Generative-AI
-  - Code-Generators
+tags: [AI-Toolkit, Generative-AI, Code-Generators]
 ---
 
 [[concepts/Explainers for AI/Code Generators]] inside [[concepts/Explainers for Tooling/Terminal Emulators]], it simulates [[Pair Programming]] and is helpful for [[Code Review]].

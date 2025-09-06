@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-17
-date_modified: 2025-08-17
+date_modified: 2025-09-06
 site_uuid: 5be6b657-9177-4fbd-bb7e-71632ace44b8
 publish: true
 title: The Lean Startup
@@ -22,7 +22,7 @@ aliases: [Lean Startup]
 ---
 **Key Concepts and Structure**
 
-- **[[concepts/Minimum Viable Product|Minimum Viable Product]] (MVP):** Entrepreneurs should launch an MVP—a basic but functional version of a product—to quickly test assumptions about what customers want. [^4jwscb] [^4mpmyb] ![Relevant diagram or illustration related to the topic](x-raw-image:///412697100d9596b96b0190d1383c57cd7477afeb348df14d51b7a7073aba0c87)
+- **[[concepts/Minimum Viable Product|Minimum Viable Product]] (MVP):** Entrepreneurs should launch an MVP—a basic but functional version of a product—to quickly test assumptions about what customers want. [^4jwscb] [^4mpmyb] 
 - **Build-Measure-Learn Feedback Loop:** The core process involves building a product, measuring how users interact with it, and learning whether to persist with the current strategy or pivot. This iterative loop emphasizes learning over elaborate initial planning and greatly shortens the product development cycle. [^4mpmyb] [^uz7rpq] [^h4rbfr]
 - **[[concepts/Validated Learning]]:** Every iteration is treated as an experiment to validate (or invalidate) assumptions about customers, markets, and products, with the aim of quickly discovering what works. [^4jwscb] [^uz7rpq] [^t1h9ag]
 - **Innovation Accounting:** Startups should use metrics tailored to growth and validation rather than generic financial metrics ("vanity metrics"), tracking progress toward sustainable business goals and prioritizing work that moves the company forward. [^uz7rpq]

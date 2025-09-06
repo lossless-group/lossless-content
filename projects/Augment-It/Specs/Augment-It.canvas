@@ -1,22 +1,23 @@
 {
 	"nodes":[
-		{"id":"7fac4e97ed672ff8","type":"group","x":-360,"y":-60,"width":2400,"height":1180,"label":"Microfrontends"},
+		{"id":"7fac4e97ed672ff8","type":"group","x":-360,"y":-120,"width":2400,"height":1320,"label":"Microfrontends"},
 		{"id":"5224f4b69bfd60ee","type":"group","x":-360,"y":1340,"width":1540,"height":440,"label":"Shared Services in Thematic Containers"},
+		{"id":"d4f248b6d654789a","x":-270,"y":460,"width":730,"height":660,"type":"group","label":"Implementations"},
+		{"id":"0c61d3b228ab02b1","type":"file","file":"projects/Augment-It/Specs/host-shell-ui/MainContainerUI.md","x":560,"y":-680,"width":600,"height":275},
+		{"id":"500d137c307ae72d","type":"file","file":"projects/Augment-It/Specs/1_Record-Collector-Src/RecordCollector--Implemented.md","x":-250,"y":520,"width":320,"height":560},
+		{"id":"13b24c973c83e305","type":"file","file":"projects/Augment-It/Specs/Module-Federation-with-Docker.md","x":-860,"y":1360,"width":400,"height":400},
+		{"id":"d01e76d0c7be9a26","type":"file","file":"projects/Augment-It/Specs/API Related Services.md","x":-340,"y":1360,"width":400,"height":400},
+		{"id":"5f82a67835e2e084","type":"file","file":"projects/Augment-It/Specs/shared-services/sharedUxFactory.md","x":220,"y":1360,"width":400,"height":400},
+		{"id":"510b3229a46ed2de","type":"file","file":"projects/Augment-It/Specs/shared-services/devopsSuite.md","x":760,"y":1360,"width":400,"height":400},
+		{"id":"a210c313263cda0b","type":"file","file":"projects/Augment-It/Specs/Data Augmentation Workflow with Microfrontends.md","x":-1000,"y":-40,"width":400,"height":1000},
 		{"id":"ac2afdf05e87ca89","type":"file","file":"projects/Augment-It/Specs/apps-microfrontends/ResponseReviewer.md","x":860,"y":-40,"width":340,"height":400},
 		{"id":"1a9c649e46a79f26","type":"file","file":"projects/Augment-It/Specs/apps-microfrontends/RecordCollector.md","x":-240,"y":-40,"width":300,"height":400},
 		{"id":"fee2304cdc0ca011","type":"file","file":"projects/Augment-It/Specs/apps-microfrontends/HighlightCollector.md","x":1260,"y":-40,"width":340,"height":400},
 		{"id":"b8baf610263acd9c","type":"file","file":"projects/Augment-It/Specs/2_PromptTemplate-Manager-Src/PromptManager--Implemented.md","x":120,"y":520,"width":320,"height":560},
 		{"id":"78e62b795b9121a8","type":"file","file":"projects/Augment-It/Specs/apps-microfrontends/RequestReviewer.md","x":480,"y":-40,"width":340,"height":400},
 		{"id":"f40ce181ffbb721e","type":"file","file":"projects/Augment-It/Specs/apps-microfrontends/InsightAssembler.md","x":1660,"y":-40,"width":320,"height":400},
-		{"id":"5b136670aca97362","type":"file","file":"projects/Augment-It/Specs/Micro Federation Explainer.md","x":-920,"y":-742,"width":400,"height":400},
-		{"id":"0c61d3b228ab02b1","type":"file","file":"projects/Augment-It/Specs/host-shell-ui/MainContainerUI.md","x":560,"y":-680,"width":600,"height":275},
-		{"id":"500d137c307ae72d","type":"file","file":"projects/Augment-It/Specs/1_Record-Collector-Src/RecordCollector--Implemented.md","x":-250,"y":520,"width":320,"height":560},
-		{"id":"13b24c973c83e305","type":"file","file":"projects/Augment-It/Specs/Module-Federation-with-Docker.md","x":-860,"y":1360,"width":400,"height":400},
 		{"id":"e57b4c5d510757d2","type":"file","file":"projects/Augment-It/Specs/apps-microfrontends/PromptTemplateManager.md","x":120,"y":-40,"width":320,"height":400},
-		{"id":"d01e76d0c7be9a26","type":"file","file":"projects/Augment-It/Specs/API Related Services.md","x":-340,"y":1360,"width":400,"height":400},
-		{"id":"5f82a67835e2e084","type":"file","file":"projects/Augment-It/Specs/shared-services/sharedUxFactory.md","x":220,"y":1360,"width":400,"height":400},
-		{"id":"510b3229a46ed2de","type":"file","file":"projects/Augment-It/Specs/shared-services/devopsSuite.md","x":760,"y":1360,"width":400,"height":400},
-		{"id":"a210c313263cda0b","type":"file","file":"projects/Augment-It/Specs/Data Augmentation Workflow with Microfrontends.md","x":-1000,"y":-40,"width":400,"height":1000}
+		{"id":"5b136670aca97362","type":"file","file":"projects/Augment-It/Specs/Micro Federation Explainer.md","x":-390,"y":-711,"width":670,"height":337}
 	],
 	"edges":[
 		{"id":"a574669ce253b12d","fromNode":"0c61d3b228ab02b1","fromSide":"bottom","toNode":"1a9c649e46a79f26","toSide":"top","fromEnd":"arrow"},
@@ -32,6 +33,7 @@
 		{"id":"b18446de33f7cf69","fromNode":"ac2afdf05e87ca89","fromSide":"right","toNode":"fee2304cdc0ca011","toSide":"left"},
 		{"id":"78a79d215125d427","fromNode":"1a9c649e46a79f26","fromSide":"bottom","toNode":"500d137c307ae72d","toSide":"top"},
 		{"id":"f8d191800876d03d","fromNode":"e57b4c5d510757d2","fromSide":"bottom","toNode":"b8baf610263acd9c","toSide":"top"},
-		{"id":"37a360be2fa09daf","fromNode":"a210c313263cda0b","fromSide":"right","toNode":"7fac4e97ed672ff8","toSide":"left"}
+		{"id":"37a360be2fa09daf","fromNode":"a210c313263cda0b","fromSide":"right","toNode":"7fac4e97ed672ff8","toSide":"left"},
+		{"id":"ba5559652517e25c","fromNode":"5b136670aca97362","fromSide":"right","toNode":"0c61d3b228ab02b1","toSide":"left"}
 	]
 }

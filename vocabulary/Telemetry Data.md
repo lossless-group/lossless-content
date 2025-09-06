@@ -1,6 +1,5 @@
 ---
-aliases:
-  - MELT
+aliases: [MELT]
 date_created: 2025-09-05
 date_modified: 2025-09-05
 site_uuid: 24829771-222a-439a-b4d7-5a57ff912f4b

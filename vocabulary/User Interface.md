@@ -5,7 +5,7 @@ date_created: 2025-04-06
 aliases: [UI]
 ---
 
-[[Don't make me think.]]
+[[Sources/Books/Dont make me think]]
 
 [[Vocabulary/Atomic Design|Atomic Design]]
 
