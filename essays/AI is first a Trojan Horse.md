@@ -1,6 +1,6 @@
 ---
 date_created: 2024-10-11
-date_modified: 2025-07-23
+date_modified: 2025-09-15
 site_uuid: 5ac66f92-b95b-4f80-82e6-96354e63517f
 title: AI is first a Trojan Horse
 lede: A Taste of using AI effectively can be magical, but afterwards is a massive amount of reconfiguration and technology adoption.
@@ -19,6 +19,8 @@ authors:
 ---
 
 # Business leaders will be eager at first, then shocked to the core. 
+
+[[Tooling/Data Utilities/LakeFS|LakeFS]]
 
 Pretty much every business that wants a competitive edge is already knee deep trying to figure out how to best use AI. 
 

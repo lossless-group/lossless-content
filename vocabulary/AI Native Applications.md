@@ -6,7 +6,7 @@ aliases: [AI Native]
 ---
 [The Emergence of AI Natives](https://medium.com/@fabiolalli/the-emergence-of-ai-natives-ab85ff5aac5a)
 
-[[Tooling/Productivity/Bricks|Bricks]] is challenging [[Tooling/Products/Excel|Excel]] by being [[AI Native Applications|AI Native]]
+[[Tooling/Productivity/Advanced Spreadsheets/Bricks|Bricks]] is challenging [[Tooling/Products/Excel|Excel]] by being [[AI Native Applications|AI Native]]
 > [!NOTE] AI Explains
 > ### **What is an AI Native Application?**
 > 

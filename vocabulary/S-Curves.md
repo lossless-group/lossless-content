@@ -19,6 +19,6 @@ date_created: 2025-04-06
 # Footnotes
 ***
 
-[^1a49f7]: 2022, Feb 06. [A Brief Guide on S-curves in Project Management](https://monday.com/blog/project-management/s-curve/) [[Monday]] Blog. 
+[^1a49f7]: 2022, Feb 06. [A Brief Guide on S-curves in Project Management](https://monday.com/blog/project-management/s-curve/) [[Tooling/Productivity/Workflow Management/Monday]] Blog. 
 [^d4c6a3]: 2024, Jun 14.  [S Curve Adoption: Understanding the Peaks and Plateaus](https://fastercapital.com/content/S-Curve-Adoption--Understanding-the-Peaks-and-Plateaus.html) Faster Capital Blog.
 [^805fbc]: 2022, Oct 11. [S-Curve Adoption: Our House View on Alternative Protein Market Growth](https://synthesis.capital/insights/s-curve-adoption-our-house-view-on-alternative-protein-market-growth) Synthesis Capital Blog.

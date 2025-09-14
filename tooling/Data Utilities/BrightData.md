@@ -10,18 +10,15 @@ og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshot
 jina_last_request: '2025-03-09T06:45:17.950Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-05-27T16:51:01.836Z'
-date_modified: 2025-05-27
+date_modified: 2025-09-14
 date_created: 2025-03-30
 og_image: 'https://media.brightdata.com/2025/04/HP_OG.png'
 og_url: 'https://brightdata.com/'
 description: "Award winning proxy networks, powerful web scrapers, and ready-to-use datasets for download. Welcome to the world's #1 web data platform."
-tags:
-  - Data-Utilities
+tags: [Data-Utilities]
 ---
 
-[[concepts/Explainers for AI/AI Powered Data Capture]]
-![[Screenshot 2025-02-19 at 6.01.07 PM_BrightData--Hero.png]]
+[[concepts/Explainers for AI/AI Powered Data Capture|AI Powered Data Capture]]
+![Screenshot 2025-02-19 at 6.01.07 PM_BrightData--Hero.png](https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Screenshot_2025-02-19_at_6.01.07_PM_BrightData--Hero_NykkXyUWj.webp)
 
-
-![](https://i.imgur.com/kbWH14Q.png)
 

@@ -19,7 +19,7 @@ authors:
   - Michael Staton
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/reminders/2025-05-05_banner_image_Extended-Obsidian-Extended-Markdown_051a00d1-05e3-48da-ad20-5495341e13d1_QF6RSzqJp.webp
 ---
-[[Tooling/Productivity/Obsidian|Obsidian]]
+[[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]]
 
 https://help.obsidian.md/syntax
 

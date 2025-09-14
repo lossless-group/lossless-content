@@ -6,4 +6,4 @@ date_created: 2025-04-06
 
 https://youtu.be/00LKsV8h6zY?si=aLwkX3qrEST51PTM
 
-[[Obsidian.md]]
+[[Tooling/Productivity/Advanced Documents/Obsidian]]

@@ -16,13 +16,13 @@ augmented_with: Perplexity AI
 
 Most offer [[Realtime Collaboration]], in which each individual can see where and what others are working on, jump in, help with content creation and edits.  Most have a robust [[REST API]], and have many [[One-Click Integrations]], which enable all kinds of [[Workflow Automations]].  
 
-The current market leader is [[Notion]], which boasts a massive user-base.  The most feature-rich competitor to [[Notion]] is [[Coda]], however [[Coda]] was acquired by [[Tooling/AI-Toolkit/Grammarly]].  [[organizations/Microsoft]], which of course has the most massive business customer-base, has introduced [[Tooling/Productivity/Microsoft Loop|Loop]]. 
+The current market leader is [[Tooling/Productivity/Advanced Documents/Notion]], which boasts a massive user-base.  The most feature-rich competitor to [[Tooling/Productivity/Advanced Documents/Notion]] is [[Coda]], however [[Coda]] was acquired by [[Tooling/AI-Toolkit/Grammarly]].  [[organizations/Microsoft]], which of course has the most massive business customer-base, has introduced [[Tooling/Productivity/Async Communication/Microsoft Loop|Loop]]. 
 
-An open source variant is [[Affine]].
+An open source variant is [[Tooling/Productivity/Advanced Documents/Affine]].
 
-An early market entrant was [[Quip]], quickly acquired by [[Salesforce]] and likely has strong integrations with the [[Salesforce]] platform and tooling, thus potentially being good for [[Sales Support]]. 
+An early market entrant was [[Tooling/Productivity/Advanced Documents/Quip]], quickly acquired by [[Salesforce]] and likely has strong integrations with the [[Salesforce]] platform and tooling, thus potentially being good for [[Sales Support]]. 
 
-[[CraftDocs]], [[Obsidian.md]].
+[[Tooling/Productivity/Advanced Documents/CraftDocs]], [[Tooling/Productivity/Advanced Documents/Obsidian]].
 
 
 

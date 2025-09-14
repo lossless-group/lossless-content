@@ -7,5 +7,5 @@ aliases:
 ---
 
 ###### Map of Related Content
-- **Applications**: [[Tooling/Productivity/Obsidian|Obsidian]]
+- **Applications**: [[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]]
 -

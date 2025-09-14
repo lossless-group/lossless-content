@@ -3,7 +3,7 @@ google_books_url: https://books.google.com/books?id=_BHj1OYgF7wC
 date_created: 2025-07-23
 date_modified: 2025-07-29
 full_title: "Positioning: The Battle for Your Mind"
-author: "[[Jack Trout]]"
+author: "[[Sources/People/Jack Trout]]"
 site_uuid: 905814fc-8189-4b58-ae44-c5f920baf22c
 publish: true
 title: "Positioning: The Battle for your Mind."

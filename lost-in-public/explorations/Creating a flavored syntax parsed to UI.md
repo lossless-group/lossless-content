@@ -16,7 +16,7 @@ tags: [Flavored-Markdown]
 
 ###### Map of Related Content
 - **Concepts: [[concepts/Flavored Syntax|Flavored Syntax]],  [[projects/Emergent-Innovation/Standards/Markdown|Markdown]], [[Vocabulary/Markup]], [[Vocabulary/Text Parsing]]
-- **Inspiration**: [[Tooling/Software Development/DevOps/Documentation Engines/Readme]], [[Tooling/Productivity/Obsidian|Obsidian]],
+- **Inspiration**: [[Tooling/Software Development/DevOps/Documentation Engines/Readme]], [[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]],
 
 [content-structure](https://github.com/MicroWebStacks/content-structure)
 [Astro-Big-Doc](https://github.com/MicroWebStacks/astro-big-doc/tree/main)

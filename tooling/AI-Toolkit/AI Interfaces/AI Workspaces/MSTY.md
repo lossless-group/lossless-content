@@ -21,7 +21,7 @@ tags: [AI-Toolkit, AI-Interfaces, AI-Workspaces, Check-It-Out, Must-Have, Deskto
 `/home/[user]/.config/Msty/models`
 
 
-##### [[MSTY]] paired with [[Obsidian]]
+##### [[MSTY]] paired with [[Tooling/Productivity/Advanced Documents/Obsidian]]
 
 
 https://youtu.be/5U_lOjfZiXg?si=EJWZpDXYAT98xgCb

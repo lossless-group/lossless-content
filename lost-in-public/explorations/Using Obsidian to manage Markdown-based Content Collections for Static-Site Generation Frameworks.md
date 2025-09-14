@@ -81,7 +81,7 @@ Created a `vercel.json` configuration file with optimized settings for Astro and
 
 This poses a problem for using [[Backlinks]] as tool to create a kind of [[Wiki]] feature of your own website and its content.  When rendering a Markdown file as web content, any link to internal content will need to have the relative path from the root of the site directory (or some alias that can be set up).
 
-Unfortunately, I've been using Obsidian for about five months and I only figured out that [[Tooling/Productivity/Obsidian|Obsidian]] has an option in their Core Plugins/Backlinks that allows you to default to writing the  the absolute path from the vault route in the backlink.
+Unfortunately, I've been using Obsidian for about five months and I only figured out that [[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]] has an option in their Core Plugins/Backlinks that allows you to default to writing the  the absolute path from the vault route in the backlink.
 
 However, apparently there is not a built in way to then automatically convert pre-created backlinks into 
 

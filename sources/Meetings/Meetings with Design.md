@@ -26,7 +26,7 @@ Currently organized that the
 
 Different from Site to Site.  [[Insights Library]]
 Hard to find the right place.  Useful but a big mess. 
-No mass adoption of [[Tooling/Productivity/Microsoft Loop]].  
+No mass adoption of [[Tooling/Productivity/Async Communication/Microsoft Loop]].  
 Who decides the editorial for [[SharePoint]], [[Brand and Corporate Communication]] -- [[Paal Oftedal]] 
 [[Jill Reid]]
 

@@ -8,17 +8,13 @@ og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshot
 jina_last_request: '2025-03-09T06:45:21.821Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-03-07T05:19:01.832Z'
-date_modified: 2025-04-22
+date_modified: 2025-09-14
 date_created: 2025-03-30
 url: 'https://www.prisma.io'
 description_site_cp: 'Ship production apps at lightning speed, and scale to a global audience effortlessly with our next-gen serverless database.'
-tags:
-  - Data-Utilities
-  - Serverless-Database
-  - Check-It-Out
+tags: [Data-Utilities, Serverless-Database, Check-It-Out]
 ---
 
 A code library [[Object-Relational Mapper]] that works with modern [[concepts/Explainers for Tooling/Web Frameworks]] and [[concepts/Explainers for Tooling/Databases]].
 
 ##### Prisma is a [[concepts/State of the Art]] [[Object-Relational Mapper]]
-![[Screenshot 2025-02-20 at 2.31.50 AM_Prisma--Hero.png]]

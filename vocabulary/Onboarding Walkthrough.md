@@ -6,4 +6,4 @@ aliases:
   - Walkthrough
 ---
 
-![[Anytype#Anytype has a solid Onboarding Walkthrough]]
+![[Tooling/Productivity/Advanced Documents/Anytype#Anytype has a solid Onboarding Walkthrough]]

@@ -8,7 +8,7 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:15.744Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:19:01.839Z
-date_modified: 2025-04-24
+date_modified: 2025-09-14
 date_created: 2025-03-30
 tags: [Creative]
 url: https://affinity.serif.com/en-us/
@@ -45,7 +45,7 @@ allowfullscreen
 Can we? [^1]
 
 ##### [[Affinity]] Designer keeps [[concepts/Release Notes]]
-![[20250220_Affinity--Release-Notes.jpeg]] [^2]
+![20250220_Affinity--Release-Notes.jpeg](https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/20250220_Affinity--Release-Notes_Ta4NC2igt.webp) [^2]
 
 
 

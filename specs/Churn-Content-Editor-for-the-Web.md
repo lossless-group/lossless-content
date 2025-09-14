@@ -28,11 +28,11 @@ Why are we still using complex file formats?  [[Vocabulary/AI Models|AI Models]]
 
 We can use [[Tooling/Software Development/Programming Languages/HTML|HTML]] and [[Tooling/Software Development/Programming Languages/CSS|CSS]] for layout design.  We don't need [[organizations/Adobe|Adobe]] or [[Tooling/Creative/Affinity|Affinity]]. We need to make it a [[Vocabulary/Responsive Design|Responsive Design]] and publish it to the web anyway.  Emails and reports, fine okay. 
 
-Markdown editors are growing like crazy: [[Tooling/Productivity/Obsidian|Obsidian]], [[Tooling/Productivity/Anytype|Anytype]], [[Tooling/Productivity/CraftDocs|CraftDocs]], [[Tooling/Productivity/Logseq|Logseq]], 
+Markdown editors are growing like crazy: [[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]], [[Tooling/Productivity/Advanced Documents/Anytype|Anytype]], [[Tooling/Productivity/Advanced Documents/CraftDocs|CraftDocs]], [[Tooling/Productivity/Advanced Documents/Logseq|Logseq]], 
 
 Open source text editors like [[Tooling/Software Development/Developer Experience/Helix|Helix]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Zed|Zed]].
 
-Open source version control systems like [[Tooling/Products/Git|Git]], [[Gitoxide]], [[Tooling/Software Development/Developer Experience/DevOps/Jujutsu|Jujutsu]].
+Open source version control systems like [[Tooling/Products/Git|Git]], [[Tooling/Software Development/Developer Experience/DevOps/Gitoxide]], [[Tooling/Software Development/Developer Experience/DevOps/Jujutsu|Jujutsu]].
 
 We have open standards like [[projects/Emergent-Innovation/Standards/WebGL|WebGL]], and [[Vocabulary/WebGPU|WebGPU]], 
 
@@ -90,12 +90,12 @@ Sources
 [[Tooling/Software Development/Programming Languages/Libraries/Remark.js|Remark.js]]
 
 # Inspiration Set
-[[Tooling/Productivity/Quip|Quip]]
+[[Tooling/Productivity/Advanced Documents/Quip|Quip]]
 [[Tooling/Software Development/Developer Experience/Helix|Helix]]
-[[Tooling/Productivity/Notion|Notion]]
-[[Tooling/Productivity/Affine|Affine]]
+[[Tooling/Productivity/Advanced Documents/Notion|Notion]]
+[[Tooling/Productivity/Advanced Documents/Affine|Affine]]
 [[Tooling/Enterprise Jobs-to-be-Done/Coda|Coda]]
-[[Tooling/Productivity/Obsidian|Obsidian]]
+[[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]]
 [[Affinity Publisher]]
 [[Tooling/AI-Toolkit/Generative AI/Code Generators/Windsurf IDE|Windsurf IDE]]
 [[Tooling/AI-Toolkit/Generative AI/Code Generators/Zed|Zed]]

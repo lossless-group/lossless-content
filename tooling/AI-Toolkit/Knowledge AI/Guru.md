@@ -8,17 +8,13 @@ description: 'Guru seamlessly connects your chats, apps, and docs into one singl
 jina_last_request: 2025-03-09T06:45:01.003Z
 jina_error: TIMEOUT
 og_last_fetch: 2025-05-28T17:45:31.767Z
-date_modified: 2025-05-28
+date_modified: 2025-09-14
 date_created: 2025-03-30
 og_image: 'https://cdn.prod.website-files.com/5d8d029013ffd80bbb91320d/67a65c0c4ad3942cc0631529_OG-1%20(2).avif'
-tags:
-  - AI-Toolkit
-  - Knowledge-AI
-  - Knowledge-Bases
-  - AI-Native
+tags: [AI-Toolkit, Knowledge-AI, Knowledge-Bases, AI-Native]
 ---
 
 [[concepts/Explainers for AI/Knowledge Base AI]]
 
 ##### Guru Hero
-![[Screenshot 2025-02-20 at 1.21.57 AM_GetGuru--Hero.png]]
+![[Visuals/Heroes/Screenshot 2025-02-20 at 1.21.57 AM_GetGuru--Hero.png]]

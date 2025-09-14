@@ -5,7 +5,7 @@ date_created: 2025-04-06
 aliases: [Markdown Editors]
 ---
 
-[[Ulysses]], [[Obsidian.md]], [[Typora]], [[Anytype]]
+[[Ulysses]], [[Tooling/Productivity/Advanced Documents/Obsidian]], [[Tooling/Productivity/Advanced Documents/Typora]], [[Tooling/Productivity/Advanced Documents/Anytype]]
 
 A **Markdown Editor** is a lightweight text editor designed for writing and formatting text using Markdown syntax, a plain-text formatting language that can be converted to HTML or other formats. Markdown editors simplify creating structured documents without requiring complex HTML coding, making them popular for technical writing, documentation, and note-taking[1][5].
 

@@ -9,7 +9,7 @@ date_modified: 2025-04-24
 Include [[Tooling/Software Development/DevOps/Developer Experience/Linear]], [[Whimsical]], [[Tooling/Software Development/DevOps/Graphite]]
 
 ### Tools for [[Workflow Management]]
-[[ClickUp]], [[Asana]], 
+[[Tooling/Productivity/Workflow Management/ClickUp]], [[Tooling/Productivity/Workflow Management/Asana]], 
 ## Tooling Engineer
 [[concepts/Stack Engineering]]
 

@@ -29,7 +29,7 @@ Tools like:
 
 https://youtu.be/mK_h1OZHzHE?si=4dPfGigzUZFO6Wtw
 ### AI Powered Transcription Services
-Include [[Fathom AI]], [[Granola]], [[Bubbles]]
+Include [[Fathom AI]], [[Granola]], [[Tooling/Productivity/Async Communication/Bubbles]]
 
 A wearable device is [[Tooling/AI-Toolkit/Data Augmenters/Limitless AI|Limitless AI]]
 

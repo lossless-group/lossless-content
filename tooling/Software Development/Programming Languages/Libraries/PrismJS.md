@@ -16,4 +16,4 @@ tags:
   - Code-Libraries
 ---
 
-Used by [[Obsidian]]
+Used by [[Tooling/Productivity/Advanced Documents/Obsidian]]

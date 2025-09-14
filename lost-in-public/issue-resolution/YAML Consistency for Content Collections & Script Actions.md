@@ -22,7 +22,7 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resoluti
 image_prompt: YAML frontmatter with checkmarks, Astro content collection icons, and script automation visualized in a modern workspace.
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_YAML-Consistency-for-Content-Collections--Script-Actions_4e36bbcb-1545-44f1-b91a-e7f297288168_Gp1gMybH4.webp
 ---
-## And it turns out that there is an [[Obsidian]] plugin that can do content-wide transormations:
+## And it turns out that there is an [[Tooling/Productivity/Advanced Documents/Obsidian]] plugin that can do content-wide transormations:
 update::2025-03-19
 
 ![](https://i.imgur.com/MCaqrGg.png)

@@ -8,7 +8,7 @@ aliases:
   - Reference Management Systems
 ---
 
-[[PapersApp]]
+[[Tooling/Productivity/Research Tools/PapersApp]]
 > [!NOTE] AI Explains
 > ### **What are Reference Management Systems?**
 > 

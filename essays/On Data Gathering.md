@@ -1,6 +1,6 @@
 ---
 date_created: 2024-09-28
-date_modified: 2025-07-21
+date_modified: 2025-09-15
 site_uuid: 261aa002-d0a0-47b4-9f93-8f9cc09ded9d
 title: On Data Gathering
 lede: "Effective data gathering is the foundation for building intelligent, reliable AI systems."
@@ -21,6 +21,8 @@ authors:
 [This is how I scrape 99% websites via LLM](https://youtu.be/7kbQnLN2y_I?si=V8K6P_qvpUW1rYkb) on [[YouTube]]. 
 Features: [[Spider]], [[Firecrawl]], and [[Jina.ai]]. [[AI Jason]].  
 
+[[Tooling/Data Utilities/LakeFS|LakeFS]]
+
 [[concepts/Explainers for AI/Artificial Intelligence|Artificial Intelligence]] now has an important role to play in [[concepts/Explainers for AI/AI Powered Data Capture|AI Powered Data Capture]]. 
 
 Services that use **proxies**, **API-driven browsers**, and **AI agents** can significantly augment data collection, market analysis, and customer insight for companies aiming for a deeper understanding of their markets and clients. Here’s how these tools can enhance the quality and breadth of company data, alongside a list of well-regarded services developers use in these domains.
@@ -36,7 +38,7 @@ Services that use **proxies**, **API-driven browsers**, and **AI agents** can si
 - **Security & Compliance:** Proxies help ensure secure, confidential market research activity, supporting compliance with data privacy regulations like GDPR and CCPA through secure, anonymized data access[1][3].
 
 **API-Driven Browsers**
-- **Automated, Dynamic Data Gathering:** API-driven browsers (e.g., [[Tooling/Software Development/Developer Experience/DevTools/Playwright]], [[Tooling/Software Development/Developer Experience/DevTools/Puppeteer|Puppeteer]]) automate interactions with complex, JavaScript-heavy web content that static scrapers cannot parse. This enables collection of data from booking engines, social media, or e-commerce platforms that require logins, button clicks, or other dynamic actions.
+- **Automated, Dynamic Data Gathering:** API-driven browsers (e.g., [[Tooling/Software Development/Developer Experience/DevTools/Playwright|Playwright]], [[Tooling/Software Development/Developer Experience/DevTools/Puppeteer|Puppeteer]]) automate interactions with complex, JavaScript-heavy web content that static scrapers cannot parse. This enables collection of data from booking engines, social media, or e-commerce platforms that require logins, button clicks, or other dynamic actions.
 - **Integrated Workflow Automation:** These tools allow scheduled, programmable extraction for continuous market monitoring and timely intelligence, integrating easily into existing data pipelines.
 
 **AI Agents**
@@ -49,7 +51,7 @@ Services that use **proxies**, **API-driven browsers**, and **AI agents** can si
 ### Popular and Well-Regarded Services
 
 #### **Proxy Services**
-- **Bright Data**
+- **[[Tooling/Data Utilities/BrightData|BrightData]]**
 - **Oxylabs**
 - **Smartproxy**
 - **GeoSurf**
@@ -158,7 +160,7 @@ North America commands 35% of the global market, fueled by tech hubs and AI rese
 
 ### Competitive Strategies  
 - **Hyperscalers (AWS, Google Cloud, Azure)**: Monetize AI workloads via cloud migrations, offering customizable chips to offset costs. Their focus remains on increasing platform lock-in through integrated AI services[1].  
-- **Startups vs. Incumbents**: Specialized players (e.g., Gretel.ai, DatologyAI) dominate niche segments like synthetic data, while incumbents acquire capabilities (e.g., SAS’s Hazy purchase)[16].  
+- **Startups vs. Incumbents**: Specialized players (e.g., [[Tooling/AI-Toolkit/Data Augmenters/Gretel.ai]], DatologyAI) dominate niche segments like synthetic data, while incumbents acquire capabilities (e.g., SAS’s Hazy purchase)[16].  
 - **Ethical Differentiation**: Providers like MOSTLY AI emphasize accuracy-transparency tradeoffs, while Bright Data promotes "ethical scraping" via consent-based public data archives[12][13].  
 
 ## Challenges and Future Trajectories  

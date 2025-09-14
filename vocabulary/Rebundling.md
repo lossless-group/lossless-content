@@ -6,4 +6,4 @@ aliases:
   - The Everything App
 ---
 
-Services like [[ClickUp]] are [[Rebundling|The Everything App]]
+Services like [[Tooling/Productivity/Workflow Management/ClickUp]] are [[Rebundling|The Everything App]]

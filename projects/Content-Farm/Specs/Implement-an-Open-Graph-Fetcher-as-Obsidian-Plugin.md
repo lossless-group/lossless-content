@@ -26,7 +26,7 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-
 
 # Objective
 
-Implement our work that fetches OpenGraph.io into a dedicated [[Tooling/Productivity/Obsidian|Obsidian]] plugin. 
+Implement our work that fetches OpenGraph.io into a dedicated [[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]] plugin. 
 
 The plugin has the working name "Open Graph Fetcher" or `open-graph-fetcher` and can be found on GitHub at [open-graph-fetcher-obsidian-plugin](https://github.com/lossless-group/open-graph-fetcher-obsidian-plugin/) with the development branch being most active. From the [lossless-monorepo](https://github.com/lossless-group/lossless-monorepo) it can be found as a submodule. 
 

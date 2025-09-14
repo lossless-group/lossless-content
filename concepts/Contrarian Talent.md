@@ -4,7 +4,7 @@ date_created: 2025-04-14
 date_modified: 2025-04-24
 ---
 
-[[Obsidian.md]] was created by two people, Erica Xu and Shida Li, and has reached large scale success with a team of six.
+[[Tooling/Productivity/Advanced Documents/Obsidian]] was created by two people, Erica Xu and Shida Li, and has reached large scale success with a team of six.
 
 Identifying talent also follows counterintuitive patterns.  An extreme ability to focus on their own accord.  An ability to think logically and methodically through step order functions longer than most people care to. An iconoclastic irreverence for whatever has come before.  
 

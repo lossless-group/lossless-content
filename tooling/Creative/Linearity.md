@@ -8,10 +8,9 @@ og_screenshot_url: >-
 jina_last_request: '2025-03-09T06:45:06.664Z'
 jina_error: Error occurred
 og_last_fetch: '2025-03-07T05:19:01.838Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.846Z'
-tags:
-  - Creative
+date_modified: 2025-09-14
+date_created: 2025-03-30
+tags: [Creative]
 url: 'https://www.linearity.io/'
 ---
 
@@ -31,5 +30,4 @@ url: 'https://www.linearity.io/'
 
 Similar to [[Affinity]]
 
-##### [[Linearity]] is provides a suite of [[Design Tools]], with easy [[Animations]]
-![[Screenshot 2025-02-25 at 3.49.10 PM_Linearity--Hero.png]]
+##### [[Linearity]] is provides a suite of [[concepts/Explainers for Tooling/Design Tools]], with easy [[Animations]]

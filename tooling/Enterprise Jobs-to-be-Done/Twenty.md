@@ -9,7 +9,7 @@ https: //og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/2ef97ffe0b869e2e
 jina_last_request: "'2025-03-09T06:45:14.644Z'"
 jina_error: '''Error occurred'''
 og_last_fetch: '2025-04-23T23:31:15.118Z'
-date_modified: 2025-04-23
+date_modified: 2025-09-14
 date_created: 2025-03-30
 url: "'https://twenty.com/'"
 og_image: "'https://framerusercontent.com/assets/44L5tf46iK9v7QZCaZmwDNNw6Ts.png'"
@@ -20,10 +20,9 @@ description: "'Packed with advanced features, customizable workflows, supported 
 [[Twenty]] is a [[concepts/State of the Art]] [[CRM]], and it is [[Open Source]]
 
 ##### [[Twenty]] is an [[Open Source]] [[CRM|Customer Relationship Management]] system.
-![[Screenshot 2025-02-18 at 3.58.36 PM_Twenty--Hero.png]]
 
 ##### Twenty has a Data Model Visualization:
-![[Screenshot 2025-02-18 at 1.52.56 PM_Twenty__Data-Model.png]]
+![[Visuals/Screenshots/Screenshot 2025-02-18 at 1.52.56 PM_Twenty__Data-Model.png]]
 ##### Twenty features relational data mapping to custom fields
 ![[Screenshot 2025-02-18 at 1.43.41 PM_Twenty__Relational-Data-Mapping.png]]
 

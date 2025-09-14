@@ -4,6 +4,6 @@ site_uuid: 52b72846-30bc-452f-99a4-452ca036e180
 date_created: 2025-04-06
 ---
 
-[[Obsidian.md]]
+[[Tooling/Productivity/Advanced Documents/Obsidian]]
 
-[[Roam]]
+[[Tooling/Productivity/Advanced Documents/Roam]]

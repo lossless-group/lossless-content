@@ -6,5 +6,5 @@ date_created: 2025-04-06
 
 [[Teams]]
 
-[[Zoom]]
+[[Tooling/Productivity/Web Meetings/Zoom]]
 [[Teams|Microsoft Teams]]

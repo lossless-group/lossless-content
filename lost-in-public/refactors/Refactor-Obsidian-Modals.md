@@ -10,7 +10,7 @@ date_created: 2025-07-22
 date_modified: 2025-07-23
 ---
 
-Because the [[Tooling/Productivity/Obsidian|Obsidian]] API and developer docs have their own peculiarity, I thought I would document how to refactor a really long modal into importable sections:
+Because the [[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]] API and developer docs have their own peculiarity, I thought I would document how to refactor a really long modal into importable sections:
 
 
 ```zsh

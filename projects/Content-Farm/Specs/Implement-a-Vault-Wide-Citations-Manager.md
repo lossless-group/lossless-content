@@ -34,7 +34,7 @@ Here's how it works:
 
 # Objective
 
-Implement our work that transforms citations and footnotes in Markdown files in a dedicated [[Tooling/Productivity/Obsidian|Obsidian]] plugin. 
+Implement our work that transforms citations and footnotes in Markdown files in a dedicated [[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]] plugin. 
 
 The plugin has the working name "Cite Wide" or `cite-wide` and can be found on GitHub at [cite-wide](https://github.com/lossless-group/cite-wide.git) with the development branch being most active. From the [lossless-monorepo](https://github.com/lossless-group/lossless-monorepo) it can be found as a submodule. 
 
@@ -48,7 +48,7 @@ The plugin has the working name "Cite Wide" or `cite-wide` and can be found on G
 
 We have developed at various times scripts and observers that transform numeric citations in Markdown files to unique hexadecimal identifiers. We were attempting to ensure consistent citation formatting, and we were working towards creating a robust citation, footnote, and reference management system.
 
-Our team uses [[Tooling/Productivity/Obsidian|Obsidian]] to manage content, which uses relatively common [Extended Markdown syntax for footnotes](https://help.obsidian.md/syntax#Footnotes) found on the [Obsidian Docs here](https://help.obsidian.md/syntax#Footnotes)
+Our team uses [[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]] to manage content, which uses relatively common [Extended Markdown syntax for footnotes](https://help.obsidian.md/syntax#Footnotes) found on the [Obsidian Docs here](https://help.obsidian.md/syntax#Footnotes)
 
 Our previous work can be found in the prompt entitled [[lost-in-public/prompts/data-integrity/Integrate-Citations-Format-Hex-into-Observer|Integrate-Citations-Format-Hex-into-Observer]].  
 ### AI Generated Content & Unmanageable References

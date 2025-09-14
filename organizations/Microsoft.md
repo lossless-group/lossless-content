@@ -9,7 +9,7 @@ umbrella-of:
 
 [[Blazor]]
 
-[[Tooling/Productivity/Microsoft Loop|Loop]]
+[[Tooling/Productivity/Async Communication/Microsoft Loop|Loop]]
 
 [[SharePoint]]
 

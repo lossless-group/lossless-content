@@ -17,7 +17,7 @@ Could help Sales teams on [[Design Interviews]]
 
 Creating a dashboard on top of [[organizations/Dovetail]] that shows the "comprehensiveness" of the data.  
 
-Can use [[Tooling/Productivity/Microsoft Loop]] as an [[concepts/Explainers for Tooling/Advanced Documents|Advanced Documents]].  
+Can use [[Tooling/Productivity/Async Communication/Microsoft Loop]] as an [[concepts/Explainers for Tooling/Advanced Documents|Advanced Documents]].  
 
 [[Design Ops]], [[Kevin Fox]] is part of the [[Digital Business Unit]].  
 
