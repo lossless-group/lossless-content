@@ -29,7 +29,7 @@ AI can significantly enhance the dissemination and utilization of internal knowl
 
 3. **Chatbots & [[concepts/Explainers for AI/AI Assistants|Virtual Assistants]]**: AI-powered chatbots can act as internal helpdesks or guides, providing instant answers to employee queries, reducing the burden on HR and subject matter experts.
 
-4. **[[Predictive Analytics]]**: By analyzing patterns in data, AI can predict what information an employee might need next, proactively suggesting relevant resources.
+4. **[[concepts/Explainers for Tooling/Predictive Analytics]]**: By analyzing patterns in data, AI can predict what information an employee might need next, proactively suggesting relevant resources.
 
 5. **Language Translation Tools**: For international companies, real-time translation tools powered by AI can break down language barriers, enabling seamless knowledge sharing across different countries and languages.
 

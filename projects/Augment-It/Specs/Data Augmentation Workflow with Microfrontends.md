@@ -22,7 +22,13 @@ image_prompt: A modern workflow diagram showing interconnected microfrontend app
 banner_image: {{URL-to-relevant-image}}
 portrait_image: {{optional-URL-to-portrait-image}}
 ---
-![[Visuals/GIFs/2025-01-27 19.55.40_Data-Augmentation-App--Group-by-Customer.gif]]
+:::slides
+- [[slides/data-augmentation-workflow.md]]
+:::
+
+:::slideshow
+- [[slides/Data-Augmentation-Workflow-2.astro]]
+:::
 ## 1. Executive Summary
 
 This specification defines a data augmentation workflow implemented through a microfrontend architecture using module federation. The system enables distributed processing of content through specialized applications that collect, process, review, and enhance data using AI assistance. The modular approach allows for independent development, deployment, and scaling of individual workflow components while maintaining seamless integration.
@@ -172,4 +178,4 @@ graph TD
 
 ### Revision History
 - v0.0.0.1 (2025-07-24): Initial draft with basic application list
-- v0.0.0.1 (2025-08-09): Applied specification template structure 
+- v0.0.0.1 (2025-08-09): Applied specification template structure

@@ -22,10 +22,77 @@ square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-E
 
 
 
-# Specification for Embedding Reveal.js Presentations in Markdown
+# Blueprint for Embedding Reveal.js Presentations in Markdown
 
 ### Overview
-This specification defines how to embed Reveal.js presentations within rendered markdown files using a consistent syntax that aligns with the existing backlink convention.
+This specification defines how we embed Reveal.js presentations within rendered markdown files using a consistent syntax that aligns with the existing backlink convention.
+
+### Context:
+We have markdown-based presentations working, and they are embeddable.
+
+We have Astro-based presentations working, but they are not embeddable yet. They only work directly from the `src/pages/slides/` directory and the page that renders.
+
+#### Render Pipeline Architecture:
+
+**Content Organization:**
+- Content Team works separately from Web Dev using Obsidian from monorepo root submodule (`/content`)
+- Environment Variables allow anyone working in the code to set content repository that is being rendered at either `/site/src/content` or `/content`
+- Markdown-based presentations are located in `/content/slides/`
+- Astro-based presentations don't have a default location yet - considering `/site/src/content/slides` or `/site/src/pages/slides`
+
+**Directive Processing (`/site/src/utils/markdown/remark-directives.ts`):**
+- `directiveComponentMap` maps directive names to components: `"slides": "SlidesEmbed"`, `"slideshow": "SlidesEmbed"`
+- `remarkDirectiveTransform` plugin processes `:::slides` directives in markdown
+- Extracts slide paths from container content (markdown list items with backlinks)
+- Converts directive to `<SlidesEmbed>` component with slides array and config
+
+**Slide Layout (`/site/src/layouts/OneSlideDeck.astro`):**
+- RevealJS-based presentation layout with CDN resources
+- Provides PDF export functionality and navigation controls
+- Configures RevealJS with 16:9 aspect ratio and responsive design
+- Includes plugins: Markdown, Highlight, Notes, Zoom
+
+**Markdown Processing (`/site/src/components/markdown/AstroMarkdown.astro`):**
+- Lines 1830-1890: Handles `slides`/`slideshow` directives
+- `slides`/`slideshow` variants could potentially untangle Astro and Markdown based render piplelines.
+- Parses container content for list items with slide backlinks
+- Extracts `path` and `title` from link nodes
+- Returns `<SlidesEmbed>` component or debug info if no slides found
+
+**Embedding Component (`/site/src/components/SlidesEmbed.astro`):**
+- Creates iframe embedding slides via `/slides/embed/[...slug]` route
+- Sanitizes paths and builds embed URL with config query parameters
+- Supports configuration: theme, transition, controls, progress, autoSlide, loop
+
+**Embed Route (`/site/src/pages/slides/embed/[...slug].astro`):**
+- Reads markdown slides from `src/generated-content/slides/` directory
+- Uses `MarkdownSlideDeck` layout for consistency
+- Processes query parameters for RevealJS configuration
+
+**Astro/HTML presentations (`site/src/pages/slides`) render independently**:
+- Direct Astro components using `<OneSlideDeck>` layout with RevealJS
+- Each presentation is a standalone `.astro` file (e.g., `Data-Augmentation-Workflow-2.astro`)
+- Uses `<Layout>` wrapper with `<OneSlideDeck>` for RevealJS integration
+- Contains HTML `<section>` elements for slides with RevealJS classes/attributes
+- Accessible directly via `/slides/{filename}` routes
+- **NOT currently embeddable** - 
+  - embed route only handles markdown from `src/generated-content/slides/`
+  - **embedding doesn't work with any route.**
+
+**Current Embedding Limitation**:
+- `/slides/embed/[...slug].astro` only reads `.md` files from `src/generated-content/slides/`
+- No logic to detect or render Astro component presentations
+- Astro presentations exist in `src/pages/slides/` but embed system doesn't check this location
+- Need to extend embed route to handle both markdown and Astro presentation types
+
+#### Task at Hand:
+
+Enable Astro presentations to be embeddable in Markdown files that are rendered through our Markdown render pipeline. 
+
+The current system works for markdown-based slides but needs extension to support Astro component slides with a clear path for our team to put the files. It could be in any of:
+ - `src/pages/slides/`
+ - `src/content/slides/`
+ - `/content/slides/`
 
 ### Syntax
 

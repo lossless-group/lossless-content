@@ -15,4 +15,4 @@ tags: [Productivity, Research-Tools]
 
 [[Reference Management System]]
 
-[[AI Powered Research]]
+[[concepts/Explainers for AI/AI Powered Research]]

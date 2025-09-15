@@ -89,7 +89,7 @@ Modern enterprise architecture practices emphasize modular design principles tha
 
 The most successful large-scale systems adopt a _layered architecture_ approach where clear contracts define how different components interact, using **well-documented APIs** to eliminate ambiguity and reduce coupling. This architectural discipline becomes increasingly critical as codebases grow, because tightly coupled systems become exponentially more difficult to modify and maintain as they scale.
 
-The scalability pillar of enterprise architecture requires systems that can handle growth in users, data, and transactions without performance degradation. [^34zarw] This extends beyond mere computational capacity to encompass development team scalability, where architectural decisions must support hundreds of developers working simultaneously without creating bottlenecks or conflicts. The most successful large codebases implement clear [[Separation of Concerns]], where different teams can work on different layers or components without extensive coordination overhead.
+The scalability pillar of enterprise architecture requires systems that can handle growth in users, data, and transactions without performance degradation. [^34zarw] This extends beyond mere computational capacity to encompass development team scalability, where architectural decisions must support hundreds of developers working simultaneously without creating bottlenecks or conflicts. The most successful large codebases implement clear [[Vocabulary/Separation of Concerns]], where different teams can work on different layers or components without extensive coordination overhead.
 
 ## AI-Powered Code Management and Analysis
 
