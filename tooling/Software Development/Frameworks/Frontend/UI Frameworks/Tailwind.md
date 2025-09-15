@@ -1,20 +1,29 @@
 ---
+site_uuid: 53b586ca-ba55-49ac-a88a-cc63ff6ec568
 url: 'https://tailwindcss.com/'
-date_created: 2025-04-07
-date_modified: 2025-04-12
-site_uuid: 170e7dcc-04f4-4b08-b7be-5a060c93a23d
-og_title: 'Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.'
-og_description: '>-'
+image: 'https://tailwindcss.com/opengraph-image.jpg?22502194f1a254bc'
+site_name: 'Tailwind CSS'
+title: 'Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.'
+favicon: 'https://tailwindcss.com/favicon.ico'
+jina_last_request: '2025-03-09T06:45:06.285Z'
+jina_error: 'Error occurred'
+og_last_fetch: '2025-05-29T15:36:59.296Z'
+date_modified: 2025-09-15
+date_created: 2025-03-30
+og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250529_Tailwind_og_screenshot.jpeg'
 og_image: 'https://tailwindcss.com/opengraph-image.jpg?fbee406903dc9e88'
-og_url: 'https://tailwindcss.com/'
-og_last_fetch: '2025-04-07T17:52:42.004Z'
-og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250605_Tailwind_og_screenshot.jpeg'
-tags:
-  - Software-Development
-  - Frontend
-  - UI-Frameworks
+description: 'Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML.'
+tags: [Software-Development, Frameworks, Web-Frameworks, Frontend, CSS-Frameworks]
 ---
 
-# Tailwind CSS
+A [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]] for managing [[Tooling/Software Development/Programming Languages/CSS]]. It's [[Opinionated]] about [[Inline Styles]]
 
-A utility-first CSS framework for rapidly building custom user interfaces.
+[[Theo-t3.gg]] has good [[YouTube]] coverage of [[Tooling/Software Development/Frameworks/Frontend/UI Frameworks/Tailwind|Tailwind]] v.4 at [this link](https://youtu.be/q55u3_Nj3Lw?si=vx5lFyilExipbhTe).
+
+# Tailwind Libraries
+
+## Tailwind Motion
+A good [[YouTube]] explainer of Tailwind Motion by [[Theo-t3.gg]] at [this link.](https://youtu.be/gTi7whoLFGc?si=p6eirlndBFaYbhrA)
+
+# Pinegrow Visual Editor
+[[Tooling/Creative/Pinegrow]]

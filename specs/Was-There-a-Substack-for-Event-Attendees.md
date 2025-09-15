@@ -34,7 +34,7 @@ We now have a next generation [[Vocabulary/Cross-Platform Applications|Cross-Pla
 Aliases: defaults to plural, singular, acronym, acronym plural. 
 Show, hide HTML, CSS
 Apps and [[Vocabulary/Plug-ins,  Add-ons,  Extensions|Plug-ins,  Add-ons,  Extensions]]
-Use [[Tooling/Software Development/Frameworks/Web Frameworks/Tailwind|Tailwind]]
+Use [[Tooling/Software Development/Frameworks/Frontend/UI Frameworks/Tailwind|Tailwind]]
 
 Only deal with [[projects/Emergent-Innovation/Standards/Markdown|Extended Markdown]], 
 
@@ -76,7 +76,7 @@ Sources
 [[Tooling/Software Development/Programming Languages/Elixir|Elixir]]
 [[Tooling/Software Development/Databases/DuckDB|DuckDB]]
 [[Tooling/Software Development/Programming Languages/Libraries/wgpu|wgpu]]
-[[Tooling/Software Development/Frameworks/Web Frameworks/Tailwind|Tailwind]]
+[[Tooling/Software Development/Frameworks/Frontend/UI Frameworks/Tailwind|Tailwind]]
 [[Tooling/Software Development/Programming Languages/Libraries/Glow|Glow]]
 [[Tooling/Software Development/Programming Languages/Libraries/Unified.js|Unified.js]]
 [[Tooling/Software Development/Programming Languages/Libraries/Remark.js|Remark.js]]

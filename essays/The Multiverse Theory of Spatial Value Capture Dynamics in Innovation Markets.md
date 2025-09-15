@@ -1,6 +1,6 @@
 ---
 date_created: 2025-04-15
-date_modified: 2025-04-30
+date_modified: 2025-09-15
 site_uuid: a55ab81c-2a3c-41a4-a70d-cb83d2e97cdb
 title: The Multiverse Theory of Spatial Value Capture Dynamics in Innovation Markets
 lede: "Innovation markets behave like a multiverse—value clusters, shifts, and leaps across invisible boundaries."
@@ -14,7 +14,7 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05
 image_prompt: "A multidimensional doughnut-shaped universe, with glowing bands and clusters representing value capture, and dynamic arrows showing movement between zones. The mood is abstract, scientific, and visually striking."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_The-Multiverse-Theory-of-Spatial-Value-Capture-Dynamics-in-Innovation-Markets_3c25aae3-158a-47b6-894d-bfa965641439_oZlKFZ5hN.jpg
 tags: [Conceptual-Frameworks]
-authors: 
+authors:
   - Michael Staton
 publish: false
 ---

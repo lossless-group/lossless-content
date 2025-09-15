@@ -1,8 +1,9 @@
 ---
 date_created: 2025-03-28
-date_modified: 2025-04-12
+date_modified: 2025-09-15
 site_uuid: 36b3922d-33fd-4dc9-982d-1a861b353a81
 ---
+![Approved Agreement Allowed Validation Concept](https://www.freepik.com/free-photo/approved-agreement-allowed-validation-concept_18044379.htm)
 
 >[!NOTE] [[Poe AI]] explains [[Acceptance Testing]] for the age of AI
 > Acceptance Testing (AT) and [[concepts/Test-Driven Development]] (TDD) are methodologies designed to ensure that software behaves as expected and meets predefined requirements. In the age of AI-powered code generation, these approaches are regaining importance because they provide a structured way to verify that AI-generated code does not inadvertently introduce bugs, remove functionality, or deviate from business requirements.

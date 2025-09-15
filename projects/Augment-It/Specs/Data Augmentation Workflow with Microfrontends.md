@@ -11,7 +11,7 @@ status: Draft
 augmented_with: Windsurf on Claude Sonnet 4
 category: Technical-Specification
 date_created: 2025-07-24
-date_modified: 2025-08-12
+date_modified: 2025-09-15
 site_uuid: b37337cd-e1dd-41c7-9917-f0e6469886e9
 publish: true
 slug: data-augmentation-workflow
@@ -22,7 +22,7 @@ image_prompt: A modern workflow diagram showing interconnected microfrontend app
 banner_image: {{URL-to-relevant-image}}
 portrait_image: {{optional-URL-to-portrait-image}}
 ---
-
+![[Visuals/GIFs/2025-01-27 19.55.40_Data-Augmentation-App--Group-by-Customer.gif]]
 ## 1. Executive Summary
 
 This specification defines a data augmentation workflow implemented through a microfrontend architecture using module federation. The system enables distributed processing of content through specialized applications that collect, process, review, and enhance data using AI assistance. The modular approach allows for independent development, deployment, and scaling of individual workflow components while maintaining seamless integration.

@@ -29,6 +29,6 @@ Includes [[NEXT.js]], [[Solid.js]], [[Svelte]],
 
 ## CSS Frameworks
 
-[[concepts/Explainers for Tooling/Web Frameworks|Frameworks]] for [[Tooling/Software Development/Programming Languages/CSS]] include [[Tailwind]]. 
+[[concepts/Explainers for Tooling/Web Frameworks|Frameworks]] for [[Tooling/Software Development/Programming Languages/CSS]] include [[Tooling/Software Development/Frameworks/Frontend/UI Frameworks/Tailwind]]. 
 
 Includes [[Flask]], [[Django]], 
