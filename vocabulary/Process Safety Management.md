@@ -1,6 +1,5 @@
 ---
-aliases:
-  - PSM Burden
+aliases: [PSM Burden]
 date_created: 2025-09-15
 date_modified: 2025-09-15
 site_uuid: 80690ed9-b823-460a-a65d-6634855ab671

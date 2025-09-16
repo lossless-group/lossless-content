@@ -157,7 +157,7 @@ https://youtu.be/_Y_1ojMSNdg?si=jAOUzGPUhbKxiFoD
 > - **Notable Providers:**
 >     
 >     - **[[Lucidworks]]:** Provides AI-powered enterprise search and discovery solutions.
->     - **[[Algolia]]:** Specializes in AI-enhanced search for websites and applications.
+>     - **[[Tooling/Software Development/Lego-Kit Engineering Tools/Algolia]]:** Specializes in AI-enhanced search for websites and applications.
 >     - **[[Elastic]] (Elasticsearch):** Offers advanced search and analytics capabilities, with AI-driven extensions.
 > 
 > **Use Case:** A law firm can use AI-powered search to quickly locate relevant case files and legal precedents.

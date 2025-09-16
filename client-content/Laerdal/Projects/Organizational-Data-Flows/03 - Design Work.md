@@ -1,6 +1,6 @@
 ---
 date_created: 2025-01-07
-date_modified: 2025-07-29
+date_modified: 2025-09-16
 title: Test Title
 ---
 ## Assessment of the [[Life Design System]]
@@ -104,7 +104,9 @@ An Example of how Area Labels helps designers navigate through large files.
 
 #### A Screenshot of the Information Flow Map
 This is a screenshot as of 2025, Jan 30. 
-![[20250130_Lossless_Designs--v08_Information-Map__For-Comment.png]]
+![Screenshot of the Information Flow Map](https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/20250130_Lossless_Designs--v08_Information-Map__For-Comment.png?updatedAt=1757977905076)
+
+![[Visuals/Screenshots/20250130_Lossless_Designs--v08_Information-Map__For-Comment.png]]
 This is an export of a variant with [[Sales Marketing and Services]] included.
 ![[v09_Information-Map__For-Comment.png]]
 ### Data Modeling Kit
