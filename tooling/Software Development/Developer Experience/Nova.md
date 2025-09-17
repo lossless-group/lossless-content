@@ -25,5 +25,5 @@ tags:
   - Apple-Ecosystem
 ---
 
-A [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editor]] designed for [[organizations/Apple]] devices. Great for [[Diffs]]
+A [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editor]] designed for [[organizations/Apple]] devices. Great for [[Vocabulary/Diffs]]
 

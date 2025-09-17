@@ -6,4 +6,4 @@ aliases: [Digital Asset Library]
 ---
 
 Includes 
-[[Tooling/Creative/IconScout|IconScout]], [[Vecteezy]], [[Tooling/Creative/Envato Elements]]
+[[Tooling/Creative/IconScout|IconScout]], [[Tooling/Creative/Vecteezy]], [[Tooling/Creative/Envato Elements]]

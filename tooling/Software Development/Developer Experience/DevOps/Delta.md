@@ -8,5 +8,5 @@ tags: [Open-Source, Open-Source-Collaborations, Git-Ecosystem, Dev-Ops-Tools, De
 [[Vocabulary/Dev Ops|DevOps]]
 [[concepts/Version Control|Version Control]]
 [[concepts/Version Control|Source Control Management]]
-[[Diffs]]
-[[Rust Rebuilds]]
+[[Vocabulary/Diffs]]
+[[concepts/Rust Rebuilds]]
