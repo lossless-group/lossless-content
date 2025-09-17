@@ -1,6 +1,6 @@
 ---
 date_created: 2025-04-15
-date_modified: 2025-04-30
+date_modified: 2025-09-17
 site_uuid: 6bd48664-6874-420c-9c35-c7ed35e5e3e1
 title: The Geography of Innovation
 lede: Innovation may be global, but it still clusters in a few creative hotspots.
@@ -14,7 +14,7 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05
 image_prompt: A world map with glowing spikes rising from major cities—San Francisco, New York, Beijing, Shanghai, Berlin, London, Tallinn—highlighting global innovation hubs. The mood is dynamic, urban, and interconnected.
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_The-Geography-of-Innovation_d960544e-c51b-42bd-838b-9c07d609e3b1_jAWQ8NFK_.jpg
 tags: [Conceptual-Frameworks, Near-Future-Anticipation]
-authors: 
+authors:
   - Michael Staton
 publish: false
 ---

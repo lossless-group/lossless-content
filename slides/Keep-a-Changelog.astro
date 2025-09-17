@@ -1,0 +1,313 @@
+---
+/**
+ * Keep a Changelog presentation
+ * This demonstrates our comprehensive approach to changelog management using Astro content collections
+ */
+
+// Title and description for the presentation
+const title = "Keep a Changelog: A Comprehensive Blueprint";
+const description = "Standardized approach to maintaining comprehensive changelogs for code and content changes";
+---
+
+<html>
+<head>
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/dist/reveal.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/dist/theme/white.css">
+  <style>
+    .reveal .slides section {
+      text-align: left;
+    }
+    .reveal h1, .reveal h2, .reveal h3 {
+      color: #2c3e50;
+    }
+    .title-slide {
+      text-align: center !important;
+    }
+    .fragment {
+      opacity: 0.3;
+    }
+    .fragment.visible {
+      opacity: 1;
+    }
+    pre code {
+      background: #f8f9fa;
+      padding: 1rem;
+      border-radius: 4px;
+      font-size: 0.8em;
+    }
+  </style>
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+      <!-- Title Slide -->
+      <section class="title-slide">
+        <h1>Keep a Changelog</h1>
+        <h2>A Comprehensive Blueprint</h2>
+        <p><em>Standardized approach to maintaining comprehensive changelogs for code and content changes</em></p>
+      </section>
+
+      <!-- Executive Summary -->
+      <section>
+        <h2>Executive Summary</h2>
+        <p>Our <strong>Keep-a-Changelog system</strong> leverages <strong>Astro's content collections</strong> to create a robust, scalable changelog infrastructure.</p>
+        <ul>
+          <li class="fragment">Multi-category changelog separation</li>
+          <li class="fragment">Automated processing and rendering</li>
+          <li class="fragment">Sophisticated render pipeline</li>
+          <li class="fragment">Transparent development practices</li>
+        </ul>
+      </section>
+
+      <!-- The Problem -->
+      <section>
+        <h2>The Problem</h2>
+        <h3>Traditional Changelog Challenges</h3>
+        <ul>
+          <li class="fragment">📝 <strong>Fragmented Documentation</strong> - Changes scattered across commit messages, PRs, and notes</li>
+          <li class="fragment">🎨 <strong>Inconsistent Formatting</strong> - No standardized structure</li>
+          <li class="fragment">🔍 <strong>Poor Discoverability</strong> - Changes buried in version control</li>
+          <li class="fragment">🧠 <strong>Context Loss</strong> - Missing rationale and impact information</li>
+          <li class="fragment">⏰ <strong>Manual Overhead</strong> - Time-consuming to maintain</li>
+        </ul>
+      </section>
+
+      <!-- Our Solution -->
+      <section>
+        <section>
+          <h2>Our Solution</h2>
+          <h3>Multi-Category Changelog System</h3>
+          <div class="fragment">
+            <h4>Three Distinct Categories:</h4>
+            <ol>
+              <li><strong>Content Changes</strong> (changelog--content)</li>
+              <li><strong>Code Changes</strong> (changelog--code)</li>
+              <li><strong>Client-Specific Changes</strong> (changelog--laerdal)</li>
+            </ol>
+          </div>
+        </section>
+        <section>
+          <h3>Why Separate Categories?</h3>
+          <ul>
+            <li class="fragment">🎯 <strong>Separation of Concerns</strong> - Clear boundaries</li>
+            <li class="fragment">👥 <strong>Audience Targeting</strong> - Different stakeholders</li>
+            <li class="fragment">🔄 <strong>Independent Workflows</strong> - Parallel development</li>
+            <li class="fragment">📊 <strong>Better Analytics</strong> - Category-specific insights</li>
+          </ul>
+        </section>
+      </section>
+
+      <!-- Render Pipeline Deep Dive -->
+      <section>
+        <section>
+          <h2>Render Pipeline Deep Dive</h2>
+          <h3>Five-Step Processing</h3>
+          <ol>
+            <li class="fragment">Collection Loading & Processing</li>
+            <li class="fragment">Entry Processing with Slugification</li>
+            <li class="fragment">Static Path Generation</li>
+            <li class="fragment">Component Rendering Pipeline</li>
+            <li class="fragment">Layout Composition</li>
+          </ol>
+        </section>
+
+        <!-- Step 1: Collection Loading -->
+        <section>
+          <h3>Step 1: Collection Loading</h3>
+          <pre><code>
+export async function getStaticPaths() &#123;
+  const contentEntries = await getCollection('changelog--content');
+  const codeEntries = await getCollection('changelog--code');
+  const laerdalEntries = await getCollection('changelog--laerdal');
+&#125;
+          </code></pre>
+          <ul>
+            <li class="fragment">Astro's getCollection() loads all markdown files</li>
+            <li class="fragment">Collections defined in content.config.ts</li>
+            <li class="fragment">Environment-specific path resolution</li>
+          </ul>
+        </section>
+
+        <!-- Step 2: Entry Processing -->
+        <section>
+          <h3>Step 2: Entry Processing</h3>
+          <pre><code>
+const processedContentEntries = processEntries(contentEntries)
+const processedCodeEntries = processEntries(codeEntries)
+const processedLaerdalEntries = processEntries(laerdalEntries)
+          </code></pre>
+          <div class="fragment">
+            <h4>The processEntries() function:</h4>
+            <ul>
+              <li>🔗 Slug generation via getReferenceSlug()</li>
+              <li>📝 Title extraction from filenames</li>
+              <li>🔄 Data normalization</li>
+              <li>📊 Alphabetical sorting</li>
+            </ul>
+          </div>
+        </section>
+
+        <!-- Step 3: Path Generation -->
+        <section>
+          <h3>Step 3: Static Path Generation</h3>
+          <pre><code>
+const contentPaths = processedContentEntries.map(entry => &#123;
+  return &#123;
+    params: &#123; slug: 'content-' + entry.slug &#125;,
+    props: &#123; entry, contentType: 'changelog' &#125;
+  &#125;;
+&#125;);
+          </code></pre>
+          <div class="fragment">
+            <h4>Generated URLs:</h4>
+            <ul>
+              <li>/log/content-2025-01-17_implement-changelog-system</li>
+              <li>/log/code-2025-01-17_fix-render-pipeline</li>
+              <li>/log/laerdal-2025-01-17_client-customization</li>
+            </ul>
+          </div>
+        </section>
+      </section>
+
+      <!-- Content Collection Configuration -->
+      <section>
+        <h2>Content Collection Configuration</h2>
+        <pre><code>
+const changelogContentCollection = defineCollection(&#123;
+  loader: glob(&#123;
+    pattern: "**/*.md", 
+    base: resolveContentPath("changelog--content")
+  &#125;),
+  schema: z.object(&#123;&#125;).passthrough()
+&#125;);
+        </code></pre>
+        <ul>
+          <li class="fragment">Glob loaders for automatic discovery</li>
+          <li class="fragment">Passthrough schema for flexibility</li>
+          <li class="fragment">Environment resolution</li>
+        </ul>
+      </section>
+
+      <!-- File Organization -->
+      <section>
+        <section>
+          <h2>File Organization Strategy</h2>
+          <pre><code>
+content/
+├── changelog--content/          # Content and documentation changes
+│   ├── 2025-01-17_01.md        # Timestamped entries
+│   ├── reports/                # Automated reports
+│   └── ...
+├── changelog--code/             # Technical implementation changes
+│   ├── 2025-01-17_01.md
+│   ├── 2025-01-17_02.md        # Multiple entries per day
+│   └── ...
+└── changelog--laerdal/          # Client-specific changes
+    ├── 2025-01-17_01.md
+    └── ...
+          </code></pre>
+        </section>
+        <section>
+          <h3>Naming Conventions</h3>
+          <ul>
+            <li class="fragment"><strong>Date Prefixes</strong>: YYYY-MM-DD_ for chronological ordering</li>
+            <li class="fragment"><strong>Sequential Numbering</strong>: _01, _02 for multiple entries per day</li>
+            <li class="fragment"><strong>Descriptive Names</strong>: Clear, actionable titles in filenames</li>
+          </ul>
+        </section>
+      </section>
+
+      <!-- Benefits -->
+      <section>
+        <section>
+          <h2>Benefits of This Approach</h2>
+          <div class="fragment">
+            <h3>For Developers</h3>
+            <ul>
+              <li>Separation of concerns</li>
+              <li>Automated processing</li>
+              <li>Type safety</li>
+              <li>Hot reloading</li>
+            </ul>
+          </div>
+        </section>
+        <section>
+          <h3>For Content Creators</h3>
+          <ul>
+            <li class="fragment">Markdown simplicity</li>
+            <li class="fragment">Flexible schema</li>
+            <li class="fragment">Cross-referencing capabilities</li>
+            <li class="fragment">Version control integration</li>
+          </ul>
+        </section>
+        <section>
+          <h3>For Users</h3>
+          <ul>
+            <li class="fragment">Centralized discoverability</li>
+            <li class="fragment">Easy categorization and filtering</li>
+            <li class="fragment">Consistent format</li>
+            <li class="fragment">Rich metadata and context</li>
+          </ul>
+        </section>
+      </section>
+
+      <!-- Implementation Guidelines -->
+      <section>
+        <h2>Implementation Guidelines</h2>
+        <h3>Best Practices</h3>
+        <ol>
+          <li class="fragment"><strong>Atomic Entries</strong> - One logical change per entry</li>
+          <li class="fragment"><strong>Clear Titles</strong> - Descriptive, actionable titles</li>
+          <li class="fragment"><strong>Context Inclusion</strong> - Why the change was made</li>
+          <li class="fragment"><strong>Impact Documentation</strong> - Who is affected and how</li>
+          <li class="fragment"><strong>Consistent Timing</strong> - Regular update schedule</li>
+        </ol>
+      </section>
+
+      <!-- Conclusion -->
+      <section>
+        <section>
+          <h2>Conclusion</h2>
+          <p>Our <strong>Keep-a-Changelog system</strong> represents a sophisticated approach to change documentation that balances <strong>automation with flexibility</strong>.</p>
+          <ul>
+            <li class="fragment">Scales with our needs</li>
+            <li class="fragment">Maintains consistency and discoverability</li>
+            <li class="fragment">Creates valuable historical records</li>
+            <li class="fragment">Supports transparent development practices</li>
+          </ul>
+        </section>
+        <section>
+          <h2>Key Takeaways</h2>
+          <ul>
+            <li class="fragment">🏗️ <strong>Modular Design</strong> - Easy extension and customization</li>
+            <li class="fragment">🔄 <strong>Automated Processing</strong> - Minimal manual intervention</li>
+            <li class="fragment">📊 <strong>Rich Metadata</strong> - Context and impact information</li>
+            <li class="fragment">🎯 <strong>Separation of Concerns</strong> - Clear category boundaries</li>
+          </ul>
+        </section>
+        <section>
+          <h2>Thank You</h2>
+          <p><em>Questions and Discussion</em></p>
+          <p class="fragment">This system will remain a cornerstone of our transparent development and content creation practices.</p>
+        </section>
+      </section>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/dist/reveal.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // @ts-ignore - Reveal.js is loaded via CDN
+      if (typeof Reveal !== 'undefined') {
+        // @ts-ignore - Reveal.js is loaded via CDN
+        Reveal.initialize({
+          hash: true,
+          transition: 'slide'
+        });
+      }
+    });
+  </script>
+</body>
+</html>
