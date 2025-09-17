@@ -1,7 +1,7 @@
 ---
 publish: true
 date_created: 2025-05-12
-date_modified: 2025-09-15
+date_modified: 2025-09-17
 date_authored_initial_draft: 2025-01-04
 date_authored_current_draft: 2025-04-24
 site_uuid: e0ef7542-ebb4-4287-989c-67260c0e42ca
@@ -19,6 +19,8 @@ tags: [State-of-the-Art, Continuous-Deployment, Continuous-Integration, Continuo
 Developers will need to adapt their workflows accordingly, embracing new tools like Code Generator AI while ensuring they maintain rigorous testing protocols for quality assurance.
 
 Developers will need to become familiar with AI-generated code, understanding its strengths and weaknesses in order to effectively integrate it into their workflow. This involves not only technical knowledge but also a shift in mindset as they adapt to this new co-worker.
+
+https://youtu.be/8rABwKRsec4?si=XfMHIXhMpZcSbwVl
 # Commit to Continuous Deployment
 [[concepts/Continuous Integration and Continuous Deployment|Continuous Integration and Continuous Deployment]] have become [[concepts/State of the Art|State of the Art]] practice in Software Development. 
 

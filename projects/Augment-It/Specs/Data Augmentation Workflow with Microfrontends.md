@@ -26,8 +26,8 @@ portrait_image: {{optional-URL-to-portrait-image}}
 - [[slides/data-augmentation-workflow.md]]
 :::
 
-:::slideshow
-- [[slides/Data-Augmentation-Workflow-2.astro]]
+:::slides-astro
+- [[slides/Augment-It.astro]]
 :::
 ## 1. Executive Summary
 
