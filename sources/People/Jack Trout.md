@@ -21,7 +21,7 @@ tags: [Marketing-Strategies]
 
 # **Key Ideas Promoted by Jack Trout**
 
-- **[[Positioning Theory]]**
+- **[[concepts/Positioning Theory]]**
   
   Trout, often with Al Ries, emphasized that a company's success hinges on how it is perceived in the minds of consumers relative to competitors. Instead of focusing only on product features, companies should aim to “occupy a position” in the customer’s mind[^fzq8ws][^yt6fu4].
   

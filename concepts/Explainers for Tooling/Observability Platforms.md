@@ -35,7 +35,7 @@ For instance, when a user encounters a delay on an e-commerce site, an observabi
 
 ### Practical Examples and Benefits
 
-A practical example is Generation Esports, which leveraged an observability platform to reduce troubleshooting time ([[mean time to recovery]], MTTR) by 75%, cut observability costs, and improve uptime for their users. [^99b70k] Another scenario: global organizations use observability to unify data from disparate sources, providing “a single source of truth” for developers and operators. [^98ou3v] These platforms facilitate **proactive detection**, faster root cause analysis, and more efficient incident management. [^7r52mg] [^4wuqkt]
+A practical example is Generation Esports, which leveraged an observability platform to reduce troubleshooting time ([[concepts/Mean Time to Recovery]], MTTR) by 75%, cut observability costs, and improve uptime for their users. [^99b70k] Another scenario: global organizations use observability to unify data from disparate sources, providing “a single source of truth” for developers and operators. [^98ou3v] These platforms facilitate **proactive detection**, faster root cause analysis, and more efficient incident management. [^7r52mg] [^4wuqkt]
 
 Key benefits include:
 

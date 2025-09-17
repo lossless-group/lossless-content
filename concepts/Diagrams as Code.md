@@ -7,7 +7,7 @@ title: "Diagrams As Code"
 slug: diagrams-as-code
 at_semantic_version: 0.0.0.1
 ---
-[[We need better Charts]]
+[[essays/We need better Charts]]
 [[Tooling/Software Development/Frameworks/Web Frameworks/Mermaid.js|Mermaid.js]]
 [[Tooling/Enterprise Jobs-to-be-Done/MermaidChart|MermaidChart]]
 [[Tooling/Software Development/Structurizr|Structurizr]]

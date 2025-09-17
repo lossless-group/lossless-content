@@ -13,4 +13,4 @@ tags:
   - Open-Source
 ---
 
-Competes with: [[Grafana]], [[Prometheus]], [[Tooling/Data Utilities/DataDog|DataDog]]
+Competes with: [[Tooling/Software Development/Developer Experience/DevOps/Grafana Labs]], [[Prometheus]], [[Tooling/Data Utilities/DataDog|DataDog]]

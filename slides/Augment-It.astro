@@ -81,24 +81,62 @@ const description = "A comprehensive specification for implementing distributed,
       <!-- Architecture Overview -->
       <section>
         <section>
-          <h2>Architecture Overview</h2>
-          <h3>Core Components</h3>
+          <h2>Comprehensive Architecture</h2>
+          <h3>6 Specialized Microfrontends</h3>
           <ol>
-            <li class="fragment"><strong>Host Application</strong> - Main orchestrator</li>
-            <li class="fragment"><strong>Data Collector</strong> - Input processing</li>
-            <li class="fragment"><strong>Content Processor</strong> - AI augmentation</li>
-            <li class="fragment"><strong>Review Interface</strong> - Human validation</li>
-            <li class="fragment"><strong>Export Manager</strong> - Output handling</li>
+            <li class="fragment"><strong>MainContainerUI</strong> - Host shell with module federation</li>
+            <li class="fragment"><strong>RecordCollector</strong> - Multi-source data ingestion & validation</li>
+            <li class="fragment"><strong>PromptTemplateManager</strong> - AI prompt orchestration & templates</li>
+            <li class="fragment"><strong>RequestReviewer</strong> - Pre-processing validation & approval</li>
+            <li class="fragment"><strong>ResponseReviewer</strong> - AI output quality assurance</li>
+            <li class="fragment"><strong>HighlightCollector</strong> - Key insight extraction & curation</li>
+            <li class="fragment"><strong>InsightAssembler</strong> - Final synthesis & output generation</li>
           </ol>
         </section>
         <section>
-          <h3>Data Flow</h3>
+          <h3>Advanced Data Flow</h3>
           <pre><code class="text" data-trim>
-Input → Collect → Process → Review → Export
-  ↓       ↓        ↓        ↓       ↓
- Raw   Structured Enhanced Validated Final
-Data    Data      Content  Content Output
+RecordCollector → PromptTemplateManager → RequestReviewer
+       ↓                    ↓                    ↓
+   Raw Data         AI Templates         Validated Requests
+       ↓                    ↓                    ↓
+AI Processing ← ResponseReviewer ← HighlightCollector
+       ↓                    ↓                    ↓
+Enhanced Content    Quality Assured    Key Insights
+       ↓                    ↓                    ↓
+              InsightAssembler → Final Output
           </code></pre>
+        </section>
+      </section>
+
+      <!-- Monorepo Vision & AI Development -->
+      <section>
+        <section>
+          <h2>Monorepo Vision</h2>
+          <h3>AI-Assisted Parallel Development</h3>
+          <ul>
+            <li class="fragment"><strong>Bounded Contexts</strong> - Each microfrontend is an isolated work unit</li>
+            <li class="fragment"><strong>Agent Parallelism</strong> - Multiple AI agents work simultaneously</li>
+            <li class="fragment"><strong>Frozen Boundaries</strong> - Completed components are read-only</li>
+            <li class="fragment"><strong>Contract-First</strong> - APIs defined before implementation</li>
+          </ul>
+        </section>
+        <section>
+          <h3>Development Workflow</h3>
+          <div style="text-align: left;">
+            <div class="fragment">
+              <h4>🤖 Agent Assignment</h4>
+              <p>One remote = one work unit with clear boundaries</p>
+            </div>
+            <div class="fragment">
+              <h4>🔒 Component Freezing</h4>
+              <p>Mark finished remotes as read-only for stability</p>
+            </div>
+            <div class="fragment">
+              <h4>🧪 Contract Testing</h4>
+              <p>Automated tests verify component interfaces</p>
+            </div>
+          </div>
         </section>
       </section>
 
@@ -109,89 +147,148 @@ Data    Data      Content  Content Output
           <div>
             <h3>Phase 1: Foundation</h3>
             <ul>
-              <li>Set up module federation</li>
-              <li>Create host application</li>
-              <li>Implement basic routing</li>
+              <li>Docker + Turborepo setup</li>
+              <li>Module federation framework</li>
+              <li>Shared services architecture</li>
+              <li>MainContainerUI host shell</li>
             </ul>
           </div>
           <div>
-            <h3>Phase 2: Core Modules</h3>
+            <h3>Phase 2: Core Microfrontends</h3>
             <ul>
-              <li>Data collector microfrontend</li>
-              <li>Content processor integration</li>
-              <li>Basic AI augmentation</li>
+              <li>RecordCollector implementation</li>
+              <li>PromptTemplateManager</li>
+              <li>RequestReviewer & ResponseReviewer</li>
+              <li>AI service integrations</li>
             </ul>
           </div>
           <div>
-            <h3>Phase 3: Enhancement</h3>
+            <h3>Phase 3: Advanced Features</h3>
             <ul>
-              <li>Review interface</li>
-              <li>Export capabilities</li>
-              <li>Advanced AI features</li>
+              <li>HighlightCollector & InsightAssembler</li>
+              <li>Advanced AI capabilities</li>
+              <li>Performance optimization</li>
+              <li>Enterprise deployment</li>
             </ul>
           </div>
         </div>
       </section>
 
-      <!-- Technical Stack -->
+      <!-- Shared Services Ecosystem -->
       <section>
         <section>
-          <h2>Technical Stack</h2>
-          <h3>Frontend Technologies</h3>
+          <h2>25+ Shared Services Ecosystem</h2>
+          <h3>Core Infrastructure Services</h3>
           <ul>
-            <li class="fragment"><strong>React 18</strong> with TypeScript</li>
-            <li class="fragment"><strong>Module Federation</strong> (Webpack 5)</li>
-            <li class="fragment"><strong>Tailwind CSS</strong> for styling</li>
-            <li class="fragment"><strong>Zustand</strong> for state management</li>
+            <li class="fragment"><strong>API Connector Service</strong> - Unified gateway for AI models, data stores</li>
+            <li class="fragment"><strong>Account Management</strong> - User authentication & authorization</li>
+            <li class="fragment"><strong>DevOps Suite</strong> - Deployment, monitoring, CI/CD automation</li>
+            <li class="fragment"><strong>Shared Model Fetcher</strong> - AI model management & caching</li>
           </ul>
         </section>
         <section>
-          <h3>Backend Integration</h3>
+          <h3>Data Processing Services</h3>
           <ul>
-            <li class="fragment"><strong>REST APIs</strong> for data exchange</li>
-            <li class="fragment"><strong>WebSocket</strong> for real-time updates</li>
-            <li class="fragment"><strong>AI Services</strong> integration</li>
+            <li class="fragment"><strong>Multi-Format Parsers</strong> - CSV, JSON, YAML, Markdown</li>
+            <li class="fragment"><strong>Insight Injector</strong> - AI-powered content enhancement</li>
+            <li class="fragment"><strong>Log Assembler</strong> - Comprehensive audit trails</li>
+            <li class="fragment"><strong>Report Template Service</strong> - Dynamic output generation</li>
+          </ul>
+        </section>
+        <section>
+          <h3>User Experience Services</h3>
+          <ul>
+            <li class="fragment"><strong>Shared UX Factory</strong> - Consistent UI components</li>
+            <li class="fragment"><strong>Notification Assembler</strong> - Multi-channel alerts</li>
+            <li class="fragment"><strong>API Documentation Generator</strong> - Auto-generated docs</li>
+            <li class="fragment"><strong>Variable Manager</strong> - Dynamic configuration</li>
+          </ul>
+        </section>
+      </section>
+
+      <!-- Technical Stack -->
+      <section>
+        <section>
+          <h2>Enterprise Technical Stack</h2>
+          <h3>Frontend Architecture</h3>
+          <ul>
+            <li class="fragment"><strong>React 19</strong> with TypeScript 5.8+</li>
+            <li class="fragment"><strong>Vite 6.3</strong> + Module Federation</li>
+            <li class="fragment"><strong>Turborepo 2.0</strong> monorepo orchestration</li>
+            <li class="fragment"><strong>Docker</strong> containerized development</li>
+          </ul>
+        </section>
+        <section>
+          <h3>Backend & Infrastructure</h3>
+          <ul>
+            <li class="fragment"><strong>pnpm Workspaces</strong> for package management</li>
+            <li class="fragment"><strong>WebSocket & REST APIs</strong> for communication</li>
+            <li class="fragment"><strong>Multi-AI Provider</strong> integration (OpenAI, Anthropic, Groq)</li>
+            <li class="fragment"><strong>Git Submodules</strong> for content/site separation</li>
           </ul>
         </section>
       </section>
 
       <!-- Data Augmentation Pipeline -->
       <section>
-        <h2>Data Augmentation Pipeline</h2>
-        <div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 1.5rem; text-align: left;">
-          <div>
-            <h3>Stage 1: Collection</h3>
-            <ul>
-              <li>Import from various sources</li>
-              <li>Data validation and cleaning</li>
-              <li>Format standardization</li>
-            </ul>
+        <section>
+          <h2>6-Stage Augmentation Pipeline</h2>
+          <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1.5rem; text-align: left;">
+            <div>
+              <h3>🗂️ RecordCollector</h3>
+              <ul>
+                <li>Multi-source data ingestion</li>
+                <li>Format validation & cleaning</li>
+                <li>Structured data preparation</li>
+              </ul>
+            </div>
+            <div>
+              <h3>📝 PromptTemplateManager</h3>
+              <ul>
+                <li>AI prompt orchestration</li>
+                <li>Template library management</li>
+                <li>Context-aware prompting</li>
+              </ul>
+            </div>
+            <div>
+              <h3>✅ RequestReviewer</h3>
+              <ul>
+                <li>Pre-processing validation</li>
+                <li>Request approval workflows</li>
+                <li>Quality gate enforcement</li>
+              </ul>
+            </div>
           </div>
-          <div>
-            <h3>Stage 2: Processing</h3>
-            <ul>
-              <li>AI-powered content enhancement</li>
-              <li>Metadata extraction</li>
-              <li>Quality scoring</li>
-            </ul>
+        </section>
+        <section>
+          <h3>Advanced Processing Stages</h3>
+          <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1.5rem; text-align: left;">
+            <div>
+              <h3>🔍 ResponseReviewer</h3>
+              <ul>
+                <li>AI output quality assurance</li>
+                <li>Response validation & scoring</li>
+                <li>Iterative improvement loops</li>
+              </ul>
+            </div>
+            <div>
+              <h3>✨ HighlightCollector</h3>
+              <ul>
+                <li>Key insight extraction</li>
+                <li>Content curation & ranking</li>
+                <li>Semantic analysis</li>
+              </ul>
+            </div>
+            <div>
+              <h3>🔧 InsightAssembler</h3>
+              <ul>
+                <li>Final synthesis & assembly</li>
+                <li>Multi-format output generation</li>
+                <li>Comprehensive reporting</li>
+              </ul>
+            </div>
           </div>
-          <div>
-            <h3>Stage 3: Review</h3>
-            <ul>
-              <li>Human validation interface</li>
-              <li>Collaborative editing</li>
-              <li>Approval workflows</li>
-            </ul>
-          </div>
-          <div>
-            <h3>Stage 4: Export</h3>
-            <ul>
-              <li>Multiple format support</li>
-              <li>Batch processing</li>
-              <li>Quality assurance</li>
-            </ul>
-          </div>
-        </div>
+        </section>
       </section>
 
       <!-- Benefits -->
@@ -269,15 +366,19 @@ Data    Data      Content  Content Output
 
       <!-- Conclusion -->
       <section>
-        <h2>Conclusion</h2>
-        <p>The microfrontend approach to data augmentation workflows provides:</p>
+        <h2>Enterprise-Grade Data Augmentation</h2>
+        <p>The Augment-It platform delivers unprecedented capabilities:</p>
         <ul>
-          <li class="fragment"><strong>Scalability</strong> through modular architecture</li>
-          <li class="fragment"><strong>Flexibility</strong> in technology choices</li>
-          <li class="fragment"><strong>Maintainability</strong> through separation of concerns</li>
-          <li class="fragment"><strong>Innovation</strong> through independent development</li>
+          <li class="fragment"><strong>6 Specialized Microfrontends</strong> - Purpose-built for each workflow stage</li>
+          <li class="fragment"><strong>25+ Shared Services</strong> - Comprehensive infrastructure ecosystem</li>
+          <li class="fragment"><strong>AI-Assisted Development</strong> - Parallel agent-driven implementation</li>
+          <li class="fragment"><strong>Enterprise Architecture</strong> - Docker, Turborepo, Module Federation</li>
+          <li class="fragment"><strong>Multi-AI Integration</strong> - OpenAI, Anthropic, Groq support</li>
         </ul>
-        <p class="fragment"><em>Ready to transform your data processing pipeline?</em></p>
+        <div class="fragment" style="margin-top: 2rem; padding: 1rem; border: 2px solid #4f46e5; border-radius: 8px;">
+          <p><strong>🚀 Ready to revolutionize your data augmentation workflow?</strong></p>
+          <p><em>From simple data collection to sophisticated AI-powered insights</em></p>
+        </div>
       </section>
   </OneSlideDeck>
 </Layout>
