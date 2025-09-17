@@ -3,45 +3,16 @@
  * Keep a Changelog presentation
  * This demonstrates our comprehensive approach to changelog management using Astro content collections
  */
+import Layout from '@layouts/Layout.astro';
+import OneSlideDeck from '@layouts/OneSlideDeck.astro';
 
 // Title and description for the presentation
 const title = "Keep a Changelog: A Comprehensive Blueprint";
 const description = "Standardized approach to maintaining comprehensive changelogs for code and content changes";
 ---
 
-<html>
-<head>
-  <title>{title}</title>
-  <meta name="description" content={description} />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/dist/reveal.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/dist/theme/white.css">
-  <style>
-    .reveal .slides section {
-      text-align: left;
-    }
-    .reveal h1, .reveal h2, .reveal h3 {
-      color: #2c3e50;
-    }
-    .title-slide {
-      text-align: center !important;
-    }
-    .fragment {
-      opacity: 0.3;
-    }
-    .fragment.visible {
-      opacity: 1;
-    }
-    pre code {
-      background: #f8f9fa;
-      padding: 1rem;
-      border-radius: 4px;
-      font-size: 0.8em;
-    }
-  </style>
-</head>
-<body>
-  <div class="reveal">
-    <div class="slides">
+<Layout title={title} description={description}>
+  <OneSlideDeck>
       <!-- Title Slide -->
       <section class="title-slide">
         <h1>Keep a Changelog</h1>
@@ -296,18 +267,5 @@ content/
     </div>
   </div>
 
-  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.3.1/dist/reveal.js"></script>
-  <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      // @ts-ignore - Reveal.js is loaded via CDN
-      if (typeof Reveal !== 'undefined') {
-        // @ts-ignore - Reveal.js is loaded via CDN
-        Reveal.initialize({
-          hash: true,
-          transition: 'slide'
-        });
-      }
-    });
-  </script>
-</body>
-</html>
+  </OneSlideDeck>
+</Layout>
