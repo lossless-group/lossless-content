@@ -10,12 +10,9 @@ og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshot
 jina_last_request: '2025-03-09T06:45:14.138Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-03-07T05:20:56.433Z'
-date_modified: 2025-04-12
+date_modified: 2025-09-20
 date_created: 2025-03-31
-tags:
-  - Developer-Experience
-  - Software-Development
-  - DevOps
+tags: [Developer-Experience, Software-Development, DevOps]
 ---
 
-[[concepts/Continuous Integration and Continuous Deployment]]
+[[concepts/Continuous Integration and Continuous Deployment|Continuous Integration and Continuous Deployment]]

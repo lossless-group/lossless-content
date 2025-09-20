@@ -35,7 +35,7 @@ Many authoritative sources explicitly treat the labels as synonyms on everyday p
 
 ## 2 How Developers Talk About It  
 
-Git’s meteoric adoption — over 87% market share in 2025 — has made “Git repo” shorthand for version control in many teams, even when the actual host is [[GitHub]], [[Tooling/Software Development/Developer Experience/DevOps/GitLab]], or [[Bitbucket]]. [^3xzs39] Cloud vendors reinforce this convergence by branding their products “DevOps platforms” while centering Git repositories at the core. [^lm3xum] [^lnbk4a] Traditional terms like *change set* or *revision* remain, but the tool’s name often eclipses the generic label.
+Git’s meteoric adoption — over 87% market share in 2025 — has made “Git repo” shorthand for version control in many teams, even when the actual host is [[GitHub]], [[Tooling/Software Development/Developer Experience/DevOps/GitLab]], or [[Tooling/Software Development/Developer Experience/Bitbucket]]. [^3xzs39] Cloud vendors reinforce this convergence by branding their products “DevOps platforms” while centering Git repositories at the core. [^lm3xum] [^lnbk4a] Traditional terms like *change set* or *revision* remain, but the tool’s name often eclipses the generic label.
 ## 3 Architectural Models of Version Control  
 
 | Generation | Repository topology | Concurrency model   | Representative tools                     | Key innovation           | Typical era  |

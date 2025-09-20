@@ -1,7 +1,7 @@
 ---
 umbrella-of:
 ---
-[[GraphRAG]], [[PowerBI]]
+[[Tooling/AI-Toolkit/Knowledge AI/GraphRAG]], [[PowerBI]]
 
 [[ASP.NET]]
 

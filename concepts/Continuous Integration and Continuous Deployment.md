@@ -5,7 +5,7 @@ date_modified: 2025-08-17
 aliases: [CD, CI, CI/CD]
 ---
 
-[[BitBucket]]
+[[Tooling/Software Development/Developer Experience/Bitbucket]]
 [[Tooling/Software Development/Developer Experience/DevOps/Nx|Nx]]
 [[Tooling/Software Development/Developer Experience/DevOps/GitKraken|GitKraken]]
 [[Tooling/Software Development/Developer Experience/DevOps/GitKraken Desktop|GitKraken Desktop]]

@@ -1,9 +1,8 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2025-09-20
 site_uuid: a481d53c-e366-4809-a9c1-eb7cca5d1c5f
 date_created: 2025-04-06
-aliases:
-  - Ephemeral Environment
+aliases: [Ephemeral Environment]
 ---
 
 > [!NOTE] AI Explains [[Ephemeral Environments]]
@@ -78,7 +77,7 @@ aliases:
 >     - **What It Does**: Automatically creates preview environments for pull requests, enabling developers to test changes in isolated setups.
 >     - **Unique Features**:
 >         - Instant, auto-deployed environments for frontend applications.
->         - Seamless integration with GitHub, GitLab, and Bitbucket.
+>         - Seamless integration with GitHub, GitLab, and [[Tooling/Software Development/Developer Experience/Bitbucket|Bitbucket]].
 >     - **Best For**: Frontend developers and teams focused on rapid iteration.
 > 2. **[[Netlify]]**
 >     

@@ -1,6 +1,6 @@
 ---
 date_created: 2025-09-05
-date_modified: 2025-09-05
+date_modified: 2025-09-20
 site_uuid: 48ae43ce-567c-46a0-a83b-7d2050de5c98
 publish: true
 title: "Repository Management"
@@ -26,7 +26,7 @@ Repository Management is the practice of overseeing centralized storage, organiz
 At its core, **repository management** refers to the use of dedicated server applications—often called *repository managers*—that serve as an organization's system of record for digital assets and software components. [^ndepk9] These platforms act as central hubs where code, configuration files, compiled binaries, container images, libraries, and even documentation are stored and managed. Whether hosted locally, on network-attached storage, or in the cloud, repositories ensure that project history is preserved, contributions are tracked, and resources are easy to retrieve and integrate throughout the software development lifecycle. [^udyz2o] [^9fm8ll]
 
 **Practical examples** include:
-- Using platforms like **[[Tooling/Software Development/Developer Experience/GitHub|GitHub]]** or **[[Tooling/Software Development/Developer Experience/BitBucket|BitBucket]]** for managing source code with detailed version histories and collaborative controls. [^2kien1]
+- Using platforms like **[[Tooling/Software Development/Developer Experience/GitHub|GitHub]]** or **[[Tooling/Software Development/Developer Experience/Bitbucket|Bitbucket]]** for managing source code with detailed version histories and collaborative controls. [^2kien1]
 - Employing tools like **Sonatype Nexus** or **JFrog Artifactory** for storing and distributing compiled binaries, open-source dependencies, and internal software packages. [^ndepk9] [^91fwil]
 
 **Use cases** span from open-source software collaboration—where contributors worldwide submit code via pull requests—to enterprise environments, where artifacts must meet security and compliance requirements before release. In research settings, internal repositories protect sensitive or proprietary code while permitting controlled sharing and integration. [^2kien1]
@@ -53,7 +53,7 @@ Despite its advantages, repository management poses several challenges:
 
 ## Current State and Trends
 
-Today, repository management is standard practice across both startups and large enterprises. Tools such as **GitHub**, **GitLab**, **Bitbucket**, **Sonatype Nexus**, and **JFrog Artifactory** dominate the landscape, integrating natively with popular [[Vocabulary/Dev Ops|DevOps]] and [[concepts/Continuous Integration and Continuous Deployment|CI/CD]] tools. [^ndepk9] [^2kien1] [^91fwil] These platforms offer advanced features like automated vulnerability scanning, mirroring, and hybrid (cloud/local) repositories to accommodate diverse organizational needs.
+Today, repository management is standard practice across both startups and large enterprises. Tools such as **GitHub**, **[[Tooling/Software Development/Developer Experience/DevOps/GitLab|GitLab]]**, **[[Tooling/Software Development/Developer Experience/Bitbucket|Bitbucket]]**, **[[Sonatype Nexus]]**, and **JFrog Artifactory** dominate the landscape, integrating natively with popular [[Vocabulary/Dev Ops|DevOps]] and [[concepts/Continuous Integration and Continuous Deployment|CI/CD]] tools. [^ndepk9] [^2kien1] [^91fwil] These platforms offer advanced features like automated vulnerability scanning, mirroring, and hybrid (cloud/local) repositories to accommodate diverse organizational needs.
 
 Recent advancements include:
 - **Automated security scanning** for open-source dependencies.
