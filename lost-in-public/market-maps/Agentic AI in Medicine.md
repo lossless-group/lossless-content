@@ -1,6 +1,6 @@
 ---
 date_created: 2025-06-19
-date_modified: 2025-06-26
+date_modified: 2025-09-20
 site_uuid: a0354223-396h-4rb4-a6ca-97afbe5cff17
 title: Agentic AI in Medicine
 lede: Let's help medical professionals focus on treating patients, and let AI agents do the busy work.
@@ -34,7 +34,7 @@ For example, an agentic AI system might be able to:
 * Suggest personalized treatment options based on the patient's unique genetic profile
 * Monitor patient response to treatment and adjust the plan accordingly
 
-[1] A study published in the Journal of Clinical Oncology demonstrated the effectiveness of a precision medicine platform using agentic AI in improving cancer treatment outcomes by 25%.
+ A study published in the Journal of Clinical Oncology demonstrated the effectiveness of a precision medicine platform using agentic AI in improving cancer treatment outcomes by 25%. [^0yb0si]
 
 
 ### 2. **Personalized Pharmacogenomics**
@@ -47,7 +47,7 @@ For instance, an agentic AI system might be able to:
 * Suggest alternative treatments or dosages for patients with specific genetic profiles
 * Monitor patient response to treatment and adjust the plan accordingly
 
-[2] A research paper published in the journal Nature Medicine showcased the use of agentic AI to develop personalized pharmacogenomics platforms, leading to improved treatment outcomes and reduced adverse reactions.
+ A research paper published in the journal Nature Medicine showcased the use of agentic AI to develop personalized pharmacogenomics platforms, leading to improved treatment outcomes and reduced adverse reactions. [^xfi5zc]
 
 ``` yaml toolingGallery
 - tag: [[Agentic-AI]]
@@ -64,7 +64,7 @@ For example, an agentic AI system might be able to:
 * Suggest preventive measures or early interventions for patients with high-risk profiles
 * Monitor patient response to treatment and adjust the plan accordingly
 
-[3] A study published in the Journal of Preventive Medicine demonstrated the effectiveness of a predictive analytics platform using agentic AI in reducing hospital readmissions by 30%.
+ A study published in the Journal of Preventive Medicine demonstrated the effectiveness of a predictive analytics platform using agentic AI in reducing hospital readmissions by 30%. [^x3xfvj]
 
 ### 4. **Virtual Clinicians**
 
@@ -74,7 +74,7 @@ Agentic AI can be integrated with [[content-areas/Health/Virtual Doctors|Virtual
 * Personalized health education and coaching
 * Virtual consultations with healthcare professionals
 
-[4] A research paper published in the Journal of Nursing Administration found that VCs using agentic AI improved patient satisfaction and reduced hospital readmissions by 25%.
+A research paper published in the Journal of Nursing Administration found that VCs using agentic AI improved patient satisfaction and reduced hospital readmissions by 25%. [^2tixkd]
 
 ### 5. **Synthetic Data Generation**
 
@@ -86,24 +86,17 @@ For example, an agentic AI system might be able to:
 * Train machine learning models using synthetic data to predict treatment outcomes
 * Validate model performance using real-world data
 
-[5] A study published in the journal Nature Medicine demonstrated the use of agentic AI to generate synthetic data for training machine learning models, leading to improved treatment outcomes and reduced costs.
+A study published in the journal Nature Medicine demonstrated the use of agentic AI to generate synthetic data for training machine learning models, leading to improved treatment outcomes and reduced costs. [^keusg0]
 
-By harnessing agentic AI in these ways, we can unlock new frontiers in personalized medicine, creating more precise, effective, and patient-centric care pathways that transform the future of healthcare.
+By harnessing [[Vocabulary/Agentic AI|Agentic AI]] in these ways, we can unlock new frontiers in personalized medicine, creating more precise, effective, and patient-centric care pathways that transform the future of healthcare.
 
-References:
+## Citations:
 
-[1] Journal of Clinical Oncology, 2020
-[2] Nature Medicine, 2019
-[3] Journal of Preventive Medicine, 2020
-[4] Journal of Nursing Administration, 2020
-[5] Nature Medicine, 2018
-
-Citations:
-[1] https://www.atera.com/blog/agentic-ai-applications/
-[2] https://www.sciencedirect.com/science/article/pii/S2949953425000141
-[3] https://www.ciklum.com/resources/blog/future-of-personalized-healthcare
-[4] https://pmc.ncbi.nlm.nih.gov/articles/PMC7580505/
-[5] https://www.xenonstack.com/blog/agentic-ai-healthcare-system
+[^0yb0si]: https://www.atera.com/blog/agentic-ai-applications/
+[^xfi5zc]: https://www.sciencedirect.com/science/article/pii/S2949953425000141
+[^x3xfvj]: https://www.ciklum.com/resources/blog/future-of-personalized-healthcare
+[^2tixkd]: https://pmc.ncbi.nlm.nih.gov/articles/PMC7580505/
+[^keusg0]: https://www.xenonstack.com/blog/agentic-ai-healthcare-system
 [6] https://66degrees.com/how-agentic-ai-is-transforming-the-healthcare-industry/
 [7] https://www.techtarget.com/healthtechanalytics/feature/4-top-use-cases-for-agentic-AI-in-healthcare
 [8] https://convergetp.com/2025/05/06/top-10-agentic-ai-examples-and-use-cases/
@@ -114,6 +107,7 @@ Citations:
 [13] https://www.gehealthcare.com/insights/article/how-agentic-ai-systems-can-solve-the-three-most-pressing-problems-in-healthcare-today?srsltid=AfmBOopV5rnKxTWqv9sZDNJriSwirLLxl9zuR4-PFF-ueCHn5KUuoekr
 [14] https://www.uipath.com/ai/agentic-ai
 [15] https://srinivasaiims.com/agentic-ai-in-healthcare-a-new-paradigm-of-intelligence/
+
 # Privacy Considerations When Applying Agentic AI to Doctor Support
 
 The integration of artificial intelligence (AI) in medical settings, particularly in doctor support systems, raises significant concerns regarding patient data privacy and confidentiality.
@@ -177,44 +171,45 @@ The integration of agentic AI in doctor support systems raises significant conce
 
 ### References
 
-*   [1] "Healthcare Data Privacy: A Guide for Healthcare Providers" (American Health Information Management Association)
-*   [2] "Artificial Intelligence in Healthcare: A Review of the Current State and Future Directions" (Journal of Medical Systems)
-*   [3] "HIPAA Compliance: A Guide for Healthcare Providers" (U.S. Department of Health and Human Services)
+*   [^e5lq79] "Healthcare Data Privacy: A Guide for Healthcare Providers" (American Health Information Management Association)
+*   [^kzmt6l] "Artificial Intelligence in Healthcare: A Review of the Current State and Future Directions" (Journal of Medical Systems)
+*   [^8twria] "HIPAA Compliance: A Guide for Healthcare Providers" (U.S. Department of Health and Human Services)
 # Innovators in Agentic AI in Healthcare
 
 Agentic AI, also known as autonomous or self-driving AI, refers to the development of artificial intelligence systems that can make decisions and take actions without human intervention. In the field of healthcare, agentic AI has the potential to revolutionize patient care by enabling personalized medicine, streamlining clinical workflows, and improving patient outcomes.
 
 ### 1. **DeepMind Health**
 
-DeepMind Health is a leading developer of agentic AI in healthcare. Their technology uses machine learning algorithms to analyze medical images, diagnose diseases, and develop personalized treatment plans. For example, their system can detect diabetic retinopathy from retinal scans with high accuracy [1].
+DeepMind Health is a leading developer of agentic AI in healthcare. Their technology uses machine learning algorithms to analyze medical images, diagnose diseases, and develop personalized treatment plans. For example, their system can detect diabetic retinopathy from retinal scans with high accuracy [^e5lq79].
 
 ### 2. **IBM Watson for Oncology**
 
-IBM Watson for Oncology is a cloud-based platform that uses agentic AI to help oncologists make more accurate diagnoses and develop personalized treatment plans for cancer patients. The system analyzes large amounts of data, including medical histories, genetic profiles, and treatment outcomes, to provide recommendations [2].
+IBM Watson for Oncology is a cloud-based platform that uses agentic AI to help oncologists make more accurate diagnoses and develop personalized treatment plans for cancer patients. The system analyzes large amounts of data, including medical histories, genetic profiles, and treatment outcomes, to provide recommendations [^kzmt6l].
 
 ### 3. **Stanford University's Center for Artificial Intelligence in Medicine (CAIM)**
 
-The CAIM is a research center at Stanford University that focuses on developing agentic AI in healthcare. Their researchers are working on projects such as developing personalized medicine plans using machine learning algorithms and creating virtual assistants to help patients manage chronic diseases [3].
+The CAIM is a research center at Stanford University that focuses on developing agentic AI in healthcare. Their researchers are working on projects such as developing personalized medicine plans using machine learning algorithms and creating virtual assistants to help patients manage chronic diseases [^8twria].
 
 ### 5. **Microsoft Health Bot**
 
-Microsoft Health Bot is a chatbot platform that uses agentic AI to help patients manage chronic diseases and develop personalized treatment plans. The system analyzes patient data, including medical histories and lifestyle information, to provide recommendations [5].
+Microsoft Health Bot is a chatbot platform that uses agentic AI to help patients manage chronic diseases and develop personalized treatment plans. The system analyzes patient data, including medical histories and lifestyle information, to provide recommendations [^3xlawm].
 
 ## Conclusion
 
 Agentic AI has the potential to revolutionize healthcare by enabling personalized medicine, streamlining clinical workflows, and improving patient outcomes. Innovators such as DeepMind Health, IBM Watson for Oncology, Stanford University's Center for Artificial Intelligence in Medicine (CAIM), Google's DeepMind, and Microsoft Health Bot are leading the charge in developing this technology.
 
-References:
+### References:
 
-[1] DeepMind Health. (2020). DeepMind Health: AI for Healthcare. Retrieved from <https://www.deepmind.com/health/>
+[^e5lq79] DeepMind Health. (2020). DeepMind Health: AI for Healthcare. Retrieved from <https://www.deepmind.com/health/>
 
-[2] IBM Watson for Oncology. (2020). IBM Watson for Oncology: Revolutionizing Cancer Treatment. Retrieved from <https://www.ibm.com/watson/for- oncology>
+[^kzmt6l] IBM Watson for Oncology. (2020). IBM Watson for Oncology: Revolutionizing Cancer Treatment. Retrieved from <https://www.ibm.com/watson/for- oncology>
 
-[3] Stanford University's Center for Artificial Intelligence in Medicine (CAIM). (2020). CAIM: Developing Agentic AI in Healthcare. Retrieved from <https://caim.stanford.edu/>
+[^8twria] Stanford University's Center for Artificial Intelligence in Medicine (CAIM). (2020). CAIM: Developing Agentic AI in Healthcare. Retrieved from <https://caim.stanford.edu/>
 
-[4] Google DeepMind. (2020). DeepMind Health: AI for Healthcare. Retrieved from <https://www.deepmind.com/health/>
+[^3vlgat] Google DeepMind. (2020). DeepMind Health: AI for Healthcare. Retrieved from <https://www.deepmind.com/health/>
 
-[5] Microsoft Health Bot. (2020). Microsoft Health Bot: Chatbot Platform for Healthcare. Retrieved from <https://docs.microsoft.com/en-us/azure/cognitive-services/health-bot/>
+[^3xlawm] Microsoft Health Bot. (2020). Microsoft Health Bot: Chatbot Platform for Healthcare. Retrieved from <https://docs.microsoft.com/en-us/azure/cognitive-services/health-bot/
+
 # Enhancing Healthcare Processes with Agentic AI
 ### Introduction
 
@@ -224,12 +219,12 @@ Agentic AI, a type of artificial intelligence that enables machines to make deci
 
 Agentic AI can help personalize patient care by analyzing individual health data, medical histories, and lifestyle factors. This enables healthcare providers to create tailored treatment plans that cater to each patient's unique needs.
 
-*   **Predictive Analytics**: Agentic AI algorithms can analyze large datasets to predict patient outcomes, identify high-risk patients, and detect early warning signs of complications.
-*   **Personalized Medicine**: By analyzing genomic data, medical histories, and lifestyle factors, agentic AI can help healthcare providers develop targeted treatment plans that take into account an individual's specific genetic profile.
+*   **[[concepts/Explainers for Tooling/Predictive Analytics|Predictive Analytics]]**: Agentic AI algorithms can analyze large datasets to predict patient outcomes, identify high-risk patients, and detect early warning signs of complications.
+*   **[[Personalized Medicine]]**: By analyzing genomic data, medical histories, and lifestyle factors, agentic AI can help healthcare providers develop targeted treatment plans that take into account an individual's specific genetic profile.
 
 ### Clinical Decision Support
 
-Agentic AI-powered clinical decision support systems (CDSS) can analyze vast amounts of medical literature, patient data, and real-time clinical information to provide healthcare professionals with evidence-based recommendations.
+Agentic AI-powered [[clinical decision support systems]] (CDSS) can analyze vast amounts of medical literature, patient data, and real-time clinical information to provide healthcare professionals with evidence-based recommendations.
 
 *   **Real-Time Alerts**: Agentic AI CDSS can alert healthcare providers to potential medication interactions, allergic reactions, or other safety concerns.
 *   **Evidence-Based Guidelines**: By analyzing the latest medical research and guidelines, agentic AI CDSS can help healthcare professionals make informed decisions about patient care.
@@ -254,16 +249,10 @@ Agentic AI has the potential to transform various aspects of healthcare by impro
 
 References:
 
-1.  "Agentic AI: A New Paradigm for Healthcare" (2022). Journal of Medical Systems, 46(10), 1-9.
-2.  "Personalized Medicine with Agentic AI" (2020). Nature Reviews Disease Primers, 6(1), 1-11.
-3.  "Clinical Decision Support with Agentic AI" (2019). Journal of Clinical Oncology, 37(22), 2535-2544.
-
-    <https://www.nature.com/articles/s41375-019-0667-8>
-4.  "Agentic AI for Operational Efficiency in Healthcare" (2020). Journal of Healthcare Engineering, 2020, 1-12.
-5.  "Supply Chain Optimization with Agentic AI" (2019). Supply Chain Management: An International Journal, 24(3), 251-262.
-
-    <https://www.sciencedirect.com/science/article/pii/B9780128137324000116>
-6.  "Agentic AI in Medical Research" (2020). Nature Reviews Neuroscience, 21(10), 559-571.
-7.  "Data Analysis with Agentic AI" (2019). Journal of Data Science, 7(2), 1-15.
-
-    <https://www.jdsjournal.com/article/doi/10.1007/s41019-019-00134-6>
+[^26td9d]: "Agentic AI: A New Paradigm for Healthcare" (2022). Journal of Medical Systems, 46(10), 1-9.
+[^ba2cma]: "Personalized Medicine with Agentic AI" (2020). Nature Reviews Disease Primers, 6(1), 1-11.
+[^w69dlw]: "Clinical Decision Support with Agentic AI" (2019). Journal of Clinical Oncology, 37(22), 2535-2544. 
+[^kz5q2a]: "Agentic AI for Operational Efficiency in Healthcare" (2020). Journal of Healthcare Engineering, 2020, 1-12.
+[^2odbpv]: "Supply Chain Optimization with Agentic AI" (2019). Supply Chain Management: An International Journal, 24(3), 251-262. https://www.sciencedirect.com/science/article/pii/B9780128137324000116
+[^y3g2dc]:  "Agentic AI in Medical Research" (2020). Nature Reviews Neuroscience, 21(10), 559-571. https://www.nature.com/articles/s41375-019-0667-8
+[^46njbk]:  "Data Analysis with Agentic AI" (2019). Journal of Data Science, 7(2), 1-15. https://www.jdsjournal.com/article/doi/10.1007/s41019-019-00134-6

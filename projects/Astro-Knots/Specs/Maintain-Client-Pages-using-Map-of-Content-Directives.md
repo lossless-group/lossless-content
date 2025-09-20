@@ -11,13 +11,13 @@ status: In-Progress
 augmented_with: Windsurf Cascade on Claude 4 Sonnet
 category: UI-Component
 date_created: 2025-08-08
-date_modified: 2025-08-09
+date_modified: 2025-09-20
 tags: [Client-Portal, Markdown-Directives, Reference-Architecture, Portfolio-Display, Astro-Components, Content-Collections]
 authors:
   - Michael Staton
 image_prompt: An Astronaut representing the Astro Framework is navigating a ship and is looking down at maps to see where to go.
 ---
-
+[[lost-in-public/blueprints/Maintain-an-Elegant-Project-Portfolio|Maintain-an-Elegant-Project-Portfolio]]
 # Overview
 
 This specification documents the implementation of Map of Content (MOC) directives for client portal customization. The system enables per-client configuration of features, portfolio items, and reference terms through markdown-based directives, eliminating the need for separate JSON configuration files.
