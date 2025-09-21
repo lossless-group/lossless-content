@@ -1,8 +1,8 @@
 ---
-date_modified: 2025-04-24
+date_modified: 2025-09-21
 site_uuid: 05fd6e2d-778e-451d-af53-a292b560e905
 date_created: 2025-04-06
-aliases: [Customer Relationship Management]
+aliases: [Customer Relationship Management, CRMs]
 ---
 
 [[Salesforce]], [[Twenty]]

@@ -1,6 +1,6 @@
 ---
 date_created: 2025-09-12
-date_modified: 2025-09-20
+date_modified: 2025-09-21
 site_uuid: a26a8c07-dde1-4799-968f-bf76e0a83f5a
 title: The Future of CPG in a world of AI, Robotics, and Advanced Industry
 lede: Generative AI is a powerful tool that can only be used effectively with a solid foundation of knowledge and skills.
@@ -181,7 +181,7 @@ Market trend identification and prediction capabilities enable CPG companies to 
 
 ### Revenue Growth Management and Pricing Optimization
 
-Revenue Growth Management (RGM) represents one of the most profitable applications of AI in the CPG industry. Machine learning models can analyze historical promotion performance, competitive pricing, consumer behavior patterns, and market conditions to optimize pricing strategies and promotional plans. [^an3gog] This optimization capability enables companies to maximize revenue while maintaining competitive positioning and consumer value perceptions.
+[[concepts/Revenue Growth Management]] (RGM) represents one of the most profitable applications of AI in the CPG industry. Machine learning models can analyze historical promotion performance, competitive pricing, consumer behavior patterns, and market conditions to optimize pricing strategies and promotional plans. [^an3gog] This optimization capability enables companies to maximize revenue while maintaining competitive positioning and consumer value perceptions.
 
 Trade promotion optimization through AI can significantly improve the return on investment from promotional spending. AI systems can analyze the effectiveness of different promotional strategies across various channels, customer segments, and market conditions to recommend optimal promotional calendars and budget allocations. [^an3gog] This optimization capability helps companies reduce inefficiencies in promotional spending while improving overall promotional effectiveness.
 

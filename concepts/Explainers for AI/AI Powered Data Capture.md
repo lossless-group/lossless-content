@@ -138,7 +138,7 @@ https://youtu.be/_Y_1ojMSNdg?si=jAOUzGPUhbKxiFoD
 > - **Notable Providers:**
 >     
 >     - **[[Celonis]]:** Offers process mining tools that analyze data from legacy systems to identify inefficiencies.
->     - **[[Workato]]:** Provides AI-powered automation for integrating legacy systems with modern platforms.
+>     - **[[Tooling/Enterprise Jobs-to-be-Done/Integration Platforms/Workato]]:** Provides AI-powered automation for integrating legacy systems with modern platforms.
 >     - **[[Hevo Data]]:** A no-code solution for integrating and syncing data from legacy databases to cloud systems.
 > 
 > **Use Case:** A manufacturing company could modernize its ERP system by migrating data from on-premise databases to the cloud.

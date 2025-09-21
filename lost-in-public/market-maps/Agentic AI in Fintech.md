@@ -1,6 +1,6 @@
 ---
 date_created: 2025-07-11
-date_modified: 2025-08-17
+date_modified: 2025-09-21
 site_uuid: c3149383-fa6d-4980-8ea5-7423b7aafdf3
 publish: true
 title: Agentic AI in Fintech
@@ -17,7 +17,7 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_A
 square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_in_Fintech_square_image_1753837204290_102neBaRK.webp
 ---
 ###### Topics
-[[concepts/Explainers for AI/Explainable AI]]
+[[concepts/Explainers for AI/Explainable AI|Explainable AI]]
 [[concepts/Explainers for AI/Compliance AI|Compliance AI]]
 
 # Lighthouse Examples
@@ -25,6 +25,7 @@ square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_
 [[projects/Emergent-Innovation/Standards/Interledger|Interledger]]
 
 ### Agentic Workspaces
+[[concepts/Explainers for AI/Agentic Workspaces|Agentic Workspaces]]
 :::tool-showcase
 - [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Dynamiq AI|Dynamiq AI]]
 - [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/n8n|n8n]]
@@ -38,8 +39,9 @@ square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_
 - [[Tooling/Enterprise Jobs-to-be-Done/Integration Platforms/Pipedream|Pipedream]]
 :::
 ### Agentic Finance Workspaces
-[[vertical-toolkits/FinTech/Hebbia|Hebbia]]
-
+:::tool-showcase
+- [[vertical-toolkits/FinTech/Hebbia|Hebbia]]
+:::
 
 ### Agentic Frameworks, SDKs, Plugins
 :::tool-showcase
@@ -49,11 +51,14 @@ square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_
 - [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Shield AI|Shield AI]]
 :::
 ### AI Onboarding Concierge
-[[Tooling/Training/Parta IO|Parta IO]]
+:::tool-showcase
+- [[Tooling/Training/Parta IO|Parta IO]]
+:::
 
 ### AI Invoice & Billing
-[[Tooling/Enterprise Jobs-to-be-Done/Vic AI|Vic AI]]
-
+:::tool-showcase
+- [[Tooling/Enterprise Jobs-to-be-Done/Vic AI|Vic AI]]
+:::
 ### Payments Platforms
 :::tool-showcase
 - [[Tooling/Software Development/Lego-Kit Engineering Tools/Polar|Polar]]
@@ -66,24 +71,34 @@ square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_
 - [[Tooling/AI-Toolkit/Consio|Consio]]
 :::
 ### Agentic Payments
-[[vertical-toolkits/FinTech/Skyfire AI|Skyfire AI]]
+:::tool-showcase
+- [[vertical-toolkits/FinTech/Skyfire AI|Skyfire AI]]
+:::
 
 ### Agentic KYC
+[[Vocabulary/Know Your Customer|Know Your Customer]]
+:::tool-showcase
 [[vertical-toolkits/FinTech/Multimodal|Multimodal]]
+:::
 ### Moving Money
-[[Tooling/Enterprise Jobs-to-be-Done/OFX|OFX]]
-[[vertical-toolkits/FinTech/Payman AI|Payman AI]]
-
+:::tool-showcase
+- [[Tooling/Enterprise Jobs-to-be-Done/OFX|OFX]]
+- [[vertical-toolkits/FinTech/Payman AI|Payman AI]]
+:::
 ### Vertical Payments
+:::tool-showcase
 [[Tooling/Enterprise Jobs-to-be-Done/Loadpass|Loadpass]]
-
+:::
 ### Regional Analogs
-[[Tooling/Enterprise Jobs-to-be-Done/Yoco|Yoco]]
+:::tool-showcase
+- [[Tooling/Enterprise Jobs-to-be-Done/Yoco|Yoco]]
+:::
 
 ### Accounting Tools
-[[Tooling/Enterprise Jobs-to-be-Done/Rillion|Rillion]]
-[[Tooling/AI-Toolkit/Knowledge AI/Terzo|Terzo]]
-
+:::tool-showcase
+- [[Tooling/Enterprise Jobs-to-be-Done/Rillion|Rillion]]
+- [[Tooling/AI-Toolkit/Knowledge AI/Terzo|Terzo]]
+:::
 ### Small Business Agents
 :::tool-showcase
 - [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Sintra|Sintra]]
@@ -93,33 +108,42 @@ square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_
 :::
 
 ### Small Business Advisory 
-[[vertical-toolkits/FinTech/OffDeal|OffDeal]]
-
+:::tool-showcase
+- [[vertical-toolkits/FinTech/OffDeal|OffDeal]]
+:::
 ### Accounts Payable Agents
-[[Tooling/Enterprise Jobs-to-be-Done/Vic AI|Vic AI]]
-
+:::tool-showcase
+- [[Tooling/Enterprise Jobs-to-be-Done/Vic AI|Vic AI]]
+:::
 ### Agentic Treasury
-[[vertical-toolkits/FinTech/Multimodal|Multimodal]]
-
+:::tool-showcase
+- [[vertical-toolkits/FinTech/Multimodal|Multimodal]]
+:::
 ### Embedded Finance
-[[vertical-toolkits/FinTech/Alviere|Alviere]]
-[[Tooling/Enterprise Jobs-to-be-Done/Adyen|Adyen]]
-[[Tooling/Software Development/Lego-Kit Engineering Tools/Unit|Unit]]
+:::tool-showcase
+- [[vertical-toolkits/FinTech/Alviere|Alviere]]
+- [[Tooling/Enterprise Jobs-to-be-Done/Adyen|Adyen]]
+- [[Tooling/Software Development/Lego-Kit Engineering Tools/Unit|Unit]]
+:::
 ### Commercial Neobanks
-[[Mercury]]
-[[Copper]]
+:::tool-showcase
+- [[Mercury]]
+- [[Copper]]
+:::
 
 ### Platforms SDKs
-[[Tooling/Software Development/Developer Experience/DevTools/Domo|Domo]]
-
+:::tool-showcase
+- [[Tooling/Software Development/Developer Experience/DevTools/Domo|Domo]]
+:::
 
 ### Compliance Agents
-[[vertical-toolkits/FinTech/Anchain AI|Anchain AI]]
-[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Delve|Delve]]
-[[vertical-toolkits/FinTech/Hummingbird|Hummingbird]]
-[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Integral|Integral]]
-[[Tooling/Software Development/Lego-Kit Engineering Tools/Vanta|Vanta]]
-
+:::tool-showcase
+- [[vertical-toolkits/FinTech/Anchain AI|Anchain AI]]
+- [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Delve|Delve]]
+- [[vertical-toolkits/FinTech/Hummingbird|Hummingbird]]
+- [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Integral|Integral]]
+- [[Tooling/Software Development/Lego-Kit Engineering Tools/Vanta|Vanta]]
+:::
 
 ***
 > [!info] **Perplexity Deep Research Query** (2025-07-29T22:17:04.742Z)

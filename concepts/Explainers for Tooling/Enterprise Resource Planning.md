@@ -1,8 +1,8 @@
 ---
 site_uuid: 3f323d0e-02a0-4940-88f0-ea894b326722
 date_created: 2025-03-30
-date_modified: 2025-08-23
-aliases: [ERP]
+date_modified: 2025-09-21
+aliases: [ERP, ERPs]
 ---
 
 [[Enterprise SaaS]]

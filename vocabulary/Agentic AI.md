@@ -1,8 +1,8 @@
 ---
 date_created: 2025-03-30
-date_modified: 2025-08-27
+date_modified: 2025-09-21
 site_uuid: 8babe509-0827-4af4-bbfb-77957bf7482e
-aliases: ["[AI Agents, AI Agent, Agent, Agents]"]
+aliases: [AI Agents, AI Agent, Agent, Agents]
 publish: true
 title: Agentic AI
 slug: agentic-ai
