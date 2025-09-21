@@ -64,6 +64,8 @@ square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_
 - [[Tooling/Software Development/Lego-Kit Engineering Tools/Polar|Polar]]
 - [[Tooling/Software Development/Lego-Kit Engineering Tools/Unit|Unit]]
 - [[Tooling/Enterprise Jobs-to-be-Done/Adyen|Adyen]]
+- [[vertical-toolkits/FinTech/Telda|Telda]]
+- [[vertical-toolkits/FinTech/Payze|Payze]]
 :::
 ### Agentic Call-Based Commerce
 :::tool-showcase

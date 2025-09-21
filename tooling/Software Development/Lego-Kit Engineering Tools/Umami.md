@@ -1,7 +1,7 @@
 ---
 url: https://umami.is/
 date_created: 2025-09-17
-date_modified: 2025-09-17
+date_modified: 2025-09-21
 og_title: Umami
 og_description: Umami is a simple, fast, privacy-friendly alternative to Google Analytics.
 og_image: http://localhost:3000/opengraph-image-j8qpfc.png?5cc23a73895b1195
@@ -11,6 +11,6 @@ tags: [Web-Analytics, Developer-Tools, Open-Source-Alternatives, Check-It-Out]
 for_clients:
   - Hypernova
   - The-Water-Foundation
-  - Parsley
   - Avalanche
+  - Parselee
 ---

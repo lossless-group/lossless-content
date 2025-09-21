@@ -1,5 +1,5 @@
 ---
-date_modified: 2025-08-17
+date_modified: 2025-09-21
 site_uuid: 67c13a6d-42a8-428b-bfd7-bbc87893a604
 date_created: 2025-04-06
 publish: true
@@ -8,9 +8,12 @@ slug: knowledge-base-ai
 at_semantic_version: 0.0.0.1
 ---
 
-## Conversational Data Analysis
-[[Pandas AI]]
-[[Tooling/AI-Toolkit/Knowledge AI/Meet Cody|Meet Cody]]
+### Conversational Data Analysis
+:::tool-showcase
+- [[Pandas AI]]
+- [[Tooling/AI-Toolkit/Knowledge AI/Meet Cody|Meet Cody]]
+- [[Tooling/AI-Toolkit/Knowledge AI/Dashworks|Dashworks]]
+:::
 
 
 ***
@@ -20,7 +23,9 @@ at_semantic_version: 0.0.0.1
 > 
 > ### **Response from sonar-pro**:
 
-**Knowledge Base AI: Transforming How We Access and Use Information**
+# **Knowledge Base AI:**
+
+## **Transforming How We Access and Use Information**
 
 A **Knowledge Base AI** is an advanced, AI-driven system designed to store, organize, and intelligently retrieve information from vast, centralized data repositories. Its significance lies in its ability to revolutionize knowledge management by augmenting both automated systems and human users with context-aware, precise, and rapidly accessible information—a crucial advantage in today’s data-rich environments. [^gx4n6d] [^6ro4dj] As organizations, customers, and researchers seek more efficient and effective ways to interact with information, Knowledge Base AI has become a vital component across industries. [^zw8j1j] [^1tu6sf]
 

@@ -8,8 +8,7 @@ slug: augmented-creativity
 at_semantic_version: 0.0.0.1
 authors:
   - Michael Staton
-tags:
-  - Explainers
+tags: [Explainers]
 ---
 
 ***

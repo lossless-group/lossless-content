@@ -1,10 +1,12 @@
 ---
-helpful-links: https://www.markdownguide.org/
+helpful-links: "https://www.markdownguide.org/"
 tags: [Primative-Data]
 date_created: 2024-12-25
-date_modified: 2025-07-08
-aliases: [Extended Markdown]
+date_modified: 2025-09-21
+aliases: ["[Extended Markdown]"]
 ---
+
+
 
 [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
@@ -28,6 +30,8 @@ One interesting processor is [Pulldown-Cmark](https://github.com/pulldown-cmark/
 
 ## Markdown Editors
 Here's the example of [[Ulysses]]
-![[Screenshot 2025-01-22 at 1.55.42 PM_Ulysses 1.png]]
+![](https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Markdown_content_1758459551589_6aAn1k4P_.webp)
 
+
+[^hug4k4]: 2023, Nov. "[Customising content markdown via frontmatter in Astro | Chen Hui Jing](https://chenhuijing.com/blog/customising-content-markdown-via-frontmatter-in-astro/#👾)". [Chen Hui Jing](https://chenhuijing.com)
 
