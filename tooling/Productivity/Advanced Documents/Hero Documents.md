@@ -11,7 +11,6 @@ og_description: Transform your business documents with HERO's intelligent text e
 og_image: https://cdn.prod.website-files.com/67b6087f9d272b2612554257/687e89daa66f2c89e97c1b91_UI%20-%20Hero%20Section%20(skewed)%20(2).avif
 og_favicon: https://cdn.prod.website-files.com/67b6087f9d272b2612554257/67eab7943838dcee114ab833_Logo-small.png
 og_last_fetch: 2025-09-21T13:01:33.312Z
-tags:
-  - Advanced-Documents
+tags: [Advanced-Documents]
 site_name: Hero Documents
 ---

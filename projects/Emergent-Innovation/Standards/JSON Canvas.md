@@ -3,7 +3,7 @@ url: https://jsoncanvas.org/
 created-by: "[[Tooling/Productivity/Advanced Documents/Obsidian]]"
 github_repo_url: https://github.com/obsidianmd/jsoncanvas
 date_created: 2025-02-23
-date_modified: 2025-03-21
+date_modified: 2025-09-22
 ---
 
 ##### An [[Data Standard]] for applying [[projects/Emergent-Innovation/Standards/JSON]] syntax in [[Canvas]] [[User Interface|UI]], created by [[Tooling/Productivity/Advanced Documents/Obsidian]]
@@ -24,3 +24,5 @@ date_modified: 2025-03-21
 	]
 }
 ```
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1120836757?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="20250809_JSON-Canvas-Demo"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>

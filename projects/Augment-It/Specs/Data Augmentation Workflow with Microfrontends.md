@@ -11,7 +11,7 @@ status: Draft
 augmented_with: Windsurf on Claude Sonnet 4
 category: Technical-Specification
 date_created: 2025-07-24
-date_modified: 2025-09-15
+date_modified: 2025-09-22
 site_uuid: b37337cd-e1dd-41c7-9917-f0e6469886e9
 publish: true
 slug: data-augmentation-workflow
@@ -33,6 +33,7 @@ portrait_image: {{optional-URL-to-portrait-image}}
 
 This specification defines a data augmentation workflow implemented through a microfrontend architecture using module federation. The system enables distributed processing of content through specialized applications that collect, process, review, and enhance data using AI assistance. The modular approach allows for independent development, deployment, and scaling of individual workflow components while maintaining seamless integration.
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1120782277" width="100%" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 ## 2. Background & Motivation
 
 - **Problem**: Traditional monolithic data processing workflows are difficult to scale, maintain, and extend with new processing capabilities
