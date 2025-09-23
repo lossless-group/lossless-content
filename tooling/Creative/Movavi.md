@@ -11,14 +11,17 @@ site_name: Movavi
 title: Video Editor 2025 and Other Cool Programs from Movavi
 favicon: https://www.movavi.com/favicon.ico
 og_fetched_url: https://www.movavi.com
-og_last_fetch: 2025-03-14T04:43:07.908Z
-date_modified: '2025-04-12'
+og_last_fetch: 2025-09-23T18:06:27.180Z
+date_modified: 2025-04-12
 date_created: 2025-03-30T00:00:00.000Z
 tags:
   - Screen-Recorders
   - Creative
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/666d1f7bd919014e4c08f68ca67843799124abb74a209e7f51b0a9fe0b5eff3a.jpeg
+  - Video-Editors
+og_title: Video Editor 2025 and Other Cool Programs from Movavi – Download for Free
+og_description: Movavi has some fast and easy-to-use photo- and video-editing software for you – safe and trusted all over the world. Try it all out for free!
+og_image: https://cdn.staticont.net/movavisite/production/apple-touch-icon.png
+og_favicon: https://www.movavi.com/favicon.ico
 ---
 
 

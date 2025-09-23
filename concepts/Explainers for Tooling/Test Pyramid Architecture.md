@@ -52,7 +52,7 @@ However, adopting the Test Pyramid Architecture is not without challenges. Teams
 
 ### Current State and Trends
 
-Today, Test Pyramid Architecture is embedded in mainstream Agile and DevOps practices, supported by automation frameworks like JUnit, PyTest, [[Selenium]], and [[Cypress]]. [^pps5ml] Major tech organizations such as Google, Amazon, and Facebook employ pyramid-based strategies for rapid, high-quality software releases. [^mfs6ma] [^pps5ml] The market continues to evolve with smart test management platforms and AI-powered tools, which accelerate unit and integration testing while reducing fragility in E2E tests. [^mfs6ma]
+Today, Test Pyramid Architecture is embedded in mainstream Agile and DevOps practices, supported by automation frameworks like JUnit, PyTest, [[Selenium]], and [[Tooling/Software Development/Developer Experience/DevTools/Cypress]]. [^pps5ml] Major tech organizations such as Google, Amazon, and Facebook employ pyramid-based strategies for rapid, high-quality software releases. [^mfs6ma] [^pps5ml] The market continues to evolve with smart test management platforms and AI-powered tools, which accelerate unit and integration testing while reducing fragility in E2E tests. [^mfs6ma]
 
 Recent developments include better integration between test automation and [[concepts/Continuous Integration and Continuous Deployment|CI/CD]] pipelines, increased use of [[Vocabulary/Containers|containerization]] for repeatable test environments, and a shift toward smarter test orchestration, where coverage and efficiency metrics are actively monitored and improved. [^pps5ml] AI-driven test generation and maintenance are emerging trends, reducing manual effort and improving reliability. [^mfs6ma]
 

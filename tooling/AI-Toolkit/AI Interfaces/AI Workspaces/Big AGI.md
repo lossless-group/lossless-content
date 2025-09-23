@@ -2,7 +2,6 @@
 site_uuid: 421ab263-d7d7-4210-92ec-f0384cb313a8
 url: https://big-agi.com/
 zinger: 'Deploy the most innovative and productive Generative AI suite.'
-description_site_cp: '>-'
 github_repo_url: https://github.com/enricoros/big-agi
 image: https://big-agi.com/icons/card-dark-1200.png
 site_name: 'Big AGI'

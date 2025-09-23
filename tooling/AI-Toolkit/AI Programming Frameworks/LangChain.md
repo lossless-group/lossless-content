@@ -2,10 +2,7 @@
 site_uuid: 0d572cce-9f9f-4339-800a-d95f214be63b
 url: https://www.langchain.com/
 zinger: 'Applications that can reason. Powered by LangChain.'
-description: '>-'
 youtube_channel_url: https://youtube.com/@langchain
-image: '>-'
-https: //og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/43e98c38a6c67f47395ec5af51c0b1f996afca78784e2679c009ea9c8be70153.jpeg
 site_name: LangChain
 title: LangChain
 og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_LangChain_og_screenshot.jpeg

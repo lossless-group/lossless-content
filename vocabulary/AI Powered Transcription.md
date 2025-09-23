@@ -30,7 +30,7 @@ AI powered transcription matters because it overcomes the limitations of manual 
 
 ### How AI Powered Transcription Works
 
-AI powered transcription employs artificial intelligence, machine learning (ML), and [[Automatic Speech Recognition]] (ASR) technologies to analyze audio signals and extract textual representations of speech. [^bqrjn8] These systems are trained on vast datasets to understand speech patterns, accents, and context. They often include [[Vocabulary/Natural Language Processing|Natural Language Processing]] (NLP) to enhance accuracy by interpreting the meaning and intent behind spoken words. [^m92qif] [^bqrjn8]
+AI powered transcription employs artificial intelligence, machine learning (ML), and [[Vocabulary/Automatic Speech Recognition]] (ASR) technologies to analyze audio signals and extract textual representations of speech. [^bqrjn8] These systems are trained on vast datasets to understand speech patterns, accents, and context. They often include [[Vocabulary/Natural Language Processing|Natural Language Processing]] (NLP) to enhance accuracy by interpreting the meaning and intent behind spoken words. [^m92qif] [^bqrjn8]
 
 For example, *customer service teams* use AI transcription software to convert hours of support calls into readable records within minutes, dramatically improving both information management and customer satisfaction. [^bqrjn8] In *healthcare*, medical dictations and consultations are transcribed rapidly, integrating directly into electronic health records—thus reducing administrative burdens and freeing clinicians for patient care. [^m92qif] *Legal professionals* use AI transcription to process depositions and court proceedings faster than traditional typists.
 

@@ -6,11 +6,11 @@ aliases: [Self-Host, Self-Hostable]
 tags: [Self-Hosting-Cloud]
 ---
 
-Including [[Coolify]], [[Tooling/Software Development/Cloud Infrastructure/Bolt.diy|Bolt.diy]], [[DeepSeek]], [[projects/ACE-It/UseCases/n8n]], [[Kestra]]
+Including [[Coolify]], [[Tooling/Software Development/Cloud Infrastructure/Bolt.diy|Bolt.diy]], [[DeepSeek]], [[projects/ACE-It/UseCases/n8n|n8n]], [[Kestra]]
 
 [[Railway]], [[DollarDeploy]]
 
-[[Tooling/Enterprise Jobs-to-be-Done/Plunk|Plunk]]
+[[Tooling/Enterprise Jobs-to-be-Done/Plunk|Plunk]], [[Tooling/Enterprise Jobs-to-be-Done/Listmonk|Listmonk]]
 
 ```yaml toolingGallery
 tag: Self-Hosting-Cloud

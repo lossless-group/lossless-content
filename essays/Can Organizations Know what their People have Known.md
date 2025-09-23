@@ -49,7 +49,7 @@ Some tools currently available include:
 
 - **SAP SuccessFactors Learning**: Uses AI for personalized learning recommendations and predictive analytics.
 
-- **[[Clarice]]**: An AI-powered knowledge management platform that uses natural language processing to understand documents and make them searchable.
+- **[[Tooling/AI-Toolkit/Generative AI/Clarice]]**: An AI-powered knowledge management platform that uses natural language processing to understand documents and make them searchable.
 
 - **[[Yamedi]]**: A social learning platform that leverages AI for content recommendation, skill assessment, and more.
 
@@ -80,7 +80,7 @@ Companies are using **Retrieval-Augmented Generation (RAG) techniques** together
 
 - **Bell (Telecommunications):** Deployed a RAG-powered knowledge hub, enabling fast access to up-to-date policies. Advanced document embedding pipelines and automated updates ensure their knowledge base remains current and reliable. Bell reports streamlined updates and more consistent knowledge access across employees. [^4gp408]
 - **Royal Bank of Canada (RBC):** Uses the "Arcane" RAG system to help specialists quickly locate complex and proprietary policy information. This speeds up responses and simplifies training of new staff. [^4gp408]
-- **[[organizations/Harvard Business School|Harvard Business School]]:** Integrated a RAG chatbot [[Conversational RAG]] into academic channels that allows students to ask questions about complex topics, using a corpus of course content and chat histories. This directly improves student comprehension and course engagement[^4gp408]![Additional supporting visual content](https://daxg39y63pxwu.cloudfront.net/images/blog/advanced-rag-techniques/Advanced_RAG_Techniques.png)
+- **[[organizations/Harvard Business School|Harvard Business School]]:** Integrated a RAG chatbot [[concepts/Explainers for AI/Conversational RAG]] into academic channels that allows students to ask questions about complex topics, using a corpus of course content and chat histories. This directly improves student comprehension and course engagement[^4gp408]![Additional supporting visual content](https://daxg39y63pxwu.cloudfront.net/images/blog/advanced-rag-techniques/Advanced_RAG_Techniques.png)
 >Visualization of LinkedIn’s customer support pipeline before and after RAG adoption, highlighting reduction in resolution time and improvements in both customer and employee satisfaction.
 
 - **LinkedIn (Customer Support):** Implemented RAG for customer service queries, resulting in a **28.6% reduction in median per-issue resolution time**—demonstrating the technology’s measurable impact on efficiency and service quality. [^4gp408]

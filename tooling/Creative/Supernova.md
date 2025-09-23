@@ -1,19 +1,25 @@
 ---
 site_uuid: e9547593-ec38-431a-83c8-5c5cc65bd16c
 url: https://www.supernova.io/
-image: >-
-  https://cdn.prod.website-files.com/632c2ca7090891667181cf26/65ce55cad4b3e1df6a93b3b8_supernova-design-systems.png
+image: https://cdn.prod.website-files.com/632c2ca7090891667181cf26/65ce55cad4b3e1df6a93b3b8_supernova-design-systems.png
 site_name: Supernova
-title: Supernova | The Design System Platform That Grows With You
-og_screenshot_url: >-
-  https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/b91e01989fa88bb39cbbeacb75dcdba4b545972a694e783587589caaabfe2c1f.jpeg
-jina_last_request: '2025-03-09T06:45:14.144Z'
+title: The Design System Platform That Grows With You
+jina_last_request: 2025-03-09T06:45:14.144Z
 jina_error: Error occurred
-og_last_fetch: '2025-03-07T05:19:01.836Z'
-date_modified: '2025-04-12'
-date_created: '2025-03-30T05:44:14.846Z'
+og_last_fetch: 2025-09-23T18:04:03.340Z
+date_modified: 2025-04-12
+date_created: 2025-03-30T05:44:14.846Z
 tags:
   - Creative
+  - Check-It-Out
+  - Design-Systems
+  - Product-Mangagment-Tools
+  - Design-Tools
+  - Developer-Tools
+og_title: Supernova | The Design System Platform That Grows With You
+og_description: Connect design and engineering data in a single design system tool. Supernova adapts to your company's needs and enables your teams to accelerate and scale product development.
+og_image: https://cdn.prod.website-files.com/632c2ca7090891667181cf26/65ce55cad4b3e1df6a93b3b8_supernova-design-systems.png
+og_favicon: https://cdn.prod.website-files.com/632c2ca7090891667181cf26/6341a0e4eae8f417097ea23b_32x32.png
 ---
 
 
