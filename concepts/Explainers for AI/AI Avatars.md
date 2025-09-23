@@ -193,7 +193,7 @@ tags: [AI-Toolkit]
 > 
 > #### **6. Enterprise Solutions**
 > 
-> - **[[IBM Watson]]**:
+> - **[[Tooling/AI-Toolkit/Models/IBM Watson]]**:
 >     - Offers AI avatars powered by conversational AI for customer service and support.
 > - **Microsoft [[Azure]] AI**:
 >     - Provides tools for building interactive AI-powered avatars for businesses.

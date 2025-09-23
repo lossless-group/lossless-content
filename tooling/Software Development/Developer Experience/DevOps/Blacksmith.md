@@ -7,7 +7,7 @@ og_description: Speed up your GitHub actions with Blacksmith. Run CI/CD 2x faste
 og_image: https://cdn.prod.website-files.com/681bfb0c9a4601bc6e288ec4/684b4a332c1905034fdee368_ebf0b394c307e7e092874768e7f43edc_image-sblacksmith-socialgraph.png
 og_favicon: https://cdn.prod.website-files.com/681bfb0c9a4601bc6e288ec4/684a16c003e68ef866f5f528_logo-blacksmith-favicon-light.png
 og_last_fetch: 2025-08-25T11:14:18.832Z
-tags: [Continuous-Deployment, Continuous-Integration, CI/CD-Tools, DevOps, Dev-Ops-Tools]
+tags: [Continuous-Deployment, Continuous-Integration, CI-CD-Tools, DevOps, Dev-Ops-Tools]
 augmented_with: Perplexity AI
 site_uuid: a7f9d5a4-551d-4cb6-a7dc-e2d40ae01981
 publish: true

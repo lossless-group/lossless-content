@@ -1,6 +1,6 @@
 ---
 date_created: 2025-09-08
-date_modified: 2025-07-25
+date_modified: 2025-09-23
 site_uuid: 01a32609-c164-48ec-8002-91d406f45d0f
 title: Multi Modal Databases
 slug: multi-modal-databases
@@ -11,12 +11,14 @@ tags: [Databases]
 ![Multi-Modal Databases concept diagram or illustration](http://103.121.91.113:2022/Uploads/multi-level-database01122022103726.png)
 *Source: https://en.tigosolutions.com/what-is-a-multi-model-database-4491*
 
+:::tool-showcase
 [[Tooling/Software Development/Databases/SurrealDB|SurrealDB]]
 [[Tooling/Software Development/Databases/ArangoDB|ArangoDB]]
 [[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/SingleStore|SingleStore]]
+:::
 
 
-A new type of [[concepts/Explainers for Tooling/Databases|Database]] that includes features of [[Vocabulary/Relational Database|Relational Databases]]
+A new type of [[concepts/Explainers for Tooling/Databases|Database]] that includes features of [[Vocabulary/Relational Databases|Relational Databases]]
 
 ```yaml toolingGallery
 tag: Multi-Modal-Databases
@@ -28,38 +30,6 @@ tag: Multi-Modal-Databases
 > [!info] **Perplexity Query** (2025-07-25T15:32:25.688Z)
 > **Question:**
 > Write a comprehensive one-page article about "Multi-Modal Databases". 
-> 
-> Structure the article as follows:
-> 
-> 1. **Introduction** (2-3 sentences)
->    - Define the term and its significance
->    - Provide context for why it matters
-> 
-> 2. **Main Content** (3-4 paragraphs)
->    - Explain the concept in detail
->    - Include practical examples and use cases
->    - Discuss benefits and potential applications
->    - Address any challenges or considerations
-> 
-> 3. **Current State and Trends** (1-2 paragraphs)
->    - Discuss current adoption and market status
->    - Mention key players or technologies
->    - Highlight recent developments
-> 
-> 4. **Future Outlook** (1 paragraph)
->    - Predict future developments
->    - Discuss potential impact
-> 
-> 5. **Conclusion** (1-2 sentences)
->    - Summarize key points
->    - End with a forward-looking statement
-> 
-> **Important Guidelines:**
-> - Keep the total length to approximately one page (500-800 words)
-> - Use clear, accessible language
-> - Include specific examples and real-world applications
-> - Make it engaging and informative for a general audience
-> - Use markdown formatting for structure
 > 
 > **Image References:**
 > Include 

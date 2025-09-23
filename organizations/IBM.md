@@ -1,2 +1,2 @@
 
-Created the [[Relational Database]]
+Created the [[Vocabulary/Relational Databases]]

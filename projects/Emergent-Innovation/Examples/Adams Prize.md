@@ -8,7 +8,7 @@ title: "Adams Prize"
 slug: adams-prize
 at_semantic_version: 0.0.0.1
 ---
-The [[projects/Emergent-Innovation/Examples/Adams Prize]] won by [[James Clerk Maxwell]]
+The [[projects/Emergent-Innovation/Examples/Adams Prize]] won by [[Sources/People/James Clerk Maxwell]]
 
 According to [[Poe AI]]:
 
