@@ -1,3 +1,7 @@
+---
+date_created: 2025-07-16
+date_modified: 2025-09-23
+---
 Team members include [[Michael Staton]]
 #### A Brief Intro to The Lossless Way
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1026831215?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="20241012_Concept-Intro--Lossless-and-Emergent"></iframe><script src="https://player.vimeo.com/api/player.js"></script></div>
@@ -16,7 +20,7 @@ Explaining that balancing competing but complimentary ideas about what kind of w
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1037098440?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="20241207_Scope-of-Work"></iframe><script src="https://player.vimeo.com/api/player.js"></script></div>
 
 #### How to Fuel Innovation with Alignment: CARBS
-Explaining the concept of [[concepts/CARBS]]
+Explaining the concept of [[concepts/CARBS|CARBS]]
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1036761193?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="20241206__CARBS-are-for-Innovation-Endurance"></iframe><script src="https://player.vimeo.com/api/player.js"></script></div>
 
 ##### A Table explaining CARBS

@@ -1,9 +1,8 @@
 ---
 site_uuid: 5b2688c2-40e8-40aa-b11d-68456d9bb649
 url: https://unstract.com/
-image: ">-"
-https: //unstract.com/wp-content/uploads/2024/10/extract-data-from-documents-with-unstract.png
-site_name: Unstract.com →
+image: https://unstract.com/wp-content/uploads/2024/10/extract-data-from-documents-with-unstract.png
+site_name: Unstract.com
 title: "Unstract: LLM Powered ETL for Unstructured Data"
 favicon: https://unstract.com/wp-content/uploads/2024/03/unstract-u.png
 og_errors: true
@@ -12,7 +11,7 @@ og_error_message: Error occurred
 jina_last_request: 2025-03-09T06:45:17.582Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:19:19.162Z
-date_modified: 2025-09-20
+date_modified: 2025-09-23
 date_created: 2025-03-30
 og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Unstract_og_screenshot.jpeg
 tags: [AI-Toolkit, Data-Augmenters]

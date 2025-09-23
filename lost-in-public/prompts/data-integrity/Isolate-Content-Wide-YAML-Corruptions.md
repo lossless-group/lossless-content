@@ -11,15 +11,10 @@ status: Implemented
 augmented_with: Windsurf IDE with Claude 3.5 Sonnet
 category: Specification
 date_created: 2025-04-16
-date_modified: 2025-04-16
+date_modified: 2025-09-23
 image_prompt: "A software developer inspecting YAML syntax on a large whiteboard."
 site_uuid: 05063216-597e-4318-a0e6-a16458447110
-tags: 
-  - YAML
-  - Frontmatter
-  - Content-Management
-  - Data-Cleaning
-  - Automation
+tags: [YAML, Frontmatter, Content-Management, Data-Cleaning, Automation]
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/prompts/data-integrity/2025-05-04_portrait_image_Isolate-Content-Wide-YAML-Corruptions_546bee2a-9334-4e12-ba75-5abd02015e11_5XyW548v5.webp

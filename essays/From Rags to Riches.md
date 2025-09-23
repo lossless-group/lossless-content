@@ -1,6 +1,6 @@
 ---
 date_created: 2024-11-08
-date_modified: 2025-07-16
+date_modified: 2025-09-23
 site_uuid: 20654883-39a1-44b4-a6ca-b7afbe5cff17
 title: From Rags to Riches
 lede: "Retrieval Augmented Generation transforms raw data into enterprise AI gold—if you set it up right."
@@ -22,7 +22,7 @@ For large scale businesses, [[concepts/Explainers for AI/Artificial Intelligence
 
 There is definite value in just getting started. Anyone can throw PDFs, word documents, presentations, and spreadsheets into a folder and suddenly have some serious magical powers. 
 
-But for the whole organization to benefit, [[concepts/Explainers for AI/Knowledge Base AI]], using [[Vocabulary/Retrieval-Augmented Generation]] and [[Knowledge Augmented Generation|KAG]] approaches and tools, requires preparing data with an intention and clarity, a discipline and rigor, that most organizations have never bothered with.  
+But for the whole organization to benefit, [[concepts/Explainers for AI/Knowledge Base AI|Knowledge Base AI]], using [[Vocabulary/Retrieval-Augmented Generation|Retrieval-Augmented Generation]] and [[Knowledge Augmented Generation|KAG]] approaches and tools, requires preparing data with an intention and clarity, a discipline and rigor, that most organizations have never bothered with.  
 
 While much of the tactical work can be left to professionals in [[Data & Analytics]], there is actual enabling work that can only be done by [[Executive Management]]. 
 

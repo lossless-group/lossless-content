@@ -2,9 +2,7 @@
 date_modified: 2025-09-23
 site_uuid: 034a87c1-c8f7-41fd-bc87-ecbc97de5bf0
 date_created: 2024-06-06
-aliases:
-  - Container
-  - Containerization
+aliases: [Container, Containerization]
 publish: true
 title: Containers
 slug: containers
