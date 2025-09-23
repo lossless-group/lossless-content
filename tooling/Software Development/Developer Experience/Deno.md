@@ -4,7 +4,6 @@ date_created: 2025-04-07
 date_modified: 2025-05-29
 site_uuid: 95eaef3e-5af7-475d-bcb2-cec71ee262b8
 og_title: 'Deno, the next-generation JavaScript runtime'
-og_description: '>-'
 og_image: 'https://deno.com/og/image.jpg'
 og_url: 'https://deno.com/'
 og_last_fetch: '2025-05-29T13:34:54.721Z'

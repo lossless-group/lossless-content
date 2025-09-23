@@ -18,6 +18,51 @@ square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Maint
 
 # Recent Updates (2025-09-22)
 
+## URL Parameter Parsing Fix ✅ COMPLETED
+- **Fixed tag parameter parsing in URLs** - Resolved issue where multiple tags in URLs like `?tag=Code-Generators+Site-Builders` were being parsed as a single tag instead of separate tags
+- **Improved tag matching logic** - Enhanced the tag matching system to handle format differences between URL parameters (with hyphens) and display tags (with spaces)
+- **Enhanced URL handling** - Fixed URLSearchParams automatic conversion of `+` signs to spaces, ensuring proper tag splitting
+
+### Technical Implementation:
+**Problem**: URL parameters like `?tag=Code-Generators+Site-Builders` were being parsed as a single tag `["Code-Generators Site-Builders"]` instead of two separate tags `["Code-Generators", "Site-Builders"]`.
+
+**Root Cause**: 
+1. `URLSearchParams` automatically converts `+` signs to spaces
+2. Tag matching logic didn't account for format differences between URL parameters (hyphens) and dropdown tag values (spaces)
+
+**Solution** (in `TagColumn.astro`):
+```javascript
+// Fixed URL parameter parsing - URLSearchParams converts + to spaces automatically
+if (tagParam) {
+  // Split by spaces since URLSearchParams converts + to spaces
+  selectedTags = tagParam.split(' ')
+    .map(tag => tag.trim())
+    .filter(tag => tag.length > 0);
+}
+
+// Enhanced tag matching logic to handle format differences
+const matchingChoices = selectedTags.map(selectedTag => {
+  // Try exact match first
+  let match = availableChoices.find(choice => choice.value === selectedTag);
+  
+  if (!match) {
+    // Try converting hyphens to spaces (URL format to display format)
+    const withSpaces = selectedTag.replace(/-/g, ' ');
+    match = availableChoices.find(choice => choice.value === withSpaces);
+  }
+  
+  if (!match) {
+    // Try converting spaces to hyphens (display format to URL format)
+    const withHyphens = selectedTag.replace(/\s+/g, '-');
+    match = availableChoices.find(choice => choice.value === withHyphens);
+  }
+  
+  return match;
+}).filter(Boolean);
+```
+
+**Result**: URLs with multiple tags now correctly parse and filter, enabling proper tag-based filtering from shared URLs.
+
 ## Share Button Enhancement ✅ COMPLETED
 - **Moved share button from TagColumn to CardGrid filter header** - The share button is now prominently displayed in the main content area's filter header instead of being buried in the sidebar
 - **Improved visual consistency** - Updated styling to match the site's design system using proper CSS variables (`--clr-sidebar-bg`, `--clr-text-primary`, etc.)
@@ -32,6 +77,7 @@ square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Maint
 
 # Next Steps
 1. ✅ **COMPLETED**: Create a dynamic share button in the filter header for better discoverability
+2. Refactor header and share code into TagShareHeader.astro
 2. Assure the dynamic link share uses Open Graph correctly, create a title and description that reads: 
   - Title: "The ${Tag-String} Toolkit (where the `-` that is necessarily used in tags is stripped out for readability"
   - Description: "Checkout the $(Tag-String) toolkit, a great resource for innovators and founders. Curated by The Lossless Group."  

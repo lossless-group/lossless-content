@@ -9,8 +9,7 @@ zinger: Kubernetes SRE superpowers with AI
 og_image: https://k8sgpt.ai/images/logo-black.png
 og_url: https://k8sgpt.ai/
 og_last_fetch: '2025-04-07T17:38:10.980Z'
-tags:
-  - Software-Development
+tags: [Software-Development]
 ---
 
 

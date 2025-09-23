@@ -5,7 +5,6 @@ zinger: 'Award-Winning Storage Trusted by Over 60% of the Fortune 500'
 date_created: 2025-03-21
 date_modified: 2025-04-12
 og_title: 'TrueNAS - Open Enterprise Storage'
-og_description: '>-'
 og_image: 'https://www.truenas.com/wp-content/uploads/2023/11/F100_racks_featured.jpg'
 og_url: 'https://www.truenas.com/'
 og_last_fetch: '2025-04-07T17:38:11.582Z'

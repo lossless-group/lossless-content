@@ -4,7 +4,6 @@ url: 'https://ohmyz.sh/'
 date_created: 2025-03-17
 date_modified: 2025-05-29
 og_title: 'Oh My Zsh - a delightful & open source framework for Zsh'
-og_description: '>-'
 og_image: 'https://s3.amazonaws.com/ohmyzsh/OMZLogo_opengraph.jpg'
 og_url: 'https://ohmyz.sh/'
 og_last_fetch: '2025-05-29T13:19:58.972Z'
