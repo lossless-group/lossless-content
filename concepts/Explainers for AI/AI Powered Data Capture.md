@@ -61,7 +61,7 @@ https://youtu.be/_Y_1ojMSNdg?si=jAOUzGPUhbKxiFoD
 >     - Use [[Vocabulary/Natural Language Processing|Natural Language Processing]] (NLP) to clean and contextualize the data.
 > - **Notable Providers:**
 >     
->     - **[[Diffbot]]:** Offers AI-driven web scraping and data extraction with its Knowledge Graph, which structures web data automatically.
+>     - **[[Tooling/AI-Toolkit/Data Augmenters/Diffbot]]:** Offers AI-driven web scraping and data extraction with its Knowledge Graph, which structures web data automatically.
 >     - **[[Octoparse]]:** Provides a no-code platform for web scraping with AI-based features to handle complex sites.
 >     - **[[BrightData]] (formerly Luminati):** Offers advanced web scraping tools with powerful AI capabilities for real-time data collection.
 > 
@@ -119,7 +119,7 @@ https://youtu.be/_Y_1ojMSNdg?si=jAOUzGPUhbKxiFoD
 > - **Notable Providers:**
 >     
 >     - **[[DocParser]]:** Extracts structured data from PDFs, invoices, and other documents using AI.
->     - **[[Rossum]]:** Focuses on AI-based document processing, especially for invoices and contracts.
+>     - **[[Tooling/Enterprise Jobs-to-be-Done/Rossum Aurora]]:** Focuses on AI-based document processing, especially for invoices and contracts.
 >     - **[[Read.ai]]:** Uses AI to process messy files, offering deep insights and integrations with business systems.
 > 
 > **Use Case:** A finance team could extract transactional data from scanned receipts and spreadsheets for expense analysis.

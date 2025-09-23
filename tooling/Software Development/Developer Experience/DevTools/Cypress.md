@@ -12,8 +12,5 @@ og_description: Simplify front-end testing with Cypress' open-source app. Explor
 og_image: https://www.cypress.io/cypress_logo_social.png
 og_favicon: https://www.cypress.io/favicon.ico
 og_last_fetch: 2025-09-23T18:54:48.774Z
-tags:
-  - Testing-Suites
-  - Developer-Tools
-  - Developer-Experience
+tags: [Testing-Suites, Developer-Tools, Developer-Experience]
 ---

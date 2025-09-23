@@ -72,7 +72,7 @@ https://youtu.be/OxUP51qk4lQ?si=R9LnHtnBdntvWlH-
     - Every day, more transistors are produced than cells in the human body, underscoring both the complexity and scale of the industry. [^y6r47f] *![Additional supporting visual content](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670122638i/63920543.jpg)*
 
 - **Key Figures**:
-    - The book profiles industry pioneers such as **Morris Chang** ([[organizations/TSMC|TSMC]]), **Akio Morita** (Sony), and leaders from [[organizations/Intel|Intel]], [[Samsung]], and others, showing how personalities shaped corporate and national strategies. [^f1y89f]
+    - The book profiles industry pioneers such as **Morris Chang** ([[organizations/TSMC|TSMC]]), **Akio Morita** (Sony), and leaders from [[organizations/Intel|Intel]], [[organizations/Samsung]], and others, showing how personalities shaped corporate and national strategies. [^f1y89f]
 
 In summary, *Chip War* is both a history and a warning, arguing that controlling semiconductor technology is the defining geopolitical contest of our time, affecting not just economies but also the very nature of military and political power in the digital age. [^y6r47f] [^0co6ud]
 
