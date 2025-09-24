@@ -27,7 +27,7 @@ portrait_image: {{optional-URL-to-portrait-image}}
 :::
 
 :::slides-astro
-- [[slides/Augment-It.astro]]
+- [[slides/augment-it-slides.astro]]
 :::
 ## 1. Executive Summary
 
