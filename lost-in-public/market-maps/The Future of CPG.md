@@ -1,6 +1,6 @@
 ---
 date_created: 2025-09-12
-date_modified: 2025-09-21
+date_modified: 2025-09-24
 site_uuid: a26a8c07-dde1-4799-968f-bf76e0a83f5a
 title: The Future of CPG in a world of AI, Robotics, and Advanced Industry
 lede: Generative AI is a powerful tool that can only be used effectively with a solid foundation of knowledge and skills.
@@ -19,7 +19,9 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/The_
 square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/The_Future_of_CPG_square_image_1758281188749_4WUUsnFeS.webp
 publish: true
 ---
-
+Nestle
+Danon
+Kraft Heinz
 
 ![A global supply chain map with highlighted disruption points due to climate change and geopolitical conflict](https://www.modernretail.co/wp-content/uploads/sites/5/2022/03/RawMaterials.png)
 ***

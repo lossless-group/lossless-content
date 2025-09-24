@@ -1,6 +1,6 @@
 ---
 date_created: 2024-12-14
-date_modified: 2025-08-23
+date_modified: 2025-09-23
 site_uuid: 15bf6f3a-75e6-4095-b232-a24c3490496e
 title: Someone's Gotta Keep Up with It
 lede: Keeping up with rapid tech change is a relentless challenge, but it’s the key to staying relevant.
@@ -16,6 +16,9 @@ banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-0
 tags: [Near-Future-Anticipation, Management-Strategies, Technology-Trends]
 authors:
   - Michael Staton
+publish: true
+categories:
+  - Avoid-and-Peril
 ---
 
 ###### To Include

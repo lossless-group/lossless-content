@@ -1,21 +1,22 @@
 ---
 date_created: 2025-04-21
-date_modified: 2025-09-05
+date_modified: 2025-09-23
 site_uuid: cb3993bb-d221-4be5-ba92-c1bc625f5ecb
 publish: true
 title: Evolutions In Managing Large Codebases
 slug: evolutions-in-managing-large-codebases
-lede: 'While Vibe Coding is causing challenges as Software Developers use AI Code Assistants, AI is also showing to give engineering managers superpowers at managing large codebases.'
+lede: While Vibe Coding is causing challenges as Software Developers use AI Code Assistants, AI is also showing to give engineering managers superpowers at managing large codebases.
 date_authored_initial_draft: 2025-04-22
 date_authored_current_draft: 2025-09-04
 augmented_with: Perplexity AI
 at_semantic_version: 0.0.1.1
-image_prompt: "A robot representing AI is wearing a cowboy hat, cowboy boots, and is winding up a lasso above his head.  He is standing in front of a bunch of very large dinosaurs who all have hacker T-Shirts, one with .NET, one with Java, and one with C++. They all have eye-glasses, and they are far too big to lasso."
+image_prompt: A robot representing AI is wearing a cowboy hat, cowboy boots, and is winding up a lasso above his head.  He is standing in front of a bunch of very large dinosaurs who all have hacker T-Shirts, one with .NET, one with Java, and one with C++. They all have eye-glasses, and they are far too big to lasso.
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Evolutions_in_Managing_Large_Codebases_banner_image_1757071280604_CG99gmz7h.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Evolutions_in_Managing_Large_Codebases_portrait_image_1757071282702_X8CpmVpAe.webp
 square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Evolutions_in_Managing_Large_Codebases_square_image_1757071284533_lx_By9HwY.webp
 categories:
   - Avoid-and-Peril
+category: Avoid and Peril
 ---
 
 

@@ -1,8 +1,8 @@
 ---
 url: https://www.greptile.com/
 date_created: 2025-06-04
-date_modified: 2025-06-06
-og_image: https://www.greptile.com/opengraph-image.png
+date_modified: 2025-09-23
+og_image: https://www.greptile.com/opengraph/opengraph-image.webp
 og_url: https://www.greptile.com/
 site_name: Greptile
 title: AI Code Review | Catch Bugs, Automate PRs, Improve Code Quality

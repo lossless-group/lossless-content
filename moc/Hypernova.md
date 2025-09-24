@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-09
-date_modified: 2025-08-09
+date_modified: 2025-09-24
 ---
 :::features
 - Reader
@@ -18,4 +18,9 @@ date_modified: 2025-08-09
 - [[client-content/Hypernova/Portfolio/Ontra|Ontra]]
 - [[client-content/Hypernova/Portfolio/Trela|Trela]]
 - [[client-content/Hypernova/Portfolio/Yassir|Yassir]]
+:::
+
+:::concepts
+- [[concepts/Explainers for AI/Logistics AI|Logistics AI]]
+- [[Vocabulary/Demand Forecasting|Demand Forecasting]]
 :::

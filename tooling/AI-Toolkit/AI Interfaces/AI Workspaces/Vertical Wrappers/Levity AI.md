@@ -15,4 +15,4 @@ slug: levity-ai
 at_semantic_version: 0.0.0.1
 ---
 [[lost-in-public/market-maps/The Future of CPG|The Future of CPG]]
-[[Logistics AI]]
+[[concepts/Explainers for AI/Logistics AI]]

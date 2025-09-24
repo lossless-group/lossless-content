@@ -9,7 +9,7 @@ tags:
   - AI-Toolkit
 ---
 
-[[Blockchain]]
+[[Vocabulary/Blockchain]]
 
 [[Peer-to-Peer]]
 

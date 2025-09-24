@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-17
-date_modified: 2025-08-22
+date_modified: 2025-09-23
 authors:
   - Michael Staton
 site_uuid: 2d4cc2aa-19c3-4cb6-83a0-58667febce14
@@ -16,17 +16,16 @@ tags: [Business-Intelligence, Web-Analytics, Data-Analytics, Founder-Toolkit]
 augmented_with: Perplexity AI
 categories:
   - Best-Practices
+category: Best-Practices
+lede: Innovators can de-risk product and market development just by changing what they see as progress.
 ---
 
-
-
-
 ***
-> [!info] **Perplexity Query** (2025-08-17T03:25:42.237Z)
+> [!LLM-Response] **Perplexity Query** (2025-08-17T03:25:42.237Z)
 > **Question:**
 > How can early stage entrepreneurs create "Validated Learnings" by seeking to quantify the feedback they are getting from their conversations with their target market?  Like, instead of just "talking to customers" they could do what to be more rigorous and put numbers behind it.
 > 
-> ### **Response from sonar-pro**:
+>  **Response from sonar-pro**:
 
 Early stage entrepreneurs can create **validated learnings** by quantifying customer feedback through structured experiments, rigorous metrics, and systematic data gathering instead of relying solely on qualitative conversations. This means designing measurable tests for key business assumptions and tracking numerical outcomes, so learning is actionable, accessible, and auditable. [^ppi5a1] [^l4j1fn] [^1h9629]
 
@@ -46,7 +45,7 @@ Early stage entrepreneurs can create **validated learnings** by quantifying cust
   - Record how many users respond positively to early prototypes ([[concepts/Minimum Viable Product|MVPs]]). [^y3oxnf] [^1h9629]
 
 - **Build-Measure-Learn Loop**  
-  Adopt [[Sources/Books/The Lean Startup]] cycle:
+  Adopt [[Sources/Books/The Lean Startup|The Lean Startup]] cycle:
   1. Build a **minimum viable product (MVP)**—a basic version that lets you test your core assumption. [^y3oxnf] [^1h9629]
   2. Measure customer interaction (e.g., conversion rates, feature usage, retention).
   3. Learn by comparing actual results to the hypothesis, and use the numbers to **validate** or **invalidate** your assumptions. [^1h9629]
@@ -57,8 +56,6 @@ Early stage entrepreneurs can create **validated learnings** by quantifying cust
   - Run A/B tests: Present two versions of a feature and record which performs better across a statistically significant sample.
   - Use surveys with numerical ratings ([[Vocabulary/Net Promoter Score|Net Promoter Score]], likeliness to buy, etc.).
   - Track behavioral metrics: signups, purchases, feature engagement rates. [^ppi5a1] [^l4j1fn]
-
-  ![Visualization of a practical use case showing an MVP experiment, customer numbers, and validation results.](https://fastercapital.com/i/Lean-Startup--Validated-Learning--Validated-Learning-What-is-a-Lean-Startup.webp)
 
 - **Metrics Must Be Auditable**  
   Ensure that all feedback you collect can be verified and replicated by others. Data like percentage of positive responses, retention rates over time, or conversion funnels demonstrate real progress. [^ppi5a1]

@@ -1,12 +1,18 @@
 ---
 date_created: 2025-08-23
-date_modified: 2025-08-23
+date_modified: 2025-09-23
 tags: [Vertical-Wrappers, Vertical-Agents]
 site_uuid: eaeb3fcd-b590-4a61-bfe0-1da16efa76b3
 publish: true
 title: "Harvey AI"
 slug: harvey-ai
 at_semantic_version: 0.0.0.1
+url: "https://www.harvey.ai/"
+og_title: "Harvey – Professional Class AI"
+og_description: "Harvey is the platform built to meet the standards of the world’s leading professional service firms."
+og_image: "https://cdn.sanity.io/images/07s0r5r6/production/5a086e0bb3b2df8aa1c74eefe2abacabc3329025-1200x630.png?q=95&auto=format&dpr=2"
+og_favicon: "https://www.harvey.ai/icons/brand-favicon.png"
+og_last_fetch: "2025-09-23T23:02:04.699Z"
 ---
 
 
