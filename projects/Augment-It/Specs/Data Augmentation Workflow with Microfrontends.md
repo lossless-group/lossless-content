@@ -22,16 +22,15 @@ image_prompt: A modern workflow diagram showing interconnected microfrontend app
 banner_image: {{URL-to-relevant-image}}
 portrait_image: {{optional-URL-to-portrait-image}}
 ---
-:::slides
-- [[slides/data-augmentation-workflow.md]]
-:::
 
 :::slides-astro
 - [[slides/augment-it-slides.astro]]
 :::
 ## 1. Executive Summary
 
-This specification defines a data augmentation workflow implemented through a microfrontend architecture using module federation. The system enables distributed processing of content through specialized applications that collect, process, review, and enhance data using AI assistance. The modular approach allows for independent development, deployment, and scaling of individual workflow components while maintaining seamless integration.
+This specification defines a data augmentation workflow implemented through a [[Vocabulary/Microfrontend Architecture|Microfrontend Architecture]] using [[Vocabulary/Module Federation|Module Federation]]. 
+
+The system enables distributed processing of content through specialized applications that collect, process, review, and enhance data using AI assistance. The modular approach allows for independent development, deployment, and scaling of individual workflow components while maintaining seamless integrations.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/1120782277" width="100%" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
@@ -46,8 +45,9 @@ This specification defines a data augmentation workflow implemented through a mi
 ### Goals
 - Create a modular, scalable data augmentation workflow using microfrontends
 - Enable independent development and deployment of workflow components
+	- Have smaller codebases to navigate, and less for [[concepts/Explainers for AI/Code Generators|Code Generators]] to overwrite or destroy. 
 - Provide seamless integration between processing stages
-- Support AI-assisted content enhancement and review processes
+- Support AI-assisted content enhancement and review processes, as detailed in [[projects/ACE-It/Philosophy/Context-Vigilance|Context-Vigilance]].
 - Maintain data consistency and traceability throughout the workflow
 
 ### Non-Goals

@@ -1,6 +1,6 @@
 ---
 date_created: 2024-09-02
-date_modified: 2025-09-23
+date_modified: 2025-09-24
 site_uuid: 209e0f39-13de-46b3-829e-a2816d2f5aa7
 title: A Theory of Lossless Innovation
 lede: "To go forth and innovate while not losing the core business or loyalty of the current customer base is the challenge of our new era."
@@ -99,12 +99,17 @@ On the success of AT&T, many brilliant  were searching for a wireless method of 
 
 ## Memories
 
-Facebook and LinkedIn could be thought of as networks of humans trying to keep (not lose) their relationships or their memories. For a long time, Facebook was just a way to share photos and "tag" the people featured in the photos. 
+Facebook and LinkedIn could be thought of as networks of humans trying to keep (not lose) their relationships or their memories. For a long time, Facebook was just a way to hare photos and "tag" the people featured in the photos. 
 
 
 ## Human Nature
 
 Similar to [[Mimetic Theory]], to pursue [[concepts/Lossless|Lossless]] goals is part of human nature itself.  Decades of research in [[Behavioral Economics]] have demonstrated that [[Loss Aversion]] is one of the most powerful of human motives. 
+
+# Implications
+
+## Work in Markdown, HTML, CSS, JSON
+
 
 ***
 # Footnotes
