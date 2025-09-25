@@ -9,7 +9,7 @@ date_modified: 2025-08-23
 - Recommendations
 :::
 
-:::essays
+:::reader
 - [[lost-in-public/market-maps/Agentic AI in Fintech|Agentic AI in Fintech]]
 :::
 

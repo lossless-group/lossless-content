@@ -55,7 +55,7 @@ The CPG industry is experiencing intensifying competition as market saturation i
 
 Growing competition for shoppers represents one of the biggest challenges for CPG executives in 2025, according to industry research. [^a3dfyo] This competition is multifaceted, involving not only traditional competitors but also new entrants leveraging different business models, distribution channels, and value propositions. Private label brands have become particularly competitive, offering comparable quality at lower prices and benefiting from retailer support and prime shelf placement.
 
-The rise of low-cost distributors and e-marketplaces that compete primarily on price is threatening traditional business models throughout the CPG supply chain. [^ah9lp7] These new competitive dynamics force established players to reconsider their value propositions, distribution strategies, and cost structures. Companies can no longer rely solely on brand recognition or traditional distribution advantages to maintain competitive positions.
+The rise of low-cost distributors, e-commerce, and marketplaces that compete primarily on price is threatening traditional business models throughout the CPG supply chain. [^ah9lp7] These new competitive dynamics force established players to reconsider their value propositions, distribution strategies, and cost structures. Companies can no longer rely solely on brand recognition or traditional distribution advantages to maintain competitive positions.
 
 Reduced consumer spending adds another layer of complexity to the competitive landscape. As consumers become more price-conscious and selective in their purchasing decisions, companies must demonstrate clear value propositions while managing cost pressures. This environment rewards companies that can efficiently deliver high-quality products at competitive prices, while penalizing those with outdated cost structures or unclear value propositions.
 
@@ -79,6 +79,7 @@ Rising transportation costs compound the impact of raw material shortages by inc
 
 ### Geopolitical and Trade Uncertainties
 ![Practical example or use case visualization](https://www.talkwalker.com/hubfs/Imported_Blog_Media/CPG%20conversation%20cluster-2.png)
+
 Geopolitical instability and trade policy uncertainty create additional layers of complexity for CPG supply chain management. President Trump's proposed tariffs targeting major trading partners such as China and Canada have created uncertainty for global trade relationships and potential supply chain volatility. [^8hd32n] The unpredictability surrounding government-imposed tariffs has created significant disruptions throughout the CPG sector, affecting everything from raw material sourcing to finished goods pricing strategies.
 
 The potential for retaliatory measures from affected countries exacerbates supply chain instability by creating uncertainty about future trade relationships and costs. Companies must develop scenario planning capabilities that account for various tariff and trade policy outcomes, while simultaneously managing current operations under existing policy frameworks. This dual requirement for current operational efficiency and future flexibility creates significant management complexity.

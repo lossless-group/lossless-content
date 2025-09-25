@@ -1,6 +1,6 @@
 ---
 date_created: 2024-12-18
-date_modified: 2025-06-16
+date_modified: 2025-09-25
 site_uuid: a8ae951d-9235-4378-b399-9c4dbd79da84
 title: When to Partner with a Startup?  When it's time for them to Scale Up
 lede: Timing is critical, because startups are not prepared to partner and scale ups will choose partners quickly.
@@ -19,6 +19,11 @@ authors:
 slug: partnering-with-startups-at-scale-up
 ---
 
+# Strategic Investors want to Partner
+Strategic investors usually see a way to benefit from investing in a startup.  However, they usually ask for this benefit prematurely, over-estimating the mutual capacity to work together.  
+
+Conditional investments don't work in the short run, but they do work in the long run.  
+
 # When to try to Partner is the question
 
 
@@ -28,6 +33,8 @@ Startups are often painfully small teams, even when they seem to have a lot of t
 
 
 ### Conversations beyond hypothetical futures are a waste of time
+
+
 
 
 

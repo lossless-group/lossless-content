@@ -1,18 +1,17 @@
 ---
 date_created: 2025-08-09
-date_modified: 2025-09-24
+date_modified: 2025-09-25
 ---
 :::features
 - Reader
-- Projects
 - Portfolio
 :::
 
 :::portfolio
-- [[Aalo Atomics]]
+- [[client-content/Hypernova/Portfolio/Aalo Atomics|Aalo Atomics]]
 - [[client-content/Hypernova/Portfolio/Star Catcher|Star Catcher]]
-- [[Harmonic]]
-- [[Thinking Machines]]
+- [[Tooling/AI-Toolkit/Model Producers/Harmonic|Harmonic]]
+- [[Tooling/AI-Toolkit/Model Producers/Thinking Machines|Thinking Machines]]
 - [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Catio|Catio]]
 - [[client-content/Hypernova/Portfolio/Maven Clinic|Maven Clinic]]
 - [[client-content/Hypernova/Portfolio/Ontra|Ontra]]
@@ -23,4 +22,10 @@ date_modified: 2025-09-24
 :::concepts
 - [[concepts/Explainers for AI/Logistics AI|Logistics AI]]
 - [[Vocabulary/Demand Forecasting|Demand Forecasting]]
+- [[Vocabulary/Inventory Management Systems|Inventory Management Systems]]
+:::
+
+:::reader collections="market-maps,essays"
+- [[lost-in-public/market-maps/The Future of CPG|The Future of CPG]]
+- [[essays/Partnering with Startups when they Scale Up|Partnering with Startups when they Scale Up]]
 :::

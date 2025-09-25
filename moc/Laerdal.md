@@ -85,6 +85,7 @@ date_modified: 2025-09-05
 - [[concepts/Omnichannel Marketing|Omnichannel Marketing]]
 - [[concepts/Design to Engineering Handoff|Design to Engineering Handoff]]
 - [[concepts/Technical Debt|Technical Debt]]
+- [[concepts/Explainers for AI/Logistics AI|Logistics AI]]
 :::
 
 :::tool-showcase
