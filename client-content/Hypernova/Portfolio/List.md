@@ -1,7 +1,7 @@
 ---
 slug: portfolio-list
 date_created: 2025-08-01
-date_modified: 2025-08-04
+date_modified: 2025-09-26
 title: Portfolio List
 site_uuid: d762ffb3-f814-4745-99df-6bad41b43708
 publish: true
@@ -35,11 +35,12 @@ url: https://hypernova.capital/
 - [[Tooling/AI-Toolkit/Model Producers/Harmonic|Harmonic]]
 - [[Tooling/AI-Toolkit/Model Producers/Ruya|Ruya]]
 - [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Catio|Catio]]
+- [[client-content/Hypernova/Portfolio/Yassir|Yassir]]
 :::
-edsOPcx5/
+
 # Coming Soon
 :::tool-showcase
-- [[client-content/Hypernova/Portfolio/Yassir|Yassir]]
+- [[Tooling/Portfolio/Seabound|Seabound]]
 :::
 
 

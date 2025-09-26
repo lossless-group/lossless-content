@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-09
-date_modified: 2025-09-25
+date_modified: 2025-09-26
 ---
 :::features
 - Reader
@@ -17,15 +17,24 @@ date_modified: 2025-09-25
 - [[client-content/Hypernova/Portfolio/Ontra|Ontra]]
 - [[client-content/Hypernova/Portfolio/Trela|Trela]]
 - [[client-content/Hypernova/Portfolio/Yassir|Yassir]]
+- [[Tooling/Data Utilities/Bruin|Bruin]]
+- [[Tooling/Portfolio/Seabound|Seabound]]
 :::
 
 :::concepts
 - [[concepts/Explainers for AI/Logistics AI|Logistics AI]]
+- [[concepts/Open Innovation|Open Innovation]]
+- [[concepts/Explainers for AI/Compliance AI|Compliance AI]]
+:::
+
+:::vocabulary
 - [[Vocabulary/Demand Forecasting|Demand Forecasting]]
 - [[Vocabulary/Inventory Management Systems|Inventory Management Systems]]
+- [[Vocabulary/Internet of Things|Internet of Things]]
 :::
 
 :::reader collections="market-maps,essays"
 - [[lost-in-public/market-maps/The Future of CPG|The Future of CPG]]
+- [[lost-in-public/market-maps/Global CVC for Multinationals|Global CVC for Multinationals]]
 - [[essays/Partnering with Startups when they Scale Up|Partnering with Startups when they Scale Up]]
 :::
