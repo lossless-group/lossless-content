@@ -6,5 +6,5 @@ title: The complete investment portfolio of Michael Staton
 
 [[content-areas/Blue-Economy/Organizations/Coral Vita|Coral Vita]]
 [[Tooling/Portfolio/PhotoMath|PhotoMath]]
-[[organizations/Andela|Andela]]
+[[client-content/Hypernova/Portfolio/Andela|Andela]]
 [[client-content/Hypernova/Portfolio/Maven Clinic|Maven Clinic]]

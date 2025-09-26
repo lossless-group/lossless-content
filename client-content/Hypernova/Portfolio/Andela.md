@@ -2,7 +2,7 @@
 url: "https://www.andela.com/"
 tags: [Talent-Networks, On-Demand-Talent, Dev-Shops]
 date_created: 2025-04-18
-date_modified: 2025-08-01
+date_modified: 2025-09-26
 site_uuid: 9fbfa120-19e0-4be2-a826-8ca9e0afabce
 publish: true
 title: Andela
@@ -14,4 +14,4 @@ og_image: "https://cdn.prod.website-files.com/660dcc7f45ad8881324199b5%2F66627bc
 og_favicon: "https://cdn.prod.website-files.com/660dcc7f45ad8881324199b5/6660c609f4152344697c0468_6488d4417cfc510dd4a63f0a_favicon.png"
 og_last_fetch: "2025-08-01T18:02:15.903Z"
 ---
-Provides [[concepts/On-Demand Talent]] for Software Development.  
+Provides [[concepts/On-Demand Talent|On-Demand Talent]] for Software Development.  

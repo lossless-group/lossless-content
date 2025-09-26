@@ -17,11 +17,13 @@ tags: [CVCs]
 > **Model:** sonar-pro
 > 
 
+# The Private Markets CVC of Unilever
 Unilever Ventures is the **venture capital and private equity arm of Unilever**, one of the world’s largest fast-moving consumer goods companies. [^8b6s0k] [^d85c8m] Since its founding in 2002, Unilever Ventures has played a pivotal role in identifying, funding, and accelerating startups that align with Unilever’s global strategy of driving sustainable, innovative solutions, particularly in the Beauty & Wellness and technology sectors. [^8b6s0k] [^d85c8m] The significance of Unilever Ventures lies in its unique ability to bridge entrepreneurial energy with the resources, networks, and expertise of a multinational giant—thus fast-tracking both innovation and commercial impact across the consumer goods industry. [^d85c8m]
 
 ![Relevant diagram or illustration related to the topic](https://www.unileverventures.com/wp-content/uploads/2021/02/UnileverVentures-placeholcer.jpg)
 
-### Main Content
+
+## The Strategy of Unilever Ventures
 
 At its core, Unilever Ventures operates as a **stage-agnostic corporate venture capital fund**—that is, it invests in startups across various stages, from early seed rounds to late-stage expansion. [^8b6s0k] [^d85c8m] The fund particularly focuses on **Beauty & Wellness, New Commerce Models, and Enterprise Tech** for the consumer goods industry. [^8b6s0k] Its investments span an array of high-growth potential startups, providing not only capital, but also giving founders access to Unilever’s industry know-how, distribution networks, and a global consumer reach. [^d85c8m]
 

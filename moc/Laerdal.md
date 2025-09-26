@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-09
-date_modified: 2025-09-05
+date_modified: 2025-09-26
 ---
 :::features
 - Reader
@@ -12,6 +12,57 @@ date_modified: 2025-09-05
 - { path: [[projects/Augment-It/Specs/Data Augmentation Workflow with Microfrontends]], title: "Augment It" }
 - { path: [[projects/ACE-It/Philosophy/Our-Approach]], title: "Context Vigilance" }
 :::
+
+
+:::tool-showcase
+- [[Tooling/AI-Toolkit/Agentic AI/Flowise|Flowise]]
+- [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Wordware|Wordware]]
+- tag: [[AI Models]]
+:::
+
+
+:::concepts
+- [[Coherence]]
+- [[concepts/Platform Engineering|Platform Engineering]]
+- [[concepts/Explainers for AI/LLM Gateways|LLM Gateways]]
+- [[concepts/CARBS|CARBS]]
+- [[concepts/Technology Radar|Technology Radar]]
+- [[concepts/Emergent Innovation|Emergent Innovation]]
+- [[concepts/Open Innovation|Open Innovation]]
+- [[concepts/Persuasive Technology|Persuasive Technology]]
+- [[concepts/Open Source Alternatives|Open Source Alternatives]]
+- [[Vocabulary/Lock In|Lock In]]
+- [[AI Avatars]]
+- [[concepts/Explainers for Tooling/Learning Experience Platforms|Learning Experience Platforms]]
+- [[concepts/Documentation First Development|Documentation First Development]]
+- [[concepts/Design System First Development|Design System First Development]]
+- [[concepts/Security-First Development|Security-First Development]]
+- [[concepts/Changelog First Development|Changelog First Development]]
+- [[concepts/Visual Software Development|Visual Software Development]]
+- [[concepts/Event-Driven Architecture|Event-Driven Architecture]]
+- [[concepts/Open Specifications|Open Specifications]]
+- [[concepts/Complexity Cost|Complexity Cost]]
+- [[concepts/Explainers for AI/Knowledge Base AI|Knowledge Base AI]]
+- [[concepts/Pareto Curves|Pareto Curves]]
+- [[concepts/Contrarian Talent|Contrarian Talent]]
+- [[concepts/Dialog Syntax|Dialog Syntax]]
+- [[concepts/Data Sovereignty|Data Sovereignty]]
+- [[concepts/On-Demand Talent|On-Demand Talent]]
+- [[concepts/Asymmetric Competition|Asymmetric Competition]]
+- [[concepts/Explainers for AI/Voice Agents|Voice Agents]]
+- [[concepts/Omnichannel Marketing|Omnichannel Marketing]]
+- [[concepts/Design to Engineering Handoff|Design to Engineering Handoff]]
+- [[concepts/Technical Debt|Technical Debt]]
+- [[concepts/Explainers for AI/Logistics AI|Logistics AI]]
+:::
+
+:::reader
+- [[essays/A New Standard for Chaining AI Operations called Model Context Protocol|A New Standard for Chaining AI Operations called Model Context Protocol]]
+- [[essays/AI is first a Trojan Horse|AI is first a Trojan Horse]]
+- [[Can Organizations Know what their People have Known]]
+- [[essays/How GitHub Changed Everything|How GitHub Changed Everything]]
+:::
+
 
 :::vocabulary
 - [[Vocabulary/Agile|Agile]]
@@ -51,52 +102,4 @@ date_modified: 2025-09-05
 - [[Vocabulary/Cognitive Diversity|Cognitive Diversity]]
 - [[concepts/Demand Generation|Demand Generation]]
 - [[concepts/Growth Engines|Growth Engines]]
-:::
-
-:::concepts
-- [[Coherence]]
-- [[concepts/Platform Engineering|Platform Engineering]]
-- [[concepts/Explainers for AI/LLM Gateways|LLM Gateways]]
-- [[concepts/CARBS|CARBS]]
-- [[concepts/Technology Radar|Technology Radar]]
-- [[concepts/Emergent Innovation|Emergent Innovation]]
-- [[concepts/Open Innovation|Open Innovation]]
-- [[concepts/Persuasive Technology|Persuasive Technology]]
-- [[concepts/Open Source Alternatives|Open Source Alternatives]]
-- [[Vocabulary/Lock In|Lock In]]
-- [[AI Avatars]]
-- [[concepts/Explainers for Tooling/Learning Experience Platforms|Learning Experience Platforms]]
-- [[concepts/Documentation First Development|Documentation First Development]]
-- [[concepts/Design System First Development|Design System First Development]]
-- [[concepts/Security-First Development|Security-First Development]]
-- [[concepts/Changelog First Development|Changelog First Development]]
-- [[concepts/Visual Software Development|Visual Software Development]]
-- [[concepts/Event-Driven Architecture|Event-Driven Architecture]]
-- [[concepts/Open Specifications|Open Specifications]]
-- [[concepts/Complexity Cost|Complexity Cost]]
-- [[concepts/Explainers for AI/Knowledge Base AI|Knowledge Base AI]]
-- [[concepts/Pareto Curves|Pareto Curves]]
-- [[concepts/Contrarian Talent|Contrarian Talent]]
-- [[concepts/Dialog Syntax|Dialog Syntax]]
-- [[concepts/Data Sovereignty|Data Sovereignty]]
-- [[concepts/On-Demand Talent|On-Demand Talent]]
-- [[concepts/Asymmetric Competition|Asymmetric Competition]]
-- [[concepts/Explainers for AI/Voice Agents|Voice Agents]]
-- [[concepts/Omnichannel Marketing|Omnichannel Marketing]]
-- [[concepts/Design to Engineering Handoff|Design to Engineering Handoff]]
-- [[concepts/Technical Debt|Technical Debt]]
-- [[concepts/Explainers for AI/Logistics AI|Logistics AI]]
-:::
-
-:::tool-showcase
-- [[Tooling/AI-Toolkit/Agentic AI/Flowise|Flowise]]
-- [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Wordware|Wordware]]
-- tag: [[AI Models]]
-:::
-
-:::reader
-- [[essays/A New Standard for Chaining AI Operations called Model Context Protocol|A New Standard for Chaining AI Operations called Model Context Protocol]]
-- [[essays/AI is first a Trojan Horse|AI is first a Trojan Horse]]
-- [[Can Organizations Know what their People have Known]]
-- [[essays/How GitHub Changed Everything|How GitHub Changed Everything]]
 :::
