@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-30
-date_modified: 2025-09-21
+date_modified: 2025-09-30
 site_uuid: 8babe509-0827-4af4-bbfb-77957bf7482e
 aliases: [AI Agents, AI Agent, Agent, Agents]
 publish: true
@@ -106,7 +106,7 @@ Agentic AI revolutionizes industries by:
 
 ## Innovative Providers
 Several companies are gaining traction with Agentic AI solutions:
-- **Moveworks**: IT support and HR automation[^8kqy46].
+- **[[Tooling/AI-Toolkit/Knowledge AI/MoveWorks|MoveWorks]]**: IT support and HR automation[^8kqy46].
 - **[[Beam.ai]]**: Business process optimization[^8kqy46].
 - **[[Adept]]**: Interaction with software interfaces and APIs[^8kqy46].
 - **[[ServiceNow]]**: Enterprise-wide orchestration of AI agents for complex challenges[^5tbpn8].
@@ -127,4 +127,6 @@ Several companies are gaining traction with Agentic AI solutions:
 [^s8x8ua]: What Is Agentic AI? | IBM https://www.ibm.com/think/topics/agentic-ai
 [^qp6ohe]: Why Agentic AI is the Next Big Thing in the Business Industry https://www.testingxperts.com/blog/agentic-ai-in-business-industry/
 [^swz3pf]: The Rise of Agentic AI for Enterprises - Codeninja inc. https://codeninjaconsulting.com/blog/agentic-ai-for-enterprises
+
+[^r354f7]: 2025, Apr. "[The AI Agent Wars: Claude Computer Use vs Agents — What’s Really Going On? | Medium](https://medium.com/@max.petrusenko/the-ai-agent-wars-claude-computer-use-vs-agents-whats-really-going-on-c4bbdb560d31)". Max Petrusenko. [Medium](https://medium.com).
 

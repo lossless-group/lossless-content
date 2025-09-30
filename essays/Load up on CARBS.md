@@ -1,6 +1,6 @@
 ---
 date_created: 2024-08-12
-date_modified: 2025-09-23
+date_modified: 2025-09-26
 title: "Load up on CARBS"
 lede: "Align more people through vigilant visual communication."
 date_authored_initial_draft: 2024-08-12
@@ -92,7 +92,7 @@ In conclusion, establishing clear communication channels and protocols is critic
 
 ![Practical example or use case visualization](https://www.admonsters.com/wp-content/uploads/2023/05/4-3.png)  
 
-Research strongly supports that integrating **visual communication strategies and artifacts**—such as diagrams, infographics, and videos—alongside written communication significantly improves the effectiveness of internal communication in large organizations compared to text-only approaches.
+Research strongly supports that integrating **visual communication strategies and artifacts**—such as diagrams, infographics, and videos—alongside written communication significantly improves the effectiveness of internal communication in large organizations compared to text-only approaches. . Scientific studies indicate that humans process visual information up to 60,000 times faster than text, with an estimated 90% of information transmitted to brains being visual. [^n2b1p9] This phenomenon, known as the picture superiority effect, explains why AI-generated visuals can be so persuasive and why misinformation presented in convincing visual formats spreads so effectively. [^n2b1p9]
 
 Visual communication enhances internal communication in several critical ways:
 - **Boosts comprehension and retention:** Employees process and remember information better when visuals are paired with text. For example, research commissioned for the Value of Visuals report found that **67% of employees perform better with visual communication than with text-only**, and they complete tasks 7% faster. Also, using visuals with text improves accuracy by 8% over text alone. [^by6d31]
@@ -176,6 +176,8 @@ Forrester, Inc. (2022). _The State of Collaboration Platforms in the Enterprise
 [^8ujblk]: 2025, Sep 02. [Visual content creates more effective internal communication](https://cuttingedgepr.com/articles/visual-content-creates-more-effective-internal-communication/). Published: 2020-06-01 | Updated: 2025-09-02
 
 [^rpr6qt]: 2025, Sep 17. [The Visual Shift: Rethinking Communication in the Modern Workplace](https://www.reworked.co/digital-workplace/the-visual-shift-rethinking-communication-in-the-modern-workplace/). Published: 2024-02-08 | Updated: 2025-09-17
+
+[^n2b1p9]: [Truth in a World of AI Slop - Alastair Hazell](https://www.argh.com/truth-in-a-world-of-ai-slop/).
 
 [4]: 2025, Sep 22. [Vision Communication and Firm Quality Performance](https://pmc.ncbi.nlm.nih.gov/articles/PMC11505190/). Published: 2024-10-07 | Updated: 2025-09-22
 

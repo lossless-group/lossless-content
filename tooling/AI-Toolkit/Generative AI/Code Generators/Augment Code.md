@@ -8,7 +8,7 @@ og_screenshot_url: https://i.imgur.com/M4XMDH1.png
 jina_last_request: 2025-03-09T06:45:21.522Z
 jina_error: Error occurred
 og_last_fetch: 2025-08-23T22:40:00.242Z
-date_modified: 2025-08-23
+date_modified: 2025-09-27
 date_created: 2025-03-30
 og_image: https://cdn.prod.website-files.com/66d76c2202b335e39ad2b5e8/675cb87f1ba91008af1bb69e_augment-open-graph.png
 description: Experience the AI platform that truly understands your codebase. Our developer AI helps teams code faster, make smarter decisions, and unlock collective knowledge. Try free today.
@@ -22,6 +22,7 @@ https://youtu.be/LEOSWYlQyVw?si=28jhDOW5h9Pe8ZJZ
 
 https://youtu.be/IF8lhAB2iHE?si=AnealFDUXxUaoryx
 
+https://youtu.be/Dc3qOA9WOnE?si=AVsLUiOcFw5iebtc
 ##### [[Augment Code]] is a [[concepts/Explainers for AI/Code Generators|Code Generators]] [[Plug-ins,  Add-ons,  Extensions|Plug-in]] to [[Visual Studio Code|VS Code]]
 
 [[Augment Code]] specializes in [[Vocabulary/Retrieval-Augmented Generation]] techniques to be more contextually aware in [[Complex Codebases]]

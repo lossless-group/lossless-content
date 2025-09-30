@@ -12,4 +12,4 @@ tags: [Productivity, Apple-Ecosystem]
 
 
 [[projects/Emergent-Innovation/Standards/Markdown|Markdown]]
-[[Vocabulary/Markdown Editor|Markdown Editor]]
+[[Vocabulary/Markdown Editors|Markdown Editors]]

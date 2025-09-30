@@ -37,7 +37,7 @@ Postgres, formally known as PostgreSQL, is a powerful open-source [[Vocabulary/R
 
 ![Postgres concept diagram or illustration](https://kinsta.com/wp-content/uploads/2022/02/postgresql-architecture.jpg)
 
-Introduced in the 1980s as the successor to the Ingres project at the [[organizations/UC Berkeley|University of California, Berkeley]], Postgres was envisioned to support complex data types beyond simple tables. [^o7pk1d] [^4i1g21] [^heibh2] Today, it operates as an object-relational database, which means it handles both structured (relational) and [[Semi-Structured Data]] (object-style, e.g., JSON) data with equal finesse. [^nie1dv] [^c8afzt] Data in Postgres is stored in tables—grids of rows and columns—but the system can also handle arrays, geometric paths, documents, and custom types created by developers. [^nie1dv]
+Introduced in the 1980s as the successor to the Ingres project at the [[organizations/UC Berkeley|University of California, Berkeley]], Postgres was envisioned to support complex data types beyond simple tables. [^o7pk1d] [^4i1g21] [^heibh2] Today, it operates as an object-relational database, which means it handles both structured (relational) and [[Vocabulary/Semi-Structured Data]] (object-style, e.g., JSON) data with equal finesse. [^nie1dv] [^c8afzt] Data in Postgres is stored in tables—grids of rows and columns—but the system can also handle arrays, geometric paths, documents, and custom types created by developers. [^nie1dv]
 
 Real-world applications of Postgres are widespread and diverse:
 

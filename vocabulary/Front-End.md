@@ -1,7 +1,8 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2025-09-27
 site_uuid: 4a3faede-a49a-4ad8-bd85-d2fc717f7914
 date_created: 2025-04-06
+aliases: [Frontend, frontend]
 ---
 
 Usually involves heavy use of [[JavaScript]], [[Tooling/Software Development/Programming Languages/CSS]], and [[Tooling/Software Development/Programming Languages/HTML]].  

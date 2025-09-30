@@ -1,11 +1,13 @@
 ---
-date_modified: 2025-04-30
+date_modified: 2025-09-27
 site_uuid: 047ada1f-c96c-40f8-91c9-014b4cddcec3
 date_created: 2025-04-06
 aliases: [LLM, LLMs, Large Language Model]
 ---
 
 Include [[OpenAI]]. 
+
+https://youtu.be/CZeEAgE5xGA?si=BdskmGMf_Zh9kW3M
 
 https://youtu.be/TxeR1D8T87M?si=ZTinmhj98uQKIXkk
 

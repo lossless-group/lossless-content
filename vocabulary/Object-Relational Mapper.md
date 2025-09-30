@@ -1,9 +1,8 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2025-09-27
 site_uuid: 53d4e1a3-a4a2-4c78-814a-90c7abb7ab57
 date_created: 2025-04-06
-aliases:
-  - ORM
+aliases: [ORM, Object-Relational Mapping]
 ---
 
 [[Prisma]]

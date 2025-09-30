@@ -23,7 +23,7 @@ tags: [Productivity, Advanced-Documents, Networked-Notes]
 
 
 
-[[Markdown Editor]]
+[[Vocabulary/Markdown Editors]]
 
 [[essays/How Markdown Changed Everything]]
 ##### [[Tooling/Productivity/Advanced Documents/Anytype]] has a solid [[Onboarding Walkthrough]]

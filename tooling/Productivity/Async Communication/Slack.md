@@ -11,16 +11,14 @@ title: "AI Work Management & Productivity Tools"
 favicon: "https://a.slack-edge.com/80588/marketing/img/meta/favicon-32.png"
 og_fetched_url: "https://slack.com"
 og_last_fetch: "2025-09-23T16:01:02.900Z"
-date_modified: 2025-04-12
+date_modified: 2025-09-27
 date_created: 2025-03-30
 og_screenshot_url: "https://ik.imagekit.io/xvpgfijuw/uploads_lossless_screenshots_20250527_Slack_og_screenshot.jpeg"
-tags:
-  - Productivity
-  - Asynchronous-Communication
-  - Team-Chat
+tags: [Productivity, Asynchronous-Communication, Team-Chat]
 og_title: "AI Work Management & Productivity Tools"
 og_description: "Slack is where work happens. Bring your people, projects, tools, and AI together on the world’s most beloved work operating system."
 og_image: "https://a.slack-edge.com/737c9d1/marketing/img/homepage/revamped-24/unfurl/hp-revamp-unfurl.en-GB.jpg"
 og_favicon: "https://a.slack-edge.com/e6a93c1/img/icons/favicon-32.png"
 ---
 
+https://youtu.be/C28ywQbyKxs?si=x2EkGEcgKmM_PGG7

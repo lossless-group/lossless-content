@@ -1,6 +1,6 @@
 ---
 site_uuid: 41bfb23d-d169-45f1-9460-26f17667a1fc
-date_modified: 2025-08-27
+date_modified: 2025-09-30
 date_created: 2025-03-30
 tags: [AI-Toolkit]
 aliases: [CUA, CUAs, Computer-Using Agent]
@@ -12,7 +12,9 @@ authors:
   - Michael Staton
 augmented_with: Perplexity AI
 ---
-
+:::tool-showcase
+- [[Tooling/AI-Toolkit/Models/Holo]]
+:::
 
 ***
 > [!info] **Perplexity Query** (2025-08-27T18:21:46.751Z)

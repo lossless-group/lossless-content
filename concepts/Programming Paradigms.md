@@ -1,6 +1,6 @@
 ---
 date_created: 2024-07-16
-date_modified: 2025-08-17
+date_modified: 2025-09-30
 wikipedia_url: https://en.wikipedia.org/wiki/Programming_paradigm
 ---
 [[Vocabulary/Domain-Driven Design|Domain-Driven Design]]
@@ -11,3 +11,5 @@ wikipedia_url: https://en.wikipedia.org/wiki/Programming_paradigm
 [[Vocabulary/Object-Oriented Programming|Object-Oriented Programming]]
 [[Vocabulary/Behavior-Driven Development|Behavior-Driven Development]]
 [[concepts/Test-Driven Development|Test-Driven Development]]
+
+[[Vocabulary/Single-Page Applications]]

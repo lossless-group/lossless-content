@@ -1,6 +1,6 @@
 ---
 date_created: 2025-09-14
-date_modified: 2025-09-15
+date_modified: 2025-09-30
 site_uuid: 4d6321fa-b197-4a29-a367-0d46d321edaf
 publish: true
 title: AI Powered Research
@@ -13,6 +13,9 @@ augmented_with: Perplexity AI
 ![Businessman chatting with AI or artificial intelligence technology A man uses a laptop computer to](https://www.freepik.com/premium-photo/businessman-chatting-with-ai-artificial-intelligence-technology-man-uses-laptop-computer_392800436.htm)
 
 
+:::tool-showcase
+tag: AI Powered Research
+:::
 
 ***
 > [!llm-query] **Perplexity Deep Research Query** (2025-09-15T17:52:43.318Z)

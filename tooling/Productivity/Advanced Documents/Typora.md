@@ -16,4 +16,4 @@ tags: [Productivity, Markdown-Editor]
 
 [[projects/Emergent-Innovation/Standards/Markdown]]
 
-[[Markdown Editor]]
+[[Vocabulary/Markdown Editors]]

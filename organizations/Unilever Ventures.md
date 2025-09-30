@@ -1,14 +1,15 @@
 ---
 date_created: 2025-09-26
-date_modified: 2025-09-26
+date_modified: 2025-09-30
 site_uuid: 2f91db86-d977-4596-9cb7-ecaebf032b66
 publish: true
 title: Unilever Ventures
 slug: unilever-ventures
 at_semantic_version: 0.0.1.1
 tags: [CVCs]
+url: https://www.unileverventures.com/
 ---
-Ω
+
 ***
 > [!info] **Perplexity Query** (2025-09-26T15:36:45.206Z)
 > **Question:**

@@ -29,7 +29,7 @@ Markdown is an open standard, thus anyone can write a program that "interprets" 
 One interesting processor is [Pulldown-Cmark](https://github.com/pulldown-cmark/pulldown-cmark), which processes the extended syntax CommonMark. 
 
 ## Markdown Editors
-Here's the example of [[Ulysses]]
+Here's the example of [[Tooling/Productivity/Ulysses]]
 ![](https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Markdown_content_1758459551589_6aAn1k4P_.webp)
 
 

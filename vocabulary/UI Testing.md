@@ -50,7 +50,7 @@ augmented_with: Perplexity AI
   - Reporting defects and verifying fixes by regression testing[^gx155p]
 
 - **Automated UI Testing** automates these interactions:
-  - Developing test scripts with tools (like [[Selenium]], [[Tooling/Software Development/Developer Experience/DevTools/Cypress]], or [[Tooling/Software Development/Developer Experience/DevTools/Playwright|Playwright]])
+  - Developing test scripts with tools (like [[Tooling/Software Development/Developer Experience/DevTools/Selenium]], [[Tooling/Software Development/Developer Experience/DevTools/Cypress]], or [[Tooling/Software Development/Developer Experience/DevTools/Playwright|Playwright]])
   - Running scripts for repeated tests or on multiple configurations
   - Comparing expected to actual behavior automatically
   - Maintaining test suite as the UI changes over time[^gx155p]

@@ -9,11 +9,7 @@ at_semantic_version: 0.0.1.1
 status: To-Do
 augmented_with: Perplexity AI
 category: Real-Industries
-tags:
-  - Market-Maps
-  - New-Models-of-School
-  - EdTech
-  - Policy-Tailwinds
+tags: [Market-Maps, New-Models-of-School, EdTech, Policy-Tailwinds]
 image_prompt: A family is walking down a street going from top to bottom, on each side are different kinds of schoolhouse designs. There are signs pointing to the walkways towards each school, and the signs say `Pick Me!`.  In the air there is an airplane flying a banner that says `Use your Vouchers and Savings Accounts`.
 authors:
   - Michael Staton

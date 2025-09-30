@@ -1,6 +1,6 @@
 ---
 date_created: 2025-06-10
-date_modified: 2025-08-08
+date_modified: 2025-09-30
 tags: [Open-Innovation]
 site_uuid: 78bb41c3-5581-4b6c-b07b-673d0d1bfece
 publish: true
@@ -18,7 +18,7 @@ augmented_with: Perplexity AI
 > 
 > ### **Response from sonar-pro**:
 
-**Open Innovation** is the concept that organizations should purposefully leverage both internal and external ideas, technologies, and knowledge flows to accelerate innovation and expand the value and market for their innovations. [^verg9d] [^hqxm84] This framework was coined and popularized by Berkeley professor [[Sources/People/Influencers/Henry Chesbrough]]. [^verg9d] [^hqxm84]
+**Open Innovation** is the concept that organizations should purposefully leverage both internal and external ideas, technologies, and knowledge flows to accelerate innovation and expand the value and market for their innovations. [^verg9d] [^hqxm84] This framework was coined and popularized by Berkeley professor [[Sources/People/Influencers/Henry Chesbrough|Henry Chesbrough]]. [^verg9d] [^hqxm84]
 Key concepts of **Open Innovation** include:
 
 - **External Collaboration:** Rather than relying solely on internal R&D, companies actively seek out partnerships with external individuals and organizations—such as universities, startups, and even customers—to co-create new solutions and products. [^oh658w] [^5lmjky] [^verg9d] [^hqxm84]  

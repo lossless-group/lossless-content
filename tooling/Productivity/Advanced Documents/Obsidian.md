@@ -13,7 +13,7 @@ https: //og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/f18916e4fda284a
 tags: [Productivity]
 ---
 
-[[Markdown Editor]]
+[[Vocabulary/Markdown Editors]]
 
 Follows the [[projects/Emergent-Innovation/Standards/Markdown Derivatives/CommonMark|CommonMark]] standard, which is light. 
 
