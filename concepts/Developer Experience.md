@@ -1,9 +1,8 @@
 ---
 site_uuid: c71e3959-2690-46df-b6d7-c1bb77bb1259
 date_created: 2025-04-18
-date_modified: 2025-04-24
-aliases:
-  - DX
+date_modified: 2025-10-02
+aliases: [DX, DevEx]
 ---
 
 https://youtu.be/U8L_KOQmDj4?si=6HEylURemt5-36LJ

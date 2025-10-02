@@ -1,7 +1,7 @@
 ---
-aliases: [Code Generation, Code Generators, Coding Agent, Coding Assistant, Code Generator, Code Generator AI]
+aliases: [Code Generation, Code Generators, Coding Agent, Coding Assistant, Code Generator, Code Generator AI, AI Code Assistants]
 site_uuid: 691a7615-2aa5-4a1b-9ad9-519a48dac670
-date_modified: 2025-09-15
+date_modified: 2025-10-01
 date_created: 2025-03-31
 tags: [AI-Toolkit]
 publish: true

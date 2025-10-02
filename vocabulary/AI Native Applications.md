@@ -1,8 +1,11 @@
 ---
 date_created: 2025-03-28
-date_modified: 2025-08-04
+date_modified: 2025-10-01
 site_uuid: e19819a2-cba0-4498-b8e0-2a0e8d60b409
-aliases: [AI Native]
+aliases: [AI Native, AI-Native]
+covers_tags:
+  - AI-Native
+tags: [AI-Native]
 ---
 [The Emergence of AI Natives](https://medium.com/@fabiolalli/the-emergence-of-ai-natives-ab85ff5aac5a)
 

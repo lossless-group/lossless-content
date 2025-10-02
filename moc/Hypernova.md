@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-09
-date_modified: 2025-09-26
+date_modified: 2025-10-02
 ---
 :::features
 - Reader
@@ -29,6 +29,7 @@ date_modified: 2025-09-26
 
 :::vocabulary
 - [[Vocabulary/Demand Forecasting|Demand Forecasting]]
+- [[Vocabulary/Predictive Maintenance|Predictive Maintenance]]
 - [[Vocabulary/Inventory Management Systems|Inventory Management Systems]]
 - [[Vocabulary/Internet of Things|Internet of Things]]
 :::

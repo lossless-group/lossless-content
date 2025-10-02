@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-17
-date_modified: 2025-08-17
+date_modified: 2025-10-02
 site_uuid: d6cac3e4-ddfd-46ff-b8af-55dea7f6d827
 publish: true
 title: Robotic Process Automation
@@ -9,6 +9,7 @@ at_semantic_version: 0.0.0.1
 authors:
   - Michael Staton
 augmented_with: Perplexity AI
+aliases: [RPA, robotic process automation]
 ---
 
 

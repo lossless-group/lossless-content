@@ -2,7 +2,7 @@
 Currently led by [[Tore Sagstuen]].
 [[Erik Martiosyan]]
 
-[[E-Commerce]]
+[[Vocabulary/E-Commerce]]
 
 [[Optimizely]] 
 

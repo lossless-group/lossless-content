@@ -11,7 +11,7 @@ status: Draft
 augmented_with: Windsurf on Claude Sonnet 4
 category: Technical-Specification
 date_created: 2025-07-24
-date_modified: 2025-09-24
+date_modified: 2025-10-01
 site_uuid: b37337cd-e1dd-41c7-9917-f0e6469886e9
 publish: true
 slug: data-augmentation-workflow
@@ -40,6 +40,11 @@ The system enables distributed processing of content through specialized applica
 - **Current Limitations**: Tight coupling between processing stages, difficulty in independent deployment, and challenges in team collaboration on different workflow components
 - **Why Now**: The need for flexible, AI-assisted content processing that can adapt to different data types and processing requirements while enabling distributed development
 
+### Analogs and Inspiration
+
+:::tool-showcase
+- [[Tooling/Data Utilities/Amperity|Amperity]]
+:::
 ## 3. Goals & Non-Goals
 
 ### Goals

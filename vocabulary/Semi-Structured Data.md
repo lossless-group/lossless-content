@@ -49,7 +49,7 @@ Key advantages of semi-structured data include:
 - **Rich metadata:** Enables easier search, categorization, and integration. [^cx9jj9]
 - **Scalability:** Well-suited for rapidly growing data from online activities, IoT, and digital transformation. [^cx9jj9]
 
-This makes semi-structured data crucial for [[real-time analytics]], [[Vocabulary/Big Data|Big Data]] processing, and [[Vocabulary/Cloud Native|Cloud Native]] applications. [^cx9jj9] [^fxd56b] Its use spans finance (transaction logs), healthcare (medical records in [[projects/Emergent-Innovation/Standards/Extensible Markup Language|XML]]), social media (user posts with tags), and logistics ([[projects/Emergent-Innovation/Examples/Electronic Data Interchange]] for shipment information). [^uav5qw] [^3qaejq]
+This makes semi-structured data crucial for [[Real-Time Analytics]], [[Vocabulary/Big Data|Big Data]] processing, and [[Vocabulary/Cloud Native|Cloud Native]] applications. [^cx9jj9] [^fxd56b] Its use spans finance (transaction logs), healthcare (medical records in [[projects/Emergent-Innovation/Standards/Extensible Markup Language|XML]]), social media (user posts with tags), and logistics ([[projects/Emergent-Innovation/Examples/Electronic Data Interchange]] for shipment information). [^uav5qw] [^3qaejq]
 
 ### Challenges and Considerations
 

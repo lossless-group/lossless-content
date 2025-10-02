@@ -1,12 +1,8 @@
 ---
 site_uuid: 800eb7d5-144f-4b76-9c39-f1d08bab549c
-date_modified: 2025-09-30
+date_modified: 2025-10-01
 date_created: 2025-03-30
-tags:
-  - AI-Toolkit
-  - AI-Powered-Data-Capture
-  - Data-Capture
-  - Explainers
+tags: [AI-Toolkit, AI-Powered-Data-Capture, Data-Capture, Explainers]
 publish: true
 title: AI Powered Data Capture
 slug: ai-powered-data-capture
@@ -109,7 +105,7 @@ Semi-structured data (e.g., [[projects/Emergent-Innovation/Standards/JSON|JSON]]
  
 - **Notable Providers:**
     
-    - **[[DataRobot]]:** Uses machine learning to automate the cleaning and processing of semi-structured data for modeling.
+    - **[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/DataRobot]]:** Uses machine learning to automate the cleaning and processing of semi-structured data for modeling.
     - **[[Tooling/Data Utilities/Pandas AI|Pandas AI]]:** Built on the popular Pandas library, it uses AI to assist with data wrangling and sense-making from semi-structured sources.
     - **[[Super AI]]:** A platform for automating semi-structured data extraction and annotation, integrating AI workflows seamlessly.
 
@@ -185,7 +181,7 @@ AI enhances business intelligence (BI) systems by automating data analysis, iden
     - Automate the creation of dashboards and reports.
 - **Notable Providers:**
     
-    - **[[ThoughtSpot]]:** Provides AI-driven BI tools with natural language search capabilities for analytics.
+    - **[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/ThoughtSpot]]:** Provides AI-driven BI tools with natural language search capabilities for analytics.
     - **[[Tooling/Data Utilities/Mode|Mode]] Analytics:** Combines AI with collaborative data analysis for business insights.
     - **[[Looker]] (by Google):** Integrates AI for advanced data visualization and analysis.
 
