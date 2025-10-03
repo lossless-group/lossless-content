@@ -37,5 +37,6 @@ date_modified: 2025-10-02
 :::reader collections="market-maps,essays"
 - [[lost-in-public/market-maps/The Future of CPG|The Future of CPG]]
 - [[lost-in-public/market-maps/Global CVC for Multinationals|Global CVC for Multinationals]]
+- [[lost-in-public/market-maps/AI-Native Insights and Intelligence Platforms|AI-Native Insights and Intelligence Platforms]]
 - [[essays/Partnering with Startups when they Scale Up|Partnering with Startups when they Scale Up]]
 :::

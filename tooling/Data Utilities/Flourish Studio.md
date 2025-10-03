@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-25
-date_modified: 2025-08-28
+date_modified: 2025-10-02
 url: "https://flourish.studio/"
 og_title: Flourish
 og_description: "Bring data to life with Flourish. Create data visualizations and interactive content – no coding needed. Engage, inspire, and tell your best data stories with ease."
@@ -14,3 +14,5 @@ slug: flourish-studio
 at_semantic_version: 0.0.0.1
 ---
 [[Data Visualizations]]
+
+

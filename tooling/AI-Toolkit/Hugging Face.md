@@ -23,6 +23,6 @@ tags:
 
 # The community platform for AI Geeks
 
-An [[Affinity Network]] for people interested in and developing the [[Vocabulary/AI Models|AI Models]] that power [[concepts/Explainers for AI/Artificial Intelligence|Artificial Intelligence]] applications.  [[concepts/Explainers for AI/Model Vendors]]
+An [[Vocabulary/Affinity Networks]] for people interested in and developing the [[Vocabulary/AI Models|AI Models]] that power [[concepts/Explainers for AI/Artificial Intelligence|Artificial Intelligence]] applications.  [[concepts/Explainers for AI/Model Vendors]]
 
 The best news source for [[Vocabulary/AI Models|AI Models]], and posts publicly their [[Vocabulary/Benchmarks|Benchmarks]].  It keeps a [[Leaderboard]] on [[Benchmarks]] for [[Vocabulary/Large Language Models|Large Language Models]], [[Chatbots]], [[Massive Text Embedding]] at [this link](https://huggingface.co/collections/open-llm-leaderboard/the-big-benchmarks-collection-64faca6335a7fc7d4ffe974a).
