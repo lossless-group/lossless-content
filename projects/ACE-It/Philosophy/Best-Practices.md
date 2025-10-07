@@ -55,7 +55,7 @@ These tools are excellent for product owners and designers who want to explore i
 - [[Tooling/AI-Toolkit/Generative AI/Code Generators/Windsurf IDE|Windsurf IDE]]
 - [[Tooling/Software Development/Developer Experience/DevTools/Visual Studio Code|VS Code]] with [[Tooling/AI-Toolkit/Generative AI/Code Generators/GitHub Copilot|GitHub Copilot]]
 - [[Tooling/AI-Toolkit/Generative AI/Code Generators/Cline|Cline]]
-- [[Cody]]
+- [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Cody]]
 - [[Tooling/AI-Toolkit/AI Programming Frameworks/Kiro|Kiro]]
 - [[Tooling/AI-Toolkit/Generative AI/Code Generators/DX.ai|DX.ai]]
 

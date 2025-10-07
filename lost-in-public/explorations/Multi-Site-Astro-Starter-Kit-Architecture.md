@@ -1,18 +1,25 @@
 ---
 title: "Multi-Site Astro Starter Kit Architecture"
 description: "Exploration of building a comprehensive Astro starter kit optimized for rapid deployment of multiple marketing sites with environment-driven customization"
-tags: ["Astro", "Component-based-Architecture","Tailwind", "Svelte", "Theming"]
-created: 2025-01-27
-updated: 2025-01-27
-status: "exploration"
-priority: "high"
+tags: [Astro, Component-based-Architecture, Tailwind, Svelte, Theming]
+created: 2025-10-05
+updated: 2025-10-05
+status: exploration
+priority: high
+date_created: 2025-10-01
+date_modified: 2025-10-06
+site_uuid: 911f92b4-02f3-44a5-a7f3-6fecb5afd616
+publish: true
+slug: multi-site-astro-starter-kit-architecture
+at_semantic_version: 0.0.1.1
 ---
+
 
 # Multi-Site Astro Starter Kit Architecture
 
 ## Context & Requirements
 
-Your consulting firm needs to rapidly deploy multiple marketing sites with minimal configuration overhead. The goal is to create a starter kit where changing environment variables automatically updates logos, colors, images, icons, and overall branding.
+Our consulting firm needs to rapidly deploy multiple marketing sites with minimal configuration overhead. The goal is to create a starter kit where changing environment variables automatically updates logos, colors, images, icons, and overall branding.
 
 ### Core Requirements
 - **Framework**: Astro + Svelte for interactivity
@@ -20,6 +27,80 @@ Your consulting firm needs to rapidly deploy multiple marketing sites with minim
 - **Theming**: Three modes (dark, light, vibrant) - one more than typical
 - **Configuration**: Environment variable driven
 - **Speed**: Near-instant deployment with minimal customization
+- **Standalone Deployments vs True Monorepo**: Decide between deploying each site as a standalone project or maintaining a single true monorepo for all sites.
+
+#### Decisions to Make
+- **Standalone Deployments**: Each site is deployed as a separate project, with shared components and utilities not truly shared between sites, more like rapidly cloned from one site to the next with environment-driven configuration.  
+  - Example, 
+    1. The Water Foundation site and The Lossless Group Site are two separate sites now.  We are tasked with building a Parslee site (client: Parslee) and a Hypernova site (client: Hypernova) in the same week of work.  
+    2. The Parslee site likely will be handed off to the Parslee team after the week of work is complete, therefore environment-driven configuration needs to make some sense to the Parslee team, not just in the context of The Lossless Group four-site development.  
+    3. While having shared component libraries and utilities is a benefit, it also means that different teams will impact one another on an ongoing basis, which is not desired.
+    4. Given some baseline configuration and documentation standards, The Lossless Group or any client should be able to just "port" any change on any site by asking an AI Code Assistant to replicate the functionality from one inspiration to the next.
+- **True Monorepo**: All sites are maintained in a single repository, with environment-driven configuration.
+
+### OR, True Monorepo as a `pnpm workspace`:
+
+### Monorepo Approach
+
+- Use pnpm workspaces for package isolation and fast local linking.
+- Keep astro-knots as your shared components/design system repo and consume it from site repos (including the submodule case).
+- Aim for `semver` (Semantic Versioning) versioning with `Changesets` to avoid tight coupling while enabling controlled upgrades.
+
+### Workspace Layout
+
+- astro-knots/packages
+  - `@knots/tokens : cross‑framework design tokens (CSS vars, JSON, TypeScript types).
+  - @knots/icons : shared icon set and utilities.
+  - @knots/astro : base Astro components (islands and pages wrappers).
+  - @knots/svelte : base Svelte components (pure UI, framework‑agnostic styling).
+  - @knots/brand-config : brand theme configs (colors, typography, spacing, logo paths).
+- astro-knots/sites (optional for internal demos)
+  - water-foundation , hypernova , etc., each consuming the packages.
+  
+### Variant Strategy
+
+- Prefer composition over inheritance: base components expose variant points (props or slots) and accept a brand config.
+- Keep variants as file overrides:
+  - @knots/astro/components/Button/variants/<brand>/Button.astro
+  - @knots/svelte/components/Button/variants/<brand>/Button.svelte
+- Resolve variants via Vite aliases per site:
+  - In each site’s astro.config.mjs , set resolve.alias to map brand paths to variant folders.
+  - Fallback to default variant when a brand override is missing.
+### Astro Config Example
+
+- astro.config.mjs :
+  - resolve.alias : { '@knots/brand': '@knots/brand-config/water', '@knots/button': '@knots/astro/components/Button/variants/water' }
+  - Keep default alias pointing to base component if brand variant isn’t present.
+### Consumption Patterns
+
+- Astro wraps Svelte components with client:only='svelte' or normal islands when interactivity is needed.
+- Export base props from Svelte components and mirror them in Astro wrappers for consistent API.
+- Sites import @knots/tokens CSS variables globally and pass brand to components where relevant.
+### Versioning & Releases
+
+- Use Changesets across astro-knots/packages for release notes and semver.
+- Sites depend on published versions (e.g., ^1.3.0 ) to remain loosely coupled.
+- During development, sites use pnpm link or workspace references for rapid iteration.
+### Workflow for the Web Design Team
+
+- Provide a scaffolder script (e.g., scripts/new-variant.mjs ) that:
+  - Copies base component into variants/<brand> and wires alias stubs.
+  - Generates a Storybook story for snapshot testing and design review.
+- Run Storybook at the package level ( @knots/astro and @knots/svelte ) so designers can iterate without a full site.
+- Document token usage, variant naming conventions, and example overrides.
+### Storybook Setup
+
+- Add shared Storybook config with framework targets for Astro (stories for wrappers) and Svelte (native stories), using brand decorators to switch themes.
+### Cross‑Site Management
+
+- Keep astro-knots self‑contained; site repos pull packages via npm registry or Git tags.
+- If a site needs a one‑off override, add a local alias pointing to a site/overrides folder while still defaulting to shared packages.
+### Immediate Next Steps
+
+- Create astro-knots/packages and seed @knots/tokens , @knots/astro , @knots/svelte with minimal scaffolds.
+- Add pnpm-workspace.yaml entries for packages/* and configure Changesets.
+- In hypernova-site (and future sites), add brand aliases in astro.config.mjs and start with one component (Button) to validate the variant flow.
+This structure keeps the monorepo loosely coupled, gives designers a clean path to create variants, and ensures each site can adopt or defer updates on its own schedule.
 
 ## Current Architecture Analysis
 
@@ -35,8 +116,13 @@ Based on the existing <mcfolder name="site" path="/Users/mpstaton/code/lossless-
 ### Existing Patterns to Extend
 - Environment-driven content paths
 - Modular component structure
+- Constant maintenance of `living documentation` for workflow management, and value preservation throughout development.
+- Constant maintenance of `design system` visualizations, both in our own code and in Storybook.
+- Heavy use of `Git Submodules` and `GitHub Repositories`for both shared resources but also permissioning access and client handoffs.
 - CSS custom property theming
+- Balancing using Tailwind optimally, customizing it properly, and developing CSS utilities for brand-specific needs.
 - Astro + Svelte integration
+- Avoid using React patterns, as they tend to be not supported by Astro and Svelte. 
 
 ## Proposed Starter Kit Architecture
 
@@ -47,7 +133,7 @@ Based on the existing <mcfolder name="site" path="/Users/mpstaton/code/lossless-
 export interface SiteConfig {
   brand: {
     name: string;
-    tagline: string;
+    zinger: string;
     logo: {
       light: string;
       dark: string;
@@ -69,6 +155,7 @@ export interface SiteConfig {
   features: {
     newsletter: boolean;
     blog: boolean;
+    changelog: boolean;
     portfolio: boolean;
     testimonials: boolean;
   };
@@ -854,4 +941,68 @@ const logos = {
 </style>
 ```
 
-This technical implementation provides a robust foundation for the three-mode theme system while maintaining the flexibility to customize colors and branding through environment variables.
+# Maintaining Global and Local Storybook Instances:
+
+Recommend optimal Storybook placement for global and per-site usage
+
+### Recommended Placement
+
+- Global instance: place a dedicated Storybook app under astro-knots/design-system-storybook to showcase @knots/* packages (tokens, icons, brand themes, Svelte components) independent of any site.
+- Per-site instances: install Storybook inside each site repo (e.g., hypernova-site and parslee-site ) for brand-specific components, pages, and decorators.
+- Optional package-level: if you want tighter component dev loops, add Storybook under packages/svelte for @knots/svelte . Keep Astro components demoed in the Astro “design-system-viewer” app.
+### Global Instance
+
+- Purpose: centralized documentation of shared `@knots/tokens` , `@knots/icons` , `@knots/brand-config` , and `@knots/svelte components`.
+- Location: `astro-knots/design-system-storybook` .
+- Framework: `@storybook/svelte-vite` for components; include MDX docs for tokens/icons and brand switches.
+- Consumption: import workspace packages via pnpm workspaces; wire Tailwind via `@knots/tailwind` `preset/plugin`.
+### Per-Site Instances
+
+- Purpose: preview site-specific variants, decorators (brand/theme), and integration with actual site CSS and aliases.
+- Location: site root (e.g., `hypernova-site/.storybook` and `parslee-site/.storybook` ).
+- Framework: match the site’s component framework (`@storybook/svelte-vite` for Svelte).
+### Setup Commands
+
+- Global app:
+  - mkdir `astro-knots/design-system-storybook` && cd `astro-knots/design-system-storybook`
+  - pnpm init -y
+  - pnpm dlx storybook@latest init --type svelte
+  - Add deps: pnpm add -D @storybook/addon-docs and runtime deps: pnpm add `@knots/svelte` `@knots/tokens` `@knots/icons` `@knots/brand-config` `@knots/tailwind`
+- Hypernova site:
+  - cd hypernova-site
+  - pnpm dlx storybook@latest init --type svelte
+- Parslee site:
+  - cd parslee-site
+  - pnpm dlx storybook@latest init --type svelte
+### Config Tips
+
+- main.ts (global):
+  - framework: { name: '@storybook/svelte-vite', options: {} }
+  - stories: ['../src/**/*.stories.@(svelte|mdx)']
+  - addons: ['@storybook/addon-essentials']
+  - viteFinal: (config) => ({ ...config, resolve: { alias: { '@knots/tokens': require.resolve('@knots/tokens'), '@knots/icons': require.resolve('@knots/icons'), '@knots/svelte': require.resolve('@knots/svelte'), '@knots/brand-config': require.resolve('@knots/brand-config') }}})
+- preview.ts :
+  - Import Tailwind: import '../src/styles/tailwind.css'
+  - Brand switching: load brand tokens from @knots/brand-config and expose a global decorator to toggle brands.
+### Story Files
+
+- Tokens MDX: show color scales, spacing, typography using @knots/tokens and Tailwind classes from @knots/tailwind plugin.
+- Icons: list/render SVG from @knots/icons with size/color controls.
+- Components: write Svelte stories for @knots/svelte (e.g., Button.stories.svelte ).
+- Astro components: prefer showcasing in the Astro design-system viewer app; link from global Storybook docs.
+### Why this split works
+
+- Global instance documents shared design system and enables brand decorators without site coupling.
+- Per-site instances validate real integration (aliases, theme composition, content pipelines) per brand/site.
+- Keeps build and versioning clean: sites pin versions; global viewer/storybook works off workspace references.
+### Next Steps
+
+- I can scaffold the global Storybook app and wire @knots/tailwind and brand decorators.
+- Then set up per-site Storybook for Hypernova and Parslee, using each site’s Tailwind and aliases.
+- Once ready, we’ll add initial stories for tokens, icons, and the Button component from @knots/svelte .
+
+Shared Packages
+
+- @knots/tokens : Exposes token objects ( colors , etc.). Add a CSS output ( css/variables.css ) that defines :root and theme scopes with custom properties.
+- @knots/tailwind : Use the preset to map token scales to Tailwind theme.colors ( primary , secondary , accent ), and optional plugin utilities.
+- @knots/brand-config : Holds brand palettes and metadata; load based on env and use for token selection.

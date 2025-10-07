@@ -37,7 +37,7 @@ Downloadable AI interfaces like [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces
 - **Examples**:
   - **MSTY**: Focuses on privacy, knowledge stacks, and easy model switching with a rich GUI. [^q427qb] [^e4kq1n]
   - **LM Studio**: Provides local API serving compatible with OpenAI's format, REST APIs, and chat UI. [^gxzh91]
-  - **Others**: [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/AnythingLLM|AnythingLLM]], [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Jan.ai|Jan.ai]], and [[Sanctum]] offer similar functionalities. [^q427qb] [^shas8a]
+  - **Others**: [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/AnythingLLM|AnythingLLM]], [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Jan.ai|Jan.ai]], and [[Tooling/AI-Toolkit/AI Interfaces/Sanctum]] offer similar functionalities. [^q427qb] [^shas8a]
 
 ### Category Comparison Table
 

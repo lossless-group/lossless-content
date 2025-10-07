@@ -40,7 +40,7 @@ Practical examples of GRC applications include software to:
 - Monitor and assess security and operational risks,
 - Track and enforce policy distribution and acknowledgment within organizations. [^a5fiiq] [^r2be29] [^ezywl1]
 
-A typical use case is in the financial sector, where banks employ GRC platforms to ensure continual compliance with global anti-money laundering regulations, while automating the creation of audit trails and policy acknowledgments. In the healthcare industry, GRC tools help manage patient privacy risks and verify compliance with [[HIPAA]] rules.
+A typical use case is in the financial sector, where banks employ GRC platforms to ensure continual compliance with global anti-money laundering regulations, while automating the creation of audit trails and policy acknowledgments. In the healthcare industry, GRC tools help manage patient privacy risks and verify compliance with [[projects/Emergent-Innovation/Policy-&-Regulation/HIPAA]] rules.
 ![GRC related technology applications future trends or technology visualization](https://appsiansecurity.com/wp-content/uploads/2021/12/GRC_diagram.png) 
 
 The benefits of deploying GRC technologies are substantial. Automation reduces time and labor needed for repetitive compliance tasks, significantly cutting human error and compliance-related costs. [^r2be29] [^ezywl1] Integrated risk visibility and reporting ensure leaders can rapidly respond to emerging threats or regulatory changes. Customizable workflows let organizations adjust the software to unique processes, risk appetites, and industry-specific needs.
