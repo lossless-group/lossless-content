@@ -10,12 +10,8 @@ status: Resolved
 augmented_with: GPT 4.1
 category: Extended-Markdown
 date_created: 2025-06-06
-date_modified: 2025-06-06
-tags:
-  - Extended-Markdown
-  - Social-Media-Marketing
-  - Content-Marketing
-  - Inbound-Marketing
+date_modified: 2025-10-10
+tags: [Extended-Markdown, Social-Media-Marketing, Content-Marketing, Inbound-Marketing]
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolution/2025-06-07_portrait_image_Optimizing-Share-Functionality-Across-Content_0eeb1e78-96ea-4b47-ac23-7e3f635bf5eb_Gw-qAY8UZ.webp

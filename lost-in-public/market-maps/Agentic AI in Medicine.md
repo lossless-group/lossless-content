@@ -220,7 +220,7 @@ Agentic AI, a type of artificial intelligence that enables machines to make deci
 Agentic AI can help personalize patient care by analyzing individual health data, medical histories, and lifestyle factors. This enables healthcare providers to create tailored treatment plans that cater to each patient's unique needs.
 
 *   **[[concepts/Explainers for Tooling/Predictive Analytics|Predictive Analytics]]**: Agentic AI algorithms can analyze large datasets to predict patient outcomes, identify high-risk patients, and detect early warning signs of complications.
-*   **[[Personalized Medicine]]**: By analyzing genomic data, medical histories, and lifestyle factors, agentic AI can help healthcare providers develop targeted treatment plans that take into account an individual's specific genetic profile.
+*   **[[Vocabulary/Personalized Medicine]]**: By analyzing genomic data, medical histories, and lifestyle factors, agentic AI can help healthcare providers develop targeted treatment plans that take into account an individual's specific genetic profile.
 
 ### Clinical Decision Support
 

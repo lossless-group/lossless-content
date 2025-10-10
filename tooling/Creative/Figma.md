@@ -9,7 +9,7 @@ og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/fals
 jina_last_request: 2025-03-09T06:45:10.742Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:19:01.838Z
-date_modified: 2025-08-09
+date_modified: 2025-10-07
 date_created: 2025-03-30
 tags: [Creative, Design-Tools, Collaboration-Tooling, Realtime-Collaboration, UI-Design-Tools]
 url: https://www.figma.com/
@@ -78,4 +78,8 @@ https://youtu.be/UxOvqHjcLMY?si=jQ8l0k2UTQRvhIfc
 # Footnotes
 ***
 
-[^a36677]: 2025, Mar 04. "[Release Notes 2025: February Edition | Figma](https://www.youtube.com/embed/LuUuzCVaLLk?controls=0)," [[Tooling/Creative/Figma]]
+[^a36677]: 2025, Mar 04. "[Release Notes 2025: February Edition | Figma](https://www.youtube.com/embed/LuUuzCVaLLk?controls=0)," [[Tooling/Creative/Figma|Figma]]
+
+[^5p1aqz]: 2024, Apr 11. [Codegen plugins (and other tips) for automating design to code](https://www.figma.com/blog/figma-dev-mode-codegen-plugins/)
+
+

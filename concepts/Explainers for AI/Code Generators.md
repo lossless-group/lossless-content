@@ -1,7 +1,7 @@
 ---
 aliases: [Code Generation, Code Generators, Coding Agent, Coding Assistant, Code Generator, Code Generator AI, AI Code Assistants]
 site_uuid: 691a7615-2aa5-4a1b-9ad9-519a48dac670
-date_modified: 2025-10-01
+date_modified: 2025-10-07
 date_created: 2025-03-31
 tags: [AI-Toolkit]
 publish: true
@@ -12,13 +12,16 @@ authors:
   - Michael Staton
 augmented_with: Perplexity AI
 ---
-
+:::tool-showcase
+tag: Code-Generators
+:::
 ***
 > [!info] **Perplexity Query** (2025-08-17T13:57:44.241Z)
 > **Question:**
 > Write a comprehensive one-page article about "AI Code Generators". 
 > 
 > ### **Response from sonar-pro**:
+
 
 Artificial Intelligence (AI) Code Generators are software tools that use machine learning and natural language processing to automatically create, debug, and optimize computer code. These technologies are becoming pivotal in software development, enabling rapid prototyping, reducing human error, and democratizing access to coding skills. As organizations strive for greater efficiency and innovation, AI code generators are increasingly relevant for teams and individual developers seeking to accelerate digital transformation.
 

@@ -1006,3 +1006,62 @@ Shared Packages
 - @knots/tokens : Exposes token objects ( colors , etc.). Add a CSS output ( css/variables.css ) that defines :root and theme scopes with custom properties.
 - @knots/tailwind : Use the preset to map token scales to Tailwind theme.colors ( primary , secondary , accent ), and optional plugin utilities.
 - @knots/brand-config : Holds brand palettes and metadata; load based on env and use for token selection.
+
+# The Knots of CSS and Tailwind
+
+Scanned `globals.css` and `tokens.css` in `astro-knots/sites/cilantro-site/src/styles` and clarified their roles and where overlap is expected.
+
+### Roles
+
+- `tokens.css`: Site-scoped design tokens only. Defines CSS variables for fonts, typography scale, weights, colors, radii, sidebar, and optional `500` color aliases. Includes dark-mode overrides under `[data-theme="dark"]`, `.dark`.
+- `globals.css`: Global styling and Tailwind mapping. Imports base tokens (`@knots/tokens/css/variables.css`), mode overrides (`@knots/tokens/css/modes.css`), then your site tokens (`./tokens.css`). Maps your token vars into Tailwind v4’s `@theme inline` names (e.g., `--color-background: var(--background)`), and sets resets/base element styles (body, headings, inputs).
+
+### Overlap Points
+
+- Fonts: `tokens.css` defines `--font-sans` and `--font-size`; `globals.css` sets `font-family` directly to `Inter` for body/headings and `html` font size from `--font-size`. This is acceptable but can be tightened by referencing `var(--font-sans)` everywhere in `globals.css`.
+- Colors: You have base colors in `tokens.css` and also inline brand variables on `<html>` via `BaseLayout.astro`. Inline styles on `<html>` will override any token defaults, which is intentional if brand config drives runtime palette.
+- Modes: `@knots/tokens/css/modes.css` provides mode-level overrides; your `tokens.css` also includes `[data-theme="dark"]` overrides. Both can coexist; the import order and selector specificity determine the final values.
+
+### Import Order & Overrides
+
+- Current order in `globals.css`: `variables.css` → `modes.css` → `tokens.css`. Since your `tokens.css` contains selectors like `[data-theme="dark"]`, those will still apply based on specificity. Inline styles from `BaseLayout.astro` override everything.
+- Alternative order: If you want shared `modes.css` to beat site defaults, import `tokens.css` before `modes.css`. Keep inline brand overrides as the final authority.
+
+### Recommended Separation
+
+- Keep `tokens.css` focused on variables only (no element selectors other than scoping like `:root` or `[data-theme]`). Put all font families, sizes, and color values there.
+- Use `globals.css` for:
+- Importing token sources (base, modes, site) in the desired precedence.
+- Mapping to Tailwind `@theme inline` variables.
+- Resets and base element styles that read from tokens, e.g., `font-family: var(--font-sans)` instead of hardcoding `Inter`.
+- Drive brand at runtime through `BaseLayout` when you need per-brand overrides; treat `tokens.css` as defaults.
+
+### Actionable Tweaks
+
+- In `globals.css`, replace hardcoded `Inter` with `var(--font-sans)` for body/headings/labels to remove duplication and rely purely on tokens.
+- Decide the desired precedence between shared `modes.css` and site `tokens.css`; adjust import order accordingly.
+- If you prefer not to set colors in `BaseLayout`, you can remove the inline style on `<html>` and rely on tokens + modes; otherwise keep it to guarantee brand values.
+
+This structure keeps tokens declarative (portable and brandable), globals expressive (styling and mapping), and brand runtime overrides explicit. Let me know if you want me to apply the font-family cleanups in `globals.css` now.
+
+# Mode Implementation
+(as of October 10, 2024)
+
+- `src/styles/tokens.css`: Added a `[data-theme="vibrant"]` block that keeps a light base but increases accent and focus visibility. Kept all colors computed from brand scales so branding remains the source of truth.
+- `src/styles/globals.css`: Extended Tailwind variants so `dark:` works with either `.dark` or `[data-theme='dark']`, and added a `vibrant:` variant via `@custom-variant vibrant` (`&:is([data-theme='vibrant'] *)`).
+- `src/components/ThemeToggle.astro`: Updated to cycle `light → dark → vibrant`, set `data-theme` on `documentElement`, keep `.dark` for Tailwind dark classes, and persist to `localStorage`.
+
+### How it works now
+
+- `BaseLayout.astro` sets the initial mode from `SITE_MODE` and injects brand scales (`--color-primary-500`, `--color-secondary-500`, `--color-accent-500`).
+- `tokens.css` computes high-level tokens (`--primary`, `--secondary`, `--accent`) from those brand scales, with overrides for dark and vibrant.
+- `ThemeToggle` cycles modes at runtime, keeping Tailwind dark classes compatible and ensuring tokens respond via `data-theme`.
+
+### How to proceed
+
+- Pick a default: set `SITE_MODE` to `light`, `dark`, `vibrant`, or consider `system` (we can implement auto-detect on first load when not set).
+- Expand brand palettes (optional): if you want different hues in dark or vibrant, add a brand config extension (e.g., `brand.modes.dark` and `brand.modes.vibrant`) and inject those scales in `BaseLayout` when the mode changes.
+- Use variants in styles: you can now target mode-specific styles via Tailwind variants.
+  - Example: `dark:bg-card` or `vibrant:ring-accent`.
+- Verify contrast: adjust `--accent-foreground` and other foreground tokens per mode to meet accessibility.
+

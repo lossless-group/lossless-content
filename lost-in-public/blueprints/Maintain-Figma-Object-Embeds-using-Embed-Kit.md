@@ -1,6 +1,6 @@
 ---
 date_created: 2025-07-29
-date_modified: 2025-08-21
+date_modified: 2025-10-07
 site_uuid: 27417cb8-645d-4686-bb30-808d79ec6f8a
 publish: true
 date_authored_initial_draft: 2025-07-29
@@ -19,8 +19,6 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-
 square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-Figma-Object-Embeds-using-Embed-Kit_square_image_1755815958668_1lRXdMK02.webp
 ---
 
-
-
 # Maintain Components that Embed Figma Objects using Embed Kit
 
 ## Overview
@@ -37,6 +35,13 @@ This guide explains how to embed Figma objects in custom components using the Fi
 }
 ```
 
+::figma-embed{
+   src="https://www.figma.com/design/splN6L6DgSf61khdyfpybl/Go-Lossless?node-id=2459-9610&t=u6HwEgch9WcmWQbF-4"
+   auth-user="mpstaton"
+   width="800"
+   height="600"
+}
+:::
 # Figma API
 
 **Base URL:**: https://api.figma.com
@@ -117,11 +122,14 @@ export let hideUi?: boolean;
 
 <!-- Component template -->
 <iframe
-  src={`https://www.figma.com/embed?embed_host=${embedHost}&url=${figmaUrl}$
-    {initialView ? `&initial_view=${initialView}` : ''}$
-  {pageId ? `&pageId=${pageId}` : ''}$
-    {nodeId ? `&nodeId=${nodeId}` : ''}$
-  {hideUi !== undefined ? `&hide_ui=${hideUi}` : ''}`}
+  src={
+    'https://www.figma.com/embed?embed_host=' + embedHost +
+    '&url=' + encodeURIComponent(figmaUrl) +
+    (initialView ? '&initial_view=' + initialView : '') +
+    (pageId ? '&pageId=' + pageId : '') +
+    (nodeId ? '&nodeId=' + nodeId : '') +
+    (hideUi !== undefined ? '&hide_ui=' + String(hideUi) : '')
+  }
   allowfullscreen
   style="border:none;width:100%;height:500px;">
 </iframe>
@@ -133,13 +141,31 @@ export let hideUi?: boolean;
 
    ```markdown
    ::figma-embed{
-     src="https://www.figma.com/file/abc123/Your-Figma-File"
+     src="https://www.figma.com/file/bm4kr9lQAVhvllVk7hsDuD/Parslee?node-id=3212-21097"
      initial-view="design"
      hide-ui="true"
      width="800"
      height="600"
    }
    ```
+
+3. **Direct Raw HTML Iframe (for testing only)**
+
+   Avoid using backticks or extra quotes around the `src` URL. Use the official Figma embed endpoint (`https://www.figma.com/embed`) and pass your file/design URL via the `url` parameter.
+
+   ```html
+   <iframe
+     style="border: 1px solid rgba(0, 0, 0, 0.1);"
+     width="800"
+     height="450"
+     src="https://www.figma.com/embed?embed_host=lossless.group&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2Fbm4kr9lQAVhvllVk7hsDuD%2FParslee%3Fnode-id%3D3212-21097"
+     allowfullscreen>
+   </iframe>
+   ```
+
+   Notes:
+   - Do not use `` `...` `` around URLs; those backticks break embeds and routing.
+   - Prefer `https://www.figma.com/embed?url=...` over `https://embed.figma.com/design/...` to match our pipeline and avoid CORS or parsing issues.
 
    **Simple usage with minimal parameters:**
    ```markdown
