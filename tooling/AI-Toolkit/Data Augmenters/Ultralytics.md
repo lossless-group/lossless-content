@@ -2,7 +2,7 @@
 url: https://www.ultralytics.com
 site_uuid: 1a83ee3e-8294-4a99-90c2-09485f2a81fd
 date_created: 2025-03-24
-date_modified: 2025-09-21
+date_modified: 2025-10-11
 og_title: Ultralytics
 og_url: https://www.ultralytics.com/
 og_last_fetch: 2025-09-21T11:56:46.032Z
@@ -14,6 +14,6 @@ og_image: https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/652c353059
 og_favicon: https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64f727ed3fd1e5e074574368_ultralytics-favicon.png
 for_clients:
   - Laerdal
-  - Parselee
+  - Parslee
 ---
 

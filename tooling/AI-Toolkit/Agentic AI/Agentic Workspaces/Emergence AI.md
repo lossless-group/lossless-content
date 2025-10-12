@@ -1,7 +1,7 @@
 ---
 url: https://www.emergence.ai
 date_created: 2025-09-21
-date_modified: 2025-09-21
+date_modified: 2025-10-11
 og_title: "AI That Builds the Builders: Welcome to Agents Creating Agents"
 og_description: Emergence is redefining enterprise AI. Our agents don’t just automate—they evolve, generating new agents in real time to meet your most complex challenges.
 og_image: https://cdn.prod.website-files.com/66de0985d14d58299084e1e4/685a9f9a1b573914abd19f77_OpenGraph2025.png
@@ -16,8 +16,8 @@ at_semantic_version: 0.0.0.1
 for_clients:
   - Param
   - Dynamiq
-  - Parselee
   - Laerdal
+  - Parslee
 ---
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/1095971194?h=eb1dd47701" width="100%" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>

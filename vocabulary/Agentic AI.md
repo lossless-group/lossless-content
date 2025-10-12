@@ -108,7 +108,7 @@ Agentic AI revolutionizes industries by:
 Several companies are gaining traction with Agentic AI solutions:
 - **[[Tooling/AI-Toolkit/Knowledge AI/MoveWorks|MoveWorks]]**: IT support and HR automation[^8kqy46].
 - **[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Beam.ai]]**: Business process optimization[^8kqy46].
-- **[[Adept]]**: Interaction with software interfaces and APIs[^8kqy46].
+- **[[Tooling/AI-Toolkit/Agentic AI/Adept]]**: Interaction with software interfaces and APIs[^8kqy46].
 - **[[ServiceNow]]**: Enterprise-wide orchestration of AI agents for complex challenges[^5tbpn8].
 - **[[Agentic.ai]]**: Gaming and virtual environment applications[^8kqy46].
 ![[IMG_1799.png]]

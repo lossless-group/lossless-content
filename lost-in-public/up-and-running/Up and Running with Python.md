@@ -23,5 +23,22 @@ echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc && echo 'command -v pyenv >/
 
 ```bash
  cd /Users/mpstaton/code/lossless-monorepo/ai-labs && pyenv local 3.9.22
+```
+Python does not automatically load environment variables from the `.env` file. We need to install `direnv` to load environment variables from the `.env` file.
 
+```bash
+brew install direnv
+```
+- Add to `~/.zshrc` : `eval "$(direnv hook zsh)"`
+- In repo root, create `.envrc` with: `dotenv .env`
+- Run `direnv allow` in the repo directory
+
+```bash
+direnv allow
+```
+
+If that still doesnt work, run directly in command line:
+
+```bash
+set -a; source .env; set +a; printf 'NEO_PROVIDER=%s\n' "${NEO_PROVIDER:-<unset>}"; printf 'NEO_MODEL=%s\n' "${NEO_MODEL:-<unset>}"; env | grep -E '^(ANTHROPIC_API_KEY|OPENAI_API_KEY|GOOGLE_API_KEY|JINA_API_KEY)=' | sed 's/=.*/=<set>/' || true 
 ```

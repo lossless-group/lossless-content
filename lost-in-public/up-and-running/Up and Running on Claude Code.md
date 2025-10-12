@@ -106,3 +106,23 @@ claude . # from the current working director
 claude /path/to/your/project
 ```
 
+To update on mac:
+```zsh
+brew upgrade --cask claude-code
+```
+
+# Installing Neo as a Claude Code Plugin
+
+
+Neo is available as a **Claude Code plugin** with specialized agents and slash commands for seamless integration:
+
+```bash
+# Add the marketplace
+/plugin marketplace add Parslee-ai/claude-code-plugins
+
+# Install Neo plugin
+/plugin install neo
+```
+
+
+

@@ -183,7 +183,7 @@ AI enhances business intelligence (BI) systems by automating data analysis, iden
     
     - **[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/ThoughtSpot]]:** Provides AI-driven BI tools with natural language search capabilities for analytics.
     - **[[Tooling/Data Utilities/Mode|Mode]] Analytics:** Combines AI with collaborative data analysis for business insights.
-    - **[[Looker]] (by Google):** Integrates AI for advanced data visualization and analysis.
+    - **[[Tooling/Data Utilities/Looker]] (by Google):** Integrates AI for advanced data visualization and analysis.
 
 **Use Case:** A marketing team could use AI-powered dashboards to track campaign performance and predict customer engagement trends.
 

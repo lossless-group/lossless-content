@@ -1,15 +1,15 @@
 ---
 site_uuid: 65625f4e-f53d-43a7-be9d-2ce5aa3c4f39
-parent_org: '[[OpenAI]]'
-url: 'https://openai.com/chatgpt/overview/'
-date_modified: 2025-05-29
+parent_org: "[[OpenAI]]"
+url: https://openai.com/chatgpt/overview/
+date_modified: 2025-10-12
 date_created: 2025-03-30
-og_image: 'https://images.ctfassets.net/kftzwdyauwt9/f8db487e-5192-491b-ab9a74c60a07/cdb9f0ca4c4e06223141a32b7a987c05/overview-og-16x9.png?w=1600&h=900&fit=fill'
+og_image: https://images.ctfassets.net/kftzwdyauwt9/f8db487e-5192-491b-ab9a74c60a07/cdb9f0ca4c4e06223141a32b7a987c05/overview-og-16x9.png?w=1600&h=900&fit=fill
 title: ChatGPT
-description: 'ChatGPT helps you get answers, find inspiration and be more productive. It is free to use and easy to try. Just ask and ChatGPT can help with writing, learning, brainstorming and more.'
-og_last_fetch: '2025-05-29T00:25:48.485Z'
-tags:
-  - AI-Toolkit
+description: ChatGPT helps you get answers, find inspiration and be more productive. It is free to use and easy to try. Just ask and ChatGPT can help with writing, learning, brainstorming and more.
+og_last_fetch: 2025-05-29T00:25:48.485Z
+tags: [AI-Toolkit, AI-Models]
+aliases: [GPT]
 ---
 
 [[OpenAI]]

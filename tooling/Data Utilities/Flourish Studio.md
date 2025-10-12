@@ -13,6 +13,6 @@ title: "Flourish Studio"
 slug: flourish-studio
 at_semantic_version: 0.0.0.1
 ---
-[[Data Visualizations]]
+[[Vocabulary/Data Visualizations]]
 
 

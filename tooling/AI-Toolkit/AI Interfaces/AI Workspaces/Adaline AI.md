@@ -3,7 +3,7 @@ site_uuid: aa770826-205c-4941-b2b2-8b4e8daefca0
 url: https://www.adaline.ai
 zinger: Prompt engineering that feels like magic
 date_created: 2025-03-19
-date_modified: 2025-09-21
+date_modified: 2025-10-11
 site_name: Adeline
 description_site_cp: Iterate, evaluate, deploy, and monitor prompts
 og_image: https://www.adaline.ai/opengraph-image.png?191c5528069de5d0
@@ -15,6 +15,6 @@ for_clients:
   - Laerdal
   - Param
   - Avalanche
-  - Parselee
+  - Parslee
 ---
 

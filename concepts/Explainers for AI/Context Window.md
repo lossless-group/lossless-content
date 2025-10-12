@@ -1,6 +1,6 @@
 ---
 date_created: 2025-01-28
-date_modified: 2025-08-17
+date_modified: 2025-10-12
 site_uuid: 1e58dd91-9319-492e-a7b0-74a3d3ec90f2
 publish: true
 title: Context Window
@@ -10,6 +10,7 @@ tags: [Explainers]
 authors:
   - Michael Staton
 augmented_with: Perplexity AI
+aliases: [Context Windows, context windows, context window]
 ---
 ###### Related Content
 [[Vocabulary/AI Models|AI Models]], [[Vocabulary/Large Language Models|Large Language Models]], [[Vocabulary/Vibe Coding|Vibe Coding]].

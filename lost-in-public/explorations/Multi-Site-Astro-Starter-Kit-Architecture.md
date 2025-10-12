@@ -1,13 +1,13 @@
 ---
-title: "Multi-Site Astro Starter Kit Architecture"
-description: "Exploration of building a comprehensive Astro starter kit optimized for rapid deployment of multiple marketing sites with environment-driven customization"
+title: Multi-Site Astro Starter Kit Architecture
+description: Exploration of building a comprehensive Astro starter kit optimized for rapid deployment of multiple marketing sites with environment-driven customization
 tags: [Astro, Component-based-Architecture, Tailwind, Svelte, Theming]
 created: 2025-10-05
 updated: 2025-10-05
-status: exploration
+status: Implementation
 priority: high
 date_created: 2025-10-01
-date_modified: 2025-10-06
+date_modified: 2025-10-11
 site_uuid: 911f92b4-02f3-44a5-a7f3-6fecb5afd616
 publish: true
 slug: multi-site-astro-starter-kit-architecture
@@ -61,8 +61,8 @@ Our consulting firm needs to rapidly deploy multiple marketing sites with minima
 
 - Prefer composition over inheritance: base components expose variant points (props or slots) and accept a brand config.
 - Keep variants as file overrides:
-  - @knots/astro/components/Button/variants/<brand>/Button.astro
-  - @knots/svelte/components/Button/variants/<brand>/Button.svelte
+	- @knots/astro/components/Button/variants/<brand>/Button.astro
+	- @knots/svelte/components/Button/variants/<brand>/Button.svelte
 - Resolve variants via Vite aliases per site:
   - In each site’s astro.config.mjs , set resolve.alias to map brand paths to variant folders.
   - Fallback to default variant when a brand override is missing.
