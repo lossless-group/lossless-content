@@ -36,12 +36,12 @@ The **middle layer is formed by integration tests**, which ensure that different
 
 At the **top of the pyramid are end-to-end (E2E) tests**, which simulate real user experience by validating complete workflows from start to finish, such as placing an order and receiving confirmation. [^67se4a] [^dwa3il] [^pps5ml] These tests offer maximum confidence but are also the slowest and most costly to maintain, so only a minimal number should be used for critical paths. [^67se4a] [^dwa3il]
 
-Practical application of the Test Pyramid Architecture can be seen in [[Vocabulary/Agile|Agile]] and [[Vocabulary/Dev Ops|DevOps]] workflows, where automated regression suites combine hundreds to thousands of unit tests, several dozen integration tests, and a few key E2E scenarios. [^pps5ml] For instance, e-commerce platforms leverage this structure to ensure products are correctly displayed (unit), shopping cart calculations integrate with inventory (integration), and the overall checkout flow works seamlessly (E2E).
+Practical application of the Test Pyramid Architecture can be seen in [[Vocabulary/Agile Software Development|Agile Software Development]] and [[Vocabulary/Dev Ops|DevOps]] workflows, where automated regression suites combine hundreds to thousands of unit tests, several dozen integration tests, and a few key E2E scenarios. [^pps5ml] For instance, e-commerce platforms leverage this structure to ensure products are correctly displayed (unit), shopping cart calculations integrate with inventory (integration), and the overall checkout flow works seamlessly (E2E).
 
 **Benefits** of this architecture include:
 - Increased speed and reliability of testing cycles
 - Reduced maintenance overhead and clearer error localization
-- More scalable and robust [[concepts/Continuous Integration and Continuous Deployment|CI/CD]] pipelines[^mfs6ma] [^pps5ml]
+- More scalable and robust [[concepts/Continuous Integration and Continuous Delivery|CI/CD]] pipelines[^mfs6ma] [^pps5ml]
 - Improved collaboration between developers and QA specialists
 
 However, adopting the Test Pyramid Architecture is not without challenges. Teams often struggle with overreliance on slow E2E tests or inadequate coverage at the unit level, leading to bottlenecks and unstable releases. [^dwa3il] Tailoring the pyramid to specific business needs or unique architectures also requires thoughtful customization and skilled testing strategies. [^67se4a]
@@ -54,7 +54,7 @@ However, adopting the Test Pyramid Architecture is not without challenges. Teams
 
 Today, Test Pyramid Architecture is embedded in mainstream Agile and DevOps practices, supported by automation frameworks like JUnit, PyTest, [[Tooling/Software Development/Developer Experience/DevTools/Selenium]], and [[Tooling/Software Development/Developer Experience/DevTools/Cypress]]. [^pps5ml] Major tech organizations such as Google, Amazon, and Facebook employ pyramid-based strategies for rapid, high-quality software releases. [^mfs6ma] [^pps5ml] The market continues to evolve with smart test management platforms and AI-powered tools, which accelerate unit and integration testing while reducing fragility in E2E tests. [^mfs6ma]
 
-Recent developments include better integration between test automation and [[concepts/Continuous Integration and Continuous Deployment|CI/CD]] pipelines, increased use of [[Vocabulary/Containers|containerization]] for repeatable test environments, and a shift toward smarter test orchestration, where coverage and efficiency metrics are actively monitored and improved. [^pps5ml] AI-driven test generation and maintenance are emerging trends, reducing manual effort and improving reliability. [^mfs6ma]
+Recent developments include better integration between test automation and [[concepts/Continuous Integration and Continuous Delivery|CI/CD]] pipelines, increased use of [[Vocabulary/Containers|containerization]] for repeatable test environments, and a shift toward smarter test orchestration, where coverage and efficiency metrics are actively monitored and improved. [^pps5ml] AI-driven test generation and maintenance are emerging trends, reducing manual effort and improving reliability. [^mfs6ma]
 
 ![Test Pyramid Architecture future trends or technology visualization](https://res.cloudinary.com/leaddev/image/upload/f_auto/q_auto/dpr_auto/c_limit,w_640,h_481/next/2021/04/unnamed.png)
 

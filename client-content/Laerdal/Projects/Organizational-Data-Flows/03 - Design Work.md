@@ -119,7 +119,7 @@ This is an export of a variant with [[Sales Marketing and Services]] included.
 #### A screenshot of the state of work
 ![[Screenshot 2025-01-30 at 2.08.16 PM_Lossless_Designs--Data-Modeling-Kit.png]]
 
-![[v2__Data Model Database--In-Action.png]]
+![[Visuals/v2__Data-Model-Database--In-Action.png]]
 
 ### Data Production Line
 #### in Figma

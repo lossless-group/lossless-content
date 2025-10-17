@@ -14,7 +14,7 @@ date_modified: 2025-08-23
 :::
 
 :::vocabulary
-- [[Agile]]
+- [[Vocabulary/Agile Software Development]]
 - [[AI Models]]
 :::
 

@@ -65,7 +65,7 @@ date_modified: 2025-09-26
 
 
 :::vocabulary
-- [[Vocabulary/Agile|Agile]]
+- [[Vocabulary/Agile Software Development|Agile Software Development]]
 - [[Vocabulary/AI Models|AI Models]]
 - [[Vocabulary/Module Federation|Module Federation]]
 - [[Vocabulary/Prompt Templates|Prompt Templates]]

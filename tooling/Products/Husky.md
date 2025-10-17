@@ -15,7 +15,7 @@ docs_url: https://typicode.github.io/husky/get-started.html
 tags: [Products, Developer-Tools, Continuous-Deployment, Continuous-Integration]
 ---
 
-[[Tooling/Products/Husky|Husky]] is a [[Vocabulary/Packages and Libraries|Library]] that helps developers use [[Tooling/Products/Git#Git Hooks|Git Hooks]] to manage complex, [[concepts/Continuous Integration and Continuous Deployment|Continuous Integration and Continuous Deployment]] workflows.
+[[Tooling/Products/Husky|Husky]] is a [[Vocabulary/Packages and Libraries|Library]] that helps developers use [[Tooling/Products/Git#Git Hooks|Git Hooks]] to manage complex, [[concepts/Continuous Integration and Continuous Delivery|Continuous Integration and Continuous Delivery]] workflows.
 
 A good overview [here.](https://syntackle.com/blog/creating-git-hooks-using-husky-y6LKpN/#:~:text=You%20will%20see%20a%20.,git%20hooks%20will%20be%20executed.)
 

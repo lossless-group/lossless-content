@@ -9,5 +9,5 @@ og_image: https://cdn.prod.website-files.com/663e06c56841363663ffbbcf/688c27c869
 og_favicon: https://cdn.prod.website-files.com/663e06c56841363663ffbbcf/665253511c9fe499ba28f6c5_Logo_32x32%20(1).png
 og_last_fetch: 2025-09-20T14:31:17.904Z
 ---
-[[concepts/Continuous Integration and Continuous Deployment|Continuous Integration and Continuous Deployment]]
+[[concepts/Continuous Integration and Continuous Delivery|Continuous Integration and Continuous Delivery]]
 [[Vocabulary/Dev Ops|DevOps]]

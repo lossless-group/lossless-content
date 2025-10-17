@@ -1,7 +1,7 @@
 ---
 site_uuid: 2714bd4b-69e5-434c-89cd-4f215ebcb114
 aliases: [AI, Enterprise AI]
-date_modified: 2025-08-08
+date_modified: 2025-10-14
 date_created: 2025-03-31
 tags: [Tech-Trend]
 ---
@@ -9,6 +9,10 @@ tags: [Tech-Trend]
 
 ![Additional supporting visual content](https://www.ksolves.com/wp-content/uploads/Best-Programming-Languages-For-Artificial-Intelligence-Projects_11zon.jpg)
 
+
+# Sources
+
+[^yn9eki]: 2025, Oct. "[California becomes first state to regulate AI companion chatbots | TechCrunch](https://techcrunch.com/2025/10/13/california-becomes-first-state-to-regulate-ai-companion-chatbots/)". Rebecca Bellan. [TechCrunch](https://techcrunch.com).
 
 
 

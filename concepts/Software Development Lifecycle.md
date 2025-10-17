@@ -1,7 +1,7 @@
 ---
-aliases: ["[SDLC]"]
+aliases: ["SDLC"]
 date_created: 2025-09-05
-date_modified: 2025-09-05
+date_modified: 2025-10-17
 site_uuid: 8ea13bd6-3112-4f5f-8a0c-014e79e7d564
 publish: true
 title: "Software Development Lifecycle"

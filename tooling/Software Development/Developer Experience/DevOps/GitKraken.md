@@ -17,4 +17,4 @@ og_url: 'https://www.gitkraken.com'
 tags: [Software-Development, DevOps, Continuous-Integration]
 ---
 
-[[concepts/Continuous Integration and Continuous Deployment]]
+[[concepts/Continuous Integration and Continuous Delivery]]

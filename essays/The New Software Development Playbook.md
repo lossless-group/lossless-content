@@ -26,11 +26,11 @@ https://youtu.be/8rABwKRsec4?si=XfMHIXhMpZcSbwVl
 Over the past many years, hacker culture and fast-moving startups have generally treated documentation both internal and external as the afterthought.  No more.  It is now the forethought.  The only way to cooperate with [[concepts/Explainers for AI/Code Generators|Code Generators]] effectively is to create living documentation before, during, and immediately after any implementation in an iterative cycle.  
 
 # Commit to Continuous Deployment
-[[concepts/Continuous Integration and Continuous Deployment|Continuous Integration and Continuous Deployment]] have become [[concepts/State of the Art|State of the Art]] practice in Software Development. 
+[[concepts/Continuous Integration and Continuous Delivery|Continuous Integration and Continuous Delivery]] have become [[concepts/State of the Art|State of the Art]] practice in Software Development. 
 
 These practices aim at integrating code changes as often as possible to detect issues early in the development process. Continuous Deployment ensures that new changes to software are automatically tested and deployed, allowing for quick feedback and fast delivery of updates.
 
-[[Vocabulary/Agile|Agile]] has been widely adopted by many organizations. This approach promotes adaptive planning, early delivery, continual improvement and encourages rapid and flexible response to change.
+[[Vocabulary/Agile Software Development|Agile Software Development]] has been widely adopted by many organizations. This approach promotes adaptive planning, early delivery, continual improvement and encourages rapid and flexible response to change.
 
 The use of [[Vocabulary/Microservices|Microservices Architecture]] architecture is also increasing. Microservices allow for the breakdown of applications into smaller, loosely coupled services which can be developed, deployed, and scaled independently. This increases flexibility and efficiency in software development.
 

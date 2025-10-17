@@ -40,7 +40,7 @@ This compact snippet shows a map containing a string, an integer, and a list—a
 
 YAML’s **use cases** are diverse. It's extensively employed for:
 - Application configuration files (used in [[Tooling/Software Development/Developer Experience/DevOps/Kubernetes|Kubernetes]], [[Tooling/Software Development/Developer Experience/DevOps/Docker|Docker]] Compose, [[GitHub Actions]])
-- Automation workflows ([[Ansible]] playbooks)
+- Automation workflows ([[Tooling/Software Development/Developer Experience/DevOps/Ansible]] playbooks)
 - Defining [[concepts/Infrastructure-as-Code|Infrastructure as Code]] for cloud services
 - Data exchange between [[Vocabulary/Microservices|Microservices]]
 
@@ -56,7 +56,7 @@ Despite its strengths, YAML presents **challenges**, such as strict indentation 
 
 ### Adoption, Technologies, and Recent Developments
 
-YAML has been embraced across major cloud and DevOps platforms, with adoption driven by tools like **[[Ansible]]** (which uses YAML playbooks for automation), **Kubernetes** (which defines deployment objects with YAML), and **[[GitHub Actions]]** for [[concepts/Continuous Integration and Continuous Deployment|CI/CD]] automation. [^0kg6jw] [^0ck7tc] As organizations shift towards infrastructure as code and automated workflows, YAML’s role as a “blueprint” for IT configuration and orchestration has become pivotal. [^0kg6jw] 
+YAML has been embraced across major cloud and DevOps platforms, with adoption driven by tools like **[[Tooling/Software Development/Developer Experience/DevOps/Ansible]]** (which uses YAML playbooks for automation), **Kubernetes** (which defines deployment objects with YAML), and **[[GitHub Actions]]** for [[concepts/Continuous Integration and Continuous Delivery|CI/CD]] automation. [^0kg6jw] [^0ck7tc] As organizations shift towards infrastructure as code and automated workflows, YAML’s role as a “blueprint” for IT configuration and orchestration has become pivotal. [^0kg6jw] 
 
 The format is supported by many programming languages and editors, from [[Vim]] and [[Emacs]] to integrated development environments, offering syntax highlighting and error detection for streamlined file management. [^opfrz8] In July 2024, the MIME type for YAML was finalized as `application/yaml`, further cementing its standardized role in web applications. [^opfrz8] The popularity of JSON and its direct compatibility with YAML (every [[projects/Emergent-Innovation/Standards/JSON|JSON]] is valid YAML) continues to foster widespread usage. [^a7wkk0] [^0ck7tc]
 

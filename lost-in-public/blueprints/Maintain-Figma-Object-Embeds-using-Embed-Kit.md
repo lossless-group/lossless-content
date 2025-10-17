@@ -1,6 +1,6 @@
 ---
 date_created: 2025-07-29
-date_modified: 2025-10-07
+date_modified: 2025-10-17
 site_uuid: 27417cb8-645d-4686-bb30-808d79ec6f8a
 publish: true
 date_authored_initial_draft: 2025-07-29
@@ -19,29 +19,40 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-
 square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-Figma-Object-Embeds-using-Embed-Kit_square_image_1755815958668_1lRXdMK02.webp
 ---
 
+
 # Maintain Components that Embed Figma Objects using Embed Kit
+
+> **⚡ Quick Start:** Use this syntax in your markdown files:
+> ```markdown
+> :figma-embed{src="YOUR_FIGMA_URL" width="800" height="600"}
+> ```
+> Note the **single colon** (`:`) - this is the working syntax.
 
 ## Overview
 
 This guide explains how to embed Figma objects in custom components using the Figma Embed Kit. The Figma Embed Kit allows you to display Figma files, frames, and prototypes directly in your application, offering an interactive experience.
 
 # Example
+
+**Option 1: Text Directive - CURRENTLY WORKING ✅**
 ```markdown
-::figma-embed{
-   src="https://www.figma.com/design/splN6L6DgSf61khdyfpybl/Go-Lossless?node-id=2459-9610&t=u6HwEgch9WcmWQbF-4"
-   auth-user="mpstaton"
-   width="800"
-   height="600"
-}
+:figma-embed{src="https://www.figma.com/design/splN6L6DgSf61khdyfpybl/Go-Lossless?node-id=2459-9610" auth-user="mpstaton" width="800" height="600"}
 ```
 
-::figma-embed{
-   src="https://www.figma.com/design/splN6L6DgSf61khdyfpybl/Go-Lossless?node-id=2459-9610&t=u6HwEgch9WcmWQbF-4"
-   auth-user="mpstaton"
-   width="800"
-   height="600"
-}
+**Option 2: Leaf Directive (Single-line)**
+```markdown
+::figma-embed{src="https://www.figma.com/design/splN6L6DgSf61khdyfpybl/Go-Lossless?node-id=2459-9610" auth-user="mpstaton" width="800" height="600"}
+```
+
+**Option 3: Container Directive (Multi-line)**
+```markdown
+:::figma-embed
+src="https://www.figma.com/design/splN6L6DgSf61khdyfpybl/Go-Lossless?node-id=2459-9610"
+auth-user="mpstaton"
+width="800"
+height="600"
 :::
+```
 # Figma API
 
 **Base URL:**: https://api.figma.com
@@ -137,16 +148,22 @@ export let hideUi?: boolean;
 
 2. **Primary Usage: Remark Directive in Markdown**
 
-   Our primary intention is to use this component through remark-directives in Markdown files. This allows for seamless embedding without importing components:
+   Our primary intention is to use this component through remark-directives in Markdown files. This allows for seamless embedding without importing components.
 
+   **✅ WORKING SYNTAX (Use this):**
    ```markdown
-   ::figma-embed{
-     src="https://www.figma.com/file/bm4kr9lQAVhvllVk7hsDuD/Parslee?node-id=3212-21097"
-     initial-view="design"
-     hide-ui="true"
-     width="800"
-     height="600"
-   }
+   :figma-embed{src="https://www.figma.com/file/bm4kr9lQAVhvllVk7hsDuD/Parslee?node-id=3212-21097" initial-view="design" hide-ui="true" width="800" height="600"}
+   ```
+
+   **Alternative syntax (container directive - may need testing):**
+   ```markdown
+   :::figma-embed
+   src="https://www.figma.com/file/bm4kr9lQAVhvllVk7hsDuD/Parslee?node-id=3212-21097"
+   initial-view="design"
+   hide-ui="true"
+   width="800"
+   height="600"
+   :::
    ```
 
 3. **Direct Raw HTML Iframe (for testing only)**
@@ -169,7 +186,7 @@ export let hideUi?: boolean;
 
    **Simple usage with minimal parameters:**
    ```markdown
-   ::figma-embed{src="https://www.figma.com/file/abc123/Your-Figma-File"}
+   :figma-embed{src="https://www.figma.com/file/abc123/Your-Figma-File"}
    ```
 
 3. **Alternative Usage: Direct Component Import**
@@ -195,13 +212,10 @@ export let hideUi?: boolean;
    **Preferred: Using remark directive**
    ```mdx
    # My Document
-   
+
    Here's an embedded Figma file:
-   
-   ::figma-embed{
-     src="https://www.figma.com/file/abc123/Your-Figma-File"
-     initial-view="prototype"
-   }
+
+   :figma-embed{src="https://www.figma.com/file/abc123/Your-Figma-File" initial-view="prototype"}
    ```
 
    **Alternative: Direct import**
@@ -229,12 +243,7 @@ export let hideUi?: boolean;
 
 Here's a live example using the Go-Lossless Figma design:
 
-::figma-embed{
-  src="https://www.figma.com/design/splN6L6DgSf61khdyfpybl/Go-Lossless?node-id=2459-9610&t=u6HwEgch9WcmWQbF-4"
-  width="800"
-  height="600"
-  initial-view="design"
-}
+:figma-embed{src="https://www.figma.com/design/splN6L6DgSf61khdyfpybl/Go-Lossless?node-id=2459-9610&t=u6HwEgch9WcmWQbF-4" width="800" height="600" initial-view="design"}
 
 This example demonstrates:
 - **Specific node targeting** using `node-id=2459-9610`
@@ -246,14 +255,25 @@ This example demonstrates:
 
 ### Directive Syntax Resolution
 
-During implementation, we discovered that `remark-directive` supports two distinct syntax formats:
+During implementation, we discovered that `remark-directive` supports three distinct syntax formats:
 
-1. **Leaf Directives (Single-line):**
+1. **Text Directives (Single-colon - CURRENTLY WORKING):**
    ```markdown
-   ::figma-embed{ src="..." width="800" height="600" }
+   :figma-embed{src="..." width="800" height="600"}
    ```
+   - Uses single colon `:`
+   - Attributes parsed directly from `node.attributes`
+   - Most reliable for inline embeds
 
-2. **Container Directives (Multi-line):**
+2. **Leaf Directives (Double-colon):**
+   ```markdown
+   ::figma-embed{src="..." width="800" height="600"}
+   ```
+   - Uses double colon `::`
+   - Self-closing directive style
+   - Currently functional
+
+3. **Container Directives (Triple-colon):**
    ```markdown
    :::figma-embed
    src="..."
@@ -261,14 +281,19 @@ During implementation, we discovered that `remark-directive` supports two distin
    height="600"
    :::
    ```
+   - Uses triple colon `:::`
+   - Multi-line block style
+   - Parser may need debugging for attribute extraction
 
 ### AstroMarkdown Integration
 
-The implementation required updating `AstroMarkdown.astro` to handle both `leafDirective` and `containerDirective` node types:
+The implementation required updating `AstroMarkdown.astro` to handle all three directive node types:
 
-- **Leaf directives** have attributes directly available in `node.attributes`
-- **Container directives** require parsing child nodes to extract key-value pairs from text content
-- Both formats are now fully supported with proper attribute extraction
+- **Text directives** (`textDirective`) - Line 1339-1487: Attributes directly available in `node.attributes`, renders block-level embed
+- **Leaf directives** (`leafDirective`) - Line 1511+: Attributes in `node.attributes`, single-line syntax
+- **Container directives** (`containerDirective`) - Line 1511+: Require parsing child nodes to extract key-value pairs from text content
+
+All three formats render the same full-featured Figma embed with modal expansion and accessibility features.
 
 ### Enhanced Features Implemented
 

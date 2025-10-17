@@ -15,4 +15,4 @@ date_created: 2025-03-31
 tags: [Developer-Experience, Software-Development, DevOps]
 ---
 
-[[concepts/Continuous Integration and Continuous Deployment|Continuous Integration and Continuous Deployment]]
+[[concepts/Continuous Integration and Continuous Delivery|Continuous Integration and Continuous Delivery]]

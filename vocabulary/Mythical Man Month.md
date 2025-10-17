@@ -39,7 +39,7 @@ Fred Brooks’ 1975 book, *The Mythical Man-Month*, is a seminal work in softwar
 
 Since *[[The Mythical Man-Month]]* was published, research and industry practices have built upon Brooks' insights:
 
-#### **1. [[Agile]] Methodologies**
+#### **1. [[Vocabulary/Agile Software Development]] Methodologies**
 - Agile principles address many issues Brooks identified:
   - Small, cross-functional teams reduce communication overhead.
   - Iterative development ensures continuous feedback and improvement.

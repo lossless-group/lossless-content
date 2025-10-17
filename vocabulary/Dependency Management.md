@@ -50,7 +50,7 @@ The choice between monorepo and polyrepo depends on the scale of the organizatio
 
 ## Current State and Trends
 
-Currently, large-scale companies like Google and Facebook are prominent adopters of monorepos due to their ability to streamline development across vast codebases. However, smaller teams and projects with loose coupling may find polyrepos more suitable. Tools like Bazel and Nx are crucial for managing monorepos at scale, while polyrepos require less specialized tooling but benefit from more flexible [[concepts/Continuous Integration and Continuous Deployment|CI/CD]] pipelines.
+Currently, large-scale companies like Google and Facebook are prominent adopters of monorepos due to their ability to streamline development across vast codebases. However, smaller teams and projects with loose coupling may find polyrepos more suitable. Tools like Bazel and Nx are crucial for managing monorepos at scale, while polyrepos require less specialized tooling but benefit from more flexible [[concepts/Continuous Integration and Continuous Delivery|CI/CD]] pipelines.
 
 Recent developments include advancements in tooling and infrastructure that support both monorepo and polyrepo architectures. The rise of cloud-based services has also made it easier to manage and scale both types of repositories.
 

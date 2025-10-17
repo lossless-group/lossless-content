@@ -1,7 +1,7 @@
 ---
 url: https://harmonic.fun
-date_created: 2025-11-24
-date_modified: 2025-07-29
+date_created: 2024-11-24
+date_modified: 2025-10-17
 tags: [Model-Producers, Model-Vendors, AI-Toolkit]
 og_title: Mathematical Superintelligence
 og_description: AI for Formal Mathematical Reasoning
@@ -10,4 +10,6 @@ og_favicon: https://harmonic.fun/favicon.ico
 og_last_fetch: 2025-07-21T18:02:22.105Z
 portfolios:
   - Hypernova--Fund-1
+site_name: Harmonic AI
 ---
+\

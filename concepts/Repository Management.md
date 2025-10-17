@@ -53,7 +53,7 @@ Despite its advantages, repository management poses several challenges:
 
 ## Current State and Trends
 
-Today, repository management is standard practice across both startups and large enterprises. Tools such as **GitHub**, **[[Tooling/Software Development/Developer Experience/DevOps/GitLab|GitLab]]**, **[[Tooling/Software Development/Developer Experience/Bitbucket|Bitbucket]]**, **[[Sonatype Nexus]]**, and **JFrog Artifactory** dominate the landscape, integrating natively with popular [[Vocabulary/Dev Ops|DevOps]] and [[concepts/Continuous Integration and Continuous Deployment|CI/CD]] tools. [^ndepk9] [^2kien1] [^91fwil] These platforms offer advanced features like automated vulnerability scanning, mirroring, and hybrid (cloud/local) repositories to accommodate diverse organizational needs.
+Today, repository management is standard practice across both startups and large enterprises. Tools such as **GitHub**, **[[Tooling/Software Development/Developer Experience/DevOps/GitLab|GitLab]]**, **[[Tooling/Software Development/Developer Experience/Bitbucket|Bitbucket]]**, **[[Sonatype Nexus]]**, and **JFrog Artifactory** dominate the landscape, integrating natively with popular [[Vocabulary/Dev Ops|DevOps]] and [[concepts/Continuous Integration and Continuous Delivery|CI/CD]] tools. [^ndepk9] [^2kien1] [^91fwil] These platforms offer advanced features like automated vulnerability scanning, mirroring, and hybrid (cloud/local) repositories to accommodate diverse organizational needs.
 
 Recent advancements include:
 - **Automated security scanning** for open-source dependencies.

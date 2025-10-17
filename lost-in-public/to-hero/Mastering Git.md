@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-07-29
+date_modified: 2025-10-14
 site_uuid: dc99c733-0a2e-4261-93a6-146650d3f664
 publish: true
 title: "Mastering Git"
@@ -263,3 +263,8 @@ git stash clear
 ```zsh
 git stash save "WIP: working on feature X"
 ```
+
+```bash
+git ls-tree -r temp/path-aliases-attempt assistant-context --name-only
+```
+

@@ -1,7 +1,7 @@
 ---
 tags: [Software-Development]
 date_created: 2024-02-11
-date_modified: 2025-08-23
+date_modified: 2025-10-17
 site_uuid: 0f0c57e6-23cd-4712-b7b6-2a2260259d6a
 title: Changelog First Development
 slug: changelog-first-development
@@ -14,10 +14,13 @@ augmented_with: Perplexity AI
 
 **Changelog-First Development** represents a paradigm shift in how modern software teams approach releases and documentation. By placing changelogs at the center of the development process, teams create a more transparent, user-focused, and quality-driven workflow that integrates seamlessly with continuous delivery practices.
 
+![Changelog launch for Parslee website](https://ik.imagekit.io/xvpgfijuw/parslee/2025-10-15_Changelog-Launched.gif)
+
+
 ## The Interconnected Ecosystem
 ### Continuous Integration and Continuous Delivery
 
-**Continuous Integration (CI)** forms the foundation of modern software delivery. Developers frequently merge code changes into a shared repository—often multiple times per day—where automated builds and tests run immediately. [^wzwv1v] [^5otkys] This practice ensures that integration problems are caught early and that the codebase remains in a deployable state. [^2ls8ne]
+**[[concepts/Continuous Integration and Continuous Delivery|Continuous Integration and Continuous Delivery]] (CI)** forms the foundation of modern software delivery. Developers frequently merge code changes into a shared repository—often multiple times per day—where automated builds and tests run immediately. [^wzwv1v] [^5otkys] This practice ensures that integration problems are caught early and that the codebase remains in a deployable state. [^2ls8ne]
 
 **Continuous Delivery (CD)** extends CI by automatically preparing code for release to production. After passing through automated testing, code changes are packaged and ready for deployment at any time. [^5otkys] [^qzs5qx] The key distinction is that while continuous delivery stops at having deployable code, continuous deployment automatically releases to production. [^q7zp5f]
 

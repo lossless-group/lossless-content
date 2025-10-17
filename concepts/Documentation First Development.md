@@ -85,7 +85,7 @@ There are, however, pitfalls to avoid:
 
 ### Current State and Trends
 
-Documentation First Development is seeing adoption across organizations that prioritize distributed teamwork, microservices, and robust API ecosystems. Frameworks and tools such as Swagger/[[projects/Emergent-Innovation/Standards/The Open API Initiative|OpenAPI]] for APIs and Markdown-based wikis for project specs underpin this approach. Leading technology companies and consultancies now include documentation deliverables in their definitions of done or automated [[concepts/Continuous Integration and Continuous Deployment|CI/CD]] pipelines.
+Documentation First Development is seeing adoption across organizations that prioritize distributed teamwork, microservices, and robust API ecosystems. Frameworks and tools such as Swagger/[[projects/Emergent-Innovation/Standards/The Open API Initiative|OpenAPI]] for APIs and Markdown-based wikis for project specs underpin this approach. Leading technology companies and consultancies now include documentation deliverables in their definitions of done or automated [[concepts/Continuous Integration and Continuous Delivery|CI/CD]] pipelines.
 
 Recently, the trend toward “living documentation”—docs that evolve continuously with the system—has gained ground, often supported by integrations between code repositories, CI/CD systems, and documentation platforms. [^f3bjcp] [^2sksy9] This shift reduces the risk of docs going stale and helps embed documentation-first principles into everyday workflows.
 

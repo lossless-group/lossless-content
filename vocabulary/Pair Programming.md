@@ -22,7 +22,7 @@ at_semantic_version: 0.0.1.0
 
 ### What is Pair Programming?
 
-Pair programming is rooted in [[Vocabulary/Agile|Agile]] methodologies and works by having two roles: the **driver** and the **navigator**. [^vv44b6] [^rzhi75] The driver actively writes code, while the navigator observes, provides real-time feedback, and thinks about the strategic direction of the task. [^rzhi75] [^2m774y] These roles switch regularly, distributing responsibility and keeping both participants engaged.
+Pair programming is rooted in [[Vocabulary/Agile Software Development|Agile Software Development]] methodologies and works by having two roles: the **driver** and the **navigator**. [^vv44b6] [^rzhi75] The driver actively writes code, while the navigator observes, provides real-time feedback, and thinks about the strategic direction of the task. [^rzhi75] [^2m774y] These roles switch regularly, distributing responsibility and keeping both participants engaged.
 
 For example, when developing a complex algorithm, the driver might focus on syntax and logic, while the navigator examines edge cases, enforces style guidelines, and suggests refactoring opportunities in real-time. [^2m774y] [^vv44b6] Companies like Microsoft and Google have used pair programming in onboarding sessions to accelerate learning for new hires, ensure best practices are followed, and efficiently debug tricky problems.
 
