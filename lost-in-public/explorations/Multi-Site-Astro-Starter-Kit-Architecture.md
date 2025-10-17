@@ -1,18 +1,22 @@
 ---
-title: Multi-Site Astro Starter Kit Architecture
-description: Exploration of building a comprehensive Astro starter kit optimized for rapid deployment of multiple marketing sites with environment-driven customization
+title: "Multi-Site Astro Starter Kit Architecture"
+description: "Exploration of building a comprehensive Astro starter kit optimized for rapid deployment of multiple marketing sites with environment-driven customization"
 tags: [Astro, Component-based-Architecture, Tailwind, Svelte, Theming]
-created: 2025-10-05
-updated: 2025-10-05
-status: Implementation
-priority: high
+
+status: "Implementation"
 date_created: 2025-10-01
-date_modified: 2025-10-11
+date_modified: 2025-10-17
 site_uuid: 911f92b4-02f3-44a5-a7f3-6fecb5afd616
 publish: true
 slug: multi-site-astro-starter-kit-architecture
 at_semantic_version: 0.0.1.1
+image_prompt: "A boy scout has a tent kit, where he puts it down and the tent pops out and up."
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Multi-Site-Astro-Starter-Kit-Architecture_banner_image_1760733523909_Qhc9_EkP0.webp"
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Multi-Site-Astro-Starter-Kit-Architecture_portrait_image_1760733525401_TqcQXtvkh.webp"
+square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Multi-Site-Astro-Starter-Kit-Architecture_square_image_1760733526454_ZP2T8-fNY.webp"
 ---
+
+
 
 
 # Multi-Site Astro Starter Kit Architecture

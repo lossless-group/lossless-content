@@ -17,9 +17,17 @@ slug: laerdal-retrospective
 - Response: 1425 "tools" 
 
 ## Delivering the Augment-It
+- Needed Module Federation, Unified API
+- Needed a way to Communicate it
+- Changelog first
 
 
 ## Rabbit Holes
 - Scripting to manage the quality of Markdown files doesn't work
 - Obsidian plugins did work.  
 - Built 6 different plugins. 
+  - Citation Management
+  - Deep Research & Writing
+  - Email Newsletter Generation
+  - Metadata, Frontmatter Templates and Population
+

@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-09
-date_modified: 2025-09-26
+date_modified: 2025-10-17
 ---
 :::features
 - Reader
@@ -22,8 +22,12 @@ date_modified: 2025-09-26
 
 
 :::concepts
-- [[Coherence]]
+- [[concepts/Coherence|Coherence]]
 - [[concepts/Platform Engineering|Platform Engineering]]
+- [[concepts/Documentation First Development|Documentation First Development]]
+- [[concepts/Design System First Development|Design System First Development]]
+- [[concepts/Security-First Development|Security-First Development]]
+- [[concepts/Changelog First Development|Changelog First Development]]- 
 - [[concepts/Explainers for AI/LLM Gateways|LLM Gateways]]
 - [[concepts/CARBS|CARBS]]
 - [[concepts/Technology Radar|Technology Radar]]
@@ -34,10 +38,6 @@ date_modified: 2025-09-26
 - [[Vocabulary/Lock In|Lock In]]
 - [[AI Avatars]]
 - [[concepts/Explainers for Tooling/Learning Experience Platforms|Learning Experience Platforms]]
-- [[concepts/Documentation First Development|Documentation First Development]]
-- [[concepts/Design System First Development|Design System First Development]]
-- [[concepts/Security-First Development|Security-First Development]]
-- [[concepts/Changelog First Development|Changelog First Development]]
 - [[concepts/Visual Software Development|Visual Software Development]]
 - [[concepts/Event-Driven Architecture|Event-Driven Architecture]]
 - [[concepts/Open Specifications|Open Specifications]]

@@ -10,8 +10,6 @@ on_platform: "[[Tooling/Software Development/Visual Studio Code|VS Code]]"
 site_name: Cline
 title: An AI Autonomous Coding Agent for VS Code
 description: Cline is an open-source AI coding assistant with dual Plan/Act modes, terminal execution, and Model Context Protocol (MCP) for VS Code. Alternative to GitHub Copilot with extensible tools and real-time debugging.
-tags:
-  - IDE-Plugins
-  - Code-Generators
+tags: [IDE-Plugins, Code-Generators]
 ---
 

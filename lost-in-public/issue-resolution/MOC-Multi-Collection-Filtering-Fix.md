@@ -3,20 +3,24 @@ title: Fixing MOC Content Filtering Across Multiple Collections
 lede: Resolving client reader sidebar issues when Map of Content files reference articles from different content collections with mismatched paths and titles
 date_reported: 2025-09-20
 date_resolved: 2025-09-25
-date_last_updated: 2025-09-25
+date_last_updated: 2025-10-12
 at_semantic_version: 0.0.1.0
 affected_systems: Client-Reader-Sidebar
 status: Implemented
 augmented_with: Claude 4 Sonnet via Trae AI
 category: Content-Filtering
 date_created: 2025-01-27
-date_modified: 2025-09-25
+date_modified: 2025-10-17
 image_prompt: A digital map with multiple pathways converging into a single organized sidebar, showing content from different collections being filtered and matched correctly
 site_uuid: 828827c3-4a13-4f05-967f-d5eb837f5f05
 tags: [MOC, Content-Collections, Astro, Fuzzy-Matching, Client-Reader]
 authors:
   - Michael Staton
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/MOC-Multi-Collection-Filtering-Fix_banner_image_1760733130046_bxakkpl4aD.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/MOC-Multi-Collection-Filtering-Fix_portrait_image_1760733131543_wuvzTpHmn1.webp
+square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/MOC-Multi-Collection-Filtering-Fix_square_image_1760733132515_9jNVc_FoH.webp
 ---
+
 # Fixing MOC Content Filtering Across Multiple Collections
 
 ## The Challenge: MOC Files Referencing Multiple Collections
@@ -36,7 +40,7 @@ But the client reader sidebar was only displaying one article instead of both, c
 ### Attempt 1: Simple ID Matching
 Our initial approach tried to match MOC paths directly against entry IDs:
 
-```typescript
+```ts
 // In filterContentByMOC function
 const matchingEntries = allEntries.filter(entry => {
   return mocPaths.some(mocPath => {
@@ -51,7 +55,7 @@ const matchingEntries = allEntries.filter(entry => {
 ### Attempt 2: Title-Based Matching
 We tried matching against entry titles:
 
-```typescript
+```ts
 const isMatch = entry.data.title?.toLowerCase() === mocTitle?.toLowerCase();
 ```
 
@@ -60,7 +64,7 @@ const isMatch = entry.data.title?.toLowerCase() === mocTitle?.toLowerCase();
 ### Attempt 3: Collection Filtering Issues
 We attempted to filter by collection but had problems with subdirectory paths:
 
-```typescript
+```ts
 const collection = mocPath.split('/')[0]; // This failed for "lost-in-public/market-maps/..."
 const filteredEntries = allEntries.filter(entry => entry.collection === collection);
 ```
@@ -81,7 +85,7 @@ The solution was to implement a robust fuzzy matching system that extracts keywo
 ## Final Solution
 
 ### 1. Robust Collection Parsing
-```typescript
+```ts
 // Handle subdirectory paths correctly
 let collection = mocPath.split('/')[0];
 if (collection === 'lost-in-public' && mocPath.includes('/market-maps/')) {
@@ -90,7 +94,7 @@ if (collection === 'lost-in-public' && mocPath.includes('/market-maps/')) {
 ```
 
 ### 2. Fuzzy Keyword Matching
-```typescript
+```ts
 function extractKeywords(text) {
   return text
     .toLowerCase()
@@ -116,7 +120,7 @@ function fuzzyMatch(mocPath, entryId, entryTitle) {
 ```
 
 ### 3. Safe Null Checking
-```typescript
+```ts
 // Add null checks to prevent undefined errors
 const entryTitle = entry.data?.title;
 const mocTitle = mocPath.split('/').pop()?.replace(/\.md$/, '');
@@ -128,7 +132,7 @@ if (entryTitle && mocTitle) {
 ```
 
 ### 4. Complete filterContentByMOC Function
-```typescript
+```ts
 function filterContentByMOC(allEntries, mocPaths) {
   return allEntries.filter(entry => {
     return mocPaths.some(mocPath => {
@@ -184,4 +188,4 @@ function filterContentByMOC(allEntries, mocPaths) {
 
 ## Result
 
-The client reader sidebar now correctly displays both "The Future of CPG" (market-map) and "When to Partner with a Startup? When it's time for them to Scale Up" (essay) when viewing either article, maintaining all MOC-defined content regardless of the currently viewed article. The fuzzy matching system handles the various naming conventions and path structures gracefully.
+The client reader sidebar now correctly displays both "The Future of CPG" (market-maps) and "When to Partner with a Startup? When it's time for them to Scale Up" (essay) when viewing either article, maintaining all MOC-defined content regardless of the currently viewed article. The fuzzy matching system handles the various naming conventions and path structures gracefully.

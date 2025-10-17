@@ -10,14 +10,10 @@ affected_systems: Content-Collections
 augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Debugging
 date_created: 2025-04-24
-date_modified: 2025-04-24
+date_modified: 2025-10-17
 image_prompt: "A Markdown document with frontmatter at the top, showing arrows pointing from a template file to empty fields being filled with default values."
 site_uuid: 828827c3-4a13-4f05-967f-d5eb898f5f05
-tags:
-  - Markdown
-  - Frontmatter
-  - TypeScript
-  - Debugging
+tags: [Markdown, Frontmatter, TypeScript, Debugging]
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Fixing-Markdown-Frontmatter-Default-Values_d95f25cd-6c97-403a-b9fe-5427b6e1839e_nXS9O_E2g.webp
