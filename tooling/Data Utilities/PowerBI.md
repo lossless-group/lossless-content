@@ -10,5 +10,5 @@ site_name: Power BI
 zinger: Create a data-driven culture with BI for all
 description_site_cp: Turn your data into visuals with advanced data-analysis tools, AI capabilities, and a user-friendly report-creation tool.
 ---
-[[Data Analysis Expressions|DAX]]
+[[Vocabulary/Data Analysis Expressions|DAX]]
 

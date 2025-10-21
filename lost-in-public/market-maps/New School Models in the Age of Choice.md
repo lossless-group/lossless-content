@@ -1,6 +1,6 @@
 ---
 date_created: 2025-09-25
-date_modified: 2025-09-26
+date_modified: 2025-10-21
 title: New School Models in the Age of Choice
 lede: Technology and regulatory openings in the United States are creating an Avalanche of change in the model of school
 date_authored_initial_draft: 2025-09-25
@@ -51,6 +51,8 @@ The traditional structure of American education, with its age-based grade levels
 Primer Microschools exemplifies this structural transformation through its mixed-age classroom approach, where students are grouped in cohorts spanning K-2, 3-5, and 6-8 grade levels rather than traditional single-grade classrooms. [^47nmli] This structure recognizes that learning development does not follow strict chronological patterns and allows students to work with peers across age ranges, fostering mentorship opportunities and reducing the artificial barriers created by grade-level segregation. The microschool model itself represents a dramatic reduction in scale from traditional schools, with Primer operating small learning communities that prioritize deep relationships and personalized attention over the efficiency metrics that drive larger institutional models. [^8eoccp]
 
 Similarly, Alpha School has reimagined the fundamental structure of the school day through its revolutionary "2-hour learning model" that leverages artificial intelligence to deliver personalized instruction in core academic subjects. [^xtg6ci] [^an65zq] This approach challenges the traditional assumption that effective learning requires six to eight hours of daily instruction, instead demonstrating that targeted, adaptive learning can accomplish academic goals in a fraction of the time when properly implemented. Students at Alpha School complete their core academic work in the morning using AI-powered tutoring systems, then spend their afternoons engaged in project-based learning, life skills development, and passion pursuit activities that would be impossible within the constraints of a traditional schedule. [^qjml2m]
+
+https://youtu.be/6uO22DY1zsM?si=8TVKf9XokJVi8VX_
 
 The structural innovations extend beyond scheduling to encompass entirely new approaches to curriculum organization and delivery. Khan Lab School has pioneered a mastery-based learning system that eliminates traditional letter grades in favor of competency-based progression, allowing students to advance when they demonstrate understanding rather than when the calendar dictates. [^eo5fxr] [^u99978] This fundamental shift recognizes that learning is not a race with uniform finish lines but rather an individual journey that requires different timelines and pathways for different learners. The school's "Applied Learning Program" further restructures education around real-world application, with students engaging in year-long Stepping Stones, Cornerstones, and Capstone projects that connect academic learning to meaningful community impact. [^eo5fxr]
 

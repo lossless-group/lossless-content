@@ -1,15 +1,19 @@
 ---
 site_uuid: 69d949b9-4674-4fe0-a80b-cbde120fa24f
-url: 'https://docs.crawl4ai.com/'
-github_repo_url: 'https://github.com/unclecode/crawl4ai'
-date_modified: 2025-05-28
+url: https://docs.crawl4ai.com/
+github_repo_url: https://github.com/unclecode/crawl4ai
+date_modified: 2025-10-18
 date_created: 2025-03-30
-zinger: 'Open-Source LLM-Friendly Web Crawler & Scraper'
+zinger: Open-Source LLM-Friendly Web Crawler & Scraper
 og_errors: true
-og_last_error: '2025-05-28T17:58:10.885Z'
-og_error_message: 'OpenGraph subsystem did not return any data (timeout or crash).'
+og_last_error: 2025-05-28T17:58:10.885Z
+og_error_message: OpenGraph subsystem did not return any data (timeout or crash).
 tags: [AI-Toolkit, Open-Source-Alternatives, AI-Web-Crawlers, Data-Augmenters]
+og_image: https://i.imgur.com/L2EhPDM.png
+site_name: Crawl4AI
 ---
+![](https://i.imgur.com/L2EhPDM.png)
+
 
 https://youtu.be/FHVfMxOYTBM?si=WHLeAinIWsfPz3mY
 

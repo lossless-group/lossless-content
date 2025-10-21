@@ -1,9 +1,9 @@
 ---
 date_created: 2025-06-05
-date_modified: 2025-10-02
+date_modified: 2025-10-21
 slug: from-engineering-to-managing-large-codebases
 title: 'From Software Engineering To Managing Large Codebases'
-lede: ''
+lede: 'AI is already supporting individual engineers with particular tasks. How can it support large organizations with many teams and millions of lines of code?'
 date_authored_initial_draft: 2025-06-05
 date_authored_current_draft: 2025-06-05
 at_semantic_version: 0.0.0.1

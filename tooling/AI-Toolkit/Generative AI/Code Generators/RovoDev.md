@@ -1,7 +1,7 @@
 ---
 url: https://www.atlassian.com/solutions/devops/ai-innovation
 date_created: 2025-08-28
-date_modified: 2025-09-21
+date_modified: 2025-10-21
 tags: [Terminal-Applications, Terminal-Assistants, Code-Generators]
 parent_org: "[[organizations/Atlassian|Atlassian]]"
 og_title: Atlassian Rovo Dev Agent
@@ -9,6 +9,7 @@ og_description: AI-enabled productivity and quality for the full software delive
 og_image: https://www.atlassian.com/favicon-16x16.png
 og_favicon: https://www.atlassian.com/favicon-32x32.png
 og_last_fetch: 2025-09-21T11:49:54.719Z
+site_name: Rovo Dev
 ---
 https://www.youtube.com/watch?v=L_RHRbri41Q
 

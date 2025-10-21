@@ -1,7 +1,7 @@
 ---
 site_uuid: 2714bd4b-69e5-434c-89cd-4f215ebcb114
 aliases: [AI, Enterprise AI]
-date_modified: 2025-10-18
+date_modified: 2025-10-20
 date_created: 2025-03-31
 tags: [Tech-Trend]
 ---
@@ -12,7 +12,7 @@ tags: [Tech-Trend]
 
 https://youtu.be/gIxq03dipUw?si=YBNIGcZoAHDkrOjS
 
-
+https://podcasts.apple.com/us/podcast/science-friday/id73329284?i=1000732281217
 
 ***
 > [!info] **Perplexity Deep Research Query** (2025-10-18T09:18:39.867Z)
@@ -342,7 +342,7 @@ Below is a list of organizations leading the development of AI models, including
 - **Best Use Cases:** NLP, computer vision, and community-driven AI development.
 - **Key Models:**
     - Transformers Library: Hosts models like GPT, BERT, and more.
-    - [[BLOOM]] (BigScience Large Open-Science Open-Access Multilingual): July 2022
+    - [[Tooling/AI-Toolkit/Models/BLOOM]] (BigScience Large Open-Science Open-Access Multilingual): July 2022
 
 #### **7. [[Tooling/AI-Toolkit/Model Producers/Microsoft Research|Microsoft Research]] (Founded: 1991)**
 

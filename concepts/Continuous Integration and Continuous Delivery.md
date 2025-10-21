@@ -17,7 +17,7 @@ at_semantic_version: 0.0.0.1
 - [[Tooling/Software Development/Developer Experience/DevOps/Retcon|Retcon]]
 - [[Tooling/Software Development/Developer Experience/DevOps/CircleCI|CircleCI]]
 - [[Tooling/Software Development/Developer Experience/DevOps/Jenkins|Jenkins]]
-- [[Bamboo]]
+- [[Tooling/Software Development/Developer Experience/DevOps/Bamboo]]
 :::
 
 # What is CI/CD?

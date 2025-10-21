@@ -1,16 +1,15 @@
 ---
 site_uuid: 22e4bc0d-af67-417c-8c81-08b0d84030ba
 url: https://ml-explore.github.io/mlx/build/html/index.html
-zinger: "MLX: An array framework for Apple silicon"
-date_created: 2025-03-19T00:00:00.000Z
-date_modified: 2025-04-12
+zinger: An array framework for Apple silicon
+date_created: 2025-03-19
+date_modified: 2025-10-18
 docs_url: https://ml-explore.github.io/mlx/build/html/index.html
 description_site_cp: MLX is a NumPy-like array framework designed for efficient and flexible machine learning on Apple silicon, brought to you by Apple machine learning research.
 github_repo_url: https://github.com/ml-explore/mlx
 product_of: "[[organizations/Apple|Apple]]"
-tags:
-  - Fine-Tuners
-  - AI-Toolkit
+tags: [Fine-Tuners, AI-Toolkit]
+site_name: MLX
 ---
 
 

@@ -4,13 +4,18 @@ title: Code Generators & AI Assistants
 description: Modern AI-powered tools that write, review, and improve code
 lede: Discover the latest code generation tools, from IDE integrations to standalone platforms, and learn how AI is transforming software development.
 featured_tools:
+  - ai-toolkit/generative-ai/code-generators/claude-code
   - ai-toolkit/generative-ai/code-generators/cursor
-  - ai-toolkit/generative-ai/code-generators/cline
   - ai-toolkit/generative-ai/code-generators/continue.dev
+  - ai-toolkit/generative-ai/code-generators/warp
+  - ai-toolkit/generative-ai/code-generators/windsurf
+  - ai-toolkit/generative-ai/code-generators/trae-ai
+
 related_tags:
   - AI-Toolkit
-  - Generative-AI
+  - Code-Generators
   - Developer-Experience
+  - Large-Codebase-AI
 date_created: 2025-10-17
 date_modified: 2025-10-17
 authors:

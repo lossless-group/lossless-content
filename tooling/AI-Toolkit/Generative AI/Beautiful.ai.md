@@ -6,6 +6,7 @@ og_image: https://cdn.prod.website-files.com/59deb588800ae30001ec19c9/679345319c
 og_favicon: https://cdn.prod.website-files.com/59deb588800ae30001ec19c9/5d4891e0e260e3c1bc37b100_beautiful%20ai%20favicon%20%20blue%20square.png
 og_last_fetch: 2025-09-23T22:36:47.303Z
 date_created: 2025-09-23
-date_modified: 2025-09-23
+date_modified: 2025-10-18
 tags: [Presentation-Generators, Generative-AI, AI-Toolkit]
+site_name: Beautiful AI
 ---

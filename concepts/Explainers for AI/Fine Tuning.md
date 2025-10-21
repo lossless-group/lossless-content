@@ -1,9 +1,9 @@
 ---
 site_uuid: f9a3d8fa-6342-4f46-9c21-bdd62201145b
-date_modified: 2025-07-23
+date_modified: 2025-10-21
 date_created: 2025-03-30
 tags: [AI-Toolkit, Fine-Tuners]
-aliases: ["[Fine-Tuners]"]
+aliases: [Fine-Tuners]
 generated_with: Perplexity AI
 publish: true
 title: Fine Tuning

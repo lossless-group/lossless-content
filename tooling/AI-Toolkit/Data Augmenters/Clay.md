@@ -2,7 +2,7 @@
 url: https://www.clay.com/
 zinger: Go to market with unique data—and the ability to act on it
 date_created: 2025-06-17
-date_modified: 2025-10-11
+date_modified: 2025-10-18
 description_site_cp: Access 130+ premium data sources and GTM's most beloved AI research agent. Then automate growth workflows to turn insights into revenue.
 tags: [GTM-Platforms, Demand-Generation, Data-Augmenters, Must-Have, AI-Toolkit, Enterprise-AI, AI-Native]
 laerdal_rec: true
@@ -15,4 +15,5 @@ for_clients:
   - Laerdal
   - Param
   - Parslee
+site_name: Clay
 ---

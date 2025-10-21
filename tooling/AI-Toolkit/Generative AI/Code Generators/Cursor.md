@@ -1,25 +1,17 @@
 ---
 site_uuid: 2b053c07-c705-4885-b4f8-640aaf8e36ed
-url: https://www.cursor.com/
-image: https://www.cursor.com/en/opengraph-image.png?7a8fd201c972abca
+url: "https://www.cursor.com/"
 site_name: Cursor
-title: 'Cursor - The AI Code Editor'
-favicon: https://www.cursor.com/favicon-48x48.png
-og_errors: true
-og_last_error: '2025-03-07T05:38:03.914Z'
-og_error_message: 'Error occurred'
-jina_last_request: '2025-03-09T06:45:14.581Z'
-jina_error: 'Error occurred'
-og_last_fetch: '2025-05-28T12:22:13.749Z'
-date_modified: 2025-05-28
+title: "The AI Code Editor"
+date_modified: 2025-10-21
 date_created: 2025-03-30
-og_image: https://www.cursor.com/en/opengraph-image.png?375711d39ab904b7
-description: 'Built to make you extraordinarily productive, Cursor is the best way to code with AI.'
-tags:
-  - AI-Toolkit
-  - Generative-AI
-  - Code-Generators
-  - Gen-Ai-Code
+description: "Built to make you extraordinarily productive, Cursor is the best way to code with AI."
+tags: [AI-Toolkit, Generative-AI, Code-Generators, Gen-Ai-Code]
+og_title: "Cursor: The best way to code with AI"
+og_description: "Built to make you extraordinarily productive, Cursor is the best way to code with AI."
+og_image: "https://cdn.sanity.io/images/2hv88549/production/581af892e88b9b7e17a19773730e5d9907c03cec-2401x1260.png?auto=format&w=1200&h=627&fit=crop"
+og_favicon: "https://cursor.com/marketing-static/icon-512x512.png"
+og_last_fetch: "2025-10-21T20:58:52.711Z"
 ---
 
 https://youtu.be/mxX1TYrhPFo?si=8CkQuOXx0X0Tvu0q
