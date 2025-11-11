@@ -15,5 +15,5 @@ tags: [Training]
 
 [[Learning Communities]]
 
-[[Learning Management Systems]]
+[[concepts/Explainers for Tooling/Learning Management Systems]]
 

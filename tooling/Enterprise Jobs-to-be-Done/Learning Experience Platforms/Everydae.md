@@ -15,5 +15,5 @@ og_image: https://cdn.prod.website-files.com/5ed9ac87e93ebb3538348caf/5f04faa75c
 og_favicon: https://cdn.prod.website-files.com/5ed9ac87e93ebb3538348caf/5f04fb4e057f3675ff346366_icon-everydae-favicon.png
 og_last_fetch: 2025-08-08T12:17:16.716Z
 ---
-[[Learning Management Systems]]
+[[concepts/Explainers for Tooling/Learning Management Systems]]
 [[concepts/Explainers for Tooling/Learning Experience Platforms]]

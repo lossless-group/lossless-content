@@ -8,7 +8,7 @@ status: To-Do
 augmented_with: 'Perplexica AI'
 category: 'Megatrend-Context'
 date_created: 2025-06-05
-date_modified: 2025-10-21
+date_modified: 2025-11-02
 site_uuid: 228b1643-27e9-4ee1-9bb7-4a7692d18896
 image_prompt: 'A dystopian future inside a Data Center where humanoid robots are connecting servers to wires. One robot is carrying a larger server on his back and is sweating'
 tags: [AI-Models, Model-Vendors, Cloud-Infrastructure, Data-Centers]
@@ -21,6 +21,10 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-06
 https://youtu.be/gYVxWYI7Pq4?si=S1elArPteleWlFQg
 
 https://youtu.be/0rifnPTTBd8?si=mUiToFF_fuMO4j_v
+
+https://youtube.com/shorts/7mN1WbxDbnQ?si=Yy-EE8ZwjKXcbDld
+
+
 
 ***
 > [!info] **Perplexity Query** (2025-09-17T17:43:58.385Z)

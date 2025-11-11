@@ -1,7 +1,7 @@
 ---
 aliases: [Code Generation, Code Generators, Coding Agent, Coding Assistant, Code Generator, Code Generator AI, AI Code Assistants]
 site_uuid: 691a7615-2aa5-4a1b-9ad9-519a48dac670
-date_modified: 2025-10-12
+date_modified: 2025-10-21
 date_created: 2025-03-31
 tags: [AI-Toolkit, Code-Generators]
 publish: true
@@ -12,9 +12,10 @@ authors:
   - Michael Staton
 augmented_with: Perplexity AI
 ---
-:::tool-showcase
-tag: Code-Generators
+:::tool-showcase{tag="Code-Generators"}
 :::
+
+https://youtu.be/rgiuaJbyUyU?si=m5IQdbaD1mKXJ4v8
 ***
 > [!info] **Perplexity Query** (2025-08-17T13:57:44.241Z)
 > **Question:**
@@ -23,7 +24,7 @@ tag: Code-Generators
 > ### **Response from sonar-pro**:
 
 
-Artificial Intelligence (AI) Code Generators are software tools that use machine learning and natural language processing to automatically create, debug, and optimize computer code. These technologies are becoming pivotal in software development, enabling rapid prototyping, reducing human error, and democratizing access to coding skills. As organizations strive for greater efficiency and innovation, AI code generators are increasingly relevant for teams and individual developers seeking to accelerate digital transformation.
+[[concepts/Explainers for AI/Artificial Intelligence|Artificial Intelligence]] (AI) Code Generators are software tools that use machine learning and natural language processing to automatically create, debug, and optimize computer code. These technologies are becoming pivotal in software development, enabling rapid prototyping, reducing human error, and democratizing access to coding skills. As organizations strive for greater efficiency and innovation, AI code generators are increasingly relevant for teams and individual developers seeking to accelerate digital transformation.
 
 ![AI Code Generators concept diagram or illustration](https://www.orientsoftware.com/Themes/Content/Images/blog/2024-05-20/ai-code-generators.webp)
 
@@ -35,7 +36,7 @@ Despite major benefits, challenges persist. AI-generated code may introduce subt
 
 ![AI Code Generators practical example or use case](https://www.weblineindia.com/wp-content/uploads/2024/12/The-Benefits-of-AI-Code-Generating-Tools-3.jpg)
 
-The adoption of AI code generators has accelerated sharply. In 2023, GitHub Copilot generated over 82 billion lines of code, highlighting the impact and scale of such technologies. [^xtp6mc] Many organizations are integrating these tools into their DevOps pipelines to drive productivity, speed up release cycles, and maintain high standards in code quality. [^6eao1r] [^xtp6mc] Key players in the field include Microsoft (with Copilot), Google (using AI for code suggestions in Google Cloud projects), and startups like Tabnine and Amazon CodeWhisperer. [^xtp6mc] Recent developments feature AI models that learn company-specific coding patterns and integrate seamlessly with existing workflows, providing tailored solutions and improved code personalization. [^n15gw6]
+The adoption of AI code generators has accelerated sharply. In 2023, [[Tooling/AI-Toolkit/Generative AI/Code Generators/GitHub Copilot|GitHub Copilot]] generated over 82 billion lines of code, highlighting the impact and scale of such technologies. [^xtp6mc] Many organizations are integrating these tools into their DevOps pipelines to drive productivity, speed up release cycles, and maintain high standards in code quality. [^6eao1r] [^xtp6mc] Key players in the field include Microsoft (with Copilot), Google (using AI for code suggestions in Google Cloud projects), and startups like Tabnine and Amazon CodeWhisperer. [^xtp6mc] Recent developments feature AI models that learn company-specific coding patterns and integrate seamlessly with existing workflows, providing tailored solutions and improved code personalization. [^n15gw6]
 
 ![AI Code Generators future trends or technology visualization](https://graffersid.com/wp-content/uploads/2024/07/Comparitve-analysis-of-top-AI-code-generation-tools-595xh.png)
 
@@ -44,7 +45,7 @@ Looking ahead, AI code generators are expected to grow even smarter, integrating
 In summary, AI code generators represent a transformative leap in software development, offering speed, accuracy, and inclusivity. As these technologies evolve, they promise to redefine how code is written, tested, and maintained, heralding a future of smarter, faster, and more creative innovation.
 
 ##### Examples:
-- [[concepts/Explainers for Tooling/Text Editors or IDEs|IDEs]] include [[Cursor]], [[Windsurf IDE]], [[Trae AI]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bloop.ai]], [[Zed]], [[Pear IDE]], [[CodeLLM]]
+- [[concepts/Explainers for Tooling/Text Editors or IDEs|IDEs]] include [[Cursor]], [[Windsurf IDE]], [[Trae AI]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bloop AI|Bloop AI]], [[Zed]], [[Pear IDE]], [[CodeLLM]]
 	- [[Melty]] is just a [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editor]], but has strong reviews.
 - [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulators]] include [[Warp]] and [[Aider]]
 - [[concepts/Opsless Deployment Providers]] include [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bolt.new|Bolt.new]], [[v0]], [[Lovable]], [[Replit]], [[Hostinger]] and [[ScrBook]]

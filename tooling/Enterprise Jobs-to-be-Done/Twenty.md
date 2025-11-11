@@ -7,7 +7,7 @@ favicon: "https://framerusercontent.com/images/jFBfPDVaJx9kQOwGT4WiIwZCos.png"
 jina_last_request: "'2025-03-09T06:45:14.644Z'"
 jina_error: '''Error occurred'''
 og_last_fetch: '2025-04-23T23:31:15.118Z'
-date_modified: 2025-09-14
+date_modified: 2025-10-22
 date_created: 2025-03-30
 url: "https://twenty.com/"
 og_image: "https://framerusercontent.com/assets/44L5tf46iK9v7QZCaZmwDNNw6Ts.png"
@@ -15,8 +15,9 @@ og_url: "https://twenty.com/"
 description: "Packed with advanced features, customizable workflows, supported by a large community. Transform customer relationship management seamlessly and efficiently."
 ---
 
-[[Twenty]] is a [[concepts/State of the Art]] [[CRM]], and it is [[Open Source]]
+[[Twenty]] is a [[concepts/State of the Art|State of the Art]] [[CRM]], and it is [[Open Source]]
 
+https://storybook.twenty.com/
 ##### [[Twenty]] is an [[Open Source]] [[CRM|Customer Relationship Management]] system.
 
 ##### Twenty has a Data Model Visualization:

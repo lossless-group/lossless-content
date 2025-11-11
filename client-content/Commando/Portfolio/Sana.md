@@ -8,4 +8,4 @@ og_image: "https://sanalabs.com/img/social/social-home.jpg"
 og_favicon: "https://sanalabs.com/img/favico.svg"
 og_last_fetch: "2025-09-17T17:59:08.828Z"
 ---
-[[Learning Management Systems]]
+[[concepts/Explainers for Tooling/Learning Management Systems]]

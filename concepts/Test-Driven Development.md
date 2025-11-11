@@ -183,7 +183,7 @@ The [[React]] and [[JavaScript]] ecosystem offers rich testing tools for various
     - Features:
         - Snapshot testing for UI.
         - Visual diffing tools.
-2. **[[Percy]]**:
+2. **[[Tooling/AI-Toolkit/Generative AI/Code Generators/Percy]]**:
     
     - A visual testing platform that integrates with CI/CD pipelines.
     - Features:

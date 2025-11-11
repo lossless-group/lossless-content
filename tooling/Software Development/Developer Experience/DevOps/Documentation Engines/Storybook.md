@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-23
-date_modified: 2025-08-25
+date_modified: 2025-10-22
 url: https://storybook.js.org/
 og_title: Frontend workshop for UI development
 og_description: Storybook is a frontend workshop for building UI components and pages in isolation. Thousands of teams use it for UI development, testing, and documentation. It's open source and free.
@@ -14,3 +14,7 @@ slug: storybook
 at_semantic_version: 0.0.0.1
 ---
 [[concepts/Design to Engineering Handoff|Design to Engineering Handoff]]
+
+https://storybook.twenty.com/
+
+

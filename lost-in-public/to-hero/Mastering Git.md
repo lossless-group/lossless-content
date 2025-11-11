@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-10-14
+date_modified: 2025-10-26
 site_uuid: dc99c733-0a2e-4261-93a6-146650d3f664
 publish: true
 title: "Mastering Git"
@@ -8,143 +8,44 @@ slug: mastering-git
 at_semantic_version: 0.0.1.1
 ---
 
+Git is deceptively simple on the surface—clone, add, commit, push—until you need to undo something, investigate history, or handle large files. Then the real learning begins. This guide collects hard-won lessons from real-world Git use, organized not as a reference manual, but as a journey through progressively complex scenarios you'll actually encounter.
+
+## Setting Up Your Foundation
+
+Before diving into complex operations, let's establish a clean workspace. One of the first lessons every developer learns: system files like `.DS_Store` (macOS) or `.Thumbs.db` (Windows) don't belong in version control.
+
+Rather than adding these to every project's `.gitignore`, set up a global ignore file:
+
 ```bash
 echo ".DS_Store" >> ~/.gitignore_global
-
-# Tell Git to use this file 
 git config --global core.excludesfile ~/.gitignore_global
 ```
 
-The command `git config --global core.excludesfile ~/.gitignore_global` sets up a global Git ignore file that will apply to all your Git repositories on your machine. Let me break down what this does:
+This tells Git to ignore patterns in `~/.gitignore_global` across *all* your repositories. You'll thank yourself later when you never accidentally commit editor configurations, OS artifacts, or IDE settings to shared repositories. It keeps your project-specific `.gitignore` files focused on actual project concerns.
 
-1. `git config --global` - This tells Git you want to make a change to your global Git configuration, which affects all repositories on your system.
-    
-2. `core.excludesfile` - This is the Git configuration setting that specifies a file containing patterns of files that Git should ignore across all repositories.
-    
-3. `~/.gitignore_global` - This is the path to the global ignore file. The `~` represents your home directory.
-    
+## Understanding What Changed
 
-When you run this command, you're telling Git: "For all repositories on this computer, also ignore any files that match patterns listed in the `~/.gitignore_global` file."
+The story of mastering Git often begins with a simple question: "What did I just commit?" Or worse: "What did *they* just commit?"
 
-This is particularly useful for ignoring system-specific files like `.DS_Store` (macOS), `.Thumbs.db` (Windows), or editor-specific files like `.vscode/` or `.idea/` that you never want to commit to any repository.
+### Inspecting Recent History
 
-The benefit of using a global ignore file is that:
-
-1. You don't need to add these patterns to each repository's individual `.gitignore` file
-2. You don't risk accidentally committing these files if you forget to add them to a project's `.gitignore`
-3. It keeps your project-specific `.gitignore` files focused on project-related patterns
-
-In your case, since you've already added `.DS_Store` to this global file, Git will now ignore all `.DS_Store` files in all your repositories automatically, without you having to add this pattern to each repository's individual `.gitignore` file.
-
-Feedback submitted
+To see what files changed in your last commit:
 
 ```bash
 git log -1 --stat
 ```
 
+To see the actual content differences:
+
 ```bash
 git log -1 --patch
 ```
 
-Generating...
+These commands become muscle memory once you realize how often you need to verify commits before pushing.
 
-```bash
-brew install git-filter-repo
-```
+### Comparing Branches
 
-```bash
-git filter-branch --index-filter 'git rm --cached --ignore-unmatch {{file_path}}' {{commit_hash}}^..{{commit_hash}}
-```
-
-```bash
-git rm --cached "lost-in-public/to-hero/Warp-Objects/Model API Keys.env"
-```
-
-```bash
-git commit --amend -CHEAD
-```
-
-```bash
-git push --force-with-lease origin development
-```
-
-
-```bash
-git filter-branch --index-filter 'git rm --cached --ignore-unmatch {{lost-in-public/to-hero/Warp-Objects/Model API Keys.env}}' {{d68603c4d554cd397fd4db64e6c2a875fb33bc0f}}^..{{d68603c4d554cd397fd4db64e6c2a875fb33bc0f}}
-```
-
-```
-WARNING: git-filter-branch has a glut of gotchas generating mangled history
-	 rewrites.  Hit Ctrl-C before proceeding to abort, then use an
-	 alternative filtering tool such as 'git filter-repo'
-	 (https://github.com/newren/git-filter-repo/) instead.  See the
-	 filter-branch manual page for more details; to squelch this warning,
-	 set FILTER_BRANCH_SQUELCH_WARNING=1.
-Proceeding with filter-branch...
-```
-
-```
-# First, install git-filter-repo if you haven't already
-brew install git-filter-repo
-
-# Then run the command to remove the sensitive file
-git filter-repo --invert-paths --path 'lost-in-public/to-hero/Warp-Objects/Model API Keys.env' --refs d68603c4d554cd397fd4db64e6c2a875fb33bc0f^..d68603c4d554cd397fd4db64e6c2a875fb33bc0f
-```
-
-```bash
-git rm -rf --cached temp_old_repo
-```
-
-```bash
- git rm --cached -r packages
-```
-
-Need to put your current code at the HEAD of another branch? 
-
-```bash
-git switch -C development
-```
-
-If you have staged changes with `git add` but have not commited, and want to reverse:
-```bash
-git reset
-```
-
-```bash
-git checkout master
-git merge -X theirs --squash development
-git commit -m "feat(content): comprehensive update from development branch"
-```
-
-If you want to patch your last commit with no edit to last message
-```bash
-git commit --amend --no-edit
-```
-
-If you already pushed, you need to override the remote commit with a new commit hash:
-```bash
-git push --force-with-lease origin development
-```
-
-```bash
-git show --name-only 751a182
-```
-
-```bash
-git -C /Users/mpstaton/code/lossless-monorepo/site log -n 3 --pretty=format:"%h - %s (%cr)" development
-```
-
-```bash
-git diff --name-only
-```
-
-```bash
-git show
-```
-
-```bash
-git submodule update --remote
-```
+When working across branches, especially before merging, you need visibility into differences. Here's a powerful trio of commands:
 
 ```bash
 git diff master..development -- .
@@ -152,119 +53,306 @@ git diff --stat development..origin/master
 git log --graph --oneline --decorate development origin/master
 ```
 
+The `--stat` flag gives you a bird's-eye view of which files changed, while the `--graph` visualization shows the commit topology—essential for understanding divergent histories.
+
 `git log --graph --oneline --decorate development origin/master` produces the following:
 ![](https://i.imgur.com/l59Ng3S.png)
 
 `git diff --stat development..origin/master` produces the following:
 ![](https://i.imgur.com/YpgDMoH.png)
 
-```bash
-git --no-pager branch -a
-git rev-parse --is-inside-worktree
-git fetch [site|content] 
-```
+### Quick Status Checks
+
+Sometimes you just need quick answers:
 
 ```bash
+git diff --name-only              # List modified files
+git show                          # Show latest commit
+git show --name-only 751a182      # Show specific commit's files
+```
+
+## When Things Go Wrong: Undoing and Fixing
+
+The real test of Git knowledge is knowing how to undo mistakes. Here's where most developers level up.
+
+### Unstaging Changes
+
+Staged something you didn't mean to?
+
+```bash
+git reset
+```
+
+This unstages everything while keeping your changes intact—a lifesaver when you've reflexively run `git add .` without thinking.
+
+### Removing Files from the Index
+
+Need to untrack files without deleting them?
+
+```bash
+git rm --cached "path/to/file"         # Single file
+git rm --cached -r packages            # Entire directory
+git rm -rf --cached temp_old_repo      # Force recursive removal
+```
+
+The `--cached` flag means "remove from Git's tracking, but leave my working files alone."
+
+### Amending Commits
+
+Forgot to include a file in your last commit? Made a typo in the commit message?
+
+```bash
+git commit --amend --no-edit     # Amend without changing message
+```
+
+If you've already pushed, you'll need to rewrite remote history (use with caution):
+
+```bash
+git push --force-with-lease origin development
+```
+
+The `--force-with-lease` is safer than `--force` because it fails if someone else has pushed to the branch since your last fetch.
+
+## Crisis Management: Removing Sensitive Files
+
+Eventually, everyone commits something they shouldn't have—API keys, credentials, private data. This is where things get serious.
+
+### The Wrong Way
+
+Git's built-in `filter-branch` command works, but comes with a scary warning:
+
+```bash
+git filter-branch --index-filter 'git rm --cached --ignore-unmatch path/to/secret' COMMIT^..COMMIT
+```
+
+You'll see:
+```
+WARNING: git-filter-branch has a glut of gotchas generating mangled history
+         rewrites. Hit Ctrl-C before proceeding to abort, then use an
+         alternative filtering tool such as 'git filter-repo'
+```
+
+### The Right Way
+
+Listen to Git's advice. Use `git filter-repo` instead:
+
+```bash
+brew install git-filter-repo
+
+git filter-repo --invert-paths --path 'path/to/secret.env'
+```
+
+This tool is faster, safer, and designed specifically for rewriting history. After removing secrets from history, remember: if you already pushed, **the secret is compromised**. Rotate those credentials immediately.
+
+## Branch Gymnastics
+
+Git's branching model is powerful, but sometimes you need to move changes around in non-obvious ways.
+
+### Moving Your Work to Another Branch
+
+Realized you're on the wrong branch?
+
+```bash
+git switch -C development
+```
+
+The `-C` flag creates the branch if it doesn't exist, or resets it to your current HEAD if it does—essentially moving your current work to that branch name.
+
+### Squash Merging with Conflict Resolution
+
+When merging a feature branch into master, you might want to squash everything and prefer the feature branch's version during conflicts:
+
+```bash
+git checkout master
+git merge -X theirs --squash development
+git commit -m "feat(content): comprehensive update from development branch"
+```
+
+The `-X theirs` strategy says "when there's a conflict, use the version from the branch being merged in." The `--squash` creates a single commit instead of preserving the entire feature branch history.
+
+## Working with Temporary Changes: Git Stash
+
+Stashing is Git's way of letting you save work-in-progress without committing. Think of it as a clipboard for code changes.
+
+### Basic Stashing
+
+```bash
+git stash save "WIP: working on feature X"    # Save with description
+git stash list                                 # See all stashes
+git stash show stash@{n}                       # Summary of changes
+git stash show -p stash@{n}                    # Full diff
+```
+
+### Retrieving Stashed Work
+
+```bash
+git stash apply stash@{n}     # Apply without removing from stash
+git stash pop stash@{n}       # Apply and remove from stash
+git stash branch new-branch-name stash@{n}  # Create branch from stash
+```
+
+### Cleanup
+
+```bash
+git stash clear               # Remove all stashes (careful!)
+```
+
+The `branch` option is particularly useful when a stash has conflicts with your current branch—it creates a new branch from the commit where you created the stash, then applies the stashed changes there.
+
+## Managing Large Files: Git LFS
+
+Traditional Git struggles with large binary files. Every version of every large file lives in your repository's history, bloating clone times and disk usage. Git LFS (Large File Storage) solves this by storing pointers in your repository while keeping actual file contents on a separate server.
+
+### When to Use Git LFS
+
+Git LFS shines for:
+- Binary files (`.psd`, `.zip`, `.dll`)
+- Media files (images, audio, video)
+- Large datasets
+- Game assets
+- Database dumps
+
+### Setting Up LFS
+
+```bash
+git lfs install                  # One-time setup
+git lfs track "*.psd"            # Track file patterns
+git lfs ls-files                 # Show tracked files
+git lfs pull                     # Download LFS files for current commit
+git lfs push                     # Upload LFS files to remote
+```
+
+### Migrating Existing Files
+
+Already have large files in your history?
+
+```bash
+git lfs migrate import --include="*.png" --everything
+```
+
+This rewrites history to move existing files into LFS. After migration, you'll need to clean the cache:
+
+```bash
+git filter-branch --force --index-filter \
+  'git rm --cached --ignore-unmatch -r visuals/Screenshots/' \
+  --prune-empty --tag-name-filter cat -- --all
+```
+
+## Advanced: Working with Submodules
+
+Submodules let you include one Git repository inside another—perfect for shared libraries, themes, or when you need precise version control over dependencies.
+
+### Fresh Clone Setup
+
+When cloning a repository with submodules:
+
+```bash
+git clone <parent-repo>
+git submodule update --init --recursive
+```
+
+### Updating Submodules
+
+To pull the latest changes from submodule remotes:
+
+```bash
+git submodule update --remote
 git fetch --all --recurse-submodules=yes
 git submodule update --init --recursive --remote --force
 ```
 
-## When Images crash your Site
+### Making Changes to Submodules
 
-I added `visuals/Screenshots` to `.gitignore`
-```zsh
-git lfs migrate import --include="*.png" --everything
+Here's the workflow that trips up most people—you need to commit in *two* places:
 
-migrate: Sorting commits: ..., done.                                                                      
-migrate: Rewriting commits: 100% (282/282), done.                                                         
-  backup/20250607       2fee863d05f7ce225a8db7719526f78c5c48b934 -> c0cc50aebbc9cd019b2e08701992737dbc9afdde
-  dev-squash            47aa6ed8d994ce664ae5ae5ca6ead8042d155fd6 -> 9aa6a2f82a6976591b9e8c0ed4165881cb240ef3
-  dev-squash-tmp        aa02bd24993d9ba86d167f3f90a5ca2237a7bc63 -> 3e74adf4b97c7a64c1ec076a7013ab10e58a9e57
-  development           6140c39ad667a67bd4543848496a23027a73d66b -> 2b8eda0fba9907fb8607db890ee0e2c7fa0b8770
-  master                746551349161a41f64108221232df0b06f44f2f7 -> 82f181f5a60a65bbc772cb76b101b29b606d6120
-  merge-temp            c2c3627182a07f6e609e6f52527cd4753f21ab01 -> 9007cf441e58507866d3249ac5f4bac772650638
-  save-b725101          4a46493d2c9c3ecf6bedf1ef247224fa19ed6fa5 -> 7f28274a9ef4f9ebe7070f350c12fa0e3352f3f3
-  save/20250715         5749c69674a9ebb3c6aa147e0df21d6f6e1125cb -> 24ff5436f12edebeb3dd39283bef55cc03b118dd
-  squash-temp           eefe9340a52ec52aa88a54b18ee7386cff39dab6 -> b9b2b2af8db6a8204bb03203f9d401dcad9a1579
-  temp-branch           5a46520cbec7633a36cdb54f4e919028828f825c -> c280c967b25922eb67dd7d291b7836fea02112c5
-  temp-clean-branch     a4654bf52143c8d079c4e1eb66ce57a944fcf5d1 -> 34d0cc0346df43edc10bf9762baf7e261fd2d0ec
-migrate: Updating refs: ..., done.                                                                        
-migrate: checkout: ..., done.  
+**Inside the submodule:**
+```bash
+cd sites/cogs-site
+# Make your edits
+git add .
+git commit -m "Your change"
+git push origin main
 ```
 
-
-Then to remove the cache
-```zsh
-git filter-branch --force --index-filter 'git rm --cached --ignore-unmatch -r visuals/Screenshots/' --
-prune-empty --tag-name-filter cat -- --all
+**In the parent repository:**
+```bash
+cd ../..
+git add sites/cogs-site
+git commit -m "Bump cogs-site submodule to new commit"
+git push
 ```
 
-# Starting from a Clone
-```zsh
+The parent repository stores a pointer to a specific commit in the submodule. When you update the submodule, you must also update this pointer.
+
+### Updating to Latest
+
+```bash
+cd sites/cogs-site
+git checkout main
+git pull origin main
+cd ../..
+git add sites/cogs-site
+git commit -m "Update cogs-site pointer to latest main"
+git push
+```
+
+### Pinning to a Specific Version
+
+```bash
+cd sites/cogs-site
+git fetch --tags
+git checkout <tag-or-commit>
+cd ../..
+git add sites/cogs-site
+git commit -m "Pin cogs-site to <version>"
+git push
+```
+
+### Optional: Branch Tracking
+
+Tell the parent repository which branch to track:
+
+```bash
+git config -f .gitmodules submodule.sites/cogs-site.branch main
+git add .gitmodules
+git commit -m "Track main for cogs-site"
+```
+
+### Common Pitfalls
+
+- **Detached HEAD**: If you see this inside a submodule, run `git checkout main` before pulling
+- **Forgetting the two-step commit**: Changes in the submodule won't appear in the parent until you commit the pointer update
+- **Verification**: Always run `git status` in the parent to confirm the pointer changed
+
+## Working with Remotes
+
+### Renaming Remotes
+
+When you fork a repository, you often want to rename `origin` to `upstream`:
+
+```bash
 git remote rename origin upstream
 ```
 
-# Git LFS
-Git LFS (Large File Storage) is a Git extension that helps manage large files in your Git repositories. Here's a quick overview:
-
-### What Git LFS Does:
-
-1. **Handles Large Files**: Git isn't efficient with large files (like binaries, datasets, media files). LFS stores these files on a separate server while keeping only pointers in your Git repository.
-    
-2. **How It Works**:
-    
-    - When you add a large file, Git LFS replaces it with a small text pointer file.
-    - The actual file content is stored in the LFS store.
-    - When you clone or checkout, Git LFS downloads the correct version of the large file based on the pointer.
-3. **Common Uses**:
-    
-    - Binary files (like .psd, .zip, .dll)
-    - Media files (images, audio, video)
-    - Large datasets
-    - Game assets
-    - Database dumps
-```bash
-git lfs install           # Set up Git LFS in your repository
-git lfs track "*.psd"     # Start tracking a file type
-git lfs ls-files          # Show currently tracked files
-git lfs pull              # Download LFS files for current commit
-git lfs push              # Upload LFS files to remote
-```
-
-# Git Stash
-```zsh
-git stash list
-```
-
-```zsh
-git stash show -p stash@{n}  # Replace n with stash number
-```
-
-```zsh
-git stash show stash@{n}  # Shows file changes
-```
-
-```zsh
-git stash apply stash@{n}
-```
-
-```zsh
-git stash pop stash@{n}
-```
-
-```zsh
-git stash branch new-branch-name stash@{n}
-```
-
-```zsh
-git stash clear
-```
-
-```zsh
-git stash save "WIP: working on feature X"
-```
+### Checking Repository Status
 
 ```bash
-git ls-tree -r temp/path-aliases-attempt assistant-context --name-only
+git --no-pager branch -a                # List all branches without pager
+git rev-parse --is-inside-worktree      # Verify you're in a Git repo
 ```
 
+### Custom Log Formatting
+
+For a concise history view from a specific directory:
+
+```bash
+git -C /path/to/repo log -n 3 --pretty=format:"%h - %s (%cr)" development
+```
+
+This shows the last 3 commits on the development branch with abbreviated hash, subject, and relative date.
+
+## Closing Thoughts
+
+Mastering Git isn't about memorizing every flag and option. It's about building mental models for how Git stores history, understanding the difference between the working directory, the staging area, and the repository, and knowing which tools to reach for when things go wrong.
+
+The commands in this guide represent real scenarios: secrets that needed purging, large files that crashed deployment pipelines, submodules that fell out of sync, and countless "what did I just do?" moments. Keep this guide handy. You'll need it.

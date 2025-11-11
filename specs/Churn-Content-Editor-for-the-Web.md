@@ -12,7 +12,7 @@ status: Idea
 augmented_with: "Claude Sonnet 4 on Warp"
 category: Open-Ideas
 date_created: 2025-05-10
-date_modified: 2025-08-28
+date_modified: 2025-10-26
 authors:
   - Michael Staton
 image_prompt: "A closeup view of a monitor, a laptop, and a mobile device. The laptop has a text editor, it looks like a markdown editor, a simple version of a document editor.  There is some text there, headers, etc. On the monitor and on the mobile the same text is rendered as a beautiful web page.  There are connecting lines from the laptop to the monitor and the phone"
@@ -24,7 +24,7 @@ portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Churn-Co
 square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Churn-Content-Editor-for-the-Web_square_image_1755407985588_4cGNIBQR8.webp"
 ---
 
-Why are we still using complex file formats?  [[Vocabulary/AI Models|AI Models]] and [[concepts/Explainers for AI/Code Generators|Code Generators]] all speak [[projects/Emergent-Innovation/Standards/Markdown|Markdown]], [[Tooling/Software Development/Programming Languages/HTML|HTML]], [[Tooling/Software Development/Programming Languages/CSS|CSS]], even [[Vocabulary/Scalable Vector Graphics]]. 
+Why are we still using complex file formats?  [[Vocabulary/AI Models|AI Models]] and [[concepts/Explainers for AI/Code Generators|Code Generators]] all speak [[projects/Emergent-Innovation/Standards/Markdown|Markdown]], [[Tooling/Software Development/Programming Languages/HTML|HTML]], [[Tooling/Software Development/Programming Languages/CSS|CSS]], even [[Vocabulary/Scalable Vector Graphics|Scalable Vector Graphics]]. 
 
 We can use [[Tooling/Software Development/Programming Languages/HTML|HTML]] and [[Tooling/Software Development/Programming Languages/CSS|CSS]] for layout design.  We don't need [[organizations/Adobe|Adobe]] or [[Tooling/Creative/Affinity|Affinity]]. We need to make it a [[Vocabulary/Responsive Design|Responsive Design]] and publish it to the web anyway.  Emails and reports, fine okay. 
 
@@ -32,7 +32,7 @@ Markdown editors are growing like crazy: [[Tooling/Productivity/Advanced Documen
 
 Open source text editors like [[Tooling/Software Development/Developer Experience/Helix|Helix]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Zed|Zed]].
 
-Open source version control systems like [[Tooling/Products/Git|Git]], [[Tooling/Software Development/Developer Experience/DevOps/Gitoxide]], [[Tooling/Software Development/Developer Experience/DevOps/Jujutsu|Jujutsu]].
+Open source version control systems like [[Tooling/Products/Git|Git]], [[Tooling/Software Development/Developer Experience/DevOps/Gitoxide|Gitoxide]], [[Tooling/Software Development/Developer Experience/DevOps/Jujutsu|Jujutsu]].
 
 We have open standards like [[projects/Emergent-Innovation/Standards/WebGL|WebGL]], and [[Vocabulary/WebGPU|WebGPU]], 
 
@@ -53,6 +53,8 @@ Build once play anywhere [[Vocabulary/Cross-Platform Applications|Cross-Platform
 Private notes
 Variants
 Versions
+Variables: `Clone parent: git clone <parent-repo>`
+Components
 
 ### Header syntactial mods for subheaders and subtitles
 In markdown there are by default 6 levels of headers.  However, if you want to render a subheader or subtitle you can use syntax to render the remaining text in as a subheading, subtitle, or lede.  For example, 
