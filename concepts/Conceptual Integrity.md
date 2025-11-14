@@ -4,7 +4,7 @@ date_created: 2025-04-18
 date_modified: 2025-04-24
 ---
 
-Related to [[Software Development]], [[Vocabulary/Agile Software Development]], [[Software Design Patterns]]
+Related to [[Software Development]], [[Vocabulary/Agile Software Development]], [[concepts/Software Design Patterns]]
 
 > [!NOTE] [[organizations/Perplexity AI]] explains: 
 > 

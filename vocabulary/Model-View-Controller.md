@@ -21,7 +21,7 @@ tags: [Developer-Patterns]
 
 ## Introduction
 
-Model-View-Controller (MVC) is a fundamental architectural design pattern ([[concepts/Programming Paradigms|Programming Paradigms]], [[Software Design Patterns]]) that revolutionized how developers organize and structure software applications by separating concerns into three distinct, interconnected components. [^4v88gt] [^qu960i] This pattern, which originated in the 1970s for building [[graphical user interfaces]], has become the backbone of modern web development and [[Vocabulary/Object-Oriented Programming|Object-Oriented Programming]], providing a systematic approach to managing complex applications while promoting code reusability and maintainability. [^ht52r1]
+Model-View-Controller (MVC) is a fundamental architectural design pattern ([[concepts/Programming Paradigms|Programming Paradigms]], [[concepts/Software Design Patterns]]) that revolutionized how developers organize and structure software applications by separating concerns into three distinct, interconnected components. [^4v88gt] [^qu960i] This pattern, which originated in the 1970s for building [[graphical user interfaces]], has become the backbone of modern web development and [[Vocabulary/Object-Oriented Programming|Object-Oriented Programming]], providing a systematic approach to managing complex applications while promoting code reusability and maintainability. [^ht52r1]
 
 ![Model-View-Controller concept diagram or illustration](https://www.spaceotechnologies.com/wp-content/uploads/2023/04/What-is-a-Model-View-Controller.png)
 
