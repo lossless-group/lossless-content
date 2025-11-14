@@ -7,7 +7,7 @@ title: "Channel Fragmentation"
 slug: channel-fragmentation
 at_semantic_version: 0.0.0.1
 ---
-[[Whatsapp]]
+[[organizations/WhatsApp]]
 [[organizations/Facebook|Facebook]]
 [[organizations/LinkedIn|LinkedIn]]
 

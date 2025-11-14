@@ -1,6 +1,12 @@
 ---
 date_created: 2025-08-10
-date_modified: 2025-08-12
+date_modified: 2025-11-12
+site_uuid: f3f646af-3deb-46a4-aeef-eb6b058ce422
+publish: true
+title: Typescript Nuances
+slug: typescript-nuances
+at_semantic_version: 0.0.0.1
+lede: TypeScript is a pain, but powerful if strictly followed.
 ---
 A Partial makes everything optional.
 

@@ -21,7 +21,7 @@ banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Build-Script-Spec_21af46f2-dd20-45e5-86da-c0815542f01e_e1OL2d6mN.webp
 site_uuid: 8b6dc7b4-da54-4cfb-b9e2-36bd5ad0ac87
 ---
-[[Whatsapp]]
+[[organizations/WhatsApp]]
 [[concepts/Channel Fragmentation|Channel Fragmentation]]
 [[concepts/Omnichannel Marketing|Omnichannel Marketing]]
 

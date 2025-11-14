@@ -34,7 +34,7 @@ For example, when Amazon launched, its MVP was a simple platform for selling boo
 
 ### Practical Examples and Applications
 
-MVPs are not limited to tech giants. Consider [[Dropbox]], which initially tested its concept with a simple video demonstration, gauging user interest before building the full product. Similarly, [[AirBnB]] began by renting out air mattresses in their own apartment to assess if people were willing to pay for peer-to-peer lodging. [^fx9efa] These examples illustrate how the MVP approach is fundamental in refining business models, attracting investors, and understanding user needs in diverse industries.
+MVPs are not limited to tech giants. Consider [[Tooling/Enterprise Jobs-to-be-Done/Dropbox]], which initially tested its concept with a simple video demonstration, gauging user interest before building the full product. Similarly, [[AirBnB]] began by renting out air mattresses in their own apartment to assess if people were willing to pay for peer-to-peer lodging. [^fx9efa] These examples illustrate how the MVP approach is fundamental in refining business models, attracting investors, and understanding user needs in diverse industries.
 
 ### Benefits
 

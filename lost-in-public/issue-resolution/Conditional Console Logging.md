@@ -9,15 +9,12 @@ at_semantic_version: 0.0.0.5
 status: "Resolved"
 augmented_with: "Windsurf Cascade on GPT 4.1"
 category: "Debugging-Patterns"
-tags:
-  - Debugging
-  - DRY-Principles
-  - Best-Practices
+tags: [Debugging, DRY-Principles, Best-Practices]
 site_uuid: "a8b21dcb-86c1-435b-b40e-46efbae04886"
-date_created: "2025-04-18"
-date_modified: "2025-04-23"
+date_created: 2025-04-18
+date_modified: 2025-11-11
 authors:
-  - "Michael Staton"
+  - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Conditional-Console-Logging_2a59ff0e-842b-461d-b672-738456c868cf_3g4tbgvO_.webp
 image_prompt: "A developer toggling console log switches on a dashboard, with code streams lighting up or dimming in response, symbolizing fine-grained control over debugging output."
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_banner_image_Conditional-Console-Logging_820ef5ab-4655-4e47-a653-c4316c5e6af9_mEWHEMNa7.webp

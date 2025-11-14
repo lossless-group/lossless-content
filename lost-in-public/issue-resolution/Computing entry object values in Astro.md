@@ -9,13 +9,10 @@ status: "Resolved"
 affected_systems: Content-Rendering
 augmented_with: "Windsurf Cascade on GPT 4.1"
 category: "Content-Collections"
-tags:
-  - Astro
-  - Content-Collections
-  - Data-Validation
+tags: [Astro, Content-Collections, Data-Validation]
 site_uuid: 51aa9c01-1f74-4894-8f6f-74ea83492323
 date_created: 2025-04-12
-date_modified: 2025-04-23
+date_modified: 2025-11-11
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Computing-entry-object-values-in-Astro_325d5621-cfca-46de-94be-9dc6de578f8d_xsOMlWICc.webp

@@ -1,7 +1,5 @@
 ---
-tags:
-  - Collaboration-Tools
-  - Version-Control
+tags: [Collaboration-Tools, Version-Control]
 date_created: 2025-11-10
 date_modified: 2025-11-11
 og_favicon: https://ik.imagekit.io/xvpgfijuw/lossless-content-embeds/appIcon__GitLab--Brand.svg?updatedAt=1762878260575

@@ -19,6 +19,6 @@ authors:
 publish: false
 ---
 
-[[organizations/X|Twitter]], [[organizations/Facebook|Facebook]], [[organizations/Amazon|Amazon]], [[organizations/Reddit|Reddit]], [[Whatsapp]]
+[[organizations/X|Twitter]], [[organizations/Facebook|Facebook]], [[organizations/Amazon|Amazon]], [[organizations/Reddit|Reddit]], [[organizations/WhatsApp]]
 
 [[Sources/People/Aaron Swartz]]

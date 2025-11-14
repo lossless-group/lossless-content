@@ -1,23 +1,29 @@
 ---
-title: Render AST in Debug
-lede: Exploration of AST structure at each stage of markdown processing to understand how to handle callouts
+title: "Render AST in Debug"
+lede: "Exploration of AST structure at each stage of markdown processing to understand how to handle callouts"
 date_authored_initial_draft: 2025-04-02
 date_authored_current_draft: 2025-04-02
 date_authored_final_draft: 2025-04-20
-date_first_published:
-date_last_updated:
+date_first_published: "[]"
+date_last_updated: "[]"
 at_semantic_version: 0.0.0.1
 authors:
   - Michael Staton
 status: In-Progress
-augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
+augmented_with: "Windsurf Cascade on Claude 3.5 Sonnet"
 category: Explorations
 tags: [Remark, Astro, AST, Debug]
 date_created: 2025-04-02
-date_modified: 2025-08-24
+date_modified: 2025-11-11
 site_uuid: 585d8526-ab18-4f94-a626-e2a2f7c2d7e2
 publish: true
+image_prompt: "A robot orchestra conductor in a suit is commanding a swarm of different bugs, that are climbing up trees that are growing all different directions.  Each tree has the acronym AST carved into its trunks.  At the top of the image, there is a banner that states `Abstract Syntax Trees.`"
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Render-AST-in-Debug_banner_image_1762886868851_rxAw_SLVd.webp"
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Render-AST-in-Debug_portrait_image_1762886869756_Q5Rh0XBLb.webp"
+square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Render-AST-in-Debug_square_image_1762886870895_m1__iH0II.webp"
 ---
+
+
 
 # Objective
 

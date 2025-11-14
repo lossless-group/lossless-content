@@ -9,13 +9,10 @@ status: Implemented
 augmented_with: Windsurf Cascade on GPT 4.1
 category: Frontmatter-Automation
 affected_systems: Content-Collections
-tags:
-  - Content-Automation
-  - Frontmatter-Automation
-  - Data-Integrity
+tags: [Content-Automation, Frontmatter-Automation, Data-Integrity]
 site_uuid: 39b576cc-43ef-4542-8a11-c4cdeea23870
 date_created: 2025-04-21
-date_modified: 2025-04-21
+date_modified: 2025-11-11
 authors:
   - Michael Staton
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/issue-resolutions/2025-05-05_portrait_image_Broken-YAML-Key-Replacement-Workflow_d6e750af-63bc-447f-86b6-17a9c6ff5846_jx3E7-t3V.webp

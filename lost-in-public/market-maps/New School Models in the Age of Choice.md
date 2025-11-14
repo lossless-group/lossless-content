@@ -1,6 +1,6 @@
 ---
 date_created: 2025-09-25
-date_modified: 2025-10-21
+date_modified: 2025-11-13
 title: New School Models in the Age of Choice
 lede: Technology and regulatory openings in the United States are creating an Avalanche of change in the model of school
 date_authored_initial_draft: 2025-09-25
@@ -308,6 +308,8 @@ The evidence presented in this analysis suggests that the future of education li
 [^lyjjl4]: [Prenda - Microschools Made Easy](https://www.prenda.com).
 
 [^vkj74i]: [Learning Pods for Online Learners and ... - KaiPod Learning](https://pods.kaipodlearning.com).
+
+[^n2ecv4]: 2014, Oct. "[The lifetime learner | Deloitte Insights](https://www.deloitte.com/us/en/insights/industry/government-public-sector-services/future-of-online-learning.html)". changing demand as the learning needs and preferences of the individual consumer rapidly evolve. Increasingly. [Deloitte Insights](https://www.deloitte.com).
 
 [22]: 2025, Sep 25. [Intelligent educational systems based on adaptive learning ...](https://pmc.ncbi.nlm.nih.gov/articles/PMC12453766/). Published: 2025-09-03 | Updated: 2025-09-25
 
