@@ -16,12 +16,15 @@ tags: [Content-Automation, Product-Tracking, Release-Monitoring, API-Integration
 authors:
   - Michael Staton
   - Andrea Capera
-image_prompt: "A robotic sentinel watching multiple screens displaying product logos, release notes, and changelog updates, automatically cataloging announcements into organized content files. The visual emphasizes automation, vigilance, and systematic organization."
-banner_image: "[]"
-portrait_image: "[]"
+image_prompt: "A robotic sentinel watching multiple screens displaying product logos, release notes, and changelog updates, automatically cataloging announcements into organized content files. The robot is at a desk, and the desk has many file cabinets around him.  There is a lot of filing going on. The visual emphasizes automation, vigilance, and systematic organization."
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Self-Updating-Product-Announcement-Watcher_banner_image_1763226142714_-imWVTBJvO.webp"
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Self-Updating-Product-Announcement-Watcher_portrait_image_1763226143795_iCG7hoS_I.webp"
 site_uuid: 0b88ebcd-67c4-40b3-99b0-2ba0eb05d994
 publish: true
+square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Self-Updating-Product-Announcement-Watcher_square_image_1763226144991_vx4r6caSk.webp"
 ---
+
+
 
 # Self-Updating Product Announcement Watcher
 
