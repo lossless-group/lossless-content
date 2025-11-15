@@ -1,11 +1,12 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-10-26
+date_modified: 2025-11-14
 site_uuid: dc99c733-0a2e-4261-93a6-146650d3f664
 publish: true
-title: "Mastering Git"
+title: Mastering Git
 slug: mastering-git
 at_semantic_version: 0.0.1.1
+og_favicon: https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg
 ---
 
 Git is deceptively simple on the surface—clone, add, commit, push—until you need to undo something, investigate history, or handle large files. Then the real learning begins. This guide collects hard-won lessons from real-world Git use, organized not as a reference manual, but as a journey through progressively complex scenarios you'll actually encounter.

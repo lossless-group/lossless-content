@@ -9,7 +9,7 @@ jina_last_request: 2025-03-09T06:45:22.047Z
 jina_error: Error occurred
 parent_org: "[[organizations/ByteDance|ByteDance]]"
 og_last_fetch: 2025-10-21T21:00:52.789Z
-date_modified: 2025-10-21
+date_modified: 2025-11-15
 date_created: 2025-03-31
 tags: [AI-Toolkit, Generative-AI, Code-Generators]
 og_title: Collaborate with Intelligence
@@ -35,5 +35,7 @@ Similar to [[Cursor]], [[Windsurf IDE]].
 
 https://youtu.be/hqJDKTqCESE?si=Hy4_0sjVUOUMCljT
 
-[[organizations/ByteDance]]
+[[organizations/ByteDance|ByteDance]]
+
+![Trae launches SOLO mode, a GIF of their product demo](https://ik.imagekit.io/xvpgfijuw/lossless-content-embeds/2025-11-15_Trae-Solo-Launch--Bigger.gif?updatedAt=1763205364157)
 

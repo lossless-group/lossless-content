@@ -1,9 +1,5 @@
 ---
-aliases:
-  - Software Design Patterns
-  - Design Patterns
-  - Design Pattern
-  - Software Design Pattern
+aliases: [Software Design Patterns, Design Patterns, Design Pattern, Software Design Pattern]
 date_created: 2025-10-14
 date_modified: 2025-11-14
 for_clients:
@@ -17,9 +13,7 @@ at_semantic_version: 0.0.0.1
 authors:
   - Michael Staton
 augmented_with: Perplexity AI
-tags:
-  - Software-Architecture
-  - Best-Practices
+tags: [Software-Architecture, Best-Practices]
 ---
  
 ***

@@ -4,17 +4,20 @@ date_created: 2025-11-14
 date_modified: 2025-11-14
 site_uuid: 3dbd9e29-f68b-4c45-8229-31eea96dde60
 publish: true
-title: Blockchain and Web3 Institutional Invasions
+title: "Blockchain and Web3 Institutional Invasions"
 slug: blockchain-and-web3-institutional-invasions
 at_semantic_version: 0.0.1.1
 lede: "While meme coins make the noise and losses, many brilliant people are still iterating on making Web3 useful in the world of finance. "
 authors:
   - Michael Staton
-augmented_with: Perplexity AI
+augmented_with: "Perplexity AI"
 for_clients:
   - Param
+image_prompt: "A factory line that looks like a cookie factory has lots of large vats of ingredients (that are data, so you can see the ones and zeros and the bits), is feeding a cookie stamper putting out sheets of cookies (representing blockchain ledgers).  The cookies are being sorted into large containers going out on very large trucks.  Its a sophisticated operation."
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Blockchain_and_Web3_Institutional_Invasions_banner_image_1763136368743_ZR3iDpww_x.webp"
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Blockchain_and_Web3_Institutional_Invasions_portrait_image_1763136370021_4lzoXmYZZ.webp"
+square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Blockchain_and_Web3_Institutional_Invasions_square_image_1763136371248_coeOccaSF.webp"
 ---
-
 
 ***
 > [!info] **Perplexity Deep Research Query** (2025-11-14T12:29:01.647Z)

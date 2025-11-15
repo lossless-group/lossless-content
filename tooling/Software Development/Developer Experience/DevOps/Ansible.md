@@ -21,7 +21,7 @@ og_last_fetch: "2025-10-14T17:25:17.842Z"
 > **Model:** sonar-pro
 > 
 
-Ansible is an [[Free and Open Source Software]]  IT automation platform developed by Red Hat that enables organizations to automate processes such as provisioning, configuration management, application deployment, and orchestration. [^96shet] [^xxp6e5] By streamlining repetitive IT tasks and reducing manual intervention, Ansible plays a crucial role in improving operational efficiency, minimizing errors, and supporting modern DevOps practices. [^96shet]
+Ansible is an [[Vocabulary/Free and Open Source Software]]  IT automation platform developed by Red Hat that enables organizations to automate processes such as provisioning, configuration management, application deployment, and orchestration. [^96shet] [^xxp6e5] By streamlining repetitive IT tasks and reducing manual intervention, Ansible plays a crucial role in improving operational efficiency, minimizing errors, and supporting modern DevOps practices. [^96shet]
 
 ![Ansible concept diagram or illustration](https://www.redhat.com/rhdc/managed-files/how-content-runs-in-automation-controller..png)
 

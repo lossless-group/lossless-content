@@ -2,10 +2,10 @@
 title: Command Line Skills
 lede: Learn how to use the command line effectively.
 date_initialized: 2025-03-07
-date_authored_current_draft: 
-date_authored_final_draft: 
-date_first_published: 
-date_last_updated: 
+date_authored_current_draft:
+date_authored_final_draft:
+date_first_published:
+date_last_updated:
 at_semantic_version: 0.0.0.1
 authors:
   - Michael Staton
@@ -14,10 +14,11 @@ augmented_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: To-Hero
 tags: [Command-Line]
 date_created: 2025-03-23
-date_modified: 2025-07-23
+date_modified: 2025-11-14
 site_uuid: 506da224-92e9-4800-b902-d9a1872537d3
 publish: true
 slug: command-line-skills
+og_favicon: https://ik.imagekit.io/xvpgfijuw/lossless-content-embeds/iconFor__CommandLine--Dark-Mode.webp?updatedAt=1763136849998
 ---
 
 Check for ports that are open.
