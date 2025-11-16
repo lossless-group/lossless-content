@@ -1,25 +1,25 @@
 ---
-title: "AI-Powered Link Aggregator for Product Digital Footprint Discovery"
-lede: "Automatically discover and catalog social media profiles, code repositories, blog feeds, and other digital presence links for 1,400+ products in our tooling directory."
+title: AI-Powered Link Aggregator for Product Digital Footprint Discovery
+lede: Automatically discover and catalog social media profiles, code repositories, blog feeds, and other digital presence links for 1,400+ products in our tooling directory.
 date_authored_initial_draft: 2025-11-15
 date_authored_current_draft: 2025-11-15
 date_authored_final_draft: "[]"
 date_first_published: "[]"
 date_last_updated: "[]"
-at_semantic_version: 0.1.0
-generated_with: "Claude Code (Claude Sonnet 4.5)"
+at_semantic_version: 0.0.1.0
+generated_with: Claude Code (Claude Sonnet 4.5)
 category: Technical-Specification
 date_created: 2025-11-15
-date_modified: 2025-11-15
+date_modified: 2025-11-16
 status: Proposed
 tags: [Content-Automation, Link-Discovery, Digital-Footprint, Social-Media, API-Integration]
 authors:
   - Michael Staton
   - Andrea Capera
-image_prompt: "A digital spider web with a product logo at the center, threads extending to various platform icons (GitHub, LinkedIn, Twitter, YouTube, Medium), automatically mapping a company's complete digital presence across the internet."
-banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/AI-Powered-Link-Aggregator-for-Product-Digital-Footprint_banner_image_1763225374644_0uYd2sUt5.webp"
-portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/AI-Powered-Link-Aggregator-for-Product-Digital-Footprint_portrait_image_1763225375875_mK4pOdSJc.webp"
-square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/AI-Powered-Link-Aggregator-for-Product-Digital-Footprint_square_image_1763225376735_Z9uq4LVwP.webp"
+image_prompt: A digital spider web with a product logo at the center, threads extending to various platform icons (GitHub, LinkedIn, Twitter, YouTube, Medium), automatically mapping a company's complete digital presence across the internet.
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/AI-Powered-Link-Aggregator-for-Product-Digital-Footprint_banner_image_1763225374644_0uYd2sUt5.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/AI-Powered-Link-Aggregator-for-Product-Digital-Footprint_portrait_image_1763225375875_mK4pOdSJc.webp
+square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/AI-Powered-Link-Aggregator-for-Product-Digital-Footprint_square_image_1763225376735_Z9uq4LVwP.webp
 site_uuid: 7fdc18f5-e224-4359-8327-fe642c27a241
 ---
 
@@ -71,6 +71,7 @@ The system will:
 - YouTube (official channel)
 - Medium (publication or author)
 - Dev.to (organization or author)
+- Reddit (organization or author)
 - Hashnode (publication or author)
 - Product Hunt (product page)
 - Hacker News discussions
@@ -80,8 +81,7 @@ The system will:
 - Changelog page
 - Documentation site
 - API documentation
-- Status page
-- Community forum (Discord, Discourse, Reddit)
+- Community forums (Discord, Discourse, Reddit)
 
 ### 1.5 Out of Scope (Phase 1)
 - Deep social media analytics (follower counts, engagement metrics)
@@ -137,7 +137,7 @@ The system will:
 
 ### 2.2 Discovery Strategy (Waterfall Approach)
 
-**Stage 1: Fast & Free Methods** (Run First)
+**Stage 1: Fast & Free Methods** (Run First), (We have current accounts with Jina, Perplexity, OpenAI, and Claude)
 1. Scrape product homepage for social media icons/footer links
 2. Test common URL patterns (e.g., `/blog/rss.xml`, `/changelog`)
 3. Check if GitHub repo exists at predictable URLs
@@ -178,13 +178,13 @@ The system will:
 
 The script processes tool files with existing frontmatter:
 
+**Example: `tooling/AI-Toolkit/Generative AI/Code Generators/Trae AI.md`**
+
 ```yaml
-# tooling/AI-Toolkit/Generative AI/Code Generators/Trae AI.md
 ---
 url: https://www.trae.ai/
 site_name: Trae
 parent_org: "[[organizations/ByteDance|ByteDance]]"
-# ... other existing fields
 ---
 ```
 
@@ -195,36 +195,24 @@ parent_org: "[[organizations/ByteDance|ByteDance]]"
 url: https://www.trae.ai/
 site_name: Trae
 parent_org: "[[organizations/ByteDance|ByteDance]]"
-
-# Social Media
 linkedin_url: https://www.linkedin.com/company/trae-ai/
 twitter_url: https://twitter.com/traeai
 bluesky_url: https://bsky.app/profile/trae.ai
 youtube_channel_url: https://www.youtube.com/@traeai
-
-# Code Repositories
 github_org_url: https://github.com/traehq
 github_repo_url: https://github.com/traehq/trae
-
-# Content & Community
 medium_url: https://medium.com/@traeai
 product_hunt_url: https://www.producthunt.com/products/trae
 discord_url: https://discord.gg/traeai
-
-# Operational URLs
+reddit_url: https://www.reddit.com/r/traeai
 blog_url: https://www.trae.ai/blog
 blog_rss_url: https://www.trae.ai/blog/rss.xml
 changelog_url: https://www.trae.ai/changelog
 docs_url: https://docs.trae.ai
-status_page_url: https://status.trae.ai
-
-# Metadata
 links_last_updated: 2025-11-15
 links_auto_discovered: true
-links_confidence: high  # high | medium | low
+links_confidence: high
 links_manually_verified: false
-
-# ... other existing fields
 ---
 ```
 
@@ -271,7 +259,7 @@ async function scrapeSocialLinks(url) {
 
 #### 3.3.2 Search Engine Queries
 
-**Technology**: SerpAPI (free tier: 100 searches/month) or SearXNG (self-hosted)
+**Technology**: [[Tooling/Data Utilities/SerpAPI|SerpAPI]] (free tier: 100 searches/month) or [[Tooling/AI-Toolkit/Searxng|Searxng]] (self-hosted)
 
 **Queries**:
 ```
@@ -324,7 +312,7 @@ const commonPatterns = {
 
 #### 3.3.4 Jina Reader Integration
 
-**Technology**: Jina Reader API (already in use)
+**Technology**: [[Tooling/AI-Toolkit/Data Augmenters/Jina.ai|Jina.ai]] Reader API (already in use)
 **Use Case**: Extract all links from a page as markdown
 
 **Implementation**:
@@ -354,7 +342,7 @@ async function jinaExtractLinks(url) {
 
 #### 3.3.5 LLM Structured Extraction
 
-**Technology**: Claude Haiku or Sonnet with structured output
+**Technology**: Claude Haiku or Sonnet with [[concepts/Explainers for AI/Structured Outputs|Structured Outputs]]
 **Use Case**: Analyze page content and identify social profiles
 
 **Prompt**:
@@ -642,24 +630,17 @@ export const linkAggregatorConfig = {
 
 ### 5.2 Watch Configuration Auto-Generation
 
-Once links are discovered, auto-generate watch configurations for the Release Watcher:
+Once links are discovered, auto-generate watch configurations for the Release Watcher. Sources are automatically created based on discovered links (github_repo_url, blog_rss_url, changelog_url).
 
 ```yaml
-# Auto-generated from discovered links
 ---
-watch_enabled: false  # Requires manual review before enabling
+watch_enabled: false
 tool_ref: "tooling/AI-Toolkit/.../Trae AI.md"
-
 sources:
-  # Auto-generated from github_repo_url
   - type: github_releases
     repo: traehq/trae
-
-  # Auto-generated from blog_rss_url
   - type: rss
     url: https://www.trae.ai/blog/rss.xml
-
-  # Auto-generated from changelog_url
   - type: changelog_page
     url: https://www.trae.ai/changelog
 ```
@@ -758,13 +739,14 @@ Low-confidence links should be reviewed before adding to frontmatter:
 
 ### 7.2 Manual Override
 
-Allow content team to manually add/override links:
+Allow content team to manually add/override links. Manual overrides take precedence over auto-discovered values:
 
 ```yaml
-# Frontmatter
+---
 links_manually_verified: true
 links_manual_overrides:
-  twitter_url: https://x.com/correct_handle  # Overrides auto-discovered
+  twitter_url: https://x.com/correct_handle
+---
 ```
 
 ## 8. Performance & Cost
@@ -954,37 +936,33 @@ tidyverse/link-aggregator/
 
 ## 13. Configuration File
 
+**File: `config/default.yml`**
+
+Optional methods (search_engine, clearbit_api) can be enabled by adding API keys.
+
 ```yaml
-# config/default.yml
 discovery:
   enabled_methods:
     - website_scraper
     - pattern_tester
     - jina_reader
     - llm_analyzer
-    # - search_engine  # Enable if API key provided
-    # - clearbit_api   # Enable if API key provided
-
-  confidence_threshold: medium  # Only add medium+ confidence links
-
+  confidence_threshold: medium
   rate_limits:
     http_requests_per_second: 5
     concurrent_requests: 10
     jina_requests_per_day: 1000
     llm_requests_per_batch: 100
-
   retry:
     max_attempts: 3
     backoff_multiplier: 2
     initial_delay_ms: 1000
-
 validation:
   check_http_status: true
   follow_redirects: true
   max_redirects: 3
   timeout_ms: 10000
   verify_ssl: true
-
 output:
   frontmatter_fields:
     - linkedin_url
@@ -995,10 +973,8 @@ output:
     - blog_rss_url
     - changelog_url
     - docs_url
-
-  add_metadata: true  # Add links_last_updated, links_confidence, etc.
-  dry_run: false      # Set true to preview without writing
-
+  add_metadata: true
+  dry_run: false
 logging:
   level: info
   format: json
@@ -1126,7 +1102,40 @@ async function backfillLinks() {
 - **SerpAPI**: https://serpapi.com/
 - **Jina Reader**: https://jina.ai/reader/
 
-### 18.3 Alternative Approaches
+### 18.3 MCP Server Resources
+
+**Official & Community Lists**:
+- **Official MCP Servers**: https://github.com/modelcontextprotocol/servers
+- **Awesome MCP Servers** (wong2): https://github.com/wong2/awesome-mcp-servers
+- **Awesome MCP Servers** (appcypher): https://github.com/appcypher/awesome-mcp-servers
+- **TensorBlock Collection**: https://github.com/TensorBlock/awesome-mcp-servers (7,260+ servers as of May 2025)
+- **MCP Documentation**: https://modelcontextprotocol.io/
+
+**MCP Marketplaces & Hosting**:
+- **Glama**: https://glama.ai/mcp/servers (MCP hosting platform)
+- **PulseMCP**: https://www.pulsemcp.com/servers (MCP server directory)
+- **MCP.so**: https://mcp.so/ (MCP server discovery)
+- **Smithery.ai**: AI platform with MCP integration
+
+**Finding Your Installed MCP Servers**:
+```bash
+# Claude Desktop
+cat ~/.config/claude/claude_desktop_config.json
+
+# Cline (VS Code)
+cat ~/.config/Code/User/globalStorage/saoudrizwan.claude-dev/settings/cline_mcp_settings.json
+
+# Check for any MCP config files
+find ~ -name "*mcp*.json" 2>/dev/null
+```
+
+**Recommended for Link Discovery**:
+- **MCP Omnisearch**: All-in-one search (Brave, Exa, Tavily, Perplexity, Jina)
+- **Firecrawl**: Best web scraping accuracy (83%, 1.8k+ stars)
+- **Coresignal**: Company and employee data
+- **User Data Enrichment**: Auto-generates social profiles
+
+### 18.4 Alternative Approaches
 
 **Approach 1: Manual Curation**
 - Create Google Sheet with tool names
@@ -1147,7 +1156,311 @@ async function backfillLinks() {
 - **Pros**: Scalable, fast, maintainable
 - **Cons**: Some false positives, ongoing costs
 
-### 18.4 Example Discoveries
+### 18.5 Alternative Simplified Approaches
+
+The main specification describes a comprehensive multi-service pipeline. However, simpler approaches may be more practical and faster to implement:
+
+#### 18.5.1 Simple Two-Step: Jina + Claude (Recommended Starting Point)
+
+**Implementation**:
+```javascript
+// Step 1: Fetch homepage content with Jina Reader
+const jinaUrl = `https://r.jina.ai/${productUrl}`;
+const markdown = await fetch(jinaUrl).then(r => r.text());
+
+// Step 2: Ask Claude to extract all links
+const prompt = `Extract social media, GitHub, blog RSS, changelog, and documentation links from this content.
+Product: ${productName}
+Content: ${markdown}
+
+Return as JSON with fields: linkedin_url, twitter_url, github_repo_url, youtube_channel_url, blog_rss_url, changelog_url, docs_url`;
+
+const links = await claude.messages.create({
+  model: "claude-haiku-20250514",
+  messages: [{ role: "user", content: prompt }]
+});
+
+// Step 3: Validate URLs (simple HTTP check)
+// Done!
+```
+
+**Pros**:
+- ~50 lines of code vs complex pipeline
+- Uses existing tools (Jina + Claude subscriptions)
+- Fast to implement and iterate
+- Low cost (~$0.01 per tool with Haiku)
+
+**Cons**:
+- Relies on Claude accuracy (but likely 80%+ accurate)
+- No parallel discovery methods for fallback
+
+**Estimated Cost**: $14 for all 1,400 tools (1,400 × $0.01)
+
+#### 18.5.2 Perplexity API Approach
+
+Use Perplexity's web search + answer capability in a single call:
+
+**Implementation**:
+```javascript
+const response = await perplexity.chat.completions.create({
+  model: "llama-3.1-sonar-large-128k-online",
+  messages: [{
+    role: "user",
+    content: `What are the official social media links, GitHub repositories, blog RSS feed, changelog, and documentation URLs for ${productName} (${productUrl})? Return as JSON.`
+  }]
+});
+
+// Perplexity searches the web and returns structured answer with citations
+```
+
+**Pros**:
+- Single API call per tool
+- Perplexity searches current web data automatically
+- Returns citations/sources for validation
+- Already have Perplexity access
+
+**Cons**:
+- API costs (if beyond free tier)
+- Less control over discovery process
+- Rate limits
+
+**Estimated Cost**: Check current Perplexity pricing
+
+#### 18.5.3 MCP Server Approach (Most Reusable)
+
+Build or use an existing MCP (Model Context Protocol) server for link discovery. Several production-ready MCP servers already exist that can help with link aggregation.
+
+**🎯 Top Recommendation: MCP Omnisearch (All-in-One)**
+
+**Repository**: `spences10/mcp-omnisearch`
+**What it does**: Unified access to multiple search engines (Tavily, Brave, Exa, Perplexity, Kagi) and content processors (Jina AI) in a single MCP server
+**Perfect for**: Searching for company social profiles across multiple providers with one interface
+**Configuration**: Requires API keys as environment variables (TAVILY_API_KEY, BRAVE_API_KEY, EXA_API_KEY, PERPLEXITY_API_KEY, JINA_API_KEY)
+
+**Installation**:
+```bash
+npm install -g @spences10/mcp-omnisearch
+
+# Add to Claude Desktop config
+{
+  "mcpServers": {
+    "omnisearch": {
+      "command": "npx",
+      "args": ["-y", "@spences10/mcp-omnisearch"],
+      "env": {
+        "TAVILY_API_KEY": "your-key",
+        "BRAVE_API_KEY": "your-key",
+        "EXA_API_KEY": "your-key"
+      }
+    }
+  }
+}
+```
+
+**Usage Example**:
+```javascript
+// Search for company social links using Brave
+await mcp.callTool("omnisearch", "brave_search", {
+  query: '"Trae AI" site:linkedin.com OR site:twitter.com OR site:github.com'
+});
+
+// Or use Exa for semantic search
+await mcp.callTool("omnisearch", "exa_search", {
+  query: "Trae AI official social media profiles"
+});
+```
+
+**Existing MCP Servers for Link Discovery**:
+
+**Web Scraping & Extraction**:
+- **Firecrawl** (`firecrawl/firecrawl-mcp-server`) - 1.8k+ stars, 83% accuracy, extracts structured data from websites
+- **Browserbase** (`browserbase/mcp-server-browserbase`) - Cloud browser automation for JavaScript-heavy sites
+- **Bright Data** (`brightdata/brightdata-mcp`) - Enterprise-grade web data extraction
+- **Scrapeless** (`scrapeless-ai/scrapeless-mcp-server`) - Real-time Google SERP results
+
+**Search Engines**:
+- **Exa** (`exa-labs/exa-mcp-server`) - AI-native search engine for semantic queries
+- **Tavily** (`tavily-ai/tavily-mcp`) - Search optimized for AI agents with strong citations
+- **Perplexity** (`ppl-ai/modelcontextprotocol`) - Real-time web research with GPT-4/Claude
+- **Kagi Search** (`kagisearch/kagimcp`) - Privacy-focused web search
+
+**Company & Social Data**:
+- **Coresignal** (`Coresignal-com/coresignal-mcp`) - B2B data on companies, employees, job postings
+- **LinkedIn API** (`Linked-API/linkedapi-mcp`) - LinkedIn account control and data retrieval
+- **User Data Enrichment** (`jekakos/mcp-user-data-enrichment`) - Auto-generates social media profile links
+- **Supadata** (`supadata-ai/mcp`) - YouTube, TikTok, X/Twitter, web data access
+
+**Content & SEO**:
+- **FetchSERP** (`fetchSERP/fetchserp-mcp-server-node`) - SEO and web intelligence toolkit
+- **Search1API** (`fatwang2/search1api-mcp`) - Search, crawling, and sitemaps API
+
+**Official MCP Servers (Foundational)**:
+- **Fetch** (modelcontextprotocol/servers) - Web content fetching and conversion
+- **Git** (modelcontextprotocol/servers) - Read and search Git repositories for GitHub links
+
+**Recommended Combination**:
+1. **MCP Omnisearch** for multi-provider search
+2. **Firecrawl** for homepage scraping
+3. **Coresignal or User Data Enrichment** for company/social data if needed
+
+**Build Custom MCP Server**:
+```typescript
+// mcp-server-link-aggregator/src/index.ts
+import { Server } from "@modelcontextprotocol/sdk/server/index.js";
+
+const server = new Server({
+  name: "link-aggregator",
+  version: "1.0.0"
+}, {
+  capabilities: {
+    tools: {}
+  }
+});
+
+server.setRequestHandler(ListToolsRequestSchema, async () => ({
+  tools: [{
+    name: "discover_product_links",
+    description: "Discover social media, GitHub, blog, and operational links for a product",
+    inputSchema: {
+      type: "object",
+      properties: {
+        product_url: { type: "string", description: "Product homepage URL" },
+        product_name: { type: "string", description: "Product name" }
+      },
+      required: ["product_url", "product_name"]
+    }
+  }]
+}));
+
+server.setRequestHandler(CallToolRequestSchema, async (request) => {
+  if (request.params.name === "discover_product_links") {
+    const { product_url, product_name } = request.params.arguments;
+
+    // Use Jina + LLM or any discovery method
+    const links = await discoverLinks(product_url, product_name);
+
+    return {
+      content: [{
+        type: "text",
+        text: JSON.stringify(links, null, 2)
+      }]
+    };
+  }
+});
+```
+
+**Usage from any MCP client**:
+```javascript
+// Claude Desktop, Cline, or any MCP client
+const result = await mcp.callTool("link-aggregator", "discover_product_links", {
+  product_url: "https://www.trae.ai/",
+  product_name: "Trae"
+});
+```
+
+**Pros**:
+- Reusable across ALL AI tools (Claude Desktop, Cline, etc.)
+- Standard protocol, well-supported
+- Can use any discovery method internally
+- Easy to update/improve without changing clients
+
+**Cons**:
+- Requires MCP server setup/hosting
+- Slightly more initial complexity
+
+**Check Existing MCP Servers**:
+- Claude Desktop: `~/.config/claude/claude_desktop_config.json`
+- MCP Marketplace: https://github.com/modelcontextprotocol/servers
+- Search for: link discovery, social enrichment, company data
+
+#### 18.5.4 Wikipedia/Wikidata Query (Free, Structured Data)
+
+For well-known products, query Wikidata:
+
+**Implementation**:
+```javascript
+// Query Wikidata for product
+const wikidataId = await searchWikidata(productName);
+const entity = await fetch(`https://www.wikidata.org/wiki/Special:EntityData/${wikidataId}.json`);
+
+// Extract properties:
+// P856: official website
+// P2013: Facebook username
+// P2002: Twitter username
+// P1581: blog URL
+// P1324: source code repository
+```
+
+**Pros**:
+- Free, no API costs
+- High accuracy for notable products
+- Structured, validated data
+
+**Cons**:
+- Only works for established/notable products (~30-40% coverage)
+- Won't have newer startups
+- Manual fallback needed
+
+#### 18.5.5 Recommendation: Hybrid Approach
+
+**Phase 0 (Quickest Win) - Choose One**:
+
+**Option A: MCP Omnisearch** (If you already use Claude Desktop/Cline):
+1. Install MCP Omnisearch server (~10 minutes)
+2. Configure API keys (Brave, Exa, or Tavily - pick one or all)
+3. Test on 10 tools using AI assistant
+4. If results good: scale to 50, then 1,400 tools
+5. Benefit: Reusable for other AI workflows
+
+**Option B: Jina + Claude Script** (If you prefer standalone automation):
+1. Write simple Node.js script (~1 hour)
+2. Process 50 high-priority tools
+3. Measure accuracy and cost
+4. If 80%+ accuracy: proceed to all 1,400 tools
+5. If <80%: try Option A (MCP) or add Perplexity
+
+**Option C: Firecrawl MCP + Claude** (Best accuracy):
+1. Install Firecrawl MCP server
+2. Scrape homepage for each tool
+3. Use Claude to extract/categorize links
+4. Higher accuracy but slightly slower
+
+**Phase 1 (Scale Up)**:
+- Batch process all 1,400 tools with chosen method
+- Human review queue for low-confidence results
+- Total time: ~2-3 days
+- Total cost: ~$15-50 depending on method
+
+**Phase 2 (Only if Needed)**:
+- Build custom MCP server combining best methods
+- Add multi-method pipeline for edge cases
+- Implement complex discovery from main spec
+
+**Recommended Decision Tree**:
+
+```
+Start Here
+    ↓
+Do you use Claude Desktop/Cline regularly?
+    ↓                           ↓
+   YES                         NO
+    ↓                           ↓
+MCP Omnisearch          Jina + Claude Script
+(10 min setup)          (1 hour to build)
+    ↓                           ↓
+Test 50 tools            Test 50 tools
+    ↓                           ↓
+    └───── Good results? ───────┘
+                ↓
+               YES → Scale to 1,400 tools
+                ↓
+               NO → Try Firecrawl MCP or build custom solution
+```
+
+**Key Decision Point**:
+Start simple, only add complexity if results warrant it. MCP Omnisearch can be set up in 10 minutes, Jina + Claude in an afternoon - both are vastly simpler than the full multi-week pipeline.
+
+### 18.6 Example Discoveries
 
 **Input**:
 ```yaml
@@ -1175,3 +1488,5 @@ links_auto_discovered: true
 ---
 
 *This specification provides a comprehensive blueprint for automatically discovering and cataloging the digital footprint of products in our tooling directory, serving as a critical foundation for automated release monitoring and content enrichment.*
+
+*Note: See Section 18.5 "Alternative Simplified Approaches" for faster, simpler implementation options including MCP Omnisearch (10 min setup), Jina + Claude script (1 hour), or Firecrawl MCP - all vastly simpler than the full multi-week pipeline.*

@@ -1,17 +1,16 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2025-11-16
 site_uuid: e147f1bf-3b2e-46a9-bf25-6fb190249295
 date_created: 2025-04-06
-aliases:
-  - Web Scraper
-  - Web Scrapers
+aliases: [Web Scraper, Web Scrapers]
 ---
 
-[[Tooling/Software Development/Lego-Kit Engineering Tools/OpenGraph.io]]
+[[Tooling/Software Development/Lego-Kit Engineering Tools/OpenGraph.io|OpenGraph.io]]
 [[Jina.ai]]
 [[Firecrawl]]
 [[Spider]]
 [[Crawl4 AI]]
+[[Tooling/AI-Toolkit/Data Augmenters/ScrapeGraphAI]]
 
 
 https://youtu.be/kEWCjwlmZOk?si=RSs_7g0sqPiEB8Dn
