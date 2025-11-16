@@ -1,7 +1,7 @@
 ---
 site_uuid: 7a43f934-fdfc-453d-b17b-da7c8eba6dda
 aliases: [MCP]
-date_modified: 2025-08-28
+date_modified: 2025-11-16
 date_created: 2025-03-30
 tags: [Agentic-AI]
 github_profile_url: https://github.com/modelcontextprotocol
@@ -16,6 +16,8 @@ docs_url: https://modelcontextprotocol.io/introduction
 [[Anthropic]] released a [[Data Standard]] and an [[concepts/Open Specifications|Open Specification]]
 
 [[Tooling/Software Development/Frameworks/Web Frameworks/Fastify|Fastify]]
+
+https://youtu.be/RhTiAOGwbYE?si=utXq40hwAmpS8sCw
 
 https://youtu.be/sF799nFJONk?si=bzKPSbS1k_JjbVXo by [[Sources/People/Influencers/Sean Kochel|Sean Kochel]]
 

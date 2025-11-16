@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-20
-date_modified: 2025-08-25
+date_modified: 2025-11-16
 status: To-Do
 authors:
   - Michael Staton
@@ -13,6 +13,7 @@ banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Automating_
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Automating_Progess_Updates_through_clever_use_of_AI_Code_Assistants_portrait_image_1755994795759_AtepwiD-W.webp
 square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Automating_Progess_Updates_through_clever_use_of_AI_Code_Assistants_square_image_1755994797819_l3aV47elS.webp
 tags: [Code-Generators]
+publish: false
 ---
 
 

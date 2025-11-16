@@ -1,6 +1,6 @@
 ---
 date_created: 2024-09-28
-date_modified: 2025-09-23
+date_modified: 2025-11-16
 site_uuid: 261aa002-d0a0-47b4-9f93-8f9cc09ded9d
 title: On Data Gathering
 lede: "Effective data gathering is the foundation for building intelligent, reliable AI systems."
@@ -22,6 +22,8 @@ authors:
 Features: [[Spider]], [[Firecrawl]], and [[Jina.ai]]. [[AI Jason]].  
 
 [[Tooling/Data Utilities/LakeFS|LakeFS]]
+[[Tooling/Software Development/Programming Languages/Libraries/Beautiful Soup|Beautiful Soup]]
+[[Tooling/AI-Toolkit/Data Augmenters/Tavily AI|Tavily AI]]
 
 [[concepts/Explainers for AI/Artificial Intelligence|Artificial Intelligence]] now has an important role to play in [[concepts/Explainers for AI/AI Powered Data Capture|AI Powered Data Capture]]. 
 
@@ -38,7 +40,7 @@ Services that use **proxies**, **API-driven browsers**, and **AI agents** can si
 - **Security & Compliance:** Proxies help ensure secure, confidential market research activity, supporting compliance with data privacy regulations like GDPR and CCPA through secure, anonymized data access. [^fnq3bg] [^pe4thl]
 
 **API-Driven Browsers**
-- **Automated, Dynamic Data Gathering:** API-driven browsers (e.g., [[Tooling/Software Development/Developer Experience/DevTools/Playwright|Playwright]], [[Tooling/Software Development/Developer Experience/DevTools/Puppeteer|Puppeteer]]) automate interactions with complex, JavaScript-heavy web content that static scrapers cannot parse. This enables collection of data from booking engines, social media, or e-commerce platforms that require logins, button clicks, or other dynamic actions.
+- **Automated, Dynamic Data Gathering:** API-driven browsers (e.g., [[Tooling/Software Development/Developer Experience/DevTools/Playwright|Playwright]], [[Tooling/Software Development/Developer Experience/DevTools/Puppeteer|Puppeteer]], [[Tooling/AI-Toolkit/Data Augmenters/Tavily AI|Tavily AI]]) automate interactions with complex, JavaScript-heavy web content that static scrapers cannot parse. This enables collection of data from booking engines, social media, or e-commerce platforms that require logins, button clicks, or other dynamic actions.
 - **Integrated Workflow Automation:** These tools allow scheduled, programmable extraction for continuous market monitoring and timely intelligence, integrating easily into existing data pipelines.
 
 **AI Agents**
@@ -56,6 +58,7 @@ Services that use **proxies**, **API-driven browsers**, and **AI agents** can si
 - **Smartproxy**
 - **GeoSurf**
 - **ScraperAPI**
+- [[Tooling/AI-Toolkit/Data Augmenters/ScrapeGraphAI|ScrapeGraphAI]]
 - **PyProxy** (popular in market research contexts for enhancing data collection and analysis[^fgli9d])
 - **SOCKS5 and HTTPS Data Center Proxies** (broadly adopted in large enterprises for security and scale[^fnq3bg] [^bcw5lk])
 
@@ -63,8 +66,8 @@ Services that use **proxies**, **API-driven browsers**, and **AI agents** can si
 - **Puppeteer** (Node.js)
 - **Playwright** (supports Node.js, Python, Java, C#)
 - **Selenium** (multi-language, supports complex end-to-end browsing)
-- **Browserless** (cloud-hosted headless Chrome)
-- **Apify** (also offers ready-made scraping actors and automation APIs)
+- **[[Tooling/Data Utilities/browserless|browserless]]** (cloud-hosted headless Chrome)
+- **[[Tooling/AI-Toolkit/Data Augmenters/Apify]]** (also offers ready-made scraping actors and automation APIs)
 
 #### **AI Agents and Data Enrichment Platforms**
 - **GPT-4/5 and OpenAI API** (for natural language understanding, summarization, and intelligent extraction)

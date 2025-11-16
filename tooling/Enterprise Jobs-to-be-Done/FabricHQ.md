@@ -8,12 +8,10 @@ og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/_uploads_lossless_screensho
 jina_last_request: '2025-03-09T06:45:17.273Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-03-07T05:19:01.829Z'
-date_modified: 2025-04-12
+date_modified: 2025-11-16
 date_created: 2025-03-30
 url: 'https://www.fabrichq.ai/'
-tags:
-  - Enterprise-Jobs-To-Be-Done
-  - Recruiting-Platforms
+tags: [Enterprise-Jobs-To-Be-Done, Recruiting-Platforms]
 ---
 
-[[Recruiting Platforms 1|Recruiting Platform]]
+[[concepts/Explainers for Tooling/Recruiting Platforms|Recruiting Platform]]

@@ -1,14 +1,15 @@
 ---
 date_created: 2025-08-12
-date_modified: 2025-09-17
+date_modified: 2025-11-16
 site_uuid: a2b6a2cb-f3e5-465f-a5a1-a4a196f66032
 publish: false
 title: Streamlining Deployment of Multiple Instances of Twenty CRM
 slug: streamlining-deployment-multiple-instances-twenty-crm
 at_semantic_version: 0.0.0.6
-authors: 
-- Michael Staton
+authors:
+  - Michael Staton
 augmented_with: Trae Builder
+tags: [CRM, Open-Source-Alternatives]
 ---
 # Streamlining Deployment of Multiple Instances of Twenty CRM
 

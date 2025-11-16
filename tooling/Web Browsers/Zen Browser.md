@@ -9,12 +9,10 @@ og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshot
 jina_last_request: '2025-03-09T06:45:01.685Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-03-14T05:42:21.374Z'
-date_modified: 2025-05-27
+date_modified: 2025-11-16
 date_created: 2025-03-30
-tags:
-  - Web-Browsers
-aliases:
-  - Zen
+tags: [Web-Browsers]
+aliases: [Zen]
 ---
 
 2025, Feb 02. [Zen Browser Is Beautifully Designed And Feature Rich](https://youtu.be/SCMmzbxUqpo?si=F4DYkAry2dXzHVnQ) DistroTube, [[YouTube]].

@@ -14,7 +14,7 @@ augmented_with: "Windsurf Cascade on Claude 3.5 Sonnet"
 category: Explorations
 tags: [Remark, Astro, AST, Debug]
 date_created: 2025-04-02
-date_modified: 2025-11-11
+date_modified: 2025-11-16
 site_uuid: 585d8526-ab18-4f94-a626-e2a2f7c2d7e2
 publish: true
 image_prompt: "A robot orchestra conductor in a suit is commanding a swarm of different bugs, that are climbing up trees that are growing all different directions.  Each tree has the acronym AST carved into its trunks.  At the top of the image, there is a banner that states `Abstract Syntax Trees.`"
@@ -49,7 +49,7 @@ Before implementing callout rendering, we need to understand exactly how the AST
 # Implementation Plan
 
 1. Remove existing callout transformation code
-2. Add debug logging to [vocabulary].astro
+2. Add debug logging to `[vocabulary].astro`
 3. Add debug logging to each remark plugin
 4. Create test markdown files with various callout patterns
 5. Document the AST structure we observe

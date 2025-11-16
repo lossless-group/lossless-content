@@ -1,6 +1,6 @@
 ---
 date_created: 2024-11-08
-date_modified: 2025-09-23
+date_modified: 2025-11-16
 site_uuid: 20654883-39a1-44b4-a6ca-b7afbe5cff17
 title: From Rags to Riches
 lede: "Retrieval Augmented Generation transforms raw data into enterprise AI gold—if you set it up right."

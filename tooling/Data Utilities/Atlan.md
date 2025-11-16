@@ -23,7 +23,7 @@ tags:
 
 [[Data Governance]]
 
-[[Data Catalog]]
+[[concepts/Explainers for Tooling/Data Catalogs]]
 
 [[AI-Ready Data]]
 

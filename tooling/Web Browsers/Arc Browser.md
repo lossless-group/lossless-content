@@ -22,7 +22,7 @@ aliases:
   - Arc
 ---
 
-##### [[Arc Browser|Arc]] is a [[concepts/State of the Art]][[Web Browser]]
+##### [[Arc Browser|Arc]] is a [[concepts/State of the Art]][[Vocabulary/Web Browsers]]
 
 ![[Screenshot 2025-02-23 at 2.31.47 PM_Arc-Browser--Hero.png]]
 ##### [[Arc Browser|Arc]] keeps great [[concepts/Release Notes]]

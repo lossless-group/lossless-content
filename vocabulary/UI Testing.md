@@ -43,7 +43,7 @@ augmented_with: Perplexity AI
 | **Manual Testing**  | Tester simulates user interactions manually          | Human intuition; catches subtle usability issues     | Time-consuming, less scalable, prone to human error   |
 | **Automated Testing** | Scripts or tools mimic user actions automatically    | Fast, repeatable, scalable, reduces human error      | Upfront setup effort, may miss issues needing intuition |
 
-- **Manual UI Testing** involves testers manually interacting with the application through a [[Vocabulary/Web Browser|Web Browser]]:
+- **Manual UI Testing** involves testers manually interacting with the application through a [[Vocabulary/Web Browsers|Web Browsers]]:
   - Planning test cases
   - Executing actions (clicking, typing, dragging)
   - Observing and recording issues (with screenshots, for example)

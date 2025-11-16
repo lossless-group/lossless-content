@@ -13,14 +13,7 @@ publish: true
 title: ScrapeGraphAI
 slug: scrapegraph-ai
 at_semantic_version: 0.0.0.1
-tags:
-  - Web-Scrapers
-  - AI-Powered-Data-Capture
-  - AI-Toolkit
-  - Check-It-Out
-  - Agentic-AI
-  - API-based-Services
-  - Data-Augmenters
+tags: [Web-Scrapers, AI-Powered-Data-Capture, AI-Toolkit, Check-It-Out, Agentic-AI, API-based-Services, Data-Augmenters]
 ---
 [[Vocabulary/Web Scraping|Web Scraper]]
 

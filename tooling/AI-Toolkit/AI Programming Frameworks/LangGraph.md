@@ -11,14 +11,13 @@ og_error_message: 'Error occurred'
 jina_last_request: '2025-03-09T06:45:19.159Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-05-28T03:12:04.799Z'
-date_modified: 2025-05-28
+date_modified: 2025-11-16
 date_created: 2025-03-30
 og_image: https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/667d6c8272e5cfd84e5d11f4_LangGraph%20open%20graph-3.webp
 description: 'Build controllable agents with LangGraph, our low-level agent orchestration framework. Deploy and scale with LangGraph Platform, with APIs for state management, a visual studio for debugging, and multiple deployment options.'
-tags:
-  - AI-Toolkit
-  - AI-Programming-Frameworks
+tags: [AI-Toolkit, AI-Programming-Frameworks]
 ---
+https://youtu.be/zMXgoqYJJsY?si=YE2E_st1MBgO_lTG
 
 https://youtu.be/qAF1NjEVHhY?si=Y8WR_QHl3BzoINQ
 

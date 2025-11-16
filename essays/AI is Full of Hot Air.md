@@ -1,24 +1,28 @@
 ---
-category: Avoid and Peril
+category: "Avoid and Peril"
 date_created: 2024-11-11
-date_modified: 2025-08-28
+date_modified: 2025-11-16
 tags: [Near-Future-Anticipation]
-title: AI is full of Hot Air.
-lede: From hallucinations to probabilistic creativity, to the need to fulfill its trained duty.  AI Models can just make things up.  Sometimes amazingly, sometimes catastrophically.
+title: "AI is full of Hot Air."
+lede: "From hallucinations to probabilistic creativity, to the need to fulfill its trained duty.  AI Models can just make things up.  Sometimes amazingly, sometimes catastrophically."
 date_authored_initial_draft: 2024-12-30
 date_authored_current_draft: 2025-07-08
 at_semantic_version: 0.0.1.1
 status: To-Do
-augmented_with: Perplexity AI
-image_prompt: A Robot representing AI is giving a presentation at a conference table.  The conference table is in a very large basket of a very large hot air baloon.  The hot air baloon is floating off.
-banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/AI_is_Full_of_Hot_Air_banner_image_1755789163422_wx4xG98hv.webp
-portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/AI_is_Full_of_Hot_Air_portrait_image_1755789153918_0WCi0iS7o.webp
-square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/AI_is_Full_of_Hot_Air_square_image_1755789149460_b3pRzzrx-.webp
+augmented_with: "Perplexity AI"
+image_prompt: "A Robot representing AI is giving a presentation at a conference table.  The conference table is in a very large basket of a very large hot air baloon.  The hot air baloon is floating off."
+banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/AI_is_Full_of_Hot_Air_banner_image_1755789163422_wx4xG98hv.webp"
+portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/AI_is_Full_of_Hot_Air_portrait_image_1755789153918_0WCi0iS7o.webp"
+square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/AI_is_Full_of_Hot_Air_square_image_1755789149460_b3pRzzrx-.webp"
 ---
+[[Tooling/AI-Toolkit/Data Augmenters/Tavily AI]]
+
 
 >[!tip]
 >
 >AI doesn’t admit ignorance because it isn’t deeply programmed to do so—it’s built to offer helpful answers, sometimes at the cost of transparency when it’s out of its depth.
+
+![The Research Agent didn't research, just made excuses!](https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/AI_is_Full_of_Hot_Air_content_1763300335910_0Ho5MRDej.webp)
 
 
 > [!llm-response] From Microsoft's Phi model when asked about Excel

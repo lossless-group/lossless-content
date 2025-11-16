@@ -1,5 +1,5 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2025-11-16
 site_uuid: 54943234-287a-4ac9-8cf3-678c3d5f8bb4
 date_created: 2025-04-06
 ---
@@ -213,4 +213,4 @@ https://youtube.com/shorts/fWNFL6SIDws?si=GEuXtMqfaKEkGGPS
 
 ![[Arc Browser 1#Arc Browser Arc keeps great Release Notes]]
 
-![[Chrome 1#Chrome keeps good Release Notes]]
+![[Tooling/Web Browsers/Chrome|Chrome]]

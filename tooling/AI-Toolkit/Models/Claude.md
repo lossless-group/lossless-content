@@ -8,7 +8,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:06.973Z
 jina_error: Error occurred
 og_last_fetch: 2025-09-05T13:13:45.574Z
-date_modified: 2025-10-30
+date_modified: 2025-11-16
 date_created: 2025-03-30
 tags: [AI-Toolkit, Models, Desktop-App]
 og_title: Claude
@@ -26,6 +26,8 @@ Models by [[Anthropic]].
 
 ## Claude Haiku
 
+## Claude Opus
+https://www.anthropic.com/claude/opus
 ### Claude Sonnet
 
 <iframe 
