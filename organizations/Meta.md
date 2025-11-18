@@ -1,22 +1,28 @@
 ---
 date_created: 2025-04-25
-date_modified: 2025-08-23
+date_modified: 2025-11-18
+site_uuid: 2cd393e1-3dda-4fad-b537-812a2f9c2652
+publish: true
+title: Meta
+slug: meta
+at_semantic_version: 0.0.0.1
 ---
 
-[[organizations/Facebook]]
+[[organizations/Facebook|Facebook]]
 Creators and maintainers of [[React]], [[Skip]], [[StyleX]]. 
 
-Major contributors to the [[projects/Emergent-Innovation/Standards/OAuth]] and [[projects/Emergent-Innovation/Standards/GraphQL]] standards.  
+Major contributors to the [[projects/Emergent-Innovation/Standards/OAuth|OAuth]] and [[projects/Emergent-Innovation/Standards/GraphQL|GraphQL]] standards.  
 
-[The coding machine at Meta](
-https://youtu.be/DQFNYCO1MqM?si=o1cmjuqJsmtDP3D2)
+https://youtu.be/z8wdS7TTw2w?si=ZQB7CvHBQThCv968
+
+https://youtu.be/DQFNYCO1MqM?si=o1cmjuqJsmtDP3D2
 
 
 1. **[[Tooling/Software Development/Frameworks/Web Frameworks/React|React]]**: A JavaScript library for building user interfaces, popular for its component-based architecture and virtual DOM. It's widely used in both Facebook and Meta's applications, as well as numerous third-party web applications.
 
 2. **[[projects/Emergent-Innovation/Standards/GraphQL|GraphQL]]**: An open-source data query language developed by Facebook. GraphQL provides an efficient alternative to REST APIs, allowing clients to request only the necessary data, reducing over-fetching or under-fetching issues.
 
-3. **[[Flow]] ([[Static Type Checker]])**: A static type checker for JavaScript that helps find errors in code early on through type annotations. It's used extensively at Meta to improve code quality and maintainability.
+3. **[[Tooling/Software Development/DevOps/Flow]] ([[Vocabulary/Static Type Checkers|Static Type Checkers]])**: A static type checker for JavaScript that helps find errors in code early on through type annotations. It's used extensively at Meta to improve code quality and maintainability.
 
 4. **Hack**: A programming language developed by Facebook for HHVM (HipHop Virtual Machine). Hack is a typed language compatible with PHP, designed to help developers write cleaner, more reliable code.
 

@@ -16,7 +16,7 @@ at_semantic_version: 0.0.0.1
 ---
 [[concepts/Explainers for Tooling/UI-Kit|UI-Kit]]
 
-[[Theme Marketplaces]]
+[[Vocabulary/Theme Marketplaces]]
 
  
 Similar to [[Tooling/Software Development/Frameworks/Frontend/UI Frameworks/21st.dev|21st.dev]]
