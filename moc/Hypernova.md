@@ -8,15 +8,15 @@ date_modified: 2025-10-02
 :::
 
 :::portfolio
-- [[client-content/Hypernova/Portfolio/Aalo Atomics|Aalo Atomics]]
-- [[client-content/Hypernova/Portfolio/Star Catcher|Star Catcher]]
+- [[client-content/Hypernova/Files/Portfolio/Aalo Atomics|Aalo Atomics]]
+- [[client-content/Hypernova/Files/Portfolio/Star Catcher|Star Catcher]]
 - [[Tooling/AI-Toolkit/Model Producers/Harmonic|Harmonic]]
 - [[Tooling/AI-Toolkit/Model Producers/Thinking Machines|Thinking Machines]]
 - [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Catio|Catio]]
-- [[client-content/Hypernova/Portfolio/Maven Clinic|Maven Clinic]]
-- [[client-content/Hypernova/Portfolio/Ontra|Ontra]]
-- [[client-content/Hypernova/Portfolio/Trela|Trela]]
-- [[client-content/Hypernova/Portfolio/Yassir|Yassir]]
+- [[client-content/Hypernova/Files/Portfolio/Maven Clinic|Maven Clinic]]
+- [[client-content/Hypernova/Files/Portfolio/Ontra|Ontra]]
+- [[client-content/Hypernova/Files/Portfolio/Trela|Trela]]
+- [[client-content/Hypernova/Files/Portfolio/Yassir|Yassir]]
 - [[Tooling/Data Utilities/Bruin|Bruin]]
 - [[Tooling/Portfolio/Seabound|Seabound]]
 :::

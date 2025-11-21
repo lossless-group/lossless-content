@@ -1,7 +1,7 @@
 ---
 url: https://opinly.ai/
 date_created: 2025-10-18
-date_modified: 2025-10-22
+date_modified: 2025-11-19
 og_title: Opinly
 og_description: Opinly is an AI powered competitor monitoring and analysis platform for companies.
 og_image: https://opinly.ai/opengraph-image.png?986e69cae691f065
@@ -14,3 +14,6 @@ slug: opinly-ai
 at_semantic_version: 0.0.0.1
 tags: [AI-Toolkit, Marketing-Strategies, Enterprise-AI, Founder-Toolkit]
 ---
+[[Vocabulary/Search Engine Optimization|Search Engine Optimization]]
+[[concepts/Explainers for AI/Generative Engine Optimization|Generative Engine Optimization]]
+

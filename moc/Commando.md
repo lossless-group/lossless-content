@@ -4,10 +4,10 @@ date_modified: 2025-08-09
 ---
 
 :::portfolio
-- [[client-content/Hypernova/Portfolio/Maven Clinic|Maven Clinic]]
-- [[client-content/Hypernova/Portfolio/Ontra|Ontra]]
-- [[client-content/Hypernova/Portfolio/Andela|Andela]]
+- [[client-content/Hypernova/Files/Portfolio/Maven Clinic|Maven Clinic]]
+- [[client-content/Hypernova/Files/Portfolio/Ontra|Ontra]]
+- [[client-content/Hypernova/Files/Portfolio/Andela|Andela]]
 - [[Tooling/Portfolio/PhotoMath|PhotoMath]]
-- [[client-content/Hypernova/Portfolio/Yassir|Yassir]]
+- [[client-content/Hypernova/Files/Portfolio/Yassir|Yassir]]
 :::
 

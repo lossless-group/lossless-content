@@ -1,6 +1,6 @@
 ---
 date_created: 2025-09-05
-date_modified: 2025-09-05
+date_modified: 2025-11-20
 tags: [DevOps, Developer-Experience, State-Of-The-Art-Practices]
 site_uuid: d5ba0439-2933-4470-8b17-2a501013eb6f
 publish: true
@@ -9,10 +9,13 @@ slug: platform-engineering
 at_semantic_version: 0.0.1.1
 lede: "An emerging field for State of the Art technology companies. "
 ---
-[[concepts/Event-Driven Architecture]]
-
+[[concepts/Event-Driven Architecture|Event-Driven Architecture]]
+[[concepts/Explainers for Tooling/Observability Platforms|Observability Platforms]]
 [[Vocabulary/Dev Ops|DevOps]]
 
+:::tool-showcase
+- [[Tooling/Software Development/DevOps/Upsun|Upsun]]
+:::
 ***
 > [!llm-response] **Perplexity Query** (2025-09-05T11:27:17.869Z)
 > **Question:**

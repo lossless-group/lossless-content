@@ -17,7 +17,7 @@ lede: "An exploration into using AI supervisors and specialized agents to genera
 
 ## Context
 
-Investment memos at [[moc/Hypernova|Hypernova]] follow a specific analytical format developed through deals like [[client-content/Hypernova/Portfolio/Aalo Atomics|Aalo Atomics]] (Series B, nuclear microreactors) and [[client-content/Hypernova/Portfolio/Star Catcher|Star Catcher]] (Pre-Series A, space power infrastructure). These memos balance:
+Investment memos at [[moc/Hypernova|Hypernova]] follow a specific analytical format developed through deals like [[client-content/Hypernova/Files/Portfolio/Aalo Atomics|Aalo Atomics]] (Series B, nuclear microreactors) and [[client-content/Hypernova/Files/Portfolio/Star Catcher|Star Catcher]] (Pre-Series A, space power infrastructure). These memos balance:
 - **Enthusiasm** for frontier technology and macro tailwinds
 - **Skepticism** about execution risks and market uncertainties
 - **Specificity** over generalization (exact metrics, named investors, dated milestones)

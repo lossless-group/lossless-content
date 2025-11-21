@@ -37,12 +37,12 @@ His AI related investments include:
 
 | Internal Link                                              | External Link                                     | In Portfolio                                              |
 | ---------------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------------- |
-| [[client-content/Hypernova/Portfolio/Ontra\|Ontra]]                         | [Ontra](https://ontra.ai)                         | Angel, [[client-content/Hypernova/Hypernova Capital\|Hypernova]] |
+| [[client-content/Hypernova/Files/Portfolio/Ontra\|Ontra]]                         | [Ontra](https://ontra.ai)                         | Angel, [[client-content/Hypernova/Hypernova Capital\|Hypernova]] |
 | [[Tooling/AI-Toolkit/Model Producers/Thinking Machines\|Thinking Machines]] | [Thinking Machines](https://thinkingmachines.ai/) | [[client-content/Hypernova/Hypernova Capital\|Hypernova]]        |
 | [[Tooling/AI-Toolkit/Model Producers/Harmonic\|Harmonic]]                   | [Harmonic](https://harmonic.fun/)                 | [[client-content/Hypernova/Hypernova Capital\|Hypernova]]        |
 | [[Tooling/AI-Toolkit/Model Producers/Ruya\|Ruya]]                           | [Ruya AI/](https://www.ruya.ai/)                  | [[client-content/Hypernova/Hypernova Capital\|Hypernova]]        |
 | [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Catio\|Catio]]                         | [Catio](https://www.catio.tech/)                  | [[client-content/Hypernova/Hypernova Capital\|Hypernova]]        |
-| [[client-content/Hypernova/Portfolio/Aalo Atomics\|Aalo Atomics]]           | [Aalo Atomics](https://www.aalo.com/)             | [[client-content/Hypernova/Hypernova Capital\|Hypernova]]        |
+| [[client-content/Hypernova/Files/Portfolio/Aalo Atomics\|Aalo Atomics]]           | [Aalo Atomics](https://www.aalo.com/)             | [[client-content/Hypernova/Hypernova Capital\|Hypernova]]        |
 | [[Tooling/Portfolio/Sana Labs\|Sana Labs]]                 | [Sana Labs](https://sanalabs.com/)                | [[Tooling/Portfolio/Learn Capital\|Learn Capital]]        |
 | [[Tooling/Portfolio/PhotoMath\|PhotoMath]]                 | [PhotoMath](https://photomath.com/)               | [[Tooling/Portfolio/Learn Capital\|Learn Capital]]        |
 | [[Tooling/Training/Mindstone\|Mindstone]]                  | [Mindstone](https://www.mindstone.com)            | [[Tooling/Portfolio/Learn Capital\|Learn Capital]]        |

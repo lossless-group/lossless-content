@@ -6,6 +6,6 @@
 :::
 
 :::portfolio
-- [[Aalo Atomics]]
+- [[client-content/Hypernova/Files/Portfolio/Aalo Atomics]]
 - [[Pencil Spaces]]
 :::

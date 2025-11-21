@@ -1,6 +1,6 @@
 ---
 date_created: 2025-06-05
-date_modified: 2025-10-21
+date_modified: 2025-11-20
 slug: from-engineering-to-managing-large-codebases
 title: 'From Software Engineering To Managing Large Codebases'
 lede: 'AI is already supporting individual engineers with particular tasks. How can it support large organizations with many teams and millions of lines of code?'
@@ -21,7 +21,7 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-06
 
 [[Tooling/AI-Toolkit/Model Producers/Anthropic|Anthropic]] and [[Tooling/AI-Toolkit/Model Producers/OpenAI|OpenAI]] are in [[essays/The AI Model Wars|The AI Model Wars]]
 
-
+[[Tooling/Software Development/DevOps/Upsun|Upsun]]
 
 ***
 > [!LLM-Response] **Perplexity Deep Research Query** (2025-09-23T14:09:57.061Z)
@@ -77,7 +77,7 @@ Standardization becomes more achievable in monorepo environments, where it's eas
 
 ### Advanced Build Systems for Monorepos
 
-The success of monorepo strategies depends heavily on sophisticated build systems capable of managing the complexity and scale involved. Bazel has emerged as a leading solution for this challenge, originally developed by Google as an open-source version of their internal Blaze tool. [^dy2rf8] Bazel's design philosophy centers on solving two critical problems that plague large codebases: wasted build time and wasted troubleshooting time. [^po57ko]
+The success of monorepo strategies depends heavily on sophisticated [[Vocabulary/Build Systems|Build Systems]] capable of managing the complexity and scale involved. [[Tooling/Software Development/Developer Experience/DevTools/Bazel]] has emerged as a leading solution for this challenge, originally developed by Google as an open-source version of their internal Blaze tool. [^dy2rf8] Bazel's design philosophy centers on solving two critical problems that plague large codebases: wasted build time and wasted troubleshooting time. [^po57ko]
 
 Bazel addresses wasted build time through parallel builds and caching mechanisms that ensure only affected parts of the code are recompiled when changes occur. [^7gvc5z] For example, if a developer modifies a utility function used by one microservice, Bazel detects that only this microservice needs rebuilding, not the entire monorepo. This dependency analysis keeps build times manageable and shortens development feedback loops, which is crucial for maintaining developer productivity in large codebases. [^7gvc5z]
 

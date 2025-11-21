@@ -22,7 +22,7 @@ for_clients:
 
 # **Ben Parr and Theory Forge Ventures: Powering the Next Wave of AI Innovation**
 
-Ben Parr is an influential AI entrepreneur, investor, and author, best known as the Managing Partner and Co-Founder of **[[client-content/Hypernova/Portfolio/TheoryForge|TheoryForge]] Ventures**, a venture capital fund focused on backing transformative AI-native startups at the earliest stages. [^e45nv6] [^7wl7sj] Parr’s work at Theory Forge is significant because it addresses the critical funding and guidance gap faced by emerging AI founders, providing both capital and hands-on support to help shape the industries of tomorrow. [^e45nv6] [^is03wi]
+Ben Parr is an influential AI entrepreneur, investor, and author, best known as the Managing Partner and Co-Founder of **[[client-content/Hypernova/Files/Portfolio/TheoryForge|TheoryForge]] Ventures**, a venture capital fund focused on backing transformative AI-native startups at the earliest stages. [^e45nv6] [^7wl7sj] Parr’s work at Theory Forge is significant because it addresses the critical funding and guidance gap faced by emerging AI founders, providing both capital and hands-on support to help shape the industries of tomorrow. [^e45nv6] [^is03wi]
 
 ![Ben Parr, Theory Forge concept diagram or illustration](https://images.castfire.com/image/660/7713/35830/7767313/7767313_2025-10-17-101113-8333451.jpg)
 

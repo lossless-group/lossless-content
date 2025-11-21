@@ -6,7 +6,7 @@ site_uuid: 070fcc3b-1d19-404e-91ff-0289dfe53017
 
 [[Lindy AI]]
 
-[[client-content/Hypernova/Portfolio/Ontra|Ontra]], [[concepts/Explainers for Tooling/Contract Automation]]
+[[client-content/Hypernova/Files/Portfolio/Ontra|Ontra]], [[concepts/Explainers for Tooling/Contract Automation]]
 
 
 ## Intelligent Agreement Management

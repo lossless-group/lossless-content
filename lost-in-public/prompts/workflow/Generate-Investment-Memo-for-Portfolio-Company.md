@@ -25,7 +25,7 @@ Generate investment opportunity briefs for [[moc/Hypernova|Hypernova]] portfolio
 
 # Context
 
-Hypernova's investment memos follow a specific format developed through deals like [[client-content/Hypernova/Portfolio/Aalo Atomics|Aalo Atomics]] (Series B, nuclear microreactors) and [[client-content/Hypernova/Portfolio/Star Catcher|Star Catcher]] (Pre-Series A, space power infrastructure). The memos balance:
+Hypernova's investment memos follow a specific format developed through deals like [[client-content/Hypernova/Files/Portfolio/Aalo Atomics|Aalo Atomics]] (Series B, nuclear microreactors) and [[client-content/Hypernova/Files/Portfolio/Star Catcher|Star Catcher]] (Pre-Series A, space power infrastructure). The memos balance:
 - **Enthusiasm** for frontier technology and macro tailwinds
 - **Skepticism** about execution risks and market uncertainties
 - **Specificity** over generalization (exact metrics, named investors, dated milestones)

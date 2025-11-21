@@ -16,7 +16,7 @@ description: "Design your AI podcast's hosts, sources, and outline. We'll automa
 tags: [AI-Toolkit, Generative-AI]
 ---
 
-[[concepts/Explainers for AI/Voice Generator]]
+[[concepts/Explainers for AI/Voice Generators]]
 
 ##### Jellypod generates conversations with [[Generative AI]]
 ![[Screenshot 2025-02-20 at 1.54.57 AM_JellyPod--Hero.png]]

@@ -21,7 +21,7 @@ This explains the need for and the rise of [[concepts/On-Demand Talent|On-Demand
 Talent Networks include:
 
 :::tool-showcase
-- [[client-content/Hypernova/Portfolio/Andela|Andela]]
+- [[client-content/Hypernova/Files/Portfolio/Andela|Andela]]
 - [[organizations/ScaleArmy|ScaleArmy]]
 - [[organizations/TopTal|TopTal]]
 - [[Tooling/AI-Toolkit/Invisible.co|Invisible.co]]

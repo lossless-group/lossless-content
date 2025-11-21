@@ -1,14 +1,16 @@
 ---
 date_created: 2025-08-17
-date_modified: 2025-08-25
+date_modified: 2025-11-20
 ---
 :::tool-showcase
 tag: Large Codebase AI
 :::
 
-[[Tooling/AI-Toolkit/Generative AI/Code Generators/DX.ai|DX.ai]]
-[[Tooling/Software Development/Developer Experience/DevOps/SonarQube]]
-
+:::tool-showcase
+- [[Tooling/AI-Toolkit/Generative AI/Code Generators/DX.ai|DX.ai]]
+- [[Tooling/Software Development/Developer Experience/DevOps/SonarQube|SonarQube]]
+- [[Tooling/Software Development/DevOps/Upsun|Upsun]]
+:::
 ***
 > [!info] **Perplexity Query** (2025-08-17T11:44:31.094Z)
 > **Question:**

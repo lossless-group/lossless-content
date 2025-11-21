@@ -21,29 +21,29 @@ url: https://hypernova.capital/
 
 # GP Partner Commitments
 :::tool-showcase
-- [[client-content/Hypernova/Portfolio/Class5 Global|Class5 Global]]
-- [[client-content/Hypernova/Portfolio/KearnyJackson|KearnyJackson]]
-- [[client-content/Hypernova/Portfolio/Dont Quit|Dont Quit]]
-- [[client-content/Hypernova/Portfolio/TheoryForge|TheoryForge]]
-- [[client-content/Hypernova/Portfolio/Watershed|Watershed]]
-- [[client-content/Hypernova/Portfolio/Javelin Venture Partners|Javelin Venture Partners]]
+- [[client-content/Hypernova/Files/Portfolio/Class5 Global|Class5 Global]]
+- [[client-content/Hypernova/Files/Portfolio/KearnyJackson|KearnyJackson]]
+- [[client-content/Hypernova/Files/Portfolio/Dont Quit|Dont Quit]]
+- [[client-content/Hypernova/Files/Portfolio/TheoryForge|TheoryForge]]
+- [[client-content/Hypernova/Files/Portfolio/Watershed|Watershed]]
+- [[client-content/Hypernova/Files/Portfolio/Javelin Venture Partners|Javelin Venture Partners]]
 - [[Tooling/Portfolio/Avalanche VC|Avalanche VC]]
 :::
 
 # Direct Investments
 :::tool-showcase
-- [[client-content/Hypernova/Portfolio/Blue Layer|Blue Layer]]
-- [[client-content/Hypernova/Portfolio/Aalo Atomics|Aalo Atomics]]
-- [[client-content/Hypernova/Portfolio/Andela|Andela]]
-- [[client-content/Hypernova/Portfolio/Star Catcher|Star Catcher]]
-- [[client-content/Hypernova/Portfolio/Ontra|Ontra]]
-- [[client-content/Hypernova/Portfolio/Andela|Andela]]
-- [[client-content/Hypernova/Portfolio/Maven Clinic|Maven Clinic]]
+- [[client-content/Hypernova/Files/Portfolio/Blue Layer|Blue Layer]]
+- [[client-content/Hypernova/Files/Portfolio/Aalo Atomics|Aalo Atomics]]
+- [[client-content/Hypernova/Files/Portfolio/Andela|Andela]]
+- [[client-content/Hypernova/Files/Portfolio/Star Catcher|Star Catcher]]
+- [[client-content/Hypernova/Files/Portfolio/Ontra|Ontra]]
+- [[client-content/Hypernova/Files/Portfolio/Andela|Andela]]
+- [[client-content/Hypernova/Files/Portfolio/Maven Clinic|Maven Clinic]]
 - [[Tooling/AI-Toolkit/Model Producers/Thinking Machines|Thinking Machines]]
 - [[Tooling/AI-Toolkit/Model Producers/Harmonic|Harmonic]]
 - [[Tooling/AI-Toolkit/Model Producers/Ruya|Ruya]]
 - [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Catio|Catio]]
-- [[client-content/Hypernova/Portfolio/Yassir|Yassir]]
+- [[client-content/Hypernova/Files/Portfolio/Yassir|Yassir]]
 - [[Tooling/Data Utilities/Bruin|Bruin]]
 :::
 
