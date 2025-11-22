@@ -16,5 +16,5 @@ tags:
   - Self-Hosted-Alternatives
 ---
 
-Open source alternative to [[Miro]], [[FigJam]],
+Open source alternative to [[Tooling/Productivity/Web Meetings/Miro]], [[FigJam]],
 https://youtu.be/U6FgW9sF8Cc?si=SbKpG5cXMQ3iET4Y

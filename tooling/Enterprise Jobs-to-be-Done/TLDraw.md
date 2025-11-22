@@ -15,7 +15,7 @@ og_url: 'https://www.tldraw.com/'
 description: 'A free and instant collaborative whiteboarding tool.'
 ---
 
-[[Collaborative Whiteboard]]
+[[Vocabulary/Collaborative Whiteboards]]
 
 
 https://youtu.be/u1016UnJIgA?si=xerPv3AE4SfScqmE

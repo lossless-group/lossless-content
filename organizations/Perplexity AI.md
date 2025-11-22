@@ -3,7 +3,7 @@ url: https://www.perplexity.ai/
 tags: [Model-Producers]
 mcp_server: https://github.com/ppl-ai/modelcontextprotocol/tree/main
 date_created: 2025-04-25
-date_modified: 2025-11-20
+date_modified: 2025-11-22
 aliases: [Perplexity]
 ---
 
@@ -27,6 +27,7 @@ https://youtu.be/flfF8mbwFv4?si=-f1SZ7U3fJ-QrHDP
 https://youtu.be/21XeSfqzpfI?si=ocMcPdYpR5DrXKHM
 
 
+![Perplexity Enterprise](https://downloads.intercomcdn.com/i/o/l2wyozh0/1836924944/46f9b0b7100cd9d82f9703e126b6/Screenshot+2025-11-18+at+15_39_18.png?expires=1763830800&signature=d0457a134bbeebf98fd60f8f85b2f65c1097ea078ce11cf256d92e5758052623&req=dSgkEMB8mYhbXfMW1HO4zf0J1wgD7xxOe7zuV4o%2BjtS8s%2FWHH6B0vlp9j8Oe%0AulQf%0A)
 
 ***
 > [!info] **Perplexity Query** (2025-11-20T13:32:33.737Z)

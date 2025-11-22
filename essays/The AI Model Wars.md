@@ -8,7 +8,7 @@ status: To-Do
 augmented_with: 'Perplexica AI'
 category: 'Megatrend-Context'
 date_created: 2025-06-05
-date_modified: 2025-11-02
+date_modified: 2025-11-21
 site_uuid: 228b1643-27e9-4ee1-9bb7-4a7692d18896
 image_prompt: 'A dystopian future inside a Data Center where humanoid robots are connecting servers to wires. One robot is carrying a larger server on his back and is sweating'
 tags: [AI-Models, Model-Vendors, Cloud-Infrastructure, Data-Centers]
@@ -24,7 +24,12 @@ https://youtu.be/0rifnPTTBd8?si=mUiToFF_fuMO4j_v
 
 https://youtube.com/shorts/7mN1WbxDbnQ?si=Yy-EE8ZwjKXcbDld
 
+https://youtu.be/V5fsLN69Erg?si=r4n1-CxtEgdBVBCC
 
+![Practical example or use case visualization](https://media.nature.com/lw767/magazine-assets/d41586-025-01033-y/d41586-025-01033-y_50831832.jpg)
+
+[[Tooling/AI-Toolkit/AI Infrastructure/CoreWeave|CoreWeave]]
+[[Tooling/AI-Toolkit/AI Infrastructure/Crusoe]]
 
 ***
 > [!info] **Perplexity Query** (2025-09-17T17:43:58.385Z)
@@ -38,43 +43,39 @@ The AI Layer 1 blockchain space represents a rapidly evolving intersection of ar
 
 ## **Leading AI Layer 1 Blockchain Projects**
 
-**Bittensor** stands as the most established player in this space, functioning as a decentralized AI network infrastructure that breaks down centralized barriers in traditional AI research and development[^u4vyfy]. The platform operates with a sophisticated dual-layer architecture featuring a root network (mainnet) that coordinates the entire system, verifies transactions, and manages TAO token issuance while serving as the hub for resource allocation across the network[^u4vyfy]. Bittensor has gained significant traction by creating an open peer-to-peer ecosystem where participants receive rewards based on their contributions to the network, distinguishing it from centralized AI systems like OpenAI[^u4vyfy].
+**Bittensor** stands as the most established player in this space, functioning as a decentralized AI network infrastructure that breaks down centralized barriers in traditional AI research and development. [^u4vyfy] The platform operates with a sophisticated dual-layer architecture featuring a root network (mainnet) that coordinates the entire system, verifies transactions, and manages TAO token issuance while serving as the hub for resource allocation across the network. [^u4vyfy] Bittensor has gained significant traction by creating an open peer-to-peer ecosystem where participants receive rewards based on their contributions to the network, distinguishing it from centralized AI systems like OpenAI. [^u4vyfy]
 
-**Kite AI** represents one of the newest entrants, having launched its incentive testnet on February 6, 2025, marking it as the first AI-native Layer 1 sovereign blockchain testnet[^u4vyfy]. While still in early stages, its focus on being AI-native from the ground up positions it as a potential significant player in the space.
+**Kite AI** represents one of the newest entrants, having launched its incentive testnet on February 6, 2025, marking it as the first AI-native Layer 1 sovereign blockchain testnet. [^u4vyfy] While still in early stages, its focus on being AI-native from the ground up positions it as a potential significant player in the space.
 
-**Vana, Nillion, and Sahara** round out the five major AI Layer1 projects identified in current market analysis[^u4vyfy]. These platforms each exhibit diverse characteristics in terms of technical architecture, application scenarios, and business models, though specific traction metrics for these projects require further detailed analysis.
-
-![Relevant diagram or illustration related to the topic](https://iot-analytics.com/wp-content/uploads/2023/12/Leading-generative-AI-companies-vfeatured-image.png)
+**Vana, Nillion, and Sahara** round out the five major AI Layer1 projects identified in current market analysis. [^u4vyfy] These platforms each exhibit diverse characteristics in terms of technical architecture, application scenarios, and business models, though specific traction metrics for these projects require further detailed analysis.
 
 ## **Supporting Infrastructure Players**
 
 Several projects provide crucial infrastructure support for AI applications on blockchain:
 
-**Numerai (NMR)** has established itself in the artificial intelligence space with a $200 million market cap, revolutionizing hedge fund management through crowdsourced machine learning models[^npq6lz]. The platform enables data scientists to compete in creating predictive models while earning NMR token rewards, leveraging collective intelligence for superior investment strategies[^npq6lz].
+**Numerai (NMR)** has established itself in the artificial intelligence space with a $200 million market cap, revolutionizing hedge fund management through crowdsourced machine learning models. [^npq6lz] The platform enables data scientists to compete in creating predictive models while earning NMR token rewards, leveraging collective intelligence for superior investment strategies. [^npq6lz]
 
-**Cortex (CTXC)** offers a unique proposition with its $80 million market cap, enabling AI execution directly on the blockchain[^npq6lz]. This allows developers to deploy and run AI models in a decentralized and trustless manner, supporting AI-powered smart contracts and decentralized autonomous organizations with AI capabilities[^npq6lz].
+**Cortex (CTXC)** offers a unique proposition with its $80 million market cap, enabling AI execution directly on the blockchain. [^npq6lz] This allows developers to deploy and run AI models in a decentralized and trustless manner, supporting AI-powered smart contracts and decentralized autonomous organizations with AI capabilities. [^npq6lz]
 
 ![Practical example or use case visualization](https://iot-analytics.com/wp-content/uploads/2025/03/GenAI-market-share-2024-Generative-AI-services-vw.png)
 
 ## **Computing Infrastructure Providers**
 
-**Golem (GLM)** has achieved significant traction with a $250 million market cap by creating a decentralized supercomputer that harnesses idle computers worldwide[^npq6lz]. Users can rent spare computing power for tasks including AI model training, CGI rendering, and scientific research, democratizing access to high-performance computing[^npq6lz].
+**Golem (GLM)** has achieved significant traction with a $250 million market cap by creating a decentralized supercomputer that harnesses idle computers worldwide. [^npq6lz] Users can rent spare computing power for tasks including AI model training, CGI rendering, and scientific research, democratizing access to high-performance computing. [^npq6lz]
 
-**Akash Network (AKT)** operates as a decentralized cloud computing marketplace with a $300 million market cap, connecting users needing computing resources with providers having spare capacity[^npq6lz]. This creates a more efficient and cost-effective cloud computing ecosystem particularly beneficial for AI applications requiring significant computing power[^npq6lz].
+**Akash Network (AKT)** operates as a decentralized cloud computing marketplace with a $300 million market cap, connecting users needing computing resources with providers having spare capacity. [^npq6lz] This creates a more efficient and cost-effective cloud computing ecosystem particularly beneficial for AI applications requiring significant computing power. [^npq6lz]
 
-**Render Token (RNDR)** disrupts the GPU rendering landscape through its decentralized network of GPU providers, enabling access to high-performance computing resources for animation, visual effects, and AI-powered image generation at reduced costs compared to traditional solutions[^npq6lz].
+**Render Token (RNDR)** disrupts the GPU rendering landscape through its decentralized network of GPU providers, enabling access to high-performance computing resources for animation, visual effects, and AI-powered image generation at reduced costs compared to traditional solutions. [^npq6lz]
 
 ## **Traditional Layer 1 Platforms with AI Integration**
 
 Several established Layer 1 blockchains are integrating AI capabilities:
 
-**Ethereum** continues to power thousands of decentralized applications and is increasingly being used as infrastructure for AI-related projects[^46fzl3].
+**Ethereum** continues to power thousands of decentralized applications and is increasingly being used as infrastructure for AI-related projects. [^46fzl3]
 
-**Solana** positions itself as a highly scalable Layer 1 blockchain built for mass adoption, with its high throughput making it suitable for AI applications requiring rapid processing[^46fzl3].
+**Solana** positions itself as a highly scalable Layer 1 blockchain built for mass adoption, with its high throughput making it suitable for AI applications requiring rapid processing. [^46fzl3]
 
-**Near Protocol** offers a climate-neutral, high-speed, and low transaction fee Layer-1 blockchain protocol that supports AI development[^46fzl3].
-
-![Additional supporting visual content](https://iot-analytics.com/wp-content/uploads/2025/03/GenAI-market-share-2024-Datacenter-GPUs-vw.png)
+**Near Protocol** offers a climate-neutral, high-speed, and low transaction fee Layer-1 blockchain protocol that supports AI development. [^46fzl3]
 
 ## **Market Traction Assessment**
 

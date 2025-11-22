@@ -19,5 +19,5 @@ tags:
   - Open-Source
 ---
 
-[[Collaborative Whiteboard]], [[concepts/Explainers for Tooling/Advanced Documents]]
+[[Vocabulary/Collaborative Whiteboards]], [[concepts/Explainers for Tooling/Advanced Documents]]
 [[Open Source]]

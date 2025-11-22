@@ -1,7 +1,7 @@
 ---
 url: "https://seabound.co"
 date_created: 2025-07-21
-date_modified: 2025-11-19
+date_modified: 2025-11-21
 og_title: Seabound
 og_description: "Seabound locks CO₂ emissions in solid, easy-to-offload carbonate pebbles."
 og_image: "https://i.imgur.com/HtvzcrJ.png"
@@ -21,11 +21,11 @@ tags: [Blue-Economy-Solutions, Carbon-Capture-Solutions, Safer-Shipping-Solution
 | 3. Proposition | What are you promising your target customer and your stakeholder?  How do you frame a solution or a hope for something better?                                                  |
 
 
-| 2. Opening     | How big is this problem, how urgent is it, and how can this company compete?                                                                                                                     |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4. Problem     | How many of these target customers are there? How is the "market" experiencing something similar to your Persona & P                                                                             |
-| 5. Possibility | How big is the Total Addressable Market? How could you define a Service Addressable Market?  How could you define a Service Obtainable Market?  How big are these nu                             |
-| 6. Posit How does this company frame their offering to pursue a "Blue Ocean Strategy"?  How do they intend to grow faster than the competition? What do they believe will be their competitive moats?    moats?   |
+| 2. Opening     | How big is this problem, how urgent is it, and how can this company compete?                                                                                                                            |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 4. Problem     | How many of these target customers are there? How is the "market" experiencing something similar to your Persona & P                                                                                    |
+| 5. Possibility | How big is the Total Addressable Market? How could you define a Service Addressable Market?  How could you define a Service Obtainable Market?  How big are these nu                                    |
+| 6. Positioning |  How does this company frame their offering to pursue a "Blue Ocean Strategy"?  How do they intend to grow faster than the competition? What do they believe will be their competitive moats?    moats? |
 
 
 | 3. Organization | Who is this company, and how are they _on the way_ to achieving something profound and remarkable? |
@@ -35,11 +35,11 @@ tags: [Blue-Economy-Solutions, Carbon-Capture-Solutions, Safer-Shipping-Solution
 | 9. Product      |                                                                                                    |
 
 
-| 4. Offering    |  What is they are specifically building, offering, and serving to the market? |
-| -------------- | ----------------------------------------------------------------------------- |
-| 3. Proposition |                                                                               |
-| 6. Positioning |                                                                               |
-| 9. Product     |                                                                               |
+| 4. Offering    | What is they are specifically building, offering, and serving to the market? |
+| -------------- | ---------------------------------------------------------------------------- |
+| 3. Proposition |                                                                              |
+| 6. Positioning |                                                                              |
+| 9. Product     |                                                                              |
 
 
 | 5. Opportunity | Is this worth investing in, in relation to our other opportunity costs on the cash and time investment?                                                                                                                |

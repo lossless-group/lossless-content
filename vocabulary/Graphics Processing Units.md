@@ -1,5 +1,5 @@
 ---
-date_modified: 2025-06-07
+date_modified: 2025-11-21
 site_uuid: 79b226c9-aaab-4b26-af05-d49c123acf39
 date_created: 2025-04-06
 aliases: [GPU Architecture, GPU, GPUs]
@@ -9,7 +9,9 @@ https://youtu.be/Bi0NGT2E7nE?si=ReYVHbufciTVrHup
 
 https://youtu.be/wYTHR9ExntE?si=5Dx8WveHVE3ghLBP
 
-[[organizations/Nvidia]]
+https://youtu.be/IS5FovPfvf0?si=cNWse1tUq_OdJIrP
+
+[[organizations/Nvidia|Nvidia]]
 
 [[concepts/Explainers for AI/Artificial Intelligence|AI]] [[Machine Learning]]
 [[AI Models]]

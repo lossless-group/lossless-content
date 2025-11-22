@@ -12,7 +12,7 @@ status: Idea
 augmented_with: "Claude Sonnet 4 on Warp"
 category: Open-Ideas
 date_created: 2025-05-10
-date_modified: 2025-11-19
+date_modified: 2025-11-22
 authors:
   - Michael Staton
 image_prompt: "A closeup view of a monitor, a laptop, and a mobile device. The laptop has a text editor, it looks like a markdown editor, a simple version of a document editor.  There is some text there, headers, etc. On the monitor and on the mobile the same text is rendered as a beautiful web page.  There are connecting lines from the laptop to the monitor and the phone"
@@ -39,16 +39,26 @@ We have open standards like [[projects/Emergent-Innovation/Standards/WebGL|WebGL
 We now have a next generation [[Vocabulary/Cross-Platform Applications|Cross-Platform]] framework to build [[Vocabulary/Cross-Platform Applications|Cross-Platform Applications]] with libraries like [[projects/Emergent-Innovation/wgpu|wgpu]].
 
 # Features
-Aliases: defaults to plural, singular, acronym, acronym plural. 
-Show, hide HTML, CSS
+### Aliases & Variants: defaults to plural, singular, acronym, acronym plural. 
+### Show, hide HTML, CSS
 Apps and [[Vocabulary/Plug-ins,  Add-ons,  Extensions|Plug-ins,  Add-ons,  Extensions]]
 Use [[Tooling/Software Development/Frameworks/Frontend/UI Frameworks/Tailwind|Tailwind]]
 
-Only deal with [[projects/Emergent-Innovation/Standards/Markdown|Extended Markdown]], 
+Only deal with [[projects/Emergent-Innovation/Standards/Markdown|Extended Markdown]].  Sytnax definer, to web components. 
 
+### Terminal Emulator Interface
 Embedded [[concepts/Explainers for AI/AI Integrations|AI Integrations]] for both [[concepts/Content Generation|Content Generation]] and [[Vocabulary/Web Development|Web Development]]. 
 
 Build once play anywhere [[Vocabulary/Cross-Platform Applications|Cross-Platform Applications]] with [[Tooling/Software Development/Programming Languages/Rust|Rust]] using [[Tooling/Software Development/Programming Languages/Libraries/wgpu|wgpu]]
+
+### Projects
+
+### Tools, Programs, Code etc.
+Write your own tools to manipulate text. 
+
+#### Improve Section
+
+#### Suggest Edits
 
 Private notes
 Variants
@@ -58,6 +68,9 @@ Components
 
 ## Context, IDs, Windows
 So, if I'm writing about something, I want it to be connected to that something.  Yet, it doesn't need to appear over and over. 
+
+### AST object IDs for sections, paragraphs
+
 
 ### Appearances
 
@@ -95,6 +108,7 @@ Sources
 [[Tooling/Software Development/Programming Languages/Libraries/Glow|Glow]]
 [[Tooling/Software Development/Programming Languages/Libraries/Unified.js|Unified.js]]
 [[Tooling/Software Development/Programming Languages/Libraries/Remark.js|Remark.js]]
+[[Tooling/Software Development/Frameworks/Web Frameworks/MDX|MDX]]
 
 # Inspiration Set
 [[Tooling/Productivity/Advanced Documents/Quip|Quip]]
