@@ -1130,4 +1130,4 @@ The $50M Series A (May 2025) from top-tier investors supports enterprise-grade p
 
   
 
-[^jufms2]: 2025, Nov 10. [Testing Top 5 AI Video Generator Models with Higgsfield's Prompt Team](https://higgsfield.ai/blog/Testing-Top-5-AI-Video-Generator-Models). Higgsfield. Published: 2025-11-10 | Updated: N/A
+[^jufms2]: 2025, Nov 10. [Testing Top 5 AI Video Generator Models with Higgsfield's Prompt Team](https://higgsfield.ai/blog/Testing-Top-5-AI-Video-Generator-Models). Higgsfield. Published: 2025-11-10 | Updated: N/Ax

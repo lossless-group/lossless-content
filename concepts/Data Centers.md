@@ -1,6 +1,7 @@
 ---
 date_created: 2025-07-09
-date_modified: 2025-07-09
+date_modified: 2025-11-23
+aliases: [Data Center]
 ---
 
 # Major Companies and Organizations Building Data Centers Around the World
@@ -13,15 +14,15 @@ The largest data center operators globally are **hyperscale cloud providers** wh
 
 ### Leading Cloud Giants
 
-**Amazon Web Services (AWS)** maintains the world's largest data center footprint, operating over 100 facilities with more than 33,500 MW of capacity globally[^893d57]. AWS has announced plans to invest $150 billion over 15 years to expand its cloud infrastructure[^92012b], with recent major projects including an $11 billion investment in Indiana, $10 billion in Ohio, and $6 billion in Virginia[^841363].
+**[[Tooling/Software Development/Cloud Infrastructure/Amazon Web Services|Amazon Web Services]] (AWS)** maintains the world's largest data center footprint, operating over 100 facilities with more than 33,500 MW of capacity globally[^893d57]. AWS has announced plans to invest $150 billion over 15 years to expand its cloud infrastructure[^92012b], with recent major projects including an $11 billion investment in Indiana, $10 billion in Ohio, and $6 billion in Virginia[^841363].
 
-**Microsoft Azure** operates more than 200 data centers across 62 cloud regions worldwide[^893d57]. The company has committed to investing approximately $80 billion in AI-enabled data centers during fiscal year 2025, with more than half of this investment targeted for the United States[^1deb0c]. Microsoft's facilities are designed to be within 20 kilometers of existing data centers in their regional networks to meet strict latency requirements[^893d57].
+**[[Tooling/Software Development/Cloud Infrastructure/Azure|Microsoft Azure]]** operates more than 200 data centers across 62 cloud regions worldwide[^893d57]. The company has committed to investing approximately $80 billion in AI-enabled data centers during fiscal year 2025, with more than half of this investment targeted for the United States[^1deb0c]. Microsoft's facilities are designed to be within 20 kilometers of existing data centers in their regional networks to meet strict latency requirements[^893d57].
 
-**Google Cloud Platform** operates over 200 data centers across multiple regions globally[^893d57]. The company has committed to spending $100 billion on AI infrastructure over time[^1deb0c] and is investing in mega energy parks that will generate renewable power for its data centers[^1c8f6b]. Google's strategy includes partnerships with independent power producers to build large energy plants adjacent to data center campuses[^1c8f6b].
+**[[Tooling/Software Development/Cloud Infrastructure/Google Cloud|Google Cloud Platform]]** operates over 200 data centers across multiple regions globally[^893d57]. The company has committed to spending $100 billion on AI infrastructure over time[^1deb0c] and is investing in mega energy parks that will generate renewable power for its data centers[^1c8f6b]. Google's strategy includes partnerships with independent power producers to build large energy plants adjacent to data center campuses[^1c8f6b].
 
 **Meta Platforms** (formerly Facebook) operates 21+ data centers globally for its social media platforms and AI infrastructure[^893d57]. The company has increased its capital expenditures to $65 billion in 2025, up from $38 billion in 2024[^cfc567], including a $10 billion data center project in Louisiana that will be Meta's largest facility worldwide[^1c8f6b].
 
-**Oracle Cloud Infrastructure** operates 41+ cloud regions globally[^717341] and is participating in the massive $500 billion Stargate AI infrastructure initiative alongside OpenAI and SoftBank[^92012b]. This project represents one of the largest private sector investments in AI infrastructure[^97fa12].
+**[[Oracle Cloud Infrastructure]]** operates 41+ cloud regions globally[^717341] and is participating in the massive $500 billion Stargate AI infrastructure initiative alongside OpenAI and SoftBank[^92012b]. This project represents one of the largest private sector investments in AI infrastructure[^97fa12].
 ### Other Major Cloud Providers
 
 **Alibaba Cloud**, China's largest cloud provider, operates more than 80 availability zones globally and had an 18% market share in China's cloud infrastructure service spend in 2021[^cc0c70]. **Tencent Cloud** operates over 70 availability zones worldwide, while **IBM Cloud** maintains 60+ zones with a focus on hybrid cloud solutions and enterprise services[^717341].
@@ -82,13 +83,13 @@ According to Building Design+Construction's 2024 ranking, the top data center co
 
 ### AI-Focused Companies
 
-**CoreWeave** announced a $9 billion acquisition of Core Scientific in 2025, representing one of the largest transactions in the AI infrastructure space[^98c982]. The company specializes in GPU-optimized cloud infrastructure for AI workloads[^fde20c].
+**[[Tooling/AI-Toolkit/AI Infrastructure/CoreWeave|CoreWeave]]** announced a $9 billion acquisition of Core Scientific in 2025, representing one of the largest transactions in the AI infrastructure space[^98c982]. The company specializes in GPU-optimized cloud infrastructure for AI workloads[^fde20c].
 
-**xAI** (Elon Musk's AI company) has pursued billion-dollar investments in AI data centers and hardware[^1deb0c]. The company created AI data centers in a factory in Tennessee[^1deb0c].
+**[[xAI]]** (Elon Musk's AI company) has pursued billion-dollar investments in AI data centers and hardware[^1deb0c]. The company created AI data centers in a factory in Tennessee[^1deb0c].
 
 ### Investment Firms
 
-**Blackstone** is investing $13 billion in a hyperscale data center in Northern England, positioning it as one of the largest technology infrastructure investments in Europe[^c5c089]. The facility will operate on 100% renewable energy with advanced liquid cooling systems[^c5c089].
+**[[Blackstone]]** is investing $13 billion in a hyperscale data center in Northern England, positioning it as one of the largest technology infrastructure investments in Europe[^c5c089]. The facility will operate on 100% renewable energy with advanced liquid cooling systems[^c5c089].
 
 ## Government and Sovereign Cloud Initiatives
 

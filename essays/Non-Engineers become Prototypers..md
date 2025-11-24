@@ -2,7 +2,7 @@
 title: Non-Developers will become Prototypers.
 lede: Vibe Coding gives more accessing to getting something working.
 date_created: 2025-04-04
-date_modified: 2025-11-20
+date_modified: 2025-11-24
 date_authored_initial_draft: 2025-04-04
 date_authored_current_draft: 2025-05-13
 at_semantic_version: 0.0.0.1
@@ -19,6 +19,9 @@ authors:
 publish: true
 ---
 [[Tooling/Software Development/DevOps/Upsun|Upsun]]
+
+[[Vocabulary/Citizen Developers|Citizen Developers]]
+
 ***
 > [!LLM-Response] **Perplexity Query** (2025-09-23T12:53:03.583Z)
 > **Question:**

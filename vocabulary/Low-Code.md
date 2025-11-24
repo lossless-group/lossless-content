@@ -1,14 +1,22 @@
 ---
-date_modified: 2025-10-19
+date_modified: 2025-11-24
 site_uuid: bbab847b-b1b5-4c73-a473-2521633fff0c
 date_created: 2025-04-06
 publish: true
-title: "Low Code"
+title: Low Code
 slug: low-code
 at_semantic_version: 0.0.0.1
+aliases: [no-code, No Code, Low Code, low-code]
+tags: [Explainers]
+for_clients:
+  - Laerdal
 ---
 
 10 reasons why you should develop apps without code [^mjgrf0]
+
+:::tool-showcase
+tags: Low-Code, App-Builders
+:::
 
 ***
 > [!info] **Perplexity Query** (2025-10-18T16:29:18.593Z)
@@ -20,7 +28,7 @@ at_semantic_version: 0.0.0.1
 
 # **Low-Code: Democratizing Application Development for the Digital Age**
 
-Low-Code development refers to a software creation approach that uses visual interfaces, drag-and-drop components, and minimal hand-coding to rapidly build applications. Its significance lies in enabling both professional developers and so-called "citizen developers"—business users with little to no programming experience—to quickly deliver solutions that drive innovation and efficiency in a digital-first world. [^ye9x77] [^4mwb5x]
+Low-Code development refers to a software creation approach that uses visual interfaces, [[concepts/Visual Software Development|Visual Software Development]], drag-and-drop components, and minimal hand-coding to rapidly build applications. Its significance lies in enabling both professional developers and so-called "[[Vocabulary/Citizen Developers|Citizen Developers]]"—business users with little to no programming experience—to quickly deliver solutions that drive innovation and efficiency in a digital-first world. [^ye9x77] [^4mwb5x]
 
 ![Low-Code concept diagram or illustration](https://www.novacura.com/wp-content/uploads/2025/05/low-code-benefits-diagram.png)
 

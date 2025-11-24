@@ -18,7 +18,7 @@ tags: [AI-Infrastructure, Data-Centers, AI-Factories]
 [[client-content/Hypernova/Files/Portfolio/Aalo Atomics|Aalo Atomics]]
 [[concepts/Data Centers|Data Centers]]
 
-[[AI Factories]]
+[[Vocabulary/AI Factories]]
 
 ***
 > [!info] **Perplexity Query** (2025-11-21T12:01:11.343Z)

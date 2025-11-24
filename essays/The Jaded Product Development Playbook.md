@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-17
-date_modified: 2025-08-17
+date_modified: 2025-11-24
 date_authored_initial_draft: 2025-04-30
 date_authored_current_draft: 2025-05-24
 at_semantic_version: 0.0.1.0
@@ -22,6 +22,8 @@ square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/The_Jaded_
 [[Vocabulary/Email Deliverability|Email Deliverability]]
 [[Vocabulary/Onboarding Walkthrough|Onboarding Walkthrough]]
 [[Product Marketing]]
+
+[[Vocabulary/Citizen Developers|Citizen Developers]]
 
 
 

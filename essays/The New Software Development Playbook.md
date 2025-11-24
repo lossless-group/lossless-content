@@ -1,7 +1,7 @@
 ---
 publish: true
 date_created: 2025-05-12
-date_modified: 2025-09-24
+date_modified: 2025-11-24
 date_authored_initial_draft: 2025-01-04
 date_authored_current_draft: 2025-04-24
 site_uuid: e0ef7542-ebb4-4287-989c-67260c0e42ca
@@ -22,6 +22,7 @@ Developers will need to become familiar with AI-generated code, understanding it
 
 https://youtu.be/8rABwKRsec4?si=XfMHIXhMpZcSbwVl
 
+[[Vocabulary/Citizen Developers|Citizen Developers]]
 # Commit to Documentation First Development
 Over the past many years, hacker culture and fast-moving startups have generally treated documentation both internal and external as the afterthought.  No more.  It is now the forethought.  The only way to cooperate with [[concepts/Explainers for AI/Code Generators|Code Generators]] effectively is to create living documentation before, during, and immediately after any implementation in an iterative cycle.  
 

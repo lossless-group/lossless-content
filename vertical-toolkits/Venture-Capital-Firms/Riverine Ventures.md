@@ -11,7 +11,7 @@ title: "Riverine Ventures"
 slug: riverine-ventures
 at_semantic_version: 0.0.0.1
 ---
-Introduced to [[Profile Health]]
+Introduced to [[vertical-toolkits/HealthTech/Profile Health]]
 
 ***
 > [!info] **Perplexity Query** (2025-11-14T12:36:33.962Z)

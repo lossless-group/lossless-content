@@ -59,7 +59,7 @@ Common alternatives include:
 | **Logistic Regression**                               | Linearly separable data, probabilistic output     |
 | **[[concepts/CARBS/Decision Trees\|Decision Trees]]** | Interpretable models, non-linear relationships    |
 | **Random Forests**                                    | Large, complex datasets with mixed data types     |
-| **[[Vocabulary/Neural Networks\|Neural Networks]]**   | Very large datasets, complex feature interactions |
+| **[[concepts/Explainers for AI/Neural Networks\|Neural Networks]]**   | Very large datasets, complex feature interactions |
 | **k-Nearest Neighbors**                               | Simple, non-parametric, proximity-based analysis  |
 | **Naive Bayes**                                       | High-dimensional, independent feature assumptions |
   *![Additional supporting visual content](https://i0.wp.com/spotintelligence.com/wp-content/uploads/2024/05/support-vector-machine-svm.jpg?fit=1200%2C675&ssl=1)*

@@ -1,6 +1,6 @@
 ---
 date_created: 2024-12-20
-date_modified: 2025-08-23
+date_modified: 2025-11-24
 site_uuid: af97f7b2-6565-47b8-85f5-50d8a4569630
 title: Embrace Pirates or See Mutiny
 lede: "Organizations that embrace their renegade employees can spark innovation—or risk a mutiny."
@@ -23,6 +23,7 @@ authors:
 - [[Sources/Books/Originals|Originals]]
 - [[concepts/Psychological Safety|Psychological Safety]]
 - [[concepts/Open Innovation|Open Innovation]]
+- [[Vocabulary/Citizen Developers|Citizen Developers]]
 
 Embracing "rebel talent" or employees who possess unique, sometimes challenging characteristics (like being an "original", a "diva"), requires a strategic approach from companies. Here are some methods they often use:
 

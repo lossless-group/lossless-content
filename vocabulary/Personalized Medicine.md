@@ -1,6 +1,6 @@
 ---
 date_created: 2025-09-20
-date_modified: 2025-10-10
+date_modified: 2025-11-24
 site_uuid: c27a15b7-8d22-4099-adfd-8f5b84236ad4
 publish: true
 title: Personalized Medicine
@@ -11,7 +11,10 @@ authors:
   - Tanuj Siripurapu
 augmented_with: Perplexity AI
 ---
+https://www.nytimes.com/2025/11/22/business/dealbook/full-body-mri.html
 
+[[vertical-toolkits/HealthTech/Trellis AI|Trellis AI]]
+[[vertical-toolkits/HealthTech/Profile Health]]
 
 ***
 > [!info] **Perplexity Deep Research Query** (2025-09-20T12:52:37.232Z)

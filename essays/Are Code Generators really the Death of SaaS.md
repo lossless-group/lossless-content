@@ -1,6 +1,6 @@
 ---
 date_created: 2024-10-30
-date_modified: 2025-06-05
+date_modified: 2025-11-24
 site_uuid: 75228be9-4d17-4628-a574-adca63f1f13b
 title: Are Code Generators really the Death of SaaS?
 lede: At what point is building everything you can dream of cheaper than paying subscriptions?
@@ -19,6 +19,8 @@ authors:
 ---
 
 https://youtu.be/GS-0ahfYAGs?si=Pb86hmdid7i61JeJ
+
+[[Vocabulary/Citizen Developers|Citizen Developers]]
 
 # AI will kill business critical SaaS
 Things like [[concepts/Explainers for Tooling/Enterprise Resource Planning|Enterprise Resource Planning]] and [[Vocabulary/CRM|CRM]] may see sales decline if customers are capable of using AI to build software. 

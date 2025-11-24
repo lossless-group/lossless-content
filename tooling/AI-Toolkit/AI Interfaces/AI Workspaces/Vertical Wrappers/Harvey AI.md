@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-23
-date_modified: 2025-09-23
+date_modified: 2025-11-24
 tags: [Vertical-Wrappers, Vertical-Agents]
 site_uuid: eaeb3fcd-b590-4a61-bfe0-1da16efa76b3
 publish: true
@@ -14,7 +14,9 @@ og_image: "https://cdn.sanity.io/images/07s0r5r6/production/5a086e0bb3b2df8aa1c7
 og_favicon: "https://www.harvey.ai/icons/brand-favicon.png"
 og_last_fetch: "2025-09-23T23:02:04.699Z"
 ---
+Legal teams are being asked to move faster, scale smarter, and deliver more — without more headcount. Generative AI has the potential to help, but many teams are still struggling with where to start and how to get buy-in.
 
+This guide walks through six steps legal teams can take to build internal momentum for AI adoption. It draws on lessons from teams at Repsol, HubSpot, ASML, Dentsu, and others — showing how legal leaders are testing new tools, aligning with business priorities, and collaborating across functions to bring AI into the work that matters most.
 
 
 

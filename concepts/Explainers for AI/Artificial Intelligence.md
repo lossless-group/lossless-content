@@ -244,7 +244,7 @@ Training AI models involves several steps:
 
 #### **Computer Science Techniques:**
 
-15. **[[Neural Networks]]:**
+15. **[[concepts/Explainers for AI/Neural Networks]]:**
     
     - The backbone of deep learning, with architectures like convolutional neural networks (CNNs) for images and recurrent neural networks (RNNs) for sequential data.
 16. **Transformers:**

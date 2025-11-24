@@ -90,7 +90,7 @@ AI programming frameworks emerged from research communities seeking to support n
 - APIs that support multiple programming languages
 - Tools for automating hyperparameter optimization and performance analysis[1][3]
 
-**Practical examples** abound. [[Tooling/AI-Toolkit/AI Programming Frameworks/TensorFlow|TensorFlow]] powers everything from **image and speech recognition** to complex [[Vocabulary/Neural Networks|Neural Networks]] used by major tech firms[2][3]. PyTorch’s flexible architecture makes it ideal for academic research as well as commercial innovation—examples include dynamic AI-driven recommendation systems or real-time natural language processing tools[2][3]. [[Tooling/AI-Toolkit/AI Programming Frameworks/Keras]], with its user-friendly design, accelerates rapid prototyping and iteration, making it a favorite among startups and educators[3].
+**Practical examples** abound. [[Tooling/AI-Toolkit/AI Programming Frameworks/TensorFlow|TensorFlow]] powers everything from **image and speech recognition** to complex [[concepts/Explainers for AI/Neural Networks|Neural Networks]] used by major tech firms[2][3]. PyTorch’s flexible architecture makes it ideal for academic research as well as commercial innovation—examples include dynamic AI-driven recommendation systems or real-time natural language processing tools[2][3]. [[Tooling/AI-Toolkit/AI Programming Frameworks/Keras]], with its user-friendly design, accelerates rapid prototyping and iteration, making it a favorite among startups and educators[3].
 
 The **benefits** of AI programming frameworks are clear:
 - They **reduce development time and complexity** by providing ready-to-use components[4].

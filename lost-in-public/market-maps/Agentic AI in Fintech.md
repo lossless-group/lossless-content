@@ -1,6 +1,6 @@
 ---
 date_created: 2025-07-11
-date_modified: 2025-09-21
+date_modified: 2025-11-24
 site_uuid: c3149383-fa6d-4980-8ea5-7423b7aafdf3
 publish: true
 title: Agentic AI in Fintech
@@ -19,6 +19,9 @@ square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_
 ###### Topics
 [[concepts/Explainers for AI/Explainable AI|Explainable AI]]
 [[concepts/Explainers for AI/Compliance AI|Compliance AI]]
+
+# Market Adoption is Rapid but Confused
+"81% of financial services firms have invested in AI despite feeling unprepared." [^cac3ai]
 
 # Lighthouse Examples
 ### Open Standards
@@ -40,7 +43,9 @@ square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_
 :::
 ### Agentic Finance Workspaces
 :::tool-showcase
-- [[vertical-toolkits/FinTech/Hebbia|Hebbia]]
+- [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Hebbia|Hebbia]]
+- [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/v7 Labs|v7 Labs]]
+- [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Deck|Deck]]
 :::
 
 ### Agentic Frameworks, SDKs, Plugins
@@ -935,3 +940,4 @@ The transformation from manual, team-intensive customer data collection to AI-po
 [^oyaf3j]: [AI Agents in Marketing - IBM](https://www.ibm.com/think/topics/ai-agents-in-marketing)
 [^35xelj]: [Clarivate Identifies Six Breakthrough MedTech Trends in 2024 Set to ...](https://clarivate.com/news/clarivate-identifies-six-breakthrough-medtech-trends-in-2024-set-to-unlock-new-industry-opportunities/)
 [^znuwx8]: [Customer Data Platform Market Size & Share Report, 2030](https://www.grandviewresearch.com/industry-analysis/customer-data-platform-market)
+[^cac3ai]: 2024, Jul. "[81% of financial services firms have invested in AI despite feeling unprepared | Orgvue](https://www.orgvue.com/news/81-of-financial-services-firms-have-invested-in-ai-despite-feeling-unprepared/)". 3 minutes. [Orgvue](https://www.orgvue.com).

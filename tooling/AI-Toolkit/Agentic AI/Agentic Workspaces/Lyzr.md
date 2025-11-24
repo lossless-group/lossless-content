@@ -1,8 +1,8 @@
 ---
 url: https://www.lyzr.ai/
 date_created: 2025-08-26
-date_modified: 2025-08-26
-og_title: Get Your AI Agents to Production, Faster.
+date_modified: 2025-11-24
+og_title: Reimagine enterprise workflows with Agentic AI automation.
 og_description: Build and deploy agents on your cloud with complete privacy, no data leaks, and full control of your IP.
 og_image: https://www.lyzr.ai/wp-content/uploads/2025/08/Home-V9-thumb-1024x558.png
 og_favicon: https://www.lyzr.ai/wp-content/uploads/2024/03/cropped-Lyzr_Logo_1-removebg-icon-192x192.png
@@ -12,7 +12,11 @@ publish: true
 title: Lyzr
 slug: lyzr
 at_semantic_version: 0.0.0.1
-tags: [Agents-as-a-Service, Agentic-AI, AI-Toolkit, Enterprise-AI, Agentic-Workspaces, AI-Orchestrators]
+tags: [Agents-as-a-Service, Agentic-AI, AI-Toolkit, Enterprise-AI, Agentic-Workspaces, AI-Orchestrators, Workflow-Automation]
 ---
 [[concepts/Explainers for AI/AI Orchestration|AI Orchestrators]]
 [[concepts/Explainers for AI/Agents-as-a-Service|Agents-as-a-Service]]
+
+https://www.lyzr.ai/blueprints/venture-capital/investment-memo-generator-agent/
+
+
