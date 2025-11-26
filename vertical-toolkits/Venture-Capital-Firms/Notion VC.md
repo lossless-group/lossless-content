@@ -1,14 +1,20 @@
 ---
 date_created: 2025-11-11
-date_modified: 2025-11-13
+date_modified: 2025-11-26
 site_uuid: 9ffa7844-cf61-4602-9852-378c3477b965
 publish: true
 title: Notion VC
 slug: notion-vc
 at_semantic_version: 0.0.0.1
 tags: [Venture-Capital-Firms]
+url: https://www.notion.vc/
+og_title: Specialist Cloud & SaaS Venture Capital London
+og_description: We provide investment capital and expert support to help ambitious brands in B2B SaaS and cloud services build and scale their ventures across Europe.
+og_image: https://cdn.prod.website-files.com/613b85712c9672174ab125bd/61ee957ac2047cfdd769c750_Notion-Open-graph-image.jpg
+og_favicon: https://cdn.prod.website-files.com/613b85712c9672174ab125bd/61eacb5224130d17e976254c_N_FAV_32x32.png
+og_last_fetch: 2025-11-26T12:18:27.505Z
+site_name: Notion Capital
 ---
-
 
 ***
 > [!info] **Perplexity Query** (2025-11-11T19:07:13.362Z)
@@ -21,8 +27,6 @@ tags: [Venture-Capital-Firms]
 # **Notion Capital: Europe’s Specialist SaaS and Cloud Venture Capital Firm**
 
 Notion Capital, commonly referred to as **Notion VC**, is a leading European venture capital firm specializing in early-stage investments in Software-as-a-Service (SaaS) and Cloud technology companies. [^a2w3vw] [^yjjh96] [^7nhezh] [^k8fofm] By focusing exclusive expertise and resources on these dynamic sectors, Notion VC has become a key driver of innovation and business growth across European tech. As startups in SaaS and cloud grow to become global winners, Notion’s commitment and support have helped shape the competitive landscape, making it a significant partner for ambitious entrepreneurs.
-
-![Notion VC concept diagram or illustration](https://framerusercontent.com/images/fanBljw38yj9n9c3QBRblCDj08.png)
 
 ---
 
@@ -44,20 +48,18 @@ At its core, **Notion VC** is a venture capital (VC) firm headquartered in Londo
 - **High Selectivity:** Notion VC focuses on startups with clear product-market fit and strong market validation, so the competition to receive funding is significant. [^a2w3vw] [^k8fofm]
 - **Rapid Scaling Requirements:** The firm’s model is oriented towards companies capable of scaling fast, which may not suit founders seeking slower or more incremental growth. [^a2w3vw] [^k8fofm]
 
-![Notion VC practical example or use case](https://framerusercontent.com/images/zGPbC64qUL2oR5Ki9xgtXolITc.png)
-
 ---
 
-### Current State and Trends in Notion VC
+### Current State and Developments at Notion VC
 
 **Current Adoption & Market Status:**  
 Notion Capital is widely recognized as one of Europe’s foremost early-stage business software investors, with more than 100 investments across transformative sectors including enterprise software, fintech, and future finance. [^7nhezh] [^k8fofm] [^2mzpty] The firm typically leads investment rounds and maintains a portfolio of roughly 20 core investments at any given time, with checks ranging from €500K to €15M depending on the growth potential. [^7nhezh]
 
 **Key Players & Technologies:**  
-Notion VC counts Stephen Chandler, Jos White, and [[Sources/People/Itxaso del Palacio]] among its senior leadership, combining operational acumen with investment expertise. [^7nhezh] Portfolio companies span from fintech innovators to AI and deep tech, reflecting Notion’s focus on sectors where software is poised to disrupt traditional markets. [^7nhezh] [^k8fofm] They also leverage advanced technologies, including AI-driven investment sourcing, to identify and support high-potential startups early in their journey. [^7nhezh]
+Notion VC counts Stephen Chandler, Jos White, and [[Sources/People/Itxaso del Palacio|Itxaso del Palacio]] among its senior leadership, combining operational acumen with investment expertise. [^7nhezh] Portfolio companies span from fintech innovators to AI and deep tech, reflecting Notion’s focus on sectors where software is poised to disrupt traditional markets. [^7nhezh] [^k8fofm] They also leverage advanced technologies, including AI-driven investment sourcing, to identify and support high-potential startups early in their journey. [^7nhezh]
 
 **Recent Developments:**  
-Major recent investments include startups in AI (Bound, Resistant AI, DataOps) and market-shifting SaaS platforms (GoCardless, Paddle). [^7nhezh] [^k8fofm] Notion VC’s approach remains dynamic, adjusting its focus towards cloud proliferation and the growing impact of AI as foundational platforms for the next wave of software companies. [^k8fofm]
+Major recent investments include startups in AI (Bound, Resistant AI, DataOps) and market-shifting SaaS platforms (GoCardless, [[vertical-toolkits/FinTech/Paddle|Paddle]]). [^7nhezh] [^k8fofm] Notion VC’s approach remains dynamic, adjusting its focus towards cloud proliferation and the growing impact of AI as foundational platforms for the next wave of software companies. [^k8fofm]
 
 ![Notion VC future trends or technology visualization](https://framerusercontent.com/images/11yPBAvVQJkrXQqtLZBRlUEizA8.png)
 

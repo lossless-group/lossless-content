@@ -296,7 +296,7 @@ The development of next-generation corporate venture capital capabilities will r
 
 [28]: [Food and beverage industry outlook 2024: Key strategies for ...](https://www.bakertilly.com/insights/strategies-for-food-beverage-future-state).
 
-[^ns5di0]: 2017, Jul. "[What BMW's Corporate VC Offers That Regular Investors Can't | Hbr](https://hbr.org/2017/07/what-bmws-corporate-vc-offers-that-regular-investors-cant)". [[Sources/Media/HBR|HBR]] [HBR](https://hbr.org).
+[^ns5di0]: 2017, Jul. "[What BMW's Corporate VC Offers That Regular Investors Can't | Hbr](https://hbr.org/2017/07/what-bmws-corporate-vc-offers-that-regular-investors-cant)". [[Sources/Media/Harvard Business Review|Harvard Business Review]] [HBR](https://hbr.org).
 
 
 

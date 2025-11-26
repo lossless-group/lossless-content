@@ -21,7 +21,7 @@ square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/The_Jaded_
 [[Open Graph]]
 [[Vocabulary/Email Deliverability|Email Deliverability]]
 [[Vocabulary/Onboarding Walkthrough|Onboarding Walkthrough]]
-[[Product Marketing]]
+[[concepts/Product Marketing]]
 
 [[Vocabulary/Citizen Developers|Citizen Developers]]
 

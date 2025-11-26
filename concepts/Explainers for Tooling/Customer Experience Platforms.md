@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-08
-date_modified: 2025-11-24
+date_modified: 2025-11-26
 site_uuid: 102c2f2b-bb3c-45ab-b0ea-bce3c631fab6
 publish: true
 title: Customer Experience Platforms
@@ -11,7 +11,8 @@ aliases: [CXP]
 [[Vocabulary/Digital Experience|Digital Experience]]
 [[Vocabulary/Customer Experience|Customer Experience]]
 
-[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Yellow.ai]]
+[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Yellow.ai|Yellow.ai]]
+[[NiCE]]
 
 
 

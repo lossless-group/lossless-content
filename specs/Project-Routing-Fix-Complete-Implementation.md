@@ -10,9 +10,12 @@ status: Complete
 category: Project-Setup
 tags: [Astro, Content-Collections, Routing, Slug-Generation, Projects, JSONCanvas, Client-Routing]
 authors:
-  - Tanuj
+  - Tanuj Siripurapu
 date_created: 2025-08-09
-date_modified: 2025-08-23
+date_modified: 2025-11-26
+site_uuid: 8153cf20-f094-42a3-bf17-81110a0c06f3
+publish: true
+slug: project-routing-fix
 ---
 
 # Complete Project Routing Fix Implementation
@@ -273,13 +276,14 @@ Building on the core routing fix, we implemented several enhancements to improve
 **Integration Strategy:**
 ```mermaid
 gitGraph
+	branch development
     commit id: "Core routing fix"
     branch save/jsoncanvas
     checkout save/jsoncanvas
     commit id: "JSONCanvas enhancements"
     commit id: "Project components"
     commit id: "Client routing cleanup"
-    checkout clean/jsoncanvas
+	checkout development
     merge save/jsoncanvas
     commit id: "Integrated implementation"
 ```

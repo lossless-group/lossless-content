@@ -28,19 +28,13 @@ image_prompt: "A funnel leading to a computer monitor with a website interface t
 # Context
 
 ## Objective:
-Render the `content/lost-in-public/issue-resolution` markdown files through a dynamic render pipeline. Integrate and polish a new "magazine" style layout design for this content.  Follow patterns that are working for our other dynamic collection rendering pipelines. Reuse much of the existing codebase, while still adding new layout patterns for this content. 
+Render the `content/sources` markdown files through a dynamic render pipeline, with 
+1. a radically flexible content collection structure, most of these files will not have consistent frontmatter, some might have no frontmatter at all.
+2. a radically flexible [...slug].astro entry point, any markdown file nested in the `content/sources` directory should be able to be rendered through this entry point. Files that generate errors on static site generation should not throw critical errors or stop the build, though the problem can be logged and a message happen on command line.  
 
-### Suggest opportunities for refactoring.  
-Our codebase is getting quite large for what should be a small project. We are interested in seeing some refactoring and consolidation of code. This is a second order priority, but since we will be reviewing much of the dynamic content rendering pipeline as a starting point, we may see opportunities to refactor.  
+3. We may need to generate an index page for `sources` as well as a layout.  Though, the components we should have ones we can reuse from the vocabulary and concepts pages (in `more-about`).  
 
-> I have created a file `content/lost-in-public/refactors/Ongoing-Log-of-Opportunities-to-Refactor.md`, linked at [[lost-in-public/refactors/Ongoing-Log-of-Opportunities-to-Refactor.md|Ongoing Log of Opportunities to Refactor]], to keep track of opportunities to refactor as we review the codebase.
-
-### Magazine Style Layout Specifications (NEEDS INPUT)
-Favorite Example:
-https://galaxy.cosmicthemes.com/examples/blog-index-2/
-
-Our Current Example:
-Entry point: `site/src/pages/thread/[magazine].astro`
+4. Similar to the `more-about` index page, the different nested folders should have their own Tab so that it's easy to see the list of content in those folders.  Given that all we will have most times is the filename as the title of the content, the component that renders each file in the list on this page should be simple like on the `more-about` page. 
 
 **Priority of the "Preview" Component:**
 Magazine style layouts render beautiful, captivating components. These components take metadata from the content collection, including images, along with titles, ledes, dates and authors. 

@@ -56,7 +56,7 @@ However, organizations may encounter **challenges** such as change management, s
 
 ### Current State and Emerging Trends in CLM
 
-**CLM adoption is accelerating** as organizations seek to digitize and automate mission-critical processes. The market features a range of vendors, including [[Icertis]], [[SAP]] Ariba, DocuSign CLM, and Salesforce, offering feature-rich platforms that integrate with core enterprise systems. [^cxpw2s] [^9dndae] [^9kcilr] Increasingly, CLM solutions employ *artificial intelligence (AI)* to extract critical data, assess risk, suggest optimal contract clauses, and provide actionable insights for negotiation or renewal strategies. [^hsmf8c]
+**CLM adoption is accelerating** as organizations seek to digitize and automate mission-critical processes. The market features a range of vendors, including [[Icertis]], [[organizations/SAP]] Ariba, DocuSign CLM, and Salesforce, offering feature-rich platforms that integrate with core enterprise systems. [^cxpw2s] [^9dndae] [^9kcilr] Increasingly, CLM solutions employ *artificial intelligence (AI)* to extract critical data, assess risk, suggest optimal contract clauses, and provide actionable insights for negotiation or renewal strategies. [^hsmf8c]
 
 Recent trends include:
 - Deeper integration of CLM with enterprise resource planning (ERP) and customer relationship management (CRM) systems

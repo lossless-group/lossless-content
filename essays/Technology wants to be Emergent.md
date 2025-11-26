@@ -1,6 +1,6 @@
 ---
 date_created: 2025-04-18
-date_modified: 2025-11-24
+date_modified: 2025-11-26
 site_uuid: 10ebeb58-f593-4ff2-9c5e-94804cf1411e
 title: Technology wants to be Emergent
 lede: Emergent technology evolves unpredictably—shaping and reshaping our world in surprising ways.
@@ -18,9 +18,12 @@ authors:
   - Michael Staton
 ---
 
-[[organizations/Y-Combinator|Y-Combinator]], [[vertical-toolkits/Venture-Capital-Firms/500 Global|500 Global]], [[organizations/Antler|Antler]], [[DevPost]]
+[[vertical-toolkits/Venture-Capital-Firms/Y Combinator|Y Combinator]], [[vertical-toolkits/Venture-Capital-Firms/500 Global|500 Global]], [[organizations/Antler|Antler]], [[DevPost]]
 
-[[Web Standards]]
+[[Vocabulary/Web Standards|Web Standards]]
+
+[[concepts/Product-Led Growth|Product-Led Growth]]
+
 
 A necessary precursor to market-wide emergent innovation is the development of "standards," such as the [[Web Standards]], with the iterations, maintenance, and governance overseen by a [[Standards Organizations|Standards Organization]]. 
 
@@ -46,7 +49,7 @@ Technology innovation is considered **"emergent"** because it arises from the un
 
 **Key Ways Emergent Patterns Shape Technology Innovation**
 
-- **Nonlinear and Unpredictable Growth**: Many transformative technologies (e.g., generative AI, quantum computing, 3D printing[^4kw1ep] [^t156ce]) begin with small groups or startups experimenting at the margins. These innovations often do not follow a predictable trajectory and instead gather momentum through feedback, adoption, and ecosystem effects. [^sd35ig] [^t156ce]
+- **Nonlinear and Unpredictable Growth**: Many transformative technologies (e.g., generative AI, quantum computing, 3D printing [^4kw1ep] [^t156ce]) begin with small groups or startups experimenting at the margins. These innovations often do not follow a predictable trajectory and instead gather momentum through feedback, adoption, and ecosystem effects. [^sd35ig] [^t156ce]
 
 - **Edge-of-Network Dynamics**: Large incumbents are optimized for scale and stability, which can make them less responsive to new ideas that start at the periphery. Startups, on the other hand, thrive in these "edge" spaces where emergent opportunities arise—such as new business models or product concepts—before these are recognized as valuable by larger players. [^sd35ig] [^t156ce]
 

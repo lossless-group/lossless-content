@@ -1,5 +1,5 @@
 ---
-date_modified: 2025-11-24
+date_modified: 2025-11-26
 site_uuid: bbab847b-b1b5-4c73-a473-2521633fff0c
 date_created: 2025-04-06
 publish: true
@@ -17,6 +17,8 @@ for_clients:
 :::tool-showcase
 tags: Low-Code, App-Builders
 :::
+
+[[Tooling/AI-Toolkit/Agentic AI/Stack AI|Stack AI]]
 
 ***
 > [!info] **Perplexity Query** (2025-10-18T16:29:18.593Z)

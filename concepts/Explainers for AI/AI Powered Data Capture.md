@@ -1,6 +1,6 @@
 ---
 site_uuid: 800eb7d5-144f-4b76-9c39-f1d08bab549c
-date_modified: 2025-10-01
+date_modified: 2025-11-26
 date_created: 2025-03-30
 tags: [AI-Toolkit, AI-Powered-Data-Capture, Data-Capture, Explainers]
 publish: true
@@ -26,6 +26,7 @@ Tools like:
 [[Browserbase]]
 [[browserless]]
 [[Puppeteer]]
+[[Bash]]
 ```
 
 
@@ -37,6 +38,7 @@ Include [[Fathom AI]], [[Granola]], [[Tooling/Productivity/Async Communication/B
 A wearable device is [[Tooling/AI-Toolkit/Data Augmenters/Limitless AI|Limitless AI]], and [[Tooling/AI-Toolkit/Data Augmenters/Plaud AI|Plaud AI]]
 
 [[Tooling/AI-Toolkit/Data Augmenters/Unstract|Unstract]]
+[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Bash]]
 
 https://youtu.be/PYkjffkLLZ8?si=yTeFbmfFnOTfSPGi
 
@@ -143,7 +145,7 @@ Legacy systems often store critical business data but lack modern interfaces or 
     - Use LLMs to query legacy systems conversationally.
 - **Notable Providers:**
     
-    - **[[Celonis]]:** Offers process mining tools that analyze data from legacy systems to identify inefficiencies.
+    - **[[Tooling/AI-Toolkit/Knowledge AI/Celonis]]:** Offers process mining tools that analyze data from legacy systems to identify inefficiencies.
     - **[[Tooling/Enterprise Jobs-to-be-Done/Integration Platforms/Workato|Workato]]:** Provides AI-powered automation for integrating legacy systems with modern platforms.
     - **[[Hevo Data]]:** A no-code solution for integrating and syncing data from legacy databases to cloud systems.
 

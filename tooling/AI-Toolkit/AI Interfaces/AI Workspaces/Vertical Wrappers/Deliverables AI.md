@@ -19,7 +19,7 @@ for_clients:
   - Param
   - Parslee
 ---
-[[Private Markets]]
+[[Vocabulary/Private Markets]]
 
 [[concepts/Explainers for AI/AI Powered Data Capture|AI Powered Data Capture]]
 

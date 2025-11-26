@@ -44,7 +44,7 @@ However, implementing predictive maintenance is not without challenges. Manufact
 
 ## **Current State and Trends**
 
-Predictive maintenance has seen accelerating adoption in advanced manufacturing, spurred by the falling costs of IoT hardware and the maturation of cloud-based analytics platforms. Leading technology vendors include [[organizations/IBM|IBM]], Siemens, GE Digital, and [[SAP]], offering integrated solutions that combine sensor networking, data management, and AI-powered analytics. [^d5czz7] Market analyses indicate strong, sustained growth with predictive maintenance featured as a key component of Industry 4.0 strategies.
+Predictive maintenance has seen accelerating adoption in advanced manufacturing, spurred by the falling costs of IoT hardware and the maturation of cloud-based analytics platforms. Leading technology vendors include [[organizations/IBM|IBM]], Siemens, GE Digital, and [[organizations/SAP]], offering integrated solutions that combine sensor networking, data management, and AI-powered analytics. [^d5czz7] Market analyses indicate strong, sustained growth with predictive maintenance featured as a key component of Industry 4.0 strategies.
 
 Recent developments center on platforms with improved interoperability, cloud-native architectures, and the use of big data to refine predictive algorithms. There is a trend toward integrating predictive maintenance with enterprise resource planning (ERP) and asset management systems, further streamlining workflows and resource allocation. Additionally, manufacturers are leveraging digital twins—virtual replicas of machinery—to simulate wear and predict outcomes more accurately.
 

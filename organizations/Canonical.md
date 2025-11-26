@@ -15,6 +15,6 @@ slug: canonical
 at_semantic_version: 0.0.0.1
 ---
 
-[[LaunchPad]]
+[[Tooling/Software Development/DevOps/LaunchPad]]
 [[Ubuntu]]
 

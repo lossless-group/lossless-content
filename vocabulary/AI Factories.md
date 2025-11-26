@@ -67,7 +67,7 @@ AI Factories ingest enormous streams of raw data, train and continuously improve
 **Leading Vendors:**
 - **Hardware**: NVIDIA (GPUs, networking), [[organizations/AMD|AMD]] (GPUs), Google (TPUs), Dell/HP (integrated AI servers), Supermicro (AI-optimized racks), IBM.
 - **Cloud Providers**: [[Tooling/Software Development/Cloud Infrastructure/Amazon Web Services|Amazon Web Services]], Google Cloud (with TPUs), Microsoft Azure (AI supercomputing clusters), Oracle Cloud.
-- **Specialists**: Companies like [[Tooling/AI-Toolkit/Model Producers/Cerbras|Cerbras]], [[Graphcore]], [[Habana Labs]] produce custom AI-acceleration silicon.
+- **Specialists**: Companies like [[Tooling/AI-Toolkit/Model Producers/Cerbras|Cerbras]], [[Tooling/AI-Toolkit/AI Infrastructure/Graphcore]], [[Habana Labs]] produce custom AI-acceleration silicon.
 - **Data Center Specialists**: Equinix, Digital Realty, Macquarie specialize in high-density, AI-ready facilities. [^2hscwa] [^516d89] [^r5bqqf] [^2gzj18] [^oa01ev]
 
 **Types of Services:**

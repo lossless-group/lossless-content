@@ -16,6 +16,6 @@ at_semantic_version: 0.0.0.1
 ---
 [[concepts/Explainers for Tooling/Contract Lifecycle Management|Contract Lifecycle Management]]
 
-[[Configure, Price, Quote]]
+[[concepts/Explainers for Tooling/Configure, Price, Quote]]
 
 

@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-09
-date_modified: 2025-10-17
+date_modified: 2025-11-26
 ---
 :::features
 - Reader
@@ -54,6 +54,7 @@ date_modified: 2025-10-17
 - [[concepts/Design to Engineering Handoff|Design to Engineering Handoff]]
 - [[concepts/Technical Debt|Technical Debt]]
 - [[concepts/Explainers for AI/Logistics AI|Logistics AI]]
+- [[concepts/Explainers for AI/AI Powered Sentiment Analyzers|AI Powered Sentiment Analyzers]]
 :::
 
 :::reader

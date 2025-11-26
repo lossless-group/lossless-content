@@ -1,12 +1,14 @@
 ---
 date_created: 2025-08-16
-date_modified: 2025-08-23
+date_modified: 2025-11-26
 site_uuid: 38b7184d-051c-4ccf-8278-d8a25d5d7fb8
 publish: true
 title: "Web Design"
 slug: web-design
 at_semantic_version: 0.0.0.1
 ---
+https://youtu.be/DY5Z-uZ6ZMc?si=W_elg8Nl_Z6_AD19
+
 Web design and UI (User Interface) design are related but distinct fields within digital design, each with its own focus and responsibilities:
 
 1. **Web Design**: This is a broader term that encompasses all aspects of the website's visual elements and functionality. It includes both front-end development (how the site looks) and back-end development (how it works). Web designers are responsible for the layout, color schemes, typography, images, and overall user experience of a website. They ensure that the site is not only visually appealing but also easy to navigate and use across various devices and screen sizes.

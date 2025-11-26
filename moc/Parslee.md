@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-09
-date_modified: 2025-09-25
+date_modified: 2025-11-26
 ---
 :::features
 - Projects
@@ -8,16 +8,16 @@ date_modified: 2025-09-25
 :::
 
 :::essays
-- [[essays/On Data Gathering|On Data Gathering]]]
+- [[essays/On Data Gathering|On Data Gathering]]
 :::
 
 :::vocabulary
-- [[Vocabulary/Agile Software Development]]
+- [[Vocabulary/Agile Software Development|Agile Software Development]]
 - [[AI Models]]
 :::
 
 :::concepts
-- [[concepts/Data Augmentation Workflow|Data Augmentation Workflows]]]
+- [[concepts/Data Augmentation Workflow|Data Augmentation Workflows]]
 :::
 
 :::portfolio

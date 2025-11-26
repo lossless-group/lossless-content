@@ -87,7 +87,7 @@ Sources
 [[Tooling/Productivity/Advanced Documents/Notion|Notion]]
 [[Tooling/Enterprise Jobs-to-be-Done/Coda|Coda]]
 [[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]]
-[[Affinity Publisher]]
+[[Tooling/Productivity/Affinity Publisher]]
 [[Tooling/AI-Toolkit/Generative AI/Code Generators/Windsurf IDE|Windsurf IDE]]
 [[Tooling/Enterprise Jobs-to-be-Done/Content Management Systems/Hygraph|Hygraph]]
 [[Tooling/Software Development/Lego-Kit Engineering Tools/UI Builders/WebStudio|WebStudio]]

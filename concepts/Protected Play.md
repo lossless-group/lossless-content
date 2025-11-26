@@ -73,7 +73,7 @@ Protected play, backed by robust IP strategies, cultivates a dynamic environment
 
 # Footnotes
 ***
-[^1]: Schrage, Michael. 2013, Aug 20. '[Just How Valuable Is Google’s “20% Time”?](https://hbr.org/2013/08/just-how-valuable-is-googles-2-1)'. [[HBR]].
+[^1]: Schrage, Michael. 2013, Aug 20. '[Just How Valuable Is Google’s “20% Time”?](https://hbr.org/2013/08/just-how-valuable-is-googles-2-1)'. [[Sources/Media/Harvard Business Review]].
 
 
 

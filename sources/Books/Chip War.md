@@ -1,7 +1,7 @@
 ---
 amazon_url: https://www.amazon.com/Chip-War-Worlds-Critical-Technology/dp/1982172002
 date_created: 2025-04-18
-date_modified: 2025-09-06
+date_modified: 2025-11-26
 site_uuid: d89ee344-c7f6-438b-afcf-f597d59a6299
 title: Chip War
 slug: chip-war
@@ -23,13 +23,14 @@ https://youtu.be/1ZXK8pEjqyQ?si=1DlQMyV4GeS6KP-D
 https://youtu.be/wLLty2GoAuU?si=871XBAKTg45CI8ef
 
 https://youtu.be/OxUP51qk4lQ?si=R9LnHtnBdntvWlH-
+
 [[organizations/Humanoid Robots|Humanoid Robots]]
 [[organizations/Nvidia|Nvidia]]
 [[organizations/Intel|Intel]]
 [[organizations/AMD|AMD]]
 [[organizations/Texas Instruments|Texas Instruments]]
 [[organizations/TSMC|TSMC]]
-
+[[organizations/Interuniversity Microelectronics Centre|Interuniversity Microelectronics Centre]]
 
 
 ***

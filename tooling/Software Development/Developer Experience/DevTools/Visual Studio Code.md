@@ -1,25 +1,24 @@
 ---
 site_uuid: 032efa58-39ff-4ab8-b51f-a0a407921b2c
-parent_org: '[[organizations/Microsoft]]'
-url: 'https://code.visualstudio.com/'
-date_modified: 2025-06-06
+parent_org: "[[organizations/Microsoft|Microsoft]]"
+url: https://code.visualstudio.com/
+date_modified: 2025-11-26
 date_created: 2025-03-31
 og_errors: true
-og_last_error: '2025-06-06T13:30:15.122Z'
-og_error_message: 'OpenGraph subsystem did not return any data (timeout or crash).'
-og_image: 'https://code.visualstudio.com/opengraphimg/opengraph-home.png'
-og_url: 'https://code.visualstudio.com/'
-title: 'Visual Studio Code - Code Editing. Redefined'
-description: 'Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.'
-og_screenshot_url: 'https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/177f0934751badde8cc4b6dd870c8ebebdf9bb5a6815ffa3eb5f48db6dd8864a.jpeg'
-og_last_fetch: '2025-06-06T13:47:53.025Z'
-tags:
-  - Software-Development
-aliases:
-  - VS Code
+og_last_error: 2025-06-06T13:30:15.122Z
+og_error_message: OpenGraph subsystem did not return any data (timeout or crash).
+og_image: https://code.visualstudio.com/opengraphimg/opengraph-home.png
+og_url: https://code.visualstudio.com/
+title: " Code Editing. Redefined"
+description: Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
+og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/177f0934751badde8cc4b6dd870c8ebebdf9bb5a6815ffa3eb5f48db6dd8864a.jpeg
+og_last_fetch: 2025-06-06T13:47:53.025Z
+tags: [Software-Development]
+aliases: [VS Code]
+site_name: Visual Studio Code
 ---
 
-a [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editor]] created and maintained by [[organizations/Microsoft]].
+a [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editor]] created and maintained by [[organizations/Microsoft|Microsoft]].
 
 
 ### Tool Use
@@ -71,7 +70,7 @@ Similar to an [[App Stores|App Store]], the [[Plug-ins,  Add-ons,  Extensions|Ex
 
 [[Visual Studio Code|VS Code]] also employs the [[Come one, come all]] approach, allowing anyone to try to build and publish an [[Plug-ins,  Add-ons,  Extensions|Extension]]. Notice the "Build your own" and "Publish extensions" options in the upper right corner.
 ![[Screenshot 2025-01-20 at 12.40.13 PM_VS-Code.png]]
-Because [[Visual Studio Code|VS Code]] has such a streamlined and open [[Extension Libraries|Extension Library]], most [[Influencer]] developers do their demonstrations on [[YouTube]] using [[Visual Studio Code|VS Code]].
+Because [[Visual Studio Code|VS Code]] has such a streamlined and open [[Extension Libraries|Extension Library]], most [[Vocabulary/Influencers]] developers do their demonstrations on [[YouTube]] using [[Visual Studio Code|VS Code]].
 ![[Screenshot 2025-01-22 at 1.43.58 PM_watsonX--VSCode-Extension 1.png]] [^4fcd73]
 https://youtu.be/lxRAj1Gijic?si=DqzXItZ8hEmW1q3D
 # Footnotes

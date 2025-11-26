@@ -1,6 +1,6 @@
 ---
 date_created: 2025-07-11
-date_modified: 2025-11-24
+date_modified: 2025-11-26
 site_uuid: c3149383-fa6d-4980-8ea5-7423b7aafdf3
 publish: true
 title: Agentic AI in Fintech
@@ -46,6 +46,7 @@ square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_
 - [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Hebbia|Hebbia]]
 - [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/v7 Labs|v7 Labs]]
 - [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Deck|Deck]]
+- [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Pascal AI Labs|Pascal AI Labs]]
 :::
 
 ### Agentic Frameworks, SDKs, Plugins
