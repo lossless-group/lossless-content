@@ -1,1 +1,0 @@
-Chairman of [[Laerdal Medical]] and other higher order entities.  

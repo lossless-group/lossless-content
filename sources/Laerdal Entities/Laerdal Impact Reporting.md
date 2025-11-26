@@ -1,2 +1,0 @@
-Headed by [[Ingrid Laerdal]]
-

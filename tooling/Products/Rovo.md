@@ -20,4 +20,4 @@ tags:
   - Check-It-Out
 ---
 
-An Enterprise [[Knowledge Hub]]
+An Enterprise [[client-content/Laerdal/Sources/Laerdal Entities/Knowledge Hub]]

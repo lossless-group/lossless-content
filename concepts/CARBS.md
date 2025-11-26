@@ -10,4 +10,4 @@ date_modified: 2025-08-17
 [[lost-in-public/explorations/Diagrams-from-Text|Diagrams-from-Text]]
 
 
-![[The Lossless Group#How to Fuel Innovation with Alignment CARBS]]
+![[client-content/Laerdal/Sources/Laerdal Entities/The Lossless Group#How to Fuel Innovation with Alignment CARBS]]

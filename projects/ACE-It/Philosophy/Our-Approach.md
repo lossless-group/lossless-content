@@ -75,7 +75,7 @@ Working with AI is remarkably similar to working with a highly capable but inexp
 
 ### 1.  Documentation-Driven Development
 #### Before Copilots:
-Before adopting copilots, thorough documentation was often developed AFTER code had been written. [[Vocabulary/Software Architecture|Architects]], [[Sources/Laerdal Entities/Laerdal Product Management|Product Managers]], and [[Vocabulary/UI Design|UI Designers]] would make the documentation needed for the [[concepts/Design to Engineering Handoff|Design to Engineering Handoff]]. The real documentation was usually a reflective output or deliverable. 
+Before adopting copilots, thorough documentation was often developed AFTER code had been written. [[Vocabulary/Software Architecture|Architects]], [[client-content/Laerdal/Sources/Laerdal Entities/Laerdal Product Management|Product Managers]], and [[Vocabulary/UI Design|UI Designers]] would make the documentation needed for the [[concepts/Design to Engineering Handoff|Design to Engineering Handoff]]. The real documentation was usually a reflective output or deliverable. 
 
 #### With Copilots:
 To get the most out of Human + Copilot cooperative workflows, thorough documentation needs to developed BEFORE, and DURING the development phase.  And documentation needs to have its own framework, as if all the information is in the specification, it's likely the specification + the prompt and action will exceed the context window -- thus really key information could be forgotten. 

@@ -1,8 +1,8 @@
 Meetings related to the use of [[Salesforce]]. 
 
-## 2024-12-11 meeting with [[Brage Vik]]
+## 2024-12-11 meeting with [[client-content/Laerdal/Sources/Laerdal-Team/Brage Vik]]
 
-This meeting was brief, but I can surmise you have a "Salesforce" champion and enthusiast in [[Brage Vik]], which is great!  Salesforce is a beast.  Anyone willing to own it enthusiastically should be given a medal.
+This meeting was brief, but I can surmise you have a "Salesforce" champion and enthusiast in [[client-content/Laerdal/Sources/Laerdal-Team/Brage Vik]], which is great!  Salesforce is a beast.  Anyone willing to own it enthusiastically should be given a medal.
 
 However, [[Salesforce]] is has tentacles that will wrap around and through any organization. It is an extensible platform. It pretends to be best-in-class for all kinds of business operations for which it is not really the easiest, cheapest, or best solution.  It's very common for businesses to get lost in a quagmire of consultants reconfiguring Salesforce to do other things in a quixotic quest to "align on one platform."  
 

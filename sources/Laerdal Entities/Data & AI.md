@@ -1,2 +1,0 @@
-
-Lead by [[Cansu Akarsu]]

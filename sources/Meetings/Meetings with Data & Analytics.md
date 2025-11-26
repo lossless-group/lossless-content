@@ -1,3 +1,3 @@
 
-[[Data & Analytics]]
+[[client-content/Laerdal/Sources/Laerdal Entities/Data & Analytics]]
 

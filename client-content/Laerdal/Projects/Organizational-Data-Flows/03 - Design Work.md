@@ -3,8 +3,8 @@ date_created: 2025-01-07
 date_modified: 2025-09-16
 title: Test Title
 ---
-## Assessment of the [[Life Design System]]
-The [[Life Design System]] should be considered [[concepts/State of the Art|State of the Art]], and is one of the primary efforts we see as working towards [[concepts/Coherence|Coherence]].  The [[Life Design System]] is managed from the [[Copenhagen Office]], overseen by [[Hector Mejia]]. [[Troels Villumsen]] is our [[concepts/Single Point of Contact|SPOC]].
+## Assessment of the [[client-content/Laerdal/Sources/Laerdal Entities/Life Design System]]
+The [[client-content/Laerdal/Sources/Laerdal Entities/Life Design System]] should be considered [[concepts/State of the Art|State of the Art]], and is one of the primary efforts we see as working towards [[concepts/Coherence|Coherence]].  The [[client-content/Laerdal/Sources/Laerdal Entities/Life Design System]] is managed from the [[client-content/Laerdal/Sources/Laerdal Entities/Copenhagen Office]], overseen by [[client-content/Laerdal/Sources/Laerdal-Team/Hector Mejia]]. [[client-content/Laerdal/Sources/Laerdal-Team/Troels Villumsen]] is our [[concepts/Single Point of Contact|SPOC]].
 
 We believe the new dominant and scaling "species" of companies align around:
 1. a [[concepts/Unified Design System|Unified Design System]] and 
@@ -15,7 +15,7 @@ We are also observing that software development is becoming more [[concepts/Visu
 
 
 ### Our Angle on our Work
-The [[Life Design System]] is [[concepts/State of the Art|State of the Art]] and is being utilized across teams and geographies for [[User Interface|UI]] design and implementation. Therefore, our hope was to be thought-provoking on what might be included in a [[Design Systems|Design System]], and how the [[Life Design System]] might impact workflows in the larger organization.
+The [[client-content/Laerdal/Sources/Laerdal Entities/Life Design System]] is [[concepts/State of the Art|State of the Art]] and is being utilized across teams and geographies for [[User Interface|UI]] design and implementation. Therefore, our hope was to be thought-provoking on what might be included in a [[Design Systems|Design System]], and how the [[client-content/Laerdal/Sources/Laerdal Entities/Life Design System]] might impact workflows in the larger organization.
 
 Right now, better visual communication can dramatically impact [[concepts/Product Development Workflow|Product Development Workflow]]; even more specific -- [[concepts/Product Development Workflow#On the Fiasco of Handoffs|the handoffs]]. 
 
@@ -23,14 +23,14 @@ We foresee an accelerating force on software development as two trends collide: 
 
 By empowering [[concepts/Visual Leadership]], visual communication and collaboration, a large swath of hangups, misunderstandings, meetings to get more clarity, etc, and other forms of [[concepts/Drag]] can be reduced or even eliminated.  
  
-## Broadening the Impact of the [[Life Design System]]
-We, the [[The Lossless Group]] believes the the [[Life Design System]] should become more of a centerpiece to the Laerdal organization. Including, but not limited to:
-- [[Brand and Corporate Communication]] 
-- [[Laerdal Marketing|Marketing]]
+## Broadening the Impact of the [[client-content/Laerdal/Sources/Laerdal Entities/Life Design System]]
+We, the [[client-content/Laerdal/Sources/Laerdal Entities/The Lossless Group]] believes the the [[client-content/Laerdal/Sources/Laerdal Entities/Life Design System]] should become more of a centerpiece to the Laerdal organization. Including, but not limited to:
+- [[client-content/Laerdal/Sources/Laerdal Entities/Brand and Corporate Communication]] 
+- [[client-content/Laerdal/Sources/Laerdal Entities/Laerdal Marketing|Marketing]]
 - [[concepts/Visual Leadership]] and internal communication.
-- [[Sources/Laerdal Entities/Laerdal Product Management]] (the process and artifacts of, rather than the UI designs from)
+- [[client-content/Laerdal/Sources/Laerdal Entities/Laerdal Product Management]] (the process and artifacts of, rather than the UI designs from)
 
-Therefore, we hope that the [[Life Design System]] can expand its mandate and have starter kits and component libraries that can streamline the development of:
+Therefore, we hope that the [[client-content/Laerdal/Sources/Laerdal Entities/Life Design System]] can expand its mandate and have starter kits and component libraries that can streamline the development of:
 - Diagrams and Blueprints
 - Project Planning and Product Roadmaps
 - Documents
@@ -42,19 +42,19 @@ Therefore, we hope that the [[Life Design System]] can expand its mandate and ha
 	- Data Visualizations 
 
 ## Meta Design System
-What is a Meta Design System?  Well, we think it should open the mandate and influence of the [[Life Design System]]. Hopefully, the team finds some of it useful enough to incorporate.  
+What is a Meta Design System?  Well, we think it should open the mandate and influence of the [[client-content/Laerdal/Sources/Laerdal Entities/Life Design System]]. Hopefully, the team finds some of it useful enough to incorporate.  
 
 This is part of our [[concepts/CARBS]] framework, which stands for Charms, Anchors, Recipes, Blueprints, Starters.   
 
 For easy access, please assure you've watched the vide:
-![[The Lossless Group#How to Fuel Innovation with Alignment CARBS]]
+![[client-content/Laerdal/Sources/Laerdal Entities/The Lossless Group#How to Fuel Innovation with Alignment CARBS]]
 
 
 Design, for those indoctrinated and who have sworn the oath, is assuredly part art and part science. Yet in both the art and science, there are always a set of beliefs and patterns that guide a somewhat repeatable, disciplined, creative process.
 
 Part of that process is to communicate and align on designs that may otherwise not fully align, not fully resonate, and not provide the lasting guidance to the many-act-as-one necessity of teamwork and organizational momentum.  This is particularly true in the [[concepts/Product Development Workflow#On the Fiasco of Handoffs|Research to UX to UI to Development handoffs]], not to mention "managing up" to anyone who might be checking in on strategy, productivity, and results.
 
-And so, [[The Lossless Group]] believes in the Meta Design System and [[concepts/Visual Leadership]].
+And so, [[client-content/Laerdal/Sources/Laerdal Entities/The Lossless Group]] believes in the Meta Design System and [[concepts/Visual Leadership]].
 
 
 - Design File Navigation & Labels
@@ -107,7 +107,7 @@ This is a screenshot as of 2025, Jan 30.
 ![Screenshot of the Information Flow Map](https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/20250130_Lossless_Designs--v08_Information-Map__For-Comment.png?updatedAt=1757977905076)
 
 ![[Visuals/Screenshots/20250130_Lossless_Designs--v08_Information-Map__For-Comment.png]]
-This is an export of a variant with [[Sales Marketing and Services]] included.
+This is an export of a variant with [[client-content/Laerdal/Sources/Laerdal Entities/Sales Marketing and Services]] included.
 ![[v09_Information-Map__For-Comment.png]]
 ### Data Modeling Kit
 #### in Figma

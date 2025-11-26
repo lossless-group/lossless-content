@@ -24,7 +24,7 @@ There is definite value in just getting started. Anyone can throw PDFs, word doc
 
 But for the whole organization to benefit, [[concepts/Explainers for AI/Knowledge Base AI|Knowledge Base AI]], using [[Vocabulary/Retrieval-Augmented Generation|Retrieval-Augmented Generation]] and [[Knowledge Augmented Generation|KAG]] approaches and tools, requires preparing data with an intention and clarity, a discipline and rigor, that most organizations have never bothered with.  
 
-While much of the tactical work can be left to professionals in [[Data & Analytics]], there is actual enabling work that can only be done by [[Executive Management]]. 
+While much of the tactical work can be left to professionals in [[client-content/Laerdal/Sources/Laerdal Entities/Data & Analytics]], there is actual enabling work that can only be done by [[client-content/Laerdal/Sources/Laerdal Entities/Executive Management]]. 
 
 One of the most crucial enabling [[concepts/CARBS|CARBS]] is to codify [[concepts/Naming Conventions|Naming Conventions]].
 

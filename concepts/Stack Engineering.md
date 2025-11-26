@@ -12,5 +12,5 @@ aliases: [Stack Engineers, Stack Engineer]
 
 
 
-Discussed with [[Hector Mejia]] on [[Hector Mejia#Meeting 2025-01-09|2025-01-09]]  
+Discussed with [[client-content/Laerdal/Sources/Laerdal-Team/Hector Mejia]] on [[client-content/Laerdal/Sources/Laerdal-Team/Hector Mejia#Meeting 2025-01-09|2025-01-09]]  
 
