@@ -20,7 +20,7 @@ tags:
   - Product-Analytics
 ---
 
-[[Laerdal Marketing]]
+[[client-content/Laerdal/Sources/Laerdal Entities/Laerdal Marketing]]
 
 [[Heap]]
 

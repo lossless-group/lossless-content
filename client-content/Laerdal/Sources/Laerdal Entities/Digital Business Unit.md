@@ -1,6 +1,6 @@
 
-Currently led by [[Tore Sagstuen]].
-[[Erik Martiosyan]]
+Currently led by [[client-content/Laerdal/Sources/Laerdal-Team/Tore Sagstuen]].
+[[client-content/Laerdal/Sources/Laerdal-Team/Erik Martiosyan]]
 
 [[Vocabulary/E-Commerce]]
 
@@ -21,7 +21,7 @@ Connect Team. -- using React Library
 
 Account Team -- using React Library
 
-[[Knowledge Hub]] -- can't track the engagement 
+[[client-content/Laerdal/Sources/Laerdal Entities/Knowledge Hub]] -- can't track the engagement 
 .NET Core & React
 we use sanity for defining in KH:
 

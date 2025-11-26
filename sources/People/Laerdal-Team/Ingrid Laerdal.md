@@ -1,3 +1,0 @@
-
-[[Laerdal Impact Reporting]]
-

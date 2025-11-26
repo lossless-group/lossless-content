@@ -1,0 +1,1 @@
+Chairman of [[client-content/Laerdal/Sources/Laerdal Entities/Laerdal Medical]] and other higher order entities.  

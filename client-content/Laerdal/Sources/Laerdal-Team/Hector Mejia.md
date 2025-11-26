@@ -19,7 +19,7 @@ Creating a dashboard on top of [[organizations/Dovetail]] that shows the "compre
 
 Can use [[Tooling/Productivity/Async Communication/Microsoft Loop]] as an [[concepts/Explainers for Tooling/Advanced Documents|Advanced Documents]].  
 
-[[Design Ops]], [[Kevin Fox]] is part of the [[Digital Business Unit]].  
+[[Design Ops]], [[client-content/Laerdal/Sources/Laerdal-Team/Kevin Fox]] is part of the [[client-content/Laerdal/Sources/Laerdal Entities/Digital Business Unit]].  
 
 Organization would benefit from a universal stack.  
 

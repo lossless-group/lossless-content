@@ -18,5 +18,5 @@ tags:
   - Enterprise-Jobs-To-Be-Done
 ---
 
-[[Vocabulary/Knowledge Bases]], [[Knowledge Hub]]
+[[Vocabulary/Knowledge Bases]], [[client-content/Laerdal/Sources/Laerdal Entities/Knowledge Hub]]
 [[Documentation Engines]], [[Workflow Management]]

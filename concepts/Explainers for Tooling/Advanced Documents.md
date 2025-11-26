@@ -20,7 +20,7 @@ The current market leader is [[Tooling/Productivity/Advanced Documents/Notion]],
 
 An open source variant is [[Tooling/Productivity/Advanced Documents/Affine]].
 
-An early market entrant was [[Tooling/Productivity/Advanced Documents/Quip]], quickly acquired by [[Salesforce]] and likely has strong integrations with the [[Salesforce]] platform and tooling, thus potentially being good for [[Sales Support]]. 
+An early market entrant was [[Tooling/Productivity/Advanced Documents/Quip]], quickly acquired by [[Salesforce]] and likely has strong integrations with the [[Salesforce]] platform and tooling, thus potentially being good for [[client-content/Laerdal/Sources/Laerdal Entities/Sales Support]]. 
 
 [[Tooling/Productivity/Advanced Documents/CraftDocs]], [[Tooling/Productivity/Advanced Documents/Obsidian]].
 

@@ -1,33 +1,33 @@
 
-## 2025-01-08 Meeting with [[Troels Villumsen]]
+## 2025-01-08 Meeting with [[client-content/Laerdal/Sources/Laerdal-Team/Troels Villumsen]]
 
-We discussed the need for a clear and streamlined process to get our [[client-content/Laerdal/Projects/Organizational-Data-Flows/03 - Design Work]] into the [[Life Design System]].  
-## 2025-01-09 with [[Hector Mejia]]
+We discussed the need for a clear and streamlined process to get our [[client-content/Laerdal/Projects/Organizational-Data-Flows/03 - Design Work]] into the [[client-content/Laerdal/Sources/Laerdal Entities/Life Design System]].  
+## 2025-01-09 with [[client-content/Laerdal/Sources/Laerdal-Team/Hector Mejia]]
 
 #### Do you also work in assets like posters and presentations and screens around the office?  
 Not really.  It involves mobilizing many different disparate teams.  
 
 
 #### How does Marketing use the design system?  Do they use it for the website?  Who builds and maintains the marketing website?  
-No idea.  [[Darlene Giordano]] from [[Laerdal Marketing]]
+No idea.  [[client-content/Laerdal/Sources/Laerdal-Team/Darlene Giordano]] from [[client-content/Laerdal/Sources/Laerdal Entities/Laerdal Marketing]]
 
 
 
-Is a [[concepts/Explainers for Tooling/UI-Kit]] in [[Tooling/Figma]].  A few years ago "one of the business units" started they were building a [[concepts/Explainers for Tooling/UI-Kit]] in [[React]].  The Design team in Copenhagen wants to implement universal [[Design Systems]].  There seem to be 3 different [[concepts/Explainers for Tooling/UI-Kit]]s, platform called [[Copenhagen Office]] 
+Is a [[concepts/Explainers for Tooling/UI-Kit]] in [[Tooling/Figma]].  A few years ago "one of the business units" started they were building a [[concepts/Explainers for Tooling/UI-Kit]] in [[React]].  The Design team in Copenhagen wants to implement universal [[Design Systems]].  There seem to be 3 different [[concepts/Explainers for Tooling/UI-Kit]]s, platform called [[client-content/Laerdal/Sources/Laerdal Entities/Copenhagen Office]] 
 
-No clear Guidelines, design components for [[Enrique Liel Brand Director]], [[Lande Lombard Art Director]].  They use [[SharePoint]], and [[Troels Villumsen]] believes it should live in the [[Design Systems]].  [[concepts/Divergence and Convergence]].
+No clear Guidelines, design components for [[Enrique Liel Brand Director]], [[Lande Lombard Art Director]].  They use [[SharePoint]], and [[client-content/Laerdal/Sources/Laerdal-Team/Troels Villumsen]] believes it should live in the [[Design Systems]].  [[concepts/Divergence and Convergence]].
 
 Currently organized that the 
 
-[[Cansu Akarsu]]. [[Data & AI]] 
-[[Troels Villumsen]] wants a developer that is dedicated to delivering the design system.  Connective tissue.  [[Slow Down to Speed Up]] 
+[[client-content/Laerdal/Sources/Laerdal-Team/Cansu Akarsu]]. [[client-content/Laerdal/Sources/Laerdal Entities/Data & AI]] 
+[[client-content/Laerdal/Sources/Laerdal-Team/Troels Villumsen]] wants a developer that is dedicated to delivering the design system.  Connective tissue.  [[Slow Down to Speed Up]] 
 
 ###  Do people find you through [[SharePoint]]? 
 
 Different from Site to Site.  [[Insights Library]]
 Hard to find the right place.  Useful but a big mess. 
 No mass adoption of [[Tooling/Productivity/Async Communication/Microsoft Loop]].  
-Who decides the editorial for [[SharePoint]], [[Brand and Corporate Communication]] -- [[Paal Oftedal]] 
+Who decides the editorial for [[SharePoint]], [[client-content/Laerdal/Sources/Laerdal Entities/Brand and Corporate Communication]] -- [[Paal Oftedal]] 
 [[Jill Reid]]
 
 ### Do you have separate files where you keep various tokens?   
@@ -51,7 +51,7 @@ Like [[Creatie]], or [[CopyCoder]], [[UIzard]], [[UX Pilot]], [[Tooling/Software
 
 
 ### How would creating and maintaining UI Libraries outside of React work?  
-[[projects/Emergent-Innovation/Standards/Web Components]], [[Svelte]], [[Solid.js]], [[Vue.js]]?  Do you think the current NPM library will work?  No clear maintainer for how [[concepts/Explainers for Tooling/UI-Kit]]s get into the [[concepts/Explainers for Tooling/Web Frameworks]].  [[Digital Business Unit]]
+[[projects/Emergent-Innovation/Standards/Web Components]], [[Svelte]], [[Solid.js]], [[Vue.js]]?  Do you think the current NPM library will work?  No clear maintainer for how [[concepts/Explainers for Tooling/UI-Kit]]s get into the [[concepts/Explainers for Tooling/Web Frameworks]].  [[client-content/Laerdal/Sources/Laerdal Entities/Digital Business Unit]]
 
 
 
