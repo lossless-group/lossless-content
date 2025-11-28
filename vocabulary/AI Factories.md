@@ -35,7 +35,7 @@ tags: [Explainers, AI-Infrastructure, Data-Centers]
 | **Networking**      | Standard bandwidth, typical redundancy              | Ultra-high speed (e.g., InfiniBand, RDMA), low-latency interconnects                                                                          |
 | **Storage**         | Traditional storage, lower throughput               | High-throughput tiers, often NVMe, for massive datasets                                                                                       |
 | **Cooling/Power**   | Standardized for moderate densities                 | Extreme density, advanced cooling (liquid, immersion), vastly higher power draw                                                               |
-| **Software Stack**  | OS, hypervisors, routine business software          | ML frameworks ([[PyTorch]], TensorFlow, Triton), model serving APIs, orchestration for AI                                                     |
+| **Software Stack**  | OS, hypervisors, routine business software          | ML frameworks ([[Tooling/AI-Toolkit/AI Programming Frameworks/PyTorch]], TensorFlow, Triton), model serving APIs, orchestration for AI                                                     |
 | **Lifecycle Focus** | Static processing, limited automation               | Fully integrated AI pipeline: data ingestion, model training, deployment, monitoring, retraining[^2hscwa] [^zheha3] [^4qejn6] [^2gzj18] [^cy9bi7] |
 
 ![Relevant diagram or illustration related to the topic](https://blogs.nvidia.com/wp-content/uploads/2025/03/ai-factories-gtc25.-kv.png)

@@ -1,6 +1,6 @@
 ---
 date_created: 2025-11-16
-date_modified: 2025-11-16
+date_modified: 2025-11-26
 url: "https://www.summit.kauffmanfellows.org/"
 date_range: 2025-11-06--2025-11-10
 tags: [IRL-Event-Logs]
@@ -15,3 +15,5 @@ at_semantic_version: 0.0.0.1
 [[organizations/Kauffman Fellows|Kauffman Fellows]]
 
 ![[Sources/Reports/20251106_Kauffman AI & Deeptech presentation.pdf|20251106_Kauffman AI & Deeptech presentation]]
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7396604813733629953" height="928" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>

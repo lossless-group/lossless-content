@@ -32,7 +32,7 @@ og_favicon: "https://www.dgl.ai/assets/images/dgl-favicon.png"
 
 **Deep Graph Library (DGL): Powering Scalable Graph Neural Networks**
 
-Deep Graph Library (DGL) is an open-source Python toolkit designed to simplify the implementation and deployment of graph neural networks (GNNs) using mainstream deep learning frameworks such as [[PyTorch]], [[Tooling/AI-Toolkit/AI Programming Frameworks/TensorFlow|TensorFlow]], and MXNet[^qxab9y][^4dumxc]. As graphs become an increasingly vital data structure for representing complex relationships in everything from social networks to molecular biology, DGL serves as a bridge, enabling researchers and engineers to harness the power of deep learning for graph-structured data efficiently[^qx8cs0].
+Deep Graph Library (DGL) is an open-source Python toolkit designed to simplify the implementation and deployment of graph neural networks (GNNs) using mainstream deep learning frameworks such as [[Tooling/AI-Toolkit/AI Programming Frameworks/PyTorch]], [[Tooling/AI-Toolkit/AI Programming Frameworks/TensorFlow|TensorFlow]], and MXNet[^qxab9y][^4dumxc]. As graphs become an increasingly vital data structure for representing complex relationships in everything from social networks to molecular biology, DGL serves as a bridge, enabling researchers and engineers to harness the power of deep learning for graph-structured data efficiently[^qx8cs0].
 
 ![Deep Graph Library concept diagram or illustration](https://images.contentstack.io/v3/assets/blt71da4c740e00faaa/blt77a10cc2c3e5d63e/60ad1ef60a03095ac9586fea/blog-dl-graphs.jpg)
 

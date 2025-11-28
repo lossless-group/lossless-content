@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-17
-date_modified: 2025-08-23
+date_modified: 2025-11-28
 aliases: [AI Executive Assistants, Virtual Assistants]
 covers_tags:
   - AI-Assistants
@@ -15,12 +15,12 @@ authors:
 augmented_with: Perplexity AI
 ---
 :::tool-showcase
-[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Fyxer]]
-[[Tooling/Productivity/Personal Cloud/Superhuman]]
+[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Fyxer|Fyxer]]
+[[Tooling/Productivity/Personal Cloud/Superhuman|Superhuman]]
 [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Vectara|Vectara]]
 [[Tooling/AI-Toolkit/Invisible.co|Invisible.co]]
 [[Tooling/AI-Toolkit/AI Interfaces/Monica.ai|Monica.ai]]
-[[Tooling/AI-Toolkit/Agentic AI/Athena]]
+[[Tooling/AI-Toolkit/Agentic AI/Athena|Athena]]
 :::
 
 

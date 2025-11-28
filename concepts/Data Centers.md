@@ -89,7 +89,7 @@ According to Building Design+Construction's 2024 ranking, the top data center co
 
 ### Investment Firms
 
-**[[Blackstone]]** is investing $13 billion in a hyperscale data center in Northern England, positioning it as one of the largest technology infrastructure investments in Europe[^c5c089]. The facility will operate on 100% renewable energy with advanced liquid cooling systems[^c5c089].
+**[[organizations/Blackstone]]** is investing $13 billion in a hyperscale data center in Northern England, positioning it as one of the largest technology infrastructure investments in Europe[^c5c089]. The facility will operate on 100% renewable energy with advanced liquid cooling systems[^c5c089].
 
 ## Government and Sovereign Cloud Initiatives
 

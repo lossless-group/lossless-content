@@ -17,7 +17,7 @@ og_image: https://www.theagencycollective.co.uk/wp-content/uploads/2023/04/tik-t
 og_favicon: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tiktok_icon.svg/192px-Tiktok_icon.svg.png?20240827133148
 ---
 
-[[Influencer Marketing]]
+[[concepts/Explainers for Tooling/Influencer Marketing]]
 
 ***
 > [!info] **Perplexity Query** (2025-11-26T13:07:53.667Z)

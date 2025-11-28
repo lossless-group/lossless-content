@@ -84,7 +84,7 @@ Panelists were: [[Sources/People/Henrik Wetter Sanchez|Henrik Wetter Sanchez]], 
 ### Don't Underestimate Brand
 
 [[Sources/People/Fred Destin|Fred Destin]] --
-- Each company will need to control their own narrative. Ex: "Blow through the benchmarks." This has required a lot more attention to [[Vocabulary/Public Relations|Public Relations]], [[Influencer Marketing]], and [[Vocabulary/Digital Storytelling|Digital Storytelling]].  In addition, thinks like [[concepts/Developer Experience|Developer Experience]] and [[Vocabulary/Developer Community|Developer Community]]. [[Tooling/AI-Toolkit/Model Producers/ElevenLabs|ElevenLabs]] focused on influencer marketing, and it was simple to sign up.  
+- Each company will need to control their own narrative. Ex: "Blow through the benchmarks." This has required a lot more attention to [[Vocabulary/Public Relations|Public Relations]], [[concepts/Explainers for Tooling/Influencer Marketing]], and [[Vocabulary/Digital Storytelling|Digital Storytelling]].  In addition, thinks like [[concepts/Developer Experience|Developer Experience]] and [[Vocabulary/Developer Community|Developer Community]]. [[Tooling/AI-Toolkit/Model Producers/ElevenLabs|ElevenLabs]] focused on influencer marketing, and it was simple to sign up.  
  
 [[Sources/People/Ben Peters|Ben Peters]] --
 - We tend to over-estimate the need for differentiation in product and growth engines. But, because markets can feel so crowded, sometimes just getting the brand right can make an exponential difference.  Don't need white space, need great brand.  For instance, [[Tooling/AI-Toolkit/Generative AI/Code Generators/Lovable|Lovable]] pursued a brand-first strategy, and arguably [[Tooling/AI-Toolkit/Models/Devin|Devin]] had a head start and a better product and even a better technical team.  Yet, [[Tooling/AI-Toolkit/Generative AI/Code Generators/Lovable|Lovable]] clearly nailed it.  
@@ -181,7 +181,7 @@ Broad consensus that there will be
 ### What's going on with emerging "Models" and AI Paradigms?
 
 [[Sources/People/Sherman Williams|Sherman Williams]] --
-- We shouldn't think that [[Vocabulary/Large Language Models|LLMs]] are the end all be all. There's lots of progress in [[concepts/Explainers for AI/Multimodal Models|Multimodal Models]], [[Vocabulary/Chain of Thought|Chain of Thought]].  [[concepts/Explainers for AI/Relationship Systems Models|Relationship Systems Models]] like [[Tooling/AI-Toolkit/Model Producers/Graphon]] , [[State Space Models]].  Better than [[Vocabulary/Large Language Models|LLMs]]. 
+- We shouldn't think that [[Vocabulary/Large Language Models|LLMs]] are the end all be all. There's lots of progress in [[concepts/Explainers for AI/Multimodal Models|Multimodal Models]], [[Vocabulary/Chain of Thought|Chain of Thought]].  [[concepts/Explainers for AI/Relationship Systems Models|Relationship Systems Models]] like [[Tooling/AI-Toolkit/Model Producers/Graphon]] , [[concepts/Explainers for AI/State Space Models]].  Better than [[Vocabulary/Large Language Models|LLMs]]. 
 - LLMs seems to only work well right now for use cases where errors are easy to see and there are processes to fix them.  That's why [[concepts/Explainers for AI/Code Generators|Code Generators]] are so popular and work so well.
 - [[concepts/Explainers for AI/Artificial General Intelligence|AGI]] seems like a distant fantasy right now, despite the hype. 
 

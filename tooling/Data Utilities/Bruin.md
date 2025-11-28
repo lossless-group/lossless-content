@@ -15,6 +15,7 @@ og_title: Your Last Data Platform | 10x Faster, 90% Less Complexity
 og_description: Transform your data infrastructure with Bruin's unified analytics platform. SQL & Python pipelines, data quality, observability, and governance in one tool.
 og_image: https://getbruin.com/__og-image__/static/og.png
 site_name: Bruin
+github_repo_url: https://github.com/bruin-data/bruin
 ---
 
 Worked at Digital Marketing Agencies. 

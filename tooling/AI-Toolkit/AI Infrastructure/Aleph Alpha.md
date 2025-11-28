@@ -11,7 +11,7 @@ tags: [Sovereign-AI, Security-First, Privacy-First-Alternatives, Enterprise-AI]
 for_clients:
   - Laerdal
 ---
-[[Sovereign AI]]
+[[concepts/Explainers for AI/Sovereign AI]]
 [[concepts/Security-First Development|Security-First Development]]
 
 

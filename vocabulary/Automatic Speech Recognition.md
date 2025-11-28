@@ -1,12 +1,10 @@
 ---
-aliases:
-  - ASR
+aliases: [ASR]
 date_created: 2025-09-20
-date_modified: 2025-09-20
+date_modified: 2025-11-28
 covers_tags:
   - Speech-To-Text
-tags:
-  - Speech-To-Text
+tags: [Speech-To-Text]
 site_uuid: a485de74-550d-4d0a-8cdd-81eaae5fc153
 publish: true
 title: Automatic Speech Recognition

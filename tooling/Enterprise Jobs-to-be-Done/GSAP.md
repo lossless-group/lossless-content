@@ -13,6 +13,6 @@ tags:
   - JavaScript-Ecosystem
 ---
 
-[[Vocabulary/Animations|Animations]]
+[[Vocabulary/Animations for the Web|Animations for the Web]]
 [[Vocabulary/User Experience|User Experience]]
 [[Vocabulary/Front-End|Front-End]]

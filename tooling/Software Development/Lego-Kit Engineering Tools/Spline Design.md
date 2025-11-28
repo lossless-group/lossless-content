@@ -17,7 +17,7 @@ at_semantic_version: 0.0.0.1
 ---
 [[Vocabulary/3D Graphics|3D Graphics]]
 [[Vocabulary/Realtime Collaboration|Realtime Collaboration]]
-[[Vocabulary/Animations|Animations]]
+[[Vocabulary/Animations for the Web|Animations for the Web]]
 
 [[Vocabulary/Web Design]]
 [[concepts/State of the Art|State of the Art]]

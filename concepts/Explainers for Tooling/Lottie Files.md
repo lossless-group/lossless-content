@@ -4,5 +4,5 @@ date_created: 2025-03-30
 date_modified: 2025-04-24
 ---
 
-A [[Data Standard]] for [[Animations]] created and maintained by [[IconScout]].
+A [[Data Standard]] for [[Vocabulary/Animations for the Web]] created and maintained by [[IconScout]].
 

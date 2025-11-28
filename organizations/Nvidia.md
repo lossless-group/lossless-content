@@ -1,10 +1,10 @@
 ---
 url: https://nvidia.com/
 youtube_url: https://www.youtube.com/@NVIDIA
-aliases:
-  - NVIDIA
+aliases: [NVIDIA]
 date_created: 2025-01-04
-date_modified: 2025-03-21
+date_modified: 2025-11-28
+huggingface_url: https://huggingface.co/nvidia
 ---
 The most successful chip design company, building proprietary processors with [[Graphics Processing Units|GPU Architecture]].  Originally, [[Graphics Processing Units]] were meant to handle increasingly complex computer graphics in media and gaming.  Coincidentally, as the computing demands for [[Machine Learning]] became unwieldy for CPUs, researchers began to train their [[AI Models]] on [[Graphics Processing Units|GPUs]]  
 
@@ -33,7 +33,7 @@ https://youtube.com/shorts/jBMcnLVHS9c?si=7uuaZB5Oj5nc7nZo
 https://youtu.be/h4w_aObRzCc?si=o4q1SXDD0W4KCwVh
 
 https://youtu.be/nFB-AILkamw?si=Sc5bgz8ZcYFYdCvm
-## [[organizations/Perplexity AI]] explains:
+## [[organizations/Perplexity AI|Perplexity AI]] explains:
 NVIDIA, founded in 1993 by Jensen Huang, Curtis Priem, and Chris Malachowsky, began as a graphics-focused company and evolved into a leader in artificial intelligence (AI). Its trajectory reshaped computer graphics and enabled the AI revolution.
 
 ### **Early Years: Pioneering Graphics**
