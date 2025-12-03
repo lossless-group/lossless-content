@@ -38,7 +38,7 @@ Use [[Tooling/Software Development/Frameworks/Frontend/UI Frameworks/Tailwind|Ta
 
 Only deal with [[projects/Emergent-Innovation/Standards/Markdown|Extended Markdown]], 
 
-Embedded [[concepts/Explainers for AI/AI Integrations|AI Integrations]] for both [[concepts/Content Generation|Content Generation]] and [[Vocabulary/Web Development|Web Development]]. 
+Embedded [[concepts/Explainers for AI/AI Integrations|AI Integrations]] for both [[concepts/Explainers for AI/AI Powered Content Generation|AI Powered Content Generation]] and [[Vocabulary/Web Development|Web Development]]. 
 
 Build once play anywhere [[Vocabulary/Cross-Platform Applications|Cross-Platform Applications]] with [[Tooling/Software Development/Programming Languages/Rust|Rust]] using [[Tooling/Software Development/Programming Languages/Libraries/wgpu|wgpu]]
 

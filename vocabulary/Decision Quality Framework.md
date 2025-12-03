@@ -47,7 +47,7 @@ Looking ahead, the Decision Quality Framework is likely to become even more inte
 
 **Conclusion**
 
-The Decision Quality Framework, developed by [[Ron A. Howard]], provides a robust and systematic approach to making better decisions. By focusing on the quality of the decision-making process rather than just the outcome, this framework helps organizations and individuals navigate uncertainty and complexity with greater confidence. As the world becomes more interconnected and dynamic, the principles of Decision Quality will continue to play a vital role in shaping the future of decision-making.
+The Decision Quality Framework, developed by [[Sources/People/Ron A. Howard]], provides a robust and systematic approach to making better decisions. By focusing on the quality of the decision-making process rather than just the outcome, this framework helps organizations and individuals navigate uncertainty and complexity with greater confidence. As the world becomes more interconnected and dynamic, the principles of Decision Quality will continue to play a vital role in shaping the future of decision-making.
 
 ### Citations
 

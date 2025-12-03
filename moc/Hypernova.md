@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-09
-date_modified: 2025-10-02
+date_modified: 2025-12-03
 ---
 :::features
 - Reader
@@ -19,6 +19,7 @@ date_modified: 2025-10-02
 - [[client-content/Hypernova/Files/Portfolio/Yassir|Yassir]]
 - [[Tooling/Data Utilities/Bruin|Bruin]]
 - [[Tooling/Portfolio/Seabound|Seabound]]
+- [[Tooling/AI-Toolkit/Handle|Handle]]
 :::
 
 :::concepts

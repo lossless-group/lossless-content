@@ -38,7 +38,7 @@ However, there are challenges to consider. Ensuring data privacy and compliance 
 
 ## Current State and Trends
 
-AI follow-up workflows are rapidly being adopted across industries, from healthcare and finance to retail and professional services. Leading platforms like [[Lead Hero AI]], [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Datagrid]], and [[Wrike]] offer robust solutions that integrate with popular CRM systems and communication tools. These platforms use advanced techniques such as retrieval augmented generation to create highly relevant, context-aware responses.
+AI follow-up workflows are rapidly being adopted across industries, from healthcare and finance to retail and professional services. Leading platforms like [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Lead Hero AI]], [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Datagrid]], and [[Tooling/Enterprise Jobs-to-be-Done/Wrike]] offer robust solutions that integrate with popular CRM systems and communication tools. These platforms use advanced techniques such as retrieval augmented generation to create highly relevant, context-aware responses.
 
 Recent developments include [[multi-channel coordination]], where AI synchronizes messages across email, SMS, chat, and social media, ensuring consistent and timely communication. Integration with project management tools like [[Tooling/Productivity/Workflow Management/Asana|Asana]] and [[Tooling/Enterprise Jobs-to-be-Done/Trello|Trello]] further enhances workflow efficiency. Companies are also leveraging AI for real-time analytics, continuously optimizing follow-up strategies based on engagement data.
 

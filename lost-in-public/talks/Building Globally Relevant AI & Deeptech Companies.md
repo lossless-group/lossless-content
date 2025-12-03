@@ -147,8 +147,8 @@ Broad consensus that there will be
 [[Sources/People/Itxaso del Palacio|Itxaso del Palacio]], [[Sources/People/Clint Korver|Clint Korver]] -- 
 - There's a huge gap for both consumers and SMB, and [[concepts/Product-Led Growth]]. This is the ability for the AI Systems to capture expressed preferences, and to intelligently managing preferences....  For instance, an [[concepts/Explainers for AI/AI Travel Agents|AI Travel Agents]]
 - The needs for AI to provide and thus have context for [[concepts/Data-Driven Decision Making|Data-Driven Decision Making]] needs better ways of memory, context management, etc. Giving better and more custom "advice" or providing more context-aware information could unlock a lot of market potential for "Advisory Services."
-- Some have come to call this need [[Situational Awareness]]. [^6va2gm]
-- There should be people working on established techniques from [[Vocabulary/Decision Science|Decision Science]] such as  [[Vocabulary/Markov Decision Process|Markov Decision Process]], or gated decision making like [[Vocabulary/Decision Quality Framework|Decision Quality Framework]] by [[Ron A. Howard]].
+- Some have come to call this need [[concepts/Explainers for AI/Situational Awareness]]. [^6va2gm]
+- There should be people working on established techniques from [[Vocabulary/Decision Science|Decision Science]] such as  [[Vocabulary/Markov Decision Process|Markov Decision Process]], or gated decision making like [[Vocabulary/Decision Quality Framework|Decision Quality Framework]] by [[Sources/People/Ron A. Howard]].
 
 ### Can you be dedicated to "One Platform" or "One Distribution Mechanism"
 

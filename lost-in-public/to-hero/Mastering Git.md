@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-21
-date_modified: 2025-11-14
+date_modified: 2025-12-03
 site_uuid: dc99c733-0a2e-4261-93a6-146650d3f664
 publish: true
 title: Mastering Git
@@ -357,3 +357,15 @@ This shows the last 3 commits on the development branch with abbreviated hash, s
 Mastering Git isn't about memorizing every flag and option. It's about building mental models for how Git stores history, understanding the difference between the working directory, the staging area, and the repository, and knowing which tools to reach for when things go wrong.
 
 The commands in this guide represent real scenarios: secrets that needed purging, large files that crashed deployment pipelines, submodules that fell out of sync, and countless "what did I just do?" moments. Keep this guide handy. You'll need it.
+
+## Delete the old tag locally
+  git tag -d v0.3.3
+
+  # 2. Create the tag on the current commit (with your doc updates)
+  git tag v0.3.3
+
+  # 3. Force push the tag to remote
+  git push origin v0.3.3 --force
+
+  The GitHub release will automatically point to the new commit since it's tied to the tag name,
+  not the commit SHA.

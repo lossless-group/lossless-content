@@ -1,6 +1,6 @@
 ---
 date_created: 2025-09-27
-date_modified: 2025-09-27
+date_modified: 2025-12-03
 url: "https://ripplejs.github.io/"
 og_title: "A framework for creating reactive components"
 og_description: "A tiny foundation for creating reactive components with interpolation, data-binding, and plugins. It's  simple, flexible and easy to extend."
@@ -21,3 +21,5 @@ https://youtu.be/w0hUjwHpqEI?si=ZUOI-s_EZAQcfukD
 https://youtu.be/NeJ6wq2szVs?si=3ViHLwDqKIxLW4ZP
 
 https://youtu.be/x9jBK2-RLtU?si=GeGi0BQb-ljdGAHM
+
+https://youtu.be/PG_PCGjfFto?si=1Y0RGlUx0bhcJohT

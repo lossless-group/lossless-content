@@ -48,7 +48,7 @@ In summary, AI code generators represent a transformative leap in software devel
 - [[concepts/Explainers for Tooling/Text Editors or IDEs|IDEs]] include [[Cursor]], [[Windsurf IDE]], [[Trae AI]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bloop AI|Bloop AI]], [[Zed]], [[Pear IDE]], [[CodeLLM]]
 	- [[Melty]] is just a [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editor]], but has strong reviews.
 - [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulators]] include [[Warp]] and [[Aider]]
-- [[concepts/Opsless Deployment Providers]] include [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bolt.new|Bolt.new]], [[v0]], [[Lovable]], [[Replit]], [[Hostinger]] and [[ScrBook]]
+- [[concepts/Opsless Deployment Providers]] include [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bolt.new|Bolt.new]], [[v0]], [[Lovable]], [[Replit]], [[Hostinger]] and [[Tooling/AI-Toolkit/Generative AI/Code Generators/Mocha]]
 - [[Plug-ins,  Add-ons,  Extensions|Plug-ins]] to other Text Editors include [[Aider]], [[Databutton]], [[Claude#Cline|Cline]], [[Devin]], [[supermaven]], [[Augment Code]], [[Continue AI]], [[AppMap]] who embed into [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editors or IDEs]], such as [[Tooling/Software Development/Developer Experience/JetBrains|JetBrains]] but especially [[Visual Studio Code|VS Code]].
 - Starting from your own code repositories, services like [[Poolside]], [[AppMap]], [[smolagents]], [[RepoPrompt]]
 - Specializing in [[Bug Reporting]] is [[CodeAnt AI]]
@@ -214,7 +214,7 @@ Attempts at a fully featured [[concepts/Explainers for Tooling/Text Editors or I
 
 [[CopyCoder]] is differentiated, as it works from Images to generate code. Grade for [[User Interface|UI]] Design. [[concepts/Rapid Prototyping Infrastructure]].
 
-[[concepts/Explainers for AI/Code Generators|Code Generators]] have also been created by [[concepts/Opsless Deployment Providers|Opsless Deployment Providers]], including [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bolt.new|Bolt.new]] by [[StackBlitz]], [[v0]] by [[Vercel]]. [[Lovable]] and [[ScrBook]]
+[[concepts/Explainers for AI/Code Generators|Code Generators]] have also been created by [[concepts/Opsless Deployment Providers|Opsless Deployment Providers]], including [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bolt.new|Bolt.new]] by [[StackBlitz]], [[v0]] by [[Vercel]]. [[Lovable]] and [[Tooling/AI-Toolkit/Generative AI/Code Generators/Mocha]]
 https://youtu.be/l-YbaSzDmhU?si=yTLceEj5oI8pWQH3
 
 ***

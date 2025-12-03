@@ -52,7 +52,7 @@ Generative AI is rapidly transforming creative fields—such as design, photogra
 - **Customization:** AI-powered personalization tailors user experiences ([[Vocabulary/User Experience|UX]]) based on real-time data, leading to more engaging and effective interfaces. [^5713d4]
 
 #### 5. **Advertising and Marketing**
-- **[[concepts/Content Generation|Content Generation]]:** AI tools create ad copy, imagery, and video content at scale, enabling hyper-personalized campaigns and faster turnaround times. [^fcb9b5] [^e1f350]
+- **[[concepts/Explainers for AI/AI Powered Content Generation|AI Powered Content Generation]]:** AI tools create ad copy, imagery, and video content at scale, enabling hyper-personalized campaigns and faster turnaround times. [^fcb9b5] [^e1f350]
 - **Cost & Speed:** The automation of creative asset production reduces costs and accelerates campaign launches, allowing brands to experiment more and respond rapidly to trends. [^fcb9b5]
 - **Market Growth:** The generative AI market in creative industries is projected to grow from $3.08 billion in 2024 to $4.09 billion in 2025, reflecting its increasing adoption. [^052a50]
 

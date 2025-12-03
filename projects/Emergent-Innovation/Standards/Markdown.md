@@ -2,8 +2,8 @@
 helpful-links: "https://www.markdownguide.org/"
 tags: [Primative-Data]
 date_created: 2024-12-25
-date_modified: 2025-11-19
-aliases: ["[Extended Markdown]"]
+date_modified: 2025-12-02
+aliases: [Extended Markdown]
 site_uuid: 47a628f2-4d6b-4146-aeba-7f943d7ce102
 publish: true
 title: Markdown
@@ -22,7 +22,9 @@ Several communities have formed to add to the simple, reductionist Markdown.  An
 - [CommonMark](https://commonmark.org/)
 - [Markdown Extra](https://michelf.ca/projects/php-markdown/extra/)
 - [MultiMark](https://fletcherpenney.net/multimarkdown/)
-- [[Tooling/Productivity/Advanced Documents/mxMarkEdit]]
+- [[Tooling/Productivity/Advanced Documents/mxMarkEdit|mxMarkEdit]]
+- [[projects/Emergent-Innovation/Standards/Markdown Derivatives/Colon Attribute Markup Language]]
+- 
 
 ### Markdown-based Presentations
 [[projects/Emergent-Innovation/Standards/Marp|Marp]]

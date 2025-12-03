@@ -6,7 +6,7 @@ og_image: "https://framerusercontent.com/assets/lBwaiWkW74PdeWPoubSKkfQXnLk.jpg"
 og_favicon: "https://framerusercontent.com/images/g6Umx2aAYO5xZvuFHqYtZzQ.png"
 og_last_fetch: "2025-11-24T16:22:29.386Z"
 date_created: 2025-11-24
-date_modified: 2025-11-24
+date_modified: 2025-12-03
 for_clients:
   - Laerdal
   - Hypernova
@@ -18,3 +18,6 @@ slug: profile-health
 at_semantic_version: 0.0.0.1
 ---
 [[Vocabulary/Personalized Medicine|Personalized Medicine]]
+
+[[vertical-toolkits/Venture-Capital-Firms/Dark Matter Bio|Dark Matter Bio]]
+

@@ -1,6 +1,6 @@
 ---
 date_created: 2024-12-14
-date_modified: 2025-09-23
+date_modified: 2025-11-30
 site_uuid: 15bf6f3a-75e6-4095-b232-a24c3490496e
 title: Someone's Gotta Keep Up with It
 lede: Keeping up with rapid tech change is a relentless challenge, but it’s the key to staying relevant.
@@ -31,21 +31,23 @@ categories:
 > The pace of change is happening at greater and greater speeds. It feels like a neverending whirlwind.
 # Every few months
 
-Since the launch of GPT-3 in June 2020, major “shake-up” AI models that significantly impact developers have been released roughly every 6–12 months, sometimes even more frequently in recent years[^0sn4rl][^93ow3w][^le0xqp][^w1hax6][^ho7gd7][^34oscb][^r1z5tc]. This trend has accelerated notably since 2023, with several key releases annually and intensified competition from Chinese tech giants and indie labs.
+https://youtu.be/7prw229V_vM?si=CfUo0eRE-ec54kg3
+
+Since the launch of GPT-3 in June 2020, major “shake-up” AI models that significantly impact developers have been released roughly every 6–12 months, sometimes even more frequently in recent years. [^0sn4rl] [^93ow3w] [^le0xqp] [^w1hax6] [^ho7gd7] [^34oscb] [^r1z5tc] This trend has accelerated notably since 2023, with several key releases annually and intensified competition from Chinese tech giants and indie labs.
 
 ## Why These Models Matter
-- **Context expansion**: Each new model often brings substantial increases in context window or memory, which directly affects app design and prompts developers to rework interfaces and backend systems[^kcj7tj][^o68b8j][^le0xqp][^34oscb].
-- **Multimodal capabilities**: When multimodal models like GPT-4, Gemini, or LLaMA 4 drop, developers rapidly pivot to add image, audio, or video inputs and outputs[^kcj7tj][^o68b8j][^on3lm5].
-- **API and performance changes**: Updates like GPT-4 Turbo or Mixtral deliver new pricing, latency, and reliability considerations that force app and infrastructure architecture updates[^bb1c1k][^34oscb].
-- **Safety/Guardrails**: Major releases from Anthropic (Claude) or OpenAI often push new standards in prompt engineering and model alignment, driving quick policy and app modifications[^c298wc][^ho7gd7][^9gjfmr].
-- **Open-source releases**: When powerful models become openly available (e.g., LLaMA, Mistral, DeepSeek, OpenAI’s GPT-OSS series), developers globally reassess their stacks given lowered cost and increased flexibility[^50assh][^34oscb][^ql0lve][^39b1k7].
+- **Context expansion**: Each new model often brings substantial increases in context window or memory, which directly affects app design and prompts developers to rework interfaces and backend systems. [^kcj7tj] [^o68b8j] [^le0xqp] [^34oscb]
+- **Multimodal capabilities**: When multimodal models like GPT-4, Gemini, or LLaMA 4 drop, developers rapidly pivot to add image, audio, or video inputs and outputs. [^kcj7tj] [^o68b8j] [^on3lm5]
+- **API and performance changes**: Updates like GPT-4 Turbo or Mixtral deliver new pricing, latency, and reliability considerations that force app and infrastructure architecture updates. [^bb1c1k] [^34oscb]
+- **Safety/Guardrails**: Major releases from Anthropic (Claude) or OpenAI often push new standards in prompt engineering and model alignment, driving quick policy and app modifications. [^c298wc] [^ho7gd7] [^9gjfmr]
+- **Open-source releases**: When powerful models become openly available (e.g., LLaMA, Mistral, DeepSeek, OpenAI’s GPT-OSS series), developers globally reassess their stacks given lowered cost and increased flexibility. [^50assh] [^34oscb] [^ql0lve] [^39b1k7]
 
 ## Recent Frequency Trends (2023–2025)
-- **Global developer “shake-up” events:** There have been at least **2–4 globally influential releases per year** since mid-2023, with 2024 and 2025 showing increasing frequency (every 3–6 months)[^ho7gd7][^34oscb][^on3lm5][^r1z5tc].
-- **Regional waves:** With Chinese ([[Tooling/AI-Toolkit/Model Producers/DeepSeek|DeepSeek]], ERNIE, [[Tooling/AI-Toolkit/Models/Qwen|Qwen]]), UAE (Falcon), and indie European labs ([[Tooling/AI-Toolkit/Model Producers/Mistral|Mistral]]), the pace is only quickening—often with effects on developers localized by language, cost, or API adoption[^dm2yar][^4v3cls][^r1z5tc][^34oscb].
+- **Global developer “shake-up” events:** There have been at least **2–4 globally influential releases per year** since mid-2023, with 2024 and 2025 showing increasing frequency (every 3–6 months). [^ho7gd7] [^34oscb] [^on3lm5] [^r1z5tc]
+- **Regional waves:** With Chinese ([[Tooling/AI-Toolkit/Model Producers/DeepSeek|DeepSeek]], ERNIE, [[Tooling/AI-Toolkit/Models/Qwen|Qwen]]), UAE (Falcon), and indie European labs ([[Tooling/AI-Toolkit/Model Producers/Mistral|Mistral]]), the pace is only quickening—often with effects on developers localized by language, cost, or API adoption. [^dm2yar] [^4v3cls] [^r1z5tc] [^34oscb]
 
 ## Overall Estimate
-A major, developer-impacting AI model comes out on average **every 3–6 months** as of 2024–2025, with some cycles seeing monthly shifts due to cascading open-source and region-specific breakthroughs[^34oscb][^cpire1][^on3lm5][^ho7gd7]. Most notable disruptions require engineers to rapidly adapt tools, prompts, workflows, and sometimes entire products.
+A major, developer-impacting AI model comes out on average **every 3–6 months** as of 2024–2025, with some cycles seeing monthly shifts due to cascading open-source and region-specific breakthroughs. [^34oscb] [^cpire1] [^on3lm5] [^ho7gd7] Most notable disruptions require engineers to rapidly adapt tools, prompts, workflows, and sometimes entire products.
 
 > If working with AI, developers should expect fundamental changes at least twice per year, and often much more frequently.
 
@@ -147,9 +149,9 @@ This comprehensive timeline tracks major AI model series releases from the launc
 | GPT-5 | OpenAI | August 7, 2025[^ot2tn3] | https://openai.com/blog/gpt-5 | Next generation model with reasoning |
 ## Key Insights
 
-**OpenAI Leadership**: Started the modern LLM era with GPT-3 in June 2020, [^yuvqy4] followed by consistent innovation through GPT-3.5, [^czl8su] GPT-4, [^beb80l] and o1 reasoning models. [^ot2tn3]
+**OpenAI Leadership**: Started the modern LLM era with [[Tooling/AI-Toolkit/Models/GPT-Series Models|GPT]]-3 in June 2020, [^yuvqy4] followed by consistent innovation through GPT-3.5, [^czl8su] GPT-4, [^beb80l] and [[Tooling/AI-Toolkit/Models/O-Series Models|o]]1 reasoning models. [^ot2tn3]
 
-**Chinese Innovation**: Major players include Baidu (ERNIE series), [^4ymfau] Alibaba (Qwen family), [^hcajs1] [[Tooling/AI-Toolkit/Model Producers/DeepSeek|DeepSeek]] (breakthrough efficiency models), [^n1tgc9] and academic institutions like BAAI (Wu Dao series). [^zoej3v]
+**Chinese Innovation**: Major players include [[Baidu]] (ERNIE series), [^4ymfau] Alibaba (Qwen family), [^hcajs1] [[Tooling/AI-Toolkit/Model Producers/DeepSeek|DeepSeek]] (breakthrough efficiency models), [^n1tgc9] and academic institutions like BAAI (Wu Dao series). [^zoej3v]
 
 **Open Source Movement**: [[EleutherAI]] pioneered open alternatives with GPT-J and GPT-NeoX, [^1whs3f] followed by BigScience BLOOM, [^o1gtnw] Meta's [[Tooling/AI-Toolkit/Models/LLaMA|LLaMA]] series, [^oz1pr0] and Mistral AI's efficient models. [^n2trtc]
 

@@ -42,7 +42,7 @@ In practical terms, **context windows** are vital for tasks like summarizing len
 - **Text Summarization:** Larger context windows enable models to summarize entire articles or multipart conversations accurately. [^sser6w]
 - **[[Conversational AI]]:** Chatbots and virtual assistants benefit from extended memory, making interactions seem more coherent and “human-like”. [^9klejp]
 - **Legal and Technical Analysis:** Enterprises use LLMs with large context windows to parse contracts, manuals, or data sheets, extracting relevant information and providing structured answers. [^9klejp]
-- **[[concepts/Content Generation|Content Generation]]:** Writing tools leverage wide context windows to maintain style and substance across longer pieces of text.
+- **[[concepts/Explainers for AI/AI Powered Content Generation|AI Powered Content Generation]]:** Writing tools leverage wide context windows to maintain style and substance across longer pieces of text.
 
 Increasing the context window size results in several benefits:
 - Enhanced ability to process nuanced, multi-topic prompts
