@@ -48,7 +48,7 @@ CPQ is widely used in various industries, from manufacturing and software to ret
 
 ## Current State and Trends
 
-CPQ adoption is growing rapidly, driven by the increasing complexity of products and services and the need for faster, more accurate quoting processes. Key players in the CPQ market include [[Tooling/Products/Salesforce|Salesforce]], [[organizations/Oracle|Oracle]], and [[NetSuite]], each offering robust CPQ solutions that integrate with their broader CRM and ERP platforms. Recent developments include the integration of artificial intelligence and machine learning to further optimize pricing and configuration, as well as the expansion of self-service capabilities for customers.
+CPQ adoption is growing rapidly, driven by the increasing complexity of products and services and the need for faster, more accurate quoting processes. Key players in the CPQ market include [[Tooling/Products/Salesforce|Salesforce]], [[organizations/Oracle|Oracle]], and [[Tooling/Enterprise Jobs-to-be-Done/NetSuite]], each offering robust CPQ solutions that integrate with their broader CRM and ERP platforms. Recent developments include the integration of artificial intelligence and machine learning to further optimize pricing and configuration, as well as the expansion of self-service capabilities for customers.
 
 ## Future Outlook
 

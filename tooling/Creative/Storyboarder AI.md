@@ -17,4 +17,4 @@ site_name: StoryboarderAI
 ---
 [[concepts/Visual Leadership|Visual Leadership]]
 [[client-content/Laerdal/Sources/Laerdal Entities/Design|Design]]
-[[Design Thinking]]
+[[Vocabulary/Design Thinking]]

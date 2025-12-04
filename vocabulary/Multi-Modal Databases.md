@@ -1,11 +1,11 @@
 ---
 date_created: 2025-09-08
-date_modified: 2025-09-23
+date_modified: 2025-12-04
 site_uuid: 01a32609-c164-48ec-8002-91d406f45d0f
 title: Multi Modal Databases
 slug: multi-modal-databases
 at_semantic_version: 0.0.0.1
-tags: [Databases]
+tags: [Databases, Multi-Modal-Databases]
 ---
 
 ![Multi-Modal Databases concept diagram or illustration](http://103.121.91.113:2022/Uploads/multi-level-database01122022103726.png)

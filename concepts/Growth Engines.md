@@ -187,7 +187,7 @@ Analysis of growth team evolution across leading companies reveals common patter
 
 Growth teams face new challenges as the discipline matures:
 
-**Privacy Regulation Compliance**: [[projects/Emergent-Innovation/Policy-&-Regulation/General Data Protection Regulation||GDPR]], [[CCPA]], and emerging regulations require **privacy-first growth strategies** and **consent management systems**.
+**Privacy Regulation Compliance**: [[projects/Emergent-Innovation/Policy-&-Regulation/General Data Protection Regulation||GDPR]], [[projects/Emergent-Innovation/Policy-&-Regulation/California Consumer Privacy Act]], and emerging regulations require **privacy-first growth strategies** and **consent management systems**.
 
 **AI and Machine Learning Integration**: Incorporating **predictive analytics**, **automated optimization**, and **personalization at scale** while maintaining experimental control.
 
