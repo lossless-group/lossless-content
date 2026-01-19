@@ -6,7 +6,7 @@ generated_with: MSTY on Gemma 3
 categories:
   - Markdown-Rendering
 date_created: 2025-04-30
-date_modified: 2025-05-29
+date_modified: 2025-12-12
 lede: A Desktop Publisher for the Markdown era.
 status: Draft
 tags: [Markdown, Desktop-Publishing, Component-Architecture, Cross-Platform]
@@ -30,6 +30,8 @@ The “Cellular” approach centers around creating a system where each node in 
 **2.1. Overview**
 
 The Cellular Node System provides a structured approach to managing Markdown content, addressing the challenges of versioning, collaboration, and content reuse. It leverages a database (MongoDB/Redis) to store node values and IDs, enabling efficient retrieval and linking of content across multiple documents.
+
+Section and Header IDs, Header Level IDs in the naming.  
 
 **2.2. Node Structure & Data Model**
 
@@ -101,3 +103,5 @@ To help me refine this further, could you tell me:
 
 - What is the primary goal of this system? (e.g., streamline content workflow, improve collaboration, etc.)
 - What is the expected scale of the content? (e.g., number of users, documents, content types?)
+
+## Drag and Drop Reordering

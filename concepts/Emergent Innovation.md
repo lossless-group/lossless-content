@@ -1,10 +1,13 @@
 ---
 date_created: 2025-05-27
-date_modified: 2025-08-16
+date_modified: 2025-12-25
 site_uuid: 3b040f09-5578-4a74-a05d-a2f03752c3d4
 ---
 [[concepts/Bottoms Up Innovation|Bottoms Up Innovation]]
 [[essays/Technology wants to be Emergent|Technology wants to be Emergent]]
+
+[Heartbeat](https://github.com/prouast/heartbeat) a [[concepts/Public Repository|Public Repository]]
+
 
 ***
 > [!info] **Perplexity Query** (2025-08-12T03:33:46.139Z)

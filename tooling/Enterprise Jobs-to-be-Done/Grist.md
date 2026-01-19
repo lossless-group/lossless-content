@@ -1,7 +1,7 @@
 ---
 url: 'https://www.getgrist.com/'
 date_created: 2024-09-21
-date_modified: 2025-05-27
+date_modified: 2025-12-25
 github_profile_url: 'https://github.com/gristlabs'
 og_errors: true
 og_last_error: '2025-05-26T22:04:34.486Z'
@@ -12,3 +12,5 @@ tags: [Advanced-Spreadsheets]
 ---
 
 [[Vocabulary/Realtime Collaboration|Realtime Collaboration]] version of [[Tooling/Products/Excel|Excel]], so an [[Vocabulary/Advanced Spreadsheets|Advanced Spreadsheet]] tool.
+
+https://youtu.be/M3tqYJ9S_J8?si=3kmpCd0xyo_jUtrd

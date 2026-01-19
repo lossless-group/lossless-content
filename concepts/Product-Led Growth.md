@@ -1,7 +1,7 @@
 ---
 tags: [State-Of-The-Art-Practices, Explainers]
 date_created: 2025-11-26
-date_modified: 2025-11-26
+date_modified: 2025-12-12
 site_uuid: 2b405e49-1f60-4011-a371-4c60fef6b8fb
 publish: true
 title: Product-Led Growth
@@ -9,6 +9,7 @@ slug: product-led-growth
 at_semantic_version: 0.0.0.1
 for_clients:
   - Laerdal
+aliases: [PLG, Growth Hacking]
 ---
 
 [[concepts/Growth Engines|Growth Engines]], [[Vocabulary/Go-to-Market|Go-to-Market]], [[concepts/Product Marketing|Product Marketing]]
@@ -21,13 +22,15 @@ for_clients:
 > 
 # Product-Led Growth
 
-Product-Led Growth (PLG) is a business strategy where the product itself is the primary driver for acquiring, activating, and retaining customers. Instead of relying heavily on sales teams or marketing campaigns, PLG companies focus on delivering immediate value through their product experience, allowing users to discover its benefits organically. This approach has become increasingly significant in today’s competitive markets, especially in software and digital services, where user experience and rapid onboarding are critical for success.
+Product-Led Growth (PLG) is a business strategy where the product itself is the primary driver for acquiring, activating, and retaining customers. Originally thought of as "Growth Hacking", [^gvscm5]instead of relying heavily on sales teams or marketing campaigns, PLG companies focus on delivering immediate value through their product experience, allowing users to discover its benefits organically. This approach has become increasingly significant in today’s competitive markets, especially in software and digital services, where user experience and rapid onboarding are critical for success.
 
 ![Relevant diagram or illustration related to the topic](https://cdn.prod.website-files.com/63da8ab174665d1b80088615/63f7956cef5a486a4ae5b7f4_infographic-benefitsofplg.png)
 
 ## Main Content
 
 At its core, Product-Led Growth centers on designing products that users can explore, activate, and experience without needing extensive guidance or sales interaction. This often involves offering a freemium model, free trial, or self-serve onboarding, which lowers the barrier to entry and encourages widespread adoption. For example, companies like Slack and Dropbox allow users to sign up and start using their platforms instantly, experiencing core features before deciding to upgrade to paid plans. This hands-on approach not only accelerates user engagement but also builds trust and loyalty, as customers see real value before making a financial commitment.
+
+![](https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-dec/Dave_McClure_content_1765559621532_m8-Wz-m10l.webp)
 
 The benefits of Product-Led Growth are substantial. It leads to faster and more efficient customer acquisition, as users can try the product without friction. Retention rates improve because users are more likely to stick with a product they’ve already found valuable. Additionally, PLG reduces customer acquisition costs ([[Vocabulary/Customer Acquisition Cost]]) by minimizing reliance on traditional sales and marketing efforts. Companies like [[Tooling/Enterprise Jobs-to-be-Done/Ahrefs AI|Ahrefs AI]] have demonstrated that a product-led approach can support significant revenue growth with relatively small teams, highlighting the scalability and cost efficiency of this model. Other advantages include better product-market fit, as continuous user feedback drives rapid iteration and improvement, and higher customer lifetime value ([[Vocabulary/Customer Lifetime Value]]) due to increased engagement and upsell opportunities.
 
@@ -72,3 +75,6 @@ Product-Led Growth represents a fundamental shift in how companies approach cust
 
 
 ***
+
+
+[^gvscm5]: 2025, Dec 09. "[What happened to Growth Hacking?](https://www.thevccorner.com/p/what-happened-to-growth-hacking-the) "  [[Sources/Media/The VC Corner]] 

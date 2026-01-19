@@ -1,7 +1,7 @@
 ---
 amazon_url: https://www.amazon.com/Chip-War-Worlds-Critical-Technology/dp/1982172002
 date_created: 2025-04-18
-date_modified: 2025-11-26
+date_modified: 2025-12-10
 site_uuid: d89ee344-c7f6-438b-afcf-f597d59a6299
 title: Chip War
 slug: chip-war
@@ -78,6 +78,12 @@ https://youtu.be/OxUP51qk4lQ?si=R9LnHtnBdntvWlH-
 In summary, *Chip War* is both a history and a warning, arguing that controlling semiconductor technology is the defining geopolitical contest of our time, affecting not just economies but also the very nature of military and political power in the digital age. [^y6r47f] [^0co6ud]
 
 
+> [!QUOTE]
+> “The Trump administration’s announcement that it will allow the export of advanced H200 AI chips to China is a colossal economic and national security failure. The H200s are vastly more capable than anything China can make and gifting them to Beijing would squander America’s primary advantage in the AI race.  
+>
+>“Access to these chips would give China’s military transformational technology to make its weapons more lethal, carry out more effective cyberattacks against American businesses and critical infrastructure, and strengthen their economic and manufacturing sector. Chinese AI giant DeepSeek said as recently as last week that the lack of access to advanced American-designed AI chips is the single biggest impediment to its ability to compete with U.S. AI companies. With this decision, President Trump is poised to remove that barrier.  
+>
+>“Senate Democrats and Republicans both know that the 21st century will be defined by whether the leading AI systems are built on values of free societies and free markets or the repressive, authoritarian values of the Chinese Communist Party. The Trump administration clearly doesn’t grasp the urgency of this contest. President Trump must reverse course and recommit to preserving American dominance in AI.” [^v78hd2]
 
 
 ### Citations
@@ -91,6 +97,10 @@ In summary, *Chip War* is both a history and a warning, arguing that controlling
 [^f1y89f]: 2025, Sep 06. [Book Summary: Chip War by Chris Miller | by Karthik Chidambaram](https://www.karthikchidambaram.com/chip-war-by-chris-miller-book-summary/). Published: 2024-09-03 | Updated: 2025-09-06
 
 [^0co6ud]: 2025, Aug 30. [Review of Chip War by Chris Miller | Stephen Smith's Blog](https://smist08.wordpress.com/2024/02/10/review-of-chip-war-by-chris-miller/). Published: 2024-02-10 | Updated: 2025-08-30
+
+[^bwp890]: 2025, Dec 09.  (Newsletter) Dealbook: Chips on the Table.  Andrew Ross Sorkin.  "[Trump Clears Sale of More Powerful A.I. Chips to China](https://www.nytimes.com/2025/12/08/business/trump-nvidia-chips-china.html?campaign_id=4&emc=edit_dk_20251209&instance_id=167687&nl=dealbook&regi_id=55014758&segment_id=212006&user_id=bfa30c5ea230439eae63103acb896333)"
+
+[^v78hd2]: 2025, Dec 08. "[Ranking Member Shaheen, Senator Coons, National Security Democrats Statement on President Trump’s decision to allow the export of advanced NVIDIA H200 AI chips to China](https://www.foreign.senate.gov/press/dem/release/ranking-member-shaheen-senator-coons-national-security-democrats-statement-on-president-trumps-decision-to-allow-the-export-of-advanced-nvidia-h200-ai-chips-to-china?campaign_id=4&emc=edit_dk_20251209&instance_id=167687&nl=dealbook&regi_id=55014758&segment_id=212006&user_id=bfa30c5ea230439eae63103acb896333)." Senate Foreign Relations Committee.  
 
 
 

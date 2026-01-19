@@ -1,7 +1,7 @@
 ---
 url: https://codeberg.org/
 date_created: 2025-01-22
-date_modified: 2025-07-28
+date_modified: 2025-12-10
 site_uuid: d1632e9c-ed6e-4de8-b6dd-9bfc5315a6af
 og_image: https://codeberg.org/assets/img/logo.png
 og_url: https://codeberg.org/
@@ -11,7 +11,11 @@ description: Codeberg is a non-profit, community-led organization that aims to h
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/8de53ed9dcd5afa39f1c38426ed9bbb9066f627f5fc7715e1004cc784d1af83c.jpeg
 tags: [Open-Source-Collaborations]
 ---
-[[concepts/Ambition Shelters]]
+[[concepts/Ambition Shelters|Ambition Shelters]]
+
+https://youtu.be/E3_95BZYIVs?si=ZLX3i3-FXI9h6ab2
+
+
 
 
 

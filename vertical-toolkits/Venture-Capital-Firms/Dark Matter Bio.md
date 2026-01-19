@@ -1,6 +1,6 @@
 ---
 date_created: 2025-12-02
-date_modified: 2025-12-04
+date_modified: 2025-12-09
 url: "https://darkmatter.bio/"
 og_title: "Early stage VC that gets the next-generation of innovators in Longevity and Bioscience, AI + HealthTech"
 og_description: "Decades of experience working with innovators and inventors at the intersection of Health, Wellness, Longevity, Bioscience, and Pharma."
@@ -20,8 +20,11 @@ at_semantic_version: 0.0.0.1
 
 [[Fortem Neurosciences]]
 
-[[Encellin]]
+[[client-content/Dark-Matter/Encellin]]
 
 [[Mark Moline]]
 
 [[Skinner Layne]]
+
+[[Tooling/AI-Toolkit/AI Interfaces/RavenGraph|RavenGraph]]
+

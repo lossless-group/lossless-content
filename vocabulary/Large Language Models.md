@@ -1,11 +1,13 @@
 ---
-date_modified: 2025-09-27
+date_modified: 2025-12-12
 site_uuid: 047ada1f-c96c-40f8-91c9-014b4cddcec3
 date_created: 2025-04-06
 aliases: [LLM, LLMs, Large Language Model]
 ---
 
 Include [[OpenAI]]. 
+
+https://youtu.be/lXUZvyajciY?si=qGxXk9gwe1_uCsmZ
 
 https://youtu.be/CZeEAgE5xGA?si=BdskmGMf_Zh9kW3M
 
@@ -26,7 +28,7 @@ https://youtu.be/LPZh9BOjkQs?si=JkEAk5OPuciQYSdD
 LLMs are trained on massive data, yet there is a certain "cut-off" point:
 >"I couldn't find specific information about "RSBuild" as of my knowledge cutoff in October 2023. Could you clarify or provide more context about RSBuild? Is it a build tool, framework, or utility for a specific programming environment? If you can share some details, I can format the description in the style you're requesting!"
 
-[[concepts/Explainers for AI/Prompt Engineering]]
+[[concepts/Explainers for AI/Prompt Engineering|Prompt Engineering]]
 
 <iframe 
   style="aspect-ratio:16/9;width:100%;height:auto" 

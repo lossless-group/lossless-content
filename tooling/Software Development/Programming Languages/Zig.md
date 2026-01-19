@@ -1,6 +1,6 @@
 ---
 site_uuid: 944dd15f-e491-4f17-90d9-7cfaa9a5eef2
-date_modified: 2025-06-06
+date_modified: 2025-12-10
 date_created: 2025-03-30
 url: https://ziglang.org/
 og_errors: true
@@ -19,4 +19,7 @@ https://youtu.be/rKXsZno9ijw?si=ypGSQNiGbZ5gXVv0
 https://youtu.be/ZOllg8C3ows?si=SRI99N_xcqy4ni-5
 
 [[Mitchell Hashimoto]]
+
+https://youtu.be/E3_95BZYIVs?si=ZLX3i3-FXI9h6ab2
+
 

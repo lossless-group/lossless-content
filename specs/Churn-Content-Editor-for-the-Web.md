@@ -12,7 +12,7 @@ status: Idea
 augmented_with: "Claude Sonnet 4 on Warp"
 category: Open-Ideas
 date_created: 2025-05-10
-date_modified: 2025-11-22
+date_modified: 2025-12-12
 authors:
   - Michael Staton
 image_prompt: "A closeup view of a monitor, a laptop, and a mobile device. The laptop has a text editor, it looks like a markdown editor, a simple version of a document editor.  There is some text there, headers, etc. On the monitor and on the mobile the same text is rendered as a beautiful web page.  There are connecting lines from the laptop to the monitor and the phone"
@@ -29,6 +29,8 @@ Why are we still using complex file formats?  [[Vocabulary/AI Models|AI Models]]
 We can use [[Tooling/Software Development/Programming Languages/HTML|HTML]] and [[Tooling/Software Development/Programming Languages/CSS|CSS]] for layout design.  We don't need [[organizations/Adobe|Adobe]] or [[Tooling/Creative/Affinity|Affinity]]. We need to make it a [[Vocabulary/Responsive Design|Responsive Design]] and publish it to the web anyway.  Emails and reports, fine okay. 
 
 Markdown editors are growing like crazy: [[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]], [[Tooling/Productivity/Advanced Documents/Anytype|Anytype]], [[Tooling/Productivity/Advanced Documents/CraftDocs|CraftDocs]], [[Tooling/Productivity/Advanced Documents/Logseq|Logseq]], 
+
+Academic editors are well loved like [[Tooling/Productivity/Research Tools/Essayist]], [[Tooling/Productivity/Research Tools/PapersApp|PapersApp]]
 
 Open source text editors like [[Tooling/Software Development/Developer Experience/Helix|Helix]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Zed|Zed]].
 
@@ -60,11 +62,12 @@ Write your own tools to manipulate text.
 
 #### Suggest Edits
 
-Private notes
-Variants
-Versions
-Variables: `Clone parent: git clone <parent-repo>`
-Components
+1. Private notes
+2. Variants
+3. Versions
+4. Variables: `Clone parent: git clone <parent-repo>`
+5. Components
+6. Section and Header IDs, Header Level IDs in the naming.  
 
 ## Context, IDs, Windows
 So, if I'm writing about something, I want it to be connected to that something.  Yet, it doesn't need to appear over and over. 
@@ -74,7 +77,7 @@ So, if I'm writing about something, I want it to be connected to that something.
 
 ### Appearances
 
-### Header syntactial mods for subheaders and subtitles
+### Header syntactical mods for subheaders and subtitles
 In markdown there are by default 6 levels of headers.  However, if you want to render a subheader or subtitle you can use syntax to render the remaining text in as a subheading, subtitle, or lede.  For example, 
 
 1. a double pipe (||)

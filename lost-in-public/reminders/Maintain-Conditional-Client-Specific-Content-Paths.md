@@ -51,7 +51,7 @@ graph TD
     
     D[Client Content] -->|Extends| A
     D -->|Rendered by| E[Client Layouts]
-    E --> F[/:client/* Routes]
+    E --> F["/:client/* Routes"]
 ```
 
 ## 🎯 Requirements

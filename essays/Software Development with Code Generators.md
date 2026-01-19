@@ -1,6 +1,6 @@
 ---
 date_created: 2025-01-24
-date_modified: 2025-11-24
+date_modified: 2025-12-27
 site_uuid: 0cd90519-55d0-4380-b7b9-d416ff0cb24a
 title: Software Development with Code Generators
 lede: Code generators are reshaping software development—speeding up delivery while raising new challenges.
@@ -18,6 +18,9 @@ authors:
   - Michael Staton
 publish: true
 ---
+
+> AI is overhyped in what it CAN do, yet under-hyped in how it transforms what WE do.
+
 For code generation, in addition to the [[Large Language Models]], or perhaps the [[Model Wrappers]], include [[AppGen]], [[Cursor]], [[AgentFarm]], [[Aider]]. 
 
 [[Acceptance Testing]] with [[Tooling/Software Development/Frameworks/Vitest|Vitest]]
@@ -25,6 +28,147 @@ For code generation, in addition to the [[Large Language Models]], or perhaps th
 [[Tooling/Software Development/DevOps/Upsun|Upsun]]
 
 [[Vocabulary/Citizen Developers|Citizen Developers]]
+
+# What is AI Even Good At?
+
+## Command Line Ninja Moves
+
+## HTML & CSS
+
+### Checking Web Pages for Anything
+
+## Filler
+
+Marketing copy.
+
+## Boilerplate
+
+HTML, CSS standard fair
+
+## Chores
+
+1. Renaming a hundred files
+2. Scanning a hundred files to look for a single line
+3. Reordering a hundred citations. 
+4. Taking a document or outline and making a halfway decent presentation out of it. 
+5. Rewriting a hundred bullet points to make it look not plagiarized. 
+
+## Pleasant Surprises
+
+### Applying Market Standard Industry Conventions
+Creating cool navigation elements
+Creating tooltips and toast
+Picking colors somewhat consistent with design intent. 
+
+### Suggestions
+#### Example Specification Suggestions
+```text
+---
+  PM Review: Gaps & Suggested Additions
+
+  1. Platform Coverage is Incomplete
+
+  The blueprint focuses heavily on Twitter/X but misses:
+  - LinkedIn - Huge for B2B; uses OG tags but displays images differently (crops to different ratios)
+  - WhatsApp/iMessage - Dominant for "share" buttons on mobile; WhatsApp caches aggressively and is hard to debug
+  - Slack/Discord - Professional contexts; have their own preview quirks
+
+  Suggested addition: A "Platform-Specific Considerations" section.
+
+  2. No Character Limits Mentioned
+
+  Platforms truncate differently:
+  - og:title: ~60-70 chars before truncation
+  - og:description: ~160-200 chars
+  - Twitter title: 70 chars
+
+  Suggested addition: Add truncation guidance or a helper that enforces limits.
+
+  3. Missing Debugging/Validation URLs
+
+  The doc says "use social validators" but doesn't list them:
+  - Facebook: https://developers.facebook.com/tools/debug/
+  - LinkedIn: https://www.linkedin.com/post-inspector/
+  - Twitter: https://cards-dev.twitter.com/validator
+
+  Suggested addition: Concrete validator URLs in the Validation section.
+
+  4. Image Fallback Chain Not Defined
+
+  What's the cascade when shareImage is missing?
+  - Page-specific image → Collection default → Site default?
+  - Should certain content types (articles vs. profiles) have different defaults?
+
+  5. Article-Specific Properties Missing
+
+  For blog/news content, these matter:
+  - article:published_time
+  - article:modified_time
+  - article:author
+  - article:section
+
+  6. No Mention of JSON-LD/Structured Data
+
+  OG tags and Schema.org/JSON-LD serve different purposes but are complementary. Worth noting the relationship.
+
+  7. og:locale for Multi-Language
+
+  The doc mentions i18n but doesn't show og:locale or og:locale:alternate tags.
+```
+
+## Design System Conventions
+
+
+## Diagrams as Code
+
+## Scanning Large Codebases
+
+## Interpreting Error Messages
+
+
+## Giving Beginners Courage
+
+
+## Rapid Documentation
+
+## Robust Git Commits
+
+## Robust Code Comments
+
+## UI & Design Variants
+
+## Responsive Front-End
+
+## Appropriate Animations
+
+## Foreign Frameworks and Libraries (that are in Wide Use)
+
+
+## Picking Up where You Left Off
+
+## Being Cooperative
+
+## Boosting Confidence
+
+## Iteration Stamina
+
+## Rupture and Repair
+
+## Markdown & JSON & CSV
+
+## Scanning and Reading Documentation
+
+
+# What is AI Bad At?
+
+## Completing a complex task you gave it
+
+## Being honest
+
+
+
+
+
 
 # Limitations of AI Code Assistants and Code Generator AI
 ***

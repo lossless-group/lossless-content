@@ -8,5 +8,5 @@ title: "Jacob Warren"
 slug: jacob-warren
 at_semantic_version: 0.0.0.1
 ---
-[[Tooling/AI-Toolkit/Generative AI/Code Generators/Rig.build (Cortex Code)|Rig.build (Cortex Code)]]
+[[Tooling/AI-Toolkit/Generative AI/Code Generators/Rig Build (Cortex Code)|Rig Build (Cortex Code)]]
 

@@ -1,7 +1,7 @@
 ---
 site_uuid: 5078941d-7a93-4e03-85bf-c9f17a868650
 url: https://minimax-ai.org/
-date_modified: 2025-08-22
+date_modified: 2026-01-12
 date_created: 2025-03-30
 site_name: Minimax AI
 og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Minimax_AI_og_screenshot.jpeg
@@ -14,3 +14,6 @@ tags: [AI-Toolkit, Generative-AI, Gen-Ai-Video, Agentic-AI, Model-Vendors, Model
 ---
 
 `<img alt="official_website_tech_card_12" loading="lazy" width="368" height="500" decoding="async" data-nimg="1" class="group-hover:scale-110 transition-all duration-300" style="color:transparent" src="https://filecdn.minimax.chat/public/b0b34039-35c8-4cde-8afa-23b941f95512.png?x-oss-process=image/format,webp">`
+
+https://youtube.com/shorts/NCt3QN1QwE0?si=Ktfd2_MWwKLiBUz4
+

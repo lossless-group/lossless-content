@@ -1,6 +1,6 @@
 ---
 site_uuid: 846d9d7a-8db8-4794-8e59-e8daab3b46c2
-date_modified: 2025-06-06
+date_modified: 2025-12-31
 date_created: 2025-03-30
 url: https://www.typescriptlang.org/
 title: JavaScript With Syntax For Types.
@@ -23,3 +23,9 @@ https://youtu.be/PQ2WjtaPfXU?si=t4q6ASAkClvtNXu6
 https://youtu.be/tRiIcCOhN6A?si=Wgxlm3z3VVZJyO4A
 
 https://youtu.be/ljxc2mMNS-g?si=LVHlqtYYl5SFl5Pa
+
+https://youtu.be/jEeQC6I8nlY?si=_xgdtfinvJfVpH1B
+
+https://youtu.be/Bk-9K1B3qxk?si=sz9J_xVzXAPKHPh-
+
+https://youtu.be/Idf0zh9f3qQ?si=XK2Bi-fjFthUJ3U0

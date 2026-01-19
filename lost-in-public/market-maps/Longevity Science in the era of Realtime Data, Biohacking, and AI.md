@@ -1,7 +1,7 @@
 ---
 date_created: 2025-12-04
-date_modified: 2025-12-04
-title: Longevity Sicence in the era of Realtime Data, Biohacking, and AI
+date_modified: 2025-12-05
+title: Longevity Science in the era of Realtime Data, Biohacking, and AI
 lede: The breakthroughs coming at the intersection of bioscience, realtime data, and AI will be the greatest explosion of improvements in health and longevity in human history.
 date_authored_initial_draft: 2025-12-04
 date_authored_current_draft: 2025-12-04

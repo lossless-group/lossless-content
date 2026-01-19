@@ -1,6 +1,6 @@
 ---
 date_created: 2025-06-08
-date_modified: 2025-06-08
+date_modified: 2025-12-07
 tags: [Git, Version-Control, Open-Source-Collaborations]
 ---
 
@@ -102,3 +102,95 @@ A GitHub fork is a personal copy of another user's repository that lives in your
 - **Fork syncing** - Automate the update process
 
 The integration between Git (the version control system) and GitHub (the hosting platform) is what makes forking so powerful and user-friendly.
+
+ Recommended: Separate Branch Strategy
+
+  Keep main clean (tracks upstream), put customizations on a deploy branch:
+
+  cd /path/to/your/papermark
+
+  # 1. Add upstream remote (one-time)
+  git remote add upstream https://github.com/mfts/papermark.git
+
+  # 2. Verify remotes
+  git remote -v
+  # origin    https://github.com/lossless-group/papermark.git (fetch)
+  # upstream  https://github.com/mfts/papermark.git (fetch)
+
+  # 3. Create a deployment branch for your customizations
+  git checkout -b deploy
+  # Add railway.json, .railpackignore, any config changes
+  git add .
+  git commit -m "Add Railway deployment configuration"
+  git push origin deploy
+
+  # 4. Configure Railway to deploy from 'deploy' branch
+  # (In Railway dashboard: Settings > Source > Branch)
+
+  Syncing with Upstream
+
+  When Papermark releases updates:
+
+  # 1. Fetch upstream changes
+  git fetch upstream
+
+  # 2. Update your main branch
+  git checkout main
+  git merge upstream/main
+  git push origin main
+
+  # 3. Rebase your deploy branch onto updated main
+  git checkout deploy
+  git rebase main
+
+  # 4. Resolve any conflicts, then force push
+  git push origin deploy --force-with-lease
+
+  Visual Representation
+
+  upstream/main:  A---B---C---D---E  (Papermark releases)
+                           \
+  your main:      A---B---C---D---E  (mirrors upstream)
+                               \
+  your deploy:    A---B---C---D---E---X---Y  (X, Y = your customizations)
+
+  Alternative: Merge Instead of Rebase
+
+  If you prefer not to rewrite history:
+
+  git checkout deploy
+  git merge main
+  # Resolve conflicts
+  git push origin deploy
+
+  This creates merge commits but avoids force-pushing.
+
+  Protect Your Customizations
+
+  Create a .github/CODEOWNERS or document which files are your customizations:
+
+  # Files that are lossless-group customizations (don't sync from upstream)
+  railway.json
+  .railpackignore
+  # Any other custom configs
+
+  Quick Reference Commands
+
+  # Daily workflow
+  git fetch upstream
+  git checkout main && git merge upstream/main && git push
+  git checkout deploy && git rebase main && git push --force-with-lease
+
+  # See what's different between your deploy and upstream
+  git log upstream/main..deploy --oneline
+
+  # See your custom files
+  git diff main..deploy --name-only
+
+  Railway Configuration
+
+  Point Railway to your deploy branch:
+  - Settings → Source → Branch: deploy
+
+  This way Railway always deploys your customized version, while main stays sync-able with
+  upstream.

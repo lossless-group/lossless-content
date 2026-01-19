@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-09
-date_modified: 2025-11-26
+date_modified: 2025-12-04
 ---
 :::features
 - Projects
@@ -12,8 +12,11 @@ date_modified: 2025-11-26
 :::
 
 :::vocabulary
-- [[Vocabulary/Agile Software Development|Agile Software Development]]
-- [[AI Models]]
+- [[Vocabulary/AI Models|AI Models]]
+- [[concepts/Explainers for AI/AI-Powered Diligence]]
+- [[concepts/Explainers for AI/Knowledge Base AI|Knowledge Base AI]]
+- [[Vocabulary/Knowledge Augmented Generation|Knowledge Augmented Generation]]
+- [[Vocabulary/Chain of Thought|Chain of Thought]]
 :::
 
 :::concepts
@@ -29,3 +32,13 @@ date_modified: 2025-11-26
 - [[Tooling/AI-Toolkit/Data Augmenters/Chalk|Chalk]]
 - [[Tooling/AI-Toolkit/Data Augmenters/Diffbot|Diffbot]]
 :::
+
+# Notes:
+
+### Current Direction
+[[Sales Coaching AI]]
+
+
+
+### Opportunities
+Medical Records

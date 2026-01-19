@@ -1,5 +1,5 @@
 ---
-date_modified: 2025-09-05
+date_modified: 2026-01-12
 site_uuid: d887b7c0-2815-47c6-a8e7-79c2f604faa3
 date_created: 2025-04-06
 aliases: ["[Standards Organization]"]
@@ -20,6 +20,7 @@ at_semantic_version: 0.0.1.1
 - [[organizations/ECMA International|ECMA International]]
 - [[organizations/Khronos Group|Khronos Group]]
 - [[organizations/National Institute of Standards and Technology|National Institute of Standards and Technology]]
+- [[organizations/Open Container Initiative|Open Container Initiative]]
 
 [[organizations/The Apache Software Foundation|The Apache Software Foundation]], [[organizations/The Linux Foundation|The Linux Foundation]], [[organizations/Canonical|Canonical]].
 

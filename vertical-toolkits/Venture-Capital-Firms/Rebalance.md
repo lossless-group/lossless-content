@@ -1,6 +1,6 @@
 ---
 date_created: 2025-12-03
-date_modified: 2025-12-03
+date_modified: 2025-12-12
 url: https://therebalance.com/
 tags: [Accelerator-Programs, Venture-Capital-Firms]
 og_title: India's First Accelerator for Women and Diverse Founders
@@ -14,3 +14,17 @@ site_name: Rebalance
 
 Introduced by [[Alex Gezelius]]
 
+Grew up in China
+Singapore 
+London university LSE
+Paul Ackman / Focus Attention
+Cofounder - met in Delhi
+Now live in Verdaun
+Diversity in Venture Capital and Diversity in Founders
+Need MVP in Place
+Moved $50M in Follow On Capital
+Worked with 150 founders.  
+Select participant companies.
+Mobilize angel network at 60% women. 
+Made investments in 30 companies. 
+Average of 120K n

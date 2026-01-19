@@ -1,7 +1,7 @@
 ---
 site_uuid: 2714bd4b-69e5-434c-89cd-4f215ebcb114
 aliases: [AI, Enterprise AI]
-date_modified: 2025-10-20
+date_modified: 2025-12-12
 date_created: 2025-03-31
 tags: [Tech-Trend]
 ---
@@ -13,6 +13,8 @@ tags: [Tech-Trend]
 https://youtu.be/gIxq03dipUw?si=YBNIGcZoAHDkrOjS
 
 https://podcasts.apple.com/us/podcast/science-friday/id73329284?i=1000732281217
+
+https://youtu.be/4lKyNdZz3Vw?si=NzP-YVDf1nxnXBbY
 
 ***
 > [!info] **Perplexity Deep Research Query** (2025-10-18T09:18:39.867Z)

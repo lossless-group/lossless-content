@@ -1,5 +1,5 @@
 ---
-date_modified: 2025-09-30
+date_modified: 2025-12-09
 site_uuid: 3b7128f6-a2c2-4a2b-b641-057551a601bc
 date_created: 2025-04-06
 aliases: [Markdown Editors, Markdown Editor, markdown editor]
@@ -13,6 +13,7 @@ at_semantic_version: 0.0.0.1
 - [[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]]
 - [[Tooling/Productivity/Advanced Documents/Typora|Typora]]
 - [[Tooling/Productivity/Advanced Documents/Anytype|Anytype]]
+- [[Tooling/Productivity/Research Tools/Essayist]]
 :::
 
 

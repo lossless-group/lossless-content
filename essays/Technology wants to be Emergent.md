@@ -1,6 +1,6 @@
 ---
 date_created: 2025-04-18
-date_modified: 2025-11-26
+date_modified: 2025-12-15
 site_uuid: 10ebeb58-f593-4ff2-9c5e-94804cf1411e
 title: Technology wants to be Emergent
 lede: Emergent technology evolves unpredictably—shaping and reshaping our world in surprising ways.
@@ -34,6 +34,9 @@ A necessary precursor to market-wide emergent innovation is the development of "
 Terrance Tao keeps a blog about his work, detailing both successes and where he is stuck.  Paul Erdos put forth challenges during his lifetime, unsolved problems in mathematics.  When posting about his struggles, a random commenter said that he was working on an algorithm to solve sudoku puzzles that may help.  It turned out to be the breakthrough , as their collaboration helped solve the problems. [^9qu2bd]
 
 [[organizations/The Linux Foundation|The Linux Foundation]] manages [[organizations/The Linux Foundation|Linux]], [[Tooling/Products/Git|Git]], and [[projects/Emergent-Innovation/Standards/SLSA|SLSA]].
+
+2018, Jun 16. [The Day the Gauge Changed](https://youtu.be/4v81Gwu6BTE?si=q-cjBAys8ENtroj2) [[Sources/Media/YouTube|YouTube]]
+
 
 
 

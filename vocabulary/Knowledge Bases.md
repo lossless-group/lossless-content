@@ -1,5 +1,5 @@
 ---
-date_modified: 2025-09-23
+date_modified: 2025-12-25
 site_uuid: 63b5909a-4af4-4dc2-9455-e2f9a811ced5
 date_created: 2025-04-06
 aliases: ["Knowledge Base"]
@@ -12,6 +12,7 @@ authors:
   - Michael Staton
 augmented_with: Perplexity AI
 ---
+[[Tooling/Enterprise Jobs-to-be-Done/Stonly]]
 
 ***
 > [!llm-response] **Perplexity Query** (2025-08-28T18:13:37.626Z)
