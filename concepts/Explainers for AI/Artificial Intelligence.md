@@ -333,7 +333,7 @@ Below is a list of organizations leading the development of AI models, including
 - **Unique Positioning:** Focuses on AI safety and user-aligned AI systems.
 - **Best Use Cases:** Conversational AI and ethical AI applications.
 - **Key Models:**
-    - [[Claude]] (named after Claude Shannon):
+    - [[Tooling/AI-Toolkit/Models/Claude]] (named after Claude Shannon):
         - Claude 1 (March 2023)
         - Claude 2 (July 2023)
         - Claude 3 (November 2023)

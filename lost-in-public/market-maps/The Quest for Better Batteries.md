@@ -1,6 +1,6 @@
 ---
 date_created: 2025-04-15
-date_modified: 2025-10-02
+date_modified: 2026-01-27
 site_uuid: ecd2eff9-ef1a-475f-9b30-1c33c64ae8a6
 title: "The Quest for Better Batteries"
 lede: "The race for better batteries powers the future—every breakthrough could change the world."
@@ -41,6 +41,8 @@ https://youtu.be/gFCQVajEONs?si=X3tnY7RI1CRQBx_q
 https://youtu.be/tjo4J6l2Z8Q?si=YbtNgUbegUao2sep
 
 https://youtu.be/J-ceLIa_N10?si=sbuiHl-6ieNAP0Cl
+
+https://youtu.be/nrTCgZmUFCY?si=pYt7wjUFaH6G7kCU
 
 
 

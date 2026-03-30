@@ -22,7 +22,7 @@ The best way to learn about [[AI Models|Models]] is [[Hugging Face]].
 
 Independent organizations creating models include:
 - [[OpenAI]], maintaining [[GPT-Series Models]] and [[O-Series Models]]. 
-- [[Anthropic]], maintaining [[Claude]].
+- [[Anthropic]], maintaining [[Tooling/AI-Toolkit/Models/Claude]].
 - [[Cognition AI]], maintaining [[Devin]].
 - [[DeepSeek]], maintaining [[DeepSeek]] and [[r1]].
 - [[Tooling/AI-Toolkit/Model Producers/Mistral]], maintaining [[Small]]. 

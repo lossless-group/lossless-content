@@ -1,14 +1,14 @@
 ---
-aliases: [Package Managers]
+aliases: [Package Managers, Package Manager]
 tags: [Package-Managers]
 date_created: 2025-08-23
-date_modified: 2025-08-23
+date_modified: 2026-03-30
 authors:
   - Michael Staton
-augmented_with: "Qwen Coder 3"
+augmented_with: Qwen Coder 3
 site_uuid: 060b6a9d-f1a8-450b-8851-2787801a3598
 publish: true
-title: "Package Management"
+title: Package Management
 slug: package-management
 at_semantic_version: 0.0.0.1
 ---

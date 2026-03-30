@@ -18,7 +18,7 @@ square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/The_Jaded_
 
 
 
-[[Open Graph]]
+[[projects/Emergent-Innovation/Standards/Open Graph Protocol]]
 [[Vocabulary/Email Deliverability|Email Deliverability]]
 [[Vocabulary/Onboarding Walkthrough|Onboarding Walkthrough]]
 [[concepts/Product Marketing]]

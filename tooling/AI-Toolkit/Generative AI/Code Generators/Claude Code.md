@@ -12,7 +12,7 @@ og_title: The ultimate terminal-based agentic coding environment
 ---
 ![Claude Code banner in the skeumorph image of a terminal](https://ik.imagekit.io/xvpgfijuw/parslee/bannerFor__Claude-Code.webp?updatedAt=1760129891232)
 
-[[Anthropic]], [[Claude]]
+[[Anthropic]], [[Tooling/AI-Toolkit/Models/Claude]]
 
 https://youtu.be/AJpK3YTTKZ4?si=I91C-TAJzKl1Nx9t
 

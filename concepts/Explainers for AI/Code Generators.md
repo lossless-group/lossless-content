@@ -49,7 +49,7 @@ In summary, AI code generators represent a transformative leap in software devel
 	- [[Melty]] is just a [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editor]], but has strong reviews.
 - [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulators]] include [[Warp]] and [[Aider]]
 - [[concepts/Opsless Deployment Providers]] include [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bolt.new|Bolt.new]], [[v0]], [[Lovable]], [[Replit]], [[Hostinger]] and [[Tooling/AI-Toolkit/Generative AI/Code Generators/Mocha]]
-- [[Plug-ins,  Add-ons,  Extensions|Plug-ins]] to other Text Editors include [[Aider]], [[Databutton]], [[Claude#Cline|Cline]], [[Devin]], [[supermaven]], [[Augment Code]], [[Continue AI]], [[AppMap]] who embed into [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editors or IDEs]], such as [[Tooling/Software Development/Developer Experience/JetBrains|JetBrains]] but especially [[Visual Studio Code|VS Code]].
+- [[Plug-ins,  Add-ons,  Extensions|Plug-ins]] to other Text Editors include [[Aider]], [[Databutton]], [[Tooling/AI-Toolkit/Models/Claude#Cline|Cline]], [[Devin]], [[supermaven]], [[Augment Code]], [[Continue AI]], [[AppMap]] who embed into [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editors or IDEs]], such as [[Tooling/Software Development/Developer Experience/JetBrains|JetBrains]] but especially [[Visual Studio Code|VS Code]].
 - Starting from your own code repositories, services like [[Poolside]], [[AppMap]], [[smolagents]], [[RepoPrompt]]
 - Specializing in [[Bug Reporting]] is [[CodeAnt AI]]
 - Specialized [[AI Models]] include [[InceptionLabs]] [[Mercury Coder]]
@@ -64,7 +64,7 @@ There is a blurry line between [[concepts/Explainers for AI/Code Generators|Code
 They don't have a long term memory, they don't even have a short term working memory. [[Pear IDE]] is trying to fix that with their "[memory integration](https: '//trypear.ai/docs/integrations/memory)" and [[Mem0]] seems to be a technology company trying to figure it out. But, thus far, code generators are frustratingly oblivious to what they just did, and are prone to rewrite over it.
 
 ---
-## [[Claude]] lists lauded [[concepts/Explainers for AI/Code Generators|Code Generators]]
+## [[Tooling/AI-Toolkit/Models/Claude]] lists lauded [[concepts/Explainers for AI/Code Generators|Code Generators]]
 # Best Open Source Coding Models
 
 Here's a curated list of some of the best open source coding models currently available:

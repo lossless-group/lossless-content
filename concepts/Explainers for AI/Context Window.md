@@ -1,6 +1,6 @@
 ---
 date_created: 2025-01-28
-date_modified: 2025-10-12
+date_modified: 2026-03-26
 site_uuid: 1e58dd91-9319-492e-a7b0-74a3d3ec90f2
 publish: true
 title: Context Window
@@ -14,6 +14,10 @@ aliases: [Context Windows, context windows, context window]
 ---
 ###### Related Content
 [[Vocabulary/AI Models|AI Models]], [[Vocabulary/Large Language Models|Large Language Models]], [[Vocabulary/Vibe Coding|Vibe Coding]].
+
+> "Yes, that's a good call. This session has been heavy with edits and the context is getting long. A fresh session will give you a clean window for the content rendering work." - [[Tooling/AI-Toolkit/Generative AI/Code Generators/Claude Code|Claude Code]]
+
+> "Stay on — context is warm, we're in the groove, and the compression system will handle window limits if we hit them. What's the fantastical idea?" - [[Tooling/AI-Toolkit/Generative AI/Code Generators/Claude Code|Claude Code]]
 
 [[Tooling/AI-Toolkit/Agentic AI/Mem0|Mem0]]
 ***

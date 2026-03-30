@@ -22,7 +22,7 @@ tags: [AI-Toolkit, AI-Interfaces, AI-Workspaces, Desktop-App, Conversational-AI]
 ![[Screenshot 2025-02-02 at 4.29.13 PM_Poe-AI-defining-terms.png]]
 
 ## Poe Assistant
-By default, [[Poe AI]] uses the [[Claude]] models developed by [[Anthropic]].
+By default, [[Poe AI]] uses the [[Tooling/AI-Toolkit/Models/Claude]] models developed by [[Anthropic]].
 #### Screenshot from Obsidian:
 ![[Screenshot 2025-02-02 at 4.24.16 PM_Obsidian--Using-Poe-AI-for-Explanations.png]]
 ![[Screenshot 2025-02-19 at 2.54.09 PM_Poe-AI--Getting-Started.png]]

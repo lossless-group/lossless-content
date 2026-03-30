@@ -18,7 +18,7 @@ description: "Anthropic is an AI safety and research company that's working to b
 tags: [AI-Toolkit, Model-Producers]
 ---
 
-[[Claude]], [[Haiku]]
+[[Tooling/AI-Toolkit/Models/Claude]], [[Haiku]]
 
 ## [[organizations/Perplexity AI]] Explains
 Anthropic, an AI safety and research company, has released several notable AI models under the "Claude" family since 2023. Below is a timeline of their model releases:
