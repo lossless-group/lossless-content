@@ -4,7 +4,7 @@ date_modified: 2025-08-23
 ---
 # Context Vigilance Essentials
 
-> Essential: Work on a [[projects/ACE-It/Docs-Kit/Living-Specifications|Living-Specification]], then break efforts down into steps.  Then write coherent step implementation [prompts](#meta-prompts) with AI, but with a "Product Management role." 
+> Essential: Work on a [[projects/Context-Vigilance/Docs-Kit/Living-Specifications|Living-Specification]], then break efforts down into steps.  Then write coherent step implementation [prompts](#meta-prompts) with AI, but with a "Product Management role." 
 > 
 > Only once the documentation is well developed, then ask the model to switch roles.  Even better, create a new chat so you have a clean context window
 

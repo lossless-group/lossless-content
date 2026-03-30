@@ -13,7 +13,7 @@ Our approach to AI-augmented development is built on this fundamental principle:
 
 Just as you wouldn't expect a new team member to deliver quality work without proper onboarding, clear requirements, and iterative feedback, AI tools require the same structured approach to collaboration. The Internet is abuzz with the majority of Vibe Coding tourists being somewhere between disappointed and maddeningly frustrated. [^xaz7sh]
 
-[[projects/ACE-It/Philosophy/Context-Vigilance|Context-Vigilance]] > [[concepts/Explainers for AI/Context Engineering|Context Engineering]] > [[concepts/Explainers for AI/Vibe Planning|Vibe Planning]] > [[Vocabulary/Vibe Coding|Vibe Coding]]
+[[projects/Context-Vigilance/Philosophy/Context-Vigilance|Context-Vigilance]] > [[concepts/Explainers for AI/Context Engineering|Context Engineering]] > [[concepts/Explainers for AI/Vibe Planning|Vibe Planning]] > [[Vocabulary/Vibe Coding|Vibe Coding]]
 ## The Team Member Analogy
 
 Working with AI is remarkably similar to working with a highly capable but inexperienced developer (that is also ironically as naive and blameless as a three-year old.)
@@ -87,9 +87,9 @@ Of course architectural diagrams had their role and were helpful before copilots
 
 #### 1a. ACE Toolkit: Recommended Documents
 Our rabbit holes and endless hours of frustration has led us to a stable set of documents 
-[[projects/ACE-It/Docs-Kit/Living Specifications|Living Specifications]], [[projects/ACE-It/Docs-Kit/Blueprints|Blueprints]], [[projects/ACE-It/Docs-Kit/Reminders|Reminders]], and [[projects/ACE-It/Docs-Kit/Prompts|Prompts]]
+[[projects/ACE-It/Docs-Kit/Living Specifications|Living Specifications]], [[projects/Context-Vigilance/Docs-Kit/Blueprints|Blueprints]], [[projects/Context-Vigilance/Docs-Kit/Reminders|Reminders]], and [[projects/Context-Vigilance/Docs-Kit/Prompts|Prompts]]
 
-| Documentation Type | [[projects/ACE-It/Docs-Kit/Living Specifications\|Living Specifications]]                                                           | [[projects/ACE-It/Docs-Kit/Blueprints\|Blueprints]]                                                                                  | [[projects/ACE-It/Docs-Kit/Reminders\|Reminders]]                                      | [[projects/ACE-It/Docs-Kit/Prompts\|Prompts]]                                                                                                                                                                           |
+| Documentation Type | [[projects/ACE-It/Docs-Kit/Living Specifications\|Living Specifications]]                                                           | [[projects/Context-Vigilance/Docs-Kit/Blueprints\|Blueprints]]                                                                                  | [[projects/Context-Vigilance/Docs-Kit/Reminders\|Reminders]]                                      | [[projects/Context-Vigilance/Docs-Kit/Prompts\|Prompts]]                                                                                                                                                                           |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Use Patterns       | Vital to kickoff prompt. Refer to it accompanying every prompt or as necessary.                                            | Vital to kickoff prompt. Refer to it accompanying every prompt or as necessary.                                             | As needed, but usually one or more involved in every prompt.                  | Developed on the fly prior to prompting for development.                                                                                                                                                       |
 | Development Phase  | Early, prior to moving into design, often started and then iterated on for prolonged periods before moving to development. | Iteratively, usually to synthesize patterns across the project or across many projects as per developer or team preference. | Upon repeat frustration with the same naivety, forgetfulness, or assumptions. | Instead of just writing a prompt in the chat interface, reference the specification and work with the copilot in the role of product manager.  Develop a comprehensive prompt for a single task scope of work. |
@@ -149,18 +149,18 @@ Tests also **_prevent disaster_**. As discussed before, AI Models will naively a
 2. Define the metadata (YAML [[Vocabulary/Frontmatter]]) you intend to use for this content.  
 3. We recommend everyone either use copilots to help with complex git commands, or using an easy to use app like [[Tooling/Software Development/Developer Experience/DevOps/GitKraken|GitKraken]] or [[Tooling/Software Development/Developer Experience/DevOps/Retcon|Retcon]]. There will be a ton of version control from here out, not just on content but on the code as well. 
 4. Include example "Rules" or "Rulesets" that can be used for the different [[Vocabulary/AI Native Applications|AI Native]] [[concepts/Explainers for Tooling/Text Editors or IDEs|IDEs]].  (We switch between [[Tooling/AI-Toolkit/Generative AI/Code Generators/Windsurf IDE|Windsurf IDE]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Cursor|Cursor]], and [[Tooling/AI-Toolkit/Generative AI/Code Generators/Claude Code|Claude Code]].)
-5. Make sure everyone knows how to create snippets in their [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editors or IDEs]], they are usually used for comments or boilerplate code but they are very very helpful as a sub for [[projects/ACE-It/Docs-Kit/Reminders|Reminders]]. 
+5. Make sure everyone knows how to create snippets in their [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editors or IDEs]], they are usually used for comments or boilerplate code but they are very very helpful as a sub for [[projects/Context-Vigilance/Docs-Kit/Reminders|Reminders]]. 
 
 ### Phase 1: Iterate to a Living Specification
 1. Ask the AI [[concepts/Explainers for AI/AI Copilots|Copilot]] to take on the role of "Senior Product Manager brought in to save a project that is behind schedule." 
 2. Iterate cooperatively with your Senior Product Manager assistant on the [[projects/ACE-It/Docs-Kit/Living Specifications|Living Specification]] 
-	1. Use commits liberally, the copilot can go haywire and edit things that were not requested. (We have [[projects/ACE-It/Docs-Kit/Reminders|Reminders]] that say to never overwrite anything unless specifically asked.)
+	1. Use commits liberally, the copilot can go haywire and edit things that were not requested. (We have [[projects/Context-Vigilance/Docs-Kit/Reminders|Reminders]] that say to never overwrite anything unless specifically asked.)
 	2. Review the [[projects/ACE-It/Docs-Kit/Living Specifications|Living Specification]] to sequence endeavors, features, and tasks.  
 	3. Chunk work into reasonable "Phases" -- a phase should be something one Human-AI Pair can reasonably accomplish in one prolonged sitting. 
-	4. Chunk Phases into [[projects/ACE-It/Docs-Kit/Prompts|Prompts]], which will start in the specification but as it becomes coherent and robust, including references to [[projects/ACE-It/Docs-Kit/Reminders|Reminders]] and [[projects/ACE-It/Docs-Kit/Blueprints|Blueprints]], it should be [[Vocabulary/Copypasta|Copypasta]] into it's own file. 
+	4. Chunk Phases into [[projects/Context-Vigilance/Docs-Kit/Prompts|Prompts]], which will start in the specification but as it becomes coherent and robust, including references to [[projects/Context-Vigilance/Docs-Kit/Reminders|Reminders]] and [[projects/Context-Vigilance/Docs-Kit/Blueprints|Blueprints]], it should be [[Vocabulary/Copypasta|Copypasta]] into it's own file. 
 3. Include path references to any relevant documentation, codebases, repositories, or files, even recent projects that were successful.
 4. Create template structures for common requests
-	1. [[projects/ACE-It/Docs-Kit/Reminders|Reminders]] and [[projects/ACE-It/Docs-Kit/Blueprints|Blueprints]]
+	1. [[projects/Context-Vigilance/Docs-Kit/Reminders|Reminders]] and [[projects/Context-Vigilance/Docs-Kit/Blueprints|Blueprints]]
 5. Set up quality assurance processes
 
 ### Phase 2: Integration  
