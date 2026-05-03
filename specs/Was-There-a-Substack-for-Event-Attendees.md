@@ -22,7 +22,7 @@ tags: [Cross-Platform]
 
 Why are we still using complex file formats?  [[Vocabulary/AI Models|AI Models]] and [[concepts/Explainers for AI/Code Generators|Code Generators]] all speak [[projects/Emergent-Innovation/Standards/Markdown|Markdown]], [[Tooling/Software Development/Programming Languages/HTML|HTML]], [[Tooling/Software Development/Programming Languages/CSS|CSS]], even [[Vocabulary/Scalable Vector Graphics]]. 
 
-We can use [[Tooling/Software Development/Programming Languages/HTML|HTML]] and [[Tooling/Software Development/Programming Languages/CSS|CSS]] for layout design.  We don't need [[organizations/Adobe|Adobe]] or [[Tooling/Creative/Affinity|Affinity]]. We need to make it a [[Vocabulary/Responsive Design|Responsive Design]] and publish it to the web anyway.  Emails and reports, fine okay. 
+We can use [[Tooling/Software Development/Programming Languages/HTML|HTML]] and [[Tooling/Software Development/Programming Languages/CSS|CSS]] for layout design.  We don't need [[organizations/Adobe|Adobe]] or [[Tooling/Creative/Affinity Design Suite|Affinity Design Suite]]. We need to make it a [[Vocabulary/Responsive Design|Responsive Design]] and publish it to the web anyway.  Emails and reports, fine okay. 
 
 Markdown editors are growing like crazy: [[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]], [[Tooling/Productivity/Advanced Documents/Anytype|Anytype]], [[Tooling/Productivity/Advanced Documents/CraftDocs|CraftDocs]], [[Tooling/Productivity/Advanced Documents/Logseq|Logseq]], 
 

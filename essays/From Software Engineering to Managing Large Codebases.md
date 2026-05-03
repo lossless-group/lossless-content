@@ -73,7 +73,7 @@ Code sharing capabilities in monorepos eliminate the engineering overhead associ
 
 Improved collaboration emerges naturally from monorepo structures because they remove barriers and silos between teams, making it easier to design and maintain sets of microservices that work well together. [^hy7vh3] The centralized nature of monorepos promotes a culture of shared ownership and collective responsibility for code quality, which can significantly improve overall system architecture and design decisions.
 
-Standardization becomes more achievable in monorepo environments, where it's easier to standardize code and tooling across teams. Organizations can create policies that keep the main branch uncluttered, limit access to specific branches, enforce [[concepts/Naming Conventions|Naming Conventions]] & guidelines, include code reviewers, and enforce [[projects/ACE-It/Philosophy/Best-Practices|Best-Practices]]. [^hy7vh3] These standardization efforts are particularly important at scale, where inconsistency can become a major source of [[concepts/Technical Debt|Technical Debt]] and development friction.
+Standardization becomes more achievable in monorepo environments, where it's easier to standardize code and tooling across teams. Organizations can create policies that keep the main branch uncluttered, limit access to specific branches, enforce [[concepts/Naming Conventions|Naming Conventions]] & guidelines, include code reviewers, and enforce [[projects/Context-Vigilance/Philosophy/Best-Practices|Best-Practices]]. [^hy7vh3] These standardization efforts are particularly important at scale, where inconsistency can become a major source of [[concepts/Technical Debt|Technical Debt]] and development friction.
 
 ### Advanced Build Systems for Monorepos
 

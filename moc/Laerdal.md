@@ -10,7 +10,7 @@ date_modified: 2025-11-26
 
 :::projects
 - { path: [[projects/Augment-It/Specs/Data Augmentation Workflow with Microfrontends]], title: "Augment It" }
-- { path: [[projects/ACE-It/Philosophy/Our-Approach]], title: "Context Vigilance" }
+- { path: [[projects/Context-Vigilance/Philosophy/Our-Approach]], title: "Context Vigilance" }
 :::
 
 

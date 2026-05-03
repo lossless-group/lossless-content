@@ -10,7 +10,7 @@ at_semantic_version: 0.0.1.0
 generated_with: Claude Code (Claude Sonnet 4.5)
 category: Technical-Specification
 date_created: 2025-11-15
-date_modified: 2025-11-16
+date_modified: 2026-04-26
 status: Proposed
 tags: [Content-Automation, Link-Discovery, Digital-Footprint, Social-Media, API-Integration]
 authors:
@@ -22,7 +22,7 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/AI-P
 square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/AI-Powered-Link-Aggregator-for-Product-Digital-Footprint_square_image_1763225376735_Z9uq4LVwP.webp
 site_uuid: 7fdc18f5-e224-4359-8327-fe642c27a241
 ---
-
+[[specs/AI-Powered-Link-Aggregator-for-Product-Digital-Footprint|AI-Powered-Link-Aggregator-for-Product-Digital-Footprint]]
 
 
 # AI-Powered Link Aggregator for Product Digital Footprint Discovery

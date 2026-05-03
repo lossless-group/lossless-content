@@ -52,7 +52,7 @@ The system enables distributed processing of content through specialized applica
 - Enable independent development and deployment of workflow components
 	- Have smaller codebases to navigate, and less for [[concepts/Explainers for AI/Code Generators|Code Generators]] to overwrite or destroy. 
 - Provide seamless integration between processing stages
-- Support AI-assisted content enhancement and review processes, as detailed in [[projects/ACE-It/Philosophy/Context-Vigilance|Context-Vigilance]].
+- Support AI-assisted content enhancement and review processes, as detailed in [[projects/Context-Vigilance/Philosophy/Context-Vigilance|Context-Vigilance]].
 - Maintain data consistency and traceability throughout the workflow
 
 ### Non-Goals

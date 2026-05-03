@@ -1,14 +1,17 @@
 ---
-url: https://www.anthropic.com/solutions/coding
-github_url: https://github.com/anthropics/claude-code
+url: "https://cursor.com/public/opengraph-image.png"
+github_url: "https://claude.com/product/claude-code"
 date_created: 2025-03-08
-date_modified: 2025-10-21
+date_modified: 2026-04-28
 product_of: "[[Tooling/AI-Toolkit/Model Producers/Anthropic|Anthropic]]"
-og_image: https://ik.imagekit.io/xvpgfijuw/parslee/bannerFor__Claude-Code.webp?updatedAt=1760129891232
+og_image: "https://ik.imagekit.io/xvpgfijuw/parslee/bannerFor__Claude-Code.webp?updatedAt=1760129891232"
 tags: [Code-Generators]
-site_name: Claude Code
-description_site_cp: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-og_title: The ultimate terminal-based agentic coding environment
+site_name: "Claude Code"
+description_site_cp: "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands."
+og_title: "The ultimate terminal-based agentic coding environment"
+og_error: "Failed to fetch OpenGraph data after 3 attempts"
+og_error_timestamp: "2026-04-28T06:08:11.392Z"
+og_error_code: FETCH_FAILURE
 ---
 ![Claude Code banner in the skeumorph image of a terminal](https://ik.imagekit.io/xvpgfijuw/parslee/bannerFor__Claude-Code.webp?updatedAt=1760129891232)
 

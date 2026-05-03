@@ -24,7 +24,7 @@ AI code generators and AI-powered Integrated Development Environments (IDEs) can
 
 5. **Risk Mitigation**: Large-scale refactoring can be risky, especially in legacy systems where the impact of changes might not be immediately clear. AI can help mitigate this risk by providing a safety net - it can suggest changes and rollback mechanisms if something goes wrong. Some advanced tools even offer 'what-if' simulations to predict how proposed changes will affect the system before they're applied.
 
-6. **Learning from [[projects/ACE-It/Philosophy/Best-Practices|Best-Practices]]**: AI can be trained on large datasets of well-written, maintainable code. This allows it to learn and apply best practices for refactoring, potentially surpassing the knowledge of individual developers.
+6. **Learning from [[projects/Context-Vigilance/Philosophy/Best-Practices|Best-Practices]]**: AI can be trained on large datasets of well-written, maintainable code. This allows it to learn and apply best practices for refactoring, potentially surpassing the knowledge of individual developers.
 
 For organizations with legacy codebases, these benefits could lead to:
 

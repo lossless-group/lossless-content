@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-16
-date_modified: 2025-08-27
+date_modified: 2026-05-02
 site_uuid: 321be774-a7c0-4132-b890-361e5f2663ae
 publish: true
 title: Accelerated Context Engineering
@@ -13,6 +13,28 @@ A methodology concocted by [[client-content/Laerdal/Sources/Laerdal Entities/The
 This is an extension of [[concepts/Explainers for AI/Context Engineering|Context Engineering]], which is an extension of [[Vocabulary/Vibe Coding|Vibe Coding]].
 
 It is designed to mitigate the frustrations of [[Vocabulary/AI Hallucinations|AI Hallucinations]], assure [[Vocabulary/Component-Based Software Architecture|Component-Based Software Architecture]], the [[concepts/DRY Principle|DRY Principle]], and maintain consistent project patterns. 
+
+
+```tree
+journey
+- explorations
+- studies
+- issues
+implement
+- specs
+- prompts
+- plans
+reflect
+- blueprints
+- state
+- reminders
+publish
+- changelogs
+- maps
+```
+
+
+
 
 
 

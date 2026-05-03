@@ -12,7 +12,7 @@ status: Idea
 augmented_with: "Claude Sonnet 4 on Warp"
 category: Open-Ideas
 date_created: 2025-05-10
-date_modified: 2025-12-12
+date_modified: 2026-05-01
 authors:
   - Michael Staton
 image_prompt: "A closeup view of a monitor, a laptop, and a mobile device. The laptop has a text editor, it looks like a markdown editor, a simple version of a document editor.  There is some text there, headers, etc. On the monitor and on the mobile the same text is rendered as a beautiful web page.  There are connecting lines from the laptop to the monitor and the phone"
@@ -26,11 +26,11 @@ square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Churn-Cont
 
 Why are we still using complex file formats?  [[Vocabulary/AI Models|AI Models]] and [[concepts/Explainers for AI/Code Generators|Code Generators]] all speak [[projects/Emergent-Innovation/Standards/Markdown|Markdown]], [[Tooling/Software Development/Programming Languages/HTML|HTML]], [[Tooling/Software Development/Programming Languages/CSS|CSS]], even [[Vocabulary/Scalable Vector Graphics|Scalable Vector Graphics]]. 
 
-We can use [[Tooling/Software Development/Programming Languages/HTML|HTML]] and [[Tooling/Software Development/Programming Languages/CSS|CSS]] for layout design.  We don't need [[organizations/Adobe|Adobe]] or [[Tooling/Creative/Affinity|Affinity]]. We need to make it a [[Vocabulary/Responsive Design|Responsive Design]] and publish it to the web anyway.  Emails and reports, fine okay. 
+We can use [[Tooling/Software Development/Programming Languages/HTML|HTML]] and [[Tooling/Software Development/Programming Languages/CSS|CSS]] for layout design.  We don't need [[organizations/Adobe|Adobe]] or [[Tooling/Creative/Affinity Design Suite|Affinity Design Suite]]. We need to make it a [[Vocabulary/Responsive Design|Responsive Design]] and publish it to the web anyway.  Emails and reports, fine okay. 
 
 Markdown editors are growing like crazy: [[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]], [[Tooling/Productivity/Advanced Documents/Anytype|Anytype]], [[Tooling/Productivity/Advanced Documents/CraftDocs|CraftDocs]], [[Tooling/Productivity/Advanced Documents/Logseq|Logseq]], 
 
-Academic editors are well loved like [[Tooling/Productivity/Research Tools/Essayist]], [[Tooling/Productivity/Research Tools/PapersApp|PapersApp]]
+Academic editors are well loved like [[Tooling/Productivity/Research Tools/Essayist|Essayist]], [[Tooling/Productivity/Research Tools/PapersApp|PapersApp]]
 
 Open source text editors like [[Tooling/Software Development/Developer Experience/Helix|Helix]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Zed|Zed]].
 
@@ -41,17 +41,42 @@ We have open standards like [[projects/Emergent-Innovation/Standards/WebGL|WebGL
 We now have a next generation [[Vocabulary/Cross-Platform Applications|Cross-Platform]] framework to build [[Vocabulary/Cross-Platform Applications|Cross-Platform Applications]] with libraries like [[projects/Emergent-Innovation/wgpu|wgpu]].
 
 # Features
-### Aliases & Variants: defaults to plural, singular, acronym, acronym plural. 
+## Aliases & Variants: defaults to plural, singular, acronym, acronym plural. 
+
+## Table Enhancements
+Can merge cells.
+
+## Tag Management
+
+Find and replace tag all over content library.
+Tags have aliases treated as first class citizens.
+
+
+## Backlink System
+
+Anywhere on the filesystem, not just in the vault.  Paths referencing other files in the filesystem outside the vault are indicated as needing to have an array of viable paths.
+
+The array of viable paths also determines where the document appears.  
+
+Managed by an easy to use one click one view symlink system.
+
+## Repository Inter-Transport
+
+
 ### Show, hide HTML, CSS
 Apps and [[Vocabulary/Plug-ins,  Add-ons,  Extensions|Plug-ins,  Add-ons,  Extensions]]
 Use [[Tooling/Software Development/Frameworks/Frontend/UI Frameworks/Tailwind|Tailwind]]
 
 Only deal with [[projects/Emergent-Innovation/Standards/Markdown|Extended Markdown]].  Sytnax definer, to web components. 
 
+Tasks with metadata
+```md
+- [ ] {by: Michael Staton, to: Tanuj R., date_assigned: 2025-04-26, date_completed: 2025-04-29 } Just get it done please!  That thing! 
+```
 ### Terminal Emulator Interface
 Embedded [[concepts/Explainers for AI/AI Integrations|AI Integrations]] for both [[concepts/Explainers for AI/AI Powered Content Generation|AI Powered Content Generation]] and [[Vocabulary/Web Development|Web Development]]. 
 
-Build once play anywhere [[Vocabulary/Cross-Platform Applications|Cross-Platform Applications]] with [[Tooling/Software Development/Programming Languages/Rust|Rust]] using [[Tooling/Software Development/Programming Languages/Libraries/wgpu|wgpu]]
+Build once play anywhere [[Vocabulary/Cross-Platform Applications|Cross-Platform Applications]] with [[Tooling/Software Development/Programming Languages/Rust|Rust]] using [[Tooling/Software Development/Programming Languages/Libraries/wgpu|wgpu]] or [[Tooling/Software Development/Developer Experience/DevTools/Tauri|Tauri]]
 
 ### Projects
 
@@ -100,10 +125,13 @@ Split markdown file into two.
 ## Citation Management Automation
 Sources
 
+Citations are considered safe INSIDE callouts. 
+
 
 
 ## Dependencies
 [[Tooling/Software Development/Programming Languages/Rust|Rust]]
+[[Tooling/Software Development/Developer Experience/DevTools/Tauri|Tauri]]
 [[Tooling/Software Development/Programming Languages/Elixir|Elixir]]
 [[Tooling/Software Development/Databases/DuckDB|DuckDB]]
 [[Tooling/Software Development/Programming Languages/Libraries/wgpu|wgpu]]

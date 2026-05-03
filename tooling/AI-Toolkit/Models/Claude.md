@@ -8,7 +8,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:06.973Z
 jina_error: Error occurred
 og_last_fetch: 2025-09-05T13:13:45.574Z
-date_modified: 2025-11-16
+date_modified: 2026-05-02
 date_created: 2025-03-30
 tags: [AI-Toolkit, Models, Desktop-App]
 og_title: Claude
@@ -19,6 +19,7 @@ og_favicon: https://ik.imagekit.io/xvpgfijuw/lossless-content-embeds/appIcon__Cl
 
 Models by [[Anthropic]].
 
+https://claude.com/blog/introducing-citations-api
 ### >> 2025-10-30 Claude Announces Memory
 
 ![Claude shows its historical Uptime](https://i.imgur.com/MK4z42i.png)

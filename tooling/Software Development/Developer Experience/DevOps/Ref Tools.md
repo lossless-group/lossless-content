@@ -15,5 +15,5 @@ slug: ref-tools
 at_semantic_version: 0.0.0.1
 ---
 [[concepts/Explainers for AI/Model Context Protocol|Model Context Protocol]]
-[[projects/ACE-It/Philosophy/Best-Practices|Best-Practices]]
+[[projects/Context-Vigilance/Philosophy/Best-Practices|Best-Practices]]
 

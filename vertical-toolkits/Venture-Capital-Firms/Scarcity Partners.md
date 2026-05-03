@@ -19,7 +19,7 @@ A deeply experienced team with an exceptional record of success building invest
 
 Scarcity Partners’ co-founders are investment management industry experts. Adrian Whittingham, Alex Ihlenfeldt and Tim Samway spent a significant part of their careers at the successful Australian multi-affiliate Pinnacle Investment Management (PNI:ASX). Tony Hammond was part of the growth of Paradice and Pinnacle. Matthew Webb was a key player during Magellan’s rise and rise while Justin McLaughlin brings a wealth of experience in investing, most recently at Clearview. 
 
-The founders launched Scarcity Partners with a view to bringing the [[GP Staking]] business model to Australia and Asia-Pacific.
+The founders launched Scarcity Partners with a view to bringing the [[content-areas/Finance/Private-Markets/Concepts/GP Staking]] business model to Australia and Asia-Pacific.
 
 We spent a lot of time trying to come up with relevant name. Our working title from day one was Scarcity Partners. Scarcity is a noun and refers to the shortage or lack of something, such that supply is insufficient to meet demand. In context:
 

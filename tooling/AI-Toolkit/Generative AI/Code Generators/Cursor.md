@@ -3,15 +3,15 @@ site_uuid: 2b053c07-c705-4885-b4f8-640aaf8e36ed
 url: "https://www.cursor.com/"
 site_name: Cursor
 title: "The AI Code Editor"
-date_modified: 2025-10-21
+date_modified: 2026-04-28
 date_created: 2025-03-30
 description: "Built to make you extraordinarily productive, Cursor is the best way to code with AI."
 tags: [AI-Toolkit, Generative-AI, Code-Generators, Gen-Ai-Code]
 og_title: "Cursor: The best way to code with AI"
 og_description: "Built to make you extraordinarily productive, Cursor is the best way to code with AI."
-og_image: "https://cdn.sanity.io/images/2hv88549/production/581af892e88b9b7e17a19773730e5d9907c03cec-2401x1260.png?auto=format&w=1200&h=627&fit=crop"
 og_favicon: "https://cursor.com/marketing-static/icon-512x512.png"
-og_last_fetch: "2025-10-21T20:58:52.711Z"
+og_last_fetch: "2026-04-28T06:05:42.240Z"
+og_image: "https://cursor.com/public/opengraph-image.png"
 ---
 
 https://youtu.be/mxX1TYrhPFo?si=8CkQuOXx0X0Tvu0q

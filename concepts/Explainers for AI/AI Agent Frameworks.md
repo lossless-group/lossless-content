@@ -1,6 +1,6 @@
 ---
 date_created: 2025-11-16
-date_modified: 2025-11-16
+date_modified: 2026-05-02
 site_uuid: 3c7a4272-9aa5-4f5c-b4bd-21873bee8b27
 publish: true
 title: AI Agent Frameworks
@@ -30,13 +30,13 @@ https://youtu.be/8HqeY5v0ohM?si=BiZ84eG4RSknH20Q
 
 # **AI Agent Frameworks: Powering the Next Generation of Autonomous Software**
 
-Artificial Intelligence (AI) agent frameworks are foundational platforms or libraries that enable the creation, deployment, and management of autonomous software agents—digital entities capable of perceiving their environment, making decisions, and executing complex tasks independently. [^22kira] [^gs8oc9] [^5mksrz] [^t7z4td] As businesses and developers seek to automate more sophisticated operations, these frameworks have become essential for scaling and operationalizing AI, making the development of intelligent systems more efficient and consistent. [^22kira] [^5mksrz]
+[[concepts/Explainers for AI/Artificial Intelligence|Artificial Intelligence]] (AI) agent frameworks are foundational platforms or libraries that enable the creation, deployment, and management of autonomous software agents—digital entities capable of perceiving their environment, making decisions, and executing complex tasks independently. [^22kira] [^gs8oc9] [^5mksrz] [^t7z4td] As businesses and developers seek to automate more sophisticated operations, these frameworks have become essential for scaling and operationalizing AI, making the development of intelligent systems more efficient and consistent. [^22kira] [^5mksrz]
 
 ![AI Agent Frameworks concept diagram or illustration](https://cdn.prod.website-files.com/6717a0dfaf71071a80dfcec3/6870d632f433ff8ef576b63c_image-png-Aug-07-2024-10-46-41-3536-AM.png)
 
 AI agent frameworks provide structured environments and pre-built components, including memory modules, planning algorithms, reasoning engines, and communication protocols. [^22kira] [^gs8oc9] [^5mksrz] [^t7z4td] These elements allow developers to build agents that not only interact with users or environments but also collaborate with other agents and systems to handle complex, multi-step tasks. Unlike traditional programs or basic chatbots, agents built on these frameworks can dynamically plan, learn, adapt, and carry context across interactions. [^22kira] [^t7z4td]
 
-**Practical Examples and Use Cases**
+## **Practical Examples and Use Cases**
 
 - **Customer Service Automation:** Companies like [[Tooling/AI-Toolkit/Knowledge AI/MoveWorks|MoveWorks]] use agent frameworks to deploy multiple AI-driven support agents that handle tasks such as resetting passwords, onboarding new employees, or managing access to resources. These agents communicate seamlessly to avoid duplication and increase reliability. [^22kira] [^t7z4td]
 - **Multi-Agent Workflows:** Frameworks like Microsoft's open-source Agent Framework and LangChain’s LangGraph enable orchestration of multiple specialized agents. In a data analysis scenario, one agent extracts relevant data, another runs processing algorithms, and a third interprets results for stakeholders, all within a coordinated workflow. [^sm3inb] [^5mksrz]
@@ -48,7 +48,7 @@ However, challenges remain. Ensuring robust security when agents have broad auto
 
 ![AI Agent Frameworks practical example or use case](https://media.geeksforgeeks.org/wp-content/uploads/20250818114855573754/agents.webp)
 
-**Current State and Trends**
+## **Current State and Trends**
 
 Adoption of AI agent frameworks has surged, with enterprises and startups alike integrating them to orchestrate automation across IT, customer support, and operations. [^5mksrz] [^t7z4td] Technologies such as **Microsoft Agent Framework**, **[[Tooling/AI-Toolkit/AI Programming Frameworks/LangChain|LangChain]]**, **[[Tooling/AI-Toolkit/Agentic AI/AutoGen|AutoGen]]**, and frameworks within Google Cloud and AWS are leading the field, offering modularity, strong workflow management, and integration with large language models (LLMs) like GPT-4 and Llama. [^sm3inb] [^5mksrz] [^t7z4td] [^fick7b] Recent trends focus on multi-agent collaboration, advanced memory (context) management, error recovery via “checkpointing,” and extending frameworks to support domain-specific agents. [^sm3inb] [^5mksrz]
 

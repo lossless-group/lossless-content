@@ -1,11 +1,9 @@
 ---
 site_uuid: e8a363ad-3b7e-4089-9a4b-417f1c4d20cc
-aliases:
-  - AI-Interface
-date_modified: 2025-07-23
+aliases: [AI-Interface]
+date_modified: 2026-05-02
 date_created: 2025-03-30
-tags:
-  - AI-Toolkit
+tags: [AI-Toolkit]
 publish: true
 title: AI Interfaces
 slug: ai-interfaces

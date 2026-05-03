@@ -1,3 +1,7 @@
+---
+date_created: 2026-02-14
+date_modified: 2026-03-30
+---
 My recurring observations while trying to use AI in 2024 led to a high-conviction decision in that November, when Claude 3.7 was launched.  GenAI speaks Markdown, Markup, JSON, and CSV as basal file formats and semi-structured data. Like most early adopters, I piddled with AI tooling from the hyped launch of ChatGPT. Claude 3.7 was different. Claude could do some of the work I wanted it to do, and do it accurately enough to feel like a breakthrough. I needed to move from piddling to full dedication. 
 
 My first step was to migrate all relevant data and files for my projects into, and then work entirely in Markdown, Markup, JSON, and CSV. All my work needed to get out of Microsoft, Apple or other specialized applications. While this was logical for me, I haven’t encountered someone else who also made this their first step. For a good while, this created a huge amount of work, often down bottomless rabbit holes. Nagging at me constantly was the real possibility this work could prove unnecessary. Yet, with a dose of conviction and unhealthy amounts of stubbornness (as well as a plethora of open source file conversion libraries), the move from proprietary file and data formats to the basal formats GenAI "speaks" has turned into a massive productivity breakthrough.

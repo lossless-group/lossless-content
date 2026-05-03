@@ -1,17 +1,20 @@
 ---
-url: https://www.recraft.ai/
+url: "https://www.recraft.ai/"
 date_created: 2025-04-14
-date_modified: 2025-09-23
+date_modified: 2026-04-28
 site_uuid: 1ee9e920-95ce-406e-b315-b93d09b8f883
-og_image: https://www.recraft.ai/images/recraftai-og.jpg?1
-og_url: https://www.recraft.ai/
+og_image: "https://framerusercontent.com/assets/HvQ4bEfLTmu6moXTB0tfExFJ1l0.png"
+og_url: "https://www.recraft.ai/"
 site_name: Recraft
-title: Infinite AI Artboard
-description: Premium image generation and editing tool. Store and share your own styles, create, fine-tune, upscale, and perfect your visuals.
+title: "Infinite AI Artboard"
+description: "Premium image generation and editing tool. Store and share your own styles, create, fine-tune, upscale, and perfect your visuals."
 og_screenshot_url: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Recraft_og_screenshot.jpeg"
-og_last_fetch: 2025-05-28T16:00:03.848Z
-tags: [Text-to-Image, API-Integrations]
-docs_url: https://www.recraft.ai/docs
+og_last_fetch: "2026-04-28T18:02:25.530Z"
+tags: [Text-to-Image, API-Integrations, Image-Generators]
+docs_url: "https://www.recraft.ai/docs"
+og_title: "Recraft | AI for designers, creatives, sellers, and teams"
+og_description: "Recraft is a top-ranked text-to-image model and design platform for photorealism, vector generation, custom styles, mockups, and more"
+og_favicon: "https://framerusercontent.com/images/fyWPJAGQFyHQnCd2vOWbGj5zJI.png"
 ---
 
 Slava had an interview [^1]

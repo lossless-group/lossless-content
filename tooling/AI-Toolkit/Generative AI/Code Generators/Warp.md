@@ -1,18 +1,22 @@
 ---
 site_uuid: 80961394-c9bd-4679-a963-d37554ca545d
-url: https://www.warp.dev
-zinger: 'The intelligent terminal.'
+url: "https://www.warp.dev"
+zinger: "The intelligent terminal."
 site_name: Warp
-title: 'The intelligent terminal'
-favicon: https://www.warp.dev/favicon.png
-og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Warp_og_screenshot.jpeg
-jina_last_request: '2025-03-09T06:45:14.839Z'
-jina_error: 'Error occurred'
-og_last_fetch: '2025-03-07T05:20:56.434Z'
-github_profile_url: https://github.com/warpdotdev
+title: "The intelligent terminal"
+favicon: "https://www.warp.dev/favicon.png"
+og_screenshot_url: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Warp_og_screenshot.jpeg"
+jina_last_request: "2025-03-09T06:45:14.839Z"
+jina_error: "Error occurred"
+og_last_fetch: "2026-04-28T22:46:51.486Z"
+github_profile_url: "https://github.com/warpdotdev"
 date_created: 2025-03-21
-date_modified: 2025-09-05
-tags: [AI-Toolkit, Generative-AI, Code-Generators]
+date_modified: 2026-04-28
+tags: ["[AI-Toolkit, Generative-AI, Code-Generators]"]
+og_title: "Warp: The Agentic Development Environment"
+og_description: "Warp is the platform for agentic development — a modern terminal and cloud agent platform used by 700K+ developers at leading enterprises. Explore docs, features, pricing, and more."
+og_image: "https://framerusercontent.com/images/vvDFwPAa66yI9T0kGNhd43kHcM.png"
+og_favicon: "https://framerusercontent.com/images/GybmHeNj1WzkgFqIjQYypmhg.png"
 ---
 
 A [[concepts/Explainers for Tooling/Terminal Emulators]] that uses [[Code Generator]] for developers.

@@ -7,14 +7,12 @@ og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshot
 jina_last_request: '2025-03-09T06:45:14.343Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-06-05T15:58:13.568Z'
-date_modified: 2025-06-05
+date_modified: 2026-04-28
 date_created: 2025-03-30
 url: 'https://imagekit.io/'
 og_image: 'https://ik.imagekit.io/ikmedia/Graphics/2024%20Website%20Graphics/OG%20Images/OG_Homepage.jpg?tr=w-1200'
 description: 'Optimize, transform, manage and deliver images and video with one real-time API and an AI-powered Digital Asset Management platform.'
-tags:
-  - Software-Development
-  - Lego-Kit-Engineering-Tools
+tags: [Software-Development, Lego-Kit-Engineering-Tools]
 ---
 
 [[concepts/Lego-Kit Engineering]]

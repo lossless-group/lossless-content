@@ -1,7 +1,7 @@
 ---
 url: https://helium.computer/
 date_created: 2025-12-10
-date_modified: 2025-12-10
+date_modified: 2026-05-02
 og_title: Helium Browser
 og_description: The web browser made for people, with love. Best privacy by default, unbiased ad-blocking, no bloat and no noise. Fully open source.
 og_image: https://helium.computer/embed.png
@@ -13,4 +13,5 @@ publish: true
 title: Helium Browser
 slug: helium-browser
 at_semantic_version: 0.0.0.1
+github_repo_url: https://github.com/lossless-group/helium.git
 ---

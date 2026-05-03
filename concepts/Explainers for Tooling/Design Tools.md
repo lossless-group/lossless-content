@@ -9,7 +9,7 @@ at_semantic_version: 0.0.0.1
 ---
 ![Luxury app or uiux design](https://www.freepik.com/premium-vector/luxury-app-uiux-design_408359161.htm)
 
-[[Tooling/Creative/Affinity|Affinity]]
+[[Tooling/Creative/Affinity Design Suite|Affinity Design Suite]]
 [[Tooling/Creative/Photoshop|Photoshop]]
 [[organizations/Adobe|Adobe]]
 [[Tooling/Creative/Linearity|Linearity]]

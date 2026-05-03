@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-25
-date_modified: 2025-08-27
+date_modified: 2026-04-16
 site_uuid: 87a52b60-0e19-46af-a3a8-f0b6fbe9fe59
 publish: true
 title: LLM Gateways
@@ -9,6 +9,7 @@ at_semantic_version: 0.0.0.1
 tags: [Explainers, LLM-Gateways]
 covers_tags:
   - LLM-Gateways
+aliases: [AI Gateways]
 ---
 
 
@@ -34,6 +35,7 @@ Key functions include:
 - **Performance optimization:** Implementing caching, load balancing, and parallel processing to support high throughput and minimize latency, even during peak loads. [^n43zoc] [^j0xasc]
 - **Context and session management:** Maintaining conversational states and prompt integrity for continuous, high-quality interactions. [^7ajhor]
 
+![AI Infrastructure Landscape](https://ngrok.com/blog-assets/images/2025-10-23-what-are-ai-gateways/03_ai_infra_layers.png)
 ### Practical Examples and Use Cases
 
 - **Customer Support Bots:** Businesses deploy virtual assistants that access multiple LLMs through a gateway to deliver faster and more accurate responses, optimizing cost and performance while adhering to privacy requirements. [^1dpuyj] [^j0xasc]
@@ -90,3 +92,4 @@ In summary, LLM Gateways are transforming how organizations connect and leverage
 
 [^j4lozw]: 2025, Feb 04. [What Constitutes LLM Gateway and How It Can Transform ... - APIPark](https://apipark.com/technews/Iq3xVrYz.html). Published: 2025-01-17 | Updated: 2025-02-04
 
+[^ay3hwd]: 2025, Oct. "[What are AI gateways, and do you even need them? | ngrok blog](https://ngrok.com/blog/ai-gateways-2025)". Aaishika S Bhattacharya. [ngrok blog](https://ngrok.com).

@@ -1,16 +1,19 @@
 ---
 site_uuid: 899f0f78-5761-43ef-8da8-1cdd5488a0ae
-url: 'https://obsidian.md/'
+url: "https://obsidian.md/"
 site_name: Obsidian
-og_last_fetch: '2025-03-17T05:14:27.000Z'
-youtube_channel_url: 'https://www.youtube.com/@ObsidianOfficial'
-github_profile_url: 'https://github.com/obsidianmd'
-docs_url: 'https://docs.obsidian.md/'
-date_modified: 2025-08-17
+og_last_fetch: "2026-04-28T15:23:35.381Z"
+youtube_channel_url: "https://www.youtube.com/@ObsidianOfficial"
+github_profile_url: "https://github.com/obsidianmd"
+docs_url: "https://docs.obsidian.md/"
+date_modified: 2026-04-28
 date_created: 2025-03-30
-og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads_lossless_screenshots_20250527_Obsidian_og_screenshot.jpeg'
-https: //og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/f18916e4fda284a0673b4b4f67bd554fa0797066d423295f43a40a4c2cce4f60.jpeg
-tags: [Productivity]
+og_screenshot_url: "https://ik.imagekit.io/xvpgfijuw/uploads_lossless_screenshots_20250527_Obsidian_og_screenshot.jpeg"
+tags: [Productivity, Advanced-Documents, Second-Brains]
+og_title: "Obsidian - Sharpen your thinking"
+og_description: "The free and flexible app for your private thoughts."
+og_image: "https://obsidian.md/images/banner.png"
+og_favicon: "https://obsidian.md/favicon.ico"
 ---
 
 [[Vocabulary/Markdown Editors]]

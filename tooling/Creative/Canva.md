@@ -15,6 +15,6 @@ at_semantic_version: 0.0.0.1
 ---
 https://ballenbrands.com/chatgpt-canva-bulk-create/
 
-Acquired [[Tooling/Creative/Affinity|Affinity]]
+Acquired [[Tooling/Creative/Affinity Design Suite|Affinity Design Suite]]
 [[organizations/Serif]]
 

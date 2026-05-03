@@ -1,0 +1,8 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - date_created
+      - for_clients
+      - file.size

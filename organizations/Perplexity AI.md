@@ -1,12 +1,16 @@
 ---
 url: https://www.perplexity.ai/
-tags: [Model-Producers]
+tags: [Model-Producers, Foundation-Models, AI-Powered-Research, AI-Research-Labs, Conversational-AI, Must-Have, API-Agents, API-Integrations]
 mcp_server: https://github.com/ppl-ai/modelcontextprotocol/tree/main
 date_created: 2025-04-25
-date_modified: 2025-11-22
-aliases: [Perplexity]
+date_modified: 2026-04-29
+aliases: [Perplexity, perplexity.ai]
+og_title: Perplexity
+og_description: Perplexity is a free AI-powered answer engine that provides accurate, trusted, and real-time answers to any question.
+og_image: https://ppl-ai-public.s3.amazonaws.com/static/img/pplx-default-preview.png
+og_favicon: https://www.perplexity.ai/favicon.svg
+og_last_fetch: 2026-04-29T22:29:14.785Z
 ---
-
 [[organizations/Perplexity AI|Perplexity AI]] focuses on the "search" use case for AI, to some degree performing realtime search, focusing on the quality of information sources, and embedding and citing its own sources.  
 
 A feature is [[Perplexity Spaces]], which is similar to [[AI-Toolkit/AI Interfaces/AI Workspaces/NotebookLM|NotebookLM]].

@@ -1,7 +1,7 @@
 ---
 url: https://reducto.ai/
 date_created: 2025-09-23
-date_modified: 2025-10-11
+date_modified: 2026-05-01
 og_title: Reducto Document Ingestion API
 og_description: Reducto is an API that provides high quality data ingestion for large language models (LLMs). It works with any vector database or embedding system. It can parse PDFs, Excel, PowerPoint, and more.
 og_image: https://reducto.ai/opengraph-image-pztefn.png?dad257abe5b90369
@@ -11,6 +11,8 @@ tags: [Document-Intelligence, Data-Augmenters, API-based-Services, AI-Toolkit, C
 for_clients:
   - Parslee
   - Laerdal
+  - Param
+  - Tonguc
 site_uuid: 46fcc801-f627-4e96-854a-5fc077cc0160
 publish: true
 title: Reducto AI

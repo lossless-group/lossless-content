@@ -62,7 +62,7 @@ Key players currently shaping this space include:
 
 - **[[organizations/Google|Google]]** with SGE ([[Search Generative Experience]]) and AI Overviews. [^2hu4m9]
 - **[[Tooling/AI-Toolkit/Model Producers/OpenAI|OpenAI]]** (ChatGPT), **[[Tooling/AI-Toolkit/Model Producers/Anthropic|Anthropic]]** (Claude), and **[[organizations/Perplexity AI|Perplexity AI]]**—all integrating web content into synthesized conversational responses. [^bant8g]
-- Content optimization platforms such as [[Tooling/AI-Toolkit/Conductor AI|Conductor AI]], [[AIOSEO]], and industry blogs are publishing guides to help brands embrace GEO best practices. [^h11n8f] [^u1iqxj]
+- Content optimization platforms such as [[Tooling/AI-Toolkit/Conductor AI|Conductor AI]], [[Tooling/Enterprise Jobs-to-be-Done/AIOSEO]], and industry blogs are publishing guides to help brands embrace GEO best practices. [^h11n8f] [^u1iqxj]
 
 Recent developments focus on advanced content markup, machine-readable schemas, and monitoring tools for tracking citations and AI-driven referral traffic, signaling a significant professionalization of GEO as a digital marketing strategy. [^bant8g] [^h11n8f]
 

@@ -11,7 +11,7 @@ publish: true
 generated_with: Windsurf Cascade on Claude 3.5 Sonnet
 category: Technical-Specification
 date_created: 2025-04-16
-date_modified: 2025-06-07
+date_modified: 2026-04-16
 status: Draft
 site_uuid: e2942c54-27e6-46c0-bacf-9b8320595063
 tags: [YAML, Frontmatter, Error-Detection, Error-Corrections]
@@ -33,6 +33,7 @@ Our content management system relies heavily on YAML frontmatter in markdown fil
 | title    | title: Technical Specification: YAML Frontmatter Error Detection and Correction System | title: "Technical Specification: YAML Frontmatter Error Detection and Correction System" | Uncertain        |
 | site_url | docs_url: https://developers.raycast.com/                                              |                                                                                          |                  |
 
+https://platform.claude.com/docs/en/build-with-claude/citations
 
 We've developed a robust error detection and correction system that:
 

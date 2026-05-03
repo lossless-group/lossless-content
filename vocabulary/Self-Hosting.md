@@ -1,12 +1,12 @@
 ---
-date_modified: 2025-08-17
+date_modified: 2026-05-02
 site_uuid: f523037e-f522-466c-83e8-2af7793df711
 date_created: 2025-04-06
-aliases: [Self-Host, Self-Hostable]
+aliases: [Self-Host, Self-Hostable, Self-Hosted]
 tags: [Self-Hosting-Cloud]
 ---
 
-Including [[Coolify]], [[Tooling/Software Development/Cloud Infrastructure/Bolt.diy|Bolt.diy]], [[DeepSeek]], [[projects/ACE-It/UseCases/n8n|n8n]], [[Kestra]]
+Including [[Coolify]], [[Tooling/Software Development/Cloud Infrastructure/Bolt.diy|Bolt.diy]], [[DeepSeek]], [[projects/Context-Vigilance/UseCases/n8n|n8n]], [[Kestra]]
 
 [[Railway]], [[DollarDeploy]]
 

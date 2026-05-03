@@ -20,4 +20,4 @@ tags:
   - Graphic-Design-Tools
 ---
 
-[[Presentation Maker]]
+[[concepts/Explainers for AI/Presentation Generators]]
