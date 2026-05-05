@@ -1,6 +1,6 @@
 ---
 date_created: 2025-10-06
-date_modified: 2025-10-06
+date_modified: 2026-05-04
 site_uuid: cb3930ca-3531-4ae2-bb2a-337299c86113
 publish: true
 title: Directed Acyclic Graphs
@@ -8,6 +8,7 @@ slug: directed-acyclic-graphs
 at_semantic_version: 0.0.0.1
 aliases: [Dags, dags, dag, Dag, DAG, DAGs]
 tags: [Data-Pipelines, DataOps]
+wikipedia_url: https://en.wikipedia.org/wiki/Directed_acyclic_graph
 ---
 
 

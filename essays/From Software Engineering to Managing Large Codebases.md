@@ -1,6 +1,6 @@
 ---
 date_created: 2025-06-05
-date_modified: 2025-11-20
+date_modified: 2026-05-04
 slug: from-engineering-to-managing-large-codebases
 title: 'From Software Engineering To Managing Large Codebases'
 lede: 'AI is already supporting individual engineers with particular tasks. How can it support large organizations with many teams and millions of lines of code?'
@@ -93,11 +93,11 @@ However, implementing Bazel is not without challenges. Some organizations have f
 
 ## Technical Debt Management Frameworks
 
-Systematic technical debt management has evolved from an afterthought to a critical business capability in large technology organizations. The most successful companies have developed comprehensive frameworks that transform technical debt from an uncontrolled variable into a manageable engineering problem that can actually accelerate feature delivery when handled systematically. [^9kj928]
+Systematic [[concepts/Technical Debt|Technical Debt]] management has evolved from an afterthought to a critical business capability in large technology organizations. The most successful companies have developed comprehensive frameworks that transform technical debt from an uncontrolled variable into a manageable engineering problem that can actually accelerate feature delivery when handled systematically. [^9kj928]
 
 ### Quantitative Measurement Approaches
 
-Modern technical debt management begins with quantitative measurement systems that can accurately assess the extent and impact of debt across large codebases. The SQALE Index has emerged as a particularly effective tool for this purpose, translating every rule violation into remediation hours and rolling those into a single score. [^9kj928] When measuring a 2-million-line monorepo, this approach reveals something counterintuitive: the modules causing daily firefighting aren't always those with the most violations, demonstrating the importance of systematic measurement over intuitive assessment. [^9kj928]
+Modern technical debt management begins with quantitative measurement systems that can accurately assess the extent and impact of debt across large codebases. The [[SQALE Index]] has emerged as a particularly effective tool for this purpose, translating every rule violation into remediation hours and rolling those into a single score. [^9kj928] When measuring a 2-million-line monorepo, this approach reveals something counterintuitive: the modules causing daily firefighting aren't always those with the most violations, demonstrating the importance of systematic measurement over intuitive assessment. [^9kj928]
 
 Leading organizations implement comprehensive measurement systems that track multiple dimensions of technical debt. These systems monitor metrics such as Mean Time to Change (MTTC), defect density baselines, and architectural drift patterns. [^9kj928] By establishing quantitative baselines, organizations can move beyond subjective assessments of technical debt and make data-driven decisions about where to focus remediation efforts.
 
@@ -292,8 +292,9 @@ The path forward for organizations seeking to improve their management of large 
 The continuing evolution of tools, practices, and organizational approaches in this space suggests that the distinction between best practices and state-of-the-art will continue to evolve. Organizations that commit to continuous learning, experimentation, and improvement in their development practices will be best positioned to navigate the increasing complexity of software systems while maintaining the agility and productivity required for competitive success in technology-driven markets.
 
 
-
 ### Citations
+
+[^03m3vb]: "[Upgrading software business models to thrive in the AI era](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/upgrading-software-business-models-to-thrive-in-the-ai-era#/)". [Mckinsey](https://www.mckinsey.com).
 
 [^z8sn0h]: [How to effectively work in big codebases - DEV Community](https://dev.to/moozzyk/how-to-effectively-work-in-big-codebases-hme).
 

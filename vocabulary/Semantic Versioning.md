@@ -1,9 +1,15 @@
 ---
-date_modified: 2025-04-17
+date_modified: 2026-05-03
 site_uuid: 931625f5-532d-45cf-941c-6c926d1f7dda
 date_created: 2025-04-06
-aliases: [SemVer]
+aliases: [SemVer, semver]
 url: https://semver.org/
+og_title: Semantic Versioning 2.0.0
+og_description: Semantic Versioning spec and website
+og_image:
+og_favicon: https://semver.org/assets/500x500(dark).jpg
+og_last_fetch: 2026-05-03T06:05:07.505Z
+tags: [Open-Specifications]
 ---
 
 https://youtu.be/5TIDnT9LTFc?si=hpBxJZNR6Q8nYkpM

@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-16
-date_modified: 2026-05-02
+date_modified: 2026-05-03
 site_uuid: 321be774-a7c0-4132-b890-361e5f2663ae
 publish: true
 title: Accelerated Context Engineering
@@ -26,10 +26,11 @@ implement
 - plans
 reflect
 - blueprints
-- state
+- states
 - reminders
 publish
 - changelogs
+  - releases
 - maps
 ```
 

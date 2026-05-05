@@ -129,7 +129,7 @@ Sources: [^cplcj1]  [^d39ugg] [^59ym3s]
 
 - **Most Loved**: most loved Vector database by open source and developer community
 - **Brand Recognition & Distribution**: [CromaDB on GitHub](https://github.com/chroma-core/chroma) includes 27.7K stars and 2.2K forks. 
-- Proprietary frontier-grade model at [[Agentic Search]]. 
+- Proprietary frontier-grade model at [[concepts/Explainers for AI/Agentic Search]]. 
 - Ingestion of [[Agent Traces]] at [[Tooling/Productivity/Async Communication/Slack|Slack]] and [[Tooling/Productivity/Advanced Documents/Notion|Notion]]
 - Achieved meaningful internal [[Company Brain]]
 - 

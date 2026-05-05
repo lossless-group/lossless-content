@@ -9,7 +9,7 @@ og_favicon: https://www.redhat.com/favicon.ico
 og_last_fetch: 2025-08-28T17:59:37.287Z
 parent_org: "[[organizations/IBM|IBM]]"
 ---
-[[Linux Distributions]]
+[[Vocabulary/Linux Distributions]]
 
 
 

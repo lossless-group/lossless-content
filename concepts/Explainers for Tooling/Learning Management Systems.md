@@ -1,6 +1,6 @@
 ---
 date_created: 2025-09-17
-date_modified: 2025-11-11
+date_modified: 2026-05-04
 tags: [Enterprise-Jobs-To-Be-Done]
 aliases: [LMS, LMSs]
 site_uuid: 29962d28-cf61-4b91-816d-ff18c998b6dc
@@ -9,7 +9,7 @@ title: "Learning Management Systems"
 slug: learning-management-systems
 at_semantic_version: 0.0.0.1
 ---
-
+[DOD Open Github Repository of an LMS](https://github.com/MeetDOD/Learning-Management-System-LMS-Backend)
 
 ***
 > [!info] **Perplexity Query** (2025-09-17T18:13:41.912Z)

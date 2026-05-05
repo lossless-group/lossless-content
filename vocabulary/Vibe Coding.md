@@ -1,6 +1,6 @@
 ---
 url: null
-date_modified: 2025-08-17
+date_modified: 2026-05-03
 site_uuid: dbbec104-be64-47a6-8413-05079caad984
 date_created: 2025-04-06
 ---
@@ -98,6 +98,8 @@ When [[Software Development]] is largely done with [[concepts/Explainers for AI/
 
 
 2025, February 13. [What is Vibe Coding? ☮️ 😎](https://youtube.com/shorts/8TQaJDCw-dE?si=EuuvPIGReGv477-v). Matthew Berman.
+
+https://youtube.com/shorts/tkKPG6zXo8E?si=9OcXNmYd7bXWbW7Y
 
 https://www.youtube.com/watch?v=BJjsfNO5JTo&t=279s
 

@@ -1,17 +1,18 @@
 ---
-url: 'https://www.jetbrains.com/'
+url: "https://www.jetbrains.com/"
 date_created: 2025-04-18
-date_modified: 2025-05-29
-og_image: 'https://resources.jetbrains.com/storage/products/jetbrains/img/meta/preview.png'
-og_url: 'https://www.jetbrains.com/'
+date_modified: 2026-05-04
+og_image: "https://resources.jetbrains.com/storage/products/jetbrains/img/meta/preview.png"
+og_url: "https://www.jetbrains.com/"
 site_name: JetBrains
-title: 'JetBrains: Essential tools for software developers and teams'
-description: 'JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools, including IntelliJ IDEA – the leading Java IDE, and the Kotlin programming language.'
-og_screenshot_url: 'https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/76f0637fe0bbaa6599c0f0ddeaa6cb8a6f7bc7870534b49ef744b9f530729664.jpeg'
-og_last_fetch: '2025-05-29T13:31:26.415Z'
-tags:
-  - Text-Editors
-  - IDEs
+title: "JetBrains: Essential tools for software developers and teams"
+description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools, including IntelliJ IDEA – the leading Java IDE, and the Kotlin programming language."
+og_screenshot_url: "https://og-screenshots-prod.s3.amazonaws.com/1920x1080/80/false/76f0637fe0bbaa6599c0f0ddeaa6cb8a6f7bc7870534b49ef744b9f530729664.jpeg"
+og_last_fetch: "2026-05-04T07:04:23.999Z"
+tags: [Text-Editors, IDEs]
+og_title: "JetBrains: Essential tools for software developers and teams"
+og_description: "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools, including IntelliJ IDEA – the leading Java IDE, and the Kotlin programming language."
+og_favicon: "https://www.jetbrains.com/icon-512.png?r=1234"
 ---
 
 [[concepts/Explainers for Tooling/Text Editors or IDEs|IDE]]
