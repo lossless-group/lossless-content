@@ -1,3 +1,9 @@
+---
+title: "Financial Modeling & Portfolio Modeling with Time Series"
+date_created: 2025-04-11
+date_modified: 2025-08-12
+---
+
 
 1. The CSV (“Yearly-TimeTable-CSV.csv”) is structured with a header row that defines the following columns:
   • Timeframe_ID

@@ -1,6 +1,7 @@
 ---
 date_created: 2025-03-20
 date_modified: 2025-06-06
+title: "Conventions for using Git and GitHub"
 ---
 # Continuous Integration Workflow
 This workflow was recommended by [[Tooling/AI-Toolkit/Generative AI/Code Generators/Warp|Warp]] an [[concepts/Explainers for AI/AI Terminal Assistant]]

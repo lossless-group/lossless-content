@@ -2,6 +2,7 @@
 tags: [Code-Generators, Best-Practices]
 date_created: 2025-03-23
 date_modified: 2025-08-27
+title: "Working with Code Generators"
 ---
 
 ![](https://i.imgur.com/tosxJol.png)
