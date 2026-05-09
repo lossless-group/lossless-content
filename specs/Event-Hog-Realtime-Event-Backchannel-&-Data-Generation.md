@@ -4,6 +4,7 @@ date_created: 2026-05-07
 date_modified: 2026-05-07
 authors:
   - Michael Staton
+publish: false
 ---
 
 File structure setup upfront. 

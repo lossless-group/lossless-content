@@ -1,4 +1,6 @@
-
+---
+publish: false
+---
 
 Phrase competencies, knowledge units, etc like standards.
 Resolve IDs
