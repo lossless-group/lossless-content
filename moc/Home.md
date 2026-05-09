@@ -15,6 +15,6 @@ date_modified: 2025-08-22
 - [[Mem0]]
 - [[LM Studio]]
 - [[Exa.ai]]
-- [[Tooling/Software Development/Databases/ChromaDB|ChromaDB]]
+- [[ChromaDB|ChromaDB]]
 - [[Tooling/Data Utilities/Marimo|Marimo]]
 

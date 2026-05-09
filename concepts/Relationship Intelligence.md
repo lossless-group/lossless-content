@@ -47,7 +47,7 @@ at_semantic_version: 0.0.0.1
 
 ### Capabilities of AI-Native CRM Platforms
 
-AI-native CRMs, like 4Degrees, [[Attio]], and Affinity
+AI-native CRMs, like 4Degrees, [[Tooling/Enterprise Jobs-to-be-Done/Attio]], and Affinity
 
 ![Image 3](https://alphavima.com/wp-content/uploads/2025/05/AI-Trends-Across-CRM-Platforms.png)
 *Source: https://alphavima.com/blog/ai-in-crm-2025-platform-comparison/*

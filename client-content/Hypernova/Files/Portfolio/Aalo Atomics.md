@@ -1,7 +1,7 @@
 ---
 url: https://www.aalo.com/
 date_created: 2024-09-12
-date_modified: 2025-11-16
+date_modified: 2026-05-07
 og_title: Welcome to the dawn of a Second Atomic Age
 og_description: Creating abundant and dependable clean energy to power humanity for generations.
 og_image: https://cdn.prod.website-files.com/6585dbcefaa9bc6771139c22/6616f0f548a8453eb39dbddd_640f988cbb946e8bffb0afc8_Aalo-OG.png
@@ -15,6 +15,7 @@ site_name: Aalo Atomics
 ---
 # Investment Memo: Aalo Atomics
 
+
 ## Company: Aalo Atomics
 
 **Stage**: Series B
@@ -26,7 +27,11 @@ site_name: Aalo Atomics
 **Date**: June 2025
 ## 1. Executive Summary
 
-  
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Aalo has received DSA approval from DOE for our 10 MW reactor, zero-power criticality!<br><br>This is the equivalent of an NRC license in DOE space. We&#39;ve been working towards this milestone at Aalo for 2.5 years.<br><br>This was a very ambitious project under the DOE reactor pilot program… <a href="https://t.co/bTKxj28kBa">pic.twitter.com/bTKxj28kBa</a></p>&mdash; Matt Loszak (@MattLoszak) <a href="https://twitter.com/MattLoszak/status/2051664418245869801?ref_src=twsrc%5Etfw">May 5, 2026</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></blockquote> 
+
+
+![[Visuals/20260506_Aalo-is-DSA-Approved.png]]  
 
 Aalo Atomics is developing Extra Modular Reactor (XMR) technology—factory-manufactured nuclear power plants purpose-built for AI data centers. Founded in 2023, the company has achieved remarkable execution velocity: manufacturing their first experimental reactor (Aalo-X) within 18 months and securing a DOE site agreement at Idaho National Laboratory for testing in summer 2026. Their commercial product, the Aalo Pod, is a 50 MWe modular plant designed for 12-month delivery from order.
 

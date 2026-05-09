@@ -1,7 +1,7 @@
 ---
 category: "Avoid and Peril"
 date_created: 2024-11-11
-date_modified: 2025-11-16
+date_modified: 2026-05-07
 tags: [Near-Future-Anticipation]
 title: "AI is full of Hot Air."
 lede: "From hallucinations to probabilistic creativity, to the need to fulfill its trained duty.  AI Models can just make things up.  Sometimes amazingly, sometimes catastrophically."
@@ -23,6 +23,8 @@ square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/AI_is_Full
 >AI doesn’t admit ignorance because it isn’t deeply programmed to do so—it’s built to offer helpful answers, sometimes at the cost of transparency when it’s out of its depth.
 
 ![The Research Agent didn't research, just made excuses!](https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/AI_is_Full_of_Hot_Air_content_1763300335910_0Ho5MRDej.webp)
+
+> "AI responses may include mistakes." - Google Search
 
 
 > [!llm-response] From Microsoft's Phi model when asked about Excel

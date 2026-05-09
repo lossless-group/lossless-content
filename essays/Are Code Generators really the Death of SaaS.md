@@ -23,7 +23,7 @@ https://youtu.be/GS-0ahfYAGs?si=Pb86hmdid7i61JeJ
 [[Vocabulary/Citizen Developers|Citizen Developers]]
 
 # AI will kill business critical SaaS
-Things like [[concepts/Explainers for Tooling/Enterprise Resource Planning|Enterprise Resource Planning]] and [[Vocabulary/CRM|CRM]] may see sales decline if customers are capable of using AI to build software. 
+Things like [[Vocabulary/Enterprise Resource Planning|Enterprise Resource Planning]] and [[Vocabulary/CRM|CRM]] may see sales decline if customers are capable of using AI to build software. 
 
 The concern about code generators, particularly those powered by artificial intelligence (AI), potentially disrupting the Software as a Service (SaaS) market is an interesting topic that warrants exploration from multiple angles.
 
