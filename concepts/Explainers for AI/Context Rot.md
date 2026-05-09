@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-17
-date_modified: 2025-08-17
+date_modified: 2026-05-08
 tags: [Explainers]
 site_uuid: 68b0b958-f39a-4499-bc80-cbf903280f1d
 publish: true
@@ -8,7 +8,7 @@ title: Context Rot
 slug: context-rot
 at_semantic_version: 0.0.1.0
 ---
-
+![Context Rot: an Illustration from Cobus Greyling](https://substackcdn.com/image/fetch/$s_!llLS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2be2c76c-ebde-453a-a34e-9d6d73e6a54b_1998x1036.png)
 
 ***
 > [!info] **Perplexity Query** (2025-08-17T02:04:53.922Z)
@@ -39,7 +39,7 @@ However, context rot comes with challenges. Excessive trimming risks losing esse
 
 ## Current State and Trends
 
-Recent research, such as [[Tooling/Software Development/Databases/ChromaDB|ChromaDB]] Research’s technical report and experiments, has spotlighted context rot as a real and measurable problem for the latest LLMs. [^8oulfh] [^2us5i9] [^xu0t6z] Tests demonstrate that performance degradation grows non-linearly with input size, and models consistently struggle more with semantic reasoning amid distractors. [^8oulfh] [^xu0t6z] Companies like [[Tooling/AI-Toolkit/Generative AI/Code Generators/Augment Code|Augment Code]] are developing new solutions (e.g., context lineage tracking) to ensure that only the most relevant information persists through long coding or chat sessions. [^0rsxvk]
+Recent research, such as [[ChromaDB|ChromaDB]] Research’s technical report and experiments, has spotlighted context rot as a real and measurable problem for the latest LLMs. [^8oulfh] [^2us5i9] [^xu0t6z] Tests demonstrate that performance degradation grows non-linearly with input size, and models consistently struggle more with semantic reasoning amid distractors. [^8oulfh] [^xu0t6z] Companies like [[Tooling/AI-Toolkit/Generative AI/Code Generators/Augment Code|Augment Code]] are developing new solutions (e.g., context lineage tracking) to ensure that only the most relevant information persists through long coding or chat sessions. [^0rsxvk]
 
 The market is responding quickly: context engineering—a discipline focused on feeding models just the right data—has become critical as prompt engineering once was. [^wfmn3s] [^8oulfh] Key players are building smarter context management tools, persistent chat histories, and context-aware agents to combat rot. Technologies enabling real-time context indexing, memory management, and relevance scoring are being rapidly integrated into popular developer tools and AI platforms. [^0rsxvk] [^8oulfh]
 

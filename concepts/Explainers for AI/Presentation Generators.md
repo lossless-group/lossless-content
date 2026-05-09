@@ -42,7 +42,7 @@ Pitched (pun intended) at sales teams and startups, [[Pitch]] differentiates its
 **Community voice:** Reddit recommendations consistently cite Pitch for "sales teams with CRM". It scores well for design quality and collaboration, but reviewers note the AI content generation isn't as strong as Gamma's — the value prop is really the analytics and sales workflow, not autonomous slide creation. [^37tosr] [^jumq7q]
 
 ### Prezent.ai
-[[Prezent.ai]] is an enterprise-grade platform with a library of 35,000+ pre-built slides and 1,000+ expert storylines for specific meeting types (All-Hands, QBRs, board updates, investor reviews). It focuses on **brand compliance and storytelling structure** — not blank-page generation — making it a favorite for large orgs managing high-volume presentation output. [^dsx9ws] [^5kb5cs]
+[[Tooling/AI-Toolkit/Generative AI/Prezent.ai]] is an enterprise-grade platform with a library of 35,000+ pre-built slides and 1,000+ expert storylines for specific meeting types (All-Hands, QBRs, board updates, investor reviews). It focuses on **brand compliance and storytelling structure** — not blank-page generation — making it a favorite for large orgs managing high-volume presentation output. [^dsx9ws] [^5kb5cs]
 
 **Community voice:** Enterprise reviewers on G2 praise the brand lock-in controls; a cited use case has cleantech company GreenGrid using Prezent.ai to iterate rapidly for an $8M investor meeting. The tool is less discussed in indie/startup communities because its pricing and positioning is decidedly enterprise. [^24naht]
 

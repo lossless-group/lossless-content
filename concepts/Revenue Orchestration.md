@@ -33,7 +33,7 @@ Here are some key aspects of Revenue Orchestration:
 
 **Differences from ERPs or Invoice Systems:**
 
-- **Scope**: While ERPs ([[concepts/Explainers for Tooling/Enterprise Resource Planning|Enterprise Resource Planning]]) systems are broad and cover various business processes, Revenue Orchestration is more specialized, focusing specifically on the revenue lifecycle. 
+- **Scope**: While ERPs ([[Vocabulary/Enterprise Resource Planning|Enterprise Resource Planning]]) systems are broad and cover various business processes, Revenue Orchestration is more specialized, focusing specifically on the revenue lifecycle. 
 
 - **Complexity Handling**: Invoice systems typically handle straightforward billing tasks, whereas RO can manage complex pricing models, tiered subscriptions, and other intricacies of subscription businesses.
 

@@ -24,7 +24,7 @@ at_semantic_version: 0.0.0.1
 An [[concepts/Open Specifications|Open Specification]] for [[Vocabulary/Agentic AI|Agentic AI]] and [[Vocabulary/Agentic AI|Agents]] to perform tasks, authored by [[Tooling/AI-Toolkit/Model Producers/Anthropic|Anthropic]]
 
 :::tool-showcase
-- [[Pi.dev]]
+- [[Tooling/Software Development/Developer Experience/DevTools/Pi Coding Agent|Pi.dev]]
 - [[Tooling/AI-Toolkit/Agentic AI/Hermes Agent|Hermes Agent]]
 :::
 

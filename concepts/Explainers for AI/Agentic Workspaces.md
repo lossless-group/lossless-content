@@ -86,7 +86,7 @@ However, several **challenges and considerations** must be addressed:
 - **Data security and access control**: Agents must operate within strict authorization limits to safeguard sensitive information. [^8fc8j9]
 - **Auditability and compliance**: Ongoing monitoring of agent decisions is crucial to prevent unintended outcomes or errors.
 - **Human oversight**: Despite high autonomy, a level of human supervision remains vital to ensure alignment with organizational goals.
-- **Integration complexity**: Connecting AI agents to fragmented data sources ([[concepts/Explainers for Tooling/Enterprise Resource Planning|ERPs]], [[Vocabulary/CRM|CRMs]], cloud platforms) requires robust infrastructure. [^8fc8j9]
+- **Integration complexity**: Connecting AI agents to fragmented data sources ([[Vocabulary/Enterprise Resource Planning|ERPs]], [[Vocabulary/CRM|CRMs]], cloud platforms) requires robust infrastructure. [^8fc8j9]
 
 ### Current State and Trends
 

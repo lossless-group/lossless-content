@@ -1,6 +1,6 @@
 ---
 date_created: 2025-09-21
-date_modified: 2025-09-24
+date_modified: 2026-05-06
 publish: true
 title: Logistics AI
 slug: logistics-ai
@@ -8,6 +8,8 @@ at_semantic_version: 0.0.1.1
 authors:
   - Michael Staton
 augmented_with: Perplexity AI
+aliases:
+  - AI-Powered Logistics
 ---
 
 ***

@@ -14,7 +14,7 @@ augmented_with: Qwen Coder 3
 
 When innovators or leaders talk about creating an "Ambition Shelter" for innovative employees, they're essentially referring to a supportive environment designed to nurture and protect the ambitious, creative, and often risky work of these employees. Here's what it typically entails:
 
-1. **[[concepts/Psychological Safety]]**: An Ambition Shelter prioritizes psychological safety, ensuring that employees feel secure in taking intellectual risks without fear of negative consequences such as ridicule or punishment for failure. This encourages experimentation and learning from mistakes.
+1. **[[concepts/Psychological Safety|Psychological Safety]]**: An Ambition Shelter prioritizes psychological safety, ensuring that employees feel secure in taking intellectual risks without fear of negative consequences such as ridicule or punishment for failure. This encourages experimentation and learning from mistakes.
 
 2. **Resource Allocation**: It involves allocating necessary resources—like time, budget, tools, and personnel—to support innovative projects. This includes not just financial resources, but also human capital and access to expertise.
 

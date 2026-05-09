@@ -1,14 +1,22 @@
 ---
 date_created: 2025-09-05
-date_modified: 2025-09-05
+date_modified: 2026-05-09
 site_uuid: cf4f33b5-7290-4087-85e3-6d7e461d0269
 publish: true
 title: Legacy System Modernization
 slug: legacy-system-modernization
 at_semantic_version: 0.0.1.1
 augmented_with: Perplexity AI
+aliases:
+  - Legacy Systems
+tags:
+  - Management-Strategies
+  - Enterprise-Wide
+  - Enterprise-Resource-Planning
+for_clients:
+  - Laerdal
+  - Param
 ---
-
 
 ***
 > [!info] **Perplexity Query** (2025-09-05T13:28:27.010Z)
@@ -24,7 +32,7 @@ Legacy System Modernization is the process of upgrading or transforming outdated
 
 Legacy system modernization is essential because legacy platforms, while historically reliable, often lack the flexibility, scalability, and security demanded by today's digital-first environment. [^d1f6or] [^hwzb4y] At its core, modernization involves updating software, hardware, or both, to enable integration with modern tools and technologies. For example, a large financial institution might replace a decades-old mainframe that processes daily transactions with a cloud-based, modular banking platform. This shift not only enhances real-time data access and supports remote working but also allows seamless integration with new fintech services.
 
-In the healthcare sector, modernizing legacy systems can support electronic health records (EHRs) integration, improving patient care coordination and data security. [^hwzb4y] Similarly, in manufacturing, shifting from outdated inventory tracking software to a cloud-based enterprise resource planning (ERP) system enables real-time supply chain visibility and analytics-driven decision-making. [^0r9xwf]
+In the healthcare sector, modernizing legacy systems can support electronic health records (EHRs) integration, improving patient care coordination and data security. [^hwzb4y] Similarly, in manufacturing, shifting from outdated inventory tracking software to a cloud-based enterprise resource planning ([[Vocabulary/Enterprise Resource Planning|[ERP, ERPs]]]) system enables real-time supply chain visibility and analytics-driven decision-making. [^0r9xwf]
 
 Key benefits of legacy system modernization include:
 - **Enhanced operational efficiency and performance**: Modern systems reduce downtime and streamline workflows, resulting in faster service delivery and improved user collaboration. [^d1f6or] [^hwzb4y]

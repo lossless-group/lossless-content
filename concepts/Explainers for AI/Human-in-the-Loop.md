@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-28
-date_modified: 2025-08-28
+date_modified: 2026-05-06
 aliases: [human in the loop, HITL, Human in the Loop]
 site_uuid: 88599226-1d46-49f2-8fbc-ff8c30aa8f02
 publish: true
@@ -62,7 +62,7 @@ augmented_with: Perplexity AI
 
 - In **autonomous vehicles**, most driving is automated, but in certain situations (unusual weather, unpredictable objects), **the system may prompt a human operator to intervene or make the final call**. [^wdjx2c]
 - In **customer service chatbots**, the bot handles common queries, but routes complex or emotionally sensitive cases to a human agent.
-  *Both examples typically use a visual dashboard (as in [IMAGE 2]) to show when and how human agents are brought "in the loop."*
+  *Both examples typically use a visual dashboard to show when and how human agents are brought "in the loop."*
 
 ---
 
