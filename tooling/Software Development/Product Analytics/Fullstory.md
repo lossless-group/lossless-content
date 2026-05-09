@@ -16,5 +16,5 @@ site_name: Fullstory
 [[concepts/Explainers for Tooling/Web Analytics|Web Analytics]]
 [[Vocabulary/Product Analytics|Product Analytics]]
 
-[[concepts/Explainers for AI/AI Powered Sentiment Analyzers]]
+[[concepts/Explainers for AI/AI Powered Sentiment Analyzers|AI Powered Sentiment Analyzers]]
 

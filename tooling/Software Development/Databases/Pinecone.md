@@ -18,4 +18,4 @@ publish: true
 slug: pinecone-db
 title: Pinecone
 ---
-[[Tooling/Software Development/Databases/ChromaDB|ChromaDB]]
+[[ChromaDB|ChromaDB]]

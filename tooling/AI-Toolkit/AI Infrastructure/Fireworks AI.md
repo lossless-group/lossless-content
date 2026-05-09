@@ -7,14 +7,22 @@ site_name: Fireworks
 title: Fastest Inference for Generative AI
 date_modified: 2025-10-18
 date_created: 2025-03-30
-tags: [AI-Toolkit, AI-Infrastructure]
+tags:
+  - AI-Toolkit
+  - AI-Infrastructure
+  - AI-Model-APIs
+  - Agent-Cloud-Providers
+  - Check-It-Out
 og_title: Fastest Inference for Generative AI
 og_description: Use state-of-the-art, open-source LLMs and image models at blazing fast speed, or fine-tune and deploy your own at no additional cost with Fireworks AI!
 og_image: https://cdn.sanity.io/images/pv37i0yn/production/c33db052f8afd1af58bc0342cf8ce06cbeb84467-600x314.png
 og_favicon: https://fireworks.ai/icon1.png?5430c244b88961c5
 og_last_fetch: 2025-10-18T13:46:13.446Z
+for_clients:
+  - Param
+  - Laerdal
 ---
-
+> Surpass closed models when you train and run your models on Fireworks’ frontier inference platform
 
 
 

@@ -7,10 +7,18 @@ og_description: Umami is a simple, fast, privacy-friendly alternative to Google 
 og_image: http://localhost:3000/opengraph-image-j8qpfc.png?5cc23a73895b1195
 og_favicon: https://umami.is/favicon-32x32.png
 og_last_fetch: 2025-09-17T17:17:19.562Z
-tags: [Web-Analytics, Developer-Tools, Open-Source-Alternatives, Check-It-Out]
+tags:
+  - Web-Analytics
+  - Developer-Tools
+  - Open-Source-Alternatives
+  - Check-It-Out
+  - Privacy-First
 for_clients:
   - Hypernova
   - The-Water-Foundation
   - Avalanche
   - Parslee
+  - Lossless
+  - FullStackVC
+github_repo_url: https://github.com/umami-software/umami
 ---

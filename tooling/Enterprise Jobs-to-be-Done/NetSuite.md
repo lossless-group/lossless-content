@@ -18,4 +18,4 @@ title: NetSuite
 slug: netsuite
 at_semantic_version: 0.0.0.1
 ---
-[[concepts/Explainers for Tooling/Enterprise Resource Planning|Enterprise Resource Planning]]
+[[Vocabulary/Enterprise Resource Planning|Enterprise Resource Planning]]

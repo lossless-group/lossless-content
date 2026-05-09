@@ -69,5 +69,5 @@ description_site_cp: AI driven enterprise cloud software for companies who want 
 
 
 [[Current Stack]]
-[[concepts/Explainers for Tooling/Enterprise Resource Planning|ERP]]
+[[Vocabulary/Enterprise Resource Planning|ERP]]
 

@@ -1,8 +1,16 @@
 ---
 url: https://deepgram.com/
 date_created: 2025-08-04
-date_modified: 2025-08-04
-tags: [Text-To-Speech, Voice-Generators, Voice-Agents, Speech-To-Text, API-based-Services, Model-APIs, AI-Toolkit]
+date_modified: 2026-05-08
+tags:
+  - Text-To-Speech
+  - Voice-Generators
+  - Voice-Agents
+  - Speech-To-Text
+  - API-based-Services
+  - Model-APIs
+  - AI-Toolkit
+  - Enterprise-AI
 og_title: "Enterprise Voice AI: STT, TTS & Agent APIs"
 og_description: Power enterprise voice solutions with Deepgram’s Speech-to-Text, Text-to-Speech, and Voice Agent APIs. Real-time, accurate, and built for scale.
 og_image: https://www.datocms-assets.com/96965/1744727525-open-graph-deepgram-homepage.jpg
@@ -13,4 +21,9 @@ publish: true
 title: Deepgram
 slug: deepgram
 at_semantic_version: 0.0.0.1
+for_clients:
+  - Laerdal
+  - Param
+  - Dynamiq
+  - Lossless
 ---

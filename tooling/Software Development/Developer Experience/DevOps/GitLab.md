@@ -38,7 +38,7 @@ Your observation about GitHub performance issues is well-documented. In April 20
 Beyond GitHub and GitLab, several alternatives are gaining attention:[^tcpe4e] [^mqfpm1]
 
 **Self-Hosted Options**:
-- **[[Gitea]]/[[Tooling/Software Development/Developer Experience/Forgejo|Forgejo]]**: Lightweight, single-binary Git hosting with minimal dependencies; Forgejo is a community-governed fork of Gitea emphasizing independence[^ky46w5] [^tcpe4e]
+- **[[Tooling/Software Development/Developer Experience/Gitea]]/[[Tooling/Software Development/Developer Experience/Forgejo|Forgejo]]**: Lightweight, single-binary Git hosting with minimal dependencies; Forgejo is a community-governed fork of Gitea emphasizing independence[^ky46w5] [^tcpe4e]
 - **[[projects/Emergent-Innovation/Codeberg|Codeberg]]**: Nonprofit, community-owned platform running Forgejo; designed for FOSS projects with donation-based funding[^d3ll8d] [^c2mp9d]
 
 **Cloud Platforms**:

@@ -18,7 +18,7 @@ tags:
   - Enterprise-Resource-Planning
 ---
 
-[[concepts/Explainers for Tooling/Enterprise Resource Planning|ERP]]
+[[Vocabulary/Enterprise Resource Planning|ERP]]
 
 From [[Poe AI]]:
 

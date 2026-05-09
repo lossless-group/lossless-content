@@ -10,12 +10,16 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:06.723Z
 jina_error: Error occurred
 og_last_fetch: 2025-06-06T13:54:19.210Z
-date_modified: 2026-01-19
+date_modified: 2026-05-07
 date_created: 2025-03-30
 og_image: https://v2.tauri.app/og.png?v=1
 og_url: https://v2.tauri.app/
 description: The cross-platform app building toolkit
-tags: [Software-Development]
+tags:
+  - Software-Development
+  - Cross-Platform-Framework
+  - Rust-Ecoystem
+  - Must-Have
 for_clients:
   - Laerdal
   - Param
