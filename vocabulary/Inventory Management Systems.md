@@ -26,7 +26,7 @@ tags: [Logistics-AI, CPG-Innovations]
 ### Main Software Categories Used in Inventory Management
 
 - **Enterprise Resource Planning (ERP) Systems**  
-  [[concepts/Explainers for Tooling/Enterprise Resource Planning|ERPs]] like SAP S/4HANA, NetSuite, Microsoft Dynamics 365, Acumatica, BatchMaster, and Deacom are central to CPG inventory management. They combine modules for inventory tracking, procurement, production, sales, compliance, finance, and reporting—providing end-to-end visibility and automation across large organizations. [^am6p4z] [^u1qwst] [^5ui06h] [^q8ypp8]
+  [[Vocabulary/Enterprise Resource Planning|ERPs]] like SAP S/4HANA, NetSuite, Microsoft Dynamics 365, Acumatica, BatchMaster, and Deacom are central to CPG inventory management. They combine modules for inventory tracking, procurement, production, sales, compliance, finance, and reporting—providing end-to-end visibility and automation across large organizations. [^am6p4z] [^u1qwst] [^5ui06h] [^q8ypp8]
 
 - **Warehouse Management Systems (WMS)**  
   WMS software specializes in controlling operations inside distribution centers: inventory movement, barcode/RFID integration, slotting, picking, packing, automated cycle counting, and labor management. These systems often integrate with ERPs for a unified inventory picture. [^am6p4z] [^5ui06h]

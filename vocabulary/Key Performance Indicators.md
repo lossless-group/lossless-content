@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-17
-date_modified: 2025-08-17
+date_modified: 2026-05-07
 aliases: [KPI, KPIs, Key Performance Indicator]
 authors:
   - Michael Staton
@@ -12,6 +12,8 @@ slug: key-performance-indicators
 at_semantic_version: 0.0.1.0
 tags: [Founder-Toolkit]
 ---
+![AARRR! Pirate Metrics for Startups, a framework by Dave Mcclure](https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-05/Key_Performance_Indicators_content_1778117496622_wzCAo1fzV.webp)
+Source: [[Sources/People/Influencers/Dave McClure|Dave McClure]]
 
 ***
 > [!info] **Perplexity Query** (2025-08-17T03:30:44.019Z)

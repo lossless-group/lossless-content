@@ -1,7 +1,15 @@
 ---
 date_created: 2025-03-29
-date_modified: 2025-08-17
+date_modified: 2026-05-09
 site_uuid: 07967c71-9043-45bb-8b40-2d5433aee9ae
+aliases:
+  - Agentic Retrieval Augmented Generation
+tags:
+  - Agentic-AI
+  - Enterprise-Agents
+  - RAG
+  - RAG-Stack
+  - Explainers
 ---
 [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Vectara|Vectara]]
 
