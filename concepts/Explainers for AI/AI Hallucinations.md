@@ -1,10 +1,13 @@
 ---
 date_created: 2025-03-28
-date_modified: 2025-08-27
+date_modified: 2026-05-09
 site_uuid: 89cb2a60-6f64-418d-a3b9-deba5b817fbe
-aliases: [Hallucinations, Hallucination]
+aliases:
+  - Hallucinations
+  - Hallucination
+  - Hallucinating
 ---
-[[concepts/Explainers for AI/AI Safety]]
+[[concepts/Explainers for AI/AI Safety|AI Safety]]
 [[Tooling/AI-Toolkit/Model Producers/Safe Superintelligence|Safe Superintelligence]]
 ***
 > [!info] **Perplexity Query** (2025-08-12T03:41:34.237Z)
@@ -23,7 +26,7 @@ AI hallucinations are errors where an AI system produces confident but incorrect
 
 At their core, hallucinations stem from how [[Vocabulary/Generative AI|Generative AI]] models work: [[Vocabulary/Large Language Models|Large Language Models]] (LLMs) predict the next token from patterns in data rather than “knowing” ground truth, so they can fill gaps or smooth over uncertainty with fluent but false statements. [^bfu7vm] This manifests across media types: text models may invent citations or events; image generators may add anatomical errors like extra fingers; and audio models may introduce artifacts when reconstructing waveforms from spectrograms. [^46qmee]
 
-Practical examples illustrate the range and risk. Text chatbots have fabricated scholarly references that do not exist, presenting them as real, a common failure in academic contexts. [^46qmee] Case studies include defamatory fabrications about individuals—mixing real details with made‑up crimes—illustrating how unverified generation can cause serious harm. [^3f95n2] In audio, even strong models like Whisper can “hear” nonexistent phrases in noisy input, likely overgeneralizing when uncertain, which is dangerous in medical transcription. [^3f95n2]
+Practical examples illustrate the range and risk. Text [[concepts/Explainers for AI/AI-Powered Chatbots|AI-Powered Chatbots]] have fabricated scholarly references that do not exist, presenting them as real, a common failure in academic contexts. [^46qmee] Case studies include defamatory fabrications about individuals—mixing real details with made‑up crimes—illustrating how unverified generation can cause serious harm. [^3f95n2] In audio, even strong models like Whisper can “hear” nonexistent phrases in noisy input, likely overgeneralizing when uncertain, which is dangerous in medical transcription. [^3f95n2]
 
 Despite risks, generative AI offers benefits when paired with safeguards. Useful applications include drafting and summarization with verifiable sources, coding assistance with unit tests, and creative ideation where factual precision is less critical. [^634vgu] In vision and audio, models enable rapid concept art, localization, and accessibility features like captioning—provided outputs are reviewed. [^46qmee] Effective mitigation combines techniques: human‑in‑the‑loop review in high‑stakes tasks, constrained generation (schemas, retrieval‑augmented generation, tool use), domain‑specific data curation, toxicity and prompt filtering, and entity‑level fact validation against trusted knowledge bases before display. [^3f95n2] Educating users to verify citations and to ask models to show sources or admit uncertainty further reduces downstream errors. [^46qmee]
 

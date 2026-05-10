@@ -12,7 +12,7 @@ A methodology concocted by [[client-content/Laerdal/Sources/Laerdal Entities/The
 
 This is an extension of [[concepts/Explainers for AI/Context Engineering|Context Engineering]], which is an extension of [[Vocabulary/Vibe Coding|Vibe Coding]].
 
-It is designed to mitigate the frustrations of [[Vocabulary/AI Hallucinations|AI Hallucinations]], assure [[Vocabulary/Component-Based Software Architecture|Component-Based Software Architecture]], the [[concepts/DRY Principle|DRY Principle]], and maintain consistent project patterns. 
+It is designed to mitigate the frustrations of [[concepts/Explainers for AI/AI Hallucinations|AI Hallucinations]], assure [[Vocabulary/Component-Based Software Architecture|Component-Based Software Architecture]], the [[concepts/DRY Principle|DRY Principle]], and maintain consistent project patterns. 
 
 
 ```tree

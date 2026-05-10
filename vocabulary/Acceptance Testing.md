@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-28
-date_modified: 2025-10-14
+date_modified: 2026-05-10
 site_uuid: 36b3922d-33fd-4dc9-982d-1a861b353a81
 ---
 ![Approved Agreement Allowed Validation Concept](https://www.freepik.com/free-photo/approved-agreement-allowed-validation-concept_18044379.htm)
@@ -79,7 +79,7 @@ site_uuid: 36b3922d-33fd-4dc9-982d-1a861b353a81
 
 #### Acceptance Testing Tools
 
-1. **[[Tooling/Software Development/Developer Experience/DevTools/Cucumber]]:**
+1. **[[Tooling/Software Development/Developer Experience/DevTools/Cucumber|Cucumber]]:**
     
     - A BDD tool that uses plain-text specifications written in Gherkin language.
     - Works with multiple languages (e.g., Ruby, Java, JavaScript).
@@ -88,11 +88,11 @@ site_uuid: 36b3922d-33fd-4dc9-982d-1a861b353a81
     
     - A tool for automating browsers, often used for acceptance tests of web applications.
     - Integrates with languages like Java, Python, and JavaScript.
-3. **[[Tooling/Software Development/Robot Framework]]:**
+3. **[[Tooling/Software Development/Robot Framework|Robot Framework]]:**
     
     - A generic test automation framework that supports acceptance testing and ATDD (Acceptance Test-Driven Development).
     - Extensible with libraries for web, database, and API testing.
-4. **[[Tooling/Software Development/Developer Experience/DevOps/FitNesse]]:**
+4. **[[Tooling/Software Development/Developer Experience/DevOps/FitNesse|FitNesse]]:**
     
     - A wiki-based test framework that allows stakeholders to write acceptance tests directly.
 
@@ -114,16 +114,16 @@ site_uuid: 36b3922d-33fd-4dc9-982d-1a861b353a81
 2. **GitHub Actions:**
     
     - A CI/CD platform tightly integrated with GitHub, allowing you to automate testing workflows.
-3. **[[Tooling/Software Development/Developer Experience/DevOps/CircleCI]]:**
+3. **[[Tooling/Software Development/Developer Experience/DevOps/CircleCI|CircleCI]]:**
     
-    - A CI/CD platform that supports parallel test execution and integration with various tools.
+    - A [[concepts/Continuous Integration and Continuous Delivery|CI/CD]] platform that supports parallel test execution and integration with various tools.
 
 #### Plugins for AI Code Generators
 
-1. **Codex Guardrails (Custom Scripts):**
+1. **[[Tooling/AI-Toolkit/Generative AI/Code Generators/Codex|Codex]] Guardrails (Custom Scripts):**
     
     - Custom scripts that can integrate with AI tools like OpenAI Codex to enforce testing before code merges.
-2. **GitHub Copilot + Testing Plugins:**
+2. **[[Tooling/AI-Toolkit/Generative AI/Code Generators/GitHub Copilot|GitHub Copilot]] + Testing Plugins:**
     
     - Pairing GitHub Copilot with tools like Jest or Mocha ensures that AI-generated code is tested automatically.
 

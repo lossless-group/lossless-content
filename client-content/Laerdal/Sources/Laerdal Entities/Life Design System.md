@@ -8,7 +8,7 @@ The [[client-content/Laerdal/Sources/Laerdal Entities/Digital Business Unit]] an
 Main challenges and barriers for faster execution are legacy systems that cannot implement React components (e.g. LLEAP, initial e-commerce website).
 Example of how we work around this: For the navigation project building blocks are created as web components, so they can be used across (as React is not compatible with Vue (e-commerce))
 
-The [[client-content/Laerdal/Sources/Laerdal Entities/Life Design System]] is a key part Laerdal implementing [[Vocabulary/Atomic Design|Atomic Design]]
+The [[client-content/Laerdal/Sources/Laerdal Entities/Life Design System]] is a key part Laerdal implementing [[concepts/Atomic Design|Atomic Design]]
 
 
 

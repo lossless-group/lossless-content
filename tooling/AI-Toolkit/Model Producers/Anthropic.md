@@ -10,7 +10,7 @@ zinger: A better future with AI
 favicon: https://www.anthropic.com/favicon.ico
 og_fetched_url: https://www.anthropic.com
 og_last_fetch: 2025-05-28T22:49:53.467Z
-date_modified: 2026-05-04
+date_modified: 2026-05-09
 date_created: 2025-03-31
 og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Anthropic_og_screenshot.jpeg
 og_image: https://cdn.prod.website-files.com/67ce28cfec624e2b733f8a52/68309ab48369f7ad9b4a40e1_open-graph.jpg
@@ -24,9 +24,12 @@ augmented_with: "[[organizations/Perplexity AI|Perplexity AI]]"
 [[concepts/Explainers for AI/Agent Skills|Agent Skills]]
 
 [[concepts/Explainers for AI/Model Context Protocol|Model Context Protocol]]
+
+[[concepts/Explainers for AI/Constitutional AI|Constitutional AI]]
+
 ## [[organizations/Perplexity AI|Perplexity AI]] Explains
 
-Anthropic, an AI safety and research company, has released several notable AI models under the "Claude" family since 2023. Below is a timeline of their model releases:
+Anthropic, an AI safety and research company, has released several notable AI models under the "[[Tooling/AI-Toolkit/Models/Claude|Claude]]" family since 2023. Below is a timeline of their model releases:
 
 ### **2023**
 - **March**: Initial release of **Claude** and **Claude Instant**, with Claude Instant being a lightweight version designed for faster responses. [^fflo12]

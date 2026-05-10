@@ -2,7 +2,7 @@
 site_channel:
   - Keeping-Up
 date_created: 2025-03-15
-date_modified: 2025-08-28
+date_modified: 2026-05-09
 site_uuid: ca6eed65-4ae5-4c20-bb47-efbcaa5d2524
 title: A New API Standard for chaining AI -- Model Context Protocol
 lede: Chain and sequence AI operations with Model Context Protocol, a game-changer for AI use and code generation.
@@ -24,16 +24,19 @@ Anthropic launched the Model Context Protocol on November 25, 2024 as an [[conce
 
 Related: [[concepts/Explainers for AI/Model Context Protocol|Model Context Protocol]], [[Tooling/AI-Toolkit/Model Producers/Anthropic|Anthropic]], [[concepts/Explainers for AI/Chain of Draft|Chain of Draft]]
 
+[[Tooling/AI-Toolkit/MCP.so|MCP.so]]
+[[concepts/Explainers for AI/MCP Servers|MCP Servers]]
+
 ## What is the Model Context Protocol (MCP)?
 
 The **Model Context Protocol (MCP)** is an open standard developed to enable secure, two-way integration between AI-powered applications (such as large language models and agents) and external data sources, tools, and services. Its primary goal is to standardize how AI systems access, retrieve, and act on real-world data, replacing the fragmented, custom integrations that previously dominated the ecosystem. [^8cac05] [^b51563] [^b479a8] [^081ad2]
 
-MCP draws inspiration from the Language Server Protocol (LSP), which unified how code editors interact with programming languages. Similarly, MCP provides a universal [[projects/Augment-It/High-Level-Architecture/API|API]] for connecting AI models with external systems, transforming the integration challenge from an “M×N” problem (each app to each tool) to an “M+N” problem (apps and tools each implement MCP once). [^b479a8] [^026f85] [^081ad2]
+MCP draws inspiration from the [[concepts/Explainers for AI/Language Server Protocol|Language Server Protocol]] (LSP), which unified how code editors interact with programming languages. Similarly, MCP provides a universal [[projects/Augment-It/High-Level-Architecture/API|API]] for connecting AI models with external systems, transforming the integration challenge from an “M×N” problem (each app to each tool) to an “M+N” problem (apps and tools each implement MCP once). [^b479a8] [^026f85] [^081ad2]
 
 ### How MCP Works
 
 - **Architecture:** MCP uses a client-server model:
- - **Host applications:** LLM-powered tools (e.g., [[Tooling/AI-Toolkit/Models/Claude|Claude]] Desktop, Copilot, AI IDEs).
+ - **Host applications:** LLM-powered tools (e.g., [[Tooling/AI-Toolkit/Models/Claude|Claude]] Desktop, [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Microsoft Copilot|Microsoft Copilot]], AI IDEs).
  - **MCP clients:** Embedded in hosts, these handle communication with MCP servers.
  - **[[concepts/Explainers for AI/MCP Servers|MCP Servers]]:** Expose data, tools, or functions to AI systems via a standardized interface.
  - **Transport:** Communication occurs over JSON-RPC 2.0, using either local (STDIO) or remote (HTTP + SSE) channels. [^b51563] [^026f85]
@@ -50,7 +53,7 @@ MCP has seen rapid adoption across major technology companies, AI platforms, and
 | Company/Service                                                                                                                                                                                                                                                    | Adoption Details                                                                                                     | Source/Announcement |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- | ------------------- |
 | **[[Tooling/AI-Toolkit/Model Producers/Anthropic\|Anthropic]]**                                                                                                                                                                                                    | Creator of MCP; integrated into Claude Desktop and open-sourced core SDKs and servers                                | [^8cac05] [^b9fb3b] |
-| **Block ([[vertical-toolkits/FinTech/Square]])**                                                                                                                                                                                                                                             | Early adopter, using MCP to build agentic systems for business automation                                            | [^8cac05]           |
+| **Block ([[vertical-toolkits/FinTech/Square]])**                                                                                                                                                                                                                   | Early adopter, using MCP to build agentic systems for business automation                                            | [^8cac05]           |
 | **[[Tooling/Enterprise Jobs-to-be-Done/Apollo\|Apollo]]**                                                                                                                                                                                                          | Integrated MCP for enhanced AI-driven workflows                                                                      | [^8cac05]           |
 | **[[organizations/Microsoft\|Microsoft]]**                                                                                                                                                                                                                         | Adopted MCP in Copilot Studio and Azure AI Foundry Agent Service for seamless agent integration across Microsoft 365 | [^b778b7] [^3222d7] |
 | **Amazon [[Tooling/Software Development/Cloud Infrastructure/Amazon Web Services\|AWS]]**                                                                                                                                                                          | Integrated MCP into AWS Bedrock agents for enterprise-scale, context-aware AI                                        | [^b778b7] [^8d2e1f] |
@@ -60,16 +63,16 @@ MCP has seen rapid adoption across major technology companies, AI platforms, and
 | **[[Tooling/Software Development/Cloud Infrastructure/Cloudflare\|Cloudflare]]**                                                                                                                                                                                   | Integrated MCP for AI-driven security and automation workflows                                                       | [^b9fb3b]           |
 | **[[Tooling/AI-Toolkit/Generative AI/Code Generators/Zed\|Zed]], [[Tooling/Software Development/Cloud Infrastructure/Replit\|Replit]], [[organizations/Codeium\|Codeium]], [[Tooling/Software Development/Developer Experience/DevOps/Sourcegraph\|Sourcegraph]]** | Enhanced AI coding assistants with MCP for deeper context and tool integration                                       | [^8cac05] [^ce07e9] |
 | **[[Tooling/AI-Toolkit/Model Producers/OpenAI\|OpenAI]], Google [[organizations/DeepMind\|DeepMind]]**                                                                                                                                                             | Announced MCP support for their AI platforms                                                                         | [^081ad2] [^cecf76] |
-| **Windows 11**                                                                                                                                                                                                                                                     | Previewed MCP as a foundational layer for secure, interoperable agentic apps                                         | [^91430e]           |
+| **[[Windows 11]]**                                                                                                                                                                                                                                                 | Previewed MCP as a foundational layer for secure, interoperable agentic apps                                         | [^91430e]           |
 
 ## Recent Company Blog Announcements
 
 - **Anthropic**: [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol) — Official announcement, architecture, and open-source SDKs. [^8cac05]
 - **AWS**: [Unlocking the power of Model Context Protocol (MCP) on AWS](https://aws.amazon.com/blogs/machine-learning/unlocking-the-power-of-model-context-protocol-mcp-on-aws/) — Detailed overview and enterprise use cases. [^8d2e1f]
 - **Microsoft**: [Announcing Model Context Protocol Support (preview) in Azure AI Foundry Agent Service](https://devblogs.microsoft.com/foundry/announcing-model-context-protocol-support-preview-in-azure-ai-foundry-agent-service/) — Preview announcement for Azure AI Foundry. [^3222d7]
-- **Atlassian**: [Introducing Atlassian's Remote Model Context Protocol](https://www.atlassian.com/blog/announcements/remote-mcp-server) — Announcement of MCP integration for Atlassian products. [^b055c1]
+- **[[organizations/Atlassian|Atlassian]]**: [Introducing Atlassian's Remote Model Context Protocol](https://www.atlassian.com/blog/announcements/remote-mcp-server) — Announcement of MCP integration for Atlassian products. [^b055c1]
 - **Windows Blog**: [Securing the Model Context Protocol: Building a safer agentic future on Windows](https://blogs.windows.com/windowsexperience/2025/05/19/securing-the-model-context-protocol-building-a-safer-agentic-future-on-windows/) — Early preview of MCP in Windows 11. [^91430e]
-- **Cloudflare**: [Early Adopters of the Model Context Protocol (MCP) & Open-Source Implementations](https://ardor.cloud/blog/early-adopters-mcp-open-source-implementations) — Overview of open-source MCP projects and industry adoption. [^b9fb3b]
+- **[[Tooling/Software Development/Cloud Infrastructure/Cloudflare|Cloudflare]]**: [Early Adopters of the Model Context Protocol (MCP) & Open-Source Implementations](https://ardor.cloud/blog/early-adopters-mcp-open-source-implementations) — Overview of open-source MCP projects and industry adoption. [^b9fb3b]
 
 ## Summary
 

@@ -24,7 +24,7 @@ Your perception is accurate—GitHub still dominates the developer ecosystem wit
 
 GitLab has grown revenue 26-31% annually over the past two years, reaching $955 million in fiscal 2026. Several factors explain this growth:[^a1ex0c] [^o7zu3k][^g9vawg] [^j9g23j]
 
-- **Integrated [[concepts/DevSecOps|DevSecOps]] platform**: GitLab bundles [[concepts/Continuous Integration and Continuous Delivery|CI/CD]], container registry, security scanning ([[SAST]], [[DAST]]), and deployment tools in a single platform, reducing context-switching compared to GitHub's marketplace-dependent approach
+- **Integrated [[concepts/DevSecOps|DevSecOps]] platform**: GitLab bundles [[concepts/Continuous Integration and Continuous Delivery|CI/CD]], container registry, security scanning ([[SAST]], [[Vocabulary/Dynamic Application Security Testing]]), and deployment tools in a single platform, reducing context-switching compared to GitHub's marketplace-dependent approach
 - **Self-hosting advantages**: GitLab Community Edition allows free self-hosting anywhere, while GitHub Enterprise Server requires paid licenses plus infrastructure costs
 - **CI/CD maturity**: GitLab CI/CD is more mature and integrated than GitHub Actions, making it popular with teams prioritizing automation pipelines
 - **Java developer preference**: Over 35% of [[Tooling/Software Development/Programming Languages/Java|Java]] developers opt for GitLab, indicating strong penetration in enterprise environments[^k8md0v]

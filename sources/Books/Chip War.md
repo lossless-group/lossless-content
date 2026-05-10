@@ -1,7 +1,7 @@
 ---
 amazon_url: https://www.amazon.com/Chip-War-Worlds-Critical-Technology/dp/1982172002
 date_created: 2025-04-18
-date_modified: 2025-12-10
+date_modified: 2026-05-10
 site_uuid: d89ee344-c7f6-438b-afcf-f597d59a6299
 title: Chip War
 slug: chip-war
@@ -85,7 +85,7 @@ In summary, *Chip War* is both a history and a warning, arguing that controlling
 >
 >“Senate Democrats and Republicans both know that the 21st century will be defined by whether the leading AI systems are built on values of free societies and free markets or the repressive, authoritarian values of the Chinese Communist Party. The Trump administration clearly doesn’t grasp the urgency of this contest. President Trump must reverse course and recommit to preserving American dominance in AI.” [^v78hd2]
 
-
+***
 ### Citations
 
 [^mlrpo1]: 2025, Sep 06. [What Do We Learn about Capitalism from Chip War? - Monthly Review](https://monthlyreview.org/2023/11/01/what-do-we-learn-about-capitalism-from-chip-war/). Published: 2023-11-01 | Updated: 2025-09-06

@@ -1,7 +1,7 @@
 ---
 url: https://bun.sh
 date_created: 2025-03-21
-date_modified: 2026-05-06
+date_modified: 2026-05-09
 site_uuid: dddb67a8-6334-4041-8576-66c1f0686078
 og_title: A fast all-in-one JavaScript runtime
 og_image: https://bun.sh/share_v3.png
@@ -16,6 +16,7 @@ tags:
   - JavaScript
   - Runtime
   - Must-Have
+  - Influencer-Favorites
 image: https://bun.sh/share_v3.png
 jina_last_request: 2025-03-09T06:45:11.005Z
 jina_error: Error occurred

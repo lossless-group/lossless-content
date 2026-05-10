@@ -3,7 +3,7 @@ date_created: 2025-08-08
 date_modified: 2025-11-14
 tags: [Omnichannel-Marketing]
 ---
-[[concepts/Channel Fragmentation|Channel Fragmentation]]
+[[concepts/Marketing Channel Fragmentation|Marketing Channel Fragmentation]]
 [[Tooling/Enterprise Jobs-to-be-Done/Klaviyo|Klaviyo]]
 
 

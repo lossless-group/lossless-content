@@ -15,4 +15,4 @@ Active [[concepts/User Forums]]
 [[concepts/Coherence]] also usually contains the following observed features:
 A commitment to [[Open Source]], and using [[Open Source]] as a way to mobilize innovators and the developer community. 
 [[Come one, come all]] ways to produce or contribute through [[concepts/Platform Mechanisms]]. 
-A commitment to [[Educate the Customer]] media, particularly on [[YouTube]] that is most effective when produced by [[Evangelists]].
+A commitment to [[concepts/Educate the Customer]] media, particularly on [[YouTube]] that is most effective when produced by [[Evangelists]].

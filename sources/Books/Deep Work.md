@@ -2,7 +2,7 @@
 amazon-url: https://www.amazon.com/dp/B0189PVAWY?ref_=cm_sw_r_ffobk_cp_ud_dp_AYX8G6WYWJ9R1SNJKC07
 full-title: "Deep Work: Rules for Focused Success in a Distracted World"
 date_created: 2025-04-19
-date_modified: 2025-05-29
+date_modified: 2026-05-10
 ---
 
 Basically, minimize [[concepts/Drag]] and allocate large blocks of time to focus.  
@@ -170,5 +170,3 @@ According to [[Poe AI]]:
 > ### **Conclusion**
 > 
 > Deep work is a scientifically grounded approach to achieving peak productivity and mastering cognitively demanding tasks. By eliminating distractions, focusing intensely, and engaging in deliberate practice, individuals can achieve higher-quality results, faster skill development, and greater personal fulfillment. In a world dominated by shallow work, cultivating the ability to focus deeply is not just a productivity hack—it is a superpower.
-
-Share

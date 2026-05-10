@@ -1,6 +1,6 @@
 ---
 date_created: 2025-07-29
-date_modified: 2026-05-04
+date_modified: 2026-05-09
 site_uuid: 4c7f4ee7-b2d4-489c-bb64-d0f7e5f268ef
 publish: true
 title: Image Gin (Obsidian Community Plugin)
@@ -13,3 +13,5 @@ at_semantic_version: 0.0.0.1
 
 
 ![Image Selector Modal as of v0.1.0, May 2026](https://i.imgur.com/IvhIL2F.png)
+
+![](https://i.imgur.com/jaZ4UfS.png)

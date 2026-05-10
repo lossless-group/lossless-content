@@ -42,7 +42,7 @@ The benefits are compelling: It slashes costs by up to 50-70% through pay-as-you
 ![Practical example or use case visualization](https://images.squarespace-cdn.com/content/v1/5cd8b72c65a707a8fbfe11d2/a4e4aee9-47de-4a50-9694-09c5d944f58c/What+is+API-as-a-Service%3F.png)
 
 ## Current State and Trends
-APIaaS adoption is surging, driven by cloud-native architectures and microservices, with the API management market projected to exceed $10 billion by 2026. [^z74dfm] Key players include AWS [[API Gateways]] for scalable, fully managed APIs handling millions of calls; Backendless for no-code API building; and Tyk for secure, developer-friendly gateways. [^yqvcf8] [^z74dfm] [^upmpr2] Recent trends emphasize AI integration for auto-generated APIs and serverless computing, as seen in platforms streamlining microservices for resilient, language-agnostic deployments. [^fjjk4p] [^o4qekz]
+APIaaS adoption is surging, driven by cloud-native architectures and microservices, with the API management market projected to exceed $10 billion by 2026. [^z74dfm] Key players include AWS [[Vocabulary/API Gateways]] for scalable, fully managed APIs handling millions of calls; Backendless for no-code API building; and Tyk for secure, developer-friendly gateways. [^yqvcf8] [^z74dfm] [^upmpr2] Recent trends emphasize AI integration for auto-generated APIs and serverless computing, as seen in platforms streamlining microservices for resilient, language-agnostic deployments. [^fjjk4p] [^o4qekz]
 
 ![Additional supporting visual content](https://images.squarespace-cdn.com/content/v1/5cd8b72c65a707a8fbfe11d2/823f9dad-bcbb-4a23-8198-6e526793fc80/What+is+an+API%3F.png)
 

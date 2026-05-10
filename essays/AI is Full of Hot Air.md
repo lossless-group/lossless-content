@@ -1,7 +1,7 @@
 ---
 category: "Avoid and Peril"
 date_created: 2024-11-11
-date_modified: 2026-05-07
+date_modified: 2026-05-09
 tags: [Near-Future-Anticipation]
 title: "AI is full of Hot Air."
 lede: "From hallucinations to probabilistic creativity, to the need to fulfill its trained duty.  AI Models can just make things up.  Sometimes amazingly, sometimes catastrophically."
@@ -24,7 +24,11 @@ square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/AI_is_Full
 
 ![The Research Agent didn't research, just made excuses!](https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/AI_is_Full_of_Hot_Air_content_1763300335910_0Ho5MRDej.webp)
 
-> "AI responses may include mistakes." - Google Search
+
+ Text [[concepts/Explainers for AI/AI-Powered Chatbots|AI-Powered Chatbots]] have fabricated scholarly references that do not exist, presenting them as real, a common failure in academic contexts. [^46qmee]
+
+
+> "AI responses may include mistakes." - Google Search, April 29, 2026
 
 
 > [!llm-response] From Microsoft's Phi model when asked about Excel
@@ -259,4 +263,5 @@ The field is rapidly evolving, with new techniques emerging to make AI systems m
 [^ier7p9]: [Teaching AI models what they don't know | MIT News](https://news.mit.edu/2025/themis-ai-teaches-ai-models-what-they-dont-know-0603)
 [^euqtl6]: [Why Hallucinations Matter: Misinformation, Brand Safety and ...](https://scet.berkeley.edu/why-hallucinations-matter-misinformation-brand-safety-and-cybersecurity-in-the-age-ofgenerative-ai/)
 [^c11y5m]: [KnowHalu: Hallucination Detection via Multi-Form Knowledge ...](https://arxiv.org/html/2404.02935v1)
+[^46qmee]: 2025, Jun 15. [LibGuides: Introduction to Generative AI: Hallucinations](https://guides.library.illinois.edu/generativeAI/hallucinations). Published: 2025-07-16 | Updated: 2025-06-16
 

@@ -11,6 +11,6 @@ og_last_fetch: "2025-07-22T21:10:52.357Z"
 
 An organization that builds [[Enterprise SaaS]] tools for small and medium sized businesses.
 
-[[David Heinemeier Hanson]] created the [[Ruby on Rails]] [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]] while working at [[organizations/37 Signals|37 Signals]].
+[[Sources/People/David Heinemeier Hansson]] created the [[Ruby on Rails]] [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]] while working at [[organizations/37 Signals|37 Signals]].
 
 

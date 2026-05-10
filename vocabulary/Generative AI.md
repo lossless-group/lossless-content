@@ -1,12 +1,12 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2026-05-09
 site_uuid: 30874d0a-25d7-4fd4-8214-905d754f5a86
 date_created: 2025-04-06
+aliases:
+  - GenAI
 ---
 
 A class or type of [[concepts/Explainers for AI/Artificial Intelligence|AI]]
-
-[[AI]]
 
 [Generative AI in a Nutshell](https://youtu.be/2IK3DFHRFfw?si=93RNOs1eqa_j63Ud)
 

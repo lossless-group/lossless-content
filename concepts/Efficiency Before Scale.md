@@ -1,7 +1,7 @@
 ---
 site_uuid: a720cb08-a47b-4478-9397-cf9bab81811b
 date_created: 2025-04-18
-date_modified: 2025-04-24
+date_modified: 2026-05-09
 ---
 
 
@@ -17,11 +17,11 @@ One thoughtful engineering manager says that to assure a software project is suc
 
 When surveying the perspective of experienced software engineers, rather than engineering managers, its clear that there is a fierce allergy to large teams. A discussion on Reddit shows the boundaries of what engineers feel is appropriate. The discussion catalyst says "12 is too big." Other commenters seem to lose their faith in the team after 7 team members. [^3]   
 
-Small teams that are resource constrained are often forced to find efficiencies that require motivated tinkering. One of the louder voices advocating for small teams is [[David Heinemeier Hanson]].  His organization, [[organizations/37 Signals]], is both radically successful and highly influential in the global technology world. Codified in the books [[Rework]] and [[Getting Real]], he promotes contrarian principles on building technology products, and on scaling technology companies. According to [[David Heinemeier Hanson|DHH]], a fierce commitment to sticking to small teams, not hiring, not adding resources, not investing money, and not working hard, is counter-intuitively the best way to build technology products that scale to millions and make large profits. 
+Small teams that are resource constrained are often forced to find efficiencies that require motivated tinkering. One of the louder voices advocating for small teams is [[Sources/People/David Heinemeier Hansson]].  His organization, [[organizations/37 Signals]], is both radically successful and highly influential in the global technology world. Codified in the books [[Rework]] and [[Getting Real]], he promotes contrarian principles on building technology products, and on scaling technology companies. According to [[Sources/People/David Heinemeier Hansson|DHH]], a fierce commitment to sticking to small teams, not hiring, not adding resources, not investing money, and not working hard, is counter-intuitively the best way to build technology products that scale to millions and make large profits. 
 
 
 # Related
-[[concepts/Premature Scaling]]
+[[concepts/Premature Scaling|Premature Scaling]]
 
 
 

@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-21
-date_modified: 2025-08-21
+date_modified: 2026-05-09
 site_uuid: 1874d01d-7cc4-4f94-9540-c796e7c6937b
 publish: true
 title: Constitutional AI
@@ -9,10 +9,12 @@ at_semantic_version: 0.0.0.1
 authors:
   - Michael Staton
 augmented_with: Perplexity AI
+aliases:
+  - CAI
 ---
 # How Constitutional AI Aims to Solve Current AI Challenges
 
-Constitutional AI (CAI), developed by Anthropic, represents a paradigmatic shift in addressing some of the most pressing challenges facing AI development today. Rather than relying heavily on human oversight for every aspect of AI behavior, CAI introduces a framework where AI systems self-regulate based on a predefined set of principles—essentially an AI "constitution."
+Constitutional AI (CAI), developed by [[Tooling/AI-Toolkit/Model Producers/Anthropic|Anthropic]], represents a paradigmatic shift in addressing some of the most pressing challenges facing AI development today. Rather than relying heavily on human oversight for every aspect of AI behavior, CAI introduces a framework where AI systems self-regulate based on a predefined set of principles—essentially an AI "constitution."
 
 ## Core AI Challenges Constitutional AI Addresses
 

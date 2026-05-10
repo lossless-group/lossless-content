@@ -1,12 +1,15 @@
 ---
 date_created: 2025-11-26
-date_modified: 2025-11-28
-tags: [Founder-Toolkit, GTM-Tools]
+date_modified: 2026-05-10
+tags:
+  - Founder-Toolkit
+  - GTM-Tools
 site_uuid: a18ad20c-10b2-49e3-bc61-523682441107
 publish: true
-title: "Business Model Canvas"
+title: Business Model Canvas
 slug: business-model-canvas
 at_semantic_version: 0.0.0.1
+wikipedia_url: https://en.wikipedia.org/wiki/Business_model_canvas
 ---
 
 

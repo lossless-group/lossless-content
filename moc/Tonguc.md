@@ -1,6 +1,6 @@
 ---
 date_created: 2025-09-05
-date_modified: 2025-09-25
+date_modified: 2026-05-09
 ---
 :::features
 - Reader
@@ -16,14 +16,14 @@ date_modified: 2025-09-25
 
 :::concepts
 - [[Coherence]]
-- [[AI-Avatars]]
+- [[concepts/Explainers for AI/AI Avatars|AI Avatar]]
 - [[AI Orchestration]]
 - [[AI-ML Pipelines]]
 - [[Compliance AI]]
 - [[Asymmetric Competition]]
 - [[Contrarian Talent]]
 - [[Innovation Pipelines]]
-- [[Proctected Play]]
+- [[concepts/Protected Play|Protected Play]]
 :::
 
 

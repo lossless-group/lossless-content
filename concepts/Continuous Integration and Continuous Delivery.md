@@ -1,10 +1,16 @@
 ---
 site_uuid: 3b205a7a-830a-4521-a44c-bf0dc159d73e
 date_created: 2025-04-18
-date_modified: 2025-10-17
-aliases: [CD, CI, CI/CD, Continuous Integration, Continuous Delivery]
+date_modified: 2026-05-10
+aliases:
+  - CD
+  - CI
+  - CI/CD
+  - Continuous Integration
+  - Continuous Delivery
+  - CI/CD Pipelines
 publish: true
-title: "Continuous Integration and Continuous Delivery"
+title: Continuous Integration and Continuous Delivery
 slug: continuous-integration-and-continuous-delivery
 at_semantic_version: 0.0.0.1
 ---

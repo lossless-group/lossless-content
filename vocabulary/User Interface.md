@@ -7,7 +7,7 @@ aliases: [UI]
 
 [[Sources/Books/Dont make me think]]
 
-[[Vocabulary/Atomic Design|Atomic Design]]
+[[concepts/Atomic Design|Atomic Design]]
 
 [[Component-Based Software Architecture]]
 

@@ -2,7 +2,7 @@
 site_uuid: b4e6879d-f217-4d7f-a564-c1d3c822aa49
 title: Vercel
 site_visibility: public
-date_modified: 2025-12-27
+date_modified: 2026-05-09
 date_created: 2025-03-30
 tags: [Software-Development, Cloud-Infrastructure]
 url: https://vercel.com/
@@ -19,6 +19,11 @@ github_profile_url: https://github.com/vercel
  
 [[lost-in-public/up-and-running/Up and Running on Vercel|Up and Running on Vercel]]
 
+## Vercel now offers Agents
+
+In May 2026, we noticed [[Vocabulary/Agentic AI|Agents]] in Vercel.
+
+![2026-05-08_Vercel-Agent_10.52.16 PM.png](https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-05/2026-05-08_Vercel-Agent_10.52.16_PM_qMinjnHCp.webp)
 
 https://youtube.com/shorts/K5qDnLxr4N4?si=tYdp-uD5-Z6Nc2zt
 

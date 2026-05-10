@@ -58,7 +58,7 @@ date_modified: 2025-11-26
 :::
 
 :::reader
-- [[essays/A New Standard for Chaining AI Operations called Model Context Protocol|A New Standard for Chaining AI Operations called Model Context Protocol]]
+- [[lost-in-public/keeping-up/A New Standard for Chaining AI Operations called Model Context Protocol|A New Standard for Chaining AI Operations called Model Context Protocol]]
 - [[essays/AI is first a Trojan Horse|AI is first a Trojan Horse]]
 - [[Can Organizations Know what their People have Known]]
 - [[essays/How GitHub Changed Everything|How GitHub Changed Everything]]

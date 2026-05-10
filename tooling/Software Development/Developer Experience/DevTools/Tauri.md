@@ -10,7 +10,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:06.723Z
 jina_error: Error occurred
 og_last_fetch: 2025-06-06T13:54:19.210Z
-date_modified: 2026-05-07
+date_modified: 2026-05-09
 date_created: 2025-03-30
 og_image: https://v2.tauri.app/og.png?v=1
 og_url: https://v2.tauri.app/
@@ -20,6 +20,7 @@ tags:
   - Cross-Platform-Framework
   - Rust-Ecoystem
   - Must-Have
+  - Influencer-Favorites
 for_clients:
   - Laerdal
   - Param

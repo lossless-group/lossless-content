@@ -1,7 +1,7 @@
 ---
 url: https://www.de4cev.com/
 date_created: 2025-11-20
-date_modified: 2025-11-20
+date_modified: 2026-05-10
 site_uuid: 1a43269b-1b26-4ac0-a7ce-a768101ea409
 publish: true
 title: Disciplined Entrepreneurship for Climate And Energy Ventures
@@ -17,3 +17,4 @@ og_last_fetch: 2025-11-20T14:36:03.594Z
 description_site_cp: This book combines two proven approaches from MIT—the globally recognized Disciplined Entrepreneurship framework and the specialized curriculum of MIT's Climate and Energy Ventures course. We've adapted both these elements into a single, highly accessible set of steps. Our framework provides a comprehensive and easy to understand guide for building a venture that is successful financially, socially, and environmentally. DE4CEV is a go-to reference text that is both entertaining and practical for aspiring startup founders as well as entrepreneurial changemakers working within larger institutions, like established companies, government, and nonprofits.
 ---
 [[Sources/Books/Disciplined Entrepreneurship|Disciplined Entrepreneurship]]
+

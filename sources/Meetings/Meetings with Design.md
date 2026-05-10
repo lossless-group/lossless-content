@@ -31,7 +31,7 @@ Who decides the editorial for [[SharePoint]], [[client-content/Laerdal/Sources/L
 [[Jill Reid]]
 
 ### Do you have separate files where you keep various tokens?   
-We've found it's helpful to have consistent components just to display aspects of [[Design Systems]].  Been working with [[Design Tokens]] for the past year.  New for the product teams.  
+We've found it's helpful to have consistent components just to display aspects of [[Design Systems]].  Been working with [[Vocabulary/Design Tokens]] for the past year.  New for the product teams.  
 Colors, Gradients
 Lines
 Spacing
