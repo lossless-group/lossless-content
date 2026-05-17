@@ -1,7 +1,11 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2026-05-11
 site_uuid: 005a4f14-af51-4cb1-aac7-cb8aff9cefe6
 date_created: 2025-04-06
+url: https://www.holacracy.org/
+wikipedia_url: https://en.wikipedia.org/wiki/Holacracy
+tags:
+  - Management-Strategies
 ---
 
 > [!NOTE] AI Explains

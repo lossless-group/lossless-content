@@ -22,7 +22,7 @@ for_clients:
   - Parslee
 ---
 [[concepts/Explainers for AI/Voice Agents|Voice Agents]]
-[[Sales Coaching AI]]
+[[concepts/Explainers for AI/Sales Coaching AI]]
 [[Vocabulary/Agentic RAG|Agentic RAG]]
 
 

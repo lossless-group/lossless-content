@@ -11,7 +11,7 @@ jina_last_request: 2025-03-09T06:45:19.022Z
 jina_error: Error occurred
 og_last_fetch: 2025-05-29T13:34:09.352Z
 date_created: 2025-03-04
-date_modified: 2025-08-17
+date_modified: 2026-05-16
 og_image: https://github.githubassets.com/assets/home24-5939032587c9.jpg
 og_url: https://github.com/
 title: GitHub · Build and ship software on a single, collaborative platform
@@ -19,8 +19,13 @@ description: Join the world's most widely adopted, AI-powered developer platform
 tags: [Developer-Experience, Software-Development, DevOps]
 youtube_channel_url: https://www.youtube.com/@GitHub
 ---
+https://youtu.be/pekbl3Yz02g?si=T0piEHyTf51TDKNZ
 
-[[organizations/Microsoft]] acquired [[GitHub]].
+https://youtu.be/HuE7OvOckfE?si=h0DPnmN-bIYocUmn
+
+https://youtu.be/HuE7OvOckfE?si=cJ-RK9mkv3CIufMT
+
+[[organizations/Microsoft|Microsoft]] acquired [[GitHub]].
 
 ![[essays/How GitHub Changed Everything#AI Explains GitHub]]
 
@@ -31,7 +36,7 @@ youtube_channel_url: https://www.youtube.com/@GitHub
 ## [[GitHub]] has a Command Line Interface called [GitHub CLI](https://cli.github.com).
 
 ## [[GitHub]] has a [[Code Generator]] [[concepts/Explainers for AI/AI Copilots|Copilot]], a [[Plug-ins,  Add-ons,  Extensions|Plug-in]] to [[Visual Studio Code|VS Code]]
-An [[concepts/Explainers for AI/AI Copilots]] from [[GitHub]] that performs [[Code Generator|Code Generation]].
+An [[concepts/Explainers for AI/AI Copilots|AI Copilots]] from [[GitHub]] that performs [[concepts/Explainers for AI/Code Generators|Code Generators]].
 
 ![[Screenshot 2025-02-20 at 7.57.47 PM_GitHub-Copilot--Getting-Started.png]]
 ###### A 7 Minute Overview of [[GitHub#GitHub has a Code Generator AI Copilots Copilot , a Plug-ins, Add-ons, Extensions Plug-in to Visual Studio Code VS Code|GitHub Copilot]] on [[YouTube]].

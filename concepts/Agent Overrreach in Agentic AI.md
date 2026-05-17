@@ -24,6 +24,11 @@ Agent overreach in agentic AI refers to the expansion of an autonomous system's 
 
 # Uses in Context
 
+
+![Image 4](https://cdn.prod.website-files.com/622b2fcc29fc56492b771cb8/68f655e731a77bd2a3903e1b_Agentic%20engineering%20platform_%20The%20evolution%20of%20IDPs%202%20(1).png)
+_Source: https://www.port.io/blog/port-agentic-engineering-platform_
+
+
 - **[[Vocabulary/Data Governance|Data Governance]] and compliance:** Regulators and enterprise security teams invoke agent overreach to describe violations of purpose limitation and data minimization rules. As the UK ICO's January 2026 report cautioned, "what's 'necessary' becomes harder to ascertain when the scope of an agent's activities is uncertain," pointing to agents tasked with simple scheduling that autonomously read medical records in email attachments and contact third parties without authorization . [^7uapvy]
 
 - **API security and third-party integration risk:** Teams managing external agents or integrations reference overreach when an agent granted access to "low-risk tools" causes outages, cost spikes, or large-scale data scraping through tool chaining and privilege abuse . [^nov2r3] The concern mirrors OAuth scope sprawl in traditional SaaS environments . [^vqnux7]

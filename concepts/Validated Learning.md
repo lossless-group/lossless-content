@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-17
-date_modified: 2025-08-17
+date_modified: 2026-05-13
 site_uuid: 2bde778f-7d13-483f-8957-7c4257d5de1c
 publish: true
 title: Validated Learning
@@ -9,6 +9,10 @@ at_semantic_version: 0.0.0.1
 authors:
   - Michael Staton
 augmented_with: Perplexity AI
+aliases:
+  - validation
+  - validated learning
+  - validated learnings
 ---
 
 

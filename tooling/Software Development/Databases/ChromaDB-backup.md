@@ -131,7 +131,7 @@ Sources: [^cplcj1]  [^d39ugg] [^59ym3s]
 - **Brand Recognition & Distribution**: [CromaDB on GitHub](https://github.com/chroma-core/chroma) includes 27.7K stars and 2.2K forks. 
 - Proprietary frontier-grade model at [[concepts/Explainers for AI/Agentic Search]]. 
 - Ingestion of [[concepts/Explainers for AI/Agent Traces]] at [[Tooling/Productivity/Async Communication/Slack|Slack]] and [[Tooling/Productivity/Advanced Documents/Notion|Notion]]
-- Achieved meaningful internal [[Company Brains]]
+- Achieved meaningful internal [[concepts/Explainers for AI/Company Brains]]
 - 
 ### "The Bet" & Key Expected Milestones (non-financial)
 - market leadership on ingestion agents
@@ -157,7 +157,7 @@ This April monthly rev
 
 Sync, Search Agent, Ingestion Agent
 
-[[Enterprise Knowledge Management]]
+[[Vocabulary/Enterprise Knowledge Management]]
 
 Largest Database company is [[organizations/Oracle|Oracle]]
 

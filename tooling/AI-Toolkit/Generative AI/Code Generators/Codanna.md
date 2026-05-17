@@ -10,4 +10,4 @@ title: Codanna
 slug: codanna
 at_semantic_version: 0.0.0.1
 ---
-[[Context Layer]]
+[[concepts/Explainers for AI/Context Layers]]

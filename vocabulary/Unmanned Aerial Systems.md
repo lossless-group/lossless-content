@@ -1,6 +1,6 @@
 ---
 date_created: 2025-12-02
-date_modified: 2025-12-02
+date_modified: 2026-05-12
 aliases: [UAS, UAV, Drones]
 site_uuid: 2b99ca97-0417-4ced-9bf7-98de76ba3a0e
 publish: true
@@ -9,7 +9,8 @@ slug: unmanned-aerial-systems
 at_semantic_version: 0.0.0.1
 tags: [Vertical-Drones, Drone-Platforms, Drone-Producers]
 ---
-
+[[Helsing]]
+[[Anduril]]
 
 ***
 > [!info] **Perplexity Query** (2025-12-02T11:48:21.465Z)

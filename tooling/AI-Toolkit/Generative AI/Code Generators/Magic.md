@@ -8,7 +8,7 @@ title: 'An AI Agent for Your IDE That Creates Professional UI Components | 21st.
 jina_last_request: '2025-03-09T06:45:08.108Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-05-28T12:14:58.641Z'
-date_modified: 2025-05-28
+date_modified: 2026-05-14
 date_created: 2025-03-30
 og_image: https://21st.dev/magic-agent-og-image.png
 description: 'Transform your IDE with our AI agent that understands Modern Component Patterns. Create production-ready UI components in seconds instead of hours. Built for developers who want beautiful, consistent, and maintainable React components.'
@@ -17,4 +17,4 @@ tags:
   - Generative-AI
   - Code-Generators
 ---
-
+https://magic.dev/

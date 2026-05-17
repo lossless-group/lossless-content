@@ -37,7 +37,7 @@ Creator of [[Ruby on Rails]]. Co-author of [[Rework]] and [[Getting Real]].
 - Partner and CTO at 37signals (since 1999, rebranded products include Basecamp, HEY); co-founded with Jason Fried.[2][4]
 - Co-author of books like *Agile Web Development with Rails* (2005), *Rework*, *Remote*, *It Doesn't Have to Be Crazy at Work*.[2]
 - Motorsport: Le Mans class winner, commissioned Pagani Zonda HH supercar; started Rails Foundation in 2022 as chairman.[2][4]
-- Creator of Omarchy (developer-focused [[Arch Linux]] distro) and Instiki wiki software.[2][3]
+- Creator of Omarchy (developer-focused [[organizations/Arch Linux]] distro) and Instiki wiki software.[2][3]
 
 # Catalog of Notable Works
 - [Ruby on Rails](https://rubyonrails.org/) — 2003/2004 — Open-source web framework created for Basecamp, now used by GitHub, Shopify, Airbnb; continues active development.[2][4]

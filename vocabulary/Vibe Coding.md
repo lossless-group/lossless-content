@@ -1,6 +1,6 @@
 ---
 url: null
-date_modified: 2026-05-03
+date_modified: 2026-05-16
 site_uuid: dbbec104-be64-47a6-8413-05079caad984
 date_created: 2025-04-06
 ---
@@ -14,6 +14,8 @@ All you have to do is create a [[Vocabulary/Forked Repositories|Forked Repositor
 
 Vibe Coding is allowing non-engineers to become [[concepts/Stack Engineering|Stack Engineers]]. So, someone who is marketing can fork a [[Vocabulary/CRM|CRM]] like [[Tooling/Enterprise Jobs-to-be-Done/Twenty|Twenty]], deploy it on [[Tooling/Software Development/Cloud Infrastructure/Railway|Railway]], and get to work. 
 
+
+https://youtu.be/nLgmTis9uM0?si=i2d_9FLvI-bNnMfK
 
 ***
 > [!info] **Perplexity Query** (2025-08-16T23:06:41.292Z)

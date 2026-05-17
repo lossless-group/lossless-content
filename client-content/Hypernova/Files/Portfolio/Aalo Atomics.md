@@ -1,7 +1,7 @@
 ---
 url: https://www.aalo.com/
 date_created: 2024-09-12
-date_modified: 2026-05-07
+date_modified: 2026-05-14
 og_title: Welcome to the dawn of a Second Atomic Age
 og_description: Creating abundant and dependable clean energy to power humanity for generations.
 og_image: https://cdn.prod.website-files.com/6585dbcefaa9bc6771139c22/6616f0f548a8453eb39dbddd_640f988cbb946e8bffb0afc8_Aalo-OG.png
@@ -15,7 +15,7 @@ site_name: Aalo Atomics
 ---
 # Investment Memo: Aalo Atomics
 
-
+Training large AI models like GPT-3 requires tremendous computational resources, with estimates suggesting that the training process alone consumed 1,287 megawatt-hours of electricity and generated approximately 552 tons of carbon dioxide emissions. [^019fvl]
 ## Company: Aalo Atomics
 
 **Stage**: Series B
@@ -236,15 +236,15 @@ Key risks include NRC licensing uncertainty (no precedent for this reactor desig
 
 **Notable investors** (27 total across all rounds):
 
-- **Valor Equity Partners** (Series B lead): Prominent backer of Tesla, SpaceX, Crusoe Energy, Extropic Labs; brings deep tech and energy infrastructure expertise
+- **[[Valor Equity Partners]]** (Series B lead): Prominent backer of [[organizations/Tesla|Tesla]], [[SpaceX]], [[Tooling/AI-Toolkit/AI Infrastructure/Crusoe|Crusoe]] Energy, [[Extropic Labs]]; brings deep tech and energy infrastructure expertise
 
-- **50Y / Fifty Years** (Series A lead): Climate tech and energy transition focused fund
+- **50Y / [[vertical-toolkits/Venture-Capital-Firms/Fifty Years]]** (Series A lead): Climate tech and energy transition focused fund
 
 - **NRG Energy**: Major U.S. utility operator (19 GW generation capacity); strategic investor providing potential customer relationship and grid integration expertise
 
-- **Hitachi Ventures**: Corporate venture arm of Hitachi (nuclear reactor manufacturer with 60+ years experience); brings nuclear supply chain and manufacturing knowledge
+- **[[Hitachi Ventures]]**: Corporate venture arm of Hitachi (nuclear reactor manufacturer with 60+ years experience); brings nuclear supply chain and manufacturing knowledge
 
-- **Tishman Speyer**: Global real estate developer operating data centers; represents potential customer and validates data center use case
+- **[[Tishman Speyer]]**: Global real estate developer operating data centers; represents potential customer and validates data center use case
 
 - **Fine Structure Ventures, Kindred Ventures, Harpoon Ventures, Vamos Ventures**: Early-stage deep tech investors
 
@@ -348,7 +348,7 @@ Investor quality suggests strong conviction in both technology and market opport
 
   
 
-**Rationale**: Aalo Atomics demonstrates exceptional execution velocity and strategic positioning in nuclear-for-AI market. DOE partnership provides regulatory validation that most competitors lack at this stage. Investor quality (Valor, NRG, Hitachi, Tishman Speyer) suggests sophisticated capital and strategic value beyond funding. Technology approach (factory manufacturing, modular design, readily available fuel) addresses real industry problems. However, significant risks remain: unproven technology (10x energy density claims require validation), 3-5 year commercialization timeline, binary NRC approval risk, and capital intensity. This is a high-risk, potentially high-return opportunity appropriate for portfolio diversification in climate tech/infrastructure, not core holding. Recommendation assumes Series B valuation reflects technology and regulatory risk (sub-$500M post-money would be attractive; above $750M post-money creates unfavorable risk/return).
+**Rationale**: Aalo Atomics demonstrates exceptional execution velocity and strategic positioning in nuclear-for-AI market. DOE partnership provides regulatory validation that most competitors lack at this stage. Investor quality (Valor, NRG, [[Hitachi]], Tishman Speyer) suggests sophisticated capital and strategic value beyond funding. Technology approach (factory manufacturing, modular design, readily available fuel) addresses real industry problems. However, significant risks remain: unproven technology (10x energy density claims require validation), 3-5 year commercialization timeline, binary NRC approval risk, and capital intensity. This is a high-risk, potentially high-return opportunity appropriate for portfolio diversification in climate tech/infrastructure, not core holding. Recommendation assumes Series B valuation reflects technology and regulatory risk (sub-$500M post-money would be attractive; above $750M post-money creates unfavorable risk/return).
 
   
 
@@ -372,8 +372,5 @@ Investor quality suggests strong conviction in both technology and market opport
 
 ---
 
+[^019fvl]: 2026, May. "[Explained: Generative AI’s environmental impact | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117)". ### Topics. [MIT News | Massachusetts Institute of Technology](https://news.mit.edu).
   
-
-*Memo prepared by: Hypernova Capital Investment Team*
-
-*Date: November 2024*

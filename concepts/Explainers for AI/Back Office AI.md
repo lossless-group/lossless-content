@@ -20,9 +20,9 @@ for_clients:
 [[concepts/Explainers for AI/Accounting AI|Accounting AI]]
 [[concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]]
 [[Vocabulary/Enterprise Resource Planning|Enterprise Resource Planning]]
-[[Enterprise Knowledge Management]]
+[[Vocabulary/Enterprise Knowledge Management]]
 [[concepts/Explainers for AI/Knowledge Base AI|Knowledge Base AI]]
-[[Business Process Outsourcing]]
+[[concepts/Business Process Outsourcing]]
 
 
 

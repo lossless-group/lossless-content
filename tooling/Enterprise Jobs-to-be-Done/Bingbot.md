@@ -14,7 +14,7 @@ at_semantic_version: 0.0.0.1
 Bingbot is [[organizations/Microsoft|Microsoft]]’s official web-crawling robot that discovers, indexes, and ranks web pages for the Bing search engine, often used to feed data into AI systems like ChatGPT. 
 
 • Function: It crawls billions of webpages, including those now utilized for AI search functionality. 
-• Verification: You can verify if a bot is actually Bingbot by performing a reverse [[DNS]] lookup to confirm the IP resolves to . 
+• Verification: You can verify if a bot is actually Bingbot by performing a reverse [[Vocabulary/DNS]] lookup to confirm the IP resolves to . 
 • Controlling Access: If Bingbot is over-crawling or slowing down your website, you can use  rules, such as setting a  to reduce load, or block specific IP ranges. 
 • Bingbot Variations: While  is the main crawler, other variations include  (for ads) and  (for generating page snapshots). [^qj7mxj] [^9yveds] [^ff35b0] [^v3frb1] [^bocx5d]  
 

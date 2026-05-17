@@ -13,7 +13,7 @@ slug: creative-ai
 [[Tooling/AI-Toolkit/Generative AI/Runway|Runway]]
 [[Tooling/AI-Toolkit/AI Interfaces/OpenArt]]
 [[Tooling/AI-Toolkit/Generative AI/Recraft|Recraft]]
-[[Tooling/AI-Toolkit/Generative AI/Midjourney|Midjourney]]
+[[Tooling/AI-Toolkit/Model Producers/Midjourney|Midjourney]]
 
 [[Tooling/AI-Toolkit/Models/DALL·E]]
 

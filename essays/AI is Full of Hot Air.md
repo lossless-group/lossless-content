@@ -1,7 +1,7 @@
 ---
 category: "Avoid and Peril"
 date_created: 2024-11-11
-date_modified: 2026-05-09
+date_modified: 2026-05-14
 tags: [Near-Future-Anticipation]
 title: "AI is full of Hot Air."
 lede: "From hallucinations to probabilistic creativity, to the need to fulfill its trained duty.  AI Models can just make things up.  Sometimes amazingly, sometimes catastrophically."
@@ -63,6 +63,8 @@ square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/AI_is_Full
 > Alternatively, if you have an issue that might be due to bugs or glitches in Excel, you can also consider checking for updates and patches from Microsoft. This includes updating Office to the latest version if you’re using an older build.
 > 
 > Let me know if you'd like more details or further assistance on any particular error.
+
+the most pressing challenges in modern AI applications: the tendency of large language models to generate plausible-sounding but incorrect information ([[concepts/Explainers for AI/AI Hallucinations|Hallucination]]), the risk of proprietary data leakage through model training, and the architectural complexity of integrating multiple point solutions into coherent systems. [^e6x4b8] 
 
 AI systems, including chatbots and assistants, often struggle to explicitly admit uncertainty or knowledge gaps due to several key design and technical reasons:
 
@@ -264,4 +266,5 @@ The field is rapidly evolving, with new techniques emerging to make AI systems m
 [^euqtl6]: [Why Hallucinations Matter: Misinformation, Brand Safety and ...](https://scet.berkeley.edu/why-hallucinations-matter-misinformation-brand-safety-and-cybersecurity-in-the-age-ofgenerative-ai/)
 [^c11y5m]: [KnowHalu: Hallucination Detection via Multi-Form Knowledge ...](https://arxiv.org/html/2404.02935v1)
 [^46qmee]: 2025, Jun 15. [LibGuides: Introduction to Generative AI: Hallucinations](https://guides.library.illinois.edu/generativeAI/hallucinations). Published: 2025-07-16 | Updated: 2025-06-16
+[^e6x4b8]: [Qdrant vs Weaviate vs FalkorDB: Best AI Database 2026 - F22 Labs](https://www.f22labs.com/blogs/qdrant-vs-weaviate-vs-falkordb-best-ai-database/)
 

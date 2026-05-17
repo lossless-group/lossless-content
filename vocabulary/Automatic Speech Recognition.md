@@ -1,10 +1,13 @@
 ---
-aliases: [ASR]
+aliases:
+  - ASR
+  - speech recognition
 date_created: 2025-09-20
-date_modified: 2025-11-28
+date_modified: 2026-05-13
 covers_tags:
   - Speech-To-Text
-tags: [Speech-To-Text]
+tags:
+  - Speech-To-Text
 site_uuid: a485de74-550d-4d0a-8cdd-81eaae5fc153
 publish: true
 title: Automatic Speech Recognition
@@ -29,10 +32,10 @@ Automatic Speech Recognition (ASR) is a technology that converts spoken language
 
 ### Understanding Automatic Speech Recognition
 
-At its core, ASR uses **artificial intelligence (AI)**, **machine learning (ML)**, and **natural language processing (NLP)** to automatically process, analyze, and convert audio speech into text. [^u4e9nn] [^q4s0j7] When someone speaks into an ASR-enabled device, the system first captures the audio signal, cleans it of background noise, and then analyzes the phonetic and linguistic features using pre-trained models. [^u4e9nn] [^kivu3o] The recognized speech is output as readable text, which can then be used for a variety of applications.
+At its core, ASR uses **artificial intelligence ([[concepts/Explainers for AI/Artificial Intelligence|AI]])**, **machine learning ([[Vocabulary/Machine Learning|ML]])**, and **[[Vocabulary/Natural Language Processing|Natural Language Processing]] (NLP)** to automatically process, analyze, and convert audio speech into text. [^u4e9nn] [^q4s0j7] When someone speaks into an ASR-enabled device, the system first captures the audio signal, cleans it of background noise, and then analyzes the phonetic and linguistic features using pre-trained models. [^u4e9nn] [^kivu3o] The recognized speech is output as readable text, which can then be used for a variety of applications.
 
 **Practical examples of ASR** include:
-- **Virtual assistants** like Siri, Alexa, and Google Assistant, which recognize and process spoken commands to perform tasks.
+- **Virtual assistants** like [[Siri]], [[Alexa]], and Google Assistant, which recognize and process spoken commands to perform tasks.
 - **Customer service bots** and **call centers** that use ASR to transcribe and interpret customer inquiries for faster, more accurate responses. [^ff59h3]
 - **Live closed captioning** for the hearing impaired, enhancing accessibility at events or on video calls.
 - **Voice dictation tools** for hands-free note-taking and document creation in professional and medical settings.
@@ -57,7 +60,7 @@ Recent technological advances, particularly in deep learning and end-to-end mode
 
 ### Future Outlook
 
-Looking ahead, **ASR is expected to become more seamless, context-aware, and personalized**, integrating tightly with multimodal interfaces and underpinning conversational AI systems. Improvements in understanding context, emotion, and intent will expand ASR's applications, while stricter privacy controls and ethical frameworks are likely to accompany its wider adoption. The transformative potential of ASR suggests it will continue to redefine how humans interact with technology across countless domains.
+Looking ahead, **ASR is expected to become more seamless, [[Context Aware]], and personalized**, integrating tightly with multimodal interfaces and underpinning conversational AI systems. Improvements in understanding context, emotion, and intent will expand ASR's applications, while stricter privacy controls and ethical frameworks are likely to accompany its wider adoption. The transformative potential of ASR suggests it will continue to redefine how humans interact with technology across countless domains.
 
 In summary, Automatic Speech Recognition transforms speech into actionable data, powering everything from daily conveniences to advanced business solutions. As ASR evolves, it promises to make technology even more intuitive, inclusive, and attuned to the nuances of human language.
 

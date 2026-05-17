@@ -1,5 +1,5 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2026-05-13
 site_uuid: f4d3f9e5-7159-457d-8c48-7aae8debdd25
 date_created: 2025-04-06
 ---
@@ -7,3 +7,7 @@ date_created: 2025-04-06
 Disruptive Innovation, as a vocabulary word, is misunderstood and misinformation is propagated.  Even by the creator of the term.
 
 It is a "theory" that describes why incumbent market leaders with every advantage fail to create successful adaptations of their own market offerings for new markets.  This can happen because the adaptations seem comparatively lower quality, or because the new markets seem comparatively unattractive
+
+
+![Image 4](https://images.squarespace-cdn.com/content/v1/57575a19f8508285863ac6f0/1469297077633-PO8GEONADFKMD2JAUJ5D/image-asset.jpeg)
+_Source: http://www.innovativedisruption.com/disruptive-innovation-model_

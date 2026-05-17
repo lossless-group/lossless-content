@@ -22,7 +22,7 @@ authors:
 [[Tooling/AI-Toolkit/Generative AI/Hedra|Hedra]]
 [[Tooling/AI-Toolkit/Generative AI/Minimax AI|Minimax AI]]
 [[Tooling/AI-Toolkit/Generative AI/Dreammachine|Dreammachine]]
-[[Tooling/AI-Toolkit/Generative AI/Midjourney|Midjourney]]
+[[Tooling/AI-Toolkit/Model Producers/Midjourney|Midjourney]]
 [[Tooling/AI-Toolkit/Generative AI/Motion Array|Motion Array]]
 [[Tooling/AI-Toolkit/Generative AI/Runway|Runway]]
 :::

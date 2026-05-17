@@ -36,7 +36,7 @@ date_modified: 2025-12-04
 # Notes:
 
 ### Current Direction
-[[Sales Coaching AI]]
+[[concepts/Explainers for AI/Sales Coaching AI]]
 
 
 

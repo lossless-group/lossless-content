@@ -1,7 +1,7 @@
 ---
-amazon-url: https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
+amazon_url: https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
 date_created: 2025-03-30
-date_modified: 2026-05-10
+date_modified: 2026-05-12
 cf_last_run: 2026-05-10T03:39:28.279Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://books.google.com/books?id=9Xl-DwAAQBAJ

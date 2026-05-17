@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-15
-date_modified: 2026-05-08
+date_modified: 2026-05-10
 image_prompt: A yellow Fallout-style delivery bot reaches toward a cluster of out-of-reach floating fragments (binary digits, document scraps, file tags). A glass dome above its head holds a small calm brain. Bot, dome, and fragments all on the left half. Right half stays empty.
 banner_image: Visuals/ImageGin/ideogram-image_2048x1024_1778229487654.png
 portrait_image: Visuals/ImageGin/ideogram-image_1024x1820_1778229495073.png
@@ -19,6 +19,7 @@ banner_image_taller: Visuals/ImageGin/ideogram-image_2048x1536_1778229509684.png
 ![](https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-05/Context-Vigilance_content_1778229363701_i0SN9bqAD.webp)
 
 
+![ogimage_Context-Vigilance_1024x1024.jpg](https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-05/ogimage_Context-Vigilance_1024x1024_ZaTvWITcE.webp)
 ![](https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-05/Context-Vigilance_content_1778228638490_kLfasPzC6.webp)
 
 ![](https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-05/Context-Vigilance_content_1778228639396_WetbQXBAD.webp)

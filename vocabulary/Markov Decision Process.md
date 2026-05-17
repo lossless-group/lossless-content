@@ -1,14 +1,17 @@
 ---
 wikipedia_url: https://en.wikipedia.org/wiki/Markov_decision_process
 date_created: 2025-11-14
-date_modified: 2025-11-16
+date_modified: 2026-05-13
 site_uuid: e666d6e8-00ab-4b42-b558-44a97196fcd8
 publish: true
 title: Markov Decision Process
 slug: markov-decision-process
 at_semantic_version: 0.0.0.1
-aliases: [ADP]
-tags: [Explainers, AI-Model-Training-Kits]
+aliases:
+  - MDP
+tags:
+  - Explainers
+  - AI-Model-Training-Kits
 for_clients:
   - Parslee
 ---

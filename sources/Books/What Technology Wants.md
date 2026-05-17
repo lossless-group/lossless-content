@@ -1,8 +1,8 @@
 ---
-amazon-url: https://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0143120174
+amazon_url: https://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0143120174
 author: "[[Kevin Kelly]]"
 date_created: 2025-03-30
-date_modified: 2025-09-06
+date_modified: 2026-05-12
 site_uuid: 2d2a4dff-8485-4fb9-a5c2-b3540182b631
 title: What Technology Wants
 slug: what-technology-wants

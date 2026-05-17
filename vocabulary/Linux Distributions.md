@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-28
-date_modified: 2026-05-04
+date_modified: 2026-05-16
 aliases: [Linux Distribution, Linux Distros, Linux Distro, Distro, Distros]
 site_uuid: 37b59e77-0dd9-4fe4-9f96-b03869b520d2
 publish: true
@@ -9,9 +9,14 @@ slug: linux-distributions
 at_semantic_version: 0.0.1.1
 tags: [Linux-Distributions, Linux-Ecosystem]
 ---
+
+https://youtu.be/DB5mk6bQt9A?si=Z85yk3D2qtcQguG9
+
 [[Tooling/Software Development/Developer Experience/Garuda Linux|Garuda Linux]]
 [[organizations/RedHat|RedHat]]
-[[Arch Linux]]
+[[organizations/Arch Linux|Arch Linux]]
+
+
 ***
 > [!info] **Perplexity Query** (2025-08-28T17:53:31.444Z)
 > **Question:**

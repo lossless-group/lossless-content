@@ -1,12 +1,13 @@
 ---
-amazon-url: https://www.amazon.com/Free-Future-Radical-Chris-Anderson-ebook/dp/B002DYJR4G
+amazon_url: https://www.amazon.com/Free-Future-Radical-Chris-Anderson-ebook/dp/B002DYJR4G
 author: "[[Chris Anderson]]"
 cf_last_run: 2026-05-10T03:52:13.794Z
 cf_last_run_model: Perplexity sonar-pro
 date_created: 2025-03-30
-date_modified: 2026-05-10
+date_modified: 2026-05-12
 google_books_url: https://books.google.com/books/about/Free.html?id=LhR44BB6KY8C
 ---
+[[Vocabulary/Freemium|Freemium]]
 # Free - The Future of a Radical Price
 
 ![Book cover of "Free: The Future of a Radical Price" by Chris Anderson, featuring a black background with white "FREE" text and subtitle in red](https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1442784976i/6150530.jpg)
@@ -61,7 +62,7 @@ _This is a book by Wired editor-in-chief Chris Anderson, first published July 7,
 - [[Vocabulary/Freemium|Freemium]] — Core pricing model popularized here, linking to SaaS innovators like Dropbox.
 - [[Wired Magazine]] — Anderson's platform as *Wired* editor-in-chief, source of ongoing digital economy coverage.[1]
 - [[Sources/Books/Crossing the Chasm|Crossing the Chasm]] — Contrasts *Free*'s mass-market free strategies with Geoffrey Moore's tech adoption focus.
-- [[Sources/Books/Zero to One]] — Peter Thiel's monopoly-building counters *Free*'s competition-via-abundance, productive tension.[3]
+- [[Sources/Books/Zero to One|Zero to One]] — Peter Thiel's monopoly-building counters *Free*'s competition-via-abundance, productive tension.[3]
 
 
 ***

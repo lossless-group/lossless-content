@@ -149,7 +149,7 @@ Regional growth shows North America and Europe leading, but emerging markets dis
 
 ### Practical Guidance and Evolving Societal Response
 
-- **Parental Involvement and [[Digital Literacy]]**  
+- **Parental Involvement and [[Vocabulary/Digital Literacy]]**  
   Many parents have not discussed [[Vocabulary/Generative AI|Generative AI]] or AI companions with their children—which increases risk, not just of exposure but misunderstanding. [^jqj45h] Experts urge open communication, curiosity-driven exploration, and shared discussions about boundaries and the intended role of AI companions in children’s lives. [^jqj45h]
 
 - **Ongoing Debate: Ban vs. Supervision**  

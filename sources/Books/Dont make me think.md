@@ -1,7 +1,7 @@
 ---
-amazon-url: https://a.co/d/1SUwwui
+amazon_url: https://a.co/d/1SUwwui
 date_created: 2025-08-08
-date_modified: 2025-09-06
+date_modified: 2026-05-12
 site_uuid: 0b0818ad-64e8-4481-b881-3a2fe97a2cd6
 title: Don't Make Me Think
 slug: dont-make-me-think

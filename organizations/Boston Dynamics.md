@@ -1,6 +1,8 @@
 ---
 url: https://bostondynamics.com/
-parent-org: "[[organizations/Alphabet]]"
+parent_org: "[[organizations/Alphabet|Alphabet]]"
+date_created: 2025-04-18
+date_modified: 2026-05-13
 ---
 
 [[Robotics]]
