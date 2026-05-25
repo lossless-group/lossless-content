@@ -1,7 +1,7 @@
 ---
 url: "https://karpathy.ai/"
 date_created: 2025-09-23
-date_modified: 2025-09-23
+date_modified: 2026-05-21
 wikipedia_url: "https://en.wikipedia.org/wiki/Andrej_Karpathy"
 site_uuid: d8ede7ab-5b9e-4696-b833-43ace5b14349
 publish: true
@@ -9,7 +9,9 @@ title: "Andrej Karpathy"
 slug: andrej-karpathy
 at_semantic_version: 0.0.1.1
 ---
+https://youtu.be/Td2TaMWNUtA?si=FQ7pXJbfPghTzGFc
 
+Joined [[Tooling/AI-Toolkit/Model Producers/Anthropic|Anthropic]]
 ***
 > [!info] **Perplexity Query** (2025-09-23T12:58:27.340Z)
 > **Question:**

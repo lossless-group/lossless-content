@@ -67,7 +67,7 @@ Published in 2019, *Trillion Dollar Coach: The Leadership Playbook of Silicon Va
 - It offers a concrete playbook for coaching founders and executives in high‑growth, high‑ambiguity environments, turning “soft” leadership traits into repeatable practices around 1:1s, staff meetings, and decision rituals.[1][3]  
 - The book reframes management as primarily about building teams and trust—an essential complement to technical excellence in any or [[Scale‑Up]] environment.[1][3]  
 - It models how to institutionalize coaching inside large organizations like Google and Apple, giving innovators a template for embedding systematic leadership development alongside product and engineering practices.[2][3][4]  
-- The stories show how strong coaching can unlock the value of diverse, opinionated senior leaders, a key challenge in cross‑functional innovation teams working on new bets and [[Ambidextrous Organizations|Ambidextrous Organizations]] structures.[1][3]  
+- The stories show how strong coaching can unlock the value of diverse, opinionated senior leaders, a key challenge in cross‑functional innovation teams working on new bets and [[concepts/Ambidextrous Organizations|Ambidextrous Organizations]] structures.[1][3]  
 - By grounding its principles in the lived experience of over eighty leaders, it provides a rare, empirically rich narrative of how culture and coaching translate into sustained market value creation.[3][4]
 
 ---

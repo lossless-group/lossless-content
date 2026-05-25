@@ -57,7 +57,7 @@ The "Catalog" lists key chapters or major arguments from the book, structured ar
 - [[Thinking, Fast and Slow]] — Kahneman's work on biases, frequently underpinning Heath's villains and cited in decision lit. [^l1gfq9]
 - [[The Innovator's Dilemma]] — Christensen on disruptive choices, pairs with WRAP for incumbent decision traps [[concepts/Disruptive Innovation]].
 - [[Vocabulary/Pre-Mortem]] — Direct tie-in to book's failure-prep tools.
-- [[Nudge]] — Thaler/Sunstein on choice architecture, adjacent behavioral fixes for biases.
+- [[Sources/Books/Nudge]] — Thaler/Sunstein on choice architecture, adjacent behavioral fixes for biases.
 
 
 ***

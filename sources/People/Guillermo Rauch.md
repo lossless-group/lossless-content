@@ -27,7 +27,7 @@ _Guillermo Rauch is a pioneering software engineer and entrepreneur whose open-s
 
 # The People Behind It
 - Born in Lanús, Buenos Aires, Argentina; began coding at age 10 (or 13 per some accounts) and contributing to open-source as a teenager. [^jle5bk] [^k7e1bi]
-- Moved to San Francisco at 19; cofounded LearnBoost (learning platform) and Cloudup (CTO until acquired by [[Automattic]]). [^k7e1bi]
+- Moved to San Francisco at 19; cofounded LearnBoost (learning platform) and Cloudup (CTO until acquired by [[organizations/Automattic]]). [^k7e1bi]
 - Created foundational JavaScript tools including [[Socket.io]]; in 2016, designed and co-authored Next.js, the world's most popular React framework. [^k7e1bi] [^5pt12f] [^kue13t]
 - Founded Vercel, creators of Next.js, v0 (AI app builder), powering sites like TikTok, Notion, Nike, [[Tooling/AI-Toolkit/Model Producers/Midjourney|Midjourney]], and Grok; leads 500+ person global team. [^jle5bk] [^5pt12f]
 - EY World Entrepreneur Of The Year™ 2025 finalist for Argentina; advocates for open web and open-source. [^k7e1bi]
