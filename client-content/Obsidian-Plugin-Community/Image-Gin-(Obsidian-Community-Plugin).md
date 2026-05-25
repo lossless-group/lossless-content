@@ -1,6 +1,6 @@
 ---
 date_created: 2025-07-29
-date_modified: 2026-05-09
+date_modified: 2026-05-18
 site_uuid: 4c7f4ee7-b2d4-489c-bb64-d0f7e5f268ef
 publish: true
 title: Image Gin (Obsidian Community Plugin)
@@ -10,6 +10,10 @@ at_semantic_version: 0.0.0.1
 
 
 ![Image Gin: Obsidian Community Plugin now uploads local images found in a Markdown file. July 20, 2025](https://i.imgur.com/vx10bdC.png)
+
+
+![2026-05-04_LM-Studio-Release-Notes_5.23.30 PM.png](https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-05/2026-05-04_LM-Studio-Release-Notes_5.23.30_PM_nRMBwC-0F.webp)
+
 
 
 ![Image Selector Modal as of v0.1.0, May 2026](https://i.imgur.com/IvhIL2F.png)
