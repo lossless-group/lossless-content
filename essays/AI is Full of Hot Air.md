@@ -1,7 +1,7 @@
 ---
 category: "Avoid and Peril"
 date_created: 2024-11-11
-date_modified: 2026-05-14
+date_modified: 2026-05-23
 tags: [Near-Future-Anticipation]
 title: "AI is full of Hot Air."
 lede: "From hallucinations to probabilistic creativity, to the need to fulfill its trained duty.  AI Models can just make things up.  Sometimes amazingly, sometimes catastrophically."
@@ -15,7 +15,15 @@ banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/AI_is_Full
 portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/AI_is_Full_of_Hot_Air_portrait_image_1755789153918_0WCi0iS7o.webp"
 square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/AI_is_Full_of_Hot_Air_square_image_1755789149460_b3pRzzrx-.webp"
 ---
-[[Tooling/AI-Toolkit/Data Augmenters/Tavily AI]]
+[[Tooling/AI-Toolkit/Data Augmenters/Tavily AI|Tavily AI]]
+
+```bash
+"""Zero recoveries. Interesting interpretation: even for
+
+techcrunch.com/2023/04/25/chroma-open-source-embedding-database-vector/
+
+— which I'd have thought was a real article that just drifted — Tavily found no candidate with title-Jaccard ≥ 0.6. That suggests these URLs are LLM fabrications all the way down: invented slugs in invented dates. The fact-corrector probably regurgitated them from training memory while pretending to verify them. The redaction worksheet will have 11 cards with Google search links so you can spot-check whether any of these have a real underlying article behind a different URL."""
+```
 
 
 >[!tip]

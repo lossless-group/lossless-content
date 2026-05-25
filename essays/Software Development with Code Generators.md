@@ -1,6 +1,6 @@
 ---
 date_created: 2025-01-24
-date_modified: 2025-12-27
+date_modified: 2026-05-22
 site_uuid: 0cd90519-55d0-4380-b7b9-d416ff0cb24a
 title: Software Development with Code Generators
 lede: Code generators are reshaping software development—speeding up delivery while raising new challenges.
@@ -26,8 +26,14 @@ For code generation, in addition to the [[Large Language Models]], or perhaps th
 [[Acceptance Testing]] with [[Tooling/Software Development/Frameworks/Vitest|Vitest]]
 
 [[Tooling/Software Development/DevOps/Upsun|Upsun]]
+[[Daytona]]
 
 [[Vocabulary/Citizen Developers|Citizen Developers]]
+
+[[Harness Engineering]]
+
+[[concepts/Explainers for AI/Agentic Engineering|Agentic Engineering]]
+
 
 # What is AI Even Good At?
 

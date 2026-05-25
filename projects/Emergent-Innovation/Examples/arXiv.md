@@ -1,12 +1,15 @@
 ---
 date_created: 2025-11-30
-date_modified: 2025-11-30
+date_modified: 2026-05-23
 site_uuid: bbd39c60-c0de-4594-969d-abbbcfaa323c
 publish: true
 title: Arvix
 slug: arvix
 at_semantic_version: 0.0.0.1
 url: https://arxiv.org/
+tags:
+  - Open-Access-Publishers
+  - Credible-Journals
 ---
 
 ![Arvix Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ArXiv_logo_2022.svg/250px-ArXiv_logo_2022.svg.png)
