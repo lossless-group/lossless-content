@@ -1,6 +1,6 @@
 ---
-date_created: 2026-05-17
-date_modified: 2026-05-17
+date_created: 2026-05-14
+date_modified: 2026-05-14
 title: skm — A Simple SSH Keys Manager
 slug: skm-ssh-keys-manager
 tags: [Developer-Tools, SSH, Command-Line, Secrets-Management]

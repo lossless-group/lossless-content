@@ -1,6 +1,6 @@
 ---
-date_created: 2026-05-17
-date_modified: 2026-05-17
+date_created: 2026-03-30
+date_modified: 2026-03-30
 title: Chroma Context-1 — A 20B Agentic Search Model
 slug: chroma-context-1-agentic-search-model
 tags: [Chroma, Vector-Databases, RAG, Agentic-Search, Open-Weights, Retrieval, Small-Models]

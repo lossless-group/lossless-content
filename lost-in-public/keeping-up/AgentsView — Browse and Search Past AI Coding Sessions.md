@@ -1,6 +1,6 @@
 ---
-date_created: 2026-05-17
-date_modified: 2026-05-17
+date_created: 2026-05-13
+date_modified: 2026-05-13
 title: AgentsView — Browse and Search Past AI Coding Sessions
 slug: agentsview-ai-coding-session-browser
 tags: [AI-Coding, Developer-Tools, Observability, Claude-Code, Local-First]

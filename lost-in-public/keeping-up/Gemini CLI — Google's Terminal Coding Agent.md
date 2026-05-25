@@ -1,6 +1,6 @@
 ---
-date_created: 2026-05-17
-date_modified: 2026-05-17
+date_created: 2026-05-15
+date_modified: 2026-05-15
 title: Gemini CLI — Google's Terminal Coding Agent
 slug: gemini-cli-terminal-coding-agent
 tags: [AI-Coding, Developer-Tools, CLI, Google, Gemini, Claude-Code, Terminal-Agents]

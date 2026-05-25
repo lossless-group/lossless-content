@@ -1,6 +1,6 @@
 ---
-date_created: 2026-05-17
-date_modified: 2026-05-17
+date_created: 2026-04-12
+date_modified: 2026-04-12
 title: Llama 5 is Released
 slug: llama-5-is-released
 tags: [Open-Weights, LLMs, Meta, Foundation-Models, Long-Context]

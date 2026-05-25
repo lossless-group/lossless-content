@@ -1,6 +1,6 @@
 ---
-date_created: 2026-05-17
-date_modified: 2026-05-17
+date_created: 2026-05-13
+date_modified: 2026-05-13
 title: Presentify — Annotate, Highlight, and Zoom on macOS
 slug: presentify-screen-annotation-macos
 tags: [macOS, Presentations, Screen-Recording, Demos, Content-Creation]

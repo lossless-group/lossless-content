@@ -1,6 +1,6 @@
 ---
-date_created: 2026-05-17
-date_modified: 2026-05-17
+date_created: 2026-05-14
+date_modified: 2026-05-14
 title: Fresh — Short-Term Memory for Screenshots, Downloads, and Clipboard
 slug: fresh-general-software-temp-file-manager
 tags: [macOS, Productivity, File-Management, Clipboard]

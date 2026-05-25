@@ -1,6 +1,6 @@
 ---
-date_created: 2026-05-17
-date_modified: 2026-05-17
+date_created: 2026-04-28
+date_modified: 2026-04-28
 title: DeepSeek V4 Runs on Huawei Ascend — A Frontier Model Without NVIDIA
 slug: deepseek-v4-huawei-ascend
 tags: [LLMs, DeepSeek, China-AI, Huawei, Hardware, Geopolitics, Open-Weights]

@@ -1,6 +1,6 @@
 ---
-date_created: 2026-05-17
-date_modified: 2026-05-17
+date_created: 2026-05-15
+date_modified: 2026-05-15
 title: The Gemini 3 Family — Six Months of Rolling Releases
 slug: gemini-3-family-rollup
 tags: [LLMs, Google, Gemini, Multimodal, Foundation-Models]
