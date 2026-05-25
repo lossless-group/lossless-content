@@ -60,7 +60,7 @@ Recent technological advances, particularly in deep learning and end-to-end mode
 
 ### Future Outlook
 
-Looking ahead, **ASR is expected to become more seamless, [[Context Aware]], and personalized**, integrating tightly with multimodal interfaces and underpinning conversational AI systems. Improvements in understanding context, emotion, and intent will expand ASR's applications, while stricter privacy controls and ethical frameworks are likely to accompany its wider adoption. The transformative potential of ASR suggests it will continue to redefine how humans interact with technology across countless domains.
+Looking ahead, **ASR is expected to become more seamless, [[concepts/Context Aware Agents & AI]], and personalized**, integrating tightly with multimodal interfaces and underpinning conversational AI systems. Improvements in understanding context, emotion, and intent will expand ASR's applications, while stricter privacy controls and ethical frameworks are likely to accompany its wider adoption. The transformative potential of ASR suggests it will continue to redefine how humans interact with technology across countless domains.
 
 In summary, Automatic Speech Recognition transforms speech into actionable data, powering everything from daily conveniences to advanced business solutions. As ASR evolves, it promises to make technology even more intuitive, inclusive, and attuned to the nuances of human language.
 

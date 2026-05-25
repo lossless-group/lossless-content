@@ -57,7 +57,7 @@ Other API-related topics
 >     
 > 3. **[[Encapsulation]]**: APIs hide the internal workings of a system, exposing only the necessary functionalities. This improves security and usability by minimizing external access to sensitive components.
 >     
-> 4. **[[Interoperability]]**: They enable communication between different software systems, regardless of the technologies, architectures, or platforms involved in their development.
+> 4. **[[concepts/Interoperability (Data and Systems)]]**: They enable communication between different software systems, regardless of the technologies, architectures, or platforms involved in their development.
 >     
 > 
 > ---

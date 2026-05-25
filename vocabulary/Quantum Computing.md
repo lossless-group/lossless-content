@@ -1,13 +1,13 @@
 ---
 date_created: 2025-10-21
-date_modified: 2025-11-14
+date_modified: 2026-05-21
 site_uuid: b637233b-cc25-43a1-95cf-912d5072a73e
 publish: true
 title: "Quantum Computing"
 slug: quantum-computing
 at_semantic_version: 0.0.0.1
 ---
-
+https://youtube.com/shorts/SyLrbgjbuVk?si=K0XtfcNu9DXIS4a0
 
 ***
 > [!info] **Perplexity Deep Research Query** (2025-10-21T22:20:19.484Z)

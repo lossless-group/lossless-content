@@ -46,7 +46,7 @@ Some of the **largest systems integrators** globally (often called "global SIs" 
 - **Tata Consultancy Services (TCS)**
 - **Wipro**
 - **[[Infosys]]**
-- **[[Deloitte]]**
+- **[[organizations/Deloitte]]**
 - **HCL Technologies**
 - **DXC Technology**[^3c3x2a] [^nx3ih2] [^q62bwa]
 
