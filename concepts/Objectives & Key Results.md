@@ -43,7 +43,7 @@ OKRs help teams and organizations prioritize high-impact work, typically over qu
 ## Evolution
 - **1970s-1980s**: Originated at Intel under Andy Grove as a way to set iMBOs (intellectual Management by Objectives), focusing on measurable results amid semiconductor competition. [^0duwcm] [^isw8wo]
 - **1990s-2000s**: John Doerr introduced OKRs to Google as an early adopter, where it scaled for hypergrowth, with Doerr's 2018 book *"Measure What Matters"* codifying the framework for broader use. [^7spkhj] [^0duwcm]
-- **2010s-present**: Adapted widely in agile, startups, and tools like [[Tooling/Productivity/Workflow Management/Asana|Asana]] and [[15Five]], emphasizing 3-5 KRs per objective, quarterly cadences, and integration with check-ins for team alignment and learning. [^9rvxvf] [^mre0e5] [^7spkhj]
+- **2010s-present**: Adapted widely in agile, startups, and tools like [[Tooling/Productivity/Workflow Management/Asana|Asana]] and [[Tooling/Enterprise Jobs-to-be-Done/15Five]], emphasizing 3-5 KRs per objective, quarterly cadences, and integration with check-ins for team alignment and learning. [^9rvxvf] [^mre0e5] [^7spkhj]
 
 # Best Real-World Examples
 - [Intel](https://www.agile-academy.com/en/agile-dictionary/objectives-and-key-results-okrs/) – Pioneered OKRs under CEO Andy Grove for outcome-focused management. [^0duwcm] [^isw8wo]

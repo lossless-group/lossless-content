@@ -8,13 +8,13 @@ tags:
 The GNU Affero General Public License v3 (AGPL-3.0) is a strong copyleft license designed to ensure software remains free, specifically targeting network server software. It is identical to GPLv3 but closes the "ASP loophole" by requiring modified source code to be shared with users interacting with it remotely over a network (SaaS). [^1ahtgy] [^bc2fc4] [^wk4la3] [^8u4ebd]  
 Key Aspects of AGPL-3.0: 
 
-• Network [[Copyleft]] (Section 13): If you modify AGPL software and run it on a server for users to interact with remotely, you must make the source code available to those users. 
+• Network [[concepts/Copyleft]] (Section 13): If you modify AGPL software and run it on a server for users to interact with remotely, you must make the source code available to those users. 
 • Strong Copyleft: Any derivative work or modified version must be licensed under AGPL-3.0 if distributed or used in a network context. 
 • Comparison to GPLv3: While GPLv3 triggers source code sharing upon distribution, AGPL-3.0 triggers it upon modification and network interaction, even without distributing the software binary. 
 • Permitted Use: You can use, modify, and host AGPL software privately without releasing the code, but the obligation kicks in when you provide public or third-party access to the modified software through a network. 
 • Common Use Cases: Frequently used for web applications, SaaS tools, and software where the developers want to ensure modifications are shared back, such as Grafana or Mastodon. [^bc2fc4] [^8u4ebd] [^j11oyj] [^o81fel] [^o83wah] [^5wajy4]  
 
-Read the full text of the license on the [[Free Software Foundation]] website 
+Read the full text of the license on the [[organizations/Free Software Foundation]] website 
 
 
 [^1ahtgy]: [https://www.gnu.org/licenses/agpl-3.0.html](https://www.gnu.org/licenses/agpl-3.0.html)

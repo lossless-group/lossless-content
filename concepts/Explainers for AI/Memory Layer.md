@@ -2,7 +2,7 @@
 site_uuid: 08bbfec8-dc7e-46ea-aa03-2de6d747388d
 title: Memory Layer
 site_visibility: public
-date_modified: 2026-05-02
+date_modified: 2026-05-23
 date_created: 2025-03-30
 tags: [AI-Toolkit, Explainers, Agentic-AI]
 aliases: [Memory Layers]
@@ -47,6 +47,7 @@ Leading innovators focus on scalable, production-ready memory systems, often ope
 ### Why Agents Need a Memory Layer
 Agents require a standalone memory layer for **strategic persistence**—accumulating knowledge, semantic recall, and personalization over time—beyond tactical short-term context in frameworks like LangChain or AutoGen, which lack long-term depth. [^ussb0b] [^vedwh1] [^ro18hm] LLMs alone forget across sessions, leading to redundant context, high token costs, and poor coherence; memory layers optimize retrieval (e.g., via tiered hierarchies mimicking OS RAM/disk), reduce latency by 90%+, and enable advanced reasoning in multi-hop/temporal tasks. [^x20p8s] [^agacs4] [^vedwh1] Without it, agents remain reactive tools rather than adaptive partners. [^ro18hm]
 
+[^fh8q8h]: 2026, May. "[How to Build a Hybrid AI Memory System: Combining Memarch and Hermes | MindStudio](https://www.mindstudio.ai/blog/hybrid-ai-memory-system-memarch-hermes-claude-code)". REMY. [MindStudio](https://www.mindstudio.ai).
 
 https://youtube.com/shorts/V_575LB__6k?si=4vUMHqtFSOSJK2hi
 

@@ -74,7 +74,7 @@ Companies like **[[Tooling/Software Development/Developer Experience/Jira|Jira]]
 
 **Specialized Coordination Frameworks**
 
-Companies like **[[Lattice]]**, **[[15Five]]**, and **[[Ally]]** focus on organizational alignment, ensuring that strategic goals cascade through organizations and teams stay synchronized around shared objectives. **Semafor** addresses coordination in editorial and content organizations.
+Companies like **[[Lattice]]**, **[[Tooling/Enterprise Jobs-to-be-Done/15Five]]**, and **[[Ally]]** focus on organizational alignment, ensuring that strategic goals cascade through organizations and teams stay synchronized around shared objectives. **Semafor** addresses coordination in editorial and content organizations.
 
 **Industry-Specific Solutions**
 

@@ -39,7 +39,7 @@ At their core, agent traces provide a hierarchical view of an agent's execution 
 
 Practical use cases abound. During debugging, traces pinpoint failures, such as an agent hallucinating billing info after poor retrieval, by showing token usage, latency, and context history. [^q66sv4] In compliance-heavy sectors like finance, they offer audit trails of decisions, inputs, and errors for regulatory reviews. [^nd3db4] Performance teams use them for latency analysis—identifying if a tool call adds seconds of delay—or cost attribution, flagging token-heavy subtasks. [^q66sv4] Platforms distinguish trace types: live "agent run traces" for production monitoring and "evaluation traces" for testing against scenarios. [^nd3db4]
 
-Benefits include faster fixes (e.g., [[Sierra]]'s traces catch issues pre-production), cost control, and SLA verification. [^u5gse3] [^q66sv4] Challenges involve overhead from real-time logging and data volume, though frameworks like [[AgentTrace]] minimize this with lightweight instrumentation across operational, cognitive, and contextual surfaces. [^qdwb3f] Privacy considerations also arise, requiring anonymization of sensitive traces.
+Benefits include faster fixes (e.g., [[Sierra]]'s traces catch issues pre-production), cost control, and SLA verification. [^u5gse3] [^q66sv4] Challenges involve overhead from real-time logging and data volume, though frameworks like [[AgentRace]] minimize this with lightweight instrumentation across operational, cognitive, and contextual surfaces. [^qdwb3f] Privacy considerations also arise, requiring anonymization of sensitive traces.
 
 ![Practical example or use case visualization](https://innodata.com/wp-content/uploads/2026/02/Screenshot-2026-02-10-at-11.48.23-AM-1024x569.webp)
 

@@ -1,6 +1,6 @@
 ---
 date_created: 2025-11-24
-date_modified: 2025-11-24
+date_modified: 2026-05-22
 site_uuid: 511018ef-1af7-49eb-a4b2-1d1de07169a0
 aliases: [TPU, TPUs, Tensor Processing Unit]
 publish: true
@@ -20,6 +20,8 @@ tags: [Chip-Designs, Explainers]
 > 
 
 A **Tensor Processing Unit (TPU)** is a specialized application-specific integrated circuit (ASIC) developed by Google to accelerate machine learning tasks, particularly those involving neural networks. [^fyb3cb] [^w15ozc] [^mktaq8] TPUs represent a significant leap in AI hardware, designed to make large-scale deep learning and data analytics faster and more efficient than what is possible with traditional CPUs or even GPUs. [^w15ozc] [^3ab4ps] Their widespread adoption is influencing everything from the efficiency of commercial AI systems to advancements in cloud computing.
+
+https://youtu.be/HgI5RTvJza4?si=sI6A3vEVxg-5axQI
 
 ![TPUs concept diagram or illustration](https://www.vyrian.com/blog/wp-content/uploads/2023/04/What-is-a-Tensor-Processing-Unit-TPU-and-how-does-it-work.jpg)
 

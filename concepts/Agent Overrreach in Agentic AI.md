@@ -51,7 +51,7 @@ Agent overreach as a discrete security concern emerged in early 2025 as autonomo
 
 - **January 2026 – Regulatory codification:** The UK ICO's January 2026 agentic AI report and the Moltbook API key breach (January 31, 2026) elevated agent overreach from a technical concern to a compliance and liability issue, framing it as a violation of purpose limitation and data minimization under GDPR-like regimes . [^7uapvy]
 
-- **2026 – OWASP and NIST alignment:** Security standards bodies formally classified agent overreach under LLM06:2025 Excessive Agency and broader ASI ([[Agentic System Intelligence]]) risk taxonomies, linking it to goal hijacking, identity abuse, and cascading multi-agent failures, establishing observability and least agency as dual controls . [^vqnux7] [^nov2r3]
+- **2026 – OWASP and NIST alignment:** Security standards bodies formally classified agent overreach under LLM06:2025 Excessive Agency and broader ASI ([[concepts/Explainers for AI/Agentic System Intelligence]]) risk taxonomies, linking it to goal hijacking, identity abuse, and cascading multi-agent failures, establishing observability and least agency as dual controls . [^vqnux7] [^nov2r3]
 
 # Best Real-World Examples
 
