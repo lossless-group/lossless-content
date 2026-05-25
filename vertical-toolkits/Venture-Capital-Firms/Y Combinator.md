@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-30
-date_modified: 2025-11-26
+date_modified: 2026-05-22
 tags: [Venture-Capital-Firms, Accelerator-Programs]
 site_uuid: ab8c36fe-574c-4a4c-a74b-bf16d7fe0790
 publish: true
@@ -11,6 +11,8 @@ at_semantic_version: 0.0.0.1
 
 [[vertical-toolkits/Venture-Capital-Firms/Y Combinator|Y Combinator]] has most of their [[Sources/Media/Startup School|Startup School]] lectures on [[Sources/Media/YouTube|YouTube]]
 
+
+[Bookface](https://bookface.ycombinator.com/)
 
 ***
 > [!info] **Perplexity Query** (2025-11-26T12:34:19.581Z)
@@ -27,9 +29,9 @@ Y Combinator is widely recognized as the gold standard of startup accelerators, 
 
 ## Main Content
 
-Y Combinator was founded by Paul Graham, Jessica Livingston, Robert Tappan Morris, and Trevor Blackwell with the vision of creating a new model for startup funding that prioritized bold ideas and early-stage innovation. The accelerator operates on a unique model: it invests a small amount of seed funding in a large number of startups four times a year, offering intensive mentorship and resources to help founders refine their ideas, navigate investor relationships, and accelerate growth. The name "Y Combinator" is derived from a concept in computer science that allows for recursive function calls, symbolizing the accelerator's goal of combining ideas and funding to foster exponential growth.
+Y Combinator was founded by [[Paul Graham]], Jessica Livingston, Robert Tappan Morris, and Trevor Blackwell with the vision of creating a new model for startup funding that prioritized bold ideas and early-stage innovation. The accelerator operates on a unique model: it invests a small amount of seed funding in a large number of startups four times a year, offering intensive mentorship and resources to help founders refine their ideas, navigate investor relationships, and accelerate growth. The name "Y Combinator" is derived from a concept in computer science that allows for recursive function calls, symbolizing the accelerator's goal of combining ideas and funding to foster exponential growth.
 
-Practical examples of Y Combinator's impact are abundant. The first batch in 2005 included Reddit, which quickly became a major success story. Other notable alumni include Airbnb, Stripe, Dropbox, Coinbase, and DoorDash, all of which have achieved billion-dollar valuations and transformed their respective industries. These companies exemplify the benefits of Y Combinator's approach: access to capital, expert guidance, and a supportive community that can help startups overcome common challenges such as market entry, scaling, and fundraising.
+Practical examples of Y Combinator's impact are abundant. The first batch in 2005 included Reddit, which quickly became a major success story. Other notable alumni include [[organizations/AirBnB]], [[organizations/Stripe|Stripe]], [[Tooling/Enterprise Jobs-to-be-Done/Dropbox|Dropbox]], [[vertical-toolkits/FinTech/Coinbase]], and DoorDash, all of which have achieved billion-dollar valuations and transformed their respective industries. These companies exemplify the benefits of Y Combinator's approach: access to capital, expert guidance, and a supportive community that can help startups overcome common challenges such as market entry, scaling, and fundraising.
 
 The benefits of participating in Y Combinator extend beyond financial support. Founders gain access to a vast network of mentors, investors, and fellow entrepreneurs, which can be invaluable for navigating the complexities of building a successful company. Additionally, the rigorous selection process ensures that only the most promising startups are chosen, creating a self-reinforcing cycle of growth and innovation. However, the program is highly competitive, and not all startups are accepted, which can be a significant challenge for aspiring entrepreneurs.
 
