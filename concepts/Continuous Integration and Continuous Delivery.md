@@ -1,7 +1,7 @@
 ---
 site_uuid: 3b205a7a-830a-4521-a44c-bf0dc159d73e
 date_created: 2025-04-18
-date_modified: 2026-05-10
+date_modified: 2026-05-25
 aliases:
   - CD
   - CI
@@ -9,6 +9,7 @@ aliases:
   - Continuous Integration
   - Continuous Delivery
   - CI/CD Pipelines
+  - Continuous Deployment
 publish: true
 title: Continuous Integration and Continuous Delivery
 slug: continuous-integration-and-continuous-delivery

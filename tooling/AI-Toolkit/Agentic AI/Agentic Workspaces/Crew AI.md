@@ -15,7 +15,7 @@ og_title: "The Leading Multi-Agent Platform"
 og_favicon: "https://cdn.prod.website-files.com/66cf2bfc3ed15b02da0ca770/66e1e4b0efcc40f3abe63988_32x32.png"
 ---
 
-[[Open Source]]
+[[Vocabulary/Open Source Software]]
 
 [[Agentic AI]]
 

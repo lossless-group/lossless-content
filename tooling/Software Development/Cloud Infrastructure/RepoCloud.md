@@ -21,5 +21,5 @@ tags:
 [[One-Click Deployments]]
 [[client-content/Laerdal/Recommendations/on Cloud Infrastructure]]
 
-##### RepoCloud provides a marketplace of [[Open Source]] solutions.
+##### RepoCloud provides a marketplace of [[Vocabulary/Open Source Software]] solutions.
 ![[Screenshot 2025-02-20 at 2.09.10 AM_RepoCloud--Hero.png]]

@@ -47,7 +47,7 @@ Several pioneering computer architects have shaped modern computing. Not all hav
 - **Seymour Cray**: Invented several supercomputers, notably the CDC 6600 and Cray-1, introducing advanced pipelining and vector processing. [^nr9iur]
 - **Gordon Bell**: Led the development of the DEC VAX architecture. [^nr9iur]
 - **Jim Keller**: Instrumental at AMD (K8, Zen), Apple (A4/A5 chips), and Tesla (AI chips) in CPU/microarchitecture design. [^nr9iur]
-- **David Patterson & John Hennessy**: Created the [[projects/Emergent-Innovation/Standards/RISC-V|RISC]] (Reduced Instruction Set Computing) architecture, foundational for [[projects/Emergent-Innovation/Standards/ARM|ARM]] and modern CPUs. [^nr9iur]
+- **David Patterson & John Hennessy**: Created the [[projects/Emergent-Innovation/Standards/RISC-V|RISC]] (Reduced Instruction Set Computing) architecture, foundational for [[Sources/Standards-and-Specs/ARM|ARM]] and modern CPUs. [^nr9iur]
 - **John Cocke**: Key developer behind IBM's RISC efforts. [^nr9iur]
 - **Yale Patt**: Developed out-of-order execution and other performance improvements used in modern processors. [^nr9iur]
 
@@ -72,7 +72,7 @@ Several pioneering computer architects have shaped modern computing. Not all hav
 
 **Example revenue estimates (2024):**
 
-- **[[projects/Emergent-Innovation/Standards/ARM|ARM]] Holdings** (now public, owned by SoftBank): FY 2023 revenue ~$3.2 billion, primarily from IP licensing and royalties.
+- **[[Sources/Standards-and-Specs/ARM|ARM]] Holdings** (now public, owned by SoftBank): FY 2023 revenue ~$3.2 billion, primarily from IP licensing and royalties.
 - **[[organizations/Intel|Intel]]:** 2023 revenue ~$54 billion, with most from CPUs and data center products.
 - **[[organizations/AMD|AMD]]:** 2023 revenue ~$22.7 billion, mix of CPUs, GPUs, and semi-custom.
 - **[[organizations/Nvidia|Nvidia]]:** 2024 revenue estimates exceed $60 billion, fueled by AI/datacenter accelerators.
@@ -169,7 +169,7 @@ Many modern programming languages have their own computational **Virtual Machine
 
 **Key Programming Languages with Their Own Virtual Machines:**
 
-- **Java**: Runs on the **Java Virtual Machine (JVM)**. The JVM is notable for supporting many additional languages beyond Java, such as [[Scala]], [[Kotlin]], [[Groovy]], JRuby, Jython, [[Clojure]], and more, by translating source code into JVM bytecode. [^1nfskw] [^od46nc] [^7hn9qh]  
+- **Java**: Runs on the **Java Virtual Machine (JVM)**. The JVM is notable for supporting many additional languages beyond Java, such as [[Scala]], [[Kotlin]], [[Groovy]], JRuby, Jython, [[Tooling/Software Development/Programming Languages/Clojure]], and more, by translating source code into JVM bytecode. [^1nfskw] [^od46nc] [^7hn9qh]  
   [IMAGE 1: Relevant diagram or illustration related to JVM and multi-language support]
 
 - **[[Tooling/Software Development/Programming Languages/Python|Python]]**: Standard implementation (CPython) operates with a **Python Virtual Machine (PVM)**, interpreting Python bytecode.

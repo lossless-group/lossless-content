@@ -14,4 +14,4 @@ tags:
 ---
 
 Uses [[Tooling/Software Development/Programming Languages/Datalog|Datalog]]
-Designed by the founder of [[Clojure]]
+Designed by the founder of [[Tooling/Software Development/Programming Languages/Clojure]]

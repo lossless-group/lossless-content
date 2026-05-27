@@ -17,9 +17,9 @@ og_last_fetch: '2025-05-28T22:49:38.628Z'
 tags: [AI-Toolkit, Model-Producers]
 ---
 
-[[Open Source]] [[Local LLM]] [[AI Models]]
+[[Vocabulary/Open Source Software]] [[Local LLM]] [[AI Models]]
 
-##### [[AI2]] develops [[Open Source]] [[AI Models|Models]] for [[Local LLM]]
+##### [[AI2]] develops [[Vocabulary/Open Source Software]] [[AI Models|Models]] for [[Local LLM]]
 ![[Screenshot 2025-02-24 at 10.37.33 AM_Allen-AI--Hero.png]]
 
 <iframe style="aspect-ratio:16/9;width:100%;height:auto" src="https://www.youtube.com/embed/P26xOoUuef4?si=s4QYDhLINBiYVpXx&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-27
-date_modified: 2025-08-27
+date_modified: 2026-05-26
 site_uuid: 28546806-88c3-4c82-9098-1f83aaf1bd33
 publish: true
 title: AI Safety
@@ -9,6 +9,8 @@ at_semantic_version: 0.0.0.1
 augmented_with: Perplexity AI
 authors:
   - Michael Staton
+aliases:
+  - AI Safety and Governance
 ---
 [[Tooling/AI-Toolkit/Model Producers/Safe Superintelligence|Safe Superintelligence]]
 ***
@@ -27,8 +29,6 @@ AI safety encompasses a broad set of principles and practices aimed at preventin
 Practical applications of AI safety can be seen across various industries. In healthcare, safety protocols are crucial for diagnostic AI tools to minimize the risk of erroneous treatment recommendations. In finance, AI-driven trading systems require safeguards to prevent catastrophic market disruptions due to flawed algorithmic behavior. Similarly, content moderation systems on social media platforms implement filters and escalation protocols to avoid the spread of harmful or false information. [^d4f8tw] Benefits of robust AI safety measures include increased trust in technology, legal compliance, reduced operational risks, and enhanced user protection. [^d4f8tw] [^jynl4s]
 
 However, significant challenges remain. The rapid pace of AI development often outstrips society’s ability to implement, test, and update safety protocols. [^109h1d] [^wzl69l] Competitive pressure in both public and private sectors can lead to premature deployment of powerful models, sometimes before rigorous safety evaluations are complete. [^wzl69l] Issues like prompt injection (where AI systems are tricked into producing unintended responses) and data poisoning (malicious tampering with training datasets) illustrate evolving risk landscapes. [^d4f8tw] A key consideration is that even the creators of advanced models often do not fully understand their decision processes or vulnerabilities, further complicating risk management. [^109h1d]
-
-![AI Safety practical example or use case](https://futureoflife.org/wp-content/uploads/2025/07/Indicator-Lobbying_on_AI_safety_regulations-scaled.jpg)
 
 The *current state of AI safety* is characterized by rapid adoption and increasing market emphasis. In 2025, over 72% of businesses are integrating AI into operations, with global investments in safety research rising accordingly. [^d4f8tw] [^109h1d] Major technology firms—such as OpenAI, DeepMind, Google, Microsoft, and IBM—are establishing internal safety frameworks and collaborating with governments on regulation and public policy. [^jynl4s] [^109h1d] Recent developments include formalized regulatory guidelines, the launch of dedicated AI safety institutes (for instance, the US AI Safety Institute), and a proliferation of empirical research into AI alignment, adversarial robustness, and verifiable system behavior. [^sf096g]
 

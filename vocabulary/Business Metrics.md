@@ -41,7 +41,7 @@ Core financial and operational metrics (e.g., revenue, CAC, ROI) explicitly tied
 - **Antonyms**: 
   - Vanity metrics: Superficial numbers (e.g., raw signups) that don't correlate to business health.
   - Qualitative insights: Non-numerical observations like user feedback.
-- **Adjacent terms**: [[Vocabulary/Customer Acquisition Cost|Customer Acquisition Cost]], [[Churn Rate]], [[Vocabulary/Net Promoter Score|Net Promoter Score]], [[Product-Market Fit]], [[concepts/Product-Led Growth|Growth Hacking]], [[concepts/Objectives & Key Results|OKRs]].
+- **Adjacent terms**: [[Vocabulary/Customer Acquisition Cost|Customer Acquisition Cost]], [[Churn Rate]], [[Vocabulary/Net Promoter Score|Net Promoter Score]], [[concepts/Product-Market Fit]], [[concepts/Product-Led Growth|Growth Hacking]], [[concepts/Objectives & Key Results|OKRs]].
 
 # Usage in Practice
 - "Financial metrics provide insights into a company’s overall financial health and profitability," used by founders to benchmark against peers during seed rounds.[1]

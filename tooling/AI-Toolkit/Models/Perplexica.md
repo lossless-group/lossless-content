@@ -82,5 +82,5 @@ https://youtu.be/me5SyOFegWo?si=uLuXS3O8XOqBCvxd
 
 
 
-An [[Open Source]] alternative to [[organizations/Perplexity AI]]
+An [[Vocabulary/Open Source Software]] alternative to [[organizations/Perplexity AI]]
 

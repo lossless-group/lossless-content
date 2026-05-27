@@ -4,7 +4,7 @@ date_modified: 2026-05-02
 github_repo_url: https://github.com/steveyegge/beads
 tags: [Public-Repos, Code-Libraries, Check-It-Out, AI-Memory-Enhancers, Memory-Layers, AI-Toolkit]
 ---
-A [[concepts/Explainers for AI/Memory Layer|Memory Layer]] for your [[concepts/Explainers for AI/Code Generators|Coding Agent]]
+A [[concepts/Explainers for AI/Memory Layers|Memory Layers]] for your [[concepts/Explainers for AI/Code Generators|Coding Agent]]
 
 ***
 > [!info] **Perplexity Query** (2026-05-02T22:17:03.606Z)

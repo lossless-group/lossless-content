@@ -45,7 +45,7 @@ _Guillermo Rauch is a pioneering software engineer and entrepreneur whose open-s
 - Translates open-source technical excellence into $3B+ business scale, modeling how solo coders bootstrap to global leadership (from bedroom coder to 500-person org). [^jle5bk]
 - [[Tooling/Software Development/Frameworks/Web Frameworks/NEXT.js|NEXT.js]] democratizes high-performance web apps, empowering indie devs against corporate giants — frames innovation as "create at the moment of inspiration."[^k7e1bi]
 - Pioneers AI-web convergence via v0 and Vercel, teaching essential skills like AI iteration and intent definition for product landscapes. [^5pt12f] [^kue13t]
-- Embodies founder journey from $0 to unicorn via open-source advocacy, installing mental models of [[Vocabulary/Open Source|Open Source]] and web performance as competitive edge. [^jle5bk] [^k7e1bi]
+- Embodies founder journey from $0 to unicorn via open-source advocacy, installing mental models of [[Vocabulary/Open Source Software|Open Source Software]] and web performance as competitive edge. [^jle5bk] [^k7e1bi]
 
 # Best Starting Points
 - `[Next.js](https://nextjs.org)` — canonical framework capturing his vision for instant, scalable web creation. [^jle5bk] [^k7e1bi]

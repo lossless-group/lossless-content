@@ -196,7 +196,7 @@ AI enhances business intelligence (BI) systems by automating data analysis, iden
 By connecting these capabilities across the organization, businesses can create unified data ecosystems for real-time insights and decision-making.
 
 - **End-to-End Providers:**
-    - **[[Palantir]]:** Offers comprehensive data integration and analysis platforms for large-scale enterprises.
+    - **[[Palantir Technologies]]:** Offers comprehensive data integration and analysis platforms for large-scale enterprises.
     - **[[Tooling/Data Utilities/DataBricks|DataBricks]]:** Provides a unified platform for data engineering, machine learning, and analytics.
     - **[[Snowflake]]:** A cloud-based data warehouse with AI-powered integrations for analytics and collaboration.
 

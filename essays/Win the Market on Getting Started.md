@@ -34,7 +34,7 @@ Hundreds of billions in value have been created just by making software that is 
 
 ## The Activation Cost Lens
 
-Every product has an activation cost. It is the sum of everything a new customer must do, learn, pay for, or surrender before they get any value back. [[Activation Cost]] has at least five components:
+Every product has an activation cost. It is the sum of everything a new customer must do, learn, pay for, or surrender before they get any value back. [[Vocabulary/Activation Cost]] has at least five components:
 
 1. **Install** — Do I have to download something? Configure my machine? Wait?
 2. **Configure** — Do I have to set up a project, a schema, a permission model, a workspace, a billing relationship, before anything happens?

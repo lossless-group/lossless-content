@@ -18,7 +18,7 @@ tags:
 
 An [[Agentic AI]] framework in [[Tooling/Software Development/Programming Languages/Python]].
 
-[[Open Source]]
+[[Vocabulary/Open Source Software]]
 
 https://youtu.be/xVe87QpNE80?si=fMoXXyRJy68zjQ07
 

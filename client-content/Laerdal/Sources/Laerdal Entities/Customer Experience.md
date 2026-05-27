@@ -10,6 +10,6 @@ tags: [Customer-Experience]
 :::
 
 Based in the United States. 
-[[Vocabulary/Customer Experience|Customer Experience]]
+[[concepts/Market-Categories/Customer Experience|Customer Experience]]
 
 

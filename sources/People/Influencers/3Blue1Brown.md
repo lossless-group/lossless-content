@@ -7,4 +7,4 @@ date_modified: 2025-03-21
 
 [[YouTube]] influencer that explains math, data, and statistical concepts.  
 
-Creates and maintains a dynamic math visualization and animation tool, [[Manim]], as an [[Open Source]] project on [[GitHub]].  
+Creates and maintains a dynamic math visualization and animation tool, [[Manim]], as an [[Vocabulary/Open Source Software]] project on [[GitHub]].  

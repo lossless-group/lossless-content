@@ -25,7 +25,7 @@ github_profile_url: https://github.com/baserow
 
 
 
-[[concepts/Explainers for Tooling/Database Apps|Database Apps]], defaults to [[Open Source]] as an alternative to [[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Airtable|Airtable]]
+[[concepts/Explainers for Tooling/Database Apps|Database Apps]], defaults to [[Vocabulary/Open Source Software]] as an alternative to [[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Airtable|Airtable]]
 
 # Baserow 2.0
 [^17lxb0]: "[Baserow 2.0 Release](https://www.producthunt.com/products/baserow/launches/baserow-2-0)". completing the action below.. [Producthunt](https://www.producthunt.com).

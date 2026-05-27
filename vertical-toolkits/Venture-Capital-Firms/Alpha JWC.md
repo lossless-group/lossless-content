@@ -1,6 +1,6 @@
 ---
 date_created: 2026-05-02
-date_modified: 2026-05-20
+date_modified: 2026-05-26
 url: https://www.alphajwc.com/en/
 og_title: Alpha JWC - Best Investment Firm in Indonesia and SEA
 og_description: A Southeast Asian early-to-growth stage investment firm that debuted in Indonesia in 2015 with 70+ active portfolio companies and USD$650m of AUM.
@@ -24,5 +24,15 @@ Crypto side:
 
 Raising $200M
 
-Dental clinic
+Dental Clinic
+
+Edge Neural Network processor chips
+Humanoid Robots
+Seagoing Drones
+
+
+When you know the risks you are taking.  
+Fund construction math.  
+
+
 

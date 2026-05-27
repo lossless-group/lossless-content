@@ -17,7 +17,7 @@ description: 'Open Source backend in 1 file with realtime database, authenticati
 tags: [Lego-Kit-Engineering-Tools, Software-Development, Databases, Backend-As-A-Service]
 ---
 
-[[Open Source]]
+[[Vocabulary/Open Source Software]]
 [[concepts/Explainers for Tooling/Backend-as-a-Service]]
 Built on [[SQLite]].
 

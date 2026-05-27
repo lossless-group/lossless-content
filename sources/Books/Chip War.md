@@ -1,7 +1,7 @@
 ---
 amazon_url: https://www.amazon.com/Chip-War-Worlds-Critical-Technology/dp/1982172002
 date_created: 2025-04-18
-date_modified: 2026-05-10
+date_modified: 2026-05-26
 site_uuid: d89ee344-c7f6-438b-afcf-f597d59a6299
 title: Chip War
 slug: chip-war
@@ -30,7 +30,7 @@ https://youtu.be/OxUP51qk4lQ?si=R9LnHtnBdntvWlH-
 [[organizations/AMD|AMD]]
 [[organizations/Texas Instruments|Texas Instruments]]
 [[organizations/TSMC|TSMC]]
-[[organizations/Interuniversity Microelectronics Centre|Interuniversity Microelectronics Centre]]
+[[organizations/Interuniversity Microelectronics Centre|Interuniversity Microelectronics Centr]]
 
 
 ***

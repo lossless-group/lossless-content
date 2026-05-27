@@ -15,6 +15,6 @@ og_last_fetch: 2025-08-08T12:53:47.254Z
 tags: [Enterprise-AI, Customer-Success-AI, Customer-Experience, Customer-Support-Agents, Customer-Experience-Platforms, Agentic-AI, Enterprise-Agents, Support-Agents, Check-It-Out, AI-Toolkit]
 ---
 [[concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]]
-[[Vocabulary/Customer Experience|Customer Experience]]
+[[concepts/Market-Categories/Customer Experience|Customer Experience]]
 [[Vocabulary/Agentic AI|Agentic AI]]
 [[concepts/Explainers for AI/Proactive Support Agents|Proactive Support Agents]]

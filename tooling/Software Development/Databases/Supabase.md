@@ -14,7 +14,7 @@ description: Build production-grade applications with a Postgres database, Authe
 tags: [Software-Development, Serverless-Database, Document-Databases, Database-Wrappers]
 ---
 
-Supabase is actually built on the [[Open Source]] [[concepts/Explainers for Tooling/Databases|Database]] [[Postgres]].
+Supabase is actually built on the [[Vocabulary/Open Source Software]] [[concepts/Explainers for Tooling/Databases|Database]] [[Postgres]].
 
 ### Supabase has templates and starter code to ease getting started
 [[Supabase]] provides example code in common [[concepts/Explainers for Tooling/Programming Languages|Programming Languages]] and [[concepts/Explainers for Tooling/Web Frameworks|Web Frameworks]] including [[NEXT.js]], [[Svelte]], and [[React]].

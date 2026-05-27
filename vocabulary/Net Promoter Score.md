@@ -12,7 +12,7 @@ at_semantic_version: 0.0.1.0
 tags: [Founder-Toolkit, Digital-Marketing-Tools]
 ---
 
-[[Vocabulary/Customer Experience|Customer Experience]]
+[[concepts/Market-Categories/Customer Experience|Customer Experience]]
 [[concepts/Explainers for Tooling/ABM Platforms|ABM Platforms]]
 
 ***
@@ -39,7 +39,7 @@ To calculate NPS, subtract the percentage of Detractors from the percentage of P
 
 ![Net Promoter Score practical example or use case](https://www.qualtrics.com/m/assets/wp-content/uploads/2020/09/1567314_calculate_nps_B_021423.png)
 
-Today, **NPS is firmly embedded in business practice**, with two-thirds of Fortune 1000 companies relying on the metric to steer [[Vocabulary/Customer Experience|Customer Experience]] strategies. [^podeo4] Tools such as Qualtrics, [[Tooling/Enterprise Jobs-to-be-Done/Medallia|Medallia]], and SurveyMonkey have integrated NPS modules, and consulting firms like Bain & Company (inventors of NPS) offer robust Net Promoter System frameworks. [^2os5ik] [^podeo4] Digitalization and data analytics have enabled real-time tracking and sophisticated segmentation, while competitors have expanded NPS’s reach into Employee Net Promoter Score (eNPS) and other relationship dimensions. [^podeo4]
+Today, **NPS is firmly embedded in business practice**, with two-thirds of Fortune 1000 companies relying on the metric to steer [[concepts/Market-Categories/Customer Experience|Customer Experience]] strategies. [^podeo4] Tools such as Qualtrics, [[Tooling/Enterprise Jobs-to-be-Done/Medallia|Medallia]], and SurveyMonkey have integrated NPS modules, and consulting firms like Bain & Company (inventors of NPS) offer robust Net Promoter System frameworks. [^2os5ik] [^podeo4] Digitalization and data analytics have enabled real-time tracking and sophisticated segmentation, while competitors have expanded NPS’s reach into Employee Net Promoter Score (eNPS) and other relationship dimensions. [^podeo4]
 
 Recent years have seen the emergence of AI-driven analytics and automation in NPS programs. Modern platforms not only capture scores, but also analyze open-text feedback, identify themes, and prioritize interventions. Companies are embedding NPS collection seamlessly into apps, chatbots, and digital touchpoints, improving participation rates and recency of insights. Global standardization efforts and sector-specific benchmarks now help brands interpret their results more rigorously. [^podeo4] [^2os5ik]
 

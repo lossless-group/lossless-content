@@ -15,7 +15,7 @@ for_clients:
 ---
 
 [[Vocabulary/Marketing Automation|Marketing Automation]]
-[[Vocabulary/Customer Experience|Customer Experience]]
+[[concepts/Market-Categories/Customer Experience|Customer Experience]]
 [[concepts/Account-Based Marketing|Account-Based Marketing]]
 [[concepts/Explainers for Tooling/Vendor Management Systems|Vendor Management Systems]]
 [[Vocabulary/CRM|CRM]]

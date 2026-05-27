@@ -15,7 +15,7 @@ tags:
   - Productivity
 ---
 
-An [[Open Source]] alternative to [[Tooling/Productivity/Async Communication/Slack]].
+An [[Vocabulary/Open Source Software]] alternative to [[Tooling/Productivity/Async Communication/Slack]].
 
 [[AI Plugin]]: https://github.com/mattermost/mattermost-plugin-ai
 

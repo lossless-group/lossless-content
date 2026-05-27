@@ -10,7 +10,7 @@ at_semantic_version: 0.0.0.1
 tags: [Vertical-Drones, Drone-Platforms, Drone-Producers]
 ---
 [[Helsing]]
-[[Anduril]]
+[[organizations/Anduril]]
 
 ***
 > [!info] **Perplexity Query** (2025-12-02T11:48:21.465Z)

@@ -74,7 +74,7 @@ Unlike rigid, rule-based automation, agentic workspaces use advanced technologie
 **Practical examples and use cases** include:
 - **Operations management**: AI [[Vocabulary/Agentic AI|Agents]] dynamically route logistics, rebalance inventory, and optimize staffing in response to unexpected demand or disruptions. [^ytx4d3]
 - **Financial workflows**: Agents gather spending data, predict compliance risks, approve routine purchases, and flag anomalies for human review.
-- **Customer service**: [[Vocabulary/Customer Experience|Customer Experience]] Agents triage inquiries, fetch answers from knowledge bases, proactively escalate urgent matters, and learn from past user interactions to improve service quality.
+- **Customer service**: [[concepts/Market-Categories/Customer Experience|Customer Experience]] Agents triage inquiries, fetch answers from knowledge bases, proactively escalate urgent matters, and learn from past user interactions to improve service quality.
 
 The **benefits** of agentic workspaces are substantial:
 - **Increase efficiency** by automating complex decision-making across multiple systems. [^8fc8j9]

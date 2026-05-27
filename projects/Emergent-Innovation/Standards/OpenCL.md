@@ -80,7 +80,7 @@ aliases:
 > #### **5. Ecosystem and Vendor Support**
 > 
 > - **OpenCL:**
->     - Supported by multiple vendors, including [[organizations/Intel]], AMD, [[projects/Emergent-Innovation/Standards/ARM]], and NVIDIA (though NVIDIA emphasizes CUDA for its GPUs). This makes OpenCL a truly open standard for heterogeneous computing.
+>     - Supported by multiple vendors, including [[organizations/Intel]], AMD, [[Sources/Standards-and-Specs/ARM]], and NVIDIA (though NVIDIA emphasizes CUDA for its GPUs). This makes OpenCL a truly open standard for heterogeneous computing.
 > - **Alternatives:**
 >     - **CUDA:** Dominates the machine learning and AI ecosystem due to NVIDIA's GPUs' widespread adoption in these fields.
 >     - **HIP:** Focused on AMD GPUs, with limited adoption compared to CUDA.

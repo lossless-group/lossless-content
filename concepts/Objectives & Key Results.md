@@ -38,7 +38,7 @@ OKRs help teams and organizations prioritize high-impact work, typically over qu
 # History of Use
 
 ## Origins
-[[Andy Grove]], "dubbed 'The Grandfather of OKRs,'" created and rolled out the methodology as CEO of Intel, developing it there in the management-by-objectives style. [^0duwcm] [^isw8wo] One of Grove’s seminar students, [[John Doerr]], popularized it further by applying OKRs at other companies and authoring the #1 New York Times bestseller *"[[Measure What Matters]],"* where he shares "how OKRs helped tech giants from Intel to Google achieve explosive growth."[^0duwcm] The term OKRs thus first gained prominence through Grove's Intel implementation and Doerr's evangelism via book and seminars. [^0duwcm]
+[[Sources/People/Andy Grove (Intel)]], "dubbed 'The Grandfather of OKRs,'" created and rolled out the methodology as CEO of Intel, developing it there in the management-by-objectives style. [^0duwcm] [^isw8wo] One of Grove’s seminar students, [[John Doerr]], popularized it further by applying OKRs at other companies and authoring the #1 New York Times bestseller *"[[Measure What Matters]],"* where he shares "how OKRs helped tech giants from Intel to Google achieve explosive growth."[^0duwcm] The term OKRs thus first gained prominence through Grove's Intel implementation and Doerr's evangelism via book and seminars. [^0duwcm]
 
 ## Evolution
 - **1970s-1980s**: Originated at Intel under Andy Grove as a way to set iMBOs (intellectual Management by Objectives), focusing on measurable results amid semiconductor competition. [^0duwcm] [^isw8wo]

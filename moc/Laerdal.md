@@ -71,7 +71,7 @@ date_modified: 2025-11-26
 - [[Vocabulary/Module Federation|Module Federation]]
 - [[Vocabulary/Prompt Templates|Prompt Templates]]
 - [[Vocabulary/Extended Reality|Extended Reality]]
-- [[Vocabulary/Customer Experience|Customer Experience]]
+- [[concepts/Market-Categories/Customer Experience|Customer Experience]]
 - [[Vocabulary/Self-Hosting|Self-Hosting]]
 - [[Vocabulary/Microfrontend Architecture|Microfrontends]]
 - [[Vocabulary/Microservices|Microservices]]

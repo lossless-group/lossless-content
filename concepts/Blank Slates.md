@@ -1,11 +1,11 @@
 ---
 site_uuid: d29cccc3-2ca0-4486-9953-47a412356666
 date_created: 2025-04-18
-date_modified: 2025-07-22
+date_modified: 2026-05-27
 aliases: [Blank Slate]
 ---
 
-[[Elon Musk]] says the mindset that led to the success of Tesla and SpaceX was to start with a [[concepts/Blank Slates]].
+[[Elon Musk]] says the mindset that led to the success of Tesla and SpaceX was to start with a [[concepts/Blank Slates|Blank Slates]].
 
 
 
@@ -14,47 +14,8 @@ aliases: [Blank Slate]
 > **Question:**
 > Write a comprehensive one-page article about "[[Elon Musk]] says the mindset that led to the success of Tesla and SpaceX was to start with a [[concepts/Blank Slates]].". 
 > 
-> Structure the article as follows:
-> 
-> 1. **Introduction** (2-3 sentences)
->    - Define the term and its significance
->    - Provide context for why it matters
-> 
-> 2. **Main Content** (3-4 paragraphs)
->    - Explain the concept in detail
->    - Include practical examples and use cases
->    - Discuss benefits and potential applications
->    - Address any challenges or considerations
-> 
-> 3. **Current State and Trends** (1-2 paragraphs)
->    - Discuss current adoption and market status
->    - Mention key players or technologies
->    - Highlight recent developments
-> 
-> 4. **Future Outlook** (1 paragraph)
->    - Predict future developments
->    - Discuss potential impact
-> 
-> 5. **Conclusion** (1-2 sentences)
->    - Summarize key points
->    - End with a forward-looking statement
-> 
-> **Important Guidelines:**
-> - Keep the total length to approximately one page (500-800 words)
-> - Use clear, accessible language
-> - Include specific examples and real-world applications
-> - Make it engaging and informative for a general audience
-> - Use markdown formatting for structure
-> 
-> **Image References:**
-> Include ![[[Elon Musk](https://cdn.statically.io/img/inspirepreneurmagazine.com/wp-content/uploads/2024/07/The-Evolution-of-Elon-Musks-Entrepreneurial-Vision-1-1140x628.jpg?quality=100&f=auto)] says the mindset that led to the success of Tesla and SpaceX was to start with a [[concepts/Blank Slates]]. concept diagram or illustration] after the introduction.
-> Include ![[[Elon Musk](https://durmonski.com/wp-content/uploads/2019/05/elon-musk-biography.jpg)] says the mindset that led to the success of Tesla and SpaceX was to start with a [[concepts/Blank Slates]]. practical example or use case] after the main content section.
-> Include ![[[Elon Musk](https://static.politico.com/dims4/default/55a1666/2147483647/resize/600/quality/100/?url=https://static.politico.com/3c/9b/12c3e53548a78157c9eb50c1e412/ew-ferris-tesla-1160-01.jpg)] says the mindset that led to the success of Tesla and SpaceX was to start with a [[concepts/Blank Slates]]. future trends or technology visualization] before the conclusion.
-> 
-> Replace "[[Elon Musk]] says the mindset that led to the success of Tesla and SpaceX was to start with a [[concepts/Blank Slates]]." with the actual vocabulary term in the prompt.
 > **Model:** sonar-pro
-> 
-> ### **Response from sonar-pro**:
+
 
 # Blank Slates
 

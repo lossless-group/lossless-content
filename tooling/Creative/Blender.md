@@ -25,7 +25,7 @@ url: https://www.blender.org/
 
 
 
-[[Computer-Generated Imagery]], [[Open Source]]
+[[Computer-Generated Imagery]], [[Vocabulary/Open Source Software]]
 
 2025, Jan 04. [Make this professional CGI in Blender and AE | VFX in Blender](https://youtu.be/GbPPKR2nQmk?si=LuV9_lSHANvqq66H). [[YouTube]]
 

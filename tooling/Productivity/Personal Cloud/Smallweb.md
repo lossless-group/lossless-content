@@ -19,7 +19,7 @@ tags:
   - Personal-Cloud
 ---
 
-[[Vocabulary/Virtual Private Server|Virtual Private Server]], [[Vocabulary/Open Source|Open Source]] [[Vocabulary/Self-Hosting|Self-Hosting]]
+[[Vocabulary/Virtual Private Server|Virtual Private Server]], [[Vocabulary/Open Source Software|Open Source Software]] [[Vocabulary/Self-Hosting|Self-Hosting]]
 
 
 https://youtu.be/thIt-JXYbco?si=cbzdVTncV-8nomB3

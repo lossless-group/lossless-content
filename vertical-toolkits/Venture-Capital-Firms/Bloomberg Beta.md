@@ -51,7 +51,7 @@ Bloomberg Beta is known for getting in early on several startups that have gone 
 * **Newfront:** A modern, tech-enabled commercial insurance brokerage.
 * **[[Textio]]:** An augmented writing platform powered by AI that helps enterprises write more inclusive and effective job descriptions.
 * **[[Kaggle]]:** The premier community and platform for data scientists, which was acquired by Google.
-* **[[Appzen]]:** An AI-driven auditing platform that automates expense reports and invoice processing.
+* **[[Tooling/AI-Toolkit/Agentic AI/Appzen]]:** An AI-driven auditing platform that automates expense reports and invoice processing.
 * **[[Doma]] (formerly States Title):** A machine learning-driven title insurance and real estate technology company.
 
 ---

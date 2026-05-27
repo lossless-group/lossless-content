@@ -13,7 +13,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 tags: [AI-Toolkit, AI-Interfaces, AI-Workspaces, Vertical-Wrappers, AI-Powered-Search, Check-It-Out, Enterprise-AI]
 ---
 
-[[Enterprise SaaS]], [[Vocabulary/Customer Experience|Customer Experience]]
+[[Enterprise SaaS]], [[concepts/Market-Categories/Customer Experience|Customer Experience]]
 .
 ##### Screenshot of the [[Coveo]] Hero
 ![[Screenshot 2025-02-11 at 12.28.13 PM_Coveo--Hero.png]]

@@ -11,7 +11,7 @@ og_last_fetch: 2025-08-08T11:49:13.248Z
 tags: [Customer-Experience-Platforms, Digital-Experience-Platforms]
 ---
 [[Vocabulary/Digital Experience|Digital Experience]]
-[[Vocabulary/Customer Experience|Customer Experience]]
+[[concepts/Market-Categories/Customer Experience|Customer Experience]]
 [[concepts/Explainers for Tooling/Customer Experience Platforms|Customer Experience Platforms]]
 [[concepts/Explainers for Tooling/Digital Experience Platforms|Digital Experience Platforms]]
 

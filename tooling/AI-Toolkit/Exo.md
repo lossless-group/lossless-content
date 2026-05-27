@@ -11,4 +11,4 @@ tags: [AI-Toolkit, Open-Source, Home-Labs, Runs-Local, AI-Orchestrators, Self-Ho
 site_name: Exo
 ---
 
-[[Open Source]], [[Local LLM]]
+[[Vocabulary/Open Source Software]], [[Local LLM]]

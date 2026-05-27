@@ -11,7 +11,7 @@ tags: [AI-Toolkit, RAG-Stack, Knowledge-AI, RAG-Chat, Public-Repos, Open-Source-
 site_name: Kotaemon
 ---
 
-[[Open Source]] [[Vocabulary/Retrieval-Augmented Generation]]
+[[Vocabulary/Open Source Software]] [[Vocabulary/Retrieval-Augmented Generation]]
 
 [[concepts/Explainers for AI/Knowledge Base AI]]
 

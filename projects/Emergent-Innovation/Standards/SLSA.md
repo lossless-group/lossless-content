@@ -3,7 +3,7 @@ url: https://slsa.dev/
 date_created: 2025-02-25
 date_modified: 2025-04-25
 ---
-[[projects/Emergent-Innovation/Standards/SLSA]] is managed by [[organizations/The Linux Foundation]] as an [[Open Source]] [[Security Standard]]
+[[projects/Emergent-Innovation/Standards/SLSA]] is managed by [[organizations/The Linux Foundation]] as an [[Vocabulary/Open Source Software]] [[Security Standard]]
 
 ##### [[projects/Emergent-Innovation/Standards/SLSA|SLSA]] helps preserve code and assets.
 
@@ -24,7 +24,7 @@ https://ik.imagekit.io/xvpgfijuw/rest/of/the/path/image.jpg?tr=w-300,h-300
 > 
 > ### **When and Why It Was Created**
 > 
-> - **When**: SLSA was introduced in **2021** by **[[organizations/Google]]** as an open-source initiative. It was later adopted and managed by **The Linux Foundation**'s [[Open Source]] Security Foundation (OpenSSF) to ensure broader community collaboration and adoption.
+> - **When**: SLSA was introduced in **2021** by **[[organizations/Google]]** as an open-source initiative. It was later adopted and managed by **The Linux Foundation**'s [[Vocabulary/Open Source Software]] Security Foundation (OpenSSF) to ensure broader community collaboration and adoption.
 > - **Why**: The project was created to address the growing need for **software supply chain security**. Traditional security measures often focus on runtime vulnerabilities or endpoint protection, but SLSA shifts the focus to the **entire software lifecycle**, from development to deployment.
 > 
 > ---

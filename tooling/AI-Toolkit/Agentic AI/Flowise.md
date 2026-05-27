@@ -19,7 +19,7 @@ og_description: Open source generative AI development platform for building AI a
 tags: [AI-Toolkit, Agentic-AI, Low-Code, Check-It-Out, Visual-Engineering, Visual-Workflows, Agentic-Workspaces]
 ---
 
-[[Open Source]] [[Low-Code]] [[concepts/Visual Software Development]]
+[[Vocabulary/Open Source Software]] [[Low-Code]] [[concepts/Visual Software Development]]
 
 ![[IMG_1909.png]]
 

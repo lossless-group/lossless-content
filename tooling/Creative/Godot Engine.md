@@ -17,5 +17,5 @@ tags: [Game-Engines, Open-Source]
 
 [[concepts/Open Source, DIY Variant|Open Source, DIY Variant]]
 
-[[Vocabulary/Open Source|Open Source]]
+[[Vocabulary/Open Source Software|Open Source Software]]
 

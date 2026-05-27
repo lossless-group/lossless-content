@@ -51,5 +51,5 @@ tags:
 
 
 
-Has become one of the core [[AI Models|Models]], and it's [[Open Source]] supported by [[Runway]] and [[Stability AI]]
+Has become one of the core [[AI Models|Models]], and it's [[Vocabulary/Open Source Software]] supported by [[Runway]] and [[Stability AI]]
 Latent Diffusion Models

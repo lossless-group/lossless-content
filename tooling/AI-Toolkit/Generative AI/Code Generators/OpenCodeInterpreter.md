@@ -13,7 +13,7 @@ site_name: Open Code Interpreter
 og_image: https://i.imgur.com/uww6DvZ.png
 ---
 
-An [[Open Source]] [[concepts/Explainers for AI/Code Generators|Code Generators]]
+An [[Vocabulary/Open Source Software]] [[concepts/Explainers for AI/Code Generators|Code Generators]]
 
 ![](https://i.imgur.com/uww6DvZ.png)
 

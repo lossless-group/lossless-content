@@ -80,7 +80,7 @@ url: 'https://dollardeploy.com'
 ![[Screenshot 2025-02-18 at 1.07.02 PM_DollarDeploy--Hero.png]]
 
 ##### DollarDeploy enables [[One-Click Deployments]]
-[[DollarDeploy]] is one of several services that makes simple deploying [[Open Source]] web applications. It has a [[One-Click Integrations]] with [[Digital Ocean]].
+[[DollarDeploy]] is one of several services that makes simple deploying [[Vocabulary/Open Source Software]] web applications. It has a [[One-Click Integrations]] with [[Digital Ocean]].
 
 
 ![[Screenshot 2025-02-18 at 1.12.41 PM_DollarDeploy_One-Click.png]]

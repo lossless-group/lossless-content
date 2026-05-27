@@ -14,7 +14,7 @@ site_name: Stonly
 tags: [Knowledge-Bases, Customer-Experience]
 ---
 [[concepts/Explainers for Tooling/Customer Success|Customer Success]]
-[[Vocabulary/Customer Experience|Customer Experience]]
+[[concepts/Market-Categories/Customer Experience|Customer Experience]]
 [[concepts/Explainers for Tooling/Customer Experience Platforms|Customer Experience Platforms]]
 [[Customer Support]]
 

@@ -22,5 +22,5 @@ tags:
 
 https://youtu.be/8cuCtal0DkU?si=ru9saYS88LNgli8O
 
-#### PartyKit deploys [[Open Source]] [[Agentic AI]]
+#### PartyKit deploys [[Vocabulary/Open Source Software]] [[Agentic AI]]
 ![[Screenshot 2025-02-20 at 2.26.11 AM_PartyKit--Hero.png]]

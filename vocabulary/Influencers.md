@@ -10,7 +10,7 @@ at_semantic_version: 0.0.0.1
 tags: [Explainers, Marketing-Strategies]
 ---
 
-[[concepts/Community Engagement|Community Engagement]]
+[[concepts/Community Engagement in Digital Marketing|Community Engagement in Digital Marketing]]
 
 Creators that make media to an audience.  
 [[YouTube]], [[organizations/Facebook|Facebook]], [[Tooling/Products/TikTok|TikTok]], [[organizations/Reddit|Reddit]]

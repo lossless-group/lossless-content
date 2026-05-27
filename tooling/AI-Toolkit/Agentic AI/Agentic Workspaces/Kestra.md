@@ -18,7 +18,7 @@ og_description: Use declarative language to build simpler, faster, scalable and 
 tags: [AI-Toolkit, Agentic-AI, Agentic-Workspaces]
 ---
 
-[[Workflow Automations]], [[Open Source]].
+[[Workflow Automations]], [[Vocabulary/Open Source Software]].
 
 2024, Nov 05. [CANCEL Make.com, n8n & Zapier?!?🤖 FREE Kestra Coolify Self Hosted Open Source Workflow](https://youtu.be/z3EZ_UEBGNc?si=5LCivJV2VaMUyuXh) on [[YouTube]].
 

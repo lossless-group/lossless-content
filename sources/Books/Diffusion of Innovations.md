@@ -101,7 +101,7 @@ Since this source IS a book rather than a channel or publication that produces o
 
 - **[[Early Adopters]] [[Opinion Leaders]]** — Rogers's concept of opinion leaders and early adopters as catalysts for diffusion; also relevant: innovator segments and how to identify and mobilize them.
 
-- **[[Product-Market Fit]]** — Rogers's "compatibility" attribute (fit to established ways) and "relative advantage" connect to the product-market fit problem; incompatible or non-advantageous innovations fail to diffuse no matter the marketing.
+- **[[concepts/Product-Market Fit]]** — Rogers's "compatibility" attribute (fit to established ways) and "relative advantage" connect to the product-market fit problem; incompatible or non-advantageous innovations fail to diffuse no matter the marketing.
 
 - **[[Technology Adoption Curve]]** — The S-curve distribution and adopter categories are foundational to modern tech adoption models; closely related to Geoffrey Moore's *Crossing the Chasm*, which extends Rogers for high-tech markets.
 

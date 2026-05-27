@@ -14,4 +14,4 @@ date_created: 2025-03-30
 tags: [Software-Development, Cloud-Infrastructure, Opsless-Deploy, Self-Hosting-Cloud]
 ---
 
-An [[Open Source]] framework for [[Self-Hosting]] that gives the same powers of [[concepts/Opsless Deployment Providers]]
+An [[Vocabulary/Open Source Software]] framework for [[Self-Hosting]] that gives the same powers of [[concepts/Opsless Deployment Providers]]

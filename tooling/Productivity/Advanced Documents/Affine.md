@@ -20,4 +20,4 @@ tags:
 ---
 
 [[Vocabulary/Collaborative Whiteboards]], [[concepts/Explainers for Tooling/Advanced Documents]]
-[[Open Source]]
+[[Vocabulary/Open Source Software]]

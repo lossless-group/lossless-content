@@ -1,13 +1,20 @@
 ---
 wikipedia_url: https://en.wikipedia.org/wiki/Data-oriented_design
 date_created: 2025-08-16
-date_modified: 2025-08-16
+date_modified: 2026-05-27
 site_uuid: a877a399-c7cb-4f00-81d5-f993d38a5810
 publish: true
 title: Data Oriented Design
 slug: data-oriented-design
 at_semantic_version: 0.0.0.1
-aliases: [DOD]
+aliases:
+  - DOD
+tags:
+  - Lossless-Thinking
+  - Lossless-Toolkit
+  - Conceptual-Frameworks
+  - Engineering-Management
+augmented_with: Perplexity AI using Sonar Pro
 ---
 
 

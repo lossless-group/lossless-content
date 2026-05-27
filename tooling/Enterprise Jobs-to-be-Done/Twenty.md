@@ -15,10 +15,10 @@ og_url: "https://twenty.com/"
 description: "Packed with advanced features, customizable workflows, supported by a large community. Transform customer relationship management seamlessly and efficiently."
 ---
 
-[[Twenty]] is a [[concepts/State of the Art|State of the Art]] [[CRM]], and it is [[Open Source]]
+[[Twenty]] is a [[concepts/State of the Art|State of the Art]] [[CRM]], and it is [[Vocabulary/Open Source Software]]
 
 https://storybook.twenty.com/
-##### [[Twenty]] is an [[Open Source]] [[CRM|Customer Relationship Management]] system.
+##### [[Twenty]] is an [[Vocabulary/Open Source Software]] [[CRM|Customer Relationship Management]] system.
 
 ##### Twenty has a Data Model Visualization:
 ![[Visuals/Screenshots/Screenshot 2025-02-18 at 1.52.56 PM_Twenty__Data-Model.png]]

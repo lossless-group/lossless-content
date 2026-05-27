@@ -40,7 +40,7 @@ Industry standards developed and maintained by Standards Organizations (e.g., IS
 2. **Reducing Costs and Encouraging Market Growth**
 - Standards lower production and transaction costs by providing manufacturers with clear guidelines, enabling economies of scale.
 - **Example (Historical):** The **A4 paper size standard ([[organizations/ISO|ISO]] 216)** simplified global paper and printing industries, reducing costs for publishers and users worldwide.
-- **Example (Current):** Standards for **[[5G]] networks** (defined by [[3GPP]]) have created a unified framework, allowing telecom companies to develop infrastructure and devices that can operate globally, accelerating innovation in fields like [[Vocabulary/Autonomous Vehicles]] and [[Remote Healthcare]].
+- **Example (Current):** Standards for **[[Sources/Standards-and-Specs/5G]] networks** (defined by [[3GPP]]) have created a unified framework, allowing telecom companies to develop infrastructure and devices that can operate globally, accelerating innovation in fields like [[Vocabulary/Autonomous Vehicles]] and [[Remote Healthcare]].
 
 1. **Ensuring Safety and Trust**
 - Standards increase consumer trust by ensuring safety and quality, creating a stable foundation for market adoption.    

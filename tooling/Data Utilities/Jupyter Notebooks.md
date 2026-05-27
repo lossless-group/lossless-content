@@ -25,7 +25,7 @@ aliases:
   - Jupyter Notebook
 ---
 
-An [[Interactive Notebooks]] solution, focused on [[Tooling/Software Development/Programming Languages/Python]] scripting.  [[Open Source]].
+An [[Interactive Notebooks]] solution, focused on [[Tooling/Software Development/Programming Languages/Python]] scripting.  [[Vocabulary/Open Source Software]].
 
 
 

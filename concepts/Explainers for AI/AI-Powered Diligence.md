@@ -1,13 +1,23 @@
 ---
 date_created: 2025-12-04
-date_modified: 2025-12-05
+date_modified: 2026-05-27
 site_uuid: a2c43d5d-058c-4bf9-b0a2-9dafbeb376b6
 publish: true
-title: "AI-Powered Diligence"
+title: AI-Powered Diligence
 slug: ai-powered-diligence
 at_semantic_version: 0.0.0.1
+for_clients:
+  - FullStackVC
+  - Alpha-JWC
+  - Alpha Partners
+  - Avalanche
+  - Hypernova
+  - Big-Idea-Ventures
+  - LearnStart
+  - RealSchoolVC
+  - Reach
 ---
-
+[[Agora Maven]]
 
 ***
 > [!info] **Perplexity Query** (2025-12-05T18:47:20.200Z)

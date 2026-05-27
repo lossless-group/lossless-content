@@ -57,7 +57,7 @@ tags: [Software-Development]
 
 
 
-[[Open Source]] version of [[Tooling/Software Development/Cloud Infrastructure/Bolt.new]], a [[concepts/Open Source, DIY Variant|DIY Variant]]
+[[Vocabulary/Open Source Software]] version of [[Tooling/Software Development/Cloud Infrastructure/Bolt.new]], a [[concepts/Open Source, DIY Variant|DIY Variant]]
 
 
 https://youtu.be/jvXXhSVMrYs?si=7ZKelVLkx7Ij-bIN

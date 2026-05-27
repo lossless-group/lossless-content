@@ -26,6 +26,6 @@ tags: [Data-Utilities, RAG-Chat, Check-It-Out]
 
 
 
-[[Open Source]] [[Data Analysis]] using [[Agentic AI]]
+[[Vocabulary/Open Source Software]] [[Data Analysis]] using [[Agentic AI]]
 
 

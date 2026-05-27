@@ -1,13 +1,24 @@
 ---
-tags: [Explainers, GTM-Tools, GTM-Platforms]
+tags:
+  - Explainers
+  - GTM-Tools
+  - GTM-Platforms
 date_created: 2025-11-26
-date_modified: 2025-11-26
-aliases: [GTM, GTM Strategy, GTM strategy]
+date_modified: 2026-05-27
+aliases:
+  - GTM
+  - GTM Strategy
+  - GTM strategy
+  - Go-To-Market Strategy
 site_uuid: e5ad2f79-df6f-4ed4-856d-ac32f7e04169
 publish: true
 title: Go-to-Market
 slug: go-to-market
 at_semantic_version: 0.0.1.1
+for_clients:
+  - Laerdal
+  - Colearn
+  - Reach-U
 ---
 
 
@@ -48,7 +59,9 @@ Looking ahead, go-to-market strategies are expected to become even more data-dri
 
 A go-to-market strategy is a vital tool for any organization looking to launch a new product or service successfully. By providing a clear roadmap for reaching target customers and delivering value, it helps companies navigate the complexities of market entry and drive sustainable growth. As the business landscape continues to evolve, the importance of a well-executed GTM strategy will only grow.
 
-### Citations
+
+***
+# Citations
 
 [1]: 2025, Nov 24. [Go-to-market strategy](https://en.wikipedia.org/wiki/Go-to-market_strategy). Published: 2008-04-20 | Updated: 2025-11-24
 
@@ -63,5 +76,3 @@ A go-to-market strategy is a vital tool for any organization looking to launch a
 [6]: 2025, Nov 26. [What Is a Go-To-Market Strategy? And How to Create One](https://www.coursera.org/articles/go-to-market-strategy). Published: 2025-03-31 | Updated: 2025-11-26
 
 
-
-***

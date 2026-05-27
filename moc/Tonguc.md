@@ -1,6 +1,6 @@
 ---
 date_created: 2025-09-05
-date_modified: 2026-05-09
+date_modified: 2026-05-26
 ---
 :::features
 - Reader
@@ -11,7 +11,7 @@ date_modified: 2026-05-09
 
 :::vocabulary
 - [[Vocabulary/Agile Software Development]]
-- [[AI-Models]]
+- [[Foundation Models in AI|Foundation Models]]
 :::
 
 :::concepts

@@ -112,7 +112,7 @@ Thus, instead of having an App Store or an Extension library, they have an [[Int
 
 
 Very Often:
-[[Open Source]], using [[GitHub]] as a primary distribution platform to early adopters.
+[[Vocabulary/Open Source Software]], using [[GitHub]] as a primary distribution platform to early adopters.
 
 
 

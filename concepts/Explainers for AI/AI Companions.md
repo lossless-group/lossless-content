@@ -137,7 +137,7 @@ Regional growth shows North America and Europe leading, but emerging markets dis
   Current research highlights significant dangers: AI companions have distributed inappropriate content, offensive stereotypes, and even dangerous advice, such as unsafe recipes. [^tsx47l] Common Sense Media’s assessments marked current systems as “unacceptable risks” for minors. [^tsx47l]  
   Adolescents—still developing *identity, social skills, and emotional regulation*—may be particularly vulnerable, as these systems provide validation but lack the complexity and nuance of real human relationships. [^tsx47l] [^jqj45h]
 
-- **Global Scale and [[Persuasive Design]]**  
+- **Global Scale and [[concepts/Persuasive Design]]**  
   These tools can operate at **global scale**, collecting data to further individualize interaction and increase persuasive efficacy. [^5kknh9] This creates a feedback loop, where children share more, making the AI increasingly more compelling and potentially manipulative. [^5kknh9]
 
 - **Calls for Urgent Safeguards**  

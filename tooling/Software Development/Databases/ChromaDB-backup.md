@@ -64,7 +64,7 @@ docs_url: https://docs.trychroma.com/docs/
 - [Sources](#sources)
 
 # Summary
-A popular [[Vocabulary/Open Source|Open Source]] [[Vocabulary/Vector Databases|Vector Database]]. One of the Vector [[concepts/Explainers for Tooling/Databases|Databases]] used for [[Vocabulary/Retrieval-Augmented Generation|Retrieval-Augmented Generation]] and [[Knowledge Augmented Generation|KAG]] approaches to [[concepts/Explainers for AI/Artificial Intelligence|AI]].  
+A popular [[Vocabulary/Open Source Software|Open Source Software]] [[Vocabulary/Vector Databases|Vector Database]]. One of the Vector [[concepts/Explainers for Tooling/Databases|Databases]] used for [[Vocabulary/Retrieval-Augmented Generation|Retrieval-Augmented Generation]] and [[Knowledge Augmented Generation|KAG]] approaches to [[concepts/Explainers for AI/Artificial Intelligence|AI]].  
 
 Becoming a market leader in [[concepts/Explainers for AI/Knowledge Base AI|Knowledge Base AI]] as demonstrated through its tight relationship with [[Tooling/Productivity/Advanced Documents/Notion|Notion]]
 

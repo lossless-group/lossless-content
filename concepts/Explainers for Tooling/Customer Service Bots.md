@@ -26,7 +26,7 @@ at_semantic_version: 0.0.0.1
 
 # **Customer Service Bots: Empowering Modern Support**
 
-Customer service bots are software programs powered by [[concepts/Explainers for AI/Artificial Intelligence|Artificial Intelligence]] (AI) that simulate conversations with users to resolve inquiries, provide information, and assist with various customer needs. [[Vocabulary/Customer Experience|Customer Experience]] or [[concepts/Explainers for Tooling/Customer Experience Platforms|Customer Experience Platforms]].  These bots have become crucial in today’s digital-first world, where customers expect rapid, convenient, and seamless support across multiple channels. Their growing significance stems from businesses’ need to deliver around-the-clock service, improve efficiency, and meet ever-rising customer expectations for instant responses.
+Customer service bots are software programs powered by [[concepts/Explainers for AI/Artificial Intelligence|Artificial Intelligence]] (AI) that simulate conversations with users to resolve inquiries, provide information, and assist with various customer needs. [[concepts/Market-Categories/Customer Experience|Customer Experience]] or [[concepts/Explainers for Tooling/Customer Experience Platforms|Customer Experience Platforms]].  These bots have become crucial in today’s digital-first world, where customers expect rapid, convenient, and seamless support across multiple channels. Their growing significance stems from businesses’ need to deliver around-the-clock service, improve efficiency, and meet ever-rising customer expectations for instant responses.
 
 ![Customer Service Bots concept diagram or illustration](https://d1eipm3vz40hy0.cloudfront.net/images/chatbot-benefits-for-customers+(1).jpg)
 

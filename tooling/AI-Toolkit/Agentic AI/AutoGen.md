@@ -20,7 +20,7 @@ An [[concepts/Explainers for AI/AI Programming Frameworks|AI Programming Framewo
 
 Made and maintained by [[organizations/Microsoft|Microsoft]]
 
-[[concepts/Community Engagement|Community Engagement]] on [[Tooling/Products/Discord|Discord]]
+[[concepts/Community Engagement in Digital Marketing|Community Engagement in Digital Marketing]] on [[Tooling/Products/Discord|Discord]]
 
 ![[Screenshot 2025-01-22 at 9.15.27 PM_Autogen-by-Microsoft.png]]
 https://youtu.be/0PFexhfA4Pk?si=CXGg3be1xouyTbVg

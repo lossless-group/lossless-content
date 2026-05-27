@@ -19,7 +19,7 @@ This is a book co-authored by Peter Thiel and Blake Masters, first published in 
 
 # The People Behind It
 
-- **Peter Thiel:** Co-founder of [[PayPal]] and [[Palantir]] Technologies, first outside investor in Facebook, founder of [[Founders Fund]] venture capital firm. [^92sbz1] [^hku9mw]
+- **Peter Thiel:** Co-founder of [[PayPal]] and [[Palantir Technologies]] Technologies, first outside investor in Facebook, founder of [[Founders Fund]] venture capital firm. [^92sbz1] [^hku9mw]
 - Thiel taught the 2012 Stanford class on startups whose notes formed the book's basis, emphasizing contrarian thinking in business. [^hku9mw]
 - **Blake Masters:** Stanford student who took detailed notes from Thiel's class, posted them online to generate discussion, and collaborated with Thiel to expand into the book. [^hku9mw]
 

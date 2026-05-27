@@ -16,7 +16,7 @@ tags:
   - Gen-Ai-Video
 ---
 
-[[Generative AI]], [[Open Source]]
+[[Generative AI]], [[Vocabulary/Open Source Software]]
 [[Computer-Generated Imagery]], [[Video Generator]]
 
 ##### [[ComfyUI]] is a [[Video Generator]]

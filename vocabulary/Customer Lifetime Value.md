@@ -1,12 +1,22 @@
 ---
 date_created: 2025-11-26
-date_modified: 2025-12-02
-aliases: [LTV, CLV, Lifetime Value]
+date_modified: 2026-05-26
+aliases:
+  - LTV
+  - CLV
+  - Lifetime Value
 site_uuid: a9d8235a-861b-4392-9449-1ed95cbf75be
 publish: true
-title: "Customer Lifetime Value"
+title: Customer Lifetime Value
 slug: customer-lifetime-value
 at_semantic_version: 0.0.0.1
+tags:
+  - Business-Metrics
+  - Business-Intelligence
+  - Lossless-Thinking
+  - Conceptual-Frameworks
+  - Management-Strategies
+augmented_with: Perplexity Desktop
 ---
 LTV (Lifetime Value) and CLV (Customer Lifetime Value) are most often used interchangeably. Some sources differentiate them by defining CLV as the value of an individual customer and LTV as the average value of all customers. 
 
@@ -62,7 +72,7 @@ As predictive analytics and artificial intelligence continue to advance, CLV cal
 
 Customer Lifetime Value represents a fundamental shift in how businesses evaluate customer relationships, moving beyond transactional metrics to embrace long-term value creation. By accurately measuring and acting upon CLV insights, organizations can build more profitable, sustainable growth while simultaneously strengthening customer relationships and delivering superior experiences.
 
-### Citations
+# Citations
 
 [^rj6en1]: 2025, Dec 01. [What is Customer Lifetime Value (CLV)? - IBM](https://www.ibm.com/think/topics/customer-lifetime-value). Published: 2024-09-04 | Updated: 2025-12-01
 

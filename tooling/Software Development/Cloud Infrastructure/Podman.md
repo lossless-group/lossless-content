@@ -21,7 +21,7 @@ og_image: "https://podman.io/logos/optimized/podman-3-logo-266w-253h.webp"
 og_favicon: "https://podman.io/favicon.ico"
 ---
 
-[[concepts/Reproducible Builds]], [[Open Source]]
+[[concepts/Reproducible Builds]], [[Vocabulary/Open Source Software]]
 
 [[Containers]]
 

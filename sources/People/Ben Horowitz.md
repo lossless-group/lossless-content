@@ -14,7 +14,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Ben_Horowitz
 - Consultants return to him for unvarnished frameworks on "wartime" CEO leadership, company culture, and navigating non-formulaic business hell—insights forged from near-failure to unicorn-scale exits. [^wq7fbn] [^2qpx7a]
 - Born January 13, 1966, raised in Berkeley, CA; son of conservative writer David Horowitz. [^2toruu] [^wq7fbn]
 - Earned BA in Computer Science from Columbia University and MS from UCLA. [^wq7fbn] [^loc89e]
-- Early career: engineer at [[Silicon Graphics]], product manager and VP roles at Netscape (1995), VP of AOL eCommerce post-acquisition. [^wq7fbn] [^loc89e]
+- Early career: engineer at [[organizations/Silicon Graphics International]], product manager and VP roles at Netscape (1995), VP of AOL eCommerce post-acquisition. [^wq7fbn] [^loc89e]
 - Co-founded Loudcloud (1999, pivoted to Opsware 2002), CEO until $1.6B HP acquisition (2007); then SVP at HP. [^2toruu] [^wq7fbn] [^loc89e]
 - Co-founded Andreessen Horowitz (2009) with [[Marc Andreessen]]; manages $42B AUM, invests in bold founders like those behind Skype, Lyft, Okta. [^wq7fbn] [^loc89e]
 - Signature contribution: Authored NYT bestsellers on startup leadership and culture; created a16z Cultural Leadership Fund for tech diversity. [^loc89e]
@@ -46,7 +46,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Ben_Horowitz
 - [[The Hard Thing About Hard Things]] — His flagship book; primary artifact of his thinking.
 - [[What You Do Is Who You Are]] — Second book; extends culture frameworks.
 - [[Paul Graham]] — Y Combinator essays on startup hardship; similar founder advice, often cited in tandem.
-- [[Andy Grove]] — Intel paranoia framework; influences Horowitz's "wartime" leadership model.
+- [[Sources/People/Andy Grove (Intel)]] — Intel paranoia framework; influences Horowitz's "wartime" leadership model.
 - [[Wartime CEO]] — Core idea popularized by Horowitz's writings.
 
 

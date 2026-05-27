@@ -1,6 +1,6 @@
 ---
 date_created: 2024-12-10
-date_modified: 2025-08-16
+date_modified: 2026-05-27
 site_uuid: ddb68f29-cd5c-4050-a94b-0520a6124522
 publish: true
 title: Asymmetric Competition
@@ -37,9 +37,10 @@ tags: [Management-Strategies, Best-Practices]
 | ------------------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | **The Art of War**                                                        | Sun Tzu                                                     | Ancient strategic principles; foundational for asymmetric thought in business settings.  |
 | **[[Sources/Books/Blue Ocean Strategy\|Blue Ocean Strategy]]**            | W. Chan Kim, Renée Mauborgne                                | Creating uncontested market space (indirect strategy focus).                             |
-| **Competitive Strategy**                                                  | [[Sources/People/Michael E. Porter]]                                       | While focused on direct competition, includes analyses relevant to asymmetry.            |
-| **The Innovator’s Dilemma**                                               | [[Sources/People/Clayton Christensen\|Clayton Christensen]] | How smaller firms disrupt large incumbents—classic on disruptive, asymmetric dynamics.   |
-| **David and Goliath: Underdogs, Misfits, and the Art of Battling Giants** | Malcolm Gladwell                                            | Explores real-world cases of smaller challengers winning through unconventional tactics. |
+| **Competitive Strategy**                                                  | [[Sources/People/Michael E. Porter\|Michael E. Porter]]     | While focused on direct competition, includes analyses relevant to asymmetry.            |
+| **[[Sources/Books/The Innovator's Dilemma\|The Innovator's Dilemma]]**    | [[Sources/People/Clayton Christensen\|Clayton Christensen]] | How smaller firms disrupt large incumbents—classic on disruptive, asymmetric dynamics.   |
+| **David and Goliath: Underdogs, Misfits, and the Art of Battling Giants** | [[Malcolm Gladwell]]                                        | Explores real-world cases of smaller challengers winning through unconventional tactics. |
+|                                                                           |                                                             |                                                                                          |
 [^f3yu97] [^l1ld44]
 
 ### Thought Leaders
@@ -58,7 +59,7 @@ tags: [Management-Strategies, Best-Practices]
 
 - **Netflix vs. Blockbuster:** Netflix started with a mail-based model, exploiting Blockbuster’s slowness to adapt to digital, ultimately overtaking the incumbent. [^l1ld44]
 - **Southwest Airlines:** Focused on low-cost, point-to-point service, differing from the hub-and-spoke models of legacy airlines—a textbook example of an asymmetric business model.
-- **Apple’s iPhone:** Entered the phone market with a radically different user interface and ecosystem, targeting weaknesses in incumbent products. 
+- **[[organizations/Apple|Apple]]’s iPhone:** Entered the phone market with a radically different user interface and ecosystem, targeting weaknesses in incumbent products. 
 - **[[organizations/Tesla|Tesla]] vs. Auto Industry:** Entered through luxury electric vehicles—ignored by established automakers—before expanding to broader segments.
 - **Dollar Shave Club vs. Gillette:** Used viral marketing and DTC subscription service to challenge industry giants disinterested in the low-price online segment.
 

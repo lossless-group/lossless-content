@@ -32,7 +32,7 @@ Daniel Kahneman’s *Thinking, Fast and Slow* was first published in 2011 and tu
 - It gives innovators a robust vocabulary for diagnosing why smart teams make bad calls: anchoring, availability, overconfidence, and narrative fallacies all distort product and strategy judgment.[3][5] 
 - It is especially useful for evaluating [[concepts/Customer Discovery|Customer Discovery]], and [[Vocabulary/Decision Science|Decision Science]] because it shows why evidence is often overridden by intuition.[3][5] 
 - The book helps teams design better review processes by separating quick pattern recognition from slower analytical checks, a practical guardrail in high-uncertainty innovation work.[3] 
-- Its “two selves” argument is valuable for product and service design because it explains why remembered experience can differ sharply from moment-to-moment experience, a key insight for [[concepts/Customer Experience|Customer Experience]].[5]
+- Its “two selves” argument is valuable for product and service design because it explains why remembered experience can differ sharply from moment-to-moment experience, a key insight for [[concepts/Market-Categories/Customer Experience|Customer Experience]].[5]
 - For venture and strategy work, it offers a disciplined way to think about probability, loss aversion, and base rates instead of relying on persuasive stories or vivid anecdotes.[2][5]
 
 # Best Starting Points

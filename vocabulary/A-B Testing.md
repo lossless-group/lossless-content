@@ -48,7 +48,7 @@ A broader application of split testing to non-digital assets like email subject 
   - Gut instinct: Pure intuition without data or randomization . [^d6ac84]
   - Multivariate testing: Tests combinations, not single variables . [^vd6s73]
 
-- **Adjacent terms**: [[Product-Market Fit]], [[concepts/Product-Led Growth|Growth Hacking]], [[concepts/Minimum Viable Product|Minimum Viable Product]], [[Conversion Rate Optimization]], [[statistical significance]], [[User Acquisition]].
+- **Adjacent terms**: [[concepts/Product-Market Fit]], [[concepts/Product-Led Growth|Growth Hacking]], [[concepts/Minimum Viable Product|Minimum Viable Product]], [[Conversion Rate Optimization]], [[statistical significance]], [[User Acquisition]].
 
 # Usage in Practice
 - "A/B testing eliminates all the guesswork out of website optimization and enables experience optimizers to make data-backed decisions." — VWO guide for growth teams . [^82aq51]

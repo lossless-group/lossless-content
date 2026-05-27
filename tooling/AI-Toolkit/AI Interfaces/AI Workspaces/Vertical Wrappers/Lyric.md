@@ -25,6 +25,6 @@ for_clients:
   - Laerdal
 ---
 
-[[AI-Powered Supply Chains|Supply Chain AI]]
+[[concepts/AI-Powered Supply Chains|Supply Chain AI]]
 [[Demand Planning]]
 

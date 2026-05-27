@@ -17,7 +17,7 @@ description: 'Airtable is a low‒code platform to build next‒gen apps. Move b
 tags: [Productivity, Database-Apps, Asynchronous-Communication, Workflow-Management, JAM-Stack]
 ---
 
-One of the [[concepts/Explainers for Tooling/Database Apps]], and is also partially an [[Advanced Spreadsheets]] Applies [[concepts/API First]] and [[concepts/Documentation First Development|Documentation First]] strategies.
+One of the [[concepts/Explainers for Tooling/Database Apps]], and is also partially an [[Advanced Spreadsheets]] Applies [[concepts/API First Development]] and [[concepts/Documentation First Development|Documentation First]] strategies.
 
 ### Airtable API
 

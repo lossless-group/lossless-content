@@ -30,7 +30,7 @@ You can find little libraries that can speed you up considerably, such as [Swapy
 
 The social network and community features of [[GitHub]] enable new [[Decision Heuristics]] in evaluating potential software solutions in the adoption process. [^2] 
 
-[[GitHub]] has become the mainstay in the development and adoption of [[Open Source]] software. Every year, they publish the premier industry report, the [Octoverse](https://github.blog/news-insights/octoverse/), which uses data on the [[GitHub]] platform. 
+[[GitHub]] has become the mainstay in the development and adoption of [[Vocabulary/Open Source Software]] software. Every year, they publish the premier industry report, the [Octoverse](https://github.blog/news-insights/octoverse/), which uses data on the [[GitHub]] platform. 
 
 
 ![Image 5](https://static.seekingalpha.com/uploads/2022/5/51760760_16538565907286_rId7.jpg)

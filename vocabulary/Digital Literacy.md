@@ -44,7 +44,7 @@ Omit: "Digital literacy" is a plain-English compound emerging organically from 1
 - **Antonyms**: 
   - Digital illiteracy: inability to navigate or critically assess online info.[4]
   - Tech aversion: outright rejection of digital tools.[1]
-- **Adjacent terms**: [[digital transformation]], [[AI literacy]], [[data literacy]], [[tech stack]], [[Product-Market Fit]], [[go-to-market]]
+- **Adjacent terms**: [[digital transformation]], [[AI literacy]], [[data literacy]], [[tech stack]], [[concepts/Product-Market Fit]], [[go-to-market]]
 
 # Usage in Practice
 - "Digital literacy equips them to navigate information confidently, communicate responsibly, and design ideas that matter... the foundation for learning, leadership, and innovation." — Immerse Education on future innovators[2]

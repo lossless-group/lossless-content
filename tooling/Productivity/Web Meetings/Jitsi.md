@@ -16,5 +16,5 @@ tags:
   - Productivity
 ---
 
-[[Open Source]] [[Web Meetings]] with a [[Self-Hosting]] option.
+[[Vocabulary/Open Source Software]] [[Web Meetings]] with a [[Self-Hosting]] option.
 

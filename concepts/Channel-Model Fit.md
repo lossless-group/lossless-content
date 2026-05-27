@@ -2,7 +2,19 @@
 cf_last_run: 2026-05-19T22:16:02.624Z
 cf_last_run_model: Perplexity sonar-pro
 date_created: 2026-05-13
-date_modified: 2026-05-19
+date_modified: 2026-05-27
+site_uuid: 8a8a3150-be1e-4229-8983-b3e58d9f1842
+publish: true
+title: Channel-Model Fit
+slug: channel-model-fit
+at_semantic_version: 0.0.0.1
+tags:
+  - Marketing-Strategies
+  - Lossless-Thinking
+  - Lossless-Toolkit
+  - Founder-Toolkit
+  - Digital-Marketing-Tools
+  - Customer-Experience
 ---
 
 # Defining and Describing Channel-Model Fit

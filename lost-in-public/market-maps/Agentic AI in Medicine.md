@@ -224,7 +224,7 @@ Agentic AI can help personalize patient care by analyzing individual health data
 
 ### Clinical Decision Support
 
-Agentic AI-powered [[clinical decision support systems]] (CDSS) can analyze vast amounts of medical literature, patient data, and real-time clinical information to provide healthcare professionals with evidence-based recommendations.
+Agentic AI-powered [[Vocabulary/Clinical Decision Support]] (CDSS) can analyze vast amounts of medical literature, patient data, and real-time clinical information to provide healthcare professionals with evidence-based recommendations.
 
 *   **Real-Time Alerts**: Agentic AI CDSS can alert healthcare providers to potential medication interactions, allergic reactions, or other safety concerns.
 *   **Evidence-Based Guidelines**: By analyzing the latest medical research and guidelines, agentic AI CDSS can help healthcare professionals make informed decisions about patient care.

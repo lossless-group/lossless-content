@@ -15,4 +15,4 @@ description: 'Instantly turn your Database into a No-Code Platform'
 tags: [Lego-Kit-Engineering-Tools, Software-Development, Databases, Backend-As-A-Service]
 ---
 
-[[Open Source]] [[concepts/Explainers for Tooling/Database Apps|Database App]]
+[[Vocabulary/Open Source Software]] [[concepts/Explainers for Tooling/Database Apps|Database App]]

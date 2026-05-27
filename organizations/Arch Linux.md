@@ -30,7 +30,7 @@ Arch Linux follows the principle of *Keep It Simple, Stupid (KISS)*, delivering 
 A practical example of Arch Linux shines in developer workstations. For instance, a programmer might start with a barebones system, install a lightweight window manager like i3, and selectively add development tools (e.g., Node.js, Python, Docker) via Pacman or the Arch User Repository (AUR), which hosts thousands of community-maintained packages. [^s1nnsx] [^alp6an] This DIY approach also makes Arch ideal for specialized use cases such as gaming, server deployment, and experimental projects where control and performance are paramount. [^s1nnsx] Many power users choose Arch Linux for real-time computing tasks or professional creative workflows, leveraging its minimal overhead and latest kernel updates. [^s1nnsx] [^alp6an]
 
 Key benefits of Arch Linux include:
-- **Continuous [[Rolling Release]]**: Users receive constant updates, ensuring access to the latest software and security patches without ever needing a full reinstall. [^a0pjfg] [^ak6hef]
+- **Continuous [[Vocabulary/Rolling Releases]]**: Users receive constant updates, ensuring access to the latest software and security patches without ever needing a full reinstall. [^a0pjfg] [^ak6hef]
 - **Pacman Package Manager**: Simplifies package installation, updates, and dependency resolution. [^87sd3q] [^alp6an]
 - **Arch User Repository (AUR)**: Vast community repository greatly expands available software. [^s1nnsx]
 - **Extensive Documentation**: The Arch Wiki is a premier resource for troubleshooting, configuration, and learning Linux in depth. [^s1nnsx]

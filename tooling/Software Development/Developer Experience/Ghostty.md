@@ -25,7 +25,7 @@ tags:
   - Check-It-Out
 ---
 
-An [[Open Source]] [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulators]]
+An [[Vocabulary/Open Source Software]] [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulators]]
 
 v1.2.0 released on September 15, 2025
 

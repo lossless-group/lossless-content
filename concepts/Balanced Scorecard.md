@@ -1,8 +1,13 @@
 ---
-cf_last_run: 2026-05-10T07:35:01.358Z
-cf_last_run_model: Perplexity sonar-pro
+cf_last_run: "2026-05-10T07:35:01.358Z"
+cf_last_run_model: "Perplexity sonar-pro"
 date_created: 2026-05-10
-date_modified: 2026-05-10
+date_modified: 2026-05-25
+site_uuid: f1f5a4a3-b0f6-4639-a0bb-5cf30e45a701
+publish: true
+title: "Balanced Scorecard"
+slug: balanced-scorecard
+at_semantic_version: 0.0.1.1
 ---
 
 # Defining and Describing Balanced Scorecard
@@ -34,12 +39,12 @@ A Balanced Scorecard (BSC) is a strategic performance tool that integrates finan
 # History of Use
 
 ## Origins
-The Balanced Scorecard was introduced in a 1992 Harvard Business Review article by Robert S. Kaplan, a Harvard Business School professor, and David P. Norton, a consultant, as a performance measurement framework to overcome limitations of purely financial metrics by incorporating non-financial perspectives. [^uu6j9o] They proposed it in the context of helping organizations manage in a knowledge-based economy, initially tested with a dozen companies. [^w4dbgd]
+The Balanced Scorecard was introduced in a 1992 [[Sources/Media/Harvard Business Review|Harvard Business Review]] article by Robert S. Kaplan, a Harvard Business School professor, and David P. Norton, a consultant, as a performance measurement framework to overcome limitations of purely financial metrics by incorporating non-financial perspectives. [^uu6j9o] They proposed it in the context of helping organizations manage in a knowledge-based economy, initially tested with a dozen companies. [^w4dbgd]
 
 ## Evolution
-- **1996**: Kaplan and Norton published their seminal book *[[The Balanced Scorecard]]*, formalizing the four perspectives and strategy maps to show causal links between objectives. [^w4dbgd]
+- **1996**: Kaplan and Norton published their seminal book *[[Sources/Books/The Balanced Scorecard|The Balanced Scorecard]]*, formalizing the four perspectives and strategy maps to show causal links between objectives. [^w4dbgd]
 - **2000s**: Evolved into the "Strategy-Focused Organization" model, emphasizing BSC as a management report for executive teams and cascading through organizations for alignment and execution. [^60blmc]
-- **2010s–present**: Adapted for digital tools and AI automation, including modular architectures for cascading scorecards around stakeholders or OKRs, with real-time dashboards and AI-generated objectives. [^uu6j9o] [^7kh927]
+- **2010s–present**: Adapted for digital tools and AI automation, including modular architectures for cascading scorecards around stakeholders or [[concepts/Objectives & Key Results|OKRs]], with real-time dashboards and AI-generated objectives. [^uu6j9o] [^7kh927]
 
 # Best Real-World Examples
 - [3PL Logistics Provider (Mexico)](https://bscdesigner.com/strategy-deployment.htm) used cascaded Balanced Scorecards tailored to stakeholders for strategy implementation. [^7kh927]

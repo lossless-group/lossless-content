@@ -31,7 +31,7 @@ date_modified: 2026-05-12
 
 # Best Real-World Examples
 
-[[Broadcom]], [[organizations/Nvidia|Nvidia]]
+[[organizations/Broadcom]], [[organizations/Nvidia|Nvidia]]
 
 - [NCSES Business Enterprise Research and Development (BERD) Survey](https://ncses.nsf.gov/pubs/nsf25353) tracking $722B in U.S. business R&D, with 79% development-focused. [^67s8db]
 - [Scientific Research & Development in the US (NAICS 54171)](https://www.ibisworld.com/united-states/industry/scientific-research-development/1430/) industry, primary R&D operators in engineering and life sciences. [^x714hm]

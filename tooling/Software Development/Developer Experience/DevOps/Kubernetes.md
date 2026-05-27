@@ -75,7 +75,7 @@ Kubernetes originated as an open-source project launched by [[organizations/Goog
 
 ## Fundraising History
 
-As an open-source project rather than a commercial entity, Kubernetes does not have traditional funding rounds, but the [[projects/Emergent-Innovation/Examples/Cloud Native Computing Foundation|Cloud Native Computing Foundation]] (CNCF) which stewards the project receives support from corporate sponsors across multiple tiers. [^1at3hc] The Linux Foundation, which houses the CNCF, operates as a non-profit organization funded by membership dues from technology companies that support cloud-native technologies including Kubernetes. [^1at3hc]
+As an open-source project rather than a commercial entity, Kubernetes does not have traditional funding rounds, but the [[organizations/Cloud Native Computing Foundation|Cloud Native Computing Foundation]] (CNCF) which stewards the project receives support from corporate sponsors across multiple tiers. [^1at3hc] The Linux Foundation, which houses the CNCF, operates as a non-profit organization funded by membership dues from technology companies that support cloud-native technologies including Kubernetes. [^1at3hc]
 
 | Round | Date | Amount | Lead investor |
 |-------|------|--------|--------------|

@@ -9,7 +9,7 @@ at_semantic_version: 0.0.0.1
 aliases: [CXP]
 ---
 [[Vocabulary/Digital Experience|Digital Experience]]
-[[Vocabulary/Customer Experience|Customer Experience]]
+[[concepts/Market-Categories/Customer Experience|Customer Experience]]
 
 [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Yellow.ai|Yellow.ai]]
 [[NiCE]]

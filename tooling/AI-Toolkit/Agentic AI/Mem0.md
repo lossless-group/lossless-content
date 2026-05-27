@@ -21,7 +21,7 @@ tags:
   - Context-Windows
 ---
 
-[[concepts/Explainers for AI/Memory Layer]]
+[[concepts/Explainers for AI/Memory Layers]]
 
 https://youtu.be/iOZpiXLT7iY?si=YMF_veSkgzkaNV-A
 
