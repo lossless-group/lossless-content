@@ -9,7 +9,7 @@ tags:
   - Workflow-Management
 ---
 
-Basically, minimize [[concepts/Drag]] and allocate large blocks of time to focus.  
+Basically, minimize [[concepts/Drag (on Productivity)]] and allocate large blocks of time to focus.  
 
 Similar to [[Indistractable]]
 

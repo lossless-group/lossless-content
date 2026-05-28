@@ -52,7 +52,7 @@ The "Catalog" lists key chapters or major arguments from the book, structured ar
 - [Book Summary at Readingraphics](https://readingraphics.com/book-summary-decisive/) — Free infographic breakdown of WRAP steps and villains, most substantive starter. [^ank28k]
 
 # Adjacent Sources
-- [[Made to Stick]] — Prior Heath brothers book on crafting sticky ideas, shares behavioral psych foundation. [^r3nh4d]
+- [[Sources/Books/Made to Stick]] — Prior Heath brothers book on crafting sticky ideas, shares behavioral psych foundation. [^r3nh4d]
 - [[Switch: How to Change Things When Change Is Hard]] — Another Heath title on change management, complements WRAP for execution post-decision.
 - [[Thinking, Fast and Slow]] — Kahneman's work on biases, frequently underpinning Heath's villains and cited in decision lit. [^l1gfq9]
 - [[The Innovator's Dilemma]] — Christensen on disruptive choices, pairs with WRAP for incumbent decision traps [[concepts/Disruptive Innovation]].

@@ -15,7 +15,7 @@ for_clients:
 
 _CSS Bloat refers to the excessive accumulation of unused, redundant, or overly complex CSS code in web applications, which inflates file sizes and hampers performance in resource-constrained startup environments._
 
-Innovation consultants flag CSS bloat when advising founders on frontend optimization because it directly degrades [[Core Web Vitals]], increases bounce rates, and slows mobile rendering—critical factors in user acquisition and retention for growth-stage SaaS or e-commerce startups. [^72y8yn] [^7m5uig] The term applies to unoptimized stylesheets from legacy code, framework bloat, or poor build processes, but not to intentionally verbose CSS for rapid prototyping in pre-PMF phases. Consultants care because remedying it via tools like critical CSS extraction or unused code removal can yield 20-50% load-time improvements, boosting SEO and conversion metrics without full rewrites. [^72y8yn] [^7m5uig]
+Innovation consultants flag CSS bloat when advising founders on frontend optimization because it directly degrades [[Vocabulary/Core Web Vitals]], increases bounce rates, and slows mobile rendering—critical factors in user acquisition and retention for growth-stage SaaS or e-commerce startups. [^72y8yn] [^7m5uig] The term applies to unoptimized stylesheets from legacy code, framework bloat, or poor build processes, but not to intentionally verbose CSS for rapid prototyping in pre-PMF phases. Consultants care because remedying it via tools like critical CSS extraction or unused code removal can yield 20-50% load-time improvements, boosting SEO and conversion metrics without full rewrites. [^72y8yn] [^7m5uig]
 
 # Disambiguation
 
@@ -38,7 +38,7 @@ The buildup of superfluous CSS rules, files, or dependencies that inflate payloa
 - **Antonyms**: 
   - Critical CSS (only essential above-the-fold styles, inlined for instant render). [^72y8yn]
   - Lean CSS (minimal, optimized stylesheets post-purge). [^72y8yn]
-- **Adjacent terms**: [[Core Web Vitals]].
+- **Adjacent terms**: [[Vocabulary/Core Web Vitals]].
 
 # Usage in Practice
 - "Bloated CSS files. Modern websites rely on large [[Tooling/Software Development/Programming Languages/CSS|CSS]] files to style their pages, but unused or redundant CSS can significantly slow down rendering." — NitroPack product overview [^72y8yn]

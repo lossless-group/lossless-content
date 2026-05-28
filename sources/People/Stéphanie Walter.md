@@ -1,9 +1,14 @@
 ---
-url: https://stephaniewalter.design/
+url: "https://stephaniewalter.design/"
 date_created: 2026-05-10
-date_modified: 2026-05-10
-cf_last_run: 2026-05-10T03:34:06.701Z
-cf_last_run_model: Perplexity sonar-pro
+date_modified: 2026-05-27
+cf_last_run: "2026-05-10T03:34:06.701Z"
+cf_last_run_model: "Perplexity sonar-pro"
+site_uuid: 82bfd2df-c452-4fae-9a16-8a75f81697ef
+publish: true
+title: "Stéphanie Walter"
+slug: stphanie-walter
+at_semantic_version: 0.0.0.1
 ---
 
 # Stéphanie Walter

@@ -20,6 +20,6 @@ tags:
 
 [[React]] transpiles into [[Cross-Platform Frameworks]]
 
-Similar to [[Electron]] or [[Tooling/Software Development/Developer Experience/DevTools/Tauri|Tauri]]
+Similar to [[Tooling/Software Development/Developer Experience/DevTools/Electron]] or [[Tooling/Software Development/Developer Experience/DevTools/Tauri|Tauri]]
 
 ![[Screenshot 2025-02-01 at 9.58.42 PM_Expo--Hero.png]]

@@ -95,7 +95,7 @@ It is likely **not well‑suited to non‑technical end users** seeking a turnke
 - **[[Tooling/AI-Toolkit/Agentic AI/Mem0|Mem0]]** – an alternative memory provider in the Hermes Agent comparison, often used as a plugin for LLM apps to provide long‑term memory. [^psa2nz]  
 - **[[Hindsight]]** – a provider that “builds a knowledge graph of your memory, extracting entities and relationships,” offering more graph‑structured memory versus OpenViking’s filesystem hierarchy. [^psa2nz]  
 - **[[Holographic]]** – listed among the Hermes Agent memory providers, giving users another plug‑and‑play external memory backend with a different internal design. [^psa2nz]  
-- **[[RetainDB]] / [[Supermemory]] / [[ByteRover]]** – additional Hermes Agent memory plugins, each providing its own approach to storing and retrieving persistent agent memories. [^psa2nz]  
+- **[[RetainDB]] / [[Supermemory]] / [[Tooling/AI-Toolkit/Agentic AI/ByteRover]]** – additional Hermes Agent memory plugins, each providing its own approach to storing and retrieving persistent agent memories. [^psa2nz]  
 
 ## Competitor Table
 
@@ -106,7 +106,7 @@ It is likely **not well‑suited to non‑technical end users** seeking a turnke
 | [[Hindsight]]                                    | Memory provider that “builds a knowledge graph of your memory, extracting entities and relationships,” focusing on graph‑structured recall rather than filesystem‑style tiers. [^psa2nz] |
 | [Holographic]                                    | Another Hermes Agent external memory backend, offering a different implementation of persistent agent memory. [^psa2nz]                                                                  |
 | [[RetainDB]]                                     | Listed as a Hermes Agent memory provider plugin, giving an alternative storage engine for agent memories. [^psa2nz]                                                                      |
-| [[ByteRover]]                                    | Memory provider in the Hermes Agent ecosystem, competing as an external memory backend for AI agents. [^psa2nz]                                                                          |
+| [[Tooling/AI-Toolkit/Agentic AI/ByteRover]]                                    | Memory provider in the Hermes Agent ecosystem, competing as an external memory backend for AI agents. [^psa2nz]                                                                          |
 | [[Supermemory]]                                  | One of the eight compared Hermes Agent memory providers, serving as another plug‑in option for persistent agent memory. [^psa2nz]                                                        |
 
 

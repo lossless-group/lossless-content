@@ -76,7 +76,7 @@ Generative AI creates **AI avatars**—digital representations of people—by le
     - **[[concepts/Explainers for AI/Deep Learning|Deep Learning]]**: Neural networks, particularly **[[Generative Adversarial Networks]] (GANs)**, are used to generate realistic images or videos of a person. GANs work by training two models—a generator and a discriminator—to create and refine realistic outputs.
     - **Text-to-Image/Video Models**: Models like **[[Tooling/AI-Toolkit/Models/DALL·E|DALL·E]]**, **Stable Diffusion**, or **[[Runway]] Gen-2** generate visual content based on textual descriptions.
     - **Text-to-Speech Models**: AI systems like **[[WaveNet]]** or **[[ElevenLabs]]** synthesize speech that sounds natural and personalized.
-    - **Motion Capture & Animation**: Technologies like **[[DeepMotion]]** or **[[MetaHuman]] Creator** simulate human body movements and facial expressions.
+    - **Motion Capture & Animation**: Technologies like **[[Tooling/AI-Toolkit/Generative AI/DeepMotion]]** or **[[MetaHuman]] Creator** simulate human body movements and facial expressions.
 3. **Avatar Generation**:
     
     - The collected data is processed to build a 2D or 3D digital avatar.
@@ -151,14 +151,14 @@ Several companies and technologies specialize in creating and deploying AI avata
     - Generates images of avatars from textual descriptions.
 - **[[Runway]] ML**:
     - A creative platform for generating AI-driven videos and animations.
-- **[[DeepMotion]]**:
+- **[[Tooling/AI-Toolkit/Generative AI/DeepMotion]]**:
     - Provides real-time motion capture and animation for avatars.
 
 #### **3. Voice Synthesis Platforms**
 
 - **[[ElevenLabs]]**:
     - Creates hyper-realistic AI-generated voices for avatars.
-- **[[Descript]]**:
+- **[[Tooling/Creative/Descript]]**:
     - Offers voice cloning and audio editing tools for realistic voiceovers.
 - **[[Replica Studios]]**:
     - Specializes in AI-generated voice acting for games and films.

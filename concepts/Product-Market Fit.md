@@ -71,7 +71,7 @@ Venture capitalist [[Marc Andreessen]] coined the term "product-market fit."[^hk
 
 - [Canva](https://www.canva.com) — [[Tooling/Creative/Canva|Canva]] achieved PMF by democratizing graphic design for non-designers; its intuitive interface and template library created such strong product-market alignment that users organically recommended it, driving viral adoption.
 
-- [DuckDuckGo](https://duckduckgo.com) — [[DuckDuckGo]] Demonstrated PMF among privacy-conscious users by offering a search alternative that respected user privacy; organic adoption and word-of-mouth growth validated the product's market fit despite competition from entrenched incumbents.
+- [DuckDuckGo](https://duckduckgo.com) — [[Tooling/DuckDuckGo]] Demonstrated PMF among privacy-conscious users by offering a search alternative that respected user privacy; organic adoption and word-of-mouth growth validated the product's market fit despite competition from entrenched incumbents.
 
 # Case Studies
 

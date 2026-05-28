@@ -138,7 +138,7 @@ It is generally not for very small businesses with low transaction volume, compa
 | [SAP Concur]  | Travel and expense management solution integrated with SAP and other ERPs, focused on T&E policy enforcement and workflows.                         |     |
 | [[Expensify]] | Expense management and corporate card platform with automated receipt capture and rules-driven approval flows, oriented toward SMBs and mid‑market. |     |
 | [[Tipalti]]   | AP automation and global mass-payments solution designed to streamline supplier onboarding, invoice processing, and payouts.                        |     |
-| [[Airbase]]   | Spend management platform that unifies cards, AP, and expense reimbursement with budgets and approvals for mid‑market finance teams.                |     |
+| [[Tooling/Enterprise Jobs-to-be-Done/Paylocity]]   | Spend management platform that unifies cards, AP, and expense reimbursement with budgets and approvals for mid‑market finance teams.                |     |
 
 
 ***

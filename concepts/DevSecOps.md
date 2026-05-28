@@ -1,15 +1,25 @@
 ---
 date_created: 2025-09-05
-date_modified: 2025-09-05
-aliases: [Development, Security, and Operations]
-tags: [DevOps, State-Of-The-Art-Practices, Engineering-Management]
+date_modified: 2026-05-27
+aliases:
+  - Development
+  - Security
+  - and Operations
+tags:
+  - DevOps
+  - State-Of-The-Art-Practices
+  - Engineering-Management
 site_uuid: 6f0328ac-8803-4951-acb0-ac785016c227
 publish: true
 title: DevSecOps
 slug: devsecops
 at_semantic_version: 0.0.1.1
+for_clients:
+  - Laerdal
+  - Param
+  - Tonguc
 ---
-[[concepts/Security-First Development]]
+[[concepts/Security-First Development|Security-First Development]]
 
 ***
 > [!info] **Perplexity Query** (2025-09-05T11:36:07.131Z)
@@ -20,13 +30,13 @@ at_semantic_version: 0.0.1.1
 > 
 >**DevSecOps: Integrating Security Into Modern Software Development**
 
-DevSecOps—short for development, security, and operations—is a methodology that weaves *security practices into every phase of the [[concepts/Software Development Lifecycle]]* (SDLC). [^gsyrq4] [^2ze5f1] [^18kyg7] As digital transformation accelerates and cyber threats intensify, DevSecOps has emerged as a crucial paradigm, ensuring that security is no longer an afterthought but an integral part of modern application delivery. [^18kyg7]
+DevSecOps—short for development, security, and operations—is a methodology that weaves *security practices into every phase of the [[concepts/Software Development Lifecycle|Software Development Lifecycle]]* (SDLC). [^gsyrq4] [^2ze5f1] [^18kyg7] As digital transformation accelerates and cyber threats intensify, DevSecOps has emerged as a crucial paradigm, ensuring that security is no longer an afterthought but an integral part of modern application delivery. [^18kyg7]
 
 ![DevSecOps concept diagram or illustration](https://www.sentinelone.com/wp-content/uploads/2024/08/cybersecurity-101-what-is-devsecops.jpg)
 
 ### The Concept of DevSecOps
 
-DevSecOps evolved from DevOps, which aimed to bridge the gap between development and operations for faster and more reliable software releases. [^gsyrq4] [^18kyg7] Traditional software approaches often relegated security checks to the final stages, resulting in costly remediation and vulnerable products. [^gsyrq4] [^2ze5f1] DevSecOps challenges this reactive mindset by making security a shared responsibility across all teams—developers, security professionals, and IT operations.
+[[concepts/DevSecOps|DevSecOps]] evolved from [[Vocabulary/Dev Ops|DevOps]], which aimed to bridge the gap between development and operations for faster and more reliable software releases. [^gsyrq4] [^18kyg7] Traditional software approaches often relegated security checks to the final stages, resulting in costly remediation and vulnerable products. [^gsyrq4] [^2ze5f1] DevSecOps challenges this reactive mindset by making security a shared responsibility across all teams—developers, security professionals, and IT operations.
 
 Key aspects of DevSecOps include:
 
@@ -79,7 +89,9 @@ Looking ahead, DevSecOps will continue to evolve as organizations embrace AI-dri
 
 DevSecOps represents a paradigm shift—embedding **security throughout the software development lifecycle** for organizations who value both speed and safety. As threats intensify and technologies advance, its principles will remain central to secure, efficient, and trustworthy software development.
 
-### Citations
+
+***
+# Citations
 
 [^gsyrq4]: 2025, Jul 28. [What is DevSecOps? - Principles, Goals, Benefits ...](https://www.opsmx.com/blog/what-is-devsecops/). Published: 2025-02-14 | Updated: 2025-07-28
 

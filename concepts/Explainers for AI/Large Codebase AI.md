@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-17
-date_modified: 2025-11-20
+date_modified: 2026-05-28
 ---
 :::tool-showcase
 tag: Large Codebase AI
@@ -11,6 +11,9 @@ tag: Large Codebase AI
 - [[Tooling/Software Development/Developer Experience/DevOps/SonarQube|SonarQube]]
 - [[Tooling/Software Development/DevOps/Upsun|Upsun]]
 :::
+
+[[concepts/Keep it Simple, Stupid|KISS]]
+
 ***
 > [!info] **Perplexity Query** (2025-08-17T11:44:31.094Z)
 > **Question:**

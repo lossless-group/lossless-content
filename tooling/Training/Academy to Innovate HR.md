@@ -148,7 +148,7 @@ As of 2026-05-23,
 
 - [[concepts/People Analytics]]  
 - [[concepts/Digital HR Transformation]]  
-- [[concepts/AI in Human Resources]]  
+- [[concepts/Market-Categories/AI in Human Resources]]  
 - [[organizations/HR Trend Institute]]  
 - [[concepts/Online Professional Education Platforms]]
 

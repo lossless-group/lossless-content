@@ -87,7 +87,7 @@ Ramp is less suitable for very small businesses or sole proprietors that only ne
 ## Viable Alternatives
 
 - **[[Tooling/Enterprise Jobs-to-be-Done/Brex|Brex]]:** Alternative corporate card and spend management platform offering cards, expense management, and integrations for startups and larger companies, often evaluated alongside Ramp. [^gyhxd5]  
-- **[[Airbase]]:** Spend management tool with corporate cards, AP automation, and accounting integrations, positioned as a comprehensive alternative for controlling company spend. [^gyhxd5]  
+- **[[Tooling/Enterprise Jobs-to-be-Done/Paylocity]]:** Spend management tool with corporate cards, AP automation, and accounting integrations, positioned as a comprehensive alternative for controlling company spend. [^gyhxd5]  
 - **[[Rho]]:** Corporate spend and banking platform that markets itself as a Ramp competitor with integrated banking, cards, and AP automation. [^gyhxd5]  
 - **BILL (formerly Bill.com):** Established AP automation and bill‑pay platform that Ramp compares itself against, especially for invoice processing and payments. [^q525kn]  
 - **[[Tipalti]]:** Global payables automation platform used for complex vendor and cross‑border payments, commonly compared with Ramp in AP automation contexts. [^q525kn] [^gyhxd5]  

@@ -13,7 +13,7 @@ github_profile_url: https://github.com/bazelbuild
 ---
 [[Vocabulary/Build Systems|Build System]]
 [[concepts/Explainers for AI/Large Codebase AI|Large Codebase AI]]
-[[Vocabulary/Engineering Management|Engineering Management]]
+[[Vocabulary/Software Engineering Management|Software Engineering Management]]
 
 ***
 > [!info] **Perplexity Query** (2025-11-20T14:02:54.541Z)

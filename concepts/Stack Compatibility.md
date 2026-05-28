@@ -21,7 +21,7 @@ Because [[concepts/Data Fluidics|data wants to become fluid]] through an explosi
 
 Companies can pursue purposeful efforts like [[concepts/Platform Mechanisms]]. However, a lot of other [[Conventions]] arise as many actors try to create their own value by plugging into the hubs of the market network, which functions much like an evolving market ecosystem.  
 
-Big tech leaders purposefully offer compatibility for their preferred partners, or for actors using their preferred conventions. What arises is an operating environment where [[concepts/Drag]] or [[Friction]] can be reduced, thus productivity gained, when selecting from technology choices.
+Big tech leaders purposefully offer compatibility for their preferred partners, or for actors using their preferred conventions. What arises is an operating environment where [[concepts/Drag (on Productivity)]] or [[Friction]] can be reduced, thus productivity gained, when selecting from technology choices.
 
 
 # Footnotes

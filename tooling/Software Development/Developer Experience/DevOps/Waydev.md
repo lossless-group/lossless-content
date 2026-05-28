@@ -18,6 +18,6 @@ at_semantic_version: 0.0.0.1
 
 [[concepts/Explainers for Tooling/Software Engineering Intelligence|Software Engineering Intelligence]]
 
-[[Vocabulary/Engineering Management|Engineering Management]]
+[[Vocabulary/Software Engineering Management|Software Engineering Management]]
 
 

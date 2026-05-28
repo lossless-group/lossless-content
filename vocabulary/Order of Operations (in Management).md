@@ -63,7 +63,7 @@ The term "order of operations" in a management context is not credited to a sing
 
 **Synonyms:**
 - **[[concepts/Strategic Alignment]]**: ensuring that day-to-day work tracks the company's strategic intent; emphasizes *alignment* rather than the *sequence* by which alignment is achieved.
-- **[[Decision Hierarchies]]**: the formal chain of authority and escalation for different classes of decisions; more about *who decides* than *in what order* or *when*.
+- **[[Vocabulary/Decision Hierarchies]]**: the formal chain of authority and escalation for different classes of decisions; more about *who decides* than *in what order* or *when*.
 - **[[Execution Excellence]]**: the ability to deliver on plans; focuses on the *quality* of execution rather than the *sequencing* of decisions that precedes it.
 - **[[Roadmaps]]**: a planned sequence of deliverables, features, or milestones; focuses on *what* and *when*, less on the *why* (strategic intent) that drives the order.
 
@@ -76,7 +76,7 @@ The term "order of operations" in a management context is not credited to a sing
 - [[Strategic planning]]
 - [[Vocabulary/Agile Software Development|Agile Methodologies]] (challenges and reorders traditional hierarchies)
 - [[Lean manufacturing]] (enforces order through waste elimination and continuous improvement)
-- [[Feedback Loops]]
+- [[concepts/Feedback Loops]]
 - [[Resource allocation]]
 - [[Organizational Design]]
 

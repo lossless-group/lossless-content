@@ -1,6 +1,6 @@
 ---
 date_created: 2026-05-06
-date_modified: 2026-05-20
+date_modified: 2026-05-28
 site_uuid: d6ddfc80-64e5-4107-a686-591c627f0142
 publish: true
 title: Agentic Robot Systems
@@ -13,6 +13,7 @@ tags:
   - Agentic-Robot-Systems
 for_clients:
   - Laerdal
+  - Alpha-JWC
 ---
 
 
@@ -48,7 +49,7 @@ Instead of relying on tech giants (Google DeepMind, OpenAI) or heavily publicize
 
 #### 2. **Genesis AI**
 * **The Pitch:** Physics-based simulation engines to bypass real-world data bottlenecks.
-* **How it works:** One of the hardest parts of training agentic robots is the "data bottleneck" (robots need millions of physical trials to learn). [[Genesis AI]] solves this with a proprietary, ultra-fast physics simulation engine that generates high-fidelity synthetic training data at speeds up to 430,000 times faster than real-world time, allowing robots to "dream" and learn complex motor skills virtually before deploying to physical hardware.
+* **How it works:** One of the hardest parts of training agentic robots is the "data bottleneck" (robots need millions of physical trials to learn). [[organizations/Genesis AI|Genesis AI]] solves this with a proprietary, ultra-fast physics simulation engine that generates high-fidelity synthetic training data at speeds up to 430,000 times faster than real-world time, allowing robots to "dream" and learn complex motor skills virtually before deploying to physical hardware.
 
 #### 3. **Mbodi AI**
 * **The Pitch:** Natural language instruction and rapid task-switching for industrial robots.
@@ -84,9 +85,9 @@ For agentic software to work, it requires hardware capable of fine-grained, high
 * **The Pitch:** Tactile-sensitive, human-scale robotic hands.
 * **How it works:** Sharpa designs revolutionary, biomimetic dexterous hands equipped with high-density tactile sensors. Their hardware matches the human hand in size, structure, and sensitivity. When paired with their "Wave" full-body control software, it allows robots to feel and manipulate delicate objects (like picking fruit or assembling tiny electronics) with human-like gentleness.
 
-#### 5. **Hellbender**
+#### 5. **[[organizations/Hellbender]]**
 * **The Pitch:** Secure, on-shore spatial awareness hardware.
-* **How it works:** Agentic robots are blind without advanced sensory arrays. [[Hellbender]] manufactures highly secure, ruggedized, on-shore AI vision systems (Stereo, Vine, and Tadpole cameras) that feature built-in edge-computing chips. They have quickly become the go-to hardware partner for robotics companies that require secure, domestic supply chains for spatial awareness and depth perception. Please don't default to well known names, want a market survey of new innovators.
+* **How it works:** Agentic robots are blind without advanced sensory arrays. [[organizations/Hellbender]] manufactures highly secure, ruggedized, on-shore AI vision systems (Stereo, Vine, and Tadpole cameras) that feature built-in edge-computing chips. They have quickly become the go-to hardware partner for robotics companies that require secure, domestic supply chains for spatial awareness and depth perception. Please don't default to well known names, want a market survey of new innovators.
 > 
 > **Model:** gemini-flash-latest
 > 

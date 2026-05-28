@@ -18,6 +18,6 @@ for_clients:
   - Param
 ---
 [[concepts/Explainers for AI/Large Codebase AI|Large Codebase AI]]
-[[Vocabulary/Engineering Management|Engineering Management]]
+[[Vocabulary/Software Engineering Management|Software Engineering Management]]
 
 Similar to [[Tooling/AI-Toolkit/Generative AI/Code Generators/AppMap|AppMap]]

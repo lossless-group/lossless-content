@@ -75,7 +75,7 @@ Becoming a market leader in [[concepts/Explainers for AI/Knowledge Base AI|Knowl
 
 > [!RESPONSE] Financing History overview
 > **Initial Seed Round (Undisclosed)**: Reported as occurring around May 2022.
-> **Participants**: Anthony Goldbloom ([[Kaggle]] founder) and Nat Friedman (former [[Tooling/Software Development/Developer Experience/GitHub|GitHub]] CEO).
+> **Participants**: Anthony Goldbloom ([[organizations/Kaggle]] founder) and Nat Friedman (former [[Tooling/Software Development/Developer Experience/GitHub|GitHub]] CEO).
 > 
 >$18 million** in funding across at least two reported rounds. Its primary major public financing was its April 2023 Seed round, which valued the company at **$75 million** post-money. "
 

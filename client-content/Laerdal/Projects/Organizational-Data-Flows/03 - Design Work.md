@@ -21,7 +21,7 @@ Right now, better visual communication can dramatically impact [[concepts/Produc
 
 We foresee an accelerating force on software development as two trends collide: the need to refactor and rewrite code at accelerating paces, and the possibility of using AI [[concepts/Explainers for AI/Code Generators|Code Generators]], and AI Powered [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editors or IDEs]] and [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulators]] to let [[Large Language Models]] do much of the heavy lifting for mind-numbing boiler-plate parts of writing code. This creates a phenomenon we call [[concepts/Lego-Kit Engineering]] 
 
-By empowering [[concepts/Visual Leadership]], visual communication and collaboration, a large swath of hangups, misunderstandings, meetings to get more clarity, etc, and other forms of [[concepts/Drag]] can be reduced or even eliminated.  
+By empowering [[concepts/Visual Leadership]], visual communication and collaboration, a large swath of hangups, misunderstandings, meetings to get more clarity, etc, and other forms of [[concepts/Drag (on Productivity)]] can be reduced or even eliminated.  
  
 ## Broadening the Impact of the [[client-content/Laerdal/Sources/Laerdal Entities/Life Design System]]
 We, the [[client-content/Laerdal/Sources/Laerdal Entities/The Lossless Group]] believes the the [[client-content/Laerdal/Sources/Laerdal Entities/Life Design System]] should become more of a centerpiece to the Laerdal organization. Including, but not limited to:

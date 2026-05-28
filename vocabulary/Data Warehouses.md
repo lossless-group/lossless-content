@@ -64,7 +64,7 @@ In the **innovation-consulting and startup context**, the term migrated signific
 
 **Adjacent terms:**
 - [[ETL (Extract, Transform, Load)]] — the pipeline that populates a warehouse
-- [[OLAP (Online Analytical Processing)]] — the query engine that powers fast warehouse analytics [5]
+- [[Vocabulary/OLAP (Online Analytical Processing)]] — the query engine that powers fast warehouse analytics [5]
 - [[Columnar storage]] — the physical format that makes warehouses efficient [6]
 - [[Data modeling]] — the structural design (star schema, snowflake schema) that makes warehouses queryable
 - [[Data governance]] — policies and metadata that keep warehouse data trustworthy

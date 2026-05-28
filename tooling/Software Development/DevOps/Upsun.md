@@ -16,4 +16,4 @@ slug: upsun
 at_semantic_version: 0.0.0.1
 ---
 [[concepts/Platform Engineering|Platform Engineering]]
-[[Vocabulary/Engineering Management|Engineering Management]]
+[[Vocabulary/Software Engineering Management|Software Engineering Management]]

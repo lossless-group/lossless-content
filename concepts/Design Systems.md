@@ -2,7 +2,7 @@
 cf_last_run: 2026-05-10T03:31:40.218Z
 cf_last_run_model: Perplexity sonar-pro
 date_created: 2026-05-10
-date_modified: 2026-05-10
+date_modified: 2026-05-27
 ---
 # Defining and Describing Design Systems
 
@@ -53,7 +53,7 @@ Key early framing appears in resources like Design.dev's guide, defining it as "
 # Case Studies
 [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Harvey AI|Harvey AI]], a startup scaling AI products, rebuilt their design system in early 2026 when "product complexity was growing faster than our design infrastructure could support." [^eb43mb] Facing expansion into new pillars, growing Design and Engineering teams, and diverse surfaces, they dealt with "multiple versions of the same component" and no clear ownership. [^eb43mb] The EPD team re-architected for quality consistency, establishing contribution processes that accelerated shipping without sacrificing standards, demonstrating how design systems solve "systems problems" slowing entire organizations. [^eb43mb] This shows design systems as essential infrastructure for startups outpacing ad-hoc design in high-growth phases.
 
-[[Tooling/Software Development/Developer Experience/DevOps/Documentation Engines/ZeroHeight|ZeroHeight]]'s approach, via designer [[Sources/People/Stéphanie Walter]]'s 2020s checklist, evolved design systems "beyond the happy path" to include technical states, layouts, inclusive interactions, and user preferences. [^mh7pai] This practitioner-led framework addressed common pitfalls in early systems, enabling resilient documentation and delivery tools that automate workflows and measure adoption. [^mh7pai] By prioritizing visual, searchable docs aligned with code, it proved how indie-focused evolutions make systems usable across distributed teams, countering abandonment risks. [^mh7pai] [^t3baak]
+[[Tooling/Software Development/Developer Experience/DevOps/Documentation Engines/ZeroHeight|ZeroHeight]]'s approach, via designer [[Sources/People/Stéphanie Walter|Stéphanie Walter]]'s 2020s checklist, evolved design systems "beyond the happy path" to include technical states, layouts, inclusive interactions, and user preferences. [^mh7pai] This practitioner-led framework addressed common pitfalls in early systems, enabling resilient documentation and delivery tools that automate workflows and measure adoption. [^mh7pai] By prioritizing visual, searchable docs aligned with code, it proved how indie-focused evolutions make systems usable across distributed teams, countering abandonment risks. [^mh7pai] [^t3baak]
 
 Superside's 2026 analysis of design systems as "the antidote" to chaos framed them as "centralized collections of brand-approved assets, reusable UI components, design patterns, documentation and rules." [^t3baak] Drawing from Figma data, it highlighted "34% faster task completion" and ROI, with success tied to "clear ownership, usable components, strong documentation and real adoption." [^t3baak] Starting small and evolving via feedback, this startup perspective underscores design systems' role in protecting brand equity at scale for creative teams. [^t3baak]
 

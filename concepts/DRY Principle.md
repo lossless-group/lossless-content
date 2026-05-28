@@ -1,12 +1,23 @@
 ---
 date_created: 2025-08-17
-date_modified: 2025-08-17
-aliases: [Don't Repeat Yourself]
+date_modified: 2026-05-28
+aliases:
+  - Don't Repeat Yourself
+  - DRY
 site_uuid: dc224f16-0d00-4a12-b3c4-8ab71682e5ac
 publish: true
-title: "DRY Principle"
+title: DRY Principle
 slug: dry-principle
 at_semantic_version: 0.0.0.1
+for_clients:
+  - Param
+  - Laerdal
+tags:
+  - Lossless-Thinking
+  - Programming-Principles
+  - Engineering-Management
+  - Developer-Experience
+  - Large-Codebase-AI
 ---
 [[concepts/Programming Paradigms|Programming Paradigms]]
 
@@ -24,7 +35,7 @@ The **DRY (Don't Repeat Yourself) principle** is a foundational concept in softw
 
 ![DRY Don't Repeat Yourself principle in Software Engineering concept diagram or illustration](https://symflower.com/en/company/blog/2022/programming-principle-dry/images/header.svg)
 
-At its core, DRY dictates that "every piece of knowledge must have a single, unambiguous, authoritative representation within a system". [^rmk0ed] [^t6obq3] This principle, first formulated by Andy Hunt and Dave Thomas in *[[Sources/Books/The Pragmatic Programmer]]*, extends beyond mere code: it encompasses database schemas, documentation, test plans, and build systems. [^rmk0ed] For example, if a calculation, data model, or configuration appears in multiple places, any needed change would require updates in each instance. DRY combats this by **abstracting repeated logic into reusable components, functions, or modules**. [^lao2q3] In object-oriented languages, inheritance and class hierarchies facilitate the reuse of shared logic, while in functional programming, small composable functions play this role. [^lao2q3]
+At its core, DRY dictates that "every piece of knowledge must have a single, unambiguous, authoritative representation within a system". [^rmk0ed] [^t6obq3] This principle, first formulated by Andy Hunt and Dave Thomas in *[[Sources/Books/The Pragmatic Programmer|The Pragmatic Programmer]]*, extends beyond mere code: it encompasses database schemas, documentation, test plans, and build systems. [^rmk0ed] For example, if a calculation, data model, or configuration appears in multiple places, any needed change would require updates in each instance. DRY combats this by **abstracting repeated logic into reusable components, functions, or modules**. [^lao2q3] In object-oriented languages, inheritance and class hierarchies facilitate the reuse of shared logic, while in functional programming, small composable functions play this role. [^lao2q3]
 
 A practical illustration of DRY is a **web application with multiple forms that validate email addresses using identical logic**. Placing this validation logic in a single email validation function ensures that future adjustments—such as updating the regular expression—propagate throughout the entire codebase. [^cw2nco] In a data engineering context, DRY may be observed in centralized data models or template engines, where the same SQL filter conditions are reused across a multitude of reports, ensuring consistency and reducing maintenance effort. [^cw2nco] Approaches to achieve DRY include encapsulating logic in functions or classes, centralizing configuration constants, and breaking software into modular, reusable components. [^lao2q3]
 

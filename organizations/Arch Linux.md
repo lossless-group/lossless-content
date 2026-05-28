@@ -8,7 +8,7 @@ og_image: https://archlinux.org/static/logos/apple-touch-icon-57x57.png
 og_favicon: https://archlinux.org/static/favicon.png
 og_last_fetch: 2025-08-28T18:03:31.718Z
 ---
-[[Keep it Simple, Stupid]]
+[[concepts/Keep it Simple, Stupid]]
 
 
 ***

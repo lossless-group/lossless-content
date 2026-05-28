@@ -27,7 +27,7 @@ Based on your "show don't tell" ethos and need to track interest across ~20 site
 - Perfect for agencies - best sites-per-dollar ratio
 - Not self-hostable, but extremely low maintenance
 
-**[[OpenPanel]]** [^v61rti] [^o1vaum]
+**[[Tooling/Enterprise Jobs-to-be-Done/OpenPanel]]** [^v61rti] [^o1vaum]
 - Combines web + product analytics ([[Mixpanel]]-like features)
 - AGPL-3.0 license, self-host free
 - Cloud starts at $2.50/month
