@@ -13,7 +13,7 @@ for_clients:
   - FullStackVC
 ---
 # Open Data Fromats
-[[Open Data Formats]] for charts and data ensure interoperability, enabling machine-readable and non-proprietary exchange. Key open formats include CSV and TSV for structured data, JSON and XML for metadata-rich data, and .odc (OpenDocument Chart) for visualizations. These are often packed as  for transport, with OpenSpec used in AI-driven spec development. [^2inh2d] [^5cur5f] [^hiwk9a] [^wg7jlp] [^bja76r] [^2nw23g]  
+[[Vocabulary/Open Data Formats]] for charts and data ensure interoperability, enabling machine-readable and non-proprietary exchange. Key open formats include CSV and TSV for structured data, JSON and XML for metadata-rich data, and .odc (OpenDocument Chart) for visualizations. These are often packed as  for transport, with OpenSpec used in AI-driven spec development. [^2inh2d] [^5cur5f] [^hiwk9a] [^wg7jlp] [^bja76r] [^2nw23g]  
 ## Key Open Data & Chart Formats 
 
 • [[Vocabulary/Comma-Separated Values|CSV]] (Comma Separated Values): The most standard, machine-readable format for raw chart data. 

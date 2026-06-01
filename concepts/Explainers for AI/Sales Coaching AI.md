@@ -32,7 +32,7 @@ _Source: https://spinify.com/blog/spinify-ai-coaching-agent-your-ultimate-soluti
 - Introduced by sales enablement startups like Gong (conversation intelligence pioneer, adopted for coaching) and indie platforms, addressing "limited time for 1:1 coaching" in manager-overloaded teams. [^r9ehm7] [^yp9wpt]
 
 ## Evolution
-- **2023–2024:** Shift from post-call analytics (e.g., [[Gong]]'s deal intelligence) to AI roleplay and simulation, with platforms like [[Second Nature]] and [[Tooling/AI-Toolkit/AI Interfaces/Hyperbound]] enabling "dynamic AI buyer personas" for practice scenarios. [^9taq0n] [^yp9wpt]
+- **2023–2024:** Shift from post-call analytics (e.g., [[Tooling/Enterprise Jobs-to-be-Done/Gong]]'s deal intelligence) to AI roleplay and simulation, with platforms like [[Second Nature]] and [[Tooling/AI-Toolkit/AI Interfaces/Hyperbound]] enabling "dynamic AI buyer personas" for practice scenarios. [^9taq0n] [^yp9wpt]
 - **2025:** Expansion to real-time coaching during live calls, as in [[Spiky.ai]] and [[Tooling/Enterprise Jobs-to-be-Done/Dialpad|Dialpad]], providing "in-the-moment" prompts and objection-handling cues integrated with CRM. [^yp9wpt] [^3tixg3]
 - **2026:** Maturity with blended platforms like [[Tooling/Enterprise Jobs-to-be-Done/Cirrus Insight]] in [[Tooling/Products/Salesforce|Salesforce]], combining preparation, live guidance, and automation for "30–40% faster" onboarding. [^r9ehm7] [^q55kzr]
 

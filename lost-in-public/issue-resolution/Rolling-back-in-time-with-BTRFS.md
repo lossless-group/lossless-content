@@ -23,7 +23,7 @@ title: Rolling back in time with BTRFS
 
 We've all been there. You make a configuration change, reboot your machine, and suddenly you're staring at a broken system that won't boot. Maybe it's a botched [[Tooling/Productivity/Hyprland|Hyprland]] config, a broken package update, or a GRUB issue you accidentally triggered. The panic sets in: "Do I need to reinstall everything?"
 
-The good news? If you're running [[Tooling/Software Development/Developer Experience/Garuda Linux|Garuda Linux]] (or any Arch-based system with [[Vocabulary/Btrfs|Btrfs]] and Timeshift), you probably don't need to reinstall anything. BTRFS snapshots are like Git for your entire filesystem—every snapshot is a complete, bootable state of your system frozen in time. This guide will walk you through recovering your system using BTRFS snapshots, based on real-world recovery scenarios.
+The good news? If you're running [[Tooling/Software Development/Developer Experience/Garuda Linux|Garuda Linux]] (or any Arch-based system with [[Vocabulary/Butter FS|Butter FS]] and Timeshift), you probably don't need to reinstall anything. BTRFS snapshots are like Git for your entire filesystem—every snapshot is a complete, bootable state of your system frozen in time. This guide will walk you through recovering your system using BTRFS snapshots, based on real-world recovery scenarios.
 
 ## What You'll Need
 

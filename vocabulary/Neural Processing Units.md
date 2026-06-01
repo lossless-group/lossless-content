@@ -63,7 +63,7 @@ In some sources, NPU is used more broadly as a synonym for an **AI accelerator**
 - **Antonyms**: **CPU** — general-purpose processor optimized for broad tasks rather than specialized AI acceleration. [^gm7t5y] [^e9ua3l]
 - **Antonyms**: **GPU** — highly parallel processor originally optimized for graphics, sometimes used for AI but not the same thing as an NPU. [^gm7t5y] [^e9ua3l]
 - **Adjacent terms**: [[Vocabulary/Machine Learning|Machine Learning]]
-- **Adjacent terms**: [[Inference]]
+- **Adjacent terms**: [[Vocabulary/Inference in AI]]
 - **Adjacent terms**: [[Vocabulary/Edge Computing|Edge Computing]]
 - **Adjacent terms**: [[system on a chip]]
 - **Adjacent terms**: [[Tensors]]

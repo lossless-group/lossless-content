@@ -1,11 +1,24 @@
 ---
-date_created: 2026-05-09
-date_modified: 2026-05-09
+date_created: 2025-01-04
+date_modified: 2026-05-29
 aliases:
   - Customer Education
   - Education-Led Growth
+  - User Education
 cf_last_run: 2026-05-09T23:13:00.610Z
 cf_last_run_model: Perplexity sonar-deep-research
+site_uuid: ac163603-7e26-4fd8-8f5c-6fca399097dd
+publish: true
+title: Educate the Customer
+slug: educate-the-customer
+at_semantic_version: 0.0.1.1
+tags:
+  - Best-Practices
+for_clients:
+  - Laerdal
+  - Param
+  - Parslee
+  - Dynamiq
 ---
 # Customer Education and the New Enterprise
 
@@ -91,13 +104,13 @@ The COVID-19 pandemic accelerated adoption of digital learning across all sector
 
 **Forter's AI-Powered Customer Education Program**: A team of one at Forter built an AI-powered customer education organization from zero to launch, leveraging AI agents to scale customer education without expanding headcount. [^phu967] This example demonstrates how emerging AI technologies are enabling smaller organizations to achieve sophisticated customer education programs previously requiring larger teams, democratizing access to advanced educational capabilities.
 
-**Digital Adoption Platforms (DAPs) and In-Product Learning**: Tools like platforms that embed learning directly into products through tooltips, modals, and contextual sidebars represent an evolution in customer education delivery. [^zwn8w2] [^ipotw4] In-product learning reduces context switching that disrupts cognitive flow, delivering education at the precise moment when customers need it most—when actively using features. This "learning in the flow of work" significantly accelerates time-to-value and feature adoption compared to separate learning portals. [^zwn8w2] [^ipotw4]
+**Digital Adoption Platforms (DAPs) and [[In-Product Learning]]**: Tools like platforms that embed learning directly into products through tooltips, modals, and contextual sidebars represent an evolution in customer education delivery. [^zwn8w2] [^ipotw4] In-product learning reduces context switching that disrupts cognitive flow, delivering education at the precise moment when customers need it most—when actively using features. This "learning in the flow of work" significantly accelerates time-to-value and feature adoption compared to separate learning portals. [^zwn8w2] [^ipotw4]
 
 ## Case Studies
 
 ### Case Study One: HubSpot's Education-Led Growth Transformation
 
-HubSpot transformed from a traditional SaaS vendor providing product-specific training into an industry thought leader by fundamentally reconceptualizing education as a primary business driver rather than a support function. Beginning in the mid-2010s, HubSpot began investing heavily in creating comprehensive, freely available educational content through HubSpot Academy covering marketing, sales, and customer service methodologies and principles broadly applicable across industries, not merely HubSpot-specific product training. [^252ye5] [^zwn8w2]
+[[Tooling/Enterprise Jobs-to-be-Done/HubSpot|HubSpot]] transformed from a traditional SaaS vendor providing product-specific training into an industry thought leader by fundamentally reconceptualizing education as a primary business driver rather than a support function. Beginning in the mid-2010s, HubSpot began investing heavily in creating comprehensive, freely available educational content through HubSpot Academy covering marketing, sales, and customer service methodologies and principles broadly applicable across industries, not merely HubSpot-specific product training. [^252ye5] [^zwn8w2]
 
 The strategic insight underlying this transformation was that by becoming the authoritative educational resource for inbound marketing, sales methodology, and customer service excellence, HubSpot would establish trust with market participants regardless of whether they used HubSpot products. This would create high-intent leads flowing into the sales funnel and would create a network effect where HubSpot-certified professionals became advocates within their organizations and professional networks, influencing purchasing decisions and product advocacy. [^252ye5] [^zwn8w2]
 

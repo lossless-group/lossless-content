@@ -68,7 +68,7 @@ Creator of [[Ruby on Rails]]. Co-author of [[Rework]] and [[Getting Real]].
 - [[Rework]]
 - [[Jason Fried]] (co-author and 37signals partner)
 - [[Getting Real]]
-- [[Paul Graham]] (contrasts indie hacking views)
+- [[Sources/People/Influencers/Paul Graham]] (contrasts indie hacking views)
 
 
 ***

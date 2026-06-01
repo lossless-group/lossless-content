@@ -32,7 +32,7 @@ If you run more than one terminal coding agent — Claude Code in one pane, Code
 
 We are deeply terminal-agent-heavy: Claude Code in this very repo, plus Codex and OpenCode on adjacent experiments. The current pattern is iTerm tabs + tmux + a *lot* of human dispatch attention. The "which agent is blocked" question is real and recurring. Herdr's state column is the small thing that would change daily UX the most.
 
-It also matches the [[pseudomonorepos]] tree shape — agents spanning multiple child repos benefit from a single persistent multiplexer at the root, rather than per-repo tmux servers. And the API-driven pane creation opens an interesting door for the `claude-code-tool-traces` collection: an orchestrator agent that fans out work into named panes whose names you can grep later.
+It also matches the [[concepts/Pseudomonorepos]] tree shape — agents spanning multiple child repos benefit from a single persistent multiplexer at the root, rather than per-repo tmux servers. And the API-driven pane creation opens an interesting door for the `claude-code-tool-traces` collection: an orchestrator agent that fans out work into named panes whose names you can grep later.
 
 Compare against [Maestri](https://www.themaestri.app) in this same cask roundup — Maestri solves the same "orchestrate multiple agents" problem with a native macOS canvas. Herdr stays inside the terminal. Different tastes, same insight.
 

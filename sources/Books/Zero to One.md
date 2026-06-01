@@ -55,7 +55,7 @@ This is a book co-authored by Peter Thiel and Blake Masters, first published in 
 - [[Sources/Books/The Lean Startup|The Lean Startup]] — Counters Thiel's bold planning with iterative testing; frequent point of debate.
 - [[Blue Ocean Strategy]] — Aligns on creating uncontested markets, which Thiel echoes in monopoly building.
 - [[The Hard Thing About Hard Things]] — Complementary operator advice from [[Sources/People/Ben Horowitz]], Thiel's [[Founders Fund]] partner.
-- [[Playing to Win]] — Lafayette/Laskey framework on definitive choices, akin to Thiel's definite optimism.
+- [[Sources/Books/Playing to Win - How Strategy Really Works]] — Lafayette/Laskey framework on definitive choices, akin to Thiel's definite optimism.
 - [[The Power Law]] — Core to Thiel's venture math and winner-take-most dynamics.
 
 

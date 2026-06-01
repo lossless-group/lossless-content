@@ -1,7 +1,7 @@
 ---
 date_created: 2025-11-30
-date_modified: 2025-11-30
-aliases: ["[GTM Platforms]"]
+date_modified: 2026-05-30
+aliases: [GTM Platforms]
 tags: [Content-Marketing, State-of-the-Art, Digital-Marketing-Tools]
 site_uuid: 18cab305-37af-4250-85ca-adae67d50256
 publish: true

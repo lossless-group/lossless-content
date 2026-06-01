@@ -1,13 +1,18 @@
 ---
-date_modified: 2025-11-16
+date_modified: 2026-05-29
 site_uuid: 54943234-287a-4ac9-8cf3-678c3d5f8bb4
 date_created: 2025-04-06
+publish: true
+title: "Release Notes"
+slug: release-notes
+at_semantic_version: 0.0.0.1
 ---
-
 https://keepachangelog.com/en/1.1.0/
 
 https://youtube.com/shorts/fWNFL6SIDws?si=GEuXtMqfaKEkGGPS
-> [!NOTE] AI Explains [[concepts/Release Notes]]
+
+> [!NOTE] AI Explains [[concepts/Release Notes|Release Notes]]
+> 
 > ### **What Are Release Notes?**
 > 
 > **Release notes** are documents or announcements created by technology and software companies to communicate updates, changes, and improvements made to a product, application, or software. They provide users and stakeholders with essential information about what has been added, fixed, improved, or removed in a new release. Release notes play a critical role in keeping users informed and engaged while maintaining transparency about the evolution of a product.
@@ -20,7 +25,7 @@ https://youtube.com/shorts/fWNFL6SIDws?si=GEuXtMqfaKEkGGPS
 > 2. **[[User Education]]:** Explains new features or changes, enabling users to take full advantage of the updates.
 > 3. **Bug Fixes:** Communicates resolved issues to assure users that problems are being actively addressed.
 > 4. **Internal [[Documentation]]:** Serves as a historical record for development teams to track progress and changes.
-> 5. **[[Customer Support]]:** Reduces support tickets or inquiries by proactively addressing potential confusion about what has changed.
+> 5. **[[concepts/Market-Categories/Customer Experience|Customer Experience]]]:** Reduces support tickets or inquiries by proactively addressing potential confusion about what has changed.
 > 
 > ---
 > 
@@ -28,17 +33,17 @@ https://youtube.com/shorts/fWNFL6SIDws?si=GEuXtMqfaKEkGGPS
 > 
 > While release notes can vary, they typically follow a standard structure:
 > 
-> 1. **Title:** Version number and date of the release.
+> 6. **Title:** Version number and date of the release.
 >     - Example: "Release Notes for Version 2.1.0 – February 23, 2025"
-> 2. **Introduction:** Brief summary of the release's purpose or highlights.
+> 7. **Introduction:** Brief summary of the release's purpose or highlights.
 >     - Example: "This update introduces a new collaboration feature and includes performance improvements."
-> 3. **[[concepts/Release Notes|Changelog]] or Key Sections:**
+> 8. **[[concepts/Release Notes|Changelog]] or Key Sections:**
 >     - **New Features:** Overview of newly added functionality.
 >     - **Improvements:** Enhancements to existing features or performance.
 >     - **Bug Fixes:** Descriptions of resolved issues or defects.
 >     - **Breaking Changes:** Warnings about changes that may require user action.
-> 4. **Instructions (Optional):** Steps for upgrading or using new features.
-> 5. **Acknowledgments (Optional):** Recognition of contributors, testers, or feedback providers.
+> 9. **Instructions (Optional):** Steps for upgrading or using new features.
+> 10. **Acknowledgments (Optional):** Recognition of contributors, testers, or feedback providers.
 > 
 > ---
 > 
@@ -50,16 +55,16 @@ https://youtube.com/shorts/fWNFL6SIDws?si=GEuXtMqfaKEkGGPS
 > 
 > `MAJOR.MINOR.PATCH`
 > 
-> 1. **MAJOR (X):**
+> 11. **MAJOR (X):**
 >     - Incremented when there are significant, breaking changes that are incompatible with previous versions.
 >     - Example: `1.0.0 → 2.0.0`
-> 2. **MINOR (Y):**
+> 12. **MINOR (Y):**
 >     - Incremented when new features are added in a backward-compatible manner.
 >     - Example: `1.1.0 → 1.2.0`
-> 3. **PATCH (Z):**
+> 13. **PATCH (Z):**
 >     - Incremented for backward-compatible bug fixes or minor improvements.
 >     - Example: `1.1.0 → 1.1.1`
-> 4. **Pre-release or Build Metadata (Optional):**
+> 14. **Pre-release or Build Metadata (Optional):**
 >     - Used for beta versions, release candidates, or custom builds.
 >     - Example: `1.2.0-alpha`, `1.2.0-beta.1`, `1.2.0+build.2025`
 > 
@@ -206,11 +211,11 @@ https://youtube.com/shorts/fWNFL6SIDws?si=GEuXtMqfaKEkGGPS
 
 ![[Aider#Aider Release Notes]]
 
-![[Edge Browser 1#Microsoft Edge showing update walkthrough.]]
+![[Tooling/Web Browsers/Edge Browser|Edge Browser]]
 
 ### Affinity
-![[Affinity 1#Affinity Designer keeps Release Notes]]
+![[Tooling/Creative/Affinity Design Suite|Affinity Design Suite]]
 
-![[Arc Browser 1#Arc Browser Arc keeps great Release Notes]]
+![[Tooling/Web Browsers/Arc Browser|Arc Browser]]
 
 ![[Tooling/Web Browsers/Chrome|Chrome]]

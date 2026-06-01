@@ -60,7 +60,7 @@ _This is a book authored by Jennifer Kenny, first published around 2023, that co
 # Adjacent Sources
 
 - [[Execution Premium Process]] — Balances strategy maps with execution (Kaplan/Norton analog).
-- [[Playing to Win]] — McKinsey strategy framework with execution mobilization phase.[2]
+- [[Sources/Books/Playing to Win - How Strategy Really Works]] — McKinsey strategy framework with execution mobilization phase.[2]
 - [] — Complements with leadership accountability and governance.[7]
 - [[Strategy Champions]] — Overlaps on 12 building blocks for design and delivery.[2]
 - [[concepts/Balanced Scorecard]] — Links strategic imperatives to measurable goals and initiatives.[1]

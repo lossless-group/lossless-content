@@ -90,7 +90,7 @@ For innovation work, the term applies when you are designing how products, data 
 
 # Common Misuses
 
-- **Calling any [[Multi-Factor Authentication]] MFA deployment “Zero Trust”**  
+- **Calling any [[Vocabulary/Multi-Factor Authentication]] MFA deployment “Zero Trust”**  
   Many organizations label the addition of multi‑factor authentication as “we’ve implemented zero trust,” but MFA alone does not meet ZTA tenets, which require per‑request evaluation, device posture, segmentation, and continuous monitoring. [^jd1yrz] [^2kcomt] [^03mnbo]  
   Better term: **Strong authentication** or **enhanced Identity and Access Management**.
 

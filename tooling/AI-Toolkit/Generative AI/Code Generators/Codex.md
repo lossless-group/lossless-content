@@ -4,7 +4,7 @@ og_error_timestamp: 2025-10-03T16:35:19.177Z
 og_error_code: FETCH_FAILURE
 url: https://developers.openai.com/codex/cli/
 date_created: 2025-10-03
-date_modified: 2025-10-12
+date_modified: 2026-05-30
 site_uuid: 31d39713-2b47-4669-a827-b7f479866238
 publish: true
 title: Codex
@@ -14,6 +14,9 @@ og_image: https://developers.openai.com/images/codex/codex_cover_cli.webp
 og_description: A coding agent that you can run locally from your terminal and that can read, modify, and run code on your machine, in the chosen directory. It’s open-source, built in Rust for speed and efficiency, and rapidly improving at openai/codex on GitHub.
 tags: [Code-Generators, Terminal-Applications]
 ---
+
+https://youtu.be/dSndHNRzFCg?si=9CRNTmFHJub8LA5c
+
 ***
 > [!info] **Perplexity Query** (2025-10-12T19:18:24.664Z)
 > **Question:**

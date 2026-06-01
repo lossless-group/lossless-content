@@ -102,7 +102,7 @@ The term "order of operations" in a management context is not credited to a sing
 
 - **Mistaking hierarchy for waterfall**: Founders sometimes assume "order of operations" means strategy is set once, then handed down for execution, with no feedback. In reality, [2] the model is cyclical—monitoring and improvement feed back into revised strategy—so the "order" is more like a spiral than a one-way flow. **Better term**: [[cascade and feedback loop]], or "strategic-operational dialogue."
 
-- **Conflating operational efficiency with order of operations**: "We need better order of operations" is sometimes used to mean "we need to run ops more efficiently" (faster delivery, lower cost, better quality). The term actually refers to *sequence and alignment*, not execution speed. **Better term**: [[operational excellence]] or [[process optimization]].
+- **Conflating operational efficiency with order of operations**: "We need better order of operations" is sometimes used to mean "we need to run ops more efficiently" (faster delivery, lower cost, better quality). The term actually refers to *sequence and alignment*, not execution speed. **Better term**: [[concepts/Operational Excellence]] or [[process optimization]].
 
 - **Using "order" to justify rigid sequencing when agility is needed**: A founder might say, "We can't start on feature X until feature Y is done—that's the order of operations." This misses that startups often reorder priorities based on market feedback. **Better term**: [[dependency management]] or [[prioritization]], depending on context.
 

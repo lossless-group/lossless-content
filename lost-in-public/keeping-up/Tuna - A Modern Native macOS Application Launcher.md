@@ -34,7 +34,7 @@ The category is contested but the pricing model is the actual differentiator. Ra
 
 For our context:
 
-1. **Quicksilver-style verb-on-noun composition** is the right mental model for working across a [[pseudomonorepos]] tree — "open this child repo in Finder," "show this changelog in Marked," "encode this path and ship it to clipboard." Raycast can do these but slowly accreted the muscle; Tuna is starting from that primitive.
+1. **Quicksilver-style verb-on-noun composition** is the right mental model for working across a [[concepts/Pseudomonorepos]] tree — "open this child repo in Finder," "show this changelog in Marked," "encode this path and ship it to clipboard." Raycast can do these but slowly accreted the muscle; Tuna is starting from that primitive.
 
 2. **Talk Mode** is the wildcard. Most launchers have a voice afterthought; building it in as one of four primary modes is a different bet. Worth a real test against the "narrate a multi-step file operation while looking at a different window" use case.
 

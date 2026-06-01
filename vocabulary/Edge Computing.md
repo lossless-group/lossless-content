@@ -60,7 +60,7 @@ In innovation contexts, **edge computing** is a **distributed IT architecture** 
 - **Synonyms**
   - **Distributed edge architecture** – emphasizes the intentional design of a multi-tier system (devices, edge nodes, cloud), not just the location of compute. [^dsofz3] [^9msmi4] [^mn8jf5]  
   - **Near-device computing** – stresses processing “on or very near” devices, but is less standard as a term; often used in hardware and embedded contexts. [^s42hff] [^mn8jf5]  
-  - **On-device [[Inference]] / on-device AI** – a specific case of edge computing where ML models run directly on devices (phones, cameras, robots) rather than in the cloud. [^dsofz3] [^22yszb]  
+  - **On-device [[Vocabulary/Inference in AI]] / on-device AI** – a specific case of edge computing where ML models run directly on devices (phones, cameras, robots) rather than in the cloud. [^dsofz3] [^22yszb]  
 
 - **Antonyms**
   - **Centralized cloud computing** – workloads run in large, remote datacenters with most or all data sent back for processing. [^p3peq9] [^dsofz3] [^9msmi4] [^8xjef7]  
@@ -78,8 +78,8 @@ In innovation contexts, **edge computing** is a **distributed IT architecture** 
 # Usage in Practice
 
 - TDF, a European infrastructure operator, frames the value proposition in business terms: “edge computing refers to an IT architecture that **brings data processing closer to its source**, rather than centralizing the process in remote datacenters,” enabling “real-time processing of large volumes of data” and “new uses” like autonomous vehicles and Industry 4.0. [^p3peq9]  
-- [[Cisco]], writing for enterprise buyers, defines it as “a distributed IT architecture that processes data close to its source using local compute, storage, networking, and security technologies,” especially valuable for “applications that require instant decision making, such as industrial automation, smart retail, and telemedicine.” [^9msmi4]  
-- [[Akamai]] describes the benefit for modern apps: by “bringing insights and decision-making capabilities closer to devices and end users, rather than relying on centralized clouds,” edge computing reduces latency, optimizes bandwidth, and “allows data to be processed locally, and only sends essential information to the centralized cloud.” [^s42hff]  
+- [[organizations/Cisco]], writing for enterprise buyers, defines it as “a distributed IT architecture that processes data close to its source using local compute, storage, networking, and security technologies,” especially valuable for “applications that require instant decision making, such as industrial automation, smart retail, and telemedicine.” [^9msmi4]  
+- [[organizations/Akamai]] describes the benefit for modern apps: by “bringing insights and decision-making capabilities closer to devices and end users, rather than relying on centralized clouds,” edge computing reduces latency, optimizes bandwidth, and “allows data to be processed locally, and only sends essential information to the centralized cloud.” [^s42hff]  
 - Mirantis, in a guide aimed at architects, says edge computing “brings computation closer to the source, reducing latency and cutting bandwidth costs,” with core components including edge devices, edge nodes, and often container-based orchestration at the edge. [^mn8jf5]  
 - A software engineering perspective from Arnia emphasizes the product impact: “Edge computing enables real-time software by reducing latency and improving reliability for modern, distributed applications,” particularly where instant responses are critical. [^22yszb]  
 

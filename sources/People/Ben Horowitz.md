@@ -26,7 +26,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Ben_Horowitz
 - a16z Cultural Leadership Fund — Ongoing — Connects cultural leaders to tech firms, boosts African American entry into tech. [^loc89e]
 - Opsware (formerly Loudcloud) — 1999–2007 — Pioneered cloud/enterprise software; scaled from crisis to $1.6B exit to HP. [^2toruu] [^wq7fbn] [^2qpx7a]
 - Blog posts on a16z.com — Ongoing — Essays on "wartime" vs. "peacetime" leadership, founder resilience. [^loc89e] [^2qpx7a]
-- Board roles: Anyscale, Caffeine, Databricks, [[Okta]], Tanium — Current — Guides scaling tech companies. [^2qpx7a]
+- Board roles: Anyscale, Caffeine, Databricks, [[Tooling/Enterprise Jobs-to-be-Done/Okta]], Tanium — Current — Guides scaling tech companies. [^2qpx7a]
 
 # Why It Matters to Innovators
 - Delivers operator-grade frameworks like "wartime CEO" (ruthless prioritization in survival mode) vs. peacetime (growth-focused), essential for founders hitting product-market fit walls. [^wq7fbn] [^2qpx7a]
@@ -45,7 +45,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Ben_Horowitz
 - [[Marc Andreessen]] — Co-founder of a16z; complements Horowitz's operations focus with product vision.
 - [[The Hard Thing About Hard Things]] — His flagship book; primary artifact of his thinking.
 - [[What You Do Is Who You Are]] — Second book; extends culture frameworks.
-- [[Paul Graham]] — Y Combinator essays on startup hardship; similar founder advice, often cited in tandem.
+- [[Sources/People/Influencers/Paul Graham]] — Y Combinator essays on startup hardship; similar founder advice, often cited in tandem.
 - [[Sources/People/Andy Grove (Intel)]] — Intel paranoia framework; influences Horowitz's "wartime" leadership model.
 - [[Wartime CEO]] — Core idea popularized by Horowitz's writings.
 

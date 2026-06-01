@@ -50,7 +50,7 @@ date_modified: 2026-05-13
 
 # Adjacent Sources
 - [[The Cold Start Problem]] — His flagship book, central to his body of work.  
-- [[Paul Graham]] — Fellow essayist on startups; overlaps in early-stage advice.  
+- [[Sources/People/Influencers/Paul Graham]] — Fellow essayist on startups; overlaps in early-stage advice.  
 - [[a16z Podcast]] — Current affiliation's content; cites his network effects ideas.  
 - [[Growth Hacker Marketing|Ryan Holiday]] — Contrasts his math-rigorous growth with tactical playbooks.  
 - [[Crossing the Chasm|Geoffrey Moore]] — Complements cold start frameworks for tech adoption.  

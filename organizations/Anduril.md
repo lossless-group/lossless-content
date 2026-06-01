@@ -98,7 +98,7 @@ Anduril **designs, manufactures, and operates autonomous defense systems**—inc
 
 - **Lattice** — a centralized **AI-powered autonomous operations platform** that fuses sensor data, manages autonomous assets, and provides a common operating picture and decision-support for operators.  
 - **Counter‑UAS / force protection systems** — integrated solutions that detect, track, and defeat hostile drones and other aerial threats using networked sensors and effectors managed by Lattice.  
-- **Autonomous air systems and “launched effects”** — families of uncrewed aerial systems and **Launched Effects** platforms that provide ISR ([[Intelligence, Surveillance, Reconnaissance]]), electronic warfare, and other mission payloads at scale.[2]  
+- **Autonomous air systems and “launched effects”** — families of uncrewed aerial systems and **Launched Effects** platforms that provide ISR ([[concepts/Intelligence, Surveillance, Reconnaissance]]), electronic warfare, and other mission payloads at scale.[2]  
 - **Maritime and undersea systems** — autonomous surface and subsurface vehicles and sensing platforms designed for persistent maritime domain awareness and undersea operations.  
 - **Ground systems and surveillance towers** — deployable towers and ground sensors (for base defense, border surveillance, and perimeter security) integrated into the Lattice network.  
 - **Integrated mission solutions and deployments** — turnkey capability packages where Anduril teams design, field, and operate systems for specific missions (e.g., base defense, border security, or contested-theater ISR) under contract.  

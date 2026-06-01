@@ -67,7 +67,7 @@ Marketing descriptor for top-tier assets like antibody-drug conjugates or quantu
   - Good enough: Dangerous complacency tier. [^jb5268]
   - Average: Mid-pyramid mediocrity.
 
-- **Adjacent terms**: [[Vocabulary/Benchmarks|Benchmarks]], [[Supply Chain Optimization]], [[concepts/Competitive Moats|Competitive Moats]], [[Operational Excellence]], [[Virtuous Cycles]].
+- **Adjacent terms**: [[Vocabulary/Benchmarks|Benchmarks]], [[Supply Chain Optimization]], [[concepts/Competitive Moats|Competitive Moats]], [[concepts/Operational Excellence]], [[Virtuous Cycles]].
 
 # Usage in Practice
 - "Those best-in-class supply chains, particularly the top 2%, are actually operating at almost half the cost of their competitors while delivering superior service." — Logistics Bureau benchmarking analysis [^jb5268]

@@ -63,7 +63,7 @@ IDEO U is an online education platform created by global design and innovation f
 - IDEO U distills IDEO’s human‑centered design and design thinking practice—developed over “nearly 50 years” of designing products, services, brands, experiences, and systems—into structured learning, making it a direct channel into one of the field’s most influential playbooks.[2][3][4]
 - The platform focuses on equipping learners with “skills, mindsets, and tools” rather than just theory, which makes it particularly useful for practitioners who need to apply methods to real projects and to embed innovation mindsets in teams.[3][4]
 - By being “part of IDEO,” which is known for helping organizations “build creative cultures, sustain innovation, and launch new ventures to fuel growth,” IDEO U’s content is grounded in live consulting work rather than purely academic frameworks—valuable for applied innovation, corporate venturing, and [[Vocabulary/Design Thinking|Design Thinking]].[2][3]
-- IDEO U’s mission to help individuals and organizations become “more resilient, creative, and innovative” aligns closely with challenges around leading change, building experimentation cultures, and managing through uncertainty—core concerns in [[concepts/Innovation Culture]] and [[Human-Centered Design|Human-Centered Design]].[3][4][7]
+- IDEO U’s mission to help individuals and organizations become “more resilient, creative, and innovative” aligns closely with challenges around leading change, building experimentation cultures, and managing through uncertainty—core concerns in [[concepts/Innovation Culture]] and [[concepts/Human-Centered Design|Human-Centered Design]].[3][4][7]
 - The availability of certificates and company‑wide programs makes IDEO U a practical tool for scaling a common innovation language and toolkit across large organizations, complementing in‑house training and other external programs.[1][3][4]
 
 ---
@@ -81,7 +81,7 @@ IDEO U is an online education platform created by global design and innovation f
 
 - [[sources/IDEO]] — The parent global design and innovation company whose methods and philosophy underpin IDEO U’s curriculum.[1][2][3][4]
 - [[concepts/Design Thinking]] — Core methodology IDEO helped popularize and which IDEO U systematically teaches.[1][2][3]
-- [[Human-Centered Design]] — Foundational lens for IDEO and IDEO U’s approach to innovation.[1][2][3]
+- [[concepts/Human-Centered Design]] — Foundational lens for IDEO and IDEO U’s approach to innovation.[1][2][3]
 - [[sources/IDEO.org]] — IDEO’s nonprofit arm applying human-centered design to social impact challenges; shares methodological DNA with IDEO U.[1]
 - [[concepts/Innovation Culture]] — A major theme in IDEO U’s work on building creative organizations and sustaining innovation.[2][3]
 

@@ -15,4 +15,4 @@ tags:
   - AI-Infrastructure
 ---
 
-[[Inference]]
+[[Vocabulary/Inference in AI]]

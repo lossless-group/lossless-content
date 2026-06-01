@@ -59,7 +59,7 @@ google_books_url: https://www.google.com/books/edition/The_Innovator_s_Dilemma/3
 
 - [[The Innovator's Solution]] — Christensen's follow-up book on building disruptive growth engines.
 - [[Crossing the Chasm]] — Geoffrey Moore on tech adoption, complements disruption timing.
-- [[Playing to Win]] — A.G. Lafley/Lindgardt on strategy, cited alongside Christensen in HBR contexts.
+- [[Sources/Books/Playing to Win - How Strategy Really Works]] — A.G. Lafley/Lindgardt on strategy, cited alongside Christensen in HBR contexts.
 - [[concepts/Disruptive Innovation]] — Core vault concept directly from this book.
 - [[Blue Ocean Strategy]] — Kim/Mauborgne counterpoint on uncontested markets vs. disruption.
 - [[Hard Thing About Hard Things]] — Ben Horowitz on operationalizing innovation survival.

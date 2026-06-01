@@ -1,5 +1,5 @@
 ---
-date_modified: 2025-11-16
+date_modified: 2026-05-29
 site_uuid: c49fdee8-e072-47cb-aa26-3d435008fb39
 date_created: 2025-04-06
 aliases: [Web Browsers, Browser, Browsers, Web Browser]
@@ -38,18 +38,20 @@ A **web browser** is software that allows users to access, retrieve, and view co
 - **Konqueror**: A file manager and browser for Linux systems. [^x3vjt4]
 - **Yandex Browser**: Focuses on security with built-in antivirus tools. [^p67w1r]
 
-Sources
-[^do8swo]o8swo]: What Is A Browser? How Web Browsers Work - NetNut https://netnut.io/browser-definition/
-[^0s1jzs]s1jzs]: Populating the page: how browsers work - Web performance | MDN https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work
-[^x3vjt4]3vjt4]3vjt4]: 10 Web Browsers You Probably Haven't Heard Of - WebFX https://www.webfx.com/blog/web-design/10-web-browsers-you-probably-havent-heard-of/
-[^bw8zj5]w8zj5]: Web Browser | Definition, Features & Types - Lesson - Study.com https://study.com/academy/lesson/what-is-a-web-browser-definition-examples-quiz.html
-[^79wv6h]9wv6h]: What is a Web Browser: Definition, Types, and Features - Ramotion https://www.ramotion.com/blog/what-is-web-browser/
-[^s6rmjv]6rmjv]: How browsers work | Articles - web.dev https://web.dev/articles/howbrowserswork
-[^p67w1r]67w1r]: 33 Cool Alternative Web Browsers You Didn't Know | 2025 Edition https://www.rankred.com/alternative-web-browsers/
-[^wan1yj]an1yj]: What is a web browser, and what different types are there? - NordVPN https://nordvpn.com/blog/types-of-browsers/
-[^7jpo91] What is a Browser? How does it Work? | BrowserStack https://www.browserstack.com/guide/what-is-browser
-[^0hevou] A Fun List of Browsers You've Never Heard Of - The History of the Web https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
-[^bs4dai] What Is a Web Browser? - Avast https://www.avast.com/c-what-is-a-web-browser
+
+# Sources
+
+[^do8swo]: [What Is A Browser? How Web Browsers Work - NetNut](https://netnut.io/browser-definition/)
+[^0s1jzs]: [Populating the page: how browsers work - Web performance | MDN](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
+[^x3vjt4]: [10 Web Browsers You Probably Haven't Heard Of - WebFX](https://www.webfx.com/blog/web-design/10-web-browsers-you-probably-havent-heard-of/)
+[^bw8zj5]: [Web Browser | Definition, Features & Types - Lesson - Study.com](https://study.com/academy/lesson/what-is-a-web-browser-definition-examples-quiz.html)
+[^79wv6h]: [What is a Web Browser: Definition, Types, and Features - Ramotion](https://www.ramotion.com/blog/what-is-web-browser/)
+[^s6rmjv]: [How browsers work | Articles - web.dev](https://web.dev/articles/howbrowserswork)
+[^p67w1r]: [33 Cool Alternative Web Browsers You Didn't Know | 2025 Edition](https://www.rankred.com/alternative-web-browsers/)
+[^wan1yj]: [What is a web browser, and what different types are there? - NordVPN](https://nordvpn.com/blog/types-of-browsers/)
+[^7jpo91]: [What is a Browser? How does it Work? | BrowserStack](https://www.browserstack.com/guide/what-is-browser)
+[^0hevou]: [A Fun List of Browsers You've Never Heard Of - The History of the Web](https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/)
+[^bs4dai]: [What Is a Web Browser? - Avast](https://www.avast.com/c-what-is-a-web-browser)
 
 Here are some unique features of lesser-known web browsers:
 
@@ -69,15 +71,15 @@ Here are some unique features of lesser-known web browsers:
 
 - **Nyxt**: A highly customizable browser with programmable features for advance[^p67w1r]sers. [7]
 
-S[^do8swo]ces
-[^do8swo]: 5 obscure web browsers that will finally break your Chrome addiction https://www.zdnet.com/home-and-office/work-life/5-obscure-web-browsers-that-will-finally-break-your-chrome-addi[^0s1jzs]on/
-[^0s1jzs]: Beyond Chrome: The Best Alternative Web Browsers for 2025 https://www.pcmag.com/picks/best-alternative-web-browsers
-[^x3vjt4]: 10 Web Browsers You Probably Haven't Heard Of - WebFX https://www.webfx.com/blog/web-design/10-web-browsers-you-probably-havent-hea[^bw8zj5]of/
-[^bw8zj5]: What lesser-known browser do you use and why? - Reddit https://www.reddit.com/r/browsers/comments/xxzqm1/what_lesserknown_browser_do_you_use_an[^79wv6h]hy/
-[^79wv6h]: 7 Lesser Known but Unique Web Browsers For You to Explore https://theswitch.boards.net/thread/30385/lesser-unique-web-browsers-e[^s6rmjv]ore
-[^s6rmjv]: 6 lesser-known browsers: Free, lightweight and low-maintenance https://www.computerworld.com/article/1520234/web-apps-5-lesser-known-browsers-free-lightweight-and-low-maintenanc[^p67w1r]tml
-[^p67w1r]: 7 Lesser Known but Unique Web Browsers For You to Explore https://itsfoss.com/unique-web-bro[^wan1yj]rs/
-[^wan1yj]: 10 obscure, highly specialized browsers that will make you forget ... https://www.pcworld.com/article/432497/10-obscure-highly-specialized-browsers-that-will-make-you-forget-about-chrome-firefox-and-ie.html
+
+[^do8swo]: [5 obscure web browsers that will finally break your Chrome addiction](https://www.zdnet.com/home-and-office/work-life/5-obscure-web-browsers-that-will-finally-break-your-chrome-addi[^0s1jzs)
+[^0s1jzs]: [Beyond Chrome: The Best Alternative Web Browsers for 2025](https://www.pcmag.com/picks/best-alternative-web-browsers)
+[^x3vjt4]: [10 Web Browsers You Probably Haven't Heard Of - WebFX](https://www.webfx.com/blog/web-design/10-web-browsers-you-probably-havent-hea[^bw8zj5)
+[^bw8zj5]: [What lesser-known browser do you use and why? - Reddit](https://www.reddit.com/r/browsers/comments/xxzqm1/what_lesserknown_browser_do_you_use_an[^79wv6h)
+[^79wv6h]: [7 Lesser Known but Unique Web Browsers For You to Explore](https://theswitch.boards.net/thread/30385/lesser-unique-web-browsers-e[^s6rmjv)
+[^s6rmjv]: [6 lesser-known browsers: Free, lightweight and low-maintenance](https://www.computerworld.com/article/1520234/web-apps-5-lesser-known-browsers-free-lightweight-and-low-maintenanc[^p67w1r)
+[^p67w1r]: [7 Lesser Known but Unique Web Browsers For You to Explore](https://itsfoss.com/unique-web-bro[^wan1yj)
+[^wan1yj]: [10 obscure, highly specialized browsers that will make you forget ...](https://www.pcworld.com/article/432497/10-obscure-highly-specialized-browsers-that-will-make-you-forget-about-chrome-firefox-and-ie.html)
 
 Colibri's interface stands out from other browsers due to its **minimalistic and tabless design**, which eliminates traditional elements like tabs, bookmarks, and a visible address bar. Instead, it uses features such as:
 
@@ -87,15 +89,6 @@ Colibri's interface stands out from other browsers due to its **minimalistic and
 
 This design focuses on simplicity and productivity but may not suit users who rely on multitasking with multiple open t. [^do8swo]
 
-Sources
-[^do8swo]: Colibri vs. Edge: A Comprehensive Comparison of Modern Web ... https://intellinote.net/col[^0s1jzs]i-vs-edge/
-[^0s1jzs]: Colibri vs. Chrome: A Comprehensive Comparison of Web Browsers https://intellinote.net/colib[^x3vjt4]vs-chrome/
-[^x3vjt4]: Colibri is a browser that thinks life is better without tabs - TheNextWeb https://thenextweb.com/news/ta[^bw8zj5]ss-browser
-[^bw8zj5]: Compare Colibri Browser vs. Firefox Nightly in 2025 - Slashdot https://slashdot.org/software/comparison/Colibri-Browser-vs-Fir[^79wv6h]x-Nightly/
-[^79wv6h]: Colibri Browser vs. Firefox Nightly Comparison - SourceForge https://sourceforge.net/software/compare/Colibri-Browser-vs-Fir[^s6rmjv]x-Nightly/
-[^s6rmjv]: Has Chrome Lost Its Shine? These Are the Best Alternative Web ... https://uk.pcmag.com/browsers/146026/the-best-alternative-web-browsers[^p67w1r]r-2023?p=1
-[^p67w1r]: What happened to Colibri browser? - Reddit https://www.reddit.com/r/browsers/comments/17xp0o4/what_happened_to_col[^wan1yj]i_browser/
-[^wan1yj]: Compare Avant Browser vs. Colibri Browser in 2025 - Slashdot https://slashdot.org/software/comparison/Avant-Browser-vs-Colibri-Browser/
 
 Brave and Arc browsers differentiate themselves with unique features tailored to specific user needs:
 
@@ -119,7 +112,7 @@ Brave and Arc browsers differentiate themselves with unique features tailored to
 
 ---
 
-### **[[Arc Browser 1]]**
+### **[[Tooling/Web Browsers/Arc Browser|Arc Browser]]**
 1. **Innovative Tab Management**:
    - Vertical sidebar for organizing tabs and profiles, with options like pinned tabs, expiring tabs, and tab-specific rules (e.g., opening URLs in[^0s1jzs] [^bw8zj5]nated profiles). [2] [4]
    - "Spaces" for grouping tabs by context or purpose, making multit[^0s1jzs]ing more efficient. [2]
@@ -137,12 +130,22 @@ Brave and Arc browsers differentiate themselves with unique features tailored to
 
 Both browsers cater to distinct audiences: Brave focuses on privacy, speed, and crypto integration, while Arc emphasizes productivity, customization, and modern design.
 
-Sources
-[^do8swo] Brave Browser Features https://pcomitstudents.poole.ncsu.edu/brave-browser-features/
-[^0s1jzs] Arc Browser: Top Features, Pricing & User Reviews (2024) https://toolfinder.co/tools/arc-browser
-[^x3vjt4] Brave Browser Features https://brave.com/features/
-[^bw8zj5] Why I'm Embracing the Arc Browser - Numeric Citizen Space https://numericcitizen.me/why-im-embracing-the-arc-browser/
-[^79wv6h] The guide to Brave browser privacy and security features - Fingerprint https://fingerprint.com/blog/brave-browser-privacy-security-guide/
-[^s6rmjv] Our favorite hidden features in Arc Search https://arc.net/blog/arc-search-hidden-features
-[^p67w1r] 7 features that make Brave such a good browser - ZDNet https://www.zdnet.com/home-and-office/work-life/7-features-that-make-brave-such-a-good-browser/
-[^wan1yj] What specific feature or aspect of ARC do you find most appealing? https://www.reddit.com/r/ArcBrowser/comments/1bodriv/what_specific_feature_or_aspect_of_arc_do_you/
+
+# Sources
+
+[^do8swo]: [Brave Browser Features](https://pcomitstudents.poole.ncsu.edu/brave-browser-features/)
+[^0s1jzs]: [Arc Browser: Top Features, Pricing & User Reviews (2024)](https://toolfinder.co/tools/arc-browser)
+[^x3vjt4]: [Brave Browser Features](https://brave.com/features/)
+[^bw8zj5]: [Why I'm Embracing the Arc Browser - Numeric Citizen Space](https://numericcitizen.me/why-im-embracing-the-arc-browser/)
+[^79wv6h]: [The guide to Brave browser privacy and security features - Fingerprint](https://fingerprint.com/blog/brave-browser-privacy-security-guide/)
+[^s6rmjv]: [Our favorite hidden features in Arc Search](https://arc.net/blog/arc-search-hidden-features)
+[^p67w1r]: [7 features that make Brave such a good browser - ZDNet](https://www.zdnet.com/home-and-office/work-life/7-features-that-make-brave-such-a-good-browser/)
+[^wan1yj]: [What specific feature or aspect of ARC do you find most appealing?](https://www.reddit.com/r/ArcBrowser/comments/1bodriv/what_specific_feature_or_aspect_of_arc_do_you/)
+[^do8swo]: [Colibri vs. Edge: A Comprehensive Comparison of Modern Web ...](https://intellinote.net/col[^0s1jzs)
+[^0s1jzs]: [Colibri vs. Chrome: A Comprehensive Comparison of Web Browsers](https://intellinote.net/colib[^x3vjt4)
+[^x3vjt4]: [Colibri is a browser that thinks life is better without tabs - TheNextWeb](https://thenextweb.com/news/ta[^bw8zj5)
+[^bw8zj5]: [Compare Colibri Browser vs. Firefox Nightly in 2025 - Slashdot](https://slashdot.org/software/comparison/Colibri-Browser-vs-Fir[^79wv6h)
+[^79wv6h]: [Colibri Browser vs. Firefox Nightly Comparison - SourceForge](https://sourceforge.net/software/compare/Colibri-Browser-vs-Fir[^s6rmjv)
+[^s6rmjv]: [Has Chrome Lost Its Shine? These Are the Best Alternative Web ...](https://uk.pcmag.com/browsers/146026/the-best-alternative-web-browsers[^p67w1r)
+[^p67w1r]: [What happened to Colibri browser? - Reddit](https://www.reddit.com/r/browsers/comments/17xp0o4/what_happened_to_col[^wan1yj)
+[^wan1yj]: [Compare Avant Browser vs. Colibri Browser in 2025 - Slashdot](https://slashdot.org/software/comparison/Avant-Browser-vs-Colibri-Browser/)

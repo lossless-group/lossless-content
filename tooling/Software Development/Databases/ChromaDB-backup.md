@@ -100,12 +100,12 @@ Sources: [^cplcj1]  [^d39ugg] [^59ym3s]
 - **Lead Investor**: [Quiet Capital](https://siliconangle.com/2023/04/06/chroma-bags-18m-speed-ai-models-embedding-database/) (specifically led by [[Astasia Myers]]).
 - **Institutional Participants**: Bloomberg Beta, [Air Street Capital](https://tracxn.com/d/companies/chroma/___k1EtntXfl_CMdmjA7xWbN6THr5wloskfbxPmzESNxU), and AIX Ventures.
 - **Notable Individual Participants**:
-    - [[Naval Ravikant]] ([[vertical-toolkits/FinTech/AngelList|AngelList]] co-founder).
+    - [[Sources/People/Naval Ravikant]] ([[vertical-toolkits/FinTech/AngelList|AngelList]] co-founder).
     - Max Altman and Jack Altman (brothers of [[Sources/People/Sam Altman|Sam Altman]]).
     - Guillermo Rauch (CEO of [[Tooling/Software Development/Cloud Infrastructure/Vercel|Vercel]]).
     - Amjad Masad (CEO of [[Tooling/Software Development/Cloud Infrastructure/Replit|Replit]]).
     - Akshay Kothari ([[Tooling/Productivity/Advanced Documents/Notion|Notion]]) and Spencer Kimball ([[Tooling/Software Development/Databases/CockroachDB|CockroachDB]]).
-    - Jordan Tigani (CEO of [[MotherDuck]]).
+    - Jordan Tigani (CEO of [[Tooling/Software Development/Databases/MotherDuck]]).
 
 | $75M EV / Participants | Amount | EV    |
 | ---------------------- | ------ | ----- |
@@ -189,7 +189,7 @@ Source: [^7b69gi]
 
 - Approach: Closed-source, [fully managed cloud service](https://pitchbook.com/profiles/company/431647-21). [^ff91qt]
 - Traction: Widely considered the production-standard for enterprises that want to ship fast without managing infrastructure. It is optimized for high-performance, [low-latency operations](https://www.youtube.com/watch?v=EtR6BWrCbMQ) (sub-100ms).
-- Enterprise Focus: Offers [[Multi-Tenant Architecture]], [[Vocabulary/Serverless|Serverless]] options, and [robust security compliance](https://sparkco.ai/blog/pinecone-vs-weaviate-vs-chroma-a-deep-dive-into-vector-dbs). Its usage-based pricing can become [expensive at massive scales](https://agixtech.com/pinecone-vs-weaviate-vs-chromadb-vector-database-comparison/), but it trades that cost for zero operational overhead. [^9uqicx] [^fhz60g] [^4seog4] [^znfkr0]
+- Enterprise Focus: Offers [[concepts/Multi-Tenant Architecture]], [[Vocabulary/Serverless|Serverless]] options, and [robust security compliance](https://sparkco.ai/blog/pinecone-vs-weaviate-vs-chroma-a-deep-dive-into-vector-dbs). Its usage-based pricing can become [expensive at massive scales](https://agixtech.com/pinecone-vs-weaviate-vs-chromadb-vector-database-comparison/), but it trades that cost for zero operational overhead. [^9uqicx] [^fhz60g] [^4seog4] [^znfkr0]
 
 #### 2. Weaviate: The Hybrid "Modular" Favorite
 

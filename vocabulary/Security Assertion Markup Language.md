@@ -17,7 +17,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 ## Primary sense — the innovation-consulting sense
 SAML refers to the open standard protocol for exchanging authentication and authorization assertions between an identity provider (IdP) and service provider (SP) to enable SSO in enterprise software ecosystems. [^j3txye] [^t5nqd6]
-- Powers SSO in tools like [[Tooling/Products/Salesforce|Salesforce]], [[Tooling/Productivity/Async Communication/Slack|Slack]], or [[Tooling/Enterprise Jobs-to-be-Done/Dropbox|Dropbox]], where users authenticate once at an IdP (e.g., [[Okta]]) and access multiple SPs seamlessly. [^j3txye]
+- Powers SSO in tools like [[Tooling/Products/Salesforce|Salesforce]], [[Tooling/Productivity/Async Communication/Slack|Slack]], or [[Tooling/Enterprise Jobs-to-be-Done/Dropbox|Dropbox]], where users authenticate once at an IdP (e.g., [[Tooling/Enterprise Jobs-to-be-Done/Okta]]) and access multiple SPs seamlessly. [^j3txye]
 - Built on XML for secure assertion passing, including authentication details, attributes, and signatures to prevent tampering. [^t5nqd6] [^cc855u]
 - Not a general login system but a federation protocol; differs from OAuth (authorization-focused) or OpenID Connect (JSON-based SSO alternative). [^j3txye] [^t5nqd6]
 - Common in B2B startups targeting enterprises, but XML overhead makes it less ideal for mobile-first or API-heavy consumer apps. [^0u4dzu]
