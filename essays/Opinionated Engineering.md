@@ -1,6 +1,6 @@
 ---
 date_created: 2024-10-30
-date_modified: 2025-09-24
+date_modified: 2026-06-02
 site_uuid: d925d530-5e9b-48b7-9b17-41f33513b72c
 title: Opinionated Engineering
 lede: Opinionated engineering delivers clarity and speed—but can also spark debate.
@@ -21,7 +21,7 @@ publish: true
 
 https://www.youtube.com/watch?v=D_lG411QgiM
 
-
+[[Tooling/Software Development/Developer Experience/DevOps/Cortex|Cortex]]
 
 ***
 > [!info] **Perplexity Query** (2025-08-17T04:31:30.009Z)

@@ -1,13 +1,16 @@
 ---
 amazon_url: https://www.amazon.com/Chip-War-Worlds-Critical-Technology/dp/1982172002
 date_created: 2025-04-18
-date_modified: 2026-05-26
+date_modified: 2026-06-03
 site_uuid: d89ee344-c7f6-438b-afcf-f597d59a6299
 title: Chip War
 slug: chip-war
 at_semantic_version: 0.0.0.1
 google_books_url: https://www.google.com/books/edition/Chip_War/JH-HEAAAQBAJ?hl=en&gbpv=0
 ---
+
+https://youtu.be/MUWAbpg1xLo?si=_cs-QopXSg8g27TS
+
 2022, Oct 04. Chip War: The Fight for the World's Most Critical Technology. Chris Miller. Scribner.  
 
 https://youtu.be/RuVS7MsQk4Y?si=t8QC9pmSb6_wCP7p

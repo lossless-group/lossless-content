@@ -5,8 +5,13 @@ title: Web Analytics
 slug: web-analytics
 at_semantic_version: 0.0.0.8
 date_created: 2025-01-02
-date_modified: 2025-11-11
-tags: [Web-Analytics, Digital-Marketing-Tools]
+date_modified: 2026-06-03
+tags:
+  - Web-Analytics
+  - Digital-Marketing-Tools
+aliases:
+  - Digital-Marketing Analytics
+  - digital-marketing analytics
 ---
  ![Web Analytics future trends or technology visualization](https://u-next.com/wp-content/uploads/2014/04/web-analytics.png)
 

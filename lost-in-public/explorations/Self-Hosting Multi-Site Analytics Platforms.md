@@ -28,7 +28,7 @@ Based on your "show don't tell" ethos and need to track interest across ~20 site
 - Not self-hostable, but extremely low maintenance
 
 **[[Tooling/Enterprise Jobs-to-be-Done/OpenPanel]]** [^v61rti] [^o1vaum]
-- Combines web + product analytics ([[Mixpanel]]-like features)
+- Combines web + product analytics ([[Tooling/Enterprise Jobs-to-be-Done/Mixpanel]]-like features)
 - AGPL-3.0 license, self-host free
 - Cloud starts at $2.50/month
 - Real-time tracking, cookieless

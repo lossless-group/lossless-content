@@ -61,7 +61,7 @@ It is not ideal for organizations that want a fully managed, feature‑rich, ent
 
 ## Viable Alternatives
 
-- **[[Mixpanel]]** – Proprietary product analytics platform that OpenPanel explicitly positions itself as an open‑source alternative to. [^rnzl2z]  
+- **[[Tooling/Enterprise Jobs-to-be-Done/Mixpanel]]** – Proprietary product analytics platform that OpenPanel explicitly positions itself as an open‑source alternative to. [^rnzl2z]  
 - **[[Tooling/Enterprise Jobs-to-be-Done/Matomo|Matomo]]** – Open‑source web analytics with strong GDPR and self‑hosting focus, used by teams needing full data control.  
 - **PostHog** – Open‑source product analytics with self‑hosting and cloud options, covering event tracking, feature flags, and experimentation.  
 - **Plausible Analytics** – Privacy‑focused, lightweight web analytics with EU hosting and simple dashboards, often used as a Google Analytics alternative.  

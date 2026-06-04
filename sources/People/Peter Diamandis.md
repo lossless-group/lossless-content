@@ -62,7 +62,7 @@ Peter H. Diamandis is a person: an American engineer, physician, and serial entr
 
 ## Why It Matters to Innovators
 
-- He operationalizes "moonshot thinking" into repeatable mechanisms—like incentive prizes and [[Exponential Organizations]] design—showing how to translate audacious goals into structured competitions and ventures (e.g., XPRIZE). [^n8bmqm] [^ygo8nj] [^87shnb]
+- He operationalizes "moonshot thinking" into repeatable mechanisms—like incentive prizes and [[Sources/Books/Exponential Organizations - Why new organizations are ten times better, faster, and cheaper than yours]] design—showing how to translate audacious goals into structured competitions and ventures (e.g., XPRIZE). [^n8bmqm] [^ygo8nj] [^87shnb]
 - His work popularizes a rigorously optimistic "abundance" lens on the future, encouraging innovators to see exponential technologies (AI, robotics, digital biology, space tech) as levers for tackling global grand challenges rather than threats alone. [^ygo8nj] [^npg1p7]
 - Through XPRIZE and Singularity University, he has helped institutionalize prize-driven innovation and exponential-tech education, giving practitioners concrete models for open innovation, crowdsourcing, and [[Incentive Design]]. [^n8bmqm] [^ygo8nj] [^87shnb]
 - His longevity and health-tech focus (Fountain Life, Life Force, Celularity, Vaxxinity) provides a roadmap for entrepreneurs interested in [[concepts/Longevity Tech]] and preventative, data-driven healthcare. [^ygo8nj] [^npg1p7] [[Longevity]]

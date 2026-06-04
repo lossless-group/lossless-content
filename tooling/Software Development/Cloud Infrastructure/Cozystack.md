@@ -36,8 +36,8 @@ cf_last_run_model: Perplexity sonar-pro
 ---
 
 [[Tooling/Software Development/Developer Experience/DevOps/Kubernetes|Kubernetes]]
-[[Bare Metal Servers]]
-[[Databases-as-a-Service]]
+[[Vocabulary/Bare Metal Servers]]
+[[concepts/Explainers for Tooling/Databases-as-a-Service]]
 
 
 # Value Proposition & Features

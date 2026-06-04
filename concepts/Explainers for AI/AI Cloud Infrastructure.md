@@ -5,7 +5,7 @@ date_created: 2025-04-11
 tags: [AI-Toolkit]
 ---
 [[Tooling/AI-Toolkit/AI Infrastructure/Vast.ai|Vast.ai]]
-[[Tooling/AI-Toolkit/AI Infrastructure/Lambda Labs|Lambda Labs]]
+[[Tooling/Software Development/Cloud Infrastructure/Lambda Labs|Lambda Labs]]
 
 
 
@@ -66,4 +66,4 @@ tags: [AI-Toolkit]
 
 
 
-[[SiliconCloud]], [[SiliconFlow]], [[Lambda Labs]]
+[[SiliconCloud]], [[SiliconFlow]], [[Tooling/Software Development/Cloud Infrastructure/Lambda Labs]]

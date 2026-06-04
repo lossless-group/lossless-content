@@ -5,4 +5,4 @@ site_uuid: 8bc966da-a614-4a3b-8aca-589fba982bce
 date_created: 2025-04-06
 ---
 
-[[Lambda]]
+[[Tooling/Software Development/Cloud Infrastructure/Lambda Labs]]

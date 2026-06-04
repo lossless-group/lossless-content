@@ -2,12 +2,12 @@
 url: https://www.apache.org/
 wikipedia_url: https://en.wikipedia.org/wiki/The_Apache_Software_Foundation
 date_created: 2025-03-30
-date_modified: 2025-08-23
+date_modified: 2026-06-02
 aliases: [Apache]
 ---
 1. Apache HTTP Server (httpd): A robust, commercial-grade, featureful, and mature web server used to serve web content across the Internet.
 
-2. Apache [[Tooling/Data Utilities/Hadoop]]: An open-source framework for distributed storage and processing of big data using the MapReduce programming model.
+2. Apache [[Tooling/Data Utilities/Hadoop|Hadoop]]: An open-source framework for distributed storage and processing of big data using the MapReduce programming model.
 
 3. Apache [[Spark]]: A fast and general engine for large-scale data processing, known for its speed and ease of use.
 
@@ -23,11 +23,11 @@ aliases: [Apache]
 
 9. Apache Subversion (SVN): A version control system used for tracking changes in source code during software development.
 
-10. Apache CloudStack: An open-source cloud computing software used for building public and private [[Vocabulary/Infrastructure as a Service]] (IaaS) clouds.
+10. Apache CloudStack: An open-source cloud computing software used for building public and private [[Vocabulary/Infrastructure as a Service|Infrastructure as a Service]] (IaaS) clouds.
 
 11. Apache Flex: A software development kit used to build and maintain Adobe Flash applications that can run on the Adobe Flash Player.
 
-12. Apache Avro: A data serialization system, used for data-centric systems like Hadoop. It's designed for data-intensive applications with requirements not well served by existing solutions.
+12. Apache [[Tooling/Data Utilities/Apache Avro|Apache Avro]]: A data serialization system, used for data-centric systems like Hadoop. It's designed for data-intensive applications with requirements not well served by existing solutions.
 
 13. Apache Pulsar: An open-source distributed messaging and streaming platform that provides low-latency, high-throughput, and reliable message delivery.
 

@@ -25,7 +25,7 @@ tags:
 > 
 # How arXiv Functions in Digital Academic Publishing
 
-arXiv is a **curated research-sharing platform** that operates as a centralized repository for scientific preprints—early versions of research papers that haven't undergone formal peer review. [^mhopc8] Founded by [[Paul Ginsparg]] in 1991, it now hosts more than two million scholarly articles across eight subject areas including physics, mathematics, computer science, quantitative biology, statistics, electrical engineering, quantitative finance, and economics. [^j0q4jq]
+arXiv is a **curated research-sharing platform** that operates as a centralized repository for scientific preprints—early versions of research papers that haven't undergone formal peer review. [^mhopc8] Founded by [[Sources/People/Paul Ginsparg]] in 1991, it now hosts more than two million scholarly articles across eight subject areas including physics, mathematics, computer science, quantitative biology, statistics, electrical engineering, quantitative finance, and economics. [^j0q4jq]
 
 ## The Core Function of arXiv
 

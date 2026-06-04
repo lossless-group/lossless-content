@@ -25,7 +25,7 @@ site_name: Crave Robotics
 
 [[Food Deserts]]
 
-[[Ghost Kitchens]]
+[[concepts/Market-Categories/Ghost Kitchens]]
 
 [[Smart Vending Machines]]
 

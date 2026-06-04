@@ -65,7 +65,7 @@ In practice, the term applies when the *structure of the data* (file format or t
 - **Adjacent terms**
   - [[Data interoperability]] – Open data formats are a primary mechanism to achieve it across tools and vendors. [^v8anfy] [^uxll43] [^zecj2u]  
   - [[Vendor lock-in]] – Open data formats are a standard mitigation strategy in architecture and procurement decisions. [^v8anfy] [^uxll43] [^jsp0r8]  
-  - [[Data lakehouse]] – Modern lakehouses rely heavily on open file and table formats atop object storage. [^zecj2u] [^8fo4jj]  
+  - [[concepts/Explainers for Tooling/Data Lakes]] – Modern lakehouses rely heavily on open file and table formats atop object storage. [^zecj2u] [^8fo4jj]  
   - [[Schema evolution]] – A capability often enabled at scale by open table formats on top of open file formats. [^zecj2u] [^8fo4jj]  
   - [[ACID transactions]] – Brought to data lakes via open table formats like Iceberg and Delta Lake. [^zecj2u] [^8fo4jj]  
   - [[Digital preservation]] – Institutional use case where open file formats matter for multi‑decade accessibility. [^uxll43] [^3rzzif] [^jsp0r8]  

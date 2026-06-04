@@ -18,5 +18,7 @@ tags: [Consulting-Group]
 [[Vocabulary/Go-to-Market|Go-to-Market]]
 [[concepts/Growth Engines|Growth Engines]]
 [[concepts/Product-Led Growth|Product-Led Growth]]
+[[Vocabulary/Exponential Organizations|Exponential Organizations]]
+
 
 

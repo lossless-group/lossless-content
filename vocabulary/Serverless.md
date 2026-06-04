@@ -11,7 +11,7 @@ title: Serverless
 at_semantic_version: 0.0.0.1
 ---
 
-[[Tooling/Software Development/Frameworks/Amazon Web Services|AWS]] [[Lambda]]
+[[Tooling/Software Development/Frameworks/Amazon Web Services|AWS]] [[Tooling/Software Development/Cloud Infrastructure/Lambda Labs]]
 [[Tooling/Software Development/Cloud Infrastructure/Google Cloud|Google Cloud]]
 [[Tooling/Software Development/Cloud Infrastructure/Vercel|Vercel]]
 [[Tooling/Software Development/Cloud Infrastructure/Azure|Azure]]

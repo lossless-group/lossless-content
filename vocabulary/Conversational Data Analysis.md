@@ -96,7 +96,7 @@ Use of analytics and AI to analyze *human-to-human* or *human-to-bot* conversati
 - [[Tooling/Data Utilities/DataBricks|DataBricks]] frames the org-level impact: conversational analytics “removes the BI bottleneck,” shifting from a model where “we already have BI” yet still face backlog, to one where “business users can self-serve answers” via natural language. [^v092y0]  
 - A Google Cloud blog on its Conversational Analytics API highlights the pattern of **building “context-aware agents that understand natural language, query BigQuery data, and deliver answers in text”** as a new way to embed analysis inside applications. [^byd6rl]  
 - An OvalEdge article for data teams notes that conversational analytics **“enables natural language access to enterprise data while preserving governance, consistency, and trust,”** stressing that the semantic layer and policies still apply. [^sg3k9t]  
-- A guide from [[Datapad]] summarizes the business value as **“enabl[ing] users to explore data tables and gain insights from datasets through natural language conversation, significantly lowering the barrier to data-driven decisions.”**[^ovw5mc]  
+- A guide from [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Datapad]] summarizes the business value as **“enabl[ing] users to explore data tables and gain insights from datasets through natural language conversation, significantly lowering the barrier to data-driven decisions.”**[^ovw5mc]  
 
 # Common Misuses
 

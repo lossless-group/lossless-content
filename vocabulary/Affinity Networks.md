@@ -18,7 +18,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 An [[Vocabulary/Affinity Networks|Affinity Networks]] for [[concepts/Explainers for AI/Artificial Intelligence|AI]] is [[Tooling/AI-Toolkit/Hugging Face|Hugging Face]], and [[organizations/Kaggle|Kaggle]] is catching up though it was more of an [[Vocabulary/Affinity Networks|Affinity Network]] for [[Vocabulary/Data Science|Data Science]].
 
-Young developers compete on [[DevPost]]
+Young developers compete on [[organizations/Devpost]]
 
 A platform for [[Vocabulary/Affinity Networks|Affinity Groups]] is [[organizations/Reddit|Reddit]].
 

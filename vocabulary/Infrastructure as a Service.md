@@ -1,16 +1,25 @@
 ---
 date_created: 2025-08-23
-date_modified: 2025-08-23
-aliases: [IaaS]
+date_modified: 2026-06-02
+aliases:
+  - IaaS
+  - Infrastructure-as-a-Service
 site_uuid: 9680f1b4-2ec9-4758-bc79-b5e31765852f
 publish: true
 title: Infrastructure as a Service
 slug: infrastructure-as-a-service
-at_semantic_version: 0.0.0.1
+at_semantic_version: 0.0.0.5
 authors:
   - Michael Staton
 augmented_with: Qwen Coder 3
+tags:
+  - Low-Cost-Alternatives
+  - Sovereignty-First-Alternatives
+  - Data-Sovereignty
+  - Cloud-Infrastructure
+  - Privacy-Cloud
 ---
+[[Vocabulary/Bare Metal Servers|Bare Metal Servers]]
 
 Infrastructure as a Service (IaaS) is a form of cloud computing where a third-party provider offers fundamental computing resources such as virtual machines (VMs), storage, and networking on demand over the internet. Instead of purchasing, maintaining, and upgrading physical data centers and servers, users can access these resources from a cloud service provider.
 
@@ -51,7 +60,7 @@ Infrastructure as a Service (IaaS) has seen significant contributions from not j
 
 5. UpCloud: This European provider is known for its fast, low-latency servers and straightforward pricing model.
 
-6. OVHcloud: Another European player, OVHcloud offers a vast range of services including IaaS, with a focus on [[concepts/Data Sovereignty]] and high availability.
+6. OVHcloud: Another European player, OVHcloud offers a vast range of services including IaaS, with a focus on [[concepts/Data Sovereignty|Data Sovereignty]] and high availability. [[concepts/Explainers for AI/Sovereign AI|Sovereign AI]]
 
 7. Scaleway: This French company is known for its bare metal cloud servers, providing direct access to hardware resources.
 
@@ -59,6 +68,6 @@ Infrastructure as a Service (IaaS) has seen significant contributions from not j
 
 9. [[Exoscale]]: Based in Switzerland, Exoscale offers a robust IaaS platform with a focus on security and compliance.
 
-10. Packet: Known for its bare-metal cloud offering, Packet provides direct access to physical servers, giving users the flexibility to customize their infrastructure.
+10. [[Packet AI]]: Known for its bare-metal cloud offering, Packet provides direct access to physical servers, giving users the flexibility to customize their infrastructure.
 
 These companies are carving out niches in the IaaS market by focusing on specific user needs such as simplicity, affordability, or specialized services, making them compelling alternatives to the larger players.

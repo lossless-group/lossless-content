@@ -11,11 +11,16 @@ tags:
   - Founder-Toolkit
   - GTM-Strategies
   - Marketing-Strategies
-for_clients: "[]"
+for_clients:
+  - Tonguc
+  - Parslee
+  - Colearn
+  - Reach-U
+  - Laerdal
 publish: true
 title: Ideal Customer Profile
 slug: ideal-customer-profile
-at_semantic_version: 0.0.0.1
+at_semantic_version: 0.0.1.1
 ---
 
 # Defining and Describing Ideal Customer Profile

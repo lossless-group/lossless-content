@@ -1,19 +1,25 @@
 ---
-cf_last_run: "2026-05-25T18:53:24.585Z"
-cf_last_run_model: "Perplexity sonar-pro"
+cf_last_run: 2026-05-25T18:53:24.585Z
+cf_last_run_model: Perplexity sonar-pro
 date_created: 2025-08-24
-date_modified: 2026-05-25
+date_modified: 2026-06-02
 aliases:
   - data lakes
   - data lake
   - Data Lake
-augmented_with: "Perplexity AI using Sonar Pro"
-tags: [DataOps, Data-Capture, Best-Practices, Explainers]
+  - data lakehouse
+  - Data Lakehouse
+augmented_with: Perplexity AI using Sonar Pro
+tags:
+  - DataOps
+  - Data-Capture
+  - Best-Practices
+  - Explainers
 authors:
   - Michael Staton
 site_uuid: 7ce3a6d8-559d-4704-bb78-bad87748b76c
 publish: true
-title: "Data Lakes"
+title: Data Lakes
 slug: data-lakes
 at_semantic_version: 0.0.1.1
 ---

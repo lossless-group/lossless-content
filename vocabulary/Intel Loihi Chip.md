@@ -57,7 +57,7 @@ In innovation and startup contexts, the term applies when you are talking about 
 
 - **Antonyms / conceptual opposites**
   - **Von Neumann CPU/GPU** – Conventional processors with separated memory and compute that execute sequential instructions and dense numeric kernels rather than event‑driven spikes. [^zpp1aa] [^1bus08]  
-  - **Non‑neuromorphic AI accelerator** – [[concepts/Explainers for AI/Tensor Processing Units|TPUs]] or standard AI [[Vocabulary/Graphics Processing Units|GPUs]] optimized for dense matrix ops on [[Artificial Neural Networks|ANNs]], not sparse, event‑driven spiking activity and on‑chip learning. [^zpp1aa] [^1bus08]  
+  - **Non‑neuromorphic AI accelerator** – [[concepts/Explainers for AI/Tensor Processing Units|TPUs]] or standard AI [[Vocabulary/Graphics Processing Units|GPUs]] optimized for dense matrix ops on [[concepts/Explainers for AI/Artificial Neural Networks|ANNs]], not sparse, event‑driven spiking activity and on‑chip learning. [^zpp1aa] [^1bus08]  
 
 - **Adjacent terms (vault links)**
   - [[concepts/Neuromorphic Computing]]  

@@ -1,6 +1,6 @@
 ---
 date_created: 2025-01-13
-date_modified: 2025-08-28
+date_modified: 2026-06-02
 tags: [Data-Augmenters, Data-Capture]
 site_uuid: 854ce169-40d7-4772-a2f4-5875585fa99d
 publish: true
@@ -90,7 +90,7 @@ The primary benefits of this approach include:
 Despite clear advantages, there are challenges and risks:
 
 - **Quality Assurance:** Automatically generated data must be closely monitored to avoid introducing noise or unrealistic artifacts.
-- **Governance and Oversight:** [[concepts/Explainers for AI/Human-in-the-Loop]] mechanisms are essential for maintaining control, transparency, and compliance, especially in sensitive domains like healthcare and finance. [^5zxo2z]
+- **Governance and Oversight:** [[concepts/Explainers for AI/Human-in-the-Loop|Human-in-the-Loop]] mechanisms are essential for maintaining control, transparency, and compliance, especially in sensitive domains like healthcare and finance. [^5zxo2z]
 - **Resource Requirements:** Developing, testing, and orchestrating agentic AI workflows can require significant technical expertise and computational resources.
 - **Security and Privacy:** Synthetic data must be thoroughly checked to prevent leakage of real, sensitive information.
 

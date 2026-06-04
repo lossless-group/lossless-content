@@ -259,7 +259,7 @@ async function scrapeSocialLinks(url) {
 
 #### 3.3.2 Search Engine Queries
 
-**Technology**: [[Tooling/Data Utilities/SerpAPI|SerpAPI]] (free tier: 100 searches/month) or [[Tooling/AI-Toolkit/Searxng|Searxng]] (self-hosted)
+**Technology**: [[Tooling/AI-Toolkit/Data Augmenters/SerpAPI|SerpAPI]] (free tier: 100 searches/month) or [[Tooling/AI-Toolkit/Searxng|Searxng]] (self-hosted)
 
 **Queries**:
 ```

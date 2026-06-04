@@ -80,9 +80,9 @@ Parquet is generally **not** a good fit for transactional OLTP systems or worklo
 ## Viable Alternatives
 
 - **Apache ORC** – Another open, columnar file format optimized for analytics in the Hadoop ecosystem, often compared alongside Parquet and chosen based on engine and workload characteristics. [^5n0s0x] [^ecxs27]  
-- **[[Apache Avro]]** – A row‑based data serialization format that excels for streaming, messaging, and scenarios with frequent row‑level writes and schema evolution needs. [^5n0s0x] [^ecxs27]  
+- **[[Tooling/Data Utilities/Apache Avro]]** – A row‑based data serialization format that excels for streaming, messaging, and scenarios with frequent row‑level writes and schema evolution needs. [^5n0s0x] [^ecxs27]  
 - **Delta Lake (Delta Parquet)** – A storage layer and table format built on top of Parquet that adds ACID transactions, schema enforcement, and time travel for data lakes. [^ecxs27] [^4d9j63]  
-- **Iceberg / [[Apache Iceberg]]** – A table format for huge analytic tables that often uses Parquet as the underlying file format but adds table‑level metadata, partitioning, and evolution features. [^ecxs27]
+- **Iceberg / [[Tooling/Data Utilities/Apache Iceberg]]** – A table format for huge analytic tables that often uses Parquet as the underlying file format but adds table‑level metadata, partitioning, and evolution features. [^ecxs27]
 
 ## Competitor Table
 

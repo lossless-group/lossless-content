@@ -44,7 +44,7 @@ https://youtu.be/PYkjffkLLZ8?si=yTeFbmfFnOTfSPGi
 
 2025, Feb 10. [I Achieved 100% Scraping Success With THIS Tool](https://youtu.be/7YuaOD3ae0g?si=oflC2m2T4QzLnUjS) Sean Cochel, [[YouTube]]
 
-2023, Apr 24. [Industrial-scale Web Scraping with AI & Proxy Networks](https://youtu.be/qo_fUjb02ns?si=Lle7qOjJ8rsO3Knz) [[Fireship]], [[YouTube]] (covers [[BrightData]])
+2023, Apr 24. [Industrial-scale Web Scraping with AI & Proxy Networks](https://youtu.be/qo_fUjb02ns?si=Lle7qOjJ8rsO3Knz) [[Fireship]], [[YouTube]] (covers [[Tooling/AI-Toolkit/Data Augmenters/BrightData]])
 
 https://youtu.be/kEWCjwlmZOk?si=RSs_7g0sqPiEB8Dn
 
@@ -70,7 +70,7 @@ AI-powered web scrapers can automatically collect structured and unstructured da
     
     - **[[Tooling/AI-Toolkit/Data Augmenters/Diffbot|Diffbot]]:** Offers AI-driven web scraping and data extraction with its Knowledge Graph, which structures web data automatically.
     - **[[Octoparse]]:** Provides a no-code platform for web scraping with AI-based features to handle complex sites.
-    - **[[BrightData]] (formerly Luminati):** Offers advanced web scraping tools with powerful AI capabilities for real-time data collection.
+    - **[[Tooling/AI-Toolkit/Data Augmenters/BrightData]] (formerly Luminati):** Offers advanced web scraping tools with powerful AI capabilities for real-time data collection.
 
 **Use Case:** A retailer could track competitor pricing, customer reviews, and product availability using AI scrapers.
 
