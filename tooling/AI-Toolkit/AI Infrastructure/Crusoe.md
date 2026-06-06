@@ -16,7 +16,7 @@ at_semantic_version: 0.0.0.1
 tags: [AI-Infrastructure, Data-Centers, AI-Factories]
 ---
 [[client-content/Hypernova/Files/Portfolio/Aalo Atomics|Aalo Atomics]]
-[[concepts/Data Centers|Data Centers]]
+[[Vocabulary/Data Centers|Data Centers]]
 
 [[Vocabulary/AI Factories]]
 
@@ -30,7 +30,7 @@ tags: [AI-Infrastructure, Data-Centers, AI-Factories]
 
 # The AI Factory Company
 
-Crusoe, known as **The AI Factory Company**, is a leading provider of vertically integrated AI infrastructure, specializing in designing, building, and operating high-performance [[concepts/Data Centers|Data Centers]] optimized for artificial intelligence workloads. As demand for scalable, energy-efficient AI compute accelerates, Crusoe’s approach of aligning cutting-edge hardware with sustainable energy solutions enables more rapid innovation and supports the expansion of AI across industries. [^4jaq6z] [^kyyll6] [^cz9w0e]
+Crusoe, known as **The AI Factory Company**, is a leading provider of vertically integrated AI infrastructure, specializing in designing, building, and operating high-performance [[Vocabulary/Data Centers|Data Centers]] optimized for artificial intelligence workloads. As demand for scalable, energy-efficient AI compute accelerates, Crusoe’s approach of aligning cutting-edge hardware with sustainable energy solutions enables more rapid innovation and supports the expansion of AI across industries. [^4jaq6z] [^kyyll6] [^cz9w0e]
 
 ![Relevant diagram or illustration related to the topic](https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6874cfd06315eb43ff80d346_AbileneExpansion_800x420.webp)
 

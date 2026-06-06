@@ -134,7 +134,7 @@ It is generally not for very small businesses with low transaction volume, compa
 
 | Competitor    | Description                                                                                                                                         |     |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| [[Coupa]]     | Enterprise spend management and AP automation platform offering procurement, invoicing, and expense tools for large organizations.                  |     |
+| [[Tooling/Enterprise Jobs-to-be-Done/Coupa]]     | Enterprise spend management and AP automation platform offering procurement, invoicing, and expense tools for large organizations.                  |     |
 | [SAP Concur]  | Travel and expense management solution integrated with SAP and other ERPs, focused on T&E policy enforcement and workflows.                         |     |
 | [[Tooling/Enterprise Jobs-to-be-Done/Expensify]] | Expense management and corporate card platform with automated receipt capture and rules-driven approval flows, oriented toward SMBs and mid‑market. |     |
 | [[Tipalti]]   | AP automation and global mass-payments solution designed to streamline supplier onboarding, invoice processing, and payouts.                        |     |

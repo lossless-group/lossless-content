@@ -26,5 +26,5 @@ for_clients:
 ---
 
 [[concepts/AI-Powered Supply Chains|Supply Chain AI]]
-[[Demand Planning]]
+[[concepts/Demand Planning]]
 

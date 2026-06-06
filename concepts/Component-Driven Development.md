@@ -25,7 +25,7 @@ Component-Driven Development is **a methodology that prioritizes the creation of
 
 **Reusability**: Components are designed as modular building blocks that can be used across different parts of an application or even across different projects, reducing redundancy and promoting code efficiency. [^1fxi67]
 
-**[[Encapsulation]]**: Components contain their own logic, styles, and behavior, preventing conflicts with other application parts—particularly beneficial in large applications with multiple contributors. [^21ytxd]
+**[[concepts/Encapsulation]]**: Components contain their own logic, styles, and behavior, preventing conflicts with other application parts—particularly beneficial in large applications with multiple contributors. [^21ytxd]
 
 **Composition**: Complex interfaces are built by composing simpler components together, following principles similar to atomic design methodologies. [^ki3q0u]
 

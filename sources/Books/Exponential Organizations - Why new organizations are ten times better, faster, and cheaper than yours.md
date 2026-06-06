@@ -24,7 +24,7 @@ date_modified: 2026-05-21
 [[Vocabulary/Exponential Organizations|Exponential Organizations]]
 [[concepts/Exponential Technologies|Exponential Technologies]]
 [[concepts/10x Thinking|10x Thinking]]
-[[10x Engineering]]
+[[concepts/10x Engineering]]
 
 
 # Exponential Organizations - Why new organizations are ten times better, faster, and cheaper than yours

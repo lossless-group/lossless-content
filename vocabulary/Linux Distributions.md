@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-28
-date_modified: 2026-05-16
+date_modified: 2026-06-06
 aliases: [Linux Distribution, Linux Distros, Linux Distro, Distro, Distros]
 site_uuid: 37b59e77-0dd9-4fe4-9f96-b03869b520d2
 publish: true
@@ -11,6 +11,14 @@ tags: [Linux-Distributions, Linux-Ecosystem]
 ---
 
 https://youtu.be/DB5mk6bQt9A?si=Z85yk3D2qtcQguG9
+
+https://youtu.be/DB5mk6bQt9A?si=72XN6YiOJ4_6CBTs
+
+https://youtu.be/LKCVKw9CzFo?si=tk227tFqseTzwBRZ
+
+https://youtu.be/ZH3iKbEiks0?si=Hi_gamgBbzu7TOSD
+
+https://youtu.be/HOYA-yOt1yA?si=8C6cFS7q9YW1s3j5
 
 [[Tooling/Software Development/Developer Experience/Garuda Linux|Garuda Linux]]
 [[organizations/RedHat|RedHat]]

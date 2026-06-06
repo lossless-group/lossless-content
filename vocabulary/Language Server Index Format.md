@@ -55,7 +55,7 @@ In scope, LSIF applies when you want **static, pre-generated indexes of source c
 
 - **Adjacent terms**
   - [[concepts/Explainers for AI/Language Server Protocol|Language Server Protocol]]
-  - [[Code Intelligence]]
+  - [[concepts/Code Intelligence]]
   - [[concepts/Developer Experience|Developer Experience]]
   - [[Cloud IDE]]
   - [[Code search]]

@@ -32,7 +32,7 @@ Paul Graham is best known today as a **co‑founder of Y Combinator**, based in 
 
 Paul Graham’s public impact for innovators is primarily through his essays and startup work; below are notable artifacts and themes. (URLs here point to primary or authoritative versions where available.)
 
-- **Essays on startups and entrepreneurship (paulgraham.com)** — 2000s–present — A long‑running series of essays on topics like “How to Start a Startup,” “[[Do Things that Don’t Scale]],” and “Startup = Growth,” which articulate practical and conceptual frameworks for founders. [^f15kk9]
+- **Essays on startups and entrepreneurship (paulgraham.com)** — 2000s–present — A long‑running series of essays on topics like “How to Start a Startup,” “[[concepts/Do Things that Don’t Scale]],” and “Startup = Growth,” which articulate practical and conceptual frameworks for founders. [^f15kk9]
 - **Essays on programming and Lisp** — 2000s–present — Essays such as “Beating the Averages” and writing on Lisp’s power, arguing that expressive languages confer competitive advantage to startups. [^f15kk9]
 - **Y Combinator program design** — 2005 onward — Co‑created the “batch” accelerator model that combines small initial investment with intensive mentorship, office hours, and a demo day, which many other accelerators have since emulated. [^f15kk9]
 - **Public talks and interviews on startup culture** — Various years — Talks and conversations (often hosted by YC or startup conferences) elaborating his written frameworks on founder focus, idea selection, and the nature of startup growth. [^f15kk9]

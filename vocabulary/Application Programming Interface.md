@@ -69,7 +69,7 @@ Other API-related topics
     
 2. **Modularity**: They allow developers to create functionalities that can be reused across multiple programs, reducing the need for reimplementation.
     
-3. **[[Encapsulation]]**: APIs hide the internal workings of a system, exposing only the necessary functionalities. This improves security and usability by minimizing external access to sensitive components.
+3. **[[concepts/Encapsulation]]**: APIs hide the internal workings of a system, exposing only the necessary functionalities. This improves security and usability by minimizing external access to sensitive components.
     
 4. **[[concepts/Interoperability (Data and Systems)|Interoperability (Data and Systems)]]**: They enable communication between different software systems, regardless of the technologies, architectures, or platforms involved in their development.
     

@@ -90,7 +90,7 @@ Parquet is generally **not** a good fit for transactional OLTP systems or worklo
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Apache ORC]     | Open, columnar storage format focused on high‑performance analytics in the Hadoop ecosystem; commonly evaluated as an alternative to Parquet for data lake storage. [^5n0s0x] [^ecxs27]           |
 | [Apache Avro]    | Row‑oriented data serialization system used for storage and messaging, better suited to write‑heavy or streaming workloads than columnar formats like Parquet. [^5n0s0x] [^ecxs27]                |
-| [[Delta Lake]]   | Open source storage layer that uses Parquet files underneath but adds ACID transactions, versioning, and schema management to data lakes. [^ecxs27] [^4d9j63]                                     |
+| [[Vocabulary/Delta Lake]]   | Open source storage layer that uses Parquet files underneath but adds ACID transactions, versioning, and schema management to data lakes. [^ecxs27] [^4d9j63]                                     |
 | [Apache Iceberg] | Open table format for large analytic datasets, often storing data in Parquet while providing table‑level metadata, partitioning, and evolution beyond what Parquet files alone provide. [^ecxs27] |
 
 

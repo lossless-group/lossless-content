@@ -1,7 +1,12 @@
 ---
 date_created: 2025-07-09
-date_modified: 2025-11-23
-aliases: [Data Center]
+date_modified: 2026-06-05
+aliases: "[Data Center]"
+site_uuid: 98068881-45d3-4220-acb2-c80778d791b6
+publish: true
+title: "Data Centers"
+slug: data-centers
+at_semantic_version: 0.0.1.1
 ---
 
 # Major Companies and Organizations Building Data Centers Around the World
@@ -89,7 +94,7 @@ According to Building Design+Construction's 2024 ranking, the top data center co
 
 ### Investment Firms
 
-**[[organizations/Blackstone]]** is investing $13 billion in a hyperscale data center in Northern England, positioning it as one of the largest technology infrastructure investments in Europe[^c5c089]. The facility will operate on 100% renewable energy with advanced liquid cooling systems[^c5c089].
+**[[organizations/Blackstone|Blackstone]]** is investing $13 billion in a hyperscale data center in Northern England, positioning it as one of the largest technology infrastructure investments in Europe[^c5c089]. The facility will operate on 100% renewable energy with advanced liquid cooling systems[^c5c089].
 
 ## Government and Sovereign Cloud Initiatives
 

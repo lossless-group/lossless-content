@@ -89,7 +89,7 @@ A **bare metal server** (in cloud/infrastructure strategy) is a *single-tenant p
   - [[Vocabulary/Infrastructure as a Service]]
   - [[Virtual Machines]]
   - [[Vocabulary/Containers|Containers]]
-  - [[concepts/Data Centers|Data Centers]]
+  - [[Vocabulary/Data Centers|Data Centers]]
 
 ---
 

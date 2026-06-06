@@ -74,7 +74,7 @@ Ramp is described in external hiring materials as an “all‑in‑one financial
 
 ## Category, Market Size, and Category Growth
 
-[[Tooling/Enterprise Jobs-to-be-Done/Ramp|Ramp]] operates in the **corporate spend management / financial operations ([[FinTech]])** category, combining corporate cards, expense management, accounts payable automation, and accounting integrations into a single platform for businesses. [^289lcz] [^q525kn] [^k1wkog] These capabilities also place it in the broader **B2B payments and [[Accounts Payable Automations|AP Automations]]** market, as it targets finance teams seeking to automate invoice processing, payments, and expense workflows at scale. [^8o6jf2] [^q525kn] [^k1wkog] No reliable market‑size or CAGR figures from analyst firms are present in the provided results specific to Ramp’s categories.
+[[Tooling/Enterprise Jobs-to-be-Done/Ramp|Ramp]] operates in the **corporate spend management / financial operations ([[FinTech]])** category, combining corporate cards, expense management, accounts payable automation, and accounting integrations into a single platform for businesses. [^289lcz] [^q525kn] [^k1wkog] These capabilities also place it in the broader **B2B payments and [[concepts/Explainers for AI/Accounts Payable Automations|AP Automations]]** market, as it targets finance teams seeking to automate invoice processing, payments, and expense workflows at scale. [^8o6jf2] [^q525kn] [^k1wkog] No reliable market‑size or CAGR figures from analyst firms are present in the provided results specific to Ramp’s categories.
 
 # Competitive Landscape
 

@@ -142,7 +142,7 @@ Devpost began as **ChallengePost**, founded by Brandon Kessler in New York aroun
 
 - **Government agencies and nonprofits** – Has run challenges for U.S. government agencies and nonprofits focused on civic tech, open data, and social impact, integrating with broader public-innovation ecosystems.
 
-- **Developer communities** – Interacts with communities such as GitHub, Stack Overflow, and other developer hubs via participants’ project links and promotional channels, forming part of the broader [[UGC-Platforms]] and [[Emergent-Innovation-Examples]] ecosystem.
+- **Developer communities** – Interacts with communities such as GitHub, Stack Overflow, and other developer hubs via participants’ project links and promotional channels, forming part of the broader [[concepts/UGC-Platforms]] and [[Emergent-Innovation-Examples]] ecosystem.
 
 - **Event and hackathon organizers** – Collaborates with independent hackathon organizers and production companies that use Devpost as the back-end infrastructure for event registration and submissions.
 
@@ -190,7 +190,7 @@ As of 2026-06-03,
 
 ## Adjacent Entries
 
-- [[UGC-Platforms]] — Devpost is a user-generated content platform centered on developer projects and hackathon submissions.
+- [[concepts/UGC-Platforms]] — Devpost is a user-generated content platform centered on developer projects and hackathon submissions.
 
 - [[Emergent-Innovation-Examples]] — Devpost-powered hackathons are a canonical format for emergent innovation through open calls and competitions.
 

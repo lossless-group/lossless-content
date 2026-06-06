@@ -27,7 +27,7 @@ tags: [Explainers, AI-Infrastructure, Data-Centers]
 
 ### Core Differences: AI Factories vs. Traditional Data Centers
 
-| Aspect              | Traditional [[concepts/Data Centers\|Data Centers]] | AI Factory (AI Data Center)                                                                                                                   |
+| Aspect              | Traditional [[Vocabulary/Data Centers\|Data Centers]] | AI Factory (AI Data Center)                                                                                                                   |
 | ------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Primary Purpose** | General business apps (email, web, databases)       | Large-scale AI model training, inference, and lifecycle                                                                                       |
 | **Hardware Focus**  | CPU-centric, limited GPUs                           | Accelerator-centric: massive [[Vocabulary/Graphics Processing Units\|GPU]]/TPU clusters, fast interconnects                                   |

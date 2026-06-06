@@ -30,7 +30,7 @@ For code generation, in addition to the [[Large Language Models]], or perhaps th
 
 [[Vocabulary/Citizen Developers|Citizen Developers]]
 
-[[Harness Engineering]]
+[[concepts/Harness Engineering]]
 
 [[concepts/Explainers for AI/Agentic Engineering|Agentic Engineering]]
 

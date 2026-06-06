@@ -1,15 +1,20 @@
 ---
 url: https://archlinux.org/
 date_created: 2025-08-28
-date_modified: 2026-05-14
+date_modified: 2026-06-06
 og_title: Arch Linux
 og_description: You've reached the website for Arch Linux, a lightweight and flexible Linux® distribution that tries to Keep It Simple.
 og_image: https://archlinux.org/static/logos/apple-touch-icon-57x57.png
 og_favicon: https://archlinux.org/static/favicon.png
 og_last_fetch: 2025-08-28T18:03:31.718Z
 ---
-[[concepts/Keep it Simple, Stupid]]
+[[concepts/Keep it Simple, Stupid|Keep it Simple, Stupid]]
 
+https://youtu.be/y8ts6ZSv4ko?si=soygGwn0KjBf0V6L
+
+https://youtu.be/IFaLEKRMTAM?si=dWmZe7nOJfyFY7Gr
+
+https://youtu.be/ZH3iKbEiks0?si=Hi_gamgBbzu7TOSD
 
 ***
 > [!info] **Perplexity Query** (2025-08-28T18:02:18.512Z)

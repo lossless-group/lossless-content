@@ -62,7 +62,7 @@ Several pioneering computer architects have shaped modern computing. Not all hav
 | ------------ | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | ARM Holdings | ARM ISA and CPU cores                                                                                   | Licensing to Apple, Qualcomm, etc.                                        |
 | Intel        | [[x86]], Itanium, custom AI chips                                                                       | CPUs (Data Center, PC), foundry services                                  |
-| AMD          | x86 CPUs, Radeon GPUs, Zen core                                                                         | CPUs, GPUs ([[concepts/Data Centers\|Data Centers]], Gaming, Licensed IP) |
+| AMD          | x86 CPUs, Radeon GPUs, Zen core                                                                         | CPUs, GPUs ([[Vocabulary/Data Centers\|Data Centers]], Gaming, Licensed IP) |
 | NVIDIA       | GPU architecture ([[projects/Emergent-Innovation/Standards/Compute Unified Device Architecture\|CUDA]], AI, HPC) | GPUs, data centers, accelerated computing                                 |
 | Apple        | ARM-based SoCs (A/M series)                                                                             | Devices (iPhone, Mac), [[Vertical Integration]]                           |
 | IBM          | Power/POWER architecture                                                                                | Enterprise servers, cloud, licensing                                      |

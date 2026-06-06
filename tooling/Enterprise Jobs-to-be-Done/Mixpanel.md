@@ -82,7 +82,7 @@ Mixpanel is for **product, growth, and engineering teams** that want event-based
 It is not the best fit for teams that primarily need a general-purpose BI stack, a pure web-traffic tool, or a platform with fully transparent public pricing and a clearly published roadmap in the returned sources. [^i0entq] [^kon56b] The search results also do not support using it as a substitute for broader data warehouse or enterprise reporting infrastructure.
 
 ## Viable Alternatives
-- **[[Amplitude]]**  — closest direct alternative for product analytics and event-based behavioral analysis. [^cjflc4]
+- **[[Tooling/Enterprise Jobs-to-be-Done/Amplitude]]**  — closest direct alternative for product analytics and event-based behavioral analysis. [^cjflc4]
 - **Google Analytics** — better suited for web traffic and marketing measurement than deep product analytics.
 - **Pendo** — overlaps in product analytics plus in-app guidance and customer feedback.
 - **[[Tooling/Data Utilities/Heap|Heap]]** — similar event and journey analytics positioning for digital products.

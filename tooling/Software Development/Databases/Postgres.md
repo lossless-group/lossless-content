@@ -8,7 +8,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:19.678Z
 jina_error: Error occurred
 og_last_fetch: 2025-05-29T17:00:56.533Z
-date_modified: 2026-05-26
+date_modified: 2026-06-06
 date_created: 2025-03-30
 og_image: https://www.postgresql.org/media/img/about/press/elephant.png
 og_url: https://www.postgresql.org/
@@ -22,6 +22,9 @@ aliases:
   - PostgreSQL
 ---
 
+https://youtu.be/0hD4K3Ab3Fc?si=arS32PACg1m3UIxO
+
+
 # Releases
 
 | Release | Date       | Announcement                                                                                                                                                       |
@@ -29,7 +32,7 @@ aliases:
 | 17.2    | 2024-11-21 | [PostgreSQL 17.2, 16.6, 15.10, 14.15, 13.18, and 12.22 Released!](https://www.postgresql.org/about/news/postgresql-172-166-1510-1415-1318-and-1222-released-2965/) |
 
 ## Learning Resources
-[[Geeks for Geeks]] has an [interactive tutorial here](https://www.geeksforgeeks.org/postgresql-tutorial/?ref=outind).
+[[Sources/Media/Geeks for Geeks]] has an [interactive tutorial here](https://www.geeksforgeeks.org/postgresql-tutorial/?ref=outind).
 
 
 ***
