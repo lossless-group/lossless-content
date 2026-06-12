@@ -19,7 +19,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 tags: [AI-Toolkit, Generative-AI, Code-Generators]
 ---
 
-[[concepts/Explainers for AI/Code Generators|Code Generators]] inside [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulators]], it simulates [[Pair Programming]] and is helpful for [[Code Review]].
+[[concepts/Explainers for AI/Code Generators|Code Generators]] inside [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulators]], it simulates [[Pair Programming]] and is helpful for [[concepts/Code Review]].
 
 It seems only helpful for [[Tooling/Software Development/Programming Languages/Python|Python]].
 

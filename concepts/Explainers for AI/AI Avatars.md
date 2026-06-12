@@ -73,7 +73,7 @@ Generative AI creates **AI avatars**—digital representations of people—by le
     - **Behavioral Data**: Gestures or speech patterns may be analyzed to create a lifelike avatar with a natural personality.
 2. **Machine Learning Models**:
     
-    - **[[concepts/Explainers for AI/Deep Learning|Deep Learning]]**: Neural networks, particularly **[[Generative Adversarial Networks]] (GANs)**, are used to generate realistic images or videos of a person. GANs work by training two models—a generator and a discriminator—to create and refine realistic outputs.
+    - **[[concepts/Explainers for AI/Deep Learning|Deep Learning]]**: Neural networks, particularly **[[concepts/Generative Adversarial Networks]] (GANs)**, are used to generate realistic images or videos of a person. GANs work by training two models—a generator and a discriminator—to create and refine realistic outputs.
     - **Text-to-Image/Video Models**: Models like **[[Tooling/AI-Toolkit/Models/DALL·E|DALL·E]]**, **Stable Diffusion**, or **[[Runway]] Gen-2** generate visual content based on textual descriptions.
     - **Text-to-Speech Models**: AI systems like **[[WaveNet]]** or **[[ElevenLabs]]** synthesize speech that sounds natural and personalized.
     - **Motion Capture & Animation**: Technologies like **[[Tooling/AI-Toolkit/Generative AI/DeepMotion]]** or **[[MetaHuman]] Creator** simulate human body movements and facial expressions.

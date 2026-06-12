@@ -19,6 +19,6 @@ tags:
 
 
 
-[https://graphite.rs](https://graphite.rs/) an [[Vocabulary/Open Source Software|Open Source Software]] [[concepts/Open Source Alternatives|Open Source Alternatives]] to [[Tooling/Creative/Affinity Design Suite|Affinity Design Suite]] and [[Adobe Illustrator]]
+[https://graphite.rs](https://graphite.rs/) an [[Vocabulary/Open Source Software|Open Source Software]] [[concepts/Open Source Alternatives|Open Source Alternatives]] to [[Tooling/Creative/Affinity Design Suite|Affinity Design Suite]] and [[Tooling/Enterprise Jobs-to-be-Done/Adobe Illustrator]]
 
 

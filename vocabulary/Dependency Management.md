@@ -40,7 +40,7 @@ Polyrepos, by contrast, manage dependencies within each separate repository. Thi
 
 ### Code Review in Dependency Management
 
-[[Vocabulary/Code Review|Code Review]] is essential in both monorepo and polyrepo environments to ensure that changes to dependencies are properly vetted before being implemented. This process involves reviewing code changes before they are merged into the main branch, ensuring that updates are compatible with existing dependencies and do not introduce bugs.
+[[concepts/Code Review|Code Review]] is essential in both monorepo and polyrepo environments to ensure that changes to dependencies are properly vetted before being implemented. This process involves reviewing code changes before they are merged into the main branch, ensuring that updates are compatible with existing dependencies and do not introduce bugs.
 
 ### Benefits and Challenges
 

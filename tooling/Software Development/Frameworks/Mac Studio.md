@@ -4,7 +4,7 @@ parent_org: '[[organizations/Apple]]'
 url: 'https://www.apple.com/mac-studio/'
 product_of: '[[organizations/Apple|Apple]]'
 date_created: 2025-03-08
-date_modified: 2025-06-06
+date_modified: 2026-06-10
 og_title: 'Mac Studio'
 og_description: 'The ultimate pro desktop. Powered by M4 Max and M3 Ultra for all-out performance and extensive connectivity. Built for Apple Intelligence.'
 og_image: 'https://www.apple.com/v/mac-studio/j/images/meta/mac-studio_overview__eedzbosm1t26_og.png?202504301526'
@@ -22,3 +22,9 @@ https://youtu.be/lqQjZOTuVBY?si=R2nYY9p-1NCGUnO6
 https://youtu.be/_Wc09HJmQSs?si=x2Q8p0bj51MgHEzq
 
 https://youtu.be/Tkx6YS879OI?si=tR0oBqzHxFHrJYum
+
+https://youtu.be/x4_RsUxRjKU?si=uP-8ayv-IlQRLyD1
+
+https://youtu.be/25xVqvL5j4g?si=0xT4G0i3zr2Jfjwh
+
+https://youtu.be/bFgTxr5yst0?si=OC8Axi2zUUVzddeg

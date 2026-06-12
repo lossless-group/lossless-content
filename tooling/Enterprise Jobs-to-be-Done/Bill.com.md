@@ -13,7 +13,7 @@ cf_last_run_model: Perplexity sonar-pro
 ---
 
 [[Divvy]]
-[[Financial Operations Platforms]]
+[[concepts/Explainers for Tooling/Financial Operations Platforms]]
 [[concepts/Explainers for AI/Accounts Payable Automations|Accounts Payable Automations]]
 [[concepts/Explainers for AI/Accounting AI|Accounting AI]]
 [[Tooling/Enterprise Jobs-to-be-Done/Ramp|Ramp]]

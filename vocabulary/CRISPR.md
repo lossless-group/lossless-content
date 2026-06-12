@@ -65,7 +65,7 @@ In innovation work, **CRISPR** means the **suite of CRISPR–Cas gene-editing an
 - [[Prime editing]] – Another CRISPR-derived approach that uses Cas9 nickase fused to reverse transcriptase for precise insertions/deletions.[1][2]  
 - [[CRISPRi]] and [[CRISPRa]] – dCas9-based systems for transcriptional repression and activation, important in functional genomics and therapeutic modulation.[1]  
 - [[Platform biotech]] – Many CRISPR ventures position themselves as platform companies, licensing their editing stack across multiple indications or verticals.[2][6][8]  
-- [[Biomanufacturing]] – CRISPR is increasingly used to engineer cell lines and organisms for industrial production of biologics and other molecules.[2][4][6]  
+- [[concepts/Biomanufacturing]] – CRISPR is increasingly used to engineer cell lines and organisms for industrial production of biologics and other molecules.[2][4][6]  
 
 ---
 

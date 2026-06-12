@@ -10,7 +10,7 @@ The most successful chip design company, building proprietary processors with [[
 
 Acquired Run:AI
 
-In March 2023, [[organizations/Nvidia]] announced the cuLitho, a computational lithography software package that can deliver 40x improvements over current lithography for [[Chip Producer]]s 
+In March 2023, [[organizations/Nvidia]] announced the cuLitho, a computational lithography software package that can deliver 40x improvements over current lithography for [[Vocabulary/Chip Producers]]s 
 
 2023, Nov 13 [Nvidia and Lithography](https://youtu.be/HxyM2Chu9Vc?si=hdd87HOfct4ZGXEH)  by [[Asianometry]] on [[YouTube]]
 

@@ -143,7 +143,7 @@ As of 2026-05-25,
 - [[NVIDIA]] — Peer and competitor in data‑center and AI‑focused semiconductor markets, frequently compared with Broadcom in stock and technology analyses. [^9m1trp]
 - [[VMware]] — Major infrastructure‑software business acquired by Broadcom, central to its hybrid‑cloud and virtualization strategy. [^13kp82]
 - [[concepts/Platform Ecosystems|Platform Ecosystems]] — Broadcom’s combination of semiconductor platforms and infrastructure software exemplifies platform‑ecosystem dynamics in enterprise IT.
-- [[Vocabulary/Chip Producer|Chip Producer]] — Category for major semiconductor manufacturers and designers, including Broadcom’s role in communications, networking, and data‑center silicon. [^9m1trp] Category capturing fabless and design‑centric semiconductor firms, reflecting Broadcom’s origins as a fabless chip company. [^13kp82]
+- [[Vocabulary/Chip Producers|Chip Producers]] — Category for major semiconductor manufacturers and designers, including Broadcom’s role in communications, networking, and data‑center silicon. [^9m1trp] Category capturing fabless and design‑centric semiconductor firms, reflecting Broadcom’s origins as a fabless chip company. [^13kp82]
 - [[Hyperscale Cloud Providers]] — Broadcom is structurally connected to these organizations by supplying critical hardware and software for their networks and data centers. [^13kp82]
 
 ![Broadcom-branded chip or circuit board close-up illustrating its semiconductor business](https://imgv2-2-f.scribdassets.com/img/document/422189723/298x396/c04de60e63/1566063027?v=1)

@@ -3,7 +3,7 @@ url: https://www.amd.com/en.html
 ---
 
 
-[[Chip Producer]]
+[[Vocabulary/Chip Producers]]
 
 2023, Mar 13. [AMD: How It All Began](https://youtu.be/mb53IYjZlNc?si=qRJ3oUnj4_aw17k9) [[Asianometry]], [[YouTube]]
 

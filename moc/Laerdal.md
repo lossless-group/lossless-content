@@ -93,7 +93,7 @@ date_modified: 2025-11-26
 - [[Vocabulary/Organizational Friction|Organizational Friction]]
 - [[Vocabulary/Domain-Driven Design|Domain-Driven Design]]
 - [[Vocabulary/Divas|Divas]]
-- [[Vocabulary/Code Review|Code Review]]
+- [[concepts/Code Review|Code Review]]
 - [[Vocabulary/Wrangling|Wrangling]]
 - [[Vocabulary/Port Clashes|Port Clashes]]
 - [[Vocabulary/Parkinson's Law|Parkinson's Law]]
