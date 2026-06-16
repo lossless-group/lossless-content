@@ -1,6 +1,6 @@
 ---
 date_created: 2026-03-02
-date_modified: 2026-05-10
+date_modified: 2026-06-15
 cf_last_run: 2026-05-10T07:30:33.678Z
 cf_last_run_model: Perplexity sonar-pro
 aliases:
@@ -79,3 +79,4 @@ Brendan O’Leary of Kilo Code, in a 2026 talk, detailed scaling agentic enginee
 [^tds8ua]: [Agentic Engineering: Working With AI, Not Just Using It - YouTube](https://www.youtube.com/watch?v=BEKc4P87XKo)
 [8]: [What is agentic engineering? - Hacker News](https://news.ycombinator.com/item?id=47393908)
 [^058yz1]: 2026, Mar. "[The Agent Race Is Getting Serious | Redeployed](https://redeployed.tecla.io/p/the-agent-race-is-getting-serious)". Gino Ferrand. [Redeployed](https://redeployed.tecla.io).
+[^xw9519]: 2026, Mar 17. "[Interpretable Context Methodology: Folder Structure as Agentic Architecture | arXiv.org](https://arxiv.org/abs/2603.16021)". Jake Van Clief and 1 other authors. [arXiv.org](https://arxiv.org).

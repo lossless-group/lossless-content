@@ -45,7 +45,7 @@ Claude Code’s core workflow is built around **codebase understanding**, **file
 - **Codebase-aware** assistance that understands repository context. [^u2cce2]
 - **File editing** inside developer workflows. [^u2cce2]
 - **Command execution** to help run tasks and automate work. [^u2cce2]
-- **[[concepts/Explainers for AI/Model Context Protocol|MCP]] integrations** for external tools and services such as [[Tooling/Software Development/Developer Experience/Jira|Jira]], [[Confluence]], and [[Tooling/Software Development/Developer Experience/GitHub|GitHub]]. [^u2cce2]
+- **[[concepts/Explainers for AI/Model Context Protocol|MCP]] integrations** for external tools and services such as [[Tooling/Software Development/Developer Experience/Jira|Jira]], [[Tooling/Software Development/Developer Experience/DevTools/Confluence]], and [[Tooling/Software Development/Developer Experience/GitHub|GitHub]]. [^u2cce2]
 - **[[projects/Emergent-Innovation/Standards/OAuth|OAuth]]-connected workflows** for persistent access to integrated services. [^u2cce2]
 - **[[concepts/Explainers for AI/Agent Skills|Agent Skills]] / reusable workflows** are discussed in the broader Claude Code ecosystem as Markdown-based playbooks for on-demand task execution. [^hbu5c0]
 

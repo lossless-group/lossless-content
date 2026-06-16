@@ -1,16 +1,27 @@
 ---
 date_created: 2025-06-02
-date_modified: 2025-08-23
+date_modified: 2026-06-15
 site_uuid: 953476bb-eadb-4c70-95c3-b6de5c15001e
 title: Context Engineering
 lede: When Vibe Planning gets as hard as Software Engineering
 slug: context-engineering
-at_semantic_version: 0.0.0.1
+at_semantic_version: 0.0.1.1
 authors:
   - Michael Staton
 augmented_with: Perplexity AI
+for_clients:
+  - Laerdal
+  - Param
+  - Tonguc
+tags:
+  - Agentic-AI
+  - Agentic-IDEs
+  - Engineering-Management
+  - Software-Development
+  - Code-Generators
+  - Lossless-Thinking
 ---
-An advanced stage of [[concepts/Explainers for AI/Prompt Engineering|Prompt Engineering]] and [[concepts/Explainers for AI/Vibe Planning|Vibe Planning]] for [[Vocabulary/Vibe Coding|Vibe Coding]]. 
+An advanced stage of [[concepts/Explainers for AI/Prompt Engineering|Prompt Engineering]] and [[concepts/Explainers for AI/Vibe Planning|Vibe Planning]] for [[Vocabulary/Vibe Coding|Vibe Coding]], leading to [[concepts/Explainers for AI/Agentic Engineering|Agentic Engineering]]. [[Sources/People/Andrej Karpathy|Andrej Karpathy]]
 
 https://youtu.be/Egeuql3Lrzg?si=Jv50DvHFVOxpdvCU
 
@@ -47,9 +58,9 @@ https://www.youtube.com/watch?v=n5_Nd1JYzUE
 At its core, **context engineering** involves curating everything surrounding an AI prompt—system instructions, user intent, external data, environmental cues, and interaction history—to guide intelligent model outcomes. [^x1r8n1] [^69ohuy] Unlike prompt engineering, which simply refines the input given to a model, context engineering orchestrates *what the model knows* at the time of response, integrating static data (e.g., user profiles) and dynamic sources (e.g., market data, APIs). [^w91w65] [^69ohuy]
 
 **Practical applications highlight its transformative impact:**
-- In **legal research**, tools like [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Harvey AI]] deploy sophisticated context systems that analyze case law, recognize precedents, and relate documents, cutting research time by as much as 75%. [^1ryrx2]
+- In **legal research**, tools like [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Harvey AI|Harvey AI]] deploy sophisticated context systems that analyze case law, recognize precedents, and relate documents, cutting research time by as much as 75%. [^1ryrx2]
 - **Scientific research** teams use context-engineered platforms like [[Tooling/AI-Toolkit/Models/ChemCrow|ChemCrow]], integrating chemistry tools and safety protocols to automate synthesis planning—a process formerly taking weeks now completed in hours. [^1ryrx2]
-- **Software development** benefits from context-aware coding assistants (e.g., Cursor), which understand entire codebases and project structures, helping developers maintain standards and reduce debugging time by 85%. [^1ryrx2] [^919cdp]
+- **Software development** benefits from context-aware coding assistants (e.g., [[Tooling/AI-Toolkit/Generative AI/Code Generators/Cursor|Cursor]]), which understand entire codebases and project structures, helping developers maintain standards and reduce debugging time by 85%. [^1ryrx2] [^919cdp]
 - **Healthcare** organizations report diagnostic accuracy improvements of 20–30% when AI systems incorporate comprehensive patient context—history, medications, and guidelines. [^1ryrx2] [^w91w65]
 - In **customer support**, chatbots equipped with context engineering access prior tickets and account info, delivering personalized and frictionless service without repeatedly asking for user details. [^w91w65]
 
@@ -77,7 +88,7 @@ By mid-2025, **context engineering** has become a defining skill in AI product d
 
 Recent developments focus on refining context flows, optimizing information formatting, and aligning AI behavior to regulatory and security standards. [^w91w65] [^919cdp] The industry is also advancing dynamic context retrieval tools that tailor context in real time, improving both accuracy and adaptability. [^w91w65]
 
-![Context Engineering future trends or technology visualization](https://datasciencedojo.com/wp-content/uploads/All-LLM-Blog-Infographics-3.png)
+![Context Engineering future trends or technology visualization](https://media.licdn.com/dms/image/v2/D5612AQGvwiFke3IpOw/article-cover_image-shrink_720_1280/B56Ze3cj7oH8AM-/0/1751129410292?e=1782950400&v=beta&t=gRCpGrFJNC5zACU6F9Zf67FVBf-tRZYtjt6gJmfliF4)
 
 *Future Outlook*
 
@@ -335,6 +346,8 @@ As the field continues to evolve, context engineering will become increasingly c
 [^960aar]: [context_engineering_techniques.csv](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/1ed59fbe8a8c1ab6d552f021d4fac717/ad74249b-b3ab-428e-8c2f-97833deda0e5/6125e216.csv)
 
 
+[^e0xhb6]: 2025, Jun 08. "[The Rise of Context Engineering | Linkedin](https://www.linkedin.com/pulse/rise-context-engineering-why-ais-future-depends-more-than-jha-vztpc/)". Anshuman Jha. [Linkedin](https://www.linkedin.com).
+
 [^1ryrx2]: 2025, Aug 13. [The Game-Changing Discipline Powering Modern AI](https://dev.to/rakshith2605/context-engineering-the-game-changing-discipline-powering-modern-ai-4nle). Published: 2025-07-06 | Updated: 2025-08-13
 
 [^w91w65]: 2025, Jul 16. [Context Engineering: The Future of AI Development](https://www.voiceflow.com/blog/context-engineering). Published: 2025-07-16 | Updated: 2025-07-16
@@ -345,3 +358,4 @@ As the field continues to evolve, context engineering will become increasingly c
 
 [^919cdp]: 2025, Jul 12. [Context engineering for AI dev success](https://upsun.com/blog/context-engineering-ai-web-development/). Published: 2025-07-11 | Updated: 2025-07-12
 
+[^xw9519]: 2026, Mar 17. "[Interpretable Context Methodology: Folder Structure as Agentic Architecture | arXiv.org](https://arxiv.org/abs/2603.16021)". Jake Van Clief and 1 other authors. [arXiv.org](https://arxiv.org).

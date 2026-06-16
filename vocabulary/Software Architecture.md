@@ -1,15 +1,23 @@
 ---
-date_modified: 2025-08-17
+date_modified: 2026-06-15
 site_uuid: 010f53ff-60db-4190-99ec-57b5b1cb43a0
 date_created: 2025-04-06
 publish: true
 title: Software Architecture
 slug: software-architecture
-at_semantic_version: 0.0.0.1
-tags: [Best-Practices]
+at_semantic_version: 0.0.1.1
+tags:
+  - Best-Practices
+  - Engineering-Management
+  - Lossless-Thinking
+  - Software-Architecture
+  - Software-Development
+  - Collaborative-Workflows
+  - Context-Engineering
 ---
-![Scalable Software Architecture future trends or technology visualization](https://thenthbit.com/wp-content/uploads/2023/07/Benefits-of-a-Good-Software-Architecture.jpg) 
+![Scalable Software Architecture future trends or technology visualization](https://testrigor.com/wp-content/uploads/2025/07/System-Design-vs-Software-Architecture-Article-Banner.jpeg) 
 
+https://youtube.com/shorts/nZuWCo52wTg?is=Ovr6q6qqW55B7_JP
 
 https://youtu.be/ev2qvR9UFPs?si=OEpm7AGGpCVggfhJ
 
@@ -48,7 +56,7 @@ https://youtu.be/1ZM88C_CLDY?si=muJqY7B4O2dnlMsf
 
 **Deliverables include:**
 
-- **[[Vocabulary/Software Architecture Diagrams]]:** Visual maps such as high-level, system, and application diagrams. [^3v2ip9] [^8agett] [^v70hr6]
+- **[[Vocabulary/Software Architecture Diagrams|Software Architecture Diagrams]]:** Visual maps such as high-level, system, and application diagrams. [^3v2ip9] [^8agett] [^v70hr6]
 - **Written Documentation:** Structured specs outlining the architecture’s components, roles, and interactions. [^1szeqn]
 - **Guidelines and Standards:** Rules for system implementation, integration, and future scalability.
 - **Actionable Roadmaps:** Step-by-step plans for development corresponding to the architecture.

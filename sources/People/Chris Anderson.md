@@ -56,7 +56,7 @@ As a person, Anderson’s “catalog” is his authored work and public artifact
 # Why It Matters to Innovators
 
 - Anderson **turned a closed conference into an open, global platform**, showing how shifting from scarcity to abundance (free online talks) can massively amplify an innovation brand’s reach — a live case study in platform strategy and [[Vocabulary/Network Effects|Network Effects]]. [^nb3spi] [^ql9z2h]
-- Through TED, he **professionalized the “innovation keynote”**, codifying a format where a single, well‑crafted 18‑minute story can reframe a field, a pattern innovators can use to pitch products, movements, or [[Category Design]].
+- Through TED, he **professionalized the “innovation keynote”**, codifying a format where a single, well‑crafted 18‑minute story can reframe a field, a pattern innovators can use to pitch products, movements, or [[concepts/Category Design]].
 - His publishing and TED careers exemplify **curation as an innovation lever**: by selecting and sequencing other people’s ideas, he created new value without inventing the underlying technologies himself — useful for leaders building ecosystems, not just products. [^nb3spi] [^ql9z2h]
 - TED’s growth under Anderson illustrates how **media plus mission** (ideas worth spreading focused on the public good) can create a powerful **purpose‑driven brand** that attracts top talent, sponsors, and community organizers, relevant for any innovation aiming at [[concepts/Mission-Driven Innovation]]. [^nb3spi] [^ql9z2h]
 - Anderson’s guidance on public speaking teaches innovators to craft a **clear “throughline”**—one core idea that everything in a talk supports—reinforcing the importance of narrative discipline in product storytelling and investor communication. [^ql9z2h]

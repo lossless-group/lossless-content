@@ -1,121 +1,25 @@
 ---
 date_created: 2025-09-05
-date_modified: 2026-05-27
-cf_last_run: 2026-05-27T06:09:08.599Z
-cf_last_run_model: Perplexity sonar-deep-research
-tags:
-  - Chip-Architectures
-  - Open-Specifications
+date_modified: 2026-06-15
+cf_last_run: "2026-05-27T06:09:08.599Z"
+cf_last_run_model: "Perplexity sonar-deep-research"
+tags: [Chip-Architectures, Open-Specifications]
+site_uuid: 3bf9ff1e-ffcc-4503-a997-b60d7e6b8aee
+publish: true
+title: ARM
+slug: arm
+at_semantic_version: 0.0.1.1
 ---
-
 
 
 An [[Instruction Set Architecture]] focused on Low Power. 
 
+[[organizations/Arm Holdings|Arm Holdings]]
+
+
+https://youtu.be/Zr09I5OlOjs?is=nireiDFBjVpWnpFh
+
 [[organizations/Apple|Apple]] had understood that Battery Life was a Delighter according to the [[concepts/Kano Model|Kano Model]], and that it would become a Must.  After trying to demand that [[organizations/Intel|Intel]] create chips with less power demands, they decided to design their own chips using the [[Sources/Standards-and-Specs/ARM|ARM]] architecture.
-
-```think-output
-Let me carefully review the user's query and requirements to understand what they need.
-
-The user has asked me to research the entity "ARM" using web search results provided, and create a structured profile following a specific markdown skeleton. This is a detailed research report about ARM (the architecture and company), not a financial stock or other entity.
-
-The user has provided extensive instructions about how to format the report, with a specific skeleton structure to follow. This includes sections like:
-- Snapshot
-- The Question this Spec Answers
-- Identity & Status
-- Why It Matters
-- Position in the Ecosystem Stack
-- Lineage
-- Governance & Stewardship
-- Adoption — by Tier
-- Critique & Open Disputes
-- Frontier & Open Questions
-- Media, Voices, and Coverage
-- Adjacent Specs and Standards
-
-The report needs to be highly detailed, at least 10,000 words, and must cite sources properly using the [N] format where N corresponds to the search result number.
-
-I need to determine what type of entity ARM is in terms of the governance models specified:
-- DE-JURE: formal standards body
-- INDUSTRY CONSORTIUM: non-vendor-controlled multi-stakeholder body
-- VENDOR-LED-OPEN: single vendor created and maintains
-- COMMUNITY: published by an individual or informal group
-- DE-FACTO: never formally published but treated as standard
-
-From reviewing the search results, I can see that ARM is actually a company (Arm Holdings Limited) that develops and licenses RISC (Reduced Instruction Set Computing) architecture for processors. It's not a standard developed by a consortium or standards body in the traditional sense - rather, it's a proprietary architecture that the company licenses to other companies.
-
-Result [^3gi10f] states: "Arm is a family of RISC instruction set architectures for computer processors. Arm Holdings develops the instruction set architecture and licenses them to other companies."
-
-Result [^suorw4] says: "Arm was officially founded as a company in November 1990 as Advanced RISC Machines Ltd, which was a joint venture between Acorn Computers, Apple Computer."
-
-So ARM is a VENDOR-LED-OPEN architecture - a single company (Arm Holdings) created and primarily maintains the specification, but licenses it to other companies to implement in their chips.
-
-Let me now go through all the search results to identify key information I'll need for the report:
-
-Key facts about ARM:
-- ARM stands for "Advanced RISC Machines" (from , [^suorw4] [^dmdu5f])
-- Originally Acorn RISC Machine (from [^f4s3h5])
-- Founded in November 1990 as Advanced RISC Machines Ltd, a joint venture between Acorn Computers and Apple Computer (from [^suorw4])
-- Current name: Arm Holdings Limited (from , [^qwg5ck] [^3gi10f])
-- ARM is a family of RISC instruction set architectures (ISAs) for computer processors (from , [^3gi10f] [^3gi10f])
-- Arm Holdings develops the instruction set architecture and licenses them to other companies (from , [^3gi10f] [^3gi10f])
-- Over 350 billion ARM-based chips have been shipped to date (from , [^qwg5ck] [^38mp8m])
-- ARM architecture is used in smartphones, tablets, laptops, gaming consoles, desktops, and various intelligent devices (from [^dmdu5f])
-- ARM powers the compute foundation of modern life (from [^qwg5ck])
-- ARM is a RISC (Reduced Instruction Set Computing) architecture (from , [^3gi10f] , [^3gi10f] [^dmdu5f])
-- ARM has evolved through multiple versions (v7, v8, v8.1, v8.2, v8.3, v8.4, v8.5, v8.6, v8.7, v9, etc.) (from , [^58tuok] , [^58tuok] [^58tuok])
-- ARM v8 introduced 64-bit processing to smartphones (from [^58tuok])
-- ARM v9 is the latest architecture (from , [^2orq2s] [^7kizka])
-- The ARM architecture includes profiles for different applications: Armv9-A for applications, Armv8-R for real-time systems, and Armv8-M for microcontrollers (from [^38mp8m])
-- ARM has security features like Confidential Compute Architecture (CCA) and Memory Tagging Extension (from , [^7kizka] [^n59rx2])
-- ARM has various extensions like Neon (SIMD architecture extension) (from [^mh3wpi])
-- ARM has a Platform Security Architecture (PSA) with security specifications (from [^0rqtej])
-- ARM has a Power State Coordination Interface (PSCI) for power management (from [^5eh4tg])
-
-Based on the search results, I need to structure the report following the specified skeleton format, focusing on ARM as a specification (the instruction set architecture), rather than the company itself, though the company's role in developing and maintaining the architecture is important.
-
-Let me now plan my report structure:
-
-1. **Snapshot**: Brief introduction to ARM, highlighting its significance in the processor architecture landscape, followed by the specific identity callout format.
-
-2. **The Question this Spec Answers**: Explain what problem ARM was created to solve - energy efficiency in computing, particularly for mobile devices.
-
-3. **Identity & Status**: Full details about ARM as a specification - name, type, authority type, creators, year, etc.
-
-4. **Why It Matters**: Discuss the impact of ARM architecture - how it enabled mobile computing revolution, power efficiency, ecosystem growth.
-
-5. **Position in the Ecosystem Stack**: Explain what ARM depends on and what depends on it in the computing stack.
-
-6. **Lineage**: History of ARM architecture - predecessors, parallel efforts, likely successors.
-
-7. **Governance & Stewardship**: How ARM is governed and maintained by Arm Holdings.
-
-8. **Adoption — by Tier**: Different implementations of ARM architecture across incumbents, challengers, and innovators.
-
-9. **Critique & Open Disputes**: Criticisms of ARM architecture and ongoing debates.
-
-10. **Frontier & Open Questions**: Current research directions and open questions in ARM architecture.
-
-11. **Media, Voices, and Coverage**: Key voices and resources on ARM architecture.
-
-12. **Adjacent Specs and Standards**: Related specifications and standards.
-
-Now, I'll craft the report following this structure, ensuring I cite sources properly with [N] markers and provide a comprehensive analysis of ARM as requested.
-
-I need to be particularly careful to:
-- Follow the exact structure specified in the skeleton
-- Use proper citation format (, [^3gi10f] , [^qwg5ck] etc.)
-- Avoid lists (convert to flowing paragraphs)
-- Maintain formal academic prose
-- Focus on the specification aspect of ARM
-- Classify its authority type correctly (VENDOR-LED-OPEN)
-- Highlight the creators and maintainers as individuals where possible
-- Include implementation cards for key implementations
-
-Let me begin drafting the report.
-```
-
-
 
 # ARM Instruction Set Architecture: The Foundation of Modern Mobile Computing
 
@@ -147,7 +51,7 @@ The canonical documentation for ARM architecture is maintained through Arm Devel
 
 The ARM architecture specification unlocks unprecedented energy efficiency across computing devices while maintaining software compatibility, enabling the development of battery-powered devices with rich computational capabilities that were previously impossible. It creates a stable foundation for software ecosystems to develop while allowing hardware differentiation through microarchitectural implementations, as evidenced by Apple's declaration that "ARM, [[organizations/Apple|Apple]], and [[organizations/Qualcomm|Qualcomm]] have all shipped designs that are physically smaller, faster, and consume way less power vs AMD and Intel" for mobile applications . [^z0mkj0] This architectural approach has enabled the creation of entire device categories from smartphones to wearables that can operate for days on a single charge while delivering sophisticated computing capabilities previously reserved for desktop systems. 
 
-The specification facilitates vertical integration in system design by allowing companies to combine ARM [[CPU]] cores with custom accelerators and peripherals while maintaining compatibility with mainstream operating systems, as demonstrated by Apple's successful transition of its entire Mac product line to ARM-based processors while maintaining compatibility with existing software ecosystems . [^z0mkj0] This capability has fundamentally reshaped the computing landscape by decoupling processor design from operating system constraints, enabling innovations like Arm's Confidential Compute Architecture that creates isolated environments called Realms for secure processing of sensitive data and AI models in the Armv9-A architecture . [^7kizka] 
+The specification facilitates vertical integration in system design by allowing companies to combine ARM [[Vocabulary/CPUs]] cores with custom accelerators and peripherals while maintaining compatibility with mainstream operating systems, as demonstrated by Apple's successful transition of its entire Mac product line to ARM-based processors while maintaining compatibility with existing software ecosystems . [^z0mkj0] This capability has fundamentally reshaped the computing landscape by decoupling processor design from operating system constraints, enabling innovations like Arm's Confidential Compute Architecture that creates isolated environments called Realms for secure processing of sensitive data and AI models in the Armv9-A architecture . [^7kizka] 
 
 The most significant impact of ARM architecture has been its role in enabling the mobile computing revolution, with ARM-based processors powering virtually all smartphones and tablets worldwide, creating a trillion-dollar mobile ecosystem that has transformed communication, commerce, and entertainment . [^qwg5ck] [^38mp8m] The widespread adoption of ARM architecture has rendered obsolete numerous alternative mobile processor architectures from the early smartphone era, including Intel's Atom processors for mobile which failed to achieve significant market penetration against ARM's power efficiency advantages . [^z0mkj0] 
 

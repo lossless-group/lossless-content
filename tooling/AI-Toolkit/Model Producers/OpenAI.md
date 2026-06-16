@@ -98,7 +98,7 @@ https://youtu.be/uW8C6u-fwVo?si=3QV6TDUGhIDWc6xH
 ## The Stargate Project
 [USA Launches Manhattan Project 2.0](https://youtu.be/FA06xZ8caHo?si=oO7rEB9KG3QI8PD8) will invest $500B in server farms for AI. 
 
-##### [[OpenAI]] implements [[Spigot Pricing]]
+##### [[OpenAI]] implements [[Vocabulary/Usage-Based Pricing]]
 ![[Screenshot From 2025-03-04 00-59-30_OpenAI--Spigot-Pricing.png]]
 
 ![[Screenshot From 2025-03-04 00-59-42_OpenAI--Spigot-Pricing.png]]

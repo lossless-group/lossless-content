@@ -156,7 +156,7 @@ As of 2026-05-23,
 - [[organizations/ISACA]] – Another global body offering professional certifications in IT governance, security, and audit (peer context).  
 - [[organizations/The Project Management Institute]] – Project Management Institute, a major certification provider in project management, adjacent to GSDC’s PM and agile offerings.  
 - [[organizations/AXELOS]] – Owner of ITIL and PRINCE2 certifications; a reference competitor in vendor‑neutral professional certifications.  
-- [[Professional Certification Programs]] – Conceptual entry on how certification bodies structure credentials, exams, and accreditation.  
+- [[Vocabulary/Professional Certification Programs]] – Conceptual entry on how certification bodies structure credentials, exams, and accreditation.  
 - [[Vocabulary/Digital Transformation|Digital Transformation]] – Domain area where GSDC positions many of its programs and messaging.
 
 

@@ -1,8 +1,8 @@
 ---
 amazon_url: https://www.amazon.com/dp/B0189PVAWY?ref_=cm_sw_r_ffobk_cp_ud_dp_AYX8G6WYWJ9R1SNJKC07
-full-title: "Deep Work: Rules for Focused Success in a Distracted World"
+full_title: "Deep Work: Rules for Focused Success in a Distracted World"
 date_created: 2025-04-19
-date_modified: 2026-05-12
+date_modified: 2026-06-15
 tags:
   - Productivity
   - Personal-Productivity

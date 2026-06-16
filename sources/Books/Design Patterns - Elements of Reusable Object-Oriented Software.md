@@ -1,6 +1,6 @@
 ---
 date_created: 2025-11-14
-date_modified: 2025-11-14
+date_modified: 2026-06-15
 site_uuid: 5eaa03b6-7f45-4cb2-9e47-2e2ed3f91a6c
 publish: true
 title: "Design Patterns: Elements Of Reusable Object Oriented Software"
@@ -9,10 +9,25 @@ at_semantic_version: 0.0.0.1
 authors:
   - Michael Staton
 augmented_with: Perplexity AI
-tags: [Best-Practices, Software-Architecture]
+tags:
+  - Best-Practices
+  - Software-Architecture
+aliases:
+  - "Design Patterns: Elements of Reusable Object-Oriented Software"
+  - Design Patterns
 ---
+https://youtu.be/BJatgOiiht4?is=-05qB6xatlBDLMjY
+
+https://youtu.be/tv-_1er1mWI?is=Ma2k7FMqwF1jVgnO
+
+Creational Patterns
+Singleton pattern - Single instance that is available globally.
+
+Factory pattern
+Facade pattern
 
 
+[[Vocabulary/Object‑Oriented Programming|Object-Oriented Programming]]
 ***
 > [!info] **Perplexity Deep Research Query** (2025-11-14T15:54:11.445Z)
 > **Question:**
@@ -25,7 +40,7 @@ tags: [Best-Practices, Software-Architecture]
 
 ## Executive Summary
 
-**Design Patterns: Elements of Reusable Object-Oriented Software**, published by the Gang of Four (Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides) in 1994, stands as one of the most transformative and influential works in software engineering, having sold more than 500,000 copies across multiple languages and fundamentally reshaping how software architects and developers conceptualize, design, and implement object-oriented systems. [^nn1ds6] [^b8s3wv] This seminal work introduced 23 classic design patterns organized into three categories—Creational, Structural, and Behavioral—that provide proven solutions to recurring design problems in software development. [^3w4h0q] The book's impact extends far beyond its original scope, establishing a common vocabulary for software professionals worldwide, enabling more efficient communication about design approaches, and laying the groundwork for subsequent architectural innovations including enterprise patterns, cloud-native architectures, and modern software development practices. [^mry3j5] [^3pc4ml] [^o2wke4] Today, more than three decades after its initial publication, design patterns remain central to software engineering pedagogy and professional practice, though the field has evolved considerably with new patterns emerging, criticisms regarding language-specific implementations being addressed, and the principles being adapted to contemporary development contexts including microservices, event-driven architectures, and artificial intelligence systems. [^r2jisz] [^q5ef8i]
+**Design Patterns: Elements of Reusable Object-Oriented Software**, published by the Gang of Four (Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides) in 1994, stands as one of the most transformative and influential works in software engineering, having sold more than 500,000 copies across multiple languages and fundamentally reshaping how software architects and developers conceptualize, design, and implement object-oriented systems. [^nn1ds6] [^b8s3wv] This seminal work introduced 23 classic design patterns organized into three categories—Creational, Structural, and Behavioral—that provide proven solutions to recurring design problems in software development. [^3w4h0q] The book's impact extends far beyond its original scope, establishing a common vocabulary for software professionals worldwide, enabling more efficient communication about design approaches, and laying the groundwork for subsequent architectural innovations including enterprise patterns, cloud-native architectures, and modern software development practices. [^mry3j5] [^3pc4ml] [^o2wke4] Today, more than three decades after its initial publication, design patterns remain central to software engineering pedagogy and professional practice, though the field has evolved considerably with new patterns emerging, criticisms regarding language-specific implementations being addressed, and the principles being adapted to contemporary development contexts including [[Vocabulary/Microservices|Microservices]], [[concepts/Event-Driven Architecture|Event-Driven Architecture]], and artificial intelligence systems. [^r2jisz] [^q5ef8i]
 
 ## Introduction: Definition, Historical Context, and Contemporary Significance
 
@@ -37,7 +52,7 @@ The conceptual foundation of design patterns rests on several core principles es
 
 ### Historical Development and Intellectual Origins
 
-The intellectual lineage of design patterns extends back before software engineering's adoption of the concept, tracing to the work of Christopher Alexander, an architect and design theorist who, in his 1977 book "A Pattern Language: Towns, Buildings, Construction," proposed that recurring design problems in architecture could be systematically identified and documented. [^5qsv7o] [^gd0y4x] Alexander's work contained 253 patterns describing everything from urban planning and building construction to specific architectural details, emphasizing that "Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in a way that you can use this solution a million times over, without ever doing it the same way twice". [^gd0y4x] Alexander's fundamental insight that patterns provide flexible guidance rather than rigid prescriptions would prove foundational to software pattern thinking. The concept remained dormant in software circles until the late 1980s, when computer scientists Kent Beck and Ward Cunningham began exploring the application of pattern concepts to object-oriented programming, sharing their work at the Object-Oriented Programming, Systems, Languages & Applications conference where their ideas sparked significant interest in the software engineering community. [^5qsv7o]
+The intellectual lineage of design patterns extends back before software engineering's adoption of the concept, tracing to the work of Christopher Alexander, an architect and design theorist who, in his 1977 book "[[A Pattern Language]]: Towns, Buildings, Construction," proposed that recurring design problems in architecture could be systematically identified and documented. [^5qsv7o] [^gd0y4x] Alexander's work contained 253 patterns describing everything from urban planning and building construction to specific architectural details, emphasizing that "Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in a way that you can use this solution a million times over, without ever doing it the same way twice". [^gd0y4x] Alexander's fundamental insight that patterns provide flexible guidance rather than rigid prescriptions would prove foundational to software pattern thinking. The concept remained dormant in software circles until the late 1980s, when computer scientists Kent Beck and Ward Cunningham began exploring the application of pattern concepts to object-oriented programming, sharing their work at the Object-Oriented Programming, Systems, Languages & Applications conference where their ideas sparked significant interest in the software engineering community. [^5qsv7o]
 
 The Gang of Four synthesized the work of Alexander and subsequent researchers into a comprehensive catalog that would become the canonical reference for design patterns in software. Their seminal text emerged from collaborative discussions beginning at a 1990 OOPSLA birds-of-a-feather session titled "Towards an Architecture Handbook," where Erich Gamma and Richard Helm discovered their common interest in design patterns. [^b8s3wv] [^xm4pz2] Ralph Johnson and John Vlissides subsequently joined the effort, and the group spent several years documenting patterns from their collective experience in building real-world object-oriented systems. The book, originally published on October 21, 1994, immediately became influential, serving as a "ground-breaking" work that achieved best-seller status and fundamentally reshaped software development pedagogy. [^mry3j5] By 2005, the ACM SIGPLAN recognized the Gang of Four's contribution with the Programming Languages Achievement Award, acknowledging "the impact of their work on programming practice and programming language design". [^xm4pz2] The book's influence extended beyond academic circles to industry practice, with large technology companies incorporating design patterns into their architectural frameworks and development processes.
 
@@ -204,11 +219,10 @@ Software organizations and individual developers should approach design patterns
 The software development profession should continue evolving pattern thinking to address contemporary challenges and emerging paradigms. [^q5ef8i] [^wsn6n2] The emergence of new architectural patterns, enterprise patterns, concurrency patterns, and specialized domain patterns reflects healthy evolution of pattern thinking rather than deprecation of Gang of Four insights. [^rs4x1g] [^murf2e] [^wsn6n2] [^n0sy6b] Researchers and practitioners should continue documenting patterns in emerging domains—AI systems, event-driven architectures, edge computing, quantum computing—extending pattern thinking to novel problem spaces. [^r2jisz] [^q5ef8i] [^wsn6n2] As programming languages continue evolving and new paradigms emerge, the industry should thoughtfully consider which Gang of Four patterns remain directly applicable, which require adaptation, and which newer language features render less necessary. [^4r372d] [^b8s3wv] [^xm4pz2] [^jys9o4]
 
 In conclusion, the Gang of Four's Design Patterns book represents a permanent contribution to software engineering, establishing that patterns provide a powerful framework for documenting, teaching, and improving design practice. Over thirty years after publication, with more than 500,000 copies sold across multiple languages and with the book's principles embedded in industry practice worldwide, design patterns demonstrate remarkable durability and continuing relevance. [^nn1ds6] [^b8s3wv] [^xm4pz2] Yet the field must continue evolving beyond rigid adherence to the original twenty-three patterns toward a more mature understanding where pattern thinking—the recognition that recurring problems benefit from named, documented, systematic solutions—guides development without requiring mechanical application of traditional patterns. [^vjfhp4] [^ez2gw2] [^1huyca] In this evolved understanding, design patterns represent not a checklist to satisfy or a constraint to follow, but rather a conceptual toolkit and shared language enabling professionals to design better systems, communicate more effectively, and build software that is robust, maintainable, and prepared for future evolution. 
-> 🔍 **Conducting exhaustive research across hundreds of sources...**
-> *This may take 30-60 seconds for comprehensive analysis.*
-> 
 
-### Citations
+
+***
+# Citations
 
 [^nn1ds6]: [Design Patterns Elements of Reusable Object-Oriented Software](https://miamioh.ecampus.com/design-patterns-elements-reusable/bk/9780201633610).
 

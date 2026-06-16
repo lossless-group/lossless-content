@@ -57,7 +57,7 @@ In innovation and startup contexts, **“Blackwell” almost always refers to NV
   - **AI factory** – NVIDIA’s and industry’s term for hyperscale data centers optimized for AI model training and inference; Blackwell is marketed as “the engine behind AI factories,” so the terms are closely linked but not identical (one is the facility, one is the engine inside). [^vx6io1]
 
 - **Antonyms / counter-positions**
-  - **General-purpose [[CPU]]** – Traditional processor not optimized for massive parallel AI workloads; often contrasted with Blackwell‑class GPUs and accelerators in discussions of AI infrastructure evolution. [^vx6io1]
+  - **General-purpose [[Vocabulary/CPUs]]** – Traditional processor not optimized for massive parallel AI workloads; often contrasted with Blackwell‑class GPUs and accelerators in discussions of AI infrastructure evolution. [^vx6io1]
   - **On‑prem legacy server** – Conventional enterprise servers without modern accelerators; often positioned as the infrastructure Blackwell‑era systems will displace in AI-heavy organizations. [^vx6io1]
 
 - **Adjacent terms** (vault links)

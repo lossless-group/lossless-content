@@ -1,13 +1,16 @@
 ---
-cf_last_run: "2026-06-06T04:32:27.831Z"
-cf_last_run_model: "Perplexity sonar-pro"
+cf_last_run: 2026-06-06T04:32:27.831Z
+cf_last_run_model: Perplexity sonar-pro
 date_created: 2026-05-26
-date_modified: 2026-06-06
+date_modified: 2026-06-15
 site_uuid: e862c33d-c292-4a01-8d03-899b85572135
 publish: true
 title: Encapsulation
 slug: encapsulation
 at_semantic_version: 0.0.1.1
+tags:
+  - Software-Architecture
+  - Programming-Principles
 ---
 
 # Defining and Describing Encapsulation
@@ -33,7 +36,6 @@ flowchart TD
 - In **object‑oriented design**, encapsulation is defined as *“the practice of grouping data (variables) and behavior (methods) into a single unit (class or object) and controlling access to that data”*. [^0tygsj] This is often called **data hiding**, because internal details are kept private. [^00parp] [^s7c9jx] [^0tygsj]  
 - In **Java programming**, encapsulation is described as a principle that *“binds data and methods into a single unit, typically a class”* and *“restricts direct access to data by hiding implementation details”*, achieved with private fields and public getters/setters. [^s7c9jx]  
 - In **data modeling**, encapsulation *“restricts direct access to an object's internal data, requiring interactions through well-defined methods only”*, which *“helps protect sensitive data from being altered unintentionally and ensures consistent behavior across systems.”*[^00parp]  
-- In **microencapsulation for food, cosmetic, and pharma**, encapsulation is defined as enclosing active ingredients in a barrier material so they can be protected, have off‑flavors masked, or be released in a controlled way; microencapsulation is explicitly described as a technique that *“protects active compounds”* and *“controls their release”*. [^53cll8]  
 - In **backend application architecture** (for example, Spring Boot projects), practitioners talk about encapsulation in *entity classes, DTOs, and service layers* as a way to keep invariants inside each layer and expose only necessary operations, improving maintainability and testability. [^eqd9if]  
 
 ---
@@ -42,13 +44,13 @@ flowchart TD
 
 ### Origins
 
-- The *software* meaning of encapsulation emerged with early **[[Vocabulary/Object‑Oriented Orogramming]]** research in the 1960s–1970s, especially around languages like Simula and Smalltalk, which introduced the idea of objects that combine state and behavior with controlled access; later textbooks and standards codified encapsulation as one of the four core OO principles (with inheritance, polymorphism, and abstraction). [^0tygsj]  
+- The *software* meaning of encapsulation emerged with early **[[Vocabulary/Object‑Oriented Programming|Object‑Oriented Programming]]** research in the 1960s–1970s, especially around languages like Simula and Smalltalk, which introduced the idea of objects that combine state and behavior with controlled access; later textbooks and standards codified encapsulation as one of the four core OO principles (with inheritance, polymorphism, and abstraction). [^0tygsj]  
 - In contemporary descriptions of object‑oriented design, resources such as AlgoMaster describe encapsulation as *“one of the four foundational principles of object-oriented design”* focused on grouping data and behavior and controlling access; this reflects the mainstream OOP view that matured through academic and industry literature in the 1980s–1990s. [^0tygsj]  
 - In **microencapsulation**, industrial and research practice in food, cosmetics, and pharmaceuticals defined encapsulation as surrounding a “core” active ingredient with a coating or matrix; organizations working in applied research for these sectors describe encapsulation as a technique to protect and control the delivery of actives, particularly in response to stability and release challenges in processed foods and formulations. [^53cll8]  
 
 ### Evolution
 
-- **1980s–1990s – Formalizing encapsulation in OO languages.** As languages like C++ and later Java became dominant, encapsulation was encoded directly in language features such as `private`, `protected`, and `public` access modifiers, and described in teaching materials as a way to hide implementation details and enforce invariants. [^s7c9jx] [^0tygsj]  
+- **1980s–1990s – Formalizing encapsulation in OO languages.** As languages like C++ and later [[Tooling/Software Development/Programming Languages/Java|Java]] became dominant, encapsulation was encoded directly in language features such as `private`, `protected`, and `public` access modifiers, and described in teaching materials as a way to hide implementation details and enforce invariants. [^s7c9jx] [^0tygsj]  
 - **2000s–2010s – Encapsulation in layered architectures and data models.** With widespread use of multi‑tier applications and complex data pipelines, encapsulation principles were extended from individual objects to service layers, domain models, and data modeling patterns that *“enforce strict boundaries between data and access logic”* and *“ensure consistent behavior across systems.”*[^00parp] [^eqd9if]  
 - **2000s onward – Expanding technical encapsulation in microencapsulation.** In applied sciences, encapsulation techniques diversified—spray‑drying, coacervation, liposomes, and other microencapsulation approaches—to address specific needs like flavor masking, controlled release, and enhanced stability in food, cosmetic, and pharma products, with encapsulation framed as a key innovation driver in those industries. [^53cll8]  
 

@@ -1,17 +1,22 @@
 ---
 date_created: 2024-09-01
-date_modified: 2026-06-11
+date_modified: 2026-06-12
 url: https://www.adobe.com/products/illustrator.html
 product_of: "[[organizations/Adobe|Adobe]]"
 tags:
   - Vector-Art-Tools
   - Vector-Graphics-Software
+  - Creative-Tools
+  - Creator-Tools
+  - Desktop-Applications
 cf_last_run: 2026-06-11T05:05:42.893Z
 cf_last_run_model: Perplexity sonar-pro
+aliases:
+  - Illustrator
 ---
 
-[[concepts/Creator Economy|Creator Economy]]
-[[Vector Art Software]]
+[[concepts/Creator Economy|Creator Econom]]
+[[Vector Art Software|Vector Graphics Software]]
 
 # Value Proposition & Features
 Adobe Illustrator is Adobe’s **vector-graphics** application for creating refined drawings, designs, and layouts, and Adobe describes it as the “industry-standard” app for logos, icons, typography, and complex illustrations. [^mab9qm] [^o2jtp6] Its core value is that it lets designers create artwork that can be scaled and reused across many media without losing quality, and Adobe positions it for both standalone creation and automated workflows through Firefly Services. [^mab9qm] [^o2jtp6]
@@ -21,14 +26,6 @@ Adobe Illustrator is Adobe’s **vector-graphics** application for creating refi
 - **Layout and composition** capabilities for design production. [^mab9qm]
 - **Automation and API access** through Firefly Services, including rendition, preview, data merge, custom script, image trace, Recolor, Manifest, and Document operations. [^o2jtp6]
 - **Ongoing feature updates** through desktop releases, including partner models in Text to Vector Graphic and color-related updates. [^3it876]
-
-## Screenshots
-No reliable public screenshot set found in the provided search results.
-
-## Product Roadmap / Announcements
-As of June 11, 2026, Adobe’s public Illustrator announcements in the provided results center on desktop feature updates rather than a formal roadmap. [^3it876]
-
-- **2026-06-11** — Adobe’s latest desktop release notes mention **partner models in Text to Vector Graphic**, **color-related updates**, and **bug fixes**. [^3it876]
 
 ## Recent Developments
 - Adobe’s newest Illustrator desktop release includes **partner models in Text to Vector Graphic** and **color-related updates**. [^3it876]
@@ -54,7 +51,7 @@ It is not the best fit for users who only need simple raster editing, casual dra
 | ---------------------------------------------------- | --------------------------------------------------------------------- |
 | [CorelDRAW]                                          | Professional vector illustration and page-layout software.            |
 | [[Affinity Designer]]                                | Lower-cost vector design tool with strong precision drawing features. |
-| [[Inkscape]]                                         | Free, open-source vector graphics editor.                             |
+| [[Tooling/Productivity/Inkscape]]                                         | Free, open-source vector graphics editor.                             |
 | [[Tooling/Software Development/Design/Figma\|Figma]] | Collaborative design platform with vector editing capabilities.       |
 | [[Tooling/Creative/Canva\|Canva]]                    | Template-driven design tool aimed at non-specialists.                 |
 |                                                      |                                                                       |

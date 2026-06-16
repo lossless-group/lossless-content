@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-31
-date_modified: 2025-12-04
+date_modified: 2026-06-15
 site_uuid: 01214966-d758-4ccf-9c69-192c0ebbcd14
 aliases: ["[Collaborative Documents, Documents Reimagined]"]
 publish: true
@@ -18,6 +18,8 @@ augmented_with: Perplexity AI
 - [[Tooling/Productivity/Advanced Documents/Notion|Notion]]
 - [[Tooling/Productivity/Advanced Documents/Affine|Affine]]
 - [[Tooling/Enterprise Jobs-to-be-Done/Coda|Coda]]
+- [[Tooling/Software Development/Developer Experience/DevTools/Confluence|Confluence]]
+- [[Tooling/Productivity/Advanced Documents/Appflowy|Appflowy]]
 :::
 
 [[concepts/Explainers for Tooling/Advanced Documents|Advanced Documents]], alternately called [[concepts/Explainers for Tooling/Advanced Documents|Collaborative Documents]], or [[concepts/Explainers for Tooling/Advanced Documents|Documents Reimagined]] is a very dynamic, rapidly evolving set of tools that leap out from traditional personal productivity applications, notably Microsoft Word.  
@@ -105,7 +107,7 @@ In addition to the most prominent platforms, there are several **lesser-known ad
 - **Airtable:** Focuses on spreadsheet-database hybrids with customizable views and light automation.
 - **Slite:** Emphasizes a clean knowledge base and team wiki experience.
 - **[[Tooling/Productivity/Advanced Documents/CraftDocs|CraftDocs]]:** Offers Apple-centric flexible docs with nested pages and database blocks.
-- **[[Fibery]]:** Integrates docs with work management and flexible databases, particularly for product teams.
+- **[[Tooling/Productivity/Fibery]]:** Integrates docs with work management and flexible databases, particularly for product teams.
 - **Confluence:** Atlassian’s collaboration-focused workspace, strong in documentation and team spaces.
 - **Tana, [[Tooling/Productivity/Advanced Documents/Anytype|Anytype]], and [[Tooling/Productivity/Advanced Documents/Roam|Roam]] Research:** Focused on knowledge management, networked thought, and connecting information between modular blocks.
 

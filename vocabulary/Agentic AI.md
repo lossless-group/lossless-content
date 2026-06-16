@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-30
-date_modified: 2025-09-30
+date_modified: 2026-06-15
 site_uuid: 8babe509-0827-4af4-bbfb-77957bf7482e
 aliases: [AI Agents, AI Agent, Agent, Agents]
 publish: true
@@ -113,7 +113,10 @@ Several companies are gaining traction with Agentic AI solutions:
 - **[[Agentic.ai]]**: Gaming and virtual environment applications[^8kqy46].
 ![[IMG_1799.png]]
 
+
+***
 # Sources
+
 [^ncpm1r]: What is Agentic AI? Key Benefits & Features - Automation Anywhere https://www.automationanywhere.com/rpa/agentic-ai
 [^2vzkqo]: Agentic AI: How It Works, Benefits, Comparison With Traditional AI https://www.datacamp.com/blog/agentic-ai
 [^07mh1m]: AI Expert Interview: The Benefits And Drawbacks Of Agentic AI https://www.mindset.ai/blogs/the-benefits-of-ai-agents
@@ -129,4 +132,6 @@ Several companies are gaining traction with Agentic AI solutions:
 [^swz3pf]: The Rise of Agentic AI for Enterprises - Codeninja inc. https://codeninjaconsulting.com/blog/agentic-ai-for-enterprises
 
 [^r354f7]: 2025, Apr. "[The AI Agent Wars: Claude Computer Use vs Agents — What’s Really Going On? | Medium](https://medium.com/@max.petrusenko/the-ai-agent-wars-claude-computer-use-vs-agents-whats-really-going-on-c4bbdb560d31)". Max Petrusenko. [Medium](https://medium.com).
+
+[^a3kobt]: 2025, Nov. "[Agent-Omni: Test-Time Multimodal Reasoning via Model Coordination for Understanding Anything | arXiv.org](https://arxiv.org/abs/2511.02834)". Huawei Lin and 5 other authors. [arXiv.org](https://arxiv.org).
 

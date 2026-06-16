@@ -1,7 +1,7 @@
 ---
 github_profle_url: https://github.com/dolthub
 date_created: 2024-07-02
-date_modified: 2026-06-06
+date_modified: 2026-06-15
 x_url: https://x.com/dolthub
 url: https://www.dolthub.com/
 og_title: Dolt is the world's first and only version controlled database
@@ -19,6 +19,9 @@ for_clients:
   - Param
   - Dynamiq
 ---
+[[Tooling/Software Development/Databases/Postgres|Postgres]]
+[[Tooling/Software Development/Databases/SQLite|SQLite]]
+
 
 # Value Proposition & Features
 
@@ -54,17 +57,6 @@ As of 2026-06-06,
 
 - **2026-05-xx – Recent Dolt / DoltHub feature work**  
   No specific dated DoltHub roadmap or announcement posts in the last 6 months surfaced beyond ongoing Dolt engine and ecosystem work; official blog/news items specific to DoltHub hosting were not reliably identified. [^5gcxbx] [^m364er]
-
-(No additional clearly dated, DoltHub-specific roadmap or announcement items in the last 6 months were found in authoritative sources.)
-
----
-
-## Recent Developments (past 90 days)
-
-No reliable, DoltHub-specific product or company news within the last 90 days surfaced in search beyond general references to Dolt as a version-controlled database. [^5gcxbx] [^3n1do3]  
-
----
-
 # History and Origin Story
 
 DoltHub was created as the **hosting and collaboration service for Dolt**, a MySQL-compatible, Git-like version-controlled database developed by the same team behind the Dolt open source project. [^5gcxbx] [^3n1do3] Public materials focus on Dolt’s positioning as “the world's first and only version controlled database” and describe DoltHub as the place “where people collaboratively build, manage, and distribute Dolt databases,” but detailed founding dates, individual founders’ names, and specific historical inflection points for DoltHub are not provided in the surfaced sources. [^5gcxbx] [^3n1do3]
@@ -91,7 +83,7 @@ DoltHub is not a fit for organizations that **require fully managed, horizontall
 
 ## Viable Alternatives
 
-- **GitHub (for data in files)** – Storing data as CSV/Parquet and versioning via GitHub can provide change history and collaboration, but lacks native SQL queries and relational constraints. [^m364er]  
+- **[[Tooling/Software Development/Developer Experience/GitHub|GitHub]] (for data in files)** – Storing data as CSV/Parquet and versioning via GitHub can provide change history and collaboration, but lacks native SQL queries and relational constraints. [^m364er]  
 - **[[Tooling/Data Utilities/LakeFS|LakeFS]]\** – Provides Git-like version control for object-store data lakes, targeting analytics data rather than MySQL-compatible relational databases. [^3n1do3]  
 - **DVC (Data Version Control)** – A Git-based data versioning tool for machine learning datasets, focused on file-based data rather than live SQL databases. [^3n1do3]  
 - **Standard MySQL DBaaS (e.g., RDS MySQL)** – Managed MySQL services give hosted relational databases but do not provide Dolt-style branching, merging, or row-level diffs in the engine. [^3n1do3]  

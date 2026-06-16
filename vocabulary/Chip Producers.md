@@ -76,7 +76,7 @@ Policy documents and economic reports use **chip producers** broadly to mean all
   - **Legacy hardware assemblers** – EMS/ODM firms whose core value is assembly and logistics, not semiconductor IP creation or wafer fabrication. [^620vau]  
 
 - **Adjacent terms**
-  - [[Chip Architectures]] – Processor and accelerator design styles that chip producers implement in silicon.  
+  - [[Vocabulary/Chip Architectures]] – Processor and accelerator design styles that chip producers implement in silicon.  
   - [[Chip Designers]] – Fabless firms and internal teams that create chip IP and collaborate with foundries.  
   - [[Foundries]] – Specialized manufacturing partners like TSMC that fabricate chips for many designers. [^620vau]  
   - [[Fabrication-Nodes]] – Process technologies (e.g., 3 nm, 5 nm) that determine performance and cost and are set by leading foundries. [^620vau]  

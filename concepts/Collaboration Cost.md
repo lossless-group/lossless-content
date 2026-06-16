@@ -1,5 +1,5 @@
 ---
-date_modified: 2026-05-27
+date_modified: 2026-06-13
 site_uuid: 73c7d22c-53e1-41d1-8ee9-7db4825c1eb1
 date_created: 2025-04-06
 aliases:
@@ -11,6 +11,10 @@ at_semantic_version: 0.0.0.5
 cf_last_run: 2026-05-27T01:37:48.349Z
 cf_last_run_model: Perplexity sonar-pro
 augmented_with: Perplexity AI using Sonar Pro
+for_clients:
+  - Param
+  - Laerdal
+  - Tonguc
 ---
 
 
@@ -28,12 +32,9 @@ Here are excerpts from interview with Keyvan Vakili of London Business School:
 
 Source: [^4rxb6g]
 
-# Footnote
-***
-
 # Defining and Describing Collaboration Cost
 
-- ![Diagram showing how collaboration cost rises with more coordination, approvals, handoffs, and shared accountability across teams.](https://fastercapital.com/i/Cost-of-collaboration--How-to-collaborate-with-your-partners-and-suppliers-and-reduce-your-costs--The-Importance-of-Collaboration-in-Cost-Reduction.webp)
+![Diagram showing how collaboration cost rises with more coordination, approvals, handoffs, and shared accountability across teams.](https://fastercapital.com/i/Cost-of-collaboration--How-to-collaborate-with-your-partners-and-suppliers-and-reduce-your-costs--The-Importance-of-Collaboration-in-Cost-Reduction.webp)
 - _Collaboration cost is the extra time, money, and attention people spend just to work together._[^6634km] [^9msg6a]
 - In practice, the term applies when coordination itself becomes expensive: hiring across borders, managing client workflows, aligning stakeholders, or using tools and processes that reduce friction but still require setup and oversight. [^49hen0] [^6634km] [^9msg6a] [^sunlr1]
 - The concept matters because collaboration can improve reach and output, but it can also add overhead that changes the true cost of a project, partnership, or organizational model. [^6634km] [^9msg6a] [^sunlr1]

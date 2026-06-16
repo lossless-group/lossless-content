@@ -3,8 +3,9 @@ aliases:
   - Object-Oriented Programming
   - OOP
   - object‑oriented programming
+  - Object-Oriented
 date_created: 2024-06-06
-date_modified: 2026-06-06
+date_modified: 2026-06-15
 cf_last_run: 2026-06-06T04:34:28.017Z
 cf_last_run_model: Perplexity sonar-pro
 site_uuid: 4f8341d3-9d3d-4469-bb13-8531b98f2e3b
@@ -15,7 +16,10 @@ at_semantic_version: 0.0.0.1
 tags:
   - Programming-Principles
   - Computing-Paradigms
+  - Software-Architecture
+  - Software-Supply-Chain
 ---
+[[Sources/Books/Design Patterns - Elements of Reusable Object-Oriented Software|Design Patterns: Elements of Reusable Object-Oriented Software]]
 
 # Defining and Describing Object‑Oriented Orogramming
 
@@ -23,7 +27,7 @@ tags:
 
 _“Object‑Oriented Orogramming” is almost always a misspelling of **object‑oriented programming (OOP)**, a software‑design paradigm that organizes code around **objects** (bundles of data and behavior) rather than around standalone procedures, and it matters in innovation contexts because OOP strongly shapes how quickly and safely a startup can evolve its product. [^903yrr] [^54j9y8] [^z8je3z]_
 
-In practice, when founders or consultants say “object‑oriented orogramming,” they are referring to mainstream OOP practices in languages like Python, Java, C#, C++, or Ruby. [^z8je3z] [^pdut36] [^eux1xp] OOP structures complex software as classes and objects, using concepts like encapsulation, inheritance, polymorphism, and abstraction to make systems more modular, reusable, and maintainable. [^903yrr] [^54j9y8] [^z8je3z] [^pdut36] Innovation consultants care because these design choices impact team velocity, ability to onboard new engineers, technical debt, and how easily the product can adapt to pivots or new business models. [^903yrr] [^54j9y8] [^z8je3z] The term does *not* refer to a separate methodology or business framework; it is simply (and informally) the same thing as object‑oriented programming.
+In practice, when founders or consultants say “object‑oriented orogramming,” they are referring to mainstream OOP practices in languages like [[Tooling/Software Development/Programming Languages/Python|Python]], Java, C#, C++, or [[Tooling/Software Development/Programming Languages/Ruby|Ruby]]. [^z8je3z] [^pdut36] [^eux1xp] OOP structures complex software as classes and objects, using concepts like encapsulation, inheritance, polymorphism, and abstraction to make systems more modular, reusable, and maintainable. [^903yrr] [^54j9y8] [^z8je3z] [^pdut36] Innovation consultants care because these design choices impact team velocity, ability to onboard new engineers, technical debt, and how easily the product can adapt to pivots or new business models. [^903yrr] [^54j9y8] [^z8je3z] The term does *not* refer to a separate methodology or business framework; it is simply (and informally) the same thing as object‑oriented programming.
 
 # Disambiguation
 
@@ -42,7 +46,7 @@ In innovation and startup work, **“object‑oriented orogramming” = object�
 
 ## Other senses
 
-- The only consistent “other sense” is trivial: “Object‑Oriented Orogramming” sometimes appears as a typo or playful variant in informal discussion or transcripts; it does **not** denote a distinct concept and has no separate theory or literature beyond object‑oriented programming itself. [^903yrr] [^54j9y8] [^z8je3z]  
+- The only consistent “other sense” is trivial: “Object‑Oriented Programming” sometimes appears as a typo or playful variant in informal discussion or transcripts; it does **not** denote a distinct concept and has no separate theory or literature beyond object‑oriented programming itself. [^903yrr] [^54j9y8] [^z8je3z]  
 
 # Etymology and Origin
 
@@ -54,7 +58,7 @@ In innovation and startup work, **“object‑oriented orogramming” = object�
 # Adjacent Vocabulary
 
 - **Synonyms**
-  - **Object‑oriented programming (OOP)** – The correct, standard term; “Object‑Oriented Orogramming” is just a misspelling of this. [^903yrr] [^54j9y8] [^z8je3z]  
+  - **Object‑oriented programming (OOP)**. [^903yrr] [^54j9y8] [^z8je3z]  
   - **Class‑based programming** – Often used interchangeably with OOP, but more specifically highlights paradigms centered on classes and instances; some OOP variants (e.g., prototype‑based) are not class‑based. [^z8je3z] [^9t3tv4]  
   - **OO design** – Refers more narrowly to how systems are *designed* using objects and classes; OOP includes both the design and the implementation aspects. [^903yrr] [^54j9y8]  
 

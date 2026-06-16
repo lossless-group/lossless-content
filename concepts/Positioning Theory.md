@@ -1,13 +1,22 @@
 ---
 date_created: 2025-09-14
-date_modified: 2025-09-17
+date_modified: 2026-06-15
 site_uuid: 6962601c-89ee-4fa5-b9c3-d9a9b6b3a449
 publish: true
-title: "Positioning Theory"
+title: Positioning Theory
 slug: positioning-theory
 at_semantic_version: 0.0.1.1
+aliases:
+  - Positioning
+  - positioning
+  - positioning theory
+  - Brand Positioning
+  - Product Positioning
+tags:
+  - Lossless-Thinking
 ---
 
+[[Sources/Books/Positioning|Positioning: The Battle for Your Mind]]
 
 ***
 > [!info] **Perplexity Query** (2025-09-17T19:55:28.484Z)
@@ -22,7 +31,7 @@ at_semantic_version: 0.0.1.1
 
 Positioning Theory is a framework in social psychology that examines how individuals assign and negotiate social roles, responsibilities, and moral rights through discourse and social interactions. [^ihip9e] This theory is significant because it reveals how our behaviors and identities are shaped dynamically by context, conversation, and power relations, offering deep insights into both personal and collective experiences. [^ihip9e] [^56me48]
 
-![Positioning Theory concept diagram or illustration](https://www.paulmcafee.com/uploads/2/4/2/9/24293622/1659009039874_orig.jpg)
+![Positioning Venn-Diagram](https://medhatzaki.com/wp-content/uploads/2024/02/Positioning.jpg)
 
 **Main Content**
 

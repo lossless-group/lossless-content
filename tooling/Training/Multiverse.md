@@ -130,7 +130,7 @@ It is not a fit for **individual consumers** looking for self‑serve, low‑cos
 - **[[Tooling/Training/Coursera|Coursera]]** – Global online learning platform offering university‑backed courses, professional certificates, and degree programs for individual learners and enterprises, including data and AI skills, but without the work‑embedded apprenticeship structure. [^5qh3bl]  
 - **Udacity** – Provider of “Nanodegree” programs focused on tech, AI, data, and engineering skills for individuals and enterprises, emphasizing project‑based learning rather than registered apprenticeships. [^5qh3bl]  
 - **General Assembly** – Tech education company offering intensive bootcamps and corporate training in software engineering, data, and UX, positioned as an alternative to traditional degrees but typically not structured as formal apprenticeships. [^5qh3bl]  
-- **[[Apprentice.io]]/ other apprenticeship providers** – Regional and sector‑specific apprenticeship firms that match talent with employers in technology and professional services, offering a similar “earn while you learn” model but at smaller scale or in narrower niches. [^5qh3bl]  
+- **[[Tooling/Apprentice.io]]/ other apprenticeship providers** – Regional and sector‑specific apprenticeship firms that match talent with employers in technology and professional services, offering a similar “earn while you learn” model but at smaller scale or in narrower niches. [^5qh3bl]  
 
 ## Competitor Table
 

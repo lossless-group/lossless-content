@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-15
-date_modified: 2026-05-10
+date_modified: 2026-06-15
 image_prompt: A yellow Fallout-style delivery bot reaches toward a cluster of out-of-reach floating fragments (binary digits, document scraps, file tags). A glass dome above its head holds a small calm brain. Bot, dome, and fragments all on the left half. Right half stays empty.
 banner_image: Visuals/ImageGin/ideogram-image_2048x1024_1778229487654.png
 portrait_image: Visuals/ImageGin/ideogram-image_1024x1820_1778229495073.png
@@ -27,6 +27,8 @@ banner_image_taller: Visuals/ImageGin/ideogram-image_2048x1536_1778229509684.png
 ![](https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-05/Context-Vigilance_content_1778228639707_ZpucZMAFC.webp)
 
 ![](https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-05/Context-Vigilance_content_1778228640033_hkXIJ6TkP.webp)
+
+
 
 
 > Essential: Work on a [[projects/Context-Vigilance/Docs-Kit/Living-Specifications|Living-Specification]], then break efforts down into steps.  Then write coherent step implementation [prompts](#meta-prompts) with AI, but with a "Product Management role." 
@@ -257,3 +259,9 @@ See our full example used to set up a monorepo:
 ### Takeaway
 
 Clear prompts aren’t about fancy tricks. They’re about **one goal**, **useful context**, **simple rules**, and a **clean output shape**. Start small, improve with tiny edits, and let the AI help you refine the prompt as you go.
+
+
+***
+# Sources
+
+[^xw9519]: 2026, Mar 17. "[Interpretable Context Methodology: Folder Structure as Agentic Architecture | arXiv.org](https://arxiv.org/abs/2603.16021)". Jake Van Clief and 1 other authors. [arXiv.org](https://arxiv.org).

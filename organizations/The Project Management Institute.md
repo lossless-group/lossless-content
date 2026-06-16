@@ -140,7 +140,7 @@ As of 2026-05-23,
 - [[organizations/Scrum-Alliance]] — Agile-focused certification body that represents an alternative path to agile project leadership credentials.  
 - [[concepts/Project-Economy]] — PMI’s framing of a world in which work is increasingly organized around projects and change initiatives.  
 - [[organizations/ISO]] — International Organization for Standardization; its standards intersect with PMI-guided practices in project and portfolio management.  
-- [[Professional Certification Programs]] — Broader context for PMI’s credential portfolio and its role in labor market signaling.  
+- [[Vocabulary/Professional Certification Programs]] — Broader context for PMI’s credential portfolio and its role in labor market signaling.  
 
 ![PMI event photo showing a diverse group of project professionals attending a PMI Global Summit session](https://web-assets.bcg.com/dims4/default/fa02654/2147483647/strip/true/crop/3600x1651+0+0/resize/768x352!/format/webp/quality/90/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2Fca%2F30%2F6a5356584ae98cad4dab3aa925bc%2Fthe-power-of-zero-based-transformation-in-pmi-ex.png)
 

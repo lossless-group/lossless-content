@@ -1,10 +1,12 @@
 ---
 site_uuid: 2714bd4b-69e5-434c-89cd-4f215ebcb114
 aliases: [AI, Enterprise AI]
-date_modified: 2026-05-14
+date_modified: 2026-06-13
 date_created: 2025-03-31
 tags: [Tech-Trend]
 ---
+https://youtu.be/DmU9uovmT2A?is=QGP9ZRxp70bq6TTQ
+
 ![[Visuals/2025_Air-Street_State-of-AI-Report_2025-ONLINE.pdf]]
 
 ![Additional supporting visual content](https://www.ksolves.com/wp-content/uploads/Best-Programming-Languages-For-Artificial-Intelligence-Projects_11zon.jpg)
