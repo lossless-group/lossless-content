@@ -5,14 +5,24 @@ title: Continuous Performance Management
 slug: continuous-performance-management
 at_semantic_version: 0.0.0.1
 date_created: 2026-05-19
-date_modified: 2026-05-23
+date_modified: 2026-06-17
 cf_last_run: 2026-05-19T22:09:08.616Z
 cf_last_run_model: Perplexity sonar-pro
 for_clients:
   - Laerdal
   - Tonguc
   - Param
+tags:
+  - Management-Strategies
+  - Continuous-Performance-Management
+  - Workflow-Management
+aliases:
+  - CPM
 ---
+[[concepts/Objectives & Key Results|OKRs]]
+[[concepts/Burnout|Burnout]]
+[[concepts/Organizational Change Management|Change Management]]
+[[Vocabulary/Agile Software Development|Agile Methodologies]]
 
 # Defining and Describing Continuous Performance Management
 

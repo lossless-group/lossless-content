@@ -17,7 +17,7 @@ og_description: TRAE IDE integrates seamlessly into your workflow, collaborating
 og_favicon: https://lf-cdn.trae.ai/obj/trae-ai-us/trae_website_prod/favicon.png
 ---
 ##### [[Trae AI]] is an  [[AI Native Applications|AI Native]] [[concepts/Explainers for Tooling/Text Editors or IDEs|IDE]] [[concepts/Explainers for AI/Code Generators]]
-Similar to [[Cursor]], [[Windsurf IDE]].
+Similar to [[Cursor]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Devin IDE]].
 ![Trae AI Hero](https://i.imgur.com/qJI4eV9.png)
 
 <iframe 

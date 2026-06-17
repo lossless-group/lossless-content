@@ -47,7 +47,7 @@ Looking ahead, AI code generators are expected to grow even smarter, integrating
 In summary, AI code generators represent a transformative leap in software development, offering speed, accuracy, and inclusivity. As these technologies evolve, they promise to redefine how code is written, tested, and maintained, heralding a future of smarter, faster, and more creative innovation.
 
 ##### Examples:
-- [[concepts/Explainers for Tooling/Text Editors or IDEs|IDEs]] include [[Cursor]], [[Windsurf IDE]], [[Trae AI]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bloop AI|Bloop AI]], [[Zed]], [[Pear IDE]], [[CodeLLM]]
+- [[concepts/Explainers for Tooling/Text Editors or IDEs|IDEs]] include [[Cursor]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Devin IDE]], [[Trae AI]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bloop AI|Bloop AI]], [[Zed]], [[Pear IDE]], [[CodeLLM]]
 	- [[Melty]] is just a [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editor]], but has strong reviews.
 - [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulators]] include [[Warp]] and [[Aider]]
 - [[concepts/Opsless Deployment Providers]] include [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bolt.new|Bolt.new]], [[v0]], [[Lovable]], [[Replit]], [[Hostinger]] and [[Tooling/AI-Toolkit/Generative AI/Code Generators/Mocha]]
@@ -210,7 +210,7 @@ https://youtu.be/fKtvRTFISq4?si=0QuLEn91P7j6_Cje
 ![[Pasted image 20250128132239.png]] [^suje5n]
 
 
-Attempts at a fully featured [[concepts/Explainers for Tooling/Text Editors or IDEs|IDE]] include, [[Cursor]], [[AgentFarm]], [[Windsurf IDE]].
+Attempts at a fully featured [[concepts/Explainers for Tooling/Text Editors or IDEs|IDE]] include, [[Cursor]], [[AgentFarm]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Devin IDE]].
 
 [[Warp]] is differentiated, as it is a [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulator]] with built in [[AI Models|AI Models]] that can reason on the code you are writing in another application.
 
@@ -224,7 +224,7 @@ https://youtu.be/l-YbaSzDmhU?si=yTLceEj5oI8pWQH3
 
 2024, Nov 11. [Aider vs. Cline vs. Continue : The ULTIMATE Coding Assistant for Developers?](https://youtu.be/wFWoSvLijSE?si=F5PQvRot8JCx-2Hg) 
 
-2023, Dec 23. [How to Prompt Cursor, Windsurf & Copilot to Get Reliable Output](https://youtu.be/z_7CLMYKwGs?si=5gy51IrF9lYRlu1q) [[Yifan - Beyond the Hype]], [[YouTube]]. (Coverse [[Cursor]] and [[Windsurf IDE]])
+2023, Dec 23. [How to Prompt Cursor, Windsurf & Copilot to Get Reliable Output](https://youtu.be/z_7CLMYKwGs?si=5gy51IrF9lYRlu1q) [[Yifan - Beyond the Hype]], [[YouTube]]. (Coverse [[Cursor]] and [[Tooling/AI-Toolkit/Generative AI/Code Generators/Devin IDE]])
 
 2025, Oct 23. [GitHub Copilot Just Destroyed All AI Code Editor Startups](https://youtu.be/Byt6fZZBz_g?si=9J66m__VmRGSiXTs) Melkey, [[YouTube]].
 

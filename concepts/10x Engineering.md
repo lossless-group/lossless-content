@@ -2,7 +2,7 @@
 cf_last_run: "2026-06-05T20:45:44.660Z"
 cf_last_run_model: "Perplexity sonar-pro"
 date_created: 2026-06-02
-date_modified: 2026-06-05
+date_modified: 2026-06-17
 tags: [Engineering-Management]
 for_clients:
   - Laerdal
@@ -14,6 +14,9 @@ title: "10x Engineering"
 slug: 10x-engineering
 at_semantic_version: 0.0.1.1
 ---
+https://youtu.be/sC0TWYj8LyU?is=nShp7vyExToE0ZV5
+
+https://youtu.be/BoZ7Upww2vs?is=5Z8HK93Q8JbK2ro6
 
 # Defining and Describing 10x Engineering
 

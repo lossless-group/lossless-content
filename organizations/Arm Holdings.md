@@ -1,7 +1,7 @@
 ---
 wikipedia_url: https://en.wikipedia.org/wiki/Arm_Holdings#:~:text=Arm%20Holdings%20plc%20(formerly%20an,the%20ARM%20architecture%20family%20of
 date_created: 2025-03-20
-date_modified: 2026-06-15
+date_modified: 2026-06-16
 url: https://www.arm.com/
 tags:
   - Chip-Designers
@@ -26,6 +26,8 @@ cf_last_run_model: Perplexity sonar-pro
 
 
 https://youtu.be/Zr09I5OlOjs?is=72uIGayBODCKnOTi
+
+https://youtu.be/Zr09I5OlOjs?is=CLtsUEzP8Sb-uw0F
 
 # Arm Holdings
 

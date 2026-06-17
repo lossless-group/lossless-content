@@ -149,7 +149,7 @@ Citations are considered safe INSIDE callouts.
 [[Tooling/Enterprise Jobs-to-be-Done/Coda|Coda]]
 [[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]]
 [[Tooling/Productivity/Affinity Publisher]]
-[[Tooling/AI-Toolkit/Generative AI/Code Generators/Windsurf IDE|Windsurf IDE]]
+[[Tooling/AI-Toolkit/Generative AI/Code Generators/Devin IDE|Devin IDE]]
 [[Tooling/AI-Toolkit/Generative AI/Code Generators/Zed|Zed]]
 [[Tooling/Enterprise Jobs-to-be-Done/Content Management Systems/Hygraph|Hygraph]]
 [[Tooling/Enterprise Jobs-to-be-Done/Content Management Systems/Payload|Payload]]

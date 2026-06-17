@@ -1,9 +1,10 @@
 ---
 url: null
-date_modified: 2026-05-16
+date_modified: 2026-06-17
 site_uuid: dbbec104-be64-47a6-8413-05079caad984
 date_created: 2025-04-06
 ---
+https://youtu.be/vSyp0219H4I?is=8C7emn_PfZjXjyrL
 
 # Why Vibe Coding Matters
 
@@ -25,7 +26,7 @@ https://youtu.be/nLgmTis9uM0?si=i2d_9FLvI-bNnMfK
 > ### **Response from sonar-pro**:
 
 # The Origins of Vibe Coding
-The term **"Vibe Coding" was coined by Andrej Karpathy in February 2025**. He introduced it in a post on X (formerly Twitter), describing a new style of programming where developers "fully give in to the vibes," leveraging large language models (LLMs) to generate code based on high-level, conversational instructions instead of traditional, manual implementation. [^qb31rd] [^qwxz4u] [^dbzx3h] [^q0pow1] While some sources mistakenly cite dates as early as 2023, the consensus among authoritative sources—including Wikipedia and interviews with Karpathy—confirms the February 2025 origin. [^qb31rd] [^qwxz4u] [^dbzx3h]
+The term **"Vibe Coding" was coined by [[Sources/People/Andrej Karpathy|Andrej Karpathy]] in February 2025**. He introduced it in a post on X (formerly Twitter), describing a new style of programming where developers "fully give in to the vibes," leveraging large language models ([[Vocabulary/Large Language Models|LLMs]]) to generate code based on high-level, conversational instructions instead of traditional, manual implementation. [^qb31rd] [^qwxz4u] [^dbzx3h] [^q0pow1] While some sources mistakenly cite dates as early as 2023, the consensus among authoritative sources—including Wikipedia and interviews with Karpathy—confirms the February 2025 origin. [^qb31rd] [^qwxz4u] [^dbzx3h]
 
 #### Vibe Coding is Controversial
 https://youtu.be/1A6uPztchXk?si=ePNZBYetEgFhyT4q
@@ -34,7 +35,7 @@ https://youtu.be/1A6uPztchXk?si=ePNZBYetEgFhyT4q
 
 Several factors explain the rapid surge in popularity:
 
-- **Advances in Generative AI**: In early 2025, coding assistants like [[Tooling/AI-Toolkit/Generative AI/Code Generators/GitHub Copilot|GitHub Copilot]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Cursor|Cursor]] Composer, [[Tooling/AI-Toolkit/Generative AI/Code Generators/Windsurf IDE|Windsurf IDE]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Pear IDE|Pear IDE]], and other LLM-based tools reached a level of sophistication allowing them to not only assist but to generate and architect entire applications from natural language prompts. [^qb31rd] [^qwxz4u]
+- **Advances in Generative AI**: In early 2025, coding assistants like [[Tooling/AI-Toolkit/Generative AI/Code Generators/GitHub Copilot|GitHub Copilot]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Cursor|Cursor]] Composer, [[Tooling/AI-Toolkit/Generative AI/Code Generators/Devin IDE|Devin IDE]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Pear IDE|Pear IDE]], and other LLM-based tools reached a level of sophistication allowing them to not only assist but to generate and architect entire applications from natural language prompts. [^qb31rd] [^qwxz4u]
 - **Widespread Community Resonance**: Karpathy’s concept articulated a growing sentiment among developers—the *frustration* with mechanical coding and the desire for quicker, more creative prototyping. [^qb31rd] [^q0pow1]
 - **Social Media Virality**: Karpathy’s prominence in AI, combined with his public sharing of projects and the term itself, quickly propagated the concept through X, blogs, and developer podcasts. [^qb31rd] [^q0pow1]
 - **Ease of Adoption**: The underlying tools (LLMs) were already publicly accessible, so developers could immediately try out vibe coding with minimal barrier to entry. [^qb31rd] [^dbzx3h]

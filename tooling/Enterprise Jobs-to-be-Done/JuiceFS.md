@@ -23,7 +23,7 @@ at_semantic_version: 0.0.1.1
 
 # Value Proposition & Features
 
-JuiceFS is a **cloud-based, high-performance [[Distributed File Systems]]** that separates **data** and **metadata**, storing file data in object storage and metadata in a database-backed metadata engine. [^h2wtid] [^wfkzl7] It is designed to deliver POSIX-like file access for workloads such as big data, machine learning, AI, and other massive-data applications without requiring application code changes. [^h2wtid] [^lak6tf]
+JuiceFS is a **cloud-based, high-performance [[concepts/Explainers for Tooling/Distributed File Systems]]** that separates **data** and **metadata**, storing file data in object storage and metadata in a database-backed metadata engine. [^h2wtid] [^wfkzl7] It is designed to deliver POSIX-like file access for workloads such as big data, machine learning, AI, and other massive-data applications without requiring application code changes. [^h2wtid] [^lak6tf]
 
 Its core architecture is the combination of **object storage for data**, **database-backed metadata**, and **multi-level caching** for performance. [^h2wtid] [^wfkzl7] JuiceFS says this enables strong consistency, scalable concurrent access, and low-latency reads and writes across distributed environments. [^h2wtid]
 

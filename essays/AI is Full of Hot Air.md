@@ -1,7 +1,7 @@
 ---
 category: "Avoid and Peril"
 date_created: 2024-11-11
-date_modified: 2026-05-23
+date_modified: 2026-06-16
 tags: [Near-Future-Anticipation]
 title: "AI is full of Hot Air."
 lede: "From hallucinations to probabilistic creativity, to the need to fulfill its trained duty.  AI Models can just make things up.  Sometimes amazingly, sometimes catastrophically."
@@ -224,6 +224,8 @@ Research indicates several promising avenues:
 
 The field is rapidly evolving, with new techniques emerging to make AI systems more aware of their limitations and better able to communicate uncertainty—essential steps toward deploying AI safely in critical applications.
 
+
+
 # Sources
 ***
 [^8lxfie]: [A method to mitigate hallucinations in large language models](https://techxplore.com/news/2024-05-method-mitigate-hallucinations-large-language.html)
@@ -275,4 +277,4 @@ The field is rapidly evolving, with new techniques emerging to make AI systems m
 [^c11y5m]: [KnowHalu: Hallucination Detection via Multi-Form Knowledge ...](https://arxiv.org/html/2404.02935v1)
 [^46qmee]: 2025, Jun 15. [LibGuides: Introduction to Generative AI: Hallucinations](https://guides.library.illinois.edu/generativeAI/hallucinations). Published: 2025-07-16 | Updated: 2025-06-16
 [^e6x4b8]: [Qdrant vs Weaviate vs FalkorDB: Best AI Database 2026 - F22 Labs](https://www.f22labs.com/blogs/qdrant-vs-weaviate-vs-falkordb-best-ai-database/)
-
+[^m7eny8]: 2026, Jun. "[The skills people still perform better than AI, according to workplace experts | KETK.com | FOX51.com](https://www.ketk.com/news/technology/ap-the-skills-people-still-perform-better-than-ai-according-to-workplace-experts/)". Toggle Menu. [KETK.com | FOX51.com](https://www.ketk.com).

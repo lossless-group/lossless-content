@@ -5,7 +5,7 @@ date_modified: 2025-09-21
 
 [[Raycast]]
 ### Dark Mode
-[[Windsurf IDE]], [[Cursor]], 
+[[Tooling/AI-Toolkit/Generative AI/Code Generators/Devin IDE]], [[Cursor]], 
 
 [[Tooling/Enterprise Jobs-to-be-Done/Integration Platforms/Workato|Workato]] (Design Element)
 

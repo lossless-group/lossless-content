@@ -88,7 +88,7 @@ Sources
 [[Tooling/Enterprise Jobs-to-be-Done/Coda|Coda]]
 [[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]]
 [[Tooling/Productivity/Affinity Publisher]]
-[[Tooling/AI-Toolkit/Generative AI/Code Generators/Windsurf IDE|Windsurf IDE]]
+[[Tooling/AI-Toolkit/Generative AI/Code Generators/Devin IDE|Devin IDE]]
 [[Tooling/Enterprise Jobs-to-be-Done/Content Management Systems/Hygraph|Hygraph]]
 [[Tooling/Software Development/Lego-Kit Engineering Tools/UI Builders/WebStudio|WebStudio]]
 [[Tooling/Enterprise Jobs-to-be-Done/GrapesJS|GrapesJS]]

@@ -52,7 +52,7 @@ These tools are excellent for product owners and designers who want to explore i
 
 **Most Notable:**
 - [[Tooling/AI-Toolkit/Generative AI/Code Generators/Cursor|Cursor]]
-- [[Tooling/AI-Toolkit/Generative AI/Code Generators/Windsurf IDE|Windsurf IDE]]
+- [[Tooling/AI-Toolkit/Generative AI/Code Generators/Devin IDE|Devin IDE]]
 - [[Tooling/Software Development/Developer Experience/DevTools/Visual Studio Code|VS Code]] with [[Tooling/AI-Toolkit/Generative AI/Code Generators/GitHub Copilot|GitHub Copilot]]
 - [[Tooling/AI-Toolkit/Generative AI/Code Generators/Cline|Cline]]
 - [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Cody]]

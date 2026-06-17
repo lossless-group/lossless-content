@@ -86,7 +86,7 @@ It is not ideal for **non‑technical users** or teams that want a fully managed
 
 - **[[Tooling/AI-Toolkit/Generative AI/Code Generators/GitHub Copilot|GitHub Copilot]]** – Closed‑source AI coding assistant deeply integrated into GitHub and major IDEs, focused on cloud‑hosted models and seamless setup rather than local‑first control.  
 - **[[Tooling/AI-Toolkit/Generative AI/Code Generators/Cursor|Cursor]] IDE** – An AI‑native fork of VS Code with built‑in AI agents for code understanding and refactoring, offering a more integrated but less self‑hosted‑oriented experience.  
-- **Codeium** [[Tooling/AI-Toolkit/Generative AI/Code Generators/Windsurf IDE|Windsurf IDE]] – AI coding assistant with IDE plugins and enterprise features; offers on‑prem options but is not open‑source in the core product.  
+- **Codeium** [[Tooling/AI-Toolkit/Generative AI/Code Generators/Devin IDE|Devin IDE]] – AI coding assistant with IDE plugins and enterprise features; offers on‑prem options but is not open‑source in the core product.  
 - **[[Tabnine]]** – AI code completion tool with local and cloud models, focused primarily on autocomplete rather than agentic multi‑step workflows.  
 - **[[Tooling/AI-Toolkit/Generative AI/Code Generators/Continue AI|Continue AI]] ** – Open‑source VS Code extension for AI pair programming and code chat, similar in spirit to Kilo but not positioned specifically as an “all‑in‑one agentic engineering platform.”  
 
