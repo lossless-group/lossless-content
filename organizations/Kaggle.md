@@ -177,7 +177,7 @@ As of 2026-05-28,
 - [[organizations/Alphabet|Alphabet]]  
 - [[concepts/Crowdsourced Machine Learning Competitions]]  
 - [[concepts/Data Science Platforms]]  
-- [[concepts/AI Benchmarking and Leaderboards]]  
+- [[lost-in-public/market-maps/AI Benchmarking and Leaderboards]]  
 - [[organizations/DrivenData]]
 
 

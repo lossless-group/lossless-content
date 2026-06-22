@@ -2,7 +2,7 @@
 cf_last_run: 2026-05-10T08:29:26.237Z
 cf_last_run_model: Perplexity sonar-pro
 date_created: 2026-05-06
-date_modified: 2026-05-27
+date_modified: 2026-06-18
 site_uuid: b5753d96-6a59-4662-a8b1-0ed549f2a7ff
 publish: true
 title: Dynamic Pricing
@@ -13,7 +13,7 @@ for_clients:
   - Laerdal
   - Parslee
 ---
-
+https://youtu.be/2erhiRb-Wbs?is=ViBPGEQYGOUYdYgN
 # Defining and Describing Dynamic Pricing
 - _Dynamic pricing empowers businesses to flex prices in real-time like digital market chameleons, chasing peak demand profits while dodging inventory slumps._ [^gevpk2] [^osjg0k]
 - Dynamic pricing, also called surge pricing or demand pricing, is a revenue management strategy where businesses set flexible prices for products or services based on current market demands, typically raising them during peak periods and lowering during off-peak. [^r3ojzh]

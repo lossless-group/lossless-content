@@ -1,7 +1,7 @@
 ---
 url: https://claude.com/product/claude-code
 date_created: 2025-03-08
-date_modified: 2026-06-09
+date_modified: 2026-06-17
 product_of: "[[Tooling/AI-Toolkit/Model Producers/Anthropic|Anthropic]]"
 og_image: https://cdn.sanity.io/images/4zrzovbb/claude-com/6c36adaaf60ecdde313a93ad255eef573ea4de97-1200x630.jpg?rect=0,2,1200,627&w=1200&h=627&fit=crop
 tags:
@@ -30,6 +30,8 @@ https://youtu.be/AJpK3YTTKZ4?si=I91C-TAJzKl1Nx9t
 
 https://youtu.be/d-SyGA0Avtw?si=qnl9QXTQ9KCwpcij
 
+https://youtu.be/FDxW2bfBOWE?is=SXu89LGtOIfLVr87
+
 https://www.anthropic.com/solutions/coding
 
 
@@ -37,7 +39,7 @@ https://www.anthropic.com/solutions/coding
 
 # Value Proposition & Features
 
-Claude Code is [[Tooling/AI-Toolkit/Model Producers/Anthropic|Anthropic]]’s **agentic coding tool for developers**, positioned as a terminal-first assistant that understands a codebase, edits files, runs commands, and helps ship faster. [^u2cce2] It is framed as an AI coding assistant that can connect to external services through MCP, so it can interact with tools like Jira, Confluence, GitHub, databases, and internal [[Vocabulary/Application Programming Interface|APIs]]. [^u2cce2]
+Claude Code is [[Tooling/AI-Toolkit/Model Producers/Anthropic|Anthropic]]’s **agentic coding tool for developers**, positioned as a terminal-first assistant that understands a codebase, edits files, runs commands, and helps ship faster. [^u2cce2] It is framed as an AI coding assistant that can connect to external services through MCP, so it can interact with tools like [[Tooling/Software Development/Developer Experience/Jira|Jira]], Confluence, GitHub, databases, and internal [[Vocabulary/Application Programming Interface|APIs]]. [^u2cce2]
 
 Claude Code’s core workflow is built around **codebase understanding**, **file editing**, and **command execution** from the developer’s environment. [^u2cce2] The product also supports MCP-based integrations, which let it authenticate to external services using OAuth tokens stored in local configuration. [^u2cce2]
 
@@ -45,7 +47,7 @@ Claude Code’s core workflow is built around **codebase understanding**, **file
 - **Codebase-aware** assistance that understands repository context. [^u2cce2]
 - **File editing** inside developer workflows. [^u2cce2]
 - **Command execution** to help run tasks and automate work. [^u2cce2]
-- **[[concepts/Explainers for AI/Model Context Protocol|MCP]] integrations** for external tools and services such as [[Tooling/Software Development/Developer Experience/Jira|Jira]], [[Tooling/Software Development/Developer Experience/DevTools/Confluence]], and [[Tooling/Software Development/Developer Experience/GitHub|GitHub]]. [^u2cce2]
+- **[[concepts/Explainers for AI/Model Context Protocol|MCP]] integrations** for external tools and services such as [[Tooling/Software Development/Developer Experience/Jira|Jira]], [[Tooling/Software Development/Developer Experience/DevTools/Confluence|Confluence]], and [[Tooling/Software Development/Developer Experience/GitHub|GitHub]]. [^u2cce2]
 - **[[projects/Emergent-Innovation/Standards/OAuth|OAuth]]-connected workflows** for persistent access to integrated services. [^u2cce2]
 - **[[concepts/Explainers for AI/Agent Skills|Agent Skills]] / reusable workflows** are discussed in the broader Claude Code ecosystem as Markdown-based playbooks for on-demand task execution. [^hbu5c0]
 
@@ -65,21 +67,17 @@ Claude Code emerged as part of Anthropic’s developer tooling around its Claude
 
 # Market Sizing
 
-## Category, Market Size, and Category Growth
-
-Claude Code fits most clearly in the **AI coding assistant**, **terminal assistant**, and **agentic developer tooling** categories. [^u2cce2] The returned sources did not include a credible market-sizing estimate specific to Claude Code, so no reliable category-size figure could be stated from the search results.
-
 # Competitive Landscape
 
 ## Who it's for, who it's not for
 
-Claude Code is for **developers** who want an AI assistant inside a terminal-based workflow that can reason over a repository, edit code, run commands, and connect to external services through MCP. [^u2cce2] It is also a fit for teams willing to adopt reusable “skills” and other structured workflow automation around coding tasks. [^hbu5c0]
+Claude Code is for **developers** who want an AI assistant inside a terminal-based workflow that can reason over a repository, edit code, run commands, and connect to external services through [[concepts/Explainers for AI/Model Context Protocol|MCP]]. [^u2cce2] It is also a fit for teams willing to adopt reusable “skills” and other structured workflow automation around coding tasks. [^hbu5c0]
 
-It is not primarily for non-technical users, and it is a weaker fit for organizations that do not want local OAuth token storage or MCP-based integrations in developer environments. [^u2cce2] It is also a poor fit for teams that require a tool with fully published roadmap, pricing, and funding transparency in the returned sources, because those details were not reliably available here.
+It is not primarily for non-technical users, and it is a weaker fit for organizations that do not want local [[projects/Emergent-Innovation/Standards/OAuth|OAuth]] token storage or MCP-based integrations in developer environments. [^u2cce2] It is also a poor fit for teams that require a tool with fully published roadmap, pricing, and funding transparency in the returned sources, because those details were not reliably available here.
 
 ## Viable Alternatives
 
-- **GitHub Copilot** — a mainstream AI coding assistant with strong IDE integration and broad enterprise adoption.
+- **[[Tooling/AI-Toolkit/Generative AI/Code Generators/GitHub Copilot|GitHub Copilot]]** — a mainstream AI coding assistant with strong IDE integration and broad enterprise adoption.
 - **[[Tooling/AI-Toolkit/Generative AI/Code Generators/Cursor|Cursor]]** — an AI-first coding environment focused on repository-aware editing and agentic workflows.
 - **[[Tooling/AI-Toolkit/Generative AI/Code Generators/Aider|Aider]]** — a terminal-based coding assistant that emphasizes git-aware code changes.
 - **OpenAI Codex-style developer tools** — comparable agentic coding workflows for code generation and repo interaction.

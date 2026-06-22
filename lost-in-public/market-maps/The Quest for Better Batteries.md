@@ -1,6 +1,6 @@
 ---
 date_created: 2025-04-15
-date_modified: 2026-01-27
+date_modified: 2026-06-19
 site_uuid: ecd2eff9-ef1a-475f-9b30-1c33c64ae8a6
 title: "The Quest for Better Batteries"
 lede: "The race for better batteries powers the future—every breakthrough could change the world."
@@ -44,7 +44,7 @@ https://youtu.be/J-ceLIa_N10?si=sbuiHl-6ieNAP0Cl
 
 https://youtu.be/nrTCgZmUFCY?si=pYt7wjUFaH6G7kCU
 
-
+https://youtu.be/2viIyLnchHI?is=w-qREdEjzTbmPx7g
 
 ***
 > [!info] **Perplexity Deep Research Query** (2025-10-02T14:56:44.807Z)

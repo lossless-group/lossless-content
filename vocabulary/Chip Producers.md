@@ -1,5 +1,5 @@
 ---
-date_modified: 2026-06-09
+date_modified: 2026-06-19
 site_uuid: a18e07d7-000a-4d00-ab60-bbc5b3f64f1e
 date_created: 2025-04-06
 publish: true
@@ -22,6 +22,8 @@ cf_last_run_model: Perplexity sonar-pro
 
 https://youtu.be/dX9CGRZwD-w?si=pV9ArWlq2FuSDZOK
 
+https://youtu.be/mqdZHUDl2PE?is=ok4XxOs4FKC6llZE
+
 [[Luckfox]]
 
 https://youtu.be/vqs_0W-MSB0?si=KC2ft8YrrNN2cin5
@@ -43,7 +45,7 @@ In an innovation-consulting context, **chip producers** typically refers to semi
 **Chip producers (semiconductor firms) are companies that design and/or fabricate integrated circuits and sell them as components or platforms into broader technology ecosystems.**
 
 - In industry statistics and trade press, the largest chip producers by market capitalization include **Nvidia**, **TSMC**, **Broadcom**, **ASML**, and **Samsung**, which collectively anchor the global semiconductor value chain used by cloud providers, device OEMs, and AI startups. [^dd4700] [^mtfrf2] [^z547af]  
-- Strategically, chip producers are segmented into **fabless designers** (e.g., Nvidia, AMD, Qualcomm) that outsource manufacturing, **foundries** (e.g., TSMC) that specialize in wafer fabrication for many customers, and **IDMs** like Intel and Samsung that both design and manufacture. [^dd4700] [^mtfrf2] [^620vau]  
+- Strategically, chip producers are segmented into **fabless designers** (e.g., [[organizations/Nvidia|Nvidia]], [[organizations/AMD|AMD]], [[organizations/Qualcomm|Qualcomm]]) that outsource manufacturing, **foundries** (e.g., [[organizations/TSMC|TSMC]]) that specialize in wafer fabrication for many customers, and **IDMs** like [[organizations/Intel|Intel]] and [[organizations/Samsung|Samsung]] that both design and manufacture. [^dd4700] [^mtfrf2] [^620vau]  
 - This sense explicitly excludes generic **electronics manufacturers** and **OEMs** (like Foxconn or consumer device brands) whose main business is assembling finished products rather than producing semiconductor dies; those firms are *customers* or integrators of chip producers, not chip producers themselves. [^620vau]  
 - Policymakers and consultants often treat chip producers as a **strategic industry** because regions compete to attract fabs and design centers, such as India’s government-backed “India Semiconductor Mission” aimed at building domestic chip design and manufacturing capacity. [^h33vy1]  
 

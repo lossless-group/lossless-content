@@ -1,7 +1,7 @@
 ---
 category: "Avoid and Peril"
 date_created: 2024-11-11
-date_modified: 2026-06-16
+date_modified: 2026-06-17
 tags: [Near-Future-Anticipation]
 title: "AI is full of Hot Air."
 lede: "From hallucinations to probabilistic creativity, to the need to fulfill its trained duty.  AI Models can just make things up.  Sometimes amazingly, sometimes catastrophically."
@@ -34,6 +34,8 @@ techcrunch.com/2023/04/25/chroma-open-source-embedding-database-vector/
 
 
  Text [[concepts/Explainers for AI/AI-Powered Chatbots|AI-Powered Chatbots]] have fabricated scholarly references that do not exist, presenting them as real, a common failure in academic contexts. [^46qmee]
+
+https://youtu.be/TNwJ1LMiENk?is=ABJrl1ZXtYXetIGx
 
 
 > "AI responses may include mistakes." - Google Search, April 29, 2026

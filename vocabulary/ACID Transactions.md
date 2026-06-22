@@ -28,7 +28,7 @@ ACID transactions are a foundational concept in relational databases, ensuring r
 
 4. **Durability**: Ensures that once a transaction is committed, its changes are permanently stored, even in the event of system failures. [^oooxj0] [^8047y8]
 
-Experts assess ACID properties when evaluating databases because they are critical for maintaining data integrity, especially in applications like banking or e-commerce where accuracy and reliability are paramount. While relational databases typically implement ACID fully, some [[NoSQL]] systems may relax these guarantees to achieve higher scalability and performance. [^c46tex] [^f79yox]
+Experts assess ACID properties when evaluating databases because they are critical for maintaining data integrity, especially in applications like banking or e-commerce where accuracy and reliability are paramount. While relational databases typically implement ACID fully, some [[concepts/Explainers for Tooling/NoSQL]] systems may relax these guarantees to achieve higher scalability and performance. [^c46tex] [^f79yox]
 
 
 ***

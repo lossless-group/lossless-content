@@ -1,23 +1,36 @@
 ---
 site_uuid: efeb0279-9c04-4bdb-a6be-8b1881eeecb9
-url: 'https://www.rust-lang.org/'
-image: 'https://www.rust-lang.org/static/images/rust-social-wide.jpg'
+url: https://www.rust-lang.org/
+image: https://www.rust-lang.org/static/images/rust-social-wide.jpg
 site_name: Rust
-title: 'Rust Programming Language'
-og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250605_Rust_og_screenshot.jpeg'
-jina_last_request: '2025-03-09T06:45:05.010Z'
-jina_error: 'Error occurred'
-og_last_fetch: '2025-06-06T13:27:34.316Z'
-date_modified: 2025-12-09
+title: Rust Programming Language
+og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250605_Rust_og_screenshot.jpeg
+jina_last_request: 2025-03-09T06:45:05.010Z
+jina_error: Error occurred
+og_last_fetch: 2025-06-06T13:27:34.316Z
+date_modified: 2026-06-19
 date_created: 2025-03-30
-og_image: 'https://www.rust-lang.org/static/images/rust-social-wide.jpg'
-description: 'A language empowering everyone to build reliable and efficient software.'
-tags: [Software-Development, Programming-Languages]
+og_image: https://www.rust-lang.org/static/images/rust-social-wide.jpg
+description: A language empowering everyone to build reliable and efficient software.
+tags:
+  - Software-Development
+  - Programming-Languages
+  - Embedded-Systems
 ---
 
 [[Tooling/Software Development/Frameworks/Loco|Loco]]
 
 https://youtu.be/7QwqShxyHtc?si=dUsLrOo-ovTwNdX9
+
+https://youtu.be/784JWR4oxOI?is=t1KzRRWR92sYVawX
+
+[[Tooling/Software Development/Developer Experience/DevTools/Tauri|Tauri]]
+
+[[High Performance Computing]]
+
+[[Vocabulary/Concurrency|Concurrency]]
+
+[[Vocabulary/Parallel Computing|Parallel Computing]]
 
 
 
@@ -50,7 +63,7 @@ Beyond raw speed, Rust’s type system and tooling reduce long-term maintenance 
 
 Rust has moved from a niche language to a **mainstream choice** in critical domains such as fintech, blockchain, cloud platforms, and embedded systems. [^5e97w2] [^g96daa] [^elv7pp] Surveys and industry reports consistently show Rust as one of the most admired languages, reflecting strong satisfaction among developers and growing adoption in production systems. [^c90bhv] [^elv7pp] Large organizations and open-source projects now rely on Rust for performance-sensitive components and security-critical code. [^g96daa] [^y3ofax]
 
-The Rust ecosystem continues to expand rapidly, with tens of thousands of libraries available on the central package registry, crates.io. [^g96daa] Tooling improvements, better interoperability with languages like C, C++, and Python, and more stable compiler features—such as advances in const generics and SIMD intrinsics—are making Rust attractive for an even wider range of applications. [^5e97w2] [^g96daa] Recent developments focus on improving the developer experience, stabilizing key language features, and strengthening Rust’s role in **foundational software**, including operating systems, compilers, and infrastructure services. [^g96daa] [^y3ofax]
+The Rust ecosystem continues to expand rapidly, with tens of thousands of libraries available on the central package registry, crates.io. [^g96daa] Tooling improvements, better interoperability with languages like [[C]], [[Tooling/Software Development/Programming Languages/C++|C++]], and [[Tooling/Software Development/Programming Languages/Python|Python]], and more stable compiler features—such as advances in const generics and SIMD intrinsics—are making Rust attractive for an even wider range of applications. [^5e97w2] [^g96daa] Recent developments focus on improving the developer experience, stabilizing key language features, and strengthening Rust’s role in **foundational software**, including operating systems, compilers, and infrastructure services. [^g96daa] [^y3ofax]
 
 ## Future Outlook
 

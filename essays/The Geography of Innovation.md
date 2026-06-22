@@ -1,6 +1,6 @@
 ---
 date_created: 2025-04-15
-date_modified: 2025-09-24
+date_modified: 2026-06-19
 site_uuid: 6bd48664-6874-420c-9c35-c7ed35e5e3e1
 title: The Geography of Innovation
 lede: Innovation may be global, but it still clusters in a few creative hotspots.
@@ -19,7 +19,7 @@ authors:
 publish: true
 ---
 
-
+https://youtu.be/dPnWALbxUoE?is=6AOy_rOXpO56hBJ6
 
 
 ***

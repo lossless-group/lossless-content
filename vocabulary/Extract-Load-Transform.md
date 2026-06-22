@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-08
-date_modified: 2026-06-06
+date_modified: 2026-06-18
 aliases:
   - ELT
   - ELT Tools
@@ -18,6 +18,9 @@ for_clients:
   - Param
 tags:
   - DataOps
+  - Conceptual-Frameworks
+  - Data-Agents
+  - Data-Warehouses
 ---
 
 [[Vocabulary/DataOps|DataOps]]
@@ -25,6 +28,8 @@ tags:
 [[Tooling/AI-Toolkit/Data Augmenters/Airbyte|Airbyte]]
 [[Tooling/Data Utilities/DataBricks|DataBricks]]
 [[Tooling/Data Utilities/Fivetran|Fivetran]]
+[[Tooling/AI-Toolkit/Data Augmenters/Unstructured.io|Unstructured.io]]
+
 
 
 # Defining and Describing Extract-Load-Transform

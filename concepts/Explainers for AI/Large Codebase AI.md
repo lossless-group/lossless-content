@@ -1,7 +1,15 @@
 ---
 date_created: 2025-08-17
-date_modified: 2026-05-28
+date_modified: 2026-06-21
+tags:
+  - Explainers
+  - Solutions-For-Scale
+  - Large-Codebase-AI
+covers_tags:
+  - Large-Codebase-AI
 ---
+https://youtu.be/Ynv_WYO_slw?is=u0MvHqVZqXXq8ol3
+
 :::tool-showcase
 tag: Large Codebase AI
 :::
@@ -49,10 +57,11 @@ However, there are important challenges:
 - **Code reliability and security:** AI-generated code may contain undetected bugs or vulnerabilities, requiring robust review and testing practices to mitigate risks. [^g5oukb]
 - **Technical debt risks:** Over-reliance on AI for quick fixes can create hidden maintenance burdens, potentially slowing future development. [^g5oukb]
 - **Loss of context or control:** Depending too heavily on machines can erode developers’ deep understanding of system architecture, making advanced debugging or optimization difficult. [^g5oukb]
+- **Effective agentic engineering requires a robust ecosystem of context:** Even with [[concepts/Explainers for AI/Frontier Models|Frontier Models]], substantial [[concepts/Explainers for AI/Context Engineering|Context Engineering]] is a must in order to effectively build with AI. [^ba41h2]
 
 ### Current State and Trends
 
-Large Codebase AI adoption is surging across industries, especially within enterprises managing intricate digital ecosystems. Key players leading innovation include Anthropic’s Claude Code, GitHub Copilot, Tabnine, Sourcegraph’s Cody, and Replit’s Ghostwriter. [^zyo8s5] [^ueo8c1] Technologies are maturing rapidly: modern systems integrate seamlessly with popular development environments such as Cursor and JetBrains, offering contextual suggestions and automated refactoring. [^zyo8s5] Surveys report significant reductions—30-50% less engineering time—allocated to routine code maintenance when using AI tools, translating to real competitive advantage. [^zyo8s5] Recent developments highlight larger context windows, more accurate code generation, and tighter integration with DevOps workflows. [^ueo8c1]
+Large Codebase AI adoption is surging across industries, especially within enterprises managing intricate digital ecosystems. Key players leading innovation include Anthropic’s [[Tooling/AI-Toolkit/Generative AI/Code Generators/Claude Code|Claude Code]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/GitHub Copilot|GitHub Copilot]], Tabnine, [[Tooling/Software Development/Developer Experience/DevOps/Sourcegraph|Sourcegraph]]’s Cody, and [[Tooling/Software Development/Cloud Infrastructure/Replit|Replit]]’s Ghostwriter. [^zyo8s5] [^ueo8c1] Technologies are maturing rapidly: modern systems integrate seamlessly with popular development environments such as [[Tooling/AI-Toolkit/Generative AI/Code Generators/Cursor|Cursor]] and [[Tooling/Software Development/Developer Experience/JetBrains|JetBrains]], offering contextual suggestions and automated refactoring. [^zyo8s5] Surveys report significant reductions—30-50% less engineering time—allocated to routine code maintenance when using AI tools, translating to real competitive advantage. [^zyo8s5] Recent developments highlight larger context windows, more accurate code generation, and tighter integration with [[Vocabulary/Dev Ops|DevOps]] workflows. [^ueo8c1]
 
 ![Large Codebase AI practical example or use case](https://cdn.prod.website-files.com/638b9a04346ec7c45580d53a/6749a6534b2bfb3ef7f97a8a_66a34d74b5fe2483fb39d637_66a341a481a3b622f9150eab_ai-coding-tools_benefits.webp)
 
@@ -78,4 +87,6 @@ In summary, Large Codebase AI marks a major leap forward for software engineerin
 [^ueo8c1]: 2025, Aug 09. [A Comparison of AI Code Assistants for Large Codebases](https://intuitionlabs.ai/articles/ai-code-assistants-large-codebases). Published: 2025-08-01 | Updated: 2025-08-09
 
 [^ncf1ri]: 2025, Jul 01. [Top Benefits of AI in Modern Software Development](https://www.codestringers.com/resources/ai-resource-center/top-benefits-of-ai-in-modern-software-development/). Published: 2025-04-09 | Updated: 2025-07-01
+
+[^ba41h2]: 2026, Jun 14. "[A frontier model without an ecosystem is not stable](https://x.com/satyanadella/status/2066182223213293753)" [[Satya Nadella]], [[organizations/Microsoft|Microsoft]], X.com 
 

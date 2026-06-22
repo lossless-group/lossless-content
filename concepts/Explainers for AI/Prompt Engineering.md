@@ -1,6 +1,6 @@
 ---
 site_uuid: 124f0c8d-09ac-48e3-b68f-ddc48570cd7a
-date_modified: 2025-12-26
+date_modified: 2026-06-17
 date_created: 2025-01-30
 tags: [AI-Toolkit, Explainers, Best-Practices]
 title: Prompt Engineering
@@ -15,6 +15,8 @@ https://youtu.be/uDIW34h8cmM?si=upMFFu1o3aMG-8_E
 https://youtu.be/-5zFZznthw0?si=8DNvtpVgVSZ98W9K/
 
 https://youtu.be/WnBx1Vi7M6w?si=kvFkmwW4GM3svrAs
+
+https://youtu.be/TNwJ1LMiENk?is=kkmdKdO5IcENKnT6
 
 
 ***

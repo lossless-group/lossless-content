@@ -1,6 +1,6 @@
 ---
 date_created: 2025-06-02
-date_modified: 2026-06-15
+date_modified: 2026-06-17
 site_uuid: 953476bb-eadb-4c70-95c3-b6de5c15001e
 title: Context Engineering
 lede: When Vibe Planning gets as hard as Software Engineering
@@ -37,6 +37,9 @@ https://www.youtube.com/watch?v=arn6hqERKn4
 
 https://www.youtube.com/watch?v=n5_Nd1JYzUE
 
+https://youtu.be/Kf5-HWJPTIE?is=gQaDrUX8vN5O7Px5
+
+https://youtu.be/TNwJ1LMiENk?is=kkmdKdO5IcENKnT6
 
 
 ***

@@ -1,7 +1,7 @@
 ---
 github_repo_url: https://github.com/tursodatabase/libsql
 date_created: 2026-06-06
-date_modified: 2026-06-06
+date_modified: 2026-06-19
 site_uuid: 0a473569-5f2d-4d4a-bcbf-b8aeb41e4875
 publish: true
 title: LlibSQL
@@ -9,10 +9,21 @@ slug: llibsql
 at_semantic_version: 0.0.0.1
 cf_last_run: 2026-06-06T03:13:27.125Z
 cf_last_run_model: Perplexity sonar-pro
+tags:
+  - Databases
+  - Rust-Ecoystem
+  - Vector-Databases
+  - Database-Wrappers
+  - Database-as-a-Service
 ---
 
 [[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Turso|Turso]]
 [libSQL](https://turso.tech/)
+[[Tooling/Software Development/Databases/SQLite|SQLite]]
+[[concepts/Rust Rebuilds|Rust Rebuilds]]
+
+
+https://youtu.be/Sntj4HmuykI?is=b_cKBoYdQSyixyCq
 
 # Value Proposition & Features
 
@@ -24,7 +35,7 @@ LlibSQL (more commonly styled **libSQL**) is an open-source fork of SQLite that 
 
 - **Distributed / remote database engine:** libSQL adds built-in support for **embedded replicas and remote access**, enabling databases that can be accessed over the network rather than only via local files. [^w9twvj] [^x1p4vv] This underpins use cases like multi-region deployments, serverless backends, and cloud-hosted instances compatible with providers such as Turso. [^ez0idc] [^x1p4vv] [^5cv6uk]
 
-- **Edge-friendly & WebAssembly support:** libSQL is designed to run in **edge runtimes and browsers** via WebAssembly while also exposing HTTP and WebSocket drivers for low-latency edge access. [^ez0idc] [^x1p4vv] This allows developers to colocate data with users and run the same database engine on servers, at the edge, and in the browser. [^ez0idc] [^x1p4vv]
+- **Edge-friendly & [[Vocabulary/WebAssembly|WebAssembly]] support:** libSQL is designed to run in **edge runtimes and browsers** via WebAssembly while also exposing [[projects/Emergent-Innovation/Standards/HTTPS|HTTPS]] and [[Vocabulary/WebSockets|WebSocket]] drivers for low-latency edge access. [^ez0idc] [^x1p4vv] This allows developers to colocate data with users and run the same database engine on servers, at the edge, and in the browser. [^ez0idc] [^x1p4vv]
 
 - **Security & encryption:** libSQL incorporates **built-in encryption** to help protect data at rest and in distributed scenarios. [^x1p4vv] This enhances SQLite’s traditional embedded security posture for modern, networked deployments. [^x1p4vv]
 
@@ -63,9 +74,9 @@ libSQL is **not ideal for workloads that require heavyweight, centralized relati
 ## Viable Alternatives
 
 - **SQLite:** Upstream embedded SQL database engine, ideal when you need a small, fast, local-only RDBMS without remote access or replication. [^rf1tz1] [^w9twvj]  
-- **PostgreSQL (incl. hosted/cloud variants):** Full-featured, networked relational database with strong ecosystem and advanced SQL features for larger, centralized workloads. [^dy74wx]  
+- **[[Tooling/Software Development/Databases/Postgres|PostgreSQL]] (incl. hosted/cloud variants):** Full-featured, networked relational database with strong ecosystem and advanced SQL features for larger, centralized workloads. [^dy74wx]  
 - **MySQL/MariaDB:** Popular client-server relational databases suitable for web and transactional applications needing mature tooling and clustering options. [^dy74wx]  
-- **Edge/serverless SQLite services (e.g., Turso, Cloudflare D1):** Managed, SQLite-compatible or -derived services that offer serverless or edge deployment models; libSQL underpins Turso, while D1 provides a separate serverless SQLite-compatible option. [^ez0idc] [^dy74wx] [^5cv6uk]  
+- **Edge/serverless SQLite services (e.g., Turso, [[Tooling/Software Development/Cloud Infrastructure/Cloudflare|Cloudflare]] D1):** Managed, SQLite-compatible or -derived services that offer serverless or edge deployment models; libSQL underpins Turso, while D1 provides a separate serverless SQLite-compatible option. [^ez0idc] [^dy74wx] [^5cv6uk]  
 
 ## Competitor Table
 

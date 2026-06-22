@@ -1,6 +1,6 @@
 ---
 date_created: 2024-10-11
-date_modified: 2025-09-15
+date_modified: 2026-06-19
 site_uuid: 5ac66f92-b95b-4f80-82e6-96354e63517f
 title: AI is first a Trojan Horse
 lede: A Taste of using AI effectively can be magical, but afterwards is a massive amount of reconfiguration and technology adoption.
@@ -17,10 +17,16 @@ tags: [Near-Future-Anticipation]
 authors:
   - Michael Staton
 ---
+https://youtu.be/mDzQsCHJ_3o?is=ARGdbI0fQ9pW-dJU
 
 # Business leaders will be eager at first, then shocked to the core. 
 
 [[Tooling/Data Utilities/LakeFS|LakeFS]]
+[[Tooling/Enterprise Jobs-to-be-Done/JuiceFS|JuiceFS]]
+[[Tooling/AI-Toolkit/Data Augmenters/Unstructured.io|Unstructured.io]]
+[[Tooling/Data Utilities/Labelbox|Labelbox]]
+[[ChromaDB]]
+
 
 Pretty much every business that wants a competitive edge is already knee deep trying to figure out how to best use AI. 
 
@@ -32,7 +38,7 @@ Add the Fear of Missing Out, but in business boardroom bingo. To not adapt is to
 
 Both of these motives are true, truer than even the most motivated of us can fathom. 
 
-Yet, adopting AI is inviting in a Trojan Horse. Maybe that metaphore is a bit belltristic. Perhaps it's more like Meet the Faulkners. 
+Yet, adopting AI is inviting in a Trojan Horse. Maybe that metaphor is a bit belltristic. Perhaps it's more like Meet the Faulkners. 
 
 Imagine being excited for your birthday. Your friends blindfold you and say they have a surprise for you. When you arrive, it is a family reunion followed by a high school reunion. Your new emotional reality is that all the awkward business you were avoiding, or swept under the rug, will now be in full display.
 

@@ -1,6 +1,6 @@
 ---
 date_created: 2026-04-10
-date_modified: 2026-04-10
+date_modified: 2026-06-22
 title: Claude Mythos and Project Glasswing — The First Withheld Frontier Model
 slug: claude-mythos-project-glasswing
 tags: [AI-Safety, Anthropic, Frontier-Models, Cybersecurity, AI-Policy]
@@ -9,6 +9,8 @@ release_date: 2026-04-07
 ---
 
 https://www.anthropic.com/glasswing
+
+https://youtu.be/0RxMj0L0-fY?is=hWOPek0CsFDiC9PL
 
 ## Why This Matters
 

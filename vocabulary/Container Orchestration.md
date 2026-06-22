@@ -1,6 +1,6 @@
 ---
 date_created: 2025-07-25
-date_modified: 2025-11-26
+date_modified: 2026-06-17
 tags: [Container-Management-Tools]
 site_uuid: 0ee5dbd3-6b59-432a-a9dd-719370a06324
 publish: true
@@ -11,6 +11,10 @@ at_semantic_version: 0.0.0.1
 Creating workflows to automate [[Vocabulary/Containers|Containers]]
 
 [[Tooling/Software Development/Developer Experience/DevOps/Kubernetes|Kubernetes]]
+[[Tooling/Software Development/DevOps/Depot|Depot]]
+[[Tooling/Software Development/Developer Experience/DevOps/Docker|Docker]]
+[[Tooling/Software Development/Developer Experience/DevOps/ContainerD|ContainerD]]
+
 
 
 
