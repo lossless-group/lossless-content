@@ -50,7 +50,7 @@ maintained_by: "[[organizations/Microsoft|Microsoft]]"
 - [Emacs](https://www.gnu.org/software/emacs/) — another long-running editor that supports LSP-based tooling.[1]
 - [gopls](https://pkg.go.dev/golang.org/x/tools/gopls) — a Go language server that exemplifies the separate-server model described by LSP documentation.[2]
 - [dbt LSP](https://www.getdbt.com/blog/language-server-protocol) — a domain-specific server showing how the protocol extends beyond general-purpose programming languages.[3]
-- [OpenCode LSP integration](https://opencode.ai/docs/lsp/) — [[OpenCode]]-- an example of modern tooling wiring LSP into AI-assisted development workflows.[6]
+- [OpenCode LSP integration](https://opencode.ai/docs/lsp/) — [[Tooling/AI-Toolkit/Agentic AI/OpenCode]]-- an example of modern tooling wiring LSP into AI-assisted development workflows.[6]
 - [Warp code editor LSP support](https://docs.warp.dev/code/code-editor/language-server-protocol/) — [[Tooling/AI-Toolkit/Generative AI/Code Generators/Warp|Warp]] -- an example of terminal-based editor software using LSP for IDE-like features.[7]
 
 # Case Studies

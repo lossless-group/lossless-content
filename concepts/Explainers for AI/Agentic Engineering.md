@@ -1,11 +1,29 @@
 ---
 date_created: 2026-03-02
-date_modified: 2026-06-15
+date_modified: 2026-06-22
 cf_last_run: 2026-05-10T07:30:33.678Z
 cf_last_run_model: Perplexity sonar-pro
 aliases:
   - Agentic Engineering Patterns
+  - agentic engineering
+for_clients:
+  - Laerdal
+  - Param
+  - Colearn
+  - FullStackVC
+  - Chroma
+site_uuid: 313386cd-2fa9-4b4d-8a13-c1a3aa053502
+publish: true
+title: Agentic Engineering
+slug: agentic-engineering
+at_semantic_version: 0.0.0.1
 ---
+[[concepts/Documentation First Development|Spec-Driven Development]]
+[[concepts/Explainers for AI/Agent Harnesses]]
+
+[[Sources/People/Andrej Karpathy|Andrej Karpathy]]
+[[Sources/People/Influencers/Theo-t3.gg|Theo-t3.gg]]
+
 
 ![Image 2](https://addyosmani.com/assets/images/agentic-engineering.jpg)
 _Source: https://addyosmani.com/blog/agentic-engineering/_
@@ -25,20 +43,20 @@ graph TD
 ```
 *_Agentic engineering is the practice of professional software engineers leveraging AI coding agents that autonomously generate, execute, and iterate on code to accelerate development while maintaining human oversight on architecture and quality._[^05arys] [^9jg20d]
 
-It applies in modern software engineering workflows where AI agents, capable of both writing and running code like Claude Code or OpenAI Codex, handle implementation tasks under human direction. [^05arys] [^gn2fwy] "Code execution is the defining capability that makes agentic engineering possible," enabling agents to iterate toward working software independently of constant human prompting. [^05arys] This matters because it shifts development from manual coding to orchestrated AI collaboration, boosting productivity through reliable, testable outputs while enforcing engineering discipline like planning and relentless testing. [^9jg20d] [^39lvc5]
+It applies in modern software engineering workflows where AI agents, capable of both writing and running code like [[Tooling/AI-Toolkit/Generative AI/Code Generators/Claude Code|Claude Code]] or OpenAI [[Tooling/AI-Toolkit/Generative AI/Code Generators/Codex|Codex]], handle implementation tasks under human direction. [^05arys] [^gn2fwy] "Code execution is the defining capability that makes agentic engineering possible," enabling agents to iterate toward working software independently of constant human prompting. [^05arys] This matters because it shifts development from manual coding to orchestrated AI collaboration, boosting productivity through reliable, testable outputs while enforcing engineering discipline like planning and relentless testing. [^9jg20d] [^39lvc5]
 
 # Uses in Context
 - In individual developer workflows, agentic engineering describes using coding agents to build software by prompting goals, then letting agents generate, execute, and loop on code until complete. [^05arys]
 - "Agentic engineering is a multi-agent coordination model where AI agents act as digital team members — each with defined roles, shared memory, and a common observability layer — to move software through the full delivery pipeline."[^4kgd3g]
-- It distinguishes disciplined AI-assisted development from "vibe coding," where humans architect, review, and ensure correctness while agents implement: "AI does the implementation, human owns the architecture, quality, and correctness."[^9jg20d]
-- In team contexts, it refers to patterns like red/green TDD adapted for agents to produce succinct, reliable code with minimal extra prompting. [^39lvc5]
+- It distinguishes disciplined AI-assisted development from "[[Vocabulary/Vibe Coding|Vibe Coding]]," where humans architect, review, and ensure correctness while agents implement: "AI does the implementation, human owns the architecture, quality, and correctness."[^9jg20d]
+- In team contexts, it refers to patterns like red/green [[projects/Context-Vigilance/Safety/TDD|TDD]] adapted for agents to produce succinct, reliable code with minimal extra prompting. [^39lvc5]
 - Broader usage frames it as "professional software engineers using coding agents to improve and accelerate their work," emphasizing autonomy via code execution. [^39lvc5] [^gn2fwy]
 - In production talks, it's invoked for "production-grade agent-driven software development" balancing agent speed with human-in-the-loop control for code quality and security. [^tds8ua]
 
 # History of Use
 
 ## Origins
-Simon Willison, an independent developer and creator of tools like Datasette, coined "agentic engineering" in a blog post on his weblog to describe "the practice of developing software with the assistance of coding agents" that can write and execute code. [^05arys] He introduced it in the context of tools like Claude Code, OpenAI Codex, and Gemini CLI, highlighting code execution as key to iterative, goal-driven development. [^05arys] [^gn2fwy] This indie practitioner framing counters hype around isolated AI tools, positioning it as a professional engineering discipline. [^05arys]
+Simon Willison, an independent developer and creator of tools like [[Tooling/Data Utilities/Datasette]], coined "agentic engineering" in a blog post on his weblog to describe "the practice of developing software with the assistance of coding agents" that can write and execute code. [^05arys] He introduced it in the context of tools like Claude Code, OpenAI Codex, and Gemini CLI, highlighting code execution as key to iterative, goal-driven development. [^05arys] [^gn2fwy] This indie practitioner framing counters hype around isolated AI tools, positioning it as a professional engineering discipline. [^05arys]
 
 ## Evolution
 
@@ -60,7 +78,7 @@ _Source: https://www.projectpro.io/article/agentic-ai-developer/1180_
 
 # Case Studies
 
-Simon Willison, an indie developer known for Datasette and LLMS, pioneered agentic engineering patterns in February 2026 by launching a dedicated project to catalog best practices for coding agents like Claude Code and OpenAI Codex. [^39lvc5] Facing the "new era of coding agent development," he documented workflows such as red/green TDD, where agents write tests first then code to pass them, yielding "more succinct and reliable code with minimal extra prompting."[^39lvc5] [^05arys] This evolved his initial definition from a 2025 blog post, emphasizing agent autonomy via code execution over turn-by-turn human guidance. [^05arys] [^gn2fwy] The result: accessible, open patterns that professionals adopt to accelerate work without sacrificing rigor, demonstrating agentic engineering's indie roots in practical tooling over corporate hype. [^39lvc5]
+Simon Willison, an indie developer known for [[Tooling/Data Utilities/Datasette]] and LLMS, pioneered agentic engineering patterns in February 2026 by launching a dedicated project to catalog best practices for coding agents like Claude Code and OpenAI Codex. [^39lvc5] Facing the "new era of coding agent development," he documented workflows such as red/green TDD, where agents write tests first then code to pass them, yielding "more succinct and reliable code with minimal extra prompting."[^39lvc5] [^05arys] This evolved his initial definition from a 2025 blog post, emphasizing agent autonomy via code execution over turn-by-turn human guidance. [^05arys] [^gn2fwy] The result: accessible, open patterns that professionals adopt to accelerate work without sacrificing rigor, demonstrating agentic engineering's indie roots in practical tooling over corporate hype. [^39lvc5]
 
 LangChain's 2026 pilot deployed agentic engineering as a "multi-agent coordination model" with worker agents handling development, testing, and debugging like a "loosely coupled engineering team."[^4kgd3g] In 20+ workflows, it achieved a 93% reduction in time-to-root-cause and 65% faster execution, saving 200+ hours in one month by compressing testing—not just code gen. [^4kgd3g] Unlike single-session coders like Codex, their system added a "control plane" for long-term memory and traceability across the delivery lifecycle, with coding agents nested inside workers. [^4kgd3g] This showed agentic engineering's power in structural shifts: reducing coordination overhead and redefining human roles to high-value oversight, proving small teams can outpace incumbents via swarm architectures. [^4kgd3g]
 

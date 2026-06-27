@@ -1,20 +1,23 @@
 ---
 url: https://www.15five.com/
 date_created: 2025-07-04
-date_modified: 2026-05-19
+date_modified: 2026-06-22
 og_title: Continuous Performance Management Software | 15Five
 og_description: 15Five is the performance management platform that creates effective managers, highly engaged employees, and top-performing organizations.
-og_image: "[]"
+og_image: https://focuslab-cms.imgix.net/shared/15five_logo.png?ar=16%3A9&auto=format&crop=focalpoint&fit=crop&fp-debug=false&fp-x=0.5&fp-y=0.5&ixlib=php-3.1.0&q=100&width=2432&s=11a4c67f94342cb7c1319fb8ee72142f
 og_favicon: https://www.15five.com/hubfs/15five_July2022/images/cropped-favicon-270x270.png
-og_last_fetch: 2026-05-19T22:02:34.386Z
+og_last_fetch: 2026-06-22T03:02:31.592Z
 tags:
   - Continuous-Performance-Management
   - HR-Solutions
   - Management-Strategies
   - Engineering-Management-Tools
   - Engineering-Management
+  - Founder-Toolkit
+  - Lossless-Toolkit
 for_clients:
   - Laerdal
+  - Param
 publish: true
 title: 15Five
 slug: 15five
@@ -26,7 +29,7 @@ cf_last_run_model: Perplexity sonar-deep-research
 
 # 15Five: A Comprehensive Company and Product Profile
 
-15Five is a human‑centered performance management platform that combines continuous feedback, structured reviews, engagement measurement, and manager coaching to create effective managers, highly engaged employees, and top‑performing organizations. [^y0i8f6] [^3rrzvv] [^y0i8f6] [^aal0ti] Founded in 2011 and headquartered in San Francisco, the company has evolved from a simple weekly “15-minute check‑in” concept into a mid‑market platform used by fast‑growing organizations that want to embed continuous performance and engagement practices without adopting a heavyweight HCM suite. [^5k0x9v] [^5k0x9v] [^9xb3pw] [^9xb3pw] [^3rrzvv] With an estimated annual revenue on the order of fifty million dollars and roughly 240 employees, 15Five sits in the center of the rapidly growing HR technology market, focusing specifically on continuous performance management, employee engagement, and manager effectiveness rather than core HR or payroll. [^9xb3pw] [^9xb3pw] [^9xb3pw] [^9xb3pw] [^88n7hh] [^t5ig8q] The platform’s architecture combines weekly check‑ins, Best‑Self performance reviews, OKR/goal tracking, 1‑on‑1s, pulse and engagement surveys, AI‑assisted manager coaching, analytics, and integrations with HRIS systems and tools like Rippling, offering HR teams and line managers a cohesive operating system for performance and culture. [^l64bou] [^4z9e4k] [^77pl4q] [^uj9jqr] [^74axyo] [^i8fdpb] [^i8fdpb]
+15Five is a human‑centered [[concepts/Continuous Performance Management|Continuous Performance Management]] platform that combines continuous feedback, structured reviews, engagement measurement, and manager coaching to create effective managers, highly engaged employees, and top‑performing organizations. [^y0i8f6] [^3rrzvv] [^y0i8f6] [^aal0ti] Founded in 2011 and headquartered in San Francisco, the company has evolved from a simple weekly “15-minute check‑in” concept into a mid‑market platform used by fast‑growing organizations that want to embed continuous performance and engagement practices without adopting a heavyweight [[concepts/Human Capital Management Platforms|HCM]] suite. [^5k0x9v] [^5k0x9v] [^9xb3pw] [^9xb3pw] [^3rrzvv] With an estimated annual revenue on the order of fifty million dollars and roughly 240 employees, 15Five sits in the center of the rapidly growing HR technology market, focusing specifically on continuous performance management, employee engagement, and manager effectiveness rather than core HR or payroll. [^9xb3pw] [^9xb3pw] [^9xb3pw] [^9xb3pw] [^88n7hh] [^t5ig8q] The platform’s architecture combines weekly check‑ins, Best‑Self performance reviews, [[concepts/Objectives & Key Results|OKRs]]/goal tracking, 1‑on‑1s, pulse and engagement surveys, AI‑assisted manager coaching, analytics, and integrations with HRIS systems and tools like Rippling, offering HR teams and line managers a cohesive operating system for performance and culture. [^l64bou] [^4z9e4k] [^77pl4q] [^uj9jqr] [^74axyo] [^i8fdpb] [^i8fdpb]
 
 ## Value Proposition & Features
 
