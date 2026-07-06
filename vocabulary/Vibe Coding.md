@@ -1,6 +1,6 @@
 ---
 url: null
-date_modified: 2026-06-17
+date_modified: 2026-07-01
 site_uuid: dbbec104-be64-47a6-8413-05079caad984
 date_created: 2025-04-06
 ---
@@ -29,7 +29,10 @@ https://youtu.be/nLgmTis9uM0?si=i2d_9FLvI-bNnMfK
 The term **"Vibe Coding" was coined by [[Sources/People/Andrej Karpathy|Andrej Karpathy]] in February 2025**. He introduced it in a post on X (formerly Twitter), describing a new style of programming where developers "fully give in to the vibes," leveraging large language models ([[Vocabulary/Large Language Models|LLMs]]) to generate code based on high-level, conversational instructions instead of traditional, manual implementation. [^qb31rd] [^qwxz4u] [^dbzx3h] [^q0pow1] While some sources mistakenly cite dates as early as 2023, the consensus among authoritative sources—including Wikipedia and interviews with Karpathy—confirms the February 2025 origin. [^qb31rd] [^qwxz4u] [^dbzx3h]
 
 #### Vibe Coding is Controversial
+
 https://youtu.be/1A6uPztchXk?si=ePNZBYetEgFhyT4q
+
+https://youtu.be/sGYvGUkerA0?is=twfUCxGm5mx0EtyL
 
 ### **How and Why Did "Vibe Coding" Become Popular So Quickly?**
 
@@ -78,7 +81,7 @@ A screenshot mock-up of a coding assistant chat interface:
 | Mar 2025         | Merriam-Webster adds to slang list | Official mainstream recognition[^dbzx3h]                         |
 | Spring 2025      | Developer blogs, podcasts, tutorials| Adoption explodes as major LLM tools demonstrate approach  |
 
-**In essence, "Vibe Coding" became a phenomenon because AI reached a [[concepts/Tipping Point]], the developer community was ready for a new paradigm, and Karpathy’s timely articulation of the concept gave it both a name and a movement.**
+**In essence, "Vibe Coding" became a phenomenon because AI reached a [[concepts/Tipping Point|Tipping Point]], the developer community was ready for a new paradigm, and Karpathy’s timely articulation of the concept gave it both a name and a movement.**
 
 ***
 

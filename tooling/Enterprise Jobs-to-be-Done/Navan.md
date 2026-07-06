@@ -1,8 +1,11 @@
 ---
 date_created: 2025-11-26
-date_modified: 2025-11-28
+date_modified: 2026-06-30
 url: https://navan.com/
-tags: [Enterprise-Jobs-To-Be-Done, Accounting-AI]
+tags:
+  - Enterprise-Jobs-To-Be-Done
+  - Accounting-AI
+  - Travel-Agents
 site_uuid: 83cec00e-4f3b-494b-a249-e771e91d1ebc
 publish: true
 title: Navan
@@ -15,3 +18,4 @@ og_favicon: https://navan.com/favicon.ico
 og_last_fetch: 2025-11-28T17:51:40.198Z
 site_name: Navan
 ---
+

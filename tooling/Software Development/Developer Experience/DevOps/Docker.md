@@ -9,12 +9,13 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:09.462Z
 jina_error: Error occurred
 og_last_fetch: 2025-06-05T20:00:13.485Z
-date_modified: 2026-06-06
+date_modified: 2026-06-29
 date_created: 2025-03-30
 tags:
   - Software-Development
   - DevOps
   - Container-Management-Tools
+  - Market-Standard-Tools
 cf_last_run: 2026-06-06T05:11:10.864Z
 cf_last_run_model: Perplexity sonar-pro
 ---
@@ -25,6 +26,11 @@ cf_last_run_model: Perplexity sonar-pro
 “[18 Weird and Wonderful ways I use Docker](https://youtu.be/RUqGlWr5LBA?si=beBc8yv-4_PwEB4Q)” on [[YouTube]] by [[NetworkChuck]]
 
 [[essays/How Docker Changed Everything|How Docker Changed Everything]]
+
+https://youtu.be/gUjVnq9hhTE?is=o3sqTPoZpcYow11B
+
+[[Tooling/Software Development/Developer Experience/DevOps/ContainerD|ContainerD]]
+[[Tooling/Software Development/Cloud Infrastructure/Podman|Podman]]
 
 ##### Docker focuses on [[concepts/Getting Started|Getting Started]]
 [[concepts/Getting Started|Getting Started]] manages the Docker [[Visual Studio Code|VS Code]] [[Plug-ins,  Add-ons,  Extensions|Extension]], which immediately thrusts the user into [[concepts/Getting Started|Getting Started]] documentation.

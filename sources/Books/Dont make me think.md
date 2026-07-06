@@ -1,11 +1,13 @@
 ---
 amazon_url: https://a.co/d/1SUwwui
 date_created: 2025-08-08
-date_modified: 2026-05-12
+date_modified: 2026-06-27
 site_uuid: 0b0818ad-64e8-4481-b881-3a2fe97a2cd6
 title: Don't Make Me Think
 slug: dont-make-me-think
 at_semantic_version: 0.0.1.1
+aliases:
+  - Don't Make Me Think
 ---
 Influential in [[User Interface]] design and [[client-content/Laerdal/Sources/Laerdal Entities/Customer Experience]].
 

@@ -1,11 +1,14 @@
 ---
-date_modified: 2025-08-11
+date_modified: 2026-06-27
 site_uuid: 0a911e3d-8642-4646-9da1-8878c5281a18
 date_created: 2025-04-06
-aliases: [UI]
+aliases:
+  - UI
+  - User Interfaces
+  - UIs
 ---
 
-[[Sources/Books/Dont make me think]]
+[[Sources/Books/Dont make me think|Don't Make Me Think]]
 
 [[concepts/Atomic Design|Atomic Design]]
 
@@ -13,7 +16,7 @@ aliases: [UI]
 
 [[JavaScript]]
 
-[[Tooling/Creative/Rive]]
+[[Tooling/Creative/Rive|Rive]]
 
 [[Tooling/Creative/Figma|Figma]]
 
@@ -32,3 +35,5 @@ https://youtu.be/-h9rH539x1k?si=skFnnJb-GxBSGJ7f
 https://youtu.be/tNGDgK0aMjA?si=UFSoKYyNUrxxJXLB
 
 https://youtu.be/1NTKwpAVcHg?si=rGaVu0lNdJBtFX9_
+
+https://youtu.be/f32W5BEzWN0?is=_2yWor_N2Ap7SfCL

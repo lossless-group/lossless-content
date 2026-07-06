@@ -1,7 +1,8 @@
 ---
-date_modified: 2025-07-24
+date_modified: 2026-07-01
 site_uuid: 079858df-0339-4d65-8cdd-d37f12e51d74
 date_created: 2025-04-06
+url: https://module-federation.io/
 ---
 
 [[Vite Federation Plugin]]

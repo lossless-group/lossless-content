@@ -1,20 +1,30 @@
 ---
 date_created: 2025-11-26
-date_modified: 2025-12-02
+date_modified: 2026-06-27
 site_uuid: 181631bd-355b-49ce-8b2d-0432d9792a1b
 publish: true
 title: Situational Awareness
 slug: situational-awareness
 at_semantic_version: 0.0.0.1
-tags: [Conceptual-Frameworks, State-of-the-Art]
+authors:
+  - Michael Staton
+augmented_with: Perplexity AI
+url: "https://situational-awareness.ai/"
+tags:
+  - Conceptual-Frameworks
+  - State-of-the-Art
 for_clients:
   - Parslee
   - Param
   - Dynamiq
-authors:
-  - Michael Staton
-augmented_with: Perplexity AI
+
+og_image: "https://situational-awareness.ai/wp-content/uploads/2024/06/Benne-11.png"
+og_favicon: "https://situational-awareness.ai/wp-content/uploads/2024/06/cropped-Untitled-design-1-32x32.png"
+og_site_name: "SITUATIONAL AWARENESS - The Decade Ahead"
+og_type: "website"
+og_last_fetch: "2026-06-27T20:03:45.854Z"
 ---
+[[Leopold Aschenbrenner|Leo Aschenbrenner]]
 
 
 ***

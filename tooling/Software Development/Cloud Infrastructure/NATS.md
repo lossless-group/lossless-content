@@ -7,7 +7,7 @@ favicon: https://nats.io/favicon.ico
 jina_last_request: 2025-03-09T06:45:09.605Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:19:02.928Z
-date_modified: 2026-05-22
+date_modified: 2026-07-01
 date_created: 2025-03-30
 tags:
   - Software-Development
@@ -19,6 +19,7 @@ url: https://nats.io/
 description_site_cp: NATS provides an always-on messaging system, encompassing traditional pubsub with interest-based propagation, persistence with streaming replays, key/value storage and object storage. NATS provides a flexible set of powerful authentication and authorisation access controls.
 cf_last_run: 2026-05-22T06:47:23.122Z
 cf_last_run_model: Perplexity sonar-reasoning-pro
+docs_url: https://docs.nats.io/reference/faq
 ---
 
 

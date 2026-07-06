@@ -8,7 +8,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:19.678Z
 jina_error: Error occurred
 og_last_fetch: 2025-05-29T17:00:56.533Z
-date_modified: 2026-06-06
+date_modified: 2026-06-27
 date_created: 2025-03-30
 og_image: https://www.postgresql.org/media/img/about/press/elephant.png
 og_url: https://www.postgresql.org/
@@ -18,11 +18,16 @@ tags:
   - Databases
   - Database
   - Multi-Modal-Databases
+  - Solutions-For-Scale
+  - Open-Source-Alternatives
+  - Market-Standard-Tools
 aliases:
   - PostgreSQL
 ---
 
 https://youtu.be/0hD4K3Ab3Fc?si=arS32PACg1m3UIxO
+
+https://youtu.be/_CB_Aa2ODeM?is=IVptcjNHV4uMryZC
 
 
 # Releases
@@ -32,7 +37,7 @@ https://youtu.be/0hD4K3Ab3Fc?si=arS32PACg1m3UIxO
 | 17.2    | 2024-11-21 | [PostgreSQL 17.2, 16.6, 15.10, 14.15, 13.18, and 12.22 Released!](https://www.postgresql.org/about/news/postgresql-172-166-1510-1415-1318-and-1222-released-2965/) |
 
 ## Learning Resources
-[[Sources/Media/Geeks for Geeks]] has an [interactive tutorial here](https://www.geeksforgeeks.org/postgresql-tutorial/?ref=outind).
+[[Sources/Media/Geeks for Geeks|Geeks for Geeks]] has an [interactive tutorial here](https://www.geeksforgeeks.org/postgresql-tutorial/?ref=outind).
 
 
 ***
@@ -46,11 +51,11 @@ Postgres, formally known as PostgreSQL, is a powerful open-source [[Vocabulary/R
 
 ![Postgres concept diagram or illustration](https://kinsta.com/wp-content/uploads/2022/02/postgresql-architecture.jpg)
 
-Introduced in the 1980s as the successor to the Ingres project at the [[organizations/UC Berkeley|University of California, Berkeley]], Postgres was envisioned to support complex data types beyond simple tables. [^o7pk1d] [^4i1g21] [^heibh2] Today, it operates as an object-relational database, which means it handles both structured (relational) and [[Vocabulary/Semi-Structured Data]] (object-style, e.g., JSON) data with equal finesse. [^nie1dv] [^c8afzt] Data in Postgres is stored in tables—grids of rows and columns—but the system can also handle arrays, geometric paths, documents, and custom types created by developers. [^nie1dv]
+Introduced in the 1980s as the successor to the Ingres project at the [[organizations/UC Berkeley|University of California, Berkeley]], Postgres was envisioned to support complex data types beyond simple tables. [^o7pk1d] [^4i1g21] [^heibh2] Today, it operates as an object-relational database, which means it handles both structured (relational) and [[Vocabulary/Semi-Structured Data|Semi-Structured Data]] (object-style, e.g., JSON) data with equal finesse. [^nie1dv] [^c8afzt] Data in Postgres is stored in tables—grids of rows and columns—but the system can also handle arrays, geometric paths, documents, and custom types created by developers. [^nie1dv]
 
 Real-world applications of Postgres are widespread and diverse:
 
-- **Back-end for web and mobile applications:** Popular websites and modern apps use Postgres to store user data, transactions, and content, thanks to its scalability and performance. [^c8afzt]
+- **[[Vocabulary/Backend Development|Back-End]] for web and mobile applications:** Popular websites and modern apps use Postgres to store user data, transactions, and content, thanks to its scalability and performance. [^c8afzt]
 - **Retail and banking:** Banks use Postgres to maintain customer accounts and transaction histories securely, taking advantage of its ACID-compliant transactions for data integrity. [^nie1dv] [^heibh2]
 - **Geospatial analytics:** Extensions such as PostGIS make Postgres ideal for mapping services, logistics, and geographic information systems. [^heibh2]
 - **Scientific data and time-series analysis:** Postgres can be extended (with plugins or user-defined functions) to efficiently manage engineering, scientific, or time-dependent datasets. [^4i1g21] [^heibh2]

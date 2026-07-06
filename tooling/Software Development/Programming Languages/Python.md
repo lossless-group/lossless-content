@@ -1,6 +1,6 @@
 ---
 site_uuid: 1221b009-9784-4163-8235-d933e638e787
-date_modified: 2025-06-06
+date_modified: 2026-07-01
 date_created: 2025-03-30
 url: 'https://www.python.org/'
 og_image: 'https://www.python.org/static/opengraph-icon-200x200.png'
@@ -18,6 +18,8 @@ https://youtu.be/cRCVRupjiQw?si=4hrcz1kXqnY5vDoy
 https://youtu.be/wFpTTFI3DIg?si=tuBYF38N58yMcaui
 
 https://youtu.be/Yh5gcLG6C3Q?si=oCK2rPPT5bZ8iqNC
+
+https://youtu.be/fz-aePDS5bo?is=toNpIiv9-SxHhvmo
 
 [[uv]]
 

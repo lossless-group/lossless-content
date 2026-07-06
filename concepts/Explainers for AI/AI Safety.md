@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-27
-date_modified: 2026-05-26
+date_modified: 2026-06-27
 site_uuid: 28546806-88c3-4c82-9098-1f83aaf1bd33
 publish: true
 title: AI Safety
@@ -53,3 +53,4 @@ In summary, AI Safety is an essential field guarding against the misuse and unin
 
 [^sf096g]: 2025, May 23. [What Is AI Safety? What Do We Want It to Be?](https://arxiv.org/html/2505.02313v1). Published: 2025-05-05 | Updated: 2025-05-23
 
+[^9znziq]: 2023, Jul 05. "[Introducing Superalignment | OpenAI](https://openai.com/index/introducing-superalignment/)". Ilya Sutskever and Jan Leike. [OpenAI](https://openai.com).

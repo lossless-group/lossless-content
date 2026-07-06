@@ -13,7 +13,7 @@ for_clients:
   - Laerdal
   - Param
 ---
-[[Jevon's Paradox]]
+[[Vocabulary/Jevon's Paradox]]
 [[Sources/Books/Thinking, Fast and Slow|Thinking, Fast and Slow]]
 [[Sources/Books/Nudge|Nudge]]
 ***

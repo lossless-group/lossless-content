@@ -1,7 +1,7 @@
 ---
 url: https://www.thevccorner.com/
 date_created: 2025-12-12
-date_modified: 2025-12-12
+date_modified: 2026-06-30
 og_title: The VC Corner | Ruben Dominguez | Substack
 og_description: "The VC Corner is where founders stay ahead: sharp news, fundraising strategies, battle-tested playbooks, and the tools to grow. Click to read The VC Corner, by Ruben Dominguez, a Substack publication with hundreds of thousands of subscribers."
 og_image: https://substackcdn.com/image/fetch/$s_!aFxq!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fthevccorner.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1266304925%26version%3D9
@@ -15,3 +15,5 @@ at_semantic_version: 0.0.0.1
 tags: [Newsletter-Sources, Venture-Perspectives]
 ---
 [[Sources/Media/Substack|Substack]]
+
+[^2n9lx3]: 2025, Apr. "[AI Agents Are Coming: The Agentic Revolution Explained | Thevccorner](https://www.thevccorner.com/p/agentic-revolution-ai-agents)". Ivan Landabaso. [Thevccorner](https://www.thevccorner.com).

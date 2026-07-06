@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-30
-date_modified: 2026-06-15
+date_modified: 2026-06-30
 site_uuid: 8babe509-0827-4af4-bbfb-77957bf7482e
 aliases: [AI Agents, AI Agent, Agent, Agents]
 publish: true
@@ -117,21 +117,23 @@ Several companies are gaining traction with Agentic AI solutions:
 ***
 # Sources
 
-[^ncpm1r]: What is Agentic AI? Key Benefits & Features - Automation Anywhere https://www.automationanywhere.com/rpa/agentic-ai
-[^2vzkqo]: Agentic AI: How It Works, Benefits, Comparison With Traditional AI https://www.datacamp.com/blog/agentic-ai
-[^07mh1m]: AI Expert Interview: The Benefits And Drawbacks Of Agentic AI https://www.mindset.ai/blogs/the-benefits-of-ai-agents
-[^8kqy46]: Agentic AI Leaders - Put It Forward https://www.putitforward.com/agentic-ai-leaders
-[^ageya6]: What Is Agentic AI, and Why Does It Matter for Your Business? https://aiveda.io/blog/what-is-agentic-ai-and-why-does-it-matter-for-your-business
-[^8m5l2p]: What is Agentic AI? - Aisera https://aisera.com/blog/agentic-ai/
-[^u6e6u9]: What is Agentic AI | Moveworks https://www.moveworks.com/us/en/resources/blog/what-is-agentic-ai
-[^t9ybof]: Agentic AI in healthcare: Benefits, use cases, and future potential https://www.softwebsolutions.com/resources/agentic-ai-use-cases-in-healthcare.html
-[^5tbpn8]: ServiceNow Unveils New Agentic AI Innovations to Autonomously ... https://www.businesswire.com/news/home/20250129031509/en/ServiceNow-Unveils-New-Agentic-AI-Innovations-to-Autonomously-Solve-the-Most-Complex-Enterprise-Challenges
-[^k7iv8y]: What is Agentic AI? - Moveworks https://www.moveworks.com/us/en/resources/ai-terms-glossary/agentic-ai
-[^s8x8ua]: What Is Agentic AI? | IBM https://www.ibm.com/think/topics/agentic-ai
-[^qp6ohe]: Why Agentic AI is the Next Big Thing in the Business Industry https://www.testingxperts.com/blog/agentic-ai-in-business-industry/
-[^swz3pf]: The Rise of Agentic AI for Enterprises - Codeninja inc. https://codeninjaconsulting.com/blog/agentic-ai-for-enterprises
+[^ncpm1r]: [What is Agentic AI? Key Benefits & Features - Automation Anywhere](https://www.automationanywhere.com/rpa/agentic-ai)
+[^2vzkqo]: [Agentic AI: How It Works, Benefits, Comparison With Traditional AI](https://www.datacamp.com/blog/agentic-ai)
+[^07mh1m]: [AI Expert Interview: The Benefits And Drawbacks Of Agentic AI](https://www.mindset.ai/blogs/the-benefits-of-ai-agents)
+[^8kqy46]: [Agentic AI Leaders - Put It Forward](https://www.putitforward.com/agentic-ai-leaders)
+[^ageya6]: [What Is Agentic AI, and Why Does It Matter for Your Business?](https://aiveda.io/blog/what-is-agentic-ai-and-why-does-it-matter-for-your-business)
+[^8m5l2p]: [What is Agentic AI? - Aisera](https://aisera.com/blog/agentic-ai/)
+[^u6e6u9]: [What is Agentic AI | Moveworks](https://www.moveworks.com/us/en/resources/blog/what-is-agentic-ai)
+[^t9ybof]: [Agentic AI in healthcare: Benefits, use cases, and future potential](https://www.softwebsolutions.com/resources/agentic-ai-use-cases-in-healthcare.html)
+[^5tbpn8]: [ServiceNow Unveils New Agentic AI Innovations to Autonomously ...](https://www.businesswire.com/news/home/20250129031509/en/ServiceNow-Unveils-New-Agentic-AI-Innovations-to-Autonomously-Solve-the-Most-Complex-Enterprise-Challenges)
+[^k7iv8y]: [What is Agentic AI? - Moveworks](https://www.moveworks.com/us/en/resources/ai-terms-glossary/agentic-ai)
+[^s8x8ua]: [What Is Agentic AI? | IBM](https://www.ibm.com/think/topics/agentic-ai)
+[^qp6ohe]: [Why Agentic AI is the Next Big Thing in the Business Industry](https://www.testingxperts.com/blog/agentic-ai-in-business-industry/)
+[^swz3pf]: [The Rise of Agentic AI for Enterprises - Codeninja inc.](https://codeninjaconsulting.com/blog/agentic-ai-for-enterprises)
 
 [^r354f7]: 2025, Apr. "[The AI Agent Wars: Claude Computer Use vs Agents — What’s Really Going On? | Medium](https://medium.com/@max.petrusenko/the-ai-agent-wars-claude-computer-use-vs-agents-whats-really-going-on-c4bbdb560d31)". Max Petrusenko. [Medium](https://medium.com).
 
 [^a3kobt]: 2025, Nov. "[Agent-Omni: Test-Time Multimodal Reasoning via Model Coordination for Understanding Anything | arXiv.org](https://arxiv.org/abs/2511.02834)". Huawei Lin and 5 other authors. [arXiv.org](https://arxiv.org).
+
+[^2n9lx3]: 2025, Apr. "[AI Agents Are Coming: The Agentic Revolution Explained | Thevccorner](https://www.thevccorner.com/p/agentic-revolution-ai-agents)". Ivan Landabaso. [Thevccorner](https://www.thevccorner.com).
 

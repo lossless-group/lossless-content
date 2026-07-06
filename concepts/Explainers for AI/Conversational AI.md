@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-08
-date_modified: 2025-08-08
+date_modified: 2026-06-27
 site_uuid: b105d6c1-6397-4287-9273-acbbb8b51626
 publish: true
 title: Conversational AI
@@ -18,3 +18,4 @@ tags: [Conversational-AI, Chat-Interfaces]
 [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/MSTY|MSTY]]
 :::
 
+https://youtu.be/f32W5BEzWN0?is=_2yWor_N2Ap7SfCL

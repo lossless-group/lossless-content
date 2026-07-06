@@ -1,13 +1,22 @@
 ---
-date_modified: 2025-09-27
+date_modified: 2026-07-02
 site_uuid: 8eb20d11-8750-47e2-99ae-d47e66d4fc9e
 date_created: 2025-04-06
-aliases: [Documentation First, Spec-Driven Development]
+aliases:
+  - Documentation First
+  - Spec-Driven Development
 publish: true
 title: Documentation-First Development
 slug: documentation-first-development
 at_semantic_version: 0.0.1.1
-tags: [State-Of-The-Art-Practices, Documentation-First-Development, Documentation-Engines]
+tags:
+  - State-Of-The-Art-Practices
+  - Documentation-First-Development
+  - Documentation-Engines
+  - Code-Generators
+  - Vibe-Coding-Workflow
+  - Vibe-Coding-Practices
+  - Context-Engineering-Kits
 covers_tags:
   - Documentation-First-Development
   - Documentation-Engines
@@ -16,6 +25,14 @@ authors:
   - Ida Soboleva
   - Slava Sobolev
 ---
+[[concepts/Documentation First Development|Spec-Driven Development]]
+[[Tooling/AI-Toolkit/Generative AI/Code Generators/OpenSpec|OpenSpec]]
+[[GitHub Spec Kit|Spec Kit]]
+
+https://youtu.be/b6cbxSaa4U4?is=bmct6JAp0B20JV4_
+
+
+https://youtu.be/sGYvGUkerA0?is=lJIrzHJOfFPECWSw
 
 The role of [[Documentation]] in becoming a [[concepts/State of the Art|State of the Art]] technology platform is becoming more and more central.  
 

@@ -14,5 +14,5 @@ title: Dialpad
 slug: dialpad
 at_semantic_version: 0.0.0.1
 ---
-[[Tooling/Enterprise Jobs-to-be-Done/OpenPhone]]
+[[Tooling/Enterprise Jobs-to-be-Done/Quo]]
 [[Tooling/Enterprise Jobs-to-be-Done/Cloudtalk|Cloudtalk]]

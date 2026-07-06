@@ -3,7 +3,7 @@ site_uuid: "541235f6-b488-4042-8a76-9f144ccccf36"
 title: "OpenAI"
 url: "https://openai.com/"
 site_visibility: "public"
-date_modified: 2026-06-17
+date_modified: 2026-06-27
 date_created: 2025-01-31
 og_image: "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/cdb0e2f899f524abb71314ab20e09c9c/OAI-white-on-black.png?w=1600&h=900&fit=fill"
 description: "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and beneficial AGI is our mission."
@@ -130,3 +130,4 @@ https://youtu.be/uW8C6u-fwVo?si=3QV6TDUGhIDWc6xH
 [^qlt1ha]: [12 Jaw Dropping OpenAI-O1 Use Cases in 2024 [October] - Redblink](https://redblink.com/openai-o1-use-cases/)
 [^5wmaur]: [Introducing OpenAI o1-preview](https://openai.com/index/introducing-openai-o1-preview/)
 [^tdnm5o]: [23 OpenAI Enterprise Use Cases for 2023 | Business AI Revolution](https://www.tractiontechnology.com/blog/transforming-business-in-2023-23-openai-use-cases-for-the-enterprise)
+[^9znziq]: 2023, Jul 05. "[Introducing Superalignment | OpenAI](https://openai.com/index/introducing-superalignment/)". Ilya Sutskever and Jan Leike. [OpenAI](https://openai.com).
