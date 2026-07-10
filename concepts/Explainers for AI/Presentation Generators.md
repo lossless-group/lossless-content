@@ -1,5 +1,5 @@
 ---
-date_modified: 2026-05-30
+date_modified: 2026-07-07
 site_uuid: da306583-9e89-4a8f-bc5c-f638503d2bcd
 date_created: 2025-04-06
 tags: [Presentation-Generators, Slide-Decks, Slide-Presentations, AI-Native, Generative-AI, Enterprise-Jobs-To-Be-Done, Digital-Marketing-Tools, Sales-Tools, Explainers, Market-Standard-Tools]
@@ -24,6 +24,7 @@ Presentation Generator platforms are built *specifically* for presentation desig
 - [[Tooling/Productivity/Gamma|Gamma]]
 - [[Tooling/AI-Toolkit/Generative AI/Beautiful.ai|Beautiful.ai]]
 - [[Tooling/AI-Toolkit/Generative AI/Decktopus AI|Decktopus AI]]
+- [[Tooling/AI-Toolkit/Generative AI/Dokie]]
 :::
 
 ### Gamma
@@ -85,7 +86,7 @@ The enterprise default — AI baked directly into [[PowerPoint]], with [[Tooling
 
 ## ⚠️ Notable Departure: Tome (Sunset April 2025)
 
-[[Tome]] shut down its presentation product in April 2025 after failing to find a sustainable business model, pivoted to sales automation (rebranding as **Lightfield**), and sold the brand to AngelList. Users who didn't export their decks lost their data permanently. Gamma is considered the closest aesthetic match for former Tome users. [^k6a0aj]
+[[Tooling/AI-Toolkit/Generative AI/Tome]] shut down its presentation product in April 2025 after failing to find a sustainable business model, pivoted to sales automation (rebranding as **Lightfield**), and sold the brand to AngelList. Users who didn't export their decks lost their data permanently. Gamma is considered the closest aesthetic match for former Tome users. [^k6a0aj]
 
 ***
 

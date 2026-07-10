@@ -5,8 +5,14 @@ aliases:
   - Distributed File System
   - DFS
 date_created: 2026-06-08
-date_modified: 2026-06-17
+date_modified: 2026-07-07
+site_uuid: 9f0e4e5e-41e0-469d-877b-6d58667fa73a
+publish: true
+title: "Distributed File Systems"
+slug: distributed-file-systems
+at_semantic_version: 0.0.0.1
 ---
+[[Tooling/Software Development/DevOps/BeeGFS]]
 
 # Defining and Describing Distributed File Systems
 
@@ -69,7 +75,7 @@ Distributed file systems are sometimes contrasted with **parallel file systems (
 - **[Hadoop Distributed File System (HDFS)](https://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html)** – An open‑source DFS inspired by GFS that stores large datasets across clusters of commodity hardware, providing high throughput and fault tolerance for MapReduce and other big‑data workloads. [^mbi1l4] [^4jh5jy]  
 - **[CephFS](https://docs.ceph.com)** – An open‑source, software‑defined storage platform that includes CephFS, a POSIX‑compatible distributed file system built on top of a reliable object store and distributed metadata services. [^mbi1l4]  
 - **[GlusterFS](https://www.gluster.org)** – A scalable, open‑source distributed file system that aggregates storage from multiple servers into a single global namespace, widely used by smaller organizations and self‑hosters for flexible DFS deployments. [^4jh5jy]  
-- **[BeeGFS](https://www.beegfs.io)** – [[BeeGFS]] A distributed parallel file system originating from Fraunhofer that uses distributed metadata and file striping to deliver high performance for HPC and AI workloads while still presenting a unified filesystem interface. [^86vger]  
+- **[BeeGFS](https://www.beegfs.io)** – [[Tooling/Software Development/DevOps/BeeGFS]] A distributed parallel file system originating from Fraunhofer that uses distributed metadata and file striping to deliver high performance for HPC and AI workloads while still presenting a unified filesystem interface. [^86vger]  
 - **[Microsoft Distributed File System (DFS Namespaces/DFS Replication)](https://learn.microsoft.com/windows-server/storage/dfs-namespaces/dfs-overview)** – A Windows Server feature set that lets administrators create a single namespace for shared folders located on different servers and configure replication for redundancy and load distribution. [^0agdbw]  
 - [[Tooling/Enterprise Jobs-to-be-Done/JuiceFS|JuiceFS]]
 - 

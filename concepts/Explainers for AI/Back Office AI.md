@@ -1,6 +1,6 @@
 ---
 date_created: 2026-05-06
-date_modified: 2026-05-09
+date_modified: 2026-07-07
 site_uuid: ad98e368-b7cf-48a4-9c33-a79fcfe2d234
 publish: true
 title: Back Office AI
@@ -20,9 +20,11 @@ for_clients:
 [[concepts/Explainers for AI/Accounting AI|Accounting AI]]
 [[concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]]
 [[Vocabulary/Enterprise Resource Planning|Enterprise Resource Planning]]
-[[Vocabulary/Enterprise Knowledge Management]]
+[[Vocabulary/Enterprise Knowledge Management|Enterprise Knowledge Management]]
 [[concepts/Explainers for AI/Knowledge Base AI|Knowledge Base AI]]
-[[concepts/Business Process Outsourcing]]
+[[concepts/Business Process Outsourcing|Business Process Outsourcing]]
+
+[[Tooling/Enterprise Jobs-to-be-Done/Factorial|Factorial]]
 
 
 

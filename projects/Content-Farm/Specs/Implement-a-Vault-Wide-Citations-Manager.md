@@ -52,7 +52,7 @@ Our team uses [[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]] to m
 
 Our previous work can be found in the prompt entitled [[lost-in-public/prompts/data-integrity/Integrate-Citations-Format-Hex-into-Observer|Integrate-Citations-Format-Hex-into-Observer]].  
 ### AI Generated Content & Unmanageable References
-[[Tooling/AI-Toolkit/Models/Perplexica|Perplexica]] and [[organizations/Perplexity AI|Perplexity AI]] are examples of [[Vocabulary/Large Language Models|LLMs]] that perform live web searches and include citations and references.
+[[Tooling/AI-Toolkit/Models/Vane|Vane]] and [[organizations/Perplexity AI|Perplexity AI]] are examples of [[Vocabulary/Large Language Models|LLMs]] that perform live web searches and include citations and references.
 
 They often use basic numeric citations, in the form `[1]` where the value 1 could be any integer, so `[int]`. 
 

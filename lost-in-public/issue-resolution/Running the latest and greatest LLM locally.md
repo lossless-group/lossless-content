@@ -35,5 +35,5 @@ Install [[LiteLLM]]
 
 #### [[Fabric]]
 
-#### [[Perplexica]]
+#### [[Tooling/AI-Toolkit/Models/Vane]]
 Depends on [[Tooling/AI-Toolkit/AI Interfaces/OLlama]] for the [[Local LLM|local gateway]], but also connects to [[Anthropic]], [[Tooling/AI-Toolkit/Model Producers/Groq|Groq]], and 

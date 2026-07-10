@@ -1,7 +1,7 @@
 ---
 tags: [Agentic-Engineering, Context-Engineering, Context-Vigilance, State-of-the-Art, Explainers]
 date_created: 2026-06-19
-date_modified: 2026-06-22
+date_modified: 2026-07-07
 cf_last_run: "2026-06-22T23:30:34.384Z"
 cf_last_run_model: "Perplexity sonar-pro"
 for_clients:
@@ -24,6 +24,9 @@ https://youtu.be/1a1VXDdIyrk?is=tar1Ksp2Bil6v4G9
 [[Tooling/AI-Toolkit/Agentic AI/OpenCode|OpenCode]]
 [[Tooling/Software Development/Developer Experience/DevTools/Pi Coding Agent|Pi.dev]]
 [[Tooling/AI-Toolkit/Generative AI/Code Generators/Claude Code|Claude Code]]
+[[Tooling/AI-Toolkit/Agentic AI/OpenClaw|OpenClaw]]
+[[Tooling/AI-Toolkit/Agentic AI/Hermes Agent|Hermes Agent]]
+
 
 [[concepts/Explainers for AI/Agentic Engineering|Agentic Engineering]]
 
@@ -31,7 +34,7 @@ https://youtu.be/1a1VXDdIyrk?is=tar1Ksp2Bil6v4G9
 
 _An **agent harness** is the practical “rigging” that turns a raw language model into a reliable, constrained, and context-aware agent that can safely do real work._
 
-Across current usage, **agent harness** (and closely related terms like **AI harness** or **AI agent harness**) refers to the **software and context infrastructure that wraps an [[Vocabulary/Large Language Models|LLM]] or [[Agent Loops]]**, including tools, workflows, memory, permissions, and environment, so that the model’s reasoning can connect to real execution in a predictable way. [^s3fjtf] [^e4uow5] [^8bmnhu] [^9t2uix] It matters because useful production agents are almost never “just the model”: the harness decides what the agent can see, what it can do, how it keeps state, how it avoids errors, and how it integrates into existing systems. [^s3fjtf] [^p3e02h] [^f6chqd] [^8bmnhu] [^9t2uix] The concept shows up in engineering blogs, conference talks, and system design write‑ups whenever teams move from “LLM demo” to “production agent” and realize most of the hard work is in building this harness layer. [^p3e02h] [^e4uow5] [^8bmnhu] [^9t2uix]
+Across current usage, **agent harness** (and closely related terms like **AI harness** or **AI agent harness**) refers to the **software and context infrastructure that wraps an [[Vocabulary/Large Language Models|LLM]] or [[concepts/Explainers for AI/Agent Loops|Agent Loops]]**, including tools, workflows, memory, permissions, and environment, so that the model’s reasoning can connect to real execution in a predictable way. [^s3fjtf] [^e4uow5] [^8bmnhu] [^9t2uix] It matters because useful production agents are almost never “just the model”: the harness decides what the agent can see, what it can do, how it keeps state, how it avoids errors, and how it integrates into existing systems. [^s3fjtf] [^p3e02h] [^f6chqd] [^8bmnhu] [^9t2uix] The concept shows up in engineering blogs, conference talks, and system design write‑ups whenever teams move from “LLM demo” to “production agent” and realize most of the hard work is in building this harness layer. [^p3e02h] [^e4uow5] [^8bmnhu] [^9t2uix]
 
 ![High-level architecture diagram of an agent harness showing LLM in the center surrounded by tools, memory, context manager, policy/guardrails, and execution environment](https://agentfield.ai/_next/static/media/harness-101-1-properties-venn.655ef7dd.webp)
 
@@ -76,7 +79,7 @@ Although some products and frameworks use the noun “harness” in their brandi
 - **Production engineering for LLM agents.** Avi Chawla uses “agent harness” to mean the **“complete software infrastructure wrapping an LLM”** and frames his article as explaining *“The Anatomy of an Agent Harness”* for people turning models into robust agent systems. [^8bmnhu]
 - **Connecting reasoning to execution.** Microsoft’s Agent Framework blog defines **“Agent harness is the layer where model reasoning connects to real execution: shell and filesystem access, approval flows, and context management across long-running sessions.”**[^s3fjtf] Practitioners invoke it when discussing how agents actually run commands, modify files, and persist state.
 - **Framing the non‑model work in agent systems.** MongoDB’s article **“The Agent Harness: Why the LLM Is the Smallest Part of Your Agent System”** uses the phrase to emphasize that most engineering effort lies in “the harness” around the model rather than the model itself. [^9t2uix]
-- **Taming multi‑product SaaS complexity.** In a [[Factorial]] CTO talk, the narrative moves from “LLM magic” to **“a production agent harness: semantic tools, skills, smaller schemas, runtime context, deterministic computation, permissions, and browser-based actions”**, showing how the harness concept explains the difference between a demo and a production capability. [^p3e02h]
+- **Taming multi‑product SaaS complexity.** In a [[Tooling/Enterprise Jobs-to-be-Done/Factorial]] CTO talk, the narrative moves from “LLM magic” to **“a production agent harness: semantic tools, skills, smaller schemas, runtime context, deterministic computation, permissions, and browser-based actions”**, showing how the harness concept explains the difference between a demo and a production capability. [^p3e02h]
 - **Code‑centric AI workflows.** PuppyGraph’s blog post **“What is Agent Harness? How Does it Work?”** explains the agent harness as the architecture connecting agents to graph data and tools so they can reliably answer questions and perform graph operations, emphasizing structured components and a platform‑like harness layer. [^f6chqd]
 - **Adjacent “AI harness” usage in repos.** Activepieces engineer Louai Boumediene defines **“AI harness (noun): The set of files, folders, conventions, and infrastructure inside a codebase that turns the raw power of an AI agent into reliable, project specific output.”**[^e4uow5] Although he uses *AI harness* rather than *agent harness*, the meaning strongly overlaps with how practitioners use agent harness in tooling discussions. [^e4uow5]
 
@@ -122,7 +125,7 @@ The harness also uses a **“agent context as a tiered cache”** mental model: 
 
 ## 2. MongoDB & Avi Chawla: Systematizing the Agent Harness Architecture
 
-Avi Chawla’s post **“The Anatomy of an Agent Harness”** and MongoDB’s article **“The Agent Harness: Why the LLM Is the Smallest Part of Your Agent System”** jointly showcase how engineering teams are systematizing the harness concept as a reusable architecture. [^8bmnhu] [^9t2uix] Chawla describes the harness as “the complete software infrastructure wrapping an LLM,” and breaks it down into elements like the orchestration loop (deciding when and how to call the model and tools), a tool layer, memory and state persistence, context management, and failure handling/retries. [^8bmnhu] MongoDB similarly argues that the **harness comprises six components around the model**, with an underlying layer that turns it into a platform, emphasizing that the model itself is a relatively small component in a robust agent system. [^9t2uix]
+Avi Chawla’s post **“The Anatomy of an Agent Harness”** and [[Tooling/Enterprise Jobs-to-be-Done/MongoDB|MongoDB]]’s article **“The Agent Harness: Why the LLM Is the Smallest Part of Your Agent System”** jointly showcase how engineering teams are systematizing the harness concept as a reusable architecture. [^8bmnhu] [^9t2uix] Chawla describes the harness as “the complete software infrastructure wrapping an LLM,” and breaks it down into elements like the orchestration loop (deciding when and how to call the model and tools), a tool layer, memory and state persistence, context management, and failure handling/retries. [^8bmnhu] MongoDB similarly argues that the **harness comprises six components around the model**, with an underlying layer that turns it into a platform, emphasizing that the model itself is a relatively small component in a robust agent system. [^9t2uix]
 
 In practice, this means modeling agents as **platform services** rather than scripts: defining tools and their schemas, implementing state stores, managing conversation context, and providing policies and guardrails that govern what the agent can do. [^8bmnhu] [^9t2uix] Both pieces demonstrate how the harness concept helps organizations move from ad‑hoc experiments to **state‑of‑the‑art** agentic systems that are maintainable and extensible. They also show that innovation here is being driven by individual engineers and smaller teams—blog authors, internal platform teams—who codify patterns long before they appear in big vendor marketing. [^8bmnhu] [^9t2uix]
 
@@ -136,7 +139,7 @@ The framework allows developers to configure what commands agents may run, what 
 
 ## 4. Factorial ONE: A Production Agent Harness for a 25‑Product SaaS
 
-In a recorded talk, **Ilya Zayats, CTO at Factorial**, describes building **Factorial ONE**, an AI agent placed “on top of a 25‑product SaaS company.”[^p3e02h] The talk explicitly frames the journey as moving “from ‘LLM magic’ to a production agent harness,” where the harness includes **semantic tools, skills, smaller schemas, runtime context, deterministic computation, permissions, and browser-based actions.”**[^p3e02h] Zayats notes that the main formula they ended up with was “one LLM loop, three tools, nothing more, and then you have a harness,” describing how this minimal but carefully designed structure covers the whole product area at Factorial. [^p3e02h]
+In a recorded talk, **Ilya Zayats, CTO at [[Tooling/Enterprise Jobs-to-be-Done/Factorial]]**, describes building **Factorial ONE**, an AI agent placed “on top of a 25‑product SaaS company.”[^p3e02h] The talk explicitly frames the journey as moving “from ‘LLM magic’ to a production agent harness,” where the harness includes **semantic tools, skills, smaller schemas, runtime context, deterministic computation, permissions, and browser-based actions.”**[^p3e02h] Zayats notes that the main formula they ended up with was “one LLM loop, three tools, nothing more, and then you have a harness,” describing how this minimal but carefully designed structure covers the whole product area at Factorial. [^p3e02h]
 
 This harness lets the agent understand the product, navigate across different modules, take actions in the UI (via browser‑based actions), and create new work items, all while operating within well‑defined schemas and permission models. [^p3e02h] The case demonstrates how a startup can use an agent harness to unify a complex multi‑product surface into a single, coherent agentic interface, emphasizing context engineering (what schemas and docs are visible when) and strict permissioning to keep behavior safe and predictable. [^p3e02h] It reinforces the idea that **the harness—not the raw LLM—is what makes an agent truly “production‑ready.”**[^p3e02h] [^8bmnhu] [^9t2uix]
 

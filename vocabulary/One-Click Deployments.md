@@ -1,10 +1,14 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2026-07-06
 site_uuid: f1690ad7-43f6-4dd6-a4a1-92611ef9d547
 date_created: 2025-04-06
+tags:
+  - One-Click-Deployments
+  - Cloud-Infrastructure
+  - AI-Compute-Cloud-Providers
 ---
 
-[[Railway]], [[DollarDeploy]], [[Render]], [[RepoCloud]]
+[[Railway]], [[DollarDeploy]], [[Render]], [[RepoCloud]], [[Tooling/Software Development/Cloud Infrastructure/Fly.io|Fly.io]]
 
 ![[Railway#Railway example of One-Click Deployments and Visual Software Development .]]
 
@@ -47,7 +51,7 @@ date_created: 2025-04-06
 > 
 > #### **1. Railway**
 > 
-> - **What It Offers:** Railway is an infrastructure platform that allows users to deploy applications and databases with zero configuration. Users simply link their code repositories, and Railway handles the rest, including provisioning resources, setting up environments, and managing scaling.
+> - **What It Offers:** [[Tooling/Software Development/Cloud Infrastructure/Railway|Railway]] is an infrastructure platform that allows users to deploy applications and databases with zero configuration. Users simply link their code repositories, and Railway handles the rest, including provisioning resources, setting up environments, and managing scaling.
 > - **Innovative Features:**
 >     - Automatic infrastructure provisioning.
 >     - Simple, intuitive UI for deployments.
@@ -59,7 +63,7 @@ date_created: 2025-04-06
 > 
 > #### **2. Render**
 > 
-> - **What It Offers:** Render provides a platform for deploying web applications, APIs, databases, and static sites with minimal effort. It emphasizes simplicity while supporting continuous deployment from Git repositories.
+> - **What It Offers:** [[Tooling/Software Development/Cloud Infrastructure/Render|Render]] provides a platform for deploying web applications, APIs, databases, and static sites with minimal effort. It emphasizes simplicity while supporting continuous deployment from Git repositories.
 > - **Innovative Features:**
 >     - Autoscaling for web services.
 >     - Built-in HTTPS and custom domains.
@@ -71,7 +75,7 @@ date_created: 2025-04-06
 > 
 > #### **3. Vercel**
 > 
-> - **What It Offers:** Vercel is designed for deploying frontend applications and static sites, with a focus on performance and global scalability. It excels in deploying Next.js applications.
+> - **What It Offers:** [[Tooling/Software Development/Cloud Infrastructure/Vercel|Vercel]] is designed for deploying frontend applications and static sites, with a focus on performance and global scalability. It excels in deploying Next.js applications.
 > - **Innovative Features:**
 >     - Instant previews for every Git commit.
 >     - Global content delivery network (CDN) for fast performance.
@@ -95,7 +99,8 @@ date_created: 2025-04-06
 > 
 > #### **5. DigitalOcean App Platform**
 > 
-> - **What It Offers:** DigitalOcean's App Platform simplifies deployment by automating infrastructure management and scaling. It is ideal for developers looking for predictable pricing and ease of use.
+> - **What It Offers:** [[Tooling/Software Development/Cloud Infrastructure/DigitalOcean|DigitalOcean]]
+> - 's App Platform simplifies deployment by automating infrastructure management and scaling. It is ideal for developers looking for predictable pricing and ease of use.
 > - **Innovative Features:**
 >     - Automatic containerization of applications from Git repositories.
 >     - Built-in databases like PostgreSQL and MySQL.

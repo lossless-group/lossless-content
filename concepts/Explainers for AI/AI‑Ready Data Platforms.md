@@ -39,7 +39,7 @@ An AI-ready data platform is a data architecture or platform layer that prepares
 ## Uses in Context
 - NVIDIA uses the term to describe infrastructure that can transform unstructured enterprise data into AI-ready data through curation, metadata, chunking, and vector embedding. [^cyj14b]
 - IBM uses the phrase to describe enterprise data that is sufficiently trusted, governed, and accessible for AI training and other AI initiatives. [^c68xx3]
-- [[Alation]] uses “AI-readiness” to describe modern data platforms that support orchestration, collaboration, and metadata-driven operations across the data lifecycle. [^6qzq0f]
+- [[Tooling/AI-Toolkit/Agentic AI/Alation]] uses “AI-readiness” to describe modern data platforms that support orchestration, collaboration, and metadata-driven operations across the data lifecycle. [^6qzq0f]
 - [[Solita]] uses the term in industrial settings to describe a layered platform that unifies IT, ET, and OT data with consistent semantics and governance. [^cb574q]
 - dbt uses the idea in the context of a control plane for preparing data pipelines that support both analytics and generative AI use cases. [^nl3uy8]
 - [[Tooling/Software Development/Cloud Infrastructure/Snowflake|Snowflake]] uses the phrase to describe enterprise data that can be made usable for AI with “continuous performance,” governance, and interoperability. [^v2k2w7]

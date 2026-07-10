@@ -32,8 +32,8 @@ After working extensively on a few "patterns", I found that the kind of output d
 >Are you running the DeepSeek R1 model with ollama or some other local system? I recently struggled with a very similar issue and found that ollama uses a default context window size of about 2048 tokens so that my system prompt never even gets to the model. Using fabric command line option --modelContextLength= helped.
 
 
-## [[Perplexica]] for Search Results with Sources
-[[Perplexica]] has installation instructions on the [Perplexica GitHub Repo](https://github.com/ItzCrazyKns/Perplexica/tree/master).  As of March 20, 2025, it's 1 GB in size and here are the steps I am walking through:
+## [[Tooling/AI-Toolkit/Models/Vane]] for Search Results with Sources
+[[Tooling/AI-Toolkit/Models/Vane]] has installation instructions on the [Perplexica GitHub Repo](https://github.com/ItzCrazyKns/Perplexica/tree/master).  As of March 20, 2025, it's 1 GB in size and here are the steps I am walking through:
 
 Open the terminal or [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulator]]. (I use [[Ghostty]] when I know what I am doing, and [[Warp]] when I need an [[concepts/Explainers for AI/AI Terminal Assistant|AI Terminal Assistant]].)
 
@@ -224,12 +224,12 @@ sudo docker compose up -d
 > 
 > All containers are now running in the background. You can use docker-compose ps to check their status or docker-compose logs to view their logs.
 
-**Note**: After the [[Containers]] are built, you can start [[Perplexica]] directly from Docker without having to open a terminal.
+**Note**: After the [[Containers]] are built, you can start [[Tooling/AI-Toolkit/Models/Vane]] directly from Docker without having to open a terminal.
 
 Now, Perplexica's UI in [[NEXT.js]] should be running on http://localhost:3000 unless you have specified another port. 
 ![](https://i.imgur.com/w6T14iG.png)
 
-#### Accessing [[Perplexica]] in your own application development via local API endpoint
+#### Accessing [[Tooling/AI-Toolkit/Models/Vane]] in your own application development via local API endpoint
 
 ```json
 {

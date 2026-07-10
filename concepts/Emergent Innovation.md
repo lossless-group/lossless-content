@@ -1,12 +1,32 @@
 ---
 date_created: 2025-05-27
-date_modified: 2025-12-25
+date_modified: 2026-07-07
 site_uuid: 3b040f09-5578-4a74-a05d-a2f03752c3d4
+tags:
+  - Emergent-Innovation-Examples
+  - Lossless-Thinking
+  - Conceptual-Frameworks
+for_clients:
+  - Laerdal
+  - FullStackVC
+publish: true
+title: Emergent Innovation
+slug: emergent-innovation
+at_semantic_version: 0.0.0.1
 ---
 [[concepts/Bottoms Up Innovation|Bottoms Up Innovation]]
 [[essays/Technology wants to be Emergent|Technology wants to be Emergent]]
 
 [Heartbeat](https://github.com/prouast/heartbeat) a [[concepts/Public Repository|Public Repository]]
+
+[[projects/Emergent-Innovation/Examples/(SSH) Secure Shell|Secure Shell]]
+[[concepts/Open Source Alternatives|Open Source Alternatives]]
+[[Kerberos Consortium]]
+[[projects/Emergent-Innovation/Standards/RISC-V|RISC-V]]
+[[organizations/The Linux Foundation|The Linux Foundation]]
+[[essays/The Power of Challenges|The Power of Challenges]]
+[[Vocabulary/Hackathons|Hackathons]]
+[[concepts/Open Specifications|Open Specifications]]
 
 
 ***
@@ -18,7 +38,9 @@ site_uuid: 3b040f09-5578-4a74-a05d-a2f03752c3d4
 
 # Emergent Innovation
 
+
 ## Introduction
+
 Emergent innovation is the process by which novel solutions, products, or practices arise organically from interactions among people, technologies, and environments—often without top-down planning. It matters because complex markets shift faster than any central plan can track; organizations that harness bottom‑up signals and experimentation adapt more quickly, reduce risk, and discover value others miss.
 
 ![Emergent Innovation concept diagram or illustration](http://innovations4.eu/wp-content/uploads/2024/03/Emerging-Technologies-vs-Innovative-Technology.png)

@@ -1,6 +1,6 @@
 ---
 date_created: 2025-06-02
-date_modified: 2026-06-17
+date_modified: 2026-07-07
 site_uuid: 953476bb-eadb-4c70-95c3-b6de5c15001e
 title: Context Engineering
 lede: When Vibe Planning gets as hard as Software Engineering
@@ -22,6 +22,8 @@ tags:
   - Lossless-Thinking
 ---
 An advanced stage of [[concepts/Explainers for AI/Prompt Engineering|Prompt Engineering]] and [[concepts/Explainers for AI/Vibe Planning|Vibe Planning]] for [[Vocabulary/Vibe Coding|Vibe Coding]], leading to [[concepts/Explainers for AI/Agentic Engineering|Agentic Engineering]]. [[Sources/People/Andrej Karpathy|Andrej Karpathy]]
+
+https://youtu.be/mM_Wxemh3lU?is=VTZ1KIGL2pfTgMj_
 
 https://youtu.be/Egeuql3Lrzg?si=Jv50DvHFVOxpdvCU
 

@@ -50,7 +50,7 @@ These providers continue to innovate, expanding their offerings and competing on
 # Innovators & Alternatives
 Infrastructure as a Service (IaaS) has seen significant contributions from not just tech giants like Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), but also from emerging players. Here are some of the lesser-known yet innovative companies offering IaaS:
 
-1. [[Tooling/Software Development/Cloud Infrastructure/Digital Ocean|Digital Ocean]]: Known for its simplicity and affordability, DigitalOcean offers a wide range of cloud computing services, including virtual machines, object storage, and managed databases. It's particularly popular among developers due to its user-friendly interface.
+1. [[Tooling/Software Development/Cloud Infrastructure/DigitalOcean|DigitalOcean]]: Known for its simplicity and affordability, DigitalOcean offers a wide range of cloud computing services, including virtual machines, object storage, and managed databases. It's particularly popular among developers due to its user-friendly interface.
 
 2. [[Linode]]: Another strong contender in the IaaS market, Linode provides high-performance cloud hosting. It's known for its stability, simplicity, and customer support. 
 

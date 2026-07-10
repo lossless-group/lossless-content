@@ -1,10 +1,18 @@
 ---
 site_uuid: 137c2663-0e6e-4814-8646-ecb59a4fff4c
-date_modified: 2025-08-23
+date_modified: 2026-07-07
 date_created: 2025-03-30
-tags: [AI-Toolkit]
-aliases: [Reasoning-based-Models, Reasoning Models]
+tags:
+  - AI-Toolkit
+  - Foundation-Models
+aliases:
+  - Reasoning-based-Models
+  - Reasoning Models
 ---
+[[concepts/Explainers for AI/AI Reasoning|Reasoning Models]] generally output [[concepts/Explainers for AI/Agent Traces|Agent Traces]] as the "think" things out, usually in the XML tag `<think>{reasoning traces}</think>`
+
+https://youtu.be/LU15Qc7A9Lw?is=7avqUAoAsIkt2RAy
+
 https://youtu.be/PvDaPeQjxOE?si=bRk1akOPf5rv3rbL
 
 > [!info] **Perplexity Query** (2025-07-23T10:05:01.941Z)
@@ -56,11 +64,6 @@ Despite these benefits, there are challenges. Many reasoning-based models can op
 AI reasoning is moving rapidly from research labs into real-world adoption. Enterprises now deploy these models across customer service, healthcare, finance, manufacturing, and robotics, spurred by advances in natural language processing and deep learning. [^d5moau] [^9loyzi] [^t6nrzj] Key industry players—including NVIDIA, IBM, and emerging startups—are racing to make AI reasoning more interpretable and scalable, often integrating [[concepts/Explainers for AI/Reinforcement Learning|Reinforcement Learning]] and multimodal analysis for more powerful agents. [^9loyzi] [^d5moau] Recent innovations such as [[Tooling/AI-Toolkit/Model Producers/DeepSeek|DeepSeek]] and context-aware LLMs show the shift toward models that require fewer resources while maintaining robust reasoning abilities. [^omnt01] Across sectors, there is a notable emphasis on building more transparent, auditable systems to address trust and compliance needs. [^d5moau]
 
 
-
-![AI Reasoning and Reasoning-based Models future trends or technology visualization](https://chatterbox.co/wp-content/uploads/2025/01/reasoning-models-1024x370.png)
-*Source: https://chatterbox.co/blog/gen-ai-reasoning-model-comparison-ai-safety-results/*
-
-
 ***
 
 > [!info] **Perplexity Query** (2025-07-23T10:11:32.556Z)
@@ -72,12 +75,12 @@ AI reasoning is moving rapidly from research labs into real-world adoption. Ente
 
 Below is a structured comparison of the most **well-known and innovative [[concepts/Explainers for AI/AI Reasoning|Reasoning-based-Models]]** in 2025, including their creators, release timing, unique differentiators, openness, and, where available, links to their [[Tooling/Software Development/Developer Experience/GitHub|GitHub]] and [[Tooling/AI-Toolkit/Hugging Face|Hugging Face]] profiles.
 
-| Model                 | Creator                                                      | Release Date | Differentiators                                                                                  | Open Source | GitHub/Hugging Face              |
-| --------------------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------ | ----------- | -------------------------------- |
-| **Gemini 2.5 Pro**    | Google [[organizations/DeepMind\|DeepMind]]                  | Early 2025   | Leading in **multimodal tasks** (text, image, video, audio); context window up to **1M tokens**. | No          | Not public                       |
-| **Claude 4 Opus**     | [[Tooling/AI-Toolkit/Model Producers/Anthropic\|Anthropic]]  | Q2 2025      | Excels at **nuanced, step-by-step reasoning** and creative generation; top in coding benchmarks. | No          | Not public                       |
-| **GPT-4.5** / **O3**  | [[Tooling/AI-Toolkit/Model Producers/OpenAI\|OpenAI]]        | Early 2025   | Strong at **structured logical reasoning**; robust general-purpose model; improved tool use.     | No          | Not public                       |
-| **Grok 3**            | [[xAI]] (Elon Musk)                                          | 2025         | **Real-time knowledge** (access to X's feed); personality; strong at logic/math problems.        | Partial*    | Not public (partial open tools)  |
+| Model                 | Creator                                                      | Release Date | Differentiators                                                                                  | Open Source | GitHub/Hugging Face                 |
+| --------------------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------ | ----------- | ----------------------------------- |
+| **Gemini 2.5 Pro**    | Google [[organizations/DeepMind\|DeepMind]]                  | Early 2025   | Leading in **multimodal tasks** (text, image, video, audio); context window up to **1M tokens**. | No          | Not public                          |
+| **Claude 4 Opus**     | [[Tooling/AI-Toolkit/Model Producers/Anthropic\|Anthropic]]  | Q2 2025      | Excels at **nuanced, step-by-step reasoning** and creative generation; top in coding benchmarks. | No          | Not public                          |
+| **GPT-4.5** / **O3**  | [[Tooling/AI-Toolkit/Model Producers/OpenAI\|OpenAI]]        | Early 2025   | Strong at **structured logical reasoning**; robust general-purpose model; improved tool use.     | No          | Not public                          |
+| **Grok 3**            | [[xAI]] (Elon Musk)                                          | 2025         | **Real-time knowledge** (access to X's feed); personality; strong at logic/math problems.        | Partial*    | Not public (partial open tools)     |
 | **Llama 4 ("Scout")** | [[organizations/Meta\|Meta]] AI                              | 2025         | **Fully open source**; up to **10M token context**, strong customization, best for self-hosting. | Yes         | , [GitHub] [^qlu2by] [HF] [^qlu2by] |
 | **DeepSeek-R1**       | [[Tooling/AI-Toolkit/Model Producers/DeepSeek\|DeepSeek]] AI | Q2 2025      | **Open source**; high performance in **math/logic**; cost-effective for research/developers.     | Yes         | , [GitHub] [^qlu2by] [HF] [^qlu2by] |
 

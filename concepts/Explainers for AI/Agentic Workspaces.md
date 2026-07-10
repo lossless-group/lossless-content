@@ -5,11 +5,19 @@ publish: true
 slug: agentic-workspaces
 title: Agentic Workspaces
 at_semantic_version: 0.0.0.8
-date_modified: 2025-09-21
-tags: [Agentic-Workspaces, Agentic-AI, Explainers]
+date_modified: 2026-07-08
+tags:
+  - Agentic-Workspaces
+  - Agentic-AI
+  - Explainers
 augmented_with: Perplexity AI
 authors:
   - Michael Staton
+for_clients:
+  - FullStackVC
+  - Laerdal
+  - Param
+  - Parslee
 ---
 ![Agentic Workspaces practical example or use case](https://newgensoft.com/wp-content/uploads/2025/03/Tenets-of-Agentic-Workspace-1024x840.jpg)
 
@@ -26,6 +34,7 @@ Agentic Workspaces are generally drag-and-drop, [[Vocabulary/Low-Code|Low-Code]]
 - [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Dynamiq AI|Dynamiq AI]]
 - [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Dust.tt|Dust.tt]]
 - [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Writer|Writer]]
+- [[Tooling/AI-Toolkit/Agentic AI/Vectal|Vectal]]
 :::
 
 :::tool-showcase
@@ -90,7 +99,7 @@ However, several **challenges and considerations** must be addressed:
 
 ### Current State and Trends
 
-Adoption of agentic workspaces is accelerating, especially in sectors demanding agility and sophisticated decision-making such as finance, logistics, IT, and customer support. [^n0e2c7] [^ytx4d3] Key players shaping the market include cloud service providers (Google Cloud's Vertex AI), enterprise platforms ([[Tooling/Enterprise Jobs-to-be-Done/Integration Platforms/Workato]]’s low-code agentic tools), and automation specialists like Newgen. [^8fc8j9] [^hpeo95] [^n0e2c7]
+Adoption of agentic workspaces is accelerating, especially in sectors demanding agility and sophisticated decision-making such as finance, logistics, IT, and customer support. [^n0e2c7] [^ytx4d3] Key players shaping the market include cloud service providers (Google Cloud's Vertex AI), enterprise platforms ([[Tooling/Enterprise Jobs-to-be-Done/Integration Platforms/Workato|Workato]]’s low-code agentic tools), and automation specialists like Newgen. [^8fc8j9] [^hpeo95] [^n0e2c7]
 
 The underlying technologies—LLMs, generative AI, machine learning, and secure data orchestration—are rapidly maturing. Recent advances include:
 - **Self-learning frameworks** that enable agents to refine their performance as they encounter new scenarios. [^hpeo95]

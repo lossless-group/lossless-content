@@ -1,10 +1,12 @@
 ---
-aliases: [MELT]
+aliases:
+  - MELT
+  - Data Telemetry
 date_created: 2025-09-05
-date_modified: 2025-09-05
+date_modified: 2026-07-14
 site_uuid: 24829771-222a-439a-b4d7-5a57ff912f4b
 publish: true
-title: "Telemetry Data"
+title: Telemetry Data
 slug: telemetry-data
 at_semantic_version: 0.0.1.1
 ---

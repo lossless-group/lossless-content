@@ -2,7 +2,7 @@
 cf_last_run: 2026-05-16T00:32:35.615Z
 cf_last_run_model: Perplexity sonar-pro
 date_created: 2025-01-12
-date_modified: 2026-05-23
+date_modified: 2026-07-06
 for_clients:
   - Laerdal
   - Param
@@ -16,6 +16,8 @@ publish: true
 title: Ambidextrous Organizations
 slug: ambidextrous-organizations
 at_semantic_version: 0.0.1.0
+aliases:
+  - Ambidextrous Organization
 ---
 
 # Defining and Describing Ambidextrous Organizations

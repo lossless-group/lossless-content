@@ -22,7 +22,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 [[Sources/Books/Chip War|Chip War]]
 
-[[Chip Designers]]
+[[Vocabulary/Chip Designers]]
 
 
 https://youtu.be/Zr09I5OlOjs?is=72uIGayBODCKnOTi

@@ -79,7 +79,7 @@ Policy documents and economic reports use **chip producers** broadly to mean all
 
 - **Adjacent terms**
   - [[Vocabulary/Chip Architectures]] – Processor and accelerator design styles that chip producers implement in silicon.  
-  - [[Chip Designers]] – Fabless firms and internal teams that create chip IP and collaborate with foundries.  
+  - [[Vocabulary/Chip Designers]] – Fabless firms and internal teams that create chip IP and collaborate with foundries.  
   - [[Foundries]] – Specialized manufacturing partners like TSMC that fabricate chips for many designers. [^620vau]  
   - [[Fabrication-Nodes]] – Process technologies (e.g., 3 nm, 5 nm) that determine performance and cost and are set by leading foundries. [^620vau]  
   - [[Supply-Chain-Resilience]] – Risk management around geographic concentration and geopolitical exposure in chip production. [^620vau] [^z547af]  

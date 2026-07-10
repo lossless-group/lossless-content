@@ -62,7 +62,7 @@ Because this is an industry term rather than a formal academic concept, it appea
 - [Lambda Cloud](https://lambdalabs.com) — [[Tooling/Software Development/Cloud Infrastructure/Lambda Labs|Lambda Labs]] — GPU cloud from Lambda Labs, renting out NVIDIA GPU instances and clusters optimized for deep learning workloads such as LLM and vision model training. [^lv3c8i]  
 - [GMI Cloud](https://www.gmicloud.ai) — GPU cloud provider offering on‑demand NVIDIA H100 and H200 instances for “high‑performance, scalable AI training and inference at the lowest cost.”[^edn7y6]  
 - [Northflank](https://northflank.com) — Full‑stack platform that orchestrates GPU workloads, APIs, and multi‑service deployments for “production‑grade” AI applications, supporting bring‑your‑own‑cloud models. [^xo19kf]  
-- [DigitalOcean](https://www.digitalocean.com) — [[Tooling/Software Development/Cloud Infrastructure/Digital Ocean|Digital Ocean]] — Developer‑focused cloud that now positions itself among “leading AI cloud providers,” offering AI‑ready infrastructure and integrations for model hosting and inference. [^lv3c8i]  
+- [DigitalOcean](https://www.digitalocean.com) — [[Tooling/Software Development/Cloud Infrastructure/DigitalOcean|DigitalOcean]] — Developer‑focused cloud that now positions itself among “leading AI cloud providers,” offering AI‑ready infrastructure and integrations for model hosting and inference. [^lv3c8i]  
 - [AWS (with SageMaker and Bedrock)](https://aws.amazon.com) — A major cloud adopter that has rebuilt large parts of its stack around AI, offering GPU instances and managed AI platforms (e.g., SageMaker, Bedrock) as part of its AI‑native cloud strategy. [^xo19kf] [^xgx2de] [^lv3c8i]  
 
 # Case Studies

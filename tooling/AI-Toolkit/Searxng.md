@@ -10,4 +10,4 @@ og_image: https://docs.searxng.org/_static/searxng-wordmark.svg
 og_last_fetch: 2025-07-21T19:58:38.517Z
 aliases: [SearXNG]
 ---
-[[Tooling/AI-Toolkit/Models/Perplexica|Perplexica]]
+[[Tooling/AI-Toolkit/Models/Vane|Vane]]

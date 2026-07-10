@@ -44,7 +44,7 @@ https://youtu.be/OFS90-FX6pg?si=59krfZlRM21AkqLB
 
 1993, [[organizations/Nvidia|NVIDIA]] founded. 
 
-1995 Tatu Ylönen releases [[projects/Emergent-Innovation/Standards/(SSH) Secure Shell]] v01 as free software. 
+1995 Tatu Ylönen releases [[projects/Emergent-Innovation/Examples/(SSH) Secure Shell]] v01 as free software. 
 
 1997 the British Government releases the algorithm of [[projects/Emergent-Innovation/Standards/RSA]] technology, which would become an important [[Web Standards|Web Standard]]. 
 
@@ -52,7 +52,7 @@ https://youtu.be/OFS90-FX6pg?si=59krfZlRM21AkqLB
 
 1999 Jun 01, [[organizations/The Apache Software Foundation]] was incorporated. 
 
-1999, December 1, Open [[projects/Emergent-Innovation/Standards/(SSH) Secure Shell]] released by Open BSD.  
+1999, December 1, Open [[projects/Emergent-Innovation/Examples/(SSH) Secure Shell]] released by Open BSD.  
 
 2000 [[Roy Fielding]] submits his Dissertation to the University of California, Irvine, entitled "Architectural Styles and the Design of Network-based Software Architectures"
 

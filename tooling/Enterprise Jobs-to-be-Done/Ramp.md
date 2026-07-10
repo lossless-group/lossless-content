@@ -17,7 +17,7 @@ at_semantic_version: 0.0.1.1
 
 Source: [^cgaeh1]
 
-[[Distributed Procurement Systems]]
+[[concepts/Explainers for Tooling/Distributed Procurement Systems]]
 
 
 [^cgaeh1]: 2025, Nov. "[Ramp | Silicon Valley Investclub Profile](https://siliconvalleyinvestclub.com/ramp/?_bhlid=24135ee6b648d7522df008eddf820e72b3032270)" [Silicon Valley Investclub | Venture Capital & Private Equity](https://siliconvalleyinvestclub.com). Accessed on 2026-05-11
