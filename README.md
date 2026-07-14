@@ -1,5 +1,58 @@
 ![Content Repository of The Lossless Group](https://i.imgur.com/KY16xYu.png)
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="130">
+<h1 style="margin:0; font-size:2.2em;">4,614</h1>
+<sub>Markdown Files</sub>
+</td>
+<td align="center" width="130">
+<h1 style="margin:0; font-size:2.2em;">2.9M</h1>
+<sub>Words</sub>
+</td>
+<td align="center" width="130">
+<h1 style="margin:0; font-size:2.2em;">21</h1>
+<sub>Collections</sub>
+</td>
+<td align="center" width="130">
+<h1 style="margin:0; font-size:2.2em;">1,053</h1>
+<sub>Commits</sub>
+</td>
+<td align="center" width="130">
+<h1 style="margin:0; font-size:2.2em;">Mar 2025</h1>
+<sub>Active Since</sub>
+</td>
+</tr>
+</table>
+
+<sub>Snapshot as of 2026-07-09 · directory shape lives in <a href="./FILEMAP.md">FILEMAP.md</a></sub>
+
+</div>
+
+<details>
+<summary>Regenerate these numbers</summary>
+
+```bash
+# Markdown files
+find . -name "*.md" -not -path "./node_modules/*" | wc -l
+
+# Word count across markdown
+find . -name "*.md" -not -path "./node_modules/*" -print0 | xargs -0 cat | wc -w
+
+# Top-level collections
+find . -maxdepth 1 -type d -not -name "." -not -name "node_modules" -not -name ".git" -not -name ".claude" | wc -l
+
+# Commits across all branches
+git log --all --oneline | wc -l
+
+# First commit date
+git log --reverse --format=%ad --date=short | head -1
+```
+
+</details>
+
 ### Introduction
 
 This repository contains the content for the Lossless site.  The site can be found as the 'site' directory in the monorepo, or [the Github Repo](https://github.com/lossless-group/lossless-site.git)
@@ -66,137 +119,4 @@ Vocabulary: `vocabulary`
 
 # Directory Structure
 
-As of August 2025, the directory structure is as follows:
-
-<details>
-<summary>📁 Directory Structure</summary>
-
-```
-├── changelog--code
-├── changelog--content
-├── changelog--<client1>
-├── Citations
-├── client-content
-│   ├── <client4>
-│   │   └── Portfolio
-│   ├── Colearn
-│   ├── Commando
-│   │   └── Portfolio
-│   ├── <client6>
-│   │   └── Reader
-│   ├── <client2>
-│   │   └── Portfolio
-│   ├── <client1>
-│   │   ├── essays
-│   │   ├── Findings
-│   │   ├── Projects
-│   │   ├── Recommendations
-│   │   └── Sources
-│   ├── Obsidian-Plugin-Community
-│   ├── <client5>
-│   │   └── Recommendations
-│   └── <client7>
-│       └── Projects
-├── concepts
-│   ├── CARBS
-│   ├── Explainers for AI
-│   │   └── LLM Parameters
-│   └── Explainers for Tooling
-├── essays
-├── lost-in-public
-│   ├── blueprints
-│   ├── explorations
-│   ├── inspiration-cases
-│   ├── issue-resolution
-│   ├── keeping-up
-│   ├── market-maps
-│   ├── notes
-│   │   └── notes-from-the-rabbit-hole
-│   ├── practices
-│   ├── prompts
-│   │   ├── code-style
-│   │   ├── data-integrity
-│   │   ├── render-logic
-│   │   ├── user-interface
-│   │   └── workflow
-│   ├── refactors
-│   ├── reminders
-│   ├── talks
-│   ├── to-hero
-│   └── up-and-running
-├── moc
-├── node_modules
-│   └── uuid -> .pnpm/uuid@11.1.0/node_modules/uuid
-├── organizations
-├── projects
-│   └── Augment-It
-│       ├── Previous-Implementations
-│       ├── Prompts
-│       └── Specs
-├── sessions
-├── slides
-├── sources
-│   ├── Books
-│   ├── Brand Content
-│   ├── Events
-│   ├── Laerdal Entities
-│   ├── Lectures
-│   ├── Media
-│   ├── Meetings
-│   ├── People
-│   │   ├── Influencers
-│   │   └── Laerdal-Team
-│   ├── Reports
-│   ├── Source Extracts
-│   │   └── GitHub Repos
-│   └── UGC Communities
-├── specs
-├── test-files
-├── tooling
-│   ├── AI-Toolkit
-│   │   ├── Agentic AI
-│   │   ├── AI Infrastructure
-│   │   ├── AI Interfaces
-│   │   ├── AI Programming Frameworks
-│   │   ├── Data Augmenters
-│   │   ├── Generative AI
-│   │   ├── Knowledge AI
-│   │   ├── Model Producers
-│   │   └── Models
-│   ├── Creative
-│   ├── Data Utilities
-│   ├── Enterprise Jobs-to-be-Done
-│   │   ├── Content Management Systems
-│   │   ├── Integration Platforms
-│   │   └── Learning Experience Platforms
-│   ├── Hardware
-│   ├── Portfolio
-│   ├── Productivity
-│   │   └── Personal Cloud
-│   ├── Products
-│   ├── Scouting
-│   ├── Software Development
-│   │   ├── Cloud Infrastructure
-│   │   ├── Databases
-│   │   ├── Developer Experience
-│   │   ├── Frameworks
-│   │   ├── Lego-Kit Engineering Tools
-│   │   ├── Product Analytics
-│   │   └── Programming Languages
-│   ├── Training
-│   └── Web Browsers
-├── vertical-toolkits
-│   └── FinTech
-├── visuals
-│   ├── ContentDisplays
-│   ├── For
-│   │   └── Recraft-Generated
-│   ├── GIFs
-│   ├── Heroes
-│   ├── imageOf
-│   ├── Screenshots
-│   └── Trademarks
-└── vocabulary
-```
-
-</details>
+The directory shape (top-level collections + a curator preface explaining what each one is) lives in [`FILEMAP.md`](./FILEMAP.md), kept current by re-running its regen recipe rather than hand-pasted here where it goes stale.
