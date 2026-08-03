@@ -1,18 +1,22 @@
 ---
 url: https://www.redhat.com/en
 date_created: 2025-08-28
-date_modified: 2025-08-28
+date_modified: 2026-07-17
 og_title: The world's open source leader
 og_description: Red Hat is the world’s leading provider of open source solutions, using a community-powered approach to provide reliable and high-performing cloud, virtualization, storage, Linux, and middleware technologies. Red Hat also offers award-winning support, training, and consulting services. Red Hat is an S&P 500 company with more than 80 offices spanning the globe, empowering its customers’ businesses.
 og_image: https://www.redhat.com/rhdc/managed-files/ConnectedCampaignOpenGraph%401x.png
 og_favicon: https://www.redhat.com/favicon.ico
 og_last_fetch: 2025-08-28T17:59:37.287Z
 parent_org: "[[organizations/IBM|IBM]]"
+tags:
+  - Open-Source-Collaborations
+  - Open-Source
+  - Linux-Distributions
+  - Cloud-Infrastructure
 ---
-[[Vocabulary/Linux Distributions]]
-
-
-
+[[Vocabulary/Linux Distributions|Linux Distributions]]
+[[Tooling/Software Development/DevOps/OpenShift]]
+[[organizations/IBM|IBM]] subsidiary
 ***
 > [!info] **Perplexity Query** (2025-08-28T17:56:25.836Z)
 > **Question:**

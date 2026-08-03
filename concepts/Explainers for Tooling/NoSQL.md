@@ -69,7 +69,7 @@ NoSQL emerged as a label for database systems that departed from the classic rel
 - [Apache Cassandra](https://cassandra.apache.org/) — [[Tooling/Software Development/Databases/Cassandra|Cassandra]] — a wide-column NoSQL database associated with distributed scale. [^nnl78i][^chnet9]
 - [Redis](https://redis.io/) — [[Tooling/Software Development/Databases/Redis|Redis]] — a key-value system commonly used for fast lookups and caching-style workloads. [^nnl78i][^chnet9]
 - [Neo4j](https://neo4j.com/) — [[Tooling/Software Development/Databases/Neo4j|Neo4j]] — a graph database used for highly connected data. [^semgr3][^nnl78i]
-- [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/) — [[CosmosDB]] — Microsoft’s cloud database service documents NoSQL-style modeling with self-contained JSON items. [^k5mo9d]
+- [Azure Cosmos DB](https://learn.microsoft.com/en-us/azure/cosmos-db/) — [[Tooling/Software Development/Databases/CosmosDB]] — Microsoft’s cloud database service documents NoSQL-style modeling with self-contained JSON items. [^k5mo9d]
 - [Reltio](https://www.reltio.com/) — uses NoSQL storage in entity-history workflows that require low-latency handling of records. [^u8sa3h]
 - [MySQL](https://www.mysql.com/) — not a NoSQL database itself, but repeatedly appears in comparisons as a representative relational alternative. [^semgr3][^bv91i7]
 

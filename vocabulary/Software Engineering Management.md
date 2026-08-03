@@ -1,5 +1,5 @@
 ---
-date_modified: 2026-06-17
+date_modified: 2026-07-25
 site_uuid: d284f36a-e79f-42ba-8ee2-75929e7bfd18
 date_created: 2025-04-06
 cf_last_run: "2026-05-28T05:25:29.983Z"
@@ -22,6 +22,12 @@ at_semantic_version: 0.0.1.1
 [[Principal Engineer]]
 [[Staff Engineer]]
 [[Senior Engineer]]
+
+[[concepts/Secrets Management|Secrets Management]]
+[[Vocabulary/Dev Ops|DevOps]]
+[[concepts/Platform Engineering|Platform Engineering]]
+[[concepts/API First Development|API First Development]]
+
 
 https://youtu.be/cOcd9UN6w7U?si=bCjBsWZNtJdRzC0d
 

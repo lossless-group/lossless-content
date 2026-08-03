@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-28
-date_modified: 2025-09-17
+date_modified: 2026-07-24
 site_uuid: 79b5c9d6-be97-4157-a634-37c11be6035b
 publish: true
 title: Rust Rebuilds
@@ -9,8 +9,10 @@ at_semantic_version: 0.0.0.1
 authors:
   - Michael Staton
 augmented_with: Perplexity AI
+aliases:
+  - Rust Rewrites
 ---
-
+[[Tooling/Software Development/Developer Experience/Bun|Bun]]
 
 ***
 > [!info] **Perplexity Query** (2025-09-17T19:11:14.298Z)
@@ -80,7 +82,7 @@ Companies evaluating Rust for legacy software replacement should consider severa
 
 ## **Strategic Implementation Approach**
 
-Rather than wholesale rewrites, companies should consider incremental adoption strategies. Starting with new components or replacing specific modules allows teams to gain Rust expertise while minimizing business risk. The language's excellent FFI (Foreign Function Interface) capabilities enable gradual migration where Rust components can interoperate with existing C/C++ code.
+Rather than wholesale rewrites, companies should consider incremental adoption strategies. Starting with new components or replacing specific modules allows teams to gain Rust expertise while minimizing business risk. The language's excellent FFI ([[Foreign Function Interface]]) capabilities enable gradual migration where Rust components can interoperate with existing C/C++ code.
 
 The decision ultimately depends on the specific context: legacy systems with known security vulnerabilities, performance bottlenecks, or high maintenance costs are prime candidates for Rust rebuilds. However, stable systems that adequately serve business needs may not justify the migration costs, regardless of Rust's technical advantages.
 

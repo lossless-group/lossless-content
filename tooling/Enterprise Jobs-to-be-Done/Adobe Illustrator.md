@@ -16,7 +16,7 @@ aliases:
 ---
 
 [[concepts/Creator Economy|Creator Econom]]
-[[Vector Art Software|Vector Graphics Software]]
+[[concepts/Vector Art Software|Vector Graphics Software]]
 
 # Value Proposition & Features
 Adobe Illustrator is Adobe’s **vector-graphics** application for creating refined drawings, designs, and layouts, and Adobe describes it as the “industry-standard” app for logos, icons, typography, and complex illustrations. [^mab9qm] [^o2jtp6] Its core value is that it lets designers create artwork that can be scaled and reused across many media without losing quality, and Adobe positions it for both standalone creation and automated workflows through Firefly Services. [^mab9qm] [^o2jtp6]
@@ -50,7 +50,7 @@ It is not the best fit for users who only need simple raster editing, casual dra
 | Competitor                                           | Description                                                           |
 | ---------------------------------------------------- | --------------------------------------------------------------------- |
 | [CorelDRAW]                                          | Professional vector illustration and page-layout software.            |
-| [[Affinity Designer]]                                | Lower-cost vector design tool with strong precision drawing features. |
+| [[Tooling/Creative/Affinity Designer]]                                | Lower-cost vector design tool with strong precision drawing features. |
 | [[Tooling/Productivity/Inkscape]]                                         | Free, open-source vector graphics editor.                             |
 | [[Tooling/Software Development/Design/Figma\|Figma]] | Collaborative design platform with vector editing capabilities.       |
 | [[Tooling/Creative/Canva\|Canva]]                    | Template-driven design tool aimed at non-specialists.                 |

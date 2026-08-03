@@ -1,7 +1,7 @@
 ---
 wikipedia_url: https://en.wikipedia.org/wiki/Data-oriented_design
 date_created: 2025-08-16
-date_modified: 2026-05-27
+date_modified: 2026-07-14
 site_uuid: a877a399-c7cb-4f00-81d5-f993d38a5810
 publish: true
 title: Data Oriented Design
@@ -15,6 +15,9 @@ tags:
   - Conceptual-Frameworks
   - Engineering-Management
 augmented_with: Perplexity AI using Sonar Pro
+for_clients:
+  - Laerdal
+  - Param
 ---
 
 

@@ -5,16 +5,18 @@ title: Claude Shannon
 slug: claude-shannon
 at_semantic_version: 0.0.1.1
 date_created: 2026-06-17
-date_modified: 2026-07-07
+date_modified: 2026-07-20
 cf_last_run: 2026-07-07T05:12:19.817Z
 cf_last_run_model: Perplexity sonar-pro
 tags:
   - Influential-Authors
+aliases:
+  - Claude E. Shannon
 ---
 
 [[concepts/Information Flows|Information Flows]]
 
-[[A Mathematical Theory of Communication]]
+[[Sources/Books/A Mathematical Theory of Communication|A Mathematical Theory of Communication]]
 
 # Claude Shannon
 

@@ -2,7 +2,7 @@
 site_uuid: e504654d-314a-447d-b4ff-e14a067d1bfc
 url: 'https://qdrant.tech'
 date_created: 2025-03-10
-date_modified: 2025-05-29
+date_modified: 2026-07-24
 og_title: 'Qdrant - Vector Database'
 og_image: 'https://qdrant.tech/images/previews/social-preview-F.png'
 og_url: 'https://qdrant.tech/'
@@ -15,4 +15,7 @@ tags:
   - Databases
 ---
 
-[[concepts/Explainers for Tooling/Databases]]
+[[concepts/Explainers for Tooling/Databases|Databases]]
+[[concepts/Vector Databases|Vector Databases]]
+
+![Screenshot collage of several vector art software interfaces (e.g., Inkscape, Affinity Designer), showing Bézier curves, anchor points, and scalable logo artwork on canvas.](https://miro.medium.com/v2/resize:fit:1400/1*sbvr1Nc5WyEGHfuL0PyreA.png)

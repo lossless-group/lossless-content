@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-30
-date_modified: 2026-06-30
+date_modified: 2026-07-25
 site_uuid: 8babe509-0827-4af4-bbfb-77957bf7482e
 aliases: [AI Agents, AI Agent, Agent, Agents]
 publish: true
@@ -114,6 +114,7 @@ Several companies are gaining traction with Agentic AI solutions:
 ![[IMG_1799.png]]
 
 
+
 ***
 # Sources
 
@@ -136,4 +137,5 @@ Several companies are gaining traction with Agentic AI solutions:
 [^a3kobt]: 2025, Nov. "[Agent-Omni: Test-Time Multimodal Reasoning via Model Coordination for Understanding Anything | arXiv.org](https://arxiv.org/abs/2511.02834)". Huawei Lin and 5 other authors. [arXiv.org](https://arxiv.org).
 
 [^2n9lx3]: 2025, Apr. "[AI Agents Are Coming: The Agentic Revolution Explained | Thevccorner](https://www.thevccorner.com/p/agentic-revolution-ai-agents)". Ivan Landabaso. [Thevccorner](https://www.thevccorner.com).
+[^ye64om]: Jun 2026. "[The New AI Stack Starts Where the Model Ends | Medium](https://medium.com/@HitachiVentures/the-new-ai-stack-starts-where-the-model-ends-d5840bb17b49)". [[Hitachi Ventures]]. [Medium](https://medium.com).
 

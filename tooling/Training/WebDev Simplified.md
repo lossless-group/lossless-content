@@ -9,9 +9,15 @@ og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/_uploads_lossless_screensho
 jina_last_request: '2025-03-09T06:45:03.196Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-05-27T03:09:24.552Z'
-date_modified: 2025-05-27
+date_modified: 2026-07-24
 date_created: 2025-03-30
 tags: [Training]
 ---
 
 ![](https://i.imgur.com/USlZfVg.jpeg)
+
+[[Tooling/Training/WebDev Simplified|WebDev Simplified]]
+[[Vocabulary/Front-End|Frontend]]
+[[Learning Media]]
+
+

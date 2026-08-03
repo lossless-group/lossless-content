@@ -14,7 +14,7 @@ tags: [Software-Development, Databases, Realtime-Applications, JavaScript-Ecosys
 
 [Wikipedia on IndexedDB](https://en.wikipedia.org/wiki/Indexed_Database_API)
 
-Important to [[concepts/Explainers for Tooling/Realtime Applications|Realtime Applications]] and [[Vocabulary/Local-First Applications|Local-First Application]]
+Important to [[concepts/Explainers for Tooling/Realtime Applications|Realtime Applications]] and [[Local-First Applications|Local-First Application]]
 
 
 

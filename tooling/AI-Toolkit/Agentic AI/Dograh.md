@@ -81,7 +81,7 @@ No reliable public estimates or reports of Dograh’s revenue or ARR were found.
 
 ## Who it's for, who it's not for
 
-Dograh is for **developers, technical teams, and companies** that want to build **production voice agents** with fine‑grained control over models, telephony, workflows, and deployment, especially those in regulated industries requiring self‑hosting and data sovereignty. [^6vdk6j] [^dlt1s0] [^dg6ok5] It also targets businesses that want a **white‑label voice agents platform** similar to [[Tooling/AI-Toolkit/Agentic AI/Vapi|Vapi]] or [[Bolna]] but prefer an open‑source stack and the option to host on their own infrastructure. [^dg6ok5] [^m0m8p3]
+Dograh is for **developers, technical teams, and companies** that want to build **production voice agents** with fine‑grained control over models, telephony, workflows, and deployment, especially those in regulated industries requiring self‑hosting and data sovereignty. [^6vdk6j] [^dlt1s0] [^dg6ok5] It also targets businesses that want a **white‑label voice agents platform** similar to [[Tooling/AI-Toolkit/Agentic AI/Vapi|Vapi]] or [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Bolna AI]] but prefer an open‑source stack and the option to host on their own infrastructure. [^dg6ok5] [^m0m8p3]
 
 Dograh is less suitable for **non‑technical users seeking fully no‑code, turnkey solutions** with minimal configuration, or organizations that do not want to manage any infrastructure and prefer purely managed, opinionated SaaS with limited customization. [^6vdk6j] [^dlt1s0] It is also not ideal for teams whose requirements are basic and can be met by generic contact‑center or IVR tools without the need for custom models, workflows, or self‑hosting. [^6vdk6j] [^dlt1s0]
 

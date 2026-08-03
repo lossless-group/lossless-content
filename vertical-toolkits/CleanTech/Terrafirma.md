@@ -1,8 +1,11 @@
 ---
 date_created: 2025-06-01
-date_modified: 2025-09-21
+date_modified: 2026-07-18
 url: https://www.terrafirma.inc
-tags: [Blue-Economy-Solutions]
+tags:
+  - Blue-Economy-Solutions
+  - Construction-Robots
+  - Vertical-Robotics
 og_title: Revolutionizing infrastructure from the ground up. Born in Texas, transforming how the world builds.
 og_description: TerraFirma is transforming construction through automation and bold engineering—faster, safer, and cheaper. Join us in building the future from Texas.
 og_image: https://cdn.prod.website-files.com/68b0affcfc7be934c9904bc4/68c1d143cbb3cd78d7c651cc_b8c1ea2f0e2ccfa37175b6e1e5b83630_preview.jpg

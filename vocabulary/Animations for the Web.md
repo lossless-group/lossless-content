@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-28
-date_modified: 2025-11-28
+date_modified: 2026-07-25
 site_uuid: 79c5b244-4de9-4161-9eba-7a20f0ecc875
 publish: true
 title: Animations for the Web
@@ -20,6 +20,8 @@ https://youtu.be/9eHEOAn2FOA?si=EpBu-Ek-f5L5L6FT
 
 https://youtu.be/GXh0Vxg7AnQ?si=FM6U3kLpGhX2ylOv
 
+[[concepts/Explainers for Tooling/Lottie Files|Lottie Files]]
+[[Vocabulary/Scalable Vector Graphics|SVG]]
 
 
 ***

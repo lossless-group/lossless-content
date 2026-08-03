@@ -116,7 +116,7 @@ It is not ideal for organizations that require a full‑stack enterprise BI plat
 ## Viable Alternatives
 
 - **[[Metabase]]** – Open source [[Vocabulary/Business Intelligence|Business Intelligence]] and dashboarding tool that connects to many SQL databases and provides a non‑technical, question‑driven interface and dashboards, more focused on visualization than on turning [[Tooling/Software Development/Databases/SQLite|SQLite]] into a general API and app host.  
-- **Superset ([[Apache Superset]])** – Open source data exploration and visualization platform with rich dashboards and SQL Lab, oriented toward data warehouses and BI use cases rather than lightweight SQLite‑first publishing.  
+- **Superset ([[Tooling/Data Utilities/Apache Superset]])** – Open source data exploration and visualization platform with rich dashboards and SQL Lab, oriented toward data warehouses and BI use cases rather than lightweight SQLite‑first publishing.  
 - **CKAN** – Open source open-data portal platform used by governments and organizations to publish datasets, more opinionated around catalogs and metadata compared to Datasette’s lightweight SQLite‑centric model.  
 - **Redash** – SQL-based dashboarding and visualization frontend for multiple data sources, providing collaborative queries and charts but not the same SQLite‑to‑website/API focus.  
 - **[[organizations/Hasura|Hasura]] (on SQLite or other DBs)** – GraphQL engine that auto‑generates APIs over databases, useful for app backends but requiring more infrastructure and not providing Datasette’s out‑of‑the‑box browsing UI or plugin ecosystem.  

@@ -2,7 +2,7 @@
 cf_last_run: 2026-05-26T23:28:02.036Z
 cf_last_run_model: Perplexity sonar-pro
 date_created: 2026-05-25
-date_modified: 2026-06-06
+date_modified: 2026-07-24
 site_uuid: 924d37db-987c-4e63-987c-3563054fc531
 publish: true
 title: Code Intelligence
@@ -17,12 +17,16 @@ for_clients:
   - Laerdal
   - Param
   - Tonguc
+aliases:
+  - Codebase Intelligence
 ---
 [[concepts/Explainers for AI/Code Generators|Code Generators]]
 [[CodeGraph]]
 [[concepts/Repository Management|Repository Management]]
 [[Tooling/AI-Toolkit/Generative AI/Code Generators/CodeRabbit|CodeRabbit]]
 [[Tooling/Software Development/Developer Experience/JetBrains|JetBrains]]
+[[Tooling/Software Development/DevOps/Developer Experience/Fallow Tools|Fallow Tools]]
+[[Tooling/AI-Toolkit/Generative AI/Code Generators/AppMap|AppMap]]
 
 # Defining and Describing Code Intelligence
 

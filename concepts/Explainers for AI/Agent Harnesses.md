@@ -1,7 +1,7 @@
 ---
 tags: [Agentic-Engineering, Context-Engineering, Context-Vigilance, State-of-the-Art, Explainers]
 date_created: 2026-06-19
-date_modified: 2026-07-07
+date_modified: 2026-07-24
 cf_last_run: "2026-06-22T23:30:34.384Z"
 cf_last_run_model: "Perplexity sonar-pro"
 for_clients:
@@ -146,6 +146,7 @@ This harness lets the agent understand the product, navigate across different mo
 ![Screenshot-style mock of a multi-product SaaS AI assistant interface, annotated to show underlying harness pieces like tools, schemas, and permission checks](https://cdn.prod.website-files.com/65c81e88c254bb0f97633a71/69cba9b378fbdcbc9db3067e_image.png)
 
 
+
 ***
 
 # Sources
@@ -158,3 +159,4 @@ This harness lets the agent understand the product, navigate across different mo
 [^8bmnhu]: [The Anatomy of an Agent Harness - by Avi Chawla](https://blog.dailydoseofds.com/p/the-anatomy-of-an-agent-harness)
 [^9t2uix]: [The Agent Harness: Why the LLM Is the Smallest Part of ... - MongoDB](https://www.mongodb.com/company/blog/technical/agent-harness-why-llm-is-smallest-part-of-your-agent-system)
 [^hgtxj0]: [Code as Agent Harness Toward Executable, Verifiable, and Stateful ...](https://arxiv.org/html/2605.18747v1)
+[^qi49nf]: "[AI Superstream: AI Harnesses - O'Reilly Media | Oreilly](https://www.oreilly.com/live/ai-superstream-ai-harnesses.html)". [Oreilly](https://www.oreilly.com).

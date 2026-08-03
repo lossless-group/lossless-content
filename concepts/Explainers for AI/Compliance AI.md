@@ -1,6 +1,6 @@
 ---
 date_created: 2025-07-30
-date_modified: 2025-10-14
+date_modified: 2026-08-02
 tags: [Compliance-AI, GRC-Platforms]
 site_uuid: 9e031eb0-20ad-4f32-a833-9f59aee1c682
 publish: true
@@ -25,6 +25,7 @@ covers_tags:
 [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Integral|Integral]]
 [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Delve|Delve]]
 [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Blackbird AI|Blackbird AI]]
+[[Comp AI]]
 :::
 
 :::tool-gallery

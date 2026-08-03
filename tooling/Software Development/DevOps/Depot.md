@@ -90,7 +90,7 @@ Depot is not ideal for teams that **do not use Docker or OCI containers**, or fo
 ## Viable Alternatives
 
 - **Docker Build Cloud / Docker Hub‑integrated build services** – provides remote builds and caching integrated into the Docker ecosystem, competing directly on speed and convenience for Docker users.  
-- **GitHub Actions with self‑hosted runners + Docker Buildx** – teams can provision powerful runners and use [[Buildx]] caching to accelerate builds without a separate service.  
+- **GitHub Actions with self‑hosted runners + Docker Buildx** – teams can provision powerful runners and use [[Tooling/Software Development/DevOps/Buildx]] caching to accelerate builds without a separate service.  
 - **GitLab CI with built‑in Docker registry and runners** – integrated CI/CD and container registry solution that can be tuned for faster builds.  
 - **CircleCI with remote Docker executors** – managed CI with specialized Docker execution environments that speed up container builds.  
 

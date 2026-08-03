@@ -17,4 +17,4 @@ tags:
   - Databases
 ---
 
-[[Vector Databases]]
+[[concepts/Vector Databases]]

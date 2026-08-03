@@ -19,9 +19,9 @@ cf_last_run_model: Perplexity sonar-pro
 ---
 
 
-[[concepts/Open Source Alternatives|Open Source Alternative]] to [[Tooling/Enterprise Jobs-to-be-Done/Adobe Illustrator|Adobe Illustrator]] and [[Affinity Designer]]
+[[concepts/Open Source Alternatives|Open Source Alternative]] to [[Tooling/Enterprise Jobs-to-be-Done/Adobe Illustrator|Adobe Illustrator]] and [[Tooling/Creative/Affinity Designer]]
 
-[[Vector Art Software|Vector Graphics Software]]
+[[concepts/Vector Art Software|Vector Graphics Software]]
 
 
 
@@ -124,7 +124,7 @@ It is less suited to teams requiring deep integration with the Adobe Creative Cl
 | Competitor                                                                  | Description                                                                                                                                                                   |
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[Tooling/Enterprise Jobs-to-be-Done/Adobe Illustrator\|Adobe Illustrator]] | Professional, subscription-based vector graphics editor integrated into Adobe Creative Cloud, widely used for branding, illustration, and print design.                       |
-| [[Affinity Designer]]                                                       | One‑time purchase vector and raster design application positioned as a lower-cost professional alternative to Illustrator.                                                    |
+| [[Tooling/Creative/Affinity Designer]]                                                       | One‑time purchase vector and raster design application positioned as a lower-cost professional alternative to Illustrator.                                                    |
 | [[Gravit Designer]]                                                         | Cross‑platform, freemium vector design tool with cloud features, aimed at web, UI, and marketing graphics work.                                                               |
 | [[LibreOffice Draw]]                                                        | Free, open-source diagramming and drawing tool within the LibreOffice suite that can handle basic vector graphics but with a more limited feature set than dedicated editors. |
 

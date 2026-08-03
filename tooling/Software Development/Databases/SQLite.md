@@ -7,7 +7,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:13.156Z
 jina_error: Error occurred
 og_last_fetch: 2025-05-29T17:07:05.494Z
-date_modified: 2026-06-06
+date_modified: 2026-07-24
 date_created: 2025-03-30
 url: https://www.sqlite.org/
 tags:
@@ -22,7 +22,10 @@ cf_last_run_model: Perplexity sonar-pro
 
 https://youtu.be/lSVgeMoXJTs?si=O8wT4zdiEo2sxnoU
 
-[[Tooling/Software Development/Databases/llibSQL]]
+[[Tooling/Software Development/Databases/llibSQL|llibSQL]] is a [[concepts/Rust Rebuilds|Rust Rebuilds]]
+
+ 
+
 
 # Value Proposition & Features
 

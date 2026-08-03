@@ -8,7 +8,7 @@ favicon: https://odin-lang.org/favicon.svg
 jina_last_request: 2025-03-09T06:45:19.816Z
 jina_error: Error occurred
 og_last_fetch: 2025-06-06T13:45:11.932Z
-date_modified: 2026-06-19
+date_modified: 2026-07-14
 date_created: 2025-03-30
 og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250605_Odin_og_screenshot.jpeg
 og_image: https://odin-lang.org/images/logo-slim.png
@@ -25,6 +25,12 @@ cf_last_run_model: Perplexity sonar-pro
 ---
 
 https://youtu.be/xDNSS9oZYPo?is=W9xjYz_9EyY7cAm4
+
+https://youtu.be/z_GpYtSbgts?is=KLMBism8j_kUpNDy
+
+[[concepts/Data-Oriented Design|Data-Oriented Design]]
+[[Data-Oriented Languages|Data-Oriented Language]]
+
 
 # Value Proposition & Features
 

@@ -26,7 +26,7 @@ cf_last_run_model: Perplexity sonar-deep-research
 ---
 # Midjourney: A Profile
 
-**Midjourney is a bootstrapped [[AI Research Lab]] that developed a leading text-to-image generator known for distinctive aesthetic quality and style coherence.**[^1hwaet] [^1hwaet] Operating entirely through the Discord platform rather than a standalone application, the company has achieved over $500 million in annual revenue with approximately 100 employees and zero external venture funding, making it one of the most capital-efficient and profitable technology companies operating at scale. [^aidy48] The platform serves creative professionals who value visual taste and artistic direction over literal instruction following, distinguishing itself in a competitive market dominated by major technology companies including Google, Adobe, and OpenAI.
+**Midjourney is a bootstrapped [[concepts/Explainers for AI/AI Research Labs]] that developed a leading text-to-image generator known for distinctive aesthetic quality and style coherence.**[^1hwaet] [^1hwaet] Operating entirely through the Discord platform rather than a standalone application, the company has achieved over $500 million in annual revenue with approximately 100 employees and zero external venture funding, making it one of the most capital-efficient and profitable technology companies operating at scale. [^aidy48] The platform serves creative professionals who value visual taste and artistic direction over literal instruction following, distinguishing itself in a competitive market dominated by major technology companies including Google, Adobe, and OpenAI.
 
 ## Value Proposition & Features
 

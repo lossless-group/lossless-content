@@ -1,6 +1,6 @@
 ---
 date_created: 2025-01-03
-date_modified: 2026-05-22
+date_modified: 2026-07-20
 aliases:
   - Reduced Instruction Set Computing
   - RISC
@@ -14,9 +14,11 @@ tags:
   - Open-Innovation
   - Hardware
 ---
-[[Vocabulary/Computer Architecture|Computer Architecture]], [[concepts/Open Specifications|Open Specifications]], [[concepts/Emergent Innovation|Emergent Innovation]] [[concepts/Open Innovation|Open Innovation]]
+[[Vocabulary/Computer Architecture|Computer Architecture]], [[concepts/Open Specifications|Open Specifications]], [[concepts/Emergent Innovation|Emergent Innovation]] [[concepts/Open Innovation|Open Innovation]], [[Vocabulary/Instruction Set Architecture|Instruction Set Architecture]]
 
 https://youtu.be/8whPlw3FJ4A?si=hhusrcOJcmb4rYvX
+
+https://youtu.be/vSKA6thLI1U?is=fl-AWLWTnQdLTHiv
 
 Here's a good overview on [[YouTube]] of a laptop built on RISC-V: [RISC-V is here! Framework 13 news!](https://youtu.be/98OwCIpLgjw?si=MZa2KVnny44ogBO4) [[organizations/Framework|Framework]]
 
@@ -56,7 +58,7 @@ RISC‑V is an open, modular instruction set architecture (ISA) that anyone can 
 
 ## 1. What RISC‑V is (in plain terms)
 
-An ISA is the “language” that software uses to talk to a CPU: which instructions exist, how they are encoded, how registers and memory are addressed, etc. [^3cgsj8] RISC‑V defines that language but does **not** define one particular chip; many different CPUs can implement the same ISA.
+An [[Vocabulary/Instruction Set Architecture|ISA]] is the “language” that software uses to talk to a CPU: which instructions exist, how they are encoded, how registers and memory are addressed, etc. [^3cgsj8] RISC‑V defines that language but does **not** define one particular chip; many different CPUs can implement the same ISA.
 
 Key characteristics:
 
@@ -72,7 +74,7 @@ This combination of openness + modularity is what makes it different from x86 an
 
 ### 2.1 Open vs closed
 
-- **x86**: Only [[organizations/Intel|Intel]] and [[organizations/AMD|AMD]] can make full x86 CPUs; everyone else must license or use their chips. [^rev7cq]  
+- **x86**: Only [[organizations/Intel|Intel]] and [[organizations/AMD|AMD]] can make full [[x86]] [[Vocabulary/CPUs|CPUs]]; everyone else must license or use their chips. [^rev7cq]  
 - **Arm**: Any company can license the ISA and buy CPU cores or design their own, but only under commercial license terms and export control. [^g4to83] [^rev7cq]  
 - **RISC‑V**: Anyone can design, implement, and sell a RISC‑V CPU without paying ISA license fees or needing permission. [^g4to83] [^rev7cq] [^wk0nev] [^scnd50]
 
@@ -108,7 +110,7 @@ That makes it appealing to safety‑critical (automotive, aerospace) and long‑
 The real “spec vs spec” transformation is less about any single instruction and more about who gets to participate:
 
 - Open ISA standards support broader global collaboration—companies, universities, individuals can contribute designs, cores, and tools. [^rev7cq] [^wk0nev] [^scnd50]  
-- It shifts innovation from “inside one company (Intel/Arm)” to “a shared ecosystem around a common open spec,” similar to what Linux did in operating systems.
+- It shifts innovation from “inside one company ([[organizations/Intel|Intel]]/[[Sources/Standards-and-Specs/ARM|ARM]])” to “a shared ecosystem around a common open spec,” similar to what Linux did in operating systems.
 
 ![Additional supporting visual content](https://dfimg.dfrobot.com/enshop/image/cache3/Blog/13465/1.png)
 

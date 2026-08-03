@@ -1,5 +1,5 @@
 ---
-date_modified: 2025-09-23
+date_modified: 2026-07-17
 site_uuid: 034a87c1-c8f7-41fd-bc87-ecbc97de5bf0
 date_created: 2024-06-06
 aliases: [Container, Containerization]
@@ -15,6 +15,7 @@ augmented_with: Perplexity AI
 - [[Tooling/Software Development/Developer Experience/DevOps/Docker|Docker]]
 - [[Tooling/Software Development/Cloud Infrastructure/Podman|Podman]]
 - [[Tooling/Software Development/Developer Experience/DevOps/ContainerD|ContainerD]]
+- [[Tooling/Software Development/DevOps/Buildah]]
 :::
 
 The market standard service to implement container-based engineering is [[Tooling/Software Development/Developer Experience/DevOps/Docker|Docker]], though the engineering influencers have started to rave about [[ContainerD]] and [[Tooling/Software Development/Cloud Infrastructure/Podman|Podman]]. 
@@ -33,7 +34,7 @@ Containers have proliferated so much, tooling like [[Kubernetes]] have popped up
 
 ### Introduction
 
-**Containers** are lightweight, portable units for packaging software and its dependencies, enabling consistent operation across diverse computing environments. [^v2trbh] [^5fezxs] In **cloud-native software architecture**, containerization plays a pivotal role in building scalable, reliable, and highly efficient applications that fully leverage cloud resources. [^96uq5w] [^5fezxs] As organizations move toward microservices and distributed systems, containerization has become a cornerstone technology in modern digital transformation.
+**Containers** are lightweight, portable units for packaging software and its dependencies, enabling consistent operation across diverse computing environments. [^v2trbh] [^5fezxs] In **cloud-native software architecture**, containerization plays a pivotal role in building scalable, reliable, and highly efficient applications that fully leverage cloud resources. [^96uq5w] [^5fezxs] As organizations move toward [[Vocabulary/Microservices|Microservices]] and [[Vocabulary/Distributed Systems|Distributed Systems]], containerization has become a cornerstone technology in modern digital transformation.
 
 ![Containers and Containerization in Cloud-Native Software Architecture concept diagram or illustration](https://media.geeksforgeeks.org/wp-content/uploads/20230415110023/Cloud-Native-Images-(1).jpg)
 
@@ -64,7 +65,7 @@ However, challenges do exist:
 
 ### Current State and Trends
 
-The adoption of containers in **cloud-native development** is now mainstream, driven by platforms such as **Docker, Kubernetes, and OpenShift**. [^96uq5w] [^5fezxs] The market continues to grow as enterprises modernize monolithic applications to microservice-based, container-oriented architectures. **Kubernetes** is widely recognized as the leading orchestration platform, with strong support from public clouds like AWS, Azure, and Google Cloud. [^96uq5w] [^5fezxs] Key players include **Docker Inc.**, **Red Hat (OpenShift)**, and **Google** (GKE).
+The adoption of containers in **cloud-native development** is now mainstream, driven by platforms such as **Docker, [[Tooling/Software Development/Developer Experience/DevOps/Kubernetes|Kubernetes]], and [[Tooling/Software Development/DevOps/OpenShift]]**. [^96uq5w] [^5fezxs] The market continues to grow as enterprises modernize monolithic applications to microservice-based, container-oriented architectures. **Kubernetes** is widely recognized as the leading orchestration platform, with strong support from public clouds like AWS, Azure, and Google Cloud. [^96uq5w] [^5fezxs] Key players include **Docker Inc.**, **Red Hat (OpenShift)**, and **Google** (GKE).
 
 Recent trends include:
 - The rise of **serverless containers** and hybrid cloud deployments.

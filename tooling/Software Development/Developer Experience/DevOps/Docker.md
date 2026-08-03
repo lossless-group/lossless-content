@@ -9,7 +9,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:09.462Z
 jina_error: Error occurred
 og_last_fetch: 2025-06-05T20:00:13.485Z
-date_modified: 2026-06-29
+date_modified: 2026-07-20
 date_created: 2025-03-30
 tags:
   - Software-Development
@@ -29,8 +29,12 @@ cf_last_run_model: Perplexity sonar-pro
 
 https://youtu.be/gUjVnq9hhTE?is=o3sqTPoZpcYow11B
 
+https://youtu.be/aZ_y2M2OuEA?is=vhrekWKQeS2AHyoO
+
 [[Tooling/Software Development/Developer Experience/DevOps/ContainerD|ContainerD]]
 [[Tooling/Software Development/Cloud Infrastructure/Podman|Podman]]
+[[Rancher]]
+
 
 ##### Docker focuses on [[concepts/Getting Started|Getting Started]]
 [[concepts/Getting Started|Getting Started]] manages the Docker [[Visual Studio Code|VS Code]] [[Plug-ins,  Add-ons,  Extensions|Extension]], which immediately thrusts the user into [[concepts/Getting Started|Getting Started]] documentation.
@@ -129,7 +133,7 @@ Docker is less suited for organizations that only run monolithic applications on
 | [Kubernetes](https://kubernetes.io) | Open‑source system for automating deployment, scaling, and management of containerized applications across clusters, often used with images originally built via Docker. [^4jdw8x] |
 | [Podman](https://podman.io) | Container engine that runs containers without a central daemon and supports building and running OCI containers, positioned as an alternative to Docker’s daemon‑based model. [^ozq149] |
 | [Buildah](https://buildah.io) | Tool focused on building and modifying container images without a daemon, maintaining Dockerfile‑style workflows while allowing detailed control over image creation. [^ozq149] |
-
+Sources: [^ozq149] [^2gtm7y]
 
 ***
 
@@ -142,3 +146,4 @@ Docker is less suited for organizations that only run monolithic applications on
 [5]: [GitHub - linuxserver/docker-modrinth](https://github.com/linuxserver/docker-modrinth)
 [^ozq149]: [Building containerized applications - Red Hat Developer](https://developers.redhat.com/topics/containers)
 [7]: [CUDA Deep Learning - NGC Catalog - NVIDIA](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/cuda-dl-base)
+[^2gtm7y]: "[What are Docker Alternatives? | JFrog](https://jfrog.com/learn/devops/alternatives-to-docker/)". 1 minute. [JFrog](https://jfrog.com).

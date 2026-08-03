@@ -1,7 +1,7 @@
 ---
 url: https://origami.chat
 date_created: 2026-07-07
-date_modified: 2026-07-07
+date_modified: 2026-07-16
 og_title: Find your perfect customers in one prompt
 og_description: Describe your ideal customer and Origami finds them. AI-powered prospecting that turns a single prompt into a qualified lead list.
 og_image: https://origami.chat/og-image.png?v=2
@@ -27,9 +27,12 @@ tags:
   - Sales-AI
   - Sales-Tools
   - Sales-Agents
+  - Context-Augmenters
+  - Data-Augmenters
 cf_last_run: 2026-07-07T02:44:12.322Z
 cf_last_run_model: Perplexity sonar-pro
 ---
+[[concepts/Data Augmentation Workflow|Data Augmentation Workflows]]
 
 # Value Proposition & Features
 
@@ -76,7 +79,7 @@ The platform’s core value proposition is that you can “describe your ideal c
 
 As of July 07, 2026,
 
-- **2026‑06 (blog content positioning Origami as Clay alternative)** – Origami’s blog article “10 Clay Alternatives Tested: What Actually Works (2026)” introduces Origami’s capabilities like natural language prospecting, live web search, built‑in email and LinkedIn sequencing, and tracking buying signals, effectively announcing these features as part of its current product direction. [^2avs6g]  
+- **2026‑06 (blog content positioning Origami as [[Tooling/AI-Toolkit/Data Augmenters/Clay|Clay]] alternative)** – Origami’s blog article “10 Clay Alternatives Tested: What Actually Works (2026)” introduces Origami’s capabilities like natural language prospecting, live web search, built‑in email and LinkedIn sequencing, and tracking buying signals, effectively announcing these features as part of its current product direction. [^2avs6g]  
 
 (Only one substantive, dated roadmap/feature‑style announcement within the last ~6 months could be reliably sourced.)
 

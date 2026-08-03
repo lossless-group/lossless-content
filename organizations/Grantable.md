@@ -1,10 +1,22 @@
 ---
 url: https://grantable.co/
 date_created: 2026-05-23
-date_modified: 2026-05-26
+date_modified: 2026-07-25
 cf_last_run: 2026-05-26T00:17:34.244Z
 cf_last_run_model: Perplexity sonar-pro
+og_title: AI Grant Writing & Management Platform
+og_description: Grantable is an AI-native grant writing and management platform. Write grant proposals with your AI grants department — it remembers your organization, discover aligned funders from 990 data, and manage your full grant lifecycle.
+og_image: https://grantable.co/og-default.png
+og_favicon: https://grantable.co/favicon.ico
+og_site_name: Grantable
+og_type: website
+og_last_fetch: 2026-07-25T04:36:14.215Z
+site_name: Grantable
+tags:
+  - Grantwriting-Agents
+  - AI-Powered-Grant-Sourcing
 ---
+
 
 # Grantable
 

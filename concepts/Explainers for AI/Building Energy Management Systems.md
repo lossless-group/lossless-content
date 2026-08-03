@@ -5,7 +5,7 @@ title: Building Energy Management Systems
 slug: building-energy-management-systems
 at_semantic_version: 0.0.0.1
 date_created: 2026-05-23
-date_modified: 2026-05-25
+date_modified: 2026-07-16
 aliases:
   - BEMS
 tags:
@@ -17,6 +17,9 @@ tags:
 cf_last_run: 2026-05-25T18:59:48.774Z
 cf_last_run_model: Perplexity sonar-pro
 ---
+"Smart BMS"
+
+[[Edviro]]
 
 # Defining and Describing Building Energy Management Systems
 
