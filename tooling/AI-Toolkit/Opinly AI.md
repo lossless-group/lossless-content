@@ -15,5 +15,5 @@ at_semantic_version: 0.0.0.1
 tags: [AI-Toolkit, Marketing-Strategies, Enterprise-AI, Founder-Toolkit]
 ---
 [[Vocabulary/Search Engine Optimization|Search Engine Optimization]]
-[[concepts/Explainers for AI/Generative Engine Optimization|Generative Engine Optimization]]
+[[concepts/Explainers for AI/Generative Answer Engine Optimization|Generative Answer Engine Optimization]]
 

@@ -55,7 +55,7 @@ In innovation and startup contexts, **MFA** applies anywhere you’re gating val
   - **Password-only login:** The most common real-world single-factor pattern; synonymous in many SaaS contexts with “no MFA.”[^47q2su] [^z4sut7] [^achx6q]  
 
 - **Adjacent terms**
-  - [[Identity and Access Management]] (IAM) – MFA is a core control within IAM strategies and products. [^s2j7jo] [^bq244e]  
+  - [[concepts/Identity and Access Management]] (IAM) – MFA is a core control within IAM strategies and products. [^s2j7jo] [^bq244e]  
   - [[Zero Trust Security]] – MFA is a foundational enforcement point in zero-trust architectures, where every access is continuously verified. [^s2j7jo] [^z4sut7]  
   - [[Single Sign-On]] (SSO) – SSO providers often centralize and enforce MFA across many apps. [^s2j7jo] [^bq244e]  
   - [[Passwordless Authentication]] – Often implemented via WebAuthn/passkeys and hardware keys, technically a form of MFA or strong authentication that reduces visible passwords. [^s2j7jo] [^bq244e]  

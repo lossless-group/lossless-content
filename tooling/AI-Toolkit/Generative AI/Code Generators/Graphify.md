@@ -1,10 +1,10 @@
 ---
-url: https://graphifylabs.ai/
+url: https://graphify.com/
 date_created: 2026-03-21
-date_modified: 2026-05-28
-og_title: "Graphify: Any input. One graph. Complete recall."
+date_modified: 2026-08-05
+og_title: Any input. One graph. Complete recall.
 og_description: The open-source knowledge graph engine. Turn code, docs, papers, meetings and images into a traversable graph. Build once, grow forever. On-device or cloud.
-og_image: "[]"
+og_image: https://i.imgur.com/vUz0Wlk.jpeg
 og_favicon: https://graphifylabs.ai/favicon.ico
 og_last_fetch: 2026-05-28T04:48:33.649Z
 tags:
@@ -17,24 +17,30 @@ tags:
   - Context-Layers
   - Context-Vigilance
   - Lossless-Toolkit
+  - Open-Source
 cf_last_run: 2026-05-28T04:49:17.077Z
 cf_last_run_model: Perplexity sonar-pro
 site_uuid: 7274515f-5cff-44ca-ab37-f4baba87d401
 publish: true
-title: Graphify
+site_name: Graphify
 slug: graphify
 at_semantic_version: 0.0.1.1
 github_repo_url: https://github.com/safishamsi/graphify
 ---
+![2026-08-04_Screenshot_Graphify_12.26.39 PM.png](https://i.imgur.com/vUz0Wlk.jpeg)
+
+[[concepts/Explainers for AI/Large Codebase AI|Large Codebase AI]]
+[[concepts/Explainers for AI/Memory Layers|Memory Layer]]
+[[concepts/Explainers for AI/Context Layers|Context Layer]]
 
 # Value Proposition & Features
 
-Graphify is an **open‑source knowledge graph engine** that turns code, documentation, databases, configuration, papers, meetings, images and other artifacts in a project folder into a **queryable knowledge graph** for AI coding assistants. [^q0nlmu] [^oq4fia] It acts as a “**memory layer**” for software projects so assistants can query a persistent graph instead of repeatedly scanning raw files with grep or ad‑hoc search. [^q0nlmu] [^93gnq8] This enables faster, more accurate understanding of complex codebases and technical systems for development, debugging, and architecture work. [^q0nlmu] [^oq4fia] [^93gnq8]
+Graphify is an **open‑source [[concepts/Explainers for AI/Knowledge Graphs|Knowledge Graph]] [[Knowledge Graph Engine]]** that turns code, documentation, databases, configuration, papers, meetings, images and other artifacts in a project folder into a **queryable knowledge graph** for AI coding assistants. [^q0nlmu] [^oq4fia] It acts as a “**[[concepts/Explainers for AI/Memory Layers|Memory Layer]]**” for software projects so assistants can query a persistent graph instead of repeatedly scanning raw files with grep or ad‑hoc search. [^q0nlmu] [^93gnq8] This enables faster, more accurate understanding of complex codebases and technical systems for development, debugging, and architecture work. [^q0nlmu] [^oq4fia] [^93gnq8]
 
 ## **Core product features**
 
 - **Automated project graph building**  
-Graphify crawls a project’s code, docs, SQL schemas, scripts, configuration, papers, images, video and audio, uses LLMs to extract entities and relationships, and emits a unified knowledge graph (e.g., `graph.json`). [^q0nlmu] [^oq4fia] [^po2oez] The CLI workflow is minimal: after installation, running `/graphify .` or `graphify build` maps the entire project into this graph for later querying without rescanning files. [^q0nlmu] [^oq4fia] [^2wzifs]
+Graphify crawls a project’s code, docs, SQL schemas, scripts, configuration, papers, images, video and audio, uses LLMs to extract entities and relationships, and emits a unified knowledge graph (e.g., `graph.json`). [^q0nlmu] [^oq4fia] [^po2oez] The [[Vocabulary/Command-Line Interfaces|CLI]] workflow is minimal: after installation, running `/graphify .` or `graphify build` maps the entire project into this graph for later querying without rescanning files. [^q0nlmu] [^oq4fia] [^2wzifs]
 
 - **Rich graph querying and navigation**  
 Users can query the graph from the terminal with commands like `graphify query "show the auth flow"` or `graphify query "what connects DigestAuth to Response?"`, returning relevant subgraphs instead of large text dumps. [^oq4fia] [^2wzifs] Additional commands such as `graphify path "UserService" "DatabasePool"` find shortest paths between entities, and `graphify explain "RateLimiter"` gives plain‑language summaries of nodes. [^2wzifs]
@@ -48,7 +54,7 @@ Graphify is positioned as “the open‑source knowledge graph engine” that ca
 **Key features (5–8 bullets, priority order)**  
 
 - **Turn any folder of code, SQL schemas, scripts, docs, papers, images, videos into a queryable knowledge graph**. [^oq4fia] [^po2oez]  
-- **Add a “memory layer” over projects**, connecting code entities, documentation concepts, database tables, configuration, design notes and cross‑file relationships. [^q0nlmu] [^93gnq8]  
+- **Add a “[[concepts/Explainers for AI/Memory Layers|Memory Layer]]” over projects**, connecting code entities, documentation concepts, database tables, configuration, design notes and cross‑file relationships. [^q0nlmu] [^93gnq8]  
 - **Simple CLI workflow**: `/graphify .` or `graphify build` to construct the graph, with output like `graphify-out/graph.json`. [^q0nlmu] [^oq4fia] [^2wzifs]  
 - **Graph queries from terminal** via `graphify query`, `graphify path`, and `graphify explain` for subgraphs, shortest paths, and node summaries. [^oq4fia] [^2wzifs]  
 - **MCP server mode** for repeated, tool‑based access by AI assistants (`python -m graphify.serve graphify-out/graph.json`). [^oq4fia]  
@@ -103,8 +109,8 @@ It is not ideal for non‑technical users needing a simple note‑taking app, or
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | Sourcegraph [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Cody\|Cody]] | AI coding assistant with repository-wide intelligence and search; provides code navigation and context to LLMs. |
 | [[Tooling/Software Development/Databases/Neo4j\|Neo4j]]                     | General-purpose graph database that can store code/doc graphs when paired with custom ingestion pipelines.      |
-| LangChain                                                                   | LLM framework for building retrieval-augmented and tool-using apps, including document and graph-style indexes. |
-| [LlamaIndex]                                                                | Data framework for LLM apps that can build structured indices (including graph-like) over documents.            |
+| [[Tooling/AI-Toolkit/AI Programming Frameworks/LangChain\|LangChain]]       | LLM framework for building retrieval-augmented and tool-using apps, including document and graph-style indexes. |
+| [[Tooling/AI-Toolkit/LlamaIndex\|LlamaIndex]]                               | Data framework for LLM apps that can build structured indices (including graph-like) over documents.            |
 
 
 *(Descriptions are based on general positioning from industry coverage; current Graphify‑specific sources reference the broader idea of knowledge graphs and AI coding assistants but do not enumerate a formal competitor list. [^po2oez] [^93gnq8])*

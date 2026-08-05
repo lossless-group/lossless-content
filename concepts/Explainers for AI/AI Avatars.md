@@ -174,7 +174,7 @@ Several companies and technologies specialize in creating and deploying AI avata
 
 #### **5. Social Media and Virtual Influencers**
 
-- **[[Brud]]**:
+- **[[organizations/Brud]]**:
     - The company behind Lil Miquela, a popular virtual influencer on Instagram.
 - **Virtual Beings by [[Genies]]**:
     - Focused on creating avatars for social media and metaverse applications.

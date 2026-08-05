@@ -85,7 +85,7 @@ In innovation and startup contexts, **“Blackwell” almost always refers to NV
   Better term: **“frontier model”**, **“LLM”**, or the specific model name (e.g., GPT‑style, diffusion model). Blackwell is the hardware architecture that *runs* such models, not the models themselves. [^vx6io1] [^9ogm2i]
 
 - **Conflating Blackwell with a generic “AI factory” or data center.**  
-  Better term: **“AI data center”** or **“[[AI Factory]]”** when referring to the overall facility; use **Blackwell** specifically for the GPU/accelerator layer within that facility. [^vx6io1]
+  Better term: **“AI data center”** or **“[[concepts/AI Factory]]”** when referring to the overall facility; use **Blackwell** specifically for the GPU/accelerator layer within that facility. [^vx6io1]
 
 
 ***

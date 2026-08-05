@@ -2,7 +2,7 @@
 site_uuid: 9b5a4d01-663b-464e-9207-ba23b636ddcc
 url: 'https://www.f5.com/go/product/welcome-to-nginx'
 zinger: 'Optimize, deliver, and secure apps across the entire enterprise with NGINX'
-date_modified: 2025-06-06
+date_modified: 2026-08-03
 date_created: 2025-03-30
 og_title: 'Welcome to F5 NGINX'
 og_image: 'https://www.f5.com/go/product/welcome-to-nginx.socialImage.png'
@@ -14,4 +14,5 @@ title: 'Welcome to F5 NGINX'
 description: "NIGINX is part of F5, and all previous NGINX.com links now redirect to content on F5.com. Don't worry, we still have all your needs covered to navigate to the pages you're looking for."
 tags: [Software-Development]
 ---
+[[Caddy]]
 

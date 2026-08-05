@@ -1,13 +1,20 @@
 ---
 date_created: 2025-11-18
-date_modified: 2025-11-20
+date_modified: 2026-08-04
 site_uuid: 4b8eaf72-c831-48a7-8413-c16148f27968
 publish: true
 title: Generative Engine Optimization
 slug: generative-engine-optimization
 at_semantic_version: 0.0.0.1
-aliases: [GEO]
-tags: [State-Of-The-Art-Practices, Digital-Marketing-Tools, Marketing-Strategies]
+aliases:
+  - GEO
+  - Answer Engine Optimization
+  - AEO
+  - Generative Engine Optimiziation
+tags:
+  - State-Of-The-Art-Practices
+  - Digital-Marketing-Tools
+  - Marketing-Strategies
 ---
 :::tool-showcase
 - [[Tooling/AI-Toolkit/Bear AI|Bear AI]]

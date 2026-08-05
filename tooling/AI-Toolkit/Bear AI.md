@@ -14,6 +14,6 @@ for_clients:
   - Tonguc
   - Laerdal
 ---
- [[concepts/Explainers for AI/Generative Engine Optimization|Generative Engine Optimization]]
+ [[concepts/Explainers for AI/Generative Answer Engine Optimization|Generative Answer Engine Optimization]]
 
 

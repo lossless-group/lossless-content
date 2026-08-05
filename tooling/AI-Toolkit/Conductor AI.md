@@ -15,4 +15,4 @@ og_last_fetch: 2025-11-19T11:25:08.329Z
 site_name: Conductor AI
 tags: [Generative-Engine-Optimization-Tools, Digital-Marketing-Tools, AI-Toolkit, AI-Native, State-of-the-Art, Check-It-Out, Founder-Toolkit]
 ---
-[[concepts/Explainers for AI/Generative Engine Optimization|Generative Engine Optimization]]
+[[concepts/Explainers for AI/Generative Answer Engine Optimization|Generative Answer Engine Optimization]]

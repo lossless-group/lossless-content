@@ -16,4 +16,4 @@ slug: brand-push
 at_semantic_version: 0.0.0.1
 ---
 [[Vocabulary/Search Engine Optimization|Search Engine Optimization]]
-[[concepts/Explainers for AI/Generative Engine Optimization|Generative Engine Optimization]]
+[[concepts/Explainers for AI/Generative Answer Engine Optimization|Generative Answer Engine Optimization]]

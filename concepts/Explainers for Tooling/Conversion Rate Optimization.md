@@ -5,7 +5,7 @@ aliases:
   - conversion rate optimization
   - CRO
 date_created: 2026-05-10
-date_modified: 2026-06-02
+date_modified: 2026-08-04
 tags:
   - Best-Practices
   - Founder-Advice
@@ -23,6 +23,7 @@ at_semantic_version: 0.0.1.1
 augmented_with: Perplexity AI using Sonar Pro
 ---
 [[Tooling/Data Utilities/Hotjar|Hotjar]]
+[[Tooling/Enterprise Jobs-to-be-Done/Coframe|Coframe]]
 
 # Defining and Describing Conversion Rate Optimization
 
@@ -33,9 +34,9 @@ Conversion rate optimization, or CRO, is the process of increasing the percentag
 
 # Uses in Context
 
-- In digital marketing, CRO is used to describe the work of increasing the share of visitors who “take a desired action” on a site or app. [^tp2wym] [^ng5r39]
+- In [[concepts/Explainers for Tooling/Web Analytics|Digital-Marketing Analytics]], CRO is used to describe the work of increasing the share of visitors who “take a desired action” on a site or app. [^tp2wym] [^ng5r39]
 - In analytics workflows, CRO is invoked as a process of identifying where users “drop off” and then testing changes to improve performance. [^tp2wym]
-- In UX and product design, CRO refers to removing friction in layouts, forms, checkout flows, and calls to action so more users complete the intended task. [^tp2wym] [^ng5r39] [^b315bl]
+- In [[Vocabulary/User Experience|UX]] and product design, CRO refers to removing friction in layouts, forms, checkout flows, and calls to action so more users complete the intended task. [^tp2wym] [^ng5r39] [^b315bl]
 - In e-commerce, CRO is used to raise purchase rates by improving landing pages, product pages, and checkout steps. [^tp2wym] [^ng5r39] [^b315bl]
 - In performance marketing, CRO is framed as a way to reduce wasted ad spend by making better use of traffic that has already been acquired. [^ng5r39]
 - In industry reporting, CRO is often discussed alongside benchmarks, with articles citing average conversion rates and the revenue impact of small lifts. [^0h3hrw] [^vx9y2d]
@@ -61,6 +62,7 @@ CRO appears as an established industry term in modern digital marketing writing 
 - [Google Analytics 4](https://analytics.google.com) — used in CRO workflows to track conversions, identify drop-off points, and measure results. [^tp2wym]
 - [Crazy Egg](https://www.crazyegg.com) — mentioned in CRO advice as a tool for analyzing user behavior and supporting experimentation. [^ng5r39]
 - [Shopify](https://www.shopify.com) — appears in CRO reporting as a platform where targeted optimization efforts can increase conversions and revenue. [^ng5r39]
+- [[Tooling/Enterprise Jobs-to-be-Done/Coframe|Coframe]] -- [[Vocabulary/AI Native Applications|AI-Native]] CRO for websites.  
 
 # Case Studies
 

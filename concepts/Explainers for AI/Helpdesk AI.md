@@ -1,13 +1,18 @@
 ---
 date_created: 2025-02-14
-date_modified: 2025-08-17
-tags: [Helpdesk-AI, State-of-the-Art, Explainers]
+date_modified: 2026-08-03
+tags:
+  - Helpdesk-AI
+  - State-of-the-Art
+  - Explainers
 site_uuid: ff2a04ab-ac01-4f42-b1b6-a7c79a3a0ee8
 publish: true
 title: Helpdesk AI
 slug: helpdesk-ai
 at_semantic_version: 0.0.1.0
+linkedin_url:
 ---
+[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Yellow.ai|Yellow.ai]]
 
 
 ***

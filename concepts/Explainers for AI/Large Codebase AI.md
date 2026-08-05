@@ -1,12 +1,21 @@
 ---
 date_created: 2025-08-17
-date_modified: 2026-06-21
+date_modified: 2026-08-04
 tags:
   - Explainers
   - Solutions-For-Scale
   - Large-Codebase-AI
 covers_tags:
   - Large-Codebase-AI
+site_uuid: 1538d21c-b9dc-490c-81ee-7912a70d3e76
+publish: true
+title: Large Codebase AI
+slug: large-codebase-ai
+at_semantic_version: 0.0.0.1
+for_clients:
+  - Laerdal
+  - Param
+  - Parslee
 ---
 https://youtu.be/Ynv_WYO_slw?is=u0MvHqVZqXXq8ol3
 
@@ -18,9 +27,12 @@ tag: Large Codebase AI
 - [[Tooling/AI-Toolkit/Generative AI/Code Generators/DX.ai|DX.ai]]
 - [[Tooling/Software Development/Developer Experience/DevOps/SonarQube|SonarQube]]
 - [[Tooling/Software Development/DevOps/Upsun|Upsun]]
+- [[Tooling/AI-Toolkit/Generative AI/Code Generators/CodeRabbit|CodeRabbit]]
+- [[Tooling/AI-Toolkit/Generative AI/Code Generators/AppMap|AppMap]]
 :::
 
 [[concepts/Keep it Simple, Stupid|KISS]]
+[[Tooling/AI-Toolkit/Generative AI/Code Generators/Graphify|Graphify]]
 
 ***
 > [!info] **Perplexity Query** (2025-08-17T11:44:31.094Z)
@@ -76,7 +88,7 @@ In summary, Large Codebase AI marks a major leap forward for software engineerin
 ***
 
 
-### Citations
+# Citations
 
 [^zyo8s5]: 2025, May 25. [Large Codebase AI Development](https://empathyfirstmedia.com/large-codebase-ai-development/). Published: 2025-05-25 | Updated: 2025-05-25
 

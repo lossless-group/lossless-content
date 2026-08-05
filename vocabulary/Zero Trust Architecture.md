@@ -71,7 +71,7 @@ For innovation work, the term applies when you are designing how products, data 
   - **Implicit trust model** – Any approach where users, devices, or networks are granted ongoing trust once authenticated or placed on a “trusted” segment, rather than per‑request evaluation. [^jd1yrz] [^2kcomt] [^03mnbo]
 
 - **Adjacent terms**
-  - [[Identity and Access Management]]
+  - [[concepts/Identity and Access Management]]
   - [[Least Privilege]]
   - [[Microsegmentation]]
   - [[Software-defined Perimeter]]
