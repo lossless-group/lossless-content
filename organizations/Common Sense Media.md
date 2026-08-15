@@ -141,7 +141,7 @@ As of 2026-05-26,
 
 ## Adjacent Entries
 
-- [[organizations/Center for Humane Technology]] – another advocacy group focused on making technology safer and healthier, often concerned with youth well-being.
+- [[Center for Humane Technology]] – another advocacy group focused on making technology safer and healthier, often concerned with youth well-being.
 - [[organizations/Family Online Safety Institute]] – a nonprofit focused on making the online world safer for kids and families, overlapping in digital-safety and policy domains.
 - [[organizations/Cyberbullying Research Center]] – research-focused organization studying youth online behavior and harms, complementary to Common Sense’s applied research and guidance.
 - [[concepts/Digital Wellbeing for Kids]] – a conceptual entry capturing the norms and practices Common Sense promotes around healthy tech use for children.

@@ -4,7 +4,7 @@ url: https://www.continue.dev/
 image: https://cdn.prod.website-files.com/663e06c56841363663ffbbcf/66ec6feca7bf0098d3110173_social%20card%402x.webp
 site_name: Continue
 title: Continue
-date_modified: 2026-05-28
+date_modified: 2026-08-09
 date_created: 2025-03-31
 og_image: https://cdn.prod.website-files.com/663e06c56841363663ffbbcf/66ec6feca7bf0098d3110173_social%20card%402x.webp
 description: Amplified developers, AI-enhanced development · The leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside the IDE
@@ -13,9 +13,11 @@ tags:
   - AI-Toolkit
   - Generative-AI
   - Code-Generators
+  - IDE-Plugins
 aliases:
   - Continue.dev
 ---
+Acquired by [[Tooling/AI-Toolkit/Generative AI/Code Generators/Cursor|Cursor]]
 
 <iframe 
   style="aspect-ratio:16/9;width:100%;height:auto" 
@@ -28,5 +30,7 @@ aliases:
 ></iframe>
 >2024, May 4. [Continue: Incredible Open Source Github Copilot Alternative. Use Groq + Llama-3, Ollama and more](https://youtu.be/qXNecVIxRi0?si=Fr_r8JPibXVMg-yO). Developers Digest. ([[GitHub]], [[Groq]], [[OLlama]])
 
-A [[Plug-ins,  Add-ons,  Extensions|Plug-in]] to [[Visual Studio Code|VS Code]] and [[Tooling/Software Development/DevOps/Developer Experience/JetBrains]]
+A [[Plug-ins,  Add-ons,  Extensions|Plug-in]] to [[Visual Studio Code|VS Code]] and [[Tooling/Software Development/Developer Experience/JetBrains|JetBrains]]
+
+
 

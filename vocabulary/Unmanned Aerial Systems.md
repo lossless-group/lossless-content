@@ -1,6 +1,6 @@
 ---
 date_created: 2025-12-02
-date_modified: 2026-05-12
+date_modified: 2026-08-10
 aliases: [UAS, UAV, Drones]
 site_uuid: 2b99ca97-0417-4ced-9bf7-98de76ba3a0e
 publish: true
@@ -10,7 +10,9 @@ at_semantic_version: 0.0.0.1
 tags: [Vertical-Drones, Drone-Platforms, Drone-Producers]
 ---
 [[Helsing]]
-[[organizations/Anduril]]
+[[organizations/Anduril|Anduril]]
+[[Horus Dynamics]]
+
 
 ***
 > [!info] **Perplexity Query** (2025-12-02T11:48:21.465Z)

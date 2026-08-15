@@ -16,4 +16,4 @@ description: 'Qdrant is an Open-Source Vector Database and Vector Search Engine 
 tags: [AI-Toolkit, Knowledge-AI, Database, Open-Source-Alternatives, Vector-Databases]
 ---
 
-A [[concepts/Vector Databases]] commonly used in [[Vocabulary/Retrieval-Augmented Generation]] and [[Knowledge Augmented Generation|KAG]] systems.
+A [[concepts/Explainers for Tooling/Vector Databases]] commonly used in [[Vocabulary/Retrieval-Augmented Generation]] and [[Knowledge Augmented Generation|KAG]] systems.

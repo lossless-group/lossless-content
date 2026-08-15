@@ -95,7 +95,7 @@ The title "AI is First a Trojan Horse" suggests an exploration of the potential 
 
 By addressing these considerations, businesses can leverage the potential benefits of RAG while mitigating risks associated with AI integration.
 
-We might have to consider [[concepts/Vector Databases|Vector Databases]]
+We might have to consider [[concepts/Explainers for Tooling/Vector Databases|Vector Databases]]
 
 ```yaml toolingGallery
 - software-development/databases/milvus

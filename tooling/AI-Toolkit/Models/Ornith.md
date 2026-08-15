@@ -1,7 +1,7 @@
 ---
 url: "https://deep-reinforce.com/ornith_1_0.html"
 date_created: 2026-06-29
-date_modified: 2026-06-29
+date_modified: 2026-08-10
 x_url: "https://x.com/ornith_"
 tags: [AI-Models, Foundation-Models, Code-Generators, Generative-AI, AI-Toolkit]
 og_title: "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding"
@@ -21,4 +21,6 @@ at_semantic_version: 0.0.0.1
 https://youtu.be/uD4-uy0GmHE?is=euo3hxdFPRV3HRVE
 
 https://youtu.be/V-NG92tXIqQ?is=8Coh6bbGhrl7xfjh
+
+https://youtu.be/SfP1YBO2tNo?is=1LtPHZRq4R_shgWB
 

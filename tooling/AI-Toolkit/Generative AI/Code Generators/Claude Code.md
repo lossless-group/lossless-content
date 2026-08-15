@@ -81,7 +81,7 @@ It is not primarily for non-technical users, and it is a weaker fit for organiza
 - **[[Tooling/AI-Toolkit/Generative AI/Code Generators/Cursor|Cursor]]** — an AI-first coding environment focused on repository-aware editing and agentic workflows.
 - **[[Tooling/AI-Toolkit/Generative AI/Code Generators/Aider|Aider]]** — a terminal-based coding assistant that emphasizes git-aware code changes.
 - **OpenAI Codex-style developer tools** — comparable agentic coding workflows for code generation and repo interaction.
-- **[[Tooling/AI-Toolkit/Generative AI/Code Generators/Continue AI|Continue AI]]** — an open-source assistant for IDE-based coding help and configurable model backends.
+- **[[organizations/Acquired/Continue AI|Continue AI]]** — an open-source assistant for IDE-based coding help and configurable model backends.
 
 ## Competitor Table
 

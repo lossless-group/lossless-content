@@ -11,11 +11,23 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:02.107Z
 jina_error: Error occurred
 og_last_fetch: 2025-06-05T19:53:42.624Z
-date_modified: 2025-09-21
+date_modified: 2026-08-09
 date_created: 2025-03-30
 og_image: https://cast.ai/wp-content/uploads/2025/01/homepage-meta.png
 og_url: https://cast.ai/
-tags: [Software-Development, DevOps, Low-Cost-Alternatives]
+tags:
+  - Software-Development
+  - DevOps
+  - Low-Cost-Alternatives
+  - Large-Codebase-AI
+  - Developer-Experience
+  - Cloud-Infrastructure
+for_clients:
+  - Laerdal
+  - Tonguc
+  - Param
 ---
 
 [[Dev Ops]]
+[[Tooling/Software Development/Developer Experience/DevOps/Kubernetes|Kubernetes]]
+[[Container-Management Tools]]

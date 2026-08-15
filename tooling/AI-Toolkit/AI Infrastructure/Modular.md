@@ -3,7 +3,7 @@ site_uuid: e061b385-ab8f-4b0a-b476-f478726ee6d0
 url: https://www.modular.com/
 site_name: Modular
 title: A Fast, Scalable Gen AI Inference Platform
-date_modified: 2025-10-11
+date_modified: 2026-08-09
 date_created: 2025-03-30
 tags: [AI-Toolkit, AI-Infrastructure, AI-Inference-Platforms, AI-Developer-Platforms, Check-It-Out]
 og_title: "Modular: A Fast, Scalable Gen AI Inference Platform"
@@ -20,6 +20,14 @@ slug: modular-dot-com
 at_semantic_version: 0.0.0.1
 publish: true
 ---
+
+[[Vocabulary/Inference in AI|Inference]]
+[[concepts/Explainers for AI/Inference Layer|Inference Layer]]
+
+Acquired by [[organizations/Qualcomm|Qualcomm]]
+Creator of [[Mojo Language]]
+
+
 
 
 

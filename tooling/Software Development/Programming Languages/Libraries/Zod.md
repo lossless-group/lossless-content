@@ -30,7 +30,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 
 [[Schema Validation]]
-[[Vocabulary/Object-Relational Mapper|Object-Relational Mapping]]
+[[Vocabulary/Object-Relational Mappers|Object-Relational Mapping]]
 
 # Value Proposition & Features
 

@@ -1,7 +1,7 @@
 ---
 tags: [Agentic-Engineering, Context-Engineering, Context-Vigilance, State-of-the-Art, Explainers]
 date_created: 2026-06-19
-date_modified: 2026-07-24
+date_modified: 2026-08-09
 cf_last_run: "2026-06-22T23:30:34.384Z"
 cf_last_run_model: "Perplexity sonar-pro"
 for_clients:
@@ -29,6 +29,10 @@ https://youtu.be/1a1VXDdIyrk?is=tar1Ksp2Bil6v4G9
 
 
 [[concepts/Explainers for AI/Agentic Engineering|Agentic Engineering]]
+[[Loop Engineering]]
+
+[[Tooling/AI-Toolkit/Agentic AI/Mem0|Mem0]]
+
 
 # Defining and Describing Agent Harnesses
 
@@ -79,7 +83,7 @@ Although some products and frameworks use the noun “harness” in their brandi
 - **Production engineering for LLM agents.** Avi Chawla uses “agent harness” to mean the **“complete software infrastructure wrapping an LLM”** and frames his article as explaining *“The Anatomy of an Agent Harness”* for people turning models into robust agent systems. [^8bmnhu]
 - **Connecting reasoning to execution.** Microsoft’s Agent Framework blog defines **“Agent harness is the layer where model reasoning connects to real execution: shell and filesystem access, approval flows, and context management across long-running sessions.”**[^s3fjtf] Practitioners invoke it when discussing how agents actually run commands, modify files, and persist state.
 - **Framing the non‑model work in agent systems.** MongoDB’s article **“The Agent Harness: Why the LLM Is the Smallest Part of Your Agent System”** uses the phrase to emphasize that most engineering effort lies in “the harness” around the model rather than the model itself. [^9t2uix]
-- **Taming multi‑product SaaS complexity.** In a [[Tooling/Enterprise Jobs-to-be-Done/Factorial]] CTO talk, the narrative moves from “LLM magic” to **“a production agent harness: semantic tools, skills, smaller schemas, runtime context, deterministic computation, permissions, and browser-based actions”**, showing how the harness concept explains the difference between a demo and a production capability. [^p3e02h]
+- **Taming multi‑product SaaS complexity.** In a [[Tooling/Enterprise Jobs-to-be-Done/Factorial|Factorial]] CTO talk, the narrative moves from “LLM magic” to **“a production agent harness: semantic tools, skills, smaller schemas, runtime context, deterministic computation, permissions, and browser-based actions”**, showing how the harness concept explains the difference between a demo and a production capability. [^p3e02h]
 - **Code‑centric AI workflows.** PuppyGraph’s blog post **“What is Agent Harness? How Does it Work?”** explains the agent harness as the architecture connecting agents to graph data and tools so they can reliably answer questions and perform graph operations, emphasizing structured components and a platform‑like harness layer. [^f6chqd]
 - **Adjacent “AI harness” usage in repos.** Activepieces engineer Louai Boumediene defines **“AI harness (noun): The set of files, folders, conventions, and infrastructure inside a codebase that turns the raw power of an AI agent into reliable, project specific output.”**[^e4uow5] Although he uses *AI harness* rather than *agent harness*, the meaning strongly overlaps with how practitioners use agent harness in tooling discussions. [^e4uow5]
 
@@ -139,7 +143,7 @@ The framework allows developers to configure what commands agents may run, what 
 
 ## 4. Factorial ONE: A Production Agent Harness for a 25‑Product SaaS
 
-In a recorded talk, **Ilya Zayats, CTO at [[Tooling/Enterprise Jobs-to-be-Done/Factorial]]**, describes building **Factorial ONE**, an AI agent placed “on top of a 25‑product SaaS company.”[^p3e02h] The talk explicitly frames the journey as moving “from ‘LLM magic’ to a production agent harness,” where the harness includes **semantic tools, skills, smaller schemas, runtime context, deterministic computation, permissions, and browser-based actions.”**[^p3e02h] Zayats notes that the main formula they ended up with was “one LLM loop, three tools, nothing more, and then you have a harness,” describing how this minimal but carefully designed structure covers the whole product area at Factorial. [^p3e02h]
+In a recorded talk, **Ilya Zayats, CTO at [[Tooling/Enterprise Jobs-to-be-Done/Factorial|Factorial]]**, describes building **Factorial ONE**, an AI agent placed “on top of a 25‑product SaaS company.”[^p3e02h] The talk explicitly frames the journey as moving “from ‘LLM magic’ to a production agent harness,” where the harness includes **semantic tools, skills, smaller schemas, runtime context, deterministic computation, permissions, and browser-based actions.”**[^p3e02h] Zayats notes that the main formula they ended up with was “one LLM loop, three tools, nothing more, and then you have a harness,” describing how this minimal but carefully designed structure covers the whole product area at Factorial. [^p3e02h]
 
 This harness lets the agent understand the product, navigate across different modules, take actions in the UI (via browser‑based actions), and create new work items, all while operating within well‑defined schemas and permission models. [^p3e02h] The case demonstrates how a startup can use an agent harness to unify a complex multi‑product surface into a single, coherent agentic interface, emphasizing context engineering (what schemas and docs are visible when) and strict permissioning to keep behavior safe and predictable. [^p3e02h] It reinforces the idea that **the harness—not the raw LLM—is what makes an agent truly “production‑ready.”**[^p3e02h] [^8bmnhu] [^9t2uix]
 

@@ -16,6 +16,6 @@ tags:
 ---
 
 [[concepts/Explainers for Tooling/Databases|Databases]]
-[[concepts/Vector Databases|Vector Databases]]
+[[concepts/Explainers for Tooling/Vector Databases|Vector Databases]]
 
 ![Screenshot collage of several vector art software interfaces (e.g., Inkscape, Affinity Designer), showing Bézier curves, anchor points, and scalable logo artwork on canvas.](https://miro.medium.com/v2/resize:fit:1400/1*sbvr1Nc5WyEGHfuL0PyreA.png)

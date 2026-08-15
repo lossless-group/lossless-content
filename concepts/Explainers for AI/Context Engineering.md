@@ -88,7 +88,7 @@ However, context engineering introduces some challenges:
 
 By mid-2025, **context engineering** has become a defining skill in AI product development, especially as businesses replace prompt engineering with systematic context assembly for greater reliability and personalization. [^w91w65] [^69ohuy] Enterprise adoption is accelerating, with major players like Harvey AI, ChemCrow, and leading healthcare and financial platforms reporting significant value creation. [^1ryrx2] [^w91w65] Technologies enabling context engineering include:
 - **[[Vocabulary/Retrieval-Augmented Generation|Retrieval-Augmented Generation]] (RAG)**
-- **[[concepts/Vector Databases|Vector Databases]]**
+- **[[concepts/Explainers for Tooling/Vector Databases|Vector Databases]]**
 - **Custom integration and [[concepts/Explainers for AI/AI Orchestration|AI Orchestration]] layers**
 
 Recent developments focus on refining context flows, optimizing information formatting, and aligning AI behavior to regulatory and security standards. [^w91w65] [^919cdp] The industry is also advancing dynamic context retrieval tools that tailor context in real time, improving both accuracy and adaptability. [^w91w65]

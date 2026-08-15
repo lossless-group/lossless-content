@@ -1,6 +1,6 @@
 ---
 date_created: 2025-01-24
-date_modified: 2026-06-08
+date_modified: 2026-08-10
 site_uuid: 0cd90519-55d0-4380-b7b9-d416ff0cb24a
 title: Software Development with Code Generators
 lede: Code generators are reshaping software development—speeding up delivery while raising new challenges.
@@ -30,12 +30,30 @@ For code generation, in addition to the [[Large Language Models]], or perhaps th
 
 [[Vocabulary/Citizen Developers|Citizen Developers]]
 
-[[concepts/Harness Engineering]]
+[[concepts/Harness Engineering|Harness Engineering]]
 
 [[concepts/Explainers for AI/Agentic Engineering|Agentic Engineering]]
 
 [[AgentCrew]]
 
+> [!QUOTE] From a Senior Engineer
+> "mmm, I don't think so
+>
+>the next 6 mos will see a big jump in tool optimization given the rate things are improving bc of the vast feedback inputs (I'm at it 6-7 days per week, 14+ hr days, others are too) 
+>
+>I've spent time cobbling together my own harness and visibility and optimizations and they've all been integrated within 30 to 60 days of me using them 
+>
+>I can only assume that there are tens or hundreds of thousands of other experienced developers doing similar things and having these structures absorbed into SOTA products
+>
+>within a year I could imagine a mature consultative structure to these sessions where it feels very much like speaking to a benevolent senior engineer with unlimited patience and a profound sense of responsibility for making exactly the thing that you can only dream of 
+>
+>about 80% of my time right now is spent scanning progress reports and 20% nudging a little to the left or a little to the right with the rare fraction of a percent where I have to pull the brake and get everything re-aligned
+>
+>a year ago I was barely able to implement the handful of coherent functions without reviewing every other line of code 
+>
+>December was a massive inflection point with opus 4.5 
+>
+>I think it's not unreasonable to expect one or more similar inflections every six months and accelerating from now on"
 
 
 # What is AI Even Good At?
@@ -173,6 +191,12 @@ Picking colors somewhat consistent with design intent.
 ## Completing a complex task you gave it
 
 ## Being honest
+
+## Remembering things
+
+## Holding complex systems designs in mind when executing small tasks
+
+
 
 
 

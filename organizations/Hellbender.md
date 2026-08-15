@@ -136,7 +136,7 @@ As of 2026-05-28,
 
 # Adjacent Entries
 
-- [[concepts/AI-Driven-Perception-Systems]] — to capture the technical domain Hellbender targets.
+- [[concepts/AI-Driven Perception Systems]] — to capture the technical domain Hellbender targets.
 - [[concepts/Autonomous-Systems]] — autonomy platforms that depend on perception infrastructure.
 - [[concepts/Industrial-Automation]] — industrial contexts for Hellbender’s claimed applications.
 - [[concepts/Robotics-Infrastructure]] — underlying hardware/software stacks for robotics.

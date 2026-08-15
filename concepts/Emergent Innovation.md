@@ -1,6 +1,6 @@
 ---
 date_created: 2025-05-27
-date_modified: 2026-07-07
+date_modified: 2026-08-08
 site_uuid: 3b040f09-5578-4a74-a05d-a2f03752c3d4
 tags:
   - Emergent-Innovation-Examples
@@ -27,6 +27,7 @@ at_semantic_version: 0.0.0.1
 [[essays/The Power of Challenges|The Power of Challenges]]
 [[Vocabulary/Hackathons|Hackathons]]
 [[concepts/Open Specifications|Open Specifications]]
+[[Tooling/Software Development/Developer Experience/DevTools/Nginx|Nginx]]
 
 
 ***

@@ -15,6 +15,6 @@ description_site_cp: 'Ship production apps at lightning speed, and scale to a gl
 tags: [Data-Utilities, Serverless-Database, Check-It-Out]
 ---
 
-A code library [[Object-Relational Mapper]] that works with modern [[concepts/Explainers for Tooling/Web Frameworks]] and [[concepts/Explainers for Tooling/Databases]].
+A code library [[Vocabulary/Object-Relational Mappers]] that works with modern [[concepts/Explainers for Tooling/Web Frameworks]] and [[concepts/Explainers for Tooling/Databases]].
 
-##### Prisma is a [[concepts/State of the Art]] [[Object-Relational Mapper]]
+##### Prisma is a [[concepts/State of the Art]] [[Vocabulary/Object-Relational Mappers]]

@@ -1,5 +1,5 @@
 ---
-date_modified: 2025-11-26
+date_modified: 2026-08-13
 site_uuid: bbab847b-b1b5-4c73-a473-2521633fff0c
 date_created: 2025-04-06
 publish: true
@@ -11,6 +11,9 @@ tags: [Explainers]
 for_clients:
   - Laerdal
 ---
+
+![image.png](https://i.imgur.com/ucQ0oyd.png)
+
 
 10 reasons why you should develop apps without code [^mjgrf0]
 

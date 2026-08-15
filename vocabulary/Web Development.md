@@ -1,5 +1,5 @@
 ---
-date_modified: 2026-07-24
+date_modified: 2026-08-13
 site_uuid: 953f8ee2-38ff-4f12-8301-5403cf234c17
 date_created: 2025-04-06
 cf_last_run: "2026-07-24T14:48:42.165Z"
@@ -14,6 +14,8 @@ at_semantic_version: 0.0.1.1
 https://youtube.com/playlist?list=PLZlA0Gpn_vH85jM1TWO6TdCtSr6ruglWn&si=op3192wMsOdNr4CP
 
 https://youtu.be/l1cWUrG_vNs?si=yvCrW57jwk3FgvS4
+
+https://youtu.be/TdDt7AiN6aw?si=jQerBDY8MngZzuUz
 
 [[Tooling/Training/WebDev Simplified|WebDev Simplified]]
 

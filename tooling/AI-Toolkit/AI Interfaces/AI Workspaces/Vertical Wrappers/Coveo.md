@@ -7,13 +7,24 @@ title: AI-Search & Generative Experiences
 jina_last_request: 2025-03-09T06:45:04.676Z
 jina_error: Error occurred
 og_last_fetch: 2025-03-07T05:20:56.757Z
-date_modified: 2025-09-20
+date_modified: 2026-08-09
 date_created: 2025-03-30
 og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Coveo_og_screenshot.jpeg
-tags: [AI-Toolkit, AI-Interfaces, AI-Workspaces, Vertical-Wrappers, AI-Powered-Search, Check-It-Out, Enterprise-AI]
+tags:
+  - AI-Toolkit
+  - AI-Interfaces
+  - AI-Workspaces
+  - Vertical-Wrappers
+  - AI-Powered-Search
+  - Check-It-Out
+  - Enterprise-AI
+  - Customer-Experience-Platforms
 ---
 
 [[Enterprise SaaS]], [[concepts/Market-Categories/Customer Experience|Customer Experience]]
-.
+
+
+[[concepts/Explainers for Tooling/Customer Experience Platforms|Customer Experience Platforms]]
+
 ##### Screenshot of the [[Coveo]] Hero
 ![[Screenshot 2025-02-11 at 12.28.13 PM_Coveo--Hero.png]]

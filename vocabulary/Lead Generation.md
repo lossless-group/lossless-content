@@ -1,6 +1,6 @@
 ---
 date_created: 2025-12-03
-date_modified: 2025-12-03
+date_modified: 2026-08-09
 site_uuid: 8efacf81-5ce3-41da-9e0f-3752905f9e15
 publish: true
 title: Lead Generation
@@ -8,6 +8,7 @@ slug: lead-generation
 at_semantic_version: 0.0.0.1
 tags: [Marketing-Strategies, Digital-Marketing-Tools, Best-Practices]
 ---
+[[concepts/Lead Magnets]]
 
 
 ***

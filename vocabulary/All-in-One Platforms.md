@@ -15,7 +15,7 @@ at_semantic_version: 0.0.1.1
 [[Tooling/Enterprise Jobs-to-be-Done/Factorial|Factorial]]
 [[Tooling/Software Development/Cloud Infrastructure/DigitalOcean|DigitalOcean]]
 [[Tooling/AI-Toolkit/Generative AI/Code Generators/Kilo AI|Kilo AI]]
-[[HiBob]]
+[[Tooling/Enterprise Jobs-to-be-Done/HiBob]]
 [[Concentric AI]]
 [[vertical-toolkits/FinTech/Airwallex|Airwallex]]
 [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Zeta Global|Zeta Global]]

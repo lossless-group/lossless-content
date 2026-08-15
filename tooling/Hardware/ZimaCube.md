@@ -1,18 +1,25 @@
 ---
 site_uuid: f38ed67e-a89b-42fa-98ed-e39516ce0208
 url: https://www.zimaspace.com/products/cube-personal-cloud
-date_created: 2025-03-09T00:00:00.000Z
-date_modified: '2025-04-12'
+date_created: 2025-03-09
+date_modified: 2026-08-09
 zinger: A personal cloud, crafted for creativity_
 og_title: ZimaCube - Personal cloud. Re-invented.
-og_description: "ZimaCube is for those who value their data and put in long hours. Securely store, organize, and access your files from any device, anywhere."
+og_description: ZimaCube is for those who value their data and put in long hours. Securely store, organize, and access your files from any device, anywhere.
 og_image: https://www.zimaspace.com/apple-touch-icon.png
 og_url: https://www.zimaspace.com/products/cube-personal-cloud
-og_last_fetch: '2025-04-07T17:38:13.520Z'
+og_last_fetch: 2025-04-07T17:38:13.520Z
 tags:
   - Home-Labs
   - Personal-Cloud
+  - Network-Attached-Servers
 ---
+
+[[concepts/Explainers for AI/Home Labs|Home Labs]]
+[[Vocabulary/Hardware|Hardware]]
+
+[[Vocabulary/Virtual Private Server|Personal-Cloud]]
+[[Vocabulary/Network Attached Storage Servers|Network-Attached-Storage-Server]]
 
 
 

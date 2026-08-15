@@ -1,7 +1,7 @@
 ---
 site_uuid: 7a43f934-fdfc-453d-b17b-da7c8eba6dda
 aliases: [MCP]
-date_modified: 2025-11-16
+date_modified: 2026-08-09
 date_created: 2025-03-30
 tags: [Agentic-AI]
 github_profile_url: https://github.com/modelcontextprotocol
@@ -16,6 +16,8 @@ docs_url: https://modelcontextprotocol.io/introduction
 [[Anthropic]] released a [[Data Standard]] and an [[concepts/Open Specifications|Open Specification]]
 
 [[Tooling/Software Development/Frameworks/Web Frameworks/Fastify|Fastify]]
+
+https://youtu.be/f4mI3d-nTrI?is=kkIpNiMtv8cL88Og
 
 https://youtu.be/RhTiAOGwbYE?si=utXq40hwAmpS8sCw
 
@@ -191,3 +193,4 @@ MCP’s core value is its **open, standardized, and extensible architecture**, m
 [^wzp5sx]: 2025, Jul 08. [A beginners Guide on Model Context Protocol (MCP)](https://opencv.org/blog/model-context-protocol/). Published: 2025-04-03 | Updated: 2025-07-08
 
 [^4kz5n4]: Aug 2025. "[Design Systems And AI: Why MCP Servers Are The Unlock](https://www.figma.com/blog/design-systems-ai-mcp/)". [Figma Blog](https://www.figma.com/blog/). [Figma](https://www.figma.com).
+- Transcript: [[MCP Was Wrong From The Start (They Just Fixed It)]] — source: https://youtu.be/f4mI3d-nTrI?is=kkIpNiMtv8cL88Og

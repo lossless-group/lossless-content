@@ -1,10 +1,12 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2026-08-08
 site_uuid: a8ad6f79-ffe5-4ead-a7c5-82b3a4cc27f5
 date_created: 2025-04-06
 aliases:
   - Data Modeling
 ---
+[[YANG Data Modeling Language]]
+
 
 > [!NOTE] AI Explains, ([[Poe AI]])
 > ### **Why Creating and Maintaining a Visualization of a Data Model is Important for Software Engineering Projects**

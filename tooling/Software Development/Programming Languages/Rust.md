@@ -8,7 +8,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:05.010Z
 jina_error: Error occurred
 og_last_fetch: 2025-06-06T13:27:34.316Z
-date_modified: 2026-06-19
+date_modified: 2026-08-13
 date_created: 2025-03-30
 og_image: https://www.rust-lang.org/static/images/rust-social-wide.jpg
 description: A language empowering everyone to build reliable and efficient software.
@@ -22,7 +22,11 @@ tags:
 
 https://youtu.be/7QwqShxyHtc?si=dUsLrOo-ovTwNdX9
 
+https://youtu.be/XBhqYWe6kQo?si=QeZEMGWy6rJ8_0tM
+
 https://youtu.be/784JWR4oxOI?is=t1KzRRWR92sYVawX
+
+https://youtu.be/TdDt7AiN6aw?si=jQerBDY8MngZzuUz
 
 [[Tooling/Software Development/Developer Experience/DevTools/Tauri|Tauri]]
 
@@ -31,6 +35,10 @@ https://youtu.be/784JWR4oxOI?is=t1KzRRWR92sYVawX
 [[Vocabulary/Concurrency|Concurrency]]
 
 [[Vocabulary/Parallel Computing|Parallel Computing]]
+
+[[concepts/Explainers for Tooling/Programming Languages|Programming Language]]
+
+[[concepts/Rust Rebuilds|Rust Rewrites]]
 
 
 
@@ -75,7 +83,9 @@ Rust is poised to play a major role in the **future of systems and application d
 
 Rust combines **near C/C++ performance** with strong **memory safety** and modern language features, making it a compelling choice for building fast, reliable, and secure software. [^0zcenm] [^5e97w2] [^g96daa] As its ecosystem matures and adoption grows, Rust is likely to remain at the forefront of efforts to create safer and more efficient digital infrastructure.
 
-### Citations
+
+***
+# Citations
 
 [^0zcenm]: 2025, Dec 08. [Rust (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language)). Published: 2010-10-30 | Updated: 2025-12-08
 

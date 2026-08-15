@@ -1,7 +1,7 @@
 ---
 site_uuid: 3b205a7a-830a-4521-a44c-bf0dc159d73e
 date_created: 2025-04-18
-date_modified: 2026-05-25
+date_modified: 2026-08-13
 aliases:
   - CD
   - CI
@@ -13,7 +13,19 @@ aliases:
 publish: true
 title: Continuous Integration and Continuous Delivery
 slug: continuous-integration-and-continuous-delivery
-at_semantic_version: 0.0.0.1
+at_semantic_version: 0.0.0.5
+for_clients:
+  - Laerdal
+  - Param
+  - Tonguc
+  - Parslee
+tags:
+  - State-of-the-Art
+  - Best-Practices
+  - Developer-Experience
+  - DevOps
+  - Dev-Ops-Tools
+  - Lossless-Thinking
 ---
 
 :::tool-showcase
@@ -24,15 +36,18 @@ at_semantic_version: 0.0.0.1
 - [[Tooling/Software Development/Developer Experience/DevOps/Retcon|Retcon]]
 - [[Tooling/Software Development/Developer Experience/DevOps/CircleCI|CircleCI]]
 - [[Tooling/Software Development/Developer Experience/DevOps/Jenkins|Jenkins]]
-- [[Tooling/Software Development/Developer Experience/DevOps/Bamboo]]
+- [[Tooling/Software Development/Developer Experience/DevOps/Bamboo|Bamboo]]
 :::
 
 # What is CI/CD?
 
 https://youtu.be/NcU0oEk6z8Y?si=jlehpNLVdqz7tazp
+
 https://youtu.be/scEDHsr3APg?si=SM60RuUoihNVWlNt
 
->![LLM-Response] [[organizations/Perplexity AI|Perplexity AI]] explains [[concepts/Continuous Integration and Continuous Delivery|Continuous Integration and Continuous Delivery]] 
+https://youtu.be/omB2JkC4QfA?si=zjhGo4-ffjuRBJz3
+
+[[organizations/Perplexity AI|Perplexity AI]] explains [[concepts/Continuous Integration and Continuous Delivery|CI/CD]] 
 
 CI/CD stands for **Continuous Integration** and **Continuous Delivery/Deployment**, forming a workflow that automates software development processes, including building, testing, and deploying code. It is a core practice in [[Vocabulary/Dev Ops|DevOps]], enabling teams to deliver high-quality software quickly and reliably.
 
@@ -153,3 +168,4 @@ When choosing CI/CD tools, teams should prioritize **automation capabilities** t
 
 
 ***
+- Transcript: [[Why Every Developer Needs to Understand CI CD]] — source: https://youtu.be/omB2JkC4QfA?si=zjhGo4-ffjuRBJz3

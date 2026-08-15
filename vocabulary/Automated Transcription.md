@@ -1,5 +1,5 @@
 ---
-date_modified: 2026-05-28
+date_modified: 2026-08-09
 site_uuid: 146440af-2298-49fd-a9bc-f870d99626c7
 date_created: 2025-04-06
 cf_last_run: 2026-05-28T07:54:35.491Z
@@ -14,6 +14,7 @@ tags:
 for_clients:
   - Laerdal
   - Param
+  - FullStackVC
 ---
 
 
@@ -23,6 +24,7 @@ Now supported in most video-based platforms, including [[Tooling/Productivity/As
 
 [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Granola|Granola]]
 [[Tooling/AI-Toolkit/Data Augmenters/Plaud AI|Plaud AI]]
+[[Tooling/Productivity/Async Communication/Bubbles|Bubbles]]
 
 # Defining and Describing Automated Transcription
 

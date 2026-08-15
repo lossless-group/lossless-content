@@ -1,8 +1,10 @@
 ---
 aliases:
   - University of California, Berkeley
+date_created: 2025-04-18
+date_modified: 2026-08-09
 ---
-[[Gorilla]]
+[[Tooling/AI-Toolkit/Models/Gorilla|Gorilla]]
 
 > [!NOTE] [[organizations/Perplexity AI]] explains [[organizations/UC Berkeley]]'s role in technology innovation
 > 

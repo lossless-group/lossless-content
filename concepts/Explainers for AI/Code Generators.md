@@ -51,7 +51,7 @@ In summary, AI code generators represent a transformative leap in software devel
 	- [[Melty]] is just a [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editor]], but has strong reviews.
 - [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulators]] include [[Warp]] and [[Aider]]
 - [[concepts/Opsless Deployment Providers]] include [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bolt.new|Bolt.new]], [[v0]], [[Lovable]], [[Replit]], [[Hostinger]] and [[Tooling/AI-Toolkit/Generative AI/Code Generators/Mocha]]
-- [[Plug-ins,  Add-ons,  Extensions|Plug-ins]] to other Text Editors include [[Aider]], [[Databutton]], [[Tooling/AI-Toolkit/Models/Claude#Cline|Cline]], [[Devin]], [[supermaven]], [[Augment Code]], [[Continue AI]], [[AppMap]] who embed into [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editors or IDEs]], such as [[Tooling/Software Development/Developer Experience/JetBrains|JetBrains]] but especially [[Visual Studio Code|VS Code]].
+- [[Plug-ins,  Add-ons,  Extensions|Plug-ins]] to other Text Editors include [[Aider]], [[Databutton]], [[Tooling/AI-Toolkit/Models/Claude#Cline|Cline]], [[Devin]], [[supermaven]], [[Augment Code]], [[organizations/Acquired/Continue AI]], [[AppMap]] who embed into [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editors or IDEs]], such as [[Tooling/Software Development/Developer Experience/JetBrains|JetBrains]] but especially [[Visual Studio Code|VS Code]].
 - Starting from your own code repositories, services like [[Poolside]], [[AppMap]], [[smolagents]], [[RepoPrompt]]
 - Specializing in [[Bug Reporting]] is [[CodeAnt AI]]
 - Specialized [[AI Models]] include [[InceptionLabs]] [[Mercury Coder]]

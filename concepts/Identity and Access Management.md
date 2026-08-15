@@ -68,7 +68,7 @@ F --> B
 ## Evolution
 
 - **1960s:** Early computer IAM began with password-based login on systems such as CTSS at MIT. [^rxxt29] [^3ec0g9] [^g2s4sh]  
-- **1980s–1990s:** Directory services such as **[[ Lightweight Directory Access Protocol]]** and related identity infrastructure expanded identity management across distributed environments. [^ozgdj7]  
+- **1980s–1990s:** Directory services such as **[[concepts/Lightweight Directory Access Protocol]]** and related identity infrastructure expanded identity management across distributed environments. [^ozgdj7]  
 - **Early 2000s:** IAM became a distinct enterprise discipline as organizations tried to unify authentication, access control, and governance across many systems. [^ozgdj7] [^8bmv4n]  
 - **2010s:** Cloud and SaaS shifted IAM from a mostly internal IT function to a cross-platform discipline covering on-premises, mobile, and API-based integrations. [^ozgdj7] [^iz6x16]  
 - **2020s:** IAM broadened to include **non-human identities**, zero-trust patterns, and automation for hybrid and cloud-native systems. [^cuilu5] [^iz6x16] [^n43lzg]  

@@ -9,9 +9,15 @@ title: Gorilla
 jina_last_request: 2025-03-09T06:45:11.541Z
 jina_error: Error occurred
 og_last_fetch: 2025-05-29T00:25:10.588Z
-date_modified: 2025-09-20
+date_modified: 2026-08-09
 date_created: 2025-03-31
-tags: [AI-Toolkit, API-Agents, AI-Models, AI-Powered-Search]
+tags:
+  - AI-Toolkit
+  - API-Agents
+  - AI-Models
+  - AI-Powered-Search
+  - Foundation-Models
+  - API-based-Services
 ---
 
 [[Large Language Models|LLM]]
@@ -20,4 +26,5 @@ tags: [AI-Toolkit, API-Agents, AI-Models, AI-Powered-Search]
 [[concepts/Explainers for AI/AI-Powered Search|AI-Powered Search]]
 
 
+[[organizations/UC Berkeley|UC Berkeley]]
 

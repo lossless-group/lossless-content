@@ -15,7 +15,7 @@ tags:
   - Vector-Databases
 ---
 
-[[concepts/Vector Databases|Vector Databases]]
+[[concepts/Explainers for Tooling/Vector Databases|Vector Databases]]
 [[Vocabulary/Retrieval-Augmented Generation|RAG]]
 
 

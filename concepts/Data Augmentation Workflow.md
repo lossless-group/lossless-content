@@ -1,6 +1,6 @@
 ---
 date_created: 2025-01-13
-date_modified: 2026-06-02
+date_modified: 2026-08-09
 tags: [Data-Augmenters, Data-Capture]
 site_uuid: 854ce169-40d7-4772-a2f4-5875585fa99d
 publish: true
@@ -19,6 +19,9 @@ tags:
 [[concepts/Explainers for AI/Browser Agents|Browser Agents]]
 [[concepts/Explainers for AI/AI-Powered Search|AI-Powered Search]]
 [[concepts/Explainers for AI/AI Web Crawlers|AI-Powered Web Crawling]]
+
+https://github.com/kartikkpawar/flow-scrape
+
 ***
 > [!info] **Perplexity Query** (2025-07-28T16:46:27.467Z)
 > **Question:**

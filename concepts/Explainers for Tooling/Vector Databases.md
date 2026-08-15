@@ -1,5 +1,5 @@
 ---
-date_modified: 2026-08-05
+date_modified: 2026-08-06
 site_uuid: 4c5dc076-ae2b-45a9-b0f0-a5aa9aace150
 date_created: 2025-04-06
 aliases:
@@ -32,9 +32,6 @@ Vector databases date back to the early 2000s, with significant developments occ
 
 ![Screenshot collage of several vector art software interfaces (e.g., Inkscape, Affinity Designer), showing Bézier curves, anchor points, and scalable logo artwork on canvas.](https://miro.medium.com/v2/resize:fit:1400/1*sbvr1Nc5WyEGHfuL0PyreA.png)
 
-***
-
-# Footnotes
 ***
 
 # Vector Databases: Infrastructure for Semantic Search and High‑Dimensional Data
