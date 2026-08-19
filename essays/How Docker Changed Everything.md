@@ -1,6 +1,6 @@
 ---
 date_created: 2024-08-18
-date_modified: 2025-07-28
+date_modified: 2026-08-17
 site_uuid: a396bf72-3bc1-480f-80a1-e9d703d12f69
 title: How Docker Changed Everything
 lede: "Docker revolutionized software deployment by making containers the new standard for portability and scalability."
@@ -17,6 +17,7 @@ tags: [Container-Runtimes, Developer-Tools, DevOps, State-Of-The-Art-Practices]
 authors:
   - Michael Staton
 ---
+https://youtu.be/-8EDhm6mpsQ?is=0hT3CpizW3joZemQ
 
 A good example of innovation wanting to be lossless and emergent: distributing enabling software stacks and specs. 
 

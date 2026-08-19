@@ -5,8 +5,9 @@ aliases:
   - Back-Office
   - Back Office Management
   - BOM
+  - Back-Office Operations
 date_created: 2026-05-13
-date_modified: 2026-05-23
+date_modified: 2026-08-18
 cf_last_run: 2026-05-23T20:57:19.585Z
 cf_last_run_model: Perplexity sonar-pro
 tags:

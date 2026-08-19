@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-27
-date_modified: 2025-09-17
+date_modified: 2026-08-18
 date_authored_initial_draft: 2024-08-02
 date_authored_current_draft: 2025-04-24
 site_uuid: d603567e-e011-4bd8-b0e3-1e448c99598f
@@ -71,7 +71,7 @@ Creating "charts as code" involves using programming languages or libraries to g
 3. **R & ggplot2**: In the R programming language, `ggplot2` is a powerful and popular package for data visualization. It uses a grammar of graphics approach, allowing you to build up plots layer by layer using a consistent syntax. While not exactly "code as charts" in the web-based sense, it's highly customizable and can be used to generate static or interactive plots (with Shiny or Plotly).
 
    Example:
-   ```R
+   ```r
    library(ggplot2)
    
    ggplot(mtcars, aes(x = wt, y = mpg)) + 
@@ -79,7 +79,7 @@ Creating "charts as code" involves using programming languages or libraries to g
      theme_minimal()
    ```
 
-4. **Python & Matplotlib/Seaborn**: Python's libraries `matplotlib` and `seaborn` offer similar functionality to R's ggplot2. They enable the creation of static, customizable plots directly from code. Again, while not web-based "charts as code," they're highly versatile for data visualization tasks.
+4. **[[Tooling/Software Development/Programming Languages/Python|Python]] & Matplotlib/Seaborn**: Python's libraries `matplotlib` and `seaborn` offer similar functionality to R's ggplot2. They enable the creation of static, customizable plots directly from code. Again, while not web-based "charts as code," they're highly versatile for data visualization tasks.
 
    Example (Matplotlib):
    ```python
@@ -97,7 +97,7 @@ Creating "charts as code" involves using programming languages or libraries to g
 
 6. **[[Tooling/Data Utilities/Marimo|Marimo]]**: Marimo is a lightweight, simple, and fast charting library for the web written in TypeScript. It aims to provide a straightforward API similar to D3 but with less boilerplate.
 
-7. **[[Tooling/Software Development/Developer Experience/DevTools/Vega|Vega]] & Vega-Lite**: These are higher-level visualization specifications based on JSON grammars that can be used for creating complex interactive visualizations. They're not programming languages per se, but rather a way of describing what the chart should look like, which can then be rendered in various ways (including D3.js).
+7. **[[Tooling/Software Development/Developer Experience/DevTools/Vega|Vega]] & Vega-Lite**: These are higher-level visualization specifications based on JSON grammars that can be used for creating complex interactive visualizations. They're not programming languages per se, but rather a way of describing what the chart should look like, which can then be rendered in various ways (including [[Tooling/Software Development/Programming Languages/Libraries/D3.js|D3.js]]).
 
    Example (Vega):
    ```json
@@ -122,7 +122,7 @@ Creating "charts as code" involves using programming languages or libraries to g
    fig.show()
    ```
 
-Each of these methods has its strengths and is suited to different needs, ranging from web-based interactive visualizations (D3.js, Plotly) to static plots in reports or documents (R's ggplot2, Python's Matplotlib/Seaborn). Some are more powerful but have a steeper learning curve (like D3.js), while others offer simplicity and ease of use at the cost of some flexibility (like [[Tooling/Software Development/Frameworks/Web Frameworks/Mermaid.js|Mermaid.js]] for diagrams).
+Each of these methods has its strengths and is suited to different needs, ranging from web-based interactive visualizations (D3.js, [[Tooling/Enterprise Jobs-to-be-Done/Plotly|Plotly]]) to static plots in reports or documents (R's ggplot2, Python's Matplotlib/Seaborn). Some are more powerful but have a steeper learning curve (like D3.js), while others offer simplicity and ease of use at the cost of some flexibility (like [[Tooling/Software Development/Frameworks/Web Frameworks/Mermaid.js|Mermaid.js]] for diagrams).
 
 
 # Sources

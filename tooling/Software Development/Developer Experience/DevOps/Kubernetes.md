@@ -3,7 +3,7 @@ site_uuid: 1229c014-048b-47a6-b70e-9e9885d92848
 url: https://kubernetes.io/
 title: Production-Grade Container Orchestration
 site_visibility: public
-date_modified: 2026-05-22
+date_modified: 2026-08-17
 date_created: 2025-03-30
 og_image: https://kubernetes.io/images/kubernetes-open-graph.png
 og_url: https://kubernetes.io/
@@ -21,7 +21,7 @@ cf_last_run: 2026-05-22T20:05:56.663Z
 cf_last_run_model: Perplexity sonar-deep-research
 ---
 
-
+https://youtu.be/sTLiqkMwJb4?is=B0HOgO9vCCupEtMQ
 
 https://youtu.be/67fsLJd9Xn8?si=MuQKHkvhgpHCiBAn
 

@@ -29,7 +29,7 @@ https://youtu.be/1a1VXDdIyrk?is=tar1Ksp2Bil6v4G9
 
 
 [[concepts/Explainers for AI/Agentic Engineering|Agentic Engineering]]
-[[Loop Engineering]]
+[[concepts/Explainers for AI/Loop Engineering]]
 
 [[Tooling/AI-Toolkit/Agentic AI/Mem0|Mem0]]
 

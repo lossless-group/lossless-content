@@ -31,7 +31,7 @@ for_clients:
 
 [[concepts/Explainers for AI/Prompt Engineering|Prompt Engineering]]
 [[concepts/Explainers for AI/Agentic Engineering|Agentic Engineering]]
-[[Loop Engineering]]
+[[concepts/Explainers for AI/Loop Engineering]]
 
 [[Agent Evals]]
 

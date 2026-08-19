@@ -1,6 +1,6 @@
 ---
 date_created: 2024-08-12
-date_modified: 2026-06-18
+date_modified: 2026-08-18
 tags:
   - Databases
   - Explainers
@@ -16,16 +16,20 @@ aliases:
   - graph databases
   - graph database
 ---
-[[Tooling/Data Utilities/Apache Age|Apache Age]]
-[[Tooling/Software Development/Databases/Neo4j|Neo4j]]
-[[Tooling/Software Development/Databases/Powabase|Powabase]]
-[[Tooling/Software Development/Databases/HelixDB|HelixDB]]
-[[Tooling/Software Development/Databases/SurrealDB|SurrealDB]]
-[[ChromaDB]]
-[[Tooling/Software Development/Databases/Dgraph|Dgraph]]
-[[Tooling/Software Development/Databases/JanusGraph|JanusGraph]]
-[[Tooling/Software Development/Databases/GraphQLite|GraphQLite]]
-[[projects/Emergent-Innovation/Standards/Graph Query Language|Graph Query Language]]
+::tool-showcase
+- [[Tooling/Data Utilities/Apache Age|Apache Age]]
+- [[Tooling/Software Development/Databases/Neo4j|Neo4j]]
+- [[Tooling/Software Development/Databases/Powabase|Powabase]]
+- [[Tooling/Software Development/Databases/HelixDB|HelixDB]]
+- [[Tooling/Software Development/Databases/SurrealDB|SurrealDB]]
+- [[ChromaDB]]
+- [[Tooling/Software Development/Databases/Dgraph|Dgraph]]
+- [[Tooling/Software Development/Databases/JanusGraph|JanusGraph]]
+- [[Tooling/Software Development/Databases/Pinecone|Pinecone]]
+- [[Tooling/Software Development/Databases/Qdrant|Qdrant]]
+- [[Tooling/Software Development/Databases/GraphQLite|GraphQLite]]
+- [[projects/Emergent-Innovation/Standards/Graph Query Language|Graph Query Language]]
+:::
 
 
 
