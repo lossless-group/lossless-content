@@ -1,6 +1,6 @@
 ---
 site_uuid: 49de432d-0a9a-47f0-b978-302ed467be85
-date_modified: 2025-11-23
+date_modified: 2026-08-19
 date_created: 2025-03-30
 tags: [AI-Toolkit, Explainers, AI-Models]
 publish: true
@@ -13,6 +13,8 @@ at_semantic_version: 0.0.1.1
 2023, Dec 27. [This is why deep learning is really weird](https://youtu.be/sJXn4Cl4oww?si=WHKt3vjYOx7ThrEl) Machine Learning Street Network. [[YouTube]].
 
 https://youtu.be/alfdI7S6wCY?si=rasFgW4NDdb0Brag
+	
+https://youtu.be/1VcLoNTXrGo?is=duvv_UksNpg7nHew
 
 ***
 > [!info] **Perplexity Query** (2025-11-23T18:44:59.925Z)
