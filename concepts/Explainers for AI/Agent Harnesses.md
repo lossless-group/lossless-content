@@ -1,7 +1,7 @@
 ---
 tags: [Agentic-Engineering, Context-Engineering, Context-Vigilance, State-of-the-Art, Explainers]
 date_created: 2026-06-19
-date_modified: 2026-08-09
+date_modified: 2026-08-19
 cf_last_run: "2026-06-22T23:30:34.384Z"
 cf_last_run_model: "Perplexity sonar-pro"
 for_clients:
@@ -21,12 +21,15 @@ https://youtu.be/1a1VXDdIyrk?is=-yM2plpfgMP69wxY
 
 https://youtu.be/1a1VXDdIyrk?is=tar1Ksp2Bil6v4G9
 
-[[Tooling/AI-Toolkit/Agentic AI/OpenCode|OpenCode]]
-[[Tooling/Software Development/Developer Experience/DevTools/Pi Coding Agent|Pi.dev]]
-[[Tooling/AI-Toolkit/Generative AI/Code Generators/Claude Code|Claude Code]]
-[[Tooling/AI-Toolkit/Agentic AI/OpenClaw|OpenClaw]]
-[[Tooling/AI-Toolkit/Agentic AI/Hermes Agent|Hermes Agent]]
+https://youtu.be/H50xoAzNfB0?is=rRup6YuFn-I1f-Za
 
+:::tool-showcase
+- [[Tooling/AI-Toolkit/Agentic AI/OpenCode|OpenCode]]
+- [[Tooling/Software Development/Developer Experience/DevTools/Pi Coding Agent|Pi.dev]]
+- [[Tooling/AI-Toolkit/Generative AI/Code Generators/Claude Code|Claude Code]]
+- [[Tooling/AI-Toolkit/Agentic AI/OpenClaw|OpenClaw]]
+- [[Tooling/AI-Toolkit/Agentic AI/Hermes Agent|Hermes Agent]]
+:::
 
 [[concepts/Explainers for AI/Agentic Engineering|Agentic Engineering]]
 [[concepts/Explainers for AI/Loop Engineering]]

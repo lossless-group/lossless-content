@@ -32,7 +32,7 @@ at_semantic_version: 0.0.0.1
 
 # Value Proposition & Features
 
-Zep is a **[[Context Engineering Platform]] for AI agents** that provides persistent, temporally-aware memory as a managed cloud service built on a temporal **Context Graph** (knowledge graph) architecture. [^d3o7bu] [^r1ze78] [^gl9kme] It targets developers and enterprises building AI agents that need sub-200ms retrieval, governed long‑term memory, and compliance-grade provenance rather than ad‑hoc vector stores. [^k9jjmf] [^r1ze78] [^ear82x] [^gl9kme] Zep’s commercial platform sits on top of its open‑source **Graphiti** engine, delivering enterprise controls, multi-tenant context graphs, and integrations with agent frameworks and MCP-based tools. [^r1ze78] [^s34gjv] [^dnww73]
+Zep is a **[[Context Engineering Platforms]] for AI agents** that provides persistent, temporally-aware memory as a managed cloud service built on a temporal **Context Graph** (knowledge graph) architecture. [^d3o7bu] [^r1ze78] [^gl9kme] It targets developers and enterprises building AI agents that need sub-200ms retrieval, governed long‑term memory, and compliance-grade provenance rather than ad‑hoc vector stores. [^k9jjmf] [^r1ze78] [^ear82x] [^gl9kme] Zep’s commercial platform sits on top of its open‑source **Graphiti** engine, delivering enterprise controls, multi-tenant context graphs, and integrations with agent frameworks and MCP-based tools. [^r1ze78] [^s34gjv] [^dnww73]
 
 Core product features:
 

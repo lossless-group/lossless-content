@@ -4,8 +4,9 @@ aliases:
   - Conversion Rate Optimization
   - conversion rate optimization
   - CRO
+  - Conversion Rates
 date_created: 2026-05-10
-date_modified: 2026-08-04
+date_modified: 2026-08-20
 tags:
   - Best-Practices
   - Founder-Advice

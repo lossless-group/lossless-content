@@ -1,7 +1,7 @@
 ---
 wikipedia_url: https://en.wikipedia.org/wiki/Peter_Thiel
 date_created: 2025-11-13
-date_modified: 2025-11-13
+date_modified: 2026-08-21
 site_uuid: 15f9ef78-927e-4a70-9c87-37a1ad1fca4b
 publish: true
 title: Peter Theil
@@ -9,6 +9,7 @@ slug: peter-theil
 at_semantic_version: 0.0.0.1
 tags: [Venture-Investors]
 ---
+https://www.instagram.com/reel/DXELhpaj9WF/
 
 ***
 > [!info] **Perplexity Query** (2025-11-13T21:06:39.569Z)

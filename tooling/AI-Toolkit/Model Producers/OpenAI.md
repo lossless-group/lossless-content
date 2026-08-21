@@ -3,7 +3,7 @@ site_uuid: "541235f6-b488-4042-8a76-9f144ccccf36"
 title: "OpenAI"
 url: "https://openai.com/"
 site_visibility: "public"
-date_modified: 2026-06-27
+date_modified: 2026-08-21
 date_created: 2025-01-31
 og_image: "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/cdb0e2f899f524abb71314ab20e09c9c/OAI-white-on-black.png?w=1600&h=900&fit=fill"
 description: "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and beneficial AGI is our mission."
@@ -29,7 +29,6 @@ og_type: "website"
 [[Sources/People/Sam Altman|Sam Altman]]
 
 
-
 https://youtu.be/RPbmMmcNvYA?si=2HVnqr9U2mQ607Bn
 
 https://youtu.be/8JGa62LBjpY?si=G_d_oZmTADugHKhm
@@ -42,7 +41,7 @@ https://youtu.be/0pGxoubWI6s?si=i_PDvzO-oGJIcSko
 
 https://youtu.be/z1em6Ou5r_c?is=C9BC1txPJ_h_rhOX
 
-An organization that researches, develops, and publishes [[Large Language Models]]. Run by [[Sam Altman]], funded primarily by [[organizations/Microsoft]]
+An organization that researches, develops, and publishes [[Large Language Models]]. Run by [[Sam Altman]], funded primarily by [[organizations/Microsoft|Microsoft]]
 
 Here is a timeline of OpenAI's major model releases, their features, and use cases:
 

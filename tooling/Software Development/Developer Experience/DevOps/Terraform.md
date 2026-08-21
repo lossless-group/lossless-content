@@ -27,7 +27,7 @@ https://youtu.be/Hn-TzyVG2Rg?is=XSkB81OupIKQEYAB
 
 # Value Proposition & Features
 
-Terraform is a **[[organizations/HashiCorp|HashiCorp]] [[concepts/Infrastructure-as-Code|Infrastructure-as-Code]] (IaC) platform** that lets organizations define, provision, and manage cloud, private datacenter, and SaaS infrastructure through declarative configuration files, using a single workflow across environments. [^ythv8y] [^3uzmtj] It standardizes multi-cloud and hybrid provisioning by describing desired state in HashiCorp [[Configuration Languages]] (HCL) and applying changes safely and repeatably. [^6u322x] [^0esons] Terraform’s ecosystem includes the open-source [[Vocabulary/Command-Line Interfaces|CLI]] engine plus **HCP Terraform** (managed SaaS) and **Terraform Enterprise** (self-hosted), giving teams collaboration, governance, and automation at scale. [^3uzmtj] [^j3jjqr]
+Terraform is a **[[organizations/HashiCorp|HashiCorp]] [[concepts/Infrastructure-as-Code|Infrastructure-as-Code]] (IaC) platform** that lets organizations define, provision, and manage cloud, private datacenter, and SaaS infrastructure through declarative configuration files, using a single workflow across environments. [^ythv8y] [^3uzmtj] It standardizes multi-cloud and hybrid provisioning by describing desired state in HashiCorp [[concepts/Configuration Languages]] (HCL) and applying changes safely and repeatably. [^6u322x] [^0esons] Terraform’s ecosystem includes the open-source [[Vocabulary/Command-Line Interfaces|CLI]] engine plus **HCP Terraform** (managed SaaS) and **Terraform Enterprise** (self-hosted), giving teams collaboration, governance, and automation at scale. [^3uzmtj] [^j3jjqr]
 
 Core features (each 2–3 sentences):
 

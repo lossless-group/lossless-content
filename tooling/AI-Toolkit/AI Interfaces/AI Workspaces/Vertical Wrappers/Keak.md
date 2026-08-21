@@ -29,4 +29,4 @@ tags:
 Example of [[Predictable Revenue]], [[concepts/Persuasive Technology|Persuasive Technology]].
 
 [[concepts/Explainers for Tooling/Conversion Rate Optimization|Conversion Rate Optimization]]
-[[CRO Platforms]]
+[[concepts/Explainers for Tooling/CRO Platforms]]

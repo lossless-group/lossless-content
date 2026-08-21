@@ -92,7 +92,7 @@ As of 2026-05-23,
 - [[GNU Project]]
 - [[concepts/Copyleft]]
 - [[GNU General Public License]]
-- [[Richard Stallman]]
+- [[Sources/People/Richard Stallman]]
 - [[Open-source software]]
 
 

@@ -21,7 +21,7 @@ for_clients:
   - FullStackVC
   - FII
 ---
-[[Mercury]]
+[[Tooling/Mercury Bank]]
 [[concepts/Emergent Innovation|Emergent Innovation]]
 [[essays/Technology wants to be Emergent|Technology wants to be Emergent]]
 
