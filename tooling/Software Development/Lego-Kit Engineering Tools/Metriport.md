@@ -28,7 +28,7 @@ at_semantic_version: 0.0.1.1
 # Value Proposition & Features
 Metriport is an **open-source platform for healthcare data intelligence** that helps healthcare organizations **access, analyze, and exchange patient data in real time**. [^ze7y2d] [^j8opf9] [^y54jr0] Its site says it connects to clinical networks, normalizes inbound data to **FHIR R4**, and returns “one accurate, comprehensive record” through the customer’s own product. [^4rze9i]
 
-Core features center on networked record retrieval, normalization, and delivery into operational workflows. [^4rze9i] The product also exposes a **[[Fast Healthcare Interoperability Resources|FHIR]]-native API**, a **[[Vocabulary/Data Warehouses|Data Warehouse]]** with normalized tables shared through [[Snowflake Secure Data Sharing]], and **medical record summaries** available through API, dashboard, HTML/PDF, and analytics warehouse views. [^p1jtap] [^6bgj8d] [^j4dems]
+Core features center on networked record retrieval, normalization, and delivery into operational workflows. [^4rze9i] The product also exposes a **[[Sources/Standards-and-Specs/Fast Healthcare Interoperability Resources|FHIR]]-native API**, a **[[Vocabulary/Data Warehouses|Data Warehouse]]** with normalized tables shared through [[Snowflake Secure Data Sharing]], and **medical record summaries** available through API, dashboard, HTML/PDF, and analytics warehouse views. [^p1jtap] [^6bgj8d] [^j4dems]
 
 - **Clinical network connectivity** across “every available clinical network.” [^4rze9i]
 - **FHIR R4 normalization** of retrieved data. [^4rze9i]

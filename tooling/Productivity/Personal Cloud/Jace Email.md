@@ -21,5 +21,5 @@ at_semantic_version: 0.0.0.1
 ---
 [[concepts/Explainers for AI/AI Assistants|AI Assistants]]
 
-[[Inbox AI]]
+[[concepts/Explainers for AI/Inbox AI]]
 

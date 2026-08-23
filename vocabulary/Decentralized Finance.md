@@ -1,13 +1,16 @@
 ---
 date_created: 2025-11-16
-date_modified: 2025-11-16
-aliases: [DeFi]
+date_modified: 2026-08-23
+aliases:
+  - DeFi
 site_uuid: 4d68bdbd-281d-4872-84b6-f978dabb6033
 publish: true
 title: Decentralized Finance
 slug: decentralized-finance
 at_semantic_version: 0.0.0.1
-tags: [Fin-Tech]
+tags:
+  - Fin-Tech
+  - Web3
 ---
 [[Vocabulary/Web3|Web3]]
 

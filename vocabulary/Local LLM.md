@@ -105,7 +105,7 @@ A local LLM applies when the model weights are stored on local or privately mana
   - **Multi-tenant AI service** – Shared infrastructure where many customers’ data co‑reside, relying on provider‑level isolation and policies rather than physical or organizational data locality. [^fmt5mj] [^7uwypw]  
 
 - **Adjacent terms**
-  - [[Local-First Applications|Local-First]]
+  - [[concepts/Explainers for Tooling/Local-First Applications|Local-First]]
   - [[concepts/Explainers for AI/Edge AI|Edge AI]]
   - [[concepts/Explainers for AI/Home Labs|Home Labs]]
   - [[concepts/Security-First Development|Security-First Development]]

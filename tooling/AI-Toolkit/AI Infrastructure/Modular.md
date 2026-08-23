@@ -25,7 +25,7 @@ publish: true
 [[concepts/Explainers for AI/Inference Layer|Inference Layer]]
 
 Acquired by [[organizations/Qualcomm|Qualcomm]]
-Creator of [[Mojo Language]]
+Creator of [[Tooling/Software Development/Programming Languages/Mojo Language]]
 
 
 

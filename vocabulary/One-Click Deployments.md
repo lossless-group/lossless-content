@@ -107,7 +107,7 @@ Several platforms have emerged to simplify deployments, offering innovative feat
 
 #### **4. Heroku**
 
-- **What It Offers:** A pioneering [[Platform-as-a-Service]] (PaaS), Heroku allows developers to deploy and scale applications with minimal configuration. It supports a wide range of programming languages and frameworks.
+- **What It Offers:** A pioneering [[concepts/Explainers for Tooling/Platform-as-a-Service]] (PaaS), Heroku allows developers to deploy and scale applications with minimal configuration. It supports a wide range of programming languages and frameworks.
 - **Innovative Features:**
     - Add-ons marketplace for extending functionality (e.g., databases, monitoring).
     - Git-based deployments.

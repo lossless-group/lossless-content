@@ -6,11 +6,11 @@ tags:
   - Lossless-Thinking
   - Lossless-Toolkit
 date_created: 2024-02-11
-date_modified: 2026-05-27
+date_modified: 2026-08-23
 site_uuid: 0f0c57e6-23cd-4712-b7b6-2a2260259d6a
 title: Changelog First Development
 slug: changelog-first-development
-at_semantic_version: 0.0.1.0
+at_semantic_version: 0.0.1.1
 authors:
   - Michael Staton
 augmented_with: Perplexity AI
@@ -37,9 +37,12 @@ aliases:
 
 **Continuous Delivery (CD)** extends CI by automatically preparing code for release to production. After passing through automated testing, code changes are packaged and ready for deployment at any time. [^5otkys] [^qzs5qx] The key distinction is that while continuous delivery stops at having deployable code, continuous deployment automatically releases to production. [^q7zp5f]
 
+![Screenshot 2026-08-22 at 7.11.54 PM.png](https://i.imgur.com/C83pmKu.png)
+
+
 ### Semantic Versioning: The Language of Change
 
-**[[Vocabulary/Semantic Versioning|Semantic Versioning]] (SemVer)** provides a standardized way to communicate the nature and impact of changes through version numbers formatted as MAJOR.MINOR.PATCH [^u3eit1] [7]:
+**[[Vocabulary/Semantic Versioning|Semantic Versioning]] (SemVer)** provides a standardized way to communicate the nature and impact of changes through version numbers formatted as MAJOR.MINOR.PATCH: [^u3eit1] [^p59k6a]
 
 - **MAJOR** version increments indicate breaking changes that may require users to modify their code
 - **MINOR** version increments add new features in a backward-compatible manner
@@ -89,7 +92,7 @@ Research from DORA (DevOps Research and Assessment) shows that high-performing t
 
 ### The Changelog Effect
 
-Companies practicing changelog-driven development report significant benefits [^2vtiie] [16]:
+Companies practicing changelog-driven development report significant benefits: [^2vtiie] [^g23znt]
 
 - **Increased user engagement** through clear communication of new features
 - **Reduced support tickets** as users can easily find what changed
@@ -99,7 +102,8 @@ Companies practicing changelog-driven development report significant benefits [^
 ## Best Practices for Implementation
 
 ### 1. Commit Message Conventions
-Adopt conventional commits that include type, scope, and description[13]:
+Adopt conventional commits that include type, scope, and description: [^uf4ydf]
+
 ```
 feat(auth): add OAuth2 integration
 fix(api): resolve timeout issue in user endpoint

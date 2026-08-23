@@ -1,8 +1,9 @@
 ---
-date_modified: 2025-08-27
+date_modified: 2026-08-23
 site_uuid: 0d5218f7-5808-457c-abcd-798de03e62eb
 date_created: 2025-04-06
-tags: [Tech-Trend]
+tags:
+  - Technology-Trends
 publish: true
 title: JAM Stack
 slug: jam-stack

@@ -1,11 +1,11 @@
 ---
 tags:
-  - Tech-Trend
   - Influencer-Favorites
   - State-Of-The-Art-Practices
   - State-of-the-Art
+  - Technology-Trends
 date_created: 2025-12-05
-date_modified: 2026-06-06
+date_modified: 2026-08-23
 for_clients:
   - Laerdal
   - Param

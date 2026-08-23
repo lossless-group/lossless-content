@@ -192,7 +192,7 @@ As of 2026-05-26,
 - [[organizations/Cloud Native Computing Foundation|Cloud Native Computing Foundation]]  
 - [[organizations/Open Source Security Foundation (OpenSSF)]]  
 - [[people/Linus Torvalds]]  
-- [[concepts/Open Source Governance Models]]  
+- [[Open Source Governance Models]]  
 - [[concepts/Cloud-Native Computing]]  
 - [[concepts/Open-Source Software Supply Chain Security]]
 

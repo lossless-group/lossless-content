@@ -20,5 +20,5 @@ tags:
 ---
 
 [[Realtime Collaboration]]
-[[Local-First Applications|Local-First]]
+[[concepts/Explainers for Tooling/Local-First Applications|Local-First]]
 [[React]]

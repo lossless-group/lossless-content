@@ -57,7 +57,7 @@ https://youtu.be/meatOKCg0b0?si=0JpM0eDkSAyGVG7h
   - **Automated Security Testing**: Proactively detects vulnerabilities using integrated tools.
   - **Stronger Encryption**: Protects data in storage and transit. [^k4imgj]
 
-- **Testing and [[Observability]]**
+- **Testing and [[Vocabulary/Observability]]**
   - Robust unit/integration testing is essential for reliability.
   - Monitoring and tracing tools, often bundled with cloud providers, allow for continuous health checking and rapid debugging.
 

@@ -1,15 +1,16 @@
 ---
 date_created: 2025-10-06
-date_modified: 2026-05-04
+date_modified: 2026-08-23
 site_uuid: cb3930ca-3531-4ae2-bb2a-337299c86113
 publish: true
 title: Directed Acyclic Graphs
 slug: directed-acyclic-graphs
-at_semantic_version: 0.0.0.1
+at_semantic_version: 0.0.1.0
 aliases: [Dags, dags, dag, Dag, DAG, DAGs]
-tags: [Data-Pipelines, DataOps]
+tags: [Data-Pipelines, DataOps, Version-Control]
 wikipedia_url: https://en.wikipedia.org/wiki/Directed_acyclic_graph
 ---
+[[Vocabulary/Conflict-Free Replicated Data Types|Conflict-Free Replicated Data Types]]
 
 
 ***
@@ -53,6 +54,82 @@ Looking ahead, DAGs are poised to play a significant role in the development of 
 ## Conclusion
 Directed Acyclic Graphs are powerful tools for representing and analyzing complex relationships and workflows. Their applications span multiple fields, from data processing to epidemiology, and their potential for future development is vast. As data-driven decision-making becomes increasingly critical, DAGs will continue to play a pivotal role in unlocking new insights and efficiencies.
 
+# Notes from the Rabbit Hole
+
+*Captured 2026-08-22, while reading version-control and file-sync prior art
+(`ai-labs/studies/sync-and-content-version-control`). The article above covers
+DAGs as they appear in data pipelines and epidemiology. These are notes on the
+other place the acronym turns up constantly — **version history** — plus the
+cluster of acronyms that always seem to arrive with it.*
+
+## The plain-language version
+
+Read the three words backwards and the whole definition falls out:
+
+- **Graph** — dots connected by lines. The dots are called *nodes*, the lines
+  are called *edges*. Nothing more exotic than that.
+- **Directed** — the lines are arrows. They point one way.
+- **Acyclic** — you can never follow the arrows in a circle back to where you
+  started.
+
+That is the entire definition. Everything else is consequence.
+
+## Why version history is a DAG
+
+Every version-control system worth the name stores history this way, and the
+reason is worth understanding because it explains what these tools can and
+cannot do.
+
+**Each change points backward at the change (or changes) it was based on.** The
+arrows point *into the past*. Nothing can be its own ancestor, so there are no
+cycles — so, by construction, a DAG.
+
+The payoff is that this shape lets history **branch**:
+
+- Two changes sharing one parent = a **branch**. Two people worked from the same
+  starting point.
+- One change with two parents = a **merge**. Those two lines of work came back
+  together.
+
+If history were a straight line — a simple list — neither of those could be
+represented at all, and two people working at the same time would be impossible
+to model. The DAG is what makes concurrent work expressible.
+
+You can see it directly in the data structures:
+
+- Git commits carry a list of parent hashes.
+- Seafile's `Commit` struct carries `ParentID` **and** `SecondParentID` — one for
+  the ordinary case, the second one appearing exactly when a merge happened.
+- [[Vocabulary/Conflict-Free Replicated Data Types]] like Automerge give every change a
+  `deps` field: the hashes of the changes it depends on. Same shape, finer grain
+  — a node per edit rather than per commit.
+- Jujutsu keeps *two* DAGs: the ordinary change graph, and a second
+  **operation log** recording repository-level operations, which is what lets
+  `jj undo` reverse "the agent restructured six blocks" as a single gesture.
+
+A useful consequence to remember: because the arrows only point backward, you
+can always ask *"what is this built on?"* and get a finite answer. You can never
+ask *"what will be built on this?"* without scanning everything. History is
+cheap to walk in one direction and expensive in the other.
+
+## Acronyms that travel with this one
+
+The version-control and file-sync literature assumes all of these. Collected
+here because they arrive as a set.
+
+| Acronym | Stands for | What it actually means |
+|---|---|---|
+| **CRDT** | Conflict-free Replicated Data Type | A data structure designed so that copies edited independently can always be merged automatically, with no human picking a winner. The trick is recording *the operation* rather than *the result* — two people each adding 1 to a counter yields 7, not 6. See [[Vocabulary/Conflict-Free Replicated Data Types]]. |
+| **DAG** | Directed Acyclic Graph | This page. |
+| **CAS** | Content-Addressed Storage | A file's *name* is the hash of its contents. Two consequences fall out for free: identical content is stored exactly once, and the name itself proves the content was not corrupted. |
+| **hash / SHA-256** | Secure Hash Algorithm, 256-bit | A function turning any amount of data into a short fixed-length fingerprint. Same input always gives the same fingerprint; two different inputs practically never collide. The engine under CAS and under every DAG above — the arrows are hashes. |
+| **CDC** | Content-Defined Chunking | Cutting a large file into pieces at boundaries chosen by the *content* rather than at fixed byte offsets, so inserting one byte near the front does not shift every boundary after it. What makes syncing a large edited file cheap. |
+| **GC** | Garbage Collection | The sweep that actually deletes data nothing points at any more. "It has no GC" means nothing is ever deleted — which for a CRDT is structural, not an oversight. |
+| **VCS** | Version Control System | Git, Jujutsu, Mercurial. The category. |
+| **FUSE** | Filesystem in Userspace | Lets an ordinary program pretend to be a disk, so its contents can be browsed as normal folders. How backup tools let you look inside a repository without restoring it. See [[Vocabulary/File System\|File System]]. |
+| **P2P** | Peer-to-Peer | Machines talk to each other directly, with no server in the middle. |
+| **NAT** | Network Address Translation | The router behaviour that puts your machine behind a shared public address. *NAT traversal* is the considerable plumbing required to get two machines behind two different routers to find each other — a large fraction of what a sync tool actually does. |
+
 ### Citations
 
 [^k8fdxc]: 2025, Oct 06. [Directed acyclic graph - Wikipedia](https://en.wikipedia.org/wiki/Directed_acyclic_graph). Published: 2003-03-31 | Updated: 2025-10-06
@@ -71,6 +148,3 @@ Directed Acyclic Graphs are powerful tools for representing and analyzing comple
 
 [8]: 2025, Oct 05. [DAG (Directed Acyclic Graph): Definition, Examples, and Applications](https://www.graphapp.ai/engineering-glossary/git/dag-directed-acyclic-graph). Updated: 2025-10-05
 
-
-
-***

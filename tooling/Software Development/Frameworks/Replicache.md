@@ -15,7 +15,7 @@ url: https://replicache.dev/replicache.dev
 tags: [Frameworks, Local-First]
 ---
 
-[[Local-First Applications|Local-First]]
+[[concepts/Explainers for Tooling/Local-First Applications|Local-First]]
 [[Realtime Collaboration]]
 [[concepts/Explainers for Tooling/Web Frameworks|Framework]]
 ![[Screenshot 2025-02-21 at 12.01.58 AM_Replicache--Hero.png]]

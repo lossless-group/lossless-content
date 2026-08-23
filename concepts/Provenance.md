@@ -23,7 +23,7 @@ for_clients:
 
 The record of where a piece of content actually came from — as distinct from where it claims to come from.
 
-The term is borrowed, not invented: it's standard in archives and art history (an object's [[chain of custody]]) and in data engineering as data provenance / lineage — there's even a [[organizations/W3C|W3C]] PROV standard. My use here is narrower than either.
+The term is borrowed, not invented: it's standard in archives and art history (an object's [[concepts/Chain of Custody]]) and in data engineering as data provenance / lineage — there's even a [[organizations/W3C|W3C]] PROV standard. My use here is narrower than either.
 
 # Defining and Describing Provenance (for Data)
 

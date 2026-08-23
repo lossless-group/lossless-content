@@ -37,7 +37,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 [[concepts/Explainers for Tooling/Go-to-Market Platforms|GTM Platforms]]
 
-[[Landing Pages]]
+[[Vocabulary/Landing Pages]]
 
 
 # Value Proposition & Features

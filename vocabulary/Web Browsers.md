@@ -1,14 +1,23 @@
 ---
-date_modified: 2026-05-29
+date_modified: 2026-08-23
 site_uuid: c49fdee8-e072-47cb-aa26-3d435008fb39
 date_created: 2025-04-06
-aliases: [Web Browsers, Browser, Browsers, Web Browser]
+aliases:
+  - Web Browsers
+  - Browser
+  - Browsers
+  - Web Browser
 publish: true
 title: Web Browsers
 slug: web-browsers
 at_semantic_version: 0.0.0.1
+tags:
+  - Web-Browsers
+  - Personal-Use
+  - Personal-Productivity
+  - Desktop-Applications
 ---
-
+:::tool-showcase
 - [[Tooling/Web Browsers/Arc Browser|Arc]]
 - [[Tooling/Web Browsers/Zen Browser|Zen Browser]]
 - [[Tooling/Web Browsers/Chrome|Chrome Browser]]
@@ -16,10 +25,13 @@ at_semantic_version: 0.0.0.1
 - [[Tooling/Web Browsers/Firefox|Firefox]]
 - [[Tooling/Web Browsers/Vivaldi|Vivaldi]]
 - [[Tooling/Web Browsers/Brave Browser|Brave Browser]]
+:::
 
 https://youtu.be/SMQc4umq3gg?si=gJr-4ncsHn0j6OHG
 
 https://youtu.be/p572p-irRaU?si=iioCEZbSlyOGFslH
+
+https://youtu.be/QMG5F64b454?is=hZ7QmDqgN4H1MeN8
 
 
 A **web browser** is software that allows users to access, retrieve, and view content on the World Wide Web. It works by fetching resources (HTML, CSS, JavaScript, etc.) from web servers, interpreting the code, and rendering it into user-friendly web pages. Browsers also manage navigation, security, and interactivity through components like rendering engines (e.g., Blink, Gecko) and JavaScript engines. [^do8swo] [^79wv6h] [^7jpo91]
@@ -39,19 +51,6 @@ A **web browser** is software that allows users to access, retrieve, and view co
 - **Yandex Browser**: Focuses on security with built-in antivirus tools. [^p67w1r]
 
 
-# Sources
-
-[^do8swo]: [What Is A Browser? How Web Browsers Work - NetNut](https://netnut.io/browser-definition/)
-[^0s1jzs]: [Populating the page: how browsers work - Web performance | MDN](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
-[^x3vjt4]: [10 Web Browsers You Probably Haven't Heard Of - WebFX](https://www.webfx.com/blog/web-design/10-web-browsers-you-probably-havent-heard-of/)
-[^bw8zj5]: [Web Browser | Definition, Features & Types - Lesson - Study.com](https://study.com/academy/lesson/what-is-a-web-browser-definition-examples-quiz.html)
-[^79wv6h]: [What is a Web Browser: Definition, Types, and Features - Ramotion](https://www.ramotion.com/blog/what-is-web-browser/)
-[^s6rmjv]: [How browsers work | Articles - web.dev](https://web.dev/articles/howbrowserswork)
-[^p67w1r]: [33 Cool Alternative Web Browsers You Didn't Know | 2025 Edition](https://www.rankred.com/alternative-web-browsers/)
-[^wan1yj]: [What is a web browser, and what different types are there? - NordVPN](https://nordvpn.com/blog/types-of-browsers/)
-[^7jpo91]: [What is a Browser? How does it Work? | BrowserStack](https://www.browserstack.com/guide/what-is-browser)
-[^0hevou]: [A Fun List of Browsers You've Never Heard Of - The History of the Web](https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/)
-[^bs4dai]: [What Is a Web Browser? - Avast](https://www.avast.com/c-what-is-a-web-browser)
 
 Here are some unique features of lesser-known web browsers:
 
@@ -71,7 +70,19 @@ Here are some unique features of lesser-known web browsers:
 
 - **Nyxt**: A highly customizable browser with programmable features for advance[^p67w1r]sers. [7]
 
+# Sources
 
+[^do8swo]: [What Is A Browser? How Web Browsers Work - NetNut](https://netnut.io/browser-definition/)
+[^0s1jzs]: [Populating the page: how browsers work - Web performance | MDN](https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work)
+[^x3vjt4]: [10 Web Browsers You Probably Haven't Heard Of - WebFX](https://www.webfx.com/blog/web-design/10-web-browsers-you-probably-havent-heard-of/)
+[^bw8zj5]: [Web Browser | Definition, Features & Types - Lesson - Study.com](https://study.com/academy/lesson/what-is-a-web-browser-definition-examples-quiz.html)
+[^79wv6h]: [What is a Web Browser: Definition, Types, and Features - Ramotion](https://www.ramotion.com/blog/what-is-web-browser/)
+[^s6rmjv]: [How browsers work | Articles - web.dev](https://web.dev/articles/howbrowserswork)
+[^p67w1r]: [33 Cool Alternative Web Browsers You Didn't Know | 2025 Edition](https://www.rankred.com/alternative-web-browsers/)
+[^wan1yj]: [What is a web browser, and what different types are there? - NordVPN](https://nordvpn.com/blog/types-of-browsers/)
+[^7jpo91]: [What is a Browser? How does it Work? | BrowserStack](https://www.browserstack.com/guide/what-is-browser)
+[^0hevou]: [A Fun List of Browsers You've Never Heard Of - The History of the Web](https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/)
+[^bs4dai]: [What Is a Web Browser? - Avast](https://www.avast.com/c-what-is-a-web-browser)
 [^do8swo]: [5 obscure web browsers that will finally break your Chrome addiction](https://www.zdnet.com/home-and-office/work-life/5-obscure-web-browsers-that-will-finally-break-your-chrome-addi[^0s1jzs)
 [^0s1jzs]: [Beyond Chrome: The Best Alternative Web Browsers for 2025](https://www.pcmag.com/picks/best-alternative-web-browsers)
 [^x3vjt4]: [10 Web Browsers You Probably Haven't Heard Of - WebFX](https://www.webfx.com/blog/web-design/10-web-browsers-you-probably-havent-hea[^bw8zj5)
@@ -92,7 +103,8 @@ This design focuses on simplicity and productivity but may not suit users who re
 
 Brave and Arc browsers differentiate themselves with unique features tailored to specific user needs:
 
-### **[Brave Browser]]**
+### [[Tooling/Web Browsers/Brave Browser|Brave Browser]]
+
 1. **Privacy and Security**:
    - Built-in ad and tracker blocking via "Shields"[^do8swo] [^x3vjt4]nhanced privacy. [1] [3]
    - Private Windows with Tor for anonymous browsing th[^79wv6h]gh the Tor network. [5]
@@ -113,6 +125,7 @@ Brave and Arc browsers differentiate themselves with unique features tailored to
 ---
 
 ### **[[Tooling/Web Browsers/Arc Browser|Arc Browser]]**
+
 1. **Innovative Tab Management**:
    - Vertical sidebar for organizing tabs and profiles, with options like pinned tabs, expiring tabs, and tab-specific rules (e.g., opening URLs in[^0s1jzs] [^bw8zj5]nated profiles). [2] [4]
    - "Spaces" for grouping tabs by context or purpose, making multit[^0s1jzs]ing more efficient. [2]

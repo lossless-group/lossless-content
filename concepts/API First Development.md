@@ -1,14 +1,14 @@
 ---
 date_created: 2025-03-30
-date_modified: 2025-04-24
+date_modified: 2026-08-23
 site_uuid: a399d356-1ba1-433c-a6ec-9bda21feffc2
 tags:
-  - Tech-Trend
   - State-Of-The-Art-Practices
   - Engineering-Management
   - Founder-Toolkit
   - Lossless-Thinking
   - Lossless-Toolkit
+  - Technology-Trends
 cf_last_run: 2026-05-09T22:49:01.894Z
 cf_last_run_model: Perplexity sonar-deep-research
 for_clients:

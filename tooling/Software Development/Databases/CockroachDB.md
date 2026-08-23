@@ -41,7 +41,7 @@ CockroachDB’s core product is a **distributed, relational database** with a Po
 - **Multi‑region and geo‑partitioning** – place data near users, control latency, and meet data‑locality and regulatory needs through region‑aware replication and “geo‑partitioned” tables. [^7latja] [^0cs0zx]  
 - **Cloud‑native deployment options** – available as a fully managed cloud service and a self‑hosted version for Kubernetes or traditional infrastructure. [^7latja] [^0cs0zx]  
 - **Online schema changes** – schema modifications occur without taking the database offline, reducing maintenance windows. [^7latja]  
-- **[[Observability]] &  [[concepts/Explainers for Tooling/Observability Platforms|Observability Platforms]] operations tooling** – built‑in admin UI, metrics integration, and tooling for performance tuning and troubleshooting clusters. [^7latja] [^0cs0zx]  
+- **[[Vocabulary/Observability]] &  [[concepts/Explainers for Tooling/Observability Platforms|Observability Platforms]] operations tooling** – built‑in admin UI, metrics integration, and tooling for performance tuning and troubleshooting clusters. [^7latja] [^0cs0zx]  
 
 ## Product Roadmap / Announcements
 

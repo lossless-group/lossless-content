@@ -37,7 +37,7 @@ Core product features include **model routing**, **automatic failover**, **unifi
 - **Unified billing / one bill** [^c3qyfg] [^zteg9e]
 - **Model catalog with pricing and benchmarks** [^zteg9e] [^925rz4]
 - **Usage tracking and logs** [^52cmy4]
-- **[[Bring Your Own Keys|BYOK]] credential restrictions** [^g59sn3]
+- **[[concepts/Bring Your Own Keys|BYOK]] credential restrictions** [^g59sn3]
 - **Public API changelog** [^g59sn3]
 
 ## Screenshots

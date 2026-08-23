@@ -1,9 +1,12 @@
 ---
 site_uuid: 2714bd4b-69e5-434c-89cd-4f215ebcb114
-aliases: [AI, Enterprise AI]
-date_modified: 2026-06-13
+aliases:
+  - AI
+  - Enterprise AI
+date_modified: 2026-08-23
 date_created: 2025-03-31
-tags: [Tech-Trend]
+tags:
+  - Technology-Trends
 ---
 https://youtu.be/DmU9uovmT2A?is=QGP9ZRxp70bq6TTQ
 

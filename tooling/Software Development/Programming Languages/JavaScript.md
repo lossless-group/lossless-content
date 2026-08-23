@@ -11,12 +11,21 @@ og_error_message: 'HTTP error 401'
 jina_last_request: '2025-03-09T06:45:19.160Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-03-07T06:11:14.691Z'
-date_modified: 2025-08-23
+date_modified: 2026-08-23
 date_created: 2025-03-30
 tags: [Software-Development, Programming-Languages]
 ---
 
-[[concepts/Explainers for Tooling/Web Frameworks]] include [[NEXT.js]], [[React]], [[Vue.js]], [[Solid.js]], [[Nextra]], [[Astro]].
+[[concepts/Explainers for Tooling/Web Frameworks|Web Frameworks]] include:
+:::tool-showcase
+- [[Tooling/Software Development/Frameworks/Web Frameworks/NEXT.js|NEXT.js]]
+- [[Tooling/Software Development/Frameworks/Web Frameworks/React|React]]
+- [[Tooling/Software Development/Frameworks/Web Frameworks/Vue.js|Vue.js]]
+- [[Tooling/Software Development/Frameworks/Web Frameworks/Solid.js|Solid.js]]
+- [[Tooling/Software Development/Frameworks/Web Frameworks/Nextra|Nextra]]
+- [[Tooling/Software Development/Frameworks/Web Frameworks/Astro|Astro]]
+- [[Tooling/Software Development/Frameworks/Web Frameworks/Meteor|Meteor]]
+:::
 
 >"In the past two years I have gone Webpack -> Parcel -> Webpack -> Vite -> Rollup"
 >
@@ -98,7 +107,7 @@ tags: [Software-Development, Programming-Languages]
 > 
 > These tools prepare your code for production by bundling, transforming, and optimizing it.
 > 
-> ### **[[Vite]]**
+> ### **[[Tooling/Software Development/Developer Experience/DevTools/Vite|Vite]]**
 > 
 > - **What it is:** A modern build tool and development server.
 > - **Why we need it:** Vite offers near-instant startup and fast Hot Module Replacement (HMR) during development by leveraging native ES modules.
@@ -129,7 +138,7 @@ tags: [Software-Development, Programming-Languages]
 > 
 > These are used to manage and coordinate builds, especially in projects with multiple applications.
 > 
-> ### **[[Tooling/Software Development/DevOps/Nx]]**
+> ### **[[Tooling/Software Development/Developer Experience/DevOps/Nx|Nx]]**
 > 
 > - **What it is:** A development platform for managing monorepos.
 > - **Why we need it:** Nx helps developers manage multiple projects in a single repository, providing tools for dependency management, task orchestration, and optimized builds.
@@ -143,7 +152,7 @@ tags: [Software-Development, Programming-Languages]
 > 
 > These simplify the process of building server-side or full-stack applications.
 > 
-> ### **[[Express]]**
+> ### **[[Tooling/Software Development/Frameworks/Web Frameworks/Express.js|Express.js]]**
 > 
 > - **What it is:** A minimalist web framework for Node.js.
 > - **Why we need it:** Express provides a simple, unopinionated way to build server-side applications and APIs.
@@ -151,7 +160,7 @@ tags: [Software-Development, Programming-Languages]
 >     - Flexible routing system.
 >     - Middleware support for handling requests and responses.
 > 
-> ### **[[Fastify]]**
+> ### **[[Tooling/Software Development/Frameworks/Web Frameworks/Fastify|Fastify]]**
 > 
 > - **What it is:** A fast and lightweight web framework for Node.js.
 > - **Why we need it:** Fastify is designed to be faster than Express, with built-in schema validation and optimized performance.
@@ -166,7 +175,7 @@ tags: [Software-Development, Programming-Languages]
 > 
 > These tools help manage the development environment and dependencies on your system.
 > 
-> ### **[[Tooling/Software Development/DevOps/Developer Experience/Homebrew]]**
+> ### **[[Tooling/Software Development/Developer Experience/Homebrew|Homebrew]]**
 > 
 > - **What it is:** A [[Packages and Libraries|Package]] manager for macOS and Linux.
 > - **Why we need it:** Homebrew allows developers to install system-level dependencies, such as Node.js, Deno, and other tools, in a simple and consistent way.
@@ -205,6 +214,8 @@ tags: [Software-Development, Programming-Languages]
 > 
 > Each tool in the JavaScript ecosystem has a specific purpose, and the key is to choose the right tools for your project’s needs. By understanding the role of runtime environments, package managers, bundlers, frameworks, and other tools, you can navigate this ecosystem effectively and build modern, performant applications.
 
+
+
 JavaScript plays a pivotal role as a cornerstone technology in today's digital ecosystem, serving as a bridge between frontend and backend development. Here's how it fits into the technology landscape:
 
 ## **Frontend Development**
@@ -237,13 +248,14 @@ JavaScript serves as a universal language that connects various technologies:
 ## **Ecosystem Components**
 - **npm ecosystem**: The world's largest package registry with millions of reusable packages
 - **Build tools**: Webpack, Vite, Rollup for module bundling
-- **Testing frameworks**: Jest, Mocha, Cypress
-- **Dev tools**: Chrome DevTools, VS Code integration
+- **Testing frameworks**: [[Tooling/Software Development/Frameworks/Vitest|Vitest]], [[Jest]], Mocha, [[Tooling/Software Development/Developer Experience/DevTools/Cypress|Cypress]]
+- **Dev tools**: Chrome DevTools, [[Tooling/Software Development/Developer Experience/DevTools/Visual Studio Code|VS Code]] integration
 
 ## **Cross-Platform Development**
 JavaScript enables "write once, run anywhere" philosophy through:
-- [[Progressive Web Apps]] (PWAs)
+- [[concepts/Progressive Web Apps]] (PWAs)
 - [[Vocabulary/Serverless|Serverless]] architectures
 - Cloud functions (AWS Lambda, Firebase Functions)
 
 JavaScript's versatility and extensive ecosystem make it a foundational technology that powers most modern web and application development, connecting developers to users across multiple platforms and devices.
+
