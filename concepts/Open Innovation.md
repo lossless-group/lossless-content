@@ -1,7 +1,10 @@
 ---
 date_created: 2025-06-10
-date_modified: 2025-11-22
-tags: [Open-Innovation]
+date_modified: 2026-08-23
+tags:
+  - Open-Innovation
+  - Lossless-Thinking
+  - Conceptual-Frameworks
 site_uuid: 78bb41c3-5581-4b6c-b07b-673d0d1bfece
 publish: true
 title: Open Innovation

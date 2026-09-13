@@ -8,7 +8,7 @@ og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshot
 jina_last_request: '2025-03-09T06:45:18.603Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-05-29T17:03:08.582Z'
-date_modified: 2025-05-29
+date_modified: 2026-08-26
 date_created: 2025-03-30
 og_image: 'https://spacetimedb.com/meta-tags.png'
 og_url: 'https://spacetimedb.com/'
@@ -17,4 +17,6 @@ tags:
   - Software-Development
   - Databases
 ---
+https://youtu.be/GSmLNSae8d4?is=5aKpknr8cIfIPJsz
+
 

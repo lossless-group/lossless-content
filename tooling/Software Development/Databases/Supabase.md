@@ -1,7 +1,7 @@
 ---
 site_uuid: 7a1bb7b1-7c21-4a28-bc5b-65dc388ece03
 date_created: 2025-03-20
-date_modified: 2025-09-23
+date_modified: 2026-08-26
 url: https://supabase.com/
 og_title: The Open Source Firebase Alternative
 og_image: https://supabase.com/images/og/supabase-og.png
@@ -14,7 +14,9 @@ description: Build production-grade applications with a Postgres database, Authe
 tags: [Software-Development, Serverless-Database, Document-Databases, Database-Wrappers]
 ---
 
-Supabase is actually built on the [[Vocabulary/Open Source Software]] [[concepts/Explainers for Tooling/Databases|Database]] [[Postgres]].
+Supabase is actually built on the [[Vocabulary/Open Source Software|Open Source Software]] [[concepts/Explainers for Tooling/Databases|Database]] [[Postgres]].
+
+https://youtu.be/5mC2FOt9BXI?is=SijbRmW1GekPB7c1
 
 ### Supabase has templates and starter code to ease getting started
 [[Supabase]] provides example code in common [[concepts/Explainers for Tooling/Programming Languages|Programming Languages]] and [[concepts/Explainers for Tooling/Web Frameworks|Web Frameworks]] including [[NEXT.js]], [[Svelte]], and [[React]].

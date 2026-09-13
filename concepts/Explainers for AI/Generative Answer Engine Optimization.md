@@ -1,6 +1,6 @@
 ---
 date_created: 2025-11-18
-date_modified: 2026-08-04
+date_modified: 2026-08-23
 site_uuid: 4b8eaf72-c831-48a7-8413-c16148f27968
 publish: true
 title: Generative Engine Optimization
@@ -20,7 +20,9 @@ tags:
 - [[Tooling/AI-Toolkit/Bear AI|Bear AI]]
 - [[Tooling/AI-Toolkit/Opinly AI|Opinly AI]]
 - [[Tooling/AI-Toolkit/Conductor AI|Conductor AI]]
+- [[Peec AI]]
 :::
+
 
 ***
 > [!info] **Perplexity Query** (2025-11-18T13:47:17.070Z)

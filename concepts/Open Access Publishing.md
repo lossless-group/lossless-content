@@ -2,8 +2,18 @@
 cf_last_run: 2026-05-23T20:16:35.146Z
 cf_last_run_model: Perplexity sonar-pro
 date_created: 2026-05-23
-date_modified: 2026-05-23
+date_modified: 2026-08-23
+aliases:
+  - Open Access
+  - open access
+  - Open Access Publishers
+site_uuid: faa26a90-ca8e-4d1d-8635-93ed7478aa7c
+publish: true
+title: Open Access Publishing
+slug: open-access-publishing
+at_semantic_version: 0.0.1.1
 ---
+[[organizations/Academia.edu|Academia.edu]]
 
 # Defining and Describing Open Access Publishing
 
@@ -37,8 +47,8 @@ Open access (OA) publishing is a model in which scholarly research articles are 
 
 ## Origins
 
-- Modern open access publishing emerged from early‑2000s scholarly communication reform efforts, crystallized in the 2002 Budapest Open Access Initiative (BOAI), which defined OA as “free availability on the public internet” with rights to “use, distribute, and reproduce” literature, though that original text is summarized in later OA explanations rather than the search snippets here.[^em460t][^dlrxk7]  
-- Library coalitions such as the Scholarly Publishing and Academic Resources Coalition (SPARC) helped popularize a concise definition: “Open Access is the free, immediate, online availability of research articles coupled with the rights to use these articles fully in the digital environment,” tying the term to both access and reuse rights in digital scholarship.[^em460t]  
+- Modern open access publishing emerged from early‑2000s scholarly communication reform efforts, crystallized in the 2002 [[Budapest Open Access Initiative]] (BOAI), which defined OA as “free availability on the public internet” with rights to “use, distribute, and reproduce” literature, though that original text is summarized in later OA explanations rather than the search snippets here.[^em460t][^dlrxk7]  
+- Library coalitions such as the [[organizations/Scholarly Publishing and Academic Resources Coalition]] (SPARC) helped popularize a concise definition: “Open Access is the free, immediate, online availability of research articles coupled with the rights to use these articles fully in the digital environment,” tying the term to both access and reuse rights in digital scholarship.[^em460t]  
 - As digital repositories and early OA journals appeared, OA publishing became associated with making “scholarly work…available through the digital institutional repository, or publication through an Open Access Journal or an OA book,” linking the term directly to specific publishing channels.[^x3tegl][^fgd751]  
 
 ## Evolution

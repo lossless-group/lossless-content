@@ -5,12 +5,14 @@ title: Computer Architecture
 slug: computer-architecture
 at_semantic_version: 0.0.0.1
 date_created: 2025-08-07
-date_modified: 2025-08-08
+date_modified: 2026-08-26
 tags: [Software-Architecture, Home-Labs, Emphemeral-Environments]
 augmented_with: Perplexity AI
 authors:
   - Michael Staton
 ---
+https://youtu.be/eNtADpJ2EC4?is=MV0q98bmamezdMaC
+
 
 ***
 > [!info] **Perplexity Query** (2025-08-07T16:57:56.813Z)

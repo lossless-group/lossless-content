@@ -5,7 +5,7 @@ title: Loop Engineering
 slug: loop-engineering
 at_semantic_version: 0.0.0.1
 date_created: 2026-08-09
-date_modified: 2026-08-18
+date_modified: 2026-08-23
 cf_last_run: 2026-08-18T02:47:40.779Z
 cf_last_run_model: Perplexity sonar-pro
 tags:
@@ -16,10 +16,13 @@ tags:
   - Context-Engineering
   - Influencer-Favorites
 ---
+https://youtu.be/xgkjtF89-44?is=QHnojxJd0SzZ5Qv5
 
 _Loop engineering is the craft of designing the *loop* that tells an AI agent what to do next over and over, so you no longer have to sit there typing prompts yourself.[^h6odua][^hgyfn2][^wgy8gq]_
 
-Loop engineering refers to building **repeatable, self-directing workflows around AI agents**, where the system—not a human—controls a recurring cycle of planning, acting, observing results, and deciding what to do next until a goal is met or a stop condition triggers.[^hgyfn2][^wgy8gq][^50knp0][^u4fivn][^28kzev][^26dpxt] It applies wherever agents need to work autonomously over multiple steps, such as AI coding assistants, customer-service bots, or task orchestration systems, and matters because it turns brittle, one-shot prompting into robust, auditable control systems that can run safely at scale.[^hgyfn2][^wgy8gq][^5uukfp][^x2uv2j][^u4fivn][^28kzev][^26dpxt][^3h40ul] Writers from the indie and startup ecosystem frame it as the next step after prompt, context, and harness engineering: instead of optimizing individual prompts, you engineer the **outer control loop** around capable but fallible agents.[^h6odua][^hgyfn2][^wgy8gq][^acfp3p][^dubvf1][^9glmy4][^3h40ul] In this sense, loop engineering explicitly brings ideas from feedback control and cybernetics into modern AI agent design, treating the *loop*—not the model call—as the primary unit of engineering.[^hgyfn2][^u4fivn][^dubvf1][^9glmy4][^3h40ul]
+Loop engineering refers to building **repeatable, self-directing workflows around AI agents**, where the system—not a human—controls a recurring cycle of planning, acting, observing results, and deciding what to do next until a goal is met or a stop condition triggers.[^hgyfn2][^wgy8gq][^50knp0][^u4fivn][^28kzev][^26dpxt] It applies wherever agents need to work autonomously over multiple steps, such as [[concepts/Explainers for AI/Code Generators|AI coding assistants]], [[concepts/Explainers for Tooling/Customer Service Bots|customer-service bots]], or task orchestration systems, and matters because it turns brittle, one-shot prompting into robust, auditable control systems that can run safely at scale.[^hgyfn2][^wgy8gq][^5uukfp][^x2uv2j][^u4fivn][^28kzev][^26dpxt][^3h40ul] 
+
+Writers from the indie and startup ecosystem frame it as the next step after prompt, context, and harness engineering: instead of optimizing individual prompts, you engineer the **outer control loop** around capable but fallible agents.[^h6odua][^hgyfn2][^wgy8gq][^acfp3p][^dubvf1][^9glmy4][^3h40ul] In this sense, loop engineering explicitly brings ideas from feedback control and cybernetics into modern AI agent design, treating the *loop*—not the model call—as the primary unit of engineering.[^hgyfn2][^u4fivn][^dubvf1][^9glmy4][^3h40ul]
 
 ![A schematic of an AI agent loop showing a cycle of Observe → Plan → Act → Check → Decide (continue, retry, escalate, stop), with state and logs persisted between iterations.](https://media.licdn.com/dms/image/v2/D5612AQHoISIg6XyKPw/article-cover_image-shrink_720_1280/B56Z7vclOwKcAQ-/0/1782133708548?e=2147483647&v=beta&t=d6he0-tHCjhDyPT1uohILss75pW-m97pOOghwtiExg8)
 

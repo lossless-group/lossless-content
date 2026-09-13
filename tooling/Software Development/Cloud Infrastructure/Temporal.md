@@ -3,7 +3,7 @@ url: https://temporal.io/
 cf_last_run: 2026-05-27T21:40:23.109Z
 cf_last_run_model: Perplexity sonar-pro
 date_created: 2025-11-07
-date_modified: 2026-05-27
+date_modified: 2026-09-11
 tags:
   - AI-Compute-Cloud-Providers
   - Dev-Ops-Tools
@@ -38,7 +38,7 @@ Temporal’s main primitives are **workflows** and **activities**. [^0wk8nl] A w
 
 ## Category, Market Size, and Category Growth
 
-Temporal fits best in the **workflow orchestration / durable execution / application infrastructure** category. [^0wk8nl] The provided search results do not include a credible market-size estimate or category-growth forecast specific to Temporal or its exact category.
+Temporal fits best in the **[[Workflow Orchestration]] / durable execution / application infrastructure** category. [^0wk8nl] The provided search results do not include a credible market-size estimate or category-growth forecast specific to Temporal or its exact category.
 # Competitive Landscape
 
 ## Who it's for, who it's not for

@@ -1,11 +1,13 @@
 ---
-date_modified: 2025-12-02
+date_modified: 2026-08-26
 site_uuid: 0d637fab-a83d-4269-a3f5-2202e311e66e
 date_created: 2025-04-06
 aliases: [SML, SMLs]
 ---
 
 https://youtu.be/C4mcQ3gAUNg?si=EBGJirCaDuV65xSs
+
+https://youtu.be/nk5BNz8v_9E?is=dCHNdupz-ZU0Uj6D
 
 [[Vocabulary/Retrieval-Augmented Generation|Retrieval-Augmented Generation]]
 

@@ -8,7 +8,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:05.010Z
 jina_error: Error occurred
 og_last_fetch: 2025-06-06T13:27:34.316Z
-date_modified: 2026-08-23
+date_modified: 2026-08-26
 date_created: 2025-03-30
 og_image: https://www.rust-lang.org/static/images/rust-social-wide.jpg
 description: A language empowering everyone to build reliable and efficient software.
@@ -28,6 +28,8 @@ https://youtu.be/7QwqShxyHtc?si=dUsLrOo-ovTwNdX9
 https://youtu.be/XBhqYWe6kQo?si=QeZEMGWy6rJ8_0tM
 
 https://youtu.be/784JWR4oxOI?is=t1KzRRWR92sYVawX
+
+https://youtu.be/0y6RKiIk6cs?is=Z9SPEwdkWpex4iHX
 
 https://youtu.be/TdDt7AiN6aw?si=jQerBDY8MngZzuUz
 

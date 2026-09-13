@@ -9,7 +9,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:12.551Z
 jina_error: Error occurred
 og_last_fetch: 2025-05-28T12:16:49.182Z
-date_modified: 2025-08-28
+date_modified: 2026-08-27
 date_created: 2025-03-30
 og_image: https://zed.dev/api/og?title=The%20editor%20for%0Awhat%27s%20next
 og_url: https://www.zed.dev
@@ -24,6 +24,11 @@ youtube_channel_url: https://www.youtube.com/@zeddotdev
 [[concepts/Open Source Alternatives|Open Source Alternative]]
 
 https://youtu.be/7PMXUruAIdQ?si=8WYAbujq93erYJve
+
+
+
+https://youtu.be/YCPlzxshBTA?is=OzUzSIhkozzE_7Ll
+
 https://youtu.be/5XG1JKoAnZU?si=Z5aRm8iP0te46QK5
 
 

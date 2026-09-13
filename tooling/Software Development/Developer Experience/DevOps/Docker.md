@@ -9,7 +9,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:09.462Z
 jina_error: Error occurred
 og_last_fetch: 2025-06-05T20:00:13.485Z
-date_modified: 2026-08-17
+date_modified: 2026-08-26
 date_created: 2025-03-30
 tags:
   - Software-Development
@@ -28,6 +28,8 @@ cf_last_run_model: Perplexity sonar-pro
 [[essays/How Docker Changed Everything|How Docker Changed Everything]]
 
 https://youtu.be/gUjVnq9hhTE?is=o3sqTPoZpcYow11B
+
+https://youtu.be/wowLWDe3vL4?is=JQxWc63zYsN7Ak5o
 
 https://youtu.be/aZ_y2M2OuEA?is=vhrekWKQeS2AHyoO
 

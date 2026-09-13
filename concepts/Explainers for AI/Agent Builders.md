@@ -1,8 +1,12 @@
 ---
 site_uuid: f3d41ba6-82ce-4c44-84df-b226c1d392e3
-date_modified: 2026-05-02
+date_modified: 2026-09-11
 date_created: 2025-03-30
 tags: [AI-Toolkit]
+publish: true
+title: "Agent Builders"
+slug: agent-builders
+at_semantic_version: 0.0.0.1
 ---
 
 
@@ -23,12 +27,10 @@ tags: [AI-Toolkit]
 >I'll research this for you to give you a current and accurate picture of how "Agent Builders" is being used in the tech industry.Let me dig into a few of the most informative sources to understand what agent builders do and which brands are in this space.I now have plenty to work with. Let me also pull a couple more on the OpenAI launch and a startup list to round out brand coverage.I have enough comprehensive material to give you a thorough answer.
 
 
+[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Writer|Writer]]
+[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Crew AI|Crew AI]]
+[[projects/Context-Vigilance/UseCases/n8n|n8n]]
 
-
-# Sources
-
-[^x9h0q8]: "[Which is The Best AI Agent Builder in 2025? | YouTube](https://youtu.be/STdecfY7Ki8?si=RvSgMpLD2KnHOflk))". OmniFusion AI. [YouTube](https://youtu.be).
-I have enough information to provide a comprehensive answer. Let me get a bit more on enterprise vendors like Salesforce and AWS to round it out.I now have plenty of material to write a comprehensive answer.
 
 # "Agent Builders" — What the Term Means, What the Tech Does, and Who's Doing It
 
@@ -101,11 +103,8 @@ In short: it's a hot, fast-coalescing label for a real and rapidly growing softw
 ### Citations
 
 [1]: [Vertex AI Agent Builder](https://cloud.google.com/products/agent-builder).
-
 [2]: [Agent Builder | OpenAI API](https://developers.openai.com/api/docs/guides/agent-builder).
-
 [3]: [8 best AI agent builders you need to try in 2026](https://www.gumloop.com/blog/best-ai-agent-builder).
-
 [4]: [AI Agent Builders: How to Create Custom Agents for Work](https://www.moveworks.com/us/en/resources/blog/what-are-ai-agent-builders).
 
 [5]: [AI Agent Builders: What They Are and How to Choose | Teradata](https://www.teradata.com/insights/ai-and-machine-learning/what-are-ai-agent-builders).
@@ -220,6 +219,6 @@ In short: it's a hot, fast-coalescing label for a real and rapidly growing softw
 
 [60]: [Salesforce & AWS advance secure AI agents in enterprise change](https://itbrief.ca/story/salesforce-aws-advance-secure-ai-agents-in-enterprise-change).
 
-
+[^x9h0q8]: "[Which is The Best AI Agent Builder in 2025? | YouTube](https://youtu.be/STdecfY7Ki8?si=RvSgMpLD2KnHOflk))". OmniFusion AI. [YouTube](https://youtu.be).
 
 ***

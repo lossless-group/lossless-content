@@ -7,7 +7,7 @@ tags:
   - AI-Toolkit
   - Check-It-Out
 date_created: 2025-07-29
-date_modified: 2026-05-09
+date_modified: 2026-09-11
 og_title: Agentic Experience for your Application
 og_description: Empower users to take action, automate workflows, and drive outcomes on your application - all through natural language commands.
 og_image: https://cdn.prod.website-files.com/6805f81793e1bc968baa1b93/681c7d76e1bb96e09e4b4593_Meta%20-%20Homepage.png
@@ -91,10 +91,6 @@ From a workflow automation perspective, the no-code AI platform market was value
 The enterprise integration platform market—the iPaaS category that Adopt AI partially occupies—represents another large and mature market where automation, governance, and compliance capabilities command premium pricing. Organizations continue to expand integration budgets as systems proliferate and the need to connect fragmented tools intensifies. [^vguzq2]
 
 Adopt AI's positioning cuts across these overlapping markets, capturing value at the intersection of multi-agent frameworks, workflow automation, and enterprise integration—suggesting a large addressable market spanning multiple high-growth categories.
-
-## Pricing
-
-References to "transparent, usage-aligned pricing with no hidden integration costs" suggest the platform may employ usage-based or hybrid pricing models, [^xgo76q] but specific pricing tiers, per-agent costs, or unit economics are not publicly documented. This lack of published pricing is typical for B2B enterprise software targeting large organizations where pricing varies significantly based on contract terms, deployment complexity, and customer sophistication.
 
 ## Revenue Trajectory Estimates
 

@@ -1,13 +1,24 @@
 ---
 site_uuid: b1414bca-37db-4c6f-8260-a80853ac2e72
 date_created: 2025-03-30
-date_modified: 2025-08-07
+date_modified: 2026-08-23
 aliases: [Programming Language]
 ---
 ![Practical example or use case visualization](https://assets.janbasktraining.com/blog/uploads/images/15_best_programming_languages_to_learn_1.webp)
-The market-standard, never going anywhere languages are [[Tooling/Software Development/Programming Languages/Python]] and [[JavaScript]]. 
+The market-standard, never going anywhere languages are [[Tooling/Software Development/Programming Languages/Python|Python]] and [[JavaScript]]. 
 
-Data Science and Data Analytics are starting to gravitate towards [[Tooling/Software Development/Programming Languages/Julia]] 
+:::tool-showcase
+- [[Tooling/Software Development/Programming Languages/Python|Python]]
+- [[Tooling/Software Development/Programming Languages/JavaScript|JavaScript]]
+- [[Tooling/Software Development/Programming Languages/Mojo Language|Mojo]]
+- [[Tooling/Software Development/Programming Languages/Rust|Rust]]
+- [[Tooling/Software Development/Programming Languages/Julia|Julia]]
+- [[C]]
+- [[Tooling/Software Development/Programming Languages/Elixir|Elixir]]
+- [[Tooling/Software Development/Programming Languages/Erlang|Erlang]]
+:::
+
+Data Science and Data Analytics are starting to gravitate towards [[Tooling/Software Development/Programming Languages/Julia|Julia]] 
 
 [[Vocabulary/Embedded Systems|Embedded Systems]] are migrating from [[C]] to [[Tooling/Software Development/Programming Languages/Rust|Rust]]
 
@@ -16,3 +27,5 @@ https://youtu.be/ZTPrbAKmcdo?si=Zk8Zv8S4hqRMVS2p
 https://youtu.be/ZTPrbAKmcdo?si=f2BCfV2UJBBwGlfJ
 
 https://youtu.be/E8cM12jRH7k?si=sQis-7oqgVtA5NCi
+
+https://youtu.be/Ewd-xAFjITM?is=BM_Jq2oWfkG6aU3I

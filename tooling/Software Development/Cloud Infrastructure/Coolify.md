@@ -9,9 +9,11 @@ https: //og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/8adb6cd229225f30
 jina_last_request: '2025-03-09T06:45:00.427Z'
 jina_error: 'Unexpected token C, Coolify ==... is not valid JSON'
 og_last_fetch: '2025-03-14T05:42:17.605Z'
-date_modified: 2025-06-05
+date_modified: 2026-08-26
 date_created: 2025-03-30
 tags: [Software-Development, Cloud-Infrastructure, Opsless-Deploy, Self-Hosting-Cloud]
 ---
 
-An [[Vocabulary/Open Source Software]] framework for [[Self-Hosting]] that gives the same powers of [[concepts/Opsless Deployment Providers]]
+An [[Vocabulary/Open Source Software|Open Source Software]] framework for [[Self-Hosting]] that gives the same powers of [[concepts/Opsless Deployment Providers|Opsless Deployment Providers]]
+
+https://youtu.be/taJlPG82Ucw?is=nrm9b6pcEqJOBiNc

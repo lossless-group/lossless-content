@@ -1,7 +1,7 @@
 ---
 url: https://www.bolna.ai/
 date_created: 2026-07-07
-date_modified: 2026-08-03
+date_modified: 2026-09-11
 site_uuid: 00353462-228c-4894-8d99-2a71be769f85
 publish: true
 title: Bolna AI
@@ -28,7 +28,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 # Value Proposition & Features
 
-Bolna AI is a **voice AI platform for building human‑like, multilingual phone agents** that make and take real calls for enterprises at large scale. [^86lfml] [^4mrmf0] [^ys8m0o] It is purpose‑built for India’s **scale, linguistic complexity, and cost sensitivity**, letting businesses automate inbound and outbound calls in multiple Indian languages without managing complex AI infrastructure. [^n9d6bq] [^liqtk5] [^4mrmf0] The platform targets both non‑technical users via no‑code tools and developers via APIs, enabling rapid deployment of production‑grade voice agents in minutes. [^qho852] [^4mrmf0] [^csqey1]
+Bolna AI is a **voice AI platform for building human‑like, multilingual [[Phone Agents]]** that make and take real calls for enterprises at large scale. [^86lfml] [^4mrmf0] [^ys8m0o] It is purpose‑built for India’s **scale, linguistic complexity, and cost sensitivity**, letting businesses automate inbound and outbound calls in multiple Indian languages without managing complex AI infrastructure. [^n9d6bq] [^liqtk5] [^4mrmf0] The platform targets both non‑technical users via no‑code tools and developers via APIs, enabling rapid deployment of production‑grade voice agents in minutes. [^qho852] [^4mrmf0] [^csqey1]
 
 Core product capabilities include a **no‑code [[Agent Studios]]** for designing agents by uploading documents or answering guided questions, which then assembles call‑ready agents from production‑tested modules. [^qho852] [^qr0044] [^csqey1] Bolna’s infrastructure supports **thousands of concurrent calls** and 10+ Indian vernacular languages, combining ASR (speech‑to‑text), LLMs, and [[concepts/Explainers for AI/Text-to-Speech|TTS]] into a managed orchestration layer. [^86lfml] [^4mrmf0] [^51mifx] [^o5p5np] The platform also offers **telephony integration, monitoring, and analytics**, so enterprises can launch, test, and scale agents across use cases like ecommerce, logistics, BFSI, recruitment, and customer support. [^86lfml] [^liqtk5] [^4mrmf0] [^wov4w9]
 

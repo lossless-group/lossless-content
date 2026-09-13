@@ -34,7 +34,7 @@ cf_last_run_retrieval: 2026-09-11T01:45:07.440Z
 ## Value Proposition & Features
 
 **Value proposition (2–3 sentences)**  
-Datagrid AI is an **agentic AI platform for construction and engineering teams** that connects project systems and files to automate end‑to‑end workflows such as document review, data analysis, and bid management. [^E1] [^0ie25m] [^3co8ke] It runs AI agents across drawings, specifications, RFIs, schedules, photos, and spreadsheets, turning fragmented project data into traceable, governed actions that update outputs like Excel and project records. [^E1] [^0ie25m] [^ae2x2t] [^3co8ke] The platform emphasizes **trust, traceability, and enterprise governance** through sources, teamspaces, role‑based access control (RBAC), and usage reporting. [^E1] [^3co8ke] [^rprjs6]
+Datagrid AI is an **agentic AI platform for construction and engineering teams** that connects project systems and files to automate end‑to‑end workflows such as document review, data analysis, and bid management. [E1] [^0ie25m] [^3co8ke] It runs AI agents across drawings, specifications, RFIs, schedules, photos, and spreadsheets, turning fragmented project data into traceable, governed actions that update outputs like Excel and project records. [E1] [^0ie25m] [^ae2x2t] [^3co8ke] The platform emphasizes **trust, traceability, and enterprise governance** through sources, teamspaces, role‑based access control (RBAC), and usage reporting. [E1] [^3co8ke] [^rprjs6]
 
 **Core product features (2–3 sentences each)**  
 
@@ -42,10 +42,10 @@ Datagrid AI is an **agentic AI platform for construction and engineering teams**
    Datagrid provides an agentic workflow engine where multiple specialized AI agents (e.g., Deep Search Agent, RFI Agent, Daily Log Agent, Site Safety Agent, Schedule Analyst Agent) collaborate to execute multi‑step construction workflows across systems. [^0ie25m] [^sm20x2] [^wxs3et] Agents can be auto‑selected or explicitly chosen, and can both “ask” and “execute” tasks such as creating submittals, reconciling bids, or assembling audit packages, with human approval gates. [^0ie25m] [^k9djpd] [^44omsz] [^nnk1mb] [^tldy6r]
 
 2. **Data connectivity & multimodal reasoning**  
-   The platform connects to over 100+ software platforms and thousands of APIs, indexing data from Procore, Autodesk Construction Cloud, Primavera P6, ERP systems, cloud drives, and local files into unified **datasets** for AI reasoning. [^E1] [^0ie25m] [^3co8ke] [^rprjs6] Its agents perform multimodal analysis across documents, drawings, schedules, and photos, enabling deep search, cross‑system queries, and change tracking with source‑backed answers. [^0ie25m] [^ae2x2t] [^44omsz] [^3co8ke]
+   The platform connects to over 100+ software platforms and thousands of APIs, indexing data from Procore, Autodesk Construction Cloud, Primavera P6, ERP systems, cloud drives, and local files into unified **datasets** for AI reasoning. [E1] [^0ie25m] [^3co8ke] [^rprjs6] Its agents perform multimodal analysis across documents, drawings, schedules, and photos, enabling deep search, cross‑system queries, and change tracking with source‑backed answers. [^0ie25m] [^ae2x2t] [^44omsz] [^3co8ke]
 
 3. **Enterprise governance & collaboration**  
-   Datagrid uses **teamspaces**, RBAC, and usage reports to enforce enterprise governance, keeping AI actions aligned with existing project permissions (e.g., Procore’s security model) and auditable via cited sources in each response.[^E1] [^3co8ke] [^rprjs6] Collaboration channels (such as Procore’s side panel and chat) allow users to invoke agents, tag Datagrid, and review AI‑proposed changes before approval in a shared workspace. [^44omsz] [^nnk1mb] [^tx7p4p]
+   Datagrid uses **teamspaces**, RBAC, and usage reports to enforce enterprise governance, keeping AI actions aligned with existing project permissions (e.g., Procore’s security model) and auditable via cited sources in each response.[E1] [^3co8ke] [^rprjs6] Collaboration channels (such as Procore’s side panel and chat) allow users to invoke agents, tag Datagrid, and review AI‑proposed changes before approval in a shared workspace. [^44omsz] [^nnk1mb] [^tx7p4p]
 
 4. **Vertical construction use cases**  
    Datagrid ships construction‑specific workflows including bid management, chemical compliance monitoring, safety incident detection from photos, schedule risk analysis, and LEED documentation automation. [^0ie25m] [^k9djpd] [^sm20x2] [^ae2x2t] These workflows automate the “document‑heavy grind,” such as reconciling scattered files, checking submittals against registers, tracking addenda changes, and assembling evidence packages for audits or certifications. [^0ie25m] [^k9djpd] [^ae2x2t]
@@ -58,7 +58,7 @@ Datagrid AI is an **agentic AI platform for construction and engineering teams**
 - **Compliance and audit workflows** — chemical compliance checks that reconcile subcontractor submittals against site registers and assemble audit packages; similar patterns applied to safety and quality documentation. [^k9djpd] [^ae2x2t] [^8rhrt6]  
 - **Multimodal safety and schedule agents** — agents that flag non‑compliance from site photos and inspection checklists, and compare new schedules to previous versions to surface risks and changes. [^sm20x2] [^44omsz]  
 - **Data connectivity & indexing pipelines** — connectors for Procore, Box, SharePoint, Google Drive, and other apps, with project‑level dataset indexing and “Up to Date” status for searchable data. [^3co8ke] [^rprjs6] [^x3hnfp] [^ulk9e8]  
-- **Governance & RBAC** — teamspaces, role‑based access, source citations, usage metrics, and alignment with Procore’s permission model to ensure traceable, governed AI actions.[^E1] [^rprjs6] [^3ldhy0]  
+- **Governance & RBAC** — teamspaces, role‑based access, source citations, usage metrics, and alignment with Procore’s permission model to ensure traceable, governed AI actions.[E1] [^rprjs6] [^3ldhy0]  
 - **Free tier & starter packs** — a free Datagrid account to connect a few systems, plus Procore AI Starter Packs that include limited‑scope multi‑agent access for specialty contractors. [^wxs3et] [^5cfe21] [^xwpzu1]
 
 ## Product Roadmap / Announcements (past 6 months)
@@ -80,7 +80,7 @@ As of **September 11, 2026**, recent publicly documented roadmap/announcement it
 
 ## History and Origin Story
 
-Datagrid AI is described as a **vertical AI company built around agents for construction**, later acquired by Procore in January 2026 and integrated as the intelligence layer behind Procore AI. [^szhsa4] [^ys8x51] [^3co8ke] [^5cfe21] Prior to acquisition, it positioned itself as a standalone construction‑focused AI platform connecting fragmented project systems and documents into an agentic workflow engine for estimators, project managers, and compliance teams.[^E1] [^0ie25m] [^3co8ke] Post‑acquisition, Datagrid continues as a distinct product (`app.datagrid.ai`) while also powering Procore’s native AI side panel and Digital Coworker bundles. [^44omsz] [^nnk1mb] [^5cfe21] [^ffvu1r]
+Datagrid AI is described as a **vertical AI company built around agents for construction**, later acquired by Procore in January 2026 and integrated as the intelligence layer behind Procore AI. [^szhsa4] [^ys8x51] [^3co8ke] [^5cfe21] Prior to acquisition, it positioned itself as a standalone construction‑focused AI platform connecting fragmented project systems and documents into an agentic workflow engine for estimators, project managers, and compliance teams.[E1] [^0ie25m] [^3co8ke] Post‑acquisition, Datagrid continues as a distinct product (`app.datagrid.ai`) while also powering Procore’s native AI side panel and Digital Coworker bundles. [^44omsz] [^nnk1mb] [^5cfe21] [^ffvu1r]
 
 ---
 
@@ -112,7 +112,7 @@ Public commentary references Datagrid AI’s CEO **Thiago Da Costa**, mentioned 
 
 ### Category, Market Size, and Category Growth
 
-Datagrid AI sits in the **agentic AI / AI agent platforms** and **AI workflow orchestration for construction and engineering** categories.[^E1] [^ae2x2t] [^3co8ke] Analyst reports estimate the **global agentic AI market** between roughly **USD 12.84–19.33 billion in 2026**, with forecasts reaching **USD 205–337 billion by 2033–2035** and CAGRs around **40–44%**, indicating very rapid growth. [^hg4he7] [^rd4sbh] [^vx1nzf] [^jmlz7g] Dedicated **AI workflow orchestration** and **AI agent market** segments are projected to reach **USD 72.8–95.1 billion** and **USD 52.62 billion** respectively by 2030–2035, with CAGRs above **23–35%**, highlighting strong expansion in Datagrid’s broader category. [^pp0vb4] [^eyr5dp] [^7tv8lj] [^76flug]
+Datagrid AI sits in the **agentic AI / AI agent platforms** and **AI workflow orchestration for construction and engineering** categories.[E1] [^ae2x2t] [^3co8ke] Analyst reports estimate the **global agentic AI market** between roughly **USD 12.84–19.33 billion in 2026**, with forecasts reaching **USD 205–337 billion by 2033–2035** and CAGRs around **40–44%**, indicating very rapid growth. [^hg4he7] [^rd4sbh] [^vx1nzf] [^jmlz7g] Dedicated **AI workflow orchestration** and **AI agent market** segments are projected to reach **USD 72.8–95.1 billion** and **USD 52.62 billion** respectively by 2030–2035, with CAGRs above **23–35%**, highlighting strong expansion in Datagrid’s broader category. [^pp0vb4] [^eyr5dp] [^7tv8lj] [^76flug]
 
 ---
 
@@ -220,5 +220,5 @@ Sources for Table: [^szhsa4] [^44omsz] [^5cfe21] [^pw15xb] [^479u1u] [^1qm2aw] [
 
 ## Sources (retrieved)
 
-[^E1]: [Exa.ai](https://exa.ai) API response for data on [Datagrid AI](https://datagrid.com/)
-
+[E1]: [Exa.ai](https://exa.ai) API response for data on [Datagrid AI](https://datagrid.com/)
+[E2]: [Exa.ai](https://exa.ai) API response for data on [Datagrid Tecnologia](https://datagrid.com.br/)

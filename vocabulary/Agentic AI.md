@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-30
-date_modified: 2026-07-25
+date_modified: 2026-08-26
 site_uuid: 8babe509-0827-4af4-bbfb-77957bf7482e
 aliases: [AI Agents, AI Agent, Agent, Agents]
 publish: true
@@ -11,6 +11,8 @@ authors:
   - Michael Staton
 augmented_with: Perplexity AI
 ---
+https://youtu.be/ZaPbP9DwBOE?is=tbiONWWowT7FqZ6z
+
 ![Relevant diagram or illustration related to the topic](https://www.logicgate.com/wp-content/smush-webp/traditional-vs-agentic-ai-1.png.webp)
 ###### Examples
 [[Kestra]], [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/n8n|n8n]], [[Flowise]], [[Tooling/AI-Toolkit/Agentic AI/Relevance AI|Relevance AI]]

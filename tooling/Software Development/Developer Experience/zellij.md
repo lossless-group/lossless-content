@@ -1,7 +1,7 @@
 ---
 url: 'https://zellij.dev'
 date_created: 2025-05-13
-date_modified: 2025-05-29
+date_modified: 2026-08-26
 og_image: 'https://zellij.dev/img/floating-panes-preview.png'
 og_url: 'https://zellij.dev/'
 title: Zellij
@@ -15,4 +15,9 @@ tags:
   - Console-User-Interfaces
 ---
 
-Zellij is a keyboard-first [[essays/The Resurgence of the Terminal|Terminal]] multiplexer like [[Tooling/Software Development/tmux|tmux]].
+Zellij is a keyboard-first [[essays/The Resurgence of the Terminal|Terminal]] multiplexer like [[Tooling/Software Development/Developer Experience/DevTools/tmux|tmux]].
+
+https://youtube.com/shorts/EVqtBoU3pSw?is=jG3oIkzGezuxt2l2
+
+[[Vocabulary/Command-Line Interfaces|Terminal User-Interfaces]]
+

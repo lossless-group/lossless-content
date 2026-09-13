@@ -78,7 +78,7 @@ Historically, **Attention Deficit Disorder** was a formal diagnosis used in earl
 
 - **Adjacent terms**
   - [[Executive function]]
-  - [[Cognitive Load]]
+  - [[Vocabulary/Cognitive Load]]
   - [[Founder‑market fit]]
   - [[concepts/Burnout]]
   - [[concepts/Organization Design|Organizational Design]]

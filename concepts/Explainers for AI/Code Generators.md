@@ -1,9 +1,20 @@
 ---
-aliases: [Code Generation, Code Generators, Coding Agent, Coding Assistant, Code Generator, Code Generator AI, AI Code Assistants, Coding Agents]
+aliases:
+  - Code Generation
+  - Code Generators
+  - Coding Agent
+  - Coding Assistant
+  - Code Generator
+  - Code Generator AI
+  - AI Code Assistants
+  - Coding Agents
+  - AI coding assistants
 site_uuid: 691a7615-2aa5-4a1b-9ad9-519a48dac670
-date_modified: 2026-06-06
+date_modified: 2026-08-26
 date_created: 2025-03-31
-tags: [AI-Toolkit, Code-Generators]
+tags:
+  - AI-Toolkit
+  - Code-Generators
 publish: true
 title: Code Generators
 slug: code-generators
@@ -16,6 +27,8 @@ augmented_with: Perplexity AI
 :::
 
 https://youtu.be/Xn-gtHDsaPY?si=GiL2IB4dQosdGWR4
+
+https://youtube.com/shorts/t1BhJHYs-v8?is=vdHUXQa1hO0tLMnx
 
 https://youtu.be/rgiuaJbyUyU?si=m5IQdbaD1mKXJ4v8
 ***

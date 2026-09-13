@@ -1,8 +1,18 @@
 ---
 date_created: 2025-11-20
-date_modified: 2025-11-24
-aliases: [customer service bots, customer service bot, Customer Service Bot]
-tags: [Helpdesk-AI, Customer-Success-AI, Customer-Experience, Customer-Support-Agents, Customer-Experience-Platforms, Explainers]
+date_modified: 2026-08-23
+aliases:
+  - customer service bots
+  - customer service bot
+  - Customer Service Bot
+  - customer-service bots
+tags:
+  - Helpdesk-AI
+  - Customer-Success-AI
+  - Customer-Experience
+  - Customer-Support-Agents
+  - Customer-Experience-Platforms
+  - Explainers
 site_uuid: 6f026cc1-07cd-4953-acd3-6346a6c104ca
 publish: true
 title: Customer Service Bots

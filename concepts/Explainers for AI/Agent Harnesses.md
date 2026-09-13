@@ -1,7 +1,7 @@
 ---
 tags: [Agentic-Engineering, Context-Engineering, Context-Vigilance, State-of-the-Art, Explainers]
 date_created: 2026-06-19
-date_modified: 2026-08-19
+date_modified: 2026-08-26
 cf_last_run: "2026-06-22T23:30:34.384Z"
 cf_last_run_model: "Perplexity sonar-pro"
 for_clients:
@@ -16,6 +16,7 @@ slug: agent-harnesses
 at_semantic_version: 0.0.1.1
 ---
 
+https://youtu.be/SyTfzEgzjHs?is=QSINCuj65HnuH6OB
 
 https://youtu.be/1a1VXDdIyrk?is=-yM2plpfgMP69wxY
 

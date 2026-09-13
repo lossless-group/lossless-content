@@ -2,7 +2,7 @@
 site_uuid: 652629e2-3fbc-4cf5-afcd-bac6897a92e9
 title: Text-to-Speech
 site_visibility: public
-date_modified: 2025-11-20
+date_modified: 2026-08-23
 date_created: 2025-03-30
 tags: [AI-Toolkit, Explainers]
 publish: true
@@ -10,6 +10,9 @@ slug: text-to-speech
 at_semantic_version: 0.0.0.1
 aliases: [TTS, text-to-speech]
 ---
+[[Tooling/AI-Toolkit/Generative AI/Fish Audio|Fish Audio]]
+[[Tooling/AI-Toolkit/Model Producers/ElevenLabs|ElevenLabs]]
+
 
 ***
 > [!info] **Perplexity Query** (2025-11-20T13:54:20.761Z)

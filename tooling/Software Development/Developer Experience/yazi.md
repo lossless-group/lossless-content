@@ -1,7 +1,7 @@
 ---
 site_uuid: 6c0b112d-68e7-441b-8142-ce9261193de3
 date_created: 2025-03-08
-date_modified: 2025-05-29
+date_modified: 2026-08-26
 url: 'https://yazi-rs.github.io/'
 github_repo_url: 'https://github.com/sxyazi/yazi'
 og_image: 'https://yazi-rs.github.io/webp/docusaurus-social-card.wbep'
@@ -17,4 +17,4 @@ tags:
   - Text-User-Interfaces
   - Console-User-Interfaces
 ---
-
+https://youtu.be/H9HCCMq4E94?is=ymkd3US1o47Sbvyh

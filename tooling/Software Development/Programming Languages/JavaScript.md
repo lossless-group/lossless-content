@@ -11,7 +11,7 @@ og_error_message: 'HTTP error 401'
 jina_last_request: '2025-03-09T06:45:19.160Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-03-07T06:11:14.691Z'
-date_modified: 2026-08-23
+date_modified: 2026-08-26
 date_created: 2025-03-30
 tags: [Software-Development, Programming-Languages]
 ---
@@ -26,6 +26,8 @@ tags: [Software-Development, Programming-Languages]
 - [[Tooling/Software Development/Frameworks/Web Frameworks/Astro|Astro]]
 - [[Tooling/Software Development/Frameworks/Web Frameworks/Meteor|Meteor]]
 :::
+
+https://youtu.be/7rxOOFvwU60?is=Lfvw6P75bK4r29Uq
 
 >"In the past two years I have gone Webpack -> Parcel -> Webpack -> Vite -> Rollup"
 >

@@ -1,7 +1,7 @@
 ---
 site_uuid: b2835dbe-e66d-40c4-b082-bb1bcff52d29
 url: https://go.dev/
-date_modified: 2026-08-09
+date_modified: 2026-08-26
 date_created: 2025-03-31
 og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250605_Go_og_screenshot.jpeg
 og_image: https://go.dev/doc/gopher/gopher5logo.jpg
@@ -19,6 +19,8 @@ aliases:
 Created and maintained by [[organizations/Alphabet|Alphabet]] at [[organizations/Google|Google]].
 
 https://youtu.be/_nuUtmhaUEc?is=eiGsPjWyvZSM2Gmr
+
+https://www.youtube.com/live/UkswvuLfUMQ?is=bs3kpBQn3WfJPrWW
 
 [[Ken Thompson]]
 

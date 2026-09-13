@@ -1,7 +1,7 @@
 ---
 url: https://archlinux.org/
 date_created: 2025-08-28
-date_modified: 2026-06-06
+date_modified: 2026-08-26
 og_title: Arch Linux
 og_description: You've reached the website for Arch Linux, a lightweight and flexible Linux® distribution that tries to Keep It Simple.
 og_image: https://archlinux.org/static/logos/apple-touch-icon-57x57.png
@@ -13,6 +13,8 @@ og_last_fetch: 2025-08-28T18:03:31.718Z
 https://youtu.be/y8ts6ZSv4ko?si=soygGwn0KjBf0V6L
 
 https://youtu.be/IFaLEKRMTAM?si=dWmZe7nOJfyFY7Gr
+
+https://youtu.be/ybm1KwlGKA0?is=KuNW4iDHyASq1Dbk
 
 https://youtu.be/ZH3iKbEiks0?si=Hi_gamgBbzu7TOSD
 
@@ -35,7 +37,7 @@ Arch Linux follows the principle of *Keep It Simple, Stupid (KISS)*, delivering 
 A practical example of Arch Linux shines in developer workstations. For instance, a programmer might start with a barebones system, install a lightweight window manager like i3, and selectively add development tools (e.g., Node.js, Python, Docker) via Pacman or the Arch User Repository (AUR), which hosts thousands of community-maintained packages. [^s1nnsx] [^alp6an] This DIY approach also makes Arch ideal for specialized use cases such as gaming, server deployment, and experimental projects where control and performance are paramount. [^s1nnsx] Many power users choose Arch Linux for real-time computing tasks or professional creative workflows, leveraging its minimal overhead and latest kernel updates. [^s1nnsx] [^alp6an]
 
 Key benefits of Arch Linux include:
-- **Continuous [[Vocabulary/Rolling Releases]]**: Users receive constant updates, ensuring access to the latest software and security patches without ever needing a full reinstall. [^a0pjfg] [^ak6hef]
+- **Continuous [[Vocabulary/Rolling Releases|Rolling Releases]]**: Users receive constant updates, ensuring access to the latest software and security patches without ever needing a full reinstall. [^a0pjfg] [^ak6hef]
 - **Pacman Package Manager**: Simplifies package installation, updates, and dependency resolution. [^87sd3q] [^alp6an]
 - **Arch User Repository (AUR)**: Vast community repository greatly expands available software. [^s1nnsx]
 - **Extensive Documentation**: The Arch Wiki is a premier resource for troubleshooting, configuration, and learning Linux in depth. [^s1nnsx]

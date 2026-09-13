@@ -5,7 +5,7 @@ aliases:
   - object‑oriented programming
   - Object-Oriented
 date_created: 2024-06-06
-date_modified: 2026-06-15
+date_modified: 2026-08-26
 cf_last_run: 2026-06-06T04:34:28.017Z
 cf_last_run_model: Perplexity sonar-pro
 site_uuid: 4f8341d3-9d3d-4469-bb13-8531b98f2e3b
@@ -20,6 +20,9 @@ tags:
   - Software-Supply-Chain
 ---
 [[Sources/Books/Design Patterns - Elements of Reusable Object-Oriented Software|Design Patterns: Elements of Reusable Object-Oriented Software]]
+
+
+https://youtu.be/wo84LFzx5nI?is=730RMQ9SXKj04E7x
 
 # Defining and Describing Object‑Oriented Orogramming
 

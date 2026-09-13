@@ -2,7 +2,7 @@
 aliases:
   - Mojo
 date_created: 2024-11-02
-date_modified: 2026-08-23
+date_modified: 2026-08-26
 tags:
   - Programming-Languages
   - State-of-the-Art
@@ -32,6 +32,7 @@ cf_last_run_model: Perplexity sonar-pro
 [[Tooling/AI-Toolkit/AI Infrastructure/Modular|Modular]]
 [[organizations/Qualcomm|Qualcomm]]
 
+https://youtu.be/V692I9PDxxk?is=_dBz4tyNdK0INf3S
 
 https://youtu.be/V692I9PDxxk?is=T3OaRJfeJ0wx8Hk6
 

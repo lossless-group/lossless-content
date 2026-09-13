@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-08
-date_modified: 2026-07-07
+date_modified: 2026-09-11
 site_uuid: b105d6c1-6397-4287-9273-acbbb8b51626
 publish: true
 title: Conversational AI
@@ -26,6 +26,7 @@ cf_last_run_model: Perplexity sonar-pro
 [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/MSTY|MSTY]]
 [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Origami|Origami]]
 [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/OpenWebUI|OpenWebUI]]
+[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Synthflow|Synthflow]]
 :::
 
 https://youtu.be/f32W5BEzWN0?is=_2yWor_N2Ap7SfCL
@@ -47,7 +48,7 @@ Conversational AI is a field of AI that uses natural language processing, machin
 
 - In customer service, conversational AI is used to automate responses, guide customers, and assist human agents. [^10i8d3] [^4honjp]
 - In commerce and support, it is invoked for “smarter customer interactions” and real-time resolution across digital and voice channels. [^7p2m4j] [^vf0x2v]
-- In platform marketing, vendors use the term for products such as Amazon Lex, IBM [[Tooling/AI-Toolkit/Models/Watson|Watson]] Assistant, Google Cloud Dialogflow, and Microsoft Bot Framework. [^3kvjco] [^2o5ydl]
+- In platform marketing, vendors use the term for products such as Amazon Lex, IBM [[Tooling/AI-Toolkit/Models/Watson|Watson]] Assistant, Google Cloud Dialogflow, and [[Microsoft Bot Framework]]. [^3kvjco] [^2o5ydl]
 - In product design, it describes interfaces that replace menus and rigid forms with natural-language interaction. [^5jzqz3] [^dwx6cn]
 - In research and public discussion, it is used to distinguish adaptive, context-aware systems from scripted rule-based chatbots. [^7p2m4j] [^dwx6cn]
 - In popular usage, it now often refers to systems like ChatGPT-style assistants that can answer questions, draft text, and help with tasks. [^i09bbi] [^2s3hgd]
@@ -56,7 +57,7 @@ Conversational AI is a field of AI that uses natural language processing, machin
 
 ## Origins
 
-Conversational AI did not emerge from one origin point; its ancestry is usually traced to early chatbot work, especially ELIZA, created by Joseph Weizenbaum at MIT in 1966. [^4esnoe] [^ustw9k] [^3nhg5p] ELIZA is widely described as the first chatbot and a rule-based program that simulated conversation by pattern matching and scripted replies, making it the earliest clear ancestor of conversational AI. [^4esnoe] [^f3gex1] [^3nhg5p] The phrase “conversational AI” itself appears much later in the literature and media than ELIZA, with one source noting that the term emerged in the 1990s as an abbreviation for “chatterbot.”[^3nhg5p]
+Conversational AI did not emerge from one origin point; its ancestry is usually traced to early chatbot work, especially [[ELIZA]], created by Joseph Weizenbaum at MIT in 1966. [^4esnoe] [^ustw9k] [^3nhg5p] ELIZA is widely described as the first chatbot and a rule-based program that simulated conversation by pattern matching and scripted replies, making it the earliest clear ancestor of conversational AI. [^4esnoe] [^f3gex1] [^3nhg5p] The phrase “conversational AI” itself appears much later in the literature and media than ELIZA, with one source noting that the term emerged in the 1990s as an abbreviation for “chatterbot.”[^3nhg5p]
 
 ## Evolution
 

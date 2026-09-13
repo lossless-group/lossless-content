@@ -1,23 +1,30 @@
 ---
 site_uuid: 20b0b31a-de88-4d17-a926-dccb8579f73a
 date_created: 2025-04-18
-date_modified: 2025-04-24
+date_modified: 2026-09-11
+tags: [Visual-Engineering, State-Of-The-Art-Practices, Computing-Paradigms]
+aliases:
+  - Visual Engineering
+publish: true
+title: "Visual Software Development"
+slug: visual-software-development
+at_semantic_version: 0.0.0.1
 ---
 
 Especially for [[Low-Code]] tools, [[UI Builders]], and [[Agentic AI]]
 
-[[Webflow]], [[Adalo]], [[Bubble]], [[Tooling/Software Development/Lego-Kit Engineering Tools/UI Builders/Outsystems]]. 
+[[Webflow]], [[Adalo]], [[Bubble]], [[Tooling/Software Development/Lego-Kit Engineering Tools/UI Builders/Outsystems|Outsystems]]. 
 
 [[Agentic AI]] usually has very visual programming.  Look at [[Flowise]], [[projects/Context-Vigilance/UseCases/n8n]], and [[Crew AI]]. 
 
-[[Tooling/Software Development/DevOps/Eraser]] is a an AI assisted diagramming tool for software architecture.
+[[Tooling/Software Development/Developer Experience/DevOps/Eraser|Eraser]] is a an AI assisted diagramming tool for software architecture.
 
 [[AppMap]] allows [[AI Native Applications|AI Native]] [[concepts/Explainers for AI/Code Generators|Code Generation]] to be managed visually through all kinds of diagrams. 
 
 
 ![[Tooling/Software Development/Backend-as-a-Service/BuildShip#BuildShip is a Visual Software Development Visual Low-Code Back-End Engineering Back-End , nearly a Backend-as-a-Service]]
-## The role of [[concepts/CARBS/Flow Charts]]
-[[Mermaid.js]], [[MermaidChart]], [[projects/Emergent-Innovation/Standards/JSON Canvas]].
+## The role of [[concepts/CARBS/Flow Charts|Flow Charts]]
+[[Mermaid.js]], [[MermaidChart]], [[projects/Emergent-Innovation/Standards/JSON Canvas|JSON Canvas]].
 
 > [!NOTE]
 > ### **The Growing Importance of Visualization in Software Development**

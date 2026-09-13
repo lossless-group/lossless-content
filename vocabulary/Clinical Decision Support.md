@@ -4,7 +4,7 @@ aliases:
   - Clinical Decision Support Systems
   - CDS
 date_created: 2025-02-11
-date_modified: 2026-05-26
+date_modified: 2026-09-11
 cf_last_run: 2026-05-26T23:25:29.502Z
 cf_last_run_model: Perplexity sonar-pro
 site_uuid: af7d54c8-611c-449d-b196-5fcf77901059
@@ -20,6 +20,7 @@ tags:
 for_clients:
   - Laerdal
 ---
+[[vertical-toolkits/HealthTech/Profile Health|Profile Health]]
 
 # Defining and Describing Clinical Decision Support Systems
 

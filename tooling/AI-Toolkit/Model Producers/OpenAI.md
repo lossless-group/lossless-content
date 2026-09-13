@@ -3,7 +3,7 @@ site_uuid: "541235f6-b488-4042-8a76-9f144ccccf36"
 title: "OpenAI"
 url: "https://openai.com/"
 site_visibility: "public"
-date_modified: 2026-08-21
+date_modified: 2026-08-26
 date_created: 2025-01-31
 og_image: "https://images.ctfassets.net/kftzwdyauwt9/3KGOHkSXu53naMuSFNaiwv/cdb0e2f899f524abb71314ab20e09c9c/OAI-white-on-black.png?w=1600&h=900&fit=fill"
 description: "We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Building safe and beneficial AGI is our mission."
@@ -28,6 +28,9 @@ og_type: "website"
 [[Foundation Models in AI|Foundation Models]]
 [[Sources/People/Sam Altman|Sam Altman]]
 
+
+
+https://youtu.be/dzFErTPPz3Y?is=MlYgCPrPq4kZIUqQ
 
 https://youtu.be/RPbmMmcNvYA?si=2HVnqr9U2mQ607Bn
 

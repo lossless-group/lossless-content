@@ -3,7 +3,7 @@ aliases:
   - Linux
   - Linux Foundation
 date_created: 2025-09-05
-date_modified: 2026-06-15
+date_modified: 2026-08-26
 cf_last_run: 2026-05-26T20:57:21.629Z
 cf_last_run_model: Perplexity sonar-pro
 tags:
@@ -15,6 +15,9 @@ tags:
 [[organizations/The Linux Foundation|Linux]]
 [[Tooling/Products/Git|Git]]
 
+https://youtu.be/_I9vTYUUHFk?is=rWv7QO-sRbmnUwhJ
+
+https://youtu.be/BY0YYi6eeYE?is=-6Yv9XQj64B3wCsi
 
 https://youtu.be/HIJ6LixbcAY?si=5m9XZortBzzgq7H1
 

@@ -2,6 +2,7 @@
 aliases:
   - PWAs
   - PWA
+  - Progressive Web App
 date_created: 2026-08-23
 date_modified: 2026-08-23
 site_uuid: 2802d9f7-b0dc-4a43-92c7-b2be3689cd26

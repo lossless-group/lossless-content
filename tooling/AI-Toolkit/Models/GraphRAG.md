@@ -1,7 +1,7 @@
 ---
 github_repo_url: https://github.com/microsoft/graphrag
 date_created: 2025-09-20
-date_modified: 2025-10-18
+date_modified: 2026-08-26
 maintained_by: "[[organizations/Microsoft|Microsoft]]"
 tags: [AI-Toolkit, Open-Source, Public-Repos]
 site_name: GraphRAG
@@ -10,3 +10,4 @@ site_name: GraphRAG
 [[Tooling/AI-Toolkit/Knowledge AI/GraphRAG|GraphRAG]]
 [[Tooling/AI-Toolkit/Model Producers/Microsoft Research|Microsoft Research]]
 
+https://youtu.be/nZnwExutgsY?is=Cdd6_5dOru2SfbBs

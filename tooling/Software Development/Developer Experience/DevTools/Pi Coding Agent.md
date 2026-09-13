@@ -1,6 +1,6 @@
 ---
 date_created: 2026-04-27
-date_modified: 2026-06-06
+date_modified: 2026-08-26
 url: https://pi.dev/
 og_title: A terminal-based coding agent
 og_description: A terminal-based coding agent
@@ -29,6 +29,10 @@ aliases:
 cf_last_run: 2026-06-06T04:44:06.236Z
 cf_last_run_model: Perplexity sonar-pro
 ---
+
+https://youtu.be/5kLL0xUC28Q?is=-7j2DXNHHkwLEP3a
+
+https://youtu.be/pr2WGRhVKys?is=iXbPXe7_M6Z6a4Kz
 
 https://youtu.be/OMFIPv8a4qA?si=2ZyjF5dvrm77KZEL
 

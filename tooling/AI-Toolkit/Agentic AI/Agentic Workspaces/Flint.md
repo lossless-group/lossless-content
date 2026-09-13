@@ -12,7 +12,7 @@ tags:
   - Marketing-AI
   - Marketing-Agents
 date_created: 2026-08-17
-date_modified: 2026-08-20
+date_modified: 2026-09-11
 site_uuid: 274b1b5e-ff87-4973-a209-43a5a1042a8b
 publish: true
 title: Flint
@@ -49,7 +49,7 @@ Core features include natural-language page creation, spreadsheet/CSV-driven bul
 - **Natural-language** page creation and editing. [^det17b] [^hs4vg7] [^x9n0dt]
 - **Spreadsheet / CSV-driven** bulk page generation. [^hs4vg7] [^5v317z] [^w36unh]
 - **MCP integrations** for Claude and other compatible tools. [^maql71] [^hs4vg7] [^v7c8be]
-- **API and workflow-tool integrations** including Clay, Airtable, CRMs, Slack, [[Relay.app]], and Zapier. [^v86x74] [^5v317z] [^r3xrzz]
+- **API and workflow-tool integrations** including [[Tooling/AI-Toolkit/Data Augmenters/Clay|Clay]], Airtable, CRMs, Slack, and [[Tooling/Software Development/Developer Experience/DevOps/Zapier|Zapier]]. [^v86x74] [^5v317z] [^r3xrzz]
 - **Custom-domain / subdomain publishing** with hosting included. [^x9n0dt] [^2f3guh]
 - **Analytics and tracking setup** including GA4 and Google Tag Manager. [^x9n0dt] [^2f3guh]
 - **[[Vocabulary/Search Engine Optimization|SEO]] and accessibility-oriented output** with semantic HTML and SSR. [^x9n0dt]
