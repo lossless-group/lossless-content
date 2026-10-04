@@ -7,14 +7,18 @@ at_semantic_version: 0.0.0.1
 cf_last_run: 2026-05-28T23:54:53.446Z
 cf_last_run_model: Perplexity sonar-pro
 date_created: 2026-05-27
-date_modified: 2026-06-11
+date_modified: 2026-10-04
 aliases:
   - Inference
   - inference
+  - AI Inference
+  - AI-Inference
 tags:
   - Explainers
   - AI-Models
   - LLM-Services
+  - AI-Inference-Platforms
+  - AI-Compute-Cloud-Providers
 ---
 
 # Defining and Describing Inference in AI
@@ -42,7 +46,7 @@ For innovation work, **inference** is the *deployment and usage phase* of AI—w
 
 ### 1. Logical / reasoning sense in AI research
 
-**Logical inference in AI**: the process of deriving new conclusions from existing facts using formal logic, rules, or probabilistic reasoning systems, often in symbolic AI or knowledge-based systems. [^m3guxz]
+**Logical inference in AI**: the process of deriving new conclusions from existing facts using formal logic, rules, or probabilistic [[concepts/Explainers for AI/AI Reasoning|AI Reasoning]] systems, often in symbolic AI or knowledge-based systems. [^m3guxz]
 
 - In classical AI, inference referred to rule-based reasoning—“drawing logical conclusions, predictions, or decisions based on available information, often using predefined rules, statistical models, or machine learning algorithms.”[^m3guxz]  
 - This includes methods like forward chaining, backward chaining, and probabilistic reasoning over knowledge graphs or expert systems, which are still relevant in domains like configuration, diagnostics, and certain planning systems. [^m3guxz]  

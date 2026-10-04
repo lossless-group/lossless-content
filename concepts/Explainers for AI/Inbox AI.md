@@ -24,7 +24,7 @@ cf_last_run_model: Perplexity sonar-pro
 [[concepts/Drag (on Productivity)|Drag (on Productivity)]]
 [[Vocabulary/Agentic AI|Agentic AI]]
 [[Tooling/Productivity/Personal Cloud/Jace Email|Jace Email]]
-[[Slashy]]
+[[Tooling/AI-Toolkit/Agentic AI/Slashy]]
 
 
 _Inbox AI refers both to Gmail’s new AI-powered inbox view and, more broadly, to the growing role of machine intelligence as the “first reader” of email—summarizing, filtering, and acting on messages before humans ever see them. [^v769my] [^iso6i3] [^p2vxu7]_

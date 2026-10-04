@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-29
-date_modified: 2025-07-29
+date_modified: 2026-10-04
 site_uuid: 2742fe0c-7bee-4f2c-9cee-b0630f9be3e3
 aliases: [Models, AI Model, Model]
 ---
@@ -11,7 +11,7 @@ https://youtu.be/ncqVZnot99c?si=I3QhZqPIh6umTibW
 ![Uploading file...tbmp1]()
 
 
-[[AI Models]] are large [[concepts/Explainers for AI/Neural Networks]] that are trained on large-scale data using [[Machine Learning]], and can approach [[Compositional Generalization]]. When [[AI Models|Models]] are trained using open data sources, particularly when the [[AI Models|Model]] itself seeks and trains on public data sources, this is called [[Machine Learning#Deep Learning|Deep Learning]]. ^830936
+[[AI Models]] are large [[concepts/Explainers for AI/Neural Networks|Neural Networks]] that are trained on large-scale data using [[Machine Learning]], and can approach [[concepts/Explainers for AI/Compositional Generalization]]. When [[AI Models|Models]] are trained using open data sources, particularly when the [[AI Models|Model]] itself seeks and trains on public data sources, this is called [[Machine Learning#Deep Learning|Deep Learning]]. ^830936
 
 
 ![](https://i.imgur.com/XRXVVoy.png)

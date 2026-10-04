@@ -19,4 +19,4 @@ tags:
   - Marketing-AI
 ---
 
-[[concepts/Explainers for AI/Image Generator]]
+[[concepts/Explainers for AI/Image Generators]]

@@ -23,7 +23,7 @@ cf_last_run_model: Perplexity sonar-pro
 [[concepts/Explainers for AI/Voice Agents|Voice Agents]]
 [[Vocabulary/Virtual Phone Systems|Virtual Phone Systems]]
 [[concepts/Explainers for AI/Helpdesk AI|Helpdesk AI]]
-[[Sales AI]]
+[[concepts/Market-Categories/Sales AI]]
 
 
 # Value Proposition & Features

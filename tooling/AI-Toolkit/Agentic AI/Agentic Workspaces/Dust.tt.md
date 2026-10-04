@@ -101,7 +101,7 @@ Dust was founded in **Paris in early 2023** by **Gabriel Hubert** and **Stanisla
 
 | Round     | Date       |      Amount | Lead investor                                                           |
 | --------- | ---------- | ----------: | ----------------------------------------------------------------------- |
-| Seed      | 2023-06-27 |       $5.5M | Sequoia Capital (w/ [[Seedcamp]], [[Connect Ventures]]) [^E1] [^vibr5m] [^bm2aiu] |
+| Seed      | 2023-06-27 |       $5.5M | Sequoia Capital (w/ [[vertical-toolkits/Venture-Capital-Firms/Seedcamp]], [[Connect Ventures]]) [^E1] [^vibr5m] [^bm2aiu] |
 | Series A  | 2024-06-27 |      $16.1M | Sequoia Capital [^E1] [^vibr5m] [^jz3f61]                                         |
 | Series B  | 2026-05-01 |      $40.0M | [[Sequoia Capital]] & [[Abstract Ventures]] [^E1] [^23v4wr] [^a6ojbf] [^n8n1we]        |
 | **Total** | —          | **$61.5M+** | — [^E1] [^23v4wr] [^a6ojbf] [^wpuy9i]                                                  |

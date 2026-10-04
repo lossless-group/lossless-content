@@ -29,7 +29,7 @@ for_clients:
 
 # Comprehensive Research Profile: Beam AI
 
-Beam AI is an agentic AI platform purpose-built for [[enterprise automation]], with particular emphasis on banking, fintech, and complex business process workflows. [^1kkukr] [^1kkukr] [^1kkukr] The platform enables organizations to build and deploy autonomous AI agents through natural language interfaces, abstracting away traditional coding complexity while maintaining enterprise-grade reliability, governance, and observability. [^ajk1no] [^ajk1no] [^ajk1no] As of May 2026, Beam AI operates as a horizontal automation platform competing in the rapidly expanding [[Vocabulary/Agentic AI|Agentic AI]] market, which is projected to grow from $7.5 billion in 2025 to $231.9 billion by 2034—representing a compound annual growth rate of 46.3%. [^aai2aj]
+Beam AI is an agentic AI platform purpose-built for [[concepts/Explainers for AI/Enterprise Automation]], with particular emphasis on banking, fintech, and complex business process workflows. [^1kkukr] [^1kkukr] [^1kkukr] The platform enables organizations to build and deploy autonomous AI agents through natural language interfaces, abstracting away traditional coding complexity while maintaining enterprise-grade reliability, governance, and observability. [^ajk1no] [^ajk1no] [^ajk1no] As of May 2026, Beam AI operates as a horizontal automation platform competing in the rapidly expanding [[Vocabulary/Agentic AI|Agentic AI]] market, which is projected to grow from $7.5 billion in 2025 to $231.9 billion by 2034—representing a compound annual growth rate of 46.3%. [^aai2aj]
 
 ---
 

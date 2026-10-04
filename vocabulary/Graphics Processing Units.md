@@ -1,8 +1,13 @@
 ---
-date_modified: 2025-11-21
+date_modified: 2026-10-04
 site_uuid: 79b226c9-aaab-4b26-af05-d49c123acf39
 date_created: 2025-04-06
-aliases: [GPU Architecture, GPU, GPUs]
+aliases:
+  - GPU Architecture
+  - GPU
+  - GPUs
+  - GPU Cluster
+  - GPU Clusters
 ---
 
 https://youtu.be/Bi0NGT2E7nE?si=ReYVHbufciTVrHup

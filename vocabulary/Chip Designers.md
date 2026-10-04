@@ -1,6 +1,6 @@
 ---
 date_created: 2026-06-09
-date_modified: 2026-07-07
+date_modified: 2026-10-04
 site_uuid: c2e47aa2-189e-4a31-b898-7de94d09a6b1
 publish: true
 title: Chip Designers
@@ -10,6 +10,9 @@ tags:
   - Chip-Designers
 cf_last_run: 2026-07-07T05:09:05.289Z
 cf_last_run_model: Perplexity sonar-pro
+aliases:
+  - chip design
+  - Chip Design
 ---
 
 [[Sources/Books/Chip War|Chip War]]
@@ -20,6 +23,7 @@ As opposed to [[Vocabulary/Chip Producers|Chip Producers]] and [[Fabs]]
 [[organizations/Apple|Apple]]
 [[organizations/Nvidia|NVIDIA]]
 [[organizations/AMD|AMD]]
+[[content-areas/AI-Factories-Datacenters/Organizations/Mythic|Mythic]]
 
 
 # Defining and Describing Chip Designers
@@ -90,7 +94,7 @@ The phrase **“chip designer”** is largely plain English—combining “chip�
   - **Board/system integrator**: companies that assemble systems using off-the-shelf chips instead of designing chips themselves; opposite in IP depth and capital requirements. [^k974iu]
 
 - **Adjacent terms**
-  - [[Fabless manufacturing]] [^zojwo3]
+  - [[Vocabulary/Fabless Manufacturing]] [^zojwo3]
   - [[Semiconductor value chain]] [^k974iu]
   - [[Integrated Device Manufacturer (IDM)]] [^08base] [^k974iu]
   - [[Electronic Design Automation (EDA)]] [^k974iu] [^pzw466]

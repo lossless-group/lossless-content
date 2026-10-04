@@ -31,7 +31,7 @@ for_clients:
 [[Tooling/Software Development/Lego-Kit Engineering Tools/UI Builders/WebStudio|WebStudio]]
 [[Vocabulary/Marketing Automation|Marketing Automation]]
 [[Vocabulary/Search Engine Optimization|Search Engine Optimization]]
-[[Calls-to-Action]]
+[[Vocabulary/Calls-to-Action]]
 [[Marketing AI]]
 [[Vocabulary/Inbound Marketing|Inbound Marketing]]
 [[Vocabulary/Customer Acquisition Cost|Customer Acquisition Cost]]

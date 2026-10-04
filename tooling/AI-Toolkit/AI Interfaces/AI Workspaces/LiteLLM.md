@@ -20,7 +20,7 @@ og_favicon: https://framerusercontent.com/images/GtfMdzyrMj6FQY6lGLqI6bh2LYM.png
 
 Has a [[Tooling/Software Development/Programming Languages/Python]] [[SDK]].
 
-[[Amazon Bedrock]], [[Azure]], [[OpenAI]], [[VertexAI]], [[Cohere]], [[Anthropic]], [[Sagemaker]], [[Hugging Face]], [[Replicate]], [[Groq]]
+[[Amazon Bedrock]], [[Azure]], [[OpenAI]], [[VertexAI]], [[Cohere]], [[Anthropic]], [[SageMaker]], [[Hugging Face]], [[Replicate]], [[Groq]]
 
 ##### Videos:
 https://youtu.be/nQCOTzS5oU0?si=rhS-DC-f40Un5tza

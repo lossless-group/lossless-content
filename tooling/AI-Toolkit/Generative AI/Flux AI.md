@@ -18,4 +18,4 @@ description: 'Free online advanced Flux AI image generator for various styles of
 tags: [AI-Toolkit, Generative-AI]
 ---
 
-[[concepts/Explainers for AI/Image Generator]]
+[[concepts/Explainers for AI/Image Generators]]

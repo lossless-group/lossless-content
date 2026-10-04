@@ -1,22 +1,36 @@
 ---
-cf_last_run: "2026-06-05T21:39:00.841Z"
-cf_last_run_model: "Perplexity sonar-pro"
-tags: [Power-Generators, On-Site-Power-Generators]
+cf_last_run: 2026-06-05T21:39:00.841Z
+cf_last_run_model: Perplexity sonar-pro
+tags:
+  - Power-Generators
+  - On-Site-Power-Generators
 date_created: 2026-06-05
-date_modified: 2026-06-05
+date_modified: 2026-10-04
 site_uuid: 8b286909-23cb-4b05-a268-5c9a885f102e
 publish: true
-title: "On-Site Power Generation"
+title: On-Site Power Generation
 slug: on-site-power-generation
 at_semantic_version: 0.0.1.1
+aliases:
+  - Onsite Power Generators
+  - Onsite Power
+for_clients:
+  - Edviro
 ---
 
 [[Vocabulary/Betavoltaic Batteries|Betavoltaic Batteries]]
 
+[[Vocabulary/Data Centers|Datacenters]]
 
 [[client-content/Hypernova/Files/Portfolio/Aalo Atomics|Aalo Atomics]]
 [[ExoWatt]]
-[[Amperesand]]
+[[content-areas/AI-Factories-Datacenters/Organizations/Amperesand|Amperesand]]
+[[content-areas/AI-Factories-Datacenters/Organizations/Giga Energy|Giga Energy]]
+
+[[content-areas/AI-Factories-Datacenters/Concepts/Smart Grids|Smart Grids]]
+
+[[lost-in-public/market-maps/The Quest for Better Batteries|The Quest for Better Batteries]]
+
 
 # Defining and Describing On-Site Power Generation
 

@@ -70,7 +70,7 @@ For a publication like The Economist, the “works” are its **signature sectio
 
 - The Economist consistently links **macro forces** (trade, regulation, demographics, climate policy) to **firm‑level strategy**, helping innovators translate geopolitical and economic shifts into implications for product roadmaps, capital allocation and market entry.[7][1]
 - Its coverage of **technology and science** is explicitly framed around economic impact and adoption dynamics, offering practical angles on emerging areas like AI, fintech, biotech and energy transitions that feed into [[Vocabulary/S-Curves|S-Curves]] and [[concepts/Disruptive Innovation]].[7]
-- Through the **Leaders** and **Briefing** sections, it provides structured narratives and mental models for interpreting complex systems (e.g., globalization, supply‑chain resilience, industrial policy) that map directly to [[concepts/Systems Thinking]] in innovation work.[7]
+- Through the **Leaders** and **Briefing** sections, it provides structured narratives and mental models for interpreting complex systems (e.g., globalization, supply‑chain resilience, industrial policy) that map directly to [[Systems Thinking]] in innovation work.[7]
 - The brand’s long‑standing **free‑trade, liberal, pro‑market orientation** gives innovators a predictable lens on regulation, competition and state intervention, useful when triangulated against more statist or heterodox perspectives.[4][7]
 - As part of The Economist Group, the **Economist Intelligence Unit** supplies scenario‑based country and risk analysis that is directly usable in **market prioritization, portfolio strategy and global expansion planning**.[2][1]
 

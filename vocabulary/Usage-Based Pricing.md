@@ -180,7 +180,7 @@ For innovation work, this term applies primarily to cloud, SaaS, API, AI, and ot
 - **Adjacent terms**
   - [[Value-Based Pricing]] – setting price based on perceived value; usage-based pricing operationalizes this via a measurable value metric. [^2l205y] [^080v9w]
   - [[Pricing Power]] – the ability to raise prices or grow ARPU; usage-based models can enhance this as customers grow usage. [^2l205y] [^isc7xw]
-  - [[Unit Economics]] – per-unit revenue and cost; critical when choosing and tuning a usage metric. [^080v9w] [^isc7xw]
+  - [[Vocabulary/Unit Economics]] – per-unit revenue and cost; critical when choosing and tuning a usage metric. [^080v9w] [^isc7xw]
   - [[Business Model]] – usage-based pricing is a structural element of recurring revenue models in SaaS/AI.
   - [[Product-Led Growth]] – usage-based models often pair with PLG, as low-friction trials lead into usage expansion. [^2l205y] [^isc7xw]
   - [[Monetization Strategy]] – usage-based pricing is one of the core strategies for monetizing APIs, AI features, and infrastructure. [^080v9w] [^isc7xw]

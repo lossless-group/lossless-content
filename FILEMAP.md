@@ -20,7 +20,7 @@
 | `Citations` | Hex-code-keyed citation records + the Citation Viewer |
 | `tooling` | The Lossless Toolkit — individual tool profiles by category (AI-Toolkit, Software Development, Productivity, etc.) |
 | `vertical-toolkits` | Industry-vertical toolkit collections (FinTech, HealthTech, EdTech, CleanTech, etc.) |
-| `content-areas` | Domain-specific content areas (Blue-Economy, Finance, Health, general) |
+| `content-areas` | Domain-specific content areas, a git submodule (AI-Factories-Datacenters, Blue-Economy, Finance, Health, general) |
 | `client-content` | Per-client work product, one subdir per client (Laerdal, Hypernova, Param, Water-Foundation, etc.) |
 | `projects` | Internal and client projects (Augment-It, MemoPop, Content-Farm, Context-Vigilance, Lossless-Flavored-Markdown, etc.) |
 | `specs` | Specifications |
@@ -77,6 +77,13 @@
 │   ├── Explainers for Tooling
 │   └── Market-Categories
 ├── content-areas
+│   ├── AI-Factories-Datacenters
+│   │   ├── Concepts
+│   │   ├── Issues
+│   │   ├── Organizations
+│   │   ├── Sources
+│   │   ├── Topics
+│   │   └── Vocabulary
 │   ├── Blue-Economy
 │   │   ├── Concepts
 │   │   ├── Issues
@@ -156,6 +163,7 @@
 │   ├── Brand Content
 │   ├── Events
 │   ├── Journals
+│   │   └── Articles
 │   ├── Lectures
 │   ├── Media
 │   ├── Meetings
@@ -165,6 +173,7 @@
 │   ├── Source Extracts
 │   │   └── GitHub Repos
 │   ├── Standards-and-Specs
+│   ├── Transcripts
 │   └── UGC Communities
 ├── specs
 ├── tag-mocs
@@ -212,6 +221,7 @@
 │   ├── Training
 │   └── Web Browsers
 ├── vertical-toolkits
+│   ├── Bioscience
 │   ├── CleanTech
 │   ├── DroneTech
 │   ├── EdTech

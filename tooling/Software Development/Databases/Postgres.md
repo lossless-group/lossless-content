@@ -8,7 +8,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:19.678Z
 jina_error: Error occurred
 og_last_fetch: 2025-05-29T17:00:56.533Z
-date_modified: 2026-08-26
+date_modified: 2026-09-14
 date_created: 2025-03-30
 og_image: https://www.postgresql.org/media/img/about/press/elephant.png
 og_url: https://www.postgresql.org/
@@ -23,6 +23,9 @@ tags:
   - Market-Standard-Tools
 aliases:
   - PostgreSQL
+for_clients:
+  - Laerdal
+  - FullStackVC
 ---
 
 https://youtu.be/0hD4K3Ab3Fc?si=arS32PACg1m3UIxO
@@ -31,6 +34,7 @@ https://youtu.be/_CB_Aa2ODeM?is=IVptcjNHV4uMryZC
 
 https://youtu.be/b7eXdUOzUTM?is=ZcQqqVlFcrWspl-T
 
+[[Tooling/Software Development/Databases/Xata|Xata]]
 
 # Releases
 
@@ -58,13 +62,13 @@ Introduced in the 1980s as the successor to the Ingres project at the [[organiza
 Real-world applications of Postgres are widespread and diverse:
 
 - **[[Vocabulary/Backend Development|Back-End]] for web and mobile applications:** Popular websites and modern apps use Postgres to store user data, transactions, and content, thanks to its scalability and performance. [^c8afzt]
-- **Retail and banking:** Banks use Postgres to maintain customer accounts and transaction histories securely, taking advantage of its ACID-compliant transactions for data integrity. [^nie1dv] [^heibh2]
+- **Retail and banking:** Banks use Postgres to maintain customer accounts and transaction histories securely, taking advantage of its [[Vocabulary/ACID Transactions|ACID]]-compliant transactions for data integrity. [^nie1dv] [^heibh2]
 - **Geospatial analytics:** Extensions such as PostGIS make Postgres ideal for mapping services, logistics, and geographic information systems. [^heibh2]
 - **Scientific data and time-series analysis:** Postgres can be extended (with plugins or user-defined functions) to efficiently manage engineering, scientific, or time-dependent datasets. [^4i1g21] [^heibh2]
 
 Organizations choose Postgres for several benefits:
 
-- **Extensibility:** Users can define custom data types, build new functions, and even add logic using multiple programming languages without recompiling the database. [^heibh2]
+- **[[Extensibility]]:** Users can define custom data types, build new functions, and even add logic using multiple programming languages without recompiling the database. [^heibh2]
 - **SQL compliance and flexibility:** Postgres rigorously implements ANSI SQL, but also offers non-relational features like JSON support, making it both standards-compliant and highly adaptable. [^o7pk1d] [^c8afzt]
 - **Open-source model:** There are no licensing costs, allowing companies to deploy Postgres at scale without fear of vendor lock-in. [^4i1g21] [^heibh2]
 - **Strong community and ecosystem:** A global community actively contributes enhancements; leading cloud platforms offer fully-managed Postgres-based services. [^nie1dv]

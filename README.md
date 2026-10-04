@@ -5,11 +5,11 @@
 <table>
 <tr>
 <td align="center" width="130">
-<h1 style="margin:0; font-size:2.2em;">4,614</h1>
+<h1 style="margin:0; font-size:2.2em;">4,875</h1>
 <sub>Markdown Files</sub>
 </td>
 <td align="center" width="130">
-<h1 style="margin:0; font-size:2.2em;">2.9M</h1>
+<h1 style="margin:0; font-size:2.2em;">3.3M</h1>
 <sub>Words</sub>
 </td>
 <td align="center" width="130">
@@ -17,7 +17,7 @@
 <sub>Collections</sub>
 </td>
 <td align="center" width="130">
-<h1 style="margin:0; font-size:2.2em;">1,053</h1>
+<h1 style="margin:0; font-size:2.2em;">1,065</h1>
 <sub>Commits</sub>
 </td>
 <td align="center" width="130">
@@ -27,7 +27,7 @@
 </tr>
 </table>
 
-<sub>Snapshot as of 2026-07-09 · directory shape lives in <a href="./FILEMAP.md">FILEMAP.md</a></sub>
+<sub>Snapshot as of 2026-10-04 · directory shape lives in <a href="./FILEMAP.md">FILEMAP.md</a></sub>
 
 </div>
 

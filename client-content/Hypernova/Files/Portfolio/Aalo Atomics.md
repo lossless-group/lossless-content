@@ -374,3 +374,26 @@ Investor quality suggests strong conviction in both technology and market opport
 
 [^019fvl]: 2026, May. "[Explained: Generative AI’s environmental impact | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117)". ### Topics. [MIT News | Massachusetts Institute of Technology](https://news.mit.edu).
   
+
+## Events
+- Hosted an event at [[Sources/Events/Deep Tech Week Austin TX 2026|Deep Tech Week Austin TX 2026]]
+- Attended [[Sources/Events/Yotta|Yotta 2026]]
+
+%%
+**Lossless Twenty CRM: Yotta 2026** (synced 2026-10-04)
+Small modular nuclear reactors purpose-built for AI data centers: factory-produced, sodium-cooled designs derived from Argonne National Lab's Aurora concept.
+- Yotta touchpoint: Badge photos (Partner Staff)
+- Contacts: Jon Law (Director of Growth Strategy); Jared Hoffman (Marketing & Content Lead)
+- Event Map segment: Power Generation (Behind-the-Meter & Onsite)
+- Event Map: [[Sources/Events/Yotta 2026 Event Map|Yotta 2026 Event Map]]
+%%
+
+%%
+**Lossless Twenty CRM: Deep Tech Week Austin TX 2026** (synced 2026-10-04)
+Hosted closing celebration at its Austin factory; CEO Matt Loszak spoke. Also at Yotta 2026.
+- Role: Hosted closing celebration at its factory (Sep 25)
+- Speakers: Matt Loszak (CEO)
+- Event Map segment: Energy & Nuclear
+- Attended: No, observed from the public event site
+- Event Map: [[Sources/Events/Deep Tech Week Austin TX 2026 Event Map|Deep Tech Week Austin TX 2026 Event Map]]
+%%

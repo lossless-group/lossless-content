@@ -3,7 +3,7 @@ site_uuid: 2714bd4b-69e5-434c-89cd-4f215ebcb114
 aliases:
   - AI
   - Enterprise AI
-date_modified: 2026-09-11
+date_modified: 2026-09-14
 date_created: 2025-03-31
 tags:
   - Technology-Trends
@@ -247,7 +247,7 @@ Training AI models involves several steps:
 13. **Information Theory:**
     
     - Concepts like entropy and cross-entropy loss for classification tasks.
-14. **[[Graph Theory]]:**
+14. **[[Vocabulary/Graph Theory]]:**
     
     - Used in graph neural networks (GNNs) and certain recommendation systems.
 
@@ -514,6 +514,8 @@ https://www.youtube.com/live/esCSpbDPJik?si=5_zCH4nwkSlWPxJA
 [^fp0uqp]: [What is Responsible AI - Azure Machine Learning | Microsoft Learn](https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai?view=azureml-api-2).
 
 [^b5ccvy]: [China, the United States, and the AI Race](https://www.cfr.org/article/china-united-states-and-ai-race).
+
+[^1a2e0z]: 2026, Aug 26. "[The choices we make about AI now are critical | Bill Gates | gatesnotes.com](https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make?_bhlid=d2da8e76ac62d7308acb215ed73cd972d36fdb5a)". Bill Gates. [gatesnotes.com](https://www.gatesnotes.com).
 
 
 

@@ -1,17 +1,29 @@
 ---
 date_created: 2025-07-09
-date_modified: 2026-06-05
-aliases: "[Data Center]"
+date_modified: 2026-10-04
+aliases:
+  - Data Center
+  - Datacenter
+  - Datacenters
+  - Data-centers
+  - Data-center
+  - data-center
+  - data-centers
 site_uuid: 98068881-45d3-4220-acb2-c80778d791b6
 publish: true
-title: "Data Centers"
+title: Data Centers
 slug: data-centers
 at_semantic_version: 0.0.1.1
+tags:
+  - AI-Infrastructure
+  - AI-Factories
+  - AI-Factories-Datacenters
+  - Data-Centers
 ---
 
 # Major Companies and Organizations Building Data Centers Around the World
 
-The global data center industry is experiencing unprecedented growth, driven by artificial intelligence, cloud computing, and digital transformation. **Global data center capital expenditures surged 51% year-over-year in 2024 to $455 billion**[^dc65c1], with projections indicating continued expansion through 2025 and beyond. This comprehensive analysis identifies the major companies and organizations actively building data center infrastructure worldwide.
+The global data center industry is experiencing unprecedented growth, driven by artificial intelligence, cloud computing, and digital transformation. **Global data center capital expenditures surged 51% year-over-year in 2024 to $455 billion**, [^dc65c1] with projections indicating continued expansion through 2025 and beyond. This comprehensive analysis identifies the major companies and organizations actively building data center infrastructure worldwide.
 
 ## Global Hyperscale Providers
 
@@ -19,54 +31,54 @@ The largest data center operators globally are **hyperscale cloud providers** wh
 
 ### Leading Cloud Giants
 
-**[[Tooling/Software Development/Cloud Infrastructure/Amazon Web Services|Amazon Web Services]] (AWS)** maintains the world's largest data center footprint, operating over 100 facilities with more than 33,500 MW of capacity globally[^893d57]. AWS has announced plans to invest $150 billion over 15 years to expand its cloud infrastructure[^92012b], with recent major projects including an $11 billion investment in Indiana, $10 billion in Ohio, and $6 billion in Virginia[^841363].
+**[[Tooling/Software Development/Cloud Infrastructure/Amazon Web Services|Amazon Web Services]] ([[Tooling/Software Development/Cloud Infrastructure/Amazon Web Services|AWS]])** maintains the world's largest data center footprint, operating over 100 facilities with more than 33,500 MW of capacity globally. [^893d57] AWS has announced plans to invest $150 billion over 15 years to expand its cloud infrastructure, [^92012b] with recent major projects including an $11 billion investment in Indiana, $10 billion in Ohio, and $6 billion in Virginia. [^841363]
 
-**[[Tooling/Software Development/Cloud Infrastructure/Azure|Microsoft Azure]]** operates more than 200 data centers across 62 cloud regions worldwide[^893d57]. The company has committed to investing approximately $80 billion in AI-enabled data centers during fiscal year 2025, with more than half of this investment targeted for the United States[^1deb0c]. Microsoft's facilities are designed to be within 20 kilometers of existing data centers in their regional networks to meet strict latency requirements[^893d57].
+**[[Tooling/Software Development/Cloud Infrastructure/Azure|Microsoft Azure]]** ([[Tooling/Software Development/Cloud Infrastructure/Azure|Azure]]) operates more than 200 data centers across 62 cloud regions worldwide. [^893d57] The company has committed to investing approximately $80 billion in AI-enabled data centers during fiscal year 2025, with more than half of this investment targeted for the United States. [^1deb0c] Microsoft's facilities are designed to be within 20 kilometers of existing data centers in their regional networks to meet strict latency requirements. [^893d57]
 
-**[[Tooling/Software Development/Cloud Infrastructure/Google Cloud|Google Cloud Platform]]** operates over 200 data centers across multiple regions globally[^893d57]. The company has committed to spending $100 billion on AI infrastructure over time[^1deb0c] and is investing in mega energy parks that will generate renewable power for its data centers[^1c8f6b]. Google's strategy includes partnerships with independent power producers to build large energy plants adjacent to data center campuses[^1c8f6b].
+**[[Tooling/Software Development/Cloud Infrastructure/Google Cloud|Google Cloud Platform]]** ([[Tooling/Software Development/Cloud Infrastructure/Google Cloud|Google Cloud]]) operates over 200 data centers across multiple regions globally. [^893d57] The company has committed to spending $100 billion on AI infrastructure over time [^1deb0c] and is investing in mega energy parks that will generate renewable power for its data centers. [^1c8f6b] Google's strategy includes partnerships with independent power producers to build large energy plants adjacent to data center campuses. [^1c8f6b]
 
-**Meta Platforms** (formerly Facebook) operates 21+ data centers globally for its social media platforms and AI infrastructure[^893d57]. The company has increased its capital expenditures to $65 billion in 2025, up from $38 billion in 2024[^cfc567], including a $10 billion data center project in Louisiana that will be Meta's largest facility worldwide[^1c8f6b].
+**[[organizations/Meta Platforms|Meta Platforms]]** (formerly Facebook) operates 21+ data centers globally for its social media platforms and AI infrastructure. [^893d57] The company has increased its capital expenditures to $65 billion in 2025, up from $38 billion in 2024, [^cfc567] including a $10 billion data center project in Louisiana that will be Meta's largest facility worldwide. [^1c8f6b]
 
-**[[Oracle Cloud Infrastructure]]** operates 41+ cloud regions globally[^717341] and is participating in the massive $500 billion Stargate AI infrastructure initiative alongside OpenAI and SoftBank[^92012b]. This project represents one of the largest private sector investments in AI infrastructure[^97fa12].
+**[[content-areas/AI-Factories-Datacenters/Oracle Cloud Infrastructure]]** operates 41+ cloud regions globally [^717341] and is participating in the massive $500 billion Stargate AI infrastructure initiative alongside [[Tooling/AI-Toolkit/Model Producers/OpenAI|OpenAI]] and SoftBank. [^92012b] This project represents one of the largest private sector investments in AI infrastructure. [^97fa12]
 ### Other Major Cloud Providers
 
-**Alibaba Cloud**, China's largest cloud provider, operates more than 80 availability zones globally and had an 18% market share in China's cloud infrastructure service spend in 2021[^cc0c70]. **Tencent Cloud** operates over 70 availability zones worldwide, while **IBM Cloud** maintains 60+ zones with a focus on hybrid cloud solutions and enterprise services[^717341].
+**[[content-areas/AI-Factories-Datacenters/Organizations/Alibaba Cloud]]**, China's largest cloud provider, operates more than 80 availability zones globally and had an 18% market share in China's cloud infrastructure service spend in 2021. [^cc0c70] **Tencent Cloud** operates over 70 availability zones worldwide, while **IBM Cloud** maintains 60+ zones with a focus on hybrid cloud solutions and enterprise services. [^717341]
 
 ## Colocation Providers
 
-Colocation companies provide shared data center facilities where multiple organizations can house their IT infrastructure, offering an alternative to building proprietary facilities.
+[[concepts/Market-Categories/Colocation Services|Colocation]] companies provide shared data center facilities where multiple organizations can house their IT infrastructure, offering an alternative to building proprietary facilities.
 
 ### Global Colocation Leaders
 
-**Equinix** operates the world's largest network of interconnected data centers with 240+ facilities globally[^893d57]. The company recently announced a €59 million acquisition of BT Group's Irish data center business[^1c8f6b] and continues to expand its International Business Exchange (IBX) network with industry-leading uptime of >99.9999%[^b88f09].
+**[[content-areas/AI-Factories-Datacenters/Organizations/Equinix]]** operates the world's largest network of interconnected data centers with 240+ facilities globally. [^893d57] The company recently announced a €59 million acquisition of BT Group's Irish data center business [^1c8f6b] and continues to expand its International Business Exchange (IBX) network with industry-leading uptime of >99.9999%. [^b88f09]
 
-**Digital Realty** operates 312 data centers comprising 2,431 MW of IT capacity and 39.5 million net rentable square feet globally[^893d57]. The company serves over 5,000 customers across multiple continents and maintains key subsidiaries including Interxion, Ascenty, and Teraco Data Environments[^893d57].
+**[[Digital Realty]]** operates 312 data centers comprising 2,431 MW of IT capacity and 39.5 million net rentable square feet globally. [^893d57] The company serves over 5,000 customers across multiple continents and maintains key subsidiaries including Interxion, Ascenty, and Teraco Data Environments. [^893d57]
 
-**NTT Global Data Centers** operates 95 data centers with over 1,100 MW of IT power capacity worldwide[^893d57]. The company has announced multi-billion dollar global expansion plans, including a proposed acquisition of nearly 70 acres in Malaysia for one of the largest data center campuses in the Asia-Pacific region[^1c8f6b].
+**[[content-areas/AI-Factories-Datacenters/Organizations/NTT Global Data Centers|NTT Global Data Centers]]** operates 95 data centers with over 1,100 MW of IT power capacity worldwide. [^893d57] The company has announced multi-billion dollar global expansion plans, including a proposed acquisition of nearly 70 acres in Malaysia for one of the largest data center campuses in the Asia-Pacific region. [^1c8f6b]
 
 ### Specialized Colocation Providers
 
-**Vantage Data Centers** secured more than $13 billion in debt and equity investments in 2024 to support global expansion[^8c760b]. The company focuses on hyperscale data center campuses and has established significant presence in North America, Europe, and Asia-Pacific regions[^8c760b].
+**[[content-areas/AI-Factories-Datacenters/Organizations/Vantage Data Centers]]** secured more than $13 billion in debt and equity investments in 2024 to support global expansion. [^8c760b] The company focuses on hyperscale data center campuses and has established significant presence in North America, Europe, and Asia-Pacific regions. [^8c760b]
 
-**CyrusOne** operates more than 55 data centers with approximately 1,000 MW of power capacity across the United States and Europe[^893d57]. **QTS Data Centers** operates hybrid colocation facilities and has announced multibillion-dollar projects including a major development in Northumberland, England[^1c8f6b].
+**[[Tooling/AI-Toolkit/AI Infrastructure/CyrusOne]]** operates more than 55 data centers with approximately 1,000 MW of power capacity across the United States and Europe. [^893d57] **QTS Data Centers** operates hybrid colocation facilities and has announced multibillion-dollar projects including a major development in Northumberland, England. [^1c8f6b]
 
 ## Regional Market Leaders
 
 ### Asia-Pacific Region
 
-**GDS Holdings** is the largest carrier-neutral data center operator in China, operating 102 self-developed data centers spanning 692,866 square meters[^893d57]. The company serves major Chinese cloud providers including Alibaba and Tencent[^893d57].
+**[[GDS Holdings]]** is the largest carrier-neutral data center operator in China, operating 102 self-developed data centers spanning 692,866 square meters. [^893d57] The company serves major Chinese cloud providers including Alibaba and Tencent. [^893d57]
 
-**NEXTDC** operates Australia's largest network of data centers and is expanding capacity to capture local cloud migration trends[^acfc4d]. **AirTrunk** specializes in hyperscale facilities across Asia-Pacific markets[^acfc4d].
+**[[NEXTDC]]** operates Australia's largest network of data centers and is expanding capacity to capture local cloud migration trends. [^acfc4d] **AirTrunk** specializes in hyperscale facilities across Asia-Pacific markets. [^acfc4d]
 
-**Digital Edge** operates 17+ data centers across Asia-Pacific and raised over $1.6 billion in new equity and debt capital in 2025 to fund continued platform expansion[^f076e9]. The company operates facilities in Beijing, Seoul, Tokyo, Manila, Mumbai, and Jakarta[^f076e9].
+**[[Digital Edge]]** operates 17+ data centers across Asia-Pacific and raised over $1.6 billion in new equity and debt capital in 2025 to fund continued platform expansion. [^f076e9] The company operates facilities in Beijing, Seoul, Tokyo, Manila, Mumbai, and Jakarta. [^f076e9]
 
 ### European Market
 
-**Yondr Group** launched a 40 MW data center project in Frankfurt, Germany, marking its second facility in Europe[^1c8f6b]. **Kevlinx Data Centers** is developing AI-ready facilities in Europe's emerging markets, with a 32MW+ facility planned for Brussels[^8ce4c7].
+**[[Yondr Group]]** launched a 40 MW data center project in Frankfurt, Germany, marking its second facility in Europe. [^1c8f6b] **Kevlinx Data Centers** is developing AI-ready facilities in Europe's emerging markets, with a 32MW+ facility planned for Brussels. [^8ce4c7]
 
 ### Latin American Growth
 
-**Ascenty** operates wholesale data centers across Latin America and is part of Digital Realty's global portfolio[^893d57]. The region is experiencing rapid growth, with Brazil leading Latin America's data center expansion[^72b4e0].
+**[[Ascenty]]** operates wholesale data centers across Latin America and is part of Digital Realty's global portfolio. [^893d57] The region is experiencing rapid growth, with Brazil leading Latin America's data center expansion. [^72b4e0]
 
 ## Construction and Engineering Companies
 
@@ -74,27 +86,27 @@ The data center construction industry is dominated by specialized firms capable 
 
 ### Top Construction Firms
 
-According to Building Design+Construction's 2024 ranking, the top data center construction companies include **Holder Construction**, **HITT Contracting**, **Turner Construction**, **DPR Construction**, and **Clayco**[^260b1b]. These companies have been consistently ranked among the nation's largest data center contractors[^e7287f].
+According to Building Design+Construction's 2024 ranking, the top data center construction companies include **[[Holder Construction]]**, **[[content-areas/AI-Factories-Datacenters/Organizations/HITT Contracting]]**, **[[Turner Construction]]**, **[[DPR Construction]]**, and **Clayco**. [^260b1b] These companies have been consistently ranked among the nation's largest data center contractors. [^e7287f]
 
-**Fortis Construction** has been named one of the nation's top-10 data center builders for six consecutive years by Engineering News-Record[^e7287f]. The company ranked #7 in telecommunications construction, which encompasses data centers[^e7287f].
+**[[Fortis Construction]]** has been named one of the nation's top-10 data center builders for six consecutive years by Engineering News-Record. [^e7287f] The company ranked #7 in telecommunications construction, which encompasses data centers. [^e7287f]
 
 ### International Construction Players
 
-**Collen Construction** operates as a leading international construction company with significant data center projects[^200a39]. **Jacobs Solutions** provides engineering and construction services for data center projects globally[^d889be].
+**[[content-areas/AI-Factories-Datacenters/Organizations/Collen Construction]]** operates as a leading international construction company with significant data center projects. [^200a39] **Jacobs Solutions** provides engineering and construction services for data center projects globally. [^d889be]
 
-**Gray Construction** was ranked #15 in the U.S. for data center construction by Engineering News-Record and completes more than 300 MW of new capacity annually[^da1bc8].
+**Gray Construction** was ranked #15 in the U.S. for data center construction by Engineering News-Record and completes more than 300 MW of new capacity annually. [^da1bc8]
 
 ## Emerging Players and Specialized Providers
 
 ### AI-Focused Companies
 
-**[[Tooling/AI-Toolkit/AI Infrastructure/CoreWeave|CoreWeave]]** announced a $9 billion acquisition of Core Scientific in 2025, representing one of the largest transactions in the AI infrastructure space[^98c982]. The company specializes in GPU-optimized cloud infrastructure for AI workloads[^fde20c].
+**[[Tooling/AI-Toolkit/AI Infrastructure/CoreWeave|CoreWeave]]** announced a $9 billion acquisition of Core Scientific in 2025, representing one of the largest transactions in the AI infrastructure space. [^98c982] The company specializes in GPU-optimized cloud infrastructure for AI workloads. [^fde20c]
 
-**[[xAI]]** (Elon Musk's AI company) has pursued billion-dollar investments in AI data centers and hardware[^1deb0c]. The company created AI data centers in a factory in Tennessee[^1deb0c].
+**[[xAI]]** (Elon Musk's AI company) has pursued billion-dollar investments in AI data centers and hardware. [^1deb0c] The company created AI data centers in a factory in Tennessee. [^1deb0c]
 
 ### Investment Firms
 
-**[[organizations/Blackstone|Blackstone]]** is investing $13 billion in a hyperscale data center in Northern England, positioning it as one of the largest technology infrastructure investments in Europe[^c5c089]. The facility will operate on 100% renewable energy with advanced liquid cooling systems[^c5c089].
+**[[organizations/Blackstone|Blackstone]]** is investing $13 billion in a hyperscale data center in Northern England, positioning it as one of the largest technology infrastructure investments in Europe. [^c5c089] The facility will operate on 100% renewable energy with advanced liquid cooling systems. [^c5c089]
 
 ## Government and Sovereign Cloud Initiatives
 
@@ -102,22 +114,23 @@ Governments worldwide are implementing data center modernization strategies to s
 
 ### National Initiatives
 
-The **United States** operates the Data Center Optimization Initiative (DCOI) to consolidate inefficient infrastructure and improve security posture[^e53961]. The **United Kingdom** has designated data centers as Critical National Infrastructure, providing them with the same protections as energy and water systems[^4ab536].
+The **United States** operates the [[content-areas/AI-Factories-Datacenters/Organizations/Data Center Optimization Initiative]] (DCOI) to consolidate inefficient infrastructure and improve security posture. [^e53961] The **United Kingdom** has designated data centers as Critical National Infrastructure, providing them with the same protections as energy and water systems. [^4ab536]
 
-**Thailand** has developed a comprehensive Government Data Center Modernization strategy to protect high-security data and achieve operational excellence[^fe0dfe]. **Malaysia** has established government data centers to support ICT plans and e-government services[^fe0dfe].
+**Thailand** has developed a comprehensive Government Data Center Modernization strategy to protect high-security data and achieve operational excellence. [^fe0dfe] **Malaysia** has established government data centers to support ICT plans and e-government services. [^fe0dfe]
 
 ### Sovereign Cloud Providers
 
-**Google Cloud** offers sovereign cloud solutions with data residency and administrative access controls[^e74758]. **SAP**, **IBM**, and **Orange Business** provide sovereign cloud capabilities to meet country-specific regulatory requirements[^8540d3][^2a15bc][^a1e632].
+**Google Cloud** offers sovereign cloud solutions with data residency and administrative access controls. [^e74758] **SAP**, **IBM**, and **Orange Business** provide sovereign cloud capabilities to meet country-specific regulatory requirements. [^8540d3] [^2a15bc] [^a1e632]
 
 ## Market Growth and Investment Trends
 
-The data center industry is experiencing unprecedented growth driven by AI adoption and cloud migration. **Global data center capital expenditures are projected to exceed $1 trillion annually by 2029**[^dc65c1], with AI-related spending accounting for the majority of new investments.
-**Hyperscale data center count reached 1,136 facilities in 2024**, up from 992 at the end of 2023[^838b16]. The pipeline of future hyperscale data centers stands at 504 facilities in various stages of planning and construction[^838b16].
+The data center industry is experiencing unprecedented growth driven by AI adoption and cloud migration. **Global data center capital expenditures are projected to exceed $1 trillion annually by 2029**, [^dc65c1] with AI-related spending accounting for the majority of new investments.
 
-**North America** continues to lead global capacity with over 51% of worldwide hyperscale capacity[^838b16]. However, **Asia-Pacific** markets are experiencing the fastest growth rates, with countries like South Korea projected to grow 100% between 2022 and 2026[^1fd906].
+**Hyperscale data center count reached 1,136 facilities in 2024**, up from 992 at the end of 2023. [^838b16] The pipeline of future hyperscale data centers stands at 504 facilities in various stages of planning and construction. [^838b16]
 
-The industry faces significant challenges including power constraints, with 40% of AI data centers expected to be limited by power availability by 2027[^1deb0c]. This is driving investment in renewable energy solutions and partnerships with power generation companies[^1deb0c].
+**North America** continues to lead global capacity with over 51% of worldwide hyperscale capacity. [^838b16] However, **Asia-Pacific** markets are experiencing the fastest growth rates, with countries like South Korea projected to grow 100% between 2022 and 2026. [^1fd906]
+
+The industry faces significant challenges including power constraints, with 40% of AI data centers expected to be limited by power availability by 2027. [^1deb0c] This is driving investment in renewable energy solutions and partnerships with power generation companies. [^1deb0c]
 
 ## Conclusion
 

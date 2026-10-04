@@ -31,7 +31,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 [[Vocabulary/CRM|CRM]]
 [[concepts/Explainers for Tooling/Go-to-Market Platforms|GTM Platforms]]
-[[Sales AI]]
+[[concepts/Market-Categories/Sales AI]]
 
 # Value Proposition & Features
 

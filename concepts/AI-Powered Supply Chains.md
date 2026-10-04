@@ -2,7 +2,7 @@
 aliases:
   - Supply Chain AI
 date_created: 2026-05-06
-date_modified: 2026-05-27
+date_modified: 2026-10-04
 tags: [Supply-Chain-AI, Enterprise-AI]
 cf_last_run: "2026-05-27T01:20:59.654Z"
 cf_last_run_model: "Perplexity sonar-pro"
@@ -14,6 +14,7 @@ at_semantic_version: 0.0.1.1
 ---
 [[concepts/AI-Powered Supply Chains|Supply Chain AI]]
 
+[[Sotant AI]]
 
 # Defining and Describing AI-Powered Supply Chains
 
@@ -66,7 +67,7 @@ An **AI-powered supply chain** is a supply chain in which key management process
 - [JD.com AI-Driven Supply Chain](https://www.youtube.com/watch?v=xmrbjb209XU) – JD.com’s in‑house AI system that uses advanced forecasting, operations research, and an AI chatbot interface to optimize inventory, replenishment, and order fulfillment across hundreds of millions of SKUs. [^h02cjx]  
 - [NetSuite AI in Supply Chain Management](https://www.netsuite.com/) – ERP vendor example where embedded AI is used to “tame disruptions, cut costs, and build a more resilient, agile, and competitive operation” through better predictions and automation. [^xm4dgu]  
 - [Centric Consulting AI Supply Chain Optimization](https://centricconsulting.com/) – Consulting practice showcasing practical AI deployments for “forecasting demand, optimizing inventory, or anticipating disruptions,” illustrating how mid‑market companies adopt AI-powered supply chains. [^b8qt3n]  
-- [World Economic Forum – AI-powered supply chains and regional ecosystems](https://www.weforum.org/) – Policy‑oriented framing of AI-enabled supply chains that can simulate sourcing strategies and orchestrate global and regional flows. [^99zoc3]  
+- [World Economic Forum – AI-powered supply chains and regional ecosystems](https://www.weforum.org/) – [[Sources/Events/World Economic Forum|World Economic Forum]] – Policy‑oriented framing of AI-enabled supply chains that can simulate sourcing strategies and orchestrate global and regional flows. [^99zoc3]  
 - [Amazon Business – Modern AI supply chains blueprint](https://business.amazon.com/) – A large adopter’s blueprint for “AI-powered supply chains” focused on how buyers can embed AI into procurement and logistics processes. [^bhm006]  
 
 # Case Studies

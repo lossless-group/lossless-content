@@ -80,7 +80,7 @@ AI Factories ingest enormous streams of raw data, train and continuously improve
 - **Hardware**: NVIDIA (GPUs, networking), [[organizations/AMD|AMD]] (GPUs), Google (TPUs), Dell/HP (integrated AI servers), Supermicro (AI-optimized racks), IBM.
 - **Cloud Providers**: [[Tooling/Software Development/Cloud Infrastructure/Amazon Web Services|Amazon Web Services]], [[Tooling/Software Development/Cloud Infrastructure/Google Cloud|Google Cloud]] (with [[concepts/Explainers for AI/Tensor Processing Units|TPUs]]), [[Tooling/Software Development/Cloud Infrastructure/Azure|Microsoft Azure]] (AI supercomputing clusters), [[organizations/Oracle|Oracle]] Cloud.
 - **Specialists**: Companies like [[Tooling/AI-Toolkit/Model Producers/Cerbras|Cerbras]], [[Tooling/AI-Toolkit/AI Infrastructure/Graphcore|Graphcore]], [[organizations/Acquired/Habana Labs]] produce custom AI-acceleration silicon.
-- **Data Center Specialists**: [[Equinix]], [[Digital Realty]], [[Macquarie]] specialize in high-density, AI-ready facilities. [^2hscwa] [^516d89] [^r5bqqf] [^2gzj18] [^oa01ev]
+- **Data Center Specialists**: [[content-areas/AI-Factories-Datacenters/Organizations/Equinix]], [[Digital Realty]], [[Macquarie]] specialize in high-density, AI-ready facilities. [^2hscwa] [^516d89] [^r5bqqf] [^2gzj18] [^oa01ev]
 
 **Types of Services:**
 - **Managed AI infrastructure** (hardware, networking, and orchestration provided as a service)

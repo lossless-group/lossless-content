@@ -68,7 +68,7 @@ Because this is a **publication**, its value comes from the institution plus a r
 - MIT Technology Review consistently **frames emerging technologies in terms of real-world deployment, incentives, and second‑order effects**, giving innovators practical lenses on what’s hype versus what’s commercially and societally durable.
 - Its AI, climate, and business sections offer **early visibility into technical breakthroughs and regulatory shifts**, helping innovators time bets on new platforms, infrastructure, and products rather than merely reacting to mainstream headlines.
 - Through MIT Technology Review Insights, it provides **data‑rich market and adoption studies** (e.g., AI readiness, digital transformation, cybersecurity posture) that help organizations benchmark themselves and identify gaps in capabilities and talent.[1]
-- The magazine frequently covers issues such as algorithmic bias, privacy, labor impacts, and climate justice, equipping innovators with **ethical and governance mental models** that complement tools like [[concepts/Responsible AI]] and [[concepts/Systems Thinking]].
+- The magazine frequently covers issues such as algorithmic bias, privacy, labor impacts, and climate justice, equipping innovators with **ethical and governance mental models** that complement tools like [[concepts/Responsible AI]] and [[Systems Thinking]].
 - Because it is institutionally tied to MIT and taps both researchers and industry leaders, the publication acts as a **bridge between academic research and applied innovation**, useful when translating frontier research into [[concepts/Minimum Viable Product]] experiments and commercialization strategies.
 
 ---

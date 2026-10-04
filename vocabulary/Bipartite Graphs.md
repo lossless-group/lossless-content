@@ -32,7 +32,7 @@ A **bipartite graph** is a two-part network model used to represent relationship
 ## Other senses
 
 ### 1. Graph theory / mathematics
-In [[Graph Theory]], a bipartite graph is the standard formal object defined by a vertex partition into two independent sets. [^1yzojr] [^z1hjhc] [^ac5j5w]
+In [[Vocabulary/Graph Theory]], a bipartite graph is the standard formal object defined by a vertex partition into two independent sets. [^1yzojr] [^z1hjhc] [^ac5j5w]
 
 - One canonical definition says the vertices can be divided into two disjoint and independent sets \(U\) and \(V\), and every edge connects a vertex in \(U\) to one in \(V\). [^1yzojr]
 - A common equivalent criterion is that a graph is bipartite if and only if it can be 2-colored, or equivalently contains no odd-length cycle. [^g3oojl] [^ac5j5w]
