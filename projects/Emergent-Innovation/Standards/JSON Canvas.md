@@ -1,9 +1,9 @@
 ---
 url: https://jsoncanvas.org/
-created-by: "[[Tooling/Productivity/Advanced Documents/Obsidian]]"
+created_by: "[[Tooling/Productivity/Advanced Documents/Obsidian]]"
 github_repo_url: https://github.com/obsidianmd/jsoncanvas
 date_created: 2025-02-23
-date_modified: 2025-09-22
+date_modified: 2026-10-05
 ---
 
 ##### An [[Data Standard]] for applying [[projects/Emergent-Innovation/Standards/JSON]] syntax in [[Canvas]] [[User Interface|UI]], created by [[Tooling/Productivity/Advanced Documents/Obsidian]]

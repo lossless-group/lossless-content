@@ -18,7 +18,7 @@ tags:
 ---
 
 
-[[Sotant AI]]
+[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Sotant AI]]
 [[Harmony AI]]
 [[concepts/AI-Powered Supply Chains|Supply Chain AI]]
 

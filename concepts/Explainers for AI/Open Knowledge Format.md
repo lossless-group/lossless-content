@@ -1,6 +1,6 @@
 ---
 date_created: 2026-07-07
-date_modified: 2026-08-06
+date_modified: 2026-10-05
 tags:
   - Open-Specifications
 aliases:
@@ -12,6 +12,8 @@ slug: open-knowledge-format
 at_semantic_version: 0.0.0.1
 cf_last_run: 2026-08-06T17:08:47.315Z
 cf_last_run_model: Perplexity sonar-pro
+github_repo_url: https://github.com/GoogleCloudPlatform/open-knowledge-format
+created_by: "[[Tooling/Software Development/Cloud Infrastructure/Google Cloud|Google Cloud Platform]]"
 ---
 
 
@@ -20,6 +22,12 @@ cf_last_run_model: Perplexity sonar-pro
 https://youtu.be/l46NJXUL4PM?is=gP0smxx585-LwhSx
 
 [[Vocabulary/Retrieval-Augmented Generation|Retrieval-Augmented Generation]]
+[[concepts/Explainers for AI/Memory Layers|Agent Memory]]
+[[concepts/Explainers for AI/Memory Layers|Memory Layers]]
+[[concepts/Explainers for AI/Context Engineering|Context Engineering]]
+[[concepts/Open Specifications|Open Specifications]]
+[[Tooling/Software Development/Cloud Infrastructure/Google Cloud|Google Cloud Platform]]
+
 
 Some say an alternative to using [[concepts/Explainers for Tooling/Vector Databases|Vector Databases]]
 

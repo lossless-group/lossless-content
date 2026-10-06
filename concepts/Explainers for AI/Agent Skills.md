@@ -1,7 +1,7 @@
 ---
 url: "https://agentskills.io/"
 date_created: 2026-01-08
-date_modified: 2026-08-26
+date_modified: 2026-10-05
 og_title: "Agent Skills Overview"
 og_description: "A standardized way to give AI agents new capabilities and expertise."
 og_image: "https://agent-skills.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DDocumentation%26title%3DAgent%2BSkills%2BOverview%26description%3DA%2Bstandardized%2Bway%2Bto%2Bgive%2BAI%2Bagents%2Bnew%2Bcapabilities%2Band%2Bexpertise.%26primaryColor%3D%25237f7f7f%26lightColor%3D%2523bfbfbf%26darkColor%3D%2523404040%26backgroundLight%3D%2523ffffff%26backgroundDark%3D%25230d0d0f&w=1200&q=100"
@@ -21,6 +21,8 @@ title: "Agent Skills"
 slug: agent-skills
 at_semantic_version: 0.0.0.1
 ---
+https://youtu.be/VQyYzLJ6xos?si=2vKXsU7xsj-gFGop
+
 https://youtu.be/dtAJ2dOd3ko?is=08f2hUG5qCGsfzGy
 
 https://youtu.be/gaDdrDdczO4?is=sDYawlXKPrXszp6_
@@ -32,6 +34,7 @@ An [[concepts/Open Specifications|Open Specification]] for [[Vocabulary/Agentic 
 :::tool-showcase
 - [[Tooling/Software Development/Developer Experience/DevTools/Pi Coding Agent|Pi.dev]]
 - [[Tooling/AI-Toolkit/Agentic AI/Hermes Agent|Hermes Agent]]
+- [[Tooling/AI-Toolkit/Generative AI/Code Generators/Claude Code|Claude Code]]
 :::
 
 ![Chat bot set of infographic compositions with flat images of people robots algorithms charts and text vector illustration](http://img.b2bpic.net/free-vector/chat-bot-set-infographic-compositions-with-flat-images-people-robots-algorithms-charts-text-vector-illustration_1284-80649.jpg)

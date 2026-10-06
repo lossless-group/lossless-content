@@ -14,7 +14,7 @@ at_semantic_version: 0.0.1.1
 ---
 [[concepts/AI-Powered Supply Chains|Supply Chain AI]]
 
-[[Sotant AI]]
+[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Sotant AI]]
 
 # Defining and Describing AI-Powered Supply Chains
 

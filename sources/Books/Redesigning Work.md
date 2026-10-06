@@ -65,7 +65,7 @@ Key chapters / arguments in *Redesigning Work* (chapter titles and structure sum
 - It provides a **four-step design framework** (Understand → Reimagine → Model & Test → Act & Create) that innovators can treat like a playbook for redesigning jobs, workflows, and collaboration patterns, not just office layouts. [^pvvf8d]
 - Gratton insists leaders start with **data on how work really happens**—mapping networks, flows of knowledge, and what people value—before making changes, which aligns with evidence-based [[concepts/Organization Design]] and reduces the risk of shallow “flexibility theater.”[^pvvf8d]
 - The book reframes hybrid work as an opportunity to **experiment with time and place as design variables**, enabling new combinations of synchronous/asynchronous and on-site/remote work that can unlock productivity and autonomy. [^pvvf8d]
-- It highlights how **skills and capabilities**, rather than fixed roles, should drive work design—connecting closely to skills-based talent models and internal talent marketplaces that support continuous [[concepts/Business Model Innovation]]. [^ktv4qx] [^2poiyc]
+- It highlights how **skills and capabilities**, rather than fixed roles, should drive work design—connecting closely to skills-based talent models and internal talent marketplaces that support continuous [[Business Model Innovation]]. [^ktv4qx] [^2poiyc]
 - For corporate innovators, it’s a practical guide to **change adoption**: Gratton details how to involve employees in co‑creation, adjust HR systems, and use leadership role‑modeling to ensure new ways of working stick rather than being discarded at the first downturn. [^pvvf8d] [^95btjk]
 
 # Best Starting Points

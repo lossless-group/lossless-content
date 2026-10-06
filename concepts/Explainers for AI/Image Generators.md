@@ -4,7 +4,7 @@ aliases:
   - Image Creator
   - Image Generators
   - Image Generator
-date_modified: 2026-10-04
+date_modified: 2026-10-05
 date_created: 2025-03-30
 tags:
   - AI-Toolkit
@@ -144,7 +144,7 @@ D --> E["Decoded output image"]
 
 # Case Studies
 
-**[[Goodfellow]]’s GAN framework, 2014.** Ian Goodfellow and collaborators introduced a two-network training setup in which a generator produced synthetic samples while a discriminator attempted to identify them as fake.[6][11] The adversarial objective made it possible to learn sharp image distributions without directly specifying a pixel-by-pixel reconstruction target. GANs subsequently became a major approach for realistic image synthesis, particularly in constrained domains such as faces, although later diffusion methods addressed important limitations in training stability and distribution coverage.[4][13] The case shows that a foundational image-generation innovation originated in an academic research collaboration rather than as a product announcement from a large platform company.
+**[[Sources/People/Ian Goodfellow]]’s GAN framework, 2014.** Ian Goodfellow and collaborators introduced a two-network training setup in which a generator produced synthetic samples while a discriminator attempted to identify them as fake.[6][11] The adversarial objective made it possible to learn sharp image distributions without directly specifying a pixel-by-pixel reconstruction target. GANs subsequently became a major approach for realistic image synthesis, particularly in constrained domains such as faces, although later diffusion methods addressed important limitations in training stability and distribution coverage.[4][13] The case shows that a foundational image-generation innovation originated in an academic research collaboration rather than as a product announcement from a large platform company.
 
 **Latent diffusion and [[Tooling/AI-Toolkit/Models/Stable Diffusion|Stable Diffusion]], 2021–2022.** Rombach and collaborators’ latent-diffusion approach moved the diffusion process from raw pixels into a compressed latent space, lowering the computational burden of image synthesis.[13] Stable Diffusion became a prominent example of this approach and helped make high-quality text-to-image generation practical on consumer hardware.[13] Its significance was not only image quality but also accessibility: the underlying method demonstrated how representation compression could broaden participation in image-generation development beyond organizations with the largest compute budgets. The case illustrates how an academic method and an openly distributed implementation can accelerate adoption across creative and technical communities.
 
