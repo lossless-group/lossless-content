@@ -1,6 +1,6 @@
 ---
 date_created: 2024-11-02
-date_modified: 2025-10-02
+date_modified: 2026-10-07
 site_uuid: 727bfc80-ad69-4abc-ac99-43cd33e7d11f
 title: "Quantum Computing is Confusing"
 lede: "Quantum computing shatters intuition, leaving even experts grasping for clarity."
@@ -18,6 +18,8 @@ authors:
   - Michael Staton
 publish: true
 ---
+[[Quantinuum]]
+
 
 https://youtu.be/1_gJp2uAjO0?si=CfFsa5sRZj3yGpCx
 

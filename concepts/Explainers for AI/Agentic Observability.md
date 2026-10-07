@@ -157,7 +157,7 @@ The most recent retrieved reporting, dated September 30, 2026, continued to desc
 
 # History and Origin Story
 
-Agentic Observability originated as a September 2026 expansion of Airrived’s enterprise Agentic OS, unveiled at GISEC Dubai. The product reflects Airrived’s stated effort to extend its platform from building and running agents to governing and monitoring their complete operational lifecycle, including data context, permissions, actions, and outcomes. [1][2][7] Its positioning fits naturally alongside [[concepts/Market-Categories/Datacenter Operations|Datacenter Operations]] because it treats agent activity as an operational control problem, although the retrieved sources do not document a separate founding team, incorporation date, or standalone corporate history for the product.
+Agentic Observability originated as a September 2026 expansion of Airrived’s enterprise Agentic OS, unveiled at GISEC Dubai. The product reflects Airrived’s stated effort to extend its platform from building and running agents to governing and monitoring their complete operational lifecycle, including data context, permissions, actions, and outcomes. [1][2][7] Its positioning fits naturally alongside [[content-areas/AI-Factories-Datacenters/Concepts/Datacenter Operations|Datacenter Operations]] because it treats agent activity as an operational control problem, although the retrieved sources do not document a separate founding team, incorporation date, or standalone corporate history for the product.
 
 ## Fundraising History
 

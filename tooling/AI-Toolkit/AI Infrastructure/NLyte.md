@@ -21,7 +21,7 @@ cf_last_run_model: Perplexity sonar-pro
 [[Vocabulary/Data Centers|Datacenters]]
 [[content-areas/AI-Factories-Datacenters/Concepts/Data Center Operators|Datacenter Operators]]
 [[concepts/Market-Categories/Data Center Infrastructure Management Systems|Data Center Infrastructure Management Systems]]
-[[concepts/Market-Categories/Colocation Services|Colocation]]
+[[content-areas/AI-Factories-Datacenters/Concepts/Colocation Services|Colocation]]
 
 # Value Proposition & Features
 

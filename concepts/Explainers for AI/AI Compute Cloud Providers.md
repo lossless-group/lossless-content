@@ -15,7 +15,7 @@ at_semantic_version: 0.0.1.1
 ---
 [[content-areas/AI-Factories-Datacenters/Organizations/Equinix|Equinix]]
 [[Hyperscale Cloud Providers|Hyperscalers]]
-[[content-areas/AI-Factories-Datacenters/Oracle Cloud Infrastructure|Oracle Cloud Infrastructure]]
+[[content-areas/AI-Factories-Datacenters/Organizations/Oracle Cloud Infrastructure|Oracle Cloud Infrastructure]]
 
 # Defining and Describing AI Compute Cloud Providers
 

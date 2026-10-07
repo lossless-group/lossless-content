@@ -1,16 +1,27 @@
 ---
-date_modified: 2025-09-23
+date_modified: 2026-10-07
 site_uuid: ad057ea8-6ee4-4479-b635-fade62b26e9f
 date_created: 2025-04-06
 publish: true
 title: Relational Databases
 slug: relational-databases
 at_semantic_version: 0.0.1.1
-aliases: [Relational Database, RDBMS, Relational Database Management System]
+aliases:
+  - Relational Database
+  - RDBMS
+  - Relational Database Management System
+tags:
+  - Databases
+  - Computing-Paradigms
+  - Market-Standard-Tools
 ---
 :::tool-showcase
  - [[Tooling/Software Development/Databases/Postgres|Postgres]]
- - [[MariaDB]]
+ - [[Tooling/Software Development/Databases/MariaDB|MariaDB]]
+ - [[Tooling/Software Development/Databases/DuckDB|DuckDB]]
+ - [[Tooling/Software Development/Databases/SQLite|SQLite]]
+ - [[Tooling/Software Development/Databases/llibSQL|llibSQL]]
+ - [[Tooling/Software Development/Databases/CockroachDB|CockroachDB]]
 :::
 
 ***
@@ -35,7 +46,7 @@ A **relational database** stores data in a collection of tables that can be link
 **Benefits** of relational databases include:
 
 - **Data integrity:** Relational databases enforce rules (such as primary and foreign keys, “unique” constraints, and normalization) that prevent duplicate, inconsistent, or conflicting data. [^i4tbl6] [^ksq77d]
-- **Flexible querying:** SQL (Structured Query Language) enables complex data manipulation, filtering, joining, and analysis, allowing users to generate custom reports and insights. [^i4tbl6] [^ksq77d] [^gp534k]
+- **Flexible querying:** [[projects/Emergent-Innovation/Standards/SQL|SQL]] (Structured Query Language) enables complex data manipulation, filtering, joining, and analysis, allowing users to generate custom reports and insights. [^i4tbl6] [^ksq77d] [^gp534k]
 - **Security:** Granular access controls and sophisticated authentication mechanisms protect sensitive data, allowing administrators to restrict access right down to the individual cell. [^i4tbl6] [^ksq77d]
 - **Scalability & disaster recovery:** Modern relational databases offer options for horizontal and vertical scaling, import/export functionality, and robust backup processes, particularly with cloud-based systems. [^i4tbl6] [^ksq77d]
 - **Community support:** Many relational database technologies are open source, yielding active communities and rich tool ecosystems. [^i4tbl6]
@@ -66,10 +77,6 @@ A **relational database** stores data in a collection of tables that can be link
 # Citations
 
 [^3l14s3]: [The Birth of SQL & the Relational Database](https://youtu.be/z8L202FlmD4?si=VWD4jfjpVNPsJpA-) by [[Asianometry]] on [[YouTube]].
-
-
-
-### Citations
 
 [^i4tbl6]: 2025, Sep 23. [What is a Relational Database? - AWS](https://aws.amazon.com/rds/what-is-a-relational-database/). Published: 2025-09-10 | Updated: 2025-09-23
 

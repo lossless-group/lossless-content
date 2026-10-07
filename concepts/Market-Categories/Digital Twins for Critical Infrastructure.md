@@ -14,7 +14,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 [[Vocabulary/Data Centers|Datacenter]]
 [[content-areas/AI-Factories-Datacenters/Concepts/Data Center Operators|Datacenter Operators]]
-[[concepts/Market-Categories/Datacenter Operations|Datacenter Operations]]
+[[content-areas/AI-Factories-Datacenters/Concepts/Datacenter Operations|Datacenter Operations]]
 [[Real-World Telemetry]]
 [[content-areas/AI-Factories-Datacenters/Concepts/Integrated Electrical and Mechanical Systems|Integrated Electrical and Mechanical Systems]]
 

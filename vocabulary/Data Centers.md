@@ -39,20 +39,20 @@ The largest data center operators globally are **hyperscale cloud providers** wh
 
 **[[organizations/Meta Platforms|Meta Platforms]]** (formerly Facebook) operates 21+ data centers globally for its social media platforms and AI infrastructure. [^893d57] The company has increased its capital expenditures to $65 billion in 2025, up from $38 billion in 2024, [^cfc567] including a $10 billion data center project in Louisiana that will be Meta's largest facility worldwide. [^1c8f6b]
 
-**[[content-areas/AI-Factories-Datacenters/Oracle Cloud Infrastructure]]** operates 41+ cloud regions globally [^717341] and is participating in the massive $500 billion Stargate AI infrastructure initiative alongside [[Tooling/AI-Toolkit/Model Producers/OpenAI|OpenAI]] and SoftBank. [^92012b] This project represents one of the largest private sector investments in AI infrastructure. [^97fa12]
+**[[content-areas/AI-Factories-Datacenters/Organizations/Oracle Cloud Infrastructure]]** operates 41+ cloud regions globally [^717341] and is participating in the massive $500 billion Stargate AI infrastructure initiative alongside [[Tooling/AI-Toolkit/Model Producers/OpenAI|OpenAI]] and SoftBank. [^92012b] This project represents one of the largest private sector investments in AI infrastructure. [^97fa12]
 ### Other Major Cloud Providers
 
 **[[content-areas/AI-Factories-Datacenters/Organizations/Alibaba Cloud]]**, China's largest cloud provider, operates more than 80 availability zones globally and had an 18% market share in China's cloud infrastructure service spend in 2021. [^cc0c70] **Tencent Cloud** operates over 70 availability zones worldwide, while **IBM Cloud** maintains 60+ zones with a focus on hybrid cloud solutions and enterprise services. [^717341]
 
 ## Colocation Providers
 
-[[concepts/Market-Categories/Colocation Services|Colocation]] companies provide shared data center facilities where multiple organizations can house their IT infrastructure, offering an alternative to building proprietary facilities.
+[[content-areas/AI-Factories-Datacenters/Concepts/Colocation Services|Colocation]] companies provide shared data center facilities where multiple organizations can house their IT infrastructure, offering an alternative to building proprietary facilities.
 
 ### Global Colocation Leaders
 
 **[[content-areas/AI-Factories-Datacenters/Organizations/Equinix]]** operates the world's largest network of interconnected data centers with 240+ facilities globally. [^893d57] The company recently announced a €59 million acquisition of BT Group's Irish data center business [^1c8f6b] and continues to expand its International Business Exchange (IBX) network with industry-leading uptime of >99.9999%. [^b88f09]
 
-**[[Digital Realty]]** operates 312 data centers comprising 2,431 MW of IT capacity and 39.5 million net rentable square feet globally. [^893d57] The company serves over 5,000 customers across multiple continents and maintains key subsidiaries including Interxion, Ascenty, and Teraco Data Environments. [^893d57]
+**[[content-areas/AI-Factories-Datacenters/Organizations/Digital Realty]]** operates 312 data centers comprising 2,431 MW of IT capacity and 39.5 million net rentable square feet globally. [^893d57] The company serves over 5,000 customers across multiple continents and maintains key subsidiaries including Interxion, Ascenty, and Teraco Data Environments. [^893d57]
 
 **[[content-areas/AI-Factories-Datacenters/Organizations/NTT Global Data Centers|NTT Global Data Centers]]** operates 95 data centers with over 1,100 MW of IT power capacity worldwide. [^893d57] The company has announced multi-billion dollar global expansion plans, including a proposed acquisition of nearly 70 acres in Malaysia for one of the largest data center campuses in the Asia-Pacific region. [^1c8f6b]
 
@@ -60,7 +60,7 @@ The largest data center operators globally are **hyperscale cloud providers** wh
 
 **[[content-areas/AI-Factories-Datacenters/Organizations/Vantage Data Centers]]** secured more than $13 billion in debt and equity investments in 2024 to support global expansion. [^8c760b] The company focuses on hyperscale data center campuses and has established significant presence in North America, Europe, and Asia-Pacific regions. [^8c760b]
 
-**[[Tooling/AI-Toolkit/AI Infrastructure/CyrusOne]]** operates more than 55 data centers with approximately 1,000 MW of power capacity across the United States and Europe. [^893d57] **QTS Data Centers** operates hybrid colocation facilities and has announced multibillion-dollar projects including a major development in Northumberland, England. [^1c8f6b]
+**[[content-areas/AI-Factories-Datacenters/Organizations/CyrusOne]]** operates more than 55 data centers with approximately 1,000 MW of power capacity across the United States and Europe. [^893d57] **QTS Data Centers** operates hybrid colocation facilities and has announced multibillion-dollar projects including a major development in Northumberland, England. [^1c8f6b]
 
 ## Regional Market Leaders
 

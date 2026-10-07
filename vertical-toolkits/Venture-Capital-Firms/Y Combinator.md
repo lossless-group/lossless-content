@@ -1,12 +1,17 @@
 ---
 date_created: 2025-03-30
-date_modified: 2026-05-22
-tags: [Venture-Capital-Firms, Accelerator-Programs]
+date_modified: 2026-10-06
+tags:
+  - Venture-Capital-Firms
+  - Accelerator-Programs
 site_uuid: ab8c36fe-574c-4a4c-a74b-bf16d7fe0790
 publish: true
-title: "Y Combinator"
+title: Y Combinator
 slug: y-combinator
 at_semantic_version: 0.0.0.1
+aliases:
+  - Y-Combinator
+  - YC
 ---
 
 [[vertical-toolkits/Venture-Capital-Firms/Y Combinator|Y Combinator]] has most of their [[Sources/Media/Startup School|Startup School]] lectures on [[Sources/Media/YouTube|YouTube]]

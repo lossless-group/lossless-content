@@ -1,6 +1,6 @@
 ---
 date_created: 2025-11-30
-date_modified: 2026-05-23
+date_modified: 2026-10-06
 site_uuid: bbd39c60-c0de-4594-969d-abbbcfaa323c
 publish: true
 title: Arvix
@@ -63,6 +63,7 @@ The key distinction is that **arXiv is not a journal**—it's a public server fo
 
 Since its inception, no research community that has adopted arXiv for rapid dissemination has subsequently abandoned it, indicating its fundamental value in modern scientific communication. [^or0d5a]
 
+
 ### Citations
 
 [^mhopc8]: 2025, Nov 30. [arXiv - Wikipedia](https://en.wikipedia.org/wiki/ArXiv). Published: 2002-02-11 | Updated: 2025-11-30
@@ -75,6 +76,6 @@ Since its inception, no research community that has adopted arXiv for rapid diss
 
 [5]: 2025, Nov 30. [License and copyright - arXiv info](https://info.arxiv.org/help/license/index.html). Published: 2000-01-01 | Updated: 2025-11-30
 
-
+[^5lijlb]: 2026, Oct 05. "[About arXiv - arXiv info | Info](https://info.arxiv.org/about/index.html)". our strong community of volunteer moderators.. [Info](https://info.arxiv.org).
 
 ***

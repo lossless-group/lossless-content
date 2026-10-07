@@ -63,7 +63,7 @@ The exact first use of the phrase **“diagnostic AI agents”** is not establis
 
 - **2025 — From anomaly detection to autonomous observability:** The autonomous-observability framing expanded monitoring agents from metric analysis into root-cause localization and possible remediation; one described deployment used separate metric and root-cause agents connected to telemetry, traces, and dependency knowledge.[14]
 - **2025–2026 — Tool-using and multi-agent RCA:** Research increasingly decomposed diagnosis into specialized activities such as runtime data collection, data analysis, hypothesis generation, validation, and report writing.[10][12]
-- **2026 — Evaluation of investigative process:** New benchmarks began measuring not only whether agents reached the correct diagnosis but also whether they gathered sufficient evidence and followed a plausible investigative path. [[Cloud-OpsBench]] reported a gap between joint RCA accuracy and evidence-closure rates, indicating that a correct final answer can overstate the quality of an agent’s reasoning process.[4]
+- **2026 — Evaluation of investigative process:** New benchmarks began measuring not only whether agents reached the correct diagnosis but also whether they gathered sufficient evidence and followed a plausible investigative path. [[Sources/Standards-and-Specs/Cloud-OpsBench]] reported a gap between joint RCA accuracy and evidence-closure rates, indicating that a correct final answer can overstate the quality of an agent’s reasoning process.[4]
 
 # Best Real-World Examples
 
