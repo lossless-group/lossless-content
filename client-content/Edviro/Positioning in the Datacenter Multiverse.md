@@ -1,6 +1,17 @@
 ---
 date_created: 2026-10-04
-date_modified: 2026-10-04
+date_modified: 2026-10-07
+site_uuid: 10cb92a8-8c6c-44a7-bb2c-bc5b7d04f5a0
+publish: true
+title: Positioning in The Datacenter Multiverse
+slug: positioning-in-the-datacenter-multiverse
+at_semantic_version: 0.0.1.1
+for_clients:
+  - Edviro
+tags:
+  - Datacenter-Operations
+  - Operations-Software-DCIM-AI-Ops
+  - AI-for-Built-Environment
 ---
 
 # Data Center Operations Intelligence: Market Scan and Entry Options for Edviro
@@ -118,20 +129,20 @@ Notes on the hot segments:
 
 ### 6b. Venture-backed and independent specialists
 
-| Company | Segment | Stage / funding (as reported) | Note |
-|---|---|---|---|
-| Aravolta | Unified platform | Seed, $5.1M (Dec 2025); YC Spring 2025 | Colo, modular/edge, lenders. Closest neighbor |
-| Phaidra | Autonomous control | Series B, $50M+ (Oct 2025) | NVIDIA-aligned; DeepMind lineage |
-| Emerald AI | Grid flexibility | Series A, $150M at $1.05B (Aug 2026) | Needs verified flexibility |
-| Etalytics | Cooling optimization | Series A, €16M total | Physics + ML digital twin |
-| Lucend | Thermal advisory | Seed, $3.3M (Jan 2026) | Human-in-loop, brownfield colo |
-| EkkoSense | Thermal analytics + sensors | PE-backed | Mature, enterprise footprint |
-| Niv-AI | Power orchestration | Seed, $12M (Mar 2026) | High-frequency power sensing |
-| Hammerhead AI | Power orchestration | Seed, $10M | RL controllers, "ORCA" |
-| Virtana | AI factory observability | Late-stage private | Dell, HPE, Nutanix, AWS integrations in 2026 |
-| MCIM (ex-Fulcrum Collaborations) | Critical-facility CMMS | Private; rebranded Jan 2026 | Claims 1M+ assets, 7 GW managed |
-| Claros | Power electronics | Seed, $30M | Hardware, not software; ecosystem signal |
-| Fortiv | Business continuity | Early | Adjacent buyer (resilience), not a facilities tool |
+| Company                          | Segment                     | Stage / funding (as reported)          | Note                                               |
+| -------------------------------- | --------------------------- | -------------------------------------- | -------------------------------------------------- |
+| Aravolta                         | Unified platform            | Seed, $5.1M (Dec 2025); YC Spring 2025 | Colo, modular/edge, lenders. Closest neighbor      |
+| Phaidra                          | Autonomous control          | Series B, $50M+ (Oct 2025)             | NVIDIA-aligned; DeepMind lineage                   |
+| Emerald AI                       | Grid flexibility            | Series A, $150M at $1.05B (Aug 2026)   | Needs verified flexibility                         |
+| Etalytics                        | Cooling optimization        | Series A, €16M total                   | Physics + ML digital twin                          |
+| Lucend                           | Thermal advisory            | Seed, $3.3M (Jan 2026)                 | Human-in-loop, brownfield colo                     |
+| EkkoSense                        | Thermal analytics + sensors | PE-backed                              | Mature, enterprise footprint                       |
+| [[Niv-AI]]                       | Power orchestration         | Seed, $12M (Mar 2026)                  | High-frequency power sensing                       |
+| Hammerhead AI                    | Power orchestration         | Seed, $10M                             | RL controllers, "ORCA"                             |
+| Virtana                          | AI factory observability    | Late-stage private                     | Dell, HPE, Nutanix, AWS integrations in 2026       |
+| MCIM (ex-Fulcrum Collaborations) | Critical-facility CMMS      | Private; rebranded Jan 2026            | Claims 1M+ assets, 7 GW managed                    |
+| Claros                           | Power electronics           | Seed, $30M                             | Hardware, not software; ecosystem signal           |
+| Fortiv                           | Business continuity         | Early                                  | Adjacent buyer (resilience), not a facilities tool |
 
 ### 6c. Partner candidates
 
@@ -158,9 +169,9 @@ Notes on the hot segments:
 | Company                                                                         | What it actually is                                                                                                                               | Usefulness as a comp                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[[content-areas/AI-Factories-Datacenters/Organizations/Aravolta\|Aravolta]]** | Unified BMS/EPMS/SCADA/DCIM/NOC for colo, modular and lenders. Hardware node as "virtual PLC," gated control writes, tenant billing, AI assistant | **Direct.** Shows the consolidation play is funded and shipping. Also a likely integration partner                                                                                                               |
-| **[[content-areas/AI-Factories-Datacenters/Organizations/Virtana]]**                                                                 | Hybrid infrastructure observability extended to "AI Factory Observability" across GPUs, storage, network, with power and thermal signals          | **Adjacent.** IT-side buyer. Useful as proof that the IT and facility data models are converging from the top down                                                                                               |
-| **Fortiv**                                                                      | AI-native business continuity management: BIA collection by voice agent, tabletop exercises, incident response                                    | **Analog, not competitor.** Demonstrates an agentic wedge into a process-heavy, audit-driven function. The MOP/SOP/incident side of data center ops has the same texture                                         |
-| **SailPoint**                                                                   | Identity security and governance                                                                                                                  | **Weak comp.** Not scanned in depth. The useful analogy is governance: who or what is allowed to change a setpoint, with an audit trail. Access governance for agents acting on OT systems is an unbuilt product |
+| **[[content-areas/AI-Factories-Datacenters/Organizations/Virtana\|Virtana]]**   | Hybrid infrastructure observability extended to "AI Factory Observability" across GPUs, storage, network, with power and thermal signals          | **Adjacent.** IT-side buyer. Useful as proof that the IT and facility data models are converging from the top down                                                                                               |
+| **[[Fortiv]]**                                                                  | AI-native business continuity management: BIA collection by voice agent, tabletop exercises, incident response                                    | **Analog, not competitor.** Demonstrates an agentic wedge into a process-heavy, audit-driven function. The MOP/SOP/incident side of data center ops has the same texture                                         |
+| **[[SailPoint]]**                                                               | Identity security and governance                                                                                                                  | **Weak comp.** Not scanned in depth. The useful analogy is governance: who or what is allowed to change a setpoint, with an audit trail. Access governance for agents acting on OT systems is an unbuilt product |
 
 ---
 
