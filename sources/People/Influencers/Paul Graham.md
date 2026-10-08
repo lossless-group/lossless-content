@@ -7,9 +7,10 @@ title: Paul Graham
 slug: paul-graham
 at_semantic_version: 0.0.1.1
 date_created: 2025-02-01
-date_modified: 2026-05-28
+date_modified: 2026-10-07
 tags:
-  - Influencer-Favorite
+  - Influencer-Favorites
+  - Influential-Business-Leaders
 ---
 
 # Paul Graham

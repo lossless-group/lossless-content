@@ -71,7 +71,7 @@ Different authors use slightly different breakdowns, but they converge on a simi
 
 Common elements include:
 
-- **[[concepts/Agent Orchestration|Agent Orchestration]] loop** (agent loop, planner/executor) that turns model calls into multi‑step workflows. [^8bmnhu] [^9t2uix]
+- **[[concepts/Explainers for AI/Agent Orchestration|Agent Orchestration]] loop** (agent loop, planner/executor) that turns model calls into multi‑step workflows. [^8bmnhu] [^9t2uix]
 - **Tools / actions / skills** such as shell commands, database queries, APIs, or SaaS actions. [^s3fjtf] [^p3e02h] [^f6chqd] [^8bmnhu] [^9t2uix]
 - **Context management** (retrieval, compaction, tiered caches, prompt assembly) governing what the model sees at each step. [^s3fjtf] [^e4uow5] [^8bmnhu] [^9t2uix]
 - **Memory and state** (short‑term conversation, long‑term knowledge, task state, logs). [^8bmnhu] [^9t2uix]

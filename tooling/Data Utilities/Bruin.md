@@ -56,7 +56,7 @@ financials:
     date: 2023-10-08
 ```
 
-Bruin is a data infrastructure and analytics platform positioned as an [[AI data team]] that connects to company data, answers questions, builds dashboards and briefs, and distributes insights through workplace and messaging channels. It can also monitor sources, pause problematic spend, repair broken reports, and notify the appropriate person. [^E1]
+Bruin is a data infrastructure and analytics platform positioned as an [[AI Data Teams]] that connects to company data, answers questions, builds dashboards and briefs, and distributes insights through workplace and messaging channels. It can also monitor sources, pause problematic spend, repair broken reports, and notify the appropriate person. [^E1]
 
 ## Value Proposition & Features
 

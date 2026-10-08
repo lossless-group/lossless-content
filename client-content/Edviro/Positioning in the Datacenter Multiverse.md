@@ -1,6 +1,6 @@
 ---
 date_created: 2026-10-04
-date_modified: 2026-10-07
+date_modified: 2026-10-08
 site_uuid: 10cb92a8-8c6c-44a7-bb2c-bc5b7d04f5a0
 publish: true
 title: Positioning in The Datacenter Multiverse
@@ -17,15 +17,15 @@ tags:
 # Data Center Operations Intelligence: Market Scan and Entry Options for Edviro
 
 **Prepared:** 4 October 2026
-**Scope:** Software that sits on, beside, or above BMS / EPMS / DCIM in data centers. Legacy categories, emerging categories, company hitlists, gaps, and entry options for a building-intelligence startup with education and government traction.
+**Scope:** Software that sits on, beside, or above [[concepts/Market-Categories/Building Management Systems|BMS]] / EPMS / [[concepts/Market-Categories/Data Center Infrastructure Management Systems|DCIM]] in data centers. Legacy categories, emerging categories, company hitlists, gaps, and entry options for a building-intelligence startup with education and government traction.
 **Method:** Web scan of vendor sites, trade press, analyst and consulting publications, 3–4 October 2026. Funding figures are as reported by the cited outlets. Anything marked † comes from background knowledge and was not re-verified in this scan. Vendor performance claims are vendor claims.
 
 ---
 
 ## 1. Bottom line
 
-1. **The money and the noise are at the AI-factory end. The neglect is everywhere else.** Phaidra, Emerald AI, Niv-AI, Hammerhead and NVIDIA's DSX ecosystem are all chasing hyperscale and neocloud sites. Enterprise-owned data centers still carry 44% of IT workloads (Uptime 2026), and campus, government, healthcare and mid-market colo rooms are being asked to take 30 kW+ racks with legacy plant and thin staff. Almost nobody funded is building for them.
-2. **"Unified DCIM + BMS + EPMS" is already taken, by a better-positioned YC company.** Aravolta ships exactly that, with a hardware node, 25k–42k device templates, SOC 2 Type II, and named colo customers. Edviro should not fight for the system-of-record or the single pane of glass.
+1. **The money and the noise are at the AI-factory end. The neglect is everywhere else.** [[content-areas/AI-Factories-Datacenters/Organizations/Phaidra|Phaidra]], [[content-areas/AI-Factories-Datacenters/Organizations/Emerald AI|Emerald AI]], [[Tooling/AI-Toolkit/AI Infrastructure/Niv-AI|Niv-AI]], [[content-areas/AI-Factories-Datacenters/Organizations/Hammerhead AI|Hammerhead AI]] and NVIDIA's DSX ecosystem are all chasing hyperscale and neocloud sites. Enterprise-owned data centers still carry 44% of IT workloads (Uptime 2026), and campus, government, healthcare and mid-market colo rooms are being asked to take 30 kW+ racks with legacy plant and thin staff. Almost nobody funded is building for them.
+2. **"Unified DCIM + BMS + [[Electrical Power Monitoring Systems|EPMS]]" is already taken, by a better-positioned [[vertical-toolkits/Venture-Capital-Firms/Y Combinator|YC]] company.** Aravolta ships exactly that, with a hardware node, 25k–42k device templates, SOC 2 Type II, and named colo customers. Edviro should not fight for the system-of-record or the single pane of glass.
 3. **Autonomous control is where the capital is, and where operator trust is lowest.** Only 31% of operators trust AI to change equipment settings and 16% to make configuration changes (Uptime 2026). Confidence that AI reduces human error fell 11 points in a year. Edviro's existing loop of diagnose, human review, dispatch, verify is the shape operators say they will accept.
 4. **The clearest open ground is verification.** Capacity claims (how many more kW can this hall take), efficiency claims (did that setpoint change save anything), and flexibility claims (can this site really shed 20% on request) all need an independent, telemetry-backed proof. Lenders, tenants, utilities and insurers are all starting to ask. Edviro's measurement-and-verification DNA is the one thing it has that the data-center natives mostly don't.
 5. **Recommended posture:** enter as an *augmenting* layer, read-only, on top of whatever BMS/DCIM/CMMS exists. Lead with verified capacity headroom for brownfield and campus sites. Partner for data ingestion rather than build 40,000 device drivers. Treat control as a later-stage option, not the pitch.
@@ -72,16 +72,16 @@ From its site and YC launch post:
 
 Data centers run on five or six overlapping systems that were never designed to share a data model. "BEMS" in buildings maps to roughly three separate products here.
 
-| Layer | What it does | Typical buyer | Incumbents | Known weakness |
-|---|---|---|---|---|
-| **BMS / BAS** | Mechanical plant control: chillers, CRAH/CRAC, pumps, towers | Facilities / critical ops | Schneider, Siemens, Honeywell, Johnson Controls, Trane, Carrier (Automated Logic) | Vendor-locked, rule-based logic, per-point pricing |
-| **EPMS** | Electrical monitoring: switchgear, UPS, PDUs, branch circuits | Electrical engineering | Schneider PowerLogic, Eaton, Siemens, ABB† | Siloed from thermal data |
-| **SCADA** | Supervisory control, especially power paths and generators | Critical ops | Ignition†, AVEVA†, vendor HMIs | Proprietary hardware and HMIs |
-| **DCIM** | White-space assets, rack elevations, capacity, power chain | IT / DC ops | Schneider EcoStruxure IT, Nlyte (Carrier), Sunbird, Vertiv Environet, Eaton Brightlayer, Hyperview, Device42, FNT, Cormant | Manual data entry; high shelfware rate; weak facility-side depth |
-| **CMMS / EAM** | Work orders, PMs, MOPs/SOPs, rounds, incident records | Critical facilities management | MCIM, Corrigo (JLL), IBM Maximo†, ServiceNow† | Disconnected from live telemetry |
-| **CFD / design twin** | Thermal and airflow simulation | Design engineering | Cadence Reality DC, Siemens, Dassault, Jacobs | One-off studies that go stale |
-| **IT observability / AIOps** | Server, GPU, network, workload telemetry | Platform / SRE | Virtana, Datadog†, Dynatrace† | Stops at the server chassis |
-| **Workload orchestration** | Job scheduling and placement | ML platform | Slurm, Kubernetes, Run:ai† | Blind to facility constraints |
+| Layer                                                                                                                | What it does                                                  | Typical buyer                  | Incumbents                                                                                                                 | Known weakness                                                   |
+| -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| **[[concepts/Market-Categories/Building Management Systems\|BMS]] / BAS**                                            | Mechanical plant control: chillers, CRAH/CRAC, pumps, towers  | Facilities / critical ops      | Schneider, Siemens, Honeywell, Johnson Controls, Trane, Carrier (Automated Logic)                                          | Vendor-locked, rule-based logic, per-point pricing               |
+| **[[Electrical Power Monitoring Systems\|EPMS]]**                                                                    | Electrical monitoring: switchgear, UPS, PDUs, branch circuits | Electrical engineering         | Schneider PowerLogic, Eaton, Siemens, ABB†                                                                                 | Siloed from thermal data                                         |
+| **SCADA**                                                                                                            | Supervisory control, especially power paths and generators    | Critical ops                   | Ignition†, AVEVA†, vendor HMIs                                                                                             | Proprietary hardware and HMIs                                    |
+| **[[concepts/Market-Categories/Data Center Infrastructure Management Systems\|DCIM]]**                               | White-space assets, rack elevations, capacity, power chain    | IT / DC ops                    | Schneider EcoStruxure IT, Nlyte (Carrier), Sunbird, Vertiv Environet, Eaton Brightlayer, Hyperview, Device42, FNT, Cormant | Manual data entry; high shelfware rate; weak facility-side depth |
+| **[[content-areas/AI-Factories-Datacenters/Organizations/Computerized Maintenance Management Systems\|CMMS]] / EAM** | Work orders, PMs, MOPs/SOPs, rounds, incident records         | Critical facilities management | MCIM, Corrigo (JLL), IBM Maximo†, ServiceNow†                                                                              | Disconnected from live telemetry                                 |
+| **CFD / design twin**                                                                                                | Thermal and airflow simulation                                | Design engineering             | Cadence Reality DC, Siemens, Dassault, Jacobs                                                                              | One-off studies that go stale                                    |
+| **IT observability / AIOps**                                                                                         | Server, GPU, network, workload telemetry                      | Platform / SRE                 | Virtana, Datadog†, Dynatrace†                                                                                              | Stops at the server chassis                                      |
+| **[[Dynamic Workload Orchestration]]**                                                                               | Job scheduling and placement                                  | ML platform                    | Slurm, Kubernetes, Run:ai†                                                                                                 | Blind to facility constraints                                    |
 
 Two structural facts matter. First, the DCIM vendor field has consolidated under equipment makers: Carrier bought Nlyte, Sunbird came out of Raritan/Legrand, and Schneider, Vertiv and Eaton bundle software with gear. Second, the seams between layers are where incidents and stranded capacity live. A breaker trip is an EPMS event, a thermal event, a tenant SLA event and a work order, in four systems.
 
@@ -137,7 +137,7 @@ Notes on the hot segments:
 | Etalytics                        | Cooling optimization        | Series A, €16M total                   | Physics + ML digital twin                          |
 | Lucend                           | Thermal advisory            | Seed, $3.3M (Jan 2026)                 | Human-in-loop, brownfield colo                     |
 | EkkoSense                        | Thermal analytics + sensors | PE-backed                              | Mature, enterprise footprint                       |
-| [[Niv-AI]]                       | Power orchestration         | Seed, $12M (Mar 2026)                  | High-frequency power sensing                       |
+| [[Tooling/AI-Toolkit/AI Infrastructure/Niv-AI]]                       | Power orchestration         | Seed, $12M (Mar 2026)                  | High-frequency power sensing                       |
 | Hammerhead AI                    | Power orchestration         | Seed, $10M                             | RL controllers, "ORCA"                             |
 | Virtana                          | AI factory observability    | Late-stage private                     | Dell, HPE, Nutanix, AWS integrations in 2026       |
 | MCIM (ex-Fulcrum Collaborations) | Critical-facility CMMS      | Private; rebranded Jan 2026            | Claims 1M+ assets, 7 GW managed                    |

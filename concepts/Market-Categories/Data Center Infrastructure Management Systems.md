@@ -1,6 +1,6 @@
 ---
 date_created: 2026-10-04
-date_modified: 2026-10-04
+date_modified: 2026-10-08
 site_uuid: 1300be1c-94ed-4cde-985c-84d2d09c4729
 publish: true
 title: Data Center Infrastructure Management Systems
@@ -10,6 +10,8 @@ cf_last_run: 2026-10-04T18:20:26.673Z
 cf_last_run_model: Perplexity sonar-deep-research
 aliases:
   - DCIM
+  - DCIMs
+  - Data Center Infrastructure Management Platforms
 tags:
   - Operations-Software-DCIM-AI-Ops
 ---

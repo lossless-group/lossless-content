@@ -1,6 +1,6 @@
 ---
 date_created: 2025-01-24
-date_modified: 2026-08-10
+date_modified: 2026-10-07
 site_uuid: 0cd90519-55d0-4380-b7b9-d416ff0cb24a
 title: Software Development with Code Generators
 lede: Code generators are reshaping software development—speeding up delivery while raising new challenges.
@@ -22,6 +22,8 @@ publish: true
 > AI is overhyped in what it CAN do, yet under-hyped in how it transforms what WE do.
 
 For code generation, in addition to the [[Large Language Models]], or perhaps the [[Model Wrappers]], include [[AppGen]], [[Cursor]], [[AgentFarm]], [[Aider]]. 
+
+
 
 [[Acceptance Testing]] with [[Tooling/Software Development/Frameworks/Vitest|Vitest]]
 

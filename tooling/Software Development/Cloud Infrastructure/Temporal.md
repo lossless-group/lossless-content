@@ -53,7 +53,7 @@ It is not primarily for simple stateless request/response services or lightweigh
 - **AWS Step Functions** — cloud-native orchestration alternative for AWS-centric teams.
 - **Netflix Conductor** — orchestration platform for microservice workflows.
 - **Camunda** — BPM/workflow automation platform with stronger business-process orientation.
-- **[[Argo Workflows]]** — Kubernetes-native workflow engine for containerized jobs.
+- **[[Tooling/AI-Toolkit/AI Infrastructure/Argo Workflows]]** — Kubernetes-native workflow engine for containerized jobs.
 
 ## Competitor Table
 

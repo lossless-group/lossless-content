@@ -28,7 +28,7 @@ for_clients:
 
 
 [[concepts/Explainers for AI/AI Cloud Infrastructure|AI Cloud Infrastructure]]
-[[Tooling/Software Development/Cloud Infrastructure/Lambda Labs|Lambda Labs]]
+[[Tooling/AI-Toolkit/AI Infrastructure/Lambda Labs|Lambda Labs]]
 
 
 # Value Proposition & Features

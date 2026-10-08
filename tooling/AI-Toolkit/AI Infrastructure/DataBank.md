@@ -8,7 +8,7 @@ og_site_name: DataBank
 og_type: website
 og_last_fetch: 2026-10-07T00:23:07.136Z
 date_created: 2026-10-04
-date_modified: 2026-10-07
+date_modified: 2026-10-08
 site_uuid: 9e1820a6-e9c1-4718-8099-a2ec1cce7796
 publish: true
 title: DataBank
@@ -28,7 +28,8 @@ tags:
 
 ## Retrieved sources
 
-### [^E1] DataBank — https://databank.com/
+###  DataBank —
+https://databank.com/ [^E1]
 
 ```yaml
 founded_year: "2005"
@@ -57,7 +58,7 @@ DataBank provides enterprise colocation, managed cloud, interconnection, and net
 
 Core architecture combines data centers with carrier connectivity, cloud on-ramps, private networking, and controlled physical environments. DataBank describes colocation as an anchor for hybrid architectures because it connects private infrastructure, branch networks, partner systems, and multiple clouds. [^46v1jn] [^hy72q5]
 
-- **Colocation:** Secure facilities for enterprise, technology-provider, and content-provider workloads. [^91atky] [^gautk6]
+- **[[content-areas/AI-Factories-Datacenters/Concepts/Colocation Services|Colocation]]:** Secure facilities for enterprise, technology-provider, and content-provider workloads. [^91atky] [^gautk6]
 - **Interconnection:** Meet-me rooms, multiple carriers, redundant fiber entrances, and connectivity to cloud providers. [^wg2pyp] [^gautk6]
 - **Managed cloud:** [[Managed Cloud Services]] integrated with colocation and network infrastructure. [^wg2pyp]
 - **Network services:** Internet access, SD-WAN, private connectivity, and cloud on-ramps. [^hy72q5] [^5fyk0p]
@@ -76,7 +77,7 @@ As of October 7, 2026,
 - **September 22, 2026:** DataBank announced Ben Lowe as CFO; current CFO Kevin Ooley is scheduled to become CEO on January 1, 2027, while CEO Raul Martynek is scheduled to become executive chairman. [^gautk6]
 - **September 23, 2026:** DataBank highlighted DFW8, a 40.5-megawatt, three-story facility under construction in Plano, Texas, described as its first multistory data center. [^iu39x1]
 - **2026:** DataBank and Goodman Group formed a 50/50 joint venture for a 32-megawatt facility in Vernon, California, with phased capacity expected from December 2026 through September 2027. [^91atky]
-- **2026:** DataBank filed plans for Project Indo, a proposed 200-megawatt, approximately 1.1-million-square-foot campus in Cartersville, Georgia. [^91atky]
+- **2026:** DataBank filed plans for [[Project Indo]], a proposed 200-megawatt, approximately 1.1-million-square-foot campus in Cartersville, Georgia. [^91atky]
 
 ## Recent Developments
 

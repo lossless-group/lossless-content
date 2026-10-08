@@ -20,7 +20,7 @@ for_clients:
   - Alpha-JWC
 ---
 [[client-content/Hypernova/Files/Portfolio/Aalo Atomics|Aalo Atomics]]
-[[Tooling/Software Development/Cloud Infrastructure/Lambda Labs|Lambda Labs]]
+[[Tooling/AI-Toolkit/AI Infrastructure/Lambda Labs|Lambda Labs]]
 [[Tooling/AI-Toolkit/AI Infrastructure/Vast.ai|Vast.ai]]
 
 ***

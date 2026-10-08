@@ -12,7 +12,7 @@ cf_last_run_model: Perplexity sonar-pro
 ---
 
 [[Tooling/AI-Toolkit/AI Infrastructure/Vast.ai|Vast.ai]]
-[[Tooling/Software Development/Cloud Infrastructure/Lambda Labs|Lambda Labs]]
+[[Tooling/AI-Toolkit/AI Infrastructure/Lambda Labs|Lambda Labs]]
 [[Tooling/AI-Toolkit/AI Infrastructure/Modal|Modal]]
 [[SiliconCloud]]
 [[SiliconFlow]]

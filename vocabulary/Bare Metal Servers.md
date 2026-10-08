@@ -2,8 +2,10 @@
 aliases:
   - Bare Metal Servers
   - Bare Metal
+  - bare-metal
+  - bare metal
 date_created: 2026-06-01
-date_modified: 2026-06-02
+date_modified: 2026-10-08
 tags:
   - Data-Infrastructure
   - Cloud-Infrastructure

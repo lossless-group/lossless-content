@@ -20,7 +20,7 @@ og_published: "2025-12-01"
 og_last_fetch: "2026-08-18T01:17:44.533Z"
 ---
 [[Vocabulary/Agentic AI|Agentic AI]]
-[[concepts/Agent Orchestration|Agent Orchestration]]
+[[concepts/Explainers for AI/Agent Orchestration|Agent Orchestration]]
 
 
 ![](https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-05/An_Empirical_Study_of_Agent_Developer_Practices_in_AI_Agent_Frameworks_content_1778134005386_VO-0M0VEB.webp)

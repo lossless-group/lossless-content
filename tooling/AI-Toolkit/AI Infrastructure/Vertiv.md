@@ -38,7 +38,7 @@ Core features, in priority order:
 - **[[content-areas/AI-Factories-Datacenters/Concepts/Thermal Management|Thermal management]]:** Perimeter, in-row, liquid-cooling, and coolant-distribution systems for conventional and high-density workloads. [^zcp4bt]
 - **[[content-areas/AI-Factories-Datacenters/Concepts/AI Factories|AI-Factory]] infrastructure:** Vertiv OneCore is described as a prefabricated design spanning grid-level power delivery through chip-level thermal management. [^k97wks]
 - **Modular and prefabricated systems:** Integrated solutions such as SmartCabinet target deployments requiring packaged power, cooling, and IT infrastructure. [^zcp4bt]
-- **[[High-density rack]] infrastructure:** Vertiv’s rack portfolio addresses deeper, heavier AI and HPC equipment and integrates airflow and cable-management capabilities. [^i8aq5b]
+- **[[High-Density Racks]] infrastructure:** Vertiv’s rack portfolio addresses deeper, heavier AI and HPC equipment and integrates airflow and cable-management capabilities. [^i8aq5b]
 - **Monitoring and controls:** Vertiv provides infrastructure-management software and controls alongside physical power and cooling systems. [^3k4qms]
 - **Engineering and lifecycle services:** The company’s offering includes commissioning, maintenance, fluid management, and other services for critical facilities. [^3vaayy]
 

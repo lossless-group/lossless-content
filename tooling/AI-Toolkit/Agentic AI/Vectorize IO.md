@@ -8,7 +8,7 @@ og_site_name: Vectorize
 og_type: website
 og_last_fetch: 2026-05-26T23:18:07.248Z
 date_created: 2026-05-26
-date_modified: 2026-05-26
+date_modified: 2026-10-07
 tags:
   - Vector-Databases
   - Memory-Layers
@@ -31,9 +31,10 @@ cf_last_run: 2026-05-26T23:20:15.895Z
 cf_last_run_model: Perplexity sonar-pro
 ---
 
+
 # Value Proposition & Features
 
-Vectorize IO is the company behind **Hindsight**, an open‑source “[[concepts/Explainers for AI/Memory Layers|Memory Layer]] for [[Vocabulary/Agentic AI|AI Agents]]” that gives LLM agents long‑term, structured memory inspired by human memory. [^sigj0g] [^5tzb10] It focuses on **persistent, queryable memory** for agents—facts, entities, relationships, and timelines—rather than just retrieval‑augmented document search. [^sigj0g] [^5tzb10] The system combines temporal, semantic, and entity‑centric memory on top of [[Tooling/Software Development/Databases/Postgres|Postgres]]SQL + pgvector, positioned as “open source agent memory” so agents “learn from experience, recall what matters, and get better over time.”[^sigj0g]
+Vectorize IO is the company behind **[[Tooling/Software Development/Developer Experience/DevTools/Hindsight]]**, an open‑source “[[concepts/Explainers for AI/Memory Layers|Memory Layer]] for [[Vocabulary/Agentic AI|AI Agents]]” that gives LLM agents long‑term, structured memory inspired by human memory. [^sigj0g] [^5tzb10] It focuses on **persistent, queryable memory** for agents—facts, entities, relationships, and timelines—rather than just retrieval‑augmented document search. [^sigj0g] [^5tzb10] The system combines temporal, semantic, and entity‑centric memory on top of [[Tooling/Software Development/Databases/Postgres|Postgres]]SQL + pgvector, positioned as “open source agent memory” so agents “learn from experience, recall what matters, and get better over time.”[^sigj0g]
 
 Core product capabilities center on Hindsight’s **Temporal + Semantic + Entity Memory Architecture**, which stores facts, tracks entities/relationships, and handles temporal questions like “what happened last spring?”[^sigj0g] It provides SDKs and integrations (including a Perplexity MCP connector) so developers can plug persistent memory into existing LLM agents and apps. [^sigj0g] [^5tzb10] The platform also exposes opinion/trait modeling, letting agents form configurable “dispositions” that shape how stored experiences translate into future behavior. [^sigj0g]
 

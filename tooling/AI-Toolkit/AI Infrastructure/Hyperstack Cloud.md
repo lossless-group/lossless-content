@@ -119,7 +119,7 @@ It is likely not ideal for organizations that require **full‑stack managed ML 
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | [RunPod]                                                          | GPU cloud platform offering on‑demand and serverless GPU instances for AI. [4][6]    |
 | [Vast.ai]                                                         | GPU rental marketplace aggregating third‑party hosts for low‑cost compute. [6][8]    |
-| [[Tooling/Software Development/Cloud Infrastructure/Lambda Labs\|Lambda Labs]] | Deep‑learning‑focused GPU cloud provider with managed images and tooling. [7][8]     |
+| [[Tooling/AI-Toolkit/AI Infrastructure/Lambda Labs\|Lambda Labs]] | Deep‑learning‑focused GPU cloud provider with managed images and tooling. [7][8]     |
 | [CoreWeave]                                                       | Specialized GPU cloud for AI and HPC, frequently used for large LLM training. [2]    |
 | [Thunder Compute]                                                 | Cost‑optimized GPU cloud highlighted for having very low H100 on‑demand pricing. [2] |
 

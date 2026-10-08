@@ -9,7 +9,7 @@ at_semantic_version: 0.0.0.1
 tags: [Vertical-Thought-Leaders]
 ---
 [[The Four Steps to the Epiphany]]
-[[The Startup Owner's Manual]]
+[[Sources/Books/The Startup Owner's Manual]]
 
 
 ***
