@@ -58,7 +58,7 @@ From its site and YC launch post:
 
 - **Positioning:** "AI-powered facilities operations." Signals (alarms, meter anomalies, staff texts) become reviewed work orders, dispatched technicians and verified fixes. Vendor-agnostic across BMS/BAS, utility data, and maintenance logs. Can act as the [[content-areas/AI-Factories-Datacenters/Organizations/Computerized Maintenance Management Systems|CMMS]] or integrate with one.
 - **Traction:** 34 live sites, about $400K in identified or verified savings, two named [[K-12 Education]] district logos. Origin story is a utility-bill audit that found roughly $360K in gas overbilling.
-- **Data center page (already live):** physics-based thermal model ([[Physics-Based Models]]) calibrated on existing telemetry; answers "how many more racks before cooling is the constraint"; one-pod pilot; explicitly does *not* control the plant.
+- **Data center page (already live):** physics-based thermal model ([[concepts/Explainers for AI/Physics-Based Models]]) calibrated on existing telemetry; answers "how many more racks before cooling is the constraint"; one-pod pilot; explicitly does *not* control the plant.
 - **YC framing:** "world model" of a facility that simulates interventions before they are made, with agents coordinating approvals and work orders, and verification against real meter and billing data. Asking for data center design partners with power or cooling constraints.
 
 **Read:** the product already rhymes with the right problem. The data center page is narrower than the YC narrative (thermal headroom only). The work-order and [[content-areas/AI-Factories-Datacenters/Concepts/Measurement and Verification]] machinery, which is the differentiated part, is not yet translated into data center language.

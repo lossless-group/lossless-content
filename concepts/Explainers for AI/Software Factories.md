@@ -1,6 +1,6 @@
 ---
 date_created: 2026-08-19
-date_modified: 2026-08-21
+date_modified: 2026-10-08
 tags:
   - Software-Factories
   - Agentic-Engineering
@@ -29,7 +29,9 @@ for_clients:
 
 [[concepts/Explainers for AI/Agentic Engineering|Agentic Engineering]]
 [[concepts/Explainers for AI/Loop Engineering|Loop Engineering]]
-[[concepts/Explainers for AI/Graph Engineering]]
+[[concepts/Explainers for AI/Graph Engineering|Graph Engineering]]
+
+[[Tooling/AI-Toolkit/Generative AI/Code Generators/Macroscope]]
 
 
 _“Software factories” in [[concepts/Explainers for AI/Loop Engineering|Loop Engineering]] are agentic AI-powered development systems where connected verification loops turn code production into an instrumented, repeatable, quality‑gated workflow rather than a series of ad‑hoc prompts or tickets. [^pq49kl] [^sv5ko2]_

@@ -1,6 +1,6 @@
 ---
 date_created: 2025-04-15
-date_modified: 2026-06-19
+date_modified: 2026-10-08
 site_uuid: ecd2eff9-ef1a-475f-9b30-1c33c64ae8a6
 title: "The Quest for Better Batteries"
 lede: "The race for better batteries powers the future—every breakthrough could change the world."
@@ -19,6 +19,7 @@ authors:
 publish: true
 slug: the-quest-for-better-batteries
 ---
+[[Digital Twins]]
 
 2023, May 10. [How Sodium-Ion Batteries May Challenge Lithium](https://youtu.be/RQE56ksVBB4?si=eKHm0ph7iuG3egdd). CNBC, [[YouTube]]
 
