@@ -1,5 +1,5 @@
 ---
-date_modified: 2026-07-25
+date_modified: 2026-10-08
 site_uuid: d284f36a-e79f-42ba-8ee2-75929e7bfd18
 date_created: 2025-04-06
 cf_last_run: "2026-05-28T05:25:29.983Z"
@@ -16,7 +16,7 @@ title: "Software Engineering Management"
 slug: software-engineering-management
 at_semantic_version: 0.0.1.1
 ---
-
+[[concepts/Explainers for Tooling/Development Sandboxes|Sandboxes]]
 
 
 [[Principal Engineer]]

@@ -1,9 +1,12 @@
 ---
-date_modified: 2026-07-14
+date_modified: 2026-10-09
 site_uuid: fa7cd803-00fb-4b9f-bc02-3ed0b2a11478
 date_created: 2025-04-06
 aliases:
   - Data Streaming
+  - Streams
+  - streams
+  - data streams
 publish: true
 title: Streaming Data
 slug: streaming-data
@@ -19,8 +22,6 @@ tags:
 ---
 
 # Defining and Describing Streaming Data
-
-![Architecture diagram showing streaming data flowing from mobile apps and IoT sensors into a Kafka-like event bus, then into real-time analytics dashboards used by a product team](https://coderefinery.github.io/manuals/_builds/singlehtml/_images/team_status.png)
 
 *_In innovation and startup contexts, **streaming data** usually means a continuously generated flow of digital events (clicks, sensor readings, transactions, logs) that are captured and processed in real time or near real time to enable timely decisions and product behavior.*[^7ksh58] [^2kp6fw] [^8f63ru] [^4ttt3j]
 
@@ -43,13 +44,13 @@ Streaming data applies when information is **emitted incrementally and continuou
 
 **Definition:** Use of continuous data feeds inside analytics products and monitoring platforms, where dashboards and alerting systems update as new events arrive rather than on a refresh schedule. [^2kp6fw] [^9ds4td] [^8f63ru] [^bo8y99]
 
-- Real-time analytics vendors describe streaming data architectures where “real-time data is processed as soon as it is received, allowing for immediate insights and actions to be taken,” powering dashboards, anomaly detection, and operational decision-making. [^9ds4td] [^8f63ru]
+- [[concepts/Explainers for Tooling/Real-Time Analytics|Real-Time Analytics]] vendors describe streaming data architectures where “real-time data is processed as soon as it is received, allowing for immediate insights and actions to be taken,” powering dashboards, anomaly detection, and operational decision-making. [^9ds4td] [^8f63ru]
 - In this sense, streaming data is often used to feed a **single main source for real-time analytics and information** from heterogeneous inputs like logs, transactions, and sensor data. [^bo8y99]
 - For innovation consultants, this sense matters when advising founders on instrumenting products and operations—e.g., designing telemetry and alerting around continuous streams instead of relying on periodic reports. [^2kp6fw] [^9ds4td] [^bo8y99]
 
 ### 2. Streaming data in event streaming platforms
 
-**Definition:** Data represented as streams of events flowing through specialized infrastructure (Kafka, Kinesis, Pulsar, Event Hubs), which combines publish/subscribe, durable storage, and stream processing capabilities. [^2kp6fw] [^de61cz] [^lcrjg3] [^gomoi8]
+**Definition:** Data represented as streams of events flowing through specialized infrastructure ([[Tooling/Data Utilities/Kafka|Kafka]], Kinesis, Pulsar, Event Hubs), which combines publish/subscribe ([[PubSub]], durable storage, and stream processing capabilities. [^2kp6fw] [^de61cz] [^lcrjg3] [^gomoi8]
 
 - An event streaming platform such as Kafka is described as “an event streaming platform that combines publish/subscribe, storage, and stream processing capabilities” and is “designed to handle trillions of events a day,” illustrating the scale and centrality of streaming data in modern architectures. [^de61cz] [^lcrjg3]
 - Cloud and tooling vendors call their services “fully managed real-time data streaming platforms” or “fully managed real-time streaming service,” emphasizing that they collect, ingest, and process sequences of data from various sources in real time to extract meaning and insight. [^riv34n] [^de61cz] [^lcrjg3] [^gomoi8]
@@ -73,16 +74,15 @@ Streaming data applies when information is **emitted incrementally and continuou
   - **Real-time data streaming**: Vendor-preferred phrase for the combination of continuous collection, ingestion, and processing in real time. [^fmavt6] [^riv34n] [^9vr68w]
 
 - **Antonyms**
-  - **Batch data / batch processing**: Data collected over a period and processed “all at once” at scheduled intervals, leading to hours or days of latency instead of milliseconds or seconds. [^9ds4td] [^8f63ru] [^9vr68w]
+  - **Batch data / [[batch processing]]**: Data collected over a period and processed “all at once” at scheduled intervals, leading to hours or days of latency instead of milliseconds or seconds. [^9ds4td] [^8f63ru] [^9vr68w]
   - **Static data**: Snapshots or periodically refreshed datasets that do not reflect continuous change and are not processed as events. [^9ds4td] [^8f63ru]
 
 - **Adjacent terms**
   - [[Stream processing]] — computation model and systems that operate on streaming data in motion. [^2kp6fw] [^8f63ru] [^9vr68w]
-  - [[concepts/Event-Driven Architecture|Event-Driven Architecture]] — infrastructure (e.g., [[Tooling/Data Utilities/Kafka|Kafka]], Kinesis, Pulsar) providing publish/subscribe, storage, and processing for event streams. [^de61cz] [^lcrjg3] [^gomoi8]
+  - [[concepts/Event-Driven Architecture|Event-Driven Architecture]] — infrastructure (e.g., [[Tooling/Data Utilities/Kafka|Kafka]], [[Kinesis]], [[Pulsar]]) providing publish/subscribe, storage, and processing for event streams. [^de61cz] [^lcrjg3] [^gomoi8]
   - [[Real-time analytics]] — analytical systems consuming streaming data for up-to-the-second insight. [^2kp6fw] [^9ds4td] [^bo8y99]
-  - [[Vocabulary/Data Pipelines|Data Pipelines]] — end-to-end flow of data from sources to sinks; can be batch or streaming. [^2kp6fw] [^9ds4td]
-  - [[Vocabulary/Telemetry Data|Telemetry Data]]
-  - — instrumentation of logs and metrics often delivered as streams for monitoring. [^2kp6fw] [^9ds4td] [^bo8y99]
+  - [[Vocabulary/Data Pipelines|Data Pipelines]] — [[Vocabulary/Data Pipelines|Data Pipelines]] — end-to-end flow of data from sources to sinks; can be batch or streaming. [^2kp6fw] [^9ds4td]
+  - [[Vocabulary/Telemetry Data|Telemetry Data]] — instrumentation of logs and metrics often delivered as streams for monitoring. [^2kp6fw] [^9ds4td] [^bo8y99]
   - [[Vocabulary/Internet of Things|IoT]] — sensor-generated streaming data from devices, often requiring low-latency processing. [^7ksh58] [^2kp6fw] [^bo8y99]
 
 # Usage in Practice

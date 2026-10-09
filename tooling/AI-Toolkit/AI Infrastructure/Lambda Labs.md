@@ -72,7 +72,7 @@ The reported equity total exceeds $2.3 billion through Series E. [^qqjgq6] Debt 
 [[Sources/People/Andrej Karpathy|Andrej Karpathy]]  
 [[Alumni Ventures]]  
 [[ARK Invest]]  
-[[In-Q-Tel]]  
+[[organizations/In-Q-Tel]]  
 [[organizations/Nvidia|NVIDIA]]  
 SGW  
 Super Micro Computer  

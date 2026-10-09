@@ -1,15 +1,18 @@
 ---
 url: https://azure.microsoft.com/en-us/products/cosmos-db
 date_created: 2026-06-18
-date_modified: 2026-07-23
+date_modified: 2026-10-09
 site_uuid: a6911c04-9781-4ecc-8fb1-e6bce7a3ff61
 title: CosmosDB
 slug: cosmosdb
 at_semantic_version: 0.0.0.1
 tags:
   - Databases
+  - NoSQL-Databases
+  - Document-Databases
 cf_last_run: 2026-07-23T18:34:48.590Z
 cf_last_run_model: Perplexity sonar-pro
+parent_org: "[[organizations/Microsoft|Microsoft]]"
 ---
 
 # Value Proposition & Features
@@ -28,7 +31,7 @@ Priority feature bullets:
 - **Elastic, independent scaling of throughput and storage** with options like provisioned throughput, autoscale, and serverless to match workload patterns. [^1gnpe0] [^vlio1s]
 - **Comprehensive SLAs** covering **throughput, latency, availability (up to 99.999%), and consistency**, uncommon among cloud databases. [^9sdk23] [^1gnpe0] [^3xvxzd]
 - **Multi-model support** for document, key-value, graph, and column-family data, solving large-scale distributed application storage problems. [^46xypx] [^1gnpe0]
-- **Multi-API support** including native NoSQL, [[Tooling/Enterprise Jobs-to-be-Done/MongoDB|MongoDB]], [[Tooling/Software Development/Databases/Cassandra|Cassandra]], Gremlin (graph), and Table APIs. [^6f8mfl] [^k8gjt1]
+- **Multi-API support** including native [[concepts/Explainers for Tooling/NoSQL|NoSQL]], [[Tooling/Enterprise Jobs-to-be-Done/MongoDB|MongoDB]], [[Tooling/Software Development/Databases/Cassandra|Cassandra]], Gremlin (graph), and Table APIs. [^6f8mfl] [^k8gjt1]
 - **Vector database capabilities** for AI and agentic workloads, enabling high-performance operations over large volumes of NoSQL and vector data. [^9sdk23] [^6f8mfl] [^vlio1s]
 - **Fully managed PaaS service** with automatic infrastructure management, backups, and high availability, accessible via an Azure Cosmos DB account in a resource group. [^9sdk23] [^6uhxjy]
 - **Operational + analytical integration** via analytical store and change feed patterns for event sourcing, materialized views, and temporal analytics. [^x8kprm]
@@ -58,13 +61,13 @@ Azure Cosmos DB originated as an internal Microsoft project codenamed **“Flore
 
 ## Notable Team Members
 
-Cosmos DB is developed and operated by Microsoft’s Azure engineering organization; public sources highlight Microsoft as the owner and operator but do not reliably attribute the service to specific, named individual founders or current product leads, so no definitive notable team list can be provided. [^46xypx] [^6f8mfl]
+Cosmos DB is developed and operated by Microsoft’s [[Tooling/Software Development/Cloud Infrastructure/Azure|Azure]] engineering organization; public sources highlight Microsoft as the owner and operator but do not reliably attribute the service to specific, named individual founders or current product leads, so no definitive notable team list can be provided. [^46xypx] [^6f8mfl]
 
 # Market Sizing
 
 ## Category, Market Size, and Category Growth
 
-Azure Cosmos DB sits in the categories of **cloud-native, globally distributed NoSQL databases**, **multi-model document stores**, and increasingly **vector/AI databases**. [^9sdk23] [^46xypx] [^6f8mfl] [^vlio1s] Analyst and industry commentary place such services within the broader **cloud database and DBaaS market**, which is part of the multi-hundred-billion-dollar cloud infrastructure sector, but specific, sourced market size and growth figures for Cosmos DB or precisely its subcategory are not available in the retrieved results; only qualitative descriptions that it targets “large-scale distributed Internet-scale applications” and “modern applications” including AI workloads. [^46xypx] [^6f8mfl] [^vlio1s]
+Azure Cosmos DB sits in the categories of **cloud-native, globally distributed NoSQL databases**, **multi-model document stores**, and increasingly **vector/AI databases**. [^9sdk23] [^46xypx] [^6f8mfl] [^vlio1s] Analyst and industry commentary place such services within the broader **cloud database and [[concepts/Explainers for Tooling/Databases-as-a-Service|DBaaS]] market**, which is part of the multi-hundred-billion-dollar cloud infrastructure sector, but specific, sourced market size and growth figures for Cosmos DB or precisely its subcategory are not available in the retrieved results; only qualitative descriptions that it targets “large-scale distributed Internet-scale applications” and “modern applications” including AI workloads. [^46xypx] [^6f8mfl] [^vlio1s]
 
 ## Revenue Trajectory Estimates
 
@@ -88,13 +91,13 @@ It is not ideal for workloads where data is **strictly relational and tabular**,
 
 ## Competitor Table
 
-| Competitor | Description |
-|-----------|-------------|
-| [Azure SQL Database](Azure-SQL-Database) | Managed relational database service on Azure, suited for tabular, relational data and traditional SQL workloads where Cosmos DB’s document and multi-model flexibility is not required. [^fskb2z] |
-| [MongoDB Atlas](MongoDB-Atlas) | Cloud-managed MongoDB service offering flexible JSON document storage and global clusters, competing with Cosmos DB’s document and MongoDB API scenarios. |
-| [Amazon DynamoDB](Amazon-DynamoDB) | AWS-managed NoSQL key-value and document database with global tables and low-latency performance for internet-scale applications, similar in global distribution and elasticity focus to Cosmos DB. |
-| [Apache Cassandra / DataStax Astra](Apache-Cassandra-DataStax-Astra) | Distributed wide-column NoSQL database and its managed cloud offering, targeting large-scale, high-throughput workloads; Cosmos DB’s Cassandra API addresses similar patterns. [^6f8mfl] |
-| [Google Cloud Firestore](Google-Cloud-Firestore) | Document-oriented NoSQL database on Google Cloud for web and mobile apps with real-time sync and global availability, an alternative for JSON document-based, cloud-native applications. |
+| Competitor                                                           | Description                                                                                                                                                                                         |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Azure SQL Database](Azure-SQL-Database)                             | Managed relational database service on Azure, suited for tabular, relational data and traditional SQL workloads where Cosmos DB’s document and multi-model flexibility is not required. [^fskb2z]   |
+| [MongoDB Atlas](MongoDB-Atlas)                                       | Cloud-managed MongoDB service offering flexible JSON document storage and global clusters, competing with Cosmos DB’s document and MongoDB API scenarios.                                           |
+| [[Tooling/Software Development/Databases/DynamoDB\|Amazon DynamoDB]]                                        | AWS-managed NoSQL key-value and document database with global tables and low-latency performance for internet-scale applications, similar in global distribution and elasticity focus to Cosmos DB. |
+| [Apache Cassandra / DataStax Astra](Apache-Cassandra-DataStax-Astra) | Distributed wide-column NoSQL database and its managed cloud offering, targeting large-scale, high-throughput workloads; Cosmos DB’s Cassandra API addresses similar patterns. [^6f8mfl]            |
+| [Google Cloud Firestore](Google-Cloud-Firestore)                     | Document-oriented NoSQL database on Google Cloud for web and mobile apps with real-time sync and global availability, an alternative for JSON document-based, cloud-native applications.            |
 
 
 ***

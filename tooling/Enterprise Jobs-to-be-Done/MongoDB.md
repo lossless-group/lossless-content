@@ -22,7 +22,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 [[concepts/Explainers for Tooling/NoSQL|NoSQL]]
 [[concepts/Explainers for AI/Text-to-SQL|Text-to-SQL]]
-[[Document Databases]]
+[[concepts/Explainers for Tooling/Document Databases]]
 [[Vocabulary/Back-End Engineering|Back-End Engineering]]
 
 

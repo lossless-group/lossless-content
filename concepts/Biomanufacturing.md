@@ -1,6 +1,6 @@
 ---
 date_created: 2026-06-06
-date_modified: 2026-06-09
+date_modified: 2026-10-08
 site_uuid: 9f88e403-93ed-4110-abe4-91f7c3d1bb80
 publish: true
 title: Biomanufacturing
@@ -103,7 +103,7 @@ Across these variants, the shared idea is industrial‑scale, often **GMP‑comp
 
 ## 1. Digital Twins for Biomanufacturing in Biopharmaceutical Plants
 
-BioPhorum, a collaboration forum for biopharmaceutical manufacturers and suppliers, convened industry experts to define what a **digital twin** means specifically “in a biomanufacturing environment,” recognizing that inconsistent usage was hindering deployment. [^v2e9o5] The resulting framework describes digital twins as virtual models of bioprocesses, equipment, or entire facilities that are dynamically linked to real‑time data and can be used across “the drug product lifecycle.”[^v2e9o5] By tailoring the digital‑twin concept to the realities of biomanufacturing—batch processes, complex biologics, regulatory constraints—the initiative helps companies move beyond pilot projects toward standardized, scalable digital infrastructures. [^v2e9o5] [^sacri9]
+[[BioPhorum]], a collaboration forum for biopharmaceutical manufacturers and suppliers, convened industry experts to define what a **digital twin** means specifically “in a biomanufacturing environment,” recognizing that inconsistent usage was hindering deployment. [^v2e9o5] The resulting framework describes [[concepts/Market-Categories/Digital Twins]] as virtual models of bioprocesses, equipment, or entire facilities that are dynamically linked to real‑time data and can be used across “the drug product lifecycle.”[^v2e9o5] By tailoring the digital‑twin concept to the realities of biomanufacturing—batch processes, complex biologics, regulatory constraints—the initiative helps companies move beyond pilot projects toward standardized, scalable digital infrastructures. [^v2e9o5] [^sacri9]
 
 This case illustrates how **biomanufacturing** is no longer limited to wet‑lab operations but encompasses sophisticated data and modeling layers; the manufacturing system itself is treated as a cyber‑physical object that can be simulated, optimized, and validated virtually before changes are implemented on the shop floor. [^v2e9o5] [^sacri9] It also shows that definitional work by specialized consortia, not large incumbents alone, is shaping the practice of advanced biomanufacturing.
 

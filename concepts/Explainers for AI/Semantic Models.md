@@ -30,7 +30,7 @@ for_clients:
 [[Knowledge AI]]
 [[Vocabulary/Knowledge Bases|Knowledge Bases]]
 [[concepts/Concept Model|Concept Model]]
-[[Vocabulary/Data Model|Data Model]]
+[[Vocabulary/Data Models|Data Models]]
 [[concepts/Content Model|Content Model]]
 
 

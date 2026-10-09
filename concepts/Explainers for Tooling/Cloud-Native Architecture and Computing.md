@@ -2,7 +2,7 @@
 cf_last_run: 2026-05-26T21:06:09.923Z
 cf_last_run_model: Perplexity sonar-pro
 date_created: 2026-05-26
-date_modified: 2026-05-26
+date_modified: 2026-10-09
 for_clients:
   - Param
   - Tonguc
@@ -18,7 +18,13 @@ tags:
   - Serverless-Cloud
   - State-Of-The-Art-Practices
   - Best-Practices
+  - Developer-Patterns
+  - Lossless-Toolkit
 ---
+[[Vocabulary/Graphics Processing Units|GPU]]
+[[Vocabulary/Graphics Processing Units|GPU Cluster]]
+[[Tooling/Products/Salesforce|Salesforce]]
+[[content-areas/AI-Factories-Datacenters/Concepts/Neocloud Operators|Neocloud Operators]]
 
 # Defining and Describing Cloud-Native Architecture and Computing
 

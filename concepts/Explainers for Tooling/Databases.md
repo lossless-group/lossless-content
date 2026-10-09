@@ -1,8 +1,14 @@
 ---
-date_created: 2025-03-04
-date_modified: 2026-05-01
+date_created: 2024-04-22
+date_modified: 2026-10-09
 site_uuid: 435dad66-b77d-493a-a61d-678f3f738480
-aliases: [Database]
+aliases:
+  - Database
+  - DBMS
+publish: true
+title: Databases
+slug: databases
+at_semantic_version: 0.0.0.1
 ---
 
 Many of the new database options are derivative of the handful of original open source databases, like [[Tooling/Software Development/Databases/MariaDB|MariaDB]] and [[Tooling/Software Development/Databases/Postgres|Postgres]], with most of the momentum going to [[Tooling/Software Development/Databases/Postgres|Postgres]].

@@ -134,7 +134,7 @@ It is less suited to teams seeking only lightweight style linting, teams without
 - **GitHub Copilot code review:** A natural alternative for teams already standardized on GitHub and the Copilot ecosystem.
 - **[[Tooling/AI-Toolkit/Generative AI/Code Generators/CodeRabbit|CodeRabbit]]:** AI pull-request review focused on automated feedback within common repository workflows.
 - **[[Qodo]]:** An AI-assisted code-quality and review platform with emphasis on testing and software-development lifecycle integration.
-- **[[Codacy]]:** A broader code-quality platform combining automated analysis, policy enforcement, and review tooling.
+- **[[Tooling/AI-Toolkit/Generative AI/Code Generators/Codacy]]:** A broader code-quality platform combining automated analysis, policy enforcement, and review tooling.
 - **Traditional static-analysis tools:** Tools such as Semgrep, SonarQube, and [[CodeQL]] remain alternatives when deterministic rules, security analysis, or self-managed controls are more important than agentic review.
 
 ## Competitor Table

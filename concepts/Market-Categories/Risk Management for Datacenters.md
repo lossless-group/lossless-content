@@ -12,7 +12,7 @@ cf_last_run: 2026-10-07T02:17:19.264Z
 cf_last_run_model: Perplexity sonar-reasoning-pro
 ---
 
-[[Marsh]]
+[[Tooling/AI-Toolkit/AI Infrastructure/Marsh]]
 
 *Risk Management for Datacenters is the emerging umbrella around tools and practices that give operators real‑time visibility into physical, environmental, and operational risks in their facilities, built largely on the data center infrastructure management (DCIM) stack and its evolution toward predictive analytics and resilience modeling. [^o04w9v]*  
 *It sits at the intersection of monitoring, capacity planning, facilities controls, and uptime assurance, reflecting the growing need to treat datacenters as mission‑critical, risk‑managed infrastructure rather than just “rooms full of servers.” [^o04w9v]*

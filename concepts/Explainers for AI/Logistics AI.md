@@ -1,6 +1,6 @@
 ---
 date_created: 2025-09-21
-date_modified: 2026-05-06
+date_modified: 2026-10-08
 publish: true
 title: Logistics AI
 slug: logistics-ai
@@ -88,7 +88,7 @@ The real-time visibility capabilities provided by AI-powered inventory managemen
 
 ## Digital Twins and Simulation Technologies: Virtual Optimization of Physical Systems
 
-Digital twin technology represents a revolutionary application of artificial intelligence in logistics, creating accurate virtual replicas of entire supply chain networks that enable comprehensive simulation, optimization, and predictive analysis of complex operational systems. These sophisticated digital representations connect suppliers, warehouses, distribution centers, products, and transportation networks in virtual environments that mirror their physical counterparts with remarkable precision. [^hwop48] The power of digital twins lies in their ability to emulate human decision-making capabilities, support critical operational choices, and even make autonomous decisions on behalf of human operators, transforming how organizations approach supply chain planning and optimization. [^hwop48]
+[[concepts/Market-Categories/Digital Twins]] technology represents a revolutionary application of artificial intelligence in logistics, creating accurate virtual replicas of entire supply chain networks that enable comprehensive simulation, optimization, and predictive analysis of complex operational systems. These sophisticated digital representations connect suppliers, warehouses, distribution centers, products, and transportation networks in virtual environments that mirror their physical counterparts with remarkable precision. [^hwop48] The power of digital twins lies in their ability to emulate human decision-making capabilities, support critical operational choices, and even make autonomous decisions on behalf of human operators, transforming how organizations approach supply chain planning and optimization. [^hwop48]
 
 The implementation of digital twin technology in logistics operations encompasses three primary functional areas that collectively optimize supply chain performance across multiple dimensions. Supply chain planning applications leverage digital twins to integrate data from sales history, market trends, and customer behavior to enhance demand forecasting accuracy while enabling companies to simulate potential disruptions such as supplier delays or transportation issues. [^hwop48] These capabilities facilitate proactive risk mitigation strategies and provide comprehensive views of product lifecycles, supporting supply chain planning for new product introductions and reverse logistics operations. [^hwop48] The technology also enables organizations to model and analyze energy consumption, greenhouse gas emissions, and environmental impact, supporting decarbonization strategies and circular economy initiatives that are increasingly important for regulatory compliance and corporate sustainability goals.
 

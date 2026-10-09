@@ -1,15 +1,19 @@
 ---
-url: "https://www.geeksforgeeks.org/"
+url: https://www.geeksforgeeks.org/
 date_created: 2026-06-06
-date_modified: 2026-06-06
-cf_last_run: "2026-06-06T03:03:48.693Z"
-cf_last_run_model: "Perplexity sonar-pro"
-tags: [Influencer-Developers]
+date_modified: 2026-10-09
+cf_last_run: 2026-06-06T03:03:48.693Z
+cf_last_run_model: Perplexity sonar-pro
+tags:
+  - Influencer-Developers
 site_uuid: a0161c34-c6d6-4d2d-9999-b45a5961ef93
 publish: true
-title: "Geeks For Geeks"
+title: Geeks For Geeks
 slug: geeks-for-geeks
 at_semantic_version: 0.0.1.1
+aliases:
+  - GeeksforGeeks
+  - Geeksforgeeks
 ---
 
 # Geeks for Geeks

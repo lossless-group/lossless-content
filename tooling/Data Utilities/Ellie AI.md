@@ -33,7 +33,7 @@ cf_last_run_model: Perplexity sonar-pro
 [[concepts/Software Development Lifecycle|Software Development Lifecycle]]
 [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Catio|Catio]]
 [[concepts/Explainers for AI/Semantic AI|Semantic AI]]
-[[Vocabulary/Data Model|Data Modeling]]
+[[Vocabulary/Data Models|Data Modeling]]
 [[concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]]
 [[Semantic Layers]]
 

@@ -3,7 +3,7 @@ aliases:
   - GPU Cloud Provider
   - GP Cloud Providers
 date_created: 2026-06-09
-date_modified: 2026-10-04
+date_modified: 2026-10-08
 tags: [AI-Compute-Cloud-Providers, AI-Toolkit, Agent-Cloud-Providers]
 cf_last_run: "2026-06-09T01:12:08.331Z"
 cf_last_run_model: "Perplexity sonar-pro"
@@ -16,6 +16,9 @@ at_semantic_version: 0.0.1.1
 [[content-areas/AI-Factories-Datacenters/Organizations/Equinix|Equinix]]
 [[Hyperscale Cloud Providers|Hyperscalers]]
 [[content-areas/AI-Factories-Datacenters/Organizations/Oracle Cloud Infrastructure|Oracle Cloud Infrastructure]]
+[[Tooling/AI-Toolkit/AI Infrastructure/Pocket.ai|Pocket.ai]]
+[[Tooling/AI-Toolkit/AI Infrastructure/Lambda Labs|Lambda Labs]]
+[[Tooling/AI-Toolkit/AI Infrastructure/RunPod|RunPod]]
 
 # Defining and Describing AI Compute Cloud Providers
 
@@ -64,7 +67,7 @@ Because this is an industry term rather than a formal academic concept, it appea
 - [RunPod](https://www.runpod.io) — [[Tooling/AI-Toolkit/AI Infrastructure/RunPod|RunPod]] — GPU cloud platform focused on developers, providing on‑demand and serverless GPU instances tailored for AI training, inference, and hosted endpoints. [^lv3c8i]  
 - [Lambda Cloud](https://lambdalabs.com) — [[Tooling/AI-Toolkit/AI Infrastructure/Lambda Labs|Lambda Labs]] — GPU cloud from Lambda Labs, renting out NVIDIA GPU instances and clusters optimized for deep learning workloads such as LLM and vision model training. [^lv3c8i]  
 - [GMI Cloud](https://www.gmicloud.ai) — GPU cloud provider offering on‑demand NVIDIA H100 and H200 instances for “high‑performance, scalable AI training and inference at the lowest cost.”[^edn7y6]  
-- [Northflank](https://northflank.com) — [[Northflank]] —  Full‑stack platform that orchestrates GPU workloads, APIs, and multi‑service deployments for “production‑grade” AI applications, supporting bring‑your‑own‑cloud models. [^xo19kf]  
+- [Northflank](https://northflank.com) — [[Tooling/AI-Toolkit/AI Infrastructure/Northflank]] —  Full‑stack platform that orchestrates GPU workloads, APIs, and multi‑service deployments for “production‑grade” AI applications, supporting bring‑your‑own‑cloud models. [^xo19kf]  
 - [DigitalOcean](https://www.digitalocean.com) — [[Tooling/Software Development/Cloud Infrastructure/DigitalOcean|DigitalOcean]] — Developer‑focused cloud that now positions itself among “leading AI cloud providers,” offering AI‑ready infrastructure and integrations for model hosting and inference. [^lv3c8i]  
 - [AWS (with SageMaker and Bedrock)](https://aws.amazon.com) — A major cloud adopter that has rebuilt large parts of its stack around AI, offering GPU instances and managed AI platforms (e.g., SageMaker, Bedrock) as part of its AI‑native cloud strategy. [^xo19kf] [^xgx2de] [^lv3c8i]  
 

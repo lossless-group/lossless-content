@@ -82,7 +82,7 @@ There are no major alternate senses of “computational chemistry” outside thi
   - [[Quantum chemistry]] – quantum‑mechanical modeling of molecules and materials, forming a foundational subset of computational chemistry. [^0pp1hq] [^it3xsj]  
   - [[Molecular dynamics]] – simulation of atomic motion over time using classical or quantum-informed force fields, widely used in drug and materials startups. [^it3xsj] [^jxy4pj]  
   - [[Cheminformatics]] – data-centric analysis and machine learning on chemical structures and properties, increasingly integrated with computational chemistry workflows. [^it3xsj] [^jxy4pj]  
-  - [[Drug discovery]] – domain where computational chemistry and virtual screening are now standard tools to identify and optimize lead compounds. [^coo48h] [^it3xsj]  
+  - [[Drug Discovery]] – domain where computational chemistry and virtual screening are now standard tools to identify and optimize lead compounds. [^coo48h] [^it3xsj]  
   - [[Materials science]] – field where computational chemistry predicts properties of polymers, ceramics, batteries, catalysts, and other materials. [^coo48h] [^it3xsj]  
   - [[High-throughput screening]] – technique that, when virtualized, relies heavily on computational chemistry to triage candidates before physical testing. [^coo48h] [^it3xsj]  
 

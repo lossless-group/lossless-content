@@ -110,7 +110,7 @@ Especially for [[Low-Code]] tools, [[UI Builders]], and [[Agentic AI]]
 > 1. **Workflow Automation**:
 >     
 >     - Tools like **Zapier** and **Microsoft Power Automate** use flowchart-like interfaces to define triggers, actions, and logic for automation.
-> 2. **[[Data Model]]**:
+> 2. **[[Vocabulary/Data Models]]**:
 >     
 >     - Visual entity-relationship diagrams help users define the structure of databases without needing SQL expertise.
 > 3. **UI/UX Design**:

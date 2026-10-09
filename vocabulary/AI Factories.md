@@ -61,7 +61,7 @@ AI Factories ingest enormous streams of raw data, train and continuously improve
 - **Accelerator hardware**: Massive [[Vocabulary/Graphics Processing Units|GPU]] clusters (e.g., NVIDIA H100), [[concepts/Explainers for AI/Tensor Processing Units]] (Google), sometimes custom AI chips.
 - **High-bandwidth connectivity**: Technologies like NVLink, InfiniBand, and [[Remote Direct Memory Access]] (RDMA) enable GPUs and storage to communicate at ultrafast speeds, even across multiple servers.
 - **High-throughput storage**: [[NVMe]] SSDs and distributed filesystems for rapid access to gigantic training datasets.
-- **Advanced scheduling/orchestration**: [[Tooling/Software Development/Developer Experience/DevOps/Kubernetes|Kubernetes]], [[Slurm Workload Manager]], or similar, with extensions for AI job placement, model versioning, and automatic scaling.
+- **Advanced scheduling/orchestration**: [[Tooling/Software Development/Developer Experience/DevOps/Kubernetes|Kubernetes]], [[Tooling/AI-Toolkit/Slurm Workload Manager]], or similar, with extensions for AI job placement, model versioning, and automatic scaling.
 
 ![Practical example or use case visualization — e.g., an AI Factory powering autonomous vehicle model training](https://blogs.nvidia.com/wp-content/uploads/2025/03/ai-factories-graphic.jpg)
 

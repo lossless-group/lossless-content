@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-17
-date_modified: 2026-08-04
+date_modified: 2026-10-08
 tags:
   - Explainers
   - Solutions-For-Scale
@@ -33,6 +33,7 @@ tag: Large Codebase AI
 
 [[concepts/Keep it Simple, Stupid|KISS]]
 [[Tooling/AI-Toolkit/Generative AI/Code Generators/Graphify|Graphify]]
+[[concepts/Explainers for Tooling/Development Sandboxes|Sandboxes]]
 
 ***
 > [!info] **Perplexity Query** (2025-08-17T11:44:31.094Z)

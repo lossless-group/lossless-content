@@ -5,7 +5,7 @@ title: Git Submodules
 slug: git-submodules
 at_semantic_version: 0.0.1.1
 date_created: 2026-06-01
-date_modified: 2026-06-01
+date_modified: 2026-10-09
 tags:
   - Git-Workflow
   - Git-Submodules
@@ -65,21 +65,21 @@ A **Git submodule** is a Git feature that lets one repository include another as
 
 - **Adjacent terms**
   - [[Git-Workflow]]  
-  - [[Monorepo-Management]]  
-  - [[Pseudomonorepos]]  
-  - [[Context-Engineering]]  
-  - [[Large-Codebase-AI]]  
+  - [[Vocabulary/Monorepo|Monorepos]]  
+  - [[concepts/Pseudomonorepos|Pseudomonorepos]]  
+  - [[concepts/Explainers for AI/Context Engineering|Context Engineering]]  
+  - [[concepts/Explainers for AI/Large Codebase AI|Large Codebase AI]]  
   - [[Lossless-Toolkit]]  
 
 ---
 
 # Usage in Practice
 
-- OneUptime’s engineering blog explains: “**Git submodules solve this by embedding one repository inside another while keeping them independently versioned**,” framed as an answer for teams whose shared library is not on a package manager but needs controlled updates. [^i64q5d]  
+- [[OneUptime]]’s engineering blog explains: “**Git submodules solve this by embedding one repository inside another while keeping them independently versioned**,” framed as an answer for teams whose shared library is not on a package manager but needs controlled updates. [^i64q5d]  
 - Valohai’s machine‑learning platform docs describe the ML use case: “**Git submodules let you include one repository as a subdirectory within another. This is useful when your ML project depends on shared code, models, or configurations stored in separate repositories.**” [^q8xiud]  
 - A widely cited Git submodules explainer notes: “**When you add a submodule in Git, you don’t add the code of the submodule to the main repository, you only add information about the submodule … which commit the submodule is pointing at.**” [^bdgo0d]  
 - A Microsoft engineering blog (as adopter, not originator) summarizes the mechanism as “**a reference to a specific commit in another Git repository**,” used to manage dependencies across repositories where only a subset needs to be included. [^24yya8]  
-- GeeksforGeeks, describing common practice in large projects, writes: “**Git submodules allow one repository to reference another at a specific commit, enabling dependency management without merging codebases.**”[^8u8jls]  
+- [[Sources/Media/Geeks for Geeks|Geeks for Geeks]], describing common practice in large projects, writes: “**Git submodules allow one repository to reference another at a specific commit, enabling dependency management without merging codebases.**”[^8u8jls]  
 
 ---
 
