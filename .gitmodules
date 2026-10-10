@@ -4,3 +4,7 @@
 [submodule "content-areas"]
 	path = content-areas
 	url = https://github.com/lossless-group/content-areas.git
+[submodule "client-content"]
+	path = client-content
+	url = https://github.com/lossless-group/lossless-client-content.git
+	branch = development

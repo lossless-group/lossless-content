@@ -1,5 +1,0 @@
----
-aliases:
-  - SMS
-  - Laerdal SMS
----
