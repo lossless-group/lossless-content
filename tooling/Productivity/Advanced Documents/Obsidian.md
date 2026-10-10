@@ -6,7 +6,7 @@ og_last_fetch: 2026-04-28T15:23:35.381Z
 youtube_channel_url: https://www.youtube.com/@ObsidianOfficial
 github_profile_url: https://github.com/obsidianmd
 docs_url: https://docs.obsidian.md/
-date_modified: 2026-10-06
+date_modified: 2026-10-09
 date_created: 2025-03-30
 og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads_lossless_screenshots_20250527_Obsidian_og_screenshot.jpeg
 tags:
@@ -20,9 +20,26 @@ og_favicon: https://obsidian.md/favicon.ico
 changelog_url: https://obsidian.md/changelog/
 ---
 
-[[Vocabulary/Markdown Editors]]
+[[Vocabulary/Markdown Editors|Markdown Editors]]
+[[Sources/Books/Building a Second Brain|Building a Second Brain]]
+[[concepts/Explainers for AI/Company Brains|Company Brains]]
+[[concepts/Explainers for AI/Infinite Brains]]
+[[projects/Emergent-Innovation/Standards/Markdown|Markdown]]
+[[Vocabulary/Interactive Notebooks|Interactive Notebooks]]
+[[Vocabulary/Retrieval-Augmented Generation|RAG]]
+[[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]]
+[[moc/Obsidian Plugin Community|Obsidian Plugin Community]]
+[[Sources/Books/Platform Scale|Platform Scale]]
+
+
 
 Follows the [[projects/Emergent-Innovation/Standards/Markdown Derivatives/CommonMark|CommonMark]] standard, which is light. 
+
+https://youtu.be/i8h4eTcxF9E?si=NNL2XBNevc-ww8HE
+
+https://youtu.be/Tyw6quANpiY?si=jUPFRymh1jFlyuNd
+
+https://youtu.be/VUGH0DMUesA?si=g-pbLtB9SRImC8uh
 
 https://youtu.be/37aJiD0ey-8?si=ZzdTMlFH5le8w1Rt
 
@@ -57,13 +74,13 @@ Here's a screenshot of [[concepts/Release Notes]] from [[Tooling/Productivity/Ad
 ### Obsidian flipped pricing & monetization to publishing on the web
 ![[Screenshot 2025-01-28 at 3.46.20 PM_Obsidian--Publishing.png]]
 
-##### [[Tooling/Productivity/Advanced Documents/Obsidian]] keeps a [[Public Roadmap]]
+##### [[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]] keeps a [[Vocabulary/Public Roadmaps|Public Roadmaps]]
 
 ![[Screenshot 2025-02-23 at 3.23.38 AM_Obsidian--Public-Roadmap.png]]
 ![[Screenshot 2025-02-23 at 3.24.15 AM_Obsidian--Public-Roadmap.png]]
 ##### [[Tooling/Productivity/Advanced Documents/Obsidian]] has a [[Chrome]] [[Plug-ins,  Add-ons,  Extensions|Extension]].
 ![[Screenshot 2025-02-23 at 3.24.52 AM_Obsidian--Web-Clipper.png]]
-##### [[Tooling/Productivity/Advanced Documents/Obsidian]] created their own [[Data Standard]]
+##### [[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]] created their own [[Data Standard]]
 ![[projects/Emergent-Innovation/Standards/JSON Canvas#An Data Standard for applying JSON syntax in Canvas User Interface UI , created by Obsidian.md]]
 
 ## [[Tooling/Productivity/Advanced Documents/Obsidian]] works well with [[Astro]]

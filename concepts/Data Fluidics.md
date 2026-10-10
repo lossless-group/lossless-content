@@ -10,7 +10,7 @@ for_clients:
 ![[Visuals/For/imageRep__North-Sea-of-Data.webp]]
 
 
-[[Current Stack]] is [[Fivetran]].
+[[client-content/Laerdal/Explorations/Current Stack]] is [[Fivetran]].
 
 A whole [[iPaaS]] universe.  
 

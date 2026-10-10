@@ -10,7 +10,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:17.950Z
 jina_error: Error occurred
 og_last_fetch: 2025-05-27T16:51:01.836Z
-date_modified: 2026-06-02
+date_modified: 2026-10-10
 date_created: 2025-03-30
 og_image: https://media.brightdata.com/2025/04/HP_OG.png
 og_url: https://brightdata.com/
@@ -31,6 +31,7 @@ at_semantic_version: 0.0.1.1
 slug: brightdata
 aliases:
   - Bright Data
+  - BrightData
 ---
 
 
@@ -81,7 +82,7 @@ It is not the best fit for teams that only need simple no-code scraping, very li
 - **[[Tooling/AI-Toolkit/Data Augmenters/Apify|Apify]]** — broader scraping automation platform with Actors and storage, positioned as a different fit from Bright Data’s proxy/data infrastructure model. [^klou7q]
 - **[[Tooling/AI-Toolkit/Data Augmenters/ScrapeGraphAI|ScrapeGraphAI]]** — oriented toward structured extraction and AI-style workflows for teams that want less selector maintenance. [^dujx13]
 - **[[Tooling/AI-Toolkit/Data Augmenters/Crawlbase]]** — simpler URL-in, content-out scraping API for users who do not need a full marketplace or proxy orchestration layer. [^dujx13]
-- **[[Coresignal]]** — stronger fit for teams wanting curated business datasets rather than a general web data platform. [^u7mrl3]
+- **[[Tooling/AI-Toolkit/Data Augmenters/Coresignal]]** — stronger fit for teams wanting curated business datasets rather than a general web data platform. [^u7mrl3]
 - **[[Tooling/AI-Toolkit/Data Augmenters/Zyte|Zyte]]** — commonly grouped with Bright Data in web scraping API comparisons as an alternative provider. [^xol6we]
 
 ## Competitor Table

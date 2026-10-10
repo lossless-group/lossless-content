@@ -25,7 +25,7 @@ og_type: "website"
 [[Tooling/AI-Toolkit/AI Interfaces/Chat GPT|Chat GPT]]
 [[Tooling/AI-Toolkit/Model Producers/Anthropic|Anthropic]]
 [[Tooling/AI-Toolkit/Models/Grok|Grok]]
-[[Foundation Models in AI|Foundation Models]]
+[[concepts/Explainers for AI/Foundation Models in AI|Foundation Models]]
 [[Sources/People/Sam Altman|Sam Altman]]
 
 

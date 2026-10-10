@@ -21,7 +21,7 @@ https://youtu.be/JrVPIy9AdfQ?is=lejQUTxPK7FLDPGr
 
 [[Tooling/AI-Toolkit/Model Producers/Moonshot AI|Moonshot AI]]
 [[Vocabulary/Local LLM|Local LLM]]
-[[Foundation Models in AI|Foundation Model]]
+[[concepts/Explainers for AI/Foundation Models in AI|Foundation Model]]
 [[Vocabulary/Agentic AI|Agentic AI]]
 # Value Proposition & Features
 

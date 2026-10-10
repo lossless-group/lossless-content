@@ -67,7 +67,7 @@ It is not evidently positioned for users seeking conventional static diagramming
 
 - **[[Tooling/Software Development/Frameworks/Web Frameworks/Mermaid.js|Mermaid.js]]** — suitable for text-defined diagrams embedded in documentation.
 - **D2** — suitable for declarative technical diagrams and system architecture illustrations.
-- **[[Graphviz]]** — suitable for programmatic graph layout and rendering.
+- **[[Tooling/Software Development/Lego-Kit Engineering Tools/Graphviz]]** — suitable for programmatic graph layout and rendering.
 - **[[Tooling/Enterprise Jobs-to-be-Done/Excalidraw|Excalidraw]]** — suitable for collaborative, freeform visual diagramming.
 - **[[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]] graph view** — suitable for interactive visualization of linked notes and knowledge structures.
 

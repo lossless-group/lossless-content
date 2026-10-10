@@ -44,7 +44,7 @@ TypeScript, WebSockets or REST APIs for communication with microfrontend and oth
 	5. [[projects/Augment-It/Specs/apps-microfrontends/HighlightCollector|HighlightCollector]]
 	6. [[projects/Augment-It/Specs/apps-microfrontends/InsightAssembler|InsightAssembler]]
 
-The [[projects/Augment-It/Specs/host-shell-ui/MainContainerUI|MainContainerUI]] is a [[Vocabulary/Front-End|Front-End]] that enables users to work through various [[Vocabulary/Microfrontend Architecture|Microfrontends]]  as part of a [[concepts/Data Augmentation Workflow|Data Augmentation Workflow]].
+The [[projects/Augment-It/Specs/host-shell-ui/MainContainerUI|MainContainerUI]] is a [[Vocabulary/Front-End|Front-End]] that enables users to work through various [[Vocabulary/Microfrontend Architecture|Microfrontends]]  as part of a [[concepts/Data Augmentation Workflows|Data Augmentation Workflows]].
 
 # Open Questions
 How to share API Keys and other secure info.

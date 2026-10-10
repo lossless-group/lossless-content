@@ -9,7 +9,7 @@ slug: unmanned-aerial-systems
 at_semantic_version: 0.0.0.1
 tags: [Vertical-Drones, Drone-Platforms, Drone-Producers]
 ---
-[[Helsing]]
+[[vertical-toolkits/DroneTech/Helsing]]
 [[organizations/Anduril|Anduril]]
 [[Horus Dynamics]]
 

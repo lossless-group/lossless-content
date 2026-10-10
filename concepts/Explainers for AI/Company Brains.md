@@ -21,7 +21,7 @@ for_clients:
 ---
 [[Vocabulary/Knowledge Bases|Knowledge Base]]
 [[concepts/Explainers for AI/Knowledge Base AI|Knowledge Base AI]]
-[[Knowledge AI]]
+[[concepts/Explainers for AI/Knowledge AI]]
 
 
 ***

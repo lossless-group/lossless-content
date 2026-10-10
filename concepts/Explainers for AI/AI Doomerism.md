@@ -16,7 +16,7 @@ tags:
   - AI-Safety
   - AI-Research-Labs
 ---
-[[Foundation Models in AI|Foundation Models]]
+[[concepts/Explainers for AI/Foundation Models in AI|Foundation Models]]
 [[concepts/Explainers for AI/AI Research Labs|AI Research Labs]]
 
 [[Vocabulary/Dynamic Pricing|Dynamic Pricing]]

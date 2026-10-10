@@ -14,7 +14,7 @@ slug: ai-compute-cloud-providers
 at_semantic_version: 0.0.1.1
 ---
 [[content-areas/AI-Factories-Datacenters/Organizations/Equinix|Equinix]]
-[[Hyperscale Cloud Providers|Hyperscalers]]
+[[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]]
 [[content-areas/AI-Factories-Datacenters/Organizations/Oracle Cloud Infrastructure|Oracle Cloud Infrastructure]]
 [[Tooling/AI-Toolkit/AI Infrastructure/Pocket.ai|Pocket.ai]]
 [[Tooling/AI-Toolkit/AI Infrastructure/Lambda Labs|Lambda Labs]]
@@ -39,7 +39,7 @@ flowchart TD
 
 # Uses in Context
 
-- Industry articles describe “**AI cloud providers**” as vendors that bundle GPU compute, storage, and higher‑level AI services to “build, train, and deploy machine learning models in the cloud,” including both [[Hyperscale Cloud Providers|Hyperscalers]] and specialized [[Vocabulary/Graphics Processing Units|GPU]] clouds. [^xo19kf] [^lv3c8i] [^q95m4g] [^ald7vp]  
+- Industry articles describe “**AI cloud providers**” as vendors that bundle GPU compute, storage, and higher‑level AI services to “build, train, and deploy machine learning models in the cloud,” including both [[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]] and specialized [[Vocabulary/Graphics Processing Units|GPU]] clouds. [^xo19kf] [^lv3c8i] [^q95m4g] [^ald7vp]  
 - Developer‑focused lists talk about “**leading AI cloud providers for developers**” as platforms offering APIs and managed infrastructure for “LLM inference, [[concepts/Explainers for AI/Fine Tuning|fine-tuning]], and model hosting” on pay‑as‑you‑go terms. [^lv3c8i] [^edn7y6] [^ald7vp]  
 - GPU‑centric vendors describe themselves as “**the essential cloud for AI**,” emphasizing large GPU clusters, fast spin‑up times, and “industry‑leading performance and efficiency” for training and inference workloads. [^1p6qsx] [^edn7y6]  
 - Commentary on the “AI native cloud trap” uses the term to highlight how major cloud platforms are “being redesigned from the ground up around generative AI workloads,” prioritizing GPUs, proprietary models, and integrated AI services over generic compute. [^xgx2de]  

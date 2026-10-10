@@ -30,7 +30,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 [[Vocabulary/Web Scraping|Web Scrapers]]
 [[concepts/Explainers for AI/AI Powered Data Capture|AI Powered Data Capture]]
-[[concepts/Data Augmentation Workflow|Data-Augmenters]]
+[[concepts/Data Augmentation Workflows|Data-Augmenters]]
 
 # Value Proposition & Features
 
@@ -129,7 +129,7 @@ It is less appropriate for **non-technical users** seeking a point-and-click SEO
 - **[[Tooling/AI-Toolkit/Data Augmenters/SerpAPI|SerpAPI]]** – API for scraping and structuring search engine results (including Google), commonly used for SEO and SERP monitoring, overlapping with Cloro’s search/SEO scraping focus. (Industry knowledge; no cloro.dev citation)
 - **[[ZenRows]]** – Web scraping API that handles anti-bot measures and returns structured page data, relevant for teams needing generic web scraping rather than AI-response-specific parsing. (Industry knowledge)
 - **[[Tooling/AI-Toolkit/Data Augmenters/Apify|Apify]]** – Platform for building and running scraping actors, including SERP and AI-surface scrapers, used by growth and data teams for large-scale data collection. (Industry knowledge)
-- **[[Tooling/AI-Toolkit/Data Augmenters/BrightData|BrightData]] (Web Scraper API)** – Enterprise-grade web scraping and SERP data provider, an alternative for organizations needing large-scale structured web and search data. (Industry knowledge)
+- **[[Tooling/AI-Toolkit/Data Augmenters/Bright Data|Bright Data]] (Web Scraper API)** – Enterprise-grade web scraping and SERP data provider, an alternative for organizations needing large-scale structured web and search data. (Industry knowledge)
 - **[[Tooling/AI-Toolkit/Data Augmenters/Diffbot|Diffbot]]** – Automated web extraction and knowledge graph provider, relevant for teams that care more about structured web entities than specific AI assistant response formats. (Industry knowledge)
 
 ## Competitor Table

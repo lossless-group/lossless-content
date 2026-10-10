@@ -1,5 +1,5 @@
 ---
-date_modified: 2025-11-16
+date_modified: 2026-10-09
 site_uuid: e147f1bf-3b2e-46a9-bf25-6fb190249295
 date_created: 2025-04-06
 aliases: [Web Scraper, Web Scrapers]
@@ -17,6 +17,7 @@ at_semantic_version: 0.0.0.1
 - [[Crawl4 AI]]
 - [[Tooling/AI-Toolkit/Data Augmenters/ScrapeGraphAI|ScrapeGraphAI]]
 - [[Tooling/Software Development/Developer Experience/Thunderbit|Thunderbit]]
+- [[Tooling/AI-Toolkit/Data Augmenters/Octoparse]]
 :::
 
 

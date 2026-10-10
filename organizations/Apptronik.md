@@ -15,4 +15,4 @@ tags:
   - Robotics
   - Human-AI-Collaboration
 ---
-[[organizations/Humanoid Robots|Humanoid Robots]]
+[[concepts/Market-Categories/Humanoid Robots|Humanoid Robots]]

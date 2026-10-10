@@ -53,7 +53,7 @@ Services that use **proxies**, **API-driven browsers**, and **AI agents** can si
 ### Popular and Well-Regarded Services
 
 #### **Proxy Services**
-- **[[Tooling/AI-Toolkit/Data Augmenters/BrightData|BrightData]]**
+- **[[Tooling/AI-Toolkit/Data Augmenters/Bright Data|Bright Data]]**
 - **Oxylabs**
 - **Smartproxy**
 - **GeoSurf**

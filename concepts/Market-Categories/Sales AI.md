@@ -5,20 +5,26 @@ title: Sales AI
 slug: sales-ai
 at_semantic_version: 0.0.0.1
 date_created: 2026-07-20
-date_modified: 2026-10-04
+date_modified: 2026-10-10
 tags:
   - Enterprise-Jobs-To-Be-Done
   - Sales-AI
   - Agent-Native
   - AI-Native
+  - Sales-Agents
 cf_last_run: 2026-10-04T20:50:39.197Z
 cf_last_run_model: Perplexity sonar-pro
+aliases:
+  - Sales Agents
 ---
-
+[[concepts/Explainers for Tooling/Go-to-Market Platforms|Go-to-Market Platforms]]
 [[concepts/Explainers for AI/Sales Coaching AI|Sales Coaching AI]]
 [[concepts/Explainers for AI/AI Assistants|AI Assistants]]
 [[concepts/Explainers for AI/Agent Native|Agent Native]]
 [[Vocabulary/AI Native Applications|AI Native]]
+[[Nexor]]
+[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Narrow AI|Narrow AI]]
+[[Tooling/Enterprise Jobs-to-be-Done/6sense|6sense]]
 
 # Snapshot
 
@@ -40,7 +46,7 @@ The boundary is fuzzy at the edges: some operators treat AI-powered contact data
 
 # Why Now?
 
-- **The agent runtime is moving into the CRM system of record.** The market thesis is shifting from isolated copilots to agents that can reason over CRM data and execute multi-step workflows; one 2026 CRM analysis describes the contest as ownership of the “AI agent runtime” and links it directly to platform renewal economics. [^xult2n]
+- **The agent runtime is moving into the [[Vocabulary/CRM|CRM]] system of record.** The market thesis is shifting from isolated copilots to agents that can reason over CRM data and execute multi-step workflows; one 2026 CRM analysis describes the contest as ownership of the “AI agent runtime” and links it directly to platform renewal economics. [^xult2n]
 
 - **Foundation-model capabilities have crossed a practical threshold for sales language and research.** Sales products can now generate account briefs, personalize outbound messages, summarize calls, and coordinate follow-up at sufficiently low marginal cost to support broad deployment across SDR and account-executive teams. The rapid growth of autonomous-SDR companies, including 11x and Artisan, is evidence of this capability becoming productized rather than remaining a demonstration. [^57upm6] [^fp8qpa]
 
@@ -134,7 +140,7 @@ The disagreement among figures is primarily definitional: narrow sales intellige
 #### [11x](https://www.11x.ai)
 **Stage**: scale-up / late-stage private; founded in 2023 and therefore still a young company despite its scale-up financing profile. [^fp8qpa]
 
-**Funding**: Reported to have raised a **$50 million Series B in October 2024** at an approximately **$350 million valuation**, following a $24 million Series A; the returned result identifies Andreessen Horowitz, Benchmark, Salesforce Ventures, and Lightspeed among associated investors. [^57upm6] [^fp8qpa]
+**Funding**: Reported to have raised a **$50 million Series B in October 2024** at an approximately **$350 million valuation**, following a $24 million Series A; the returned result identifies [[vertical-toolkits/Venture-Capital-Firms/Andreessen Horowitz|Andreessen Horowitz]], [[vertical-toolkits/Venture-Capital-Firms/Benchmark]], Salesforce Ventures, and [[vertical-toolkits/Venture-Capital-Firms/Lightspeed Venture Partners]] among associated investors. [^57upm6] [^fp8qpa]
 
 **Footprint**: 11x was reported to serve **more than 200 customers**, including Otter.ai and Airwallex, and to have grown revenue fivefold in 2024. [^fp8qpa]
 
@@ -160,9 +166,10 @@ The disagreement among figures is primarily definitional: narrow sales intellige
 
 **Footprint**: Clay was reported to have **more than 5,000 paying accounts** and a $3.1 billion valuation in 2025. [^57upm6]
 
-**Why they're in this category**: Clay is a boundary-expanding GTM-engineering platform that combines data enrichment, research, workflow composition, and AI-assisted outbound; it belongs in Sales AI when the category is defined by pipeline creation rather than only CRM-native seller assistance. [^57upm6]
+**Why they're in this category**: [[Tooling/AI-Toolkit/Data Augmenters/Clay|Clay]] is a boundary-expanding [[concepts/Explainers for Tooling/Go-to-Market Platforms]] that combines data enrichment, research, workflow composition, and AI-assisted outbound; it belongs in Sales AI when the category is defined by pipeline creation rather than only CRM-native seller assistance. [^57upm6]
 
-**Coverage**: [AI GTM Engineering & SDR Fundraising](https://startupfundraising.com/ai-gtm-engineering-signal-based-outbound-sdr-fundraising). [^57upm6]7upm6] [AI Sales and Marketing Market: 65 Funding Deals](https://newmarketpitch.com/blogs/news/ai-sales-anding-list-deals). [^ypvnv6]
+**Coverage**: [AI GTM Engineering & SDR Fundraising](https://startupfundraising.com/ai-gtm-engineering-signal-based-outbound-sdr-fundraising). [^57upm6] 
+[AI Sales and Marketing Market: 65 Funding Deals](https://newmarketpitch.com/blogs/news/ai-sales-anding-list-deals). [^ypvnv6]
 
 # Market Innovators
 

@@ -1,8 +1,9 @@
 ---
-date_created: 2025-05-30
-date_modified: 2026-08-20
+date_created: 2026-10-10
+date_modified: 2026-10-10
 aliases:
   - GTM Platforms
+  - GTM-Engineering Platform
 tags:
   - Content-Marketing
   - State-of-the-Art
@@ -23,6 +24,9 @@ for_clients:
 [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Copy.ai|Copy.ai]]
 [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Mutiny|Mutiny]]
 [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Flint|Flint]]
+[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Narrow AI|Narrow AI]]
+[[concepts/Market-Categories/Sales AI|Sales AI]]
+
 
 ***
 > [!info] **Perplexity Query** (2025-11-30T12:50:20.724Z)
@@ -98,3 +102,6 @@ Go-to-market platforms represent a fundamental shift from ad-hoc product launche
 
 
 ***
+
+[[Vocabulary/Go-to-Market|Go-to-Market]]
+

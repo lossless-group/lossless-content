@@ -17,7 +17,7 @@ description: 'Paligo is a truly user-friendly Component Content Management Syste
 tags: [Software-Development, Documentation-Engines]
 ---
 
-Part of the current [[Current Stack|Laerdal Tech Stack]], [[Tooling/Software Development/Developer Experience/DevOps/Documentation Engines/Paligo|Paligo]] is a [[Documentation]] tool. It seems to be [[concepts/State of the Art]], and is a more fully-featured [[Documentation]] Engine than most alternatives.
+Part of the current [[client-content/Laerdal/Explorations/Current Stack|Laerdal Tech Stack]], [[Tooling/Software Development/Developer Experience/DevOps/Documentation Engines/Paligo|Paligo]] is a [[Documentation]] tool. It seems to be [[concepts/State of the Art]], and is a more fully-featured [[Documentation]] Engine than most alternatives.
 
 This is an example of our concepts for [[concepts/Cognitive, Collaborative Tooling|Cognitive, Collaborative Tooling]]
 

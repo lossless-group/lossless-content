@@ -5,7 +5,7 @@ title: AI Research Labs
 slug: ai-research-labs
 at_semantic_version: 0.0.0.1
 date_created: 2024-06-17
-date_modified: 2026-07-20
+date_modified: 2026-10-10
 tags:
   - AI-Labs
   - AI-Toolkit
@@ -24,6 +24,8 @@ aliases:
 [[Tooling/AI-Toolkit/Model Producers/Thinking Machines|Thinking Machines]]
 [[Tooling/AI-Toolkit/Model Producers/Moonshot AI|Moonshot AI]]
 [[concepts/Explainers for AI/Frontier Models|Frontier Models]]
+[[Odyssey Systems]]
+
 
 _AI research labs are the “brain centers” of the AI ecosystem: dedicated groups that systematically study, build, and test artificial intelligence systems, turning new ideas into working models and applications._[^jx0b4e] [^49u5k6]
 

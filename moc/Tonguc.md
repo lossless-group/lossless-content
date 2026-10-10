@@ -11,7 +11,7 @@ date_modified: 2026-05-26
 
 :::vocabulary
 - [[Vocabulary/Agile Software Development]]
-- [[Foundation Models in AI|Foundation Models]]
+- [[concepts/Explainers for AI/Foundation Models in AI|Foundation Models]]
 :::
 
 :::concepts

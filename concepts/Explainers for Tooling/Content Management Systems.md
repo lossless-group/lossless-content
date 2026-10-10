@@ -5,7 +5,7 @@ date_modified: 2026-04-22
 aliases: [CMS, Content Management System]
 ---
 
-[[Tooling/Enterprise Jobs-to-be-Done/Content Management Systems/AdaptCMS|AdaptCMS]] is part of the [[Current Stack|Laerdal Stack]].
+[[Tooling/Enterprise Jobs-to-be-Done/Content Management Systems/AdaptCMS|AdaptCMS]] is part of the [[client-content/Laerdal/Explorations/Current Stack|Laerdal Stack]].
 
 :::tool-showcase
 [[Tooling/Enterprise Jobs-to-be-Done/Content Management Systems/Craft CMS|Craft CMS]]

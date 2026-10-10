@@ -20,7 +20,7 @@ date_modified: 2025-12-04
 :::
 
 :::concepts
-- [[concepts/Data Augmentation Workflow|Data Augmentation Workflows]]
+- [[concepts/Data Augmentation Workflows|Data Augmentation Workflows]]
 :::
 
 :::portfolio

@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-28
-date_modified: 2026-06-22
+date_modified: 2026-10-10
 site_uuid: 0c58e2a1-91ae-4030-8976-945a6ef27b06
 aliases:
   - AI Transcription
@@ -21,14 +21,15 @@ slug: ai-powered-transcription
 at_semantic_version: 0.0.0.1
 ---
 :::tool-showcase
-[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Granola|Granola]]
-[[Tooling/AI-Toolkit/Data Augmenters/Limitless AI|Limitless AI]]
-[[Tooling/Productivity/Async Communication/Bubbles|Bubbles]]
-[[Tooling/Productivity/Fathom AI|Fathom AI]]
-[[Tooling/AI-Toolkit/Fireflies.ai|Fireflies.ai]]
-[[Tooling/AI-Toolkit/Knowledge AI/OtterAI|OtterAI]]
-[[Tooling/AI-Toolkit/Knowledge AI/OpenWhispr|OpenWhispr]]
-[[Tooling/AI-Toolkit/Knowledge AI/Meetily|Meetily]]
+- [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Granola|Granola]]
+- [[Tooling/AI-Toolkit/Data Augmenters/Limitless AI|Limitless AI]]
+- [[Tooling/Productivity/Async Communication/Bubbles|Bubbles]]
+- [[Tooling/Productivity/Fathom AI|Fathom AI]]
+- [[Tooling/AI-Toolkit/Fireflies.ai|Fireflies.ai]]
+- [[Tooling/AI-Toolkit/Knowledge AI/OtterAI|OtterAI]]
+- [[Tooling/AI-Toolkit/Knowledge AI/OpenWhispr|OpenWhispr]]
+- [[Tooling/AI-Toolkit/Knowledge AI/Meetily|Meetily]]
+- [[Tooling/AI-Toolkit/Generative AI/WhisprFlow|WhisprFlow]]
 :::
 
 

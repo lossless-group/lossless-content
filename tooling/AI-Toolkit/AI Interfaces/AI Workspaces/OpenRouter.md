@@ -72,7 +72,7 @@ CapitalG [^5u65he] [^5r6gd7] [^ol4gyh]
 [[Menlo Ventures]] [^6cz1ba] [^5u65he] [^8ozbtk]  
 MongoDB Ventures [^5u65he] [^ol4gyh]  
 [[organizations/Nvidia|NVIDIA]] / NVentures [^5u65he] [^ol4gyh]  
-[[Sequoia Capital]] [^6cz1ba] [^5u65he] [^8ozbtk]  
+[[vertical-toolkits/Venture-Capital-Firms/Sequoia Capital]] [^6cz1ba] [^5u65he] [^8ozbtk]  
 ServiceNow Ventures [^ol4gyh]  
 [[Snowflake Ventures]] [^ol4gyh]  
 

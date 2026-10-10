@@ -8,7 +8,7 @@ status: To-Do
 augmented_with: Perplexica AI
 category: Megatrend-Context
 date_created: 2025-06-05
-date_modified: 2025-12-10
+date_modified: 2026-10-09
 site_uuid: 228b1643-27e9-4ee1-9bb7-4a7692d18896
 image_prompt: A dystopian future inside a Data Center where humanoid robots are connecting servers to wires. One robot is carrying a larger server on his back and is sweating
 tags: [AI-Models, Model-Vendors, Cloud-Infrastructure, Data-Centers, Chip-Designs, Chip-Producers]
@@ -25,6 +25,8 @@ https://youtu.be/0rifnPTTBd8?si=mUiToFF_fuMO4j_v
 https://youtube.com/shorts/7mN1WbxDbnQ?si=Yy-EE8ZwjKXcbDld
 
 https://youtu.be/V5fsLN69Erg?si=r4n1-CxtEgdBVBCC
+
+https://youtu.be/zKww9M7QoIY?is=7LXNyy4UYjhx1lVX
 
 ![Practical example or use case visualization](https://media.nature.com/lw767/magazine-assets/d41586-025-01033-y/d41586-025-01033-y_50831832.jpg)
 
@@ -43,15 +45,15 @@ https://youtu.be/V5fsLN69Erg?si=r4n1-CxtEgdBVBCC
 > **Model:** sonar-pro
 > 
 
-The AI Layer 1 blockchain space represents a rapidly evolving intersection of artificial intelligence and decentralized infrastructure, where various projects are building foundational blockchain platforms specifically optimized for AI applications. These platforms aim to provide the high-performance computing and complex data processing capabilities that traditional AI systems require while maintaining decentralization.
+AI represents a rapidly evolving intersection of artificial intelligence and decentralized infrastructure. These platforms aim to provide the high-performance computing and complex data processing capabilities that traditional AI systems require while maintaining decentralization.
 
-## **Leading AI Layer 1 Blockchain Projects**
+## **Leading AI**
 
 **Bittensor** stands as the most established player in this space, functioning as a decentralized AI network infrastructure that breaks down centralized barriers in traditional AI research and development. [^u4vyfy] The platform operates with a sophisticated dual-layer architecture featuring a root network (mainnet) that coordinates the entire system, verifies transactions, and manages TAO token issuance while serving as the hub for resource allocation across the network. [^u4vyfy] Bittensor has gained significant traction by creating an open peer-to-peer ecosystem where participants receive rewards based on their contributions to the network, distinguishing it from centralized AI systems like OpenAI. [^u4vyfy]
 
 **Kite AI** represents one of the newest entrants, having launched its incentive testnet on February 6, 2025, marking it as the first AI-native Layer 1 sovereign blockchain testnet. [^u4vyfy] While still in early stages, its focus on being AI-native from the ground up positions it as a potential significant player in the space.
 
-**Vana, Nillion, and Sahara** round out the five major AI Layer1 projects identified in current market analysis. [^u4vyfy] These platforms each exhibit diverse characteristics in terms of technical architecture, application scenarios, and business models, though specific traction metrics for these projects require further detailed analysis.
+**[[Tooling/Portfolio/Vana|Vana]], [[Nillion]], and [[Sahara]]** round out the five major AI Layer1 projects identified in current market analysis. [^u4vyfy] These platforms each exhibit diverse characteristics in terms of technical architecture, application scenarios, and business models, though specific traction metrics for these projects require further detailed analysis.
 
 ## **Supporting Infrastructure Players**
 
@@ -65,7 +67,7 @@ Several projects provide crucial infrastructure support for AI applications on b
 
 ## **Computing Infrastructure Providers**
 
-**Golem (GLM)** has achieved significant traction with a $250 million market cap by creating a decentralized supercomputer that harnesses idle computers worldwide. [^npq6lz] Users can rent spare computing power for tasks including AI model training, CGI rendering, and scientific research, democratizing access to high-performance computing. [^npq6lz]
+**[[Golem]] (GLM)** has achieved significant traction with a $250 million market cap by creating a decentralized supercomputer that harnesses idle computers worldwide. [^npq6lz] Users can rent spare computing power for tasks including AI model training, CGI rendering, and scientific research, democratizing access to high-performance computing. [^npq6lz]
 
 **Akash Network (AKT)** operates as a decentralized cloud computing marketplace with a $300 million market cap, connecting users needing computing resources with providers having spare capacity. [^npq6lz] This creates a more efficient and cost-effective cloud computing ecosystem particularly beneficial for AI applications requiring significant computing power. [^npq6lz]
 
@@ -75,9 +77,9 @@ Several projects provide crucial infrastructure support for AI applications on b
 
 Several established Layer 1 blockchains are integrating AI capabilities:
 
-**Ethereum** continues to power thousands of decentralized applications and is increasingly being used as infrastructure for AI-related projects. [^46fzl3]
+**[[Ethereum]]** continues to power thousands of decentralized applications and is increasingly being used as infrastructure for AI-related projects. [^46fzl3]
 
-**Solana** positions itself as a highly scalable Layer 1 blockchain built for mass adoption, with its high throughput making it suitable for AI applications requiring rapid processing. [^46fzl3]
+**[[Solana]]** positions itself as a highly scalable Layer 1 blockchain built for mass adoption, with its high throughput making it suitable for AI applications requiring rapid processing. [^46fzl3]
 
 **Near Protocol** offers a climate-neutral, high-speed, and low transaction fee Layer-1 blockchain protocol that supports AI development. [^46fzl3]
 
@@ -85,7 +87,7 @@ Several established Layer 1 blockchains are integrating AI capabilities:
 
 Based on current market capitalizations and adoption metrics, the traction levels vary significantly across players. Numerai leads with substantial institutional adoption in the hedge fund space, while Golem and Akash Network have demonstrated strong market presence with their computing infrastructure solutions. Render Token has gained significant traction in the creative industries, and Cortex is building a growing developer community around blockchain-based AI solutions.
 
-The newer AI-native Layer 1 platforms like Kite AI are still in early development phases, making their long-term traction difficult to assess. However, the increasing interest from investors and developers in AI-blockchain convergence suggests growing market momentum for specialized AI Layer 1 platforms.
+The newer AI like [[Kite AI]] are still in early development phases, making their long-term traction difficult to assess. However, the increasing interest from investors and developers in AI-blockchain convergence suggests growing market momentum for specialized AI Layer 1 platforms.
 
 The overall landscape indicates a maturing ecosystem where established infrastructure providers currently hold the strongest market positions, while newer AI-native platforms are positioning themselves for future growth as the technology stack evolves and mainstream adoption increases.
 

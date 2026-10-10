@@ -18,7 +18,7 @@ aliases:
   - Loop
 ---
 
-An [[concepts/Explainers for Tooling/Advanced Documents]] tool, part of [[Microsoft 365]], part of the [[Current Stack|Laerdal Tech Stack]]
+An [[concepts/Explainers for Tooling/Advanced Documents]] tool, part of [[Microsoft 365]], part of the [[client-content/Laerdal/Explorations/Current Stack|Laerdal Tech Stack]]
 
 ![[Pasted image 20250109153133.png]]
 

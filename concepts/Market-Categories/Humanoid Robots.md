@@ -1,11 +1,19 @@
 ---
 date_created: 2025-04-18
-date_modified: 2026-05-06
+date_modified: 2026-10-10
 site_uuid: d65e1203-fe44-4853-a13f-0e707fd787d9
 publish: true
-title: "Humanoid Robots"
+title: Humanoid Robots
 slug: humanoid-robots
 at_semantic_version: 0.0.0.1
+tags:
+  - Humanoid-Robots
+  - Robotics
+  - Robot-Producers
+for_clients:
+  - Laerdal
+  - Alpha Partners
+  - Alpha-JWC
 ---
 [[Vocabulary/Robotics|Robotics]]
 
@@ -27,11 +35,11 @@ Several companies are leading the development of humanoid robots, supported by n
 - **Funding:** $350M Series A in 2025, backed by Google and others. [^bd3lf6] [^0famkp]  
 - **Progress:** Collaborated with NASA and NVIDIA; aims to price robots below cars. [^0famkp]
 
-### **3. [[organizations/Figure AI]]**
+### **3. [[organizations/Figure AI|Figure AI]]**
 - **Founded:** 2022  
 - **Robots:** Figure 01 (logistics) and Figure 02 (2024).  
-- **Funding:** $70M Series A (2023) led by Parkway VC; $675M Series B (2024) at a $2.6B valuation from Microsoft, NVIDIA, Amazon, and OpenAI. [^hgx6jt] [^55m6e3]  
-- **Progress:** Partnerships with BMW, OpenAI, and Microsoft for AI integration. [^55m6e3]
+- **Funding:** $70M Series A (2023) led by [[vertical-toolkits/Venture-Capital-Firms/Parkway VC]]; $675M Series B (2024) at a $2.6B valuation from Microsoft, [[organizations/Nvidia|NVIDIA]], Amazon, and OpenAI. [^hgx6jt] [^55m6e3]  
+- **Progress:** Partnerships with BMW, [[Tooling/AI-Toolkit/Model Producers/OpenAI|OpenAI]], and Microsoft for AI integration. [^55m6e3]
 
 ### **4. UBTECH Robotics**
 - **Founded:** 2012  

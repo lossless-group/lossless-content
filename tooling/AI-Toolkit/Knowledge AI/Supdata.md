@@ -1,7 +1,7 @@
 ---
 url: https://supadata.ai/
 date_created: 2026-08-09
-date_modified: 2026-08-19
+date_modified: 2026-10-09
 og_title: "Supadata: Web & YouTube to text API for makers"
 og_description: Supadata is one stop-shop API for makers to read web and YouTube content, ready for AI training and retrieval.
 og_image: https://supadata.ai/opengraph-image.png?e1480561d45f2eee
@@ -27,11 +27,11 @@ cf_last_run_model: Perplexity sonar-pro
 
 - Transcript: [[Sources/Transcripts/Oh-My-Pi Is This The Best Agent Harness|Oh-My-Pi Is This The Best Agent Harness]] — source: https://youtu.be/jcCPUcS4yzs?si=QKay5Ecoo24e6eNi
 
-[[concepts/Data Augmentation Workflow|Data-Augmenters]]
+[[concepts/Data Augmentation Workflows|Data-Augmenters]]
 
 # Value Proposition & Features
 
-Supadata is a **hosted API platform** that converts videos and web content into structured, AI‑ready text and metadata, focusing on transcripts for social and hosted video plus website scraping. [^yv5tkd] [^7sedgy] [^3hl7mg] [^sj9dbl] It is positioned as a **one‑stop data layer for AI applications**, enabling agents, RAG systems, and developer tools to pull clean transcripts and content from YouTube, TikTok, Instagram, X/Twitter, Facebook, and web pages via simple JSON APIs. [^7sedgy] [^3hl7mg] [^k0kef0] [^sj9dbl]
+Supadata is a **hosted [[projects/Augment-It/High-Level-Architecture/API|API]] platform** that converts videos and web content into structured, AI‑ready text and metadata, focusing on transcripts for social and hosted video plus website scraping. [^yv5tkd] [^7sedgy] [^3hl7mg] [^sj9dbl] It is positioned as a **one‑stop data layer for AI applications**, enabling agents, RAG systems, and developer tools to pull clean transcripts and content from YouTube, TikTok, Instagram, X/Twitter, Facebook, and web pages via simple JSON APIs. [^7sedgy] [^3hl7mg] [^k0kef0] [^sj9dbl]
 
 Supadata’s core offering is a **transcript‑first API**: given a public video URL, it returns captions or AI‑generated transcripts, with platform‑specific endpoints for YouTube, TikTok, Instagram, X, and hosted video files. [^7sedgy] [^3hl7mg] [^puv788] [^mvwf1f] It also exposes **web content extraction** that turns arbitrary web pages into clean text or Markdown plus metadata, targeting AI pipelines, research workflows, and agent frameworks that need structured content rather than raw HTML. [^7sedgy] [^3hl7mg] [^k0kef0] [^sj9dbl]
 
@@ -92,7 +92,7 @@ A **plain transcript** costs 1 credit; **AI transcripts** for videos without cap
 
 ## Revenue Trajectory Estimates
 
-No reliable revenue, ARR, or growth figures for Supadata are published in credible financial or analyst sources; only pricing and usage tiers are documented. [^n9hnin] [^3hl7mg] [^weio5n] [^sj9dbl]
+No reliable revenue, [[Annual Recurring Revenue]], or growth figures for Supadata are published in credible financial or analyst sources; only pricing and usage tiers are documented. [^n9hnin] [^3hl7mg] [^weio5n] [^sj9dbl]
 
 # Competitive Landscape
 

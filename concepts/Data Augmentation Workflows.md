@@ -1,13 +1,23 @@
 ---
 date_created: 2025-01-13
-date_modified: 2026-08-19
-tags: [Data-Augmenters, Data-Capture]
+date_modified: 2026-10-10
+tags:
+  - Data-Augmenters
+  - Data-Capture
+  - Business-Automations
+  - AI-Powered-Data-Capture
+  - Lossless-Thinking
 site_uuid: 854ce169-40d7-4772-a2f4-5875585fa99d
 publish: true
 title: Data Augmentation Workflow
 slug: data-augmentation-workflow
 at_semantic_version: 0.0.0.1
-aliases: [Data Augmentation Workflows, Data-Augmenters]
+aliases:
+  - Data Augmentation Workflows
+  - Data-Augmenters
+  - data augmentation
+  - Data Augmentation Workflow
+  - Data Augmentation
 ---
 
 
@@ -22,8 +32,11 @@ tags:
 
 https://github.com/kartikkpawar/flow-scrape
 
-[[Tooling/AI-Toolkit/Knowledge AI/Supdata|Supdata]]
-
+:::tool-showcase
+- [[Tooling/AI-Toolkit/Knowledge AI/Supdata|Supdata]]
+- [[Tooling/AI-Toolkit/Data Augmenters/Octoparse|Octoparse]]
+- [[Tooling/AI-Toolkit/Data Augmenters/Docparser]]
+:::
 
 ***
 > [!info] **Perplexity Query** (2025-07-28T16:46:27.467Z)

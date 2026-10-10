@@ -91,7 +91,7 @@ It is not ideal for **engineering teams requiring low‑level control**, custom 
 - **[Apify]** – Cloud scraping and automation platform with a large marketplace of pre‑built “actors,” more developer‑oriented but also accessible to non‑coders via templates. [^1xhsfc] [^2bevzv]  
 - **[Scrapfly Web Scraping API]** – Managed scraping API focused on access, unblocking, and rendering with strong anti‑bot handling for production workflows. [^1xhsfc]  
 - **[[Tooling/AI-Toolkit/Data Augmenters/Zyte|Zyte]]** – Enterprise‑grade scraping and unblocking platform, suitable for heavily protected sites at scale and complex browser rendering. [^5834ie]  
-- **[[Tooling/AI-Toolkit/Data Augmenters/BrightData|BrightData]]** – Large‑scale data collection and proxy network provider, oriented toward enterprises needing robust scraping and data‑as‑a‑service. [^5834ie]  
+- **[[Tooling/AI-Toolkit/Data Augmenters/Bright Data|Bright Data]]** – Large‑scale data collection and proxy network provider, oriented toward enterprises needing robust scraping and data‑as‑a‑service. [^5834ie]  
 - **[Apify / Scrapy / Playwright combo]** – For teams with developers, open‑source frameworks and libraries can replace no‑code platforms with fully custom pipelines. [^1xhsfc] [^2bevzv]  
 
 ## Competitor Table

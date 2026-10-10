@@ -182,7 +182,7 @@ As of 2026-08-17,
 - [[organizations/OpenTofu]] — Community fork of Terraform hosted by the Linux Foundation after HashiCorp’s license change. [^ltqgs5] [^h85bsd] [^y0kosm]  
 - [[Tooling/Software Development/Developer Experience/DevOps/Pulumi|Pulumi]] — Competing Infrastructure as Code platform often mentioned alongside HashiCorp in IaC market coverage. [^hh3vrg] [^h85bsd]  
 - [[concepts/Infrastructure-as-Code|Infrastructure-as-Code]] — Practice exemplified and popularized by Terraform and HCP Terraform. [^y0kosm] [^0y9795]  
-- [[concepts/Zero-Trust Security]] — Security model operationalized via Vault and Boundary. [^7pri6s] [^tbp1zk]  
+- [[Vocabulary/Zero Trust Architecture]] — Security model operationalized via Vault and Boundary. [^7pri6s] [^tbp1zk]  
 - [[concepts/Hybrid Cloud Operations]] — Operating model supported by The Infrastructure Cloud across on‑prem, hybrid, and multi‑cloud estates. [^0y9795] [^1f44x3]
 
 ![Diagram from HashiCorp’s “Infrastructure Cloud” page showing ILM/SLM layers and core products (Terraform, Vault, Consul, Nomad, etc.) across hybrid and multi-cloud environments](https://media.licdn.com/dms/image/v2/D560BAQFBoGhgrPpY9g/company-logo_200_200/B56ZVHpOInHsAI-/0/1740663743267/hashicorp_logo?e=2147483647&v=beta&t=Lyz1LwW15_xFDzHkpd1I6eIXaBBYqVn4wMKWWi4NII0)

@@ -25,7 +25,7 @@ at_semantic_version: 0.0.1.1
 Alternative to [[organizations/Google|Google]]
 
 [[Vocabulary/Web Scraping|Web Scrapers]]
-[[concepts/Data Augmentation Workflow|Data-Augmenters]]
+[[concepts/Data Augmentation Workflows|Data-Augmenters]]
 
 # Value Proposition & Features
 

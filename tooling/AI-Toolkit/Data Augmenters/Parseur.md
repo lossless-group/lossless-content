@@ -34,7 +34,7 @@ https://parseur.com/use-case/automate-work-orders
 
 [[content-areas/AI-Factories-Datacenters/Concepts/Industrial Operations|Industrial Operations]]
 
-[[concepts/Data Augmentation Workflow|Data-Augmenters]]
+[[concepts/Data Augmentation Workflows|Data-Augmenters]]
 
 [[Document Intelligence]]
 

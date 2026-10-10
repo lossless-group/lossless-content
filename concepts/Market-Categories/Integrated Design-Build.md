@@ -10,7 +10,7 @@ cf_last_run_model: Perplexity sonar-pro
 ---
 
 [[Vocabulary/Data Centers|Datacenters]]
-[[Hyperscale Cloud Providers|Hyperscalers]]
+[[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]]
 [[content-areas/AI-Factories-Datacenters/Concepts/Datacenter Builders|Datacenter Builders]]
 
 # Snapshot

@@ -1,8 +1,10 @@
 ---
 date_created: 2025-03-31
-date_modified: 2026-06-15
+date_modified: 2026-10-10
 site_uuid: 01214966-d758-4ccf-9c69-192c0ebbcd14
-aliases: ["[Collaborative Documents, Documents Reimagined]"]
+aliases:
+  - Collaborative Documents
+  - Documents Reimagined
 publish: true
 title: Advanced Documents
 slug: advanced-documents
@@ -10,8 +12,12 @@ at_semantic_version: 0.0.1.1
 authors:
   - Michael Staton
 augmented_with: Perplexity AI
+tags:
+  - Advanced-Documents
+  - Market-Standard-Tools
+  - Market-Standard-Practices
+  - Lossless-Toolkit
 ---
-
 :::tool-showcase
 - [[Tooling/Productivity/Advanced Documents/CraftDocs|CraftDocs]]
 - [[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]]
@@ -33,6 +39,7 @@ An open source variant is [[Tooling/Productivity/Advanced Documents/Affine|Affin
 An early market entrant was [[Tooling/Productivity/Advanced Documents/Quip|Quip]], quickly acquired by [[Salesforce]] and likely has strong integrations with the [[Salesforce]] platform and tooling, thus potentially being good for [[client-content/Laerdal/Sources/Laerdal Entities/Sales Support|Sales Support]]. 
 
 [[Tooling/Productivity/Advanced Documents/CraftDocs|CraftDocs]], [[Tooling/Productivity/Advanced Documents/Obsidian|Obsidian]].
+[[Outline]]
 
 
 
@@ -104,12 +111,12 @@ An early market entrant was [[Tooling/Productivity/Advanced Documents/Quip|Quip]
 
 In addition to the most prominent platforms, there are several **lesser-known advanced docs providers**, including:
 
-- **Airtable:** Focuses on spreadsheet-database hybrids with customizable views and light automation.
-- **Slite:** Emphasizes a clean knowledge base and team wiki experience.
+- **[[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Airtable|Airtable]]:** Focuses on spreadsheet-database hybrids with customizable views and light automation.
+- **[[Slite]]:** Emphasizes a clean knowledge base and team wiki experience.
 - **[[Tooling/Productivity/Advanced Documents/CraftDocs|CraftDocs]]:** Offers Apple-centric flexible docs with nested pages and database blocks.
-- **[[Tooling/Productivity/Fibery]]:** Integrates docs with work management and flexible databases, particularly for product teams.
-- **Confluence:** Atlassian’s collaboration-focused workspace, strong in documentation and team spaces.
-- **Tana, [[Tooling/Productivity/Advanced Documents/Anytype|Anytype]], and [[Tooling/Productivity/Advanced Documents/Roam|Roam]] Research:** Focused on knowledge management, networked thought, and connecting information between modular blocks.
+- **[[Tooling/Productivity/Fibery|Fibery]]:** Integrates docs with work management and flexible databases, particularly for product teams.
+- **[[Tooling/Software Development/Developer Experience/DevTools/Confluence|Confluence]]:** Atlassian’s collaboration-focused workspace, strong in documentation and team spaces.
+- **[[Tooling/Productivity/Tana|Tana]], [[Tooling/Productivity/Advanced Documents/Anytype|Anytype]], and [[Tooling/Productivity/Advanced Documents/Roam|Roam]] Research:** Focused on knowledge management, networked thought, and connecting information between modular blocks.
 
 These tools may be less mainstream but cater to specialized workflows, enhanced knowledge management, or different platform ecosystems.
 

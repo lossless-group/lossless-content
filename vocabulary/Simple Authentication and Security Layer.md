@@ -40,9 +40,9 @@ An application of the Erlang programming language. [^4opykz]
 
 # Adjacent Vocabulary
 
-- **Synonyms**: Protocol authentication framework (SASL-specific, emphasizes modularity); GSSAPI wrapper ([[Kerberos]]-focused subset); SCRAM layer (modern hashed variant). [^vjlm4a] [^xaa42o]
+- **Synonyms**: Protocol authentication framework (SASL-specific, emphasizes modularity); GSSAPI wrapper ([[projects/Emergent-Innovation/Examples/Kerberos]]-focused subset); SCRAM layer (modern hashed variant). [^vjlm4a] [^xaa42o]
 - **Antonyms**: Plaintext Basic Auth (rigid, insecure); Hardcoded credentials (non-negotiable, zero flexibility). [^ojuz1j]
-- **Adjacent terms**: [[SCRAM-SHA-256]], [[Vocabulary/Federated Identity]], [[Zero Trust Authentication]]
+- **Adjacent terms**: [[SCRAM-SHA-256]], [[Vocabulary/Federated Identity]], [[Vocabulary/Zero Trust Architecture]]
 
 # Usage in Practice
 - "SASL works by allowing clients and servers to negotiate which authentication mechanism to use during their communication," enabling flexible CIAM implementations—SSOJet on startup auth stacks. [^vjlm4a]
@@ -55,7 +55,7 @@ An application of the Erlang programming language. [^4opykz]
 - Treating SASL as a standalone security protocol (better: TLS + SASL mechanism, as PLAIN alone is insecure). [^vjlm4a] [^ojuz1j]
 - Confusing with full OAuth flows (better: OAuth over SASL for non-HTTP). [^pqp30p]
 - Marketing "SASL authentication" for web APIs (better: JWT or session cookies). [^ojuz1j]
-- Equating all SASL to [[Kerberos]] (better: specify GSSAPI mechanism). [^ii47cc]
+- Equating all SASL to [[projects/Emergent-Innovation/Examples/Kerberos]] (better: specify GSSAPI mechanism). [^ii47cc]
 
 
 ***

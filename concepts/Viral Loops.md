@@ -1,11 +1,14 @@
 ---
 date_created: 2025-08-23
-date_modified: 2025-08-23
+date_modified: 2026-10-10
 site_uuid: 96a93f00-aac5-4beb-b0eb-7082b3d44d6c
 publish: true
-title: "Viral Loops"
+title: Viral Loops
 slug: viral-loops
 at_semantic_version: 0.0.0.1
+aliases:
+  - viral coefficients
+  - K-Factor
 ---
 
 
@@ -18,3 +21,4 @@ A typical viral loop might involve an incentive for users to invite friends (lik
 For example, social media platforms like Facebook and Dropbox have effectively used viral loops to attract new users. When a current user invites friends to join, those friends not only sign up but also contribute to the network effect, making the service more valuable for everyone involved. 
 
 It's important to note that while creating a viral product can lead to rapid growth, it's not guaranteed and depends on many factors including the product's intrinsic value, the user experience, timing, and marketing efforts.
+

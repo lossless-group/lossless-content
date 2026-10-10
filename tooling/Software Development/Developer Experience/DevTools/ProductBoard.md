@@ -16,7 +16,7 @@ tags:
   - Software-Development
 ---
 
-Part of the [[Current Stack]]
+Part of the [[client-content/Laerdal/Explorations/Current Stack]]
 
 ## ProductBoard API
 Uses [[projects/Emergent-Innovation/Standards/OAuth]] and [[projects/Emergent-Innovation/Standards/JSON Web Tokens]]

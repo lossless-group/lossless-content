@@ -31,4 +31,4 @@ tags:
 
 
 
-Part of the [[Current Stack]].
+Part of the [[client-content/Laerdal/Explorations/Current Stack]].

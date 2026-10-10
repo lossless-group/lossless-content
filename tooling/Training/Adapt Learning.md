@@ -17,6 +17,6 @@ tags:
   - Training
 ---
 
-Part of [[Current Stack|Laerdal Tech Stack]]
+Part of [[client-content/Laerdal/Explorations/Current Stack|Laerdal Tech Stack]]
 
 <span query="get(hero)"></span>![[Screenshot 2025-02-20 at 9.30.38 PM_Adapt-Learning--Hero.png]]<span type="end"></span> ^209ef4

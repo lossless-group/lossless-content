@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-08
-date_modified: 2026-09-11
+date_modified: 2026-10-09
 site_uuid: b105d6c1-6397-4287-9273-acbbb8b51626
 publish: true
 title: Conversational AI
@@ -17,19 +17,24 @@ cf_last_run_model: Perplexity sonar-pro
 ---
 
 :::tool-showcase
-[[Tooling/AI-Toolkit/AI Interfaces/Chat GPT|Chat GPT]]
-[[organizations/Perplexity AI|Perplexity AI]]
-[[Tooling/AI-Toolkit/Models/Vane|Vane]]
-[[Tooling/AI-Toolkit/Models/Claude|Claude]]
-[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Poe AI|Poe AI]]
-[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/LM Studio|LM Studio]]
-[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/MSTY|MSTY]]
-[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Origami|Origami]]
-[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/OpenWebUI|OpenWebUI]]
-[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Synthflow|Synthflow]]
+- [[Tooling/AI-Toolkit/AI Interfaces/Chat GPT|Chat GPT]]
+- [[organizations/Perplexity AI|Perplexity AI]]
+- [[Tooling/AI-Toolkit/Models/Vane|Vane]]
+- [[Tooling/AI-Toolkit/Models/Claude|Claude]]
+- [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Poe AI|Poe AI]]
+- [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/LM Studio|LM Studio]]
+- [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/MSTY|MSTY]]
+- [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Origami|Origami]]
+- [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/OpenWebUI|OpenWebUI]]
+- [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Synthflow|Synthflow]]
 :::
 
 https://youtu.be/f32W5BEzWN0?is=_2yWor_N2Ap7SfCL
+
+[[Contact Center‑as‑a‑Service]]
+[[concepts/Explainers for AI/Helpdesk AI|Helpdesk AI]]
+[[Vocabulary/Chatbots|Chatbots]]
+
 
 *Conversational AI is the layer that lets software talk back in human language, but its modern form grew out of decades of much simpler, rule-based chatbots rather than a single breakthrough.* [^dwx6cn] [^4esnoe]
 

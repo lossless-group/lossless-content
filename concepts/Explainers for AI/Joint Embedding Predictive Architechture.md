@@ -1,6 +1,6 @@
 ---
 date_created: 2026-05-02
-date_modified: 2026-05-02
+date_modified: 2026-10-09
 aliases:
   - JEPA
 cf_last_run: 2026-06-03T07:13:23.134Z
@@ -13,14 +13,18 @@ tags:
   - Explainers
   - AI-Toolkit
   - AI-Research-Labs
+  - Computing-Paradigms
 ---
 
 https://youtu.be/kYkIdXwW2AE?si=KBdjz4DLDf1PARkL 
+https://youtu.be/inDaoHrfsDU?is=681WqHkIA41jGGgQ
+
 [Welch Labs](https://www.youtube.com/@WelchLabs) on [[Sources/Media/YouTube|YouTube]]
 
 [[concepts/Explainers for AI/Vector Embeddings|Vector Embeddings]]
 [[Tooling/AI-Toolkit/AI Programming Frameworks/Sentence Transformers|Sentence Transformers]]
-
+[[Vocabulary/Machine Learning|Machine Learning]]
+[[concepts/Programming Paradigms|Programming Paradigms]]
 
 # Defining and Describing Joint Embedding Predictive Architechture
 

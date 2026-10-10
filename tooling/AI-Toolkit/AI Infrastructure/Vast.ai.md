@@ -99,7 +99,7 @@ Vast.ai is reported to have approximately **$2.2M ARR** with around **38 employe
 
 ## Who it's for, who it's not for
 
-Vast.ai is aimed at **ML researchers, indie developers, and teams running cost-sensitive training, fine-tuning, or batch/offline inference workloads** that can tolerate some variability and occasional interruptions, especially those priced out of major [[Hyperscale Cloud Providers|Hyperscalers]]. [^3cirjd] It is also suitable for users wanting access to **consumer GPUs like RTX 3090/4090** that are not typically available on large cloud platforms. [^3cirjd]
+Vast.ai is aimed at **ML researchers, indie developers, and teams running cost-sensitive training, fine-tuning, or batch/offline inference workloads** that can tolerate some variability and occasional interruptions, especially those priced out of major [[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]]. [^3cirjd] It is also suitable for users wanting access to **consumer GPUs like RTX 3090/4090** that are not typically available on large cloud platforms. [^3cirjd]
 
 It is not ideal for organizations needing **strict production-grade SLAs, uniform infrastructure, and highly predictable performance**, because host quality, bandwidth, uptime, and disk I/O vary across independent providers. [^3cirjd] Workloads that cannot tolerate interruptions or require strong enterprise reliability guarantees may be better suited to more traditional or fully managed GPU clouds. [^3cirjd]
 

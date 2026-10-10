@@ -81,7 +81,7 @@ A **data model visualization** is a graphical representation of the data structu
 
 The field of data modeling has evolved, with modern tools offering advanced features like real-time collaboration, integration with popular databases, cloud-based access, and automation. Here are some of the most popular and modern tools:
 
-#### **1. [[Lucidchart]]**
+#### **1. [[Tooling/Enterprise Jobs-to-be-Done/Lucidchart]]**
 
 - **Key Features**:
     - Cloud-based diagramming and data modeling tool.

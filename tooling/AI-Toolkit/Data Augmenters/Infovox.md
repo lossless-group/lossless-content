@@ -9,5 +9,5 @@ og_favicon: https://cdn.prod.website-files.com/624411d5ef09b0d95229bf69/62a9bdeb
 og_last_fetch: 2025-07-28T16:44:44.180Z
 tags: [API-based-Services, Optical-Character-Recognition, Data-Augmenters]
 ---
-[[concepts/Data Augmentation Workflow|Data-Augmenters]]
+[[concepts/Data Augmentation Workflows|Data-Augmenters]]
 

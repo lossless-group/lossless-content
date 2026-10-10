@@ -130,7 +130,7 @@ No reliable source found with specific revenue or ARR figures for Moonshot AI; a
 Moonshot AI and Kimi are designed for **general users, developers, and enterprises** seeking an AI assistant and LLM platform that excels at very long‑context tasks (legal documents, finance analysis, creative writing), multimodal reasoning, and agentic workflows, with both hosted chat and open‑weight deployment options. [^du1dmk] [^92di2m] [^sdwyh2] [^m5p6tw] [^v02z8j]  
 It particularly suits users who need Chinese and English support, want to self‑host powerful open‑weight models, or integrate an OpenAI‑compatible API and agent tools like Kimi Work and Kimi Code into applications and data workflows. [^92di2m] [^vl431q] [^asr2p9] [^vt6z8f] [^m5p6tw] [^v02z8j]
 
-Moonshot AI may be less suitable for organizations that require exclusively closed proprietary frontier models from US [[Hyperscale Cloud Providers|Hyperscalers]], or that need deeply integrated services in ecosystems tightly bound to other cloud vendors. [^92di2m] [^zayn9u] [^m5p6tw]  
+Moonshot AI may be less suitable for organizations that require exclusively closed proprietary frontier models from US [[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]], or that need deeply integrated services in ecosystems tightly bound to other cloud vendors. [^92di2m] [^zayn9u] [^m5p6tw]  
 
 It is also less aligned with users who prefer simple, low‑control chatbot experiences without interest in long‑context, agent swarms, or developer APIs, since much of its differentiation is in advanced LLM features and tooling. [^92di2m] [^vl431q] [^m5p6tw] [^v02z8j]
 

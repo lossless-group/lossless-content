@@ -1,7 +1,7 @@
 ---
 github_repo_url: https://github.com/vectorize-io/hindsight
 date_created: 2026-05-26
-date_modified: 2026-10-07
+date_modified: 2026-10-09
 docs_url: https://hindsight.vectorize.io/
 og_title: Agent Memory That Learns
 og_description: State of the art long-term memory for your agents.
@@ -24,6 +24,7 @@ cf_last_run: 2026-10-07T04:38:42.209Z
 cf_last_run_model: Perplexity sonar-pro
 cf_retrieved_source_count: 6
 cf_last_run_retrieval: 2026-10-07T04:38:42.209Z
+site_name: Hindsight
 ---
 
 ![Screenshot 2026-10-06 at 11.30.28 PM.png](https://i.imgur.com/0mrSvRi.png)

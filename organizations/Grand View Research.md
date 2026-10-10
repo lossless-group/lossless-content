@@ -1,7 +1,7 @@
 ---
 url: https://www.grandviewresearch.com/
 date_created: 2026-05-23
-date_modified: 2026-10-08
+date_modified: 2026-10-10
 aliases:
   - Grand View Research
   - Grandview Research
@@ -78,37 +78,11 @@ Recent search results show Grand View Research continuing to publish and update 
 
 Grand View Research, Inc reports that it was founded in 2014 and is headquartered at One Embarcadero Center in San Francisco. [^E1] No reliable source found in the available results identifying the founders or documenting specific founding milestones.
 
-## Fundraising History
-
-No reliable public source found in the available results documenting pre-seed, seed, venture, private-equity, or other institutional fundraising.
-
-| Round | Date | Amount | Lead investor |
-|---|---|---:|---|
-| Total | — | No reliable public funding total found | — |
-
-No investors were identified in the available sources.
-
-## Notable Team Members
-
-No reliable source found in the available results identifying founders or notable executives beyond the company-level information supplied by Grand View Research. [^E1]
-
 ## Market Sizing
 
 ### Category, Market Size, and Category Growth
 
 Grand View Research operates in **market research, business intelligence, consulting, pricing and procurement intelligence, and ESG advisory services**. [^E1] Its own reports estimate the size and growth of many client industries—for example, the global data-center market report covers a forecast period from 2026 to 2033. [^ttf2li] Those figures describe the markets analyzed by Grand View Research, not Grand View Research’s own addressable market or revenue opportunity.
-
-## Pricing
-
-| Offering | Published pricing |
-|---|---|
-| Syndicated market-research reports | No public pricing identified |
-| Custom market analysis | No public pricing identified |
-| Consulting services | No public pricing identified |
-| Pricing and procurement intelligence | No public pricing identified |
-| ESG rating and consulting | No public pricing identified |
-
-Report pages instead direct buyers toward purchase options and customized scope. [^szj7l0]
 
 ## Revenue Trajectory Estimates
 

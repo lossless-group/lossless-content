@@ -28,7 +28,7 @@ https://arxiv.org/html/2501.01257v2
 
 [[Tooling/AI-Toolkit/Hugging Face|Hugging Face]]
 
-[[Foundation Models in AI|Foundation Models]]
+[[concepts/Explainers for AI/Foundation Models in AI|Foundation Models]]
 
 # AI Benchmarking and Leaderboards
 

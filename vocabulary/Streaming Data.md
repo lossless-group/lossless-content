@@ -74,7 +74,7 @@ Streaming data applies when information is **emitted incrementally and continuou
   - **Real-time data streaming**: Vendor-preferred phrase for the combination of continuous collection, ingestion, and processing in real time. [^fmavt6] [^riv34n] [^9vr68w]
 
 - **Antonyms**
-  - **Batch data / [[batch processing]]**: Data collected over a period and processed “all at once” at scheduled intervals, leading to hours or days of latency instead of milliseconds or seconds. [^9ds4td] [^8f63ru] [^9vr68w]
+  - **Batch data / [[Batch Processing]]**: Data collected over a period and processed “all at once” at scheduled intervals, leading to hours or days of latency instead of milliseconds or seconds. [^9ds4td] [^8f63ru] [^9vr68w]
   - **Static data**: Snapshots or periodically refreshed datasets that do not reflect continuous change and are not processed as events. [^9ds4td] [^8f63ru]
 
 - **Adjacent terms**

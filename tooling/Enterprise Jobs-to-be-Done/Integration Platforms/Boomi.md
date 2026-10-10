@@ -21,7 +21,7 @@ og_favicon: "https://boomi.com/wp-content/uploads/2024/08/cropped-Boomi_Logo_Ico
 
 
 
-An [[Vocabulary/iPaaS|iPaaS]] and part of the [[03 - Exploration-Findings/Current Stack|Current Stack]]
+An [[Vocabulary/iPaaS|iPaaS]] and part of the [[client-content/Laerdal/Explorations/Current Stack|Current Stack]]
 
 
 

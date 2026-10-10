@@ -122,7 +122,7 @@ It is less suited to general-purpose workloads that do not benefit from accelera
 - **[[Tooling/AI-Toolkit/AI Infrastructure/CoreWeave|CoreWeave]]:** A competing specialized GPU cloud positioned for large Kubernetes-based AI deployments. [^h13mu9]
 - **[[Tooling/AI-Toolkit/AI Infrastructure/RunPod|RunPod]]:** An alternative for flexible containerized GPU workloads. [^h13mu9]
 - **[[Tooling/AI-Toolkit/AI Infrastructure/Vast.ai|Vast.ai]]:** A marketplace-style GPU cloud alternative commonly compared with specialized GPU providers; no stronger entity-specific comparison was available in the search results.
-- **AWS, Microsoft Azure, and Google Cloud:** [[Hyperscale Cloud Providers|Hyperscalers]] alternatives for customers prioritizing broad cloud integration, although the available search results do not provide a detailed current comparison.
+- **AWS, Microsoft Azure, and Google Cloud:** [[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]] alternatives for customers prioritizing broad cloud integration, although the available search results do not provide a detailed current comparison.
 
 ### Competitor Table
 

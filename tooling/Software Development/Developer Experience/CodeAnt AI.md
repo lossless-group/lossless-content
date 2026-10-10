@@ -22,7 +22,7 @@ tags:
   - Large-Codebase-AI
   - AI-Code-Review
 ---
-[[05 - Essays--Drafts/The Rise of The Code Review|The Rise of The Code Review]]
+[[client-content/Laerdal/Draft-Essays/The Rise of The Code Review|The Rise of The Code Review]]
 [[AI Code Reviewers]]
 [[concepts/Explainers for AI/Large Codebase AI|Large Codebase AI]]
 

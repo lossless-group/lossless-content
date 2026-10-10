@@ -68,6 +68,6 @@ description_site_cp: AI driven enterprise cloud software for companies who want 
 
 
 
-[[Current Stack]]
+[[client-content/Laerdal/Explorations/Current Stack]]
 [[Vocabulary/Enterprise Resource Planning|ERP]]
 

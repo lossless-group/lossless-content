@@ -18,7 +18,7 @@ at_semantic_version: 0.0.1.1
 
 [[Tooling/AI-Toolkit/Model Producers/Midjourney|Midjourney]]
 
-[[Foundation Models in AI|Foundation Models]]
+[[concepts/Explainers for AI/Foundation Models in AI|Foundation Models]]
 
 # David Holz
 ![Headshot of David Holz speaking on a tech panel, labeled as founder of Midjourney](https://www.societyforscience.org/wp-content/uploads/sites/4/2026/01/NotableAlumni_headshot_DavidHolz.jpg?w=460)

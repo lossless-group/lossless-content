@@ -6,7 +6,7 @@ date_modified: 2025-03-21
 ---
 
 
-[[Current Stack]]
+[[client-content/Laerdal/Explorations/Current Stack]]
 
 ## Dovetail API
 The [Dovetail API](https://dovetail.com/help/dovetail-api/)

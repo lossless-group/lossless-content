@@ -37,7 +37,7 @@ https://youtu.be/wLLty2GoAuU?si=871XBAKTg45CI8ef
 
 https://youtu.be/OxUP51qk4lQ?si=R9LnHtnBdntvWlH-
 
-[[organizations/Humanoid Robots|Humanoid Robots]]
+[[concepts/Market-Categories/Humanoid Robots|Humanoid Robots]]
 [[organizations/Nvidia|Nvidia]]
 [[organizations/Intel|Intel]]
 [[organizations/AMD|AMD]]

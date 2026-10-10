@@ -22,5 +22,5 @@ tags:
   - Product-Analytics
 ---
 
-Part of the [[Current Stack|Laerdal Stack]]
+Part of the [[client-content/Laerdal/Explorations/Current Stack|Laerdal Stack]]
 

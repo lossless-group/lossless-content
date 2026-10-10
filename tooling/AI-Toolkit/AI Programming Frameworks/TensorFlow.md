@@ -130,7 +130,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 
 
-Part of the [[Current Stack]]
+Part of the [[client-content/Laerdal/Explorations/Current Stack]]
 
 # Value Proposition & Features
 

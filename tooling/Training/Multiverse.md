@@ -98,7 +98,7 @@ Multiverse has raised “over $400 million” in venture funding and reached uni
 - D1 Capital Partners [^7mtkkd]  
 - [[General Catalyst]] [^7mtkkd]  
 - Google Ventures (GV)[^7mtkkd]  
-- [[Lightspeed Venture Partners]] [^7mtkkd]  
+- [[vertical-toolkits/Venture-Capital-Firms/Lightspeed Venture Partners]] [^7mtkkd]  
 - StepStone Group [^7mtkkd]  
 
 ## Notable Team Members

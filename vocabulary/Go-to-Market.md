@@ -4,7 +4,7 @@ tags:
   - GTM-Tools
   - GTM-Platforms
 date_created: 2025-11-26
-date_modified: 2026-05-27
+date_modified: 2026-10-10
 aliases:
   - GTM
   - GTM Strategy
@@ -20,6 +20,7 @@ for_clients:
   - Colearn
   - Reach-U
 ---
+[[concepts/Explainers for Tooling/Go-to-Market Platforms|Go-to-Market Platforms]]
 
 
 ***

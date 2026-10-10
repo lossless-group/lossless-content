@@ -16,7 +16,7 @@ tags:
 ---
 
 
-[[Small Modular Reactors]]
+[[concepts/Market-Categories/Small Modular Reactors]]
 [[Vocabulary/Unmanned Aerial Systems|Drones]]
 [[Vocabulary/Unmanned Aerial Systems|Unmanned Aerial Systems]]
 [[Vocabulary/First-Person View|First-Person View]]

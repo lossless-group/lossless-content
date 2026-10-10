@@ -18,7 +18,7 @@ tags:
   - Agentic-AI
 ---
 
-[[Knowledge AI]]
+[[concepts/Explainers for AI/Knowledge AI]]
 
 
 [[Tooling/AI-Toolkit/Knowledge AI/Stardog|Stardog]]

@@ -32,7 +32,7 @@ https://youtu.be/wW-Rj5MW2EU?si=WWpz3XDGNMDLz7CK
 
 https://youtu.be/wW-Rj5MW2EU?si=JxWwCYlLyRX0LQbd
 
-[[Large Language Models|LLMs]], [[concepts/Explainers for AI/Model Vendors|Model Vendors]], [[Foundation Models in AI|Foundation Models]]
+[[Large Language Models|LLMs]], [[concepts/Explainers for AI/Model Vendors|Model Vendors]], [[concepts/Explainers for AI/Foundation Models in AI|Foundation Models]]
 
 # Defining and Describing Local LLM
 

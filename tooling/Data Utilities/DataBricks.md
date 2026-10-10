@@ -29,7 +29,7 @@ for_clients:
 ---
 
 
-Part of the [[Current Stack]] of Laerdal.
+Part of the [[client-content/Laerdal/Explorations/Current Stack]] of Laerdal.
 
 ### Example of Databricks Documentation
 A good example of [[Documentation]] and [[concepts/Documentation First Development|Documentation First]] development.

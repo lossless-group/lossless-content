@@ -11,7 +11,7 @@ authors:
   - Michael Staton
 augmented_with: Perplexity AI
 ---
-[[concepts/Data Augmentation Workflow|Data-Augmenters]]
+[[concepts/Data Augmentation Workflows|Data-Augmenters]]
 ***
 > [!info] **Perplexity Query** (2025-08-27T18:38:33.513Z)
 > **Question:**

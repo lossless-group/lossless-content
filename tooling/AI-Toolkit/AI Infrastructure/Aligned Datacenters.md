@@ -27,7 +27,7 @@ cf_last_run_retrieval: 2026-10-08T19:03:15.337Z
 ---
 
 [[content-areas/AI-Factories-Datacenters/Concepts/Datacenter Builders|Datacenter Builders]]
-[[Hyperscale Cloud Providers|Hyperscalers]]
+[[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]]
 [[concepts/Build-to-Suit Development|Build-to-Suit]]
 
 ## Retrieved sources

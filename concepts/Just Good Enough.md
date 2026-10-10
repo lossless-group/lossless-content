@@ -1,12 +1,15 @@
 ---
 date_created: 2025-03-30
-date_modified: 2025-08-23
+date_modified: 2026-10-09
 site_uuid: b57bacf1-b37e-440d-aad8-b1ca70d144fa
 publish: true
-title: "Just Good Enough"
+title: Just Good Enough
 slug: just-good-enough
 at_semantic_version: 0.0.0.1
-lede: "Counterintuitively, it's the good business leaders with good business strategies that are also the most likely to get disrupted."
+lede: Counterintuitively, it's the good business leaders with good business strategies that are also the most likely to get disrupted.
+aliases:
+  - Satisficing
+  - Satisficed
 ---
 
 [[Vocabulary/Disruptive Innovation|Disruptive Innovation]]'s most important lesson is "Just Good Enough" for new and more customers is likely the source of a real existential business threat. 

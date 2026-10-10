@@ -18,7 +18,7 @@ authors:
   - Michael Staton
 ---
 
-[[Enabling Technology Accelerants]] 
+[[client-content/Laerdal/Primers/Enabling Technology Accelerants]] 
 
 ## Business Configuration
 According to [[Poe AI]]:

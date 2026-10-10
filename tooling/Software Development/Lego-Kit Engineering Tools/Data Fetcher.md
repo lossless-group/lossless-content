@@ -19,6 +19,6 @@ tags:
 ---
 [[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Airtable|Airtable]]
 [[concepts/Interoperability (Data and Systems)|Interoperability]]
-[[concepts/Data Augmentation Workflow|Data-Augmenters]]
+[[concepts/Data Augmentation Workflows|Data-Augmenters]]
 [[Vocabulary/iPaaS|iPaaS]]
 

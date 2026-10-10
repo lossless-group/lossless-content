@@ -9,7 +9,7 @@ slug: agentic-search
 at_semantic_version: 0.0.0.1
 ---
 [[Vocabulary/Agentic AI|Agentic AI]]
-[[concepts/Data Augmentation Workflow|Data Augmentation Workflow]]
+[[concepts/Data Augmentation Workflows|Data Augmentation Workflows]]
 [[concepts/Explainers for AI/AI-Powered Search|AI-Powered Search]]
 [[concepts/Explainers for AI/AI Web Crawlers|AI Web Crawlers]]
 

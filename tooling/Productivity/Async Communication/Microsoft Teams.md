@@ -32,5 +32,5 @@ tags:
 
 
 
-[[Current Stack]]
+[[client-content/Laerdal/Explorations/Current Stack]]
 

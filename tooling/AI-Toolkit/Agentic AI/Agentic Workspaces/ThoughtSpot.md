@@ -129,7 +129,7 @@ ThoughtSpot was founded in **2012** by Ajeet Singh and Amit Prakash, Indian‑or
 
 Sources for Table: [^zag3w4] [^1778ea]
 
-| Total     | 2012–2021 | ~$623M reported total funding across 6 rounds (some sources cite ~$554M or ~$573M; internal metadata lists $663.7M) | Multiple investors including [[Lightspeed Venture Partners]], [[Khosla Ventures]], [[General Catalyst]], Geodesic Capital, Capital One Growth Ventures [^E1] [^y2qodg] [^zag3w4] [^id63k3] [^1m59hn]
+| Total     | 2012–2021 | ~$623M reported total funding across 6 rounds (some sources cite ~$554M or ~$573M; internal metadata lists $663.7M) | Multiple investors including [[vertical-toolkits/Venture-Capital-Firms/Lightspeed Venture Partners]], [[Khosla Ventures]], [[General Catalyst]], Geodesic Capital, Capital One Growth Ventures [^E1] [^y2qodg] [^zag3w4] [^id63k3] [^1m59hn]
 
 **Investors (alphabetical list)**  
 
@@ -137,7 +137,7 @@ Sources for Table: [^zag3w4] [^1778ea]
 - General Catalyst Partners [^1m59hn]  
 - [[Geodesic Capital]] [^1m59hn]  
 - [[Khosla Ventures]] [^1m59hn]  
-- [[Lightspeed Venture Partners]] [^1m59hn] [^fuv2n3]  
+- [[vertical-toolkits/Venture-Capital-Firms/Lightspeed Venture Partners]] [^1m59hn] [^fuv2n3]  
 - Additional, unspecified investors in later rounds and secondaries (exact list varies by source). [^zag3w4] [^id63k3] [^1778ea]
 
 ---

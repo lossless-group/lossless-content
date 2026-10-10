@@ -6,7 +6,7 @@ aliases:
   - Flexible Organization
 ---
 
-The [[The Tidal Wave of AI|rise of AI]] assures that Flexibility will be one of the most important skill sets of an organization.
+The [[client-content/Laerdal/Primers/The Tidal Wave of AI|rise of AI]] assures that Flexibility will be one of the most important skill sets of an organization.
 
 We believe a necessary step is to separate status, pay, and the chain of command from distinct roles. 
 

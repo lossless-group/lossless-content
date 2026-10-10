@@ -22,7 +22,7 @@ for_clients:
   - Dynamiq
 ---
 
-[[The Tidal Wave of AI#Enterprise AI|Enterprise AI]]
+[[client-content/Laerdal/Primers/The Tidal Wave of AI#Enterprise AI|Enterprise AI]]
 [[Vocabulary/Digital Transformation|Digital Transformation]]
 
 Trying to be a [[concepts/Whole Solution|Whole Solution]]

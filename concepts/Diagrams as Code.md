@@ -1,16 +1,23 @@
 ---
 site_uuid: d0d2bca8-f3a9-42dc-ba42-ec6862f75b5c
 date_created: 2025-08-02
-date_modified: 2026-05-03
+date_modified: 2026-10-10
 publish: true
 title: "Diagrams As Code"
 slug: diagrams-as-code
 at_semantic_version: 0.0.0.1
 ---
-[[essays/We need better Charts]]
-[[Tooling/Software Development/Frameworks/Web Frameworks/Mermaid.js|Mermaid.js]]
-[[Tooling/Enterprise Jobs-to-be-Done/MermaidChart|MermaidChart]]
-[[Tooling/Software Development/Structurizr|Structurizr]]
+[[essays/We need better Charts|We need better Charts]]
+
+:::tool-showcase
+- [[Tooling/Software Development/Frameworks/Web Frameworks/Mermaid.js|Mermaid.js]]
+- [[Tooling/Enterprise Jobs-to-be-Done/MermaidChart|MermaidChart]]
+- [[Tooling/Software Development/Structurizr|Structurizr]]
+- [[Tooling/Enterprise Jobs-to-be-Done/Lucidchart|Lucidchart]]
+- [[Tooling/Software Development/Lego-Kit Engineering Tools/Draw IO|Draw IO]]
+:::
+
+[[projects/Emergent-Innovation/Examples/Unified Modeling Language|UML Diagrams]]
 
 
 ***
@@ -30,7 +37,7 @@ Introduction
 - Diagrams as Code turns visual models into code, letting teams describe nodes, relationships, and layout through declarative or programmatic syntax that a renderer converts into images. [^tjpo2w] By aligning with “docs as code,” it improves traceability, collaboration, and accessibility for technical documentation. [^tjpo2w]
 
 Main Content
-- The core idea is to write diagrams in human-readable text (e.g., Markdown-adjacent DSLs, YAML/JSON, or general-purpose languages like Python) and use a tool to generate SVG/PNG on demand. [^tjpo2w] This shifts effort from pixel-perfect editing to expressing intent—what components exist and how they connect—while the tool handles spacing, alignment, and styling. [^anzw40] Because the source is text, changes are diffable and reviewable in pull requests, enabling the same CI/CD workflows used for code. [^tjpo2w]
+- The core idea is to write diagrams in human-readable text (e.g., [[projects/Emergent-Innovation/Standards/Markdown|Markdown]]-adjacent DSLs, [[projects/Emergent-Innovation/Standards/YAML|YAML]]/[[projects/Emergent-Innovation/Standards/JSON|JSON]], or general-purpose languages like [[Tooling/Software Development/Programming Languages/Python|Python]]) and use a tool to generate SVG/PNG on demand. [^tjpo2w] This shifts effort from pixel-perfect editing to expressing intent—what components exist and how they connect—while the tool handles spacing, alignment, and styling. [^anzw40] Because the source is text, changes are diffable and reviewable in pull requests, enabling the same [[concepts/Continuous Integration and Continuous Delivery|CI/CD]] workflows used for code. [^tjpo2w]
 
 - Practical examples span software architecture, cloud/network topologies, data flows, and onboarding docs. For instance, engineers can script cloud architectures—VPCs, load balancers, databases—and regenerate diagrams as infrastructure evolves, avoiding stale visuals. [^934ur2] Teams often embed these generated images in READMEs so contributors see up-to-date architecture at a glance while the code lives in the repo for easy edits. [^fkjo1n] Python-based libraries can define AWS/Azure/GCP components in a few lines and render architecture views programmatically. [^jm27zz]
 
@@ -58,17 +65,6 @@ Conclusion
 
 ### Citations
 
-[^anzw40]: 2025, Apr 07. [Understanding Diagrams as Code From Idea to Implementation - Gliffy](https://www.gliffy.com/blog/diagrams-as-code). Published: 2024-02-16 | Updated: 2025-04-08
-
-[^jm27zz]: 2025, Jun 15. [Diagram-as-Code: Creating Dynamic and Interactive Documentation ...](https://dev.to/r0mymendez/diagram-as-code-creating-dynamic-and-interactive-documentation-for-visual-content-2p93). Published: 2024-11-19 | Updated: 2025-06-16
-
-[^934ur2]: 2025, Jun 15. [Diagram as Code: Automate Diagrams for DevOps & Cloud - Draft1.ai](https://www.draft1.ai/blog/diagram-as-code-automating-architecture-diagrams-for-devops-and-cloud-engineers). Published: 2024-12-03 | Updated: 2025-06-16
-
-[^tjpo2w]: 2025, Jan 29. [Diagrams as code - The GDS Way](https://gds-way.digital.cabinet-office.gov.uk/standards/diagrams-as-code.html). Published: 2017-08-25 | Updated: 2025-01-30
-
-[^fkjo1n]: 2021, Oct 06. [Diagrams As Code In Your Repo's README - Zus Health](https://zushealth.com/diagrams-as-code-in-your-repos-readme). Published: 2021-10-07
-
-
 
 Based on agent training and emerging infrastructure-as-code patterns, agents have strong fluency with several formats beyond the basics you mentioned. Here are the most promising ones: [^5vm02s] [^hsw9sd]
 
@@ -82,7 +78,7 @@ Based on agent training and emerging infrastructure-as-code patterns, agents hav
 
 ## Visual-to-Text Formats
 
-**DOT (Graphviz)** uses simple text syntax to describe nodes, edges, and graph layouts. Agents fluently generate DOT because it's pure declarative structure—you specify elements and relationships, and rendering engines handle visualization. Users can quickly communicate architectural diagrams, state machines, or dependency graphs through text that agents can both create and modify. [^gq6t38] [^tnpbn3]
+**DOT ([[Tooling/Software Development/Lego-Kit Engineering Tools/Graphviz]])** uses simple text syntax to describe nodes, edges, and graph layouts. Agents fluently generate DOT because it's pure declarative structure—you specify elements and relationships, and rendering engines handle visualization. Users can quickly communicate architectural diagrams, state machines, or dependency graphs through text that agents can both create and modify. [^gq6t38] [^tnpbn3]
 
 **PlantUML** converts plain text descriptions into UML diagrams using an intuitive keyword-based syntax [^ofo6uk] [^j9mivu]. Agents understand the `@startuml`/`@enduml` blocks and relationship operators like `--|>` for inheritance [^ofo6uk]. This lets users collaborate with agents on software architecture, sequence diagrams, and component relationships without touching a mouse [^j9mivu].
 
@@ -94,7 +90,10 @@ The pattern across all these formats is **declarative structure with clear seman
 
 Unlike SVG where agents must manipulate low-level rendering primitives, these formats operate at the conceptual level where both humans and agents naturally think—resources, relationships, constraints, and visual elements.
 
-Sources
+
+***
+# Sources
+
 [^5vm02s]: [Reflections on Declarative Configuration | by Brian Grant - ITNEXT](https://itnext.io/reflections-on-declarative-configuration-c2fe1c1e50d5)
 [^hsw9sd]: [What is Infrastructure as Code with Terraform? - HashiCorp Developer](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/infrastructure-as-code)
 [^t8q5bh]: [Syntax - Configuration Language | Terraform - HashiCorp Developer](https://developer.hashicorp.com/terraform/language/syntax/configuration)
@@ -140,3 +139,9 @@ Sources
 [^vujfi5]: [PlantUML](https://plantuml.com)
 [^hzkj95]: [Utils | Excalidraw developer docs](https://docs.excalidraw.com/docs/@excalidraw/excalidraw/api/utils)
 [^83vxob]: [Graphviz tutorial - YouTube](https://www.youtube.com/watch?v=YL260-A5r2U)
+[^anzw40]: 2025, Apr 07. [Understanding Diagrams as Code From Idea to Implementation - Gliffy](https://www.gliffy.com/blog/diagrams-as-code). Published: 2024-02-16 | Updated: 2025-04-08
+[^jm27zz]: 2025, Jun 15. [Diagram-as-Code: Creating Dynamic and Interactive Documentation ...](https://dev.to/r0mymendez/diagram-as-code-creating-dynamic-and-interactive-documentation-for-visual-content-2p93). Published: 2024-11-19 | Updated: 2025-06-16
+[^934ur2]: 2025, Jun 15. [Diagram as Code: Automate Diagrams for DevOps & Cloud - Draft1.ai](https://www.draft1.ai/blog/diagram-as-code-automating-architecture-diagrams-for-devops-and-cloud-engineers). Published: 2024-12-03 | Updated: 2025-06-16
+[^tjpo2w]: 2025, Jan 29. [Diagrams as code - The GDS Way](https://gds-way.digital.cabinet-office.gov.uk/standards/diagrams-as-code.html). Published: 2017-08-25 | Updated: 2025-01-30
+[^fkjo1n]: 2021, Oct 06. [Diagrams As Code In Your Repo's README - Zus Health](https://zushealth.com/diagrams-as-code-in-your-repos-readme). Published: 2021-10-07
+

@@ -10,7 +10,7 @@ at_semantic_version: 0.0.0.1
 ---
 
 [[Enterprise SaaS]]
-[[Current Stack|Laerdal Stack]]
+[[client-content/Laerdal/Explorations/Current Stack|Laerdal Stack]]
 [What is Enterprise Resource Planning (ERP)?](https://www.ifs.com/what-is/what-is-an-erp-system) [[Industrial and Financial Systems]] Blog. 
 [[Board]]
 [[Tooling/Enterprise Jobs-to-be-Done/NetSuite|NetSuite]]

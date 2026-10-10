@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-19
-date_modified: 2025-12-05
+date_modified: 2026-10-09
 covers_tags: Text-User-Interfaces
 site_uuid: 9658700f-1026-4f85-8a3f-92e17f6f7699
 tags: [Text-User-Interfaces]
@@ -9,9 +9,10 @@ aliases: [Text UI, Console User Interfaces, Console UI]
 
 Related to [[Vocabulary/Command-Line Interfaces|Command-Line Interface]]
 
-A list of Text UI libraries and frameworks are here on the ["Awesome Text UIs" GitHub repository](https://github.com/rothgar/awesome-tuis). 
+A list of Text UI libraries and frameworks are here on the ["Awesome Text UIs" GitHub repository](https://github.com/rothgar/awesome-tuis).
+[[Tooling/AI-Toolkit/Generative AI/Code Generators/Worktrunk]]
 
-[!LLM Response] [[organizations/Perplexity AI|Perplexity AI]] explains [[Vocabulary/Text User Interfaces]]
+[!LLM Response] [[organizations/Perplexity AI|Perplexity AI]] explains [[Vocabulary/Text User Interfaces|Text User Interfaces]]
 Libraries or applications that live entirely within the terminal, such as **Yazi** or **Neovim**, are typically referred to as **Text User Interfaces (TUIs)** or **Console User Interfaces (CUIs)**. These applications provide a user interface that is rendered using text characters, often using libraries like **ncurses**, **blessed**, or **Ratatui** to manage the display and input within the terminal environment.
 
 ## Key Features of TUIs:

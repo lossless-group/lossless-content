@@ -73,7 +73,7 @@ Yellow.ai (originally **Yellow Messenger**) was founded in **2016** by **Raghu R
 | Round    | Date       | Amount        | Lead investor                   |
 | -------- | ---------- | ------------- | ------------------------------- |
 | Series A | 2019-07-11 | ~$4M          | Lightspeed India Partners       |
-| Series B | 2020-04-21 | ~$20M         | [[Lightspeed Venture Partners]] |
+| Series B | 2020-04-21 | ~$20M         | [[vertical-toolkits/Venture-Capital-Firms/Lightspeed Venture Partners]] |
 | Series C | 2021-08-04 | $78M          | WestBridge Capital              |
 | Total    | —          | ~$102–102.15M | —                               |
 Sources [^ouf2je] [^dl45zw] [^eddjo5] [^ms9bln] [^klo00p] [^ouf2je] [^ms9bln] [^klo00p] [^ouf2je] [^ms9bln] [^klo00p] [^ouf2je] [^dl45zw] [^eddjo5] [^klo00p]

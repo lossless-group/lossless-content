@@ -226,7 +226,7 @@ The available search results do not provide reliable round-by-round financial da
 
 ## Financial News Sources
 
-- **[Digital Twin Companies](https://www.marketresearchfuture.com/reports/digital-twin-market/companies)** — Market Research Future — lists [[Siemens]], [[Ansys]], Microsoft, NVIDIA, and other major vendors, and discusses the Siemens–NVIDIA industrial AI relationship.[11]
+- **[Digital Twin Companies](https://www.marketresearchfuture.com/reports/digital-twin-market/companies)** — Market Research Future — lists [[organizations/Siemens]], [[Ansys]], Microsoft, NVIDIA, and other major vendors, and discusses the Siemens–NVIDIA industrial AI relationship.[11]
 
 - **[Digital Twin Market Growth Driven by Siemens, Microsoft, NVIDIA ...](https://www.marketsandmarkets.com/ResearchInsight/digital-twin-companies.asp)** — MarketsandMarkets — provides competitive-company coverage and identifies the strategic investment areas of leading public vendors.[9]
 

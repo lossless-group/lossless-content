@@ -1,6 +1,6 @@
 ---
 date_created: 2025-01-22
-date_modified: 2025-10-02
+date_modified: 2026-10-10
 site_uuid: 2fcce87b-2572-4836-80f9-18c1c98ce2d2
 publish: true
 title: Dependency Management
@@ -9,7 +9,21 @@ at_semantic_version: 0.0.1.1
 authors:
   - Slava Sobolev
   - Ida Soboleva
+aliases:
+  - dependency graphs
+tags:
+  - Large-Codebase-AI
+  - Engineering-Management-Tools
+for_clients:
+  - Laerdal
+  - Param
+  - Tonguc
+  - Parslee
+  - Dynamiq
 ---
+[[Vocabulary/Ephemeral Environments|Ephemeral Environments]]
+[[concepts/Explainers for Tooling/Development Sandboxes|Sandboxes]]
+[[Vocabulary/Containers|Containers]]
 
 ***
 > [!info] **Perplexity Query** (2025-10-02T13:45:00.204Z)
@@ -22,7 +36,7 @@ authors:
 
 ## Introduction to Dependency Management
 
-Dependency management is a critical aspect of software development, especially in large-scale applications. It involves the process of acquiring, updating, and managing libraries or components that a project depends on. In modern software architecture, two popular approaches for organizing codebases are monorepos and polyrepos. Monorepos consolidate multiple projects into a single repository, facilitating unified versioning and streamlined dependency management. Polyrepos, on the other hand, assign each project its own repository, allowing for greater project independence. Effective dependency management is crucial for maintaining stable and scalable applications.
+Dependency management is a critical aspect of [[Vocabulary/Software Development|Software Development]], especially in large-scale applications. It involves the process of acquiring, updating, and managing libraries or components that a project depends on. In modern software architecture, two popular approaches for organizing codebases are monorepos and polyrepos. Monorepos consolidate multiple projects into a single repository, facilitating unified versioning and streamlined dependency management. [[Polyrepos]], on the other hand, assign each project its own repository, allowing for greater project independence. Effective dependency management is crucial for maintaining stable and scalable applications.
 
 ![Dependency Management in Monorepos, Polyrepos, and Code Review concept diagram or illustration](https://monorepo.tools/images/monorepo-polyrepo.svg)
 
@@ -30,7 +44,7 @@ Dependency management is a critical aspect of software development, especially i
 
 ### Monorepo Dependency Management
 
-A monorepo centralizes dependency management by housing all projects and their dependencies within a single repository. This approach simplifies updating shared libraries and reduces version conflicts across projects. For example, when a shared library is updated in a monorepo, all dependent projects can immediately access the updated version, reducing the complexity of managing multiple versions of the same dependency across different projects. Companies like Google and Facebook leverage monorepos to streamline their vast codebases efficiently.
+A [[Vocabulary/Monorepo|Monorepo]] centralizes dependency management by housing all projects and their dependencies within a single repository. This approach simplifies updating shared libraries and reduces version conflicts across projects. For example, when a shared library is updated in a monorepo, all dependent projects can immediately access the updated version, reducing the complexity of managing multiple versions of the same dependency across different projects. Companies like [[organizations/Google|Google]] and [[organizations/Facebook|Facebook]] leverage monorepos to streamline their vast codebases efficiently.
 
 However, monorepos can become complex and require sophisticated tooling to manage scale. They also pose challenges in access control and security, as fine-grained permissions can be difficult to implement, potentially exposing sensitive parts of the codebase.
 

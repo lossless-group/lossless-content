@@ -1,7 +1,7 @@
 ---
 amazon_url: https://a.co/d/1SUwwui
 date_created: 2025-08-08
-date_modified: 2026-06-27
+date_modified: 2026-10-09
 site_uuid: 0b0818ad-64e8-4481-b881-3a2fe97a2cd6
 title: Don't Make Me Think
 slug: dont-make-me-think
@@ -9,7 +9,7 @@ at_semantic_version: 0.0.1.1
 aliases:
   - Don't Make Me Think
 ---
-Influential in [[User Interface]] design and [[client-content/Laerdal/Sources/Laerdal Entities/Customer Experience]].
+Influential in [[User Interface]] and [[Vocabulary/User Experience|User Experience Design]] design, [[Vocabulary/Front-End|Frontend]] and [[client-content/Laerdal/Sources/Laerdal Entities/Customer Experience|Customer Experience]], [[concepts/Explainers for Tooling/Customer Success|Customer Success]]. The endgame is everything is a [[Vocabulary/Chatbots|Chatbot]].
 
 2022, Jan 01. 3rd Edition. [Don't Make Me Think, Revisited : A Common Sense Approach to Web & Mobile Usability](https://a.co/d/1SUwwui). Pearson, Neha Publishers & Distributors.  
 
@@ -37,13 +37,13 @@ Key principles and supporting details:
   
   ![Relevant diagram or illustration related to the topic — e.g., a flow illustrating a user’s effortless navigation through a simple web interface, highlighting minimal cognitive load.](https://readingraphics.com/uploads/2020/01/Dont-Make-Me-Think-Revisited_3-Laws-of-Usability.png)
 
-- **Satisficing behavior**: People look for quick, workable solutions rather than optimal ones. Good design leverages this by guiding users directly to their goals without unnecessary choices or clutter. [^k4pvfr] [^e6jxzr]
+- **[[concepts/Just Good Enough|Satisficing]] behavior**: People look for quick, workable solutions rather than optimal ones. Good design leverages this by guiding users directly to their goals without unnecessary choices or clutter. [^k4pvfr] [^e6jxzr]
 
 - **Navigation must be simple**: Effective navigation and site structures help users quickly find content or complete actions. Krug advocates for straightforward menus, logical paths, and visible cues. [^971hya]
   
   ![Practical example or use case visualization — e.g., a screenshot comparing a confusing menu with an improved, streamlined navigation bar.](https://sekarwrites.com/wp-content/uploads/2024/01/IMG_0301.jpg)
 
-- **Usability testing is essential**: The book stresses the importance of regular, practical usability testing. This can be done easily and inexpensively, allowing teams to iterate and catch issues early. [^k4pvfr] [^evb6m5] Krug’s sequel, "Rocket Surgery Made Easy," expands on testing methods.
+- **[[Usability Testing]] is essential**: The book stresses the importance of regular, practical usability testing. This can be done easily and inexpensively, allowing teams to iterate and catch issues early. [^k4pvfr] [^evb6m5] Krug’s sequel, "Rocket Surgery Made Easy," expands on testing methods.
 
 - **Mobile and accessibility considerations**: Later editions include guidance for mobile interfaces, reinforcing that all users benefit from ease of use, not just desktop users. [^k4pvfr] [^e6jxzr]
 

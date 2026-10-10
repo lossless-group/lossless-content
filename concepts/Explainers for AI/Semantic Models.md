@@ -27,7 +27,7 @@ for_clients:
 
 [[concepts/Explainers for AI/Ontology Management|Ontology Management]]
 [[Tooling/AI-Toolkit/Models/GraphRAG|GraphRAG]]
-[[Knowledge AI]]
+[[concepts/Explainers for AI/Knowledge AI]]
 [[Vocabulary/Knowledge Bases|Knowledge Bases]]
 [[concepts/Concept Model|Concept Model]]
 [[Vocabulary/Data Models|Data Models]]

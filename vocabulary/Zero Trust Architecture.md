@@ -1,11 +1,15 @@
 ---
-date_modified: 2026-05-28
+date_modified: 2026-10-09
 site_uuid: f5e4f82f-1919-4c3f-bf87-41467f35c219
-date_created: 2025-04-06
+date_created: 2026-10-09
 cf_last_run: 2026-05-28T05:13:33.920Z
 cf_last_run_model: Perplexity sonar-pro
 aliases:
   - ZTA
+  - Zero-Trust Architecture
+  - Zero-Trust Authorization
+  - Zero-Trust Auth
+  - Zero-Trust Security
 tags:
   - Computing-Paradigms
   - Lossless-Thinking
@@ -23,7 +27,7 @@ for_clients:
 
 Zero Trust Architecture: This security model assumes no implicit trust, requiring continuous verification of all users and devices accessing network resources
 
-[[Kerberos]]
+[[projects/Emergent-Innovation/Examples/Kerberos]]
 [[Kerberos Consortium]]
 
 # Defining and Describing Zero Trust Architecture
@@ -71,7 +75,7 @@ For innovation work, the term applies when you are designing how products, data 
   - **Implicit trust model** – Any approach where users, devices, or networks are granted ongoing trust once authenticated or placed on a “trusted” segment, rather than per‑request evaluation. [^jd1yrz] [^2kcomt] [^03mnbo]
 
 - **Adjacent terms**
-  - [[concepts/Identity and Access Management]]
+  - [[concepts/Identity and Access Management|Identity and Access Management]]
   - [[Least Privilege]]
   - [[Microsegmentation]]
   - [[Software-defined Perimeter]]

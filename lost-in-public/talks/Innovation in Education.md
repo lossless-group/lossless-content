@@ -2,7 +2,7 @@
 date_of_event: 2016-06-03
 youtube_video_url: "https://youtu.be/j8vKbvnmy6s"
 date_created: 2025-07-22
-date_modified: 2025-07-23
+date_modified: 2026-10-10
 site_uuid: aa41af0a-6445-4c93-a109-c9e9cebb03d3
 title: "Innovation In Education"
 slug: innovation-in-education
@@ -16,3 +16,4 @@ square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Innovation
 
 https://youtu.be/j8vKbvnmy6s
 
+[[K-12 Education]]

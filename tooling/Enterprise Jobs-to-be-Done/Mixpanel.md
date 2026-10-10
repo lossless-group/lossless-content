@@ -57,7 +57,7 @@ The only funding figure returned in the search results was a reported **total of
 [[organizations/AirBnB|AirBnB]]  
 DCM  
 [[Founders Fund]]  
-[[Sequoia Capital]]  
+[[vertical-toolkits/Venture-Capital-Firms/Sequoia Capital]]  
 [[vertical-toolkits/Venture-Capital-Firms/Y Combinator|Y Combinator]]
 
 ## Notable Team Members

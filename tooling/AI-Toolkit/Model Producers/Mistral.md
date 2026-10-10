@@ -1,7 +1,7 @@
 ---
 url: https://mistral.ai/
 date_created: 2025-03-30
-date_modified: 2026-08-23
+date_modified: 2026-10-09
 og_image: https://cms.mistral.ai/assets/060bdeb1-fbff-419c-b2ae-b32b5e441864
 title: Frontier AI LLMs, assistants, agents, services
 description: The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.
@@ -16,6 +16,7 @@ tags:
 ---
 
 Creates and maintains [[AI Models]].  
+[[concepts/Explainers for AI/Foundation Models in AI|Foundation Models in AI]]
 
 Supports and maintains [[Small]]. 
 

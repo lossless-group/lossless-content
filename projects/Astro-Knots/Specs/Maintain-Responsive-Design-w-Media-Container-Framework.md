@@ -12,7 +12,7 @@ status: Draft
 augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
 category: Frontend-Development
 date_created: 2025-08-12
-date_modified: 2025-08-12
+date_modified: 2026-10-09
 tags: [CSS, Responsive-Design, Container-Queries, Media-Queries, Frontend-Development]
 authors:
   - Michael Staton
@@ -318,6 +318,7 @@ flowchart TD
 ## Conclusion
 
 By combining media queries and container queries, we can create truly responsive components that adapt to both viewport and container sizes. This approach provides more flexibility and maintainability in our responsive design system.
+```css
   --color-primary-200: #e4e4e7;
   --color-primary-300: #d4d4d8;
   --color-primary-400: #a1a1aa;

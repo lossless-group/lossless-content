@@ -4,7 +4,7 @@ aliases:
   - Accounts Payable Automation
   - AP Automations
 date_created: 2026-05-27
-date_modified: 2026-06-05
+date_modified: 2026-10-09
 site_uuid: 56df2362-4c9d-4216-bfe5-5965ce803b2d
 publish: true
 title: Accounts Payable Automations
@@ -14,15 +14,16 @@ cf_last_run: 2026-06-05T20:50:01.966Z
 cf_last_run_model: Perplexity sonar-pro
 augmented_with: Perplexity AI using Sonar Pro
 ---
-
+[[vertical-toolkits/FinTech/Nevermined|Nevermined]]
 [[Tooling/AI-Toolkit/Agentic AI/Appzen|Appzen]]
+
 [[concepts/Explainers for AI/Accounting AI|Accounting AI]]
 [[concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]]
 [[Vocabulary/Enterprise Resource Planning|Enterprise Resource Planning]]
 
 _Accounts payable automations use software, AI, and digital workflows to turn slow, manual invoice-to-payment work into a fast, largely touchless process that cuts costs and errors while improving control and visibility. [^g995vu] [^n1rztu] [^7yhsk4] [^10padc]_
 
-Accounts payable (AP) automation refers to technologies—typically cloud software with OCR, AI/ML, and workflow engines—that **capture invoices, validate data, route approvals, and execute payments** with minimal manual intervention. [^g995vu] [^n1rztu] [^7yhsk4] [^107odm] [^10padc] It applies wherever organizations must process significant volumes of supplier invoices and reimbursements, and matters because manual AP is error-prone, expensive per invoice, and a drag on closing the books and managing cash flow. [^g995vu] [^n1rztu] [^2budki] [^6865x9] By integrating with ERP and procurement systems, AP automation helps finance teams improve on-time payments, strengthen compliance, and gain real-time insight into liabilities and spend. [^g995vu] [^2budki] [^p50tep] [^10padc]  
+Accounts payable (AP) automation refers to technologies—typically cloud software with [[Vocabulary/OCR|OCR]], AI/ML, and workflow engines—that **capture invoices, validate data, route approvals, and execute payments** with minimal manual intervention. [^g995vu] [^n1rztu] [^7yhsk4] [^107odm] [^10padc] It applies wherever organizations must process significant volumes of supplier invoices and reimbursements, and matters because manual AP is error-prone, expensive per invoice, and a drag on closing the books and managing cash flow. [^g995vu] [^n1rztu] [^2budki] [^6865x9] By integrating with ERP and procurement systems, AP automation helps finance teams improve on-time payments, strengthen compliance, and gain real-time insight into liabilities and spend. [^g995vu] [^2budki] [^p50tep] [^10padc]  
 
 ![Side-by-side visual comparing manual AP (paper invoices, spreadsheets) versus an AP automation dashboard showing digital invoice capture, approval workflow, and payments](https://tax.thomsonreuters.com/blog/wp-content/uploads/sites/17/2023/03/TR3101349_02A_2500x1250.jpg)
 

@@ -51,7 +51,7 @@ og_favicon: "https://www.craft.do/favicons/light/light_192.png"
 
 [[concepts/Explainers for Tooling/Advanced Documents]]
 ### CraftDocs managing the Innovation Cookbook:
-[[The Lossless Innovation Cookbook]] on [[Tooling/Productivity/Advanced Documents/CraftDocs]].
+[[lost-in-public/lossless-cookbook/The Lossless Innovation Cookbook]] on [[Tooling/Productivity/Advanced Documents/CraftDocs]].
 ![[Screenshot 2025-01-28 at 9.05.25 PM_Lossless_Cookbook--CraftDocs.png]]
 ##### [[Tooling/Productivity/Advanced Documents/CraftDocs]] integrating [[AI Models]] through their [[REST API]]
 ![[Pasted image 20250211110909_AppleAppStore_Streamlining-Updates.png]]

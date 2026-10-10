@@ -20,4 +20,4 @@ The team behind [[Gemini]]
 
 [https://www.reflection.ai](https://www.reflection.ai/)
 
-Backed by [[Sequoia Capital]]
+Backed by [[vertical-toolkits/Venture-Capital-Firms/Sequoia Capital]]

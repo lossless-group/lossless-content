@@ -1,14 +1,23 @@
 ---
 date_created: 2025-12-03
-date_modified: 2026-08-09
+date_modified: 2026-10-10
 site_uuid: 8efacf81-5ce3-41da-9e0f-3752905f9e15
 publish: true
 title: Lead Generation
 slug: lead-generation
-at_semantic_version: 0.0.0.1
-tags: [Marketing-Strategies, Digital-Marketing-Tools, Best-Practices]
+at_semantic_version: 0.0.1.1
+tags:
+  - Marketing-Strategies
+  - Digital-Marketing-Tools
+  - Best-Practices
 ---
-[[concepts/Lead Magnets]]
+[[concepts/Lead Magnets|Lead Magnets]]
+[[concepts/Market-Categories/Sales AI|Sales AI]]
+[[Autonomous SDRs]]
+[[GTM Engineering]]
+[[concepts/Explainers for Tooling/Go-to-Market Platforms|GTM-Engineering Platform]]
+
+
 
 
 ***

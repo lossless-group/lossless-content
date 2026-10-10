@@ -125,4 +125,4 @@ aliases: [Enabling Technologies]
 > 
 > By recognizing enabling technologies and their potential, entrepreneurs can align their timing and ideas with emerging windows of opportunity to create transformative innovations.
 
-[[Enabling Technology Accelerants]]
+[[client-content/Laerdal/Primers/Enabling Technology Accelerants]]
