@@ -21,8 +21,6 @@ cf_last_run: 2026-10-10T04:38:00.494Z
 cf_last_run_model: Perplexity sonar-pro
 ---
 
-
-
 [[concepts/Explainers for AI/Company Brains|Company Brains]]
 [[Sources/Books/Building a Second Brain|Building a Second Brain]]
 [[client-content/Laerdal/Sources/Laerdal Entities/Knowledge Hub|Knowledge Hub]]

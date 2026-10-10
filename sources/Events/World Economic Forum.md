@@ -1,8 +1,11 @@
 ---
-aliases: [WEF]
+aliases:
+  - WEF
 date_created: 2025-11-24
-date_modified: 2025-11-24
-tags: [Events-Producers]
+date_modified: 2026-10-10
+tags:
+  - Events-Producers
+  - Event-Series
 site_uuid: ce1620d9-dd6e-4f52-9163-481c94ae5442
 publish: true
 title: World Economic Forum
@@ -11,6 +14,7 @@ at_semantic_version: 0.0.0.1
 for_clients:
   - The-Water-Foundation
 ---
+[[Sources/Events/The Longevity Investors Conference|The Longevity Investors Conference]]
 
 
 ***

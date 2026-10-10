@@ -86,7 +86,7 @@ The data center construction industry is dominated by specialized firms capable 
 
 ### Top Construction Firms
 
-According to Building Design+Construction's 2024 ranking, the top data center construction companies include **[[Holder Construction]]**, **[[content-areas/AI-Factories-Datacenters/Organizations/HITT Contracting]]**, **[[Turner Construction]]**, **[[DPR Construction]]**, and **Clayco**. [^260b1b] These companies have been consistently ranked among the nation's largest data center contractors. [^e7287f]
+According to Building Design+Construction's 2024 ranking, the top data center construction companies include **[[Holder Construction]]**, **[[content-areas/AI-Factories-Datacenters/Organizations/HITT Contracting]]**, **[[content-areas/AI-Factories-Datacenters/Organizations/Turner Construction]]**, **[[DPR Construction]]**, and **Clayco**. [^260b1b] These companies have been consistently ranked among the nation's largest data center contractors. [^e7287f]
 
 **[[Fortis Construction]]** has been named one of the nation's top-10 data center builders for six consecutive years by Engineering News-Record. [^e7287f] The company ranked #7 in telecommunications construction, which encompasses data centers. [^e7287f]
 
