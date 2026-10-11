@@ -17,7 +17,7 @@ tags:
 ---
 
 [[Generative AI]], [[Vocabulary/Open Source Software]]
-[[Computer-Generated Imagery]], [[Video Generator]]
+[[Computer-Generated Imagery]], [[Vocabulary/Video Generators]]
 
-##### [[ComfyUI]] is a [[Video Generator]]
+##### [[ComfyUI]] is a [[Vocabulary/Video Generators]]
 ![[Screenshot 2025-02-20 at 2.43.00 AM_Comfy-AI--Hero.png]]

@@ -2,8 +2,9 @@
 aliases:
   - Linux
   - Linux Foundation
+  - The-Linux-Foundation
 date_created: 2025-09-05
-date_modified: 2026-08-26
+date_modified: 2026-10-10
 cf_last_run: 2026-05-26T20:57:21.629Z
 cf_last_run_model: Perplexity sonar-pro
 tags:

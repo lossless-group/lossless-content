@@ -60,7 +60,7 @@ Siemens earns revenue by selling industrial and infrastructure equipment, softwa
 - **Mobility:** Passenger trains, rail signaling, rail electrification, and transport digitalization.[^jyt47s][^hm0w9m][^bsagq1]
 - **Industrial software:** Design, simulation, manufacturing, product lifecycle, and semiconductor-design software.
 - **Healthcare technology:** Medical-imaging and diagnostic technologies through Siemens Healthineers, a separately listed affiliated company.
-- **Industrial investment and venture building:** [[Cre8Ventures]] supports robotics, digital twins, semiconductors, quantum technologies, and photonics ecosystems.[^byk038]
+- **Industrial investment and venture building:** [[vertical-toolkits/Venture-Capital-Firms/Cre8Ventures]] supports robotics, digital twins, semiconductors, quantum technologies, and photonics ecosystems.[^byk038]
 
 ## Leadership and People
 

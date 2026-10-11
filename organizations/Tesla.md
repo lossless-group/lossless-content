@@ -12,5 +12,5 @@ at_semantic_version: 0.0.0.1
 [[concepts/Market-Categories/Manufacturing Automation|Advanced Manufacturing]]
 [[Sources/People/Elon Musk|Elon Musk]]
 [[concepts/Market-Categories/Electric Vehicles]]
-[[Tooling/Hardware/Electric Era Technologies|Electric Era Technologies]]
+[[Tooling/Hardware/Energy-Storage/Electric Era Technologies|Electric Era Technologies]]
 

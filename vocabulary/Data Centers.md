@@ -74,7 +74,7 @@ The largest data center operators globally are **hyperscale cloud providers** wh
 
 ### European Market
 
-**[[Yondr Group]]** launched a 40 MW data center project in Frankfurt, Germany, marking its second facility in Europe. [^1c8f6b] **Kevlinx Data Centers** is developing AI-ready facilities in Europe's emerging markets, with a 32MW+ facility planned for Brussels. [^8ce4c7]
+**[[content-areas/AI-Factories-Datacenters/Organizations/Yondr Group]]** launched a 40 MW data center project in Frankfurt, Germany, marking its second facility in Europe. [^1c8f6b] **Kevlinx Data Centers** is developing AI-ready facilities in Europe's emerging markets, with a 32MW+ facility planned for Brussels. [^8ce4c7]
 
 ### Latin American Growth
 

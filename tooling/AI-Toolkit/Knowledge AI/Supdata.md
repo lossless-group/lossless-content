@@ -92,7 +92,7 @@ A **plain transcript** costs 1 credit; **AI transcripts** for videos without cap
 
 ## Revenue Trajectory Estimates
 
-No reliable revenue, [[Annual Recurring Revenue]], or growth figures for Supadata are published in credible financial or analyst sources; only pricing and usage tiers are documented. [^n9hnin] [^3hl7mg] [^weio5n] [^sj9dbl]
+No reliable revenue, [[Vocabulary/Annual Recurring Revenue]], or growth figures for Supadata are published in credible financial or analyst sources; only pricing and usage tiers are documented. [^n9hnin] [^3hl7mg] [^weio5n] [^sj9dbl]
 
 # Competitive Landscape
 

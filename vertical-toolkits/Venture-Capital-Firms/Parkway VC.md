@@ -10,4 +10,4 @@ tags:
   - Venture-Capital-Firms
 ---
 [[xAI]]
-[[organizations/Figure AI|Figure AI]]
+[[Tooling/Hardware/Robotics/Figure AI|Figure AI]]

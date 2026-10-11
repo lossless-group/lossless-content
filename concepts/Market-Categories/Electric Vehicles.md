@@ -28,7 +28,7 @@ cf_last_run_model: Perplexity sonar-deep-research
 [[concepts/Market-Categories/Manufacturing Automation|Advanced Manufacturing]]
 [[organizations/Tesla|Tesla]]
 [[organizations/BYD|BYD]]
-[[Tooling/Hardware/Electric Era Technologies|Electric Era Technologies]]
+[[Tooling/Hardware/Energy-Storage/Electric Era Technologies|Electric Era Technologies]]
 [[content-areas/AI-Factories-Datacenters/Concepts/Smart Grids|Smart Grids]]
 
 # Electric Vehicles
@@ -335,7 +335,7 @@ The electric vehicles category sits at the intersection of several adjacent conc
 
 | Concept Name                                                                    | Relationship to Electric Vehicles                                                                                                                                                                                                                             |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Energy Storage]]                                                              | Utility-scale and behind-the-meter battery storage shares technologies and cost dynamics with EV batteries, as J.P. Morgan’s analysis of lithium-ion cost declines demonstrates, and is essential for integrating EV charging with grids. [^rba3xf] [^a6f8uh] |
+| [[content-areas/AI-Factories-Datacenters/Topics/Energy Storage]]                                                              | Utility-scale and behind-the-meter battery storage shares technologies and cost dynamics with EV batteries, as J.P. Morgan’s analysis of lithium-ion cost declines demonstrates, and is essential for integrating EV charging with grids. [^rba3xf] [^a6f8uh] |
 | Charging Infrastructure                                                         | The network of home, workplace, and public chargers that the IEA projects will grow more than tenfold by 2035 forms an adjacent category with its own hardware, software, and regulatory challenges. [^7xj58a]                                                |
 | Battery Recycling                                                               | Activities exemplified by Redwood Materials and various startups are adjacent but critical, focusing on recovering materials from EV batteries and closing loops to support sustainable EV growth. [^w5qvza] [^rba3xf] [^l62roi]                              |
 | Autonomous Vehicles                                                             | While distinct, autonomous driving technologies often intersect with EVs, as many next-generation autonomous platforms are built on EV architectures that can support high onboard computing loads and connectivity. [^dep90i] [^w5qvza]                      |

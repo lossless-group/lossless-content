@@ -67,4 +67,4 @@ https://youtu.be/0jdFf74WfCQ?si=ErMsEfsvza9oAw8y
 
 [[organizations/Alibaba]]
 
-[[Video Generator]]
+[[Vocabulary/Video Generators]]

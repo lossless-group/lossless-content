@@ -19,7 +19,7 @@ cf_last_run_model: Perplexity sonar-pro
 [[Physical AI]]
 [[Facilities Management Software]]
 [[content-areas/AI-Factories-Datacenters/Concepts/Integrated Electrical and Mechanical Systems|Integrated Electrical and Mechanical Systems]]
-[[BACnet]]
+[[organizations/BACnet]]
 
 # Snapshot
 

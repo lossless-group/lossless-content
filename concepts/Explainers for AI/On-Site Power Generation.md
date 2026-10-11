@@ -5,7 +5,7 @@ tags:
   - Power-Generators
   - On-Site-Power-Generators
 date_created: 2026-06-05
-date_modified: 2026-10-04
+date_modified: 2026-10-10
 site_uuid: 8b286909-23cb-4b05-a268-5c9a885f102e
 publish: true
 title: On-Site Power Generation
@@ -19,7 +19,7 @@ for_clients:
 ---
 
 [[Vocabulary/Betavoltaic Batteries|Betavoltaic Batteries]]
-
+[[content-areas/AI-Factories-Datacenters/Topics/Energy Innovators|Energy Innovators]]
 [[Vocabulary/Data Centers|Datacenters]]
 
 [[client-content/Hypernova/Files/Portfolio/Aalo Atomics|Aalo Atomics]]

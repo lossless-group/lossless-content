@@ -106,7 +106,7 @@ Sintra was founded in **2023** in **Vilnius, Vilniaus Apskritis, Lithuania** by 
 | Round              | Date        | Amount           | Lead investor                                                  |
 | ------------------ | ----------- | ---------------- | -------------------------------------------------------------- |
 | Pre‑Seed           | 2024‑08‑01  | Not disclosed    | Inovo.vc (lead, per vault data) [^E1]                          |
-| Seed               | 2025‑06‑13* | $17.0M (≈€14.9M) | [[Earlybird Venture Capital]] (lead) [^E1] [^id9stp] [^7xjm05] |
+| Seed               | 2025‑06‑13* | $17.0M (≈€14.9M) | [[vertical-toolkits/Venture-Capital-Firms/Earlybird Venture Capital]] (lead) [^E1] [^id9stp] [^7xjm05] |
 | Seed (EstVCA note) | 2025‑06‑13* | $17.0M total     | Practica Capital participating (co‑investor) [^id9stp]         |
 
 \*Seed date is inferred from EstVCA’s “Practica Capital participates in sintra.ai’s $17M seed round – 13 June 2025,” while the vault data lists a formal seed round on 2025‑07‑10. [^id9stp] [^E1]

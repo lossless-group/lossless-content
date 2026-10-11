@@ -18,7 +18,7 @@ og_favicon: https://www.tide.co/favicon-96x96.png
 og_last_fetch: 2026-09-24T23:34:43.273Z
 site_name: Tide Business
 ---
-[[Neobanks]]
+[[concepts/Market-Categories/Neobanks]]
 [[concepts/Explainers for Tooling/Distributed Procurement Systems|Distributed Procurement]]
 [[Tooling/Enterprise Jobs-to-be-Done/Brex|Brex]]
 [[Oxygen]]

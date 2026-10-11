@@ -24,6 +24,6 @@ tags:
   - Text-To-Video
 ---
 
-[[Video Generator]]
+[[Vocabulary/Video Generators]]
 
 ![[Screenshot 2025-02-19 at 1.53.46 PM_Synthesia_Hero.png]]

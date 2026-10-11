@@ -1,12 +1,21 @@
 ---
-date_created: 2025-09-05
-date_modified: 2025-09-20
+date_created: 2025-04-05
+date_modified: 2026-10-10
 site_uuid: 48ae43ce-567c-46a0-a83b-7d2050de5c98
 publish: true
-title: "Repository Management"
+title: Repository Management
 slug: repository-management
 at_semantic_version: 0.0.1.1
+tags:
+  - Repository-Architecture
+  - Monorepo-Management
+  - Engineering-Management
+for_clients:
+  - Edviro
+  - Laerdal
+  - Param
 ---
+[[Vocabulary/Polyrepo|Polyrepos]]
 
 
 ***

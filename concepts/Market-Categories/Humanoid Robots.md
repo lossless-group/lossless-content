@@ -29,13 +29,13 @@ Several companies are leading the development of humanoid robots, supported by n
 - **Funding:** $28.8M from investors like Playground Global and ITIC. [^6rqw07] [^9t39dr]  
 - **Progress:** Partnered with Amazon to test Digit in logistics operations. [^9t39dr]
 
-### **2. [[organizations/Apptronik|Apptronik]]**
+### **2. [[Tooling/Hardware/Robotics/Apptronik|Apptronik]]**
 - **Founded:** 2016  
 - **Robots:** Apollo for industrial and commercial applications.  
 - **Funding:** $350M Series A in 2025, backed by Google and others. [^bd3lf6] [^0famkp]  
 - **Progress:** Collaborated with NASA and NVIDIA; aims to price robots below cars. [^0famkp]
 
-### **3. [[organizations/Figure AI|Figure AI]]**
+### **3. [[Tooling/Hardware/Robotics/Figure AI|Figure AI]]**
 - **Founded:** 2022  
 - **Robots:** Figure 01 (logistics) and Figure 02 (2024).  
 - **Funding:** $70M Series A (2023) led by [[vertical-toolkits/Venture-Capital-Firms/Parkway VC]]; $675M Series B (2024) at a $2.6B valuation from Microsoft, [[organizations/Nvidia|NVIDIA]], Amazon, and OpenAI. [^hgx6jt] [^55m6e3]  

@@ -8,5 +8,6 @@ og_last_fetch: "2025-07-22T15:06:52.419Z"
 og_image: "https://www.chime.com/wp-content/uploads/2024/04/og-lockup-apr2024.png"
 site_uuid: a8e89bc5-ffb9-4275-bd7f-0e62d6d5d2b6
 date_created: 2025-07-22
-date_modified: 2025-07-22
+date_modified: 2026-10-10
 ---
+[[concepts/Market-Categories/Neobanks]]

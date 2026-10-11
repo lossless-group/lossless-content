@@ -45,7 +45,7 @@ The benchmark makes it possible to compare agents against the same incident evid
 
 ## Governance classification
 
-Cloud-OpsBench should not be treated as **de-jure**, **[[industry consortium]]**, or **vendor-led-open**. No formal standards procedure, foundation membership model, or vendor-led governance structure is visible in the available evidence. [^odj6eh] [^gqs05q] Its practical authority currently comes from author credibility, reproducibility of the artifacts, citation and reuse by later research, and the degree to which external implementations adopt its snapshot and process-evaluation model. [^byww9r] [^f2t7oj] [^6fv5pb]
+Cloud-OpsBench should not be treated as **de-jure**, **[[concepts/Industry Consortium]]**, or **vendor-led-open**. No formal standards procedure, foundation membership model, or vendor-led governance structure is visible in the available evidence. [^odj6eh] [^gqs05q] Its practical authority currently comes from author credibility, reproducibility of the artifacts, citation and reuse by later research, and the degree to which external implementations adopt its snapshot and process-evaluation model. [^byww9r] [^f2t7oj] [^6fv5pb]
 
 # Why It Matters
 

@@ -70,7 +70,7 @@ The reported equity total exceeds $2.3 billion through Series E. [^qqjgq6] Debt 
 
 [[Andra Capital]]  
 [[Sources/People/Andrej Karpathy|Andrej Karpathy]]  
-[[Alumni Ventures]]  
+[[vertical-toolkits/Venture-Capital-Firms/Alumni Ventures]]  
 [[ARK Invest]]  
 [[organizations/In-Q-Tel]]  
 [[organizations/Nvidia|NVIDIA]]  

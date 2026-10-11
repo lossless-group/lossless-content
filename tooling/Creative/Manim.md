@@ -24,7 +24,7 @@ url: 'https://www.manim.community/'
 
 
 
-[[Computer-Generated Imagery|CGI]] for mathematical concepts. [[3D Graphics]].  [[Video Generator]]. [[VFX|Visual Effects]]
+[[Computer-Generated Imagery|CGI]] for mathematical concepts. [[3D Graphics]].  [[Vocabulary/Video Generators]]. [[VFX|Visual Effects]]
 
 https://github.com/3b1b/manim
 

@@ -24,5 +24,5 @@ og_last_fetch: 2026-10-04T22:42:48.663Z
 ---
 ![Screenshot 2026-10-04 at 5.43.32 PM.png](https://i.imgur.com/0c9B5VD.jpeg)
 
-[[Vocabulary/Video Generator|Video Generators]]
+[[Vocabulary/Video Generators|Video Generators]]
 [[concepts/Explainers for AI/Image Generators|Image Generators]]

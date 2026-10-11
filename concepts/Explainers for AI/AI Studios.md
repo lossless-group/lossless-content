@@ -120,4 +120,4 @@ The haphazard usage you're noticing is real: vendors often use these terms inter
 
 
 
-[[Video Generator|Video Generation]]
+[[Vocabulary/Video Generators|Video Generation]]

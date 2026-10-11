@@ -24,7 +24,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 https://siliconvalleyinvestclub.com/companies/mercury/
 
-[[Neobanks]]
+[[concepts/Market-Categories/Neobanks]]
 
 # Value Proposition & Features
 

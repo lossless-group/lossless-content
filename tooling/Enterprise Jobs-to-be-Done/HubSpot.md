@@ -1,7 +1,7 @@
 ---
 url: https://www.hubspot.com/
 date_created: 2025-10-22
-date_modified: 2025-10-22
+date_modified: 2026-10-10
 og_title: Software & Tools for your Business
 og_description: HubSpot's customer platform includes all the marketing, sales, customer service, and CRM software you need to grow your business.
 og_image: https://www.hubspot.com/hubfs/assets/hubspot.com/homepage/hero-backgrounds-2025/HS_Full_Bleed_1.jpg
@@ -15,3 +15,6 @@ slug: hubspot
 at_semantic_version: 0.0.0.1
 tags: [CRM, Enterprise-Jobs-To-Be-Done]
 ---
+[[Breeze Assistant]]
+[[Vocabulary/CRM|CRM]]
+[[Vocabulary/Inbound Marketing|Inbound Marketing]]

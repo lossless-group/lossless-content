@@ -19,4 +19,4 @@ og_url: 'https://elai.io/'
 tags: [AI-Toolkit, Generative-AI]
 ---
 
-[[Video Generator]].
+[[Vocabulary/Video Generators]].

@@ -1,5 +1,5 @@
 ---
-date_modified: 2026-05-28
+date_modified: 2026-10-10
 site_uuid: ea3ed0e8-d2d6-47d7-a11c-436f4480a197
 date_created: 2025-04-06
 ---
@@ -15,6 +15,8 @@ https://youtu.be/zQnrae7Y-_I?si=7dle_dnMPGqJk9Vv
 https://youtu.be/YmZsG3AMFqk?si=NdSSGcq9y6kfSXRq
 
 [[Hand Hospitality]]
+[[Tooling/Hardware/Robotics/Bifrost]]
+
 
 ***
 > [!info] **Perplexity Query** (2025-09-17T18:11:29.328Z)

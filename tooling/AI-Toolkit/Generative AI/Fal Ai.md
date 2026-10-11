@@ -31,7 +31,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 
 [[Vocabulary/Generative AI|Generative AI]]
-[[Vocabulary/Video Generator|Video Generators]]
+[[Vocabulary/Video Generators|Video Generators]]
 [[Media Generators]]
 
 # Value Proposition & Features

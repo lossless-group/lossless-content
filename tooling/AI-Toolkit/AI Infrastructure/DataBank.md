@@ -107,7 +107,7 @@ The available materials do not provide a complete, independently verified round-
 
 [[Colony Capital]]
 
-[[DigitalBridge Group]]
+[[content-areas/AI-Factories-Datacenters/Organizations/DigitalBridge Group]]
 
 [[Edgewater Funds]]
 

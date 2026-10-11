@@ -21,7 +21,7 @@ tags:
 ---
 
 [[Generative AI]]
-[[Video Generator]]
+[[Vocabulary/Video Generators]]
 
-##### Hailuo AI is a [[Video Generator]]
+##### Hailuo AI is a [[Vocabulary/Video Generators]]
 ![[Screenshot 2025-02-20 at 2.23.43 AM_Hailuo-AI--Hero.png]]

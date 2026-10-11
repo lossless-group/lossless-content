@@ -2,9 +2,9 @@
 cf_last_run: 2026-05-14T18:54:41.071Z
 cf_last_run_model: Perplexity sonar-pro
 date_created: 2026-05-14
-date_modified: 2026-05-14
+date_modified: 2026-10-10
 ---
-
+[[organizations/Dalio Philanthropies]]
 # Ray Dalio
 ![Professional headshot of Ray Dalio in business attire, used on Bridgewater’s founder biography page](https://achievement.org/wp-content/uploads/2016/04/wordpress_dal1-009.jpg)
 

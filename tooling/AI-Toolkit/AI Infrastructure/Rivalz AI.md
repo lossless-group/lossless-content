@@ -17,7 +17,7 @@ for_clients:
   - Alpha-JWC
 ---
 
-[[Video Generator]]
+[[Vocabulary/Video Generators]]
 
 [[concepts/Explainers for AI/World Foundation Models|World Foundation Models]]
 

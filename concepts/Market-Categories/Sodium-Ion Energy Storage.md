@@ -16,7 +16,7 @@ for_clients:
   - Banner
 ---
 [[content-areas/AI-Factories-Datacenters/Concepts/Smart Grids|Smart Grids]]
-[[Energy Innovators]]
+[[content-areas/AI-Factories-Datacenters/Topics/Energy Innovators]]
 
 # Snapshot
 

@@ -21,7 +21,7 @@ https://youtu.be/alAofcI7Yug?si=te4NpQYm_KZl03Vj
 
 
 [[organizations/Tesla|Tesla]]
-[[CATL]]
+[[organizations/CATL]]
 [[organizations/Huawei|Huawei]]
 
 # Defining and Describing Industrial Overcapacity

@@ -26,7 +26,7 @@ for_clients:
 ---
 
 [[client-content/Hypernova/Files/Portfolio/Aalo Atomics|Aalo Atomics]]
-[[Energy Innovators]]
+[[content-areas/AI-Factories-Datacenters/Topics/Energy Innovators]]
 [[Leadership in Energy and Environmental Design]]
 [[concepts/Market-Categories/Small Modular Reactors|Small Modular Reactors]]
 

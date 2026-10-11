@@ -112,7 +112,7 @@ Sources for Table: [^e1] [^w10shr] [^a20fvm] [^jt2pa3] [^cuk74y] [^57sfdd] [^g26
 - Earl Grey Capital [^w10shr] [^cuk74y]  
 - FirsthandVC [^cuk74y]  
 - Flybridge [^cuk74y]  
-- [[Insight Partners]] [^w10shr] [^cuk74y] [^a20fvm]  
+- [[vertical-toolkits/Venture-Capital-Firms/Insight Partners]] [^w10shr] [^cuk74y] [^a20fvm]  
 - Next Wave NYC [^cuk74y]  
 - Prototype Capital [^cuk74y]  
 - Punch Capital [^cuk74y]  

@@ -102,7 +102,7 @@ Wispr Flow operates in the **AI speech-to-text**, **voice-to-text productivity**
 
 ## Revenue Trajectory Estimates
 
-The supplied metadata reports annual revenue of **$3.8 million**, but no independently verifiable revenue or [[Annual Recurring Revenue|ARR]] source was found in the available search results. [^E1]
+The supplied metadata reports annual revenue of **$3.8 million**, but no independently verifiable revenue or [[Vocabulary/Annual Recurring Revenue|ARR]] source was found in the available search results. [^E1]
 
 # Competitive Landscape
 

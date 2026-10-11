@@ -26,7 +26,7 @@ cf_last_run_model: Perplexity sonar-deep-research
 [[concepts/AI-Powered Supply Chains|Supply Chain AI]]
 [[concepts/Market-Categories/Manufacturing Automation|Advanced Manufacturing]]
 [[organizations/Tesla|Tesla]]
-[[CATL]]
+[[organizations/CATL]]
 [[organizations/BYD|BYD]]
 [[concepts/Market-Categories/Industrial Automations|Industrial AI]]
 

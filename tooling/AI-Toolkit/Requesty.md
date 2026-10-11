@@ -1,7 +1,7 @@
 ---
 url: https://www.requesty.ai/
 date_created: 2026-08-23
-date_modified: 2026-08-23
+date_modified: 2026-10-10
 og_title: "Requesty: AI Gateway & LLM Router for 600+ Models"
 og_description: Route every LLM call through one OpenAI-compatible API. 600+ models from OpenAI, Anthropic, Google and more. Smart routing, caching, failover, observability, EU data residency and enterprise governance.
 og_image: https://www.requesty.ai/opengraph-image.png?opengraph-image.074a-_634kw5z.png?dpl=dpl_6PS5f6N9t93VoiZMp8qKz947MMUv
@@ -161,11 +161,11 @@ Requesty is less suited to teams that **insist on fully self-hosted or open-sour
 
 ## Viable Alternatives
 
-- **OpenRouter** – Hosted OpenAI-compatible router offering broad model access and provider routing with a per-token markup; often cited as the closest functional peer in multi-model access. [^1y1tj0] [^9qy7g8] [^vzj8qb] [^dn7haa]  
-- **Portkey** – Managed and open-source AI gateway emphasizing governance controls, observability and cost monitoring, with a unified API across many models and providers; suitable for teams wanting strong policy and traceability. [^9qy7g8] [^qh05bx] [^dlwr19] [^cfwm7x] 
+- **[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/OpenRouter|OpenRouter]]** – Hosted OpenAI-compatible router offering broad model access and provider routing with a per-token markup; often cited as the closest functional peer in multi-model access. [^1y1tj0] [^9qy7g8] [^vzj8qb] [^dn7haa]  
+- **[[Tooling/AI-Toolkit/AI Programming Frameworks/Portkey|Portkey]]** – Managed and open-source AI gateway emphasizing governance controls, observability and cost monitoring, with a unified API across many models and providers; suitable for teams wanting strong policy and traceability. [^9qy7g8] [^qh05bx] [^dlwr19] [^cfwm7x] 
 - **[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/LiteLLM|LiteLLM]]** – Open-source, self-hosted proxy that provides an OpenAI-compatible interface to 100+ LLMs, appealing to teams wanting full control and on-premise deployment. [^9qy7g8] [^qh05bx] [^dlwr19] [^amom2i]  
 - **Cloudflare AI Gateway** – Managed edge gateway integrated with Cloudflare, offering dynamic routing, quotas, analytics and cost metrics for teams already on Cloudflare’s platform. [^9qy7g8] [^uzl69h] [^dlwr19]  
-- **[[Tooling/AI-Toolkit/Kong|Kong]] AI Gateway / [[Bifrost]] / Vercel AI Gateway / [[OrcaRouter]]** – Various gateways that offer managed or self-host options with different focuses (governance, cost, edge integration, no markup) and are frequently mentioned in 2026 comparisons as Requesty or OpenRouter alternatives. [^1y1tj0] [^9qy7g8] [^dn7haa] [^gd5q2k] [^j0at06] [^dlwr19] [^cfwm7x]
+- **[[Tooling/AI-Toolkit/Kong|Kong]] AI Gateway / [[Tooling/Hardware/Robotics/Bifrost]] / Vercel AI Gateway / [[OrcaRouter]]** – Various gateways that offer managed or self-host options with different focuses (governance, cost, edge integration, no markup) and are frequently mentioned in 2026 comparisons as Requesty or OpenRouter alternatives. [^1y1tj0] [^9qy7g8] [^dn7haa] [^gd5q2k] [^j0at06] [^dlwr19] [^cfwm7x]
 
 ---
 

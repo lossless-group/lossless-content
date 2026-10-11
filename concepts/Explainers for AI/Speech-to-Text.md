@@ -2,12 +2,13 @@
 cf_last_run: 2026-05-13T03:14:55.899Z
 cf_last_run_model: Perplexity sonar-pro
 date_created: 2026-05-13
-date_modified: 2026-10-10
+date_modified: 2026-10-11
 aliases:
   - Speech to Text
   - STT
   - speech-to-text
   - Voice-to-Text
+  - Voice Dictation
 ---
 
 # Speech-to-Text

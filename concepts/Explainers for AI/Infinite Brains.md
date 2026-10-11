@@ -36,7 +36,7 @@ Infinite Context: Systems like [[Tooling/AI-Toolkit/Agentic AI/NinjaTech AI|Ninj
 This video demonstrates how AI agents can operate as a team to enhance productivity: 
 2. Theoretical "Infinite Agent" Systems 
 
-• Mean Field Games (MFG): A theoretical framework used to manage, and understand the behavior of a massive ("infinite") number of agents, which is typically difficult in [[Multi-Agent Reinforcement Learning]] (MARL). 
+• Mean Field Games (MFG): A theoretical framework used to manage, and understand the behavior of a massive ("infinite") number of agents, which is typically difficult in [[concepts/Explainers for AI/Multi-Agent Reinforcement Learning]] (MARL). 
 • Applications: This approach is applied to complex, environments like stock market, modeling, where one agent’s action is influenced by countless others. [^8cwte3] [^6u2jn7]  
 
 3. Limitations and Challenges 
