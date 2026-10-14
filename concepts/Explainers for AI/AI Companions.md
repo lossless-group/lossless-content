@@ -1,6 +1,6 @@
 ---
 date_created: 2025-07-28
-date_modified: 2026-05-07
+date_modified: 2026-10-13
 site_uuid: 52aa6ef0-7358-4801-bec5-da052b534acf
 publish: true
 title: "AI Companions"
@@ -8,10 +8,10 @@ slug: ai-companions
 at_semantic_version: 0.0.0.1
 tags: [Generative-AI, AI-Companions]
 ---
-[[Giant]]
+[[vertical-toolkits/EdTech/Giant]]
 [[Buju AI]]
 
-
+https://youtu.be/jMhaxMsDU7M?is=O0NKOjrxAGRVMvp3
 ***
 > [!info] **Perplexity Query** (2025-07-28T17:02:18.866Z)
 > **Question:**

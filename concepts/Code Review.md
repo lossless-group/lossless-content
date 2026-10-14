@@ -1,5 +1,5 @@
 ---
-date_modified: 2026-06-09
+date_modified: 2026-10-13
 site_uuid: 9e716024-694b-404f-bd2b-d77d8ab8f82a
 date_created: 2025-04-06
 publish: true
@@ -10,11 +10,18 @@ cf_last_run: 2026-06-09T03:45:18.401Z
 cf_last_run_model: Perplexity sonar-pro
 image_prompt: Engineers and robots are doing a code review on a whiteboard.
 ---
+[[concepts/Explainers for AI/Code Generators|AI Code Assistants]]
+[[AI Code Reviewers]]
 
 
-An [[concepts/Explainers for AI/Artificial Intelligence|AI]] tool that helps with this is [[CodeAnt AI]]. 
+An [[concepts/Explainers for AI/Artificial Intelligence|AI]] tool 
+
+[[Tooling/Software Development/Developer Experience/CodeAnt AI|CodeAnt AI]], 
+[[Tooling/AI-Toolkit/Generative AI/Code Generators/CodeRabbit|CodeRabbit]], 
 
 https://youtu.be/AYUNI2Pm6_w?si=yHlWZNqcBUjrtu9Z
+
+https://youtu.be/sxyYoNNTpU8?is=XHx5Yx2RN0OiLJts
 
 # Defining and Describing Code Review
 

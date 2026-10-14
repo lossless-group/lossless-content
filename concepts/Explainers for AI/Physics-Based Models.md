@@ -15,7 +15,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 
 
-[[Physical AI]]
+[[concepts/Market-Categories/Physical AI]]
 [[content-areas/AI-Factories-Datacenters/Concepts/Datacenter Operations|Datacenter Operations]]
 [[lost-in-public/market-maps/Datacenter Operations Systems|Datacenter Operations Systems]]
 
@@ -25,7 +25,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 _Physics-based models turn knowledge of how the world works into equations that can predict how a system behaves._
 
-A **physics-based model** is a mathematical or computational representation of a real physical system necessary for [[Physical AI]], built from governing principles such as conservation laws, constitutive relations, and differential equations. Scientific models are intended to explain or understand a target system or phenomenon and to represent patterns in the behavior of physical systems.[13] They are used when mechanistic understanding, extrapolation beyond observed data, safety, or interpretability matters.
+A **physics-based model** is a mathematical or computational representation of a real physical system necessary for [[concepts/Market-Categories/Physical AI]], built from governing principles such as conservation laws, constitutive relations, and differential equations. Scientific models are intended to explain or understand a target system or phenomenon and to represent patterns in the behavior of physical systems.[13] They are used when mechanistic understanding, extrapolation beyond observed data, safety, or interpretability matters.
 
 Physics-based models may operate alone—for example, a computational fluid-dynamics simulation—or be combined with observations and machine learning. A related hybrid approach, the **physics-informed neural network**, incorporates governing physical laws into the learning process rather than relying only on data.[1][14]
 

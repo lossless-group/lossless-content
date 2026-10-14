@@ -1,13 +1,16 @@
 ---
-date_modified: 2026-08-23
+date_modified: 2026-10-13
 site_uuid: 68cd3815-be52-4ba8-bf0a-b6fdefa0d64c
 date_created: 2025-04-06
 aliases:
   - SSG
   - Static Site Generation
   - Static Site Generator
+  - static-site-generation
 tags:
   - Technology-Trends
 ---
 
-Heavily use [[projects/Emergent-Innovation/Standards/Markdown]], related to [[Vocabulary/JAM Stack|JAM Stack]]
+Heavily use [[projects/Emergent-Innovation/Standards/Markdown|Markdown]], related to [[Vocabulary/JAM Stack|JAM Stack]]
+
+

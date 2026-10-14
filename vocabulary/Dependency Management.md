@@ -36,7 +36,7 @@ for_clients:
 
 ## Introduction to Dependency Management
 
-Dependency management is a critical aspect of [[Vocabulary/Software Development|Software Development]], especially in large-scale applications. It involves the process of acquiring, updating, and managing libraries or components that a project depends on. In modern software architecture, two popular approaches for organizing codebases are monorepos and polyrepos. Monorepos consolidate multiple projects into a single repository, facilitating unified versioning and streamlined dependency management. [[Polyrepos]], on the other hand, assign each project its own repository, allowing for greater project independence. Effective dependency management is crucial for maintaining stable and scalable applications.
+Dependency management is a critical aspect of [[Vocabulary/Software Development|Software Development]], especially in large-scale applications. It involves the process of acquiring, updating, and managing libraries or components that a project depends on. In modern software architecture, two popular approaches for organizing codebases are monorepos and polyrepos. Monorepos consolidate multiple projects into a single repository, facilitating unified versioning and streamlined dependency management. [[Vocabulary/Polyrepos]], on the other hand, assign each project its own repository, allowing for greater project independence. Effective dependency management is crucial for maintaining stable and scalable applications.
 
 ![Dependency Management in Monorepos, Polyrepos, and Code Review concept diagram or illustration](https://monorepo.tools/images/monorepo-polyrepo.svg)
 

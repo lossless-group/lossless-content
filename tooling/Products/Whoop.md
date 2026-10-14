@@ -1,7 +1,7 @@
 ---
 url: https://www.whoop.com/us/en/
 date_created: 2026-05-06
-date_modified: 2026-08-17
+date_modified: 2026-10-12
 og_title: Unlock Human Performance & Healthspan
 og_description: Optimize sleep, strain, and recovery with WHOOP, the most advanced fitness and health wearable.  With personalized insights, improve performance, build healthier habits, and extend healthspan with continuous health monitoring.
 og_image: https://images.ctfassets.net/rbzqg6pelgqa/3CCQWI1KRdKsfMkGIgNfls/1db1bc98dbbca4f4c288cca02729e964/Not_a_whoop_member_image__1_.png
@@ -16,6 +16,8 @@ slug: whoop
 at_semantic_version: 0.0.0.1
 cf_last_run: 2026-08-17T18:09:44.957Z
 cf_last_run_model: Perplexity sonar-pro
+aliases:
+  - WHOOP
 ---
 
 [[Lifespan]]

@@ -22,7 +22,7 @@ cf_last_run_retrieval: 2026-10-08T16:49:17.771Z
 
 * Founded: May 2025 by CEO Tomer Timor and CTO Edward Kizis.
 * Funding: Raised $12 million in a seed round in March 2026.
-* Investors: Led by Glilot Capital Partners, with [[vertical-toolkits/Venture-Capital-Firms/Grove Ventures]], [[Arc VC]], [[vertical-toolkits/Venture-Capital-Firms/Encoded VC]], [[Leap Forward Ventures]], and [[vertical-toolkits/Venture-Capital-Firms/Aurora Capital Partners]]. [^v11e6j] 
+* Investors: Led by Glilot Capital Partners, with [[vertical-toolkits/Venture-Capital-Firms/Grove Ventures]], [[Arc VC]], [[vertical-toolkits/Venture-Capital-Firms/Encoded VC]], [[vertical-toolkits/Venture-Capital-Firms/Leap Forward Ventures]], and [[vertical-toolkits/Venture-Capital-Firms/Aurora Capital Partners]]. [^v11e6j] 
 
 ## Core Technology
 

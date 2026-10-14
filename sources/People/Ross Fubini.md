@@ -9,4 +9,4 @@ title: "Ross Fubini"
 slug: ross-fubini
 at_semantic_version: 0.0.0.1
 ---
-[[XYZ Venture Capital]]
+[[vertical-toolkits/Venture-Capital-Firms/XYZ Venture Capital]]

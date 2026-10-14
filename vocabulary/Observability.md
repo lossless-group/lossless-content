@@ -22,7 +22,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 [[Vocabulary/Backend Development|Backend Development]]
 [[Vocabulary/Back-End Engineering|Back-End Engineering]]
-[[OpenObserve]]
+[[Tooling/Software Development/DevOps/OpenObserve]]
 [[Tooling/Data Utilities/ObservableHQ|ObservableHQ]]
 [[concepts/Platform Engineering|Platform Engineering]]
 

@@ -1,7 +1,7 @@
 ---
 url: https://deno.com/
 date_created: 2025-03-30
-date_modified: 2025-12-03
+date_modified: 2026-10-13
 site_uuid: 8eaa13e0-9d6a-4d21-9952-eeff496eeefb
 og_title: Deno, the next-generation JavaScript runtime
 og_image: https://deno.com/og/image.jpg
@@ -17,6 +17,7 @@ favicon: https://deno.com/favicon.ico
 jina_last_request: 2025-03-09T06:45:05.393Z
 jina_error: Error occurred
 ---
+Acquired by [[Tooling/Software Development/Cloud Infrastructure/Cloudflare|Cloudflare]]
 
 # Deno
 

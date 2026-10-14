@@ -13,5 +13,5 @@ tags:
 aliases:
   - Informat Connect
 ---
-[[Events and Conferences MoC]]
+[[moc/Events and Conferences MoC]]
 

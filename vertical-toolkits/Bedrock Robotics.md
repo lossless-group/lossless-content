@@ -8,7 +8,7 @@ og_site_name: Bedrock Robotics
 og_type: website
 og_last_fetch: 2026-07-18T16:39:00.822Z
 date_created: 2026-07-18
-date_modified: 2026-08-05
+date_modified: 2026-10-13
 tags:
   - Vertical-Robotics
   - Construction-Robots
@@ -23,3 +23,4 @@ at_semantic_version: 0.0.0.1
 [[vertical-toolkits/CleanTech/Terrafirma|Terrafirma]]
 [[Vocabulary/Robotics|Robotics]]
 [[concepts/Robotics-as-a-Service|Robotics-as-a-Service]]
+[[concepts/Market-Categories/Autonomous and Remote-Controlled Heavy Equipment]]

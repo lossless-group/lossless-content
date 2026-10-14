@@ -27,7 +27,7 @@ for_clients:
 
 [[Tooling/Software Development/Frameworks/Web Frameworks/Astro|Astro]]
 [[Vocabulary/Static Site Generators|Static Site Generators]]
-[[Webflow]]
+[[Tooling/Enterprise Jobs-to-be-Done/Webflow]]
 [[Tooling/Software Development/Lego-Kit Engineering Tools/UI Builders/WebStudio|WebStudio]]
 [[Vocabulary/Marketing Automation|Marketing Automation]]
 [[Vocabulary/Search Engine Optimization|Search Engine Optimization]]

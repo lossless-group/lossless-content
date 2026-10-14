@@ -109,7 +109,7 @@ The available materials do not provide a complete, independently verified round-
 
 [[content-areas/AI-Factories-Datacenters/Organizations/DigitalBridge Group]]
 
-[[Edgewater Funds]]
+[[vertical-toolkits/Venture-Capital-Firms/Edgewater Funds]]
 
 Allstate
 

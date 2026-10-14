@@ -16,7 +16,7 @@ cf_last_run: 2026-10-08T17:10:27.620Z
 cf_last_run_model: Perplexity sonar-pro
 ---
 
-[[Physical AI]]
+[[concepts/Market-Categories/Physical AI]]
 [[Facilities Management Software]]
 [[content-areas/AI-Factories-Datacenters/Concepts/Integrated Electrical and Mechanical Systems|Integrated Electrical and Mechanical Systems]]
 [[organizations/BACnet]]

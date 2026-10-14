@@ -86,7 +86,7 @@ For innovation work, **inference** is the *deployment and usage phase* of AI—w
 - [[D‑Matrix]], an AI hardware startup, defines it for customers: “*AI inference, simply put, is the process of running an AI model to perform a specific task… In real-world deployment, it’s the inference step that creates responses to user requests.*”[^zbu0rv]  
 - SUSE, discussing enterprise deployments, writes: “*AI inference is the operational phase where trained machine learning models make real-time predictions on new data in production environments.*”[^pwf01n]  
 - SambaNova, an AI systems company, notes: “*AI inference is the process of using a trained AI model to analyze new, unseen data and generate outputs such as predictions, classifications, or generated content.*”[^2cuxzt]  
-- [[Nebius]], a cloud provider, draws the pipeline contrast: “Training involves feature selection, data processing and model optimization, while inference applies the trained model to real-world data for predictions.”[^yn8ztb]  
+- [[Tooling/AI-Toolkit/AI Infrastructure/Nebius]], a cloud provider, draws the pipeline contrast: “Training involves feature selection, data processing and model optimization, while inference applies the trained model to real-world data for predictions.”[^yn8ztb]  
 - A [[Tooling/Software Development/Cloud Infrastructure/Google Cloud|Google Cloud]] explainer aimed at product teams states: “*AI inference is the process of running a trained AI model to make predictions on new, unseen data.*”[^6mhuni]  
 
 ---

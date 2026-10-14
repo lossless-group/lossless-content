@@ -15,7 +15,7 @@ cf_last_run: 2026-10-08T17:30:03.647Z
 cf_last_run_model: Perplexity sonar-pro
 ---
 
-[[Physical AI]]
+[[concepts/Market-Categories/Physical AI]]
 [[content-areas/AI-Factories-Datacenters/Concepts/AI Factories|AI Factories]]
 [[Vocabulary/Data Centers|Datacenters]]
 [[Vocabulary/Containers|Containers]]

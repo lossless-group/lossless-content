@@ -199,7 +199,7 @@ It is not positioned as a general-purpose developer tracing library, a call-cent
 - **[[AgentX AI]]:** Enterprise platform for orchestrating, evaluating, tracing, and observing AI workforces and agents. [^E1]
 - **[[Prefactor]]:** Production-agent evaluation and observability focused on quality, drift, risk, and regressions. [^E2]
 - **Glass:** AI-agent observability with detailed traces, tool-use visibility, failure analysis, and cost-impact analysis. [^E5]
-- **[[OpenObserve]]:** Open-source unified observability combining logs, metrics, traces, real-user monitoring, and LLM observability. [^E6]
+- **[[Tooling/Software Development/DevOps/OpenObserve]]:** Open-source unified observability combining logs, metrics, traces, real-user monitoring, and LLM observability. [^E6]
 - **Observe by Snowflake Agent Observability:** Emerging Snowflake capability for monitoring, debugging, and improving AI agents and LLM applications. [^049spg]
 
 ## Competitor Table

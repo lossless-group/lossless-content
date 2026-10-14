@@ -2,8 +2,9 @@
 aliases:
   - AI Doomscrolling
   - AI existential risks
+  - AI existential risk
 date_created: 2025-08-21
-date_modified: 2026-10-04
+date_modified: 2026-10-13
 site_uuid: c1974970-65ef-4f18-9196-f2f61987f20e
 publish: true
 title: AI Doomerism
@@ -20,7 +21,9 @@ tags:
 [[concepts/Explainers for AI/AI Research Labs|AI Research Labs]]
 
 [[Vocabulary/Dynamic Pricing|Dynamic Pricing]]
-[[concepts/Explainers for AI/Surveillance Wages]]
+[[concepts/Explainers for AI/Surveillance Wages|Surveillance Wages]]
+
+https://youtu.be/r5r4g3AL2as?is=dr6e_CoVY2JSctmJ
 
 
 # Defining and Describing AI Doomerism
@@ -56,7 +59,7 @@ F --> G["Catastrophic or existential outcome"]
 
 ## Origins
 
-- The intellectual roots of AI doomerism lie in arguments about **machine intelligence, control, and alignment** developed in the rationalist and AI-safety communities. Eliezer Yudkowsky, founder of the Machine Intelligence Research Institute, is described as a major early figure who argued that a superintelligence misaligned with human values could be fatal. [^jaw3mo]
+- The intellectual roots of AI doomerism lie in arguments about **machine intelligence, control, and alignment** developed in the rationalist and AI-safety communities. Eliezer Yudkowsky, founder of the [[organizations/Machine Intelligence Research Institute]], is described as a major early figure who argued that a superintelligence misaligned with human values could be fatal. [^jaw3mo]
 - The modern movement’s central concern is not generic opposition to technological progress, but the claim that a “grown” superintelligent AI could be unpredictable, uncontrollable, and difficult to align after deployment. [^ny1ktx]
 - The label “AI doomer” later became a broader media and public term for advocates of this existential-risk position, including figures such as Yudkowsky and, more recently, Geoffrey Hinton. [^jaw3mo]
 

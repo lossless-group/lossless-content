@@ -50,7 +50,7 @@ Genesis AI’s public description points to robotics development and physical-AI
 # Adjacent Entries
 
 - [[Vocabulary/Robotics|Robotics]]
-- [[Physical AI]]
+- [[concepts/Market-Categories/Physical AI]]
 - [[Embodied AI]]
 - [[concepts/Explainers for AI/Artificial Intelligence|Artificial Intelligence]]
 

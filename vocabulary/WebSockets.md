@@ -1,6 +1,6 @@
 ---
 date_created: 2025-01-21
-date_modified: 2026-06-17
+date_modified: 2026-10-13
 wikipedia_url: https://en.wikipedia.org/wiki/WebSocket
 aliases:
   - WebSocket
@@ -19,6 +19,10 @@ tags:
   - Open-Specifications
 cf_last_run: 2026-06-17T22:23:11.141Z
 cf_last_run_model: Perplexity sonar-pro
+for_clients:
+  - Laerdal
+  - Tonguc
+  - Edviro
 ---
 
 
@@ -27,13 +31,15 @@ cf_last_run_model: Perplexity sonar-pro
 
 https://youtu.be/vuezTFo4kRE?is=5rxFsgfDi9YoFWSo
 
+https://youtu.be/vuezTFo4kRE?is=zuNThxJr_hDQBcQl
+
 # Defining and Describing WebSockets
 
 ![Browser-to-server WebSocket handshake and persistent bidirectional message flow diagram](https://websocket.org/_astro/websockets-pubsub-pattern.DGkS3Znz_Zpb6FO.webp)
 
 - _WebSockets are a protocol for **persistent, two-way communication** between a client and server over a single connection, commonly used when a startup or product team needs real-time updates without constant polling._[^pmmw2c] [^z518hl]
 
-WebSockets apply when a product needs live, event-driven interaction—such as telemetry, notifications, chat, trading, or voice streams—and do **not** describe ordinary request/response HTTP calls or one-off API fetches. [^7hezdn] [^pmmw2c] [^gz85l2] [^z518hl] An innovation consultant would care because WebSockets change product architecture, latency, infrastructure cost, and user experience: they let teams push data instantly, but also require connection management, authentication, and infrastructure that can handle long-lived sessions. [^7hezdn] [^gz85l2] [^5bftii] [^z518hl]
+WebSockets apply when a product needs live, event-driven interaction—such as telemetry, notifications, chat, trading, or voice streams—and do **not** describe ordinary request/response [[projects/Emergent-Innovation/Standards/HTTPS|HTTPS]] calls or one-off [[Vocabulary/Application Programming Interface|API]] fetches. [^7hezdn] [^pmmw2c] [^gz85l2] [^z518hl] An innovation consultant would care because WebSockets change product architecture, latency, infrastructure cost, and user experience: they let teams push data instantly, but also require connection management, authentication, and infrastructure that can handle long-lived sessions. [^7hezdn] [^gz85l2] [^5bftii] [^z518hl]
 
 # Disambiguation
 
@@ -42,9 +48,9 @@ WebSockets apply when a product needs live, event-driven interaction—such as t
 **WebSockets** are a web protocol that keeps a connection open so a client and server can exchange messages in both directions in real time. [^pmmw2c] [^z518hl]
 
 - WebSockets are used for **real-time** product flows such as telemetry updates, entity changes, alarms, notifications, and streaming services, rather than periodic polling. [^7hezdn] [^gz85l2] [^z518hl]
-- The protocol starts with an HTTP-based connection setup and then switches to WebSocket messaging over the same TCP connection. [^pmmw2c] [^z518hl]
+- The protocol starts with an HTTP-based connection setup and then switches to WebSocket messaging over the same [[projects/Emergent-Innovation/Standards/TCP-IP|TCP-IP]] connection. [^pmmw2c] [^z518hl]
 - This sense is what founders and product teams usually mean when they say a system “uses WebSockets” in a startup architecture discussion. [^7hezdn] [^pmmw2c] [^z518hl]
-- It is **not** the same thing as REST, normal HTTP APIs, server-sent events, or a generic “socket” in the networking sense, even though those may solve adjacent problems. [^pmmw2c] [^z518hl]
+- It is **not** the same thing as [[Vocabulary/REST API|REST API]], normal HTTP APIs, server-sent events, or a generic “socket” in the networking sense, even though those may solve adjacent problems. [^pmmw2c] [^z518hl]
 
 ## Other senses
 
@@ -53,7 +59,7 @@ WebSockets apply when a product needs live, event-driven interaction—such as t
 A **WebSocket API** is a product-specific interface exposed over the WebSocket protocol for streaming or bidirectional integration. [^7hezdn] [^2d92vj] [^gz85l2]
 
 - ThingsBoard describes a “WebSocket API” that lets clients subscribe to telemetry, entity data changes, alarm events, and notifications, with updates pushed instantly. [^7hezdn]
-- LSEG describes a “Websocket API” as a server-side interface for direct WebSocket access to market-content streams using JSON and WebSocket protocols. [^2d92vj]
+- LSEG describes a “Websocket API” as a server-side interface for direct WebSocket access to market-content streams using [[projects/Emergent-Innovation/Standards/JSON|JSON]] and WebSocket protocols. [^2d92vj]
 - Palantir’s “WebSocket listeners” route incoming data to compute modules and are designed for bidirectional workflows, especially real-time audio and telephony. [^gz85l2]
 - In innovation contexts, this is the practical implementation layer, not a separate protocol concept. [^7hezdn] [^2d92vj] [^gz85l2]
 

@@ -211,7 +211,7 @@ The boundary is disputed at the edge of **industrial AI and robotics**: some ope
 
 **Stage**: Series B; 2025
 
-**Funding**: [[Collaborative Robotics]] reportedly raised a **$100 million Series B in 2025**, with [[vertical-toolkits/Venture-Capital-Firms/Sequoia Capital]] identified among its backers.[14]
+**Funding**: [[content-areas/AI-Factories-Datacenters/Organizations/Collaborative Robotics]] reportedly raised a **$100 million Series B in 2025**, with [[vertical-toolkits/Venture-Capital-Firms/Sequoia Capital]] identified among its backers.[14]
 
 **Footprint**: The company is developing collaborative and mobile robots intended for deployment around human workers; the supplied source does not provide a current customer or employee count.[14]
 

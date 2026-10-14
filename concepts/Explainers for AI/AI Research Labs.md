@@ -24,7 +24,7 @@ aliases:
 [[Tooling/AI-Toolkit/Model Producers/Thinking Machines|Thinking Machines]]
 [[Tooling/AI-Toolkit/Model Producers/Moonshot AI|Moonshot AI]]
 [[concepts/Explainers for AI/Frontier Models|Frontier Models]]
-[[Odyssey Systems]]
+[[Tooling/AI-Toolkit/Model Producers/Odyssey Systems]]
 
 
 _AI research labs are the “brain centers” of the AI ecosystem: dedicated groups that systematically study, build, and test artificial intelligence systems, turning new ideas into working models and applications._[^jx0b4e] [^49u5k6]

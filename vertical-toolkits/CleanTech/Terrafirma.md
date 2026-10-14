@@ -1,6 +1,6 @@
 ---
 date_created: 2025-06-01
-date_modified: 2026-07-18
+date_modified: 2026-10-13
 url: https://www.terrafirma.inc
 tags:
   - Blue-Economy-Solutions
@@ -11,7 +11,11 @@ og_description: TerraFirma is transforming construction through automation and b
 og_image: https://cdn.prod.website-files.com/68b0affcfc7be934c9904bc4/68c1d143cbb3cd78d7c651cc_b8c1ea2f0e2ccfa37175b6e1e5b83630_preview.jpg
 og_favicon: https://cdn.prod.website-files.com/68b0affcfc7be934c9904bc4/68bb31186843b3d30f0181be_fav32.png
 og_last_fetch: 2025-09-21T11:35:56.674Z
+for_clients:
+  - Banner
+  - The-Water-Foundation
 ---
+[[concepts/Market-Categories/Autonomous and Remote-Controlled Heavy Equipment]]
 
 ## Events
 - Hosted an event at [[Sources/Events/Deep Tech Week Austin TX 2026|Deep Tech Week Austin TX 2026]]

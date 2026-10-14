@@ -3,7 +3,7 @@ site_uuid: 7ca1652d-9a8b-409f-b1b3-06691abda9e7
 url: 'https://www.reflection.ai'
 zinger: 'Building superintelligent autonomous systems'
 date_created: 2025-03-10
-date_modified: 2025-08-06
+date_modified: 2026-10-14
 description: 'Building super intelligent autonomous systems'
 og_title: 'Reflection AI'
 og_description: 'Building super intelligent autonomous systems'
@@ -20,4 +20,6 @@ The team behind [[Gemini]]
 
 [https://www.reflection.ai](https://www.reflection.ai/)
 
-Backed by [[vertical-toolkits/Venture-Capital-Firms/Sequoia Capital]]
+
+
+Backed by [[vertical-toolkits/Venture-Capital-Firms/Sequoia Capital|Sequoia Capital]]

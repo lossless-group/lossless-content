@@ -8,7 +8,7 @@ aliases:
   - Manufacturing AI
   - Advanced Manufacturing
 date_created: 2026-10-04
-date_modified: 2026-10-10
+date_modified: 2026-10-14
 for_clients:
   - Laerdal
   - Edviro
@@ -26,10 +26,10 @@ cf_last_run_model: Perplexity sonar-deep-research
 [[concepts/AI-Powered Supply Chains|Supply Chain AI]]
 [[concepts/Market-Categories/Manufacturing Automation|Advanced Manufacturing]]
 [[organizations/Tesla|Tesla]]
-[[organizations/CATL]]
+[[organizations/CATL|CATL]]
 [[organizations/BYD|BYD]]
 [[concepts/Market-Categories/Industrial Automations|Industrial AI]]
-
+[[Vention]]
 # Manufacturing Automation
 
 Manufacturing automation has evolved from a narrow focus on programmable logic controllers and robotic arms into a broad, data-driven systems category that integrates industrial control, smart manufacturing software, and AI-augmented workflows across global factories. [^muaz27] [^x3240s] [^nqi6g0] It now sits at the intersection of industrial automation, smart manufacturing, and supply-chain automation, with its own emerging market sizing, dedicated vendor ecosystem, and accelerating capital flows that justify treating it as a distinct analytic category. [^puf6kf] [^sjd0g0] [^f1yupa]  

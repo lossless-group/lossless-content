@@ -14,4 +14,4 @@ tags:
 [[concepts/Software Development Lifecycle|Software Development Lifecycle]]
 [[Vocabulary/Web Development|Web Development]]
 
-[[Events and Conferences MoC]]
+[[moc/Events and Conferences MoC]]

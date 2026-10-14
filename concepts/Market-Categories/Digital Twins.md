@@ -255,7 +255,7 @@ The available search results do not provide reliable round-by-round financial da
 - **Industrial IoT** — supplies the sensor, telemetry, connectivity, and event streams that keep operational twins current.
 - **[[Engineering Simulation]] and Multi-Physics Modeling, [[concepts/Explainers for AI/Physics-Based Models|Physics-Based Models]]** — provides the engineering and physics layer used to test scenarios before physical deployment.
 - **Spatial Computing** — supplies 3D interaction, visualization, and spatial reasoning for environments and assets.
-- **[[Physical AI]]** — connects digital representations to robots, autonomous systems, and real-world action.
+- **[[concepts/Market-Categories/Physical AI]]** — connects digital representations to robots, autonomous systems, and real-world action.
 - **Building Information Modeling** — provides structured building and infrastructure data that often becomes the foundation for built-environment twins.
 - **Industrial DataOps** — contextualizes fragmented operational, engineering, and enterprise data so it can support a usable twin.
 - **[[concepts/Explainers for AI/Synthetic Data|Synthetic Data]]** — generates simulated observations for training AI systems and testing rare or dangerous scenarios.

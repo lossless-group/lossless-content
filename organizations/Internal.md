@@ -63,7 +63,7 @@ Main offerings:
 
 - **AirgapAI** — Branded as “100% local AI,” aimed at customers who need to run AI models on‑premises or in controlled environments without relying on external API calls or shared cloud inference.
 - **Blockify** — Described as achieving “78x accuracy,” positioning it as an AI evaluation, guardrail, or model‑selection tool to improve LLM performance and safety in enterprise deployments.
-- **810+ AI courses** — [[NEST Training]] The site advertises more than **810 courses**, suggesting a structured internal curriculum for AI skills and literacy, likely used in corporate training and government upskilling programs.
+- **810+ AI courses** — [[concepts/New Economy Skills Training]] The site advertises more than **810 courses**, suggesting a structured internal curriculum for AI skills and literacy, likely used in corporate training and government upskilling programs.
 - **AI consulting** — The company offers consulting services to design, build, and integrate AI solutions for large enterprises and intelligence or national‑security organizations.
 - **Enterprise and intelligence-agency solutions** — Marketing language highlights being “trusted by Fortune 50 enterprises and intelligence agencies,” indicating tailored solutions and engagements for these segments.
 - **AI implementation and integration support** — By combining products and consulting, Internal supports end‑to‑end AI adoption: from infrastructure selection and deployment to evaluation, fine‑tuning, and workforce enablement.

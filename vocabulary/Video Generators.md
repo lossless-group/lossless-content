@@ -175,7 +175,7 @@ Several innovative companies are leading the charge in AI-powered video generati
 
 #### **7. Colossyan**
 
-- **What It Offers:** [[Colossyan]] enables users to generate training and explainer videos with AI actors who deliver content in a natural way.
+- **What It Offers:** [[Tooling/AI-Toolkit/Generative AI/Colossyan]] enables users to generate training and explainer videos with AI actors who deliver content in a natural way.
 - **Key Features:**
     - AI actors with customizable scripts.
     - Multilingual voiceovers.

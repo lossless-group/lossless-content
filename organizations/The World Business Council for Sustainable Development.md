@@ -20,7 +20,7 @@ cf_last_run_model: Perplexity sonar-pro
 ---
 
 [[concepts/Sustainability|Sustainability]]
-[[Physical AI]]
+[[concepts/Market-Categories/Physical AI]]
 
 # The World Business Council for Sustainable Development
 

@@ -1,6 +1,6 @@
 ---
 date_created: 2025-04-18
-date_modified: 2026-10-10
+date_modified: 2026-10-12
 site_uuid: d65e1203-fe44-4853-a13f-0e707fd787d9
 publish: true
 title: Humanoid Robots
@@ -14,6 +14,8 @@ for_clients:
   - Laerdal
   - Alpha Partners
   - Alpha-JWC
+aliases:
+  - Humanoid Robotics
 ---
 [[Vocabulary/Robotics|Robotics]]
 

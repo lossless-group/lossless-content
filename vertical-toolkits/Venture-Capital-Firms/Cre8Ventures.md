@@ -23,7 +23,7 @@ Siemens Cre8Ventures (by Siemens EDA) is a collaborative venture initiative that
 
 ## Ecosystem & Programs
 fe
-* Digital Twin Marketplace: Features ecosystem members and partners like [[SpinEdge.ai]], Minima, Solaya, [[Cloudberry VC]], SpiNNcloud, ComposabilityPro, Athena P3M, BeyondFence, MemStera, and [[Durance AI]]. [^492ktg] [^7pvv1d] [^v3xf7f] 
+* Digital Twin Marketplace: Features ecosystem members and partners like [[content-areas/AI-Factories-Datacenters/Organizations/SpinEdge.ai]], Minima, Solaya, [[vertical-toolkits/Venture-Capital-Firms/Cloudberry VC]], SpiNNcloud, ComposabilityPro, Athena P3M, BeyondFence, MemStera, and [[Durance AI]]. [^492ktg] [^7pvv1d] [^v3xf7f] 
 * Open Higher Education Program: Launched in collaboration with [[Sources/Standards-and-Specs/ARM|ARM]] and the University of Southampton's School of Electronics and Computer Science (ECS) to support student-led semiconductor innovation across Europe. [^1stf66] 
 
 # Sources

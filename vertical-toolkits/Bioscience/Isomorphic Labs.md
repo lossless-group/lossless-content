@@ -12,7 +12,7 @@ tags:
   - Biomedical-Research
   - AI-in-Healthcare
 date_created: 2026-10-08
-date_modified: 2026-10-08
+date_modified: 2026-10-11
 cf_last_run: 2026-10-08T23:44:49.349Z
 cf_last_run_model: Perplexity sonar-pro
 cf_retrieved_source_count: 1
@@ -29,7 +29,7 @@ at_semantic_version: 0.0.0.1
 [[Fierce Biotech]]
 [[Vocabulary/Computational Chemistry|Computational Chemistry]]
 [[concepts/Longevity Tech|Longevity Tech]]
-
+[[concepts/Market-Categories/TechBio vs Biotech]]
 ## Retrieved sources
 
 ### [^E1] Isomorphic Labs — https://www.isomorphiclabs.com/

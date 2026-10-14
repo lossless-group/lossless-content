@@ -1,6 +1,6 @@
 ---
 date_created: 2025-04-25
-date_modified: 2025-11-18
+date_modified: 2026-10-13
 site_uuid: 2cd393e1-3dda-4fad-b537-812a2f9c2652
 publish: true
 title: Meta
@@ -10,6 +10,13 @@ at_semantic_version: 0.0.0.1
 
 [[organizations/Facebook|Facebook]]
 Creators and maintainers of [[React]], [[Skip]], [[StyleX]]. 
+
+[[Tooling/AI-Toolkit/Knowledge AI/Muse]]
+
+
+https://ai.meta.com/muse/
+
+
 
 Major contributors to the [[projects/Emergent-Innovation/Standards/OAuth|OAuth]] and [[projects/Emergent-Innovation/Standards/GraphQL|GraphQL]] standards.  
 
@@ -22,9 +29,9 @@ https://youtu.be/DQFNYCO1MqM?si=o1cmjuqJsmtDP3D2
 
 2. **[[projects/Emergent-Innovation/Standards/GraphQL|GraphQL]]**: An open-source data query language developed by Facebook. GraphQL provides an efficient alternative to REST APIs, allowing clients to request only the necessary data, reducing over-fetching or under-fetching issues.
 
-3. **[[Tooling/Software Development/DevOps/Flow]] ([[Vocabulary/Static Type Checkers|Static Type Checkers]])**: A static type checker for JavaScript that helps find errors in code early on through type annotations. It's used extensively at Meta to improve code quality and maintainability.
+3. **[[Tooling/Software Development/DevOps/Flow|Flow]] ([[Vocabulary/Static Type Checkers|Static Type Checkers]])**: A static type checker for [[Tooling/Software Development/Programming Languages/JavaScript|JavaScript]] that helps find errors in code early on through type annotations. It's used extensively at Meta to improve code quality and maintainability.
 
-4. **Hack**: A programming language developed by Facebook for HHVM (HipHop Virtual Machine). Hack is a typed language compatible with PHP, designed to help developers write cleaner, more reliable code.
+4. **Hack**: A programming language developed by Facebook for HHVM ([[HipHop Virtual Machine]]). Hack is a typed language compatible with PHP, designed to help developers write cleaner, more reliable code.
 
 5. **HHVM (HipHop Virtual Machine)**: An open-source virtual machine designed to execute programs written in PHP and Hack. It was initially created by Facebook to improve performance and reduce resource usage for running their massive codebase.
 

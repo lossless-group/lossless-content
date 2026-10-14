@@ -18,6 +18,6 @@ tags: [Training]
 
 [[Tooling/Training/WebDev Simplified|WebDev Simplified]]
 [[Vocabulary/Front-End|Frontend]]
-[[Learning Media]]
+[[concepts/Explainers for AI/Learning Media]]
 
 

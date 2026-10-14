@@ -2,10 +2,11 @@
 site_uuid: d73ca267-6a77-41b4-b996-39dad92d2d83
 title: AI Powered Personal Assistant
 site_visibility: public
-date_modified: 2026-05-02
+date_modified: 2026-10-13
 date_created: 2025-03-30
 tags: [AI-Toolkit, Explainers]
 ---
+[[Fieldy AI]]
 
 
 Examples include [[Rewind AI]].

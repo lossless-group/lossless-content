@@ -42,7 +42,7 @@ Priority features:
 
 - **Agent Passport:** identity and wallet infrastructure that lets agents transact within user-defined limits. [^kmu1rt]
 - **Delegated mandates:** owners can define what an agent may purchase, from whom, and at what price range; the mandate is cryptographically enforced. [^0g2omk]
-- **[[Stablecoin]] payments:** native USDC-based settlement is supported through Kite’s payment infrastructure and Arc integration. [^al51vb] [^gxse1t]
+- **[[Vocabulary/Stablecoin]] payments:** native USDC-based settlement is supported through Kite’s payment infrastructure and Arc integration. [^al51vb] [^gxse1t]
 - **Escrow and conditional release:** funds can remain in escrow until delivery and acceptance conditions are satisfied. [^ms2ors] [^gxse1t]
 - **Seller Console:** sellers can define prices, delivery deadlines, and verification conditions. [^gxse1t]
 - **Agent-to-agent commerce:** agents can discover services, negotiate terms, execute transactions, and verify delivery. [^gxse1t]

@@ -104,7 +104,7 @@ Flint is for **marketing and GTM teams** that need to generate many on-brand lan
 It is not primarily for teams seeking a general-purpose website builder, a blank-canvas design tool, or a full application-development platform. [^hs4vg7] [^x9n0dt] Flint’s own comparisons frame it as a specialized landing-page generator rather than a broad website platform. [^hs4vg7] [^2f3guh]
 
 ## Viable Alternatives
-- **[[Webflow]]** — broader visual website builder with stronger general-site design workflows, but not Flint’s brand-extraction-first page generation. [^migc80] [^k1x7ia] [^x9n0dt]
+- **[[Tooling/Enterprise Jobs-to-be-Done/Webflow]]** — broader visual website builder with stronger general-site design workflows, but not Flint’s brand-extraction-first page generation. [^migc80] [^k1x7ia] [^x9n0dt]
 - **[[Framer]]** — design-led site builder; Flint positions itself as better for high-volume marketing pages with automatic brand consistency. [^k1x7ia] [^qd2gps] [^2f3guh]
 - **[[Tooling/AI-Toolkit/Generative AI/Code Generators/Lovable|Lovable]]** — AI builder for general page/app creation; Flint argues it is stronger for brand-matched marketing pages. [^lov82v] [^7pg1yb]
 - **[[Tooling/AI-Toolkit/Generative AI/Code Generators/Bolt.new|Bolt.new]]** — general AI site/app builder; Flint contrasts itself as more specialized for marketing websites and campaign pages. [^c6r5z7] [^2g1ffu] [^679iqr]

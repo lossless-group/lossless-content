@@ -18,7 +18,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 [[concepts/Market-Categories/Digital Twins for Critical Infrastructure|Digital Twins for Critical Infrastructure]]
 [[content-areas/AI-Factories-Datacenters/Concepts/Building Energy Management Systems|Building Energy Management Systems]]
-[[Physical AI]]
+[[concepts/Market-Categories/Physical AI]]
 [[Real-World Telemetry]]
 [[concepts/Market-Categories/Data Center Infrastructure Management Systems|Data Center Infrastructure Management Systems]]
 
