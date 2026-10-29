@@ -11,6 +11,7 @@ slug: human+machine
 at_semantic_version: 0.0.0.1
 cf_last_run: 2026-10-06T03:55:19.995Z
 cf_last_run_model: Perplexity sonar-pro
+google_books_url: https://books.google.com/books?id=wpY4DwAAQBAJ
 ---
 
 # Human + Machine
@@ -62,7 +63,7 @@ cf_last_run_model: Perplexity sonar-pro
 - [[Radically Human]]
 - [[Human-AI Collaboration]]
 - [[concepts/Missing Middle Skills]]
-- [[Responsible AI]]
+- [[concepts/Explainers for AI/Responsible AI]]
 - [[Process Innovation]]
 - [[concepts/Augmentation]]
 

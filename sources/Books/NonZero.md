@@ -8,6 +8,7 @@ title: Non Zero
 slug: non-zero
 at_semantic_version: 0.0.0.1
 tags: []
+google_books_url: https://books.google.com/books?id=-KTPK5XipEgC
 ---
 [[content-areas/Blue-Economy/Concepts/Zero-Sum|Zero-Sum]]
 [[Sources/Books/Co-opetition - A Revolutionary Mindset that Combines Competition and Cooperation|Co-opetition - A Revolutionary Mindset that Combines Competition and Cooperation]]

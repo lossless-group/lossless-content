@@ -9,6 +9,7 @@ publish: true
 title: "A Mathematical Theory Of Communication"
 slug: a-mathematical-theory-of-communication
 at_semantic_version: 0.0.1.1
+google_books_url: https://books.google.com/books?id=fRrvAAAAMAAJ
 ---
 
 

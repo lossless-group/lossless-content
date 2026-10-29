@@ -2,6 +2,7 @@
 date_created: 2025-07-08
 date_modified: 2025-07-16
 generated_with: Perplexity AI
+google_books_url: https://books.google.com/books?id=Cy86CQAAQBAJ
 ---
 >[!RELATED] Related Content:
 >[[Vocabulary/Divas|Divas]], [[essays/Embrace Pirates or See Mutiny|Embrace Pirates or See Mutiny]], [[concepts/Contrarian Talent|Contrarian Talent]]

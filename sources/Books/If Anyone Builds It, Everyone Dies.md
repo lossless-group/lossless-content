@@ -10,6 +10,7 @@ slug: if-anyone-builds-it-everyone-dies
 at_semantic_version: 0.0.0.1
 cf_last_run: 2026-10-13T22:25:58.932Z
 cf_last_run_model: Perplexity sonar-pro
+google_books_url: https://books.google.com/books?id=8ZNLEQAAQBAJ
 ---
 
 [[concepts/Explainers for AI/AI Doomerism|AI Doomerism]]

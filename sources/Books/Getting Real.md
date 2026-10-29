@@ -2,7 +2,7 @@
 author: "[[Sources/People/David Heinemeier Hansson]]"
 cf_last_run: 2026-05-10T04:17:29.547Z
 cf_last_run_model: Perplexity sonar-pro
-google_books_url: https://books.google.com/books?id=XXXXXX
+google_books_url: https://books.google.com/books?id=NIZNQwAACAAJ
 date_created: 2025-03-30
 date_modified: 2026-05-10
 ---

@@ -7,6 +7,7 @@ title: The Lean Startup
 slug: the-lean-startup
 at_semantic_version: 0.0.1.0
 aliases: [Lean Startup]
+google_books_url: https://books.google.com/books?id=tvfyz-4JILwC
 ---
 [[concepts/Minimum Viable Product|Minimum Viable Product]]
 

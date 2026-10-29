@@ -8,6 +8,7 @@ site_uuid: 7d95d4b9-98c0-47f7-bfce-112f7d3bf4f9
 title: "Crossing The Chasm"
 slug: crossing-the-chasm
 at_semantic_version: 0.0.1.1
+google_books_url: https://books.google.com/books?id=HkieQgAACAAJ
 ---
 Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers.
 

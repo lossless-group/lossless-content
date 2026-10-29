@@ -1,13 +1,15 @@
 ---
-url: "https://www.nirandfar.com/how-to-manufacture-desire/"
+url: https://www.nirandfar.com/how-to-manufacture-desire/
 author: "[[Nir Eyal]]"
 date_created: 2024-09-05
-date_modified: 2025-09-06
-google_books_url: "https://www.google.de/books/edition/Hooked/oHHZBAAAQBAJ?hl=en&gbpv=0"
+date_modified: 2026-10-16
+google_books_url: https://www.google.de/books/edition/Hooked/oHHZBAAAQBAJ?hl=en&gbpv=0
 site_uuid: 6fc0160c-a87d-4cdf-95c5-fe6345200bdd
 title: Hooked
 slug: hooked
 at_semantic_version: 0.0.1.1
+tags:
+  - Influential-Business-Books
 ---
 
 Popularizes [[concepts/Persuasive Technology|Persuasive Technology]]

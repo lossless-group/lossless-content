@@ -8,6 +8,7 @@ slug: dont-make-me-think
 at_semantic_version: 0.0.1.1
 aliases:
   - Don't Make Me Think
+google_books_url: https://books.google.com/books?id=QlduAgAAQBAJ
 ---
 Influential in [[User Interface]] and [[Vocabulary/User Experience|User Experience Design]] design, [[Vocabulary/Front-End|Frontend]] and [[client-content/Laerdal/Sources/Laerdal Entities/Customer Experience|Customer Experience]], [[concepts/Explainers for Tooling/Customer Success|Customer Success]]. The endgame is everything is a [[Vocabulary/Chatbots|Chatbot]].
 

@@ -3,7 +3,7 @@ date_created: 2025-03-30
 date_modified: 2026-05-10
 cf_last_run: 2026-05-10T03:36:28.841Z
 cf_last_run_model: Perplexity sonar-pro
-google_books_url: https://books.google.com/books?id=XXXX
+google_books_url: https://books.google.com/books?id=gGU80AEACAAJ
 ---
 
 # Business Model Navigator

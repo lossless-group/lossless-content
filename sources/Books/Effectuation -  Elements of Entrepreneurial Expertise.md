@@ -4,6 +4,7 @@ date_modified: 2026-06-13
 amazon_url: https://a.co/d/0eqRJQv0
 cf_last_run: 2026-06-13T00:53:30.734Z
 cf_last_run_model: Perplexity sonar-pro
+google_books_url: https://books.google.com/books?id=Ve0_8nJcOD0C
 ---
 
 [[Saras Sarasvathy]]

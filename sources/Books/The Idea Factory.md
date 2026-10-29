@@ -5,7 +5,7 @@ date_created: 2025-03-30
 date_modified: 2026-06-15
 cf_last_run: 2026-05-12T04:22:02.061Z
 cf_last_run_model: Perplexity sonar-pro
-google_books_url: https://books.google.com/books?id=XXXX
+google_books_url: https://books.google.com/books?id=uOMt_XCo81QC
 ---
 
 # The Idea Factory

@@ -7,6 +7,7 @@ tags:
   - Productivity
   - Personal-Productivity
   - Workflow-Management
+google_books_url: https://books.google.com/books?id=lZpFCgAAQBAJ
 ---
 
 Basically, minimize [[concepts/Drag (on Productivity)]] and allocate large blocks of time to focus.  

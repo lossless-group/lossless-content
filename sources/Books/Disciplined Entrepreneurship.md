@@ -6,6 +6,7 @@ amazon_url: http://bit.ly/de24-expanded
 date_created: 2025-03-30
 date_modified: 2025-09-06
 github_url: https://www.google.com/books/edition/Disciplined_Entrepreneurship/QbY2AAAAQBAJ?hl=en&gbpv=0
+google_books_url: https://books.google.com/books?id=ff9vAAAAQBAJ
 ---
 https://youtu.be/l-9ALe3U-Fg?si=gjLK8QnB1ehMYqCW
 

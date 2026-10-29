@@ -15,6 +15,7 @@ tags:
 aliases:
   - "Design Patterns: Elements of Reusable Object-Oriented Software"
   - Design Patterns
+google_books_url: https://books.google.com/books?id=jUvf7wMUGcUC
 ---
 https://youtu.be/BJatgOiiht4?is=-05qB6xatlBDLMjY
 
