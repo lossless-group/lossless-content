@@ -8,7 +8,7 @@ at_semantic_version: 0.0.1.0
 authors:
   - Michael Staton
 augmented_with: "Claude Code (Sonnet 4.5)"
-site_uuid: d926a656-1323-456f-8b48-4195ca31d371
+site_uuid: 6ac679cb-0396-4da5-95a1-5ae447fb0d10
 lede: "An exploration into using AI supervisors and specialized agents to generate high-quality content and documents."
 ---
 # Multi-Agent Orchestration for Investment Memo Generation
