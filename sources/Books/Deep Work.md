@@ -1,13 +1,22 @@
 ---
 amazon_url: https://www.amazon.com/dp/B0189PVAWY?ref_=cm_sw_r_ffobk_cp_ud_dp_AYX8G6WYWJ9R1SNJKC07
-full_title: "Deep Work: Rules for Focused Success in a Distracted World"
 date_created: 2025-04-19
-date_modified: 2026-06-15
+date_modified: 2026-10-29
 tags:
   - Productivity
   - Personal-Productivity
   - Workflow-Management
 google_books_url: https://books.google.com/books?id=lZpFCgAAQBAJ
+title: Deep Work
+format: book
+subtitle: Rules for Focused Success in a Distracted World
+book_authors:
+  - Cal Newport
+publisher: Grand Central
+publisher_city: New York
+year_first_published: 2016
+annotation: Argues that sustained, undistracted concentration is rare, valuable and trainable.
+our_take: ''
 ---
 
 Basically, minimize [[concepts/Drag (on Productivity)]] and allocate large blocks of time to focus.  

@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-30
-date_modified: 2025-08-16
+date_modified: 2026-10-29
 tags: [Management-Strategies, Best-Practices, Marketing-Strategies]
 google_books_url: "https://www.google.com/books/edition/Blue_Ocean_Strategy_Expanded_Edition/z6-RBQAAQBAJ?hl=en&gbpv=0"
 title: "Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant"
@@ -8,6 +8,17 @@ site_uuid: f260261c-076f-461a-a73e-80660854872c
 publish: true
 slug: blue-ocean-strategy
 at_semantic_version: 0.0.0.1
+amazon_url: https://www.amazon.com/dp/B00BW8JYZG
+format: book
+subtitle: How to Create Uncontested Market Space and Make the Competition Irrelevant
+book_authors:
+  - W. Chan Kim
+  - Renée Mauborgne
+publisher: Harvard Business School Press
+publisher_city: Boston
+year_first_published: 2005
+annotation: Argues for creating new market space rather than fighting rivals in crowded existing markets.
+our_take: ''
 ---
 
 [[concepts/Asymmetric Competition|Asymmetric Competition]]

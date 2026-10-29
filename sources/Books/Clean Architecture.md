@@ -1,10 +1,20 @@
 ---
 amazon_url: https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
 date_created: 2025-03-30
-date_modified: 2026-05-12
+date_modified: 2026-10-29
 cf_last_run: 2026-05-10T03:39:28.279Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://books.google.com/books?id=9Xl-DwAAQBAJ
+title: Clean Architecture
+format: book
+subtitle: A Craftsman's Guide to Software Structure and Design
+book_authors:
+  - Robert C. Martin
+publisher: Prentice Hall
+publisher_city: Boston
+year_first_published: 2017
+annotation: Principles for structuring software so business rules stay independent of frameworks, databases and interfaces.
+our_take: ''
 ---
 
 # Clean Architecture

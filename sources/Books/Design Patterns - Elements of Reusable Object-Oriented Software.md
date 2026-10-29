@@ -1,6 +1,6 @@
 ---
 date_created: 2025-11-14
-date_modified: 2026-06-15
+date_modified: 2026-10-29
 site_uuid: 5eaa03b6-7f45-4cb2-9e47-2e2ed3f91a6c
 publish: true
 title: "Design Patterns: Elements Of Reusable Object Oriented Software"
@@ -16,6 +16,19 @@ aliases:
   - "Design Patterns: Elements of Reusable Object-Oriented Software"
   - Design Patterns
 google_books_url: https://books.google.com/books?id=jUvf7wMUGcUC
+amazon_url: https://www.amazon.com/dp/0201633612
+format: book
+subtitle: Elements of Reusable Object-Oriented Software
+book_authors:
+  - Erich Gamma
+  - Richard Helm
+  - Ralph Johnson
+  - John Vlissides
+publisher: Addison-Wesley
+publisher_city: Reading, MA
+year_first_published: 1994
+annotation: The "Gang of Four" catalog of 23 reusable solutions to recurring problems in object-oriented design.
+our_take: ''
 ---
 https://youtu.be/BJatgOiiht4?is=-05qB6xatlBDLMjY
 

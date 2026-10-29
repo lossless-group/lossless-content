@@ -1,7 +1,7 @@
 ---
 url: "https://www.playbigger.com/emt"
 date_created: 2026-06-15
-date_modified: 2026-06-15
+date_modified: 2026-10-29
 youtube_channel_url: "https://www.youtube.com/@playbiggervideos"
 google_books_url: "https://www.google.com/books/edition/The_Existing_Market_Trap/CDxY0QEACAAJ?hl=en&sa=X&ved=2ahUKEwj45Ymu_ImVAxVKlWoFHTs5LXkQiqUDegQIDhAC"
 amazon_url: "https://a.co/d/00pXXrfj"
@@ -17,6 +17,15 @@ publish: true
 title: "The Existing Market Trap"
 slug: the-existing-market-trap
 at_semantic_version: 0.0.1.1
+format: book
+subtitle: (A Primer) Escaping the 13 Deadly Sins That Hold New Categories Hostage
+book_authors:
+  - name: Play Bigger
+    sort_as: Play Bigger
+publisher: Play Bigger Press
+year_first_published: 2025
+annotation: Names thirteen ways companies building new categories get pulled back into competing in old ones.
+our_take: ''
 ---
 
 # The Existing Market Trap

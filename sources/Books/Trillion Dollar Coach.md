@@ -1,12 +1,24 @@
 ---
 amazon_url: https://www.amazon.com/Trillion-Dollar-Coach-Leadership-Playbook/dp/0062839268
 date_created: 2026-05-16
-date_modified: 2026-05-16
+date_modified: 2026-10-29
 url: https://www.trilliondollarcoach.com/
 goodreads_url: https://www.goodreads.com/book/show/42118073-trillion-dollar-coach
 cf_last_run: 2026-05-16T00:30:43.654Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://books.google.com/books?id=36501797
+title: Trillion Dollar Coach
+format: book
+subtitle: The Leadership Playbook of Silicon Valley's Bill Campbell
+book_authors:
+  - Eric Schmidt
+  - Jonathan Rosenberg
+  - Alan Eagle
+publisher: Harper Business
+publisher_city: New York
+year_first_published: 2019
+annotation: Lessons from Bill Campbell, who coached leaders at Google, Apple and elsewhere on putting people and teams first.
+our_take: ''
 ---
 
 # Trillion Dollar Coach

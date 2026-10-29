@@ -1,11 +1,21 @@
 ---
 date_created: 2025-03-30
-date_modified: 2026-10-16
+date_modified: 2026-10-29
 site_uuid: f9447363-276f-4c87-8d3a-491a9c8884c1
 title: "Building a Second Brain"
 slug: building-a-second-brain
 at_semantic_version: 0.0.0.1
 google_books_url: https://books.google.com/books?id=G5BOEAAAQBAJ
+amazon_url: https://www.amazon.com/dp/1668004933
+format: book
+subtitle: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential
+book_authors:
+  - Tiago Forte
+publisher: Atria Books
+publisher_city: New York
+year_first_published: 2022
+annotation: A system for capturing and organizing notes so that ideas can be found and reused in creative work.
+our_take: ''
 ---
 
 

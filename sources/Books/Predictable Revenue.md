@@ -2,7 +2,7 @@
 url: https://predictablerevenue.com/
 amazon_url: https://www.amazon.com/Predictable-Revenue-Business-Practices-Salesforce-com/dp/0984380213
 date_created: 2025-03-01
-date_modified: 2026-05-25
+date_modified: 2026-10-29
 cf_last_run: 2026-05-25T23:19:39.256Z
 cf_last_run_model: Perplexity sonar-pro
 tags:
@@ -19,6 +19,16 @@ title: Predictable Revenue
 slug: predictable-revenue
 at_semantic_version: 0.0.1.1
 google_books_url: https://books.google.com/books?q=Predictable+Revenue+Aaron+Ross+Marylou+Tyler
+format: book
+subtitle: Turn Your Business into a Sales Machine with the $100 Million Best Practices of Salesforce.com
+book_authors:
+  - Aaron Ross
+  - Marylou Tyler
+publisher: PebbleStorm
+publisher_city: West Hollywood, CA
+year_first_published: 2011
+annotation: The outbound sales model from Salesforce, built on specialized sales roles.
+our_take: ''
 ---
 
 Part of [[concepts/Demand Generation|Demand Generation]], introduces the necessity of [[client-content/Laerdal/Sources/Laerdal Entities/Sales Support|Sales Support]].  [[Vocabulary/Sales Development Representatives|Sales Development Representatives]]. 

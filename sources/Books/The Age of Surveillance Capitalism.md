@@ -1,8 +1,7 @@
 ---
 google_books_url: https://www.google.com/books/edition/The_Age_of_Surveillance_Capitalism/Xbg9jgEACAAJ?hl=en
 date_created: 2026-10-16
-date_modified: 2026-10-16
-subtitle: The Fight for a Human Future at the New Frontier of Power
+date_modified: 2026-10-29
 tags:
   - Influential-Business-Books
 site_uuid: f75f127f-7392-4d5e-91e9-40338c7f601e
@@ -12,6 +11,16 @@ slug: the-age-of-surveillance-capitalism
 at_semantic_version: 0.0.0.1
 cf_last_run: 2026-10-16T15:59:30.536Z
 cf_last_run_model: Perplexity sonar-pro
+amazon_url: https://www.amazon.com/dp/1610395697
+format: book
+subtitle: The Fight for a Human Future at the New Frontier of Power
+book_authors:
+  - Shoshana Zuboff
+publisher: PublicAffairs
+publisher_city: New York
+year_first_published: 2019
+annotation: Describes an economic order built on collecting and selling predictions of human behavior.
+our_take: ''
 ---
 
 # The Age of Surveillance Capitalism

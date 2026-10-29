@@ -1,7 +1,7 @@
 ---
 google_books_url: https://www.google.com/books/edition/The_Attention_Economy/j6z-MiUKgosC?hl=en&gbpv=0
 date_created: 2026-10-16
-date_modified: 2026-10-16
+date_modified: 2026-10-29
 site_uuid: cd22c061-facc-4f89-8bc9-5cf3232e1f47
 publish: true
 title: The Attention Economy
@@ -9,6 +9,17 @@ slug: the-attention-economy
 at_semantic_version: 0.0.0.1
 cf_last_run: 2026-10-16T15:53:49.338Z
 cf_last_run_model: Perplexity sonar-pro
+amazon_url: https://www.amazon.com/dp/157851441X
+format: book
+subtitle: Understanding the New Currency of Business
+book_authors:
+  - Thomas H. Davenport
+  - John C. Beck
+publisher: Harvard Business School Press
+publisher_city: Boston
+year_first_published: 2001
+annotation: Treats attention, not information, as the scarce resource that businesses must measure and manage.
+our_take: ''
 ---
 
 [[Thomas H. Davenport]]

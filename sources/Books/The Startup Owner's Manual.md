@@ -1,7 +1,7 @@
 ---
 google_books_url: "https://www.google.com/books/edition/The_Startup_Owner_s_Manual/Yd4hzQEACAAJ?hl=en"
 date_created: 2026-10-06
-date_modified: 2026-10-07
+date_modified: 2026-10-29
 cf_last_run: "2026-10-07T04:46:53.398Z"
 cf_last_run_model: "Perplexity sonar-pro"
 tags: [Founder-Advice, Founder-Toolkit, Lossless-Thinking, Lossless-Conventions]
@@ -12,6 +12,16 @@ publish: true
 title: "The Startup Owner's Manual"
 slug: the-startup-owners-manual
 at_semantic_version: 0.0.1.1
+format: book
+subtitle: The Step-by-Step Guide for Building a Great Company
+book_authors:
+  - Steve Blank
+  - Bob Dorf
+publisher: K&S Ranch
+publisher_city: Pescadero, CA
+year_first_published: 2012
+annotation: Turns customer development into a detailed playbook for finding a repeatable business model before scaling.
+our_take: ''
 ---
 
 # The Startup Owner's Manual

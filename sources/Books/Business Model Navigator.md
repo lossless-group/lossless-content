@@ -1,9 +1,22 @@
 ---
 date_created: 2025-03-30
-date_modified: 2026-05-10
+date_modified: 2026-10-29
 cf_last_run: 2026-05-10T03:36:28.841Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://books.google.com/books?id=gGU80AEACAAJ
+title: The Business Model Navigator
+amazon_url: https://www.amazon.com/dp/1292065818
+format: book
+subtitle: 55 Models That Will Revolutionise Your Business
+book_authors:
+  - Oliver Gassmann
+  - Karolin Frankenberger
+  - Michaela Csik
+publisher: Pearson
+publisher_city: Harlow, UK
+year_first_published: 2014
+annotation: Shows that most business model innovation recombines 55 recurring patterns, and how to apply them.
+our_take: ''
 ---
 
 # Business Model Navigator

@@ -1,11 +1,22 @@
 ---
 google_books_url: "https://www.google.de/books/edition/From_Impossible_To_Inevitable/HPNvCwAAQBAJ?hl=en&gbpv=0"
 date_created: 2025-09-06
-date_modified: 2026-05-10
+date_modified: 2026-10-29
 site_uuid: 6e324a53-9a85-4733-8bc8-2e08fe1e71d1
 title: "From Impossible To Inevitable"
 slug: from-impossible-to-inevitable
 at_semantic_version: 0.0.0.1
+amazon_url: https://www.amazon.com/dp/1119166713
+format: book
+subtitle: How Hyper-Growth Companies Create Predictable Revenue
+book_authors:
+  - Aaron Ross
+  - Jason Lemkin
+publisher: Wiley
+publisher_city: Hoboken, NJ
+year_first_published: 2016
+annotation: A framework for building repeatable, fast revenue growth in software companies.
+our_take: ''
 ---
 *![Relevant diagram or illustration related to the topic](https://i.ytimg.com/vi/7IASvRzfBvY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDYWdzw3zoEMKluFPrELIiSLJ1tEQ)*
 

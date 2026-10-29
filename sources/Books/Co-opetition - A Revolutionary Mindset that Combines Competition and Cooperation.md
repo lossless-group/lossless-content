@@ -1,12 +1,23 @@
 ---
 date_created: 2025-08-16
-date_modified: 2025-08-16
+date_modified: 2026-10-29
 google_books_url: "https://www.google.com/books/edition/Co_Opetition/sU2e-piQ3tUC?hl=en&gbpv=0"
 site_uuid: cae437a2-3965-4b0d-9681-9ea50b75bd45
 publish: true
 title: "Co-Opetition: A Revolutionary Mindset That Combines Competition And Cooperation"
 slug: co-opetition-a-revolutionary-mindset-that-combines-competition-and-cooperation
 at_semantic_version: 0.0.0.1
+amazon_url: https://www.amazon.com/dp/0385479492
+format: book
+subtitle: A Revolutionary Mindset That Combines Competition and Cooperation
+book_authors:
+  - Adam M. Brandenburger
+  - Barry J. Nalebuff
+publisher: Currency Doubleday
+publisher_city: New York
+year_first_published: 1996
+annotation: Applies game theory to show how companies can compete and cooperate at the same time to grow the whole market.
+our_take: ''
 ---
 
 ***

@@ -1,7 +1,7 @@
 ---
 amazon_url: https://www.amazon.com/Experience-Economy-Updated-Joseph-Pine/dp/1422161978
 date_created: 2026-05-19
-date_modified: 2026-05-27
+date_modified: 2026-10-29
 cf_last_run: 2026-05-27T23:22:44.887Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://books.google.com/books?id=JV9vDwAAQBAJ
@@ -10,6 +10,19 @@ tags:
   - Marketing-Strategies
   - Digital-Marketing-Tools
   - Digital-Experience-Platforms
+title: The Experience Economy
+format: book
+book_authors:
+  - name: B. Joseph Pine II
+    sort_as: Pine, B. Joseph, II
+  - James H. Gilmore
+publisher: Harvard Business Review Press
+publisher_city: Boston
+year_first_published: 1999
+edition: Updated
+edition_year: 2011
+annotation: Argues that staged experiences, not goods or services, are the next source of economic value.
+our_take: ''
 ---
 
 # Experience Economy

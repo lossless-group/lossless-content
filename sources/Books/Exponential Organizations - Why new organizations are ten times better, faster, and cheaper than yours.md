@@ -19,7 +19,18 @@ for_clients:
   - Laerdal
   - Colearn
 date_created: 2024-11-01
-date_modified: 2026-06-12
+date_modified: 2026-10-29
+format: book
+subtitle: Why New Organizations Are Ten Times Better, Faster, and Cheaper Than Yours
+book_authors:
+  - Salim Ismail
+  - Michael S. Malone
+  - Yuri van Geest
+publisher: Diversion Books
+publisher_city: New York
+year_first_published: 2014
+annotation: Describes organizations that use technology and outside resources to grow far faster than their headcount.
+our_take: ''
 ---
 [[Vocabulary/Exponential Organizations|Exponential Organizations]]
 [[concepts/Exponential Technologies|Exponential Technologies]]

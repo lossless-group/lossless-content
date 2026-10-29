@@ -1,8 +1,19 @@
 ---
 date_created: 2025-07-08
-date_modified: 2025-07-16
+date_modified: 2026-10-29
 generated_with: Perplexity AI
 google_books_url: https://books.google.com/books?id=Cy86CQAAQBAJ
+title: Originals
+amazon_url: https://www.amazon.com/dp/0525429565
+format: book
+subtitle: How Non-Conformists Move the World
+book_authors:
+  - Adam Grant
+publisher: Viking
+publisher_city: New York
+year_first_published: 2016
+annotation: Studies how original thinkers generate, champion and time ideas that go against the grain.
+our_take: ''
 ---
 >[!RELATED] Related Content:
 >[[Vocabulary/Divas|Divas]], [[essays/Embrace Pirates or See Mutiny|Embrace Pirates or See Mutiny]], [[concepts/Contrarian Talent|Contrarian Talent]]

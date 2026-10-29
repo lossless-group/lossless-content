@@ -1,6 +1,6 @@
 ---
 date_created: 2026-06-17
-date_modified: 2026-07-20
+date_modified: 2026-10-29
 cf_last_run: "2026-07-20T21:34:30.221Z"
 cf_last_run_model: "Perplexity sonar-pro"
 tags: [Influential-Publications, Lossless-Thinking]
@@ -10,6 +10,17 @@ title: "A Mathematical Theory Of Communication"
 slug: a-mathematical-theory-of-communication
 at_semantic_version: 0.0.1.1
 google_books_url: https://books.google.com/books?id=fRrvAAAAMAAJ
+amazon_url: https://www.amazon.com/dp/0252725484
+format: paper
+book_authors:
+  - Claude E. Shannon
+year_first_published: 1948
+container_title: Bell System Technical Journal
+volume: 27
+issue: 3
+pages: 379-423
+annotation: Founded information theory by defining information mathematically and the limits of transmitting it.
+our_take: ''
 ---
 
 

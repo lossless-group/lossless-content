@@ -1,10 +1,20 @@
 ---
 wikipedia_url: https://en.wikipedia.org/wiki/The_Death_of_Expertise
 date_created: 2026-05-23
-date_modified: 2026-05-23
+date_modified: 2026-10-29
 google_books_url: https://www.google.com/books/edition/The_Death_of_Expertise/x3TYDQAAQBAJ?hl=en
 cf_last_run: 2026-05-23T19:18:32.756Z
 cf_last_run_model: Perplexity sonar-pro
+title: The Death of Expertise
+format: book
+subtitle: The Campaign Against Established Knowledge and Why It Matters
+book_authors:
+  - Tom Nichols
+publisher: Oxford University Press
+publisher_city: New York
+year_first_published: 2017
+annotation: Examines the public's growing distrust of experts and its consequences.
+our_take: ''
 ---
 
 # The Death of Expertise

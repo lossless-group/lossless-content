@@ -1,13 +1,23 @@
 ---
 date_created: 2025-05-29
-date_modified: 2025-09-06
-full_title: "Machines Who Think: A Personal Inquiry into the History and Prospects of Artificial Intelligence"
+date_modified: 2026-10-29
 amazon_url: "https://www.amazon.com/Machines-Who-Think-Artificial-Intelligence/dp/1568812051"
 google_books_url: "https://books.google.com/books/about/Machines_Who_Think.html?id=KMj1EAAAQBAJ"
 site_uuid: 03cef9b1-1ead-4730-b154-fde952760d24
 title: "Machines Who Think"
 slug: machines-who-think
 at_semantic_version: 0.0.1.1
+format: book
+subtitle: A Personal Inquiry into the History and Prospects of Artificial Intelligence
+book_authors:
+  - Pamela McCorduck
+publisher: A K Peters
+publisher_city: Natick, MA
+year_first_published: 1979
+edition: 2nd
+edition_year: 2004
+annotation: A history of artificial intelligence, its founders and the long human ambition behind it.
+our_take: ''
 ---
 
 Machines Who Think: A Personal Inquiry into the History and Prospects of Artificial Intelligence

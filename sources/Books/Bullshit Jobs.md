@@ -2,8 +2,18 @@
 amazon_url: https://www.amazon.com/Bullshit-Jobs-Theory-David-Graeber/dp/1501143336?_encoding=UTF8&qid=&sr=
 wikipedia_url: https://en.wikipedia.org/wiki/Bullshit_Jobs#:~:text=In%20addition%2C%20the%20survey%20shows,of%20all%20jobs%20are%20useless.
 date_created: 2025-01-17
-date_modified: 2025-09-06
+date_modified: 2026-10-29
 google_books_url: https://www.google.com/books/edition/Bullshit_Jobs/iHVEDwAAQBAJ?hl=en&gbpv=0
+title: Bullshit Jobs
+format: book
+subtitle: A Theory
+book_authors:
+  - David Graeber
+publisher: Simon & Schuster
+publisher_city: New York
+year_first_published: 2018
+annotation: Argues that a large share of modern work is pointless even to those doing it, and examines why.
+our_take: ''
 ---
 The meme of [[Bullshit Jobs]] burst onto the Internet in 2013.  A term coined by anthropologist and political activist [[David Graeber]], described what a surprisingly large number of knowledge workers were feeling -- that they themselves and many people they knew secretly believe their role and their job do not need to exist at all. They in no way contributes to either organizational value creation or have any positive impact to society.
 

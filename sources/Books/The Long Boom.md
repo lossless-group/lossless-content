@@ -1,9 +1,21 @@
 ---
 amazon_url: https://www.amazon.com/Long-Boom-Vision-Coming-Prosperity/dp/0738203645
 date_created: 2026-05-14
-date_modified: 2026-05-25
+date_modified: 2026-10-29
 cf_last_run: 2026-05-25T22:01:59.375Z
 cf_last_run_model: Perplexity sonar-pro
+title: The Long Boom
+format: book
+subtitle: A Vision for the Coming Age of Prosperity
+book_authors:
+  - Peter Schwartz
+  - Peter Leyden
+  - Joel Hyatt
+publisher: Perseus
+publisher_city: Cambridge, MA
+year_first_published: 1999
+annotation: Expands the 1997 Wired cover story forecasting decades of technology-driven growth.
+our_take: ''
 ---
 
 # The Long Boom

@@ -3,7 +3,18 @@ cf_last_run: 2026-05-25T21:00:27.186Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://books.google.com/books?id=vHzuAAAAMAAJ
 date_created: 2026-05-25
-date_modified: 2026-05-25
+date_modified: 2026-10-29
+title: Only the Paranoid Survive
+amazon_url: https://www.amazon.com/dp/0385482582
+format: book
+subtitle: How to Exploit the Crisis Points That Challenge Every Company
+book_authors:
+  - Andrew S. Grove
+publisher: Currency Doubleday
+publisher_city: New York
+year_first_published: 1996
+annotation: Intel's former CEO on recognizing "strategic inflection points" and steering a company through them.
+our_take: ''
 ---
 
 # Only the Paranoid Survive (Andy Grove)

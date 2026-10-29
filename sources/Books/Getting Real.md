@@ -1,10 +1,22 @@
 ---
-author: "[[Sources/People/David Heinemeier Hansson]]"
 cf_last_run: 2026-05-10T04:17:29.547Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://books.google.com/books?id=NIZNQwAACAAJ
 date_created: 2025-03-30
-date_modified: 2026-05-10
+date_modified: 2026-10-29
+title: Getting Real
+amazon_url: https://www.amazon.com/dp/B001QU1V7E
+format: book
+subtitle: The Smarter, Faster, Easier Way to Build a Successful Web Application
+book_authors:
+  - Jason Fried
+  - David Heinemeier Hansson
+  - Matthew Linderman
+publisher: 37signals
+publisher_city: Chicago
+year_first_published: 2006
+annotation: Argues for small teams, fewer features and shipping early when building software products.
+our_take: ''
 ---
 
 # Getting Real

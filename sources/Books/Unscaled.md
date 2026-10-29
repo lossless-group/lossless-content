@@ -1,7 +1,7 @@
 ---
 google_books_url: "https://www.google.com/books/edition/Unscaled/9B44DwAAQBAJ?hl=en"
 date_created: 2026-06-15
-date_modified: 2026-06-15
+date_modified: 2026-10-29
 cf_last_run: "2026-06-15T19:31:11.895Z"
 cf_last_run_model: "Perplexity sonar-pro"
 site_uuid: c05aaf4f-47dd-49b7-902a-33a2c2cd20c6
@@ -9,6 +9,18 @@ publish: true
 title: Unscaled
 slug: unscaled
 at_semantic_version: 0.0.1.1
+format: book
+subtitle: How AI and a New Generation of Upstarts Are Creating the Economy of the Future
+book_authors:
+  - Hemant Taneja
+contributors:
+  - name: Kevin Maney
+    role: with
+publisher: PublicAffairs
+publisher_city: New York
+year_first_published: 2018
+annotation: A venture investor argues that AI and rented platforms let small, focused companies beat large incumbents.
+our_take: ''
 ---
 
 # Unscaled

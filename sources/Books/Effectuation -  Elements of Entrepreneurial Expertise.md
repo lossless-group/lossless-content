@@ -1,10 +1,20 @@
 ---
 date_created: 2026-06-13
-date_modified: 2026-06-13
+date_modified: 2026-10-29
 amazon_url: https://a.co/d/0eqRJQv0
 cf_last_run: 2026-06-13T00:53:30.734Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://books.google.com/books?id=Ve0_8nJcOD0C
+title: Effectuation
+format: book
+subtitle: Elements of Entrepreneurial Expertise
+book_authors:
+  - Saras D. Sarasvathy
+publisher: Edward Elgar
+publisher_city: Cheltenham, UK
+year_first_published: 2008
+annotation: Research showing expert entrepreneurs start from the means they have rather than from a fixed goal.
+our_take: ''
 ---
 
 [[Saras Sarasvathy]]

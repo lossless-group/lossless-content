@@ -4,7 +4,7 @@ cf_last_run_model: "Perplexity sonar-pro"
 google_books_url: "https://books.google.com/books?id=boBvAAAAMAAJ"
 tags: [Lossless-Thinking, Lossless-Toolkit]
 date_created: 2025-04-10
-date_modified: 2026-05-28
+date_modified: 2026-10-29
 for_clients:
   - Laerdal
   - Param
@@ -14,6 +14,17 @@ publish: true
 title: "Made to Stick"
 slug: made-to-stick
 at_semantic_version: 0.0.1.1
+amazon_url: https://www.amazon.com/dp/0812974646
+format: book
+subtitle: Why Some Ideas Survive and Others Die
+book_authors:
+  - Chip Heath
+  - Dan Heath
+publisher: Random House
+publisher_city: New York
+year_first_published: 2007
+annotation: 'Six principles that make ideas memorable: simple, unexpected, concrete, credible, emotional and told as stories.'
+our_take: ''
 ---
 
 # Made to Stick

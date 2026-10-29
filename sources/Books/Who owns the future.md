@@ -1,13 +1,21 @@
 ---
 wikipedia_url: "https://en.wikipedia.org/wiki/Who_Owns_the_Future%3F"
 date_created: 2025-08-15
-date_modified: 2025-09-21
+date_modified: 2026-10-29
 google_books_url: "https://www.google.com/books/edition/_/FJ72X0nlmq4C?hl=en"
 site_uuid: 595234dd-6356-4ab0-a94b-371ed3afb1f7
 publish: true
 title: "Who Owns The Future?"
 slug: who-owns-the-future
 at_semantic_version: 0.0.0.1
+format: book
+book_authors:
+  - Jaron Lanier
+publisher: Simon & Schuster
+publisher_city: New York
+year_first_published: 2013
+annotation: Argues that digital networks concentrate wealth and proposes paying people for the data they create.
+our_take: ''
 ---
 [[vertical-toolkits/FinTech/Spaceport]]
 ***

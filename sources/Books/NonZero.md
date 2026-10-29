@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-16
-date_modified: 2025-09-06
+date_modified: 2026-10-29
 url: https://www.google.com/books/edition/Nonzero/hMfzkQGVkn8C?hl=en&gbpv=0
 site_uuid: dcf31d93-517b-41ad-b2c5-98689e4efad3
 publish: true
@@ -9,6 +9,16 @@ slug: non-zero
 at_semantic_version: 0.0.0.1
 tags: []
 google_books_url: https://books.google.com/books?id=-KTPK5XipEgC
+amazon_url: https://www.amazon.com/dp/0679442529
+format: book
+subtitle: The Logic of Human Destiny
+book_authors:
+  - Robert Wright
+publisher: Pantheon
+publisher_city: New York
+year_first_published: 2000
+annotation: Traces how cooperation, or positive-sum games, has driven biological and cultural evolution.
+our_take: ''
 ---
 [[content-areas/Blue-Economy/Concepts/Zero-Sum|Zero-Sum]]
 [[Sources/Books/Co-opetition - A Revolutionary Mindset that Combines Competition and Cooperation|Co-opetition - A Revolutionary Mindset that Combines Competition and Cooperation]]

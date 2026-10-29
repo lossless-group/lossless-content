@@ -3,11 +3,23 @@ cf_last_run: 2026-05-23T19:25:59.176Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://www.google.com/books/edition/Nudge/Lus2EAAAQBAJ?hl=en&gbpv=0
 date_created: 2024-04-02
-date_modified: 2026-05-23
+date_modified: 2026-10-29
 tags:
   - Decision-Intelligence
   - Persuasive-Design
   - Management-Strategies
+title: Nudge
+amazon_url: https://www.amazon.com/dp/0300122233
+format: book
+subtitle: Improving Decisions About Health, Wealth, and Happiness
+book_authors:
+  - Richard H. Thaler
+  - Cass R. Sunstein
+publisher: Yale University Press
+publisher_city: New Haven, CT
+year_first_published: 2008
+annotation: Shows how the design of choices can steer people toward better decisions without restricting them.
+our_take: ''
 ---
 [[concepts/Persuasive Technology|Persuasive Technology]]
 

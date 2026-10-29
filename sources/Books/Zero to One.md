@@ -3,7 +3,20 @@ cf_last_run: 2026-05-10T04:00:31.555Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://books.google.com/books?id=VuIjBgAAQBAJ
 date_created: 2026-05-09
-date_modified: 2026-05-10
+date_modified: 2026-10-29
+title: Zero to One
+format: book
+subtitle: Notes on Startups, or How to Build the Future
+book_authors:
+  - Peter Thiel
+contributors:
+  - name: Blake Masters
+    role: with
+publisher: Crown Business
+publisher_city: New York
+year_first_published: 2014
+annotation: Argues that the most valuable companies create something new and build monopolies rather than compete.
+our_take: ''
 ---
 # Zero to One
 

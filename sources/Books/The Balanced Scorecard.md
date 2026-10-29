@@ -2,7 +2,7 @@
 aliases:
   - "The Balanced Scorecard: Translating Strategy into Action"
 date_created: 2026-05-10
-date_modified: 2026-05-25
+date_modified: 2026-10-29
 cf_last_run: "2026-05-25T22:14:57.387Z"
 cf_last_run_model: "Perplexity sonar-pro"
 google_books_url: "https://books.google.com/books?id=autBDwAAQBAJ"
@@ -11,6 +11,17 @@ publish: true
 title: "The Balanced Scorecard"
 slug: the-balanced-scorecard
 at_semantic_version: 0.0.0.1
+amazon_url: https://www.amazon.com/dp/B0015DS2PG
+format: book
+subtitle: Translating Strategy into Action
+book_authors:
+  - Robert S. Kaplan
+  - David P. Norton
+publisher: Harvard Business School Press
+publisher_city: Boston
+year_first_published: 1996
+annotation: Measures performance across financial, customer, process and learning dimensions to link strategy to action.
+our_take: ''
 ---
 
 # The Balanced Scorecard

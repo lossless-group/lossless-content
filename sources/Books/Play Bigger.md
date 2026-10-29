@@ -1,7 +1,7 @@
 ---
 amazon_url: "https://a.co/d/0aMUUPhr"
 date_created: 2025-02-11
-date_modified: 2026-06-15
+date_modified: 2026-10-29
 url: "https://www.playbigger.com/"
 google_books_url: "https://www.google.com/books/edition/Play_Bigger/7Ns3jgEACAAJ?hl=en"
 cf_last_run: "2026-06-15T19:25:45.223Z"
@@ -11,6 +11,18 @@ publish: true
 title: "Play Bigger"
 slug: play-bigger
 at_semantic_version: 0.0.1.1
+format: book
+subtitle: How Pirates, Dreamers, and Innovators Create and Dominate Markets
+book_authors:
+  - Al Ramadan
+  - Dave Peterson
+  - Christopher Lochhead
+  - Kevin Maney
+publisher: Harper Business
+publisher_city: New York
+year_first_published: 2016
+annotation: 'Introduces category design: the biggest winners define and own a new market category.'
+our_take: ''
 ---
 
 https://www.playbigger.com/book

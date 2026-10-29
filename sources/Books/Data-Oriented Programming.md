@@ -1,7 +1,7 @@
 ---
 url: https://www.manning.com/books/data-oriented-programming?a_aid=viebel&a_bid=d5b546b7
 date_created: 2025-08-16
-date_modified: 2026-05-27
+date_modified: 2026-10-29
 site_uuid: 31b8004d-1d33-41cd-8bea-c257c218256f
 publish: true
 title: Data Oriented Programming
@@ -10,6 +10,16 @@ at_semantic_version: 0.0.0.1
 cf_last_run: 2026-05-27T21:36:00.481Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://www.google.com/books/edition/Data_Oriented_Programming/HbFjEAAAQBAJ
+amazon_url: https://www.amazon.com/dp/1617298573
+format: book
+subtitle: Reduce Software Complexity
+book_authors:
+  - Yehonathan Sharvit
+publisher: Manning
+publisher_city: Shelter Island, NY
+year_first_published: 2022
+annotation: Simplifies software by separating code from data and treating data as immutable, generic structures.
+our_take: ''
 ---
 
 [[organizations/Manning Press|Manning Press]]

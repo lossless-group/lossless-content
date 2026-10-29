@@ -1,13 +1,20 @@
 ---
 amazon_url: https://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0143120174
-author: "[[Kevin Kelly]]"
 date_created: 2025-03-30
-date_modified: 2026-05-12
+date_modified: 2026-10-29
 site_uuid: 2d2a4dff-8485-4fb9-a5c2-b3540182b631
 title: What Technology Wants
 slug: what-technology-wants
 at_semantic_version: 0.0.1.1
 google_books_url: https://www.google.com/books/edition/What_Technology_Wants/_ToftPd4R8UC?hl=en&gbpv=0
+format: book
+book_authors:
+  - Kevin Kelly
+publisher: Viking
+publisher_city: New York
+year_first_published: 2010
+annotation: Frames technology as an evolving system, the "technium," with its own long-term tendencies.
+our_take: ''
 ---
 
 

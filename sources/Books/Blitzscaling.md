@@ -1,12 +1,22 @@
 ---
 date_created: 2025-07-23
-date_modified: 2026-05-10
+date_modified: 2026-10-29
 google_books_url: https://share.google/oTKvbQXPIdROVEdmR
 site_uuid: cde5ca6f-d5a9-4e34-bf3a-99bc716d61b7
 title: Blitzscaling
 slug: blitzscaling
 at_semantic_version: 0.0.0.1
-author: "[[Sources/People/Influencers/Reid Hoffman|Reid Hoffman]]"
+amazon_url: https://www.amazon.com/dp/1524761419
+format: book
+subtitle: The Lightning-Fast Path to Building Massively Valuable Companies
+book_authors:
+  - Reid Hoffman
+  - Chris Yeh
+publisher: Currency
+publisher_city: New York
+year_first_published: 2018
+annotation: Explains when and how to prioritize speed over efficiency to win winner-take-most markets.
+our_take: ''
 ---
 
 ***

@@ -1,7 +1,7 @@
 ---
 amazon_url: https://a.co/d/04vKlsJn
 date_created: 2026-10-05
-date_modified: 2026-10-06
+date_modified: 2026-10-29
 tags:
   - Influential-Business-Books
 site_uuid: 2ebf9363-db4e-43c4-98b1-6ef7a7f7ac37
@@ -12,6 +12,16 @@ at_semantic_version: 0.0.0.1
 cf_last_run: 2026-10-06T03:55:19.995Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://books.google.com/books?id=wpY4DwAAQBAJ
+format: book
+subtitle: Reimagining Work in the Age of AI
+book_authors:
+  - Paul R. Daugherty
+  - H. James Wilson
+publisher: Harvard Business Review Press
+publisher_city: Boston
+year_first_published: 2018
+annotation: Argues the biggest gains from AI come from people and machines working together, not from replacing people.
+our_take: ''
 ---
 
 # Human + Machine

@@ -41,8 +41,9 @@ at_semantic_version: 0.0.0.1
 format: book            # book | article | paper | report | manifesto | essay
 subtitle: "The Foundations of Business Strategy"
 
-# Who wrote it, in natural order. Wikilinks are fine; the generator strips them.
-authors:
+# Who wrote the book, in natural order. Wikilinks are fine; the generator strips them.
+# (`authors` stays reserved for who wrote this note, as everywhere else in content.)
+book_authors:
   - "[[Sources/People/Hamilton Helmer|Hamilton Helmer]]"
 contributors:           # optional: anyone credited who isn't a full author
   - name: "Blake Masters"
@@ -78,8 +79,7 @@ wikipedia_url: ...
 annotation: >-          # one neutral sentence: what the book argues
   Identifies seven sources of durable competitive advantage, each pairing a
   benefit with a barrier.
-our_take: >-            # in our words: why it shaped how we think or invest
-  ...
+our_take: ""            # in our words: why it shaped how we think or invest
 tags:
   - Influential-Business-Books
 ---
@@ -87,7 +87,8 @@ tags:
 
 ## Field notes
 
-- **`authors`** replaces the mix of `author` (string) and `authors` (list) in use today. Always a list, even for one author. Names in natural order ("Hamilton Helmer"); the generator inverts the first author for Chicago and APA. For a name that doesn't split cleanly ("Nassim Nicholas Taleb", "A. G. Lafley", "Frederick P. Brooks, Jr."), add `sort_as: "Taleb, Nassim Nicholas"` beside it by writing the author as `{name: ..., sort_as: ...}`.
+- **`book_authors`** replaces the mix of `author` (string) and `authors` (list) used for book authors today. `authors` keeps its site-wide meaning: who wrote the note. Always a list, even for one author. Names in natural order ("Hamilton Helmer"); the generator inverts the first author for Chicago and APA. For a name that doesn't split cleanly ("Nassim Nicholas Taleb", "A. G. Lafley", "Frederick P. Brooks, Jr."), add `sort_as: "Taleb, Nassim Nicholas"` beside it by writing the author as `{name: ..., sort_as: ...}`.
+- **Edited volumes** have no `book_authors`; list the editors in `contributors` with `role: editor`.
 - **Organizations as authors** (e.g. Play Bigger, 37signals): write `{name: "Play Bigger", sort_as: "Play Bigger"}` so the generator doesn't invert it.
 - **`year_first_published`** is the year that goes in the citation unless `edition` is set, in which case the citation uses `edition_year` and names the edition.
 - **`google_books_id`** is the stable key; `google_books_url` is derived from it. Store both so Obsidian links work without a build step.
@@ -98,9 +99,9 @@ tags:
 
 | Output | Fields used |
 |---|---|
-| Chicago bibliography | authors, contributors, title, subtitle, edition, publisher_city, publisher, year |
-| APA reference list | authors, year, title, subtitle, edition, publisher, doi |
-| MLA works cited | authors, title, subtitle, edition, publisher, year |
+| Chicago bibliography | book_authors, contributors, title, subtitle, edition, publisher_city, publisher, year |
+| APA reference list | book_authors, year, title, subtitle, edition, publisher, doi |
+| MLA works cited | book_authors, title, subtitle, edition, publisher, year |
 | Annotated bibliography | any of the above + `annotation` and/or `our_take` |
-| Reading list by theme | tags + title + authors |
+| Reading list by theme | tags + title + book_authors |
 | Linked list | title + `google_books_url` or `amazon_url` |

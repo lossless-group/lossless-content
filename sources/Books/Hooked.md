@@ -1,8 +1,7 @@
 ---
 url: https://www.nirandfar.com/how-to-manufacture-desire/
-author: "[[Nir Eyal]]"
 date_created: 2024-09-05
-date_modified: 2026-10-16
+date_modified: 2026-10-29
 google_books_url: https://www.google.de/books/edition/Hooked/oHHZBAAAQBAJ?hl=en&gbpv=0
 site_uuid: 6fc0160c-a87d-4cdf-95c5-fe6345200bdd
 title: Hooked
@@ -10,6 +9,16 @@ slug: hooked
 at_semantic_version: 0.0.1.1
 tags:
   - Influential-Business-Books
+amazon_url: https://www.amazon.com/dp/0241184835
+format: book
+subtitle: How to Build Habit-Forming Products
+book_authors:
+  - Nir Eyal
+publisher: Portfolio
+publisher_city: New York
+year_first_published: 2014
+annotation: Lays out the trigger, action, reward and investment loop behind products people use without thinking.
+our_take: ''
 ---
 
 Popularizes [[concepts/Persuasive Technology|Persuasive Technology]]

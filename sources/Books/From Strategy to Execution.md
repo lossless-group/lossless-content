@@ -4,7 +4,15 @@ cf_last_run: 2026-05-10T04:11:41.460Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://books.google.com/books?id=XXXX
 date_created: 2025-03-30
-date_modified: 2026-05-10
+date_modified: 2026-10-29
+title: From Strategy to Execution
+amazon_url: https://www.amazon.com/dp/3540718796
+format: book
+subtitle: Turning Accelerated Global Change into Opportunity
+publisher: Springer
+publisher_city: Berlin
+year_first_published: 2008
+our_take: ''
 ---
 
 

@@ -3,7 +3,18 @@ cf_last_run: 2026-05-10T05:06:42.497Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://books.google.com/books?id=Ym1eAAAAMAAJ
 date_created: 2026-05-10
-date_modified: 2026-05-10
+date_modified: 2026-10-29
+title: The Black Swan
+amazon_url: https://www.amazon.com/dp/1400063515
+format: book
+subtitle: The Impact of the Highly Improbable
+book_authors:
+  - Nassim Nicholas Taleb
+publisher: Random House
+publisher_city: New York
+year_first_published: 2007
+annotation: Shows how rare, unpredictable events drive history and why we underestimate them.
+our_take: ''
 ---
 
 # The Black Swan

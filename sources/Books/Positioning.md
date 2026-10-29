@@ -1,9 +1,7 @@
 ---
 google_books_url: https://books.google.com/books?id=_BHj1OYgF7wC
 date_created: 2025-07-23
-date_modified: 2026-06-15
-full_title: "Positioning: The Battle for Your Mind"
-author: "[[Sources/People/Jack Trout]]"
+date_modified: 2026-10-29
 site_uuid: 905814fc-8189-4b58-ae44-c5f920baf22c
 publish: true
 title: "Positioning: The Battle for your Mind."
@@ -14,6 +12,17 @@ generated_with:
   - Perplexed Obsidian Plugin
 aliases:
   - "Positioning: The Battle for Your Mind"
+amazon_url: https://www.amazon.com/dp/0071373586
+format: book
+subtitle: The Battle for Your Mind
+book_authors:
+  - Al Ries
+  - Jack Trout
+publisher: McGraw-Hill
+publisher_city: New York
+year_first_published: 1981
+annotation: Argues that marketing is won by owning a clear position in the customer's mind.
+our_take: ''
 ---
 
 ***

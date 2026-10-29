@@ -3,6 +3,13 @@ amazon_url: https://www.amazon.com/Becoming-Rare-Find-Jobs-Companion-ebook/dp/B0
 cf_last_run: 2026-05-14T18:55:59.402Z
 cf_last_run_model: Perplexity sonar-pro
 date_created: 2026-05-14
-date_modified: 2026-05-14
+date_modified: 2026-10-29
 google_books_url: https://books.google.com/books?id=cp4zJH_Q-VAC
+title: Becoming a Rare Find
+format: book
+subtitle: How Jagged Resumes Lead to Great Jobs
+book_authors:
+  - George Anders
+annotation: A companion to The Rare Find that shows job seekers how to approach the hunt in ways that play to their strengths.
+our_take: ''
 ---

@@ -1,7 +1,7 @@
 ---
 google_books_url: "https://www.google.com/books/edition/Playing_to_Win/qJFQqVa_p3YC?hl=en&gbpv=0"
 date_created: 2026-05-10
-date_modified: 2026-05-28
+date_modified: 2026-10-29
 tags: [GTM-Strategies, Management-Strategies]
 cf_last_run: "2026-05-28T07:38:15.469Z"
 cf_last_run_model: "Perplexity sonar-pro"
@@ -15,6 +15,18 @@ publish: true
 title: "Playing To Win  - How Strategy Really Works"
 slug: playing-to-win-how-strategy-really-works
 at_semantic_version: 0.0.1.1
+amazon_url: https://www.amazon.com/dp/142218739X
+format: book
+subtitle: How Strategy Really Works
+book_authors:
+  - name: A. G. Lafley
+    sort_as: Lafley, A. G.
+  - Roger L. Martin
+publisher: Harvard Business Review Press
+publisher_city: Boston
+year_first_published: 2013
+annotation: Defines strategy as five linked choices, starting with where to play and how to win, drawn from Procter & Gamble.
+our_take: ''
 ---
 
 [[Sources/Media/Harvard Business Review|HBR]]

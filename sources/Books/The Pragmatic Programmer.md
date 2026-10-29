@@ -1,12 +1,22 @@
 ---
 date_created: 2025-08-17
-date_modified: 2025-09-06
+date_modified: 2026-10-29
 site_uuid: f044a2f1-b6ab-4a5a-80dd-0157767e02ee
 publish: true
 title: The Pragmatic Programmer
 slug: the-pragmatic-programmer
 at_semantic_version: 0.0.0.1
 google_books_url: https://www.google.de/books/edition/The_Pragmatic_Programmer/5wBQEp6ruIAC?hl=en&gbpv=0
+format: book
+subtitle: From Journeyman to Master
+book_authors:
+  - Andrew Hunt
+  - David Thomas
+publisher: Addison-Wesley
+publisher_city: Reading, MA
+year_first_published: 1999
+annotation: Practical habits and principles for writing maintainable software and growing as a developer.
+our_take: ''
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 amazon_url: https://a.co/d/1SUwwui
 date_created: 2025-08-08
-date_modified: 2026-10-09
+date_modified: 2026-10-29
 site_uuid: 0b0818ad-64e8-4481-b881-3a2fe97a2cd6
 title: Don't Make Me Think
 slug: dont-make-me-think
@@ -9,6 +9,15 @@ at_semantic_version: 0.0.1.1
 aliases:
   - Don't Make Me Think
 google_books_url: https://books.google.com/books?id=QlduAgAAQBAJ
+format: book
+subtitle: A Common Sense Approach to Web Usability
+book_authors:
+  - Steve Krug
+publisher: New Riders
+publisher_city: Indianapolis
+year_first_published: 2000
+annotation: The classic short guide to designing websites people can use without effort.
+our_take: ''
 ---
 Influential in [[User Interface]] and [[Vocabulary/User Experience|User Experience Design]] design, [[Vocabulary/Front-End|Frontend]] and [[client-content/Laerdal/Sources/Laerdal Entities/Customer Experience|Customer Experience]], [[concepts/Explainers for Tooling/Customer Success|Customer Success]]. The endgame is everything is a [[Vocabulary/Chatbots|Chatbot]].
 

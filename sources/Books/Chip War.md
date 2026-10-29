@@ -1,7 +1,7 @@
 ---
 amazon_url: https://www.amazon.com/Chip-War-Worlds-Critical-Technology/dp/1982172002
 date_created: 2025-04-18
-date_modified: 2026-10-13
+date_modified: 2026-10-29
 site_uuid: d89ee344-c7f6-438b-afcf-f597d59a6299
 title: Chip War
 slug: chip-war
@@ -12,6 +12,15 @@ tags:
   - Chip-Architectures
   - Chip-Designers
   - Chip-Producers
+format: book
+subtitle: The Fight for the World's Most Critical Technology
+book_authors:
+  - Chris Miller
+publisher: Scribner
+publisher_city: New York
+year_first_published: 2022
+annotation: How semiconductors became the center of the global economy and of great-power rivalry.
+our_take: ''
 ---
 
 [[Vocabulary/Chip Designers|Chip Designers]]

@@ -3,10 +3,20 @@ tags:
   - Design-Systems
   - Best-Practices
 date_created: 2025-03-30
-date_modified: 2026-05-10
+date_modified: 2026-10-29
 cf_last_run: 2026-05-10T03:29:17.863Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://www.google.com/books/edition/Atomic_Design/1e92vgAACAAJ?hl=en
+title: Atomic Design
+amazon_url: https://www.amazon.com/dp/0998296600
+format: book
+book_authors:
+  - Brad Frost
+publisher: Brad Frost
+publisher_city: Pittsburgh
+year_first_published: 2016
+annotation: Codifies building interfaces from atoms to molecules, organisms, templates and pages, the basis of modern design systems.
+our_take: ''
 ---
 Codified the ideas now known as [[concepts/Atomic Design|Atomic Design]], written by [[Sources/People/Brad Frost|Brad Frost]]
 

@@ -1,8 +1,7 @@
 ---
 amazon_url: https://www.amazon.com/Anyone-Builds-Everyone-Dies-Superhuman/dp/0316595640?sr=8-1
 date_created: 2026-10-13
-date_modified: 2026-10-13
-full_title: "If Anyone Builds It, Everyone Dies: Why Superhuman AI Would Kill Us All"
+date_modified: 2026-10-29
 site_uuid: 9b3d01ec-50fe-4fc1-a9c2-262dca671556
 publish: true
 title: If Anyone Builds It, Everyone Dies
@@ -11,6 +10,16 @@ at_semantic_version: 0.0.0.1
 cf_last_run: 2026-10-13T22:25:58.932Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://books.google.com/books?id=8ZNLEQAAQBAJ
+format: book
+subtitle: Why Superhuman AI Would Kill Us All
+book_authors:
+  - Eliezer Yudkowsky
+  - Nate Soares
+publisher: Little, Brown
+publisher_city: New York
+year_first_published: 2025
+annotation: Argues that building superintelligent AI with current methods would end humanity.
+our_take: ''
 ---
 
 [[concepts/Explainers for AI/AI Doomerism|AI Doomerism]]

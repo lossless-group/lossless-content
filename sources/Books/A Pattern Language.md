@@ -2,8 +2,7 @@
 aliases:
   - "A Pattern Language: Towns, Buildings, Construction"
 date_created: 2026-06-15
-date_modified: 2026-06-17
-full_title: "A Pattern Language: Towns, Buildings, Construction"
+date_modified: 2026-10-29
 google_books_url: "https://www.google.com/books/edition/A_Pattern_Language/hwAHmktpk5IC?hl=en"
 amazon_url: "https://a.co/d/01o6sYIu"
 cf_last_run: "2026-06-17T04:03:45.258Z"
@@ -14,6 +13,17 @@ publish: true
 title: "A Pattern Language"
 slug: a-pattern-language
 at_semantic_version: 0.0.1.1
+format: book
+subtitle: Towns, Buildings, Construction
+book_authors:
+  - Christopher Alexander
+  - Sara Ishikawa
+  - Murray Silverstein
+publisher: Oxford University Press
+publisher_city: New York
+year_first_published: 1977
+annotation: Catalogs 253 reusable design patterns for living spaces, the idea that later shaped software design patterns and design systems.
+our_take: ''
 ---
 
 # A Pattern Language

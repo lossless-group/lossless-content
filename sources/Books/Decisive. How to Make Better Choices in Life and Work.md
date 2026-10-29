@@ -5,10 +5,20 @@ title: Decisive. How To Make Better Choices In Life And Work
 slug: decisive-how-to-make-better-choices-in-life-and-work
 at_semantic_version: 0.0.0.1
 date_created: 2025-03-30
-date_modified: 2026-05-12
+date_modified: 2026-10-29
 google_books_url: https://www.google.de/books/edition/Decisive/fQmv39K-P54C?hl=en&gbpv=1&dq=decisive+heath&printsec=frontcover
 cf_last_run: 2026-05-10T03:41:33.963Z
 cf_last_run_model: Perplexity sonar-pro
+format: book
+subtitle: How to Make Better Choices in Life and Work
+book_authors:
+  - Chip Heath
+  - Dan Heath
+publisher: Crown Business
+publisher_city: New York
+year_first_published: 2013
+annotation: A four-step process for countering the biases that derail decisions.
+our_take: ''
 ---
 
 # Decisive: _How to Make Better Choices in Life and Work_

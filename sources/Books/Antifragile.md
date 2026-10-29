@@ -3,7 +3,18 @@ cf_last_run: 2026-05-10T05:05:40.472Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://books.google.com/books?id=pxcCdLGZ_D0C
 date_created: 2026-05-10
-date_modified: 2026-05-10
+date_modified: 2026-10-29
+title: Antifragile
+amazon_url: https://www.amazon.com/dp/1400067820
+format: book
+subtitle: Things That Gain from Disorder
+book_authors:
+  - Nassim Nicholas Taleb
+publisher: Random House
+publisher_city: New York
+year_first_published: 2012
+annotation: Describes systems that get stronger from shocks and volatility, and how to build them.
+our_take: ''
 ---
 
 # Antifragile

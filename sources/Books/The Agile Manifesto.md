@@ -1,12 +1,35 @@
 ---
 date_created: 2025-10-14
-date_modified: 2025-10-14
+date_modified: 2026-10-29
 url: "https://agilemanifesto.org/"
 site_uuid: 96694737-8ec8-4efc-b0eb-e93011d5dc6c
 publish: true
 title: "The Agile Manifesto"
 slug: the-agile-manifesto
 at_semantic_version: 0.0.0.1
+format: manifesto
+book_authors:
+  - Kent Beck
+  - Mike Beedle
+  - Arie van Bennekum
+  - Alistair Cockburn
+  - Ward Cunningham
+  - Martin Fowler
+  - James Grenning
+  - Jim Highsmith
+  - Andrew Hunt
+  - Ron Jeffries
+  - Jon Kern
+  - Brian Marick
+  - Robert C. Martin
+  - Steve Mellor
+  - Ken Schwaber
+  - Jeff Sutherland
+  - Dave Thomas
+year_first_published: 2001
+container_title: Manifesto for Agile Software Development
+annotation: Four values and twelve principles that put working software and collaboration ahead of process and documentation.
+our_take: ''
 ---
 
 

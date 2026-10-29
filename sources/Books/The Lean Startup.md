@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-17
-date_modified: 2025-12-10
+date_modified: 2026-10-29
 site_uuid: 5be6b657-9177-4fbd-bb7e-71632ace44b8
 publish: true
 title: The Lean Startup
@@ -8,6 +8,15 @@ slug: the-lean-startup
 at_semantic_version: 0.0.1.0
 aliases: [Lean Startup]
 google_books_url: https://books.google.com/books?id=tvfyz-4JILwC
+format: book
+subtitle: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses
+book_authors:
+  - Eric Ries
+publisher: Crown Business
+publisher_city: New York
+year_first_published: 2011
+annotation: 'Build, measure, learn: using minimum viable products and validated learning to reduce startup risk.'
+our_take: ''
 ---
 [[concepts/Minimum Viable Product|Minimum Viable Product]]
 

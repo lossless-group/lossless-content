@@ -1,10 +1,19 @@
 ---
-author: "[[Clayton Christensen]]"
 date_created: 2025-03-30
-date_modified: 2026-05-13
+date_modified: 2026-10-29
 cf_last_run: 2026-05-13T02:59:01.376Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://www.google.com/books/edition/The_Innovator_s_Dilemma/3JnBAgAAQBAJ?hl=en&kptab=sideways
+title: The Innovator's Dilemma
+format: book
+subtitle: When New Technologies Cause Great Firms to Fail
+book_authors:
+  - Clayton M. Christensen
+publisher: Harvard Business School Press
+publisher_city: Boston
+year_first_published: 1997
+annotation: 'Introduces disruptive innovation: well-run incumbents lose because serving their best customers blinds them to cheaper, simpler entrants.'
+our_take: ''
 ---
 
 [[Vocabulary/Disruptive Innovation|Disruptive Innovation]]

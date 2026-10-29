@@ -1,7 +1,7 @@
 ---
 amazon_url: https://a.co/d/0aRmDldO
 date_created: 2024-04-22
-date_modified: 2026-07-06
+date_modified: 2026-10-29
 site_uuid: a95e6e7e-b1d9-4295-81c5-e0f95aa8a510
 publish: true
 title: "How: Why How We Do Anything Means Everything"
@@ -10,6 +10,15 @@ at_semantic_version: 0.0.0.2
 cf_last_run: 2026-07-06T19:30:46.478Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://books.google.com.na/books?id=YF-Wr_N98VsC
+format: book
+subtitle: Why How We Do Anything Means Everything
+book_authors:
+  - Dov Seidman
+publisher: Wiley
+publisher_city: Hoboken, NJ
+year_first_published: 2007
+annotation: Argues that in a connected world, how a company behaves is its main source of advantage.
+our_take: ''
 ---
 
 # How - Why How We Do Anything Means Everything

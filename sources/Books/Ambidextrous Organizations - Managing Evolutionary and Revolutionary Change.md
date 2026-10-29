@@ -4,12 +4,25 @@ cf_last_run: "2026-05-23T20:42:18.816Z"
 cf_last_run_model: "Perplexity sonar-pro"
 tags: [Management-Strategies, Innovation-Cookbook]
 date_created: 2026-05-23
-date_modified: 2026-05-23
+date_modified: 2026-10-29
 site_uuid: 4ade7a09-51b3-4245-9c1b-d44f26dcd8e0
 publish: true
 title: "Ambidextrous Organizations: Managing Evolutionary And Revolutionary Change"
 slug: ambidextrous-organizations-managing-evolutionary-and-revolutionary-change
 at_semantic_version: 0.0.1.1
+format: article
+subtitle: Managing Evolutionary and Revolutionary Change
+book_authors:
+  - Michael L. Tushman
+  - name: Charles A. O'Reilly III
+    sort_as: O'Reilly, Charles A., III
+year_first_published: 1996
+container_title: California Management Review
+volume: 38
+issue: 4
+pages: 8-30
+annotation: Argues that companies must exploit current businesses and explore new ones at the same time.
+our_take: ''
 ---
 
 # Ambidextrous Organizations - Managing Evolutionary and Revolutionary Change

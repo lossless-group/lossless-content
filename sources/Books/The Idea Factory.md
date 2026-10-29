@@ -1,11 +1,20 @@
 ---
-full_title: "The Idea Factory: Bell Labs and the Great Age of American Innovation"
 amazon_url: https://www.amazon.com/Idea-Factory-Great-American-Innovation/dp/0143122797
 date_created: 2025-03-30
-date_modified: 2026-06-15
+date_modified: 2026-10-29
 cf_last_run: 2026-05-12T04:22:02.061Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://books.google.com/books?id=uOMt_XCo81QC
+title: The Idea Factory
+format: book
+subtitle: Bell Labs and the Great Age of American Innovation
+book_authors:
+  - Jon Gertner
+publisher: Penguin Press
+publisher_city: New York
+year_first_published: 2012
+annotation: A history of Bell Labs and how it organized people and research to invent much of modern technology.
+our_take: ''
 ---
 
 # The Idea Factory

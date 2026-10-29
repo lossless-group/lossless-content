@@ -1,6 +1,6 @@
 ---
 date_created: 2025-09-06
-date_modified: 2025-09-06
+date_modified: 2026-10-29
 publisher_book_url: "https://link.springer.com/book/10.1007/978-3-642-12530-0"
 amazon_url: "https://www.amazon.de/Technologiemanagement-Handbuch-Produktion-Management-VDI-Buch/dp/3642125298"
 google_books_url: "https://www.google.de/books/edition/Technologiemanagement/SJec5oSMUYcC?hl=en&gbpv=0"
@@ -8,6 +8,24 @@ site_uuid: 51163a93-bb9e-45f2-ba14-e737ad229908
 title: Technologiemanagement
 slug: technologiemanagement
 at_semantic_version: 0.1.0.1
+language: de
+language: de
+language: de
+format: book
+subtitle: Handbuch Produktion und Management 2
+contributors:
+  - name: Günther Schuh
+    role: editor
+  - name: Sascha Klappert
+    role: editor
+publisher: Springer
+publisher_city: Berlin
+year_first_published: 2011
+edition: 2nd
+edition_year: 2011
+language: de
+annotation: A German handbook on managing technology in manufacturing companies, built on the St. Gallen Management Model.
+our_take: ''
 ---
 
 ## Chapter 1: The Framework for Production and Management

@@ -1,11 +1,20 @@
 ---
 amazon_url: https://www.amazon.com/Free-Future-Radical-Chris-Anderson-ebook/dp/B002DYJR4G
-author: "[[Chris Anderson]]"
 cf_last_run: 2026-05-10T03:52:13.794Z
 cf_last_run_model: Perplexity sonar-pro
 date_created: 2025-03-30
-date_modified: 2026-05-12
+date_modified: 2026-10-29
 google_books_url: https://books.google.com/books/about/Free.html?id=LhR44BB6KY8C
+title: Free
+format: book
+subtitle: The Future of a Radical Price
+book_authors:
+  - Chris Anderson
+publisher: Hyperion
+publisher_city: New York
+year_first_published: 2009
+annotation: Argues that as digital costs approach zero, giving things away becomes a viable business model rather than a gimmick.
+our_take: ''
 ---
 [[Vocabulary/Freemium|Freemium]]
 # Free - The Future of a Radical Price

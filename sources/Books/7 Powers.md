@@ -1,6 +1,6 @@
 ---
 date_created: 2025-01-08
-date_modified: 2026-05-09
+date_modified: 2026-10-29
 google_books_url: https://www.google.com/books/edition/7_Powers/heEuvgAACAAJ?hl=en
 tags:
   - Influential-Business-Books
@@ -12,6 +12,16 @@ og_description: A seminal book that outlines seven fundamental sources of compet
 og_image: https://7powers.com/wp-content/uploads/2018/01/Final_PowerDynamics-home-690x1024.png
 og_favicon: https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://7powers.com/&size=128
 og_last_fetch: 2026-05-09T09:13:46.754Z
+title: 7 Powers
+amazon_url: https://www.amazon.com/dp/0998116319
+format: book
+subtitle: The Foundations of Business Strategy
+book_authors:
+  - Hamilton Helmer
+publisher: Deep Strategy
+year_first_published: 2016
+annotation: Identifies seven sources of durable competitive advantage, each pairing a benefit with a barrier.
+our_take: ''
 ---
 
 

@@ -1,12 +1,21 @@
 ---
 url: https://www.d-eship.com/
-author: "[[Bill Aulet]]"
 description: Published on April 2, 2024, this book is a significantly upgraded and expanded version of the international best-selling entrepreneurship book published in 2013. It assimilates 10 years of additional experience using the methodology and takes this proven approach to the next level.
 amazon_url: http://bit.ly/de24-expanded
 date_created: 2025-03-30
-date_modified: 2025-09-06
+date_modified: 2026-10-29
 github_url: https://www.google.com/books/edition/Disciplined_Entrepreneurship/QbY2AAAAQBAJ?hl=en&gbpv=0
 google_books_url: https://books.google.com/books?id=ff9vAAAAQBAJ
+title: Disciplined Entrepreneurship
+format: book
+subtitle: 24 Steps to a Successful Startup
+book_authors:
+  - Bill Aulet
+publisher: Wiley
+publisher_city: Hoboken, NJ
+year_first_published: 2013
+annotation: MIT's step-by-step framework for turning an idea into a company, from market segmentation to scaling.
+our_take: ''
 ---
 https://youtu.be/l-9ALe3U-Fg?si=gjLK8QnB1ehMYqCW
 

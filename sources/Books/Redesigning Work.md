@@ -1,7 +1,6 @@
 ---
-full_title: "Redesigning Work: How to Transform Your Organization and Make Hybrid Work for Everyone"
 date_created: 2025-03-30
-date_modified: 2026-06-15
+date_modified: 2026-10-29
 cf_last_run: 2026-06-15T20:24:43.968Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://www.google.com/books/edition/Redesigning_Work/vFWCEAAAQBAJ
@@ -14,6 +13,16 @@ for_clients:
   - Laerdal
   - Param
   - Tonguc
+amazon_url: https://www.amazon.com/dp/0262544989
+format: book
+subtitle: How to Transform Your Organization and Make Hybrid Work for Everyone
+book_authors:
+  - Lynda Gratton
+publisher: MIT Press
+publisher_city: Cambridge, MA
+year_first_published: 2022
+annotation: A practical framework for rethinking jobs, teams and workplaces for hybrid work.
+our_take: ''
 ---
 
 2022, May 03.

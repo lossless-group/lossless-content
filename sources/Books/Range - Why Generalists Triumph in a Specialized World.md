@@ -1,9 +1,20 @@
 ---
 date_created: 2026-06-13
-date_modified: 2026-06-13
+date_modified: 2026-10-29
 google_books_url: https://www.google.com/books/edition/Range/ma1sDwAAQBAJ?hl=en
 cf_last_run: 2026-06-13T00:29:05.183Z
 cf_last_run_model: Perplexity sonar-pro
+title: Range
+amazon_url: https://www.amazon.com/dp/0735214506
+format: book
+subtitle: Why Generalists Triumph in a Specialized World
+book_authors:
+  - David Epstein
+publisher: Riverhead
+publisher_city: New York
+year_first_published: 2019
+annotation: Argues that broad experience and late specialization often beat early, narrow expertise in complex fields.
+our_take: ''
 ---
 https://youtu.be/ZtbriAhl2UU?is=M5FqFHh0qhytD6f7
 

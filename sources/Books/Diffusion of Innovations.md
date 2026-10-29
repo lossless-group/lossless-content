@@ -2,10 +2,19 @@
 wikipedia_url: https://en.wikipedia.org/wiki/Diffusion_of_innovations
 amazon_url: https://www.amazon.com/Diffusion-Innovations-5th-Everett-Rogers/dp/0743222091
 date_created: 2025-01-12
-date_modified: 2026-05-25
+date_modified: 2026-10-29
 cf_last_run: 2026-05-10T03:46:54.722Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://books.google.com/books?id=v-p7EoDlXbAC
+title: Diffusion of Innovations
+format: book
+book_authors:
+  - Everett M. Rogers
+publisher: Free Press
+publisher_city: New York
+year_first_published: 1962
+annotation: The foundational study of how new ideas spread through a population, from innovators to laggards.
+our_take: ''
 ---
 
 Originally published in 1962, the book is still a classic and is on its 5th edition.  

@@ -1,7 +1,7 @@
 ---
 wikipedia_url: https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs
 date_created: 2026-06-07
-date_modified: 2026-06-07
+date_modified: 2026-10-29
 goodreads_url: https://www.goodreads.com/en/book/show/43713.Structure_and_Interpretation_of_Computer_Programs
 site_uuid: 6a82bb95-4ce8-4223-b567-8ad46dcbd0d6
 publish: true
@@ -11,6 +11,19 @@ at_semantic_version: 0.0.1.1
 cf_last_run: 2026-06-07T01:36:32.078Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://books.google.com/books?id=XM8Oz1a1d3EC
+amazon_url: https://www.amazon.com/dp/0262510871
+format: book
+book_authors:
+  - Harold Abelson
+  - Gerald Jay Sussman
+contributors:
+  - name: Julie Sussman
+    role: with
+publisher: MIT Press
+publisher_city: Cambridge, MA
+year_first_published: 1985
+annotation: Teaches programming as the building of abstractions, using Scheme to show how complex systems are composed from simple parts.
+our_take: ''
 ---
 
 https://web.mit.edu/6.001/6.037/sicp.pdf

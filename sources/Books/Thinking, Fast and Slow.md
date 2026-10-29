@@ -3,7 +3,16 @@ cf_last_run: 2026-05-23T19:19:32.352Z
 cf_last_run_model: Perplexity sonar-pro
 google_books_url: https://books.google.com/books?id=1w5D21nXQ3MC
 date_created: 2026-05-23
-date_modified: 2026-05-23
+date_modified: 2026-10-29
+title: Thinking, Fast and Slow
+format: book
+book_authors:
+  - Daniel Kahneman
+publisher: Farrar, Straus and Giroux
+publisher_city: New York
+year_first_published: 2011
+annotation: A Nobel laureate's account of the two systems of thought and the biases that come from relying on the fast one.
+our_take: ''
 ---
 
 # Thinking, Fast and Slow

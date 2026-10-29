@@ -2,12 +2,23 @@
 aliases:
   - Post-Scarcity
 date_created: 2026-05-19
-date_modified: 2026-05-23
+date_modified: 2026-10-29
 wikipedia_url: https://en.wikipedia.org/wiki/Abundance:_The_Future_Is_Better_Than_You_Think
 amazon_url: https://a.co/d/06AxHctU
 google_books_url: https://www.diamandis.com/abundance
 cf_last_run: 2026-05-23T19:32:11.393Z
 cf_last_run_model: Perplexity sonar-pro
+title: Abundance
+format: book
+subtitle: The Future Is Better Than You Think
+book_authors:
+  - Peter H. Diamandis
+  - Steven Kotler
+publisher: Free Press
+publisher_city: New York
+year_first_published: 2012
+annotation: Makes the case that exponential technologies will meet basic human needs faster than most people expect.
+our_take: ''
 ---
 
 
