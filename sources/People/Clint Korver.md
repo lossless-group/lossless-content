@@ -17,7 +17,7 @@ tags: [Venture-Investors]
 > **Model:** sonar-pro
 > 
 
-Clint Korver, co-founder and Managing Director of [[vertical-toolkits/Venture-Capital-Firms/Ulu Ventures|Ulu Ventures]], is a prominent figure in venture capital, especially in Silicon Valley's seed-stage investment landscape. The term "Clint Korver, Ulu Ventures" refers not just to a person and a firm, but to a unique approach to early-stage investing that blends rigorous decision science, a commitment to diversity, and deep ties to leading academic institutions. This approach has reshaped how capital finds the most promising startups and has set new standards for transparency and impact in technology entrepreneurship.
+Clint Korver, co-founder and Managing Director of [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Ulu Ventures|Ulu Ventures]], is a prominent figure in venture capital, especially in Silicon Valley's seed-stage investment landscape. The term "Clint Korver, Ulu Ventures" refers not just to a person and a firm, but to a unique approach to early-stage investing that blends rigorous decision science, a commitment to diversity, and deep ties to leading academic institutions. This approach has reshaped how capital finds the most promising startups and has set new standards for transparency and impact in technology entrepreneurship.
 
 ![Relevant diagram or illustration related to the topic](https://uluventures.com/wp-content/uploads/bio-clint-korver-1.jpg)
 

@@ -85,10 +85,10 @@ Mutiny was founded in 2018 by **Jaleh Rezaei** in San Francisco with the mission
 
 | Round     | Date | Amount     | Lead investor                                                                                                                  |
 | --------- | ---- | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Pre‑Seed  | 2018 | $0.12M     | Not disclosed (early backers; [[Y-Combinator]] participation later referenced but specific lead not named in accessible data). |
-| Seed      | 2018 | $3M        | Not disclosed; [[vertical-toolkits/Venture-Capital-Firms/Sequoia Capital]]a later lists Mutiny as a portfolio company but is reported as partner from 2021 onwards.    |
+| Pre‑Seed  | 2018 | $0.12M     | Not disclosed (early backers; [[vertical-toolkits/Venture-Capital-Firms/Y Combinator|Y-Combinator]] participation later referenced but specific lead not named in accessible data). |
+| Seed      | 2018 | $3M        | Not disclosed; [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Sequoia Capital]]a later lists Mutiny as a portfolio company but is reported as partner from 2021 onwards.    |
 | Series A  | 2021 | $18.5M     | Sequoia Capital (widely cited as key backer and partner since 2021).                                                           |
-| Series B  | 2022 | $50M       | [[Tiger Global]] (commonly reported as lead, alongside participation from Insight Partners and others).                        |
+| Series B  | 2022 | $50M       | [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Tiger Global]] (commonly reported as lead, alongside participation from Insight Partners and others).                        |
 | **Total** | —    | **$71.6M** | Aggregate funding across 4 rounds (Pre‑Seed, Seed, Series A, Series B) per [[Latka]] data.                                     |
 Sources for Table: [^6qzgck] [^h5h80d] [^czw9ns] [^r7fedi] [^8kjav8] [^6ts67e] [^h8i9zx]
 

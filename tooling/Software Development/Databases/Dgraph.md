@@ -9,14 +9,14 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:21.746Z
 jina_error: Error occurred
 og_last_fetch: 2025-05-29T16:42:02.101Z
-date_modified: 2026-06-06
+date_modified: 2026-10-14
 date_created: 2025-03-30
 tags:
   - Software-Development
   - Databases
   - Open-Source
   - Graph-Databases
-github_profle_url: https://github.com/dgraph-io/dgraph
+github_profile_url: https://github.com/dgraph-io/dgraph
 cf_last_run: 2026-06-06T04:55:36.683Z
 cf_last_run_model: Perplexity sonar-pro
 ---

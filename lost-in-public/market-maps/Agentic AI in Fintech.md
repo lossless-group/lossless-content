@@ -135,7 +135,7 @@ square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Agentic_AI_
 :::
 ### Commercial Neobanks
 :::tool-showcase
-- [[Tooling/Mercury Bank]]
+- [[Tooling/Enterprise Jobs-to-be-Done/Mercury Bank]]
 - [[Copper]]
 :::
 

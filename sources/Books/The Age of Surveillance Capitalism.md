@@ -57,7 +57,7 @@ The book is documented as a 704-page 2019 work by Zuboff, published by PublicAff
 
 ## Why It Matters to Innovators
 
-- **Names the business model beneath “free” digital services.** The book distinguishes user-facing functionality from the hidden monetization of behavioral data, a useful diagnostic for [[Data as Infrastructure]] and [[Sources/Books/Platform Scale|Platform Scale]].
+- **Names the business model beneath “free” digital services.** The book distinguishes user-facing functionality from the hidden monetization of behavioral data, a useful diagnostic for [[concepts/Data as Infrastructure]] and [[Sources/Books/Platform Scale|Platform Scale]].
 - **Separates personalization from behavioral control.** Its key question is whether a product merely responds to user intent or begins shaping that intent through prediction and intervention.
 - **Makes power asymmetry visible.** Zuboff’s framework highlights the gap between what users know about a system and what the system knows about users, strengthening analysis of [[concepts/Information Asymmetry]].
 - **Connects product design to institutional legitimacy.** The book treats privacy, consent, and autonomy as strategic design constraints rather than compliance details.
@@ -74,7 +74,7 @@ The book is documented as a 704-page 2019 work by Zuboff, published by PublicAff
 - [[books/In the Age of the Smart Machine]]
 - [[concepts/Surveillance Capitalism]]
 - [[concepts/Platform Business Models]]
-- [[Data as Infrastructure]]
+- [[concepts/Data as Infrastructure]]
 - [[concepts/Information Asymmetry]]
 - [[sources/The Social Dilemma]]
 

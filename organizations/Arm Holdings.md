@@ -1,7 +1,7 @@
 ---
 wikipedia_url: https://en.wikipedia.org/wiki/Arm_Holdings#:~:text=Arm%20Holdings%20plc%20(formerly%20an,the%20ARM%20architecture%20family%20of
 date_created: 2025-03-20
-date_modified: 2026-06-16
+date_modified: 2026-10-28
 url: https://www.arm.com/
 tags:
   - Chip-Designers
@@ -13,6 +13,8 @@ slug: arm-holdings
 at_semantic_version: 0.0.0.1
 cf_last_run: 2026-06-15T23:32:03.670Z
 cf_last_run_model: Perplexity sonar-pro
+aliases:
+  - Advanced Risc Machines
 ---
 
 [[Sources/Standards-and-Specs/ARM|ARM]]

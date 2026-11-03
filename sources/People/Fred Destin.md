@@ -10,7 +10,7 @@ linkedin_url: https://www.linkedin.com/in/freddestin/?originalSubdomain=uk
 x_url: https://x.com/fdestin?lang=en
 tags: [Venture-Investors]
 ---
-[[vertical-toolkits/Venture-Capital-Firms/Stride VC|Stride VC]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Stride VC|Stride VC]]
 
 ***
 > [!info] **Perplexity Query** (2025-11-11T17:19:21.665Z)
@@ -20,7 +20,7 @@ tags: [Venture-Investors]
 > **Model:** sonar-pro
 > 
 
-Fred Destin is a leading **venture capitalist** known for his role in shaping the European startup ecosystem through early-stage investments and hands-on support for founders. As the founder of [[vertical-toolkits/Venture-Capital-Firms/Stride VC|Stride VC]]. and former partner at [[Accel]] and [[Accomplice]], Destin has influenced the growth of many high-profile tech companies, making him a key figure in modern venture capital. Understanding his approach and impact is important for anyone interested in innovation and startup funding.
+Fred Destin is a leading **venture capitalist** known for his role in shaping the European startup ecosystem through early-stage investments and hands-on support for founders. As the founder of [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Stride VC|Stride VC]]. and former partner at [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Accel]] and [[Accomplice]], Destin has influenced the growth of many high-profile tech companies, making him a key figure in modern venture capital. Understanding his approach and impact is important for anyone interested in innovation and startup funding.
 
 ![Relevant diagram or illustration related to the topic](https://images.squarespace-cdn.com/content/v1/67b94584cb4968452d57305e/87163b7b-bcdb-4c12-9a99-f2604674cc54/Conceivable-Fred-Destin.jpg)
 

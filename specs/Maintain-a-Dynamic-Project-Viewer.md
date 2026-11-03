@@ -12,7 +12,7 @@ category: Content-Displays
 date_created: 2025-08-21
 date_modified: 2025-08-21
 status: In-Progress
-tags: [Content-Displays, UI-Design]
+tags: [Content-Displays, UI-Design, Svelte]
 authors:
   - Michael Staton
 image_prompt: A set of window washers are cleaning a giant jumbotron at a baseball park.  The jumbotron is disiplaying a gantt chart. 

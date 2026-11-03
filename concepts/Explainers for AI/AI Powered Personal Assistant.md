@@ -6,7 +6,7 @@ date_modified: 2026-10-13
 date_created: 2025-03-30
 tags: [AI-Toolkit, Explainers]
 ---
-[[Fieldy AI]]
+[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Fieldy AI]]
 
 
 Examples include [[Rewind AI]].

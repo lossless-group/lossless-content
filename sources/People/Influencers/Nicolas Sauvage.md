@@ -10,7 +10,7 @@ slug: nicolas-sauvage
 at_semantic_version: 0.0.1.1
 ---
 
-[[TDK Ventures]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/TDK Ventures]]
 
 https://hbr.org/2024/09/why-vcs-should-use-net-promoter-scores-with-founders
 
@@ -76,7 +76,7 @@ For a **person**, the catalog focuses on his authored or hosted works and signat
 
 # Adjacent Sources
 
-- [[sources/TDK Ventures]] — to capture the institutional strategy, portfolio, and specific investment theses that Nicolas Sauvage leads.  
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/TDK Ventures|TDK Ventures]] — to capture the institutional strategy, portfolio, and specific investment theses that Nicolas Sauvage leads.  
 - [[sources/Global Corporate Venturing]] — the media and intelligence platform that hosts Corporate Venturing Insider and produces the Powerlist recognizing Sauvage’s work. [^f6qwrr] [^ksxqi2] [^nb0p6o]  
 - [[sources/Corporate Venturing Insider (Podcast)]] — as its own vault entry focused on the show’s episode catalog and recurring themes. [^04463e] [^ksxqi2]  
 - [[concepts/Corporate Venture Capital]] — core conceptual entry for the CVC model that Sauvage both practices and evangelizes.  

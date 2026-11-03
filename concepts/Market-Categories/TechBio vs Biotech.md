@@ -13,7 +13,7 @@ at_semantic_version: 0.0.0.1
 
 
 
-[[vertical-toolkits/Bioscience/Isomorphic Labs|Isomorphic Labs]]
+[[vertical-toolkits/Bioscience/TechBio/Isomorphic Labs|Isomorphic Labs]]
 
 [[concepts/Platform Strategy|Platform Strategy]]
 
@@ -51,7 +51,7 @@ The central dispute is whether TechBio should include the entire “programmable
 
 ## CAGR and TAM
 
-- **[[Vocabulary/Generative AI|Generative AI]] in [[Drug Discovery]] and Development Market, 2026–2031:** Hiqual Insights estimates a market value of **$2.74 billion in 2025**, **$3.61 billion in 2026**, and **$18.90 billion by 2031**, implying a **36.1% CAGR**. The report is a top-down market estimate focused specifically on generative AI applications in drug discovery and development rather than the entire biotech or pharmaceutical market.[^vu7sm3]
+- **[[Vocabulary/Generative AI|Generative AI]] in [[concepts/Market-Categories/Drug Discovery]] and Development Market, 2026–2031:** Hiqual Insights estimates a market value of **$2.74 billion in 2025**, **$3.61 billion in 2026**, and **$18.90 billion by 2031**, implying a **36.1% CAGR**. The report is a top-down market estimate focused specifically on generative AI applications in drug discovery and development rather than the entire biotech or pharmaceutical market.[^vu7sm3]
 
 - **AI drug-discovery venture capital is materially larger than the narrow software-market estimate.** Metix AI reports approximately **$11 billion of VC investment across 348 AI drug-discovery rounds in 2025**, illustrating the difference between annual capital deployed into the category and recurring software or market-revenue TAM.[^fx9y93]
 
@@ -85,7 +85,7 @@ The central dispute is whether TechBio should include the entire “programmable
 - [Illumina](https://www.illumina.com/) — dominant sequencing-platform supplier whose instruments and datasets underpin genomics-heavy TechBio workflows.
 
 #### [Alphabet / Google DeepMind](https://deepmind.google/)
-**Stage**: public (NASDAQ: GOOGL) parent; late-stage private affiliate through [[vertical-toolkits/Bioscience/Isomorphic Labs|Isomorphic Labs]].  
+**Stage**: public (NASDAQ: GOOGL) parent; late-stage private affiliate through [[vertical-toolkits/Bioscience/TechBio/Isomorphic Labs|Isomorphic Labs]].  
 **Funding**: Isomorphic Labs raised approximately **$600 million in its first external round in 2025**, with Alphabet and external investors associated with the financing; the affiliate had also signed major pharmaceutical partnerships before the round.[^bv1ybr][^x16sdr]  
 **Footprint**: [[organizations/Alphabet|Alphabet]] provides global-scale cloud, AI research, and enterprise distribution; Google DeepMind’s [[Vocabulary/AlphaFold|AlphaFold]] work supplies a widely recognized structural-biology foundation for the category.[^7kqgyi]  
 **Why they're in this category**: Alphabet is not merely selling biotech software; through DeepMind and Isomorphic Labs it is applying foundational AI and structural-biology models directly to drug-design workflows and pharmaceutical partnerships.[^7kqgyi][^x16sdr]  

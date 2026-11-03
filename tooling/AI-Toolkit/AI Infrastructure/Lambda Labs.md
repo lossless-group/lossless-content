@@ -2,7 +2,7 @@
 site_uuid: d91b6b63-9f8c-43b4-924c-39afb27f243c
 site_name: Lambda Labs
 title: GPU Compute for AI
-date_modified: 2026-10-08
+date_modified: 2026-10-25
 date_created: 2024-04-21
 url: https://lambdalabs.com/
 tags:
@@ -23,6 +23,17 @@ at_semantic_version: 0.0.1.1
 ---
 
 [[concepts/Explainers for AI/AI Compute Cloud Providers|AI Compute Cloud Providers]]
+
+%% 
+42B in contracts
+Premoney is $14.5B
+Next year $3.5B
+This year $1.7B top line
+Adjusted EMITDA is 35%
+Becomes profitable in 2028
+Vehicle is $25M, soft circled is $25M need to commit. 
+25 day centers in the US
+%%
 
 # Lambda Labs
 
@@ -68,9 +79,9 @@ Lambda was founded in 2012 by twin brothers Stephen Balaban and Michael Balaban.
 
 The reported equity total exceeds $2.3 billion through Series E. [^qqjgq6] Debt facilities are separate from equity financing and should not be added to that total. [^8batu1]
 
-[[Andra Capital]]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Andra Capital]]  
 [[Sources/People/Andrej Karpathy|Andrej Karpathy]]  
-[[vertical-toolkits/Venture-Capital-Firms/Alumni Ventures]]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Alumni Ventures]]  
 [[ARK Invest]]  
 [[organizations/In-Q-Tel]]  
 [[organizations/Nvidia|NVIDIA]]  
@@ -83,7 +94,7 @@ Wiwynn [^26h3gt] [^qqjgq6]
 
 ## Notable Team Members
 
-Stephen Balaban is a co-founder of Lambda and, together with his twin brother, helped establish the company in 2012. [^26h3gt] [^qqjgq6]
+[[Stephen Balaban]] is a co-founder of Lambda and, together with his twin brother, helped establish the company in 2012. [^26h3gt] [^qqjgq6]
 
 Michael Balaban is a co-founder of Lambda and was part of the founding team that initially focused on GPU workstations and servers for machine-learning developers. [^qqjgq6]
 

@@ -53,7 +53,7 @@ Dograh provides a drag‑and‑drop workflow builder for **speech‑to‑text (S
 
 # History and Origin Story
 
-Public posts describe Dograh as “**Voice AI built by YC alumni & serial exit founders, committed to keeping voice AI open and accessible for everyone**,” implying that the founding team includes former [[vertical-toolkits/Venture-Capital-Firms/Y Combinator|Y Combinator]] founders with previous successful exits who created Dograh as an open, self‑hosted alternative to proprietary voice AI platforms like Vapi and Retell. [^dlt1s0] [^m0m8p3] [^rd1xs1] No specific founding date, individual founder names, or detailed origin narrative are disclosed in available sources. [^dlt1s0] [^m0m8p3] [^rd1xs1]  
+Public posts describe Dograh as “**Voice AI built by YC alumni & serial exit founders, committed to keeping voice AI open and accessible for everyone**,” implying that the founding team includes former [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Y Combinator|Y Combinator]] founders with previous successful exits who created Dograh as an open, self‑hosted alternative to proprietary voice AI platforms like Vapi and Retell. [^dlt1s0] [^m0m8p3] [^rd1xs1] No specific founding date, individual founder names, or detailed origin narrative are disclosed in available sources. [^dlt1s0] [^m0m8p3] [^rd1xs1]  
 
 ## Notable Team Members
 

@@ -99,7 +99,7 @@ Key ideas and “chapters” are often summarized in secondary sources rather th
 ## Adjacent Sources
 
 - [[sources/The End of Scale]] — MIT Sloan Management Review piece that elaborates on “economies of unscale” and complements the book’s argument. [^rvs4t5]
-- [[General Catalyst]] — The venture firm where Taneja is managing partner, relevant for seeing how these ideas inform real-world investment theses. [^sx3tae]
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/General Catalyst]] — The venture firm where Taneja is managing partner, relevant for seeing how these ideas inform real-world investment theses. [^sx3tae]
 - [[sources/Platform Strategy]] — Works on how digital platforms reshape competition, closely aligned with *Unscaled*’s infrastructure and ecosystem themes.
 - [[Vocabulary/AI Native Applications|AI-Native]] — Sources focused on building AI‑native products and organizations, extending *Unscaled*’s emphasis on AI‑driven personalization.
 - [[concepts/Disruption Theory]] — For contrasting “economies of unscale” with Christensen‑style disruption via incumbents overshooting customer needs.

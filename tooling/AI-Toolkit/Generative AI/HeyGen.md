@@ -7,7 +7,7 @@ og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshot
 jina_last_request: '2025-03-09T06:45:00.076Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-05-28T15:04:38.863Z'
-date_modified: 2025-05-28
+date_modified: 2026-10-14
 date_created: 2025-03-30
 og_image: 'https://cdn.sanity.io/images/pdhqcmb1/production/b237937038902563da33c30a1a67fce0af62ebcf-3968x2220.png'
 og_url: 'https://www.heygen.com'
@@ -18,4 +18,5 @@ tags:
   - Generative-AI
   - Gen-Ai-Video
 ---
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Conviction Partners]]
 

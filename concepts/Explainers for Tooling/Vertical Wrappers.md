@@ -124,3 +124,7 @@ While many early "wrappers" simply provided a user interface for an LLM, vertica
 [^m3u5fw] https://www.lindy.ai/blog/vertical-ai-agents
 [^xsx3qb] https://jeffreybowdoin.com/blog/beyond-blank-slate-escaping-ai-wrapper-trap/
 [^aizk9q] https://arapackelaw.com/patents/patenting-your-ai-wrapper/
+
+## Further Reading
+
+- [[essays/Why Vertical Wrappers have better Odds for Investors|Why Vertical Wrappers Have Better Odds For Investors]]

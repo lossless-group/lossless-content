@@ -101,9 +101,9 @@ Dust was founded in **Paris in early 2023** by **Gabriel Hubert** and **Stanisla
 
 | Round     | Date       |      Amount | Lead investor                                                           |
 | --------- | ---------- | ----------: | ----------------------------------------------------------------------- |
-| Seed      | 2023-06-27 |       $5.5M | Sequoia Capital (w/ [[vertical-toolkits/Venture-Capital-Firms/Seedcamp]], [[vertical-toolkits/Venture-Capital-Firms/Connect Ventures]]) [^E1] [^vibr5m] [^bm2aiu] |
+| Seed      | 2023-06-27 |       $5.5M | Sequoia Capital (w/ [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Seedcamp]], [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Connect Ventures]]) [^E1] [^vibr5m] [^bm2aiu] |
 | Series A  | 2024-06-27 |      $16.1M | Sequoia Capital [^E1] [^vibr5m] [^jz3f61]                                         |
-| Series B  | 2026-05-01 |      $40.0M | [[vertical-toolkits/Venture-Capital-Firms/Sequoia Capital]] & [[vertical-toolkits/Venture-Capital-Firms/Abstract Ventures]] [^E1] [^23v4wr] [^a6ojbf] [^n8n1we]        |
+| Series B  | 2026-05-01 |      $40.0M | [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Sequoia Capital]] & [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Abstract Ventures]] [^E1] [^23v4wr] [^a6ojbf] [^n8n1we]        |
 | **Total** | —          | **$61.5M+** | — [^E1] [^23v4wr] [^a6ojbf] [^wpuy9i]                                                  |
 
 ### Investors (alphabetical, one per line)
@@ -113,7 +113,7 @@ Dust was founded in **Paris in early 2023** by **Gabriel Hubert** and **Stanisla
 - Connect Ventures [^vibr5m] [^bm2aiu]  
 - Seedcamp [^vibr5m] [^a77n62]  
 - Sequoia Capital [^E1] [^cy5vop] [^a6ojbf]  
-- [[Snowflake Ventures]] (strategic participant) [^E1] [^a6ojbf]  
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Snowflake Ventures]] (strategic participant) [^E1] [^a6ojbf]  
 
 ## Notable Team Members
 

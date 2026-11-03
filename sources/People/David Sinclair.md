@@ -9,5 +9,5 @@ title: "David Sinclair"
 slug: david-sinclair
 at_semantic_version: 0.0.0.1
 ---
-[[vertical-toolkits/Venture-Capital-Firms/Dark Matter Bio|Dark Matter Bio]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Dark Matter Bio|Dark Matter Bio]]
 [[organizations/Harvard|Harvard]]

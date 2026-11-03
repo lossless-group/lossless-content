@@ -7,7 +7,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:04.634Z
 jina_error: Error occurred
 og_last_fetch: 2025-05-29T00:24:04.640Z
-date_modified: 2026-10-09
+date_modified: 2026-10-14
 date_created: 2025-03-30
 og_image: https://www.gstatic.com/lamda/images/gemini_thumbnail_v2_55a4e3be7b83404a620e5.jpg
 og_url: https://gemini.google.com
@@ -15,7 +15,7 @@ description: Gemini is your personal, proactive, and powerful AI assistant from 
 tags:
   - AI-Toolkit
   - Models
-github_profle_url: https://github.com/google-gemini
+github_profile_url: https://github.com/google-gemini
 parent_org: "[[organizations/Google|Google]]"
 docs_url: https://ai.google.dev/gemini-api/docs
 ---

@@ -81,7 +81,7 @@ RapidAPI was founded in 2015 and developed from an API marketplace into a broade
 
 The retrieved company data reports $272.5 million in total funding. [^E1] A separate funding database reports approximately $273 million across six rounds and identifies an earlier $4 million seed round in November 2016. [^pygmb1]
 
-[[vertical-toolkits/Venture-Capital-Firms/Andreessen Horowitz|Andreessen Horowitz]] [^pygmb1]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Andreessen Horowitz|Andreessen Horowitz]] [^pygmb1]  
 Grove Ventures [^pygmb1]  
 [[SoftBank Group]] [^pygmb1]
 

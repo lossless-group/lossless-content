@@ -11,7 +11,7 @@ og_favicon: "https://cdn.prod.website-files.com/60bdfda40de1723365b85ed1/60bdfda
 og_last_fetch: "2026-10-14T20:10:00.000Z"
 ---
 
-RAISE Global (RAISE Conferences, LLC) runs a community and an event series for LPs and emerging VC managers. It was founded by Akkadian Ventures (Benjamin Black) and Magnify Ventures (Joanna Drake). The flagship is the annual **RAISE Global Summit** at the Presidio in San Francisco. The organizers also run RAISE GP Day, RAISE Week side events, LP-Only Summits in New York, RAISE LATAM, and Slush x RAISE in Helsinki. LPs pick the GPs: an LP Selection Committee scores the applications.
+RAISE Global (RAISE Conferences, LLC) runs a community and an event series for LPs and emerging VC managers. It was founded by [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Akkadian Ventures|Akkadian Ventures]] ([[Sources/People/Benjamin Black|Benjamin Black]]) and [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Magnify Ventures|Magnify Ventures]] ([[Sources/People/Joanna Drake|Joanna Drake]]). The flagship is the annual **RAISE Global Summit** at the Presidio in San Francisco. The organizers also run RAISE GP Day, RAISE Week side events, LP-Only Summits in New York, RAISE LATAM, and Slush x RAISE in Helsinki. LPs pick the GPs: an LP Selection Committee scores the applications.
 
 Instances:
 - [[Sources/Events/RAISE Global Summit 2026|RAISE Global Summit 2026]] (Oct 22, 2026; GP Day Oct 21; RAISE Week Oct 19-23)

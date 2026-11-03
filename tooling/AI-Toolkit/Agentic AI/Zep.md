@@ -1,19 +1,27 @@
 ---
-url: "https://www.getzep.com/"
-og_title: "Context Engineering & Agent Memory Platform for AI Agents - Zep"
-og_description: "Agents fail without the right context. Getting it right is hard. We fixed it. Goes beyond agent memory with unified context graph, Graph RAG, and automated context assembly. Works with any framework. Three lines of code. 200ms retrieval."
-og_image: "https://www.getzep.com/og-image.png"
-og_favicon: "https://www.getzep.com/zep-logo-icon-gradient-rgb-circle-favicon-32.png"
+url: https://www.getzep.com/
+og_title: Context Engineering & Agent Memory Platform for AI Agents - Zep
+og_description: Agents fail without the right context. Getting it right is hard. We fixed it. Goes beyond agent memory with unified context graph, Graph RAG, and automated context assembly. Works with any framework. Three lines of code. 200ms retrieval.
+og_image: https://www.getzep.com/og-image.png
+og_favicon: https://www.getzep.com/zep-logo-icon-gradient-rgb-circle-favicon-32.png
 og_type: website
 authors:
   - Zep Software, Inc.
-og_last_fetch: "2026-05-17T20:05:12.818Z"
+og_last_fetch: 2026-05-17T20:05:12.818Z
 date_created: 2026-05-17
-date_modified: 2026-08-15
-github_profle_url: "https://github.com/getzep"
-tags: [Memory-Layers, Context-Layers, Knowledge-Graphs, Agent-Memory, Must-Have, Solutions-For-Scale, Context-Engineering, Context-Engineering-Kits]
-cf_last_run: "2026-08-15T01:43:05.787Z"
-cf_last_run_model: "Perplexity sonar-pro"
+date_modified: 2026-10-14
+github_profile_url: https://github.com/getzep
+tags:
+  - Memory-Layers
+  - Context-Layers
+  - Knowledge-Graphs
+  - Agent-Memory
+  - Must-Have
+  - Solutions-For-Scale
+  - Context-Engineering
+  - Context-Engineering-Kits
+cf_last_run: 2026-08-15T01:43:05.787Z
+cf_last_run_model: Perplexity sonar-pro
 for_clients:
   - Laerdal
   - Lossless
@@ -89,7 +97,7 @@ Markdown table (rounds, dates, amounts, lead investor):
 
 Investors (alphabetical, from known data):
 
-- [[vertical-toolkits/Venture-Capital-Firms/Y Combinator|Y Combinator]] [^83i6as]
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Y Combinator|Y Combinator]] [^83i6as]
 
 ## Notable Team Members
 

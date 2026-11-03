@@ -1,7 +1,7 @@
 ---
-github_profle_url: https://github.com/dolthub
+github_profile_url: https://github.com/dolthub
 date_created: 2024-07-02
-date_modified: 2026-06-15
+date_modified: 2026-10-14
 x_url: https://x.com/dolthub
 url: https://www.dolthub.com/
 og_title: Dolt is the world's first and only version controlled database

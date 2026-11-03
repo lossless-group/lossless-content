@@ -67,7 +67,7 @@ Several projects provide crucial infrastructure support for AI applications on b
 
 ## **Computing Infrastructure Providers**
 
-**[[Golem]] (GLM)** has achieved significant traction with a $250 million market cap by creating a decentralized supercomputer that harnesses idle computers worldwide. [^npq6lz] Users can rent spare computing power for tasks including AI model training, CGI rendering, and scientific research, democratizing access to high-performance computing. [^npq6lz]
+**[[Tooling/AI-Toolkit/Agentic AI/Golem]] (GLM)** has achieved significant traction with a $250 million market cap by creating a decentralized supercomputer that harnesses idle computers worldwide. [^npq6lz] Users can rent spare computing power for tasks including AI model training, CGI rendering, and scientific research, democratizing access to high-performance computing. [^npq6lz]
 
 **Akash Network (AKT)** operates as a decentralized cloud computing marketplace with a $300 million market cap, connecting users needing computing resources with providers having spare capacity. [^npq6lz] This creates a more efficient and cost-effective cloud computing ecosystem particularly beneficial for AI applications requiring significant computing power. [^npq6lz]
 

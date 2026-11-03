@@ -66,12 +66,12 @@ Decart was founded in 2023 by Dean Leitersdorf, Orian Leitersdorf, and Moshe Sha
 The supplied company material reports total funding of $456 million, including the rounds listed above. [^E1] Contemporary reporting describes Decart as having raised more than $400 million and being valued at nearly $4 billion after the May 2026 round. [^xqc7cv]
 
 [[Atreides Management]]  
-[[vertical-toolkits/Venture-Capital-Firms/Benchmark|Benchmark]]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Benchmark|Benchmark]]  
 [[organizations/Nvidia|NVIDIA]]  
-[[vertical-toolkits/Venture-Capital-Firms/Radical Ventures|Radical Ventures]]  
-[[vertical-toolkits/Venture-Capital-Firms/Sequoia Capital|Sequoia Capital]]  
-[[Valor Equity Partners]]  
-[[Zeev Ventures]]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Radical Ventures|Radical Ventures]]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Sequoia Capital|Sequoia Capital]]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Valor Equity Partners]]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Zeev Ventures]]  
 Adobe Ventures [^xqc7cv]
 
 ## Notable Team Members

@@ -16,7 +16,7 @@ tags:
   - AI-Toolkit
   - Models
 ---
-[[Grok Bot]]
+[[GrokBot]]
 
 An [[AI Models|AI Model]], [[Large Language Models]], [[organizations/X]]
 

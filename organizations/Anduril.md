@@ -24,10 +24,10 @@ tags:
 
 [[Vocabulary/Unmanned Aerial Systems|Drones]]
 [[Vocabulary/Dual-Use Technologies|Dual-Use Technologies]]
-[[Thrive Capital]]
-[[Valor Equity Partners]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Thrive Capital]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Valor Equity Partners]]
 
-[[vertical-toolkits/Venture-Capital-Firms/Andreessen Horowitz|Andreessen Horowitz]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Andreessen Horowitz|Andreessen Horowitz]]
 
 
 - [Raised $5B Series H at $61B valuation led by Thrive Capital and Andreessen Horowitz (May 2026).](https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/)

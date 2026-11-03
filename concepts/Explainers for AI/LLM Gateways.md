@@ -1,15 +1,19 @@
 ---
 date_created: 2025-08-25
-date_modified: 2026-08-23
+date_modified: 2026-10-15
 site_uuid: 87a52b60-0e19-46af-a3a8-f0b6fbe9fe59
 publish: true
 title: LLM Gateways
 slug: llm-gateways
 at_semantic_version: 0.0.0.1
-tags: [Explainers, LLM-Gateways]
+tags:
+  - Explainers
+  - LLM-Gateways
 covers_tags:
   - LLM-Gateways
-aliases: [AI Gateways]
+  - Model-Gateways
+aliases:
+  - AI Gateways
 ---
 [[Tetrate]]
 [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/OpenRouter|OpenRouter]]

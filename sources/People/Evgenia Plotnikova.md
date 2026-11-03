@@ -10,4 +10,4 @@ title: "Evgenia Plotnikova"
 slug: evgenia-plotnikova
 at_semantic_version: 0.0.0.1
 ---
-[[vertical-toolkits/Venture-Capital-Firms/Dawn Capital|Dawn Capital]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Dawn Capital|Dawn Capital]]

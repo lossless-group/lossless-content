@@ -12,7 +12,7 @@ augmented_with: Windsurf Cascade on Claude 4.0
 category: Open-Ideas
 date_created: 2025-08-07
 date_modified: 2025-08-23
-tags: [Messaging-Apps]
+tags: [Messaging-Apps, Realtime-Applications]
 authors:
   - Michael Staton
   - Slava Sobolev

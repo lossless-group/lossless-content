@@ -7,7 +7,7 @@ title: "Ben Peters"
 slug: ben-peters
 at_semantic_version: 0.0.0.1
 ---
-[[vertical-toolkits/Venture-Capital-Firms/Notion VC|Notion VC]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Notion VC|Notion VC]]
 
 ***
 > [!info] **Perplexity Query** (2025-11-13T19:59:15.078Z)
@@ -21,7 +21,7 @@ at_semantic_version: 0.0.0.1
 
 **Introduction**
 
-**Ben Peters** is a founding partner of **[[vertical-toolkits/Venture-Capital-Firms/Notion VC|Notion VC]]**, a prominent European venture capital firm specializing in early-stage investments in B2B SaaS (software-as-a-service) companies. His work is significant because it exemplifies the new breed of VCs shaping Europe’s tech landscape, connecting innovative founders with global ambitions to the resources and expertise needed to scale internationally. Understanding Peters’s approach and Notion VC’s strategy offers insight into modern venture capital’s impact on entrepreneurship and innovation in Europe.
+**Ben Peters** is a founding partner of **[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Notion VC|Notion VC]]**, a prominent European venture capital firm specializing in early-stage investments in B2B SaaS (software-as-a-service) companies. His work is significant because it exemplifies the new breed of VCs shaping Europe’s tech landscape, connecting innovative founders with global ambitions to the resources and expertise needed to scale internationally. Understanding Peters’s approach and Notion VC’s strategy offers insight into modern venture capital’s impact on entrepreneurship and innovation in Europe.
 
 ![Ben Peters, Notion VC concept diagram or illustration](https://platform.coop/wp-content/uploads/2021/10/ben-peters-e1464486649377.jpeg)
 
@@ -43,7 +43,7 @@ However, European SaaS founders face significant challenges. These include compe
 Venture capital in Europe has matured rapidly in recent years, with a growing number of SaaS startups achieving unicorn status and successfully expanding overseas. Notion VC, led by partners like Peters, is at the forefront of this trend, catalyzing the European SaaS ecosystem and helping founders access both capital and international markets.
 
 **Key Players and Recent Developments**  
-Where VCs in Europe once lagged behind Silicon Valley in scale and ambition, firms like Notion, [[vertical-toolkits/Venture-Capital-Firms/Index Ventures]], and [[vertical-toolkits/Venture-Capital-Firms/Atomico]] are closing the gap. Peters’s strategic focus echoes trends highlighted in sector analyses, including the importance of building business foundations for transatlantic expansion from day one—an approach now widely imitated in the European investment community. [^lw4eki]
+Where VCs in Europe once lagged behind Silicon Valley in scale and ambition, firms like Notion, [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Index Ventures]], and [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Atomico]] are closing the gap. Peters’s strategic focus echoes trends highlighted in sector analyses, including the importance of building business foundations for transatlantic expansion from day one—an approach now widely imitated in the European investment community. [^lw4eki]
 
 ![Ben Peters, Notion VC future trends or technology visualization](https://fxnewsgroup.com/wp-content/uploads/2024/04/bio-ben-peters.jpg)
 

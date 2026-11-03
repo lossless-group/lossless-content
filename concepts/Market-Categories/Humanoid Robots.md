@@ -40,7 +40,7 @@ Several companies are leading the development of humanoid robots, supported by n
 ### **3. [[Tooling/Hardware/Robotics/Figure AI|Figure AI]]**
 - **Founded:** 2022  
 - **Robots:** Figure 01 (logistics) and Figure 02 (2024).  
-- **Funding:** $70M Series A (2023) led by [[vertical-toolkits/Venture-Capital-Firms/Parkway VC]]; $675M Series B (2024) at a $2.6B valuation from Microsoft, [[organizations/Nvidia|NVIDIA]], Amazon, and OpenAI. [^hgx6jt] [^55m6e3]  
+- **Funding:** $70M Series A (2023) led by [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Parkway VC]]; $675M Series B (2024) at a $2.6B valuation from Microsoft, [[organizations/Nvidia|NVIDIA]], Amazon, and OpenAI. [^hgx6jt] [^55m6e3]  
 - **Progress:** Partnerships with BMW, [[Tooling/AI-Toolkit/Model Producers/OpenAI|OpenAI]], and Microsoft for AI integration. [^55m6e3]
 
 ### **4. UBTECH Robotics**

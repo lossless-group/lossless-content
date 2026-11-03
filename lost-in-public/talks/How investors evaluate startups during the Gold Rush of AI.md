@@ -112,6 +112,8 @@ Everyone should be getting their hands dirty.  Even though AI is massively overh
 - [[essays/Are Code Generators really the Death of SaaS|Are Code Generators really the Death of SaaS]]
 - [[essays/From Rags to Riches|From Rags to Riches]]
 - [[essays/On Data Gathering|On Data Gathering]]
+- [[essays/On the Need for Stack Engineering|On the Need for Stack Engineering]]
+- [[essays/Why Vertical Wrappers have better Odds for Investors|Why Vertical Wrappers Have Better Odds For Investors]]
 - [[essays/The AI Model Wars|The AI Model Wars]]
 - [[concepts/Explainers for Tooling/Vertical Wrappers|Vertical Wrappers]]
 

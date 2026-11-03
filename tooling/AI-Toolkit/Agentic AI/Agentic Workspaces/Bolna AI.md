@@ -67,7 +67,7 @@ Bolna AI was founded in **2024** by IIT Delhi alumni **Maitreya Wagh** and **Pra
 
 ## Fundraising History
 
-No explicit public announcements detailing round, date, amount, and lead investor (Pre‑Seed, Seed, Series A, etc.) were found; [[vertical-toolkits/Venture-Capital-Firms/Y Combinator|Y Combinator]] association is documented but without disclosed round specifics. [^n9d6bq] [^b55y52]
+No explicit public announcements detailing round, date, amount, and lead investor (Pre‑Seed, Seed, Series A, etc.) were found; [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Y Combinator|Y Combinator]] association is documented but without disclosed round specifics. [^n9d6bq] [^b55y52]
 
 | Round | Date | Amount | Lead investor |
 |-------|------|--------|---------------|

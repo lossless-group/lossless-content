@@ -50,7 +50,7 @@ _A technology and business practice enabling users to authenticate once via an i
   - Multi-Factor Authentication per App: Forces repeated logins, opposing SSO's single credential goal. [^2k1rd8]
   - Siloed Authentication: App-specific logins creating credential sprawl. [^99lgjx]
 
-- **Adjacent terms**: [[SAML 2.0]], [[Identity Provider]], [[Service Provider]], [[Vocabulary/Multi-Factor Authentication]], [[Zero Trust]], [[SCIM]]
+- **Adjacent terms**: [[SAML 2.0]], [[Vocabulary/Identity Provider]], [[Service Provider]], [[Vocabulary/Multi-Factor Authentication]], [[Zero Trust]], [[SCIM]]
 
 # Usage in Practice
 - "Duo Single Sign-On is our cloud-hosted SSO product which layers Duo's strong authentication and flexible policy engine on top of an application's login using [[Vocabulary/Security Assertion Markup Language|Security Assertion Markup Language]] (SAML) 2.0." — Duo documentation [^2k1rd8]

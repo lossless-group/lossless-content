@@ -26,7 +26,7 @@ cf_last_run_retrieval: 2026-10-10T16:44:17.970Z
 ---
 
 [[Vocabulary/REST API|REST API]]
-[[vertical-toolkits/Venture-Capital-Firms/Y Combinator|Y-Combinator]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Y Combinator|Y-Combinator]]
 [[concepts/Market-Categories/Context Engineering Platforms|Context Engineering Platforms]]
 [[Vocabulary/Web Scraping|Web Scraping]]
 [[concepts/Explainers for AI/AI Web Crawlers|AI-Powered Web Crawling]]
@@ -44,7 +44,7 @@ Context.dev provides a managed web-data API for AI agents and LLM pipelines: it 
 - **Structured extraction:** Accepts JSON Schema and returns schema-shaped data; successful JSON extraction adds four credits. [^6gkbf3]
 - **Research answers:** The Answers API returns structured JSON with source URLs; Fast mode costs 10 credits and Ultra mode costs 100 credits. [^rbz9lm]
 - **Agent connectivity:** Supports MCP with [[projects/Emergent-Innovation/Standards/OAuth|OAuth]] alongside REST APIs and [[Vocabulary/SDK|SDKs]]. [^l0qenp]
-- **Additional data tools:** The product surface includes search, sitemaps, PDF parsing, brand enrichment, batches, monitors, and [[Webhooks]]. [^6gkbf3]
+- **Additional data tools:** The product surface includes search, sitemaps, PDF parsing, brand enrichment, batches, monitors, and [[Vocabulary/Webhooks]]. [^6gkbf3]
 
 ## Screenshots
 
@@ -64,7 +64,7 @@ As of October 10, 2026,
 
 ## History and Origin Story
 
-Context.dev was founded in 2025 and is associated with [[vertical-toolkits/Venture-Capital-Firms/Y Combinator|Y Combinator]]’s Summer 2026 batch. [^E1] Its public product direction has expanded from URL scraping and crawling toward agent-oriented research, structured answers, MCP connectivity, and context-reduction tools such as Context Highlights. [^rbz9lm] [^zbi1gh]
+Context.dev was founded in 2025 and is associated with [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Y Combinator|Y Combinator]]’s Summer 2026 batch. [^E1] Its public product direction has expanded from URL scraping and crawling toward agent-oriented research, structured answers, MCP connectivity, and context-reduction tools such as Context Highlights. [^rbz9lm] [^zbi1gh]
 
 ## Fundraising History
 

@@ -20,8 +20,8 @@ cf_last_run_model: Perplexity sonar-pro
 
 [[Human Immunome Project]]
 [[Immunology]]
-[[vertical-toolkits/Venture-Capital-Firms/HUMAIN|HUMAIN]]
-[[vertical-toolkits/Venture-Capital-Firms/Dark Matter Bio|Dark Matter Bio]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/HUMAIN|HUMAIN]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Dark Matter Bio|Dark Matter Bio]]
 
 
 # Bateman Horne Center

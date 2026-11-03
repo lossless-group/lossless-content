@@ -82,8 +82,8 @@ TypeSafe AI says it spent two years in stealth developing a new model stack focu
 
 TypeSafe’s announcement also reported a **$7.5 billion valuation** and said Martin Casado joined its board. [^ivpq81]
 
-[[vertical-toolkits/Venture-Capital-Firms/Andreessen Horowitz|Andreessen Horowitz]]. [^ivpq81]  
-[[vertical-toolkits/Venture-Capital-Firms/Sequoia Capital|Sequoia Capital]]. [^ivpq81]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Andreessen Horowitz|Andreessen Horowitz]]. [^ivpq81]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Sequoia Capital|Sequoia Capital]]. [^ivpq81]  
 [[organizations/DCVC|DCVC]]. [^ivpq81]  
 
 Unnamed angel investors. [^ivpq81]

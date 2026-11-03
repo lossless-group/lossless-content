@@ -87,7 +87,7 @@ In other words:
 
 ### 3. How this mindset has influenced Y Combinator companies
 
-The “cockroach” ethos shows up in several characteristic [[Y-Combinator]] patterns and practices:
+The “cockroach” ethos shows up in several characteristic [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Y Combinator|Y-Combinator]] patterns and practices:
 
 **a) Lean, low-burn default**
 

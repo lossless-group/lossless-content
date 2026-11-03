@@ -52,7 +52,7 @@ flowchart TD
 ## Origins
 
 - The phrase **“Do Things that Don’t Scale”** is widely attributed to [[Sources/People/Influencers/Paul Graham|Paul Graham]]’s 2013 essay of the same name, published on his personal site while he was president of Y Combinator. [^ent28z] In that essay he explicitly argues that “a lot of would-be founders believe that startups either take off or don’t,” but in reality “almost all startups have to do things that don’t scale at first.”[^ent28z]  
-- Graham introduced the concept in the context of advising very early-stage software startups to **personally recruit users**, handhold them through onboarding, and provide intense, unscalable support, using examples from companies that went through [[vertical-toolkits/Venture-Capital-Firms/Y Combinator|Y Combinator]]. [^ent28z]  
+- Graham introduced the concept in the context of advising very early-stage software startups to **personally recruit users**, handhold them through onboarding, and provide intense, unscalable support, using examples from companies that went through [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Y Combinator|Y Combinator]]. [^ent28z]  
 - The essay quickly spread through startup blogs, hacker forums, and founder talks, becoming a canonical part of the YC-style startup playbook and frequently referenced alongside concepts like “make something people want.”[^ent28z] [^w0j22v]  
 
 ## Evolution

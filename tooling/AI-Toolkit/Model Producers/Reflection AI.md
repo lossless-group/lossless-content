@@ -22,4 +22,4 @@ The team behind [[Gemini]]
 
 
 
-Backed by [[vertical-toolkits/Venture-Capital-Firms/Sequoia Capital|Sequoia Capital]]
+Backed by [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Sequoia Capital|Sequoia Capital]]

@@ -120,9 +120,9 @@ Figma's path to profitability and public markets was marked by six significant p
 The largest shareholders by ownership percentage are venture capital firms from Figma's private funding rounds: Index Ventures (~13%), Greylock Partners (~12%), Kleiner Perkins (~8.6% pre-IPO), and Sequoia Capital (~7%)[^r8z9bp][^r8z9bp][^r8z9bp][^r8z9bp]. Among institutional investors, Vanguard Group holds approximately 2.8% combined across multiple ETFs, and Fidelity Investments' Contrafund holds approximately 1.1%[^r8z9bp][^r8z9bp][^r8z9bp][^r8z9bp].
 
 **Investor List (Alphabetical Order)**
-- [[vertical-toolkits/Venture-Capital-Firms/Andreessen Horowitz|Andreessen Horowitz]]
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Andreessen Horowitz|Andreessen Horowitz]]
 - Fidelity Investments (Contrafund)
-- [[Greylock Partners]]
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Greylock Partners]]
 - Index Ventures
 - Kleiner Perkins
 - Sequoia Capital

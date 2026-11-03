@@ -96,9 +96,9 @@ Multiverse has raised “over $400 million” in venture funding and reached uni
 **Investors (alphabetical, not exhaustive):**
 
 - D1 Capital Partners [^7mtkkd]  
-- [[General Catalyst]] [^7mtkkd]  
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/General Catalyst]] [^7mtkkd]  
 - Google Ventures (GV)[^7mtkkd]  
-- [[vertical-toolkits/Venture-Capital-Firms/Lightspeed Venture Partners]] [^7mtkkd]  
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Lightspeed Venture Partners]] [^7mtkkd]  
 - StepStone Group [^7mtkkd]  
 
 ## Notable Team Members
@@ -130,7 +130,7 @@ It is not a fit for **individual consumers** looking for self‑serve, low‑cos
 - **[[Tooling/Training/Coursera|Coursera]]** – Global online learning platform offering university‑backed courses, professional certificates, and degree programs for individual learners and enterprises, including data and AI skills, but without the work‑embedded apprenticeship structure. [^5qh3bl]  
 - **Udacity** – Provider of “Nanodegree” programs focused on tech, AI, data, and engineering skills for individuals and enterprises, emphasizing project‑based learning rather than registered apprenticeships. [^5qh3bl]  
 - **General Assembly** – Tech education company offering intensive bootcamps and corporate training in software engineering, data, and UX, positioned as an alternative to traditional degrees but typically not structured as formal apprenticeships. [^5qh3bl]  
-- **[[Tooling/Apprentice.io]]/ other apprenticeship providers** – Regional and sector‑specific apprenticeship firms that match talent with employers in technology and professional services, offering a similar “earn while you learn” model but at smaller scale or in narrower niches. [^5qh3bl]  
+- **[[vertical-toolkits/CleanTech/Apprentice.io]]/ other apprenticeship providers** – Regional and sector‑specific apprenticeship firms that match talent with employers in technology and professional services, offering a similar “earn while you learn” model but at smaller scale or in narrower niches. [^5qh3bl]  
 
 ## Competitor Table
 

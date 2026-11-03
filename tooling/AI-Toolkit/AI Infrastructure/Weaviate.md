@@ -19,7 +19,7 @@ cf_last_run_model: Perplexity sonar-deep-research
 
 
 
-Weaviate’s existing investors, including [[NEA]], [[Cortical Ventures]], [[Zetta Venture Partners]], and [[ING Ventures]]
+Weaviate’s existing investors, including [[vertical-toolkits/Alternatives/Venture-Capital-Firms/NEA]], [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Cortical Ventures]], [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Zetta Venture Partners]], and [[vertical-toolkits/Alternatives/Venture-Capital-Firms/ING Ventures]]
 
 # Weaviate: AI-Native Vector Database for Retrieval-Augmented Generation and Semantic Search
 

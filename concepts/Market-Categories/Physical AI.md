@@ -132,7 +132,7 @@ The boundary is disputed: some analysts use “physical AI” broadly for any AI
 
 #### [Apptronik](https://apptronik.com/)
 **Stage**: late-stage private scale-up  
-**Funding**: Apptronik raised **$350 million** in February 2025 in a round led by [[vertical-toolkits/Venture-Capital-Firms/B Capital|B Capital]] and Capital Factory, with participation from Google. [^j79yha]  
+**Funding**: Apptronik raised **$350 million** in February 2025 in a round led by [[vertical-toolkits/Alternatives/Venture-Capital-Firms/B Capital|B Capital]] and Capital Factory, with participation from Google. [^j79yha]  
 **Footprint**: Apptronik is developing Apollo for warehouses and manufacturing plants, initially targeting package movement and other supply-chain-oriented tasks. [^j79yha]  
 **Why they're in this category**: Apptronik’s wedge is an enterprise humanoid designed for environments where existing warehouse and manufacturing workflows already create demand for repetitive physical labor. [^j79yha]  
 **Coverage**: [Reuters, “Apptronik raises $350 million to scale production of humanoid robots”](https://www.reuters.com/technology/apptronik-raises-350-million-scale-production-humanoid-robots-2025-02-13/).[9]

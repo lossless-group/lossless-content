@@ -1,6 +1,6 @@
 ---
 date_created: 2025-11-28
-date_modified: 2026-05-23
+date_modified: 2026-11-02
 site_uuid: 2a64f6cf-f0f0-4a95-81ff-35c8c50610c1
 publish: true
 title: Cedars Sinai Medical Center
@@ -11,9 +11,13 @@ cf_last_run: 2026-05-23T21:07:54.705Z
 cf_last_run_model: Perplexity sonar-pro
 for_clients:
   - Laerdal
+  - Humain
+  - Dark-Matter
+aliases:
+  - Cedars-Sinai
 ---
 
-[[vertical-toolkits/Venture-Capital-Firms/Dark Matter Bio|Dark Matter Bio]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Dark Matter Bio|Dark Matter Bio]]
 
 # Cedars-Sinai Medical Center
 

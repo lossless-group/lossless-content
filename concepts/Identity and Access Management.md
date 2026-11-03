@@ -1,7 +1,7 @@
 ---
 aliases: ["IAM"]
 date_created: 2025-12-25
-date_modified: 2026-08-05
+date_modified: 2026-10-18
 tags:
   - Authentication
   - Authorization
@@ -22,6 +22,8 @@ for_clients:
 [[Tooling/Software Development/Lego-Kit Engineering Tools/SuperTokens|SuperTokens]]
 [[Clear]]
 [[projects/Emergent-Innovation/Standards/OAuth|OAuth]]
+
+[[Tooling/Software Development/Cloud Infrastructure/Cloudflare|Cloudflare]]
 
 
 _Identity and Access Management is the quiet machinery that decides **who gets in, what they can do, and how that decision is tracked**. [^ozgdj7] [^cuilu5] [^7nhagx]_
@@ -67,10 +69,10 @@ F --> B
 
 ## Evolution
 
-- **1960s:** Early computer IAM began with password-based login on systems such as CTSS at MIT. [^rxxt29] [^3ec0g9] [^g2s4sh]  
-- **1980s–1990s:** Directory services such as **[[concepts/Lightweight Directory Access Protocol]]** and related identity infrastructure expanded identity management across distributed environments. [^ozgdj7]  
+- **1960s:** Early computer IAM began with password-based login on systems such as CTSS at [[organizations/Massachusetts Institute of Technology|MIT]]. [^rxxt29] [^3ec0g9] [^g2s4sh]  
+- **1980s–1990s:** Directory services such as **[[concepts/Lightweight Directory Access Protocol|Lightweight Directory Access Protocol]]** and related identity infrastructure expanded identity management across distributed environments. [^ozgdj7]  
 - **Early 2000s:** IAM became a distinct enterprise discipline as organizations tried to unify authentication, access control, and governance across many systems. [^ozgdj7] [^8bmv4n]  
-- **2010s:** Cloud and SaaS shifted IAM from a mostly internal IT function to a cross-platform discipline covering on-premises, mobile, and API-based integrations. [^ozgdj7] [^iz6x16]  
+- **2010s:** Cloud and SaaS shifted IAM from a mostly internal IT function to a cross-platform discipline covering on-premises, mobile, and [[Vocabulary/API Integrations|API-based integrations]]. [^ozgdj7] [^iz6x16]  
 - **2020s:** IAM broadened to include **non-human identities**, zero-trust patterns, and automation for hybrid and cloud-native systems. [^cuilu5] [^iz6x16] [^n43lzg]  
 
 # Best Real-World Examples
@@ -89,7 +91,7 @@ One useful case is the **Sysdig** example on AWS, where the company used **AWS I
 
 A second case is the SaaS transformation described by **Kalp Systems**, which reports building a centralized identity management architecture around **Microsoft Entra ID**, **HR-driven lifecycle management**, **RBAC standardization**, automated provisioning, and policy-based access governance. [^fz3vk2] This shows the “identity” side of IAM in action: access is not only granted at login but continuously shaped by employee status, roles, and automation. [^fz3vk2] [^n43lzg] It also reflects how IAM has expanded beyond perimeter security into lifecycle orchestration across business systems. [^ozgdj7] [^iz6x16]
 
-The **Cloud Security Alliance** standards material is a good case for understanding how IAM became interoperable across vendors and platforms. [^cxn1c6] It distinguishes **SAML** for secure SSO and assertion exchange, **OIDC** for identity verification through trusted providers, and **OAuth 2.0** for delegated authorization and token-based access. [^cxn1c6] This standards stack shows why modern IAM is usually less about a single product and more about coordinated protocols that let identities move securely across applications, clouds, and organizational boundaries. [^cxn1c6] [^nn331y] [^4qt9qv]
+The **[[organizations/Cloud Security Alliance]]** standards material is a good case for understanding how IAM became interoperable across vendors and platforms. [^cxn1c6] It distinguishes **SAML** for secure SSO and assertion exchange, **OIDC** for identity verification through trusted providers, and **OAuth 2.0** for delegated authorization and token-based access. [^cxn1c6] This standards stack shows why modern IAM is usually less about a single product and more about coordinated protocols that let identities move securely across applications, clouds, and organizational boundaries. [^cxn1c6] [^nn331y] [^4qt9qv]
 
 
 ***
@@ -140,3 +142,4 @@ The **Cloud Security Alliance** standards material is a good case for understand
 [42]: [IAM-Lösungen (Identity and Access Management) - IBM](https://www.ibm.com/de-de/solutions/identity-access-management)
 [43]: [IBM Cloud IAMを使い始める](https://cloud.ibm.com/docs/iam?topic=iam-iamoverview&locale=ja)
 [^8j90if]: 2025, Mar 17. "[Top 5 Open Source Identity and Access Management (IAM) providers 2025 | Medium](https://logto.medium.com/top-5-open-source-identity-and-access-management-iam-providers-2025-ef2428c01c6e)". Logto. [Medium](https://logto.medium.com).
+[^fnc9bz]: "[What's Identity and Access Management](https://www.cloudflare.com/learning/access-management/what-is-identity-and-access-management/)". [Cloudflare](https://www.cloudflare.com).

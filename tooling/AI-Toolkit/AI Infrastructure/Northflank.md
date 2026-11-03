@@ -75,19 +75,19 @@ Northflank was founded in **2019** and is headquartered in London, United Kingdo
 | Angel     | 2019-07-25 |       Not disclosed | Not disclosed             |
 | Seed      | 2020-07-07 |               $2.6M | Not disclosed             |
 | Seed      | 2022-07-07 |               $2.6M | Not disclosed             |
-| Seed      | 2024-11-11 |               $6.3M | [[Vertex Ventures]] US    |
-| Series A  | 2024-11-11 |              $16.0M | [[vertical-toolkits/Venture-Capital-Firms/Bain Capital Ventures]] |
+| Seed      | 2024-11-11 |               $6.3M | [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Vertex Ventures]] US    |
+| Series A  | 2024-11-11 |              $16.0M | [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Bain Capital Ventures]] |
 | **Total** |          — | **$27.5M reported** | —                         |
 
 Northflank’s supplied company metadata reports total funding of **$27.5 million**, including a $16 million Series A and three listed seed rounds. [^E1] A secondary account describes the November 2024 financing as a $16 million Series A led by Bain Capital Ventures and a $6.3 million seed led by Vertex Ventures US, with participation from Kindred Ventures, Tapestry VC, Pebblebed, and Uncorrelated Ventures.[14]
 
 Bain Capital Ventures
 
-[[Kindred Ventures]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Kindred Ventures]]
 
 Pebblebed
 
-[[vertical-toolkits/Venture-Capital-Firms/Tapestry VC]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Tapestry VC]]
 
 Uncorrelated Ventures
 

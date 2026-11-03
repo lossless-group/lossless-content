@@ -18,7 +18,7 @@ tags:
 
 _*Paul Graham is a startup investor, essayist, and programmer whose writing and work at Y Combinator have become canonical for founders building ambitious technology companies.*_
 
-Paul Graham is a **person**: a British-born computer scientist, entrepreneur, and writer best known as a co‑founder of the startup accelerator **[[vertical-toolkits/Venture-Capital-Firms/Y Combinator|Y Combinator]]** and for influential essays on startups and programming. [^f15kk9] He co‑founded Y Combinator in 2005 with Jessica Livingston, Robert Morris, and Trevor Blackwell, and became widely read through essays published on his personal site paulgraham.com. [^f15kk9] Innovators and founders return to him for crisp mental models on startups, funding, and technical leverage that have been battle‑tested across hundreds of YC-backed companies. [^f15kk9]
+Paul Graham is a **person**: a British-born computer scientist, entrepreneur, and writer best known as a co‑founder of the startup accelerator **[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Y Combinator|Y Combinator]]** and for influential essays on startups and programming. [^f15kk9] He co‑founded Y Combinator in 2005 with Jessica Livingston, Robert Morris, and Trevor Blackwell, and became widely read through essays published on his personal site paulgraham.com. [^f15kk9] Innovators and founders return to him for crisp mental models on startups, funding, and technical leverage that have been battle‑tested across hundreds of YC-backed companies. [^f15kk9]
 
 Paul Graham is best known today as a **co‑founder of Y Combinator**, based in the United States, and as an independent essayist publishing primarily on his personal website. [^f15kk9] His primary public surface is his site **paulgraham.com**, where he publishes essays on startups, programming, and ideas; he is also visible via Y Combinator’s public materials and occasional talks. [^f15kk9]
 
@@ -57,7 +57,7 @@ Paul Graham’s public impact for innovators is primarily through his essays and
 
 # Adjacent Sources
 
-- [[Y Combinator]] — The accelerator Paul Graham co‑founded and the main institutional embodiment of his startup philosophy. [^f15kk9]
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Y Combinator]] — The accelerator Paul Graham co‑founded and the main institutional embodiment of his startup philosophy. [^f15kk9]
 - [[concepts/Minimum Viable Product|Minimum Viable Product]] — Connects to his repeated emphasis on small launches, iteration, and building something a few users love before scaling. [^f15kk9]
 - Eric Ries – [[Sources/Books/The Lean Startup|The Lean Startup]] — Shares a focus on validated learning and iterative product development, complementary to Paul Graham’s essays.
 - Steve Blank – [[The Four Steps to the Epiphany]] — Another foundational source on customer development and startup discovery, often read alongside Graham’s work.

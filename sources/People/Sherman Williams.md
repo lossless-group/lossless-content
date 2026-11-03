@@ -9,4 +9,4 @@ title: "Sherman Williams"
 slug: sherman-williams
 at_semantic_version: 0.0.0.1
 ---
-[[vertical-toolkits/Venture-Capital-Firms/AIN Ventures|AIN Ventures]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/AIN Ventures|AIN Ventures]]

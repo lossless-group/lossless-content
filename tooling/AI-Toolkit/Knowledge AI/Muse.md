@@ -21,7 +21,7 @@ cf_last_run_model: Perplexity sonar-pro
 ---
 
 
-[[Personal AI]]
+[[concepts/Market-Categories/Personal AI]]
 [[concepts/Explainers for AI/AI Assistants|AI Assistants]]
 
 

@@ -38,4 +38,4 @@ url_svic_profile: https://siliconvalleyinvestclub.com/modal-labs/
 https://siliconvalleyinvestclub.com/
 
 
-[^03zcod]: "[Modal's Series C: Raising $355M at a $4.65B valuation | Modal Blog | Modal](https://modal.com/blog/modal-series-c)". [[General Catalyst]] and [[Redpoint Ventures]]. [Modal](https://modal.com).
+[^03zcod]: "[Modal's Series C: Raising $355M at a $4.65B valuation | Modal Blog | Modal](https://modal.com/blog/modal-series-c)". [[vertical-toolkits/Alternatives/Venture-Capital-Firms/General Catalyst]] and [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Redpoint Ventures]]. [Modal](https://modal.com).

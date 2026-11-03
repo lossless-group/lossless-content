@@ -8,9 +8,6 @@ site_uuid: 51163a93-bb9e-45f2-ba14-e737ad229908
 title: Technologiemanagement
 slug: technologiemanagement
 at_semantic_version: 0.1.0.1
-language: de
-language: de
-language: de
 format: book
 subtitle: Handbuch Produktion und Management 2
 contributors:

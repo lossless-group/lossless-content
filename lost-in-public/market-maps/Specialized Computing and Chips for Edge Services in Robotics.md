@@ -218,19 +218,19 @@ The specialized computing and chips market for edge robotics has naturally segme
 
 #### [Prophesee Metavision Sensor](https://www.prophesee.ai)
 **Offering**: Event-based vision sensors inspired by biological retinas that capture only pixel-level changes rather than full frames, reducing data throughput by orders of magnitude while enabling microsecond-level response times critical for high-speed robotics applications. [^8hgszc]  
-**Funding**: $50 million Series C funding led by [[Robert Bosch Venture Capital]] in 2025, bringing total funding to $120 million with additional investment from strategic semiconductor partners. [^8hgszc]  
+**Funding**: $50 million Series C funding led by [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Robert Bosch Venture Capital]] in 2025, bringing total funding to $120 million with additional investment from strategic semiconductor partners. [^8hgszc]  
 **Why they matter**: They have established the commercial viability of neuromorphic vision systems with over 500,000 sensors deployed in industrial automation settings, demonstrating the tangible operational benefits of event-based processing for robotics applications requiring high temporal resolution. [^8hgszc]  
 **Coverage**: [IEEE Spectrum, "Prophesee's Neuromorphic Sensors Revolutionize Machine Vision"](https://spectrum.ieee.org)[^8hgszc]
 
 #### [SynSense Speck](https://synsense.ai)
 **Offering**: A neuromorphic processor combining dynamic vision sensors with spiking neural network processors to deliver ultra-low latency object detection suitable for drone navigation and robotic manipulation tasks requiring minimal power consumption. [^8hgszc]  
-**Funding**: $45 million Series B funding led by [[Intel Capital]] in 2025, following successful validation in drone collision avoidance systems. [^8hgszc]  
+**Funding**: $45 million Series B funding led by [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Intel Capital]] in 2025, following successful validation in drone collision avoidance systems. [^8hgszc]  
 **Why they matter**: They have pioneered the integration of hardware and algorithm co-design for neuromorphic systems, delivering commercially available products that demonstrate 100x power efficiency improvements compared to conventional vision systems for specific robotic workloads. [^8hgszc]  
 **Coverage**: [VentureBeat, "SynSense Raises $45M to Commercialize Neuromorphic Chips for Robotics"](https://venturebeat.com)[^8hgszc]
 
 #### [BrainChip Akida](https://www.brainchip.com)
 **Offering**: A production-ready neuromorphic processor capable of performing complex pattern recognition at the edge with power consumption measured in milliwatts rather than watts, enabling continuous operation for battery-powered robots. [^0sywec]  
-**Funding**: $40 million Series C funding in 2025 led by [[Samsung Ventures]], with additional strategic investment from industrial robotics manufacturers. [^0sywec]  
+**Funding**: $40 million Series C funding in 2025 led by [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Samsung Ventures]], with additional strategic investment from industrial robotics manufacturers. [^0sywec]  
 **Why they matter**: They achieved the first commercial deployment of spiking neural network processors in industrial settings, demonstrating real-world reliability and performance advantages over conventional AI accelerators for specific robotic perception tasks. [^0sywec]  
 **Coverage**: [Robotics Business Review, "BrainChip's Akida Processor Powers Next-Generation Industrial Robots"](https://www.roboticsbusinessreview.com)[^0sywec]
 

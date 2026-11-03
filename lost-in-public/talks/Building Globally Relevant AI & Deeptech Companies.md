@@ -27,7 +27,7 @@ lede: Venture Capital observations on the Age of AI, and effective practices for
 ### Event Summary
 The [[organizations/Kauffman Fellows|Kauffman Fellows]] is a global organization dedicated to providing executive education to Venture Capital professionals through a two year program and a global network built up over 30 years of cohorts. 
 
-Every year, the entire network is invited to a Summit, this year the [[Sources/Events/2025 Kauffman Summit|2025 Kauffman Summit]].  Side events before and after are common, sometimes well organized.  For a full day before the Summit, a workshop-style event was hosted by [[vertical-toolkits/Venture-Capital-Firms/Notion VC|Notion VC]], [[vertical-toolkits/Venture-Capital-Firms/Playfair Capital|Playfair Capital]] and [[vertical-toolkits/Venture-Capital-Firms/Dawn Capital|Dawn Capital]].
+Every year, the entire network is invited to a Summit, this year the [[Sources/Events/2025 Kauffman Summit|2025 Kauffman Summit]].  Side events before and after are common, sometimes well organized.  For a full day before the Summit, a workshop-style event was hosted by [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Notion VC|Notion VC]], [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Playfair Capital|Playfair Capital]] and [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Dawn Capital|Dawn Capital]].
 
 # Proposed Parslee Meetings for Follow Up:
 
@@ -37,17 +37,17 @@ Every year, the entire network is invited to a Summit, this year the [[Sources/E
 3. [[Sources/People/Michael Block|Michael Block]] formerly at [[vertical-toolkits/FinTech/Agent Smyth|Agent Smyth]]
 
 ### VCs willing to have an open discussion:
-1. [[Sources/People/Clint Korver|Clint Korver]] from [[vertical-toolkits/Venture-Capital-Firms/Ulu Ventures|Ulu Ventures]]
-2. [[Sources/People/Sherman Williams|Sherman Williams]] from [[vertical-toolkits/Venture-Capital-Firms/AIN Ventures|AIN Ventures]]
-3. [[Sources/People/Mehreen Malik]] from [[vertical-toolkits/Venture-Capital-Firms/MeiLin Capital]]
+1. [[Sources/People/Clint Korver|Clint Korver]] from [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Ulu Ventures|Ulu Ventures]]
+2. [[Sources/People/Sherman Williams|Sherman Williams]] from [[vertical-toolkits/Alternatives/Venture-Capital-Firms/AIN Ventures|AIN Ventures]]
+3. [[Sources/People/Mehreen Malik]] from [[vertical-toolkits/Alternatives/Venture-Capital-Firms/MeiLin Capital]]
 4. [[Sources/People/Ben Parr|Ben Parr]] from [[client-content/Hypernova/Files/Portfolio/TheoryForge|TheoryForge]]
-5. [[Sources/People/Itxaso del Palacio|Itxaso del Palacio]] from [[vertical-toolkits/Venture-Capital-Firms/Notion VC|Notion VC]]
+5. [[Sources/People/Itxaso del Palacio|Itxaso del Palacio]] from [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Notion VC|Notion VC]]
 
 ::tool-showcase
-- [[vertical-toolkits/Venture-Capital-Firms/Ulu Ventures|Ulu Ventures]]
-- [[vertical-toolkits/Venture-Capital-Firms/AIN Ventures|AIN Ventures]]
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Ulu Ventures|Ulu Ventures]]
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/AIN Ventures|AIN Ventures]]
 - [[client-content/Hypernova/Files/Portfolio/TheoryForge|TheoryForge]]
-- [[vertical-toolkits/Venture-Capital-Firms/Notion VC|Notion VC]]
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Notion VC|Notion VC]]
 :::
 
 ### Success Looks Different
@@ -102,7 +102,7 @@ Panelists were: [[Sources/People/Henrik Wetter Sanchez|Henrik Wetter Sanchez]], 
 
 [[Sources/People/Ben Peters|Ben Peters]] -- 
 - The combination of using AI for productivity and trying to compete with the accelerated speed of the AI market can lead to distractions and rabbit holes. 
-- So, as we get to know a company, at [[vertical-toolkits/Venture-Capital-Firms/Notion VC|Notion VC]] we are trying to evaluate their ability to prioritize over time.  We ask for case studies on "What you said no to, what opportunities you walked away from and why." If they don't have good answers, that's a yellow flag.
+- So, as we get to know a company, at [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Notion VC|Notion VC]] we are trying to evaluate their ability to prioritize over time.  We ask for case studies on "What you said no to, what opportunities you walked away from and why." If they don't have good answers, that's a yellow flag.
 
 ### The Punch Bowl is going to Disappear Soon
 

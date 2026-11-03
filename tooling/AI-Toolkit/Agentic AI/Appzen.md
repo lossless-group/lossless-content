@@ -32,7 +32,7 @@ cf_last_run_model: Perplexity sonar-pro
 [[concepts/Explainers for AI/Accounting AI|Accounting AI]]
 [[Vocabulary/Accounting|Accounting]]
 
-[[vertical-toolkits/Venture-Capital-Firms/Bloomberg Beta|Bloomberg Beta]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Bloomberg Beta|Bloomberg Beta]]
 
 # Value Proposition & Features
 

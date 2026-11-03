@@ -20,7 +20,7 @@ banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-dec/Longevi
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-dec/Longevity_Science_in_the_era_of_Realtime_Data__Biohacking__and_AI_portrait_image_1764871730710_YhvyDdy9X.webp
 square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-dec/Longevity_Science_in_the_era_of_Realtime_Data__Biohacking__and_AI_square_image_1764871732128_mAelhmlAr.webp
 ---
-Made for [[vertical-toolkits/Venture-Capital-Firms/Dark Matter Bio|Dark Matter Bio]]
+Made for [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Dark Matter Bio|Dark Matter Bio]]
 
 ***
 > [!info] **Perplexity Deep Research Query** (2025-12-04T17:15:35.206Z)

@@ -37,7 +37,7 @@ A **company brain** is an AI-powered knowledge management system that acts as a 
 
 ![Relevant diagram or illustration related to the topic](https://i.ytimg.com/vi/HKPyjdInRB0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCV2BeBvDBe_12IXy-bBRmPlhtbKA)
 
-Think of it as **GBrain**, the open-source system built by [[vertical-toolkits/Venture-Capital-Firms/Y Combinator|Y Combinator]]'s CEO Garry Tan. GBrain powers his daily workflow, managing **17,888 documents, 4,383 contacts, and 723 companies** (his full YC portfolio network). It works via a "Brain-First" loop:
+Think of it as **GBrain**, the open-source system built by [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Y Combinator|Y Combinator]]'s CEO Garry Tan. GBrain powers his daily workflow, managing **17,888 documents, 4,383 contacts, and 723 companies** (his full YC portfolio network). It works via a "Brain-First" loop:
 1. Query hits local brain → Instant, zero-cost answer.
 2. Miss → Fetch from external sources → Store in brain for next time.
 This makes the system self-improving: recall jumps from 83% to **95%**, and knowledge graph accuracy from 57.8% to **86.6%**. [^gpib6m]

@@ -43,7 +43,7 @@ However, this unique model comes with challenges. **Media-driven investing** may
 
 As of late 2024, the **20VC fund manages over $600 million in assets** and recently closed a **$400 million third fund**—with $125 million earmarked for seed investments and $275 million for Series A rounds. [^dthi27] [^lv9cj1] This rapid scaling indicates strong investor faith in the firm’s hybrid media/investment model. Stebbings’ rapid fundraising momentum stands out in a venture landscape where traditional firms increasingly compete with new media-savvy entrants.
 
-Other **key players capitalizing on media-driven VC** include personalities like [[Sources/People/Jason Calacanis]] (*This Week in Startups*) and the [[vertical-toolkits/Venture-Capital-Firms/Andreessen Horowitz]] podcast team, yet Stebbings’ journey from solo podcaster to institutional investor is uniquely rapid and influential. [^lv9cj1] Notable portfolio companies such as Tripledot Studios exemplify the success of identifying potential winners early.
+Other **key players capitalizing on media-driven VC** include personalities like [[Sources/People/Jason Calacanis]] (*This Week in Startups*) and the [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Andreessen Horowitz]] podcast team, yet Stebbings’ journey from solo podcaster to institutional investor is uniquely rapid and influential. [^lv9cj1] Notable portfolio companies such as Tripledot Studios exemplify the success of identifying potential winners early.
 
 Recent trends suggest content creation is a viable path into the venture capital industry, providing access to networks, differentiated deal flow, and personal brand development—an approach especially potent for younger or nontraditional entrants to the field. [^lv9cj1] [^f35anb]
 

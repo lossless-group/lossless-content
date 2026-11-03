@@ -4,7 +4,7 @@ zinger: 'Fast, scalable inference in our cloud or yours'
 description_site_cp: 'Fast, scalable inference in our cloud or yours'
 title: 'Deploy AI models in production'
 url: https://www.baseten.co/
-date_modified: 2025-04-16
+date_modified: 2026-10-14
 date_created: 2025-04-16
 og_title: 'Deploy AI models in production'
 og_image: https://www.baseten.co/img/og-2024.png
@@ -15,4 +15,7 @@ tags:
   - AI-Infrastructure
 ---
 
-[[Vocabulary/Inference in AI]]
+[[Vocabulary/Inference in AI|Inference in AI]]
+
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Conviction Partners|Conviction Partners]]
+

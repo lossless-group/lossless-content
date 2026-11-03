@@ -56,9 +56,9 @@ The only funding figure returned in the search results was a reported **total of
 
 [[organizations/AirBnB|AirBnB]]  
 DCM  
-[[Founders Fund]]  
-[[vertical-toolkits/Venture-Capital-Firms/Sequoia Capital]]  
-[[vertical-toolkits/Venture-Capital-Firms/Y Combinator|Y Combinator]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Founders Fund]]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Sequoia Capital]]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Y Combinator|Y Combinator]]
 
 ## Notable Team Members
 Mixpanel’s founders were **Suhail Doshi** and **Tim Trefren**, and the company was founded in 2009. [^fo4bx6] [^i0entq] [^kshyg5] The returned sources did not provide reliable, current leadership details beyond founder-level information, so no additional team members are included here.

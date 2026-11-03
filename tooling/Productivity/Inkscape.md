@@ -1,8 +1,8 @@
 ---
 url: https://inkscape.org/
 date_created: 2024-07-02
-date_modified: 2026-06-12
-github_profle_url: https://github.com/inkscape
+date_modified: 2026-10-14
+github_profile_url: https://github.com/inkscape
 site_uuid: ee7f8244-1055-46e2-adec-e3f799df17e0
 publish: true
 title: Inkscape

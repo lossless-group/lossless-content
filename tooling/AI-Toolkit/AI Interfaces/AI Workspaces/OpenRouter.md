@@ -67,14 +67,14 @@ OpenRouter was founded in 2023 by **Alex Atallah**, with reporting also naming *
 | Series B | 2026-05-26 |       $113M | CapitalG            |
 | Total    |            | **$153.5M** |                     |
 
-[[vertical-toolkits/Venture-Capital-Firms/Andreessen Horowitz|Andreessen Horowitz]] [^8ozbtk]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Andreessen Horowitz|Andreessen Horowitz]] [^8ozbtk]  
 CapitalG [^5u65he] [^5r6gd7] [^ol4gyh]  
-[[Menlo Ventures]] [^6cz1ba] [^5u65he] [^8ozbtk]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Menlo Ventures]] [^6cz1ba] [^5u65he] [^8ozbtk]  
 MongoDB Ventures [^5u65he] [^ol4gyh]  
 [[organizations/Nvidia|NVIDIA]] / NVentures [^5u65he] [^ol4gyh]  
-[[vertical-toolkits/Venture-Capital-Firms/Sequoia Capital]] [^6cz1ba] [^5u65he] [^8ozbtk]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Sequoia Capital]] [^6cz1ba] [^5u65he] [^8ozbtk]  
 ServiceNow Ventures [^ol4gyh]  
-[[Snowflake Ventures]] [^ol4gyh]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Snowflake Ventures]] [^ol4gyh]  
 
 ## Notable Team Members
 **Alex Atallah** is the founder and CEO most consistently identified in recent coverage. [^ecpei9] [^6cz1ba] [^psp08m] He is also described as the former co-founder of OpenSea, and he is the public face most often associated with OpenRouter’s product and fundraising story. [^ecpei9] [^psp08m]

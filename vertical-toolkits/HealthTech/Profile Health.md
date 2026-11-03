@@ -19,5 +19,5 @@ at_semantic_version: 0.0.0.1
 ---
 [[Vocabulary/Personalized Medicine|Personalized Medicine]]
 
-[[vertical-toolkits/Venture-Capital-Firms/Dark Matter Bio|Dark Matter Bio]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Dark Matter Bio|Dark Matter Bio]]
 

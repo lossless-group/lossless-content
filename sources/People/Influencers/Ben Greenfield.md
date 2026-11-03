@@ -5,4 +5,4 @@ url: https://bengreenfieldlife.com/
 tags: [Venture-Investors, Vertical-Thought-Leaders]
 ---
 
-[[vertical-toolkits/Venture-Capital-Firms/Dark Matter Bio]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Dark Matter Bio]]

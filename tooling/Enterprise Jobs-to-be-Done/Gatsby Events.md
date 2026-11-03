@@ -64,7 +64,7 @@ Core product value points include:
 
 # History and Origin Story
 
-The [[8VC]] portfolio description identifies **Gatsby** as “a new event tool built for teams” but does not specify founding date, founders, or historical milestones. [^axzh8m] No other authoritative source (company site, press, or filings) provides a founding narrative or key inflection points for Gatsby Events as of the available search results.
+The [[vertical-toolkits/Alternatives/Venture-Capital-Firms/8VC]] portfolio description identifies **Gatsby** as “a new event tool built for teams” but does not specify founding date, founders, or historical milestones. [^axzh8m] No other authoritative source (company site, press, or filings) provides a founding narrative or key inflection points for Gatsby Events as of the available search results.
 
 # Market Sizing
 

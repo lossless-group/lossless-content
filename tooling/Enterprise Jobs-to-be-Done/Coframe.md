@@ -63,7 +63,7 @@ No reliable source found for official product UI screenshots hosted by Coframe; 
 As of August 04, 2026,
 
 - **2026-06** – Tool directories describe Coframe’s current focus as “transforming user interfaces into dynamic entities” with an AI Growth Engineer and autonomous design/coding/deployment of marketing tests, indicating ongoing investment in agentic AI for growth and personalization. [^3u2pfo] [^zam4mi]  
-- **2024-10** – [[Tooling/Enterprise Jobs-to-be-Done/Coframe|Coframe]] announced a **$9M seed round co-led by [[Khosla Ventures]] and NFDG**, supporting further development of its AI platform for continuous interface optimization and autonomous experimentation. [^8is32p]  
+- **2024-10** – [[Tooling/Enterprise Jobs-to-be-Done/Coframe|Coframe]] announced a **$9M seed round co-led by [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Khosla Ventures]] and NFDG**, supporting further development of its AI platform for continuous interface optimization and autonomous experimentation. [^8is32p]  
 
 ## Recent Developments
 
@@ -92,9 +92,9 @@ Coframe was founded in **2023** and is headquartered in the San Francisco Bay Ar
 - Builders [^8is32p]  
 - C2 Investment [^8is32p]  
 - First Round Capital [^8is32p]  
-- [[General Catalyst]] [^8is32p]  
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/General Catalyst]] [^8is32p]  
 - Greylock [^8is32p]  
-- [[Khosla Ventures]] [^8is32p] [^a7uzlz]  
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Khosla Ventures]] [^8is32p] [^a7uzlz]  
 - [[Nat Friedman]] (via NFDG)[^8is32p] [^a7uzlz]  
 - NFDG (Nat Friedman and Daniel Gross’s fund)[^8is32p]  
 - Rich Miner (Android co-founder; associated with NFDG / investor group)[^3u2pfo] [^a7uzlz]  

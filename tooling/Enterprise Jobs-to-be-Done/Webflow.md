@@ -1,7 +1,7 @@
 ---
 url: https://webflow.com/
 date_created: 2026-06-11
-date_modified: 2026-10-13
+date_modified: 2026-10-31
 site_uuid: 2a84132c-c9b9-42ed-b1a8-7616d31c4e17
 publish: true
 title: Webflow
@@ -16,7 +16,7 @@ cf_last_run_model: Perplexity sonar-pro
 cf_retrieved_source_count: 5
 cf_last_run_retrieval: 2026-10-13T22:46:13.374Z
 ---
-
+[[concepts/Explainers for Tooling/Site Builders|Site Builders]]
 ## Value Proposition & Features
 
 Webflow is a visual website-development platform that lets teams design responsive sites through a visual canvas while producing production-ready [[Tooling/Software Development/Programming Languages/HTML|HTML]], [[Tooling/Software Development/Programming Languages/CSS|CSS]], and [[Tooling/Software Development/Programming Languages/JavaScript|JavaScript]]. [^br5ill] Its broader platform combines visual design, CMS, hosting, collaboration, AI capabilities, and enterprise-oriented web experiences. [^E1]
@@ -49,7 +49,7 @@ As of October 13, 2026,
 
 ## Recent Developments
 
-Recent Webflow development has centered on AI agents, MCP integrations, Webflow Cloud, answer-engine visibility, and deeper CMS automation. [^gby5bg] [^g92h74] [^y1a9au] The available results do not provide reliable, independently reported news from the last 90 days beyond Webflow’s own updates.
+Recent Webflow development has centered on AI agents, MCP integrations, Webflow Cloud, answer-engine visibility, and deeper [[concepts/Explainers for Tooling/Content Management Systems|CMS]] automation. [^gby5bg] [^g92h74] [^y1a9au] The available results do not provide reliable, independently reported news from the last 90 days beyond Webflow’s own updates.
 
 # History and Origin Story
 

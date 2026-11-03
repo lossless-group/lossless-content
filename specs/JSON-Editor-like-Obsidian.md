@@ -2,7 +2,7 @@
 date_created: 2025-08-21
 date_modified: 2025-08-23
 title: "Complete Me: A context-aware, blazing fast markup editor."
-tags: [Data-Augmenters, Data-Utilities]
+tags: [Data-Augmenters, Data-Utilities, TypeScript]
 date_authored_initial_draft: 2025-08-20
 date_authored_current_draft: 2025-08-22
 date_authored_final_draft: "[]"

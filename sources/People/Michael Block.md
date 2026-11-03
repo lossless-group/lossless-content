@@ -8,7 +8,7 @@ for_clients:
   - Param
 ---
 [[vertical-toolkits/FinTech/Agent Smyth|Agent Smyth]]
-[[vertical-toolkits/Venture-Capital-Firms/Alpha Partners|Alpha Partners]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Alpha Partners|Alpha Partners]]
 
 Met at [[Sources/Events/2025 Kauffman Summit|2025 Kauffman Summit]]
 

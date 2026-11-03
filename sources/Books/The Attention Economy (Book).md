@@ -62,7 +62,7 @@ our_take: ''
 - **Attention is a scarce design constraint.** The book’s central thesis converts “more information” into a strategic liability when users, employees, or customers cannot process it all. [^bq2dly] This connects directly to [[concepts/The Attention Economy|The Attention Economy]] and [[Vocabulary/Cognitive Load|Cognitive Load]].
 - **Engagement must be measured, not assumed.** Its treatment of attention measurement gives innovators a basis for distinguishing visibility, relevance, engagement, and sustained use—useful when defining [[concepts/North Star Metrics]] or [[concepts/Product-Market Fit|Product-Market Fit]]. [^vo5625] [^bq2dly]
 - **Technology changes the economics of focus.** The discussion of attention technologies shows that interfaces, communication systems, and personalization tools do not merely transmit information; they compete to shape user behavior. [^vo5625]
-- **Strategy is allocation.** The book frames leadership, organizational design, and strategy as mechanisms for directing scarce attention toward high-value opportunities, a useful complement to [[concepts/Strategic Focus]] and [[Opportunity Cost]]. [^vo5625] [^jvqt4k]
+- **Strategy is allocation.** The book frames leadership, organizational design, and strategy as mechanisms for directing scarce attention toward high-value opportunities, a useful complement to [[concepts/Strategic Focus]] and [[concepts/Opportunity Cost]]. [^vo5625] [^jvqt4k]
 - **It diagnoses the failure mode of information-rich organizations.** Email overload, fragmented initiatives, excessive choice, and weak prioritization appear as attention-allocation failures rather than isolated productivity problems. [^vo5625] [^jvqt4k]
 
 ## Best Starting Points

@@ -13,5 +13,5 @@ tags:
 [[organizations/European Union|European Union]]
 
 
-> [Helsing](1), a defense AI company building autonomous drone systems and military AI for European sovereignty, is close to raising $1.2 billion in a new funding round at a valuation of approximately $18 billion. The round is expected to be led by [[Dragoneer]] and co-led by existing investor [[vertical-toolkits/Venture-Capital-Firms/Lightspeed Venture Partners|Lightspeed Venture Partners]].
+> [Helsing](1), a defense AI company building autonomous drone systems and military AI for European sovereignty, is close to raising $1.2 billion in a new funding round at a valuation of approximately $18 billion. The round is expected to be led by [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Dragoneer]] and co-led by existing investor [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Lightspeed Venture Partners|Lightspeed Venture Partners]].
 

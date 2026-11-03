@@ -5,7 +5,7 @@ kauffman_url: https://www.kauffmanfellows.org/fellows/beau-seil
 linkedin_url: https://www.linkedin.com/in/beauseil/
 tags: [Venture-Investors]
 ---
-[[vertical-toolkits/Venture-Capital-Firms/Patamar Capital|Patamar Capital]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Patamar Capital|Patamar Capital]]
 
 ***
 > [!info] **Perplexity Query** (2025-11-13T20:21:15.278Z)
@@ -17,7 +17,7 @@ tags: [Venture-Investors]
 
 **Beau Seil, VC** refers to Beau Seil, a seasoned venture capitalist recognized for his leadership in impact investing and early-stage venture capital, particularly across Southeast Asia and the Middle East/North Africa/Pakistan (MENAP) regions. [^ok6crn] [^v0olti] [^gqlh8i] His significance stems from pioneering a model of venture capital (VC) that integrates financial returns with measurable social and environmental benefits, positioning him as an influential figure where investment meets impact. [^ok6crn] [^gqlh8i]
 
-Beau Seil’s venture capital philosophy centers on **impact investing**, a strategy where financial commitments are made with the explicit purpose of generating positive social and environmental outcomes alongside competitive market returns. [^gqlh8i] As the co-founder of [[vertical-toolkits/Venture-Capital-Firms/Patamar Capital|Patamar Capital]], Seil advanced early-stage investments that fostered sustainable business models and scalable solutions—his work being defined by a "double bottom line" approach: seeking both profit and positive change. [^gqlh8i]
+Beau Seil’s venture capital philosophy centers on **impact investing**, a strategy where financial commitments are made with the explicit purpose of generating positive social and environmental outcomes alongside competitive market returns. [^gqlh8i] As the co-founder of [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Patamar Capital|Patamar Capital]], Seil advanced early-stage investments that fostered sustainable business models and scalable solutions—his work being defined by a "double bottom line" approach: seeking both profit and positive change. [^gqlh8i]
 
 A practical example of Beau Seil’s influence is **Patamar Capital’s investment in Gojek**, which, under his guidance, became one of Southeast Asia's most impactful tech companies, providing vital digital services to millions and demonstrating how sound business models and well-supported teams can drive tangible economic and social progress. [^gqlh8i] Beyond Gojek, Seil has played a pivotal role in the success and strategic direction of startups such as Lhoopa (real estate innovation) and SwipeRx (healthcare access), leveraging investment not only for growth but for systemic improvement in underserved markets. [^ok6crn]
 

@@ -86,8 +86,8 @@ Kite’s retrieved company metadata reports total funding of $36 million and ide
 Investors publicly associated with Kite include:
 
 - Animoca Brands [^kmu1rt]
-- [[Coinbase Ventures]] [^kmu1rt]
-- [[General Catalyst]] [^sswo5f] [^by4hho]
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Coinbase Ventures]] [^kmu1rt]
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/General Catalyst]] [^sswo5f] [^by4hho]
 - PayPal Ventures [^sswo5f] [^by4hho]
 - Samsung [^kmu1rt]
 

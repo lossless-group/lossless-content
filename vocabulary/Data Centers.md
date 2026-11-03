@@ -102,7 +102,7 @@ According to Building Design+Construction's 2024 ranking, the top data center co
 
 **[[Tooling/AI-Toolkit/AI Infrastructure/CoreWeave|CoreWeave]]** announced a $9 billion acquisition of Core Scientific in 2025, representing one of the largest transactions in the AI infrastructure space. [^98c982] The company specializes in GPU-optimized cloud infrastructure for AI workloads. [^fde20c]
 
-**[[xAI]]** (Elon Musk's AI company) has pursued billion-dollar investments in AI data centers and hardware. [^1deb0c] The company created AI data centers in a factory in Tennessee. [^1deb0c]
+**[[Tooling/AI-Toolkit/Model Producers/xAI]]** (Elon Musk's AI company) has pursued billion-dollar investments in AI data centers and hardware. [^1deb0c] The company created AI data centers in a factory in Tennessee. [^1deb0c]
 
 ### Investment Firms
 

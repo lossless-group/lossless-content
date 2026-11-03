@@ -83,7 +83,7 @@ As of July 7, 2026,
 
 # History and Origin Story
 
-Aside is developed by **Aside Computer Inc.**, a San Francisco–based company listed at 45 Lansing St, San Francisco, CA 94105. [^vt8xyn] A social video describes Aside as “an AI-powered Chromium browser by Jun Kim’s YC F25 startup AsideAI,” indicating a [[vertical-toolkits/Venture-Capital-Firms/Y Combinator|Y Combinator]] Fall 2025 cohort origin and Jun Kim as a key founder figure. [^zgjlo5] Launch communications around early 2025 frame Aside as a response to traditional browsers that “just open websites,” positioning it instead as the first browser that “does the work for you” via embedded agents and automation. [^4r84z3] [^39ovma]
+Aside is developed by **Aside Computer Inc.**, a San Francisco–based company listed at 45 Lansing St, San Francisco, CA 94105. [^vt8xyn] A social video describes Aside as “an AI-powered Chromium browser by Jun Kim’s YC F25 startup AsideAI,” indicating a [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Y Combinator|Y Combinator]] Fall 2025 cohort origin and Jun Kim as a key founder figure. [^zgjlo5] Launch communications around early 2025 frame Aside as a response to traditional browsers that “just open websites,” positioning it instead as the first browser that “does the work for you” via embedded agents and automation. [^4r84z3] [^39ovma]
 
 ---
 ## Notable Team Members

@@ -7,7 +7,7 @@ date_modified: 2025-12-12
 ---
 
 
-Founder of [[vertical-toolkits/Venture-Capital-Firms/500 Global|500 Global]]
+Founder of [[vertical-toolkits/Alternatives/Venture-Capital-Firms/500 Global|500 Global]]
 
 [[Practical Ventures]]
 

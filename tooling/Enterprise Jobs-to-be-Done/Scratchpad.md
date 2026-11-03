@@ -68,7 +68,7 @@ Scratchpad was **founded in 2019 by Pouyan Salehi** to address inefficiencies an
 | Round     | Date        | Amount   | Lead investor      |
 | --------- | ----------- | -------- | ------------------ |
 | Seed      | Oct 1, 2020 | $4M      | Accel              |
-| Series A  | Feb 1, 2021 | $13M     | [[Craft Ventures]] |
+| Series A  | Feb 1, 2021 | $13M     | [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Craft Ventures]] |
 | Series B  | Jan 1, 2022 | $33M     | Craft Ventures     |
 | **Total** | —           | **$50M** | —                  |
 

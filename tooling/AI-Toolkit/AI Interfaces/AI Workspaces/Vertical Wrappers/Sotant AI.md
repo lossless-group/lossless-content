@@ -27,7 +27,7 @@ og_last_fetch: 2026-10-06T19:28:10.509Z
 [[concepts/Market-Categories/Manufacturing Automation|Manufacturing Automation]]
 [[concepts/AI-Powered Supply Chains|Supply Chain AI]]
 [[Supply Chain Operations]]
-[[Animo VC]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Animo VC]]
 
 > [!QUOTE]
 > "Sotant learns from your team’s real work, builds the decision models behind each AI employee, and connects them to work together. All in hours."

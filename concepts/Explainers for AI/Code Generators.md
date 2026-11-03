@@ -10,7 +10,7 @@ aliases:
   - Coding Agents
   - AI coding assistants
 site_uuid: 691a7615-2aa5-4a1b-9ad9-519a48dac670
-date_modified: 2026-08-26
+date_modified: 2026-11-03
 date_created: 2025-03-31
 tags:
   - AI-Toolkit
@@ -41,8 +41,6 @@ https://youtu.be/rgiuaJbyUyU?si=m5IQdbaD1mKXJ4v8
 
 [[concepts/Explainers for AI/Artificial Intelligence|Artificial Intelligence]] (AI) Code Generators are software tools that use machine learning and natural language processing to automatically create, debug, and optimize computer code. These technologies are becoming pivotal in software development, enabling rapid prototyping, reducing human error, and democratizing access to coding skills. As organizations strive for greater efficiency and innovation, AI code generators are increasingly relevant for teams and individual developers seeking to accelerate digital transformation.
 
-![AI Code Generators concept diagram or illustration](https://www.orientsoftware.com/Themes/Content/Images/blog/2024-05-20/ai-code-generators.webp)
-
 AI code generators operate by analyzing specifications, requirements, or even natural language prompts to generate code that adheres to known patterns and best practices. [^xtp6mc] [^6eao1r] For example, tools like GitHub Copilot can produce boilerplate code, suggest functions, or even build entire modules based on brief descriptions. [^xtp6mc] A practical use case might involve a developer needing to create a user authentication system: an AI code generator can rapidly scaffold the necessary backend logic, database schemas, and user interface components, saving hours versus manual coding. [^n15gw6]
 
 The advantages extend far beyond speed. AI code generators deliver **instant coding support**, identifying bugs, optimizing routines, and enforcing consistent coding styles across large projects. [^iuw9yw] [^65cgrc] [^6eao1r] This leads to fewer errors, reduced debugging time, and higher overall code quality. In large-scale development, consistency and maintainability are enhanced—critical for teams working on complex products with shifting membership or cross-functional collaboration. [^65cgrc] Moreover, these tools lower the barrier for entry into programming. With AI guidance, even individuals with limited coding experience can create functional applications, democratizing innovation and fueling the rise of citizen developers. [^xtp6mc]
@@ -60,11 +58,11 @@ Looking ahead, AI code generators are expected to grow even smarter, integrating
 In summary, AI code generators represent a transformative leap in software development, offering speed, accuracy, and inclusivity. As these technologies evolve, they promise to redefine how code is written, tested, and maintained, heralding a future of smarter, faster, and more creative innovation.
 
 ##### Examples:
-- [[concepts/Explainers for Tooling/Text Editors or IDEs|IDEs]] include [[Cursor]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Devin IDE]], [[Trae AI]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bloop AI|Bloop AI]], [[Zed]], [[Pear IDE]], [[CodeLLM]]
-	- [[Melty]] is just a [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editor]], but has strong reviews.
+- [[concepts/Explainers for Tooling/Text Editors or IDEs|IDEs]] include [[Cursor]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Devin IDE|Devin IDE]], [[Trae AI]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bloop AI|Bloop AI]], [[Zed]], [[Pear IDE]], [[CodeLLM]]
+	- [[Tooling/AI-Toolkit/Generative AI/Code Generators/Melty|Melty]] is just a [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editor]], but has strong reviews.
 - [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulators]] include [[Warp]] and [[Aider]]
-- [[concepts/Opsless Deployment Providers]] include [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bolt.new|Bolt.new]], [[v0]], [[Lovable]], [[Replit]], [[Hostinger]] and [[Tooling/AI-Toolkit/Generative AI/Code Generators/Mocha]]
-- [[Plug-ins,  Add-ons,  Extensions|Plug-ins]] to other Text Editors include [[Aider]], [[Databutton]], [[Tooling/AI-Toolkit/Models/Claude#Cline|Cline]], [[Devin]], [[supermaven]], [[Augment Code]], [[organizations/Acquired/Continue AI]], [[AppMap]] who embed into [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editors or IDEs]], such as [[Tooling/Software Development/Developer Experience/JetBrains|JetBrains]] but especially [[Visual Studio Code|VS Code]].
+- [[concepts/Opsless Deployment Providers|Opsless Deployment Providers]] include [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bolt.new|Bolt.new]], [[v0]], [[Lovable]], [[Replit]], [[Hostinger]] and [[Tooling/AI-Toolkit/Generative AI/Code Generators/Mocha|Mocha]]
+- [[Plug-ins,  Add-ons,  Extensions|Plug-ins]] to other Text Editors include [[Aider]], [[Databutton]], [[Tooling/AI-Toolkit/Models/Claude#Cline|Cline]], [[Devin]], [[supermaven]], [[Augment Code]], [[organizations/Acquired/Continue AI|Continue AI]], [[AppMap]] who embed into [[concepts/Explainers for Tooling/Text Editors or IDEs|Text Editors or IDEs]], such as [[Tooling/Software Development/Developer Experience/JetBrains|JetBrains]] but especially [[Visual Studio Code|VS Code]].
 - Starting from your own code repositories, services like [[Poolside]], [[AppMap]], [[smolagents]], [[RepoPrompt]]
 - Specializing in [[Bug Reporting]] is [[CodeAnt AI]]
 - Specialized [[AI Models]] include [[InceptionLabs]] [[Mercury Coder]]
@@ -79,15 +77,14 @@ There is a blurry line between [[concepts/Explainers for AI/Code Generators|Code
 They don't have a long term memory, they don't even have a short term working memory. [[Pear IDE]] is trying to fix that with their "[memory integration](https: '//trypear.ai/docs/integrations/memory)" and [[Mem0]] seems to be a technology company trying to figure it out. But, thus far, code generators are frustratingly oblivious to what they just did, and are prone to rewrite over it.
 
 ---
-## [[Tooling/AI-Toolkit/Models/Claude]] lists lauded [[concepts/Explainers for AI/Code Generators|Code Generators]]
+## [[Tooling/AI-Toolkit/Models/Claude|Claude]] lists lauded [[concepts/Explainers for AI/Code Generators|Code Generators]]
 # Best Open Source Coding Models
 
 Here's a curated list of some of the best open source coding models currently available:
 
 ## Large Language Models for Code
 
-1. **CodeLlama** - Meta's family of large
-
+[[Tooling/AI-Toolkit/Models/Kimi|Kimi]]
 
 # Influencer Videos
 
@@ -218,18 +215,19 @@ https://youtu.be/fKtvRTFISq4?si=0QuLEn91P7j6_Cje
 
 ***
 ## Copilots for Software Engineers take off
-[[Bessemer Venture Partners]] count installs on [[Visual Studio Code|VS Code]], and by February 2024 there have been over 14 million installs of [[concepts/Explainers for AI/Code Generators|Code Generators]] [[concepts/Explainers for AI/AI Copilots|AI Copilots]].
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Bessemer Venture Partners|Bessemer Venture Partners]] count installs on [[Visual Studio Code|VS Code]], and by February 2024 there have been over 14 million installs of [[concepts/Explainers for AI/Code Generators|Code Generators]] [[concepts/Explainers for AI/AI Copilots|AI Copilots]].
 
 ![[Pasted image 20250128132239.png]] [^suje5n]
 
 
-Attempts at a fully featured [[concepts/Explainers for Tooling/Text Editors or IDEs|IDE]] include, [[Cursor]], [[AgentFarm]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Devin IDE]].
+Attempts at a fully featured [[concepts/Explainers for Tooling/Text Editors or IDEs|IDE]] include, [[Cursor]], [[AgentFarm]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/Devin IDE|Devin IDE]].
 
 [[Warp]] is differentiated, as it is a [[concepts/Explainers for Tooling/Terminal Emulators|Terminal Emulator]] with built in [[AI Models|AI Models]] that can reason on the code you are writing in another application.
 
-[[CopyCoder]] is differentiated, as it works from Images to generate code. Grade for [[User Interface|UI]] Design. [[concepts/Rapid Prototyping Infrastructure]].
+[[CopyCoder]] is differentiated, as it works from Images to generate code. Grade for [[User Interface|UI]] Design. [[concepts/Rapid Prototyping|Rapid Prototyping]].
 
-[[concepts/Explainers for AI/Code Generators|Code Generators]] have also been created by [[concepts/Opsless Deployment Providers|Opsless Deployment Providers]], including [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bolt.new|Bolt.new]] by [[StackBlitz]], [[v0]] by [[Vercel]]. [[Lovable]] and [[Tooling/AI-Toolkit/Generative AI/Code Generators/Mocha]]
+[[concepts/Explainers for AI/Code Generators|Code Generators]] have also been created by [[concepts/Opsless Deployment Providers|Opsless Deployment Providers]], including [[Tooling/AI-Toolkit/Generative AI/Code Generators/Bolt.new|Bolt.new]] by [[StackBlitz]], [[v0]] by [[Vercel]]. [[Lovable]] and [[Tooling/AI-Toolkit/Generative AI/Code Generators/Mocha|Mocha]]
+
 https://youtu.be/l-YbaSzDmhU?si=yTLceEj5oI8pWQH3
 
 ***
@@ -243,14 +241,10 @@ https://youtu.be/l-YbaSzDmhU?si=yTLceEj5oI8pWQH3
 
 2024, Oct 14. [AI Will Improve Your Web Development Workflow](https://youtu.be/qpWxsQdCGTQ?si=dqlrHb3_hb3WRJc5) [[Syntax]], [[YouTube]].
 
-# Footnotes
-***
-[^suje5n]: [State of the Cloud 2024](https://www.bvp.com/atlas/state-of-the-cloud-2024). [[Bessemer Venture Partners]], Blog
-
-
-
 
 ### Citations
+
+[^suje5n]: [State of the Cloud 2024](https://www.bvp.com/atlas/state-of-the-cloud-2024). [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Bessemer Venture Partners|Bessemer Venture Partners]], Blog
 
 [^n15gw6]: 2025, May 09. [What are the main advantages of AI code generators? - Tencent Cloud](https://www.tencentcloud.com/techpedia/100488). Published: 2025-02-24 | Updated: 2025-05-09
 
@@ -261,4 +255,6 @@ https://youtu.be/l-YbaSzDmhU?si=yTLceEj5oI8pWQH3
 [^iuw9yw]: 2025, Jun 16. [AI Code Generation: The Risks and Benefits of AI in Software](https://www.legitsecurity.com/aspm-knowledge-base/ai-code-generation-benefits-and-risks). Published: 2025-01-21 | Updated: 2025-06-16
 
 [^xtp6mc]: 2025, Jun 16. [What is AI Code Generation? Benefits, Tools & Challenges - Sonar](https://www.sonarsource.com/learn/ai-code-generation/). Published: 2023-12-19 | Updated: 2025-06-16
+
+[^dt5ujy]: 2026, Oct 31. "[Generative AI and coding agents: understanding, choosing and working well with an AI agent | DEV Community](https://dev.to/asin/generative-ai-and-coding-agents-understanding-choosing-and-working-well-with-an-ai-agent-1mfm)". line by a human. An AI is an **apprentice cook** who is shown thousands of successful dishes until they work out the rules on their own.. [DEV Community](https://dev.to).
 

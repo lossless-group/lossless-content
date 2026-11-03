@@ -19,4 +19,4 @@ for_clients:
   - Dark-Matter
 tags: [Fin-Tech, Data-As-A-Service]
 ---
-[[vertical-toolkits/Venture-Capital-Firms/Dark Matter Bio|Dark Matter Bio]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Dark Matter Bio|Dark Matter Bio]]

@@ -46,7 +46,7 @@ Core product features include APIs for on-demand enrichment and workflow integra
 - **Data Search:** self-service search for building targeted company, employee, and job lists; plans start at $49 per month according to Coresignal’s announcement. [^h6xzok]
 - **Bulk delivery:** JSONL, [[projects/Emergent-Innovation/Standards/Parquet File Format|Parquet]], and [[Vocabulary/Comma-Separated Values|CSV]] files, including delivery to cloud-storage environments used by Snowflake. [^juc672]
 - **APIs and integrations:** [[Vocabulary/REST API|REST API]]-style access and integrations with tools such as Clay, [[Tooling/Software Development/Developer Experience/DevOps/Zapier|Zapier]], and [[projects/Context-Vigilance/UseCases/n8n|n8n]]. [^1765cz] [^spc5ut]
-- **[[Webhooks]] and monitoring:** ongoing change detection for revenue-intelligence and other signal-monitoring workflows. [^mqkpo4]
+- **[[Vocabulary/Webhooks]] and monitoring:** ongoing change detection for revenue-intelligence and other signal-monitoring workflows. [^mqkpo4]
 - **AI-agent access:** natural-language search and an [[concepts/Explainers for AI/MCP Servers|MCP Servers]] for agentic querying. [^mqkpo4]
 
 Coresignal is a stronger fit for teams seeking curated business datasets than for users wanting only a simple URL-in/content-out scraping API, a distinction reflected in the vault’s comparison with [[Tooling/AI-Toolkit/Data Augmenters/Bright Data|Bright Data]].

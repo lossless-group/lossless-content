@@ -10,7 +10,7 @@ at_semantic_version: 0.0.0.1
 
 
 Dr. Keith L. Black, chairman of the neurosurgery department and director of the
-[[Maxine Dunitz Neurosurgical Institute at Cedars]]. 
+[[organizations/Maxine Dunitz Neurosurgical Institute at Cedars]]. 
 
 I could go on and on about Dr. Black, but I
 prefer you do your own DD on him, which will be very easy. Google him, or go to your
@@ -31,5 +31,5 @@ company was formerly head of GE’s imaging division and a pioneer of the LASIK 
 The drug they are positioning to stop Alzheimer’s was co-developed at City of Hope and
 UCLA before they bought the license and eventually the company that discovered it.
 
-[[vertical-toolkits/Venture-Capital-Firms/Dark Matter Bio|Dark Matter Bio]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Dark Matter Bio|Dark Matter Bio]]
 

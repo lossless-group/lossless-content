@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-28
-date_modified: 2026-05-10
+date_modified: 2026-10-14
 site_uuid: 929d0a63-97f1-4e86-a84d-fb33d7e95ea6
 publish: true
 title: Event Driven Architecture
@@ -8,6 +8,7 @@ slug: event-driven-architecture
 at_semantic_version: 0.0.0.1
 aliases:
   - EDA
+  - event-driven architecture
 tags:
   - State-Of-The-Art-Practices
   - Software-Architecture

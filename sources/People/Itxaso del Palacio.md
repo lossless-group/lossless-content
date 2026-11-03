@@ -19,7 +19,7 @@ tags: [VC-Investors]
 
 **Itxaso del Palacio, Venture Capitalist: A Leader in European SaaS Investment**
 
-Itxaso del Palacio is a prominent venture capitalist best known for her leadership as General Partner at [[vertical-toolkits/Venture-Capital-Firms/Notion VC]], a leading European VC firm specializing in B2B SaaS investments. [^1w47mc] [^jptm2q] [^7cfoh3] Her work has significantly shaped the European startup ecosystem, particularly in the technology-driven business software sector, making her a vital figure for entrepreneurs and investors navigating the competitive landscape of enterprise innovation. [^1w47mc] [^jptm2q]
+Itxaso del Palacio is a prominent venture capitalist best known for her leadership as General Partner at [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Notion VC]], a leading European VC firm specializing in B2B SaaS investments. [^1w47mc] [^jptm2q] [^7cfoh3] Her work has significantly shaped the European startup ecosystem, particularly in the technology-driven business software sector, making her a vital figure for entrepreneurs and investors navigating the competitive landscape of enterprise innovation. [^1w47mc] [^jptm2q]
 
 ![Relevant diagram or illustration related to the topic](https://cdn.prod.website-files.com/613b85712c9672dcafb125ed/655650f4f4b43b8c0d56f3ef_R6B_0885.JPG)
 

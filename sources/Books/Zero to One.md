@@ -32,7 +32,7 @@ This is a book co-authored by Peter Thiel and Blake Masters, first published in 
 
 # The People Behind It
 
-- **Peter Thiel:** Co-founder of [[PayPal]] and [[Palantir Technologies]] Technologies, first outside investor in Facebook, founder of [[Founders Fund]] venture capital firm. [^92sbz1] [^hku9mw]
+- **Peter Thiel:** Co-founder of [[PayPal]] and [[Palantir Technologies]] Technologies, first outside investor in Facebook, founder of [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Founders Fund]] venture capital firm. [^92sbz1] [^hku9mw]
 - Thiel taught the 2012 Stanford class on startups whose notes formed the book's basis, emphasizing contrarian thinking in business. [^hku9mw]
 - **Blake Masters:** Stanford student who took detailed notes from Thiel's class, posted them online to generate discussion, and collaborated with Thiel to expand into the book. [^hku9mw]
 
@@ -67,7 +67,7 @@ This is a book co-authored by Peter Thiel and Blake Masters, first published in 
 - [[Sources/People/Peter Thiel|Peter Thiel]] — The author himself, for his broader body of work in contrarian investing.
 - [[Sources/Books/The Lean Startup|The Lean Startup]] — Counters Thiel's bold planning with iterative testing; frequent point of debate.
 - [[Blue Ocean Strategy]] — Aligns on creating uncontested markets, which Thiel echoes in monopoly building.
-- [[The Hard Thing About Hard Things]] — Complementary operator advice from [[Sources/People/Ben Horowitz]], Thiel's [[Founders Fund]] partner.
+- [[The Hard Thing About Hard Things]] — Complementary operator advice from [[Sources/People/Ben Horowitz]], Thiel's [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Founders Fund]] partner.
 - [[Sources/Books/Playing to Win - How Strategy Really Works]] — Lafayette/Laskey framework on definitive choices, akin to Thiel's definite optimism.
 - [[The Power Law]] — Core to Thiel's venture math and winner-take-most dynamics.
 

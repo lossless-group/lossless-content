@@ -88,7 +88,7 @@ Investors (alphabetical):
 - **[[organizations/Alibaba|Alibaba]]**[^m5p6tw] [^v02z8j]  
 - **Capital Today**[^sdwyh2]  
 - **Meituan**[^sdwyh2]  
-- **[[Zhen Fund]]**[^sdwyh2]
+- **[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Zhen Fund]]**[^sdwyh2]
 
 ## Notable Team Members
 

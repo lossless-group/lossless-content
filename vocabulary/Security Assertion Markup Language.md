@@ -37,7 +37,7 @@ SAML refers to the open standard protocol for exchanging authentication and auth
   - Federation protocol (broader term for IdP-SP trust models SAML exemplifies) [^iv7v2x]
 - **Antonyms**: 
   - Multi-factor local auth (requires per-app logins, opposite of SSO centralization) [^0u4dzu]
-- **Adjacent terms**: [[Single Sign-On]], [[Identity Provider]], [[OAuth]], [[OpenID Connect]], [[Zero Trust]], [[Enterprise SSO]]
+- **Adjacent terms**: [[Single Sign-On]], [[Vocabulary/Identity Provider]], [[OAuth]], [[Sources/Standards-and-Specs/OpenID Connect]], [[Zero Trust]], [[Enterprise SSO]]
 
 # Usage in Practice
 - "If you've ever used one login to access tools like Salesforce, Zoom, or Google Workspace, you've benefited from SAML-based SSO." — WorkOS blog [^j3txye]

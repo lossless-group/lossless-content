@@ -10,7 +10,7 @@ slug: bryan-johnson-longevity-influencer
 at_semantic_version: 0.0.1.1
 ---
 
-[[vertical-toolkits/Venture-Capital-Firms/Dark Matter Bio|Dark Matter Bio]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Dark Matter Bio|Dark Matter Bio]]
 
 # Bryan Johnson
 ![Bryan Johnson headshot-style thumbnail from his YouTube channel banner](https://i.ytimg.com/vi/-HvyjfquIPc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA8KZpMtCqDXcruuMqVfIwuaRCrCg)

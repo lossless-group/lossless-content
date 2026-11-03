@@ -140,7 +140,7 @@ The disagreement among figures is primarily definitional: narrow sales intellige
 #### [11x](https://www.11x.ai)
 **Stage**: scale-up / late-stage private; founded in 2023 and therefore still a young company despite its scale-up financing profile. [^fp8qpa]
 
-**Funding**: Reported to have raised a **$50 million Series B in October 2024** at an approximately **$350 million valuation**, following a $24 million Series A; the returned result identifies [[vertical-toolkits/Venture-Capital-Firms/Andreessen Horowitz|Andreessen Horowitz]], [[vertical-toolkits/Venture-Capital-Firms/Benchmark]], Salesforce Ventures, and [[vertical-toolkits/Venture-Capital-Firms/Lightspeed Venture Partners]] among associated investors. [^57upm6] [^fp8qpa]
+**Funding**: Reported to have raised a **$50 million Series B in October 2024** at an approximately **$350 million valuation**, following a $24 million Series A; the returned result identifies [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Andreessen Horowitz|Andreessen Horowitz]], [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Benchmark]], Salesforce Ventures, and [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Lightspeed Venture Partners]] among associated investors. [^57upm6] [^fp8qpa]
 
 **Footprint**: 11x was reported to serve **more than 200 customers**, including Otter.ai and Airwallex, and to have grown revenue fivefold in 2024. [^fp8qpa]
 

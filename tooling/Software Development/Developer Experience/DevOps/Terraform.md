@@ -115,7 +115,7 @@ Sources for Table: [^6usoy9] [^02z844] [^pe0zn8] [^j3jjqr] [^431h8y]
 Investors (alphabetical, based on cited sources):
 
 - IBM (acquirer). [^pe0zn8] [^j3jjqr]  
-- [[Notable Capital]] (venture investor backing HashiCorp across multiple rounds). [^6usoy9]  
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Notable Capital]] (venture investor backing HashiCorp across multiple rounds). [^6usoy9]  
 
 ---
 

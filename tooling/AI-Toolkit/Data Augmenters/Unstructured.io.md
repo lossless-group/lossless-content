@@ -83,7 +83,7 @@ Investors mentioned (alphabetical order, as reported collectively):
 - Bain Capital [^r1053y]  
 - [[Tooling/Data Utilities/DataBricks|DataBricks]] [^r1053y]  
 - [[organizations/IBM|IBM]] [^r1053y]  
-- [[Menlo Ventures]] [^r1053y]  
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Menlo Ventures]] [^r1053y]  
 - [[organizations/Microsoft|Microsoft]] [^r1053y]  
 - [[organizations/Nvidia|NVIDIA]] [^r1053y]  
 
