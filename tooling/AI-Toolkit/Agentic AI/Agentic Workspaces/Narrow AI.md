@@ -25,5 +25,5 @@ for_clients:
 [[Autonomous SDRs]]
 
 [[concepts/Market-Categories/Sales AI|Sales Agents]]
-[[Nexor]]
+[[Tooling/Enterprise Jobs-to-be-Done/Nexor]]
 

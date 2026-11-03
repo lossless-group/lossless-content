@@ -102,7 +102,7 @@ The disputed edges are fleet-driver monitoring, product-quality inspection, prod
 **Stage**: late-stage private; strategic investment completed June 2025  
 **Funding**: Meta invested approximately $14.3 billion for a 49% non-voting stake, valuing Scale at about $29 billion; Scale had been valued at approximately $14 billion before the deal. [^z9kfmh] [^kvzw67]  
 **Footprint**: Scale’s contributor network extended across more than 9,000 cities and towns, while its customers included major AI laboratories, enterprises, defense organizations, and autonomous-vehicle developers. [^grvip6] [^m87udm]  
-**Why they're in this category**: Scale’s Data Engine labels and structures image, full-motion video, [[LiDAR]], geospatial, and multimodal sensor data, making it a core upstream supplier to models that interpret physical work. [^m87udm] [^byhy7i]  
+**Why they're in this category**: Scale’s Data Engine labels and structures image, full-motion video, [[Vocabulary/LiDAR]], geospatial, and multimodal sensor data, making it a core upstream supplier to models that interpret physical work. [^m87udm] [^byhy7i]  
 **Coverage**: [Reuters, “Google, Scale AI’s largest customer, plans split after Meta deal”](https://www.reuters.com/business/google-scale-ais-largest-customer-plans-split-after-meta-deal-sources-say-2025-06-13/) examines the transaction’s competitive consequences for a supposedly neutral labeling provider. [^kvzw67]
 
 #### [Samsara](https://www.samsara.com/)

@@ -13,5 +13,5 @@ at_semantic_version: 0.0.0.1
 https://a16z.com/author/kenan-saleh/
 [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Andreessen Horowitz|Andreessen Horowitz]]
 
-[[Nexor]]
+[[Tooling/Enterprise Jobs-to-be-Done/Nexor]]
 

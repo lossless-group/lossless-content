@@ -8,7 +8,7 @@ og_site_name: Presentify
 og_type: website
 og_last_fetch: 2026-05-17T18:37:12.304Z
 date_created: 2026-05-17
-date_modified: 2026-05-17
+date_modified: 2026-11-03
 site_uuid: fa31173c-7e7a-47e9-90c7-eaa1b43ba935
 publish: true
 title: Presentify
@@ -17,8 +17,8 @@ at_semantic_version: 0.0.0.1
 for_clients:
   - Lossless
 tags:
-  - Desktop-App
   - Advanced-Presentations
   - Founder-Toolkit
+  - Desktop-Apps
 ---
 LoCoMo paper baselines, ReadAgent, MemoryBank, MemGPT, A-Mem, LangMem

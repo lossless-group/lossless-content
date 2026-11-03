@@ -10,7 +10,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:14.904Z
 jina_error: Error occurred
 og_last_fetch: 2025-05-28T02:45:31.888Z
-date_modified: 2026-10-14
+date_modified: 2026-11-03
 date_created: 2025-03-30
 og_image: https://files.lmstudio.ai/6-model-link-og.png
 og_url: https://lmstudio.ai
@@ -18,7 +18,7 @@ tags:
   - AI-Toolkit
   - AI-Interfaces
   - AI-Workspaces
-  - Desktop-App
+  - Desktop-Apps
 x_url: https://x.com/lmstudio
 github_profile_url: https://github.com/lmstudio-ai
 ---

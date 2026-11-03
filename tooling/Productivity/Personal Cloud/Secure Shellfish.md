@@ -1,17 +1,20 @@
 ---
 date_created: 2025-07-25
-date_modified: 2025-07-28
-url: "https://secureshellfish.app/"
-og_title: "Secure ShellFish"
-og_description: "Powerful SSH terminal with next level iOS integration"
-og_image: "https://secureshellfish.app/img/opengraph.png"
-og_favicon: "https://secureshellfish.app/img/appicon.png"
-og_last_fetch: "2025-07-25T19:46:21.465Z"
-tags: [OS-Augmenters, Apple-Ecosystem, Desktop-App]
-url_apple_app_store: "https://apps.apple.com/us/app/ssh-files-secure-shellfish/id1336634154"
+date_modified: 2026-11-03
+url: https://secureshellfish.app/
+og_title: Secure ShellFish
+og_description: Powerful SSH terminal with next level iOS integration
+og_image: https://secureshellfish.app/img/opengraph.png
+og_favicon: https://secureshellfish.app/img/appicon.png
+og_last_fetch: 2025-07-25T19:46:21.465Z
+tags:
+  - OS-Augmenters
+  - Apple-Ecosystem
+  - Desktop-Apps
+url_apple_app_store: https://apps.apple.com/us/app/ssh-files-secure-shellfish/id1336634154
 site_uuid: 0b1c4445-5816-4019-bf25-89bd06136b8b
 publish: true
-title: "Secure Shellfish"
+title: Secure Shellfish
 slug: secure-shellfish
 at_semantic_version: 0.0.0.1
 ---

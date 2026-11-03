@@ -6,9 +6,16 @@ title: Creative Software For Professionals
 favicon: https://affinity.serif.com/favicon-32.png
 og_screenshot_url: https://og-screenshots-prod.s3.amazonaws.com/1366x768/80/false/7f39b43a9ca4f463936049e7a9f94bcdb87ae1c5074a57f84f026cd94bd42303.jpeg
 og_last_fetch: 2026-04-29T13:56:45.477Z
-date_modified: 2026-04-29
+date_modified: 2026-11-03
 date_created: 2025-03-30
-tags: [Creative, Desktop-App, Apple-Ecosystem, Design-Tools, Vector-Art-Tools, Image-Editors, Must-Have]
+tags:
+  - Creative
+  - Apple-Ecosystem
+  - Design-Tools
+  - Vector-Art-Tools
+  - Image-Editors
+  - Must-Have
+  - Desktop-Apps
 url: https://affinity.serif.com/en-us/
 description_site_cp: Award-winning photo editing, graphic design and page layout software for Mac, Windows & iPad.
 og_title: Affinity | Professional Creative Software, Free for Everyone

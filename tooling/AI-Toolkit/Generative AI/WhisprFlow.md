@@ -1,13 +1,13 @@
 ---
 date_created: 2026-10-09
-date_modified: 2026-10-10
+date_modified: 2026-11-03
 tags:
   - Voice-Agents
   - Speech-To-Text
   - Voice-to-Text
   - Privacy-First
   - Security-AI
-  - Desktop-App
+  - Desktop-Apps
 url: https://wisprflow.ai/
 og_title: Voice to Text Dictation & AI Notetaker
 og_description: Flow makes writing quick and clear with seamless voice dictation. It is the fastest, smartest way to type with your voice.

@@ -8,9 +8,13 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:06.973Z
 jina_error: Error occurred
 og_last_fetch: 2025-09-05T13:13:45.574Z
-date_modified: 2026-10-09
+date_modified: 2026-11-03
 date_created: 2025-03-30
-tags: [AI-Toolkit, Models, Desktop-App]
+tags:
+  - AI-Toolkit
+  - Models
+  - Desktop-Apps
+  - Foundation-Models
 og_title: Claude
 og_description: Talk with Claude, an AI assistant from Anthropic
 og_image: https://claude.ai/images/claude_ogimage.png

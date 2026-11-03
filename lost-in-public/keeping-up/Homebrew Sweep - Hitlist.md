@@ -38,11 +38,11 @@ Mostly August and September 2026, plus some `brew upgrade` output. Same method a
 | [[ThoughtDAG - A Canvas Where Wires Are the Context\|**thoughtdag**]] | Aug 24 | ⭐ | Canvas where wires decide what context the model sees, and which opens local Claude Code sessions as graphs. |
 | [[Skills Manager - Sync Agent Skills Across Coding Tools\|**skills-manager**]] | Aug 24 | ⭐ | Syncs skills across 50+ coding tools. Compare with our symlink setup and APM. |
 | **zentty, waku** | Sep 7, Aug 31 | ⭐ | Join the agent supervisors group post. |
-| **token-monitor** | Aug 30 | ✓ | Local usage and cost widget across 48+ AI tools. |
-| **anarlog** | Unconfirmed | ✓ | Open-source Granola alternative, about 9.7k stars. |
-| **nativ** | Aug 25 | ✓ | Mac app for local MLX models. |
-| **unsloth** | Unconfirmed | ✓ | Desktop app for Unsloth Studio, local model training. |
-| **open-science** | Unconfirmed | ✓ | Local-first AI research workbench with MCP. |
+| [[Token Monitor - Usage Cost and Limits Across AI Coding Tools\|**token-monitor**]] | Aug 31 | ⭐ | Usage, cost and limits across AI tools: 38 report token usage and 10 only limits. Counts come mostly from local files, limits from the providers. |
+| [[Anarlog - The Open-Source Granola Alternative Once Called Hyprnote\|**anarlog**]] | Aug 24 | ⭐ | Open-source Granola alternative, formerly Hyprnote and Char, about 9.7k stars. MIT apart from `enterprise/`, and some features need Pro. |
+| [[Nativ - A Native Mac App for Local MLX Models\|**nativ**]] | Aug 25 | ⭐ | MIT Mac app for local MLX models from Neywa Labs: a SwiftUI interface over a bundled Python mlx-vlm server. Post dated to the Jul 20 launch. |
+| [[Unsloth Desktop - Run and Train Open Models in One App\|**unsloth**]] | Aug 26 | ⭐ | Beta desktop app for running and training open models. Mac training is newer and more limited than the NVIDIA path. Post dated to the Aug 11 launch. |
+| [[AIPOCH Open-Science - A Research Workbench with Portable Records\|**open-science**]] | Sep 7 | ⭐ | AIPOCH's Apache-2.0 research workbench with MCP. Storage and execution are local, but it still needs a model connection. Post dated to the Oct 14 v1.0.0 release. |
 | **shpool** | Aug 29 | ✓ | Lightweight persistent shell sessions, "tmux, then aim lower". |
 | **davit** | Aug 26 | ✓ | GUI for Apple's container CLI; socktainer thread. |
 | **forgejo-runner** | Sep 8 | ✓ | Self-hosted CI, own-your-forge angle. |

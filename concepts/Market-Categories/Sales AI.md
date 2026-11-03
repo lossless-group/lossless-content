@@ -22,7 +22,7 @@ aliases:
 [[concepts/Explainers for AI/AI Assistants|AI Assistants]]
 [[concepts/Explainers for AI/Agent Native|Agent Native]]
 [[Vocabulary/AI Native Applications|AI Native]]
-[[Nexor]]
+[[Tooling/Enterprise Jobs-to-be-Done/Nexor]]
 [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Narrow AI|Narrow AI]]
 [[Tooling/Enterprise Jobs-to-be-Done/6sense|6sense]]
 

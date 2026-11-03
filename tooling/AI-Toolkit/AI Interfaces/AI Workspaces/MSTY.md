@@ -3,18 +3,24 @@ site_uuid: bdccc07c-f8a4-44de-8cb7-4f7f662f3e0d
 url: https://msty.app/
 image: https://msty.app/msty-screenshots/msty-og-image.png
 site_name: Msty
-title: 'Msty - Using AI Models made Simple and Easy'
+title: Msty - Using AI Models made Simple and Easy
 favicon: https://msty.app/favicon.ico
-jina_last_request: '2025-03-09T06:45:20.658Z'
-jina_error: 'Error occurred'
-og_last_fetch: '2025-05-28T02:45:14.956Z'
-date_modified: 2025-05-28
+jina_last_request: 2025-03-09T06:45:20.658Z
+jina_error: Error occurred
+og_last_fetch: 2025-05-28T02:45:14.956Z
+date_modified: 2026-11-03
 date_created: 2025-03-30
 og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_MSTY_og_screenshot.jpeg
 og_image: https://msty.app/msty-screenshots/msty-og-image.png
 og_url: https://msty.app/
-description: 'AI beyond just plain chat. Private, Offline, Split chats, Branching, Concurrent chats, Web Search, RAG, Prompts Library, Vapor Mode, and more. Perfect LM Studio, Jan AI, and Perplexity alternative. Use models from Open AI, Deepseek, Claude, Ollama, and HuggingFace in a unified interface.'
-tags: [AI-Toolkit, AI-Interfaces, AI-Workspaces, Check-It-Out, Must-Have, Desktop-App]
+description: AI beyond just plain chat. Private, Offline, Split chats, Branching, Concurrent chats, Web Search, RAG, Prompts Library, Vapor Mode, and more. Perfect LM Studio, Jan AI, and Perplexity alternative. Use models from Open AI, Deepseek, Claude, Ollama, and HuggingFace in a unified interface.
+tags:
+  - AI-Toolkit
+  - AI-Interfaces
+  - AI-Workspaces
+  - Check-It-Out
+  - Must-Have
+  - Desktop-Apps
 ---
 
 
