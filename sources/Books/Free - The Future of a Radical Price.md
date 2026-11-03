@@ -67,7 +67,7 @@ _This is a book by Wired editor-in-chief Chris Anderson, first published July 7,
 
 # Adjacent Sources
 
-- [[The Long Tail]] — Anderson's prior book on niche markets, direct predecessor threading into *Free*'s abundance logic.[1]
+- [[Sources/Books/The Long Tail]] — Anderson's prior book on niche markets, direct predecessor threading into *Free*'s abundance logic.[1]
 - [[Vocabulary/Freemium|Freemium]] — Core pricing model popularized here, linking to SaaS innovators like Dropbox.
 - [[Wired Magazine]] — Anderson's platform as *Wired* editor-in-chief, source of ongoing digital economy coverage.[1]
 - [[Sources/Books/Crossing the Chasm|Crossing the Chasm]] — Contrasts *Free*'s mass-market free strategies with Geoffrey Moore's tech adoption focus.
