@@ -15,7 +15,7 @@ covers_tags:
 aliases:
   - AI Gateways
 ---
-[[Tetrate]]
+[[Tooling/AI-Toolkit/AI Infrastructure/Tetrate]]
 [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/OpenRouter|OpenRouter]]
 [[TrustedRouter]]
 [[Tooling/AI-Toolkit/Concentrate AI|Concentrate AI]]

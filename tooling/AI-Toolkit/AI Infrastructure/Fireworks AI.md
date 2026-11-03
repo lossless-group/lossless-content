@@ -5,7 +5,7 @@ description_site_cp: The fastest and most efficient inference engine to build pr
 zinger: Go from hype to high-value AI
 site_name: Fireworks
 title: Fastest Inference for Generative AI
-date_modified: 2025-10-18
+date_modified: 2026-11-03
 date_created: 2025-03-30
 tags:
   - AI-Toolkit
@@ -23,6 +23,8 @@ for_clients:
   - Laerdal
 ---
 > Surpass closed models when you train and run your models on Fireworks’ frontier inference platform
+
+[[Impulse AI]]
 
 
 

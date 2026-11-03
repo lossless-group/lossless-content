@@ -1,18 +1,18 @@
 ---
 site_uuid: f30f0df2-bcc2-427a-9be4-00d7661a6f8c
-publish: false
+publish: true
 title: Risk Management For Datacenters
 slug: risk-management-for-datacenters
 at_semantic_version: 0.0.0.1
 date_created: 2026-10-05
-date_modified: 2026-10-07
+date_modified: 2026-11-03
 tags:
   - Datacenter-Operations
 cf_last_run: 2026-10-07T02:17:19.264Z
 cf_last_run_model: Perplexity sonar-reasoning-pro
 ---
 
-[[Tooling/AI-Toolkit/AI Infrastructure/Marsh]]
+[[Tooling/AI-Toolkit/AI Infrastructure/Marsh|Marsh]]
 
 *Risk Management for Datacenters is the emerging umbrella around tools and practices that give operators real‑time visibility into physical, environmental, and operational risks in their facilities, built largely on the data center infrastructure management (DCIM) stack and its evolution toward predictive analytics and resilience modeling. [^o04w9v]*  
 *It sits at the intersection of monitoring, capacity planning, facilities controls, and uptime assurance, reflecting the growing need to treat datacenters as mission‑critical, risk‑managed infrastructure rather than just “rooms full of servers.” [^o04w9v]*
@@ -27,14 +27,14 @@ Operators, investors, and consultants increasingly treat DCIM and adjacent monit
 
 ## Snapshot
 
-The headline story is that DCIM and DCIM‑software—core enablers of datacenter risk management—have moved from niche tooling to a multi‑billion‑dollar market growing at mid‑teens to >20% CAGR, with nearly every major researcher explicitly linking that growth to risk and uptime concerns. [^rj0d02] [^ve1pld] [^9zj37c] [^opevf8] [^o04w9v] [^hfm1eq] [^9q34gv] [^1t06dx] [^7y2r79]  
+The headline story is that [[concepts/Market-Categories/Data Center Infrastructure Management Systems|DCIM]] and DCIM‑software—core enablers of datacenter risk management—have moved from niche tooling to a multi‑billion‑dollar market growing at mid‑teens to >20% CAGR, with nearly every major researcher explicitly linking that growth to risk and uptime concerns. [^rj0d02] [^ve1pld] [^9zj37c] [^opevf8] [^o04w9v] [^hfm1eq] [^9q34gv] [^1t06dx] [^7y2r79]  
 Grand View Research notes that “the growing need for risk mitigation and uptime assurance is fueling market demand” and that DCIM solutions now deliver “predictive analytics, fault detection, and scenario modeling” for proactive failure management. [^o04w9v]  
 
 ---
 
 ## What is this Market Category?
 
-Risk Management for Datacenters is the category of products and services designed to identify, quantify, and reduce operational, environmental, and capacity risks in data center facilities, typically by instrumenting power, cooling, space, and IT assets and modeling their behavior under stress. [^o04w9v] [^hfm1eq]  
+Risk Management for [[Vocabulary/Data Centers|Datacenters]] is the category of products and services designed to identify, quantify, and reduce operational, environmental, and capacity risks in data center facilities, typically by instrumenting power, cooling, space, and IT assets and modeling their behavior under stress. [^o04w9v] [^hfm1eq]  
 In practice, this category is anchored by DCIM platforms that provide unified monitoring, asset management, performance optimization, and reporting, increasingly enriched with predictive analytics that surface impending failures and capacity bottlenecks before they affect uptime. [^rj0d02] [^0ro9yf] [^o04w9v] [^l1z18e]  
 Customers are data center owners and operators—hyperscale cloud providers, colocation and wholesale operators, enterprises running on‑prem or hybrid facilities, and increasingly edge datacenter operators—who buy these tools to meet SLA obligations and regulatory expectations around resilience. [^o04w9v] [^1j45ij] [^hfm1eq]  
 The category explicitly includes DCIM software, monitoring and alarm systems, environmental and power analytics, resilience modeling, and related operational dashboards; it excludes pure workload‑level observability (APM, log analytics) and general IT security tooling, which focus on application‑ or cyber‑risk rather than physical and facility risk. [^0ro9yf] [^o04w9v] [^1j45ij]  
@@ -114,7 +114,7 @@ These are large public or late‑stage private vendors with established DCIM, mo
 
 #### [IBM](https://www.ibm.com)
 **Stage**: public (NYSE: IBM) — diversified technology incumbent with a longstanding presence in data center management software. [^rj0d02] [^o04w9v]  
-**Funding**: DCIM‑specific revenue and investment are not broken out in the reports; IBM is highlighted among leading DCIM vendors, implying ongoing investment in infrastructure monitoring and asset‑management capabilities. [^rj0d02] [^o04w9v] [^4fz17c]  
+**Funding**: DCIM‑specific revenue and investment are not broken out in the reports; [[organizations/IBM|IBM]] is highlighted among leading DCIM vendors, implying ongoing investment in infrastructure monitoring and asset‑management capabilities. [^rj0d02] [^o04w9v] [^4fz17c]  
 **Footprint**: Appears in DCIM vendor lists as a global provider of infrastructure management and monitoring tools, with adoption across enterprise datacenters and hybrid‑cloud environments. [^rj0d02] [^o04w9v] [^4fz17c]  
 **Why they’re in this category**: IBM’s data center management and monitoring tools help operators track asset performance, resource utilization, and environmental metrics, feeding risk models and uptime‑assurance processes. [^rj0d02] [^o04w9v] [^hfm1eq]  
 **Coverage**: [MarketsandMarkets, “Data Center Infrastructure Management Market by DCIM Software… Global Forecast to 2031”](https://www.marketsandmarkets.com/PressReleases/dcim-market.asp) [^l1z18e]  

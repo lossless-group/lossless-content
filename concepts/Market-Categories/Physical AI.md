@@ -2,7 +2,7 @@
 aliases:
   - physical-AI
 date_created: 2026-10-05
-date_modified: 2026-10-12
+date_modified: 2026-11-03
 tags: [Physical-AI, Real-World-Telemetry]
 cf_last_run: "2026-10-11T14:59:48.630Z"
 cf_last_run_model: "Perplexity sonar-pro"
@@ -232,6 +232,7 @@ The supplied search results do not provide sufficiently reliable round dates, to
 
 ***
 
+
 # Sources
 
 [^3kmmxx]: [Physical AI & Robotics Research](https://www.idc.com/ap/resource-center/physical-ai/)
@@ -250,3 +251,4 @@ The supplied search results do not provide sufficiently reliable round dates, to
 [^7cmsdl]: [Robotics Startup Physical Intelligence Valued at $5.6 ...](https://www.bloomberg.com/news/articles/2025-11-20/robotics-startup-physical-intelligence-valued-at-5-6-billion-in-new-funding)
 [^8sappm]: [SoftBank and Nvidia reportedly in talks to fund Skild AI at ...](https://techcrunch.com/2025/12/08/softbank-and-nvidia-reportedly-in-talks-to-fund-skildai-at-14b-nearly-tripling-its-value/)
 [^wwo1hh]: "[Physical AI Explained in 7 Robots | Celonis](https://www.celonis.com/insights/ebooks/physical-ai)". [Celonis](https://www.celonis.com).
+[^meul22]: "[The Robotics and Physical AI Wave | Firstminute Capital](https://www.firstminute.capital/news-announcements/our-robotics-thesis)". brittle automation. [Firstminute Capital](https://www.firstminute.capital).
