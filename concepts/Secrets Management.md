@@ -19,7 +19,7 @@ cf_last_run_model: Perplexity sonar-pro
 ---
 
 [[SecretSpec]]
-[[1Password]]
+[[Tooling/Productivity/1Password]]
 [[Dashlane]]
 
 https://youtu.be/BqekRTA6VCs?si=M8TBlGbLUoAPzmKQ

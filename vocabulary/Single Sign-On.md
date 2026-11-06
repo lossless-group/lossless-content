@@ -61,7 +61,7 @@ _A technology and business practice enabling users to authenticate once via an i
 
 # Common Misuses
 - Calling basic session cookies or [[projects/Emergent-Innovation/Standards/JSON Web Tokens|JWT]] tokens "SSO" — better suited: **[[Session Management]]**, as SSO requires IdP federation across apps. [^2k1rd8] [^99lgjx]
-- Equating SSO with password vaulting (e.g., [[1Password]] sharing) — better suited: **Shared Credentials**, lacking federated standards like SAML. [^99lgjx]
+- Equating SSO with password vaulting (e.g., [[Tooling/Productivity/1Password]] sharing) — better suited: **Shared Credentials**, lacking federated standards like SAML. [^99lgjx]
 - Marketing "passwordless" as SSO without IdP integration — better suited: **Passwordless Authentication**, which may still demand per-app biometrics. [^2k1rd8]
 - Using "SSO" for [[SCIM]] user provisioning — better suited: **Identity Provisioning**, as SSO handles auth, not account sync. [^ydogg5]
 

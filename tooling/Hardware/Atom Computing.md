@@ -15,7 +15,7 @@ title: "Atom Computing"
 slug: atom-computing
 at_semantic_version: 0.0.0.1
 ---
-[[organizations/1517 Fund|1517 Ventures]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/1517 Fund|1517 Ventures]]
 
 [[lost-in-public/market-maps/Quantum Computing is Confusing|Quantum Computing is Confusing]]
 

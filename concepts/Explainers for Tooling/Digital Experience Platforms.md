@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-08
-date_modified: 2025-08-23
+date_modified: 2026-11-05
 site_uuid: 46c0c203-afe9-4c67-a577-59643f4cfc90
 publish: true
 title: Digital Experience Platforms
@@ -13,6 +13,7 @@ augmented_with: Qwen Coder 3
 ---
 [[Vocabulary/Digital Experience|Digital Experience]]
 [[Vocabulary/All-in-One Platforms|All-in-One Platforms]]
+[[Tooling/Enterprise Jobs-to-be-Done/Wingify]]
 
 A Digital Experience Platform (DXP) is a category of software that combines various digital tools to create, manage, and deliver personalized digital experiences across multiple channels. Here are some of the major players in this field:
 

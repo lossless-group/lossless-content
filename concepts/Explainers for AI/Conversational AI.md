@@ -31,7 +31,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 https://youtu.be/f32W5BEzWN0?is=_2yWor_N2Ap7SfCL
 
-[[Contact Center‑as‑a‑Service]]
+[[concepts/Explainers for Tooling/Contact Center‑as‑a‑Service]]
 [[concepts/Explainers for AI/Helpdesk AI|Helpdesk AI]]
 [[Vocabulary/Chatbots|Chatbots]]
 

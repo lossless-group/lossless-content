@@ -92,7 +92,7 @@ It is not an obvious fit for organizations seeking only a basic chatbot, a stand
 
 - **Salesforce Agentforce:** A broader CRM-native agent platform for organizations already standardized on Salesforce.
 - **HubSpot AI:** A CRM-centered option for teams wanting sales automation inside HubSpot.
-- **[[Outreach]]:** A sales-engagement platform oriented toward structured prospecting sequences and rep workflows.
+- **[[Tooling/Enterprise Jobs-to-be-Done/Outreach]]:** A sales-engagement platform oriented toward structured prospecting sequences and rep workflows.
 - **[[Tooling/Enterprise Jobs-to-be-Done/Apollo|Apollo]]:** A prospecting and sales-engagement suite combining lead data with outreach automation.
 - **Intercom Fin:** A customer-conversation agent focused primarily on support and inbound engagement rather than Nexor’s broader lead-outreach workflow.
 

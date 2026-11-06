@@ -1,12 +1,19 @@
 ---
 date_created: 2025-11-28
-date_modified: 2025-12-02
+date_modified: 2026-11-03
 site_uuid: db29fbe5-47a2-4eb4-ac8e-ca8cea4728a1
 publish: true
 title: Autonomous Vehicles
 slug: autonomous-vehicles
 at_semantic_version: 0.0.0.1
-tags: [Near-Future-Anticipation, Frontier-Technology, Technology-Trends]
+tags:
+  - Near-Future-Anticipation
+  - Frontier-Technology
+  - Technology-Trends
+aliases:
+  - autonomous-vehciles
+  - autonomous-vehicle
+  - Autonomous Vehicle
 ---
 
 

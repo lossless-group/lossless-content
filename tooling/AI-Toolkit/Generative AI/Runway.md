@@ -23,6 +23,6 @@ tags:
 
 https://youtu.be/EsPGN6NdIgM?si=3ftDM-Q1PwQRqRar
 
-[[Text-to-Video]]
+[[concepts/Explainers for AI/Text-to-Video]]
 [[Vocabulary/Video Generators|Video Generators]]
 

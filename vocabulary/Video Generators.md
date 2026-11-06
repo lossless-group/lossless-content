@@ -1,5 +1,5 @@
 ---
-date_modified: 2026-10-10
+date_modified: 2026-11-06
 site_uuid: 658f5efe-a754-4404-a0f2-127c83cfa19c
 date_created: 2025-04-06
 aliases:
@@ -9,6 +9,7 @@ aliases:
   - AI-Video Generation
   - AI-Video Generators
   - Video Generator
+  - video-generation
 tags:
   - Text-to-Video
   - Generative-AI
@@ -134,7 +135,7 @@ Several innovative companies are leading the charge in AI-powered video generati
 - **What It Offers:** [[DeepBrain AI]] focuses on creating AI-generated videos with lifelike avatars and natural-sounding voiceovers, based on text input.
 - **Key Features:**
     - AI avatars with photorealistic facial expressions.
-    - [[Text-to-Video]] capabilities for news, education, and marketing.
+    - [[concepts/Explainers for AI/Text-to-Video]] capabilities for news, education, and marketing.
     - Custom avatar creation.
 - **Use Case:** A news organization can generate video updates quickly using AI avatars, reducing dependency on live anchors.
 

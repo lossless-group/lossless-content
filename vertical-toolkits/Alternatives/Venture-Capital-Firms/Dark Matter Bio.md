@@ -18,7 +18,7 @@ at_semantic_version: 0.0.0.1
 
 [[vertical-toolkits/HealthTech/Profile Health|Profile Health]]
 
-[[Fortem Neurosciences]]
+[[vertical-toolkits/HealthTech/Fortem Neurosciences]]
 
 [[client-content/Dark-Matter/Encellin]]
 

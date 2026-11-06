@@ -26,7 +26,7 @@ for_clients:
   - Lossless
   - Edviro
 ---
-[[Email Assistant Agents]]
+[[concepts/Explainers for AI/Email Assistant Agents]]
 [[concepts/Explainers for AI/AI Assistants|AI Assistants]]
 [[Vocabulary/AI Native Applications|AI Native]]
 [[concepts/Explainers for AI/Agent Native|Agent Native]]

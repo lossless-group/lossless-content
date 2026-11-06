@@ -87,7 +87,7 @@ Several established Layer 1 blockchains are integrating AI capabilities:
 
 Based on current market capitalizations and adoption metrics, the traction levels vary significantly across players. Numerai leads with substantial institutional adoption in the hedge fund space, while Golem and Akash Network have demonstrated strong market presence with their computing infrastructure solutions. Render Token has gained significant traction in the creative industries, and Cortex is building a growing developer community around blockchain-based AI solutions.
 
-The newer AI like [[Kite AI]] are still in early development phases, making their long-term traction difficult to assess. However, the increasing interest from investors and developers in AI-blockchain convergence suggests growing market momentum for specialized AI Layer 1 platforms.
+The newer AI like [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Kite AI]] are still in early development phases, making their long-term traction difficult to assess. However, the increasing interest from investors and developers in AI-blockchain convergence suggests growing market momentum for specialized AI Layer 1 platforms.
 
 The overall landscape indicates a maturing ecosystem where established infrastructure providers currently hold the strongest market positions, while newer AI-native platforms are positioning themselves for future growth as the technology stack evolves and mainstream adoption increases.
 

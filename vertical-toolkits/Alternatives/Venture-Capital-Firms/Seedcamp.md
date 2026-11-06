@@ -20,7 +20,7 @@ og_last_fetch: 2026-10-04T20:45:03.178Z
 ---
 
 
-[[Startup Accelerators]]
+[[content-areas/Finance/Private-Markets/Concepts/Startup Accelerators]]
 
 [[organizations/European Union|European Union]]
 

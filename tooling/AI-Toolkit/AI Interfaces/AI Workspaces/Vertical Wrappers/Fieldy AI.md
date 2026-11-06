@@ -20,7 +20,7 @@ at_semantic_version: 0.0.0.1
 [[Vocabulary/AI Powered Transcription|AI Transcription]]
 [[concepts/Market-Categories/Personal AI]]
 
-[[GrokBot]]
+[[Tooling/AI-Toolkit/GrokBot]]
 
 
 %% introduced by [[Lukas Kaminskis]]

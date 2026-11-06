@@ -1,16 +1,18 @@
 ---
 aliases:
   - DNS
+  - Domain Name System
 date_created: 2026-11-03
-date_modified: 2026-11-03
-cf_last_run: "2026-11-03T18:55:19.771Z"
-cf_last_run_model: "Perplexity sonar-pro"
+date_modified: 2026-11-06
+cf_last_run: 2026-11-03T18:55:19.771Z
+cf_last_run_model: Perplexity sonar-pro
 for_clients:
   - LFG
-tags: [Cloud-Infrastructure]
+tags:
+  - Cloud-Infrastructure
 site_uuid: 2c0e1db2-7992-4700-9d29-dee01e523268
 publish: true
-title: "Domain Name Services"
+title: Domain Name Services
 slug: domain-name-services
 at_semantic_version: 0.0.0.1
 ---
@@ -46,7 +48,7 @@ flowchart TD
 - **Service configuration:** DNS records can publish aliases, IPv4 and IPv6 addresses, text values, and name-server delegations. [^iccoj5] [^xbf1zl]
 - **Caching and performance:** Recursive resolvers retain answers for a record’s time-to-live, reducing repeated lookups and lookup latency. [^51n0sz] [^zj9i37]
 - **Operational control:** Organizations use authoritative DNS zones to direct domains toward hosting platforms, mail systems, and other Internet services. [^wx25bt] [^iccoj5]
-- **Security and verification:** Text records are commonly used to publish domain-verification and policy data, while DNS security extensions can provide authenticated DNS data. [^iccoj5]
+- **[[Vocabulary/Web Security|Web Security]] and verification:** Text records are commonly used to publish domain-verification and policy data, while DNS security extensions can provide authenticated DNS data. [^iccoj5]
 
 ## History of Use
 

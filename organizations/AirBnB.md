@@ -1,7 +1,7 @@
 ---
 url: https://www.airbnb.com/
 date_created: 2026-05-13
-date_modified: 2026-05-23
+date_modified: 2026-11-05
 site_uuid: 8860448c-98f2-4848-a104-362fda763adb
 publish: true
 title: AirBnB
@@ -11,6 +11,8 @@ cf_last_run: 2026-05-23T20:34:46.532Z
 cf_last_run_model: Perplexity sonar-pro
 tags:
   - Influential-Organizations
+aliases:
+  - Airbnb
 ---
 
 # AirBnB

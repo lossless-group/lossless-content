@@ -194,7 +194,7 @@ mps@sys76:~/Applications/Perplexica$ tree
 
 Rename the `sample.config.toml` file to `config.toml` and fill out the variable values, which are generally [[Vocabulary/API Authentication|API Authentication]] variables and Ports. 
 
-I used [[1Password]] to grab me API Keys for [[Gemini]], [[OpenAI]], [[Tooling/AI-Toolkit/Model Producers/Groq|Groq]], and [[Anthropic]]. 
+I used [[Tooling/Productivity/1Password]] to grab me API Keys for [[Gemini]], [[OpenAI]], [[Tooling/AI-Toolkit/Model Producers/Groq|Groq]], and [[Anthropic]]. 
 
 I had to make sure [[Tooling/AI-Toolkit/AI Interfaces/OLlama]] was running locally. If you don't have it installed, you'll need it. 
 

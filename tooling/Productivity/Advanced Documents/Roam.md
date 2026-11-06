@@ -94,7 +94,7 @@ It is less suitable for users who prioritize local-first storage, robust offline
 - **[[Tooling/Productivity/Advanced Documents/Logseq|Logseq]]:** An open-source outliner with daily journals, bidirectional links, and block references. [^q6c79g]
 - **[[Tooling/Productivity/Advanced Documents/Notion|Notion]]:** A broader workspace built around pages, databases, wikis, templates, and team collaboration. [^0eobrq]
 - **Evernote:** A conventional note-taking and organization product with overlapping knowledge-management use cases. [^4hysl0]
-- **[[Workflowy]]:** An outliner alternative for users who primarily want nested lists and lightweight organization. [^rrf5nx]
+- **[[Tooling/Productivity/Advanced Documents/Workflowy]]:** An outliner alternative for users who primarily want nested lists and lightweight organization. [^rrf5nx]
 
 ## Competitor Table
 

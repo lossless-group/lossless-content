@@ -2,11 +2,11 @@
 site_uuid: 8f6ca1f9-09cd-4e3d-9358-2d48cd0aa8ba
 title: Small
 site_visibility: public
-date_modified: '2025-04-12'
-date_created: '2025-03-31T20:44:50.511Z'
+date_modified: 2026-11-06
+date_created: 2025-03-31
 tags:
   - AI-Toolkit
-  - Models
+  - AI-Models
 ---
 
 

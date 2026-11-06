@@ -28,7 +28,7 @@ cf_last_run: 2026-06-19T18:17:52.311Z
 cf_last_run_model: Perplexity sonar-pro
 ---
 [[concepts/Security-First Development|Security-First Development]]
-[[Onyx]]
+[[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Onyx]]
 [[Agent Security Platforms]]
 
 # Value Proposition & Features

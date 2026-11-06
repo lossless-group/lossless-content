@@ -47,7 +47,7 @@ CSA says it serves practitioners, corporations, associations, governments, chapt
 
 CSA conducts volunteer-led cybersecurity research, publishes implementation frameworks and intelligence, develops certifications and education, runs events, and coordinates a broad coalition of industry and public-sector participants. [^ca4438] Its current output spans cloud security, AI security, Zero Trust, vulnerability coordination, and organizational maturity models. [^ca4438]
 
-- **[[Cloud Security]] best practices:** Research and guidance intended to provide security assurance in cloud computing. [^ca4438]
+- **[[Vocabulary/Cloud Security]] best practices:** Research and guidance intended to provide security assurance in cloud computing. [^ca4438]
 - **Education and credentialing:** Vendor-neutral educational programs and cybersecurity credentials. [^ca4438]
 - **Security standards and assurance:** Globally accepted standards and assurance initiatives, including STAR for AI Level 2. [^d3wx49]
 - **Research publications:** Cloud, AI, Zero Trust, vulnerability-management, and threat-intelligence research. [^ca4438] [^lfq47z] [^r7pesa]
@@ -116,8 +116,8 @@ As of 2026-10-30,
 
 ## Adjacent Entries
 
-- [[Cloud Security]]
-- [[AI Security]]
+- [[Vocabulary/Cloud Security]]
+- [[concepts/Explainers for AI/AI Security]]
 - [[Zero Trust]]
 - [[SANS Institute]]
 - [[RSA Conference]]

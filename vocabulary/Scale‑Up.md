@@ -4,8 +4,10 @@ aliases:
   - Scale-Ups
   - scaleups
   - scaleup
+  - Scale Up
+  - Scale-Up
 date_created: 2026-05-16
-date_modified: 2026-11-02
+date_modified: 2026-11-06
 site_uuid: fd27cc84-5df9-4fe1-b680-5ba3153f8e7d
 publish: true
 title: Scale‑Up

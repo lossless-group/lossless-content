@@ -33,7 +33,7 @@ cf_last_run_retrieval: 2026-11-02T16:58:43.399Z
 [[client-content/Hypernova/Files/Portfolio/Aalo Atomics|Aalo Atomics]]
 [[concepts/Explainers for AI/AI Research Labs|AI Research Labs]]
 [[Tooling/AI-Toolkit/Models/Grok|Grok]]
-[[GrokBot]]
+[[Tooling/AI-Toolkit/GrokBot]]
 
 ## Value Proposition & Features
 

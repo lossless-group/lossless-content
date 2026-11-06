@@ -1,10 +1,10 @@
 ---
 date_created: 2025-08-16
-date_modified: 2025-08-16
+date_modified: 2026-11-04
 aliases: [VC]
 tags: [Venture-Capital]
 ---
-
+[[content-areas/Finance/Private-Markets/Concepts/Limited Partners|Limited Partners]]
 ***
 > [!info] **Perplexity Query** (2025-08-16T15:40:06.534Z)
 > **Question:**

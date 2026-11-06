@@ -20,7 +20,7 @@ at_semantic_version: 0.0.1.1
 
 
 
-[[Oura]]
+[[vertical-toolkits/HealthTech/Oura]]
 [[Tooling/Products/Whoop|Whoop]]
 
 # Snapshot

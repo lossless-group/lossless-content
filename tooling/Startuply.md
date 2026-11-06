@@ -38,13 +38,13 @@ for_clients:
 
 [[Vocabulary/Scale‑Up|Scale Ups]]
 
-[[Start Ups]]
+[[Vocabulary/Startups]]
 
 [[The New VC Stack]]
 
 ## Vault notes that already reference Startuply
 
-Startuply’s investor-oriented research workflow fits naturally alongside [[VC Labs|VC Labs]] for downstream venture tooling context.
+Startuply’s investor-oriented research workflow fits naturally alongside [[organizations/VC Labs|VC Labs]] for downstream venture tooling context.
 
 # Value Proposition & Features
 

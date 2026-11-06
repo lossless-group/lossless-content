@@ -2,7 +2,7 @@
 cf_last_run: 2026-06-07T01:45:16.661Z
 cf_last_run_model: Perplexity sonar-pro
 date_created: 2026-05-25
-date_modified: 2026-06-07
+date_modified: 2026-11-06
 site_uuid: 34a5baa3-927d-492f-a49e-f7b9d96af3a3
 publish: true
 title: Generative Adversarial Networks
@@ -11,6 +11,11 @@ at_semantic_version: 0.0.1.1
 aliases:
   - GAN architectures
   - GAN
+  - GANs
+tags:
+  - AI-Toolkit
+  - Generative-AI
+  - Explainers
 ---
 
 _Generative adversarial networks turn neural networks into rivals, using competition between a “forger” and a “detective” to produce strikingly realistic synthetic data. [^wi1587] [^oyum99]_
@@ -57,7 +62,7 @@ Common characteristics:
 
 ## Origins
 
-- GANs were introduced by **Ian Goodfellow** and colleagues in the 2014 paper “Generative Adversarial Nets,” presented at the conference **NIPS 2014** (now NeurIPS). [^oyum99] [^r5bg7i]  
+- GANs were introduced by **[[Sources/People/Ian Goodfellow|Ian Goodfellow]]** and colleagues in the 2014 paper “Generative Adversarial Nets,” presented at the conference **NIPS 2014** (now NeurIPS). [^oyum99] [^r5bg7i]  
 - In that work, Goodfellow proposed training “a generative model and an adversarial discriminative model simultaneously,” where the generative model learns to produce samples that the discriminative model cannot distinguish from training data. [^r5bg7i]  
 - The concept emerged from academic research in deep learning rather than from a large incumbent vendor; it was developed in an open research environment and quickly spread through the machine learning community via the paper, talks, and open-source implementations. [^oyum99] [^r5bg7i]  
 
@@ -80,7 +85,7 @@ Common characteristics:
 
 ## Case Study 1 – StyleGAN and Photorealistic Synthetic Faces
 
-Researchers at NVIDIA and academic collaborators developed **StyleGAN**, a GAN architecture that introduced a style-based generator to produce unprecedentedly high-quality synthetic images, especially human faces. [^r5bg7i] [^36eqti] StyleGAN separates high-level attributes (like pose and identity) from stochastic variation (like freckles or hair strands), giving fine-grained control over generated results and making it easy to interpolate between different faces. [^r5bg7i] Public demos built on StyleGAN, such as “This Person Does Not Exist,” showed that GAN-generated portraits can be indistinguishable from real photographs to casual observers, drawing attention to the creative and ethical implications of synthetic media. [^36eqti] This case illustrates how an open research architecture can quickly propagate into indie projects, art platforms, and public discourse, highlighting both the power and risks of adversarial training for image synthesis. [^r5bg7i] [^36eqti]
+Researchers at [[organizations/Nvidia|NVIDIA]] and academic collaborators developed **StyleGAN**, a GAN architecture that introduced a style-based generator to produce unprecedentedly high-quality synthetic images, especially human faces. [^r5bg7i] [^36eqti] StyleGAN separates high-level attributes (like pose and identity) from stochastic variation (like freckles or hair strands), giving fine-grained control over generated results and making it easy to interpolate between different faces. [^r5bg7i] Public demos built on StyleGAN, such as “This Person Does Not Exist,” showed that GAN-generated portraits can be indistinguishable from real photographs to casual observers, drawing attention to the creative and ethical implications of synthetic media. [^36eqti] This case illustrates how an open research architecture can quickly propagate into indie projects, art platforms, and public discourse, highlighting both the power and risks of adversarial training for image synthesis. [^r5bg7i] [^36eqti]
 
 ## Case Study 2 – GANs for Creative Tools and Art Platforms
 

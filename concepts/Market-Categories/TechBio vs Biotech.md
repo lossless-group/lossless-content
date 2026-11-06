@@ -125,7 +125,7 @@ The central dispute is whether TechBio should include the entire “programmable
 
 #### [Insilico Medicine](https://insilico.com/)
 **Stage**: late-stage private / scale-up; reported Series E financing in 2025.  
-**Funding**: Insilico completed a reported **$110 million Series E in March 2025**; its partnerships included a reported **more than $550 million Menarini agreement** and a proposed or reported **$2.75 billion [[Eli Lilly]] transaction** with $115 million upfront.[^vu7sm3][^7kqgyi][^x16sdr]  
+**Funding**: Insilico completed a reported **$110 million Series E in March 2025**; its partnerships included a reported **more than $550 million Menarini agreement** and a proposed or reported **$2.75 billion [[vertical-toolkits/Bioscience/Eli Lilly]] transaction** with $115 million upfront.[^vu7sm3][^7kqgyi][^x16sdr]  
 **Footprint**: Insilico has built a platform combining generative chemistry, target identification, and clinical development, with its programs providing one of the more visible tests of whether AI-generated candidates can progress through human trials.[^7kqgyi][^x16sdr]  
 **Why they're in this category**: Insilico operates as an integrated AI-biotech challenger: it uses generative models to identify targets and design molecules, then advances proprietary assets rather than stopping at software licensing.[^7kqgyi][^ahn0dc]  
 **Coverage**: [“The TechBio Revolution: How Insilico Medicine Is Leading the Charge”](https://production.futuremedicine.com/articles/the-techbio-revolution-how-insilico-medicine-is-leading-the-charge) — describes Insilico’s software-first operating model.[^ahn0dc]

@@ -5,5 +5,5 @@ date_modified: 2025-11-26
 aliases: [User Research Repository]
 ---
 
-[[organizations/Dovetail]], [[Marvin]]
+[[Tooling/Enterprise Jobs-to-be-Done/Dovetail]], [[Marvin]]
 

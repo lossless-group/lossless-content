@@ -17,5 +17,5 @@ title: "Contrarian Ventures"
 slug: contrarian-ventures
 at_semantic_version: 0.0.0.1
 ---
-[[Rokas Peciulaitis]]
+[[Sources/People/Rokas Peciulaitis]]
 

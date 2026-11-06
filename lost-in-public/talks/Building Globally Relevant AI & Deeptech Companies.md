@@ -155,7 +155,7 @@ Broad consensus that there will be
 [[Sources/People/Itxaso del Palacio|Itxaso del Palacio]], [[Sources/People/Sherman Williams|Sherman Williams]] -- 
 - Should we be suspicious of AI companies that are completely designed and built around one platform or distribution mechanism?  Like [[Tooling/Software Development/Developer Experience/DevTools/Visual Studio Code|VS Code]]? 
 - [[Tooling/AI-Toolkit/Knowledge AI/Celonis|Celonis]] got very big focused on building around [[organizations/SAP|SAP]] and has achieved a multi billion. 
-- [[Tooling/Enterprise Jobs-to-be-Done/Klaviyo|Klaviyo]] built a rapid growth rate by focusing on their partnership with [[Shopify]]...  
+- [[Tooling/Enterprise Jobs-to-be-Done/Klaviyo|Klaviyo]] built a rapid growth rate by focusing on their partnership with [[organizations/Shopify]]...  
 
 ### To What extent will our B2B AI Native companies be competing with Consulting Firms and System Integrators
 

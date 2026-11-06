@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-17
-date_modified: 2026-08-20
+date_modified: 2026-11-04
 aliases: [AI Executive Assistants, Virtual Assistants]
 covers_tags:
   - AI-Assistants
@@ -23,7 +23,9 @@ augmented_with: Perplexity AI
 [[Tooling/AI-Toolkit/Agentic AI/Athena|Athena]]
 :::
 
-[[Email Assistant Agents|Email Assistants]]
+[[concepts/Explainers for AI/Email Assistant Agents|Email Assistants]]
+[[concepts/Explainers for AI/AI Chief of Staff|AI Chief of Staff]]
+
 
 ***
 > [!info] **Perplexity Query** (2025-08-17T06:56:06.392Z)

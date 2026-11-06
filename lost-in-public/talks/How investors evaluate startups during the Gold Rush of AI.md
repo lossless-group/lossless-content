@@ -43,11 +43,11 @@ His AI related investments include:
 | [[Tooling/AI-Toolkit/Model Producers/Ruya\|Ruya]]                           | [Ruya AI/](https://www.ruya.ai/)                  | [[client-content/Hypernova/Hypernova Capital\|Hypernova]]        |
 | [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Catio\|Catio]]                         | [Catio](https://www.catio.tech/)                  | [[client-content/Hypernova/Hypernova Capital\|Hypernova]]        |
 | [[client-content/Hypernova/Files/Portfolio/Aalo Atomics\|Aalo Atomics]]           | [Aalo Atomics](https://www.aalo.com/)             | [[client-content/Hypernova/Hypernova Capital\|Hypernova]]        |
-| [[Tooling/Portfolio/Sana Labs\|Sana Labs]]                 | [Sana Labs](https://sanalabs.com/)                | [[Tooling/Portfolio/Learn Capital\|Learn Capital]]        |
-| [[Tooling/Portfolio/PhotoMath\|PhotoMath]]                 | [PhotoMath](https://photomath.com/)               | [[Tooling/Portfolio/Learn Capital\|Learn Capital]]        |
-| [[Tooling/Training/Mindstone\|Mindstone]]                  | [Mindstone](https://www.mindstone.com)            | [[Tooling/Portfolio/Learn Capital\|Learn Capital]]        |
-| [[Tooling/Training/Enki\|Enki]]                            | [Enki](https://enki.com/)                         | [[Tooling/Portfolio/Learn Capital\|Learn Capital]]        |
-| [[Tooling/Portfolio/Neol\|Neol]]                           | [Neol](https://www.neol.co/)                      | [[Tooling/Portfolio/Learn Capital\|Learn Capital]]        |
+| [[Tooling/Portfolio/Sana Labs\|Sana Labs]]                 | [Sana Labs](https://sanalabs.com/)                | [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Learn Capital\|Learn Capital]]        |
+| [[Tooling/Portfolio/PhotoMath\|PhotoMath]]                 | [PhotoMath](https://photomath.com/)               | [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Learn Capital\|Learn Capital]]        |
+| [[Tooling/Training/Mindstone\|Mindstone]]                  | [Mindstone](https://www.mindstone.com)            | [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Learn Capital\|Learn Capital]]        |
+| [[Tooling/Training/Enki\|Enki]]                            | [Enki](https://enki.com/)                         | [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Learn Capital\|Learn Capital]]        |
+| [[Tooling/Portfolio/Neol\|Neol]]                           | [Neol](https://www.neol.co/)                      | [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Learn Capital\|Learn Capital]]        |
 
 ```yaml toolingGallery small
 - [[Tooling/Portfolio/Aalo Atomics|Aalo Atomics]]

@@ -1,6 +1,6 @@
 ---
 date_created: 2024-05-28
-date_modified: 2025-12-03
+date_modified: 2026-11-05
 tags: [Best-Practices, Design-Practices]
 for_clients:
   - Laerdal
@@ -11,7 +11,12 @@ title: Design Thinking
 slug: design-thinking
 at_semantic_version: 0.0.0.1
 ---
-[[organizations/IDEO]]
+[[organizations/IDEO|IDEO]]
+[[Vocabulary/Design Interviews|Design Interviews]]
+[[Vocabulary/User Experience|User Experience Design]]
+[[Vocabulary/User Experience|UX Design]]
+[[Tooling/Enterprise Jobs-to-be-Done/Dovetail|Dovetail]]
+
 
 ***
 > [!info] **Perplexity Query** (2025-12-03T22:26:19.329Z)

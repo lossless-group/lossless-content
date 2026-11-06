@@ -17,7 +17,7 @@ cf_last_run_model: Perplexity sonar-reasoning-pro
 
 [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Fieldy AI|Fieldy AI]]
 [[Tooling/AI-Toolkit/Data Augmenters/Plaud AI|Plaud AI]]
-[[GrokBot]]
+[[Tooling/AI-Toolkit/GrokBot]]
 [[Tooling/AI-Toolkit/Knowledge AI/Muse|Muse]]
 
 ---
@@ -240,7 +240,7 @@ The boundary is disputed at both edges: some operators include AI search and bro
 
 # Adjacent Concepts and Categories
 
-- [[Personal Knowledge Management]] — the information-organization layer from which personal memory systems emerge.
+- [[concepts/Explainers for Tooling/Personal Knowledge Management]] — the information-organization layer from which personal memory systems emerge.
 - AI Agents — autonomous systems that plan and execute multi-step tasks using tools.
 - [[concepts/Explainers for AI/Agentic Workspaces|Agentic Workspaces]] — work environments where software agents have identity, memory, permissions, and persistent context.
 - [[concepts/Explainers for AI/AI Companions|AI Companions]] — conversational products emphasizing continuity, emotion, relationship, and presence.

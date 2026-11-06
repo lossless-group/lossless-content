@@ -21,5 +21,5 @@ og_last_fetch: 2026-10-10T03:40:48.933Z
 site_name: Partnr Network
 ---
 [[concepts/On-Demand Talent|On-Demand Talent]]
-[[client-content/Hypernova/Files/Portfolio/Andela|Andela]]
+[[Tooling/Enterprise Jobs-to-be-Done/Talent-Networks/Andela|Andela]]
 

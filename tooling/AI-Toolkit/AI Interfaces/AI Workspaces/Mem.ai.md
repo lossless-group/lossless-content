@@ -32,7 +32,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 Similar to [[Networked-Notes]] and [[concepts/Explainers for Tooling/Advanced Documents|Advanced Documents]], but using [[Generative AI]].
 
-[[AI Chief of Staff]]
+[[concepts/Explainers for AI/AI Chief of Staff]]
 
 # Value Proposition & Features
 

@@ -5,11 +5,13 @@ title: Stablecoin
 slug: stablecoin
 at_semantic_version: 0.0.0.1
 date_created: 2026-10-10
-date_modified: 2026-10-14
+date_modified: 2026-11-05
 tags:
   - Web3
 cf_last_run: 2026-10-14T17:03:21.087Z
 cf_last_run_model: Perplexity sonar-pro
+aliases:
+  - Stablecoins
 ---
 
 [[Vocabulary/Web3|Web3]]

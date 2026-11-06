@@ -15,5 +15,5 @@ og_last_fetch: 2026-05-01T17:47:50.094Z
 tags: [Agentic-AI, Agent-Cloud-Providers, Agentic-Workflow-Engines, Agentic-Workforce-Platforms, AI-Toolkit]
 site_name: Salt Technologies AI
 ---
-[[Forward Deployed Engineers]]
+[[Vocabulary/Forward-Deployed Engineers]]
 

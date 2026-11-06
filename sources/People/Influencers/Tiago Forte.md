@@ -19,7 +19,7 @@ cf_last_run_model: Perplexity sonar-pro
 # Tiago Forte
 - [IMAGE 1: Tiago Forte author headshot or Forte Labs homepage portrait]
 - _Tiago Forte is a person and influential author whose work gives knowledge workers practical systems for turning scattered digital information into usable creative output._
-- Tiago Forte is the founder of Forte Labs and creator of the Building a Second Brain methodology.[4][6] His public work began as a body of online teaching and writing before his first major book, *Building a Second Brain*, was published in June 2022.[1][3] Innovation consultants return to Forte for pragmatic frameworks for [[Personal Knowledge Management]], information architecture, and [[Creative Productivity]].
+- Tiago Forte is the founder of Forte Labs and creator of the Building a Second Brain methodology.[4][6] His public work began as a body of online teaching and writing before his first major book, *Building a Second Brain*, was published in June 2022.[1][3] Innovation consultants return to Forte for pragmatic frameworks for [[concepts/Explainers for Tooling/Personal Knowledge Management]], information architecture, and [[Creative Productivity]].
 
 ## Type and Format
 
@@ -46,7 +46,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 ## Why It Matters to Innovators
 
-- Forte treats personal knowledge management as an innovation capability: externalizing ideas into a searchable system reduces the friction between research, synthesis, and action.[4][6] This connects directly to [[Personal Knowledge Management]] and [[Knowledge Work]].
+- Forte treats personal knowledge management as an innovation capability: externalizing ideas into a searchable system reduces the friction between research, synthesis, and action.[4][6] This connects directly to [[concepts/Explainers for Tooling/Personal Knowledge Management]] and [[Knowledge Work]].
 - The “second brain” concept reframes note-taking from passive storage into an [[Idea Pipeline]] for producing proposals, briefs, experiments, and other creative outputs.[4]
 - PARA offers a deliberately lightweight information architecture: organize material according to current Projects, ongoing Areas, useful Resources, and inactive Archives.[4][10] The model is useful when teams need a system that supports retrieval without imposing a complex taxonomy.
 - CODE emphasizes movement from raw inputs toward usable expression rather than endless collection.[4][10] It complements [[Design Thinking]] by making evidence, observations, and prior learning easier to recombine.
@@ -64,7 +64,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 - [[Building a Second Brain]]
 - [[Vocabulary/The PARA Method]]
-- [[Personal Knowledge Management]]
+- [[concepts/Explainers for Tooling/Personal Knowledge Management]]
 - [[David Allen]]
 - [[Evergreen Notes]]
 - [[Digital Garden]]

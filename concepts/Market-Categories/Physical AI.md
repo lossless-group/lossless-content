@@ -1,14 +1,18 @@
 ---
 aliases:
   - physical-AI
+  - Physical Intelligence
+  - physical intelligence
 date_created: 2026-10-05
-date_modified: 2026-11-03
-tags: [Physical-AI, Real-World-Telemetry]
-cf_last_run: "2026-10-11T14:59:48.630Z"
-cf_last_run_model: "Perplexity sonar-pro"
+date_modified: 2026-11-06
+tags:
+  - Physical-AI
+  - Real-World-Telemetry
+cf_last_run: 2026-10-11T14:59:48.630Z
+cf_last_run_model: Perplexity sonar-pro
 site_uuid: 4646119f-6f6c-4054-a507-83c7f1d94473
 publish: true
-title: "Physical AI"
+title: Physical AI
 slug: physical-ai
 at_semantic_version: 0.0.0.1
 ---
@@ -206,7 +210,7 @@ The supplied search results do not provide sufficiently reliable round dates, to
 
 ## Frontier and Open Questions
 
-- **Will Physical AI become a software-platform market or remain dominated by vertically integrated robot manufacturers?** Nvidia, Physical Intelligence, and [[Skild AI]] are pursuing reusable infrastructure and model layers, while Tesla, Figure, and Apptronik are pursuing tightly integrated hardware-and-software systems. [^2qznwy] [^f3x34y] [^j79yha] [^7cmsdl] [^8sappm]
+- **Will Physical AI become a software-platform market or remain dominated by vertically integrated robot manufacturers?** Nvidia, Physical Intelligence, and [[Tooling/Hardware/Robotics/Skild AI]] are pursuing reusable infrastructure and model layers, while Tesla, Figure, and Apptronik are pursuing tightly integrated hardware-and-software systems. [^2qznwy] [^f3x34y] [^j79yha] [^7cmsdl] [^8sappm]
 
 - **Can foundation models generalize across embodiments, tasks, and environments without requiring uneconomic amounts of real-world data?** Physical Intelligence and Skild AI are the clearest challengers to single-robot architectures, but the supplied sources do not yet establish durable cross-platform generalization. [^7cmsdl] [^8sappm]
 

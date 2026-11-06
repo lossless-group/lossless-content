@@ -130,7 +130,7 @@ The technical path to AGI remains deeply uncertain, with competing approaches em
 
 
 ## Enterprise AI
-[[projects/Context-Vigilance/UseCases/n8n|n8n]], [[Flowise]], [[Dynamiq AI]], [[Coveo]], [[Glean]], [[Abacus AI]], [[Tribe AI]]
+[[projects/Context-Vigilance/UseCases/n8n|n8n]], [[Flowise]], [[Dynamiq AI]], [[Coveo]], [[Glean]], [[Abacus AI]], [[Tooling/Enterprise Jobs-to-be-Done/Talent-Networks/Tribe AI]]
 [[Upstage AI]]
 
 https://youtu.be/kbG2CWrmKTw?si=IszFpFxy41V-XjbI

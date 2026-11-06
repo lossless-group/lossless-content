@@ -16,4 +16,4 @@ title: firstminute
 slug: firstminute
 at_semantic_version: 0.0.0.1
 ---
-[[Start Ups|Startups]]
+[[Vocabulary/Startups|Startups]]

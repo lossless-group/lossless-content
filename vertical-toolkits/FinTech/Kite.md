@@ -25,7 +25,7 @@ at_semantic_version: 0.0.1.1
 ---
 
 [[Vocabulary/Agentic AI|Agentic AI]]
-[[Agentic E-Commerce]]
+[[concepts/Explainers for AI/Agentic Commerce]]
 
 ## Retrieved sources
 

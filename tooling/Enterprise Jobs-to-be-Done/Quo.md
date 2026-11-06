@@ -23,7 +23,7 @@ aliases:
 [[Vocabulary/Virtual Phone Systems|Virtual Phone Systems]]
 [[concepts/Explainers for AI/AI Call Centers|AI Call Centers]]
 [[concepts/Explainers for AI/Helpdesk AI|Helpdesk AI]]
-[[Contact Center‑as‑a‑Service|Contact Center as a Service]]
+[[concepts/Explainers for Tooling/Contact Center‑as‑a‑Service|Contact Center as a Service]]
 
 
 Previoiusly [[Tooling/Enterprise Jobs-to-be-Done/Quo|OpenPhone]], rebranded

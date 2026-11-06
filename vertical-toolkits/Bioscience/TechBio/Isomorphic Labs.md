@@ -138,7 +138,7 @@ It is not positioned in the retrieved sources as a general-purpose AI tool, a co
 - **[[Enveda Biosciences]]:** Computational and AI-oriented drug-discovery company listed as a competitor. [^tnxmj7]
 - **[[Anew Labs]]:** Private AI-biotechnology competitor identified in market coverage. [^tnxmj7]
 - **[[Tooling/AI-Toolkit/Model Producers/OpenAI|OpenAI]]:** Technology-company alternative entering life-sciences research with a dedicated model, according to reported coverage. [^7peqmx]
-- **Large pharmaceutical R&D organizations:** [[Eli Lilly]] and [[Johnson & Johnson]] are cited as competing organizations with substantial internal drug-discovery capabilities. [^tnxmj7]
+- **Large pharmaceutical R&D organizations:** [[vertical-toolkits/Bioscience/Eli Lilly]] and [[Johnson & Johnson]] are cited as competing organizations with substantial internal drug-discovery capabilities. [^tnxmj7]
 
 ## Competitor Table
 
@@ -148,7 +148,7 @@ It is not positioned in the retrieved sources as a general-purpose AI tool, a co
 | [Enveda Biosciences](https://envedabio.com/) | [[Enveda Biosciences]] Biotechnology company using computational methods in drug discovery.                                            |
 | [Anew Labs](https://www.anewlabs.com/)       | [[Anew Labs]] Private company identified among Isomorphic Labs’ AI-drug-discovery competitors.                                         |
 | [OpenAI](https://openai.com/)                | General AI company reported to have released a model for life-sciences research.                                                       |
-| [Eli Lilly](https://www.lilly.com/)          | [[Eli Lilly]] Pharmaceutical company that is both an announced Isomorphic Labs partner and a large-scale drug-development alternative. |
+| [Eli Lilly](https://www.lilly.com/)          | [[vertical-toolkits/Bioscience/Eli Lilly]] Pharmaceutical company that is both an announced Isomorphic Labs partner and a large-scale drug-development alternative. |
 
 Sources for Table: [^tnxmj7] [^7peqmx]
 

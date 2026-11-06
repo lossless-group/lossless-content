@@ -24,7 +24,7 @@ for_clients:
 ---
 > Surpass closed models when you train and run your models on Fireworks’ frontier inference platform
 
-[[Impulse AI]]
+[[Tooling/AI-Toolkit/Model Producers/Impulse AI]]
 
 
 

@@ -99,7 +99,7 @@ Smartsheet Inc. was founded in **2005** in Bellevue, Washington, and launched th
 
 Investors (alphabetical):
 
-- [[organizations/Blackstone|Blackstone]] [^a2254w]  
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Blackstone|Blackstone]] [^a2254w]  
 - Public market investors (NYSE: SMAR)[^a2254w] [^y9nwav]  
 - [[Vista Equity Partners]] [^a2254w]  
 

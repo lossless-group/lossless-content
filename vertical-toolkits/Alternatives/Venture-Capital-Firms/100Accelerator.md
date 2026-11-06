@@ -14,4 +14,4 @@ slug: 100accelerator
 at_semantic_version: 0.0.0.1
 tags: [CVCs, Venture-Capital-Firms]
 ---
-[[organizations/Unilever Ventures|Unilever Ventures]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Unilever Ventures|Unilever Ventures]]

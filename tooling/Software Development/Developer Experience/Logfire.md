@@ -110,7 +110,7 @@ It is less suited to teams seeking only basic application logging, a standalone 
 - **[[Tooling/Data Utilities/DataDog|DataDog]]:** A broad observability platform that may suit organizations wanting logs, metrics, traces, and application monitoring in one established suite.
 - **[[New Relic]]:** A general-purpose application-observability alternative for teams prioritizing traditional APM capabilities.
 - **[[Tooling/Software Development/Developer Experience/DevOps/Grafana Labs|Grafana Labs]] stack:** A flexible option for teams preferring composable, self-managed dashboards and telemetry backends.
-- **[[Honeycomb]]:** A trace- and event-oriented observability alternative for teams focused on high-cardinality debugging.
+- **[[Tooling/Software Development/Developer Experience/DevOps/Honeycomb]]:** A trace- and event-oriented observability alternative for teams focused on high-cardinality debugging.
 - **Arize Phoenix:** An AI-observability alternative focused on tracing and evaluation of LLM and agent applications.
 
 The available search results did not provide direct, current comparison pages for these alternatives; these descriptions are category-level comparisons rather than claims drawn from Logfire’s own materials.

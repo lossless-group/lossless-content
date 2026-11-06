@@ -61,7 +61,7 @@ It is not publicly established as a consumer brain-training app, clinical cognit
 - **[[Tooling/AI-Toolkit/Model Producers/OpenAI|OpenAI]]** — A major AI research and product organization focused on advanced machine intelligence.
 - **[[Tooling/AI-Toolkit/Model Producers/Anthropic|Anthropic]]** — An AI company emphasizing foundational model research and AI safety.
 - **IBM Research** — A corporate research organization with longstanding work in neuroscience, cognitive computing, and AI.
-- **MIT’s Theoretical Cognitive Neuroscience Lab** — A relevant academic research comparator for computational approaches linking brain science and cognition; the vault context also associates Cognitive Scientific with [[Theoretical Cognitive Neuroscience Lab at Boston University|Theoretical Cognitive Neuroscience Lab at Boston University]].
+- **MIT’s Theoretical Cognitive Neuroscience Lab** — A relevant academic research comparator for computational approaches linking brain science and cognition; the vault context also associates Cognitive Scientific with [[organizations/Theoretical Cognitive Neuroscience Lab at Boston University|Theoretical Cognitive Neuroscience Lab at Boston University]].
 
 ### Competitor Table
 

@@ -18,7 +18,7 @@ cf_last_run: 2026-08-05T08:47:14.126Z
 cf_last_run_model: Perplexity sonar-pro
 ---
 
-[[Human Immunome Project]]
+[[organizations/Human Immunome Project]]
 [[Immunology]]
 [[vertical-toolkits/Alternatives/Venture-Capital-Firms/HUMAIN|HUMAIN]]
 [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Dark Matter Bio|Dark Matter Bio]]

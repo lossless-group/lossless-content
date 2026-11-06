@@ -18,7 +18,7 @@ tags:
   - Diagrams-as-Code
   - Diagramming
 ---
-[[YANG Data Modeling Language]]
+[[projects/Emergent-Innovation/Standards/YANG Data Modeling Language]]
 [[concepts/Visual Software Development|Visual Engineering]]
 [[concepts/Visual Leadership|Visual Leadership]]
 

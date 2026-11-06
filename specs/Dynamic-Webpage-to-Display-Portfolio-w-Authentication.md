@@ -53,7 +53,7 @@ Because it's so important for analysts to browse and find the information they n
 When displaying a portfolio, it's often helpful to have "facts" or "metrics" about any portfolio company.  I want to be able to access a Google Sheet through the Google Workspace API, and point to specific numbers or tables. 
 ## Strategy for Sensitive Data & Content
 
-When displaying a portfolio, it's common to have certain financial information like "share price" or "amount invested" hidden in a layer that is only accessible to potential [[Limited Partners]].  
+When displaying a portfolio, it's common to have certain financial information like "share price" or "amount invested" hidden in a layer that is only accessible to potential [[content-areas/Finance/Private-Markets/Concepts/Limited Partners]].  
 
 I can already imagine there being multiple levels of access requested by the investing partners, so it's best to think about this system smartly.  At base, we should have an accepted passwords list and put sensitive content behind a simple password authentication (note, we should avoid User Accounts unless it's a Google/Microsoft OAuth that just matches a list of authorized users or organization emails)
 
