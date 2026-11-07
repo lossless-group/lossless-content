@@ -1,7 +1,7 @@
 ---
 url: https://www.microsoft.com/en-us/corporate-responsibility/sustainability/climate-innovation-fund
 date_created: 2026-10-10
-date_modified: 2026-11-03
+date_modified: 2026-11-07
 parent_org: "[[organizations/Microsoft|Microsoft]]"
 og_title: "Climate Innovation Fund | Microsoft"
 og_description: "Microsoft is committed to investing $1 billion over four years to the Climate Innovation Fund. Explore our approach and more."
@@ -15,3 +15,6 @@ title: "Climate Innovation Fund"
 slug: climate-innovation-fund
 at_semantic_version: 0.0.0.1
 ---
+[[concepts/Corporate Venture Capital]]
+
+[[concepts/Open Innovation|Open Innovation]]
