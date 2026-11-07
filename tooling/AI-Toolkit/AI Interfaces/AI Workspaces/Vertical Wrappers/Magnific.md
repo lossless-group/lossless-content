@@ -45,7 +45,7 @@ Formerly [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Magn
 
 ## Value Proposition & Features
 
-Magnific is a creative-AI platform for generating and editing images, video, and audio, with workflows aimed at campaigns, product shots, and filmmaking. [^E1] Its image generator combines more than 15 models—including [[Nano Banana]], [[Seedream]], [[Tooling/AI-Toolkit/Models/Flux|Flux]], [[Tooling/AI-Toolkit/Models/GPT-Series Models|GPT]] Image, Ideogram, and Recraft—with text prompts, reference images, and in-page editing. [^134yjj]
+Magnific is a creative-AI platform for generating and editing images, video, and audio, with workflows aimed at campaigns, product shots, and filmmaking. [^E1] Its image generator combines more than 15 models—including [[Tooling/AI-Toolkit/Models/Nano Banana]], [[Seedream]], [[Tooling/AI-Toolkit/Models/Flux|Flux]], [[Tooling/AI-Toolkit/Models/GPT-Series Models|GPT]] Image, Ideogram, and Recraft—with text prompts, reference images, and in-page editing. [^134yjj]
 
 - **Multi-model image generation:** Access multiple leading image models in one interface. [^134yjj]
 - **Text-to-image and image-to-image:** Generate from prompts, references, or both. [^134yjj]

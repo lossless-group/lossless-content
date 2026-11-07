@@ -19,7 +19,7 @@ cf_last_run_model: Perplexity sonar-pro
 ---
 
 [[organizations/Human Immunome Project]]
-[[Immunology]]
+[[vertical-toolkits/Bioscience/Immunology]]
 [[vertical-toolkits/Alternatives/Venture-Capital-Firms/HUMAIN|HUMAIN]]
 [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Dark Matter Bio|Dark Matter Bio]]
 

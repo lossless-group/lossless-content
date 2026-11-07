@@ -16,7 +16,7 @@ aliases:
 
 [[Vocabulary/Web3|Web3]]
 
-[[Digital Currencies]]
+[[Vocabulary/Digital Currencies]]
 
 # Defining and Describing Stablecoin
 

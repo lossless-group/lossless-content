@@ -7,7 +7,8 @@ aliases:
   - Image generation
   - Image Generation
   - Text-to-Image
-date_modified: 2026-11-06
+  - image-generation
+date_modified: 2026-11-07
 date_created: 2025-03-30
 tags:
   - AI-Toolkit

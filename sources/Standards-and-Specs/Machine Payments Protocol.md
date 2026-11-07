@@ -33,7 +33,7 @@ aliases:
 Machine Payments Protocol (MPP) is a payment protocol and developer toolkit for charging machine clients for API requests, tool calls, and content through HTTP 402 payment challenges. Its official SDK supports Tempo stablecoin payments, [[organizations/Stripe|Stripe]] Shared Payment Tokens, and EVM-compatible payment methods. [^89izyc] [^8raboq] [^96qmcu]
 
 - **HTTP 402 payment challenges:** Servers return structured payment challenges that clients can satisfy before accessing a protected resource. [^96qmcu] [^esfyh6]
-- **Multiple payment rails:** The SDK can expose ordered EVM charge offers, [[Tempo Payments]] charges, Stripe-backed stablecoin charges, and Stripe Shared Payment Tokens. [^89izyc] [^8raboq] [^96qmcu] [^k0uttk]
+- **Multiple payment rails:** The SDK can expose ordered EVM charge offers, [[vertical-toolkits/FinTech/Tempo Payments]] charges, Stripe-backed stablecoin charges, and Stripe Shared Payment Tokens. [^89izyc] [^8raboq] [^96qmcu] [^k0uttk]
 - **Payment verification and settlement:** Server methods validate credentials, verify payment terms, and—where applicable—settle on-chain transfers. [^ka9a26] [^msp5s5]
 - **Non-mutating validation:** `validateCredential` checks credentials without settling, reserving funds, or broadcasting a payment. [^ka9a26]
 - **Stripe integration:** Eligible settlements can be recorded as Stripe `PaymentIntent` objects, with support for customers, tax calculations, metadata, and receipts. [^89izyc] [^k0uttk]

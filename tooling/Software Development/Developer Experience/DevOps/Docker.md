@@ -37,7 +37,7 @@ https://youtu.be/-8EDhm6mpsQ?is=0hT3CpizW3joZemQ
 
 [[Tooling/Software Development/Developer Experience/DevOps/ContainerD|ContainerD]]
 [[Tooling/Software Development/Cloud Infrastructure/Podman|Podman]]
-[[Rancher]]
+[[Tooling/Software Development/DevOps/Rancher]]
 
 
 ##### Docker focuses on [[concepts/Getting Started|Getting Started]]

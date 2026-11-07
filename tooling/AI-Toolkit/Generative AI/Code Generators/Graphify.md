@@ -97,7 +97,7 @@ It is not ideal for non‑technical users needing a simple note‑taking app, or
 ## Viable Alternatives
 
 - **Sourcegraph [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Cody|Cody]]** – AI coding assistant with repository‑wide code intelligence and embeddings‑based search; alternative if teams want a hosted, integrated solution rather than a separate graph engine. [^93gnq8]  
-- **[[CodeGraph]] – Other open‑source tools that index codebases into graphs for navigation, typically with different query models and less focus on MCP/assistant integration; specific OSS alternatives are referenced conceptually in knowledge‑graph‑for‑code discussions. [^po2oez] [^93gnq8]  
+- **[[Tooling/Software Development/DevOps/CodeGraph]] – Other open‑source tools that index codebases into graphs for navigation, typically with different query models and less focus on MCP/assistant integration; specific OSS alternatives are referenced conceptually in knowledge‑graph‑for‑code discussions. [^po2oez] [^93gnq8]  
 - **[[Tooling/Software Development/Databases/Neo4j|Neo4j]] – General‑purpose graph database where teams build their own ingestion pipelines to represent code and docs as nodes and edges, suitable for organizations that need full control and are willing to engineer their own assistant integration. [^po2oez]  
 - **[[Tooling/AI-Toolkit/AI Programming Frameworks/LangChain|LangChain]] / [[Tooling/AI-Toolkit/LlamaIndex|LlamaIndex]]‑style retrieval frameworks]** – Frameworks that build vector indices and graph‑like structures over documents for LLM querying; they provide alternative approaches to structuring project knowledge without Graphify’s specific CLI and MCP integration. [^po2oez]  
 

@@ -85,7 +85,7 @@ flowchart TD
 
 # Case Studies
 
-## [[Cellular Rejuvenation]] Trial as a Flagship Longevity-Tech Milestone
+## [[vertical-toolkits/Bioscience/Cellular Rejuvenation]] Trial as a Flagship Longevity-Tech Milestone
 
 An illustrative case in longevity tech is the FDA’s clearance of what Business Insider describes as “the first cellular rejuvenation trial,” led by AVAIL Bio (trading as AVAI), a “clinical-stage biotechnology company developing cell-based therapies.”[^84npq4] This trial moves beyond treating a single age-related disease and instead targets underlying cellular aging processes, embodying the shift from symptomatic geriatric care to mechanistic intervention in aging biology. [^84npq4] [^izy4jm] The case shows how a startup-driven therapeutic platform can anchor a new regulatory and investment narrative: analysts now describe longevity as “a $120 billion market” and refer to this clearance as evidence that the “longevity trade is no longer a buzzword,” highlighting how concrete clinical programs help legitimize longevity tech. [^84npq4]
 

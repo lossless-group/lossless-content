@@ -21,7 +21,7 @@ aliases:
   - Codebase Intelligence
 ---
 [[concepts/Explainers for AI/Code Generators|Code Generators]]
-[[CodeGraph]]
+[[Tooling/Software Development/DevOps/CodeGraph]]
 [[concepts/Repository Management|Repository Management]]
 [[Tooling/AI-Toolkit/Generative AI/Code Generators/CodeRabbit|CodeRabbit]]
 [[Tooling/Software Development/Developer Experience/JetBrains|JetBrains]]

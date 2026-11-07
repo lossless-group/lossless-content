@@ -106,7 +106,7 @@ Kerberos itself *is* the specification; the "catalog" consists of the protocol's
 
 - **[[Vocabulary/Single Sign-On|Single Sign-On]]** — Kerberos' TGT architecture is the canonical design pattern for SSO; modern implementations (OIDC, SAML, OAuth) are conceptual descendants.
 
-- **[[OAuth 2.0]]** — Modern token-based delegation protocol that solves the problem Kerberos solved for internal networks, but for third-party integrations and public APIs.
+- **[[Sources/Standards-and-Specs/OAuth 2.0]]** — Modern token-based delegation protocol that solves the problem Kerberos solved for internal networks, but for third-party integrations and public APIs.
 
 - **[[Public Key Infrastructure / PKI]]** — Kerberos uses symmetric cryptography; PKI uses asymmetric cryptography. Understanding both reveals the tradeoff between computational cost and key distribution burden.
 

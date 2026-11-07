@@ -49,7 +49,7 @@ The available source presents this book through its major arguments rather than 
 
 - It diagnoses a common innovation failure: treating more information as a substitute for better judgment. The book argues that information becomes useful only after it is summarized, paraphrased, reconstructed, and connected to other knowledge. [^gkyb2c] [^lt0n1q]
 - It offers a mental model for [[concepts/Independent Thinking]]: the “airplane” thinker generates momentum internally instead of waiting for instructions or market signals. [^gkyb2c]
-- Its emphasis on incubation supports [[concepts/Creative Friction]] and [[Deliberate Practice]] by treating pauses, sleep, and distance from a problem as part of the thinking process rather than wasted time. [^gkyb2c] [^lt0n1q]
+- Its emphasis on incubation supports [[concepts/Creative Friction]] and [[client-content/AI-Camp/Deliberate Practice]] by treating pauses, sleep, and distance from a problem as part of the thinking process rather than wasted time. [^gkyb2c] [^lt0n1q]
 - Its card-and-notebook practices provide a low-tech foundation for [[concepts/Explainers for Tooling/Personal Knowledge Management|Personal Knowledge Management]] and [[concepts/Second Brain]] systems. [^lt0n1q]
 - For innovation teams, the book distinguishes **input**, **processing**, and **synthesis**—a useful way to diagnose whether a team is learning, merely collecting research, or generating genuinely new frames. [^gkyb2c] [^lt0n1q]
 
@@ -66,7 +66,7 @@ The available source presents this book through its major arguments rather than 
 - [[concepts/Independent Thinking]]
 - [[concepts/Knowledge Management]]
 - [[concepts/Second Brain]]
-- [[Deliberate Practice]]
+- [[client-content/AI-Camp/Deliberate Practice]]
 - [[concepts/Creative Incubation]]
 - [[The Effective Executive]]
 

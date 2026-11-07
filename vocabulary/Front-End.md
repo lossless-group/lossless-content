@@ -87,7 +87,7 @@ For innovation work, **front‑end** applies whenever you are talking about the 
   - [[Backend for Frontend (BFF)]] – Pattern where a dedicated back‑end service is tailored to the needs of a specific front‑end. [^hd1xqv]
   - [[Vocabulary/Single-Page Applications|SPA]] – Front‑end architecture where most logic runs in the browser and navigation happens client‑side. [^el085j]
   - [[Vocabulary/API Gateways|API Gateway]] – Edge service that often acts as the network “front‑end” of back‑end APIs. [^f247fh]
-  - [[OAuth 2.0]] – Standard used by browser‑based front‑ends to obtain access tokens securely. [^el085j]
+  - [[Sources/Standards-and-Specs/OAuth 2.0]] – Standard used by browser‑based front‑ends to obtain access tokens securely. [^el085j]
   - [[Customer data platform (CDP)]] – Back‑end system whose profiles and events are surfaced through front‑ends for personalized experiences. [^r1ym06]
   - [[Vocabulary/User Experience|User Experience]] – Broader discipline encompassing front‑end design, flows, and perceived performance. [^1mvja1]
 

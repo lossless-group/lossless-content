@@ -35,7 +35,7 @@ for_clients:
 
 [[AI-Powered Data Analysis]]
 
-[[Data Agents]]
+[[concepts/Explainers for AI/Data Agents]]
 
 [[Vocabulary/Data Analysis|Data Analysis]]
 

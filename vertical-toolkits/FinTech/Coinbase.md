@@ -162,7 +162,7 @@ As of 2026-05-23,
 
 ## Adjacent Entries
 
-- [[organizations/Bitcoin]] — Underlying asset and network that Coinbase initially built around.
+- [[Bitcoin]] — Underlying asset and network that Coinbase initially built around.
 - [[concepts/Cryptocurrency Exchanges]] — Category Coinbase exemplifies and helped define in the U.S. market.
 - [[concepts/Crypto Custody]] — Coinbase’s institutional custody services for ETFs and large asset holders.
 - [[concepts/Layer-2 Blockchains]] — Conceptual bucket for Base (L2) and similar scalability solutions.

@@ -41,7 +41,7 @@ Platoon was founded in **2024** and is headquartered in **Mountain View, Califor
 [[Vocabulary/Market Research|Market Research]]
 [[concepts/Customer Development|Customer Development]]
 [[Expert-Interview Automation]]
-[[Expert Networks]]
+[[concepts/Explainers for Tooling/Expert Networks]]
 
 ## Value Proposition & Features
 

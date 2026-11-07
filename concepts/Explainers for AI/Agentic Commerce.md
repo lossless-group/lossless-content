@@ -58,7 +58,7 @@ The available sources describe agentic commerce as an emerging industry term rat
 # Best Real-World Examples
 
 - [Klarna Shopping Search](https://www.klarna.com/) — [[Klarna]] — an AI shopping-search experience inside ChatGPT that surfaces real-time prices and merchant listings across a large product catalog. [^fd3nsk]
-- [Rye](https://www.rye.com/) — [[Rye]] — a startup example of infrastructure designed to enable universal checkout across fragmented merchants and storefronts. [^xggwo8]
+- [Rye](https://www.rye.com/) — [[Tooling/AI-Toolkit/Agentic AI/Rye]] — a startup example of infrastructure designed to enable universal checkout across fragmented merchants and storefronts. [^xggwo8]
 - [Skyfire](https://www.skyfire.xyz/) — an agent-native identity and payments company building primitives for AI agents that need to transact. [^xggwo8]
 - [Nekuda](https://www.nekuda.ai/) — a startup focused on identity and payment infrastructure for agentic commerce. [^xggwo8]
 - [Catena Labs](https://www.catenalabs.com/) — an emerging infrastructure provider working on foundational components for autonomous transactions. [^xggwo8]

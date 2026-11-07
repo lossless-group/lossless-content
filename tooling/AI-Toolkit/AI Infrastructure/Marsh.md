@@ -17,6 +17,6 @@ https://www.marsh.com/en/industries/technology/expertise/data-center-hub.html
 [[concepts/Market-Categories/Risk Management for Datacenters|Risk Management for Datacenters]]
 
 
-[[Risk Management]]
+[[Vocabulary/Risk Management]]
 
 

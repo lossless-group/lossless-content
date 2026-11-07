@@ -19,7 +19,7 @@ Siemens Cre8Ventures (by Siemens EDA) is a collaborative venture initiative that
 * Cloud-Based Labs & EDA Tools: Provides access to [[organizations/Siemens|Siemens]] Electronic Design Automation (EDA) tool flows and multi-physics [[concepts/Market-Categories/Digital Twins|Digital Twins]] technology. [^492ktg] [^1stf66] 
 * Cost Reduction: Helps simulate and validate power and performance digitally, avoiding $20M–$30M in physical first-silicon manufacturing costs. [^492ktg] 
 * Proof Stages: Assists with proof-of-technology, proof-of-concept, and proof-of-value designs. [^492ktg] 
-* Funding & Support: Connects innovators with non-dilutive [[Chips Act]] funding, Siemens Financial Services, venture capital, and corporate/customer introductions. [^492ktg] [^2i6ik4] 
+* Funding & Support: Connects innovators with non-dilutive [[Sources/Regulations/Chips Act]] funding, Siemens Financial Services, venture capital, and corporate/customer introductions. [^492ktg] [^2i6ik4] 
 
 ## Ecosystem & Programs
 fe

@@ -46,7 +46,7 @@ sand and a living colony of organisms that
 
 [01:05] nature grows for free, with no power, no 
 chemicals, and no filter to ever replace. Alright, let's get into it.
-Number 7: [[Fog Harvesting]] First up at number 7 we have 
+Number 7: [[content-areas/Blue-Economy/Topics/Fog Harvesting]] First up at number 7 we have 
 the Cloudfisher Fog harvester.
 
 [01:21] Picture a ridge on the coast of northern Chile, 

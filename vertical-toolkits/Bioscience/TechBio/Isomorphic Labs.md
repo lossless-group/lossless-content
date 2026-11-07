@@ -72,7 +72,7 @@ Priority features:
 
 As of October 8, 2026,
 
-- **October 7, 2026:** Isomorphic Labs joined the [[Virtual Biology Initiative]], a Biohub-convened effort involving funding, data, computation, and biological-measurement technologies to generate AI-ready biological data. [^4e5jcd]
+- **October 7, 2026:** Isomorphic Labs joined the [[vertical-toolkits/Bioscience/TechBio/Virtual Biology Initiative]], a Biohub-convened effort involving funding, data, computation, and biological-measurement technologies to generate AI-ready biological data. [^4e5jcd]
 - **September 29, 2026:** The company published an account of its integrated approach to medicine development, spanning AI-model development, data generation, biological discovery, and clinical translation. [^c1h9v5]
 - **February 2026:** Isomorphic published technical claims about IsoDDE’s performance in protein–ligand and antibody–antigen structure prediction and binding-affinity estimation. [^89hsw4][^8qc5zn]
 - **End of 2026:** The company is reported to be targeting initiation of its first clinical trials by the end of 2026. [^tnxmj7]
@@ -136,7 +136,7 @@ It is not positioned in the retrieved sources as a general-purpose AI tool, a co
 
 - **[[Insitro]]:** AI-native drug-discovery and development company cited among Isomorphic Labs’ private competitors. [^tnxmj7]
 - **[[Enveda Biosciences]]:** Computational and AI-oriented drug-discovery company listed as a competitor. [^tnxmj7]
-- **[[Anew Labs]]:** Private AI-biotechnology competitor identified in market coverage. [^tnxmj7]
+- **[[vertical-toolkits/Bioscience/TechBio/Anew Labs]]:** Private AI-biotechnology competitor identified in market coverage. [^tnxmj7]
 - **[[Tooling/AI-Toolkit/Model Producers/OpenAI|OpenAI]]:** Technology-company alternative entering life-sciences research with a dedicated model, according to reported coverage. [^7peqmx]
 - **Large pharmaceutical R&D organizations:** [[vertical-toolkits/Bioscience/Eli Lilly]] and [[Johnson & Johnson]] are cited as competing organizations with substantial internal drug-discovery capabilities. [^tnxmj7]
 
@@ -146,7 +146,7 @@ It is not positioned in the retrieved sources as a general-purpose AI tool, a co
 | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | [Insitro](https://insitro.com/)              | AI-native drug-discovery and development company cited as a private competitor.                                                        |
 | [Enveda Biosciences](https://envedabio.com/) | [[Enveda Biosciences]] Biotechnology company using computational methods in drug discovery.                                            |
-| [Anew Labs](https://www.anewlabs.com/)       | [[Anew Labs]] Private company identified among Isomorphic Labs’ AI-drug-discovery competitors.                                         |
+| [Anew Labs](https://www.anewlabs.com/)       | [[vertical-toolkits/Bioscience/TechBio/Anew Labs]] Private company identified among Isomorphic Labs’ AI-drug-discovery competitors.                                         |
 | [OpenAI](https://openai.com/)                | General AI company reported to have released a model for life-sciences research.                                                       |
 | [Eli Lilly](https://www.lilly.com/)          | [[vertical-toolkits/Bioscience/Eli Lilly]] Pharmaceutical company that is both an announced Isomorphic Labs partner and a large-scale drug-development alternative. |
 

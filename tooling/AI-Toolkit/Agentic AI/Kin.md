@@ -25,7 +25,7 @@ cf_last_run_retrieval: 2026-10-30T02:43:58.529Z
 
 [[Personal Productivity AI]]
 
-[[Town]]
+[[Tooling/AI-Toolkit/Agentic AI/Town]]
 [[Parslee AI]]
 
 ## Retrieved sources
