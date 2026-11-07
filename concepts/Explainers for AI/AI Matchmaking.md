@@ -1,6 +1,6 @@
 ---
 date_created: 2026-05-13
-date_modified: 2026-05-18
+date_modified: 2026-11-07
 tags:
   - AI-Powered-Prospecting
   - AI-Powered-Networking
@@ -21,6 +21,7 @@ augmented_with: Perplexity AI using Deep Research
 
 [[Tooling/AI-Toolkit/Agentic AI/Boardy|Boardy]]
 
+[[content-areas/Finance/Private-Markets/Qubit Capital]]
 
 
 ***

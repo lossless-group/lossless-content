@@ -15,6 +15,6 @@ title: "Climate Innovation Fund"
 slug: climate-innovation-fund
 at_semantic_version: 0.0.0.1
 ---
-[[concepts/Corporate Venture Capital]]
+[[Vocabulary/Corporate Venture Capital|Corporate Venture Capital]]
 
 [[concepts/Open Innovation|Open Innovation]]

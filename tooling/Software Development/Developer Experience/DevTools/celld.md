@@ -19,4 +19,4 @@ tags:
 self-hosted, distributed Durable Objects
 
 [[Tooling/Software Development/Cloud Infrastructure/Cloudflare|Cloudflare]]
-[[Link Freedom Group]]
+[[organizations/Link Freedom Group]]

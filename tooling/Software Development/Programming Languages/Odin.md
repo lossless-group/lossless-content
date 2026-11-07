@@ -71,7 +71,7 @@ It is not for teams that need a mainstream, highly standardized ecosystem with b
 
 ## Viable Alternatives
 
-- **[[C]]** — closest reference point for low-level control and manual memory management. [^zkrz54] [^iwpy7p]
+- **[[Tooling/Software Development/Programming Languages/C]]** — closest reference point for low-level control and manual memory management. [^zkrz54] [^iwpy7p]
 - **[[Tooling/Software Development/Programming Languages/C++|C++]]** — alternative for performance-critical systems work with a much larger ecosystem. [^zkrz54] [^iwpy7p]
 - **[[Tooling/Software Development/Programming Languages/Rust|Rust]]** — alternative for systems programming when memory safety is a priority rather than C-like simplicity. [^zkrz54]
 - **[[Tooling/Software Development/Programming Languages/Zig|Zig]]** — alternative in the modern systems-language space with similar low-level goals. [^3adewq] [^iwpy7p]

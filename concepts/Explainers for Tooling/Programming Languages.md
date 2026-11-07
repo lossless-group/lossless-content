@@ -13,14 +13,14 @@ The market-standard, never going anywhere languages are [[Tooling/Software Devel
 - [[Tooling/Software Development/Programming Languages/Mojo Language|Mojo]]
 - [[Tooling/Software Development/Programming Languages/Rust|Rust]]
 - [[Tooling/Software Development/Programming Languages/Julia|Julia]]
-- [[C]]
+- [[Tooling/Software Development/Programming Languages/C]]
 - [[Tooling/Software Development/Programming Languages/Elixir|Elixir]]
 - [[Tooling/Software Development/Programming Languages/Erlang|Erlang]]
 :::
 
 Data Science and Data Analytics are starting to gravitate towards [[Tooling/Software Development/Programming Languages/Julia|Julia]] 
 
-[[Vocabulary/Embedded Systems|Embedded Systems]] are migrating from [[C]] to [[Tooling/Software Development/Programming Languages/Rust|Rust]]
+[[Vocabulary/Embedded Systems|Embedded Systems]] are migrating from [[Tooling/Software Development/Programming Languages/C]] to [[Tooling/Software Development/Programming Languages/Rust|Rust]]
 
 https://youtu.be/ZTPrbAKmcdo?si=Zk8Zv8S4hqRMVS2p
 

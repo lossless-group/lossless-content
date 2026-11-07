@@ -1,6 +1,6 @@
 ---
 date_created: 2026-06-02
-date_modified: 2026-06-17
+date_modified: 2026-11-07
 aliases:
   - ADD
   - ADHD
@@ -17,6 +17,7 @@ tags:
 
 [[Vocabulary/Cognitive Diversity|Cognitive Diversity]]
 [[concepts/Cognitive, Collaborative Tooling|Cognitive, Collaborative Tooling]]
+[[Vocabulary/Executive Function]]
 
 
 https://youtu.be/wpPNBdR5-ng?si=lSKdypuKJ4ki4JxW
@@ -31,7 +32,7 @@ https://youtu.be/BoZ7Upww2vs?is=5Z8HK93Q8JbK2ro6
 
 In clinical terms, Attention Deficit Disorder (ADD) is an older label now largely folded into **Attention‑Deficit/Hyperactivity Disorder, predominantly inattentive presentation (ADHD‑I)**. [^ifa3uq] [^u3xafa] It applies when persistent patterns of inattention (difficulty sustaining focus, disorganization, forgetfulness, losing things, not following through) begin in childhood, are present in more than one setting (e.g., home and school/work), and cause significant impairment. [^ifa3uq] [^1jz1mk] [^eb2247] [^wof5vo] 
 
-It does **not** apply to ordinary busyness, boredom with a task, or a founder simply having “too many ideas” unless these symptoms meet diagnostic thresholds and history criteria. [^ifa3uq] [^1jz1mk] [^eb2247] Innovation consultants care because inattentive ADHD can dramatically influence **founder decision‑making, prioritization [[Vocabulary/Decision Science|Decision Science]], execution reliability [[Executive Function]], team dynamics, and the design of processes and tools** that either compensate for or exacerbate these traits. [^insn4y] [^lze3ta]  
+It does **not** apply to ordinary busyness, boredom with a task, or a founder simply having “too many ideas” unless these symptoms meet diagnostic thresholds and history criteria. [^ifa3uq] [^1jz1mk] [^eb2247] Innovation consultants care because inattentive ADHD can dramatically influence **founder decision‑making, prioritization [[Vocabulary/Decision Science|Decision Science]], execution reliability [[Vocabulary/Executive Function]], team dynamics, and the design of processes and tools** that either compensate for or exacerbate these traits. [^insn4y] [^lze3ta]  
 
 # Disambiguation
 
@@ -77,7 +78,7 @@ Historically, **Attention Deficit Disorder** was a formal diagnosis used in earl
   - **Executive functioning strength** – Strong skills in planning, organization, working memory, and impulse control; these domains are commonly impaired in ADHD. [^ifa3uq] [^1jz1mk] [^lze3ta]  
 
 - **Adjacent terms**
-  - [[Executive function]]
+  - [[Vocabulary/Executive Function]]
   - [[Vocabulary/Cognitive Load]]
   - [[Founder‑market fit]]
   - [[concepts/Burnout]]

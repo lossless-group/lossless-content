@@ -53,7 +53,7 @@ It is less clearly aimed at buyers who need only a simple relational database, a
 - **Azure [[Tooling/Software Development/Databases/CosmosDB]] API for MongoDB** — an alternative for teams standardizing on Microsoft Azure. [^dd613v]
 - **[[FerretDB]]** — an open-source MongoDB-compatible option. [^dd613v]
 - **[[Tooling/Software Development/Databases/Postgres|PostgreSQL]] + document tooling** — a common relational alternative when teams want SQL-first systems. [^dd613v]
-- **[[Tinybird]]** — a complementary or alternative analytics layer when MongoDB is not the right fit for real-time analytics. [^dd613v]
+- **[[Tooling/Data Utilities/Tinybird]]** — a complementary or alternative analytics layer when MongoDB is not the right fit for real-time analytics. [^dd613v]
 
 ## Competitor Table
 | Competitor | Description |

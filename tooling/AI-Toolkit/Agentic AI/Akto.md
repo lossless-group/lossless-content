@@ -70,7 +70,7 @@ Key feature descriptions (2–3 sentences each, then bullets):
 - **AI agent security testing for “top 10 MCP security risks”**[^iwj2zk]  
 - **Red teaming for agentic AI to probe misalignment and unsafe actions**[^iwj2zk]  
 - **Agentic posture management (permissions, connections, environments)**[^iwj2zk]  
-- **[[AI Guardrails]] to restrict unsafe actions and enforce policies on agents/tools**[^iwj2zk]  
+- **[[concepts/Explainers for AI/AI Guardrails]] to restrict unsafe actions and enforce policies on agents/tools**[^iwj2zk]  
 - **Agentic AI governance and compliance reporting capabilities**[^iwj2zk] [^q128j0]  
 - **API‑security‑oriented visibility into how agents use backend tools/APIs**[^iwj2zk]
 

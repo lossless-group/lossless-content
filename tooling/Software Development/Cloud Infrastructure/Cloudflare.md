@@ -116,7 +116,7 @@ No reliable source found in the supplied results for a complete investor-by-inve
 
 ### Category, Market Size, and Category Growth
 
-Cloudflare operates across edge networking, content delivery, cybersecurity, [[Vocabulary/Zero Trust Architecture|Zero Trust Architecture]], [[Vocabulary/Serverless|Serverless]] developer platforms, and cloud [[Data Infrastructure]]. [^E1] The supplied results report company revenue growth but do not provide a reliable third-party estimate of the total addressable market or category growth rate.
+Cloudflare operates across edge networking, content delivery, cybersecurity, [[Vocabulary/Zero Trust Architecture|Zero Trust Architecture]], [[Vocabulary/Serverless|Serverless]] developer platforms, and cloud [[concepts/Explainers for Tooling/Data Infrastructure]]. [^E1] The supplied results report company revenue growth but do not provide a reliable third-party estimate of the total addressable market or category growth rate.
 
 ## Pricing
 

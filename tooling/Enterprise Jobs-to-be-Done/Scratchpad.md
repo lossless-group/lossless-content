@@ -132,7 +132,7 @@ Scratchpad is **not ideal for organizations that do not use Salesforce as their 
 | [HubSpot Sales Hub] | CRM and sales hub offering pipeline, email, automation, and forecasting in one platform, often used as a Salesforce alternative for SMBs. [^ckv32y]                                                            |
 | [monday CRM]        | Work‑management‑style CRM with customizable boards for deals, tasks, and pipelines, serving as an all‑in‑one sales workspace rather than a Salesforce add‑on. [^ckv32y]                                        |
 | [Zoho CRM]          | Cloud CRM with sales automation, pipeline management, and reporting, positioned as a value‑priced alternative to Salesforce. [^ckv32y]                                                                         |
-| [[Showpad]]         | Sales enablement platform focused on empowering sellers with content, training, and deal‑support tools, overlapping with Scratchpad in seller workflows but less focused on Salesforce data entry. [^h42rl7]   |
+| [[Tooling/Enterprise Jobs-to-be-Done/Showpad]]         | Sales enablement platform focused on empowering sellers with content, training, and deal‑support tools, overlapping with Scratchpad in seller workflows but less focused on Salesforce data entry. [^h42rl7]   |
 | [[Aligned Up]]         | AI B2B sales workspace that raised $60M Series B in 2026, offering collaborative buyer rooms and deal workflows that compete with sales workspaces like Scratchpad for complex B2B cycles. [^jqqnf9] [^rp7pfn] |
 |                     |                                                                                                                                                                                                                |
 

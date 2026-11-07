@@ -107,7 +107,7 @@ It is less suitable for teams that require complete developer control over rende
 
 - **[[organizations/WordPress|WordPress]]:** Broader publishing ecosystem and extensibility, but typically requires more responsibility for hosting, themes, plugins, and maintenance.
 - **[[Framer]]:** Strong alternative for visually designed marketing sites and interactive prototypes, with less emphasis on Webflow’s broader [[concepts/Explainers for Tooling/Content Management Systems|CMS]], hosting, and agency platform scope.
-- **[[Wix]]:** More accessible all-in-one site-building workflow for small businesses, but generally less oriented toward advanced visual layout control and professional production workflows.
+- **[[Tooling/Enterprise Jobs-to-be-Done/Wix]]:** More accessible all-in-one site-building workflow for small businesses, but generally less oriented toward advanced visual layout control and professional production workflows.
 - **[[Squarespace]]:** Hosted website creation with polished templates and integrated business features, but less granular visual-development control.
 - **[[organizations/Shopify]]:** Stronger fit for commerce-first businesses, whereas Webflow centers on visual web experiences and CMS-driven sites.
 

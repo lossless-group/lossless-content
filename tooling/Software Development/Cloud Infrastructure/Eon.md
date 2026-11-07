@@ -48,7 +48,7 @@ Core product messaging centers on **cloud data protection automation** and **zer
 # Market Sizing
 
 ## Category, Market Size, and Category Growth
-Eon appears to sit in the **cloud data protection**, **backup/recovery**, and **[[Data Infrastructure]] / zero-ETL access** categories based on its own product description. [^sh83bt] [^1q9a80] The search results provided no credible analyst-market-size estimate specific to this category for Eon, so no reliable source was found for market sizing. [^sh83bt] [^1q9a80]
+Eon appears to sit in the **cloud data protection**, **backup/recovery**, and **[[concepts/Explainers for Tooling/Data Infrastructure]] / zero-ETL access** categories based on its own product description. [^sh83bt] [^1q9a80] The search results provided no credible analyst-market-size estimate specific to this category for Eon, so no reliable source was found for market sizing. [^sh83bt] [^1q9a80]
 
 ## Pricing
 No public pricing was found in the search results. [^sh83bt] [^1q9a80]

@@ -40,7 +40,7 @@ Zeck appears to sit in the **board-management / board-collaboration / founder-co
 Zeck appears to be for **founders, executives, and finance/ops teams** that regularly prepare board updates and run board meetings.[^2eve8n] It is likely *not* for consumers or teams that do not produce formal board materials, because its value proposition is explicitly centered on board and investor communication.[^2eve8n]
 
 ## Viable Alternatives
-- **[[Lattice]]** — broader people/management platform that can overlap with leadership communication, but it is not primarily a board-update tool.
+- **[[Tooling/Enterprise Jobs-to-be-Done/Lattice]]** — broader people/management platform that can overlap with leadership communication, but it is not primarily a board-update tool.
 - **[[content-areas/Finance/Private-Markets/Carta|Carta]]** — commonly used by startups and boards for governance and equity workflows, with some overlap in board-related administration.
 - **[[Tooling/Enterprise Jobs-to-be-Done/Boardable]]** — board portal software oriented around preparing and managing board meetings.
 - **Diligent Boards** — enterprise board management platform for secure board materials and meeting workflows.
