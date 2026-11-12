@@ -212,7 +212,7 @@ These figures are not directly interchangeable. The broader construction reports
 - **[[Hyperscale Cloud Infrastructure]]** — the customer and deployment context that sets the largest capacity, redundancy, and geographic requirements.
 - **Data Center Construction** — the broader market category that includes conventional construction, equipment, and facility-development spending.
 - **Design-Build-Operate** — the adjacent delivery model extending accountability beyond commissioning into facility management and operations.
-- **[[Modular Data Centers]]** — prefabricated and repeatable facility architectures intended to compress deployment timelines.
+- **[[content-areas/AI-Factories-Datacenters/Concepts/Modular Data Centers]]** — prefabricated and repeatable facility architectures intended to compress deployment timelines.
 - **[[content-areas/AI-Factories-Datacenters/Concepts/Liquid Cooling Systems|Liquid Cooling]]** — the [[content-areas/AI-Factories-Datacenters/Concepts/Thermal Management|Thermal-Management]] vocabulary increasingly central to AI-rack design.
 - **[[concepts/Market-Categories/Digital Twins]] and BIM** — the design and coordination systems used to model complex facilities before construction.
 - **Data Center Financing Structures** — project finance, joint ventures, infrastructure funds, and debt instruments used to fund AI-campus expansion.

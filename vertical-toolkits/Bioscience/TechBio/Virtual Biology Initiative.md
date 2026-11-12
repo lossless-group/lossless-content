@@ -92,7 +92,7 @@ As of 2026-11-07,
 ## Impact
 
 - **Impact on society:** No independent assessment of societal outcomes, patient reach, or disease-related benefits is available in the source provided.
-- **Impact on innovation:** The initiative could establish an open data infrastructure layer for [[AI for Biology]] and predictive cellular modeling, but no independently verified scientific breakthrough or released dataset is documented in the available result. [^75snfm]
+- **Impact on innovation:** The initiative could establish an open data infrastructure layer for [[concepts/Market-Categories/AI for Biology]] and predictive cellular modeling, but no independently verified scientific breakthrough or released dataset is documented in the available result. [^75snfm]
 - **Impact on its industry or domain:** Its distinctive proposed contribution is coordinating major technology, biomedical, philanthropic, and government participants around open biological-data generation at a scale individual laboratories generally cannot provide. [^75snfm]
 - **Historical significance:** The initiative is too new for its historical significance to be established; its stated trajectory is toward making large-scale, open multimodal cellular data a shared foundation for biology and medicine. [^75snfm]
 - **Criticisms and controversies:** No substantive independent criticism or controversy is documented in the available source.

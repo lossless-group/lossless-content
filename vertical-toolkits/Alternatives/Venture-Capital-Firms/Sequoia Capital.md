@@ -7,7 +7,7 @@ og_favicon: "https://framerusercontent.com/images/ItZ3Og0z4GahXe5uWHqwk69EPRw.pn
 og_type: website
 og_last_fetch: "2026-10-10T03:49:52.284Z"
 date_created: 2026-06-03
-date_modified: 2026-10-10
+date_modified: 2026-11-07
 tags: [Venture-Capital-Firms]
 site_uuid: 12c04d5d-b4a9-45bd-9ea7-64dc58a29b77
 publish: true
@@ -15,3 +15,4 @@ title: "Sequoia Capital"
 slug: sequoia-capital
 at_semantic_version: 0.0.0.1
 ---
+[^ua441p]: 2026, Nov 04. "[Sequoia Capital Shuts London Office, Cuts Staff in European Exit | Bloomberg.com](https://www.bloomberg.com/news/articles/2026-11-04/sequoia-capital-plans-to-close-london-office-cut-some-staff?srnd=phx-india)". [Jennifer Creery](https://www.bloomberg.com/authors/AWE3qNMLx8Q/jennifer-creery). [Bloomberg.com](https://www.bloomberg.com).

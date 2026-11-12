@@ -78,7 +78,7 @@ It is not a strong fit for organizations without camera coverage, environments r
 
 - **[[Intenseye]]:** Industrial computer-vision safety monitoring platform and a direct alternative for workplace-risk detection. [^2rztuu] [^47hqdk]
 - **[[vertical-toolkits/IndustrialTech/Spot AI]]:** Camera-based industrial video-intelligence alternative referenced in Voxel’s comparison material. [^2rztuu]
-- **[[Verkada]]:** Video-security and analytics platform that can overlap with camera-based workplace monitoring. [^47hqdk]
+- **[[Tooling/Hardware/Verkada]]:** Video-security and analytics platform that can overlap with camera-based workplace monitoring. [^47hqdk]
 - **[[vertical-toolkits/IndustrialTech/Matroid]]:** Computer-vision platform that can serve organizations building customized visual detection workflows. [^4b1flw]
 - **[[vertical-toolkits/IndustrialTech/Almetra]]:** Alternative positioned around industrial safety and operational intelligence. [^jza460]
 

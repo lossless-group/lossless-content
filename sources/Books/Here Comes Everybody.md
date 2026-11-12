@@ -8,7 +8,7 @@ publish: true
 title: Here Comes Everybody
 slug: here-comes-everybody
 at_semantic_version: 0.0.1.1
-author: "[[Clay Shirky]]"
+author: "[[Sources/People/Influencers/Clay Shirky]]"
 cf_last_run: 2026-11-07T07:41:31.472Z
 cf_last_run_model: Perplexity sonar-pro
 tags:
@@ -67,7 +67,7 @@ The book’s major arguments include:
 
 ## Adjacent Sources
 
-- [[Clay Shirky]]
+- [[Sources/People/Influencers/Clay Shirky]]
 - [[Cognitive Surplus]]
 - [[Here Comes Everybody and Network Effects]]
 - [[The Wealth of Networks]]

@@ -42,7 +42,7 @@ BIOTRONIK was founded in 1963 and is headquartered at Woermannkehre 1 in Berlin,
 
 ## Category, Market Size, and Category Growth
 
-BIOTRONIK operates in [[medical devices]], particularly active implantable cardiac-rhythm-management systems, patient monitoring, neuromodulation, and electrophysiology technologies. [^E1] No reliable market-size or category-growth estimate was available in the retrieved sources.
+BIOTRONIK operates in [[content-areas/Health/Medical Devices]], particularly active implantable cardiac-rhythm-management systems, patient monitoring, neuromodulation, and electrophysiology technologies. [^E1] No reliable market-size or category-growth estimate was available in the retrieved sources.
 
 # Competitive Landscape
 

@@ -209,7 +209,7 @@ Spot AI was founded in 2018 and is led by co-founders Rish Gupta, CEO, and Sud B
 - Modern Capital [^F1]
 - MVP Ventures [^F1]
 - Redpoint Ventures [^F1] [^F2]
-- [[Scale Venture Partners]] [^F1]
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Scale Venture Partners]] [^F1]
 - StepStone Group [^F1]
 
 ## Notable Team Members

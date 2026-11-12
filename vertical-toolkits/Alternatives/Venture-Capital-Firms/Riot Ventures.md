@@ -15,5 +15,5 @@ title: "Riot Ventures"
 slug: riot-ventures
 at_semantic_version: 0.0.0.1
 ---
-[[people/Stephen Marcus]]
+[[Sources/People/Stephen Marcus]]
 

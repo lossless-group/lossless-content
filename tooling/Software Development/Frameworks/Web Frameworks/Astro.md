@@ -33,7 +33,7 @@ cf_last_run_retrieval: 2026-10-13T22:41:46.933Z
 
 A new [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]] that focuses on [[Static Site Generators|Static Site Generation]], but also perfectly implements [[Islands Architecture]]. They created and maintain the [[Tooling/Software Development/Developer Experience/DevOps/Documentation Engines/Starlight|Starlight]] [[Vocabulary/Documentation Engines|Documentation Engine]]
 
-[[people/Fred Schott|Fred Schott]]
+[[Sources/People/Fred Schott|Fred Schott]]
 
 ### [[concepts/Getting Started|Getting Started]] with Astro
 [[Astro]] does a lot to help people with [[concepts/Getting Started|Getting Started]]

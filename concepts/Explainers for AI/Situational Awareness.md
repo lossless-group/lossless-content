@@ -24,7 +24,7 @@ og_site_name: "SITUATIONAL AWARENESS - The Decade Ahead"
 og_type: "website"
 og_last_fetch: "2026-06-27T20:03:45.854Z"
 ---
-[[Leopold Aschenbrenner|Leo Aschenbrenner]]
+[[Sources/People/Leopold Aschenbrenner|Leo Aschenbrenner]]
 
 
 ***

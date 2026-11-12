@@ -1,6 +1,6 @@
 ---
 date_created: 2026-06-09
-date_modified: 2026-06-15
+date_modified: 2026-11-10
 tags:
   - Venture-Perspectives
   - Marketing-Strategies
@@ -19,6 +19,9 @@ for_clients:
   - Alpha Partners
 cf_last_run: 2026-06-15T19:20:19.736Z
 cf_last_run_model: Perplexity sonar-pro
+aliases:
+  - Category Creation
+  - Category Designers
 ---
 
 _Category design is the discipline of deliberately creating, defining, and owning a new market category in customers’ minds rather than competing inside someone else’s._

@@ -12,10 +12,10 @@ cf_last_run_model: Perplexity sonar-pro
 
 [[Vocabulary/Web3|Web3]]
 [[Vocabulary/Stablecoin|Stablecoin]]
-[[Meme Coins]]
+[[content-areas/Finance/Meme Coins]]
 [[Solana]]
 [[Ethereum]]
-[[Bitcoin]]
+[[content-areas/Finance/Bitcoin]]
 
 # Defining and Describing Digital Currencies
 
@@ -81,7 +81,7 @@ CBDCs are electronic forms of sovereign currency issued or backed directly by a 
   - **Offline bearer payment**: value transfer relying primarily on physical possession rather than networked digital records.
 
 - **Adjacent terms**:
-  - [[Cryptocurrency]]
+  - [[Vocabulary/Cryptocurrency]]
   - [[Stablecoin]]
   - [[Central Bank Digital Currency]]
   - [[Tokenization]]

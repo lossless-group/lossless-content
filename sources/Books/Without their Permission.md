@@ -5,7 +5,7 @@ date_modified: 2026-11-06
 amazon_url: https://a.co/d/038xRENN
 goodreads_url: https://www.goodreads.com/book/show/17333428-without-their-permission
 google_books_url: https://books.google.com/books/about/Without_Their_Permission.html?id=lmRengEACAAJ
-author: "[[people/Alexis Ohanion|Alexis Ohanion]]"
+author: "[[Sources/People/Alexis Ohanion|Alexis Ohanion]]"
 site_uuid: 7dd92803-6d90-4f3e-92cb-e271ada2302f
 publish: true
 title: Without Their Permission
@@ -15,7 +15,7 @@ cf_last_run: 2026-11-06T20:55:45.509Z
 cf_last_run_model: Perplexity sonar-pro
 ---
 
-[[people/Alexis Ohanion|Alexis Ohanion]]
+[[Sources/People/Alexis Ohanion|Alexis Ohanion]]
 [[Vocabulary/Startups|Startups]]
 [[Vocabulary/Disruptive Innovation|Disruptive Innovation]]
 

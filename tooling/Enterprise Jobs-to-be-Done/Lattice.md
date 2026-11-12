@@ -768,13 +768,13 @@ Lattice was founded in 2015 as a people-management platform focused on helping o
 
 Sources for Table: [^f7] [^f6] [^f5] [^f4] [^f3] [^f2] [^f1] [^e1]
 
-[[people/Alexis Ohanion|Alexis Ohanion]]  
+[[Sources/People/Alexis Ohanion|Alexis Ohanion]]  
 [[Daniel Gross]]  
 [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Dragoneer|Dragoneer]]  
-[[Elad Gil]]  
+[[Sources/People/Elad Gil]]  
 [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Founders Fund|Founders Fund]]  
 Frontline  
-[[Fuel Capital]]  
+[[vertical-toolkits/Alternatives/Growth-Equity-Firms/Fuel Capital]]  
 HighSage Ventures  
 [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Khosla Ventures|Khosla Ventures]]  
 Kevin Mahaffey  

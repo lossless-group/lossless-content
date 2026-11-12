@@ -128,9 +128,9 @@ Tempo was founded in 2025 and is described as a payments-first Layer 1 incubated
 | **Total reported** | — | **$500 million** [^F1] | — |
 
 Greenoaks [^F1]  
-[[Ribbit Capital]] [^F1]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Ribbit Capital]] [^F1]  
 [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Sequoia Capital|Sequoia Capital]] [^F1]  
-[[SV Angel]] [^F1]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/SV Angel]] [^F1]  
 [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Thrive Capital|Thrive Capital]] [^F1]
 
 ## Market Sizing

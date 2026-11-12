@@ -122,7 +122,7 @@ As of 2026-11-07,
 
 - [[concepts/Creator Economy|Creator Economy]]
 - [[Membership Platforms]]
-- [[Crowdfunding]]
+- [[content-areas/Finance/Crowdfunding]]
 - [[concepts/Platform Ecosystems|Platform Ecosystems]]
 - [[Online Communities]]
 

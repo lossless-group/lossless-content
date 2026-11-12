@@ -236,7 +236,7 @@ The disputed edges are fleet-driver monitoring, product-quality inspection, prod
 
 - **Will buyers standardize on an [[organizations/Nvidia|NVIDIA]], Microsoft, or Google infrastructure layer, or will specialist vendors keep their own full stacks?** Incumbents control edge hardware, cloud, foundation models, and developer ecosystems, while Voxel, Intenseye, Protex AI, and Cerrion possess the site-specific labeled data.
 
-- **Can VLMs replace narrowly trained safety detectors without unacceptable false positives?** [[organizations/Nvidia|NVIDIA]], Microsoft, Groundlight, and [[Cerrion]] are most likely to resolve whether natural-language configuration can deliver industrial reliability rather than impressive demonstrations. [^6bx8q7] [^it07be] [^tugy7s]
+- **Can VLMs replace narrowly trained safety detectors without unacceptable false positives?** [[organizations/Nvidia|NVIDIA]], Microsoft, Groundlight, and [[vertical-toolkits/IndustrialTech/Cerrion]] are most likely to resolve whether natural-language configuration can deliver industrial reliability rather than impressive demonstrations. [^6bx8q7] [^it07be] [^tugy7s]
 
 - **Who owns the labels generated from workers’ bodies and behavior?** Incumbents and challengers have the governance resources, but innovators will determine whether privacy-preserving edge processing, blurring, retention controls, and worker-access rights become default product architecture. [^bcqbv0] [^t94xfu]
 
@@ -256,7 +256,7 @@ The disputed edges are fleet-driver monitoring, product-quality inspection, prod
 
 - Human-in-the-Loop Computer Vision — architectures that route uncertain detections to reviewers and feed validated answers back into model training.
 
-- [[Video Annotation]] and [[concepts/Action Recognition]] — frame-, track-, and event-level labeling used to teach models what workers, tools, vehicles, and processes are doing.
+- [[Vocabulary/Video Annotation]] and [[concepts/Action Recognition]] — frame-, track-, and event-level labeling used to teach models what workers, tools, vehicles, and processes are doing.
 
 - [[concepts/Explainers for AI/Edge AI|Edge AI]] — local inference on cameras, gateways, vehicles, or industrial computers to reduce latency, bandwidth consumption, and disclosure of raw footage.
 

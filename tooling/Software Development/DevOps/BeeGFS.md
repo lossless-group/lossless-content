@@ -30,7 +30,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 # Value Proposition & Features
 
-BeeGFS is a **high‑performance parallel cluster [[concepts/Explainers for Tooling/Distributed File Systems|Distributed File System]]** designed to provide scalable, POSIX‑compliant file services for [[High‑Performance Computing]] (HPC), AI, and data‑intensive workloads. [^83aktf] It focuses on delivering very high throughput and metadata performance by distributing data and metadata across multiple servers, while remaining hardware‑agnostic and deployable on commodity infrastructure. [^83aktf] [^odmai3]
+BeeGFS is a **high‑performance parallel cluster [[concepts/Explainers for Tooling/Distributed File Systems|Distributed File System]]** designed to provide scalable, POSIX‑compliant file services for [[Vocabulary/High‑Performance Computing]] (HPC), AI, and data‑intensive workloads. [^83aktf] It focuses on delivering very high throughput and metadata performance by distributing data and metadata across multiple servers, while remaining hardware‑agnostic and deployable on commodity infrastructure. [^83aktf] [^odmai3]
 
 Core value propositions (2–3 sentences each):
 

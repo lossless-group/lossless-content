@@ -65,7 +65,7 @@ In startup-financing usage, an SFO is the family’s internal investment arm for
 
 - **Adjacent terms**:
   - [[Venture Capital]]
-  - [[Direct Investments]]
+  - [[content-areas/Finance/Private-Markets/Direct Investments]]
   - [[content-areas/Finance/Private-Markets/Concepts/Patient Capital]]
   - [[Succession Planning]]
   - [[content-areas/Finance/Private-Markets/Multi-Family Offices|Multi-Family Offices]]

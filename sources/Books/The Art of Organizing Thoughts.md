@@ -68,7 +68,7 @@ The available source presents this book through its major arguments rather than 
 - [[concepts/Second Brain]]
 - [[client-content/AI-Camp/Deliberate Practice]]
 - [[concepts/Creative Incubation]]
-- [[The Effective Executive]]
+- [[Sources/Books/The Effective Executive]]
 
 
 

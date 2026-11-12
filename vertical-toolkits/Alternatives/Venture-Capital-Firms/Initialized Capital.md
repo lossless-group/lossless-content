@@ -16,5 +16,5 @@ title: "Initialized Capital"
 slug: initialized-capital
 at_semantic_version: 0.0.0.1
 ---
-[[people/Alexis Ohanion|Alexis Ohanion]]
+[[Sources/People/Alexis Ohanion|Alexis Ohanion]]
 [[Gary Tan]]

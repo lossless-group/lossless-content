@@ -4,7 +4,7 @@ aliases:
   - AI
   - Enterprise AI
   - AI/ML
-date_modified: 2026-10-09
+date_modified: 2026-11-07
 date_created: 2025-03-31
 tags:
   - Technology-Trends
@@ -396,6 +396,8 @@ https://youtu.be/-RyUERQL-Y8?si=y2ARMOtiZY9Tt5ty
 https://www.youtube.com/live/esCSpbDPJik?si=5_zCH4nwkSlWPxJA
 
 ### Citations
+
+[^f36sw3]: 2026, Nov 03. "[AI ‘godfather’ Geoffrey Hinton: it might turn out we were better off without AI | the Guardian](https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai)”. [the Guardian](https://www.theguardian.com).
 
 [^yn9eki]: 2025, Oct. "[California becomes first state to regulate AI companion chatbots | TechCrunch](https://techcrunch.com/2025/10/13/california-becomes-first-state-to-regulate-ai-companion-chatbots/)". Rebecca Bellan. [TechCrunch](https://techcrunch.com).
 

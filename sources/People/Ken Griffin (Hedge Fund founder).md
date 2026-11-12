@@ -59,7 +59,7 @@ Ken Griffin is a **person**: an American hedge fund manager, investor, and entre
 
 - [[Citadel]]
 - [[Citadel Securities]]
-- [[Hedge Fund]]
+- [[Hedge Funds]]
 - [[Market Structure]]
 - [[Capital Allocation]]
 - [[Jim Simons]]
