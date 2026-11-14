@@ -1,7 +1,9 @@
 ---
 date_created: 2025-04-21
-date_modified: 2025-10-02
-aliases: [eCommerce]
+date_modified: 2026-11-14
+aliases:
+  - eCommerce
+  - digital commerce
 site_uuid: bb2f6e8c-182c-42d0-8d99-f5f09b33b338
 publish: true
 title: E-Commerce

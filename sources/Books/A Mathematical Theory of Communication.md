@@ -101,7 +101,7 @@ Below are key components and arguments within *A Mathematical Theory of Communic
 
 - **Explains how to communicate reliably in the presence of noise.** The **noisy channel coding theorem** shows that with appropriate coding, near-error-free communication is possible below capacity, inspiring error-correcting codes, robust wireless standards, and resilient protocols — essential for designing reliable systems in adverse conditions (e.g., IoT, space communications, edge networks). [^53thkm] [^lfnq62] [^s7bw2k] [^yjzr24]  
 
-- **Introduces the “bit” as a universal abstraction for information.** By showing that any message can be encoded as sequences of bits, Shannon’s work enables a unified, technology-agnostic view of information, which is at the core of digital [[concepts/Platform Thinking]] and the design of systems that flexibly handle text, audio, video, and sensor data alike. [^lfnq62] [^s7bw2k] [^yjzr24]  
+- **Introduces the “bit” as a universal abstraction for information.** By showing that any message can be encoded as sequences of bits, Shannon’s work enables a unified, technology-agnostic view of information, which is at the core of digital [[Platform Thinking]] and the design of systems that flexibly handle text, audio, video, and sensor data alike. [^lfnq62] [^s7bw2k] [^yjzr24]  
 
 - **Installs a probabilistic mindset for data-rich innovation.** Shannon models communication using probability distributions over message ensembles, encouraging innovators to think in terms of **uncertainty, statistics, and information gain** — crucial mental models for fields like [[Vocabulary/Machine Learning|Machine Learning]], A/B testing, and adaptive systems. [^53thkm] [^lfnq62] [^s7bw2k] [^yjzr24]  
 

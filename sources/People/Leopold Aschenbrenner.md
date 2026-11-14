@@ -18,6 +18,6 @@ https://youtu.be/s4m4XfHibRI?is=MHnqihs3QeysXGYA
 
 [[concepts/Explainers for AI/Situational Awareness|Situational Awareness]]
 
-[[Hedge Funds]]
+[[content-areas/Finance/Hedge Funds]]
 
 [[Vocabulary/Data Centers|Datacenters]]

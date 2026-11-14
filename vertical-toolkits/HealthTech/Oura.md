@@ -1,6 +1,6 @@
 ---
 date_created: 2026-11-02
-date_modified: 2026-11-06
+date_modified: 2026-11-13
 url: https://ouraring.com/
 og_title: Oura Ring. Smart Ring for Fitness, Stress, Sleep & Health.
 og_description: Enhance your health journey with Oura. The Oura Ring provides round-the-clock insights into sleep, fitness, and stress for wellness. Now HSA/FSA eligible.
@@ -10,6 +10,8 @@ og_site_name: Oura Ring
 og_last_fetch: 2026-11-06T19:55:42.077Z
 tags:
   - HealthTech
+  - Wearable-Devices
+  - Wellness-AI
 site_uuid: 138932bb-2b13-45f4-ae4a-8de06cc51676
 publish: true
 title: Oura
@@ -27,6 +29,7 @@ cf_last_run_retrieval: 2026-11-06T19:57:41.227Z
 
 [[Tooling/Products/Whoop|Whoop]]
 
+[[Linea Avey]]
 ## Value Proposition & Features
 
 Oura develops the Oura Ring and Oura App to turn continuous biometric measurements into daily guidance on sleep, activity, stress, recovery, and related health metrics. [^E1] The product fits the broader [[concepts/Market-Categories/Biometric Monitoring|Biometric Monitoring]] category by combining a wearable ring with software interpretation.

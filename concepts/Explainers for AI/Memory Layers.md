@@ -2,7 +2,7 @@
 site_uuid: 08bbfec8-dc7e-46ea-aa03-2de6d747388d
 title: Memory Layer
 site_visibility: public
-date_modified: 2026-08-21
+date_modified: 2026-11-12
 date_created: 2025-03-30
 tags:
   - AI-Toolkit
@@ -31,7 +31,16 @@ for_clients:
   - Cervin
   - Reach
 ---
+
+## Examples
+
+[[Tooling/AI-Toolkit/Agentic AI/TreeAgent]]
+
+
 ***
+
+# On Memory Layers in AI
+
 > [!info] **Perplexity Query** (2026-05-02T22:21:35.970Z)
 > **Question:**
 > > What is a memory layer for agents and AI / LLM model work?
@@ -75,6 +84,7 @@ Agents require a standalone memory layer for **strategic persistence**—accumul
 
 
 https://youtube.com/shorts/V_575LB__6k?si=4vUMHqtFSOSJK2hi
+
 
 
 ***

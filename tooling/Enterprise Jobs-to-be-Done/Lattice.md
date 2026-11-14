@@ -830,7 +830,7 @@ It is less suitable for very small teams seeking a lightweight standalone review
 | [15Five](https://www.15five.com/)          | People-management and performance workflows comparable to Lattice.                                        |
 | [Workday](https://www.workday.com/)        | Broader enterprise HCM platform that can cover core HR and talent processes.                              |
 | [Culture Amp](https://www.cultureamp.com/) | Employee engagement, performance, and people-analytics software.                                          |
-| [BambooHR](https://www.bamboohr.com/)      | [[BambooHR]] SMB-oriented HRIS with employee-management and HR administration capabilities.               |
+| [BambooHR](https://www.bamboohr.com/)      | [[Tooling/Enterprise Jobs-to-be-Done/BambooHR]] SMB-oriented HRIS with employee-management and HR administration capabilities.               |
 | [Leapsome](https://www.leapsome.com/)      | Performance, engagement, goals, and learning software overlapping with Lattice’s people-management scope. |
 
 

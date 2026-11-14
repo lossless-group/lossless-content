@@ -32,7 +32,7 @@ _**Sales AI** is the software layer that applies machine intelligence and increa
 
 > “The CRM market, worth more than $90B in 2026, is converging on a single thesis: whoever owns the AI agent runtime owns platform renewal revenue for the next decade.” [^xult2n]
 
-This profile captures the category as of **October 2026**, when “Sales AI” spans both embedded CRM intelligence and standalone AI sales development products. It is worth maintaining as a reference category because analyst-defined CRM platforms, AI-agent infrastructure, sales-intelligence software, and [[Autonomous SDRs]] startups are increasingly competing for the same budgets and workflows. [^xult2n] [^2uxyz3] [^2hu2fr]
+This profile captures the category as of **October 2026**, when “Sales AI” spans both embedded CRM intelligence and standalone AI sales development products. It is worth maintaining as a reference category because analyst-defined CRM platforms, AI-agent infrastructure, sales-intelligence software, and [[concepts/Explainers for AI/Autonomous SDRs]] startups are increasingly competing for the same budgets and workflows. [^xult2n] [^2uxyz3] [^2hu2fr]
 
 # What is this Market Category?
 

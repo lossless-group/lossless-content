@@ -124,7 +124,7 @@ As of 2026-11-07,
 - [[Membership Platforms]]
 - [[content-areas/Finance/Crowdfunding]]
 - [[concepts/Platform Ecosystems|Platform Ecosystems]]
-- [[Online Communities]]
+- [[Online Community Platforms]]
 
 
 ***

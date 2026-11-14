@@ -13,7 +13,7 @@ tags:
 ---
 [[concepts/Lead Magnets|Lead Magnets]]
 [[concepts/Market-Categories/Sales AI|Sales AI]]
-[[Autonomous SDRs]]
+[[concepts/Explainers for AI/Autonomous SDRs]]
 [[GTM Engineering]]
 [[concepts/Explainers for Tooling/Go-to-Market Platforms|GTM-Engineering Platform]]
 

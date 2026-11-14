@@ -8,7 +8,7 @@ slug: harvard-business-school
 at_semantic_version: 0.0.0.1
 aliases: [HBS]
 ---
-[[organizations/Harvard|Harvard]]
+[[organizations/Harvard University|Harvard University]]
 [[Sources/People/Clayton Christensen|Clayton Christensen]]
 [[Sources/People/Michael E. Porter]]
 

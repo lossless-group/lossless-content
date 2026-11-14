@@ -74,7 +74,7 @@ Computational protein folding is the prediction of a protein’s three-dimension
   - [[AI-native-biotech]]
   - [[concepts/Market-Categories/Drug Discovery|Drug Discovery]]
   - [[Protein-engineering]]
-  - [[Computational Biology]]
+  - [[Vocabulary/Computational Biology]]
   - [[Generative-design]]
   - [[Experimental-validation]]
 

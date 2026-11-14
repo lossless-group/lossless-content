@@ -1,7 +1,7 @@
 ---
 site_uuid: 6f78cefa-18d6-4bdf-8f56-d5e19b42ad5e
 date_created: 2025-03-30
-date_modified: 2026-06-17
+date_modified: 2026-11-14
 publish: true
 title: Jobs To Be Done
 slug: jobs-to-be-done
@@ -19,6 +19,7 @@ for_clients:
 aliases:
   - Jobs to be Done
   - JTBD
+  - Jobs To Be Done
 cf_last_run: 2026-06-17T21:20:58.292Z
 cf_last_run_model: Perplexity sonar-pro
 ---

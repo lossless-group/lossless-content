@@ -40,7 +40,7 @@ Snapline is a native macOS capture toolkit focused on local, subscription-free w
 - **Annotation and editing:** Captures remain editable and support tools such as counters, measurement, color sampling, arrows, and redactions. [^8vox9p] [^3mmft0]
 - **[[Vocabulary/OCR|OCR]] and History:** Captures are recognized on-device through Apple’s Vision framework and can be searched by their text. [^cqv1u3]
 - **Smart Redact:** On-device detection identifies items including email addresses, phone numbers, URLs, addresses, card numbers, IBANs, JWTs, API keys, and other token patterns. [^3mmft0]
-- **[[GIF]] export:** Recordings of up to three minutes can be converted to GIF, with estimated file size shown before export. [^3mmft0]
+- **[[Sources/Standards-and-Specs/Graphics Interchange Format]] export:** Recordings of up to three minutes can be converted to GIF, with estimated file size shown before export. [^3mmft0]
 
 # Market Sizing
 

@@ -1,7 +1,9 @@
 ---
-aliases: ["IAM"]
+aliases:
+  - IAM
+  - Identity Management
 date_created: 2025-12-25
-date_modified: 2026-10-18
+date_modified: 2026-11-14
 tags:
   - Authentication
   - Authorization

@@ -38,7 +38,7 @@ Temporal’s main primitives are **workflows** and **activities**. [^0wk8nl] A w
 
 ## Category, Market Size, and Category Growth
 
-Temporal fits best in the **[[Workflow Orchestration]] / durable execution / application infrastructure** category. [^0wk8nl] The provided search results do not include a credible market-size estimate or category-growth forecast specific to Temporal or its exact category.
+Temporal fits best in the **[[concepts/Explainers for AI/Workflow Orchestration]] / durable execution / application infrastructure** category. [^0wk8nl] The provided search results do not include a credible market-size estimate or category-growth forecast specific to Temporal or its exact category.
 # Competitive Landscape
 
 ## Who it's for, who it's not for

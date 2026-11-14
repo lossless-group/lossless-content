@@ -1,6 +1,6 @@
 ---
 date_created: 2024-08-01
-date_modified: 2026-08-23
+date_modified: 2026-11-14
 site_uuid: 5f7ac004-5678-4053-85f8-9459ba2e3acc
 publish: true
 title: Cognitive Load
@@ -22,6 +22,10 @@ for_clients:
   - NextLadder
 cf_last_run: 2026-08-23T08:00:46.644Z
 cf_last_run_model: Perplexity sonar-pro
+aliases:
+  - Cognitive-load
+  - cognitive-load
+  - mental bandwidth
 ---
 
 [[concepts/Organizational Change Management|Change Management]]
@@ -33,11 +37,11 @@ cf_last_run_model: Perplexity sonar-pro
 
 # Defining and Describing Cognitive Load
 
-- ![Product dashboard with crowded navigation, dense copy, and multiple competing calls to action illustrating excessive mental effort](https://think.design/wp-content/uploads/2024/10/Understanding-Cognitive-Load-and-Its-Types-in-UX-1024x461.png)
+![Product dashboard with crowded navigation, dense copy, and multiple competing calls to action illustrating excessive mental effort](https://think.design/wp-content/uploads/2024/10/Understanding-Cognitive-Load-and-Its-Types-in-UX-1024x461.png)
 
 _Cognitive load is the amount of mental effort a person must spend to perceive, understand, decide, and act, and in startups it matters because every extra step, choice, or ambiguity taxes users’ limited working memory._ [^9it3eh] [^grf5av]
 
-In innovation consulting, the term applies when a product, workflow, or organizational change makes people think harder than necessary to complete a task, especially when that effort comes from interface clutter, unclear sequencing, or having to remember too much at once. [^9it3eh] [^grf5av] It does not mean “complexity” in the abstract; a product can be sophisticated yet low-load if it guides attention well and reduces unnecessary decision-making. [^9it3eh] [^4oh2ha] Consultants care because cognitive load often shows up as slower adoption, more errors, drop-off, and lower willingness to try a new tool or process. [^9it3eh] [^72sjbd]
+The term applies when a product, workflow, or organizational change makes people think harder than necessary to complete a task, especially when that effort comes from interface clutter, unclear sequencing, or having to remember too much at once. [^9it3eh] [^grf5av] It does not mean “complexity” in the abstract; a product can be sophisticated yet low-load if it guides attention well and reduces unnecessary decision-making. [^9it3eh] [^4oh2ha] Consultants care because cognitive load often shows up as slower adoption, more errors, drop-off, and lower willingness to try a new tool or process. [^9it3eh] [^72sjbd]
 
 # Disambiguation
 
@@ -64,7 +68,7 @@ Cognitive load theory is the instructional-design framework developed by John Sw
 
 Cognitive load is also used more generally to mean the total mental effort demanded by a task or environment. [^9it3eh] [^al4rng]
 
-- UX writers and product designers use it to describe how much thinking a user must do to understand, decide, and act in an interface. [^9it3eh] [^al4rng]
+- [[Vocabulary/User Experience|UX]] writers and product designers use it to describe how much thinking a user must do to understand, decide, and act in an interface. [^9it3eh] [^al4rng]
 - In this broader sense, the term overlaps with “mental effort,” “task burden,” and “workload,” but is usually narrower than general stress or fatigue. [^9it3eh] [^al4rng]
 - This sense is relevant to startups when they are simplifying onboarding, forms, pricing pages, admin tools, or internal operations. [^f2x5hv] [^9it3eh]
 
@@ -77,7 +81,7 @@ Cognitive load is also used more generally to mean the total mental effort deman
 # Adjacent Vocabulary
 
 - **Synonyms**: *mental load* — broader everyday phrase; *mental effort* — emphasizes exertion; *workload* — often used in operations or ergonomics; *user burden* — more product- and service-oriented. [^9it3eh] [^al4rng]
-- **Antonyms**: *frictionless experience* — design outcome of low effort; *simplicity* — fewer moving parts; *clarity* — less interpretive effort. [^9it3eh] [^f2x5hv]
+- **Antonyms**: *[[concepts/Frictionless Experiences]]* — design outcome of low effort; *simplicity* — fewer moving parts; *clarity* — less interpretive effort. [^9it3eh] [^f2x5hv]
 - **Adjacent terms**: [[working memory]], [[extraneous load]], [[intrinsic load]], [[germane load]], [[usability]], [[onboarding]]
 
 # Usage in Practice

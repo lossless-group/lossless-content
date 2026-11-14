@@ -128,7 +128,7 @@ It is generally **not aimed at very small businesses** that only need basic HR o
 | Competitor | Description |
 |------------|-------------|
 | [Workday](Workday) | Enterprise cloud HCM and financials platform used by large global organizations needing deeply integrated HR, finance, and planning capabilities, often seen as a legacy‑suite alternative to HiBob.[4][17] |
-| [BambooHR](BambooHR) | HRIS focused on small and mid‑size businesses, offering core HR, performance, and basic time‑off and onboarding features with a simpler implementation than HiBob.[8][12] |
+| [BambooHR](Tooling/Enterprise%20Jobs-to-be-Done/BambooHR.md) | HRIS focused on small and mid‑size businesses, offering core HR, performance, and basic time‑off and onboarding features with a simpler implementation than HiBob.[8][12] |
 | [Rippling](Rippling) | Workforce platform that unifies HR, IT, and finance, managing employees, devices, and apps in one system, competing where companies want cross‑functional automation beyond HR.[8][17] |
 | [Personio](Personio) | European HR and payroll suite for SMEs, combining core HR, recruiting, and payroll with a strong presence in the DACH and wider European mid‑market.[8][17] |
 | [Gusto](Gusto) | Payroll‑first solution with add‑on HR tools for small businesses, overlapping with HiBob only where companies need simple payroll plus basic HR instead of a full HCM.[17] |

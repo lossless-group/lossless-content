@@ -17,6 +17,6 @@ at_semantic_version: 0.0.0.1
 tags:
   - Private-Equity-Firms
 ---
-[[Private Equity]]
+[[Vocabulary/Private Equity]]
 [[Vocabulary/Private Markets|Private Markets]]
 

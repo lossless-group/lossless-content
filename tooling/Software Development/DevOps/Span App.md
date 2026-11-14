@@ -32,7 +32,7 @@ cf_last_run_retrieval: 2026-10-10T17:08:27.427Z
 
 Span is an **AI-native developer intelligence platform** that links agent traces to code and pull requests, giving engineering teams a prompt-to-production view of AI-assisted development. [^E1]
 
-Its published customer list includes **[[Tooling/Enterprise Jobs-to-be-Done/Ramp|Ramp]], Vanta, Carvana, [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Writer|Writer]], Braze, [[Duolingo]], and [[Intercom]]**. [^E1]
+Its published customer list includes **[[Tooling/Enterprise Jobs-to-be-Done/Ramp|Ramp]], Vanta, Carvana, [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Writer|Writer]], Braze, [[Duolingo]], and [[Tooling/Enterprise Jobs-to-be-Done/Intercom]]**. [^E1]
 
 ### Value Proposition & Features
 

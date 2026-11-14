@@ -1,6 +1,6 @@
 ---
 date_created: 2026-10-25
-date_modified: 2026-11-02
+date_modified: 2026-11-14
 cf_last_run: 2026-11-02T17:29:58.636Z
 cf_last_run_model: Perplexity sonar-deep-research
 tags:
@@ -20,8 +20,11 @@ at_semantic_version: 0.0.1.1
 
 
 
-[[vertical-toolkits/HealthTech/Oura]]
+[[vertical-toolkits/HealthTech/Oura|Oura]]
 [[Tooling/Products/Whoop|Whoop]]
+[[vertical-toolkits/HealthTech/BodySpec]]
+
+
 
 # Snapshot
 

@@ -1,7 +1,7 @@
 ---
 url: https://poly.ai/
 date_created: 2025-11-26
-date_modified: 2026-06-03
+date_modified: 2026-11-14
 og_title: The world's most lifelike voice AI agents
 og_description: PolyAI is the world's only customer-led conversational platform for enterprise.
 og_image: https://poly.ai/wp-content/uploads/2023/10/PolyAI.png
@@ -28,6 +28,8 @@ for_clients:
   - Parslee
 cf_last_run: 2026-06-03T05:12:04.274Z
 cf_last_run_model: Perplexity sonar-pro
+aliases:
+  - PolyAI
 ---
 [[concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]]
 [[concepts/Explainers for AI/Voice Agents|Voice Agents]]

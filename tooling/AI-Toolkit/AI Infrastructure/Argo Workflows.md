@@ -10,5 +10,5 @@ slug: argo-workflows
 at_semantic_version: 0.0.0.1
 url: https://argoproj.github.io/workflows/
 ---
-[[Argo Project]]
+[[Tooling/Software Development/Developer Experience/DevTools/Argo Project]]
 

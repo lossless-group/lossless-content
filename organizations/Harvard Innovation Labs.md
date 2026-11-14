@@ -1,5 +1,5 @@
 ---
-parent_org: "[[organizations/Harvard|Harvard]]"
+parent_org: "[[organizations/Harvard University|Harvard University]]"
 date_created: 2025-04-18
 date_modified: 2026-05-13
 ---

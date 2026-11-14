@@ -152,9 +152,9 @@ It is not positioned as a general-purpose chain for arbitrary consumer applicati
 
 - **[[Ethereum]]:** Broad smart-contract ecosystem and liquidity, but not specialized around dedicated payment lanes or stablecoin-denominated fees.
 - **[[Solana]]:** High-throughput general-purpose chain that can support payment applications, but lacks Tempo’s stated payment-only architecture.
-- **[[Stellar]]:** Payment-focused blockchain suitable for asset issuance and cross-border transfers.
+- **[[vertical-toolkits/FinTech/Stellar]]:** Payment-focused blockchain suitable for asset issuance and cross-border transfers.
 - **Circle Arc:** Stablecoin-focused payments infrastructure aimed at institutional and enterprise settlement.
-- **[[Visa]]/[[Mastercard]] stablecoin rails:** Established payment networks that can provide fiat-linked settlement and enterprise distribution without requiring customers to adopt a new Layer 1.
+- **[[vertical-toolkits/FinTech/Visa]]/[[vertical-toolkits/FinTech/Mastercard]] stablecoin rails:** Established payment networks that can provide fiat-linked settlement and enterprise distribution without requiring customers to adopt a new Layer 1.
 
 ### Competitor Table
 

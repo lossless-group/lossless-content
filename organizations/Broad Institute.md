@@ -14,4 +14,4 @@ og_image: "https://www.broadinstitute.org/themes/custom/broad/logo.png"
 og_favicon: "https://www.broadinstitute.org/themes/custom/broad/favicon.ico"
 og_last_fetch: "2025-08-15T09:47:07.768Z"
 ---
-[[organizations/Massachusetts Institute of Technology|MIT]], [[organizations/Harvard|Harvard]]
+[[organizations/Massachusetts Institute of Technology|MIT]], [[organizations/Harvard University|Harvard University]]

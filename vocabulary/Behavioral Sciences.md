@@ -21,7 +21,7 @@ tags:
 [[Marketing Practices]]
 
 [[Vocabulary/Grassroots Adoption|Grassroots Adoption]]
-[[Technology Adoption Curve]]
+[[Technology Adoption Curves]]
 
 # Defining and Describing Behavioral Sciences
 
@@ -77,7 +77,7 @@ Behavioral economics is a branch of behavioral science concerned specifically wi
   - **Stated-preference research**: relying on what people report they would do, without validating actual behavior.
   - **Technological determinism**: assuming technology itself will produce adoption or change regardless of social, organizational, and behavioral conditions.[^s52vys]
 
-- **Adjacent terms**: [[Behavioral Economics]], [[Technology Adoption]], [[UX Research]], [[Market Research]], [[Change Management]], [[Organizational Behavior]]
+- **Adjacent terms**: [[Behavioral Economics]], [[Technology Adoption Curves]], [[UX Research]], [[Market Research]], [[Change Management]], [[Organizational Behavior]]
 
 # Usage in Practice
 

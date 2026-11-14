@@ -6,7 +6,7 @@ og_screenshot_url: 'https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshot
 jina_last_request: '2025-03-09T06:45:09.785Z'
 jina_error: 'Error occurred'
 og_last_fetch: '2025-05-30T15:39:20.259Z'
-date_modified: 2025-05-30
+date_modified: 2026-11-13
 date_created: 2025-03-30
 url: 'https://discord.com/'
 og_image: 'https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/665643dd8c7ac752237b5cef_Discord-OG-1200x630.jpg'
@@ -15,5 +15,7 @@ tags: [Products]
 ---
 
 [[concepts/User Forums|User Forum]]
-[[Cross-Platform Applications|Cross-Platform]]
-[[Freemium]]
+[[Vocabulary/Cross-Platform Applications|Cross-Platform]]
+[[Vocabulary/Freemium|Freemium]]
+[[Online Community Platforms]]
+

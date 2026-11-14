@@ -1,6 +1,6 @@
 ---
 date_created: 2025-07-09
-date_modified: 2026-10-04
+date_modified: 2026-11-14
 aliases:
   - Data Center
   - Datacenter
@@ -9,6 +9,8 @@ aliases:
   - Data-center
   - data-center
   - data-centers
+  - data centres
+  - data centre
 site_uuid: 98068881-45d3-4220-acb2-c80778d791b6
 publish: true
 title: Data Centers

@@ -271,7 +271,7 @@ It is not clearly positioned, based on the available material, as a consumer rob
 
 - **[[The Physical Intelligence Company]]** — a comparable general-purpose robotics-intelligence company pursuing reusable models for robots.
 - **NVIDIA Isaac** — a robotics software and simulation ecosystem that provides infrastructure for robot development.
-- **[[Tesla Optimus]]** — a vertically integrated humanoid-robot effort combining hardware and autonomy.
+- **[[Tooling/Hardware/Robotics/Tesla Optimus]]** — a vertically integrated humanoid-robot effort combining hardware and autonomy.
 - **[[Tooling/Hardware/Robotics/Figure AI|Figure AI]]** — a humanoid-robot company developing integrated robotic hardware and intelligence.
 - **[[Tooling/Hardware/Robotics/Apptronik|Apptronik]]** — a humanoid-robot developer combining robot platforms with autonomy software.
 

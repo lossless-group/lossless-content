@@ -11,7 +11,7 @@ og_published: 2026-05-07T04:53:57.000Z
 og_last_fetch: 2026-05-07T04:54:00.317Z
 aliases:
   - Havard GSE
-parent_org: "[[organizations/Harvard|Harvard]]"
+parent_org: "[[organizations/Harvard University|Harvard University]]"
 site_uuid: 0eb10120-af34-47e1-a0b6-3961c7e65f45
 publish: true
 title: Harvard Graduate School Of Education

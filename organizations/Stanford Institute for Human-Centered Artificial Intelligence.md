@@ -3,10 +3,11 @@ url: http://hai.stanford.edu
 youtube_url: https://youtube.com/@stanfordhai
 parent_org: "[[organizations/Stanford University|Stanford University]]"
 date_created: 2025-04-18
-date_modified: 2026-10-10
+date_modified: 2026-11-14
 aliases:
   - Institute for Human-Centered Artificial Intelligence
   - HAI
+  - Stanford Institute for Human-Centered AI
 tags:
   - Think-Tanks
   - AI-Research-Labs

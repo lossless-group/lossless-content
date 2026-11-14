@@ -10,4 +10,4 @@ slug: david-sinclair
 at_semantic_version: 0.0.0.1
 ---
 [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Dark Matter Bio|Dark Matter Bio]]
-[[organizations/Harvard|Harvard]]
+[[organizations/Harvard University|Harvard University]]

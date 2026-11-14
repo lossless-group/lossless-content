@@ -395,13 +395,13 @@ TwelveLabs was founded in 2021 and built around video-first multimodal AI, focus
 - [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Index Ventures|Index Ventures]] [^F3] [^F4]
 - [[vertical-toolkits/Alternatives/Venture-Capital-Firms/In-Q-Tel|In-Q-Tel]] [^F2]
 - Korea Investment Partners [^F3]
-- [[Naver Ventures]] [^F1]
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Naver Ventures]] [^F1]
 - [[vertical-toolkits/Alternatives/Venture-Capital-Firms/New Enterprise Associates]] [^F1] [^F3]
 - NVentures [^F3]
 - [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Radical Ventures|Radical Ventures]] [^F3] [^F4]
 - SK Telecom [^F2]
 - Snowflake Ventures [^F2]
-- [[Spring Ventures]] [^F4]
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Spring Ventures]] [^F4]
 - [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Wndrco]] [^F3] [^F4]
 
 ## Notable Team Members

@@ -21,7 +21,7 @@ tags:
 [[RepClose]]
 [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Phantom Buster|Phantom Buster]]
 [[Vocabulary/Lead Generation|Lead Generation]]
-[[Autonomous SDRs]]
+[[concepts/Explainers for AI/Autonomous SDRs]]
 [[Vocabulary/Sales Development Representatives|Sales Development Representatives]]
 [[Revenue Operations]]
 [[concepts/Explainers for Tooling/Conversion Rate Optimization|CRO]]

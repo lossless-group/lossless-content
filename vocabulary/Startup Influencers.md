@@ -86,7 +86,7 @@ An influencer-investor combines a public audience with direct financial particip
   - [[Venture Capital]]
   - [[concepts/Early Adopters|Early Adopters]]
   - [[concepts/Category Design|Category Creation]]
-  - [[Startup Ecosystem]]
+  - [[Startup Ecosystems]]
 
 # Usage in Practice
 

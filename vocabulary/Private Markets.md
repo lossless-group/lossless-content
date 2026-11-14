@@ -28,7 +28,7 @@ Private markets refer to investments in assets—such as private companies, real
 At their core, **private markets** encompass investments made directly into privately held businesses or assets, bypassing the scrutiny and regulatory requirements of public exchanges. [^5urtjy] [^c9j4yi] [^3e14nn] This includes two major categories: **private equity** (acquiring stakes in private businesses to drive value over time) and **private debt** (providing loans or credit to companies outside traditional bank lending channels). [^3e14nn] [^i3h69i] [^yutxm2]
 
 Examples include:
-- **[[Private Equity]]:** A buyout fund acquires a fast-growing technology firm, injects capital and management expertise, and later sells the business for a profit, either back to the market or to another investor. [^yutxm2]
+- **[[Vocabulary/Private Equity]]:** A buyout fund acquires a fast-growing technology firm, injects capital and management expertise, and later sells the business for a profit, either back to the market or to another investor. [^yutxm2]
 - **[[Vocabulary/Venture Capital|Venture Capital]]:** Early-stage investors provide funding and guidance to innovative startups—like how venture capitalists fueled companies such as Uber and Airbnb in their infancy. [^yutxm2]
 - **Private Debt:** Non-bank lenders offer loans to mid-sized manufacturing firms that may not qualify for traditional credit, often at higher interest rates but higher risk. [^i3h69i]
 - **Real Assets:** Investments in infrastructure projects (like airports or toll roads) or large-scale real estate developments offer long-term value and potential inflation protection. [^5urtjy] [^pna75v]

@@ -189,7 +189,7 @@ Organizations primarily seeking high yield on small checking balances, deep lend
 ## Viable Alternatives
 
 - **[[Tooling/Enterprise Jobs-to-be-Done/Brex|Brex]]** – Corporate cards and global spend management with multi‑entity support and integrated travel; better suited for larger, multi‑entity or international teams. [^rqxh75] [^mnxv3h] [^0lpk0b]  
-- **[[Rho]]** – Integrated banking, cards, bill pay, expenses, and higher‑yield treasury, with very high FDIC coverage and broad sweep networks for larger balances. [^mnxv3h] [^0lpk0b] [^x6xajz]  
+- **[[vertical-toolkits/FinTech/Rho]]** – Integrated banking, cards, bill pay, expenses, and higher‑yield treasury, with very high FDIC coverage and broad sweep networks for larger balances. [^mnxv3h] [^0lpk0b] [^x6xajz]  
 - **[[Relay Financial]]** – Fintech business banking focused on cash‑bucketing and multi‑account workflows, often recommended for small businesses needing clear cash organization. [^wfdi3w] [^lcgee9]  
 - **Bluevine** – Online business banking with checking yield and credit lines, oriented toward small businesses that value APY on operating cash more than deep APIs. [^w81gbd] [^ku29ej] [^6k4jfd]  
 - **Novo** – Simple, fee‑free business checking for solo founders and very small businesses, with fewer advanced treasury and automation features than Mercury. [^wfdi3w] [^lcgee9] [^6k4jfd]  

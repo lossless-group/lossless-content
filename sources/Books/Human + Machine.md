@@ -40,7 +40,7 @@ our_take: ''
 
 - **Paul R. Daugherty** is an [[organizations/Accenture|Accenture]] technology and innovation leader and co-authored *Human + Machine* with Wilson. [^jv9dol] Accenture identifies him as its chief technology and innovation officer in the book’s launch announcement. [^jv9dol]
 - **H. James Wilson** is a managing director associated with information-technology and business research at Accenture Research. [^jv9dol] More recent Accenture material identifies him as global managing director of technology research and thought leadership at Accenture Research. [^4gdkoj]
-- Together, Daugherty and Wilson frame AI as a capability that can extend human performance rather than merely replace human labor. [^8b03j6] Their later book, *[[Radically Human]]*, is described by Accenture as a follow-up to *Human + Machine*. [^ds2i8a]
+- Together, Daugherty and Wilson frame AI as a capability that can extend human performance rather than merely replace human labor. [^8b03j6] Their later book, *[[Sources/Books/Radically Human]]*, is described by Accenture as a follow-up to *Human + Machine*. [^ds2i8a]
 
 # Catalog of Notable Works
 
@@ -70,7 +70,7 @@ our_take: ''
 
 # Adjacent Sources
 
-- [[Radically Human]]
+- [[Sources/Books/Radically Human]]
 - [[Human-AI Collaboration]]
 - [[concepts/Missing Middle Skills]]
 - [[concepts/Explainers for AI/Responsible AI]]

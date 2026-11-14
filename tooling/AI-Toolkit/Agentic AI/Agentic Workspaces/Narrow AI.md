@@ -22,7 +22,7 @@ for_clients:
   - Parslee
 ---
 [[concepts/Market-Categories/Sales AI|Sales AI]]
-[[Autonomous SDRs]]
+[[concepts/Explainers for AI/Autonomous SDRs]]
 
 [[concepts/Market-Categories/Sales AI|Sales Agents]]
 [[Tooling/Enterprise Jobs-to-be-Done/Nexor]]

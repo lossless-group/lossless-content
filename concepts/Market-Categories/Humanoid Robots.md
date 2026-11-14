@@ -49,7 +49,7 @@ Several companies are leading the development of humanoid robots, supported by n
 - **Funding:** $940M over four rounds. [^6rqw07] [^9t39dr]  
 - **Progress:** Recognized as a leader in consumer robotics with global reach. [^6rqw07]
 
-### **5. [[Persona AI]]**
+### **5. [[Tooling/Hardware/Robotics/Persona AI]]**
 - **Founded:** 2024  
 - **Robots:** Early-stage humanoids for manufacturing tasks.  
 - **Funding:** $10M pre-seed from U.S., London, and Singapore investors. [^0e146h]  

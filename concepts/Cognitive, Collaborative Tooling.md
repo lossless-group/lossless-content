@@ -1,12 +1,19 @@
 ---
 site_uuid: f5d58958-5864-4c1c-af21-3ad9041edd6b
 date_created: 2025-04-18
-date_modified: 2025-12-03
-tags: [Lossless-Thinking, Collaboration-Tools, Collaborative-Workflows, Collaborative-Workflow-Management]
+date_modified: 2026-11-14
+tags:
+  - Lossless-Thinking
+  - Collaboration-Tools
+  - Collaborative-Workflows
+  - Collaborative-Workflow-Management
+  - Lossless-Conventions
 publish: true
-title: "Cognitive, Collaborative Tooling"
+title: Cognitive, Collaborative Tooling
 slug: cognitive-collaborative-tooling
 at_semantic_version: 0.0.0.1
+aliases:
+  - CCT
 ---
 
 
@@ -14,7 +21,7 @@ at_semantic_version: 0.0.0.1
 Include [[Tooling/Software Development/Developer Experience/Linear|Linear]], [[Whimsical]], [[Tooling/Software Development/Developer Experience/DevOps/Graphite|Graphite]]
 
 ### Tools for [[Workflow Management]]
-[[Tooling/Productivity/Workflow Management/ClickUp|ClickUp]], [[Tooling/Productivity/Workflow Management/Asana|Asana]], 
+[[Tooling/Productivity/Workflow Management/ClickUp|ClickUp]], [[Tooling/Productivity/Workflow Management/Asana|Asana]], [[Tooling/Productivity/Advanced Documents/Notion|Notion]], [[Tooling/Enterprise Jobs-to-be-Done/Coda|Coda]], [[Tooling/Software Development/Developer Experience/Linear|Linear]], [[Tooling/Productivity/Workflow Management/Monday|Monday.com]]. 
 ## Tooling Engineer
 [[concepts/Stack Engineering|Stack Engineering]]
 
@@ -33,7 +40,7 @@ A **tooling engineer** plays a critical role in designing, developing, and maint
 
 - **Manufacturing**: Design and create custom tools, jigs, dies, molds, and fixtures needed for the production process. These tools are essential for ensuring consistent, high-quality output and efficient operations.
     - Example: Designing an injection mold for a plastic part or a custom fixture to hold components during assembly.
-- **Software/DevOps**: In software-focused roles, tooling engineers develop internal tools, scripts, or automation frameworks to optimize workflows, such as CI/CD pipelines or debugging utilities.
+- **Software/DevOps**: In software-focused roles, tooling engineers develop internal tools, scripts, or automation frameworks to optimize workflows, such as [[concepts/Continuous Integration and Continuous Delivery|CI/CD]] pipelines or debugging utilities.
 
 ---
 
@@ -72,8 +79,8 @@ A **tooling engineer** plays a critical role in designing, developing, and maint
 
 1. **Technical Knowledge**:
     
-    - **Manufacturing**: Expertise in CAD software (e.g., SolidWorks, AutoCAD), material science, machining, and fabrication techniques.
-    - **Software/DevOps**: Proficiency in programming languages (e.g., Python, JavaScript) and tools like Jenkins, Docker, or Kubernetes for automating workflows.
+    - **Manufacturing**: Expertise in CAD software (e.g., [[SolidWorks]], [[AutoCAD]]), material science, machining, and fabrication techniques.
+    - **Software/[[Vocabulary/Dev Ops|DevOps]]**: Proficiency in programming languages (e.g., Python, JavaScript) and tools like [[Tooling/Software Development/Developer Experience/DevOps/Jenkins|Jenkins]], [[Tooling/Software Development/Developer Experience/DevOps/Docker|Docker]], or [[Tooling/Software Development/Developer Experience/DevOps/Kubernetes|Kubernetes]] for automating workflows.
 2. **Problem-Solving**:
     
     - Ability to diagnose and resolve issues with tools, systems, or workflows efficiently.
