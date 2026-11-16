@@ -235,7 +235,7 @@ Large firms. Useful as co-investors and as context, not as Hypernova targets. *S
 | Moonfire Ventures (**CRM**) | Wall |  |
 | Mosaic Ventures | Wall |  |
 | NAP | Wall |  |
-| [[vertical-toolkits/Alternatives/Venture-Capital-Firms/NEA\|NEA]] (**CRM**) | Stage, Wall, Slush 100 host | [[Sources/People/Philip Chopin\|Philip Chopin]] (Managing Partner) |
+| [[vertical-toolkits/Alternatives/Venture-Capital-Firms/New Enterprise Associates\|NEA]] (**CRM**) | Stage, Wall, Slush 100 host | [[Sources/People/Philip Chopin\|Philip Chopin]] (Managing Partner) |
 | NGP Capital | Wall |  |
 | Node.vc | Wall |  |
 | Northzone (**CRM**) | Wall |  |
@@ -449,7 +449,7 @@ Lossless Twenty, pending approval. Never create Interactions.
 | [[Sources/People/Sauraj Gambhir\|Sauraj Gambhir]] | Co-Founder & Co-CEO | Prior Labs |
 | [[Sources/People/Joel Hwang\|Joel Hwang]] | Managing Director | [[vertical-toolkits/Alternatives/Venture-Capital-Firms/HarbourVest\|HarbourVest]] |
 | [[Sources/People/Iain Martin\|Iain Martin]] | Senior Editor | Forbes |
-| [[Sources/People/Philip Chopin\|Philip Chopin]] | Managing Partner | [[vertical-toolkits/Alternatives/Venture-Capital-Firms/NEA\|NEA]] |
+| [[Sources/People/Philip Chopin\|Philip Chopin]] | Managing Partner | [[vertical-toolkits/Alternatives/Venture-Capital-Firms/New Enterprise Associates\|NEA]] |
 | [[Sources/People/Niko Bonatsos\|Niko Bonatsos]] | Founder & Managing Director | [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Verdict Capital\|Verdict Capital]] |
 | [[Sources/People/Niklas Zennström\|Niklas Zennström]] | CEO & Founding Partner | [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Atomico\|Atomico]] |
 | [[Sources/People/Alysaa Co\|Alysaa Co]] | Partner | [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Bain Capital Ventures\|Bain Capital Ventures]] |

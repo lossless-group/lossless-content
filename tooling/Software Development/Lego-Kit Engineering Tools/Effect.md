@@ -3,7 +3,7 @@ site_uuid: 137ecc30-f286-4dae-a1a1-e6f017d92fb9
 url: https://effect.website/
 zinger: The best way to manage complexity in TypeScript
 date_created: 2025-04-16
-date_modified: 2025-06-05
+date_modified: 2026-11-15
 image: https://website-landing-seven.vercel.app/opengraph-image.jpg?6fada1acf1f76e7e
 site_name: Effect
 title: Effect – The best way to build robust apps in TypeScript
@@ -15,4 +15,5 @@ og_image: https://website-landing-seven.vercel.app/opengraph-image.jpg?6fada1acf
 description: Effect is a powerful TypeScript library designed to help developers easily create complex, synchronous, and asynchronous programs.
 tags: [Software-Development, Lego-Kit-Engineering-Tools, Developer-Tools, Developer-Experience, TypeScript-Ecosystem]
 ---
+https://youtu.be/OsL9EJWz9UY?si=iJilBpgDbLfmKxWv
 

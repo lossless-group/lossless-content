@@ -11,7 +11,7 @@ authors:
 og_published: 2025-05-21T02:56:31.198Z
 og_last_fetch: 2026-10-06T04:04:01.276Z
 date_created: 2026-10-06
-date_modified: 2026-10-07
+date_modified: 2026-11-15
 site_name: VAST AI Operating System
 aliases:
   - VAST AI Operating System
@@ -22,4 +22,22 @@ slug: vast-data
 at_semantic_version: 0.0.0.1
 tags:
   - Agentic-AI
+  - Large-Codebase-AI
+  - Solutions-For-Scale
+  - AI-Inference-Platforms
+  - Check-It-Out
+  - AI-Toolkit
+  - Enterprise-AI
+  - Self-Hosted-Alternatives
+  - Secure-AI
+  - Local-First
+for_clients:
+  - Laerdal
+  - Tonguc
+  - Param
+  - Alpha Partners
 ---
+https://youtu.be/CQsd6qIGa_c?si=mJb34V3GdlffhsGl
+
+[[Vocabulary/Inference in AI|AI Inference]]
+[[Vocabulary/Data Pipelines|Data Pipelines]]

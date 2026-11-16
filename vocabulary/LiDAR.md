@@ -5,9 +5,11 @@ title: LiDAR
 slug: lidar
 at_semantic_version: 0.0.0.1
 date_created: 2026-10-29
-date_modified: 2026-11-03
+date_modified: 2026-11-14
 cf_last_run: 2026-11-03T22:22:50.105Z
 cf_last_run_model: Perplexity sonar-pro
+aliases:
+  - Lidar
 ---
 [[Vocabulary/Unmanned Aerial Systems|Drones]]
 [[concepts/Market-Categories/Industrial Automations|Industrial AI]]

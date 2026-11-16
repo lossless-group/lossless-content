@@ -8,7 +8,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:05.010Z
 jina_error: Error occurred
 og_last_fetch: 2025-06-06T13:27:34.316Z
-date_modified: 2026-08-26
+date_modified: 2026-11-15
 date_created: 2025-03-30
 og_image: https://www.rust-lang.org/static/images/rust-social-wide.jpg
 description: A language empowering everyone to build reliable and efficient software.
@@ -22,6 +22,8 @@ tags:
 ---
 
 [[Tooling/Software Development/Frameworks/Loco|Loco]]
+
+https://youtu.be/ZsF_zibQwP8?si=Gt0myTPOc-hx0wpV
 
 https://youtu.be/7QwqShxyHtc?si=dUsLrOo-ovTwNdX9
 

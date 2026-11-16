@@ -1,7 +1,7 @@
 ---
 site_uuid: 7a43f934-fdfc-453d-b17b-da7c8eba6dda
 aliases: [MCP]
-date_modified: 2026-08-09
+date_modified: 2026-11-15
 date_created: 2025-03-30
 tags: [Agentic-AI]
 github_profile_url: https://github.com/modelcontextprotocol
@@ -10,6 +10,8 @@ docs_url: https://modelcontextprotocol.io/introduction
  
 [[concepts/Explainers for AI/Prompt Engineering|Prompt Engineering]]
 [[Vocabulary/Retrieval-Augmented Generation|Retrieval-Augmented Generation]]
+
+https://youtu.be/eQ0aCGMcbHw?si=CuNQr3SDy1c60TS3
 
   ![Additional supporting visual content](https://www.dailydoseofds.com/content/images/2025/03/mcp-main.gif)
 

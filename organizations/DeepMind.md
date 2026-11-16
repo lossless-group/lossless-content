@@ -5,12 +5,14 @@ title: DeepMind
 slug: deepmind
 at_semantic_version: 0.0.0.1
 date_created: 2025-04-18
-date_modified: 2026-07-20
+date_modified: 2026-11-15
 tags:
   - AI-Labs
   - AI-Research-Labs
 parent_org: "[[organizations/Google|Google]]"
 ---
+
+https://youtu.be/gPNiuyYirfw?si=8HhZPx4spMTQ4zMS
 
 According to [[Poe AI]]:
 ### The Story of DeepMind

@@ -1,7 +1,7 @@
 ---
 url: https://kilo.ai/
 date_created: 2026-01-09
-date_modified: 2026-05-28
+date_modified: 2026-11-15
 og_title: The Open Source AI Coding Agent for VS Code, JetBrains, and your CLI
 og_description: Build, ship, and iterate faster with Kilo, the most popular open source AI coding agent. Secure, local-first, 500+ models. Start faster today.
 og_image: https://kilo.ai/kilocode-social.png
@@ -25,6 +25,7 @@ for_clients:
 
 [[Tooling/Software Development/Developer Experience/JetBrains|JetBrains]]
 
+https://youtu.be/J1FDLV8oYbc?si=03cz1km3vdxK2F1Y
 # Value Proposition & Features
 
 Kilo is an **open-source AI [[concepts/Explainers for AI/Code Generators|Coding Agent]] and [[concepts/Explainers for AI/Agentic Engineering|Agentic Engineering]] platform** that helps developers build, ship, and iterate software faster by integrating multi-agent AI assistance directly into their IDE and workflows. [^z6612s] It emphasizes **secure, local‑first development** with support for **500+ models**, including local and self‑hosted LLMs, so teams can use AI coding agents without sending code to third‑party clouds. Kilo positions itself as an **“all‑in‑one agentic engineering platform”** focused on practical, agent‑driven software development rather than just code completion. [^z6612s]

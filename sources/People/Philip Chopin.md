@@ -8,6 +8,6 @@ title: "Philip Chopin"
 slug: philip-chopin
 at_semantic_version: 0.0.0.1
 ---
-Managing Partner, [[vertical-toolkits/Alternatives/Venture-Capital-Firms/NEA|NEA]]
+Managing Partner, [[vertical-toolkits/Alternatives/Venture-Capital-Firms/New Enterprise Associates|New Enterprise Associates]]
 
 **Observed at:** 2026 stage speaker at [[Sources/Events/Slush 2026|Slush 2026]]. Observed, not met.

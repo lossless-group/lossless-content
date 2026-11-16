@@ -8,7 +8,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:06.973Z
 jina_error: Error occurred
 og_last_fetch: 2025-09-05T13:13:45.574Z
-date_modified: 2026-11-06
+date_modified: 2026-11-15
 date_created: 2025-03-30
 tags:
   - AI-Toolkit
@@ -27,6 +27,22 @@ Models by [[Anthropic]].
 
 
 https://claude.com/blog/introducing-citations-api
+
+https://youtu.be/LlwhNla5eQg?si=mUX58hc6cnZtsLNy
+
+https://youtu.be/rkfyo1waWYY?si=2mHildm-qtu3y4o5
+
+https://youtu.be/en0GuyhieQk?si=5t_iBLGZVM8JE9mP
+
+https://youtu.be/lDrAZ1wAyVs?si=AsnWzrLRC7gjWEzP
+
+https://youtu.be/8eFuFlaJDKg?si=_qWPqgpUs5n1-EBW
+
+https://youtu.be/LCwT00LrPZg?si=-9UTRQbEMTZbXRDD
+
+https://youtu.be/AlqUtIHHuvI?si=tCpye2IrEOQd0PyU
+
+https://youtu.be/Q0ArTNWXeAU?si=u2PEjFetXuRGBaft
 
 https://youtu.be/en0GuyhieQk?is=YWYbAEdlJkis5_JN
 

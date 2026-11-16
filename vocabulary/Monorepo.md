@@ -1,11 +1,16 @@
 ---
-date_modified: 2025-04-25
+date_modified: 2026-11-15
 site_uuid: 596e22c3-64ba-491b-91bd-a2ef4f9e0db6
 date_created: 2025-04-06
-aliases: [Monorepos]
+aliases:
+  - Monorepos
+  - True Monorepo
+  - true monorepo
+  - monorepos
 ---
-[Yarn Workspaces](https://yarnpkg.com/features/workspaces) on [[Tooling/Software Development/DevOps/Developer Experience/Yarn]]
-[[Tooling/Software Development/Programming Languages/Libraries/Lerna]]
+[Yarn Workspaces](https://yarnpkg.com/features/workspaces) on [[Tooling/Software Development/Developer Experience/Yarn|Yarn]]
+
+[[Tooling/Software Development/Programming Languages/Libraries/Lerna|Lerna]]
 
 https://youtu.be/9iU_IE6vnJ8?si=8neGJXD5uJ784qT8
 

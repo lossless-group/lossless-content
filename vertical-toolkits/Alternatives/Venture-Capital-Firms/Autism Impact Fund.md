@@ -1,7 +1,7 @@
 ---
 url: https://autismimpact.fund/
 date_created: 2026-11-02
-date_modified: 2026-11-03
+date_modified: 2026-11-15
 og_title: AIF
 og_description: Autism Impact Fund
 og_image: https://autismimpact.fund/wp-content/uploads/2023/11/Forbes-Square.png
@@ -17,5 +17,8 @@ at_semantic_version: 0.0.0.1
 for_clients:
   - LearnStart
   - Humain
+tags:
+  - Impact-Investors
 ---
 [[Linea Avey]]
+[[Impact Investors]]

@@ -9,7 +9,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:09.462Z
 jina_error: Error occurred
 og_last_fetch: 2025-06-05T20:00:13.485Z
-date_modified: 2026-08-26
+date_modified: 2026-11-15
 date_created: 2025-03-30
 tags:
   - Software-Development
@@ -26,6 +26,8 @@ cf_last_run_model: Perplexity sonar-pro
 “[18 Weird and Wonderful ways I use Docker](https://youtu.be/RUqGlWr5LBA?si=beBc8yv-4_PwEB4Q)” on [[YouTube]] by [[NetworkChuck]]
 
 [[essays/How Docker Changed Everything|How Docker Changed Everything]]
+
+https://youtu.be/9-2CSJC114k?si=TRmeZeHBGcIPMmK8
 
 https://youtu.be/gUjVnq9hhTE?is=o3sqTPoZpcYow11B
 

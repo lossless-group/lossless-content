@@ -3,13 +3,10 @@ site_uuid: f4d45233-9d13-4892-8b8b-7cc53bf9df63
 image: https://framerusercontent.com/images/ULLjDc352L91ujuHm78OCGd11c.png
 site_name: Mem
 favicon: https://framerusercontent.com/images/pcjGzLsSNegtXTeIDGRh3kERV4Y.png
-og_errors: true
-og_last_error: 2025-03-07T05:38:03.788Z
-og_error_message: Error occurred
 jina_last_request: 2025-03-09T06:45:03.344Z
 jina_error: Error occurred
 og_last_fetch: 2026-11-03T22:10:55.010Z
-date_modified: 2026-11-03
+date_modified: 2026-11-15
 date_created: 2025-03-30
 url: https://get.mem.ai/
 og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Mem.ai_og_screenshot.jpeg
@@ -18,7 +15,7 @@ tags:
   - AI-Interfaces
   - AI-Workspaces
   - AI-Assistants
-og_title: Mem | Your AI chief of staff
+og_title: Your AI chief of staff
 og_description: Mem Agent is your AI chief of staff. It builds a living picture of your tasks, projects, and goals, then steps in at the right moments to keep you moving.
 og_image: https://get.mem.ai/assets/seo/mem-social-card.png
 og_favicon: https://get.mem.ai/assets/brand/mem-mark.png
@@ -32,7 +29,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 Similar to [[Networked-Notes]] and [[concepts/Explainers for Tooling/Advanced Documents|Advanced Documents]], but using [[Generative AI]].
 
-[[concepts/Explainers for AI/AI Chief of Staff]]
+Pivoted to: [[concepts/Explainers for AI/AI Chief of Staff|AI Chief of Staff]]
 
 # Value Proposition & Features
 
@@ -61,7 +58,7 @@ The available company profile reports $29.1 million in disclosed funding and ide
 
 ## Category, Market Size, and Category Growth
 
-Mem.ai fits the AI productivity, knowledge-management, and workspace-builder categories based on the retrieved description of its product focus. [^7zkqep] No reliable analyst or financial-journalism estimate for the specific market served by Mem.ai was available in the retrieved results.
+Mem.ai fits the AI productivity, [[concepts/Explainers for Tooling/Knowledge Management|Knowledge Management]], and workspace-builder categories based on the retrieved description of its product focus. [^7zkqep] No reliable analyst or financial-journalism estimate for the specific market served by Mem.ai was available in the retrieved results.
 
 # Competitive Landscape
 

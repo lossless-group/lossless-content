@@ -260,7 +260,7 @@ The disputed edges are fleet-driver monitoring, product-quality inspection, prod
 
 - [[concepts/Explainers for AI/Edge AI|Edge AI]] — local inference on cameras, gateways, vehicles, or industrial computers to reduce latency, bandwidth consumption, and disclosure of raw footage.
 
-- [[Vision-Language Models]] — multimodal models that search and interpret video through natural-language prompts rather than only predefined detection classes.
+- [[concepts/Explainers for AI/Vision-Language Models]] — multimodal models that search and interpret video through natural-language prompts rather than only predefined detection classes.
 
 - Algorithmic Management and Worker Surveillance — the governance field covering consent, privacy, bias, disciplinary use, worker representation, and limits on automated performance measurement.
 

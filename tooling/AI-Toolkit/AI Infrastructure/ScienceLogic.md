@@ -80,7 +80,7 @@ ScienceLogic provides service-centric observability and AIOps for hybrid, cloud,
 
 - **Hybrid infrastructure monitoring:** Monitors IT infrastructure across cloud and distributed architectures. [^E1]
 - **Application monitoring:** Supports application visibility as part of the ScienceLogic AI Platform. [^vsdcr4]
-- **[[concepts/Explainers for AI/AI-driven operations|AIOps]] and event correlation:** Uses AI-driven operations to identify patterns and prioritize operational issues. [^vsdcr4]
+- **[[concepts/Explainers for AI/AI-Driven Operations|AIOps]] and event correlation:** Uses AI-driven operations to identify patterns and prioritize operational issues. [^vsdcr4]
 - **Relationship mapping:** Provides dependency and service context for interpreting alerts and incidents. [^E1]
 - **Workflow automation:** Integrates monitoring with IT workflows and automation. [^E1]
 - **Network management:** Includes network monitoring and management capabilities. [^vsdcr4]

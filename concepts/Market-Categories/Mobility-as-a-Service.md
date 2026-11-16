@@ -15,10 +15,10 @@ tags:
 
 
 [[organizations/Uber|Uber]]
-[[Lyft]]
+[[organizations/Lyft]]
 [[Lime]]
 [[client-content/Hypernova/Files/Portfolio/Yassir|Yassir]]
-[[Waymo]]
+[[Tooling/Products/Waymo]]
 [[organizations/Tesla|Tesla]]
 
 # Snapshot

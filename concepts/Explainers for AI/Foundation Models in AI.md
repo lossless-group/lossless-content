@@ -2,7 +2,7 @@
 cf_last_run: 2026-05-26T09:00:29.767Z
 cf_last_run_model: Perplexity sonar-pro
 date_created: 2026-05-14
-date_modified: 2026-10-09
+date_modified: 2026-11-15
 site_uuid: 6f776cb2-9289-4373-9098-9c4188da0060
 publish: true
 title: Foundation Models In AI
@@ -12,6 +12,8 @@ aliases:
   - Foundation Models
   - Foundation Model
   - Foundation Models in AI
+  - foundation-models
+  - foundation-model
 tags:
   - AI-Models
   - AI-Research-Labs
@@ -27,6 +29,7 @@ tags:
 - [[Tooling/AI-Toolkit/Models/Gemini|Gemini]]
 - [[Tooling/AI-Toolkit/Models/Gemma|Gemma]]
 - [[Tooling/AI-Toolkit/Models/Claude|Claude]]
+- [[Tooling/AI-Toolkit/Models/Holo|Holo]]
 :::
 
 

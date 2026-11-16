@@ -4,8 +4,9 @@ tags:
   - Industrial-AI
   - Industrial-Software
   - No-Code
+  - Vision-Systems
 date_created: 2026-11-02
-date_modified: 2026-11-06
+date_modified: 2026-11-15
 site_uuid: 708adf40-10fc-4cfd-ace3-8050f6d481ff
 publish: true
 title: Matroid
@@ -28,7 +29,7 @@ cf_last_run_retrieval: 2026-11-06T00:52:14.599Z
 [[concepts/Market-Categories/Industrial Automations|Industrial AI]]
 [[content-areas/AI-Factories-Datacenters/Concepts/Industrial Operations|Industrial Operations]]
 
-Matroid is an enterprise, no-code computer-vision platform for industrial inspection, defect detection, and real-time video analytics. It lets quality and operations teams create “Detectors”—custom models that identify defined objects, defects, actions, hazards, and events in images or video—then trigger notifications or downstream workflows. [^E1] [^d3zn0d]
+Matroid is an enterprise, [[Vocabulary/Low-Code|no-code]] computer-vision platform for industrial inspection, defect detection, and real-time video analytics. It lets quality and operations teams create “Detectors”—custom models that identify defined objects, defects, actions, hazards, and events in images or video—then trigger notifications or downstream workflows. [^E1] [^d3zn0d]
 
 ## Value Proposition & Features
 
@@ -38,7 +39,7 @@ Matroid’s core value is continuous, customizable visual monitoring without req
 - **Industrial visual inspection:** Detectors can identify defects, missing parts, misalignments, assemblies, and other production conditions. [^d3zn0d][^bfpn32]
 - **Real-time video analytics:** The system analyzes live streams and can flag events, anomalies, and unsafe conditions as they occur. [^d3zn0d][^dbt7nx]
 - **Camera-agnostic deployment:** Matroid states that its software works with existing image or video hardware rather than requiring a specific camera brand. [^d3zn0d][^bfpn32]
-- **MLOps architecture:** The platform includes tooling for training, deploying, managing, and scaling detectors across sites. [^d3zn0d][^xcyfz5]
+- **[[Vocabulary/Machine Learning Ops|MLOps]] architecture:** The platform includes tooling for training, deploying, managing, and scaling detectors across sites. [^d3zn0d][^xcyfz5]
 - **Operational integrations:** Detectors can connect with MES, VMS, PLCs, notifications, and other enterprise systems. [^E1]
 - **Analytics and evidence:** Alerts are tied to video footage, allowing teams to review the visual event that triggered detection. [^dbt7nx]
 - **Multi-site rollout:** Detectors can be piloted, documented, validated, and adapted across plants, although camera and lighting conditions still require site-specific verification. [^xcyfz5]
@@ -66,8 +67,6 @@ Sources for Table: [^E1]
 ## Category, Market Size, and Category Growth
 
 Matroid operates in industrial computer vision, automated visual inspection, and real-time video analytics. Its product is particularly aligned with manufacturing-quality automation because it supports detector training for defects, assemblies, hazards, and process events using existing camera infrastructure. [^d3zn0d][^bfpn32]
-
-No reliable analyst-firm estimate for Matroid’s specific addressable market or category growth was found in the available results.
 
 # Competitive Landscape
 

@@ -1,6 +1,6 @@
 ---
 date_created: 2025-06-01
-date_modified: 2026-06-01
+date_modified: 2026-11-15
 title: Pseudomonorepos
 slug: pseudomonorepos
 aliases:
@@ -9,21 +9,37 @@ aliases:
   - Pseudo Monorepos
   - pseudomonorepo
   - pseudomonorepos
+  - Home Repo
+  - Home Repos
 publish: true
 authors:
   - Michael Staton
-tags: [Pseudomonorepos, Context-Engineering, Repository-Architecture, Lossless-Conventions, Monorepos, Git-Submodules, Agentic-Engineering]
+tags:
+  - Pseudomonorepos
+  - Context-Engineering
+  - Repository-Architecture
+  - Lossless-Conventions
+  - Monorepos
+  - Git-Submodules
+  - Agentic-Engineering
 site_uuid: 28b781ea-3ed6-4622-8798-6771d0e9a238
 at_semantic_version: 0.0.01.1
+for_clients:
+  - Laerdal
+  - Param
+  - Parslee
+  - Edviro
+  - AI-Camp
 ---
+https://youtu.be/hWe-j78vNpc?si=uL80IkPIZA2H7RgS
 
-A **pseudomonorepo** is a parent repository that aggregates child repositories — usually as git submodules — *not* to share build tooling or a workspace manifest, but primarily to host a parent-level `context-v/` directory that captures the conventions, prompts, blueprints, and explorations spanning those children.  This is paired with [[concepts/Context Vigilance|Context Vigilance]]
+A **pseudomonorepo** is a parent repository that aggregates child repositories — usually as git submodules — *not* to share build tooling or a workspace manifest, but primarily to host a parent-level `context-v/` directory that captures the conventions, prompts, blueprints, and explorations spanning those children.  This is paired with [[concepts/Context Vigilance|Context Vigilance]]. [[Sources/People/Influencers/Matt Pocock]] calles them [[concepts/Pseudomonorepos|Home Repos]] in his YouTube video of the same name "[The Home Repo](https://youtu.be/hWe-j78vNpc?si=302QW9gsLMbWOMOM)".
 
-It's a term we coined to describe a pattern we kept reaching for that didn't have a name. Neither a [[Monorepos|true monorepo]] (one repo, one dependency graph, one CI) nor a loosely coupled federation of independent repos — pseudomonorepos sit in the middle, optimizing for **shared context** rather than shared tooling.
+It's a term we coined to describe a pattern we kept reaching for that didn't have a name. Neither a [[Vocabulary/Monorepo|Monorepo]] (one repo, one dependency graph, one CI) nor a loosely coupled federation of independent repos — pseudomonorepos sit in the middle, optimizing for **shared context** rather than shared tooling.
 
 ## The Problem It Solves
 
-Modern repositories that work with AI coding agents — Claude Code, Cursor, Codex, Windsurf — accumulate a parallel layer of artifacts that aren't code: spec files, prompt libraries, architectural blueprints, exploration notes, reminders about past mistakes, issue logs. This is the [[Context Engineering|context layer]], and at The Lossless Group we standardize it under a `context-v/` directory at the root of every repo.
+Modern repositories that work with AI coding agents — [[Tooling/AI-Toolkit/Generative AI/Code Generators/Claude Code|Claude Code]], Cursor, Codex, [[Tooling/AI-Toolkit/Models/Devin|Devin]] — accumulate a parallel layer of artifacts that aren't code: spec files, prompt libraries, architectural blueprints, exploration notes, reminders about past mistakes, issue logs. This is the [[Context Engineering|context layer]], and at The Lossless Group we standardize it under a `context-v/` directory at the root of every repo.
 
 The problem appears when a family of related repos starts to share patterns. The Lossless Group's tree includes ~27 projects organized into themed children — `ai-labs/`, `astro-knots/`, `content-farm/`, `tidyverse/` — and a convention that's true across all of `astro-knots/` (say, "no React, no JSX, no Angular") belongs *somewhere* between the individual project and the org-level conventions. A true monorepo would force them into a single dependency graph they don't need; a federation of independent repos would force every project to re-document the shared convention.
 

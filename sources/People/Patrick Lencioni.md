@@ -13,7 +13,8 @@ cf_last_run: 2026-11-14T19:08:47.438Z
 cf_last_run_model: Perplexity sonar-pro
 ---
 
-[[Sources/Books/The Five Dysfunctions of a Team]]
+[[Sources/Books/The Five Dysfunctions of a Team|The Five Dysfunctions of a Team]]
+[[organizations/Table Group]]
 
 # Patrick Lencioni
 

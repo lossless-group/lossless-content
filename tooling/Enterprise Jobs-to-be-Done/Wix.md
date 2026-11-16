@@ -89,7 +89,7 @@ It is less suited to teams that require complete control over hosting infrastruc
 
 - [[Tooling/Enterprise Jobs-to-be-Done/Webflow|Webflow]] — A stronger alternative for teams prioritizing advanced visual layout control, CMS flexibility, and agency-oriented workflows.
 - **WordPress** — A flexible alternative with a large plugin and hosting ecosystem, though it generally requires more setup and maintenance.
-- **[[Squarespace]]** — A hosted alternative focused on polished templates and streamlined site creation.
+- **[[Tooling/Enterprise Jobs-to-be-Done/Squarespace]]** — A hosted alternative focused on polished templates and streamlined site creation.
 - **[[organizations/Shopify|Shopify]]** — A stronger alternative for businesses whose primary requirement is dedicated e-commerce operations.
 - **Weebly** — A simpler website-builder alternative; Wix’s own comparison emphasizes differences in templates, AI, apps, selling, SEO, hosting, pricing, and support. [^kq3k43]
 

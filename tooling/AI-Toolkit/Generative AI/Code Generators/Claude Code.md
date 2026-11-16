@@ -1,7 +1,7 @@
 ---
 url: https://claude.com/product/claude-code
 date_created: 2025-03-08
-date_modified: 2026-06-17
+date_modified: 2026-11-15
 product_of: "[[Tooling/AI-Toolkit/Model Producers/Anthropic|Anthropic]]"
 og_image: https://cdn.sanity.io/images/4zrzovbb/claude-com/6c36adaaf60ecdde313a93ad255eef573ea4de97-1200x630.jpg?rect=0,2,1200,627&w=1200&h=627&fit=crop
 tags:
@@ -32,9 +32,15 @@ https://youtu.be/d-SyGA0Avtw?si=qnl9QXTQ9KCwpcij
 
 https://youtu.be/FDxW2bfBOWE?is=SXu89LGtOIfLVr87
 
+https://youtu.be/yFvl2x8_9gI?si=ixqY3kb4tuPITxoi
+
 https://www.anthropic.com/solutions/coding
 
+# Mods
 
+https://youtu.be/EiThSVZ8pME?si=b5Mvr7uHkiseZwsx
+
+# Build in Skills
 ![2026-05-09_Claude-Code_Session-Info_2.28.08 AM.png](https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-05/2026-05-09_Claude-Code_Session-Info_2.28.08_AM_aswXt2zgV.webp)
 
 # Value Proposition & Features

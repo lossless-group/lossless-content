@@ -1,7 +1,7 @@
 ---
 site_uuid: f980afe0-eb0e-40f6-8f2d-69a77b267186
 date_created: 2025-03-30
-date_modified: 2026-10-31
+date_modified: 2026-11-14
 aliases:
   - Site Builder
   - Website Builders
@@ -12,6 +12,7 @@ tags:
   - Marketing-AI
   - Marketing-Toolkit
   - Digital-Marketing-Tools
+  - Lego-Kit-Engineering-Tools
 cf_last_run: 2026-10-31T16:55:04.288Z
 cf_last_run_model: Perplexity sonar-pro
 ---
@@ -63,11 +64,11 @@ flowchart TD
 
 ## Best Real-World Examples
 
-- [Carrd](https://carrd.co/) — A focused one-page builder launched in 2015 by solo developer AJ and grown through a self-funded, freemium model.[^h7t2fk]
-- [Appsmith](https://www.appsmith.com/) — An open-source application builder for internal applications and customer-facing websites.[^038y9q]
-- [WordPress](https://wordpress.org/) — An open-source CMS selected in one case study to avoid dependence on a proprietary platform and to preserve operational adaptability.[^d0jv3u]
-- [Squarespace](https://www.squarespace.com/) — A hosted builder associated with the mid-2000s shift toward cloud-based website creation.[^v2vpux]
-- [Wix](https://www.wix.com/) — A hosted visual-building service identified among the cloud builders emerging in 2006.[^v2vpux]
+- [Carrd](https://carrd.co/) — [[Tooling/Productivity/Personal Cloud/Carrd|Carrd]] — A focused one-page builder launched in 2015 by solo developer AJ and grown through a self-funded, freemium model.[^h7t2fk]
+- [Appsmith](https://www.appsmith.com/) — [[Tooling/Software Development/Lego-Kit Engineering Tools/Appsmith]] — An open-source application builder for internal applications and customer-facing websites.[^038y9q]
+- [WordPress](https://wordpress.org/) — [[organizations/WordPress|WordPress]] — An open-source CMS selected in one case study to avoid dependence on a proprietary platform and to preserve operational adaptability.[^d0jv3u]
+- [Squarespace](https://www.squarespace.com/) — [[Tooling/Enterprise Jobs-to-be-Done/Squarespace]] —A hosted builder associated with the mid-2000s shift toward cloud-based website creation.[^v2vpux]
+- [Wix](https://www.wix.com/) — [[Tooling/Enterprise Jobs-to-be-Done/Wix|Wix]] — A hosted visual-building service identified among the cloud builders emerging in 2006.[^v2vpux]
 - [WebMagic](https://en.wikipedia.org/wiki/WebMagic) — An early visual web editor that used direct manipulation of page elements rather than hand-written HTML.[^6p78ds]
 - [Dreamweaver](https://www.adobe.com/products/dreamweaver.html) — A professional visual web editor launched in 1997 during the desktop WYSIWYG era.[^d2ku7t][^6p78ds]
 

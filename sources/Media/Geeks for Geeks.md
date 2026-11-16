@@ -1,11 +1,13 @@
 ---
 url: https://www.geeksforgeeks.org/
 date_created: 2026-06-06
-date_modified: 2026-10-09
+date_modified: 2026-11-14
 cf_last_run: 2026-06-06T03:03:48.693Z
 cf_last_run_model: Perplexity sonar-pro
 tags:
   - Influencer-Developers
+  - Knowledge-Bases
+  - Learning-Media
 site_uuid: a0161c34-c6d6-4d2d-9999-b45a5961ef93
 publish: true
 title: Geeks For Geeks
@@ -21,7 +23,7 @@ aliases:
 
 _*GeeksforGeeks is a large, India‑based computer science and programming education website that consultants tap for fast, example‑driven explanations of everything from data structures to system design.*_
 
-GeeksforGeeks is a **website‑style publication** offering “well written, well thought and well explained computer science and programming articles” across topics like algorithms, data structures, DBMS, operating systems, and coding interviews. [^3ls6ay] It was created by **Sandeep Jain**, an alumnus of the Indian Institute of Technology (IIT) Roorkee, and has grown into a broad learning portal with articles, practice problems, and videos aimed at students and working developers. [^3ls6ay] Consultants return to it because it provides quick, code‑level patterns and standard definitions that match how concepts are taught in many technical interviews and university courses. [^x4dl0i] [^3dyuo0] [^3ls6ay] [^h9q8c7]
+GeeksforGeeks is a **website‑style publication** offering “well written, well thought and well explained computer science and programming articles” across topics like algorithms, data structures, DBMS, operating systems, and coding interviews. [^3ls6ay] It was created by **Sandeep Jain**, an alumnus of the [[Indian Institute of Technology]] (IIT) Roorkee, and has grown into a broad learning portal with articles, practice problems, and videos aimed at students and working developers. [^3ls6ay] Consultants return to it because it provides quick, code‑level patterns and standard definitions that match how concepts are taught in many technical interviews and university courses. [^x4dl0i] [^3dyuo0] [^3ls6ay] [^h9q8c7]
 
 ---
 
@@ -68,11 +70,11 @@ These are exemplars; the site also has extensive catalogs in algorithms, data st
 
 ## Why It Matters to Innovators
 
-- GeeksforGeeks encodes **industry‑standard definitions and modeling patterns** (e.g., entities, relationships, weak entities, generalization/aggregation) that form the shared language between product, data, and engineering teams designing new systems. [^x4dl0i] [^3dyuo0] [^3ls6ay] [^h9q8c7] This helps innovators reason precisely about data architectures underlying new products, tying directly into [[concepts/Data Modeling]] and [[concepts/System Design]].
+- GeeksforGeeks encodes **industry‑standard definitions and modeling patterns** (e.g., entities, relationships, weak entities, generalization/aggregation) that form the shared language between product, data, and engineering teams designing new systems. [^x4dl0i] [^3dyuo0] [^3ls6ay] [^h9q8c7] This helps innovators reason precisely about data architectures underlying new products, tying directly into [[Vocabulary/Data Models|Data Modeling]] and [[System Design]].
 - Its DBMS and ER‑model content gives **ready‑to‑reuse mental templates** for modeling organizations, products, and users (for example, ER diagrams of a company with Employee, Department, Projects, Dependents), which can be adapted quickly for new product schemas or analytics environments. [^x4dl0i]
 - Articles on **weak entities, participation constraints, and partial keys** implicitly teach how to model **dependencies and lifecycle relationships** (parent–child, ownership, existence dependencies), which are central to robust [[Vocabulary/Domain-Driven Design|Domain-Driven Design]] in complex products. [^3dyuo0]
 - Tutorials on **generalization, specialization, and aggregation** in ER models frame **abstraction as a design tool**: bottom‑up generalization to identify common capabilities, top‑down specialization for segment‑specific features, and aggregation to treat relationships as first‑class entities — all powerful patterns when architecting modular platforms or APIs. [^3ls6ay]
-- Because many developers and candidates rely on GeeksforGeeks for interview preparation, its idioms inform how **“canonical” solutions** are understood in practice; innovators can use this as a calibration point for what typical engineering talent will consider a “normal” approach to problems in data structures, DBMS, and system design. [^x4dl0i] [^3dyuo0] [^3ls6ay] [^h9q8c7]
+- Because many developers and candidates rely on GeeksforGeeks for interview preparation, its idioms inform how **“canonical” solutions** are understood in practice; innovators can use this as a calibration point for what typical engineering talent will consider a “normal” approach to problems in data structures, [[concepts/Explainers for Tooling/Databases|DBMS]], and system design. [^x4dl0i] [^3dyuo0] [^3ls6ay] [^h9q8c7]
 
 ---
 
@@ -87,9 +89,8 @@ These are exemplars; the site also has extensive catalogs in algorithms, data st
 
 ## Adjacent Sources
 
-- [[sources/GeeksforGeeks-DBMS-Tutorials]] — deeper cataloging of the full DBMS track on GeeksforGeeks as a focused learning path.  
-- [[concepts/Data Modeling]] — foundational concept that GeeksforGeeks’ ER and DBMS content operationalizes with concrete diagrams and examples.  
-- [[concepts/System Design]] — broader architecture lens that builds on the database and entity‑relationship ideas taught in these tutorials.  
+- [[Vocabulary/Data Models|Data Models]] — foundational concept that GeeksforGeeks’ ER and DBMS content operationalizes with concrete diagrams and examples.  
+- [[System Design]] — broader architecture lens that builds on the database and entity‑relationship ideas taught in these tutorials.  
 - [[sources/Stack-Overflow]] — complementary community Q&A surface where many of the same CS and programming concepts show up in real‑world problem contexts.  
 - [[sources/Khan-Academy-Computer-Science]] — another educational platform whose CS material can be cross‑referenced for pedagogy and coverage contrasts.
 

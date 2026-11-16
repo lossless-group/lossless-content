@@ -1,5 +1,5 @@
 ---
-date_modified: 2026-08-23
+date_modified: 2026-11-15
 site_uuid: c49fdee8-e072-47cb-aa26-3d435008fb39
 date_created: 2025-04-06
 aliases:
@@ -32,6 +32,8 @@ https://youtu.be/SMQc4umq3gg?si=gJr-4ncsHn0j6OHG
 https://youtu.be/p572p-irRaU?si=iioCEZbSlyOGFslH
 
 https://youtu.be/QMG5F64b454?is=hZ7QmDqgN4H1MeN8
+
+https://youtu.be/_0LzRTAHPnI?si=mloOzwlLD1OQjSfH
 
 
 A **web browser** is software that allows users to access, retrieve, and view content on the World Wide Web. It works by fetching resources (HTML, CSS, JavaScript, etc.) from web servers, interpreting the code, and rendering it into user-friendly web pages. Browsers also manage navigation, security, and interactivity through components like rendering engines (e.g., Blink, Gecko) and JavaScript engines. [^do8swo] [^79wv6h] [^7jpo91]

@@ -1,14 +1,19 @@
 ---
 date_created: 2025-03-29
-date_modified: 2026-10-08
+date_modified: 2026-11-15
 site_uuid: 2742fe0c-7bee-4f2c-9cee-b0630f9be3e3
-aliases: [Models, AI Model, Model]
+aliases:
+  - Models
+  - AI Model
+  - Model
+  - AI-Models
+tags:
+  - AI-Models
+  - Foundation-Models
 ---
 https://youtu.be/ncqVZnot99c?si=I3QhZqPIh6umTibW
 
-![Uploading file...8zu56]()
-
-![Uploading file...tbmp1]()
+https://youtu.be/8BD6w5wELRo?si=sYv1sROlEcPYKWwO
 
 
 [[AI Models]] are large [[concepts/Explainers for AI/Neural Networks|Neural Networks]] that are trained on large-scale data using [[Machine Learning]], and can approach [[concepts/Explainers for AI/Compositional Generalization|Compositional Generalization]]. When [[AI Models|Models]] are trained using open data sources, particularly when the [[AI Models|Model]] itself seeks and trains on public data sources, this is called [[Machine Learning#Deep Learning|Deep Learning]]. ^830936
@@ -22,20 +27,20 @@ The best way to learn about [[AI Models|Models]] is [[Hugging Face]].
 
 Independent organizations creating models include:
 - [[OpenAI]], maintaining [[GPT-Series Models]] and [[O-Series Models]]. 
-- [[Anthropic]], maintaining [[Tooling/AI-Toolkit/Models/Claude]].
+- [[Anthropic]], maintaining [[Tooling/AI-Toolkit/Models/Claude|Claude]].
 - [[Cognition AI]], maintaining [[Devin]].
 - [[DeepSeek]], maintaining [[DeepSeek]] and [[r1]].
-- [[Tooling/AI-Toolkit/Model Producers/Mistral]], maintaining [[Small]]. 
+- [[Tooling/AI-Toolkit/Model Producers/Mistral|Mistral]], maintaining [[Small]]. 
 - [[Black Forest Labs]], maintaining [[Flux]]
 - [[organizations/Stanford Research Institute|SRI]], maintaining [[STORM]]. 
-- [[organizations/X]], maintaining [[Grok]]
+- [[organizations/X|X]], maintaining [[Grok]]
 
 Big Tech organizations include:
-- [[organizations/Google Labs]], maintaining [[Gemini]]
-- [[organizations/Meta]], maintaining [[Tooling/AI-Toolkit/AI Interfaces/OLlama]] and [[LLaMA]], [[LLaVa]]
-- [[organizations/IBM]], maintaining [[Watson]]
-- [[organizations/Alibaba]], maintaining [[Qwen]] and [[Wan]]
-- [[organizations/Microsoft]], maintaining [[Phi-Series Models]]
+- [[organizations/Google Labs|Google Labs]], maintaining [[Gemini]]
+- [[organizations/Meta|Meta]], maintaining [[Tooling/AI-Toolkit/AI Interfaces/OLlama]] and [[LLaMA]], [[LLaVa]]
+- [[organizations/IBM|IBM]], maintaining [[Watson]]
+- [[organizations/Alibaba|Alibaba]], maintaining [[Qwen]] and [[Wan]]
+- [[organizations/Microsoft|Microsoft]], maintaining [[Phi-Series Models]]
 
 ###### [[Fabric]] has a list for us:
 Available plugins (please configure all required plugins)::
@@ -69,12 +74,7 @@ Tools
 2024, Nov 20. [Multimodal AI: LLMs that can see (and hear)](https://youtu.be/Ot2c5MKN_-w?si=ku0hpAHSCfcRZmXR) Shaw Talebi, [[YouTube]].
 ![[IMG_1914_Concept-Diagram--Multimodal-Models.png]]
 
-[[Vocabulary/Retrieval-Augmented Generation]] and [[Knowledge Augmented Generation|KAG]]
-
-![[Cursor#Cursor connects to AI Models by using Application Programming Interface APIs]]
-
-
-
+[[Vocabulary/Retrieval-Augmented Generation|Retrieval-Augmented Generation]] and [[Knowledge Augmented Generation|KAG]]
 
 https://youtu.be/AxAj16ZmanY?si=Im7rZxEAdhztAznu
 
