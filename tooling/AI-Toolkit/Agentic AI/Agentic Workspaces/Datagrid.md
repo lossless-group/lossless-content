@@ -92,7 +92,7 @@ Public sources focus on acquisition rather than discrete venture rounds; no deta
 
 | Round       | Date     | Amount        | Lead investor / acquirer                                    |
 | ----------- | -------- | ------------- | ----------------------------------------------------------- |
-| Acquisition | Jan 2026 | Not disclosed | **[[Procore Technologies]]** (acquirer) |
+| Acquisition | Jan 2026 | Not disclosed | **[[content-areas/AI-Factories-Datacenters/Organizations/Procore Technologies]]** (acquirer) |
 | Total       | —        | Not disclosed | —                                                           |
 
 Sources for Table: [^szhsa4] [^5cfe21]

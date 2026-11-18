@@ -15,9 +15,9 @@ tags:
   - Agentic-Ai
 ---
 
-[[concepts/Explainers for AI/AI Powered Personal Assistant]], [[concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]], [[Agentic AI]]
+[[concepts/Explainers for AI/AI-Powered Personal Assistants]], [[concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]], [[Agentic AI]]
 
-##### [[Convergence AI]] is an [[concepts/Explainers for AI/AI Powered Personal Assistant]]
+##### [[Convergence AI]] is an [[concepts/Explainers for AI/AI-Powered Personal Assistants]]
 ![](https://i.imgur.com/UtPwCyL.png)
 
 

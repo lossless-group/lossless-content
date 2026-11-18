@@ -1,7 +1,7 @@
 ---
 site_uuid: 5802a4c5-2291-44b7-9a47-dc45d9cbc9ea
 date_created: 2025-04-18
-date_modified: 2026-11-14
+date_modified: 2026-11-18
 publish: true
 title: Lego Kit Engineering
 slug: lego-kit-engineering
@@ -16,6 +16,7 @@ tags:
   - Digital-Marketing-Tools
 covers_tags:
   - Site-Builders
+  - Database-as-a-Service
 ---
 
 
@@ -34,6 +35,9 @@ https://youtu.be/GirrkYXoEGM?si=K7Lcv6xDXWpGaUQt
 [[concepts/Embedded Finance|Embedded Finance]]
 
 [[concepts/Explainers for Tooling/Site Builders|Site Builders]]
+
+[[concepts/Explainers for Tooling/Backend-as-a-Service|Backend-as-a-Service]]
+
 
 
 
@@ -74,7 +78,7 @@ The emergence of containerization technologies, particularly after Docker became
 
 ## The Rise of Microservices and Distributed System Architectures
 
-Microservices architecture represents perhaps the most significant manifestation of the shift toward composable software engineering. This architectural approach breaks down applications into small, autonomous services, each responsible for specific business functions and capable of independent development, deployment, and scaling. [^e3ks1v] Unlike monolithic systems where all processes are tightly coupled and share single codebases and databases, microservices create clear boundaries between different system components, enabling teams to work independently while maintaining system cohesion through well-defined APIs.
+[[Vocabulary/Microservices|Microservices Architecture]] represents perhaps the most significant manifestation of the shift toward composable software engineering. This architectural approach breaks down applications into small, autonomous services, each responsible for specific business functions and capable of independent development, deployment, and scaling. [^e3ks1v] Unlike monolithic systems where all processes are tightly coupled and share single codebases and databases, microservices create clear boundaries between different system components, enabling teams to work independently while maintaining system cohesion through well-defined APIs.
 
 The fundamental principle underlying microservices architecture is the decomposition of complex business processes into discrete, manageable services. [^e3ks1v] Each microservice typically handles a specific business capability, such as user authentication, inventory management, order processing, or payment handling. This granular approach allows organizations to assign dedicated teams to individual services, enabling specialized expertise development and reducing coordination overhead between development groups. The autonomous nature of microservices means that each service can utilize its own programming languages, data storage solutions, and development frameworks, provided they maintain compatible API interfaces for inter-service communication.
 
@@ -92,7 +96,7 @@ The adoption of microservices has been further accelerated by the growth of clou
 
 ## Component-Based Engineering and Microfrontends
 
-The principles driving microservices adoption in backend systems have been paralleled by similar developments in frontend architecture through the emergence of microfrontends and component-based engineering practices. Component-Based Software Engineering (CBSE) represents a fundamental shift in how user interfaces and client-side applications are conceptualized and constructed, moving from monolithic frontend applications toward modular, reusable component ecosystems. [^e38klp]
+The principles driving microservices adoption in backend systems have been paralleled by similar developments in frontend architecture through the emergence of microfrontends and component-based engineering practices. [[Vocabulary/Component-Based Software Architecture|Component-Based Software Architecture]] (CBSE) represents a fundamental shift in how user interfaces and client-side applications are conceptualized and constructed, moving from monolithic frontend applications toward modular, reusable component ecosystems. [^e38klp]
 
 The foundational concept behind component-based engineering traces back to ideas that "finally caught on" in the 1990s, when researchers and engineers began shaping what became modern CBSE practices. [^e38klp] Clemens Szyperski's influential work "Component Software: Beyond Object-Oriented Programming" established the theoretical framework for applications to be "assembled from reusable components" rather than coded entirely from scratch. [^e38klp] This paradigm shift laid the groundwork for contemporary frontend development practices that emphasize modularity, reusability, and composition over monolithic application structures.
 

@@ -9,11 +9,13 @@ platform: "youtube"
 language: "en"
 transcript_engine: "supadata"
 date_transcribed: "2026-08-09T04:17:01.058Z"
+date_created: 2026-08-19
+date_modified: 2026-11-17
 ---
 
 # The Best Local Agentic Coding Workflow (Complete Guide)
 
-> Setting up a local AI model can be intimidating, which is why I created this video. In this video I will show you everything you need to know about setting up local AI models from the basics of how local AI models work, to how to optimize local AI models for your hardware, and even how to use these local AI models in real world agentic environments.   📚 Materials/References:  LM Studio: https://lmstudio.ai/ Hugging Face: https://huggingface.co/ Pi Coding Agent: https://pi.dev/   🌎 Find Me Here:  My Blog: https://blog.webdevsimplified.com/ My Courses: https://courses.webdevsimplified.com/ Patreon: https://www.patreon.com/WebDevSimplified Twitter: https://twitter.com/DevSimplified Discord: https://discord.gg/7StTjnR GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified   ⏱️ Timestamps:  00:00 - Introduction 01:08 - How Local AI Works 05:33 - Picking Models 11:46 - Configuring Your Model 21:57 - Using Local Models In Your IDE 34:17 - Using Local Models With Copilot 38:17 - Using Local Models With Pi 40:55 - Comparing Local Models to Anthropic Models   #LocalAI #WDS #AgenticCoding
+> Setting up a local AI model can be intimidating, which is why I created this video. In this video I will show you everything you need to know about setting up local AI models from the basics of how local AI models work, to how to optimize local AI models for your hardware, and even how to use these local AI models in real world agentic environments.   📚 Materials/References:  LM Studio: https://lmstudio.ai/ Hugging Face: https://huggingface.co/ Pi Coding Agent: https://pi.dev/   🌎 Find Me Here:  My Blog: https://blog.webdevsimplified.com/ My Courses: https://courses.webdevsimplified.com/ Patreon: https://www.patreon.com/WebDevSimplified Twitter: https://twitter.com/DevSimplified Discord: https://discord.gg/7StTjnR GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified   ⏱️ Timestamps:  00:00 - Introduction 01:08 - How Local AI Works 05:33 - Picking Models 11:46 - Configuring Your Model 21:57 - Using Local Models In Your IDE 34:17 - Using Local Models With Copilot 38:17 - Using Local Models With Pi 40:55 - Comparing Local Models to Anthropic Models   #LocalAI #WDS #Agentic-Engineering 
 
 [Watch or listen at the source](https://youtu.be/UngVdAsQEiU?si=ElbmdiKIQ5LxqTuZ)
 

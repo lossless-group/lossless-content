@@ -15,5 +15,5 @@ tags:
 
 [[concepts/Explainers for Tooling/Internal Tool Builders|Internal Tool Builders]]
 
-[[Vocabulary/Database Interfaces]]
+[[concepts/Explainers for Tooling/Database Interfaces]]
 

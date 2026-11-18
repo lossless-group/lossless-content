@@ -1,20 +1,25 @@
 ---
-date_modified: 2025-08-25
+date_modified: 2026-11-18
 site_uuid: aa9ed531-8973-4865-becd-1444df493a4a
 date_created: 2025-04-06
-aliases: [Component Library]
+aliases:
+  - Component Library
+  - UI Kits
+  - UI-Kits
+  - UI Kit
 publish: true
-title: UI Kit
+title: "UI Kit"
 slug: ui-kit
 at_semantic_version: 0.0.0.1
 authors:
   - Michael Staton
-augmented_with: Perplexity AI
+augmented_with: "Perplexity AI"
 ---
 
 A mainstay of [[Component-Based Software Architecture]].
 [[Tooling/Software Development/Lego-Kit Engineering Tools/shadcn|shadcn]]
-[[Tooling/Software Development/Lego-Kit Engineering Tools/Build at Lightspeed]]
+[[Tooling/Software Development/Lego-Kit Engineering Tools/Build at Lightspeed|Build at Lightspeed]]
+[[Tooling/Software Development/Frameworks/Frontend/UI Frameworks/Tailwind|Tailwind]]
 
 ***
 > [!info] **Perplexity Query** (2025-08-17T21:21:42.159Z)
@@ -33,7 +38,7 @@ User Interface Kits—or **UI kits**—are curated sets of pre-designed visual c
 
 ### What Are UI Kits and Why Do They Matter?
 
-A **UI kit** offers ready-made elements such as buttons, icons, typography, navigation menus, cards, and form fields. [^q6t49w] [^rjmo34] [^f81px8] These assets enable teams to skip redundant design tasks and focus directly on delivering engaging user experiences. [^jz9vde] Whether it’s a simple website or a sophisticated app, UI kits provide the foundational design building blocks—often color schemes, icon packs, and responsive layouts—that can be integrated with popular tools like **Figma, Sketch, or Adobe XD**. [^q6t49w]
+A **UI kit** offers ready-made elements such as buttons, icons, typography, navigation menus, cards, and form fields. [^q6t49w] [^rjmo34] [^f81px8] These assets enable teams to skip redundant design tasks and focus directly on delivering engaging user experiences. [^jz9vde] Whether it’s a simple website or a sophisticated app, UI kits provide the foundational design building blocks—often color schemes, icon packs, and responsive layouts—that can be integrated with popular tools like **[[Tooling/Software Development/Design/Figma|Figma]], [[Sketch]], or Adobe XD**. [^q6t49w]
 
 **Practical Examples and Use Cases:**
 
@@ -65,7 +70,7 @@ UI kits are now standard in professional design workflows, embraced by agencies,
 **Recent Developments:**
 
 - **Integration with collaboration tools:** Figma’s real-time design and prototyping capabilities have advanced the utility of UI kits for distributed teams.
-- **Component libraries:** React and Vue ecosystems support componentized UI kits that update across projects, enhancing maintainability. [^rjmo34]
+- **Component libraries:** [[Tooling/Software Development/Frameworks/Web Frameworks/React|React]] and [[Tooling/Software Development/Frameworks/Web Frameworks/Vue.js|Vue.js]] ecosystems support componentized UI kits that update across projects, enhancing maintainability. [^rjmo34]
 - **Design systems convergence:** Many UI kits now act as full-fledged design systems, guiding not only assets but interaction and branding standards for entire organizations. [^q6t49w]
 
 ![UI Kits future trends or technology visualization](https://fabrx.co/wp-content/uploads/2022/12/What-Is-a-Mobile-App-UI-Kit-and-What-Are-the-Benefits-of-Using-It-for-Your-App.png)

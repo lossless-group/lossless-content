@@ -6,6 +6,8 @@ tags:
   - AI-Infrastructure
   - Memory-Layers
   - Context-Layers
+  - Check-It-Out
+  - AI-Toolkit
 og_title: Kepler — AI’s New Memory
 og_description: Beyond HBM & SRAM. Production in 2027. Scaling in America in 2028.
 og_image: https://keplercompute-fab-concept.netlify.app/social/kepler-sram-wafer-2026-09.jpg
@@ -13,7 +15,7 @@ og_favicon: https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback
 og_site_name: Kepler
 og_last_fetch: 2026-11-07T04:47:44.133Z
 date_created: 2026-10-26
-date_modified: 2026-11-07
+date_modified: 2026-11-17
 site_uuid: ba1d5123-a725-4a23-9bdb-e85b3e786ee8
 publish: true
 title: Kepler Compute

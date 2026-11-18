@@ -67,7 +67,7 @@ The provided search results do not include a recent Form 990, audited financials
 
 # Ecosystem and Relationships
 
-- [[GNU Project]] — the FSF’s original and continuing ecosystem anchor. [1]
+- [[organizations/GNU Project]] — the FSF’s original and continuing ecosystem anchor. [1]
 - Richard Stallman — founder and long-time symbolic figure associated with the organization. [1]
 - GNU GPL — the license family most closely associated with the FSF’s legal-political agenda. [1]
 - Free software movement — the broader community and ideological ecosystem the FSF helps organize. [2][3]
@@ -89,7 +89,7 @@ As of 2026-05-23,
 
 # Adjacent Entries
 
-- [[GNU Project]]
+- [[organizations/GNU Project]]
 - [[concepts/Copyleft]]
 - [[GNU General Public License]]
 - [[Sources/People/Richard Stallman]]

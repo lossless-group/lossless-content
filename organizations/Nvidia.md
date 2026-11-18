@@ -90,6 +90,6 @@ Sources
 
 
 ## Nvidia SDK Manager
-[[organizations/Nvidia]] has an [[SDK]] manager, which offers easy access to the SDKs for their various hardware products available at [Nvidia Developer](https://developer.nvidia.com/sdk-manager).  It has robust and accessible [[Documentation]].![[Screenshot 2025-01-20 at 1.31.35 PM_NVIDIA_SDK--Hero.png]]
+[[organizations/Nvidia]] has an [[SDK]] manager, which offers easy access to the SDKs for their various hardware products available at [Nvidia Developer](https://developer.nvidia.com/sdk-manager).  It has robust and accessible [[concepts/Explainers for Tooling/Documentation]].![[Screenshot 2025-01-20 at 1.31.35 PM_NVIDIA_SDK--Hero.png]]
 
 [[projects/Emergent-Innovation/Standards/Compute Unified Device Architecture|CUDA]]

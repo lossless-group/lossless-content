@@ -1,11 +1,28 @@
 ---
 aliases:
   - Change Management
+  - OCM
 date_created: 2024-10-06
-date_modified: 2026-05-25
+date_modified: 2026-11-17
 cf_last_run: 2026-05-25T18:52:06.606Z
 cf_last_run_model: Perplexity sonar-pro
+tags:
+  - Management-Concepts
+  - Management-Strategies
+  - Business-Pitfalls
+  - Lossless-Thinking
+  - Company-Leadership
+for_clients:
+  - Laerdal
+  - Param
+  - Tonguc
+site_uuid: 619b8ac4-7338-4fce-b950-3b1b6da033fe
+publish: true
+title: Organizational Change Management
+slug: organizational-change-management
+at_semantic_version: 0.0.1.1
 ---
+[[Vocabulary/Digital Transformation|Digital Transformation]]
 
 # Defining and Describing Organizational Change Management
 
@@ -81,7 +98,7 @@ Consulting guidance such as NMS Consulting’s **5 C’s of organizational chang
 
 Contemporary analyses from firms such as McKinsey describe organizations facing **“radical reinvention”** and “more frequent and concurrent changes,” moving beyond occasional large projects to near-continuous transformation. [^fk02fs] In these scenarios, leaders discover that traditional, linear change programs are insufficient; they must **rethink traditional change-management tools** and develop capabilities for ongoing sensing, experimentation, and adaptation. [^fk02fs] A typical large organization might be simultaneously shifting to hybrid work, digitizing customer channels, and restructuring business units, all while responding to competitive and regulatory pressures. [^fk02fs] Applying OCM at this scale involves creating **portfolios of change**, establishing predictable communication rhythms, and integrating change practices into everyday leadership behaviors so that employees are not overwhelmed by “change fatigue.”[^falqt7] [^fk02fs] Managers slow down critical messages, invite questions, and pay close attention to how people react to change, while building systems for feedback and course correction. [^falqt7] [^fk02fs] This case shows how OCM has evolved from supporting discrete projects to functioning as a **core organizational capability** for navigating continuous, overlapping changes in strategy, technology, and ways of working. [^falqt7] [^fk02fs]
 
-
+ 
 ***
 
 # Sources
@@ -96,3 +113,4 @@ Contemporary analyses from firms such as McKinsey describe organizations facing 
 [8]: [Change Management Examples [+ 3 Real-Life Case Studies]](https://www.yourthoughtpartner.com/blog/change-management-examples)
 [^gw7gx4]: [Top 10 change management models in 2026 - Zendesk](https://www.zendesk.com/blog/employee-service/hrsm/change-management-models/)
 [^7atl04]: [Organizational Change Management - Cornell University](https://it.cornell.edu/change-management)
+[^f2v7t7]: 2026, Nov 10. [Reinventing business planning with agentic AI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/reinventing-business-planning-with-agentic-ai). [[organizations/McKinsey|McKinsey]]. 

@@ -17,4 +17,4 @@ slug: initialized-capital
 at_semantic_version: 0.0.0.1
 ---
 [[Sources/People/Alexis Ohanion|Alexis Ohanion]]
-[[Gary Tan]]
+[[Sources/People/Garry Tan]]

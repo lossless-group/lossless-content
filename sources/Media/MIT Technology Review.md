@@ -2,7 +2,12 @@
 cf_last_run: 2026-05-25T22:06:31.278Z
 cf_last_run_model: Perplexity sonar-pro
 date_created: 2026-05-25
-date_modified: 2026-05-25
+date_modified: 2026-11-17
+site_uuid: 54db1569-56a0-443f-b051-c56cfe43d5a7
+publish: true
+title: MIT Technology Review
+slug: mit-technology-review
+at_semantic_version: 0.0.1.1
 ---
 
 # MIT Technology Review
@@ -85,11 +90,11 @@ Because this is a **publication**, its value comes from the institution plus a r
 
 ## Adjacent Sources
 
-- [[sources/Wired]] — another technology magazine with strong longform reporting, useful for contrasting editorial tone and market focus with MIT Technology Review.
-- [[sources/Harvard Business Review]] — complementary management and strategy lens on similar technologies, especially on leadership, organization design, and [[concepts/Innovation Portfolio]].
-- [[sources/McKinsey Global Institute Reports]] — more quantitative, consulting‑style research on technology adoption and economic impact, often cited alongside MIT Technology Review Insights.
+- [[Sources/Media/Wired Magazine|Wired Magazine]] — another technology magazine with strong longform reporting, useful for contrasting editorial tone and market focus with MIT Technology Review.
+- [[Sources/Media/Harvard Business Review|Harvard Business Review]] — complementary management and strategy lens on similar technologies, especially on leadership, organization design, and [[concepts/Innovation Portfolio]].
+- [[McKinsey Global Institute]] — more quantitative, consulting‑style research on technology adoption and economic impact, often cited alongside MIT Technology Review Insights.
 - [[sources/IEEE Spectrum]] — engineering‑focused technology coverage that dives deeper into hardware and standards, adjacent to MIT Technology Review’s more applied and policy‑aware stance.
-- [[concepts/Disruptive Innovation]] — frequent implicit theme in MIT Technology Review’s business and startup coverage.
+- [[Vocabulary/Disruptive Innovation|Disruptive Innovation]] — frequent implicit theme in MIT Technology Review’s business and startup coverage.
 - [[concepts/Responsible AI]] — strongly aligned with the publication’s ongoing reporting on AI ethics, bias, and governance.
 
 

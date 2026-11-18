@@ -52,7 +52,7 @@ The available search results do not establish a reliable first academic, book, o
 ## Evolution
 
 - **Transcript-centered editing:** Tools such as [[Tooling/Creative/Descript|Descript]] popularized a document-like model in which a recording is transcribed and cuts, deletions, and rearrangements occur through text editing. [^lp5ogt] [^u828y5]
-- **Automated repurposing:** Platforms such as [[OpusClip]] expanded the concept from editing one finished video to discovering high-value moments in long recordings, then captioning and reframing them for social distribution. [^1eaqhf] [^5ddghd]
+- **Automated repurposing:** Platforms such as [[Tooling/Creative/OpusClip]] expanded the concept from editing one finished video to discovering high-value moments in long recordings, then captioning and reframing them for social distribution. [^1eaqhf] [^5ddghd]
 - **Generative and conversational workflows:** Newer systems combine footage generation, prompt-based shot modification, and chat-directed editing, moving the interface from a conventional timeline toward natural-language collaboration. [^1eaqhf] [^u828y5] [^12vj8t]
 
 # Best Real-World Examples

@@ -14,7 +14,7 @@ cf_last_run: 2026-08-21T17:42:36.651Z
 cf_last_run_model: Perplexity sonar-pro
 ---
 
-[[GNU Project]]
+[[organizations/GNU Project]]
 [[GNU General Public License]]
 [[Vocabulary/Free and Open Source Software|Open Source]]
 [[organizations/The Linux Foundation|The Linux Foundation]]

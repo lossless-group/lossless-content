@@ -24,7 +24,7 @@ https://youtube.com/shorts/fWNFL6SIDws?si=GEuXtMqfaKEkGGPS
 > 1. **Transparency:** Helps users understand the changes in the product and the value of updates.
 > 2. **[[User Education]]:** Explains new features or changes, enabling users to take full advantage of the updates.
 > 3. **Bug Fixes:** Communicates resolved issues to assure users that problems are being actively addressed.
-> 4. **Internal [[Documentation]]:** Serves as a historical record for development teams to track progress and changes.
+> 4. **Internal [[concepts/Explainers for Tooling/Documentation]]:** Serves as a historical record for development teams to track progress and changes.
 > 5. **[[concepts/Market-Categories/Customer Experience|Customer Experience]]]:** Reduces support tickets or inquiries by proactively addressing potential confusion about what has changed.
 > 
 > ---

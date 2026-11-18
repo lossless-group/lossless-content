@@ -1,10 +1,11 @@
 ---
-date_modified: 2026-07-02
+date_modified: 2026-11-17
 site_uuid: 8eb20d11-8750-47e2-99ae-d47e66d4fc9e
 date_created: 2025-04-06
 aliases:
   - Documentation First
   - Spec-Driven Development
+  - Documentation-First Development
 publish: true
 title: Documentation-First Development
 slug: documentation-first-development
@@ -34,11 +35,11 @@ https://youtu.be/b6cbxSaa4U4?is=bmct6JAp0B20JV4_
 
 https://youtu.be/sGYvGUkerA0?is=lJIrzHJOfFPECWSw
 
-The role of [[Documentation]] in becoming a [[concepts/State of the Art|State of the Art]] technology platform is becoming more and more central.  
+The role of [[concepts/Explainers for Tooling/Documentation]] in becoming a [[concepts/State of the Art|State of the Art]] technology platform is becoming more and more central.  
 
-Here's an example of [[organizations/Microsoft|Microsoft]]'s [[Tooling/Software Development/Frameworks/Web Frameworks/DotNET|ASP.NET]] [[Documentation]]:
+Here's an example of [[organizations/Microsoft|Microsoft]]'s [[Tooling/Software Development/Frameworks/Web Frameworks/DotNET|ASP.NET]] [[concepts/Explainers for Tooling/Documentation]]:
 
-#### A screenshot of [[Tooling/Software Development/Frameworks/Web Frameworks/DotNET|ASP.NET]] [[Documentation]].
+#### A screenshot of [[Tooling/Software Development/Frameworks/Web Frameworks/DotNET|ASP.NET]] [[concepts/Explainers for Tooling/Documentation]].
 ![ASP Net Documentation](https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Documentation_First_Development_content_1758977438474_7CI3S-x3_.webp)
 Here's an example of [[organizations/Mozilla|Mozilla]] using process documentation for internal use, yet exposing it to everyone:
 

@@ -27,7 +27,7 @@ The way to best serve customers changes from directly serving them to letting ot
 
 - Aligning to the goals of others -- "Promote your thing, reach more people."
 - Unburdening value propositions -- "We make it easy."
-- Obsessive [[Documentation]], with a [[concepts/Documentation First Development]] methodology. 
+- Obsessive [[concepts/Explainers for Tooling/Documentation]], with a [[concepts/Documentation First Development]] methodology. 
 	- Clear [[Error Handling]]
 - Clear Onramps
 	- Ease of [[concepts/Getting Started]]
@@ -92,7 +92,7 @@ Web Applications often have a slightly different way they become a platform -- t
 
 ![[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Airtable#Airtable API Docs]]
 
-[[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Airtable]] also sports a less common, but extremely helpful, personalized set of [[Documentation]] that allows you to follow the docs with your own data model.  
+[[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Airtable]] also sports a less common, but extremely helpful, personalized set of [[concepts/Explainers for Tooling/Documentation]] that allows you to follow the docs with your own data model.  
 
 ![[Tooling/Software Development/Lego-Kit Engineering Tools/Backend-as-a-Service/Airtable#Airtable Custom API Docs]]
 

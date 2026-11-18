@@ -1,16 +1,29 @@
 ---
 date_created: 2024-06-30
-date_modified: 2025-08-16
-tags: [Marketing-Strategies]
+date_modified: 2026-11-17
+tags:
+  - Marketing-Strategies
+  - Lossless-Thinking
+  - GTM-Strategies
+  - Management-Strategies
+  - Management-Concepts
 site_uuid: ae7cae31-7cd6-439e-b9c1-42fa6f0356ac
 publish: true
 title: Category Leadership
 slug: category-leadership
-at_semantic_version: 0.0.0.1
+at_semantic_version: 0.0.1.1
 authors:
   - Michael Staton
 augmented_with: Perplexity AI
+for_clients:
+  - Laerdal
+  - Param
+  - Edviro
+  - TrustedRouter
 ---
+[[concepts/Positioning Theory|Positioning]]
+[[Sources/People/Jack Trout|Jack Trout]]
+
 
 ***
 > [!info] **Perplexity Query** (2025-08-16T20:01:56.925Z)
@@ -67,3 +80,4 @@ In summary, **Category Leadership** is achieved by inventing or redefining a mar
 
 [^1xchz0]: 2025, Apr 20. [Differentiate or Die: 7 Rules for Category Leadership](https://www.nvp.com/blog/differentiate-or-die/). Published: 2022-01-04 | Updated: 2025-04-20
 
+[^f2v7t7]: 2026, Nov 10. [Reinventing business planning with agentic AI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/reinventing-business-planning-with-agentic-ai). [[organizations/McKinsey|McKinsey]]. 

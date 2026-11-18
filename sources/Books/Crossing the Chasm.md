@@ -1,10 +1,10 @@
 ---
-wikipedia_url: "https://en.wikipedia.org/wiki/Crossing_the_Chasm"
+wikipedia_url: https://en.wikipedia.org/wiki/Crossing_the_Chasm
 date_created: 2025-01-25
-date_modified: 2026-10-29
-generated_with: "Perplexity AI"
+date_modified: 2026-11-17
+generated_with: Perplexity AI
 site_uuid: 7d95d4b9-98c0-47f7-bfce-112f7d3bf4f9
-title: "Crossing The Chasm"
+title: Crossing The Chasm
 slug: crossing-the-chasm
 at_semantic_version: 0.0.1.1
 google_books_url: https://books.google.com/books?id=HkieQgAACAAJ
@@ -17,7 +17,8 @@ publisher: HarperBusiness
 publisher_city: New York
 year_first_published: 1991
 annotation: Identifies the gap between early adopters and the mainstream market and how technology companies get across it.
-our_take: ''
+our_take: ""
+author: "[[Geoffrey Moore]]"
 ---
 Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers.
 

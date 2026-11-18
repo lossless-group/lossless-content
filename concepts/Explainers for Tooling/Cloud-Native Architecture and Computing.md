@@ -2,7 +2,7 @@
 cf_last_run: 2026-05-26T21:06:09.923Z
 cf_last_run_model: Perplexity sonar-pro
 date_created: 2026-05-26
-date_modified: 2026-10-09
+date_modified: 2026-11-17
 for_clients:
   - Param
   - Tonguc
@@ -13,6 +13,7 @@ aliases:
   - Cloud Native
   - Cloud-Native Architecture
   - Cloud-Native Computing
+  - Cloud Computing
 tags:
   - Cloud-Infrastructure
   - Serverless-Cloud

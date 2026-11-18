@@ -16,7 +16,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 
 [[Eric Ries]]
-[[Gary Tan]]
+[[Sources/People/Garry Tan]]
 [[Sources/People/Patrick Collison|Patrick Collison]]
 [[Sources/People/Influencers/Theo-t3.gg|Theo-t3.gg]]
 [[Sources/People/Peter Thiel|Peter Thiel]]

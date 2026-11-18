@@ -32,7 +32,7 @@ cf_last_run_retrieval: 2026-11-05T19:50:34.720Z
 
 [[concepts/Explainers for AI/Agentic Employees|Agentic Employees]]
 [[concepts/Market-Categories/Personal AI|Personal AI]]
-[[concepts/Explainers for AI/AI Powered Personal Assistant|AI Powered Personal Assistant]]
+[[concepts/Explainers for AI/AI-Powered Personal Assistants|AI-Powered Personal Assistants]]
 
 Grok Bot is an agentic AI workspace from xAI for deploying specialized, persistent AI teammates that can use connected applications and coordinate multi-step work. Public examples show bots for product operations, founder-led sales, GTM workflows, and media production. [^2abudx] [^y33n7o] [^nx364j] [^tvz9pv] [^f3boll]
 

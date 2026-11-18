@@ -16,7 +16,7 @@ title: "Fieldy AI"
 slug: fieldy-ai
 at_semantic_version: 0.0.0.1
 ---
-[[concepts/Explainers for AI/AI Powered Personal Assistant|AI Powered Personal Assistant]]
+[[concepts/Explainers for AI/AI-Powered Personal Assistants|AI-Powered Personal Assistants]]
 [[Vocabulary/AI Powered Transcription|AI Transcription]]
 [[concepts/Market-Categories/Personal AI]]
 

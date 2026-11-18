@@ -1,8 +1,15 @@
 ---
-cf_last_run: 2026-05-25T22:05:09.145Z
-cf_last_run_model: Perplexity sonar-pro
+cf_last_run: "2026-05-25T22:05:09.145Z"
+cf_last_run_model: "Perplexity sonar-pro"
 date_created: 2026-05-25
-date_modified: 2026-05-25
+date_modified: 2026-11-17
+aliases:
+  - Wired
+site_uuid: 912137b7-12bd-401e-a50d-8717898f17a3
+publish: true
+title: "Wired Magazine"
+slug: wired-magazine
+at_semantic_version: 0.0.0.1
 ---
 
 # Wired Magazine

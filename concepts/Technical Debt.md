@@ -5,8 +5,12 @@ title: Technical Debt
 at_semantic_version: 0.0.0.1
 slug: technical-debt
 date_created: 2025-08-15
-date_modified: 2025-08-15
-tags: [Software-Development, Refactoring]
+date_modified: 2026-11-17
+tags:
+  - Software-Development
+  - Refactoring
+aliases:
+  - technical-debt
 ---
 
 
@@ -24,7 +28,7 @@ tags: [Software-Development, Refactoring]
 **How Technical Debt Becomes a Competitive Threat:**
 
 - **Slows Innovation:** Technical debt accumulates from short-term technical decisions, patchwork solutions, and legacy systems, making it slow and expensive to add new features or adopt emerging technologies. This limits the ability to respond quickly to market demands and new opportunities, ceding first-mover advantage to more agile competitors. [^1grbuw] [^rp7d94] [^29jdn3]
-- **Increases [[concepts/Opportunity Cost]]:** The time and resources required to maintain legacy systems prevent investment in strategic initiatives. For example, if a competitor can integrate a new payment solution in weeks while an incumbent takes months, the latter loses "early adopter" share and opportunity revenue. [^0agkec]
+- **Increases [[concepts/Opportunity Cost|Opportunity Cost]]:** The time and resources required to maintain legacy systems prevent investment in strategic initiatives. For example, if a competitor can integrate a new payment solution in weeks while an incumbent takes months, the latter loses "early adopter" share and opportunity revenue. [^0agkec]
 - **Adds Business Risk:** Outdated infrastructure increases the risk of security breaches, compliance failures, and scalability bottlenecks. These risks erode client confidence and can drive customers to competing offerings. [^0agkec] [^xqh830]
 - **Undermines Transformation:** Technical debt acts as a drag on digital modernization, like an anchor that holds back transformation efforts. Companies with high debt are much more likely to have incomplete or failed IT projects—stalling modernization efforts even further. [^29jdn3]
 

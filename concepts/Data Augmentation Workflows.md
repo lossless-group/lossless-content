@@ -1,6 +1,6 @@
 ---
 date_created: 2025-01-13
-date_modified: 2026-10-10
+date_modified: 2026-11-17
 tags:
   - Data-Augmenters
   - Data-Capture
@@ -35,7 +35,11 @@ https://github.com/kartikkpawar/flow-scrape
 :::tool-showcase
 - [[Tooling/AI-Toolkit/Knowledge AI/Supdata|Supdata]]
 - [[Tooling/AI-Toolkit/Data Augmenters/Octoparse|Octoparse]]
-- [[Tooling/AI-Toolkit/Data Augmenters/Docparser]]
+- [[Tooling/AI-Toolkit/Data Augmenters/Docparser|Docparser]]
+- [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Origami|Origami]]
+- [[Tooling/AI-Toolkit/Data Augmenters/Context.dev|Context.dev]]
+- [[Tooling/AI-Toolkit/Agentic AI/Firecrawl|Firecrawl]]
+- [[Tooling/AI-Toolkit/Agentic AI/Spider|Spider]]
 :::
 
 ***
@@ -127,8 +131,6 @@ Adoption of agentic workflows for data augmentation is accelerating, particularl
 Recent developments such as *human-in-the-loop augmentation*, reinforcement learning from model feedback, and integration of rich, multi-modal data sources have made these workflows more robust, interpretable, and business-ready. The rise of open-source frameworks and SaaS platforms for agentic automation is lowering the barrier to entry, enabling wider experimentation and deployment.
 
 Startups and research groups are now experimenting with specialized agentic agents capable of domain-specific data augmentation—such as chemistry simulations, synthetic financial transactions, or targeted language paraphrasing—bringing the value of these workflows to an expanding array of verticals. [^aa5q4r] [^ct8khq]
-
-[IMAGE 3: Data Augmentation Workflows with Agentic AI future trends or technology visualization]
 
 ## Future Outlook
 

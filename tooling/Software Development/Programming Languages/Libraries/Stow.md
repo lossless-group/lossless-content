@@ -20,7 +20,7 @@ description_site_cp: Takes distinct packages of software and/or data located in 
 publish: true
 slug: stow
 at_semantic_version: 0.0.0.1
-maintained_by: "[[GNU Project]]"
+maintained_by: "[[organizations/GNU Project]]"
 ---
 
 https://youtu.be/06x3ZhwrrwA?si=UiN8y3MetV3HK7ir

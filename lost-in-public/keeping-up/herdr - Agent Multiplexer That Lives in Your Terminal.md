@@ -1,9 +1,15 @@
 ---
 date_created: 2026-05-25
-date_modified: 2026-05-25
+date_modified: 2026-11-16
 title: herdr — Agent Multiplexer That Lives in Your Terminal
 slug: herdr-agent-multiplexer-terminal
-tags: [Developer-Tools, AI-Agents, Terminal, TUI, Claude-Code, Multiplexer]
+tags:
+  - Developer-Tools
+  - AI-Agents
+  - Terminal
+  - TUI
+  - Claude-Code
+  - Multiplexers
 homepage: https://herdr.dev
 github_repo_url: https://github.com/ogulcancelik/herdr
 brew_page: https://formulae.brew.sh/formula/herdr

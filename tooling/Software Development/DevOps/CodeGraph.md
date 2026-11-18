@@ -1,7 +1,7 @@
 ---
 github_repo_url: https://github.com/colbymchenry/codegraph
 date_created: 2026-07-24
-date_modified: 2026-11-07
+date_modified: 2026-11-17
 url: https://code-graph.pro/
 og_title: CodeGraph — Semantic Code Intelligence for AI Coding Agents
 og_description: CodeGraph is a local code knowledge graph for Claude Code, Cursor, Codex, Gemini, OpenCode, Kiro, and other AI coding agents. Understand codebases faster with fewer tokens and fewer tool calls.
@@ -17,6 +17,8 @@ tags:
   - Knowledge-Graphs
   - Context-Layers
   - Memory-Layers
+  - Check-It-Out
+  - AI-Toolkit
 site_uuid: 4465e7e9-773c-4cb0-9fe8-351d275a0738
 publish: true
 title: CodeGraph

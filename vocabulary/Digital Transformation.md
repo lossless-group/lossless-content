@@ -1,15 +1,22 @@
 ---
 date_created: 2024-06-12
-date_modified: 2025-08-17
+date_modified: 2026-11-17
 site_uuid: 57a9ffc6-0d0e-4f16-840e-46cd81f90115
 publish: true
 title: Digital Transformation
 slug: digital-transformation
-at_semantic_version: 0.0.0.1
+at_semantic_version: 0.0.1.1
 authors:
   - Michael Staton
 augmented_with: Perplexity AI
+tags:
+  - Company-Leadership
+  - Management-Concepts
+  - Solutions-For-Scale
+  - Lossless-Thinking
 ---
+[[concepts/Organizational Change Management|Organizational Change Management]]
+[[concepts/Visual Leadership|Visual Leadership]]
 
 ***
 > [!info] **Perplexity Query** (2025-08-17T06:29:20.390Z)
@@ -30,9 +37,9 @@ At its core, digital transformation goes far beyond technology upgrades. It invo
 
 Key practical applications include:
 
-- **Automation**: Factories and service centers use robotics and intelligent workflows to reduce manual tasks and errors, enabling faster service delivery. [^6lrtk8] [^6makn5]
-- **Big Data Analytics**: Businesses mine vast data sets to uncover insights, improve decision-making, and predict customer preferences. [^6lrtk8]
-- **Cloud Computing**: Migrating infrastructure to the cloud supports flexibility, scalability, and remote collaboration across global teams. [^6makn5] [^0ehs9q]
+- **[[Vocabulary/Workflow Automations|Workflow Automations]]**: Factories and service centers use robotics and intelligent workflows to reduce manual tasks and errors, enabling faster service delivery. [^6lrtk8] [^6makn5]
+- **[[Vocabulary/Big Data|Big Data]] &  [[concepts/Explainers for Tooling/Opinionated Analytics|Opinionated Analytics]]**: Businesses mine vast data sets to uncover insights, improve decision-making, and predict customer preferences. [^6lrtk8]
+- **[[concepts/Explainers for Tooling/Cloud-Native Architecture and Computing|Cloud-Native Computing]]**: Migrating infrastructure to the cloud supports flexibility, scalability, and remote collaboration across global teams. [^6makn5] [^0ehs9q]
 - **Personalization**: Streaming platforms like Netflix harness machine learning to customize content recommendations, fostering user engagement and retention. [^6lrtk8]
 
 The benefits are substantial:
@@ -50,7 +57,7 @@ Despite its promise, digital transformation presents notable challenges. Organiz
 In 2025, digital transformation is accelerating across industries, from manufacturing to banking and healthcare. [^6makn5] Companies are replacing outdated tools with integrated platforms and updating workflows to stay competitive. [^6makn5] AI and machine learning power increasingly complex tasks, while cloud services and 5G networks enable real-time operations and data-driven decision-making. [^6lrtk8] [^6makn5]
 
 Key technologies shaping the landscape include:
-- **AI/ML for automation and predictive analytics**
+- **[[concepts/Explainers for AI/Artificial Intelligence|AI/ML]] for automation and predictive analytics**
 - **[[Vocabulary/Big Data|Big Data]] platforms for actionable insight**
 - **[[Vocabulary/Robotic Process Automation]] (RPA) for end-to-end workflow optimization**
 - **[[Vocabulary/Edge Computing|Edge Computing]] for on-site, real-time data processing[^6makn5] [^6lrtk8]**
@@ -81,4 +88,6 @@ Digital transformation is fundamentally reshaping how businesses operate, drivin
 [^9wv6p3]: 2025, Jun 15. [7 Digital Transformation Challenges to Overcome in 2025](https://kissflow.com/digital-transformation/digital-transformation-challenges/). Published: 2025-06-13 | Updated: 2025-06-15
 
 [^0ehs9q]: 2025, Aug 14. [What Is Digital Transformation?](https://www.ibm.com/think/topics/digital-transformation). Published: 2024-09-09 | Updated: 2025-08-14
+
+[^f2v7t7]: 2026, Nov 10. [Reinventing business planning with agentic AI](https://www.mckinsey.com/capabilities/quantumblack/our-insights/reinventing-business-planning-with-agentic-ai). [[organizations/McKinsey|McKinsey]]. 
 

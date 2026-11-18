@@ -2,11 +2,21 @@
 site_uuid: d73ca267-6a77-41b4-b996-39dad92d2d83
 title: AI Powered Personal Assistant
 site_visibility: public
-date_modified: 2026-10-13
+date_modified: 2026-11-17
 date_created: 2025-03-30
-tags: [AI-Toolkit, Explainers]
+tags:
+  - AI-Toolkit
+  - Explainers
+  - AI-Assistants
+  - ai-powe
+aliases:
+  - AI-Powered Personal Assistants
+  - Agentic Personal Assistants
+  - AI Personal Assistants
+  - AI Powered Personal Assistant
 ---
-[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Fieldy AI]]
+[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Fieldy AI|Fieldy AI]]
+[[Tooling/AI-Toolkit/Agentic AI/Instinct]]
 
 
 Examples include [[Rewind AI]].

@@ -32,7 +32,7 @@ for_clients:
 Part of the [[client-content/Laerdal/Explorations/Current Stack]] of Laerdal.
 
 ### Example of Databricks Documentation
-A good example of [[Documentation]] and [[concepts/Documentation First Development|Documentation First]] development.
+A good example of [[concepts/Explainers for Tooling/Documentation]] and [[concepts/Documentation First Development|Documentation First]] development.
 ![Documentation ](https://i.imgur.com/8JIFWOm.png)
 
 ### Unity Catalog

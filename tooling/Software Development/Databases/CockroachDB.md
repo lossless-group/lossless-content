@@ -81,7 +81,7 @@ It is generally **not optimized** for very small projects, simple single‑node 
 ## Viable Alternatives
 
 - **Google Cloud Spanner** – Managed, globally distributed relational database with strong consistency, often compared to CockroachDB for multi‑region transactional workloads. [^7latja] [^0cs0zx]  
-- **[[Yugabyte DB]]** – Open‑source, distributed SQL database positioned similarly to CockroachDB for cloud‑native, horizontally scalable transactional workloads. [^5t5w9b]  
+- **[[Tooling/Software Development/Backend-as-a-Service/Yugabyte DB]]** – Open‑source, distributed SQL database positioned similarly to CockroachDB for cloud‑native, horizontally scalable transactional workloads. [^5t5w9b]  
 - **Amazon Aurora (PostgreSQL‑compatible)** – Managed relational database offering high availability and read scaling within AWS, suitable for many cloud applications but with different multi‑region characteristics.  
 - **Microsoft Azure SQL Database / SQL MI** – Managed SQL Server‑compatible services for transactional workloads needing high availability and integration with the Microsoft ecosystem. [^5t5w9b]  
 - **PostgreSQL (single‑node or clustered)** – A mature open‑source RDBMS that suits many transactional workloads where full global distribution and automatic sharding are not required.  

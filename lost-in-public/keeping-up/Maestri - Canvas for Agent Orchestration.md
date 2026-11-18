@@ -13,7 +13,7 @@ https://www.themaestri.app/
 
 ## Why This Matters
 
-Most "AI orchestration" tools live in a terminal multiplexer (see [[herdr]] elsewhere in this update) or a web dashboard. `Maestri` takes the other path: an *infinite canvas* native macOS app where each agent — Claude Code, Codex, OpenCode, plain shell, embedded browser — is a window you can place, connect, and zoom. The metaphor is closer to Miro-meets-tmux than to a CLI.
+Most "AI orchestration" tools live in a terminal multiplexer (see [[Tooling/Software Development/Developer Experience/herdr]] elsewhere in this update) or a web dashboard. `Maestri` takes the other path: an *infinite canvas* native macOS app where each agent — Claude Code, Codex, OpenCode, plain shell, embedded browser — is a window you can place, connect, and zoom. The metaphor is closer to Miro-meets-tmux than to a CLI.
 
 Version 0.27.6 just hit Homebrew cask. macOS 26+ — bleeding-edge OS requirement, worth noting before you `brew install`.
 
@@ -27,7 +27,7 @@ Version 0.27.6 just hit Homebrew cask. macOS 26+ — bleeding-edge OS requiremen
 
 ## Where It Fits in Our Workflow
 
-This is the GUI sibling of the same insight that produced [[herdr]]: terminal multiplexers are not designed for *agents*, they are designed for shell sessions. Both products are betting that the next-decade primitive is "many agents running in parallel, all needing attention triage and inter-communication." They disagree on the surface — Maestri thinks the right one is a canvas, herdr thinks it's a TUI.
+This is the GUI sibling of the same insight that produced [[Tooling/Software Development/Developer Experience/herdr]]: terminal multiplexers are not designed for *agents*, they are designed for shell sessions. Both products are betting that the next-decade primitive is "many agents running in parallel, all needing attention triage and inter-communication." They disagree on the surface — Maestri thinks the right one is a canvas, herdr thinks it's a TUI.
 
 Two natural matches in our tree:
 
@@ -37,7 +37,7 @@ Two natural matches in our tree:
 
 Caveats: macOS 26 requirement is steep at the moment — only ships on machines that have updated. Version 0.27.6 means *early*; expect rough edges. The direct agent-to-agent wire (without an API intermediary) is the most interesting architectural claim and the part most worth stress-testing before depending on it.
 
-Worth pairing against [[herdr]] (terminal multiplexer for agents, this same Homebrew cycle) as the two complementary 2026-era takes on this problem.
+Worth pairing against [[Tooling/Software Development/Developer Experience/herdr]] (terminal multiplexer for agents, this same Homebrew cycle) as the two complementary 2026-era takes on this problem.
 
 ## Install
 

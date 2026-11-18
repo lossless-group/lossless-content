@@ -1,6 +1,6 @@
 ---
 date_created: 2024-08-12
-date_modified: 2025-09-26
+date_modified: 2026-11-17
 title: "Load up on CARBS"
 lede: "Align more people through vigilant visual communication."
 date_authored_initial_draft: 2024-08-12
@@ -117,7 +117,7 @@ In summary, the consensus from both academic and business research is that **vis
 
 # References:
 
-[^wa8bk7]: 2024, Feb 14. *The Importance of Clear Communication Channels*. McKinsey Global Institute Report.
+[^wa8bk7]: 2024, Feb 14. *The Importance of Clear Communication Channels*. [[McKinsey Global Institute]] Report.
 
 [^nuib3b]: Manyika, J., Chui, M., Bisson, P., & Woetzel, J. (2023). *Global Value Chains in a Flat World*. McKinsey Global Institute.
 

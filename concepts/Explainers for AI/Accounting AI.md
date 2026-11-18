@@ -1,6 +1,6 @@
 ---
 date_created: 2026-05-06
-date_modified: 2026-05-09
+date_modified: 2026-11-17
 aliases:
   - AI-for-Accounting
 site_uuid: 880542e3-ab39-40a3-ad60-9387878a0181
@@ -15,6 +15,8 @@ for_clients:
   - Laerdal
   - Param
 ---
+[[concepts/Explainers for Tooling/Financial Reporting|Financial Reporting]]
+[[Vocabulary/Generally Accepted Accounting Principles|GAAP]]
 
 ***
 > [!info] **Perplexity Query** (2026-05-09T05:03:40.089Z)

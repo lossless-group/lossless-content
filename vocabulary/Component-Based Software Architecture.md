@@ -1,10 +1,18 @@
 ---
-date_modified: 2025-04-12
+date_modified: 2026-11-18
 site_uuid: 8fdb2b4a-b9ec-4e07-b16c-97d34bf2b7e1
 date_created: 2025-04-06
+aliases:
+  - Component-Based Software Engineering
+tags:
+  - Component-based-Architecture
+  - Lego-Kit-Engineering-Tools
+  - Engineering-Management
+  - Large-Codebases
+  - Market-Standard-Practices
 ---
 
-A dominant paradigm for most modern [[concepts/Explainers for Tooling/Web Frameworks]], and complimented by the rise of [[Design Systems]]. 
+A dominant paradigm for most modern [[concepts/Explainers for Tooling/Web Frameworks|Web Frameworks]], and complimented by the rise of [[Design Systems]] and [[concepts/Explainers for Tooling/UI-Kit|UI-Kit]]
 
 >"As software projects grew more complex, there was a need for a more modular approach. Enter "component-based software architecture". This approach breaks down software into smaller, reusable parts or "components". Each component has a specific function and can work independently.
 >
