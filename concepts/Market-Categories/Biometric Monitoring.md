@@ -19,6 +19,7 @@ at_semantic_version: 0.0.1.1
 image_prompt: "A jogger wearing a wristband, a ring, and a small arm patch is trailed by a little parade of floating gauges: a heartbeat line, a glucose dial, a thermometer, and a sleeping moon, each reporting to a tiny clipboard-carrying doctor robot."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Biometric_Monitoring_banner_image_1794971767940_7XC1s0ck1.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Biometric_Monitoring_portrait_image_1794971776636_3oXQqEP-u.webp
+lede: "Rings, patches, and straps now watch your heart, glucose, and sleep around the clock. The fight is over who turns that stream into medicine."
 ---
 
 

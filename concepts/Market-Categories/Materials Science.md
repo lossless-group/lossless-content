@@ -18,6 +18,7 @@ tags:
 image_prompt: "A scientist peers through a giant magnifying glass at a block of metal, revealing its crystal lattice like a honeycomb city, while a bin of new materials, a graphene sheet, a ceramic tile, and a bendable glass, sit labeled on the bench."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Materials_Science_banner_image_1794972297417_mdQL1Aies.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Materials_Science_portrait_image_1794972306847_Ztu1Fw_rF.webp
+lede: "Every battery, chip, and implant starts with a material someone had to invent. AI is speeding up the inventing."
 ---
 
 # Snapshot

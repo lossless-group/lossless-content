@@ -13,6 +13,7 @@ cf_last_run_model: Perplexity sonar-deep-research
 image_prompt: "A long funnel made of glassware pours thousands of colorful candidate molecules in at the top, while robot arms, microscopes, and a computer screen sort them, and only a single pill drops out of the bottom into a waiting hand."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Drug_Discovery_banner_image_1794971951140_WLGiAi8u8.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Drug_Discovery_portrait_image_1794971959825_KqspA8VQn.webp
+lede: "It still takes a decade and billions of dollars to make a drug. AI, robots, and proprietary lab data are racing to cut both."
 ---
 
 [[concepts/Explainers for AI/AI Powered Research|AI Powered Research]]

@@ -19,6 +19,7 @@ cf_last_run_model: Perplexity sonar-pro
 image_prompt: "A factory assembly line rolls out compact nuclear reactors the size of shipping containers, loaded onto flatbed trucks that drive toward a remote town, a factory, and a data center waiting with empty plugs."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Small_Modular_Reactors_banner_image_1794972443256_bDuQgWiEz.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Small_Modular_Reactors_portrait_image_1794972457415_1uT1QIlag.webp
+lede: "Nuclear power is coming back in smaller, factory-built packages, and AI data centers are first in line to buy."
 ---
 
 

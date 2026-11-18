@@ -26,6 +26,7 @@ cf_last_run_model: Perplexity sonar-pro
 image_prompt: "A small crew of tireless robot clerks runs an old wooden card-catalog office overnight: one rides a ladder pulling customer cards, one types letters on a typewriter, one stamps envelopes and drops them in a mail chute, while a sleepy salesperson arrives in the morning to find a neat stack labeled 'Meetings Booked'."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Agent_Native_CRMs_banner_image_1794971566470_Kr8SscRJ4D.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Agent_Native_CRMs_portrait_image_1794971575301_Q2RZRF-0X.webp
+lede: "Your CRM used to wait for you to type. Now it researches the account, writes the email, and logs the call before you finish your coffee."
 ---
 
 # Snapshot

@@ -17,6 +17,7 @@ cf_last_run_model: Perplexity sonar-pro
 image_prompt: "A cutaway office tower like a dollhouse, with one tiny control room in the basement where a calm operator turns dials that dim lights, cool rooms, and lock doors floor by floor, as pipes and wires run up through every wall."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Building_Management_Systems_banner_image_1794971785962_2KQl9TdGN.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Building_Management_Systems_portrait_image_1794971794870_WQw2z-uEd.webp
+lede: "Every office tower has a nervous system that runs its air, lights, and locks. AI is about to give it a brain."
 ---
 
 [[concepts/Market-Categories/Physical AI]]

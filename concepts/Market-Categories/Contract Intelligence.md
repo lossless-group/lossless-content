@@ -11,6 +11,7 @@ at_semantic_version: 0.0.0.1
 image_prompt: "A magnifying-glass robot hovers over an endless scroll of legal contract unrolling down a staircase, highlighting clauses in bright marker and pinning tiny red flags on renewal dates and hidden penalties."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Contract_Intelligence_banner_image_1794971840779_I5Cw4ChGN.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Contract_Intelligence_portrait_image_1794971849396_TJ_rP-FcJ.webp
+lede: "Companies sign thousands of contracts and then forget what is in them. Contract intelligence makes the fine print searchable."
 ---
 
 

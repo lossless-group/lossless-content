@@ -16,6 +16,7 @@ cf_last_run_model: Perplexity sonar-pro
 image_prompt: "A railway switchyard in the sky where a conductor in a signal tower pulls levers to route trains of shipping crates labeled data, models, and jobs between floating cloud stations, rerouting one that has derailed."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Cloud_Workload_Orchestrators_banner_image_1794971803750_wxUa9vWkZ.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Cloud_Workload_Orchestrators_portrait_image_1794971812442_o9T7g2yg3.webp
+lede: "Behind every data pipeline and AI agent is a scheduler deciding what runs, when, and what happens when it fails."
 ---
 
 [[concepts/Market-Categories/Physical AI]]

@@ -16,6 +16,7 @@ for_clients:
 image_prompt: "A chef and a robot share a test kitchen, the robot running a chemistry set of flavor vials and a taste-graph on a chalkboard while the chef samples a spoonful from one of fifty tiny ramekins of plant-based ice cream."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Food_Science_AI_banner_image_1794972004458_XtD4F36Wa.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Food_Science_AI_portrait_image_1794972013921_aL-4O9fgM.webp
+lede: "The next snack you love may be formulated by a model before a chef ever tastes it."
 ---
 
 Predective Food Science

@@ -10,6 +10,7 @@ cf_last_run_model: Perplexity sonar-pro
 image_prompt: "One general contractor in a hard hat holds a single set of keys while architects, engineers, cranes, and electricians assemble a massive data-center building like stacked toy blocks behind him, all on the same blueprint."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Integrated_Design_Build_banner_image_1794972221252_zkz13w2BK.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Integrated_Design_Build_portrait_image_1794972230298_8TRbzSGeS.webp
+lede: "AI data centers are too big and too urgent to build the old way. One firm now designs, builds, and hands over the keys."
 ---
 
 [[Vocabulary/Data Centers|Datacenters]]

@@ -10,6 +10,7 @@ tags:
 image_prompt: "Workers on an assembly line are filmed by ceiling cameras, and every motion they make is outlined in boxes and tagged with tiny labels like reach, lift, and twist, as a robot apprentice studies the footage on a screen nearby."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Video_Intelligence_for_Manual_Labor_with_Data_Labeling_banner_image_1794972528876_VnhJ2q7Rb.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Video_Intelligence_for_Manual_Labor_with_Data_Labeling_portrait_image_1794972537976_VAdVFf7C7.webp
+lede: "Every shift on a factory floor is hours of footage. Labeled, it becomes safety alerts, process data, and training fuel for robots."
 ---
 
 # Snapshot

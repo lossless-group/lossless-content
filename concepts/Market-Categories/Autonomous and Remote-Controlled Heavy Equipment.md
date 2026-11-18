@@ -17,6 +17,7 @@ at_semantic_version: 0.0.0.1
 image_prompt: "An operator in a cozy office chair holds a video-game controller, driving a giant excavator and a fleet of haul trucks across a dusty quarry seen through a bank of monitors, coffee mug steaming beside the joystick."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Autonomous_and_Remote_Controlled_Heavy_Equipment_banner_image_1794972644572_sa1Ab9Xs6.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Autonomous_and_Remote_Controlled_Heavy_Equipment_portrait_image_1794972653561_fZ3GuVad4.webp
+lede: "The excavator operator of the future may be sitting in an office three states away, or not be there at all."
 ---
 
 [[vertical-toolkits/CleanTech/Terrafirma|Terrafirma]]

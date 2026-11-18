@@ -13,6 +13,7 @@ cf_last_run_model: Perplexity sonar-pro
 image_prompt: "A power plant, a bridge, and a water tower stand on a riverbank, and above each floats a transparent wireframe copy of itself where engineers test a flood, a heat wave, and a broken pipe before it happens in real life."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Digital_Twins_for_Critical_Infrastructure_banner_image_1794971914168_-Py_qnm6-.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Digital_Twins_for_Critical_Infrastructure_portrait_image_1794971924406_HpRRVO8nO.webp
+lede: "Utilities and transit operators are building virtual copies of the grid and the rails to see failures before they happen."
 ---
 
 [[Vocabulary/Data Centers|Datacenter]]

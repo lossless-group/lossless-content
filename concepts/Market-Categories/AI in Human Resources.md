@@ -13,6 +13,7 @@ at_semantic_version: 0.0.1.1
 image_prompt: "A cheerful robot concierge at an office front desk juggles résumés, payroll envelopes, and onboarding binders, while a line of new hires walks past a wall of pigeonhole mailboxes each tagged with a tiny name card."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/AI_in_Human_Resources_banner_image_1794971603570_BYsYwqxbx.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/AI_in_Human_Resources_portrait_image_1794971612552__jck5krsu.webp
+lede: "From the first résumé screen to the exit interview, software is now making calls HR teams used to make by gut."
 ---
 
 # AI in Human Resources: Market Category Profile

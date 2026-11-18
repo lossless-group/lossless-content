@@ -6,6 +6,7 @@ date_modified: 2026-11-10
 image_prompt: "A huge film archive of stacked reels and tapes where a robot librarian types a question into a terminal and a single film frame lights up out of millions, pulled from the shelf by a mechanical claw."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Video_Search_banner_image_1794972546940_5XeJkMPjv.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Video_Search_portrait_image_1794972556707_bM3myVKZ3.webp
+lede: "The world films more than anyone can watch. Video search finds the moment you need by what happens in it, not what it is called."
 ---
 
 # Snapshot

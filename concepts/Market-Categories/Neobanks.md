@@ -16,6 +16,7 @@ cf_last_run_model: Perplexity sonar-pro
 image_prompt: "A grand marble bank with columns and a vault sits empty with tumbleweeds, while across the street a crowd gathers around a tiny food-truck-sized kiosk that is just a giant smartphone handing out debit cards."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Neobanks_banner_image_1794968201477_224jiUVpE.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Neobanks_portrait_image_1794968210820_1Hw1bKyss.webp
+lede: "No branches, no tellers, just an app. Neobanks started as the alternative and are fast becoming the default."
 ---
 
 [[Tooling/Portfolio/Chime|Chime]]

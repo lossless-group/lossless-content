@@ -14,6 +14,7 @@ cf_last_run_model: Perplexity sonar-reasoning-pro
 image_prompt: "A friendly pocket-sized assistant sits on a person's shoulder holding a tiny notebook full of their favorite foods, friends' birthdays, and unfinished emails, whispering reminders as they walk through a busy day."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Personal_AI_banner_image_1794972350829_Ds9hemFgK.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Personal_AI_portrait_image_1794972359427_NwIxkzhWX.webp
+lede: "An assistant that remembers everything you have said, read, and done. The question is who gets to keep that memory."
 ---
 
 

@@ -19,6 +19,7 @@ aliases:
 image_prompt: "A line of humanoid robots in work aprons clocks in at a warehouse time clock, each carrying a lunch box, while a human foreman checks names off a clipboard and a forklift watches nervously."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Humanoid_Robots_banner_image_1794972059336_2TnrbpdtU.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Humanoid_Robots_portrait_image_1794972068672_xIoeLj1By.webp
+lede: "Billions are flowing into robots built in our image, on the bet that a world designed for people needs workers shaped like them."
 ---
 [[Vocabulary/Robotics|Robotics]]
 

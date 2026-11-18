@@ -14,6 +14,7 @@ for_clients:
 image_prompt: "A row of glowing restaurant signs, burgers, sushi, tacos, and pizza, all hang over the doors of the same windowless warehouse, where a single busy kitchen hands bags to a line of delivery riders on scooters."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Ghost_Kitchens_banner_image_1794972024512_xkKTVR1m4.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Ghost_Kitchens_portrait_image_1794972033266_pxjfBEclm.webp
+lede: "No dining room, no waiters, no sign out front. Just a kitchen, a delivery app, and a bet on lower costs."
 ---
 
 # Ghost Kitchens: Market Category Profile

@@ -6,9 +6,10 @@ cf_last_run_model: Perplexity sonar-pro
 image_prompt: "A boxy machine on a desert rooftop breathes in a visible plume of humid air and pours a thin, steady stream of clean water into a row of glass bottles, while a thirsty crowd of cacti and a lone traveler look on in disbelief."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Atmospheric_Water_Generation_banner_image_1794971621571_4goAOIQsl.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Atmospheric_Water_Generation_portrait_image_1794971631469_dHaXq8eya.webp
+lede: "There are trillions of liters of water floating in the air. A new class of machines wants to tap it like a well."
 ---
 
-[[vertical-toolkits/CleanTech/Aquaria|Aquaria]]
+[[Tooling/Products/Aquaria|Aquaria]]
 
 
 https://youtu.be/fjDQ8UDzuB8?si=vQvNI7Qz-NimbWFy

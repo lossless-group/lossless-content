@@ -14,6 +14,7 @@ slug: merchant-cash-advance
 at_semantic_version: 0.0.1.1
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Merchant_Cash_Advance_banner_image_1794968219242_W07qnI8Pw.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Merchant_Cash_Advance_portrait_image_1794968227596_UfjkU6Ego.webp
+lede: "Cash today for a cut of tomorrow's card sales. It is fast, it is expensive, and it is not technically a loan."
 ---
 
 https://youtu.be/BMntLU1bNE0?si=ICp_PJC4R5xmjDXj

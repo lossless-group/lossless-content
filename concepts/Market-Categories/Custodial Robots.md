@@ -8,6 +8,7 @@ cf_last_run_model: Perplexity sonar-pro
 image_prompt: "A late-night shopping mall where a small fleet of round floor-scrubbing robots glide in neat lanes leaving shiny trails, while one human supervisor sits on a bench with a tablet and rescues a robot that is stuck on a dropped balloon."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Custodial_Robots_banner_image_1794971858836_w9uxO8e2u.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Custodial_Robots_portrait_image_1794971867506_BvjGf_g7w.webp
+lede: "The night shift is getting robots. Autonomous scrubbers mop malls, airports, and warehouses while people handle the exceptions."
 ---
 
 # Snapshot

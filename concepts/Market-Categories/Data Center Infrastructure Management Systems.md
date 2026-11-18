@@ -24,6 +24,7 @@ for_clients:
 image_prompt: "Inside a long hall of server racks, a technician holds a tablet that shows a glowing floor plan of the same room, with every rack's temperature, power draw, and empty slot marked by little colored pins."
 banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Data_Center_Infrastructure_Management_Systems_banner_image_1794971895536_f8ufgah8r.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Data_Center_Infrastructure_Management_Systems_portrait_image_1794971904794_zA6mdLAXH.webp
+lede: "Data centers burn power by the megawatt. The software that watches every rack, breaker, and chiller has become mission-critical."
 ---
 
 
