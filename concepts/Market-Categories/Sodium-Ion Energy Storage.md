@@ -14,6 +14,9 @@ cf_last_run_model: Perplexity sonar-pro
 for_clients:
   - Edviro
   - Banner
+image_prompt: "A giant salt shaker pours sodium into a stack of battery containers at the edge of a snowy wind farm, while a lithium battery in a scarf shivers and looks on enviously."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Sodium_Ion_Energy_Storage_banner_image_1794972470167_kpJRveGPt.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Sodium_Ion_Energy_Storage_portrait_image_1794972479069_jCgQxAZRj8.webp
 ---
 [[content-areas/AI-Factories-Datacenters/Concepts/Smart Grids|Smart Grids]]
 [[content-areas/AI-Factories-Datacenters/Topics/Energy Innovators]]

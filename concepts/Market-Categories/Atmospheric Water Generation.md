@@ -3,6 +3,9 @@ date_created: 2026-11-05
 date_modified: 2026-11-05
 cf_last_run: 2026-11-05T20:41:51.862Z
 cf_last_run_model: Perplexity sonar-pro
+image_prompt: "A boxy machine on a desert rooftop breathes in a visible plume of humid air and pours a thin, steady stream of clean water into a row of glass bottles, while a thirsty crowd of cacti and a lone traveler look on in disbelief."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Atmospheric_Water_Generation_banner_image_1794971621571_4goAOIQsl.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Atmospheric_Water_Generation_portrait_image_1794971631469_dHaXq8eya.webp
 ---
 
 [[vertical-toolkits/CleanTech/Aquaria|Aquaria]]

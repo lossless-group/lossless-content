@@ -11,6 +11,9 @@ slug: industrial-automations
 at_semantic_version: 0.0.0.1
 cf_last_run: 2026-10-10T03:48:56.801Z
 cf_last_run_model: Perplexity sonar-pro
+image_prompt: "A factory floor where robot arms, conveyor belts, and machine-vision cameras work in rhythm, all wired back to a single control cabinet with blinking lights, while one engineer adjusts a dial on a PLC panel."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Industrial_Automations_banner_image_1794972662417_pNGDdIC6D.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Industrial_Automations_portrait_image_1794972671288_JP0iicA8_.webp
 ---
 
 

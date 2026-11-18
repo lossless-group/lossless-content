@@ -23,6 +23,9 @@ aliases:
   - Agent-Native CRM
 cf_last_run: 2026-11-13T23:58:58.330Z
 cf_last_run_model: Perplexity sonar-pro
+image_prompt: "A small crew of tireless robot clerks runs an old wooden card-catalog office overnight: one rides a ladder pulling customer cards, one types letters on a typewriter, one stamps envelopes and drops them in a mail chute, while a sleepy salesperson arrives in the morning to find a neat stack labeled 'Meetings Booked'."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Agent_Native_CRMs_banner_image_1794971566470_Kr8SscRJ4D.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Agent_Native_CRMs_portrait_image_1794971575301_Q2RZRF-0X.webp
 ---
 
 # Snapshot

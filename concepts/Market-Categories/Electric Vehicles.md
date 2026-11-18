@@ -22,6 +22,9 @@ for_clients:
   - Banner
 cf_last_run: 2026-10-10T03:30:30.872Z
 cf_last_run_model: Perplexity sonar-deep-research
+image_prompt: "A row of electric cars, a delivery van, and a city bus line up at a charging station like horses at a trough, plugged in with long cables, while an old gas pump stands nearby wearing a 'retired' sign."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Electric_Vehicles_banner_image_1794971968252_XG34G6BSF.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Electric_Vehicles_portrait_image_1794971977621_dygIaHqTT.webp
 ---
 
 [[concepts/Market-Categories/Industrial Automations]]

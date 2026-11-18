@@ -17,6 +17,9 @@ publish: true
 title: SCADA
 slug: scada
 at_semantic_version: 0.0.0.1
+image_prompt: "A control room with a wall-sized map of pipelines, power lines, and water pumps across a whole region, where a single operator watches blinking status lights and flips a switch that opens a valve fifty miles away."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/SCADA_banner_image_1794972424553_0gGK_mAxl.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/SCADA_portrait_image_1794972433976_A8VhaNBOH.webp
 ---
 
 # Snapshot

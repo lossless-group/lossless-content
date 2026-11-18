@@ -17,6 +17,9 @@ tags:
   - Advanced-Manufacturing
 cf_last_run: 2026-10-09T23:06:36.389Z
 cf_last_run_model: Perplexity sonar-deep-research
+image_prompt: "A small-town machine shop transformed overnight: a robot welder, an automated CNC mill, and a conveyor work side by side with two veteran machinists who now supervise from a tablet and still keep their old toolbox nearby."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Manufacturing_Automation_banner_image_1794972278790_ygVjxfSzp.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Manufacturing_Automation_portrait_image_1794972288488_WMifc9D8P.webp
 ---
 
 

@@ -9,6 +9,9 @@ tags:
   - Market-Maps
 cf_last_run: 2026-10-08T21:05:14.559Z
 cf_last_run_model: Perplexity sonar-deep-research
+image_prompt: "A utility worker with a stethoscope listens to a humming transformer while a wall of analog meters and waveform screens behind her shows the building's electrical heartbeat, with one meter spiking."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Electrical_Power_Monitoring_Systems_banner_image_1794971986288_ESA1AI7R2.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Electrical_Power_Monitoring_Systems_portrait_image_1794971994720_mmSjF1E3m.webp
 ---
 [[content-areas/AI-Factories-Datacenters/Concepts/AI Factories|AI Factories]]
 

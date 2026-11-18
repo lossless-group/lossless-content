@@ -16,6 +16,9 @@ aliases:
   - AI Model Benchmarking
   - AI Model Benchmarks
   - AI Performance Benchmarks
+image_prompt: "A track-and-field stadium where AI models in numbered jerseys compete in events like reading, math, and coding, while a giant scoreboard updates rankings and a referee robot checks whether anyone memorized the test answers."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/AI_Benchmarking_and_Leaderboards_banner_image_1794972565606_4L3smADLc.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/AI_Benchmarking_and_Leaderboards_portrait_image_1794972574371_y1_f4q74Q.webp
 ---
 
 

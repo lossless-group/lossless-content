@@ -11,6 +11,9 @@ publish: true
 title: "Startups Tackling Chip Architectures"
 slug: startups-tackling-chip-architectures
 at_semantic_version: 0.0.1.1
+image_prompt: "In the shadow of a giant semiconductor fortress, a group of scrappy startup engineers in a garage sketch radical chip blueprints, light-based, analog, and wafer-sized, on a chalkboard, one of them holding a wafer as big as a pizza."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Startups_Tackling_Chip_Architectures_banner_image_1794972619153_cI-qQU3HT.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Startups_Tackling_Chip_Architectures_portrait_image_1794972627617_DzUXUDwpC.webp
 ---
 
 ```think-output

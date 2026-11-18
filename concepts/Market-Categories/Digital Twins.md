@@ -18,6 +18,9 @@ for_clients:
   - Edviro
 cf_last_run: 2026-10-08T23:38:49.376Z
 cf_last_run_model: Perplexity sonar-pro
+image_prompt: "A factory floor and its mirror image reflected in a still pond, but the reflection is a glowing wireframe model where a tiny engineer is fast-forwarding time to see which machine will break first."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Digital_Twins_banner_image_1794971933809_iQRGXt2rd.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Digital_Twins_portrait_image_1794971942336_gkjZQcRwM.webp
 ---
 
 [[content-areas/AI-Factories-Datacenters/Concepts/Thermal Management|Thermal Management]]

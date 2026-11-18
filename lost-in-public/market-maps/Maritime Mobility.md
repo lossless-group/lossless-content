@@ -14,6 +14,9 @@ slug: maritime-mobility
 at_semantic_version: 0.0.1.1
 for_clients:
   - Alpha-JWC
+image_prompt: "A busy harbor where an autonomous cargo ship, an electric ferry, and a small fleet of robotic tugboats move between docks, with a harbor master tracking them all on a radar screen in a lighthouse."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Maritime_Mobility_banner_image_1794968236093_2sFoks8AD.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Maritime_Mobility_portrait_image_1794968246813_68RAdxnMt.webp
 ---
 
 # Maritime Mobility — Market Map

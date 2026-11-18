@@ -16,6 +16,9 @@ cf_last_run_model: Perplexity sonar-deep-research
 authors:
   - Michael Staton
 augmented_with: Perplexity AI using Deep Research
+image_prompt: "A humanoid robot stands on a workbench as an exploded parts diagram, with motors, batteries, hands, sensors, and chips each floating off to its own small factory that is busy making that one part."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Humanoid_Robots_and_Their_Input_Industries_banner_image_1794972582995_qUA0NxHuE.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Humanoid_Robots_and_Their_Input_Industries_portrait_image_1794972591901_p193FjyMf.webp
 ---
 # Humanoid Robots, Early Scale to Rapid Growth
 

@@ -13,6 +13,9 @@ tags:
   - Building-Intelligence
 cf_last_run: 2026-10-08T17:30:03.647Z
 cf_last_run_model: Perplexity sonar-pro
+image_prompt: "A railway switchyard in the sky where a conductor in a signal tower pulls levers to route trains of shipping crates labeled data, models, and jobs between floating cloud stations, rerouting one that has derailed."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Cloud_Workload_Orchestrators_banner_image_1794971803750_wxUa9vWkZ.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Cloud_Workload_Orchestrators_portrait_image_1794971812442_o9T7g2yg3.webp
 ---
 
 [[concepts/Market-Categories/Physical AI]]

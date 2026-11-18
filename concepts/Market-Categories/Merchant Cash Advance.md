@@ -1,7 +1,7 @@
 ---
 date_created: 2026-05-19
 date_modified: 2026-05-28
-image_prompt: ""
+image_prompt: "A small bakery owner receives a bag of cash from a friendly lender at the counter, and in exchange a tiny straw runs from the lender's cup into the cash register, sipping a little from every sale."
 cf_last_run: "2026-05-28T05:39:36.894Z"
 cf_last_run_model: "Perplexity sonar-deep-research"
 tags: [Fin-Tech, Fintech]
@@ -12,6 +12,8 @@ publish: true
 title: "Merchant Cash Advance"
 slug: merchant-cash-advance
 at_semantic_version: 0.0.1.1
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Merchant_Cash_Advance_banner_image_1794968219242_W07qnI8Pw.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Merchant_Cash_Advance_portrait_image_1794968227596_UfjkU6Ego.webp
 ---
 
 https://youtu.be/BMntLU1bNE0?si=ICp_PJC4R5xmjDXj

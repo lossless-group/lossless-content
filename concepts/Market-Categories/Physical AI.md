@@ -15,6 +15,9 @@ publish: true
 title: Physical AI
 slug: physical-ai
 at_semantic_version: 0.0.0.1
+image_prompt: "A robot dog, a robot arm, a delivery drone, and a self-driving tractor each wear a small glowing thought bubble showing the same map of the world, learning together in a sandbox playground built like a simulation grid."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Physical_AI_banner_image_1794972368971_vR_6ehevE.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Physical_AI_portrait_image_1794972377635_SLmDDB1GN.webp
 ---
 
 [[concepts/Explainers for AI/World Foundation Models|World Foundation Models]]

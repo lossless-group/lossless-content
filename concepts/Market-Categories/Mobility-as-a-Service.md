@@ -11,6 +11,9 @@ cf_last_run_model: Perplexity sonar-pro
 tags:
   - Market-Maps
   - Investment-Categories
+image_prompt: "A commuter holds up a phone showing one ticket, and from it a single dotted route connects a bike share, a tram, a ferry, and a scooter across a busy city map, each vehicle waving her aboard in turn."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Mobility_as_a_Service_banner_image_1794972315735_JFp81ei_J.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Mobility_as_a_Service_portrait_image_1794972324688_QSc7HJ1Rj.webp
 ---
 
 

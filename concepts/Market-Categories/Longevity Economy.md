@@ -8,6 +8,9 @@ slug: longevity-economy
 at_semantic_version: 0.0.0.1
 tags:
   - Market-Maps
+image_prompt: "A lively retirement community where seniors in running shoes lift kettlebells, video-call grandchildren, and test new gadgets from a mobile clinic van, while a birthday cake with a hundred candles waits on a picnic table."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Longevity_Economy_banner_image_1794972257563_HIvPqtLbPH.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Longevity_Economy_portrait_image_1794972269112_oWhNkkHP1.webp
 ---
 
 https://www.perplexity.ai/search/e60e1216-8ec9-46d7-b418-b591ffbb56d1

@@ -20,6 +20,9 @@ for_clients:
   - Parslee
   - FullStackVC
   - Lossless
+image_prompt: "A librarian robot stands behind a small agent at a writing desk, quickly sliding exactly the right index cards, maps, and file folders onto the desk while a mountain of unused documents waits behind a velvet rope."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Context_Engineering_Platforms_banner_image_1794971822955_nBeWV_SCO.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Context_Engineering_Platforms_portrait_image_1794971832092_xf-IUvbYy.webp
 ---
 [[bb]]
 

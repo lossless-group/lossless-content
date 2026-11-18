@@ -10,6 +10,9 @@ tags:
   - Datacenter-Operations
 cf_last_run: 2026-10-07T02:17:19.264Z
 cf_last_run_model: Perplexity sonar-reasoning-pro
+image_prompt: "A data center perched on a cliff edge, surrounded by an inspector with a clipboard checking for floods, fires, power cuts, and heat waves drawn as storm clouds circling overhead, with sandbags and backup generators at the ready."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Risk_Management_For_Datacenters_banner_image_1794972386795_qaPm-1TTI.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Risk_Management_For_Datacenters_portrait_image_1794972396752_KHBM-k20p.webp
 ---
 
 [[Tooling/AI-Toolkit/AI Infrastructure/Marsh|Marsh]]

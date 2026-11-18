@@ -16,6 +16,9 @@ cf_last_run: 2026-10-04T20:50:39.197Z
 cf_last_run_model: Perplexity sonar-pro
 aliases:
   - Sales Agents
+image_prompt: "A sales floor where each rep has a small robot sidekick on the desk, one dialing phones, one writing emails, one updating a funnel chart on a whiteboard, while the sales manager watches a forecast gauge tick upward."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Sales_AI_banner_image_1794972405858_IZMHH-i9S.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Sales_AI_portrait_image_1794972414807_rld8VLKey.webp
 ---
 [[concepts/Explainers for Tooling/Go-to-Market Platforms|Go-to-Market Platforms]]
 [[concepts/Explainers for AI/Sales Coaching AI|Sales Coaching AI]]

@@ -16,6 +16,9 @@ cf_last_run: 2026-10-08T17:46:17.981Z
 cf_last_run_model: Perplexity sonar-pro
 aliases:
   - GPU-as-a-Service
+image_prompt: "A rental counter like a car hire desk, but the lot is full of GPU racks on wheels, and startups in hoodies sign short rental agreements and roll racks away by the hour while a line forms out the door."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/On_Demand_Compute_banner_image_1794972333482_e4Fw7NxJw.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/On_Demand_Compute_portrait_image_1794972342122_jNrRBTlIW.webp
 ---
 
 [[Vocabulary/Inference in AI|AI Inference]]

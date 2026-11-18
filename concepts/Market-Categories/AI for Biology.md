@@ -14,6 +14,9 @@ tags:
   - AI-in-Healthcare
 cf_last_run: 2026-11-09T20:20:59.940Z
 cf_last_run_model: Perplexity sonar-pro
+image_prompt: "A robot scientist at a lab bench reads a glowing double helix like sheet music, conducting with a pipette while proteins fold themselves into origami shapes and float off the page into rows of labeled test tubes."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/AI_for_Biology_banner_image_1794971585963_DRWj7anUk.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/AI_for_Biology_portrait_image_1794971594647_d6Q0NarBV.webp
 ---
 
 # Snapshot

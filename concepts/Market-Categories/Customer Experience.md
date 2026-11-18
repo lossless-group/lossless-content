@@ -22,6 +22,9 @@ slug: customer-experience
 at_semantic_version: 0.0.1.1
 aliases:
   - CX
+image_prompt: "A winding road map of a customer's journey: a shopper walks from a billboard to a store, to an app, to a help desk, to a birthday cake from the brand, with little smiling and frowning faces marking each stop along the way."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Customer_Experience_banner_image_1794971876851_YzH-oOH8V.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Customer_Experience_portrait_image_1794971886201_RSGy8c_v_.webp
 ---
 
 

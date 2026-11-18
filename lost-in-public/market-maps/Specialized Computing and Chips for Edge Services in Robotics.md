@@ -11,6 +11,9 @@ publish: true
 title: "Specialized Computing and Chips for Edge Services In Robotics"
 slug: specialized-computing-and-chips-for-edge-services-in-robotics
 at_semantic_version: 0.0.1.1
+image_prompt: "A small robot opens a hatch in its chest to reveal a tiny glowing chip doing all its thinking on the spot, while a distant cloud data center waits by a phone that never rings."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Specialized_Computing_and_Chips_for_Edge_Services_In_Robotics_banner_image_1794972600624_jHL2-vVz9.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Specialized_Computing_and_Chips_for_Edge_Services_In_Robotics_portrait_image_1794972609964_79oJ0o0GX.webp
 ---
 
 ```think-output

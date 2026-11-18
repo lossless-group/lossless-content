@@ -9,6 +9,9 @@ publish: true
 title: "TechBio Vs Biotech"
 slug: techbio-vs-biotech
 at_semantic_version: 0.0.0.1
+image_prompt: "Two labs side by side: on one bench a lone scientist in a lab coat carefully tends one precious potion bottle, while on the other a row of robots, servers, and pipettes mass-produces experiments that stream into a glowing dashboard."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/TechBio_Vs_Biotech_banner_image_1794972511203_uPfxkHNlH.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/TechBio_Vs_Biotech_portrait_image_1794972520109_p5WNWD9Ii.webp
 ---
 
 

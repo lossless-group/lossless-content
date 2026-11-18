@@ -12,6 +12,9 @@ date_created: 2026-10-28
 date_modified: 2026-10-28
 cf_last_run: 2026-10-28T14:33:54.639Z
 cf_last_run_model: Perplexity sonar-pro
+image_prompt: "A bustling town square bulletin board covered in job postings, where workers and employers in hard hats, lab coats, and laptops pin notes and shake hands, while a robot matchmaker draws string between the right pairs."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Job_Marketplaces_banner_image_1794972239006_WZ16WHahV.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Job_Marketplaces_portrait_image_1794972248379_ex7FCZd__.webp
 ---
 
 # Snapshot

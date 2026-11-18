@@ -7,6 +7,9 @@ date_created: 2026-10-04
 date_modified: 2026-10-08
 cf_last_run: 2026-10-04T22:08:01.230Z
 cf_last_run_model: Perplexity sonar-pro
+image_prompt: "One general contractor in a hard hat holds a single set of keys while architects, engineers, cranes, and electricians assemble a massive data-center building like stacked toy blocks behind him, all on the same blueprint."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Integrated_Design_Build_banner_image_1794972221252_zkz13w2BK.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Integrated_Design_Build_portrait_image_1794972230298_8TRbzSGeS.webp
 ---
 
 [[Vocabulary/Data Centers|Datacenters]]

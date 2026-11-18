@@ -20,6 +20,9 @@ for_clients:
   - Param
   - Alpha Partners
   - Alpha-JWC
+image_prompt: "Three colossal data-center fortresses sit on separate mountains connected by glowing undersea cables, while long queues of tiny companies line up at the gates carrying suitcases of data and pay for space by the minute."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Hyperscale_Cloud_Providers_banner_image_1794972077669_1cEgZXLX1.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Hyperscale_Cloud_Providers_portrait_image_1794972086899_4r7zv6uQa.webp
 ---
 
 # Snapshot
