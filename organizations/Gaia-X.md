@@ -179,7 +179,7 @@ As of 2026-06-02,
 ## Adjacent Entries
 
 - [[Sovereignty First Alternatives]]  
-- [[Open Source Collaborations]]  
+- [[Vocabulary/Open Source Collaborations]]  
 - [[concepts/Open Source Foundations|Open Source Foundations]]]   
 - [[European Data Spaces]]  
 - [[FIWARE Data Space Connector]]
