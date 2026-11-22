@@ -17,7 +17,7 @@ authors:
   - Michael Staton
 image_prompt: A UI of an interactive whiteboard on a large computer monitor, with objects and stickies laid out in clusters on the canvas, showing dynamic connections and real-time updates.
 site_uuid: 55cb28e9-f44a-4b06-9d7d-4d6f3994bbb1
-slug: maintain-a-ui-for-json-canvas
+slug: maintain-context-engineering-mcp-suite-for-obsidian
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-a-UI-for-JSON-Canvas_banner_image_1754681170348_LldRKlZwK.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-a-UI-for-JSON-Canvas_portrait_image_1754681172277_nueBwEWxk.webp
 square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Maintain-a-UI-for-JSON-Canvas_square_image_1754681174321_sgiH75YUo.webp
