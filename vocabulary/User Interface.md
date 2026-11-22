@@ -8,7 +8,7 @@ aliases:
   - UIs
 ---
 
-[[Sources/Books/Dont make me think|Don't Make Me Think]]
+[[Sources/Books/Don’t Make Me Think|Don't Make Me Think]]
 
 [[concepts/Atomic Design|Atomic Design]]
 
