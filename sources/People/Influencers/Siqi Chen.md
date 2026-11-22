@@ -11,4 +11,4 @@ title: "Siqi Chen"
 slug: siqi-chen
 at_semantic_version: 0.0.0.1
 ---
-[[CFO.ai]]
+[[CFO ai]]
