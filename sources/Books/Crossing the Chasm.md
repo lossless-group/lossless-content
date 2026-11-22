@@ -18,7 +18,7 @@ publisher_city: New York
 year_first_published: 1991
 annotation: Identifies the gap between early adopters and the mainstream market and how technology companies get across it.
 our_take: ""
-author: "[[Geoffrey Moore]]"
+author: "[[Sources/People/Geoffrey Moore]]"
 ---
 Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers.
 

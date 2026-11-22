@@ -88,7 +88,7 @@ Because Exec Sum is a **recurring newsletter publication**, the most useful “c
 - [[sources/The Daily Upside]] — A business and markets newsletter with an investor lens, adjacent in format but less meme-driven.
 - [[sources/Stratechery]] — Long-form strategy analysis on tech and media economics that often underpins the kinds of headlines Exec Sum surfaces.
 - [[concepts/Explainers for AI/AI-Augmented Knowledge Work]] — Conceptual lens for understanding how Exec Sum’s described AI-tool stack reshapes research and writing workflows.[3]
-- [[concepts/Go-To-Market Strategy]] — For analyzing how Exec Sum’s sponsors position B2B fintech and SaaS products to a finance-heavy audience.[1][4][8]
+- [[Go-to-Market Strategy]] — For analyzing how Exec Sum’s sponsors position B2B fintech and SaaS products to a finance-heavy audience.[1][4][8]
 
 ![Screenshot of an Exec Sum email issue showing sections for markets, macro news, fundraising deals, and a sponsor block in a meme-accented, finance-focused layout](https://media.beehiiv.com/cdn-cgi/image/format=auto,fit=scale-down,onerror=redirect/uploads/publication/thumbnail/f2aedf85-682c-47c2-8ad0-f44433524834/landscape_Screen_Shot_2021-12-26_at_8.39.40_PM.png)
 

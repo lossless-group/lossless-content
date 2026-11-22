@@ -19,7 +19,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Y Combinator|Y Combinator]]
 [[GBrain]]
-[[GStack]]
+[[Tooling/Software Development/DevOps/Developer Experience/GStack]]
 [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Initialized Capital|Initialized Capital]]
 
 # Garry Tan

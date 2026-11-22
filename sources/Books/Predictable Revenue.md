@@ -62,7 +62,7 @@ Part of [[concepts/Demand Generation|Demand Generation]], introduces the necessi
 # Why It Matters to Innovators
 
 - It translates sales growth into a **repeatable system** rather than a heroic-founder activity, which maps closely to [[concepts/Repeatable Process]] and [[concepts/Operational Scalability]]. [^szxsi2] [^0njiuc]
-- It emphasizes **ideal customer profile (ICP)** discipline before outreach, a useful lens for segment selection, wedge strategy, and [[concepts/Beachhead Market]] thinking. [^szxsi2]
+- It emphasizes **ideal customer profile (ICP)** discipline before outreach, a useful lens for segment selection, wedge strategy, and [[concepts/Beachhead Markets]] thinking. [^szxsi2]
 - Its separation of prospecting, qualifying, and closing is a concrete example of **role specialization**, which helps diagnose bottlenecks in early revenue teams. [^szxsi2] [^kz7s7u]
 - The framework is especially useful for innovators trying to turn early demand into a **predictable pipeline** instead of relying on ad hoc founder-led selling. [^0njiuc] [^szxsi2]
 - The outbound sequencing and qualification rules connect directly to [[concepts/Minimum Viable Sales Process]] and [[Vocabulary/Go-to-Market|Go-to-Market]] design. [^szxsi2]
