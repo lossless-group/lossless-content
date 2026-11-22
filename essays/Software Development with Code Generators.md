@@ -1,6 +1,6 @@
 ---
 date_created: 2025-01-24
-date_modified: 2026-10-07
+date_modified: 2026-11-19
 site_uuid: 0cd90519-55d0-4380-b7b9-d416ff0cb24a
 title: Software Development with Code Generators
 lede: Code generators are reshaping software development—speeding up delivery while raising new challenges.
@@ -37,6 +37,8 @@ For code generation, in addition to the [[Large Language Models]], or perhaps th
 [[concepts/Explainers for AI/Agentic Engineering|Agentic Engineering]]
 
 [[AgentCrew]]
+
+https://youtu.be/v4F1gFy-hqg?is=4dZ_cV5lnRji50jI
 
 > [!QUOTE] From a Senior Engineer
 > "mmm, I don't think so
@@ -283,3 +285,4 @@ Some professional engineers have abandoned "Vibe Coding" due to increased review
 
 
 ***
+- Transcript: [[Software Fundamentals Matter More Than Ever — Matt Pocock]] — source: https://youtu.be/v4F1gFy-hqg?is=4dZ_cV5lnRji50jI
