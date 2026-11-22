@@ -2,7 +2,7 @@
 aliases:
   - Lightspeed
 date_created: 2026-05-28
-date_modified: 2026-10-10
+date_modified: 2026-11-19
 tags: [Venture-Capital-Firms]
 url: "https://lsvp.com/"
 og_title: Home
@@ -18,3 +18,4 @@ title: "Lightspeed Venture Partners"
 slug: lightspeed-venture-partners
 at_semantic_version: 0.0.0.1
 ---
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7528484839893651456?collapsed=1" height="670" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>

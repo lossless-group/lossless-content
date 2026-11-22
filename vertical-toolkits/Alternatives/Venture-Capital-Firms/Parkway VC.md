@@ -9,5 +9,5 @@ og_last_fetch: 2026-10-10T03:45:15.126Z
 tags:
   - Venture-Capital-Firms
 ---
-[[Tooling/AI-Toolkit/Model Producers/xAI]]
+[[Tooling/AI-Toolkit/Model Producers/SpaceXSI]]
 [[Tooling/Hardware/Robotics/Figure AI|Figure AI]]
