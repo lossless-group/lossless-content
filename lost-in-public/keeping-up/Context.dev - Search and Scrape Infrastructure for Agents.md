@@ -20,7 +20,7 @@ https://www.context.dev
 
 ## Why This Matters
 
-Context.dev is the company formerly known as **Brand.dev**. It started as a "give me a company's logo, colors, and fonts from a domain" API and has grown into a full web-context layer for agents: search, scrape, crawl, map, research answers, monitors, *and* the brand data it began with. Two recent announcements:
+[[Tooling/AI-Toolkit/Data Augmenters/Context.dev|Context.dev]] is the company formerly known as **Brand.dev**. It started as a "give me a company's logo, colors, and fonts from a domain" API and has grown into a full web-context layer for agents: search, scrape, crawl, map, research answers, monitors, *and* the brand data it began with. Two recent announcements:
 
 - **October 19, 2026:** [$9M seed led by General Catalyst](https://www.context.dev/blog/context-dev-raises-9m-seed-led-by-general-catalyst), with Y Combinator also backing. Founder: Yahia Bakour.
 - **October 30, 2026:** [Web search monitors](https://www.context.dev/blog/introducing-web-search-monitors). Give it a search query plus a plain-language description of what counts as news, and it runs the search on a schedule and alerts you only when something genuinely new shows up. You can set one up "in a sentence" through the Context MCP.
