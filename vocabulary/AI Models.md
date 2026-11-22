@@ -1,6 +1,6 @@
 ---
 date_created: 2025-03-29
-date_modified: 2026-11-15
+date_modified: 2026-11-19
 site_uuid: 2742fe0c-7bee-4f2c-9cee-b0630f9be3e3
 aliases:
   - Models
@@ -15,6 +15,12 @@ https://youtu.be/ncqVZnot99c?si=I3QhZqPIh6umTibW
 
 https://youtu.be/8BD6w5wELRo?si=sYv1sROlEcPYKWwO
 
+https://youtu.be/K2Eki-SbEgY?is=qZlapk6o9t2nxe-F
+
+https://youtu.be/AxAj16ZmanY?si=Im7rZxEAdhztAznu
+
+https://youtu.be/W2QuK9TwYXs?si=hKEixkzxh4prRfJT
+
 
 [[AI Models]] are large [[concepts/Explainers for AI/Neural Networks|Neural Networks]] that are trained on large-scale data using [[Machine Learning]], and can approach [[concepts/Explainers for AI/Compositional Generalization|Compositional Generalization]]. When [[AI Models|Models]] are trained using open data sources, particularly when the [[AI Models|Model]] itself seeks and trains on public data sources, this is called [[Machine Learning#Deep Learning|Deep Learning]]. ^830936
 
@@ -27,7 +33,7 @@ The best way to learn about [[AI Models|Models]] is [[Hugging Face]].
 
 Independent organizations creating models include:
 - [[OpenAI]], maintaining [[GPT-Series Models]] and [[O-Series Models]]. 
-- [[Anthropic]], maintaining [[Tooling/AI-Toolkit/Models/Claude|Claude]].
+- [[Anthropic]], maintaining [[Tooling/AI-Toolkit/Models/Claude|Claude]], [[Haiku]], [[Fable]]
 - [[Cognition AI]], maintaining [[Devin]].
 - [[DeepSeek]], maintaining [[DeepSeek]] and [[r1]].
 - [[Tooling/AI-Toolkit/Model Producers/Mistral|Mistral]], maintaining [[Small]]. 
@@ -37,7 +43,7 @@ Independent organizations creating models include:
 
 Big Tech organizations include:
 - [[organizations/Google Labs|Google Labs]], maintaining [[Gemini]]
-- [[organizations/Meta|Meta]], maintaining [[Tooling/AI-Toolkit/AI Interfaces/OLlama]] and [[LLaMA]], [[LLaVa]]
+- [[organizations/Meta|Meta]], maintaining [[Tooling/AI-Toolkit/AI Interfaces/OLlama|OLlama]] and [[LLaMA]], [[LLaVa]]
 - [[organizations/IBM|IBM]], maintaining [[Watson]]
 - [[organizations/Alibaba|Alibaba]], maintaining [[Qwen]] and [[Wan]]
 - [[organizations/Microsoft|Microsoft]], maintaining [[Phi-Series Models]]
@@ -45,7 +51,7 @@ Big Tech organizations include:
 ###### [[Fabric]] has a list for us:
 Available plugins (please configure all required plugins)::
 
-AI Vendors [at least one, required]
+AI Vendors, at least one, required
 
         [1]     OpenAI
         [2]     Ollama
@@ -75,7 +81,3 @@ Tools
 ![[IMG_1914_Concept-Diagram--Multimodal-Models.png]]
 
 [[Vocabulary/Retrieval-Augmented Generation|Retrieval-Augmented Generation]] and [[Knowledge Augmented Generation|KAG]]
-
-https://youtu.be/AxAj16ZmanY?si=Im7rZxEAdhztAznu
-
-https://youtu.be/W2QuK9TwYXs?si=hKEixkzxh4prRfJT

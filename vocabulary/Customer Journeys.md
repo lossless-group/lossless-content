@@ -85,7 +85,7 @@ A **customer journey** is the end-to-end, customer-perspective process of achiev
   - [[concepts/Jobs-to-be-Done|Jobs-to-be-Done]]
   - [[Vocabulary/Design Thinking|Design Thinking]]
   - [[Product-Market Fit]]
-  - [[Technology Adoption Curves]]
+  - [[concepts/Technology Adoption Curves]]
 
 # Usage in Practice
 

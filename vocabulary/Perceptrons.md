@@ -1,6 +1,6 @@
 ---
 date_created: 2026-06-17
-date_modified: 2026-11-07
+date_modified: 2026-11-19
 site_uuid: 91123cd3-f8a3-4a1c-88fc-1bd13edd3cbc
 publish: true
 title: Perceptrons
@@ -17,6 +17,8 @@ cf_last_run_model: Perplexity sonar-pro
 [[Vocabulary/Machine Learning|Machine Learning]]
 
 https://youtu.be/ML3q7Ok4hJg?is=x8yTv35A4zxtzHdR
+
+https://youtu.be/l-9ALe3U-Fg?si=gjLK8QnB1ehMYqCW
 
 # Defining and Describing Perceptrons
 
@@ -48,7 +50,7 @@ A perceptron is an early [[concepts/Explainers for AI/Artificial Neural Networks
 
 ### 2. Plural title of Minsky and Papert’s book
 
-*Perceptrons: An Introduction to Computational Geometry* is a 1969 work analyzing the representational limits of perceptron-based systems. [^sx0scm]
+*[[Perceptrons - An Introduction to Computational Geometry]]* is a 1969 work analyzing the representational limits of perceptron-based systems. [^sx0scm]
 
 - Its central lesson for technology adoption is that a successful demonstration on separable problems does not establish general-purpose capability. [^sx0scm]
 - The book’s treatment of geometric separability remains useful when evaluating whether a machine-learning proposal matches the structure of the data rather than merely the enthusiasm surrounding the method. [^sx0scm]

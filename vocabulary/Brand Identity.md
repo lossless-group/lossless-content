@@ -63,7 +63,7 @@ In an innovation context, **brand identity** applies when a company is intention
   - [[Brand image]]
   - [[Vocabulary/Value Propositions]]
   - [[Minimum viable brand]]
-  - [[Go-to-market strategy]]
+  - [[Go-to-Market Strategy]]
   - [[concepts/Category Design]]  
 
 ---
