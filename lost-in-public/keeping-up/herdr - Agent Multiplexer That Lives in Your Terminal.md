@@ -1,6 +1,6 @@
 ---
 date_created: 2026-05-25
-date_modified: 2026-11-16
+date_modified: 2026-11-21
 title: herdr — Agent Multiplexer That Lives in Your Terminal
 slug: herdr-agent-multiplexer-terminal
 tags:
@@ -11,7 +11,7 @@ tags:
   - Claude-Code
   - Multiplexers
 homepage: https://herdr.dev
-github_repo_url: https://github.com/ogulcancelik/herdr
+github_repo_url: https://github.com/herdrdev/herdr
 brew_page: https://formulae.brew.sh/formula/herdr
 install: brew install herdr
 ---
@@ -22,7 +22,7 @@ https://herdr.dev
 
 If you run more than one terminal coding agent — Claude Code in one pane, Codex in another, an OpenCode worker in a third — you already feel the friction tmux wasn't designed for. Tmux gives you persistence and panes. It doesn't tell you which agent is *blocked waiting for input*, which one *finished ten minutes ago*, or which one *is still chewing on a tool call*. You end up cycling through panes like a hawk because the multiplexer has no concept of "agent."
 
-`herdr` is a TUI written in Rust that fills exactly that gap: tmux-style session persistence, but with first-class awareness of the agents running inside the panes. Version 0.6.2 just landed in Homebrew core. AGPL-3.0, macOS + Linux.
+`herdr` is a TUI written in Rust that fills exactly that gap: tmux-style session persistence, but with first-class awareness of the agents running inside the panes. Version 0.6.2 just landed in Homebrew core. Apache-2.0 (AGPL-3.0 when this was first written), macOS + Linux.
 
 ## What It Actually Does
 
@@ -49,4 +49,6 @@ brew install herdr
 herdr            # launch
 ```
 
-Source: <https://github.com/ogulcancelik/herdr>
+Source: <https://github.com/herdrdev/herdr>
+
+> **Update (2026-11-21):** herdr moved to the `herdrdev` GitHub org, is now Apache-2.0, and has a native desktop app built on a separate `herdr-core`. See [[Herdr App - The Agent Multiplexer Goes Native]].
