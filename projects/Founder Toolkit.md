@@ -1,6 +1,6 @@
 ---
 date_created: 2026-05-11
-date_modified: 2026-05-11
+date_modified: 2026-11-18
 ---
 
 
@@ -29,3 +29,5 @@ If you hit a good chunk of these, tell me what you are building
 
 [](https://x.com/hthieblot/status/2053125501213163797)
 ```
+
+[^13y25h]: "[The Contradictory Traits of Successful Founders](https://www.kauffmanfellows.org/journal/traits-of-successful-founders)". [Kauffmanfellows](https://www.kauffmanfellows.org). [[Chang Xu]]
