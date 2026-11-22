@@ -23,7 +23,7 @@ for_clients:
   - Laerdal
 ---
 
-[[TrustedRouter]]
+[[Tooling/AI-Toolkit/TrustedRouter]]
 [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/OpenRouter|OpenRouter]]
 [[Tooling/AI-Toolkit/Concentrate AI]]
 [[Tooling/AI-Toolkit/Requesty]]

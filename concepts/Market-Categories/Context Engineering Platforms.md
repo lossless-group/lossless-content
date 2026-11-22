@@ -62,7 +62,7 @@ The boundary is disputed at three edges: some operators treat [[Vocabulary/Retri
 
 - **Memory became a distinct infrastructure layer.** Agent-memory products now combine short-term session state with longer-term facts, summaries, and relationships; industry comparisons identify Mem0, Letta, and Zep as prominent dedicated memory systems. [^9g26yq] This lowers the barrier for developers who need persistent agent behavior without building memory infrastructure from scratch.
 
-- **Open-source implementations lowered entry costs.** [[Open Source Collaborations|open-source]] projects and developer frameworks now expose context assembly patterns, memory stores, retrieval, tool management, and state handling as reusable components. [^fy15ej] [^vcnj1a] This enables early startups to enter through developer adoption before selling enterprise control planes.
+- **Open-source implementations lowered entry costs.** [[Vocabulary/Open Source Collaborations|open-source]] projects and developer frameworks now expose context assembly patterns, memory stores, retrieval, tool management, and state handling as reusable components. [^fy15ej] [^vcnj1a] This enables early startups to enter through developer adoption before selling enterprise control planes.
 
 # What’s Happening?
 

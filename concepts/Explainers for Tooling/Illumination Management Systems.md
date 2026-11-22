@@ -13,7 +13,7 @@ cf_last_run: 2026-11-17T19:59:50.363Z
 cf_last_run_model: Perplexity sonar-pro
 ---
 
-[[NICOR]]
+[[content-areas/AI-Factories-Datacenters/Organizations/NICOR Lighting]]
 [[concepts/Market-Categories/Building Management Systems|Building Management Systems]]
 [[organizations/BACnet|BACnet]]
 

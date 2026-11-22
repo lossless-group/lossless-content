@@ -20,7 +20,7 @@ aliases:
 :::tool-showcase
 - [[Tooling/AI-Toolkit/AI Infrastructure/Tetrate|Tetrate]]
 - [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/OpenRouter|OpenRouter]]
-- [[TrustedRouter]]
+- [[Tooling/AI-Toolkit/TrustedRouter]]
 - [[Tooling/AI-Toolkit/Concentrate AI|Concentrate AI]]
 - [[Tooling/AI-Toolkit/Requesty|Requesty]]
 - [[Tooling/AI-Toolkit/Agentic AI/Rewind AI|Rewind AI]]

@@ -1,5 +1,5 @@
 ---
-date_modified: 2026-11-17
+date_modified: 2026-11-19
 site_uuid: 8eb20d11-8750-47e2-99ae-d47e66d4fc9e
 date_created: 2025-04-06
 aliases:
@@ -29,17 +29,20 @@ authors:
 [[concepts/Documentation First Development|Spec-Driven Development]]
 [[Tooling/AI-Toolkit/Generative AI/Code Generators/OpenSpec|OpenSpec]]
 [[GitHub Spec Kit|Spec Kit]]
+[[concepts/Context Vigilance|Context Vigilance]]
+
 
 https://youtu.be/b6cbxSaa4U4?is=bmct6JAp0B20JV4_
 
+https://youtu.be/6loAUS0TXOc?is=8onHJ7SGrXFLTtRl
 
 https://youtu.be/sGYvGUkerA0?is=lJIrzHJOfFPECWSw
 
-The role of [[concepts/Explainers for Tooling/Documentation]] in becoming a [[concepts/State of the Art|State of the Art]] technology platform is becoming more and more central.  
+The role of [[concepts/Explainers for Tooling/Documentation|Documentation]] in becoming a [[concepts/State of the Art|State of the Art]] technology platform is becoming more and more central.  
 
-Here's an example of [[organizations/Microsoft|Microsoft]]'s [[Tooling/Software Development/Frameworks/Web Frameworks/DotNET|ASP.NET]] [[concepts/Explainers for Tooling/Documentation]]:
+Here's an example of [[organizations/Microsoft|Microsoft]]'s [[Tooling/Software Development/Frameworks/Web Frameworks/DotNET|ASP.NET]] [[concepts/Explainers for Tooling/Documentation|Documentation]]:
 
-#### A screenshot of [[Tooling/Software Development/Frameworks/Web Frameworks/DotNET|ASP.NET]] [[concepts/Explainers for Tooling/Documentation]].
+#### A screenshot of [[Tooling/Software Development/Frameworks/Web Frameworks/DotNET|ASP.NET]] [[concepts/Explainers for Tooling/Documentation|Documentation]]
 ![ASP Net Documentation](https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Documentation_First_Development_content_1758977438474_7CI3S-x3_.webp)
 Here's an example of [[organizations/Mozilla|Mozilla]] using process documentation for internal use, yet exposing it to everyone:
 
@@ -99,7 +102,7 @@ There are, however, pitfalls to avoid:
 
 - **Overdocumentation:** Excessive or overly rigid documentation can slow teams and become obsolete rapidly. [^f3bjcp]
 - **Living Document Management:** If documentation isn’t maintained alongside the code, it becomes less valuable over time. [^f3bjcp]
-- **Perceived Contradiction with Agile:** Some practitioners worry this approach undermines Agile principles by emphasizing documentation over "working software," but when docs are treated as lightweight, iterative, and collaborative, the two are compatible. [^f3bjcp]
+- **Perceived Contradiction with [[Vocabulary/Agile Software Development|Agile Development]]:** Some practitioners worry this approach undermines Agile principles by emphasizing documentation over "working software," but when docs are treated as lightweight, iterative, and collaborative, the two are compatible. [^f3bjcp]
 
 ### Current State and Trends
 

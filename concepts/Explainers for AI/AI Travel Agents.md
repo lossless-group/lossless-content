@@ -1,6 +1,6 @@
 ---
 date_created: 2025-11-06
-date_modified: 2025-11-26
+date_modified: 2026-11-19
 site_uuid: 6237944c-f745-4cc1-a1a5-d7f8b735c596
 publish: true
 title: AI Travel Agents
@@ -12,6 +12,8 @@ augmented_with: Perplexity AI
 tags: [Vertical-Wrappers, Vertical-Agents, AI-Native]
 ---
 [[concepts/Explainers for Tooling/Vertical Wrappers|Vertical Wrappers]]
+[[concepts/Explainers for AI/AI Assistants|AI Assistants]]
+
 
 ***
 > [!info] **Perplexity Query** (2025-11-26T13:29:16.862Z)

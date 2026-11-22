@@ -5,7 +5,7 @@ tags:
   - Power-Generators
   - On-Site-Power-Generators
 date_created: 2026-06-05
-date_modified: 2026-10-10
+date_modified: 2026-11-18
 site_uuid: 8b286909-23cb-4b05-a268-5c9a885f102e
 publish: true
 title: On-Site Power Generation
@@ -26,6 +26,8 @@ for_clients:
 [[ExoWatt]]
 [[content-areas/AI-Factories-Datacenters/Organizations/Amperesand|Amperesand]]
 [[content-areas/AI-Factories-Datacenters/Organizations/Giga Energy|Giga Energy]]
+[[Bloom Energy]]
+
 
 [[content-areas/AI-Factories-Datacenters/Concepts/Smart Grids|Smart Grids]]
 

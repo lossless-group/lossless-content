@@ -1,11 +1,15 @@
 ---
 site_uuid: a0552e9f-6293-4f47-a691-581fc78cc16e
-date_modified: 2025-08-23
+date_modified: 2026-11-19
 date_created: 2025-03-30
-tags: [AI-Toolkit]
+tags:
+  - AI-Toolkit
+  - AI-Model-Training-Kits
+  - Foundation-Models
+  - AI-Research-Labs
 publish: true
-lede: "a type of machine learning...."
-title: "Reinforcement Learning"
+lede: a type of machine learning....
+title: Reinforcement Learning
 slug: reinforcement-learning
 at_semantic_version: 0.0.0.1
 ---
@@ -29,62 +33,10 @@ Reinforcement Learning has been successfully applied in various fields such as r
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 https://youtu.be/Dov68JsIC4g?si=yVlaRnmlqERix6XO
 
 https://youtu.be/GEJOB_TFYJ0?si=jbQwkgBWK6yIlOom
+
+# Sources
+
+[^b10whb]: "[Reinforcement Learning, second edition: An Introduction (Adaptive Computation and Machine Learning series): Sutton, Richard S., Barto, Andrew G.: 9780262039246](https://www.amazon.com/Reinforcement-Learning-Introduction-Adaptive-Computation/dp/0262039249/ref=pd_sbs_d_sccl_1_5/137-1793974-9864251)".. [Amazon](https://www.amazon.com).

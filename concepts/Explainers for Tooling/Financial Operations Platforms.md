@@ -2,7 +2,7 @@
 cf_last_run: 2026-06-06T05:05:11.651Z
 cf_last_run_model: Perplexity sonar-pro
 date_created: 2025-04-09
-date_modified: 2026-06-06
+date_modified: 2026-11-19
 tags:
   - Fin-Tech
   - Explainers
@@ -10,11 +10,26 @@ for_clients:
   - Param
   - Laerdal
   - Tonguc
+site_uuid: 5613f9cb-4a1e-45b4-96c5-f97676c1c948
+publish: true
+title: Financial Operations Platforms
+slug: financial-operations-platforms
+at_semantic_version: 0.0.1.1
+aliases:
+  - FinOps
+  - FinOps Platforms
+  - FinOps Platform
 ---
+[[concepts/Explainers for Tooling/Order-to-Cash|Order-to-Cash]]
+[[concepts/Explainers for AI/Accounts Payable Automations|Accounts Payable Automations]]
+[[concepts/Explainers for Tooling/Financial Reporting|Financial Reporting]]
+[[AI Bookkeepers]]
+[[concepts/Explainers for Tooling/Distributed Procurement Systems|Distributed Procurement Systems]]
+
 
 # Defining and Describing Financial Operations Platforms
 
-_[Financial operations platforms turn fragmented finance tools into a single operating system where money in, money out, and insight all run in one place.]_
+_Financial operations platforms turn fragmented finance tools into a single operating system where money in, money out, and insight all run in one place._
 
 A **financial operations platform** is a unified software environment that centralizes and automates a company’s core finance workflows—such as [[concepts/Explainers for AI/Accounts Payable Automations|Accounts Payable Automations]] (AP), accounts receivable (AR), cash flow, and reporting—into one coordinated system rather than separate point solutions. [^1ms3pt] [^wj0waq] [^5k276z] These platforms are used by businesses that have outgrown basic bookkeeping or siloed tools and need an integrated way to manage day‑to‑day operations, real‑time visibility, and decision support. [^1ms3pt] [^wj0waq] [^wvez9j] They matter because they reduce manual work and errors, connect financial data across departments, and provide a single source of truth for financial operations, enabling faster, more informed decisions and better scalability as companies grow. [^wj0waq] [^wvez9j] [^5k276z]
 
