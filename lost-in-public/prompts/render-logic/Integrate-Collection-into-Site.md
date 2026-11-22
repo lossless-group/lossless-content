@@ -12,7 +12,7 @@ augmented_with: Windsurf Cascade on Claude 3.7 Sonnet
 category: Prompts
 date_created: 2025-05-10
 date_modified: 2025-05-10
-site_uuid: 5716v092-c931-4c4d-88e1-188ec13b1a9d
+site_uuid: 042aa389-e6e6-4466-946e-420d94672c13
 tags: 
   - Render-Logic
   - Extended-Markdown

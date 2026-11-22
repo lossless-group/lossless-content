@@ -1,7 +1,7 @@
 ---
 date_created: 2025-06-19
-date_modified: 2025-09-20
-site_uuid: a0354223-396h-4rb4-a6ca-97afbe5cff17
+date_modified: 2026-11-22
+site_uuid: 60605fa0-a6ea-4d9e-b37f-5080fba26398
 title: Agentic AI in Medicine
 lede: Let's help medical professionals focus on treating patients, and let AI agents do the busy work.
 date_authored_initial_draft: 2025-06-19
@@ -10,12 +10,17 @@ at_semantic_version: 0.0.0.1
 status: To-Do
 augmented_with: Perplexica AI
 category: Megatrend-Context
-portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_portraitimage_From-Rags-to-Riches_1c824280-8f16-4a82-abc0-bbcbefc2648e_6fPgp5R15.jpg
-image_prompt: "A split scene: on top, a young street pauper in old London; below, a glowing software architecture diagram showing an AI chip fed by databases and fileservers, symbolizing the leap from rags to riches through RAG. The mood is transformative and technical."
-banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/essays/2025-05-04_bannerimage_From-Rags-to-Riches_a256493c-2ecf-471a-a6e8-6c428858c704_GqCMJtk3M.jpg
-tags: [AI-Human-Workflow, Agentic-AI, Near-Future-Anticipation]
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Agentic_AI_in_Medicine_portrait_image_1795327787681_06H0q6c3_.webp
+image_prompt: "A calm hospital room in warm light: a physician sits at a patient's bedside, giving them full, unhurried attention. Behind them, in cool blue tones, translucent AI agents quietly handle the busy work: sorting charts, filling insurance forms, scheduling follow-ups, and routing lab results into a tidy glowing dashboard. Warm, human foreground; cool, orderly digital background. The mood is relief and focus on care."
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Agentic_AI_in_Medicine_banner_image_1795327786965_4tZXOpjSq.webp
+tags:
+  - AI-Human-Workflow
+  - Agentic-AI
+  - Near-Future-Anticipation
 authors:
   - Michael Staton
+square_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Agentic_AI_in_Medicine_square_image_1795327788029_jCK3Vm_TE.webp
+banner_image_taller: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Agentic_AI_in_Medicine_banner_image_taller_1795327788392_UwhHS8L-lt.webp
 ---
 
 # Harnessing Agentic AI for Personalized Medicine: Unlocking New Frontiers

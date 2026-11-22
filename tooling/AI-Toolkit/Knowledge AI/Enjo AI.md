@@ -1,5 +1,5 @@
 ---
-site_uuid: 6e6fbt60-22b9-4070-871d-972b3554a7c0
+site_uuid: 59ea8ab9-5bdf-44f3-8ddd-314b4bf5b58f
 site_name: 'Enjo AI'
 url: 'https://www.enjo.ai/'
 title: 'Enjo: Enterprise Support AI Agent, powered by Generative AI'

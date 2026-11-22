@@ -15,7 +15,7 @@ category: Prompts
 date_created: 2025-04-16
 date_modified: 2025-04-16
 image_prompt: "A digital breadcrumb trail leading to an issue resolution, with highlighted steps, solution icons, and a summary card. Visuals include path markers, bug icons, and a sense of guiding future developers to solutions."
-site_uuid: 828827c3-4a13-4f05-967f-d5eb837f5f05
+site_uuid: 9d1a070c-636a-4b92-8462-2d731bfe2572
 tags: 
   - Issue-Resolution
   - Implementation-Solutions

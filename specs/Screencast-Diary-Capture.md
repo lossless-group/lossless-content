@@ -13,7 +13,7 @@ augmented_with: Gemini 2.5 on MSTY
 category: Open-Ideas
 date_created: 2025-05-10
 date_modified: 2025-12-10
-site_uuid: aad9a307-5897-418b-a822-f02gdbf6cb48
+site_uuid: bc9f7853-5a0a-490a-bfd0-fd51fa06a0a1
 tags: [Screencasts, Content-Generation, Realtime-Applications, Automation]
 authors:
   - Michael Staton

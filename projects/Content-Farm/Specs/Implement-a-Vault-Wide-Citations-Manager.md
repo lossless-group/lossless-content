@@ -13,7 +13,7 @@ category: Content-Management
 publish: true
 date_created: 2025-03-12
 date_modified: 2025-07-20
-site_uuid: y8f59v34-aa5b-4f79-b8a7-93c3fc99a89f
+site_uuid: 4bc8d5a9-accd-456a-b7d4-e9bc91caa611
 tags: [Build-Scripts, YAML, Frontmatter, Architecture, Documentation, OpenGraph, YouTube]
 authors:
   - Michael Staton
