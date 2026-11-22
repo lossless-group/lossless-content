@@ -1,7 +1,7 @@
 ---
 url: https://www.context.dev/
 date_created: 2026-10-10
-date_modified: 2026-10-10
+date_modified: 2026-11-22
 og_title: Web Scraping API for AI Agents & LLMs
 og_description: Scrape any URL to markdown, crawl entire websites, and extract structured data. One REST web scraping API built for AI agents and LLM pipelines.
 og_image: https://www.context.dev/api/og?title=Every+piece+of+web+context+your+agent+needs.
@@ -14,6 +14,7 @@ tags:
   - Data-Augmenters
   - API-based-Services
   - API-Services
+  - AI-Readiness
 site_uuid: 3b1397e8-06a6-47f5-8197-cf4a5f59aa84
 publish: true
 title: Context.dev
@@ -23,19 +24,26 @@ cf_last_run: 2026-10-10T16:44:17.970Z
 cf_last_run_model: Perplexity sonar-pro
 cf_retrieved_source_count: 1
 cf_last_run_retrieval: 2026-10-10T16:44:17.970Z
+for_clients:
+  - Lossless
+  - Edviro
+  - AI-Camp
+  - Laerdal
 ---
 
 [[Vocabulary/REST API|REST API]]
 [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Y Combinator|Y-Combinator]]
-[[concepts/Market-Categories/Context Engineering Platforms|Context Engineering Platforms]]
 [[Vocabulary/Web Scraping|Web Scraping]]
 [[concepts/Explainers for AI/AI Web Crawlers|AI-Powered Web Crawling]]
+[[Vocabulary/AI-Ready Data|AI-Ready Data]]
+[[Vocabulary/API Integrations|API-based integrations]]
+[[concepts/Explainers for Tooling/API-as-a-Service|API-as-a-Service]]
 
 # Context.dev
 
 ## Value Proposition & Features
 
-Context.dev provides a managed web-data API for AI agents and LLM pipelines: it retrieves web pages, renders JavaScript, crawls sites, and returns LLM-ready Markdown or structured JSON through one interface. [^rbz9lm] It also supports browser actions, MCP, REST APIs, and SDK-based integrations for applications and data pipelines. [^l0qenp]
+Context.dev provides a managed web-data [[Vocabulary/Application Programming Interface|APIs]] for AI agents and LLM pipelines: it retrieves web pages, renders JavaScript, crawls sites, and returns LLM-ready Markdown or structured [[projects/Emergent-Innovation/Standards/JSON|JSON]] through one interface. [^rbz9lm] It also supports browser actions, MCP, REST APIs, and SDK-based integrations for applications and data pipelines. [^l0qenp]
 
 - **Scraping:** Returns [[projects/Emergent-Innovation/Standards/Markdown|Markdown]], [[Tooling/Software Development/Programming Languages/HTML|HTML]], images, screenshots, or [[projects/Emergent-Innovation/Standards/JSON|JSON]] from a URL. [^6gkbf3]
 - **JavaScript rendering:** Handles dynamic pages without requiring users to operate their own browser infrastructure. [^6gkbf3]
@@ -44,40 +52,61 @@ Context.dev provides a managed web-data API for AI agents and LLM pipelines: it 
 - **Structured extraction:** Accepts JSON Schema and returns schema-shaped data; successful JSON extraction adds four credits. [^6gkbf3]
 - **Research answers:** The Answers API returns structured JSON with source URLs; Fast mode costs 10 credits and Ultra mode costs 100 credits. [^rbz9lm]
 - **Agent connectivity:** Supports MCP with [[projects/Emergent-Innovation/Standards/OAuth|OAuth]] alongside REST APIs and [[Vocabulary/SDK|SDKs]]. [^l0qenp]
-- **Additional data tools:** The product surface includes search, sitemaps, PDF parsing, brand enrichment, batches, monitors, and [[Vocabulary/Webhooks]]. [^6gkbf3]
+- **Additional data tools:** The product surface includes search, sitemaps, PDF parsing, brand enrichment, batches, monitors, and [[Vocabulary/Webhooks|Webhooks]]. [^6gkbf3]
+- **Search:** Web and news search returns ranked results with clean page content, not just links. [^a7c2e1]
+- **Monitors:** Page monitors watch for pricing, content, or new-page changes. Web search monitors run a query on a schedule and alert a webhook only when a genuinely new, relevant result appears. [^d41b9f]
+- **Context Highlights:** Returns only the passages of a page that are relevant to a query, for token-efficient agent reads. [^zbi1gh]
+- **Brand data (the original product):** Company profile, logo, brand colors, fonts, and style guide from a domain. Logo Link has its own quota separate from API credits. [^a7c2e1]
+- **Reliability claim:** JS rendering is always on, proxies escalate automatically, and retries adapt on Context.dev's side. They claim a 99.96% scrape success rate "with no configuration." [^a7c2e1]
+- **Agent-native onboarding:** A hosted MCP server at `https://mcp.context.dev/mcp`, a CLI, SDKs for TypeScript, Python, Ruby, Go and PHP, and an `auth.md` that lets an agent sign itself up. [^a7c2e1]
+- **Enterprise controls:** SOC 2 Type 2, a zero-data-retention mode, and web access policies that refuse (and don't charge for) blocked sites. [^a7c2e1]
 
 ## Screenshots
 
-No three official product screenshots were identified in the available search results.
+![Context.dev screenshot 1](https://www.context.dev/brand-guidelines/overview.png)
+*Source: [context.dev](https://www.context.dev/brand)*
+
+![Context.dev screenshot 2](https://www.context.dev/_next/image?url=%2Fbrand-guidelines%2Fmonitors.png&w=3840&q=75&dpl=dpl_4EeVer1TQcupsUC8UxeF32zwQBWa)
+*Source: [context.dev](https://www.context.dev/brand)*
+
+![Context.dev screenshot 3](https://www.context.dev/brand-guidelines/api-preview.png)
+*Source: [context.dev](https://www.context.dev/brand)*
 
 ## Product Roadmap / Announcements
 
-As of October 10, 2026,
+As of November 21, 2026,
 
+- **October 30, 2026 — Web search monitors:** Give it a search query plus a plain-language description of what counts as news, and it runs the search on a schedule and alerts only on genuinely new developments. Can be set up "in a sentence" through the Context MCP. [^d41b9f]
+- **October 19, 2026 — $9M seed:** Led by [[vertical-toolkits/Alternatives/Venture-Capital-Firms/General Catalyst|General Catalyst]]. [^b83f0d]
+- **October 17, 2026 — Rusteerio:** Context.dev ported Cheerio to Rust for faster HTML processing. [^a7c2e1]
 - **September 28, 2026 — Context Highlights:** Context.dev announced a feature that returns passages relevant to a webpage query, reducing the number of tokens an agent must process. [^zbi1gh]
 - **September 16, 2026 — Answers API:** Context.dev introduced an API that converts a question or research task into structured JSON with source URLs. [^rbz9lm]
 
 ## Recent Developments
 
 - Context.dev published documentation and examples for [[concepts/Explainers for AI/Model Context Protocol|MCP]], browser agents, production scraping pipelines, and web-scraping integrations during September and October 2026. [^l0qenp] [^f3hogg] [^5n8034]
-- Its October 2026 pricing guidance describes a free plan with 1,000 monthly credits for work-email accounts or a one-time 250-credit allowance for personal-email accounts. [^6gkbf3]
+- Its October 2026 pricing guidance describes a free plan with 1,000 monthly credits for work-email accounts or a one-time 250-credit allowance for personal-email accounts. [^6gkbf3] By November 2026 the homepage describes the free tier simply as 1,000 credits a month with no credit card. [^a7c2e1]
+- **Customers:** Published case studies and logos include [[Tooling/Data Utilities/Upstash|Upstash]] (whose [[Tooling/Enterprise Jobs-to-be-Done/Context7|Context7]] docs crawling runs on Context.dev at millions of requests a day, with Context7 reporting 2.4x faster median crawls after switching), [[Tooling/Software Development/Developer Experience/DevOps/Documentation Engines/Mintlify|Mintlify]], Similarweb, [[vertical-toolkits/FinTech/Klarna|Klarna]], daily.dev, Zero, Mastra, Tinfoil, Squad and Instant. [^a7c2e1] [^c5e8a2]
+- One case study is titled "Instant switches from Firecrawl to Context.dev in under a day," which makes the competitive target explicit. [^a7c2e1]
+- See also our write-up: [[lost-in-public/keeping-up/Context.dev - Search and Scrape Infrastructure for Agents|Context.dev — Search and Scrape Infrastructure for Agents]].
 
 ## History and Origin Story
 
-Context.dev was founded in 2025 and is associated with [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Y Combinator|Y Combinator]]’s Summer 2026 batch. [^E1] Its public product direction has expanded from URL scraping and crawling toward agent-oriented research, structured answers, MCP connectivity, and context-reduction tools such as Context Highlights. [^rbz9lm] [^zbi1gh]
+Context.dev was founded in 2025 and is associated with [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Y Combinator|Y Combinator]]’s Summer 2026 batch. [^E1] Founder Yahia Bakour started the company as **Brand.dev**, an API that returned a company's logo, colors and fonts from a domain, and renamed it Context.dev as the product grew into a full web-context layer for agents. [^b83f0d] Its public product direction has expanded from URL scraping and crawling toward agent-oriented research, structured answers, MCP connectivity, and context-reduction tools such as Context Highlights. [^rbz9lm] [^zbi1gh]
 
 ## Fundraising History
 
 | Round | Date | Amount | Lead investor |
 |---|---|---:|---|
 | Y Combinator S26 | 2026 | No reliable amount found | Y Combinator |
-| **Total** | — | **No reliable total found** | — |
+| Seed | 2026-10-19 | $9M | General Catalyst |
+| **Total** | — | **At least $9M** (YC amount not disclosed) | — |
 
-Y Combinator
+Y Combinator also participated in backing the seed round. [^b83f0d]
 
-## Notable Team Members
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Y Combinator|Y Combinator]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/General Catalyst|General Catalyst]]
 
-No reliable public search result identified the founders or other notable team members. The supplied company material reports a workforce of six, but does not name its members. [^E1]
 
 ## Market Sizing
 
@@ -89,16 +118,23 @@ No reliable analyst-firm or financial-journalism estimate for Context.dev’s ad
 
 ## Pricing
 
-| Tier | Published price | Included credits |
-|---|---:|---:|
-| Free — work email | $0 | 1,000 monthly |
-| Free — personal email | $0 | 250 one-time |
-| Developer | $19/month | 7,500 |
-| Pro | $99/month | 125,000 |
-| Growth | $299/month | 500,000 |
-| Scale | $499/month | 1,000,000 |
+As of November 21, 2026: [^a7c2e1]
 
-The published pricing describes annual billing as saving two months and offers optional automatic top-ups on paid plans. [^6gkbf3] Standard scraping starts at one credit per page, or two credits with browser actions; successful JSON extraction adds four credits. [^6gkbf3]
+| Tier | Monthly price | Auto-top-up per 1K credits |
+|---|---:|---:|
+| Free | $0 (1,000 credits/month, no card) | — |
+| Developer | $20 | $3.00 |
+| Pro | $90 | $2.00 |
+| Growth | $300 | $1.50 |
+| Scale | $500 | $1.00 |
+| Scale 2.5M | $950 | $0.75 |
+| Enterprise | Custom (above 2.5M credits/month) | — |
+
+Concurrency limits scale by plan: Free 2, Developer 10, Pro 100, Growth 250, Scale 500. Annual billing saves two months, and eligible startups and nonprofits can get 30% off an annual plan for 12 months. [^a7c2e1]
+
+**Credit costs:** Scrape is 1 credit (2 with browser actions). Successful JSON extraction adds 4, and Highlights and Product add 1 each. Brand and Styleguide are 10. Answers is 10 in Fast mode or 100 in Ultra. Web and news search cost 1 credit per 10 results. People Search is 10 per call and People Enrich 20 per match. JS rendering, anti-bot bypass and proxies are included. [^a7c2e1]
+
+*In October 2026 the published tiers were Developer $19, Pro $99, Growth $299 and Scale $499, with 7,500 / 125,000 / 500,000 / 1,000,000 included credits respectively.* [^6gkbf3]
 
 ## Revenue Trajectory Estimates
 
@@ -114,7 +150,9 @@ It is less suitable for teams seeking a self-hosted, open-source crawler or high
 
 ### Viable Alternatives
 
-- **Scrapy:** An open-source framework for teams that want direct control over crawl logic and infrastructure. [^60hucb]
+- **[[Tooling/AI-Toolkit/Agentic AI/Firecrawl|Firecrawl]]:** The most direct managed competitor: scrape, crawl, search and structured extraction for agents, plus a catalogue of typed data providers. Context.dev publishes a case study of a customer switching from Firecrawl. [^a7c2e1]
+- **Tavily:** A search-and-extract API aimed at agents and RAG pipelines, overlapping with Context.dev's search and Answers APIs.
+- **[[Scrapy]]:** An open-source framework for teams that want direct control over crawl logic and infrastructure. [^60hucb]
 - **Browser automation stacks:** Suitable when an application needs persistent, user-controlled browser sessions rather than stateless managed retrieval. [^cmubd3]
 - **Self-managed proxy and browser infrastructure:** An alternative for organizations willing to operate rendering, proxy rotation, retries, and anti-bot systems themselves. [^cmubd3]
 - **Other managed scraping APIs:** Viable where teams prioritize a different mix of rendering, extraction, crawling, pricing, or proxy capabilities; the available results do not establish a definitive market ranking.
@@ -123,10 +161,13 @@ It is less suitable for teams seeking a self-hosted, open-source crawler or high
 
 | Competitor | Description |
 |---|---|
-| [Scrapy](https://scrapy.org/) | Open-source crawling framework that provides more infrastructure control but requires teams to manage rendering, retries, scheduling, and extraction components themselves. [^60hucb] |
-| Browser automation frameworks | Tools for controlling browsers directly, useful for interactive or persistent sessions but requiring more operational infrastructure than Context.dev’s managed API. [^l0qenp] [^cmubd3] |
-| Self-managed scraping stacks | Internally operated combinations of browsers, proxies, anti-bot systems, and extraction code, offering customization at the cost of maintenance. [^cmubd3] |
+| [Firecrawl](https://www.firecrawl.dev/) | Managed scrape, crawl, search and extraction API for agents; the competitor Context.dev names in its own case studies. |
+| [Tavily](https://www.tavily.com/) | Search and extraction API for agents and RAG, overlapping with Context.dev Search and Answers. |
+| [Scrapy](https://scrapy.org/) | Open-source crawling framework that provides more infrastructure control but requires teams to manage rendering, retries, scheduling, and extraction components themselves. |
+| Browser automation frameworks | Tools for controlling browsers directly, useful for interactive or persistent sessions but requiring more operational infrastructure than Context.dev’s managed API. |
+| Self-managed scraping stacks | Internally operated combinations of browsers, proxies, anti-bot systems, and extraction code, offering customization at the cost of maintenance. |
 | Managed scraping APIs | Commercial alternatives that provide some combination of rendering, proxying, crawling, and structured extraction; the available results do not identify a specific competitor with sufficient reliable detail.
+Sources for Table: [^60hucb] [^l0qenp] [^cmubd3]
 
 
 ***
@@ -148,6 +189,11 @@ It is less suitable for teams seeking a self-hosted, open-source crawler or high
 [13]: [www.context.dev · blog · how-to-build-web-scrapersHow to Build Web Scrapers That Survive Layout Changes](https://www.context.dev/blog/how-to-build-web-scrapers-that-survive-layout-changes)
 [^60hucb]: [Replace Scrapy With A...](https://www.context.dev/blog/what-is-scrapy)
 [15]: [Parasma (YC S26) competitors — 5 similar Summer 2026 companies](https://mentionfox.com/funding/yc-parasma/competitors)
+
+[^a7c2e1]: [Context.dev homepage, pricing and FAQ](https://www.context.dev/) (retrieved 2026-11-21)
+[^b83f0d]: [We raised $9M to give agents the internet](https://www.context.dev/blog/context-dev-raises-9m-seed-led-by-general-catalyst) (2026-10-19)
+[^d41b9f]: [Introducing web search monitors](https://www.context.dev/blog/introducing-web-search-monitors) (2026-10-30)
+[^c5e8a2]: [Context7 on switching its crawling infrastructure to Context.dev](https://x.com/Context7AI/status/2118006952869687748)
 
 ## Sources (retrieved)
 
