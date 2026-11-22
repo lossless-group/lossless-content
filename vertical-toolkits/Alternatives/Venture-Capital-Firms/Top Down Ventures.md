@@ -34,5 +34,5 @@ Top Down Ventures invests in software made _for_ MSPs or sold _through_ them, no
 - **Pedigree:** The partners founded well-known MSP software companies:
     - **[[organizations/N-able]]:** remote monitoring and management (RMM) software that lets MSPs oversee client machines remotely.
     - **IT Glue:** documentation software, bought by Kaseya.
-    - **[[ScalePad]]:** used by more than 12,000 MSPs.
+    - **[[Tooling/Enterprise Jobs-to-be-Done/ScalePad]]:** used by more than 12,000 MSPs.
 - **Recent deals:** A $2.5M seed round in Synthreo, an AI agent platform built for MSPs, and the lead role in Benji Pays's round.
