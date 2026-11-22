@@ -9,7 +9,7 @@ portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Atmospheric_W
 lede: "There are trillions of liters of water floating in the air. A new class of machines wants to tap it like a well."
 ---
 
-[[Tooling/Products/Aquaria|Aquaria]]
+[[content-areas/Blue-Economy/Organizations/Aquaria|Aquaria]]
 
 
 https://youtu.be/fjDQ8UDzuB8?si=vQvNI7Qz-NimbWFy
