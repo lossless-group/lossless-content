@@ -2,11 +2,14 @@
 date_created: 2026-10-31
 date_modified: 2026-10-31
 title: Smithery CLI — Acquired by Arcade, Shut Down Three Months Later
+lede: "Don't install this one: the MCP package manager's service shut down three months after Arcade acquired it."
 slug: smithery-cli-acquired-by-arcade-shut-down
 tags: [Model-Context-Protocol, Acquisitions, Developer-Tools, Agent-Infrastructure, Shutdowns, Homebrew]
 homepage: https://smithery.ai
 github_repo_url: https://github.com/arcadeai-labs/smithery-cli
 brew_page: https://formulae.brew.sh/formula/smithery-cli
+og_favicon: https://www.smithery.ai/favicon.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://www.smithery.ai/future

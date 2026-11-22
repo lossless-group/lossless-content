@@ -2,6 +2,7 @@
 date_created: 2026-05-14
 date_modified: 2026-05-14
 title: skm — A Simple SSH Keys Manager
+lede: "A small Go CLI for switching between multiple SSH identities without hand-editing ~/.ssh/config."
 slug: skm-ssh-keys-manager
 tags: [Developer-Tools, SSH, Command-Line, Secrets-Management]
 homepage: https://timothyye.github.io/skm

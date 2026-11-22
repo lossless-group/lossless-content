@@ -2,12 +2,15 @@
 date_created: 2026-07-08
 date_modified: 2026-07-08
 title: LibreFang — A Community Fork of the OpenFang Agent OS
+lede: "A self-hosted agent operating system in Rust that runs agents on schedules around the clock and reports to a dashboard on your own machine."
 slug: librefang-community-fork-openfang-agent-os
 tags: [AI-Agents, Agent-Operating-Systems, Self-Hosted, Rust, Model-Context-Protocol, Open-Source-Governance, Homebrew]
 homepage: https://librefang.ai
 github_repo_url: https://github.com/librefang/librefang
 brew_page: https://formulae.brew.sh/formula/librefang
 install: brew install librefang
+og_favicon: https://librefang.ai/favicon.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://librefang.ai

@@ -2,6 +2,7 @@
 date_created: 2026-04-20
 date_modified: 2026-04-20
 title: Affinity April 2026 — Canva Brand System and a Claude Connector
+lede: "The first Affinity release that shows its Canva future: Canva brand kits inside Affinity, Capture One and DaVinci Resolve connectors, and a Claude automation connector."
 slug: affinity-april-2026-canva-claude
 tags: [Affinity, Canva, Creative-Tools, Design-Software, AI-Workflows, Capture-One, DaVinci-Resolve]
 announcement_url: https://www.affinity.studio/blog/affinity-update-april-2026

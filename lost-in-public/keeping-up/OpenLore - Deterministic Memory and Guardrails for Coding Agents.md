@@ -2,6 +2,7 @@
 date_created: 2026-07-29
 date_modified: 2026-07-29
 title: OpenLore — Deterministic Memory and Guardrails for Coding Agents
+lede: "Agent memory without a second model: a knowledge graph of your repo built by static analysis and served over MCP, with no LLM in the loop."
 slug: openlore-deterministic-memory-guardrails-coding-agents
 tags: [Developer-Tools, AI-Agents, Agent-Memory, Model-Context-Protocol, Local-First, Claude-Code, Homebrew]
 github_repo_url: https://github.com/clay-good/OpenLore

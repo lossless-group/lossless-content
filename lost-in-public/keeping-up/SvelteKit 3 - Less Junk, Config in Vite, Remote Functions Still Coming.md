@@ -2,6 +2,7 @@
 date_created: 2026-10-01
 date_modified: 2026-11-21
 title: SvelteKit 3 — Less Junk, Config in Vite, Remote Functions Still Coming
+lede: "SvelteKit 3 is a cleanup major: config moves into Vite, $lib becomes #lib, and remote functions still aren't stable."
 slug: sveltekit-3-less-junk-config-in-vite-remote-functions-still-coming
 tags:
   - Svelte
@@ -12,6 +13,8 @@ homepage: https://svelte.dev/docs/kit
 announcement_url: https://svelte.dev/blog/sveltekit-3-is-here
 migration_guide: https://svelte.dev/docs/kit/migrating-to-sveltekit-3
 install: npx sv create my-new-app
+og_favicon: https://svelte.dev/favicon.png
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://svelte.dev/blog/sveltekit-3-is-here

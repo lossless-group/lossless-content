@@ -2,6 +2,7 @@
 date_created: 2026-09-05
 date_modified: 2026-09-05
 title: AgentIDE — Run Agents in Parallel, Keep Tokens Private
+lede: "A parallel-agent workspace that starts from a harder assumption than most: any token an agent can reach will eventually be misused."
 slug: agentide-run-agents-in-parallel-keep-tokens-private
 tags: [Developer-Tools, AI-Agents, Security, Sandboxing, macOS, Claude-Code, Homebrew]
 homepage: https://mikemcquaid.com/sanductor/

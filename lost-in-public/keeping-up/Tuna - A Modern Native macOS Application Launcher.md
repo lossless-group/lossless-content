@@ -2,11 +2,14 @@
 date_created: 2026-05-25
 date_modified: 2026-05-25
 title: Tuna — A Modern Native macOS Application Launcher
+lede: "A modern, native Mac launcher sold as a one-time purchase, in a category Spotlight, Alfred and Raycast have dominated for years."
 slug: tuna-application-launcher
 tags: [macOS, Launcher, Productivity, Swift, Quicksilver]
 homepage: https://tunaformac.com/
 brew_page: https://formulae.brew.sh/cask/tuna
 install: brew install --cask tuna
+og_favicon: https://tunaformac.com/apple-touch-icon.png
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://tunaformac.com/

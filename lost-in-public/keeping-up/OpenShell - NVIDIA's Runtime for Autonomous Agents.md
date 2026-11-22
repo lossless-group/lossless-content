@@ -2,12 +2,15 @@
 date_created: 2026-10-01
 date_modified: 2026-10-01
 title: OpenShell — NVIDIA's Runtime for Autonomous Agents
+lede: "NVIDIA's agent runtime enforces a per-agent policy from below the agent, controlling which files, packages, APIs and credentials it can touch."
 slug: openshell-nvidia-runtime-autonomous-agents
 tags: [Developer-Tools, AI-Agents, Agent-Sandboxes, Security, Formal-Verification, NVIDIA, Rust, Homebrew]
 homepage: https://docs.nvidia.com/openshell/latest/
 github_repo_url: https://github.com/NVIDIA/OpenShell
 brew_page: https://formulae.brew.sh/formula/openshell
 install: brew install openshell
+og_favicon: https://docs.nvidia.com/openshell/api/fern-docs/favicon.ico?v=46cfea3209cb
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://github.com/NVIDIA/OpenShell

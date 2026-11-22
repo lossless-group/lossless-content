@@ -2,12 +2,15 @@
 date_created: 2026-08-23
 date_modified: 2026-08-23
 title: Obscura — A Headless Browser for Agents, Without Chromium
+lede: "A Rust headless browser with its own renderer that speaks the Chrome DevTools Protocol, so agents get a lighter browser than Chromium."
 slug: obscura-headless-browser-agents-without-chromium
 tags: [Developer-Tools, AI-Agents, Headless-Browsers, Web-Scraping, Model-Context-Protocol, Rust, Homebrew]
 homepage: https://obscura.sh
 github_repo_url: https://github.com/h4ckf0r0day/obscura
 brew_page: https://formulae.brew.sh/formula/obscura
 install: brew install obscura
+og_favicon: https://www.obscura.sh/favicon-dark.ico
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://github.com/h4ckf0r0day/obscura

@@ -2,12 +2,15 @@
 date_created: 2026-10-22
 date_modified: 2026-10-22
 title: zvec-grep — Local Hybrid Search for People and Agents
+lede: "Puts ripgrep, BM25 and vector search behind one local command, so people and agents can find things by meaning, then verify with exact text."
 slug: zvec-grep-local-hybrid-search-people-agents
 tags: [Developer-Tools, AI-Agents, Semantic-Search, Vector-Databases, Local-First, Model-Context-Protocol, Homebrew]
 homepage: https://zvec.org/en/docs/zvec-grep/
 github_repo_url: https://github.com/zvec-ai/zvec-grep
 brew_page: https://formulae.brew.sh/formula/zvec-grep
 install: brew install zvec-grep
+og_favicon: https://zvec.org/favicon.ico?favicon.41uh94n7isu2z.ico
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://github.com/zvec-ai/zvec-grep

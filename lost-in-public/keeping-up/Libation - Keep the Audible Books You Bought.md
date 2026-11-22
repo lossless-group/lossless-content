@@ -2,12 +2,15 @@
 date_created: 2026-07-20
 date_modified: 2026-07-20
 title: Libation — Keep the Audible Books You Bought
+lede: "Libation downloads your Audible library and removes the DRM, leaving ordinary audio files that play anywhere."
 slug: libation-keep-the-audible-books-you-bought
 tags: [Digital-Preservation, Own-Your-Data, DRM, Audiobooks, Open-Source, macOS, Homebrew]
 homepage: https://getlibation.com
 github_repo_url: https://github.com/rmcrackan/Libation
 brew_page: https://formulae.brew.sh/cask/libation
 install: brew install --cask libation
+og_favicon: https://getlibation.com/favicon.ico
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://getlibation.com

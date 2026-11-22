@@ -2,10 +2,13 @@
 date_created: 2026-05-13
 date_modified: 2026-05-13
 title: Presentify — Annotate, Highlight, and Zoom on macOS
+lede: "A Mac menu bar app for demos and screen sharing that lets you draw over any window, highlight the cursor, spotlight a region and zoom in."
 slug: presentify-screen-annotation-macos
 tags: [macOS, Presentations, Screen-Recording, Demos, Content-Creation]
 homepage: https://presentifyapp.com/
 install: brew install --cask presentify
+og_favicon: https://presentifyapp.com/icon.png
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://presentifyapp.com/

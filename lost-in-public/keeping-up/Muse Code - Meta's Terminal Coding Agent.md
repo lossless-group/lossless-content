@@ -2,11 +2,14 @@
 date_created: 2026-08-12
 date_modified: 2026-08-12
 title: Muse Code — Meta's Terminal Coding Agent
+lede: "Meta enters the terminal coding agent race with Muse Code, a beta harness co-trained with its own coding model, Muse Spark 1.2."
 slug: muse-code-metas-terminal-coding-agent
 tags: [Developer-Tools, AI-Agents, Coding-Agents, Meta, Terminal, Homebrew]
 homepage: https://dev.meta.ai/products/muse-code
 brew_page: https://formulae.brew.sh/cask/muse-code
 install: brew install --cask muse-code
+og_favicon: https://dev.meta.ai/favicon.ico?favicon.0__pei86aoyzg.ico
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://dev.meta.ai/docs/muse-code

@@ -2,12 +2,15 @@
 date_created: 2026-07-23
 date_modified: 2026-07-23
 title: APM — Microsoft's Dependency Manager for Agent Configuration
+lede: "Microsoft treats agent instructions, skills, hooks and MCP servers as dependencies: declare them in apm.yml, run apm install, and everyone gets the same setup."
 slug: apm-microsoft-dependency-manager-agent-configuration
 tags: [Developer-Tools, AI-Agents, Package-Managers, Agent-Skills, Model-Context-Protocol, Supply-Chain-Security, Homebrew]
 homepage: https://microsoft.github.io/apm/
 github_repo_url: https://github.com/microsoft/apm
 brew_page: https://formulae.brew.sh/formula/apm
 install: brew install apm
+og_favicon: https://microsoft.github.io/apm/favicon.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://microsoft.github.io/apm/

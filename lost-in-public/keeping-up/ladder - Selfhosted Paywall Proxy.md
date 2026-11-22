@@ -2,6 +2,7 @@
 date_created: 2026-05-25
 date_modified: 2026-05-25
 title: ladder — Selfhosted Alternative to 12ft.io
+lede: "A self-hosted replacement for 12ft.io, so your tooling doesn't depend on someone else's free paywall proxy staying up."
 slug: ladder-selfhosted-paywall-proxy
 tags: [Developer-Tools, Self-Hosted, Web-Proxy, Go, Docker]
 github_repo_url: https://github.com/everywall/ladder

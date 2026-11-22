@@ -2,6 +2,7 @@
 date_created: 2026-05-15
 date_modified: 2026-05-15
 title: Obsidian Overhauls Its Plugin Ecosystem
+lede: "Obsidian replaced review-once, trust-forever plugin submissions with a community site and automated scanning of every plugin version."
 slug: obsidian-overhauls-its-plugin-ecosystem
 tags: [Obsidian, Plugin-Ecosystems, Knowledge-Tools, Software-Supply-Chain, Open-Source-Governance]
 ---

@@ -2,6 +2,7 @@
 date_created: 2026-04-12
 date_modified: 2026-04-12
 title: Llama 5 is Released
+lede: "Meta's Llama 5 is its most aggressive open-weights release yet: about 600B parameters and a 5-million-token context window."
 slug: llama-5-is-released
 tags: [Open-Weights, LLMs, Meta, Foundation-Models, Long-Context]
 announcement_url: https://ai.meta.com/blog/llamacon-llama-news/

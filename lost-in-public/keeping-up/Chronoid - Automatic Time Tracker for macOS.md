@@ -2,11 +2,14 @@
 date_created: 2026-05-25
 date_modified: 2026-05-25
 title: Chronoid — Automatic Time Tracker for macOS
+lede: "An automatic Mac time tracker that keeps its data on your machine, avoiding both forgotten manual timers and cloud-based tracking."
 slug: chronoid-automatic-time-tracker
 tags: [macOS, Productivity, Time-Tracking, Freelance, Privacy]
 homepage: https://chronoid.app/
 brew_page: https://formulae.brew.sh/cask/chronoid
 install: brew install --cask chronoid
+og_favicon: https://www.chronoid.app/favicon.png
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://chronoid.app/

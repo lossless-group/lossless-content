@@ -2,11 +2,14 @@
 date_created: 2026-05-25
 date_modified: 2026-05-25
 title: Trickster — Recently Changed Files at a Keystroke
+lede: "A Mac utility that shows the files that recently changed on disk at a keystroke, faster and more accurate than Finder's Recent view."
 slug: trickster-recent-files-macos
 tags: [macOS, Productivity, File-Management, Keyboard-Driven]
 homepage: https://www.apparentsoft.com/trickster
 brew_page: https://formulae.brew.sh/cask/trickster
 install: brew install --cask trickster
+og_favicon: https://tricksterapp.com/apple-touch-icon.png
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://www.apparentsoft.com/trickster

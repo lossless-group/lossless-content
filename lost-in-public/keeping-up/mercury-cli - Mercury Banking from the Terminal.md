@@ -2,6 +2,7 @@
 date_created: 2026-05-25
 date_modified: 2026-05-25
 title: mercury-cli — Mercury Banking from the Terminal
+lede: "Mercury, the bank many US startups use, now has a first-party CLI, handy when your runway and burn calculations live in scripts."
 slug: mercury-cli-banking-terminal
 tags: [Developer-Tools, Banking, Fintech, CLI, Startups]
 github_repo_url: https://github.com/MercuryTechnologies/mercury-cli

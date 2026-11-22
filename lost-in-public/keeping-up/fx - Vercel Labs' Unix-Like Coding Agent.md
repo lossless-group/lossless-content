@@ -2,12 +2,15 @@
 date_created: 2026-08-23
 date_modified: 2026-08-23
 title: fx — Vercel Labs' Unix-Like Coding Agent
+lede: "Vercel Labs' coding agent behaves like an ordinary command: one Zig binary whose conversation prints into your normal terminal scrollback."
 slug: fx-vercel-labs-unix-like-coding-agent
 tags: [Developer-Tools, AI-Agents, Coding-Agents, Vercel, Zig, Terminal, Homebrew]
 homepage: https://fx.sh
 github_repo_url: https://github.com/vercel-labs/fx
 brew_page: https://formulae.brew.sh/formula/fx-agent
 install: brew install fx-agent
+og_favicon: https://fx.sh/favicon.png
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://fx.sh

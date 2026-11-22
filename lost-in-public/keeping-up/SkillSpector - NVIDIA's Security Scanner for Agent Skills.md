@@ -2,12 +2,15 @@
 date_created: 2026-09-01
 date_modified: 2026-09-01
 title: SkillSpector — NVIDIA's Security Scanner for Agent Skills
+lede: "NVIDIA's scanner answers one question before you install an agent skill: is it safe to load into an agent that already has your permissions?"
 slug: skillspector-nvidia-security-scanner-agent-skills
 tags: [Developer-Tools, AI-Agents, Agent-Skills, Security, Supply-Chain, NVIDIA, Python, Homebrew]
 homepage: https://docs.nvidia.com/skills/scanning-agent-skills
 github_repo_url: https://github.com/NVIDIA/SkillSpector
 brew_page: https://formulae.brew.sh/formula/skillspector
 install: brew install skillspector
+og_favicon: https://docs.nvidia.com/skills/api/fern-docs/favicon.ico?v=c29d5b364ff9
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://github.com/NVIDIA/SkillSpector

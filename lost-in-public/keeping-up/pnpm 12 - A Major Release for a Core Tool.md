@@ -2,12 +2,15 @@
 date_created: 2026-08-26
 date_modified: 2026-08-26
 title: pnpm 12 — A Major Release for a Core Tool
+lede: "pnpm 12 is a rewrite in Rust that runs without Node.js, with a short list of differences for upgraders."
 slug: pnpm-12-a-major-release-for-a-core-tool
 tags: [Package-Managers, Build-Tooling, Rust, Breaking-Changes, Homebrew]
 homepage: https://pnpm.io
 github_repo_url: https://github.com/pnpm/pnpm
 brew_page: https://formulae.brew.sh/formula/pnpm
 install: brew install pnpm
+og_favicon: https://pnpm.io/img/favicon.png
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://pnpm.io/blog/releases/12.0

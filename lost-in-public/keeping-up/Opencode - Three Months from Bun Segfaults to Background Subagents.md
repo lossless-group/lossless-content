@@ -2,6 +2,7 @@
 date_created: 2026-05-18
 date_modified: 2026-05-18
 title: Opencode — Three Months from Bun Segfaults to Background Subagents
+lede: "About 120 Opencode releases over three months, from fixing Bun segfaults to background subagents, read as one story."
 slug: opencode-changelog-rollup-feb-may-2026
 tags: [AI-Coding, Opencode, TUI-Agents, Anomaly, Developer-Tools, Open-Source, Subagents]
 announcement_url: https://github.com/anomalyco/opencode/commits/dev/

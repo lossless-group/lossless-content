@@ -2,6 +2,7 @@
 date_created: 2026-04-28
 date_modified: 2026-04-28
 title: DeepSeek V4 Runs on Huawei Ascend — A Frontier Model Without NVIDIA
+lede: "DeepSeek V4 ships open weights with a million-token context at very low prices, and it runs on Huawei Ascend chips instead of NVIDIA."
 slug: deepseek-v4-huawei-ascend
 tags: [LLMs, DeepSeek, China-AI, Huawei, Hardware, Geopolitics, Open-Weights]
 release_date: 2026-04-24

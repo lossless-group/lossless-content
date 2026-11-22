@@ -2,10 +2,13 @@
 date_created: 2025-04-15
 date_modified: 2026-06-01
 title: Gemma 3 Released
+lede: "Google DeepMind's third generation of open-weight models is the first to make small enough to run locally and good enough to matter hold across every size."
 slug: gemma-3-released
 tags: [Gemma, Google-DeepMind, Open-Models, Multimodal, Local-AI, Long-Context]
 homepage: https://deepmind.google/models/gemma/gemma-3/
 release_date: 2025-03-12
+og_favicon: https://storage.googleapis.com/gdm-deepmind-com-prod-public/icons/google_deepmind_48dp.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 Google DeepMind released **[Gemma 3](https://deepmind.google/models/gemma/gemma-3/)** on March 12, 2025 — the third generation of its open-weight model family, and the first that takes the "small enough to run locally, smart enough to matter" pitch seriously across the whole size range.

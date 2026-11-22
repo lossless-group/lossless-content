@@ -2,12 +2,15 @@
 date_created: 2026-10-14
 date_modified: 2026-10-14
 title: AIPOCH Open-Science — A Research Workbench with Portable Records
+lede: "A desktop research workbench that keeps the agent, the code runs, the papers and the outputs in one project, then exports the work as a portable record."
 slug: aipoch-open-science-research-workbench-portable-records
 tags: [AI-Agents, AI-Research, Research-Tools, Model-Context-Protocol, Agent-Skills, Local-First, Open-Source, Homebrew]
 homepage: https://aipoch.com/open-science
 github_repo_url: https://github.com/aipoch/open-science
 brew_page: https://formulae.brew.sh/cask/open-science
 install: brew install --cask open-science
+og_favicon: https://aipoch.com/favicon.ico?favicon.abebd188.ico
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://aipoch.com/open-science

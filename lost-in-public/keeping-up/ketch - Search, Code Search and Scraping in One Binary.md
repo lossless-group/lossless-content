@@ -2,12 +2,15 @@
 date_created: 2026-09-16
 date_modified: 2026-09-16
 title: ketch — Search, Code Search and Scraping in One Binary
+lede: "Puts web search, code search and scraping providers behind one binary, so agents call one command without knowing which provider answered."
 slug: ketch-search-code-search-scraping-one-binary
 tags: [Developer-Tools, AI-Agents, Web-Scraping, Web-Search, Model-Context-Protocol, Go, Homebrew]
 homepage: https://ketch.run
 github_repo_url: https://github.com/1broseidon/ketch
 brew_page: https://formulae.brew.sh/formula/ketch
 install: brew install ketch
+og_favicon: https://ketch.run/favicon.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://github.com/1broseidon/ketch

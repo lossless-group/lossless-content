@@ -2,12 +2,15 @@
 date_created: 2026-08-24
 date_modified: 2026-08-24
 title: ThoughtDAG — A Canvas Where Wires Are the Context
+lede: "A canvas where each exchange is a node and a model's context is exactly the wires leading into it, so you can see and edit what it knows."
 slug: thoughtdag-canvas-where-wires-are-the-context
 tags: [AI-Interfaces, Context-Engineering, Infinite-Canvas, Claude-Code, Model-Context-Protocol, Open-Source, macOS, Homebrew]
 homepage: https://chenxiachan.github.io/thoughtdag/
 github_repo_url: https://github.com/chenxiachan/thoughtdag
 brew_page: https://formulae.brew.sh/cask/thoughtdag
 install: brew install --cask thoughtdag
+og_favicon: https://chenxiachan.github.io/thoughtdag/assets/favicon.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://chenxiachan.github.io/thoughtdag/

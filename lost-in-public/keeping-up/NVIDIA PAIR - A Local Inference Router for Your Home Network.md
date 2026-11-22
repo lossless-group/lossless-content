@@ -2,6 +2,7 @@
 date_created: 2026-09-15
 date_modified: 2026-09-15
 title: NVIDIA PAIR — A Local Inference Router for Your Home Network
+lede: "NVIDIA's Personal AI Router lets the computers on your network share local inference load behind one endpoint."
 slug: nvidia-pair-local-inference-router-home-network
 tags: [Developer-Tools, Local-AI, Inference, Ollama, Privacy, NVIDIA, Go, Homebrew]
 github_repo_url: https://github.com/NVIDIA/Personal-AI-Router

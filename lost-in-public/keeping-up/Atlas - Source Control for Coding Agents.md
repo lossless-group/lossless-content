@@ -2,12 +2,15 @@
 date_created: 2026-08-24
 date_modified: 2026-08-24
 title: Atlas — Source Control for Coding Agents
+lede: "Source control that answers what Git can't: when something breaks, whose agent changed it, and what prompt it was given."
 slug: atlas-source-control-for-coding-agents
 tags: [Developer-Tools, AI-Agents, Observability, Version-Control, Claude-Code, Tauri, Homebrew]
 homepage: https://www.tryatlas.cc/
 github_repo_url: https://github.com/pacifio/atlas
 brew_page: https://formulae.brew.sh/cask/atlas-app
 install: brew install --cask atlas-app
+og_favicon: https://www.tryatlas.cc/favicon.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://github.com/pacifio/atlas

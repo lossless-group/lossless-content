@@ -2,6 +2,7 @@
 date_created: 2026-07-27
 date_modified: 2026-07-27
 title: mcpsnoop — Wireshark for MCP
+lede: "Watch the traffic between an agent and an MCP server, so you can see why a tool isn't called or a call hangs instead of guessing."
 slug: mcpsnoop-wireshark-for-mcp
 tags: [Developer-Tools, Model-Context-Protocol, Observability, OpenTelemetry, TUI, Go, Homebrew]
 github_repo_url: https://github.com/kerlenton/mcpsnoop

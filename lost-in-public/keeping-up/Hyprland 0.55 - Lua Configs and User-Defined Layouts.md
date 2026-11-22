@@ -2,6 +2,7 @@
 date_created: 2026-05-13
 date_modified: 2026-05-13
 title: Hyprland 0.55 — Lua Configs and User-Defined Layouts
+lede: "Hyprland's biggest release yet moves configuration from Hyprlang to Lua and opens the layout system so users can write their own."
 slug: hyprland-0-55-lua-configs-user-layouts
 tags: [Hyprland, Linux, Wayland, Window-Managers, Tiling-WMs, Lua]
 announcement_url: https://hypr.land/news/update55/

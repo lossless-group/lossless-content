@@ -2,12 +2,15 @@
 date_created: 2026-05-25
 date_modified: 2026-05-25
 title: panache — Language Server, Formatter, and Linter for Markdown, Quarto, and R Markdown
+lede: "A language server, formatter and linter for Pandoc-flavored Markdown, the dialect Quarto and R Markdown use and CommonMark tools mangle."
 slug: panache-markdown-quarto-rmarkdown-lsp
 tags: [Developer-Tools, Markdown, Quarto, RMarkdown, LSP, Rust, Authoring]
 homepage: https://panache.bz
 github_repo_url: https://github.com/jolars/panache
 brew_page: https://formulae.brew.sh/formula/panache
 install: brew install panache
+og_favicon: https://panache.bz/favicon.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://panache.bz

@@ -2,6 +2,7 @@
 date_created: 2026-05-25
 date_modified: 2026-05-25
 title: tldraw Desktop — Native Editor for .tldr Files
+lede: "A native desktop editor for tldraw's .tldr files, the open-source whiteboard many engineering teams use for quick diagrams."
 slug: tldraw-desktop-tldr-editor
 tags: [macOS, Diagrams, Whiteboard, Drawing, Open-Source, Design]
 github_repo_url: https://github.com/tldraw/tldraw-desktop

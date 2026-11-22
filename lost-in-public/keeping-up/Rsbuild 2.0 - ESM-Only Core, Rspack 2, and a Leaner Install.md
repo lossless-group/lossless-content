@@ -2,6 +2,7 @@
 date_created: 2026-07-01
 date_modified: 2026-07-01
 title: Rsbuild 2.0 - ESM-Only Core, Rspack 2, and a Leaner Install
+lede: "Rsbuild 2.0 goes ESM-only on Rspack 2, and it's required reading because it builds augment-it's entire micro-frontend front end."
 slug: rsbuild-2-0-esm-only-core-rspack-2-and-a-leaner-install
 tags: [Build-Tooling, Rstack-Ecosystem, Rsbuild, Module-Federation, Breaking-Changes]
 ---

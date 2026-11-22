@@ -2,6 +2,7 @@
 date_created: 2026-06-22
 date_modified: 2026-06-22
 title: GLM-5.2 — An Open-Weights Model Built for Long-Horizon Coding
+lede: "Z.ai's MIT-licensed open-weights model is built for agentic coding tasks that run for hours and span dozens of tool calls."
 slug: glm-5-2-long-horizon-coding
 tags:
   - LLMs

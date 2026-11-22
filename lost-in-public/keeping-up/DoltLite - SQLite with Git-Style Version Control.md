@@ -2,6 +2,7 @@
 date_created: 2026-10-05
 date_modified: 2026-10-05
 title: DoltLite — SQLite with Git-Style Version Control
+lede: "DoltHub forked SQLite onto a content-addressed tree, so an embedded database gets branch, merge and diff without running a server."
 slug: doltlite-sqlite-git-style-version-control
 tags: [Databases, SQLite, Version-Control, Local-First, Agentic-Engineering, Open-Source, Homebrew]
 github_repo_url: https://github.com/dolthub/doltlite

@@ -2,6 +2,7 @@
 date_created: 2026-10-30
 date_modified: 2026-11-21
 title: Context.dev — Search and Scrape Infrastructure for Agents
+lede: "Formerly Brand.dev, now a web-context API for agents covering search, scrape, crawl, research answers, monitors and brand data, fresh off a $9M seed."
 slug: context-dev-search-and-scrape-infrastructure-for-agents
 tags:
   - Developer-Tools
@@ -14,6 +15,8 @@ homepage: https://www.context.dev
 docs: https://docs.context.dev
 mcp_url: https://mcp.context.dev/mcp
 install: npm install context.dev
+og_favicon: https://www.context.dev/apple-touch-icon.png
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://www.context.dev

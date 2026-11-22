@@ -2,11 +2,14 @@
 date_created: 2026-05-25
 date_modified: 2026-05-25
 title: KeyScreen — Show Key Presses on Screen
+lede: "A Mac overlay that shows the keys you press, so screen recordings of terminal and Claude Code demos show what you typed, not just what changed."
 slug: keyscreen-keystroke-overlay-macos
 tags: [macOS, Screencasts, Demos, Content-Creation, Tutorials]
 homepage: https://keyscreenapp.com/
 brew_page: https://formulae.brew.sh/cask/keyscreen
 install: brew install --cask keyscreen
+og_favicon: https://keyscreen.app/favicon.ico?favicon.29vxr3idzuy1v.ico
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://keyscreenapp.com/

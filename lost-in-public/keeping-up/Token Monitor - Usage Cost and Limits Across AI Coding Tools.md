@@ -2,12 +2,15 @@
 date_created: 2026-08-31
 date_modified: 2026-08-31
 title: Token Monitor — Usage, Cost, and Limits Across AI Coding Tools
+lede: "A desktop app that shows usage, cost and remaining limits across many AI coding tools at once, with no account or hosted service."
 slug: token-monitor-usage-cost-limits-ai-coding-tools
 tags: [Developer-Tools, AI-Agents, Observability, Token-Usage, Cost-Tracking, Local-First, Claude-Code, Homebrew]
 homepage: https://javis-ai.com/token-monitor/
 github_repo_url: https://github.com/Javis603/token-monitor
 brew_page: https://formulae.brew.sh/cask/token-monitor
 install: brew install --cask token-monitor
+og_favicon: https://javis-ai.com/token-monitor/assets/icon.png
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://github.com/Javis603/token-monitor

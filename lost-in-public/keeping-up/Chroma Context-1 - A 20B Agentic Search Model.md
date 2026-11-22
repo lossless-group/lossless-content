@@ -2,6 +2,7 @@
 date_created: 2026-03-30
 date_modified: 2026-03-30
 title: Chroma Context-1 — A 20B Agentic Search Model
+lede: "Chroma's 20B agentic search model claims frontier-quality multi-hop retrieval at a fraction of the speed and cost of using frontier models as searchers."
 slug: chroma-context-1-agentic-search-model
 tags: [Chroma, Vector-Databases, RAG, Agentic-Search, Open-Weights, Retrieval, Small-Models]
 announcement_url: https://www.trychroma.com/research/context-1

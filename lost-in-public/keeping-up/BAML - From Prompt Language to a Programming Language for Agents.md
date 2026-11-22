@@ -2,12 +2,15 @@
 date_created: 2026-07-26
 date_modified: 2026-07-26
 title: BAML — From Prompt Language to a Programming Language for Agents
+lede: "BAML grew from a way to get typed LLM output into a general-purpose language that assumes agents write most of the code."
 slug: baml-programming-language-for-agents
 tags: [Programming-Languages, AI-Agents, Developer-Tools, Type-Systems, Structured-Outputs, Rust, Homebrew]
 homepage: https://boundaryml.com
 github_repo_url: https://github.com/BoundaryML/baml
 brew_page: https://formulae.brew.sh/formula/baml
 install: brew install baml
+og_favicon: https://boundaryml.com/_next/static/media/apple-touch-icon.e265d144.png
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://boundaryml.com

@@ -2,6 +2,7 @@
 date_created: 2026-08-04
 date_modified: 2026-11-21
 title: Glen — Shared Team Memory for Coding Agents
+lede: "A YC startup that records every agent session across a team and injects the relevant past work into whichever agent starts the next task."
 slug: glen-shared-team-memory-for-coding-agents
 tags:
   - Developer-Tools
@@ -13,6 +14,8 @@ tags:
 homepage: https://tryglen.com
 yc_page: https://www.ycombinator.com/companies/glen
 install: npx @tryglen/cli@latest install
+og_favicon: https://tryglen.com/favicon.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://tryglen.com

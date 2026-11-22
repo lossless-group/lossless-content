@@ -2,12 +2,15 @@
 date_created: 2026-10-07
 date_modified: 2026-10-07
 title: The Craft Suite — AI-Built Rust Clones of Adobe and Microsoft Apps
+lede: "In five weeks, one GitHub organization published open-source Rust apps modeled on Photoshop, Premiere, Word and Excel, apparently built mostly by AI agents."
 slug: the-craft-suite-ai-built-rust-clones-of-adobe-and-microsoft-apps
 tags: [AI-Generated-Code, Model-Context-Protocol, Agent-Infrastructure, Rust, Open-Source, Creative-Tools, Homebrew]
 homepage: https://getartcraft.com/apps
 github_repo_url: https://github.com/storytold
 brew_page: https://formulae.brew.sh/cask/photocraft
 install: brew install --cask photocraft
+og_favicon: https://getartcraft.com/artcraft-icon.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://getartcraft.com/apps

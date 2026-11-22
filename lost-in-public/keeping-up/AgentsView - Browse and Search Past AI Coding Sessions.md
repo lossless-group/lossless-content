@@ -2,11 +2,14 @@
 date_created: 2026-05-13
 date_modified: 2026-05-13
 title: AgentsView — Browse and Search Past AI Coding Sessions
+lede: "A local-first browser for past AI coding sessions across 20 agent tools, with full-text search, token and cost tracking, and summaries."
 slug: agentsview-ai-coding-session-browser
 tags: [AI-Coding, Developer-Tools, Observability, Claude-Code, Local-First]
 homepage: https://www.agentsview.io/
 repository: https://github.com/wesm/agentsview
 install: brew install --cask agentsview
+og_favicon: https://www.agentsview.io/favicon.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://www.agentsview.io/

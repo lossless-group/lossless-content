@@ -2,6 +2,7 @@
 date_created: 2026-03-30
 date_modified: 2026-05-08
 title: Astro 6 is Released
+lede: "Astro 6 redesigns the dev server, removes legacy content collections, and upgrades Vite, Zod and Shiki at once, months after Astro joined Cloudflare."
 slug: astro-6-is-released
 tags: [Astro-Ecosystem, Web-Frameworks, Breaking-Changes]
 ---

@@ -2,12 +2,15 @@
 date_created: 2026-08-24
 date_modified: 2026-08-24
 title: Skills Manager — Sync Agent Skills Across Coding Tools
+lede: "A desktop app that keeps one library of agent skills and deploys it to each coding agent's folder, by symlink or copy."
 slug: skills-manager-sync-agent-skills-across-coding-tools
 tags: [Developer-Tools, AI-Agents, Agent-Skills, Supply-Chain-Security, Desktop-Apps, Homebrew]
 homepage: https://skillsmanager.dev
 github_repo_url: https://github.com/xingkongliang/skills-manager
 brew_page: https://formulae.brew.sh/cask/skills-manager
 install: brew install --cask skills-manager
+og_favicon: https://skillsmanager.dev/icon.png?icon.3ggh581kyv-_d.png
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://skillsmanager.dev

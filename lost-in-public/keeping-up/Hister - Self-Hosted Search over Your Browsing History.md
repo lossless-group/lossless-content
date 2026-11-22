@@ -2,12 +2,15 @@
 date_created: 2026-09-10
 date_modified: 2026-09-10
 title: Hister — Self-Hosted Search over Your Browsing History
+lede: "Self-hosted full-text search over the pages you've visited and files you keep, reachable from a web UI, a terminal or an AI assistant over MCP."
 slug: hister-self-hosted-search-browsing-history
 tags: [Search, Self-Hosted, Own-Your-Data, Digital-Preservation, Model-Context-Protocol, Local-First, Go, Homebrew]
 homepage: https://hister.org
 github_repo_url: https://github.com/asciimoo/hister
 brew_page: https://formulae.brew.sh/formula/hister
 install: brew install hister
+og_favicon: https://nogon.eu/apple-touch-icon.png
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://hister.org

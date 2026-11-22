@@ -2,12 +2,15 @@
 date_created: 2026-07-18
 date_modified: 2026-07-18
 title: ArcBox — An Open-Source Runtime for Containers, VMs and Agent Sandboxes
+lede: "An open-source Rust alternative to OrbStack and Docker Desktop on the Mac that now adds disposable microVMs built for coding agents."
 slug: arcbox-open-source-runtime-containers-vms-agent-sandboxes
 tags: [Developer-Tools, AI-Agents, Containers, Virtual-Machines, Agent-Sandboxes, macOS, Rust, Homebrew]
 homepage: https://arcbox.dev
 github_repo_url: https://github.com/arcboxlabs/arcbox
 brew_page: https://formulae.brew.sh/cask/arcbox
 install: brew install --cask arcbox
+og_favicon: https://arcbox.dev/favicon/favicon.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://arcbox.dev

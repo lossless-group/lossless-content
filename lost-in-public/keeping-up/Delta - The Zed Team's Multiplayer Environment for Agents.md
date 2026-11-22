@@ -2,11 +2,14 @@
 date_created: 2026-08-12
 date_modified: 2026-08-12
 title: Delta — The Zed Team's Multiplayer Environment for Agents
+lede: "The Zed team's answer to pull requests that lose the conversation: teammates join your agent's thread, see its worktree, and ask it why."
 slug: delta-zed-teams-multiplayer-environment-for-agents
 tags: [Developer-Tools, AI-Agents, Collaboration, Version-Control, Zed, Claude-Code, Homebrew]
 homepage: https://delta.dev/
 brew_page: https://formulae.brew.sh/cask/zed-delta
 install: brew install --cask zed-delta
+og_favicon: https://delta.dev/favicon.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://delta.dev/

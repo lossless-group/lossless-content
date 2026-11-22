@@ -2,12 +2,15 @@
 date_created: 2026-09-13
 date_modified: 2026-09-13
 title: Homebrew 7.0 — An Official GUI Arrives with BrewUI
+lede: "Homebrew 7.0 ships an official GUI, BrewUI, along with security and breaking changes to the tool where our Keeping Up sweeps begin."
 slug: homebrew-7-0-an-official-gui-arrives-with-brewui
 tags: [Homebrew, Package-Managers, macOS, Security, Breaking-Changes, Developer-Tools]
 homepage: https://brew.sh
 github_repo_url: https://github.com/Homebrew/brew
 brew_page: https://formulae.brew.sh/cask/homebrew-app
 install: brew install --cask homebrew-app
+og_favicon: https://brew.sh/assets/img/homebrew.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://brew.sh/2026/09/13/homebrew-7.0.0/

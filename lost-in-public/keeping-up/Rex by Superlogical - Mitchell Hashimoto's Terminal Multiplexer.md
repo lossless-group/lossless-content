@@ -2,6 +2,7 @@
 date_created: 2026-11-17
 date_modified: 2026-11-21
 title: Rex by Superlogical — Mitchell Hashimoto's Terminal Multiplexer
+lede: "The creator of Ghostty and Terraform starts Superlogical, and its first product, Rex, is a free terminal and multiplexer with persistent sessions."
 slug: rex-by-superlogical-mitchell-hashimotos-terminal-multiplexer
 tags:
   - Developer-Tools
@@ -12,6 +13,8 @@ tags:
 homepage: https://www.superlogical.com
 docs: https://www.superlogical.com/rex/docs/installation
 announcement_url: https://www.superlogical.com/updates/public-testing-beginning
+og_favicon: https://www.superlogical.com/apple-touch-icon.png
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://www.superlogical.com/updates/public-testing-beginning

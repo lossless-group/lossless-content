@@ -2,12 +2,15 @@
 date_created: 2026-08-31
 date_modified: 2026-08-31
 title: tailcat — Netcat over Tailscale's Data Plane
+lede: "Tailscale's WireGuard data plane without its control plane: encrypted point-to-point connections with no account, no root and no DNS changes."
 slug: tailcat-netcat-over-tailscale-data-plane
 tags: [Developer-Tools, Networking, Tailscale, WireGuard, Peer-To-Peer, Go, Homebrew]
 homepage: https://tailscale.com/tailcat
 github_repo_url: https://github.com/tailscale/tailcat
 brew_page: https://formulae.brew.sh/formula/tailcat
 install: brew install tailcat
+og_favicon: https://tailscale.com/favicon.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://github.com/tailscale/tailcat

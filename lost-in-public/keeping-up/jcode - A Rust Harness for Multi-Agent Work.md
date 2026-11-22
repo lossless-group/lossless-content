@@ -2,12 +2,15 @@
 date_created: 2026-08-31
 date_modified: 2026-08-31
 title: jcode — A Rust Harness for Multi-Agent Work
+lede: "A Rust agent harness that hosts many lightweight sessions on one shared server, so you can run dozens of agents in parallel."
 slug: jcode-rust-harness-for-multi-agent-work
 tags: [Developer-Tools, AI-Agents, Agent-Harnesses, Rust, Multi-Agent, Y-Combinator, Homebrew]
 homepage: https://jcode.sh
 github_repo_url: https://github.com/1jehuang/jcode
 brew_page: https://formulae.brew.sh/formula/jcode
 install: brew install jcode
+og_favicon: https://jcode.sh/favicon.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://github.com/1jehuang/jcode

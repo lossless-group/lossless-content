@@ -2,12 +2,15 @@
 date_created: 2026-10-05
 date_modified: 2026-10-05
 title: packslip — Signed Release Manifests for Vendor Binaries
+lede: "Signed release manifests for vendor binaries, because whoever can replace the binary can replace the checksum file beside it too."
 slug: packslip-signed-release-manifests-vendor-binaries
 tags: [Developer-Tools, Security, Supply-Chain, Sigstore, Package-Managers, Rust, Homebrew]
 homepage: https://packslip.dev
 github_repo_url: https://github.com/jdx/packslip
 brew_page: https://formulae.brew.sh/formula/packslip
 install: brew install packslip
+og_favicon: https://packslip.dev/favicon.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://github.com/jdx/packslip

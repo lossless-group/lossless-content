@@ -2,6 +2,7 @@
 date_created: 2026-09-04
 date_modified: 2026-09-04
 title: tgrep — Microsoft's Trigram-Indexed Search for Large Codebases
+lede: "Microsoft's trigram-indexed grep narrows a regex to candidate files before searching, so agents stop reading huge repos on every search."
 slug: tgrep-microsoft-trigram-indexed-search-large-codebases
 tags: [Developer-Tools, Code-Search, Microsoft, Large-Codebases, AI-Agents, Rust, Homebrew]
 github_repo_url: https://github.com/microsoft/tgrep

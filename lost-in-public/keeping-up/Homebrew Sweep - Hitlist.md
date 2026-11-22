@@ -2,6 +2,7 @@
 date_created: 2026-08-02
 date_modified: 2026-11-03
 title: Homebrew Sweep — Hitlist
+lede: "Our running list of new Homebrew formulae and casks, each with a one-line verdict against our thesis; the standouts get their own posts."
 slug: homebrew-sweep-hitlist
 tags:
   - Homebrew

@@ -2,12 +2,15 @@
 date_created: 2026-11-03
 date_modified: 2026-11-03
 title: agent-desktop — Computer Use Through the Accessibility Tree
+lede: "Vercel Labs' computer-use tool reads the operating system's accessibility tree as JSON instead of guessing at screenshot pixels."
 slug: agent-desktop-computer-use-accessibility-tree
 tags: [Developer-Tools, AI-Agents, Computer-Use, Accessibility, Desktop-Automation, Rust, Homebrew]
 homepage: https://agent-browser.dev/desktop
 github_repo_url: https://github.com/vercel-labs/agent-desktop
 brew_page: https://formulae.brew.sh/formula/agent-desktop
 install: brew install agent-desktop
+og_favicon: https://agent-browser.dev/desktop/favicon.ico
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://agent-browser.dev/desktop

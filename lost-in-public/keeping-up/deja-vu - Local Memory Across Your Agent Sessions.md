@@ -2,12 +2,15 @@
 date_created: 2026-08-23
 date_modified: 2026-08-23
 title: deja-vu — Local Memory Across Your Agent Sessions
+lede: "Indexes the session files your coding agents already save and hands relevant history to the next session, with no LLM calls and no cloud."
 slug: deja-vu-local-memory-across-agent-sessions
 tags: [Developer-Tools, AI-Agents, Agent-Memory, Model-Context-Protocol, Local-First, Claude-Code, Go, Homebrew]
 homepage: https://vshulcz.github.io/deja-vu/
 github_repo_url: https://github.com/vshulcz/deja-vu
 brew_page: https://formulae.brew.sh/formula/deja-vu
 install: brew install deja-vu
+og_favicon: https://vshulcz.github.io/deja-vu/assets/favicon.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://github.com/vshulcz/deja-vu

@@ -2,12 +2,15 @@
 date_created: 2026-08-11
 date_modified: 2026-08-11
 title: Unsloth Desktop — Run and Train Open Models in One App
+lede: "Unsloth's beta desktop app puts running, fine-tuning and connecting open models to coding agents in one window."
 slug: unsloth-desktop-run-train-open-models-one-app
 tags: [Developer-Tools, Local-AI, Fine-Tuning, Inference, MLX, Apple-Silicon, Open-Source, Homebrew]
 homepage: https://unsloth.ai/
 github_repo_url: https://github.com/unslothai/unsloth
 brew_page: https://formulae.brew.sh/cask/unsloth
 install: brew install --cask unsloth
+og_favicon: https://unsloth.ai/cgi/image/unsloth_logo_no_shadow_KgfOV6keeBZnffQsKUny3.png?width=144&quality=100&height=144&fit=pad&format=auto
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://github.com/unslothai/unsloth

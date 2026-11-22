@@ -2,6 +2,7 @@
 date_created: 2026-06-21
 date_modified: 2026-06-22
 title: TypeScript 7.0 RC - The Go Rewrite Reaches Release Candidate
+lede: "The Go port of the TypeScript compiler reaches release candidate, often about 10 times faster than 6.0, with a long list of new hard errors."
 slug: typescript-7-0-rc-the-go-rewrite-reaches-release-candidate
 tags:
   - TypeScript-Ecosystem

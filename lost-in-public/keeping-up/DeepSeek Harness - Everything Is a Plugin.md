@@ -2,12 +2,15 @@
 date_created: 2026-08-13
 date_modified: 2026-08-13
 title: DeepSeek Harness — Everything Is a Plugin
+lede: "DeepSeek open-sourced its agent harness under MIT, built so that everything is a plugin, and it passed 270,000 GitHub stars in under three months."
 slug: deepseek-harness-everything-is-a-plugin
 tags: [Developer-Tools, AI-Agents, Agent-Harnesses, Open-Source, DeepSeek, Plugins, Homebrew]
 homepage: https://www.deepseek.com/harness/
 github_repo_url: https://github.com/deepseek-ai/deepseek-harness
 brew_page: https://formulae.brew.sh/cask/deepseek-harness
 install: brew install --cask deepseek-harness
+og_favicon: https://www.deepseek.com/harness/favicon.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://github.com/deepseek-ai/deepseek-harness

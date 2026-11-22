@@ -2,6 +2,7 @@
 date_created: 2026-10-09
 date_modified: 2026-10-09
 title: mcpc — A Universal MCP Client for the Shell
+lede: "Apify's mcpc reaches MCP servers from the shell, keeping tool definitions out of the prompt, on the bet that CLIs and MCP work together."
 slug: mcpc-universal-mcp-client-for-the-shell
 tags: [Developer-Tools, Model-Context-Protocol, Command-Line-Tools, AI-Agents, OAuth, TypeScript, Homebrew]
 homepage: https://www.npmjs.com/package/@apify/mcpc

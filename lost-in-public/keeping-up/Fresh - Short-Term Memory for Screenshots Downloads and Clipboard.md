@@ -2,6 +2,7 @@
 date_created: 2026-05-14
 date_modified: 2026-05-14
 title: Fresh — Short-Term Memory for Screenshots, Downloads, and Clipboard
+lede: "A Mac app that treats screenshots, downloads and clipboard history as short-term memory, so temporary files stop piling up or vanishing."
 slug: fresh-general-software-temp-file-manager
 tags: [macOS, Productivity, File-Management, Clipboard]
 homepage: https://general.software/fresh/

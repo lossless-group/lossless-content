@@ -2,6 +2,7 @@
 date_created: 2026-04-10
 date_modified: 2026-06-22
 title: Claude Mythos and Project Glasswing — The First Withheld Frontier Model
+lede: "Anthropic withheld its most capable model, Claude Mythos, and deployed it with about 50 partners to find and patch critical software vulnerabilities first."
 slug: claude-mythos-project-glasswing
 tags: [AI-Safety, Anthropic, Frontier-Models, Cybersecurity, AI-Policy]
 announcement_url: https://www.anthropic.com/glasswing

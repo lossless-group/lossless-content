@@ -2,6 +2,7 @@
 date_created: 2026-09-17
 date_modified: 2026-09-17
 title: bashka — Static Checks for curl-to-bash Installs
+lede: "Add two letters to curl | bash and the install script gets parsed and checked before it runs."
 slug: bashka-static-checks-curl-to-bash-installs
 tags: [Developer-Tools, Security, Supply-Chain, Shell, CLI, Rust, Homebrew]
 github_repo_url: https://github.com/dmtrKovalenko/bashka

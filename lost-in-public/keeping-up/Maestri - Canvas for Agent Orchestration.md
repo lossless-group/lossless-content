@@ -2,11 +2,14 @@
 date_created: 2026-05-25
 date_modified: 2026-05-25
 title: Maestri — Canvas for Agent Orchestration
+lede: "A native Mac infinite canvas where each agent is a window you place, connect and zoom, and a drawn line lets one agent prompt another."
 slug: maestri-canvas-agent-orchestration
 tags: [macOS, AI-Agents, Orchestration, Claude-Code, Codex, OpenCode, Infinite-Canvas]
 homepage: https://www.themaestri.app/
 brew_page: https://formulae.brew.sh/cask/maestri
 install: brew install --cask maestri
+og_favicon: https://cdn.maestri.dev/assets/apple-icon.png
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://www.themaestri.app/

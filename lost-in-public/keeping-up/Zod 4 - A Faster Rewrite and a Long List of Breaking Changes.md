@@ -2,6 +2,7 @@
 date_created: 2025-07-01
 date_modified: 2026-07-01
 title: "Zod 4 - A Faster Rewrite and a Long List of Breaking Changes"
+lede: "Zod 4 is a faster rewrite with many breaking changes, and our TypeScript services are still on Zod 3."
 slug: zod-4-a-faster-rewrite-and-a-long-list-of-breaking-changes
 tags: [TypeScript-Ecosystem, Schema-Validation, Breaking-Changes]
 site_uuid: eb088b5f-2f91-4974-9049-71fc205ab285

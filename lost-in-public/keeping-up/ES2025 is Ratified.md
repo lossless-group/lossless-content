@@ -2,6 +2,7 @@
 date_created: 2026-03-30
 date_modified: 2026-03-30
 title: ES2025 is Ratified
+lede: "ECMAScript 2025 adds 11 features, several long-wanted ones, and by March 2026 all of them are safe to use in evergreen browsers."
 slug: es2025-is-ratified
 tags: [JavaScript-Ecosystem, EcmaScript, Breaking-Changes]
 ---

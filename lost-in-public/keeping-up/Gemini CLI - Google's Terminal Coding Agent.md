@@ -2,6 +2,7 @@
 date_created: 2026-05-15
 date_modified: 2026-05-15
 title: Gemini CLI — Google's Terminal Coding Agent
+lede: "Google's open-source terminal coding agent works like Claude Code, ships weekly, and has passed 100,000 GitHub stars."
 slug: gemini-cli-terminal-coding-agent
 tags: [AI-Coding, Developer-Tools, CLI, Google, Gemini, Claude-Code, Terminal-Agents]
 homepage: https://github.com/google-gemini/gemini-cli

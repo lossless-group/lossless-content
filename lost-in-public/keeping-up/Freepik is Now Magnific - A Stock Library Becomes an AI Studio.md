@@ -2,6 +2,7 @@
 date_created: 2026-05-02
 date_modified: 2026-05-02
 title: Freepik is Now Magnific — A Stock Library Becomes an AI Studio
+lede: "Freepik renamed itself after the AI upscaler it bought, turning a 250-million-asset stock library into an AI creative studio."
 slug: freepik-is-now-magnific
 tags: [Generative-AI, Creative-Tools, Stock-Assets, Image-Generation, Video-Generation, AI-Upscaling, Rebrand]
 announcement_url: https://www.magnific.com/blog/freepik-is-now-magnific/

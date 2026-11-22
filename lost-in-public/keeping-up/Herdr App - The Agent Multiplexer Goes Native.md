@@ -2,6 +2,7 @@
 date_created: 2026-10-30
 date_modified: 2026-11-21
 title: Herdr App — The Agent Multiplexer Goes Native
+lede: "Herdr split into a background core, a native desktop app and the original TUI, and the app is now Apache-2.0 on macOS, Linux and Windows."
 slug: herdr-app-the-agent-multiplexer-goes-native
 tags:
   - Developer-Tools
@@ -13,6 +14,8 @@ tags:
 homepage: https://herdr.dev
 github_repo_url: https://github.com/herdrdev/herdr-app
 install: brew install --cask herdr-app
+og_favicon: https://herdr.dev/favicon.ico
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://github.com/herdrdev/herdr-app

@@ -2,6 +2,7 @@
 date_created: 2026-11-21
 date_modified: 2026-11-21
 title: Orca — The Agent Development Environment, Now With Bots
+lede: "An open-source desktop app for running 20+ coding agents in parallel worktrees, now with bots you hand jobs to from Slack, Linear or GitHub."
 slug: orca-the-agent-development-environment-now-with-bots
 tags:
   - Developer-Tools
@@ -14,6 +15,8 @@ homepage: https://orca.dev
 github_repo_url: https://github.com/stablyai/orca
 install: brew install --cask stablyai/orca/orca
 maintained_by: Stably AI (Lovecast Inc.)
+og_favicon: https://orca.dev/apple-icon.png?apple-icon.1bzi3yx-bxriu.png
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://orca.dev

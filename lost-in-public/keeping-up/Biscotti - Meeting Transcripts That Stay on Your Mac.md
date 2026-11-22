@@ -2,12 +2,15 @@
 date_created: 2026-10-15
 date_modified: 2026-10-15
 title: Biscotti — Meeting Transcripts That Stay on Your Mac
+lede: "A native Mac app that records, transcribes, labels speakers and summarizes any meeting on the device, with no bot, no cloud and no account."
 slug: biscotti-meeting-transcripts-stay-on-your-mac
 tags: [Speech-to-Text, Meeting-Notes, Local-First, Source-Available, Personal-AI, Model-Context-Protocol, macOS, Homebrew]
 homepage: https://biscottiapp.com
 github_repo_url: https://github.com/scosman/Biscotti
 brew_page: https://formulae.brew.sh/cask/biscotti
 install: brew install --cask biscotti
+og_favicon: https://biscottiapp.com/assets/biscotti-mark.png
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://biscottiapp.com

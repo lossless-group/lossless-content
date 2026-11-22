@@ -2,6 +2,7 @@
 date_created: 2026-03-30
 date_modified: 2026-03-30
 title: TypeScript 6 is Released
+lede: "TypeScript 6 is the last release on the JavaScript codebase, a bridge that front-loads breaking changes before the Go-based 7.0."
 slug: typescript-6-is-released
 tags: [TypeScript-Ecosystem, Breaking-Changes]
 ---

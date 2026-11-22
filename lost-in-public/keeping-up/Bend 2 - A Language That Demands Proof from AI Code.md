@@ -2,6 +2,7 @@
 date_created: 2026-09-17
 date_modified: 2026-09-17
 title: Bend 2 — A Language That Demands Proof from AI Code
+lede: "Bend 2 makes AI-written code prove itself: you declare laws, and the agent must supply proofs the type checker accepts."
 slug: bend-2-a-language-that-demands-proof-from-ai-code
 tags: [Programming-Languages, AI-Agents, Formal-Verification, Type-Systems, Developer-Tools, Homebrew]
 homepage: https://bend-lang.com

@@ -2,12 +2,15 @@
 date_created: 2026-07-07
 date_modified: 2026-07-07
 title: Otty — A Native Terminal Tuned for Code Agents
+lede: "Another native Mac terminal built for coding agents, joining an increasingly crowded fight over the agent workspace."
 slug: otty-native-terminal-tuned-for-code-agents
 tags: [Developer-Tools, AI-Agents, Terminal-Emulators, macOS, Homebrew]
 homepage: https://otty.sh
 docs: https://docs.otty.sh
 brew_page: https://formulae.brew.sh/cask/otty
 install: brew install --cask otty
+og_favicon: https://otty.sh/otty-face.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://otty.sh

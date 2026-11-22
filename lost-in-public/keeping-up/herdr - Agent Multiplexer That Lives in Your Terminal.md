@@ -2,6 +2,7 @@
 date_created: 2026-05-25
 date_modified: 2026-11-21
 title: herdr — Agent Multiplexer That Lives in Your Terminal
+lede: "A tmux-style terminal multiplexer that knows which of your coding agents is blocked, working, done or idle."
 slug: herdr-agent-multiplexer-terminal
 tags:
   - Developer-Tools
@@ -14,6 +15,8 @@ homepage: https://herdr.dev
 github_repo_url: https://github.com/herdrdev/herdr
 brew_page: https://formulae.brew.sh/formula/herdr
 install: brew install herdr
+og_favicon: https://herdr.dev/favicon.ico
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://herdr.dev

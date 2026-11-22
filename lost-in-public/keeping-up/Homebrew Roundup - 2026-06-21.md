@@ -2,6 +2,7 @@
 date_created: 2026-06-21
 date_modified: 2026-06-21
 title: Homebrew Roundup — 2026-06-21
+lede: "Three formulae and six casks worth flagging from the June 21 Homebrew publish list, one short paragraph each."
 slug: homebrew-roundup-2026-06-21
 tags:
   - Homebrew

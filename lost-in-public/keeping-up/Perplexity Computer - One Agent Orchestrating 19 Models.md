@@ -2,6 +2,7 @@
 date_created: 2026-03-02
 date_modified: 2026-03-02
 title: Perplexity Computer — One Agent Orchestrating 19 Models
+lede: "Perplexity's cloud agent breaks a goal into subtasks and routes each one to whichever of 19 frontier models suits it best."
 slug: perplexity-computer-multi-model-agent
 tags: [AI-Agents, Perplexity, Multi-Model-Orchestration, Foundation-Models, AI-Workflows]
 announcement_url: https://www.perplexity.ai/hub/blog/introducing-perplexity-computer

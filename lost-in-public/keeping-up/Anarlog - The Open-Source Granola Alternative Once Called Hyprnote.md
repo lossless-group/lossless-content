@@ -2,12 +2,15 @@
 date_created: 2026-08-24
 date_modified: 2026-08-24
 title: Anarlog — The Open-Source Granola Alternative Once Called Hyprnote
+lede: "An open-source meeting notepad that records mic and system audio on your own machine, with no bot in the call, and blends your notes into the summary."
 slug: anarlog-open-source-granola-alternative-once-called-hyprnote
 tags: [Speech-to-Text, Meeting-Notes, Local-First, Open-Source-Alternatives, Personal-AI, Model-Context-Protocol, macOS, Linux, Homebrew]
 homepage: https://anarlog.so
 github_repo_url: https://github.com/fastrepl/anarlog
 brew_page: https://formulae.brew.sh/cask/anarlog
 install: brew install --cask anarlog
+og_favicon: https://anarlog.so/apple-touch-icon.png
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://anarlog.so

@@ -2,11 +2,14 @@
 date_created: 2026-05-25
 date_modified: 2026-05-25
 title: MacMD Viewer — Markdown with QuickLook and Mermaid Support
+lede: "Renders Markdown, including Mermaid diagrams, in Finder's Quick Look, which matters now that most Markdown on your disk is AI-generated."
 slug: macmd-viewer-markdown-quicklook-mermaid
 tags: [macOS, Markdown, Mermaid, QuickLook, AI-Output, Reading]
 homepage: https://macmdviewer.com/
 brew_page: https://formulae.brew.sh/cask/macmd-viewer
 install: brew install --cask macmd-viewer
+og_favicon: https://macmdviewer.com/apple-icon.png?apple-icon.1k_o43dvpxi3y.png
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://macmdviewer.com/

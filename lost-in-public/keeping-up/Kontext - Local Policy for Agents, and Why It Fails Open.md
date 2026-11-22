@@ -2,12 +2,15 @@
 date_created: 2026-10-25
 date_modified: 2026-10-25
 title: Kontext — Local Policy for Agents, and Why It Fails Open
+lede: "A local policy layer that checks risky agent actions before they run and logs each decision, with one catch: it fails open."
 slug: kontext-local-policy-agents-fails-open
 tags: [Developer-Tools, AI-Agents, Security, Policy-Enforcement, Claude-Code, macOS, Go, Homebrew]
 homepage: https://kontext.security
 github_repo_url: https://github.com/kontext-security/kontext
 brew_page: https://formulae.brew.sh/formula/kontext
 install: brew install kontext
+og_favicon: https://kontext.security/favicon.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://github.com/kontext-security/kontext

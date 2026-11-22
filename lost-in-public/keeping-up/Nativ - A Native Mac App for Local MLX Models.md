@@ -2,12 +2,15 @@
 date_created: 2026-07-20
 date_modified: 2026-07-20
 title: Nativ — A Native Mac App for Local MLX Models
+lede: "From the author of mlx-vlm, a native Mac app for running local vision and language models on MLX, similar in shape to LM Studio."
 slug: nativ-native-mac-app-local-mlx-models
 tags: [Developer-Tools, Local-AI, Inference, MLX, Apple-Silicon, Open-Source, Swift, Homebrew]
 homepage: https://runnativ.ai
 github_repo_url: https://github.com/Neywa-Labs/nativ
 brew_page: https://formulae.brew.sh/cask/nativ
 install: brew install --cask nativ
+og_favicon: https://runnativ.ai/apple-icon.png?85ec21915a18d046
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://github.com/Neywa-Labs/nativ

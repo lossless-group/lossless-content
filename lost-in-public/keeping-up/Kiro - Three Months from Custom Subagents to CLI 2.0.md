@@ -2,6 +2,7 @@
 date_created: 2026-05-15
 date_modified: 2026-05-15
 title: Kiro — Three Months from Custom Subagents to CLI 2.0
+lede: "Three months of AWS's Kiro blog, from custom subagents to CLI 2.0, enterprise governance and a community program."
 slug: kiro-blog-rollup-feb-may-2026
 tags: [AI-Coding, Kiro, AWS, IDEs, CLI-Agents, Spec-Driven-Development, Enterprise-AI]
 announcement_url: https://kiro.dev/blog/

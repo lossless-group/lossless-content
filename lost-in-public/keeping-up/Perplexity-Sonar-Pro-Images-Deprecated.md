@@ -2,9 +2,12 @@
 date_created: 2026-11-06
 date_modified: 2026-11-06
 title: Perplexity Sonar Pro Images, Deprecated Without an Error
+lede: "Perplexity quietly stopped returning images from Sonar requests, with no error, which broke the image feature our Perplexed plugin was built on."
 slug: perplexity-sonar-pro-images-deprecated
 tags: [Perplexity, API-Changes, Deprecation, Image-Search, Obsidian-Plugins, Perplexed]
 homepage: https://docs.perplexity.ai/docs/agent-api/migrate-from-sonar/overview
+og_favicon: https://docs.perplexity.ai/mintlify-assets/_mintlify/favicons/perplexity/rSPP83rcZL_iw-xo/_generated/favicon/apple-touch-icon.png
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://docs.perplexity.ai/docs/agent-api/migrate-from-sonar/overview

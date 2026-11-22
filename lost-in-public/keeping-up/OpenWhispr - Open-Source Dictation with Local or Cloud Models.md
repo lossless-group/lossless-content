@@ -2,12 +2,15 @@
 date_created: 2026-07-23
 date_modified: 2026-07-23
 title: OpenWhispr — Open-Source Dictation with Local or Cloud Models
+lede: "An open-source alternative to Wispr Flow: press a hotkey, speak, and your words appear at the cursor, using local or cloud models."
 slug: openwhispr-open-source-dictation-local-or-cloud-models
 tags: [Speech-to-Text, Local-First, Open-Source-Alternatives, Personal-AI, Model-Context-Protocol, macOS, Homebrew]
 homepage: https://openwhispr.com
 github_repo_url: https://github.com/OpenWhispr/openwhispr
 brew_page: https://formulae.brew.sh/cask/openwhispr
 install: brew install --cask openwhispr
+og_favicon: https://openwhispr.com/logo-legacy.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://openwhispr.com

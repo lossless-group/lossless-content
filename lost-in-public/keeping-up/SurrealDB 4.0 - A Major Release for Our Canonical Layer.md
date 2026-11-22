@@ -2,10 +2,13 @@
 date_created: 2026-11-03
 date_modified: 2026-11-03
 title: SurrealDB 4.0 — A Major Release for Our Canonical Layer
+lede: "SurrealDB 4.0 is out, and because it holds augment-it's shared canonical layer, a bad upgrade would reach client data."
 slug: surrealdb-4-0-a-major-release-for-our-canonical-layer
 tags: [Databases, Breaking-Changes, Security, AI-Agents, Agent-Memory, Model-Context-Protocol]
 homepage: https://surrealdb.com/4
 github_repo_url: https://github.com/surrealdb/surrealdb
+og_favicon: https://surrealdb.com/assets/static/favicon-stop-choosing.BZXDGLvO.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://surrealdb.com/releases/4.0

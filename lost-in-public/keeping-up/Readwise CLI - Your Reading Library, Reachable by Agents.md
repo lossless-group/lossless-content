@@ -2,12 +2,15 @@
 date_created: 2026-08-28
 date_modified: 2026-08-28
 title: Readwise CLI — Your Reading Library, Reachable by Agents
+lede: "The official Readwise CLI puts your saved articles and highlights one command away from your agents, with hybrid search over both."
 slug: readwise-cli-reading-library-reachable-by-agents
 tags: [Developer-Tools, AI-Agents, Reading, Personal-Knowledge-Management, Model-Context-Protocol, Claude-Code, Homebrew]
 homepage: https://readwise.io/cli
 github_repo_url: https://github.com/readwiseio/readwise-cli
 brew_page: https://formulae.brew.sh/formula/readwise-cli
 install: brew install readwise-cli
+og_favicon: https://readwise.io/favicon.ico
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://readwise.io/cli

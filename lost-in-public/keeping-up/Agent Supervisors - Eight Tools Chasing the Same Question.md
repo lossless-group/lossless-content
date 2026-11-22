@@ -2,6 +2,7 @@
 date_created: 2026-09-22
 date_modified: 2026-09-22
 title: Agent Supervisors — Eight Tools Chasing the Same Question
+lede: "Eight agent supervisors reached Homebrew in three weeks, all asking which agent needs me and how to keep them in separate worktrees."
 slug: agent-supervisors-eight-tools-chasing-the-same-question
 tags: [Developer-Tools, AI-Agents, Terminal-Emulators, Tmux, Git-Worktrees, Claude-Code, Homebrew]
 ---

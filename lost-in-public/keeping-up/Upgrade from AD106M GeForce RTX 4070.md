@@ -1,6 +1,7 @@
 ---
 date_created: 2025-03-22
 date_modified: 2025-03-22
+lede: "What upgrading from a laptop's RTX 4070 Max-Q on Linux really involves, given that laptop GPUs are usually soldered to the board."
 ---
 
 Upgrading GPU on linux machine

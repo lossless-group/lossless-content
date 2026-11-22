@@ -2,6 +2,7 @@
 date_created: 2026-05-15
 date_modified: 2026-05-15
 title: Windsurf — Six Weeks of Changelog from Adaptive to Devin Local
+lede: "Six weeks of Windsurf releases show Cognition reshaping it into more than a Cursor-style IDE, from Adaptive to Devin Local."
 slug: windsurf-changelog-rollup-april-may-2026
 tags: [AI-Coding, Windsurf, Devin, Cognition, IDEs, Model-Routing, Developer-Tools]
 announcement_url: https://windsurf.com/changelog

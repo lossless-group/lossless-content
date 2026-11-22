@@ -2,6 +2,7 @@
 date_created: 2026-06-21
 date_modified: 2026-06-21
 title: Astro 6.4 - Pluggable Markdown and a Rust Processor
+lede: "Astro 6.4 lets you swap out the whole Markdown pipeline and ships a Rust-based processor, which matters because Markdown is our content layer."
 slug: astro-6-4-pluggable-markdown-and-a-rust-processor
 tags: [Astro-Ecosystem, Web-Frameworks, Markdown, Build-Performance]
 ---

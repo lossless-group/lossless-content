@@ -2,6 +2,7 @@
 date_created: 2025-11-15
 date_modified: 2025-11-15
 announcement_url: https://www.trae.ai/blog/product_solo_1112
+lede: "ByteDance's Trae made SOLO mode generally available, an agent-led way of working that rethinks how context flows in AI development."
 ---
 https://www.trae.ai/blog/product_solo_1112
 

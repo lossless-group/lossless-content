@@ -1,8 +1,8 @@
 ---
 date_created: 2025-07-22
 date_modified: 2026-11-22
-title: Up and Running with TwentyCRM on Railway
-at_semantic_version: 0.0.0.7
+title: Up and Running with Railway
+at_semantic_version: 0.0.0.8
 slug: up-and-running-on-railway
 publish: true
 authors:
@@ -13,6 +13,7 @@ tags:
 site_uuid: c4bg4b39-3c70-2e05-e20e-266e91df62f2
 og_favicon: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/trademarks/appIcon__Twenty.svg?updatedAt=1758371575358
 ---
+[[Tooling/Software Development/Cloud Infrastructure/Railway|Railway]]
 
 
 ```bash

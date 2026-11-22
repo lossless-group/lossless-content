@@ -2,12 +2,15 @@
 date_created: 2026-08-11
 date_modified: 2026-08-11
 title: kata — A Local-First Issue Tracker for Agents and Humans
+lede: "A local SQLite task ledger that agents drive from a CLI and humans supervise, so the next session knows who is working on what."
 slug: kata-local-first-issue-tracker-agents-humans
 tags: [Developer-Tools, AI-Agents, Issue-Tracking, Local-First, Model-Context-Protocol, SQLite, Go, Homebrew]
 homepage: https://katatracker.com
 github_repo_url: https://github.com/kenn-io/kata
 brew_page: https://formulae.brew.sh/formula/kata
 install: brew install kata
+og_favicon: https://www.katatracker.com/favicon.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://katatracker.com

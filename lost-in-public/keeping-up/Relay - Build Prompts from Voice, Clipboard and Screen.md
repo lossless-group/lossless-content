@@ -2,6 +2,7 @@
 date_created: 2026-09-14
 date_modified: 2026-09-14
 title: Relay — Build Prompts from Voice, Clipboard and Screen
+lede: "A Mac menu bar app that turns talking, copying and drawing on screen into one structured prompt, with each capture placed where you mentioned it."
 slug: relay-build-prompts-voice-clipboard-screen
 tags: [Developer-Tools, AI-Agents, Speech-to-Text, Claude-Code, Model-Context-Protocol, Source-Available, macOS, Homebrew]
 github_repo_url: https://github.com/msllrs/relay

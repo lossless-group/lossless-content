@@ -2,12 +2,15 @@
 date_created: 2026-07-10
 date_modified: 2026-07-10
 title: Soar — A Package Manager for Portable Linux Formats
+lede: "Installs static binaries, AppImages and other self-contained formats on any Linux distribution, entirely in your home directory, with no root."
 slug: soar-package-manager-portable-linux-formats
 tags: [Developer-Tools, Package-Managers, Linux, Portable-Formats, Rust, Homebrew]
 homepage: https://soar.qaidvoid.dev
 github_repo_url: https://github.com/pkgforge/soar
 brew_page: https://formulae.brew.sh/formula/soar
 install: brew install soar
+og_favicon: https://soar.qaidvoid.dev/favicon.svg
+og_last_fetch: 2026-11-22T04:45:34.000Z
 ---
 
 https://soar.qaidvoid.dev
