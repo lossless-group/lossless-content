@@ -29,7 +29,7 @@ A [[concepts/Explainers for Tooling/Web Frameworks|Web Framework]] written in th
 
 ## Value Proposition & Features
 
-Ruby on Rails is an [[Open Source Collaborations|open-source]], [[Vocabulary/Full-Stack Development|full-stack]] web framework for [[Tooling/Software Development/Programming Languages/Ruby|Ruby]], designed to reduce web-application complexity through convention, integrated components, and productive defaults. The [[The Rails Foundation]] is a nonprofit organization supporting the framework’s documentation, education, marketing, and events. [^E1]
+Ruby on Rails is an [[Vocabulary/Open Source Collaborations|open-source]], [[Vocabulary/Full-Stack Development|full-stack]] web framework for [[Tooling/Software Development/Programming Languages/Ruby|Ruby]], designed to reduce web-application complexity through convention, integrated components, and productive defaults. The [[The Rails Foundation]] is a nonprofit organization supporting the framework’s documentation, education, marketing, and events. [^E1]
 
 - **Integrated full-stack toolkit:** Provides the application structure and conventions needed to build database-backed web applications.
 - **Active Record:** Supplies an object-relational mapping layer for working with application data and database schemas.

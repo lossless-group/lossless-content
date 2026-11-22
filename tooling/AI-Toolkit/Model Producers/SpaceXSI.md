@@ -1,6 +1,6 @@
 ---
 date_created: 2026-08-05
-date_modified: 2026-11-02
+date_modified: 2026-11-19
 tags:
   - Generative-AI
   - Foundation-Models
@@ -23,6 +23,10 @@ cf_last_run: 2026-11-02T16:58:43.399Z
 cf_last_run_model: Perplexity sonar-pro
 cf_retrieved_source_count: 5
 cf_last_run_retrieval: 2026-11-02T16:58:43.399Z
+x_url: https://x.com/SpaceXSI
+aliases:
+  - xAI
+  - x.AI
 ---
 
 
@@ -43,7 +47,7 @@ xAI develops frontier AI models under the Grok brand for reasoning, coding, know
 - **Developer API:** Programmatic access to models across text, code, voice, image, and video.[^om62em]
 - **Agentic tool calling:** APIs support models that can call tools and operate inside developer-built workflows.[^qqyqe1]
 - **Multimodal input:** Grok 4.7 accepts text and images and produces text output.[^qqyqe1]
-- **Voice:** Grok Voice 3.0 supports speech-to-speech interaction through an API priced per minute.[^pulih5]
+- **Voice:** [[Tooling/AI-Toolkit/Models/Grok|Grok]] Voice 3.0 supports speech-to-speech interaction through an API priced per minute.[^pulih5]
 - **Image generation and editing:** Grok Imagine supports image generation, edits using up to five reference images, and image-to-image workflows.[^25s33b]
 - **Video generation:** Grok Imagine supports text-to-video, still-image-to-video, and video editing through asynchronous API requests.[^91pgv1]
 - **Grok Build:** The Responses API supports agentic coding workflows such as refactoring and debugging.[^om62em]
@@ -59,7 +63,7 @@ As of November 2, 2026,
 
 ## Recent Developments
 
-xAI announced a $20 billion Series E round on January 6, 2026, at a reported $230 billion valuation, with participation from Nvidia, Cisco Investments, Fidelity, Qatar Investment Authority, MGX, and other investors. [^F1] The company had previously announced a $6 billion Series C round in December 2024 at a $45 billion valuation. [^F2]
+xAI announced a $20 billion Series E round on January 6, 2026, at a reported $230 billion valuation, with participation from [[organizations/Nvidia|Nvidia]], Cisco Investments, Fidelity, [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Qatar Investment Authority|Qatar Investment Authority]], MGX, and other investors. [^F1] The company had previously announced a $6 billion Series C round in December 2024 at a $45 billion valuation. [^F2]
 
 # History and Origin Story
 

@@ -94,7 +94,7 @@ Nano Banana is aimed at developers, designers, marketers, and creative teams tha
 - **Google Nano Banana 2:** A faster iteration-oriented model for concept development. [^7qcgez]
 - **Other hosted image-generation APIs:** Relevant alternatives for teams comparing token pricing, image quality, latency, and multimodal inputs.
 - **Vectorworks AI Visualizer:** A downstream application alternative for design professionals who want image generation embedded in a CAD workflow. [^7qcgez]
-- [[TrustedRouter]] allows access to [[concepts/Explainers for AI/Text-to-Video|Text-to-Video]] and [[concepts/Explainers for AI/Image Generators|Text-to-Image]] modes via a [[projects/Context-Vigilance/Models/Tokens|Tokens]] marketplace with [[concepts/Security-First Development|Security-First Development]] practices.
+- [[Tooling/AI-Toolkit/TrustedRouter]] allows access to [[concepts/Explainers for AI/Text-to-Video|Text-to-Video]] and [[concepts/Explainers for AI/Image Generators|Text-to-Image]] modes via a [[projects/Context-Vigilance/Models/Tokens|Tokens]] marketplace with [[concepts/Security-First Development|Security-First Development]] practices.
 
 ### Competitor Table
 

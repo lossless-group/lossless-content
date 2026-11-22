@@ -29,7 +29,7 @@ cf_retrieved_source_count: 1
 cf_last_run_retrieval: 2026-11-17T20:52:54.320Z
 ---
 
-[[Multiplexers]]
+[[concepts/Explainers for Tooling/Terminal Multiplexers]]
 [[Vocabulary/Developer Tools|Developer Tools]]
 [[Sources/People/Mitchell Hashimoto|Mitchell Hashimoto]]
 

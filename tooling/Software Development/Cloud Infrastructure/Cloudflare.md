@@ -7,7 +7,7 @@ title: Connect, protect, and build everywhere
 jina_last_request: 2025-03-09T06:45:00.922Z
 jina_error: Error occurred
 og_last_fetch: 2025-09-23T17:56:58.857Z
-date_modified: 2026-10-19
+date_modified: 2026-11-19
 date_created: 2025-03-30
 tags:
   - Software-Development
@@ -68,9 +68,11 @@ https://www.cloudflare.com/products/data-platform/
 #### Cloudflare RealtimeKit
 https://realtime.cloudflare.com/
 
-#### 
-[[concepts/Explainers for Tooling/Identity as a Service]]
+#### Identity
+[[concepts/Explainers for Tooling/Identity as a Service|Identity as a Service]]
 
+#### Agent Memory
+https://developers.cloudflare.com/agent-memory/
 
 ## Screenshots
 
@@ -116,7 +118,7 @@ No reliable source found in the supplied results for a complete investor-by-inve
 
 ### Category, Market Size, and Category Growth
 
-Cloudflare operates across edge networking, content delivery, cybersecurity, [[Vocabulary/Zero Trust Architecture|Zero Trust Architecture]], [[Vocabulary/Serverless|Serverless]] developer platforms, and cloud [[concepts/Explainers for Tooling/Data Infrastructure]]. [^E1] The supplied results report company revenue growth but do not provide a reliable third-party estimate of the total addressable market or category growth rate.
+Cloudflare operates across edge networking, content delivery, cybersecurity, [[Vocabulary/Zero Trust Architecture|Zero Trust Architecture]], [[Vocabulary/Serverless|Serverless]] developer platforms, and cloud [[concepts/Explainers for Tooling/Data Infrastructure|Data Infrastructure]]. [^E1] The supplied results report company revenue growth but do not provide a reliable third-party estimate of the total addressable market or category growth rate.
 
 ## Pricing
 
@@ -207,7 +209,7 @@ Sources for Table: [^tf3xlp] [^wyajz5] [^yo45j4] [^0rpbgw] [^dvtw4i] [^qnb58l] [
 
 ## Bottom line
 
-The most coherent explanation is that Cloudflare is trying to evolve into a **globally distributed application platform**: secure the user and infrastructure layer through Cloudflare One, provide AI data and model capabilities, control more of the JavaScript build-and-runtime pipeline, and execute applications across its edge network. The “rumor” or inferred strategic concern is not simply that Cloudflare is collecting popular [[Open Source Collaborations|open-source]] projects; it is assembling enough of the modern software stack to become an alternative to conventional cloud deployment, especially for AI-generated and edge-native applications. [^tf3xlp] [^wyajz5] [^yo45j4]
+The most coherent explanation is that Cloudflare is trying to evolve into a **globally distributed application platform**: secure the user and infrastructure layer through Cloudflare One, provide AI data and model capabilities, control more of the JavaScript build-and-runtime pipeline, and execute applications across its edge network. The “rumor” or inferred strategic concern is not simply that Cloudflare is collecting popular [[Vocabulary/Open Source Collaborations|open-source]] projects; it is assembling enough of the modern software stack to become an alternative to conventional cloud deployment, especially for AI-generated and edge-native applications. [^tf3xlp] [^wyajz5] [^yo45j4]
 
 
 

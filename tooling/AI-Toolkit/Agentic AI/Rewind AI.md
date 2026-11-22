@@ -20,7 +20,7 @@ og_description: The world’s best free AI tools. Chat, generate images, create 
 og_favicon: https://rewind.ai/favicon.ico?favicon.0tspy-p-xvfgq.ico
 og_site_name: Rewind.ai
 ---
-[[TrustedRouter]]
+[[Tooling/AI-Toolkit/TrustedRouter]]
 
 
 ## Value Proposition & Features

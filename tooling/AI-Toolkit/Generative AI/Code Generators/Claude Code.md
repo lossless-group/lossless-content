@@ -1,7 +1,7 @@
 ---
 url: https://claude.com/product/claude-code
 date_created: 2025-03-08
-date_modified: 2026-11-15
+date_modified: 2026-11-19
 product_of: "[[Tooling/AI-Toolkit/Model Producers/Anthropic|Anthropic]]"
 og_image: https://cdn.sanity.io/images/4zrzovbb/claude-com/6c36adaaf60ecdde313a93ad255eef573ea4de97-1200x630.jpg?rect=0,2,1200,627&w=1200&h=627&fit=crop
 tags:
@@ -20,6 +20,9 @@ og_favicon: https://cdn.sanity.io/images/4zrzovbb/claude-com/369b14e80ac643cc09d
 og_last_fetch: 2026-06-09T20:14:32.420Z
 cf_last_run: 2026-06-09T20:16:00.609Z
 cf_last_run_model: Perplexity sonar-pro
+github_profile_url: https://github.com/anthropics
+github_repo_url: https://github.com/anthropics/claude-code
+x_url: https://x.com/ClaudeDevs
 ---
 
 ![Claude Code banner in the skeumorph image of a terminal](https://ik.imagekit.io/xvpgfijuw/parslee/bannerFor__Claude-Code.webp?updatedAt=1760129891232)
@@ -43,6 +46,7 @@ https://youtu.be/EiThSVZ8pME?si=b5Mvr7uHkiseZwsx
 # Build in Skills
 ![2026-05-09_Claude-Code_Session-Info_2.28.08 AM.png](https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-05/2026-05-09_Claude-Code_Session-Info_2.28.08_AM_aswXt2zgV.webp)
 
+https://youtu.be/J5EbL1UaqG8?is=g8sMZgepu3dH1d8L
 # Value Proposition & Features
 
 Claude Code is [[Tooling/AI-Toolkit/Model Producers/Anthropic|Anthropic]]’s **agentic coding tool for developers**, positioned as a terminal-first assistant that understands a codebase, edits files, runs commands, and helps ship faster. [^u2cce2] It is framed as an AI coding assistant that can connect to external services through MCP, so it can interact with tools like [[Tooling/Software Development/Developer Experience/Jira|Jira]], Confluence, GitHub, databases, and internal [[Vocabulary/Application Programming Interface|APIs]]. [^u2cce2]

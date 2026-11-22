@@ -21,7 +21,7 @@ cf_last_run: 2026-08-23T03:58:56.788Z
 cf_last_run_model: Perplexity sonar-pro
 ---
 
-[[TrustedRouter]]
+[[Tooling/AI-Toolkit/TrustedRouter]]
 [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/OpenRouter|OpenRouter]]
 [[concepts/Explainers for AI/LLM Gateways|LLM Gateways]]
 
@@ -146,7 +146,7 @@ It is less suited for **very small projects or single‑provider prototypes** th
 ## Viable Alternatives
 
 - **OpenRouter** – Managed AI marketplace and gateway with hundreds of models, unified billing, and auto‑routing, but typically charges a platform fee on credits; positioned as a leading alternative for teams that want one key and are comfortable with per‑token markups. [^xmj27g] [^dv46x4] [^vpn54u] [^ophi80] [^an9syd] [^c29grj] [^jcmjs2] [^wkmsm7]  
-- [[TrustedRouter]]
+- [[Tooling/AI-Toolkit/TrustedRouter]]
 - **[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/LiteLLM|LiteLLM]]** – Open‑source proxy and LLM gateway that can be self‑hosted, providing unified interfaces, budget tracking, and routing across many providers for teams that want control and zero SaaS gateway markup. [^dv46x4] [^wyrh7u] [^c8xvzs] [^vpn54u] [^ophi80] [^an9syd] [^c29grj] [^7cwr3h]  
 - **Portkey** – Managed + self‑hostable AI gateway focused on routing, observability, budgets, and guardrails, with paid managed plans starting around tens of dollars per month and an OSS tier for self‑hosting. [^dv46x4] [^wyrh7u] [^vpn54u] [^ophi80] [^gb7t1f]  
 - **Cloudflare AI Gateway** – Managed gateway integrated with Cloudflare’s edge stack, offering caching, rate limiting, dynamic routing, DLP, and guardrails, suited to teams already on Cloudflare. [^dv46x4] [^vpn54u] [^ophi80] [^c8xvzs] [^an9syd]  

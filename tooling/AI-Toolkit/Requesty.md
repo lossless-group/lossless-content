@@ -24,7 +24,7 @@ cf_last_run: 2026-08-23T06:38:51.119Z
 cf_last_run_model: Perplexity sonar-pro
 ---
 
-[[TrustedRouter]]
+[[Tooling/AI-Toolkit/TrustedRouter]]
 
 # Value Proposition & Features
 

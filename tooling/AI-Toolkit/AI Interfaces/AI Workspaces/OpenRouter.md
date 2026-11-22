@@ -112,7 +112,7 @@ It is not for teams that want a single-model vendor relationship with minimal ab
 - **Google AI Studio / Gemini API** — direct access to Google models without OpenRouter’s model-agnostic abstraction. [^zteg9e] [^925rz4]
 - **Azure OpenAI** — enterprise-oriented direct access to OpenAI models with Microsoft infrastructure controls. [^c3qyfg] [^zteg9e]
 - **Self-built routing layer** — viable for teams that want custom control over provider selection, failover, and billing. [^g59sn3] [^52cmy4]
-- [[TrustedRouter]] — [[concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]] for [[concepts/Security-First Development|Security-First Development]] cycles.
+- [[Tooling/AI-Toolkit/TrustedRouter]] — [[concepts/Explainers for AI/Artificial Intelligence|Enterprise AI]] for [[concepts/Security-First Development|Security-First Development]] cycles.
 
 ## Competitor Table
 | Competitor | Description |

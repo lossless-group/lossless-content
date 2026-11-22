@@ -10,7 +10,7 @@ zinger: A better future with AI
 favicon: https://www.anthropic.com/favicon.ico
 og_fetched_url: https://www.anthropic.com
 og_last_fetch: 2025-05-28T22:49:53.467Z
-date_modified: 2026-10-09
+date_modified: 2026-11-19
 date_created: 2025-03-31
 og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots/20250528_Anthropic_og_screenshot.jpeg
 og_image: https://cdn.prod.website-files.com/67ce28cfec624e2b733f8a52/68309ab48369f7ad9b4a40e1_open-graph.jpg
@@ -21,6 +21,7 @@ tags:
   - AI-Research-Labs
   - Hyperscalers
 augmented_with: "[[organizations/Perplexity AI|Perplexity AI]]"
+github_profile_url: https://github.com/anthropics
 ---
 
 [[Tooling/AI-Toolkit/Models/Claude|Claude]], [[Haiku]]

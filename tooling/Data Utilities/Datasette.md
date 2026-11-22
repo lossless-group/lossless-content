@@ -24,7 +24,7 @@ cf_last_run_model: Perplexity sonar-pro
 [[Vocabulary/Data Analysis|Data Analysis]]
 [[Vocabulary/Data Notebooks|Data Notebooks]]
 [[Vocabulary/Data Labeling|Data Annotation]]
-[[Open Source Collaborations|Open-Source-Collaborations]]
+[[Vocabulary/Open Source Collaborations|Open-Source-Collaborations]]
 [[projects/Democratizing-Data/Democratizing Data|Democratizing Data]]
 
 # Value Proposition & Features

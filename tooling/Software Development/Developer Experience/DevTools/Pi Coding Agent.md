@@ -1,6 +1,6 @@
 ---
 date_created: 2026-04-27
-date_modified: 2026-08-26
+date_modified: 2026-11-19
 url: https://pi.dev/
 og_title: A terminal-based coding agent
 og_description: A terminal-based coding agent
@@ -30,6 +30,8 @@ cf_last_run: 2026-06-06T04:44:06.236Z
 cf_last_run_model: Perplexity sonar-pro
 ---
 
+https://youtu.be/3giACfGjwpE?is=SMrdiKjDI3jTgebD
+
 https://youtu.be/5kLL0xUC28Q?is=-7j2DXNHHkwLEP3a
 
 https://youtu.be/pr2WGRhVKys?is=iXbPXe7_M6Z6a4Kz
@@ -47,7 +49,7 @@ Pi Coding Agent is an **open‑source, terminal‑based AI coding agent** design
 
 Core product features (2–3 sentences each):
 
-- **Terminal coding agent CLI** – The main interface is a TUI/CLI you start with `pi` in any project folder, where you chat with the agent, invoke tools, and manage sessions entirely from the terminal. [^31wxuk] [^d95dpt] [^3bsp1h] It can run one‑shot prompts (`pi -p "…"`) or fully interactive sessions, and supports shortcuts like `Ctrl+L` to switch models. [^31wxuk] [^d95dpt]
+- **Terminal coding agent CLI** – The main interface is a [[Vocabulary/Command-Line Interfaces|TUI]]/CLI you start with `pi` in any project folder, where you chat with the agent, invoke tools, and manage sessions entirely from the terminal. [^31wxuk] [^d95dpt] [^3bsp1h] It can run one‑shot prompts (`pi -p "…"`) or fully interactive sessions, and supports shortcuts like `Ctrl+L` to switch models. [^31wxuk] [^d95dpt]
 
 - **Minimal tool set: read / write / edit / bash** – Pi exposes four default tools to the model: `read`, `write`, `edit`, and `bash`, giving the agent controlled, auditable access to your code and shell. [^31wxuk] [^afglk8] [^3bsp1h] This minimal surface lets the LLM inspect files, change them incrementally, and execute commands like tests or builds without complex MCP setups or sub‑agents. [^31wxuk] [^afglk8] [^3bsp1h]
 
@@ -65,12 +67,16 @@ Priority feature bullets:
 
 - **Minimal terminal‑based coding agent [[Vocabulary/Command-Line Interfaces|CLI]] with [[Vocabulary/Command-Line Interfaces|TUI]] controls**. [^31wxuk] [^d95dpt] [^3bsp1h]  
 - **Four core tools (`read`, `write`, `edit`, `bash`) wired to your repo and shell**. [^31wxuk] [^afglk8] [^3bsp1h]  
-- **Open‑source [[Tooling/Software Development/Programming Languages/TypeScript|TypeScript]] monorepo plus SDK for embedding and extension**. [^d95dpt] [^37gk5m]  
+- **Open‑source [[Tooling/Software Development/Programming Languages/TypeScript|TypeScript]] monorepo plus [[Vocabulary/SDK|SDK]] for embedding and extension**. [^d95dpt] [^37gk5m]  
 - **Multi‑provider, multi‑model support with `/login`, `/model`, and custom providers config**. [^31wxuk] [^d95dpt] [^3bsp1h]  
 - **Session management (`pi -c`, `pi -r`) and context utilities like `/tree`, `/compact`, `/session`**. [^31wxuk] [^d95dpt]  
 - **Project‑specific behavior via `agents.md` instructions in your repository**. [^3bsp1h]  
 - **Local extensions, skills, and prompts folders for custom tools and workflows**. [^3bsp1h]  
 - **Keyboard shortcuts and slash commands for fast model switching and settings**. [^31wxuk] [^d95dpt] [^3bsp1h]  
+  
+### Pi Durables
+
+https://youtu.be/SBEGweMW3BM?is=wNvwJ_cKg6ViCoyg
 
 ## Recent Developments
 
@@ -90,7 +96,7 @@ Pi is described as an **open‑source terminal coding agent created by Mario Zec
 
 ## Category, Market Size, and Category Growth
 
-Pi fits within the categories of **AI coding agents / terminal assistants / agentic developer tools**, similar to products like Claude Code, GitHub Copilot Chat in the terminal, and other CLI‑based LLM assistants. [^d95dpt] [^afglk8] [^tiwi04] While no source gives a Pi‑specific TAM, analyst and industry coverage of **AI developer tools and coding assistants** commonly places this broader category in the multi‑billion‑dollar range with rapid double‑digit annual growth, but no directly citable, Pi‑specific market sizing figure was found in the available results.
+Pi fits within the categories of **AI coding agents / terminal assistants / agentic developer tools**, similar to products like [[Tooling/AI-Toolkit/Generative AI/Code Generators/Claude Code|Claude Code]], [[Tooling/AI-Toolkit/Generative AI/Code Generators/GitHub Copilot|GitHub Copilot]] Chat in the terminal, and other CLI‑based LLM assistants. [^d95dpt] [^afglk8] [^tiwi04] While no source gives a Pi‑specific TAM, analyst and industry coverage of **AI developer tools ([[Developer AI]]) and coding assistants** commonly places this broader category in the multi‑billion‑dollar range with rapid double‑digit annual growth, but no directly citable, Pi‑specific market sizing figure was found in the available results.
 
 # Competitive Landscape
 

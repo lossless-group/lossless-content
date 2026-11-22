@@ -1,7 +1,7 @@
 ---
 url: https://www.falkordb.com/
 date_created: 2026-08-15
-date_modified: 2026-10-14
+date_modified: 2026-11-18
 og_title: FalkorDB Graph Database with GraphRAG for AI/ML and GenAI
 og_description: FalkorDB is a graph database optimized for GraphRAG, delivering accurate, relevant AI/ML results with reduced hallucinations and enhanced performance.
 og_image: https://www.falkordb.com/wp-content/uploads/2025/02/FalkorDB-Graph-Database-for-GenAI.jpg
@@ -18,6 +18,7 @@ tags:
   - Databases
   - Graph-Databases
   - Must-Have
+  - Context-Layers
 for_clients:
   - Laerdal
   - Parslee

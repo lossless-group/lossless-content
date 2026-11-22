@@ -1,6 +1,6 @@
 ---
 date_created: 2026-08-26
-date_modified: 2026-11-16
+date_modified: 2026-11-21
 tags: [Developer-Tools, Multiplexers, Check-It-Out, AI-Toolkit, Agentic-Engineering]
 url: "https://herdr.dev/"
 og_title: "No two look alike"
@@ -15,7 +15,9 @@ title: Herdr
 slug: herdr
 at_semantic_version: 0.0.0.1
 ---
-[[Multiplexers]]
+[[concepts/Explainers for Tooling/Terminal Multiplexers]]
 
 https://youtu.be/27B50lXinWM?is=MmiPD5gBgpnZR5Rw
+
+https://lossless-group.github.io/context-v-corpus/
 
