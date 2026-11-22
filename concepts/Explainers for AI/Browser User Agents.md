@@ -1,13 +1,35 @@
 ---
 site_uuid: 2842e8ed-e465-4297-9773-1b4bf66ab429
-date_modified: 2025-08-27
+date_modified: 2026-11-22
 date_created: 2025-03-30
-tags: [AI-Toolkit]
+tags:
+  - Web-Browsers
+  - Web-Development
+  - Web-Scrapers
+  - Privacy-First
 publish: true
-title: "Browser Agents"
-slug: browser-agents
+title: Browser User Agents
+slug: browser-user-agents
 at_semantic_version: 0.0.0.1
 ---
+[[Vocabulary/Web Scraping|Web Scraping]]
+[[concepts/Explainers for AI/AI Web Crawlers|AI Web Crawlers]]
+
+> [!note] **Not the same as Browser Agents**
+> This page is about the **`User-Agent` HTTP header**: the text a browser (or any other web client) sends to identify itself. It is a web-plumbing concept from the earliest days of HTTP and has nothing to do with AI. For AI agents that *operate* a browser (clicking, typing, filling forms), see [[concepts/Explainers for AI/Browser Agents|Browser Agents]].
+>
+> The standard names are **User-Agent header**, **User-Agent string**, or simply **user agent**. "Browser user agent" is a common informal phrasing.
+
+## Verified Summary (2026-11-21)
+
+- **It's defined in the HTTP standard.** The `User-Agent` request header "contains information about the user agent originating the request." [^rfc9110ua] MDN describes it as the self-identifying header browsers include with every request, and the value is called the **user agent (UA) string**. [^mdnglossary]
+- **"User agent" means any client, not only browsers.** `curl` sends `curl/7.64.1`, Postman sends `PostmanRuntime/7.26.5`, and search and AI crawlers send their own bot strings. [^mdnheader] This is how scraping APIs and AI crawlers identify themselves, and how sites decide whether to allow or block them. See [[concepts/Explainers for AI/AI Web Crawlers|AI Web Crawlers]].
+- **JavaScript can read it too,** as `navigator.userAgent`. [^mdnnavigator]
+- **Chrome now sends a reduced UA string.** Under [User-Agent Reduction](https://www.chromium.org/updates/ua-reduction/), Chrome freezes the minor, build and patch version to `0.0.0`, reports a fixed OS version, and hides the device model, to limit fingerprinting. [^crua] [^mdnreduction] So `Chrome/143.0.0.0` does not tell you the exact build.
+- **Detailed information has moved to User-Agent Client Hints.** Sites that genuinely need the full platform version or device model must request it explicitly through Client Hints headers. [^crua] [^uach]
+- **It's a recognized privacy risk.** The HTTP standard itself warns that the `User-Agent` field can contain enough detail to help fingerprint a user. [^rfc9110fp]
+
+The original 2025 article below is accurate on the basics. One correction to its example: `Windows NT 10.0` does not prove the user runs Windows 10. Windows 11 also reports `Windows NT 10.0`, and reduced Chrome strings report a fixed platform version, so a server can't tell the two apart from the string alone. [^crua]
 
 ***
 > [!info] **Perplexity Query** (2025-08-27T18:35:56.156Z)
@@ -20,7 +42,7 @@ at_semantic_version: 0.0.0.1
  
 Browser user-agents are identifiers automatically sent by browsers to web servers, playing a critical role in how web content is delivered and experienced. [^e5ayk3] [^76hkq4] Though invisible to most users, these digital “handshakes” determine how websites display, function, and adapt to various devices and software.
 
-![Browser Agents concept diagram or illustration](https://cdn.iplocation.net/assets/images/blog/featured/What-is-a-Browser_s-User-Agent.jpg)
+![Diagram explaining what a browser's user-agent string is](https://cdn.iplocation.net/assets/images/blog/featured/What-is-a-Browser_s-User-Agent.jpg)
 
 ### Understanding Browser User-Agents
 
@@ -53,7 +75,7 @@ When a browser contacts a website, the user-agent string is included in the HTTP
 - **Maintenance Overhead:** Supporting a wide variety of user-agents increases complexity in web development, especially as new browsers and devices appear. [^1fb5zr]
 - **Deprecation of Browser Detection:** Modern best practices recommend *feature detection* over relying solely on user-agents, since the same browser may behave differently across devices and updates. [^76hkq4]
 
-![Browser Agents practical example or use case](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2012/05/image450.png)
+![Example of a user-agent string as seen in practice](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2012/05/image450.png)
 
 
 ### Current State and Trends
@@ -67,7 +89,7 @@ Recent developments include:
 - **Rise of headless browsers** and bot detection services that rely on parsing or spoofing user-agents.
 - **Integration of client hints** as a future-proof method for content adaptation.
 
-![Browser Agents future trends or technology visualization](https://hostingcanada.org/app/uploads/2018/09/user-agent-flowchart.png)
+![Flowchart of how a server responds based on the user-agent string](https://hostingcanada.org/app/uploads/2018/09/user-agent-flowchart.png)
 
 
 ### Future Outlook
@@ -93,4 +115,20 @@ Browser user-agents are the digital IDs that quietly enable the tailored, device
 [^1fb5zr]: 2025, Jun 27. [In Web Development, What Is A User Agent?](https://aiad.com.au/blog/in-web-development-what-is-a-user-agent/). Published: 2025-06-09 | Updated: 2025-06-27
 
 [^9vmx05]: 2025, Mar 09. [What is user agent? Importance of user agent in SEO](https://salestube.tech/blog/what-is-user-agent-importance-of-user-agent-in-seo). Published: 2025-02-19 | Updated: 2025-03-09
+
+[^rfc9110ua]: 2022, Jun. [RFC 9110: HTTP Semantics, §10.1.5 User-Agent](https://www.rfc-editor.org/rfc/rfc9110#section-10.1.5). IETF.
+
+[^rfc9110fp]: 2022, Jun. [RFC 9110: HTTP Semantics, §17.13 Browser Fingerprinting](https://www.rfc-editor.org/rfc/rfc9110#section-17.13). IETF.
+
+[^mdnglossary]: [User agent](https://developer.mozilla.org/en-US/docs/Glossary/User_agent). MDN Web Docs.
+
+[^mdnheader]: 2025, Oct 28. [User-Agent header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/User-Agent). MDN Web Docs.
+
+[^mdnnavigator]: [Navigator: userAgent property](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/userAgent). MDN Web Docs.
+
+[^mdnreduction]: [User-Agent reduction](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/User-agent_reduction). MDN Web Docs.
+
+[^crua]: [User-Agent Reduction](https://www.chromium.org/updates/ua-reduction/). The Chromium Projects.
+
+[^uach]: [User-Agent Client Hints explainer](https://github.com/wicg/ua-client-hints/). W3C WICG.
 
