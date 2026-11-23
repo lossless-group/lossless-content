@@ -67,6 +67,7 @@ The system is "self-generating" in that steps 1–5 run on a schedule with no on
 - **Specify by quality bar, not implementation.** What a good output must satisfy is written down first, ranked. (The shape that shipped in augment-it: [Funder Content Corpus Workflow](../../ai-labs/augment-it/context-v/specs/Funder-Content-Corpus-Workflow.md).)
 - **Everything is markdown in git.** Drafts, sources, decisions and the publish log are files, so agents work with them fluently and every change has history. The people approving never need to see that. See [[Zero-Complexity-Content-Repositories-for-Collaboration-on-Web-Content]].
 - **Backdate to the event.** A post about a release is dated to the release, not to when it was written.
+- **Sources and our own content never mix.** The corpus keeps both, but always marks which is which, and the Drafter only ever cites sources. See "Sources and our own content" below.
 
 ## Architecture
 
@@ -300,6 +301,26 @@ A person, every time. They approve, edit, reject, or ask for one section to be r
 
 After approval only: commits the piece to the site's content collection, dated to the event it covers, posts to the audience's channels, and writes a publish log. Each saved source gets a backlink to the pieces that cite it.
 
+### Sources and our own content
+
+Drafts and published pieces are worth keeping in the corpus too: to avoid repeating ourselves, to link back to earlier pieces, and to see what we've covered. But if our own writing is saved next to sources with nothing to tell them apart, the next draft can cite our last draft as if it were evidence. Claims then cite claims, and nothing traces back to a primary source.
+
+So every record in the corpus says which kind it is:
+
+| `corpus_role` | What it is | `state` | Where it lives |
+|---|---|---|---|
+| `source` | Something someone else published, captured by the Saver | the source file model's own `status` (`candidate`, `promoted`, ...) | Source folders, e.g. `sources/` |
+| `own` | Something we wrote: a draft or a published piece | `draft`, `approved`, `published` or `rejected` | Draft folders, then the site's content collection once published |
+
+The rules:
+
+- **The Drafter cites only `source` records.** It may *link* to our earlier `own` pieces ("we covered the 2.0 launch here"), but never as evidence for a claim.
+- **Retrieval asks for a role.** "Find sources on X" and "find what we've written on X" are different queries, and a query without a role gets sources.
+- **Our own pages are recognized when watchers find them.** Search and feeds will turn up our published pages and other sites quoting them. Anything on our own domains is matched to its `own` record, never captured as a new source. A third-party page that only restates our piece is a lead back to it, by the same rule as any rewrite.
+- **Own records keep their citations.** A draft's frontmatter lists the IDs of the source records it cites, and those sources get backlinks when it publishes. That way every claim in a published piece can be traced to a primary source in two steps or fewer.
+
+The field is `corpus_role` and not `origin`, because one of the three source-file schemas corpora-builder is reconciling already uses `origin` for search provenance ([Source File Schema Reconciliation](../../ai-labs/corpora-builder/context-v/blueprints/Source-File-Schema-Reconciliation.md)). Adding `corpus_role` there is a proposal for corpora-builder, not something this spec can decide alone.
+
 ## Tools: a polyglot library, set up one common way
 
 Every stage above calls tools: search, scrape, crawl, extract, feeds, brand assets, CRM. No one provider is right for all of them, providers change their APIs and prices, and the agents calling them run in different languages and harnesses. A system that's meant to run itself needs one common way to set a tool up, so that it can add, check and repair tools without us.
@@ -384,6 +405,7 @@ The first row is the watcher spec's original scope, so it's the natural pilot.
 - Is the review queue a web page, a pull request, or a folder in an Obsidian vault? Probably all three, rendered from the same change record.
 - How is "sounds like us" specified: a voice guide per audience, examples, a `humanizer` pass?
 - What gets measured after publishing, and does it feed back into relevance?
+- Should `corpus_role` become part of corpora-builder's source file model, or live only in this system's records?
 - Is the tool manifest our own format, or do we adopt goose's extension config or Tome's plugin manifest?
 - Does the tool library live in its own repo, so the Content Farm and the Deal Scout (and kay-os) share it?
 
