@@ -69,16 +69,18 @@ The system is "self-generating" in that steps 1–3 run on a schedule with no on
 ## Architecture
 
 ```text
- Watch config ──> Watchers ──> Source store ──> Relevance ──> Drafter ──> Review queue ──> Publisher
- (per audience)   (scheduled)  (captured,       (per          (house      (change feed,     (sites,
-                                canonical,       audience)     voice,      approve/edit/     channels,
-                                deduped)                       cited)      reject/redo)      publish log)
+ Watch config ──> Watchers ──> Source store ──> Quality ──> Relevance ──> Drafter ──> Review queue ──> Publisher
+ (clusters)       (RSS,        (captured,       filter      (per          (house      (change feed,     (sites,
+                   search,      canonical,      (junk,      audience)     voice,      approve/edit/     channels,
+                   social)      deduped)        slop,                     cited)      reject/redo)      publish log)
+                                                spam)
 ```
 
 | Stage | Prior art to reuse |
 |---|---|
 | Watch config and watchers | [[Self-Updating-Product-Announcement-Watcher]]: sidecar `.watch.yml`, GitHub/RSS/changelog watchers, state file, dedupe. Never built. This spec makes it the first stage of something larger. |
 | Source store | cite-wide's [Maximize Data Collection on Canonical Sources](../../content-farm/plugin-modules/cite-wide/context-v/blueprints/Maximize-Data-Collection-on-Cannonical-Sources.md): which source fields are deterministic, hybrid or AI-filled. `crawl-fetch-ingest` skill for capture. |
+| Quality filter | memopop's source curation across runs, the `humanizer` skill's catalogue of slop patterns, corpora-builder's `machine_verdict`. Described below. |
 | Relevance | The Agent Guesswork narrative above as the first worked example. Audience profiles are new. |
 | Drafter | perplexed's template-per-heading generation and section refresh. LFM for output. |
 | Review queue | corpora-builder's [Corpus Change Feed](../../ai-labs/corpora-builder/context-v/specs/Corpus-Change-Feed.md) (Signed-Off): a change record any engine can emit, rendered for someone who will never read a diff. |
@@ -105,20 +107,21 @@ A cluster carries its entities (tools, companies, people), its vocabulary, the f
 |---|---|---|
 | **Announcement** | Releases, launches and changelog entries from known products | Code Generators in `tooling/` (the original [[Self-Updating-Product-Announcement-Watcher]]) |
 | **Entity** | Anything new about a named company, person or organization | A client's competitors, a portfolio |
-| **Topic** | New writing on a theme, from anyone | Agent harnesses, GEO |
-| **Source** | Everything from a publication, author or channel we trust | A newsletter, a researcher, a podcast |
+| **Topic** | New writing on a theme, from sources that pass the quality filter below | Agent harnesses, GEO |
+| **Source** | Everything from a publication, author or account we trust | A newsletter, a researcher, a podcast, an account on X, Bluesky or LinkedIn |
 | **Question** | What people ask AI tools about a category, and whether our answers show up | A startup client's category (GEO) |
 | **Opportunity** | Companies that fit a thesis | A VC firm's thesis (the Deal Scout) |
 
 Each kind has its own default sources, schedule and relevance test. A cluster can have several kinds watching it.
 
-### Combined RSS and search
+### Combined RSS, search and social
 
-Each watcher uses both:
+Each watcher draws on three kinds of input:
 
 - **RSS first**, for every source that publishes a feed. It's free, polite and close to real time. See [[RSS-Monitor-Utility-for-the-Always-On-Agents]].
 - **Search for the rest**, on a schedule, with queries built from the cluster's entities and vocabulary. It runs through the tool library's `search` capability, so the provider can be SearXNG, Tavily or Exa.
-- **Both file into the same corpus inbox**, deduped by normalized URL. An item found by both is one source.
+- **Social platforms** for the people and companies who announce things there first. See below.
+- **All of it files into the same corpus inbox**, deduped by normalized URL. An item found twice is one source.
 
 This is also how the system maintains itself. When search keeps finding good items on a site, the watcher looks for that site's feed and proposes subscribing. Over time more of a cluster is covered by free feeds and less by paid search.
 
@@ -139,6 +142,38 @@ watchers:
       queries: ["agentic coding harness", "AI code review"]
 relevance: developers
 ```
+
+### Social platforms: X, Bluesky and LinkedIn
+
+A lot of announcements, and most early talk about them, happen on social platforms before (or instead of) a blog post. The original watcher spec put social monitoring out of scope for its first phase. Here it's an input from the start, but the three platforms are very different to reach:
+
+| Platform | How to read it | Notes |
+|---|---|---|
+| **Bluesky** | Open by design. Public profiles have RSS feeds, and the AT Protocol firehose and custom feeds give the rest. | The easiest of the three. It can go through the RSS Monitor like any other feed. |
+| **X** | The official API, which is paid and rate-limited, or a third-party data provider. | Watch a short list of accounts and searches, not the firehose. Cost decides how much. |
+| **LinkedIn** | No general API for reading posts. Only third-party data providers, within their terms. | Worth it for company pages and a few people, if a provider covers them. Otherwise leave it to a human. |
+
+Social posts are short and mostly point somewhere else. So a post is usually a lead, not a source. The watcher follows its link and files the page it points to, with the post kept as provenance ("first seen on Bluesky, 2026-11-20").
+
+The same platforms are also where approved pieces get published, which belongs to the Publisher stage.
+
+## Quality filter: junk, slop and SEO spam
+
+Search, and to a lesser extent feeds and social, return a lot of content that isn't worth anything: SEO spam, affiliate listicles, sites that rewrite other sites, and generated slop. If it reaches the drafter it becomes our claims. So every item passes a quality filter after capture and before relevance.
+
+It looks for:
+
+- **Where the claim comes from.** A primary source (the company's own blog, docs, release notes, a paper, a filing) beats a page that rewrites one. A rewrite gets traced back to its original, and the original is filed instead.
+- **SEO-spam patterns.** Keyword-stuffed titles, "Best 27 X Tools in 2026", dense affiliate links, no author, no date, a site that publishes on every topic at once.
+- **Slop patterns.** Generic, padded, hedge-everything prose with no specifics, the same tells our `humanizer` skill removes from our own writing.
+- **Duplicates and near-duplicates.** The same text across many domains is syndication or a content farm.
+- **The domain's history.** Every human rejection teaches a per-domain reputation (memopop's [Curating Only Valid Sources Across Runs](../../ai-labs/memopop-ai/context-v/explorations/Curating-only-valid-Sources-across-Runs.md)), so a domain rejected often enough stops getting through. Approved domains get through more easily.
+
+The filter writes a `machine_verdict` with its reasons (`junk: affiliate listicle, no primary source`), never a `verdict`. Following corpora-builder's rule, only a person decides. Junk is kept out of the relevance and drafting stages but stays in the corpus, so a human can spot-check what got filtered and correct it. Those corrections are what make the filter better.
+
+It's a tool in the tool library like any other, with a manifest, health checks and fallbacks, and it's used by the Deal Scout too.
+
+The filter applies to our own output as well. This spec is literally a content farm, and our drafts have to pass the same test before they reach a human: specific, sourced, and not slop.
 
 ## Tools: a polyglot library, set up one common way
 
@@ -179,6 +214,7 @@ That one contract is what makes the three "self" properties possible:
 | Hard pages | [[Browserbase]], [[Apify]], [[Bright Data]] | For JavaScript-heavy pages, logins and anti-bot measures. Use these only when cheaper providers fail. |
 | Structured records | Firecrawl's Alexandria providers | Typed, sourced records for companies, people, filings and jobs. Most useful for the Deal Scout. |
 | Feeds and page changes | [[RSS-Monitor-Utility-for-the-Always-On-Agents]], changedetection.io | Feeds where sites publish them, change detection where they don't. |
+| Social | Bluesky (AT Protocol, RSS), X API, third-party data providers for X and LinkedIn | See "Social platforms" above. |
 | Brand assets | Brandfetch | Logos and colors for posts and deal briefs. |
 
 Answering "any others very important?": **Exa**, **Jina Reader** and **Crawl4AI** belong on the first list. Exa is the strongest search for finding companies like a known one. Jina Reader is cheap and already in our specs. Crawl4AI gives SearXNG a free, self-hosted partner. **Brave Search API** is the main independent index besides Google and Bing. **changedetection.io** covers pages with no feed.
