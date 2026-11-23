@@ -35,9 +35,30 @@ Etched is an attempt to:
 
 Like the patent system, but for long-tail content and micro-updates: each contribution, down to a small correction, is recorded with its author and date, and earns its share when it's used.
 
+## Git history and a ledger, together
+
+Git already records each change with its author, date and parent, down to a one-line correction. That's most of what a ledger of contributions needs, and agents and writers already work in it. What git can't do is pay anyone. A shared ledger is good at exactly that: holding balances, splitting payments among many contributors, and paying out on a schedule without one company keeping the books.
+
+So the likely shape uses both:
+
+- **Git holds the content and its micro-history.** Every contribution is a commit, ideally signed, so authorship can be checked.
+- **The ledger holds a fingerprint of that history and the money.** It records commit hashes (not the content), who owns which share of a piece, what labs have paid in, and what each contributor is owed. Payouts follow from those shares, like dividends.
+
+It may turn out a blockchain isn't needed. But dividend payments to many small contributors across borders, and the idea of a single ledger nobody owns, are what blockchains are built for, so it's worth exploring before ruling out.
+
+### Platforms to explore
+
+| Platform | Why look at it |
+|---|---|
+| **Ethereum** | The most widely used platform for smart contracts, with the most tools and wallets. Fees on the main chain are high, so payouts would likely run on a cheaper layer-2 network built on top of it. |
+| **Solana** | Fast and cheap per transaction, which suits frequent micro-payments and many small updates. |
+| **Avalanche** | Lets a project run its own chain with its own rules and fees, while still connected to the wider network. Useful if Etched needs custom rules for contributions and payouts. |
+
+Questions for each: what a payout to thousands of contributors costs, how creators without a wallet get paid, and how a lab pays in ordinary money.
+
 ## Open questions
 
 - What counts as a contribution? A new piece, a correction, a new source, a fresh example?
 - How is impact measured: citations, reads, retrievals, appearances in model answers? Who reports them, and how is gaming prevented?
-- Does it need a blockchain, or would a signed, append-only git history do the same job?
+- Which part needs the ledger, and which can stay in git?
 - How do labs prove what they used, so payments reach the right creators?
