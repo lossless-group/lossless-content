@@ -29,11 +29,28 @@ Thoughtful content takes work to write and more work to keep current, and almost
 Etched is an attempt to:
 
 - **Reward writing and updating.** Pay for new content, and also for the continuing work of keeping it accurate.
-- **Measure impact the way the h-index does,** for content instead of academic papers: how much a piece matters now, and how much it has mattered over time.
+- **Measure impact the way the h-index does,** by citations and linkbacks to content instead of academic papers: how much a piece matters now, and how much it has mattered over time.
 - **Let AI research labs pay for content, and ask for it.** A marketplace where labs fund the content they need and creators supply it.
 - **Give creators passive income,** like dividends, for as long as their content keeps being used.
 
 Like the patent system, but for long-tail content and micro-updates: each contribution, down to a small correction, is recorded with its author and date, and earns its share when it's used.
+
+## The intent: canonical content, not memes
+
+Substack and the blogs before it rewarded posting often, and much of what got posted was shallow. Social platforms reward whatever spreads fastest. Etched should reward the opposite: content worth coming back to and citing for years, and the work of keeping it right. Great books, not a viral TikTok.
+
+That's why updates count. A piece that keeps getting corrected, extended and re-cited should earn more over time, not less.
+
+## Impact is measured by citations
+
+Impact comes from linkbacks and citations: how often a piece is referenced, by whom, and for how long. Like the h-index, a body of work that's cited steadily ranks above one viral hit.
+
+For that to work, citing through Etched has to be comically easy:
+
+- **Every version gets a stable reference.** Cite a piece as it was on a given date, or at a given update, and the reference never breaks.
+- **One click or one line to cite.** Copy a reference from the page, paste it into a post, a paper or a prompt.
+- **The reference points back to the creator.** It resolves to the creator's own site, Substack or wherever they publish, so citing someone sends readers to them, not to Etched.
+- **Each citation is recorded** against the version it cites, so credit and payment go to whoever wrote that version.
 
 ## Git history and a ledger, together
 
@@ -59,6 +76,6 @@ Questions for each: what a payout to thousands of contributors costs, how creato
 ## Open questions
 
 - What counts as a contribution? A new piece, a correction, a new source, a fresh example?
-- How is impact measured: citations, reads, retrievals, appearances in model answers? Who reports them, and how is gaming prevented?
+- How do we stop citation rings and other gaming? Does a citation from a widely cited source count for more?
 - Which part needs the ledger, and which can stay in git?
 - How do labs prove what they used, so payments reach the right creators?
