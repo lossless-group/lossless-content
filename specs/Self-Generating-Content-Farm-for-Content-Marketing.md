@@ -163,7 +163,7 @@ Search, and to a lesser extent feeds and social, return a lot of content that is
 
 It looks for:
 
-- **Where the claim comes from.** A primary source (the company's own blog, docs, release notes, a paper, a filing) beats a page that rewrites one. A rewrite gets traced back to its original, and the original is filed instead.
+- **Where the claim comes from.** A primary source (the company's own blog, docs, release notes, a paper, a filing) beats a page that rewrites one. A rewrite gets traced back to its original, and the original is filed instead. That includes news: an outlet whose story quotes Reuters or AP without reporting of its own is a pointer to Reuters or AP, so we go to the wire story.
 - **SEO-spam patterns.** Keyword-stuffed titles, dense affiliate links, no author, no date, a site that publishes on every topic at once.
 - **Slop patterns.** Generic, padded, hedge-everything prose with no specifics, the same tells our `humanizer` skill removes from our own writing.
 - **Duplicates and near-duplicates.** The same text across many domains is syndication or a content farm.
@@ -175,11 +175,11 @@ Plenty of content is borderline. A listicle ("27 AI Coding Tools to Try") is rar
 
 | Outcome | What happens | Typical items |
 |---|---|---|
-| **Source** | Filed as a candidate source, eligible to be cited | Release notes, docs, company blogs, papers, filings, original reporting |
-| **Lead** | Not cited. Its outbound links are harvested, and the pages they point to go back through capture and the filter. The lead is kept as provenance ("found via ...") | Listicles, roundups, newsletters, aggregators, "awesome" lists, social posts |
+| **Source** | Filed as a candidate source, eligible to be cited | Release notes, docs, company blogs, papers, filings, original reporting (the wire service, not the outlet quoting it) |
+| **Lead** | Not cited. Its outbound links are harvested, and the pages they point to go back through capture and the filter. The lead is kept as provenance ("found via ...") | Listicles, roundups, newsletters, aggregators, "awesome" lists, social posts, news stories that only quote another outlet's reporting |
 | **Junk** | Kept out of relevance and drafting | SEO spam, scraped rewrites, slop with no outbound links worth following |
 
-A lead's quality can still be judged: a listicle whose links keep turning up good primary sources earns its domain a better reputation as a place to look, even though it's never cited. A lead is also how new entities get discovered: a tool on a good list that isn't in `tooling/` yet becomes a suggestion for the library.
+A lead's quality can still be judged: a listicle whose links keep turning up good primary sources earns its domain a better reputation as a place to look, even though it's never cited. When a lead quotes rather than links ("according to Reuters"), the filter searches for the original story and files that. A lead is also how new entities get discovered: a tool on a good list that isn't in `tooling/` yet becomes a suggestion for the library.
 
 The filter writes a `machine_verdict` with its reasons (`lead: roundup, 14 outbound links, 3 new to tooling/` or `junk: scraped copy of a vendor blog`), never a `verdict`. Following corpora-builder's rule, only a person decides. Junk is kept out of the relevance and drafting stages but stays in the corpus, so a human can spot-check what got filtered and correct it. Those corrections are what make the filter better.
 
