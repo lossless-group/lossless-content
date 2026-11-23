@@ -153,7 +153,7 @@ A lot of announcements, and most early talk about them, happen on social platfor
 | **X** | The official API, which is paid and rate-limited, or a third-party data provider. | Watch a short list of accounts and searches, not the firehose. Cost decides how much. |
 | **LinkedIn** | No general API for reading posts. Only third-party data providers, within their terms. | Worth it for company pages and a few people, if a provider covers them. Otherwise leave it to a human. |
 
-Social posts are short and mostly point somewhere else. So a post is usually a lead, not a source. The watcher follows its link and files the page it points to, with the post kept as provenance ("first seen on Bluesky, 2026-11-20").
+Social posts are short and mostly point somewhere else. So a post is usually a lead, not a source (see "Three outcomes" in the quality filter below). The watcher follows its link and files the page it points to, with the post kept as provenance ("first seen on Bluesky, 2026-11-20").
 
 The same platforms are also where approved pieces get published, which belongs to the Publisher stage.
 
@@ -164,12 +164,24 @@ Search, and to a lesser extent feeds and social, return a lot of content that is
 It looks for:
 
 - **Where the claim comes from.** A primary source (the company's own blog, docs, release notes, a paper, a filing) beats a page that rewrites one. A rewrite gets traced back to its original, and the original is filed instead.
-- **SEO-spam patterns.** Keyword-stuffed titles, "Best 27 X Tools in 2026", dense affiliate links, no author, no date, a site that publishes on every topic at once.
+- **SEO-spam patterns.** Keyword-stuffed titles, dense affiliate links, no author, no date, a site that publishes on every topic at once.
 - **Slop patterns.** Generic, padded, hedge-everything prose with no specifics, the same tells our `humanizer` skill removes from our own writing.
 - **Duplicates and near-duplicates.** The same text across many domains is syndication or a content farm.
 - **The domain's history.** Every human rejection teaches a per-domain reputation (memopop's [Curating Only Valid Sources Across Runs](../../ai-labs/memopop-ai/context-v/explorations/Curating-only-valid-Sources-across-Runs.md)), so a domain rejected often enough stops getting through. Approved domains get through more easily.
 
-The filter writes a `machine_verdict` with its reasons (`junk: affiliate listicle, no primary source`), never a `verdict`. Following corpora-builder's rule, only a person decides. Junk is kept out of the relevance and drafting stages but stays in the corpus, so a human can spot-check what got filtered and correct it. Those corrections are what make the filter better.
+### Three outcomes, not two
+
+Plenty of content is borderline. A listicle ("27 AI Coding Tools to Try") is rarely a primary source, and it can be padded or affiliate-driven. But a good one is a useful launch point: it names tools and companies we haven't heard of and links to their sites. Throwing it away loses that. So the filter has three outcomes:
+
+| Outcome | What happens | Typical items |
+|---|---|---|
+| **Source** | Filed as a candidate source, eligible to be cited | Release notes, docs, company blogs, papers, filings, original reporting |
+| **Lead** | Not cited. Its outbound links are harvested, and the pages they point to go back through capture and the filter. The lead is kept as provenance ("found via ...") | Listicles, roundups, newsletters, aggregators, "awesome" lists, social posts |
+| **Junk** | Kept out of relevance and drafting | SEO spam, scraped rewrites, slop with no outbound links worth following |
+
+A lead's quality can still be judged: a listicle whose links keep turning up good primary sources earns its domain a better reputation as a place to look, even though it's never cited. A lead is also how new entities get discovered: a tool on a good list that isn't in `tooling/` yet becomes a suggestion for the library.
+
+The filter writes a `machine_verdict` with its reasons (`lead: roundup, 14 outbound links, 3 new to tooling/` or `junk: scraped copy of a vendor blog`), never a `verdict`. Following corpora-builder's rule, only a person decides. Junk is kept out of the relevance and drafting stages but stays in the corpus, so a human can spot-check what got filtered and correct it. Those corrections are what make the filter better.
 
 It's a tool in the tool library like any other, with a manifest, health checks and fallbacks, and it's used by the Deal Scout too.
 
