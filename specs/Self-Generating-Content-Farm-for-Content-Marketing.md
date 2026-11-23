@@ -116,6 +116,7 @@ A cluster is a named set of things in our library that belong together, plus wha
 
 - A `tooling/` category, like Code Generators or Data Augmenters
 - A concept area in `concepts/` or `vocabulary/`, like Context Engineering
+- An open ended question, like "What are the best practices for building AI agents?"
 - A client's sector, like philanthropic fundraising or K-12 edtech
 - A VC firm's thesis, which is also how the [[Self-Generating-Deal-Scout-for-VC-Opportunity-Scans|Deal Scout]] uses it
 
@@ -179,7 +180,7 @@ The same platforms are also where approved pieces get published, which belongs t
 
 ### YouTube and other spoken sources
 
-A lot of the best material in our fields is spoken: talks, founder interviews, launch videos, podcasts. It gets special handling, built on **Stenographer** (`content-farm/plugin-modules/stenographer`, [GitHub](https://github.com/lossless-group/stenographer)), which we made for exactly this. It turns a YouTube, TikTok or podcast link into a note with full frontmatter and a timestamped, speaker-aware transcript.
+A lot of the best material in our fields is spoken: talks, founder interviews , launch videos, podcasts. It gets special handling, built on **Stenographer** (`content-farm/plugin-modules/stenographer`, [GitHub](https://github.com/lossless-group/stenographer)), which we made for exactly this. It turns a YouTube, TikTok or podcast link into a note with full frontmatter (that maps to industry-standard metadata like title, description, publish date, duration, etc as well as Academic, MLA, APA, Chicago, etc citation styles) and a timestamped, speaker-aware transcript.
 
 **Watch channels and playlists.** Every YouTube channel and playlist has a free RSS feed (`youtube.com/feeds/videos.xml?channel_id=…` or `?playlist_id=…`), so watching goes through the [[RSS-Monitor-Utility-for-the-Always-On-Agents|RSS Monitor]] at no cost. The feed only lists recent videos, so subscribing to a channel or playlist for the first time backfills it through the YouTube Data API. Playlists are often the better unit to watch: a conference's talks, a show's season, a curator's picks. Stenographer's own roadmap already lists "Playlists and channels".
 
@@ -475,6 +476,13 @@ The first row is the watcher spec's original scope, so it's the natural pilot.
 3. **Second audience.** VCs on fullstack-vc.com, which forces audience config to be real rather than hard-coded.
 4. **Client audiences.** Needs [[Zero-Complexity-Content-Repositories-for-Collaboration-on-Web-Content]] so a client can approve without our tools.
 
+### Future Versions - Ideas
+
+- Take an action: Generate a tweet or LinkedIn post based on the content
+- Take an action: Generate a video script based on the content (Reaction Videos, Debunk Videos, etc.)
+- Take an action: Newsjacking - Generate content based on current events and trends and publish before hype cycle dies down.
+- SEO Gaming: Optimize content for search engines and social media platforms, including using additional web properties to boost visibility.
+
 ## Shared with the Deal Scout
 
 [[Self-Generating-Deal-Scout-for-VC-Opportunity-Scans]] is the same machine aimed at companies instead of announcements: watch, capture, judge fit, draft, review. The watcher, source store and review queue should be one implementation serving both. Only the relevance judge and the output templates differ.
@@ -484,6 +492,7 @@ The first row is the watcher spec's original scope, so it's the natural pilot.
 - Where does it run: a Cloudflare Worker on a cron (as kay-os does for mail), GitHub Actions, or a local agent loop?
 - Is the review queue a web page, a pull request, or a folder in an Obsidian vault? Probably all three, rendered from the same change record.
 - How is "sounds like us" specified: a voice guide per audience, examples, a `humanizer` pass?
+   - Follow content outlines for each content type, such as found in Perplexed, MemoPop Orchestrator.
 - What gets measured after publishing, and does it feed back into relevance?
 - Should `corpus_role` become part of corpora-builder's source file model, or live only in this system's records?
 - Is the tool manifest our own format, or do we adopt goose's extension config or Tome's plugin manifest?
@@ -496,3 +505,62 @@ The first row is the watcher spec's original scope, so it's the natural pilot.
 - `ai-labs/studies/agent-harnesses/`
 - [[Self-Generating-Deal-Scout-for-VC-Opportunity-Scans]]
 - [[Zero-Complexity-Content-Repositories-for-Collaboration-on-Web-Content]]
+
+# Stacks and Technical Options
+
+## How persistent, proactive agents work
+
+Every guide below, whatever the stack, comes down to the same three parts:
+
+1. **A clock or a trigger.** Something outside the agent wakes it up: a cron schedule, a new email, a webhook, a message on a queue. The agent doesn't sit in a loop waiting. It's started, does one bounded job, and stops.
+2. **State outside the model.** The model forgets everything between runs. What it knows lives in files, a database or a log: a plan, a progress file, what it has already seen. Each run starts by reading that state and ends by writing it back.
+3. **Durable steps.** Each call to the outside world (the model, a search, a save) is recorded as it finishes. If the run crashes or has to wait days for a human, it picks up from the last finished step instead of starting over. This is what Temporal, Inngest, Cloudflare Workflows and Durable Objects provide.
+
+Our layers map onto these: clock and queue (1), records (2), and agent runs on top of durable steps (3).
+
+## How-to articles and videos
+
+Found 2026-11-23. Articles were skimmed from search results; the videos haven't been watched, so judge them by their first few minutes.
+
+### Start here: what "long-running" means
+
+- [Long-running Agents](https://addyosmani.com/blog/long-running-agents/) (Addy Osmani, also on [O'Reilly Radar](https://www.oreilly.com/radar/long-running-agents/)). The best overview. Separates long reasoning, long execution and persistent identity, names the three walls every long run hits, and ends with "so how do you actually build one today?"
+- [Long-horizon agents and durable execution](https://martinfowler.com/articles/durable-execution-agents.html) (Kiran Prakash, on martinfowler.com). Walks one agent through a weeks-long task and every way it can fail. Built on Temporal and **Cloudflare Workflows**, so it's close to our stack.
+- [Effective harnesses for long-running agents](https://www.anthropic.com/research/effective-harnesses-for-long-running-agents) (Anthropic). An initializer agent sets up the work, then each later session makes one step of progress and leaves notes for the next. The same idea as our record.
+- [Long-Running AI Agents: State, Waiting and Recovery](https://www.querynow.com/ai-agents/orchestration/long-running-agents) (QueryNow). Budgets, kill switches, waiting for a person, and how AWS, Azure and Google each do it.
+
+### On Cloudflare (our first choice)
+
+- [Build your first Durable Agent](https://developers.cloudflare.com/agents/getting-started/quick-start/) (Cloudflare docs). The quick start, ending with the Scheduler: "run the agent on a schedule, such as a plan every morning."
+- [Learn Agents SDK](https://labs.cloudflare.dev/agents) (Cloudflare Labs). A step-by-step starter where you ask the agent to schedule, repeat and cancel its own tasks.
+- [Cloudflare Agents 101: Deploy your first AI agent](https://www.youtube.com/watch?v=SujrIrj-aZ8) (video).
+- [cloudflare/agents](https://github.com/cloudflare/agents) on GitHub. The SDK's source and examples, including one-time, recurring and cron tasks.
+
+### Durable workflows (Temporal, Inngest)
+
+- [Durable Execution: The Key to Harnessing AI Agents in Production](https://www.inngest.com/blog/durable-execution-key-to-harnessing-ai-agents) (Inngest). Why each tool call should be a step that retries, and how human approval becomes a pause.
+- [How to Build and Scale Long-Running Enterprise Agents](https://scale.com/blog/agentex-temporal-tutorial) (Scale AI, Agentex with Temporal). The "wake up, act, go back to sleep" pattern, with human-in-the-loop pauses that can last weeks.
+
+### Ambient agents (watching and acting without being asked)
+
+- [Introducing ambient agents](https://www.langchain.com/blog/introducing-ambient-agents) (LangChain). Defines the idea, with an email assistant that runs on a cron job.
+- [Building Ambient Agents with LangGraph](https://www.youtube.com/watch?v=1HTXbcj3gWE) (LangChain Academy, video course) and its code, [ambient-agent-101](https://github.com/langchain-ai/ambient-agent-101).
+- [Ambient Agents: Always On, Always Working](https://medium.com/@ericbroda/ambient-agents-always-on-always-on-always-working-387238d03e05) (Eric Broda). Why background agents become a distributed-systems problem.
+
+### The simplest version: an agent on a cron job
+
+- [Run on a schedule](https://code.claude.com/docs/en/github-actions#run-on-a-schedule) (Claude Code GitHub Actions docs). A daily Claude Code run from a GitHub Actions cron, no server needed. The quickest way to try the pattern.
+- [Put an AI Agent on a Cron Job](https://www.developersdigest.tech/blog/opencode-cron-automation-guide) (Developers Digest). Seven steps from a bare machine to scheduled agents that open PRs, with guardrails.
+- [How to Build and Schedule Local AI Assistants for Daily Tasks](https://www.freecodecamp.org/news/how-to-build-and-schedule-local-ai-assistants-for-daily-tasks/) (freeCodeCamp). A folder of agents, a small Python scheduler and cron, running local models.
+- [How to Build an AI Agent That Runs While You Sleep](https://www.mindstudio.ai/blog/ai-agent-runs-while-you-sleep-scheduled-automations-claude) (MindStudio). Three ways: Claude Code with cron, Hermes, and a hosted scheduler.
+- [Build Your Own AI Butler: A Scheduled Agent That Runs Itself](https://dev.to/aws/build-your-own-ai-butler-a-scheduled-agent-that-runs-itself-3dmk) (AWS on dev.to). An agent defined in a config file and a prompt, deployed to run on a schedule.
+
+### Videos: always-on assistants
+
+- [How to Schedule Your AI Agents with Cron Jobs](https://www.youtube.com/watch?v=__m9SnhJXVM) (Agentuity).
+- [How to Build 24/7 Claude Agents](https://www.youtube.com/watch?v=Ovj5f0ajDww).
+- [FULL Hermes Agent Tutorial for Beginners](https://www.youtube.com/watch?v=4ftONmdO9yo) (AI Foundations). Hermes is the hosted agent already in our notes.
+- [Build Your Own 24/7 AI Agent in 30 Minutes (OpenClaw Tutorial)](https://www.youtube.com/watch?v=Mij78eRAa_k).
+- [How to Run an AI Agent 24×7 (Beginner Walkthrough)](https://www.youtube.com/watch?v=E718k6LtDh0).
+
+If you only have an hour: read Addy Osmani's overview, then the martinfowler.com piece, then do Cloudflare's quick start.
