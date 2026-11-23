@@ -62,7 +62,7 @@ The open issue [Source Pointers vs. Master](../../ai-labs/corpora-builder/contex
 The Content Farm's watchers come in different kinds (announcement, entity, topic, source, question, opportunity), each watching a cluster of content and each combining RSS with search. This utility is the RSS half they share. Search fills in where no feed exists, and when search keeps finding good items on a site, the site's feed gets proposed here. See "Watchers: kinds and clusters" in [[Self-Generating-Content-Farm-for-Content-Marketing]].
 
 1. **Keeps a list of feeds**, each tagged with the clusters, corpora and consumers it serves (an audience, a thesis, a tool in `tooling/`, a client). The list is plain text in git, importable and exportable as OPML.
-2. **Finds feeds** from a site URL (`<link rel="alternate">`, common paths like `/feed` and `/rss.xml`), and falls back to RSSHub or change detection for sites without one.
+2. **Finds feeds** from a site URL (`<link rel="alternate">`, common paths like `/feed` and `/rss.xml`), and falls back to RSSHub or change detection for sites without one. YouTube channels and playlists have their own feeds, which is how the Content Farm watches video (see "YouTube and other spoken sources" there).
 3. **Polls politely**, with `ETag` and `If-Modified-Since`, backing off on errors, and using WebSub push where a feed offers it.
 4. **Files each new item** as a `candidate` source in the right corpus inbox, metadata only, deduped by normalized URL.
 5. **Emits an event per new item** to an append-only log that agents read (the shape of kaymail's `events.jsonl` in kay-os). This is the "scan and react" path. It points at the source file rather than carrying its own copy.

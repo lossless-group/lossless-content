@@ -157,6 +157,28 @@ Social posts are short and mostly point somewhere else. So a post is usually a l
 
 The same platforms are also where approved pieces get published, which belongs to the Publisher stage.
 
+### YouTube and other spoken sources
+
+A lot of the best material in our fields is spoken: talks, founder interviews, launch videos, podcasts. It gets special handling, built on **Stenographer** (`content-farm/plugin-modules/stenographer`, [GitHub](https://github.com/lossless-group/stenographer)), which we made for exactly this. It turns a YouTube, TikTok or podcast link into a note with full frontmatter and a timestamped, speaker-aware transcript.
+
+**Watch channels and playlists.** Every YouTube channel and playlist has a free RSS feed (`youtube.com/feeds/videos.xml?channel_id=…` or `?playlist_id=…`), so watching goes through the [[RSS-Monitor-Utility-for-the-Always-On-Agents|RSS Monitor]] at no cost. The feed only lists recent videos, so subscribing to a channel or playlist for the first time backfills it through the YouTube Data API. Playlists are often the better unit to watch: a conference's talks, a show's season, a curator's picks. Stenographer's own roadmap already lists "Playlists and channels".
+
+**Transcripts are the source material.** A video becomes a source the same way a web page does, through capture and the quality filter. Stenographer tries the platform's own captions first, the cheapest option, and runs fresh AI transcription only when there are none. Supadata covers platform links, and AssemblyAI adds speaker labels for audio. Stenographer's [Local Transcription Engine](../../content-farm/plugin-modules/stenographer/context-v/specs/Local-Transcription-Engine.md) spec adds a self-hosted engine for anything private. Following corpora-builder's link-first rule, a new video is first filed with metadata only, and only videos that pass relevance get transcribed.
+
+**Keep every piece of citation data.** A claim from a video has to be checkable, down to the second. We keep:
+
+- The video URL and ID, channel name and ID, and the playlist it came from
+- Title, publish date, duration and thumbnail
+- Speakers and guests, as they appear in the transcript and the description
+- Chapters, if the uploader set them
+- Links in the description. They're leads (see the quality filter): the paper, the product or the post the video is about.
+- The transcript engine, mode and date
+- Timestamps on every transcript segment, so a quote cites the exact moment (`?t=1234`)
+
+The transcript is written as an LFM `:::transcript` block, so the same file reads as plain markdown in Obsidian and becomes a timestamp-linked player on an Astro Knots site. Transcripts already live in `sources/Transcripts/`.
+
+**The same lead logic applies.** A reaction video, or a channel that summarizes someone else's talk, is a lead to the original talk. Podcasts follow the same pattern, since their feeds already carry the audio as an enclosure.
+
 ## Quality filter: junk, slop and SEO spam
 
 Search, and to a lesser extent feeds and social, return a lot of content that isn't worth anything: SEO spam, affiliate listicles, sites that rewrite other sites, and generated slop. If it reaches the drafter it becomes our claims. So every item passes a quality filter after capture and before relevance.
@@ -227,6 +249,7 @@ That one contract is what makes the three "self" properties possible:
 | Structured records | Firecrawl's Alexandria providers | Typed, sourced records for companies, people, filings and jobs. Most useful for the Deal Scout. |
 | Feeds and page changes | [[RSS-Monitor-Utility-for-the-Always-On-Agents]], changedetection.io | Feeds where sites publish them, change detection where they don't. |
 | Social | Bluesky (AT Protocol, RSS), X API, third-party data providers for X and LinkedIn | See "Social platforms" above. |
+| Video and audio | Stenographer (Supadata, AssemblyAI, a local Whisper-compatible engine), YouTube channel and playlist feeds, YouTube Data API | See "YouTube and other spoken sources" above. |
 | Brand assets | Brandfetch | Logos and colors for posts and deal briefs. |
 
 Answering "any others very important?": **Exa**, **Jina Reader** and **Crawl4AI** belong on the first list. Exa is the strongest search for finding companies like a known one. Jina Reader is cheap and already in our specs. Crawl4AI gives SearXNG a free, self-hosted partner. **Brave Search API** is the main independent index besides Google and Bing. **changedetection.io** covers pages with no feed.
