@@ -175,7 +175,7 @@ A lot of the best material in our fields is spoken: talks, founder interviews, l
 - The transcript engine, mode and date
 - Timestamps on every transcript segment, so a quote cites the exact moment (`?t=1234`)
 
-The transcript is written as an LFM `:::transcript` block, so the same file reads as plain markdown in Obsidian and becomes a timestamp-linked player on an Astro Knots site. Transcripts already live in `sources/Transcripts/`.
+The transcript is written as an LFM `:::transcript` block, so the same file reads as plain markdown in Obsidian. Stenographer's README says the block becomes a timestamp-linked player on an Astro Knots site, but as of 2026-11-22 we don't believe that's implemented: we can't find any `:::transcript` handling in LFM (`lfm/` or `astro-knots/packages/lfm`) or a transcript component on any site. The work is specified in LFM's [Transcript Directive spec](../../lfm/context-v/specs/Maintain-Transcript-Blocks-and-Dialog-Embeds.md). Transcripts already live in `sources/Transcripts/`.
 
 **The same lead logic applies.** A reaction video, or a channel that summarizes someone else's talk, is a lead to the original talk. Podcasts follow the same pattern, since their feeds already carry the audio as an enclosure.
 
