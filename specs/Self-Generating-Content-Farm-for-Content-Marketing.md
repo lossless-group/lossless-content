@@ -366,6 +366,63 @@ That one contract is what makes the three "self" properties possible:
 
 Answering "any others very important?": **Exa**, **Jina Reader** and **Crawl4AI** belong on the first list. Exa is the strongest search for finding companies like a known one. Jina Reader is cheap and already in our specs. Crawl4AI gives SearXNG a free, self-hosted partner. **Brave Search API** is the main independent index besides Google and Bing. **changedetection.io** covers pages with no feed.
 
+## Where it runs: scheduled agents that trigger agents, off the laptop
+
+Everything above has to run with the laptop closed: on a clock, with one agent's output starting the next agent's work. We've reasoned about this several times. What's changed is that we now have one piece actually running (kay-os's mail sync on Cloudflare), a blueprint for cloud computers per agent (boxes.dev), and a new option for sandboxes (E2B).
+
+### What we've already worked out
+
+- **A Cloudflare Worker on a cron, with a Durable Object per job, works.** kay-os's `kay-os-mail-sync` wakes every five minutes, and each mail account gets its own Durable Object: a small worker with its own SQLite database and a timer, which never runs twice at once. ([Mail Archive in Cloudflare R2](../../ai-labs/kay-os/context-v/blueprints/Mail-Archive-in-Cloudflare-R2.md), [Email Repository and Agent Harness](../../ai-labs/kay-os/context-v/explorations/Email-Repository-and-Agent-Harness.md), which chose Cloudflare over a Hetzner VPS on 2026-11-06 and keeps Hetzner as the fallback.)
+- **A coding agent can have its own cloud computer.** boxes.dev gives Claude Code and Codex a devbox with the project already running, so work continues after the laptop closes. ([Run an Astro Knots Site on boxes.dev](../../astro-knots/context-v/blueprints/Run-an-Astro-Knots-Site-on-Boxes-dev.md), written before its first run.)
+- **A hosted conversational agent is reachable, but not trusted with accounts.** Hermes on Agent37 answers from the phone. It shouldn't hold email, CRM or calendar keys yet, so kay-os would sit between it and the accounts. ([Customizing Hermes Agent through API](../../ai-labs/kay-os/context-v/explorations/Customizing-Hermes-Agent-through-API.md), [A Gateway Between Agents and My Accounts](../../ai-labs/kay-os/context-v/explorations/A-Gateway-Between-Agents-and-My-Accounts.md), and self-host-stack's [Hermes colocation](../../self-host-stack/context-v/explorations/Hermes-Agent-Colocation-and-Hackability.md) and [multi-user](../../self-host-stack/context-v/explorations/Hermes-Agent-Multi-User-Team-Access.md) explorations.)
+- **Agents get capabilities, not keys.** ([Secrets for Collaborators Who Will Never Open a Terminal](../../ai-labs/context-v/explorations/Secrets-for-Collaborators-Who-Will-Never-Open-a-Terminal.md))
+- **Unattended work needs written limits.** corpora-builder's [Autonomy Gates](../../ai-labs/corpora-builder/context-v/contracts/Autonomy-Gates.md) list what an agent may do alone and where it must stop.
+- **The record can be the shared memory.** Cloudflare Artifacts is plain git that any agent with a token can pull and push, so it can hold the record that agents hand to each other. ([Using Cloudflare Artifacts as Knowledge Graph](../../ai-labs/kay-os/context-v/explorations/Using-Cloudflare-Artifacts-as-Knowledge-Graph.md))
+- **A fleet can be run from a work queue.** Symphony turns an issue tracker into the queue for a fleet of coding agents, with a poll, reconcile and dispatch loop. ([Symphony profile](../../ai-labs/studies/open-specs-and-standards/context-v/profiles/Profile__Symphony.md))
+
+### Three layers
+
+Putting those together, the system runs in three layers:
+
+| Layer | Job | Runs on | Cost when idle |
+|---|---|---|---|
+| **Clock and queue** | Wake on schedule, poll feeds and searches, keep state, hand work on, retry | Cloudflare Workers with Cron Triggers, a Durable Object per cluster, Queues or Workflows for fan-out | Near zero |
+| **Agent runs** | Anything that needs a real computer: a shell, git, a browser, a long model loop, or running code we didn't write | [[E2B]] sandboxes, or a [boxes.dev](https://boxes.dev) devbox for coding agents | Paused sandboxes keep their state; boxes can sleep |
+| **Records** | What agents hand each other: sources, saved objects, drafts, verdicts | Git (GitHub or Cloudflare Artifacts), R2, D1, SurrealDB | Storage only |
+
+[[E2B]] fits the agent-run layer. Each agent gets an isolated Linux VM, started from code in JavaScript, TypeScript or Python. Pausing saves the VM's disk and memory, and a paused sandbox is kept until it's killed, so an agent can sleep between runs and pick up where it stopped. Sandboxes can also be forked, and E2B runs in its own cloud or in your AWS, GCP or Azure account. It has no scheduler of its own, which is the clock layer's job. It's also the natural place for the self-generating tool library to try out an adapter an agent just wrote, since that's code no human has read yet.
+
+### Agents trigger agents through the record, not directly
+
+No agent calls another agent. An agent finishes by writing its result to the record (a saved object, a draft, a verdict) and emitting an event. The clock layer sees the event and starts the next role. This is the decision tree's rule ("hand the next one a reference, not a copy") applied to infrastructure:
+
+- Every hand-off is a file or a row, so it can be read, retried and audited.
+- A failed agent leaves the record where it was, and the next tick tries again.
+- Any role can be swapped (a person instead of an agent, E2B instead of boxes.dev) without the others noticing.
+
+The A2A protocol ([profile](../../ai-labs/studies/open-specs-and-standards/context-v/profiles/Profile__Agent-2-Agent.md)) is the standard to check if direct agent-to-agent calls are ever needed.
+
+### Where each role runs
+
+| Role | Layer | Why |
+|---|---|---|
+| Watchers, RSS Monitor | Clock and queue | Cheap, frequent, no model needed |
+| Capture, quality filter, relevance | Clock and queue, calling a model API | Short, stateless calls |
+| Queuer | A page over the records | People triage it |
+| Saver | Clock and queue, writing to the records | Plain writes |
+| Passer | A queue message | It's only a reference |
+| Drafter | Agent run (E2B) | Long loops, tools, a filesystem |
+| Tool repair and new tools | Agent run (E2B or boxes.dev) | Runs code no one has reviewed |
+| Reviewer | A person | Always |
+| Publisher | Clock and queue, committing to git | The site deploys from the commit |
+
+### Open questions
+
+- Can the E2B SDK run inside a Worker, or does the Worker call E2B's API over HTTP?
+- Where does git live for agents: GitHub with a bot account, or Cloudflare Artifacts with a repo per agent?
+- Are Claude Code's scheduled cloud agents (routines), Railway's cloud agent tasks, [[Modal]] or [[Fly.io]] better for any of these roles than E2B or boxes.dev?
+- What does a month of this cost for one cluster, and what's the alert when it stops?
+
 ## Audiences, first
 
 Each audience is a small config: who they are, the sources they care about, what counts as relevant, the voice, and where approved pieces go.
