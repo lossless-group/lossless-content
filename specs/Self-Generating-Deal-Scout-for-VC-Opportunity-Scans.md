@@ -30,6 +30,10 @@ Everything we've built for VC firms starts after a deal is already found. memopo
 
 This spec is the front of that funnel. It's the same machine as [[Self-Generating-Content-Farm-for-Content-Marketing]], aimed at companies instead of announcements.
 
+## How we're building it
+
+Like the [[Self-Generating-Content-Farm-for-Content-Marketing|Content Farm]], this is an open-source utility built in public, on the way to solving a problem our VC clients already have. A firm can run it as-is or adapt it, and its thesis, notes and decisions stay its own.
+
 ## What it does
 
 1. **Watches** where companies surface: funding announcements, accelerator batches, launch sites, GitHub, papers, hiring, filings, a firm's own inbound.

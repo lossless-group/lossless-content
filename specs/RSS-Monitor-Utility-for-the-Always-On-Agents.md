@@ -35,6 +35,10 @@ There are two reasons to follow feeds, and most tools only serve the first:
 
 Scanning is where we start. Building corpora is where it matters. So this utility doesn't keep a store of its own. It files every item into a corpus, the way [corpora-builder](https://github.com/lossless-group/corpora-builder) already defines one, and both uses read from there.
 
+## How we're building it
+
+An open-source utility built in public, on the way to solving a problem we and our clients (startups and VCs) already have. We need it for our own agents first.
+
 ## What corpora-builder already settled
 
 `ai-labs/corpora-builder/` exists because corpus building was rebuilt as a sub-feature three times across ai-labs ([Corpora-Builder System Design](../../ai-labs/corpora-builder/context-v/explorations/Corpora-Builder-System-Design.md)). A feed monitor is one more way of capturing sources, so it should follow these rules, not invent its own:

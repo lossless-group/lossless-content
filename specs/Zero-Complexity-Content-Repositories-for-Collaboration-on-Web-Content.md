@@ -30,6 +30,10 @@ Our sites read content from markdown in git, and our agents are fluent in both. 
 
 Both self-generating specs depend on fixing this. A content farm or deal scout produces drafts, and someone who isn't us has to approve them. See [[Self-Generating-Content-Farm-for-Content-Marketing]] and [[Self-Generating-Deal-Scout-for-VC-Opportunity-Scans]].
 
+## How we're building it
+
+An open-source utility built in public, on the way to solving a problem we hit with every client site: startups, VCs and the organizations we build for.
+
 ## The idea
 
 One repository, two faces:
