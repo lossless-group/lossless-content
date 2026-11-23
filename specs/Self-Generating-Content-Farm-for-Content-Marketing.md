@@ -388,11 +388,32 @@ Putting those together, the system runs in three layers:
 |---|---|---|---|
 | **Clock and queue** | Wake on schedule, poll feeds and searches, keep state, hand work on, retry | Cloudflare Workers with Cron Triggers, a Durable Object per cluster, Queues or Workflows for fan-out | Near zero |
 | **Agent runs** | Anything that needs a real computer: a shell, git, a browser, a long model loop, or running code we didn't write | [Cloudflare Sandboxes](https://developers.cloudflare.com/sandbox/) first; [[E2B]] where we need its pause and fork; a [boxes.dev](https://boxes.dev) devbox for coding agents | Sandboxes stop between runs; boxes can sleep |
-| **Records** | What agents hand each other: sources, saved objects, drafts, verdicts | Git (GitHub or Cloudflare Artifacts), R2, D1, SurrealDB | Storage only |
+| **Records** | What agents hand each other: sources, saved objects, drafts, verdicts | Git (GitHub or Cloudflare Artifacts) as the record, SQLite (D1 or Durable Object storage) as the index, R2 for bodies and files | Storage only |
 
 **Cloudflare Sandboxes** is the first choice for the agent-run layer, because it lives on the same platform as the clock. A Durable Object in a Worker starts a sandbox from an image and runs commands in it. A sandbox is either a Container (a Linux microVM with its own kernel and network, the E2B-like option) or a Dynamic Worker (lighter: untrusted code loaded as its own isolated Worker). It can run commands, work with files, keep processes running, preview apps, and run coding agents. A workspace can be kept between instances, an R2 bucket mounted, and files snapshotted. As of 2026-11-22, the container scheduling it depends on is in public beta.
 
 [[E2B]] is the alternative. Each agent gets an isolated Linux VM, started from code in JavaScript, TypeScript or Python. Pausing saves the VM's disk and memory, and a paused sandbox is kept until it's killed, so an agent can sleep between runs and pick up where it stopped. Sandboxes can also be forked, and E2B runs in its own cloud or in your AWS, GCP or Azure account. It has no scheduler of its own, which is the clock layer's job. It's also the natural place for the self-generating tool library to try out an adapter an agent just wrote, since that's code no human has read yet.
+
+### Records: git for the record, SQLite for the index
+
+Git holds the readable record: markdown with frontmatter and history, editable by people and agents. Next to it, a SQLite database holds what has to be fast to write and query:
+
+- One row per saved object, with its IDs, `corpus_role`, `status` or `state`, and verdicts
+- A unique index on `normalized_url`, so saving twice returns the existing row
+- FTS5 full-text search over saved text
+- The queue the Queuer, Passer and Publisher work from
+
+SQLite is a good fit: each save is a transaction, WAL mode lets reads continue during writes, JSON columns hold frontmatter-style metadata, and its one-writer-at-a-time limit doesn't matter at a few hundred saves a day. The index is rebuilt from git if it's ever lost. That's the split the kay-os [Artifacts exploration](../../ai-labs/kay-os/context-v/explorations/Using-Cloudflare-Artifacts-as-Knowledge-Graph.md) and corpora-builder ("files are the truth; the database indexes them") already reached.
+
+Cloudflare's managed databases are SQLite:
+
+| Option | What it is | Limits (2026-11-22) | Use for |
+|---|---|---|---|
+| **D1** | SQLite as a service | 10 GB per database on the paid plan (500 MB free), up to 1,000,000 databases per account, 2 MB per row or value | The index for a cluster or a client |
+| **Durable Object storage** | A private SQLite database inside each Durable Object | 10 GB each | State for one watcher or one account, as kay-os does |
+| **Hyperdrive** | Pooled, cached connections from Workers to your own Postgres or MySQL hosted elsewhere | Postgres and MySQL only | If we outgrow SQLite |
+
+Bodies over 2 MB and binaries go to R2. A database of our own, such as SurrealDB for relations between records, runs elsewhere and is called through its own API, since Hyperdrive only speaks Postgres and MySQL.
 
 ### Agents trigger agents through the record, not directly
 
