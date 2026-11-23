@@ -70,6 +70,49 @@ The system is "self-generating" in that steps 1–3 run on a schedule with no on
 | Review queue | corpora-builder's [Corpus Change Feed](../../ai-labs/corpora-builder/context-v/specs/Corpus-Change-Feed.md) (Signed-Off): a change record any engine can emit, rendered for someone who will never read a diff. |
 | Publisher | Existing Astro Knots sites read content collections from git. Changelog and keeping-up conventions already exist. |
 
+## Tools: a polyglot library, set up one common way
+
+Every stage above calls tools: search, scrape, crawl, extract, feeds, brand assets, CRM. No one provider is right for all of them, providers change their APIs and prices, and the agents calling them run in different languages and harnesses. A system that's meant to run itself needs one common way to set a tool up, so that it can add, check and repair tools without us.
+
+### What the agent-harnesses study tells us
+
+The [agent-harnesses study](../../ai-labs/studies/agent-harnesses/README.md) asked how harnesses decide which tools are in scope. Its [inquiry](../../ai-labs/studies/agent-harnesses/context-v/inquiry/Targeted-Questions-for-Cross-Product-Shell.md) found two patterns worth copying:
+
+- **One interface for every tool.** In goose, every extension speaks MCP, including built-in tools that never start a separate process. opencode merges built-ins, plugins and MCP servers into one registry and filters it per agent with pattern rules.
+- **Visible is not the same as allowed.** goose keeps "can the agent see this tool" (extension config) apart from "can it fire without asking" (`AlwaysAllow` / `AskBefore` / `NeverAllow`). For us: search can always fire, publishing always asks.
+
+[Tome](../../ai-labs/studies/agent-harnesses/context-v/profiles/Profile__Tome.md) shows the same idea one layer up: one catalog, written into each harness's own config. The study lists self-evolving tools as its thinnest area. Every harness it pinned loads tools statically, and only the unpinned candidate youtu-agent has meta-agents that generate tools. This spec has to do new work here.
+
+### The setup contract
+
+A tool is a **manifest** plus an **adapter**:
+
+- The **manifest** is a small declarative file: the capabilities it provides (`search`, `scrape`, `crawl`, `extract`, `feed`, `brand`), its provider, cost and rate limits, its permission tier, where its credentials come from, and a **health check** (a canned call and the shape of a good answer).
+- The **adapter** exposes those capabilities over MCP. It can be written in TypeScript, Python or Rust, run in-process or remotely, and the callers never know which.
+- **Credentials stay server-side.** Callers get capabilities, not keys ([Secrets for Collaborators Who Will Never Open a Terminal](../../ai-labs/context-v/explorations/Secrets-for-Collaborators-Who-Will-Never-Open-a-Terminal.md)).
+- **Agents ask for a capability, not a provider.** "Search" resolves to the best healthy provider for the job, with the rest as fallbacks.
+
+That one contract is what makes the three "self" properties possible:
+
+| Property | What it means here |
+|---|---|
+| **Self-generating** | Given a provider's docs or OpenAPI spec, an agent drafts a manifest and adapter. It goes through the same review queue as content, and no new tool goes live without a human yes. |
+| **Self-maintaining** | Health checks run on a schedule. Cost, latency and failures are logged per call. Dependency bumps run as a loop (see the `dependency-upgrade-loop` skill). |
+| **Self-healing** | A failing provider is quarantined and its capability falls back to the next one. An agent drafts a fix to the adapter, and the fix goes to review. |
+
+### Providers
+
+| Capability | Providers | Notes |
+|---|---|---|
+| Search | [[Searxng\|SearXNG]], [[Tavily AI\|Tavily]], [[Exa.ai\|Exa]], Brave Search API, [[SerpAPI]] | SearXNG is free and self-hostable, a metasearch over up to 249 engines, so it's the default. Tavily is built for agents. Exa does meaning-based search and "find similar", which suits the Deal Scout. Brave has its own index. |
+| Scrape and crawl | [[Firecrawl]], [[Context.dev]], [[Jina.ai\|Jina Reader]], Crawl4AI | Firecrawl and Context.dev both turn URLs into markdown and extract structured data for agents. Jina Reader is already used in the watcher spec. Crawl4AI is open source and self-hostable, so SearXNG plus Crawl4AI is a fully free stack. |
+| Hard pages | [[Browserbase]], [[Apify]], [[Bright Data]] | For JavaScript-heavy pages, logins and anti-bot measures. Use these only when cheaper providers fail. |
+| Structured records | Firecrawl's Alexandria providers | Typed, sourced records for companies, people, filings and jobs. Most useful for the Deal Scout. |
+| Feeds and page changes | [[RSS-Monitor-Utility-for-the-Always-On-Agents]], changedetection.io | Feeds where sites publish them, change detection where they don't. |
+| Brand assets | Brandfetch | Logos and colors for posts and deal briefs. |
+
+Answering "any others very important?": **Exa**, **Jina Reader** and **Crawl4AI** belong on the first list. Exa is the strongest search for finding companies like a known one. Jina Reader is cheap and already in our specs. Crawl4AI gives SearXNG a free, self-hosted partner. **Brave Search API** is the main independent index besides Google and Bing. **changedetection.io** covers pages with no feed.
+
 ## Audiences, first
 
 Each audience is a small config: who they are, the sources they care about, what counts as relevant, the voice, and where approved pieces go.
@@ -108,9 +151,13 @@ The first row is the watcher spec's original scope, so it's the natural pilot.
 - Is the review queue a web page, a pull request, or a folder in an Obsidian vault? Probably all three, rendered from the same change record.
 - How is "sounds like us" specified: a voice guide per audience, examples, a `humanizer` pass?
 - What gets measured after publishing, and does it feed back into relevance?
+- Is the tool manifest our own format, or do we adopt goose's extension config or Tome's plugin manifest?
+- Does the tool library live in its own repo, so the Content Farm and the Deal Scout (and kay-os) share it?
 
 ## Related
 
 - [[Self-Updating-Product-Announcement-Watcher]]
+- [[RSS-Monitor-Utility-for-the-Always-On-Agents]]
+- `ai-labs/studies/agent-harnesses/`
 - [[Self-Generating-Deal-Scout-for-VC-Opportunity-Scans]]
 - [[Zero-Complexity-Content-Repositories-for-Collaboration-on-Web-Content]]

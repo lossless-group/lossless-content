@@ -56,6 +56,7 @@ What's new is the watching, the entity resolution and the thesis-fit judgment.
 |---|---|---|
 | Watch config | Per audience | Per firm thesis |
 | Watchers and state | Shared | Shared |
+| Tool library | Shared (search, scrape, feeds) | Shared, leaning on Exa and structured records |
 | Source store | Shared | Shared |
 | Judge | Relevance to an audience | Fit to a thesis |
 | Draft | Post in a house voice | Brief in a firm's format |
