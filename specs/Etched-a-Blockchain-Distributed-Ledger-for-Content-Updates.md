@@ -52,6 +52,20 @@ For that to work, citing through Etched has to be comically easy:
 - **The reference points back to the creator.** It resolves to the creator's own site, Substack or wherever they publish, so citing someone sends readers to them, not to Etched.
 - **Each citation is recorded** against the version it cites, so credit and payment go to whoever wrote that version.
 
+### The parallel: editions and translations
+
+Influential books already work this way, slowly. A book goes through editions as the author revises it, and through translations that others write. Publishers do the work of producing each one, and publishing conventions (edition numbers, ISBNs, citation styles, page numbers) are what let a reader cite the right version. Those conventions are hard to follow: citing the right edition or page takes effort, translators are often left out of the credit, and a correction can wait years for the next printing.
+
+Etched aims to do the same job for long-tail content, at the speed of a git commit:
+
+| In book publishing | In Etched |
+|---|---|
+| A new edition | A new version, down to a single correction |
+| A translation, credited to the translator | A translation or adaptation, recorded as its own contribution and credited to whoever made it |
+| The publisher producing each edition | Tooling and agents doing the publishing work, so the creator doesn't need a publisher |
+| ISBNs, edition numbers, citation styles | A stable reference to each version, copied in one click |
+| Royalties per edition sold | Payouts per citation, shared among everyone whose version is cited |
+
 ## Git history and a ledger, together
 
 Git already records each change with its author, date and parent, down to a one-line correction. That's most of what a ledger of contributions needs, and agents and writers already work in it. What git can't do is pay anyone. A shared ledger is good at exactly that: holding balances, splitting payments among many contributors, and paying out on a schedule without one company keeping the books.
