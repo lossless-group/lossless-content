@@ -17,6 +17,23 @@ image_prompt: "A vibrant code editor window displaying highlighted code blocks, 
 banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Create-a-Collaborative-Markdown-based-Desktop-Publisher_e5857fe4-f780-40bc-863f-6b4042254632_y1hFAhX4x.webp
 portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Create-a-Collaborative-Markdown-based-Desktop-Publisher_b6e895a7-634b-48fa-8a60-577b09774334_YhRuUV44UD.webp
 ---
+
+# Announcement:
+
+This spec has been re-envisioned and is now two active projects called **Lossless Flavored Markdown** and **Flave** 
+
+- **Lossless Flavored Markdown:** _A polyglot superset Markdown flavor that adds powerful features like custom syntax, mapped components, advanced formatting, and capabilities from best-in-class element libraries._
+- [GitHub](https://github.com/lossless-group/lossless-flavored-markdown)
+- [Website](https://lossless-group.github.io/lossless-flavored-markdown/)
+
+- **Flave:** _A native, cross-platform desktop publishing application for creating beautiful documents using Lossless Flavored Markdown_
+ - [GitHub](https://github.com/lossless-group/flave)
+ - [Website](https://lossless-group.github.io/flave/)
+
+# Overview
+
+## Related Solutions
+
 [[Tooling/Software Development/Programming Languages/Libraries/Velite|Velite]]
 [KeenWrite](https://keenwrite.com/screenshots.html)
 [[Tooling/Software Development/Programming Languages/Libraries/nspell|nspell]]

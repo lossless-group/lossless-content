@@ -2,7 +2,7 @@
 url: https://muse.ai
 parent_org: "[[organizations/Meta|Meta]]"
 date_created: 2026-10-13
-date_modified: 2026-11-15
+date_modified: 2026-11-23
 og_title: Your Personal AI Agent
 og_description: Try Muse, your personal AI agent that gets things done. Give Muse a goal or an everyday task and it handles the rest, from finances and health to shopping and the people you care about.
 og_image: https://muse.ai/images/landing/brand/og-image.jpg?v=3
@@ -27,6 +27,8 @@ cf_last_run_model: Perplexity sonar-pro
 
 
 https://ai.meta.com/muse/
+
+https://youtu.be/Xw5AwB05u5M?is=Wvrz1NR_ZhO0T5CE
 
 https://youtu.be/Yca8VFcuc7w?si=iUhmENoF4sz7QE-z
 
