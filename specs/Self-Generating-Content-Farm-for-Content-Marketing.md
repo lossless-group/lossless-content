@@ -84,6 +84,62 @@ The system is "self-generating" in that steps 1–3 run on a schedule with no on
 | Review queue | corpora-builder's [Corpus Change Feed](../../ai-labs/corpora-builder/context-v/specs/Corpus-Change-Feed.md) (Signed-Off): a change record any engine can emit, rendered for someone who will never read a diff. |
 | Publisher | Existing Astro Knots sites read content collections from git. Changelog and keeping-up conventions already exist. |
 
+## Watchers: kinds and clusters
+
+There won't be one watcher. There will be different **kinds** of watchers, each watching a **cluster** of content, and each combining RSS and search.
+
+### Clusters
+
+A cluster is a named set of things in our library that belong together, plus what to watch for them. Examples:
+
+- A `tooling/` category, like Code Generators or Data Augmenters
+- A concept area in `concepts/` or `vocabulary/`, like Context Engineering
+- A client's sector, like philanthropic fundraising or K-12 edtech
+- A VC firm's thesis, which is also how the [[Self-Generating-Deal-Scout-for-VC-Opportunity-Scans|Deal Scout]] uses it
+
+A cluster carries its entities (tools, companies, people), its vocabulary, the feeds that cover it, the searches that cover the rest, and the corpus its findings are filed into.
+
+### Kinds of watchers
+
+| Kind | Watches for | Example cluster |
+|---|---|---|
+| **Announcement** | Releases, launches and changelog entries from known products | Code Generators in `tooling/` (the original [[Self-Updating-Product-Announcement-Watcher]]) |
+| **Entity** | Anything new about a named company, person or organization | A client's competitors, a portfolio |
+| **Topic** | New writing on a theme, from anyone | Agent harnesses, GEO |
+| **Source** | Everything from a publication, author or channel we trust | A newsletter, a researcher, a podcast |
+| **Question** | What people ask AI tools about a category, and whether our answers show up | A startup client's category (GEO) |
+| **Opportunity** | Companies that fit a thesis | A VC firm's thesis (the Deal Scout) |
+
+Each kind has its own default sources, schedule and relevance test. A cluster can have several kinds watching it.
+
+### Combined RSS and search
+
+Each watcher uses both:
+
+- **RSS first**, for every source that publishes a feed. It's free, polite and close to real time. See [[RSS-Monitor-Utility-for-the-Always-On-Agents]].
+- **Search for the rest**, on a schedule, with queries built from the cluster's entities and vocabulary. It runs through the tool library's `search` capability, so the provider can be SearXNG, Tavily or Exa.
+- **Both file into the same corpus inbox**, deduped by normalized URL. An item found by both is one source.
+
+This is also how the system maintains itself. When search keeps finding good items on a site, the watcher looks for that site's feed and proposes subscribing. Over time more of a cluster is covered by free feeds and less by paid search.
+
+```yaml
+# clusters/code-generators.cluster.yml (sketch)
+cluster: code-generators
+from: tooling/AI-Toolkit/Generative AI/Code Generators/
+corpus: keeping-up/code-generators
+watchers:
+  - kind: announcement
+    feeds: discover        # find feeds for every tool in the folder
+    search:
+      every: daily
+      queries: ["{tool} release", "{tool} changelog"]
+  - kind: topic
+    search:
+      every: weekly
+      queries: ["agentic coding harness", "AI code review"]
+relevance: developers
+```
+
 ## Tools: a polyglot library, set up one common way
 
 Every stage above calls tools: search, scrape, crawl, extract, feeds, brand assets, CRM. No one provider is right for all of them, providers change their APIs and prices, and the agents calling them run in different languages and harnesses. A system that's meant to run itself needs one common way to set a tool up, so that it can add, check and repair tools without us.
