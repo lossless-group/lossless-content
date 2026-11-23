@@ -50,12 +50,14 @@ What it shows us:
 ## What it does
 
 1. **Watches** sources chosen per audience: product changelogs and releases, blogs and RSS, papers, filings, a firm's own portfolio news.
-2. **Decides relevance** for a named audience (VCs, philanthropic fundraisers, developers) and drops the rest.
-3. **Drafts** content in a house voice, with every claim tied to a captured source.
-4. **Queues** each draft for a human, who approves, edits, rejects, or asks for one section to be redone.
-5. **Publishes** approved drafts to the sites and channels that audience reads, and logs what shipped.
+2. **Filters** out junk, slop and SEO spam, and follows leads to the primary source.
+3. **Decides relevance** for a named audience (VCs, philanthropic fundraisers, developers), and routes each item: to a human when unsure, to be saved when it matters, and on to drafting when it's worth writing about now.
+4. **Saves** what matters, as markdown in git and/or a remote store, so it's kept whether or not anything is written about it yet.
+5. **Drafts** content in a house voice, citing only saved sources.
+6. **Reviews:** a human approves, edits, rejects, or asks for one section to be redone.
+7. **Publishes** approved drafts to the sites and channels that audience reads, and logs what shipped.
 
-The system is "self-generating" in that steps 1–3 run on a schedule with no one asking. It is not self-publishing. Step 4 is permanent.
+The system is "self-generating" in that steps 1–5 run on a schedule with no one asking. It is not self-publishing. Step 6 is permanent.
 
 ## Principles
 
@@ -68,12 +70,26 @@ The system is "self-generating" in that steps 1–3 run on a schedule with no on
 
 ## Architecture
 
-```text
- Watch config ──> Watchers ──> Source store ──> Quality ──> Relevance ──> Drafter ──> Review queue ──> Publisher
- (clusters)       (RSS,        (captured,       filter      (per          (house      (change feed,     (sites,
-                   search,      canonical,      (junk,      audience)     voice,      approve/edit/     channels,
-                   social)      deduped)        slop,                     cited)      reject/redo)      publish log)
-                                                spam)
+```mermaid
+flowchart LR
+  W["Watchers: RSS, search, social, video"] --> C["Capture: candidate sources"]
+  C --> F{"Quality filter"}
+  F -->|junk| J["Kept, filtered out"]
+  F -->|lead| L["Harvest links"]
+  L --> C
+  F -->|source| R{"Relevance"}
+  R -->|unsure| Q["Queuer: human triage"]
+  R -->|keep| S["Saver"]
+  R -->|draft| S
+  R -->|not relevant| K["Stays a candidate"]
+  Q -->|keep or draft| S
+  Q -->|drop| K
+  S -->|saved object| P["Passer"]
+  S --> CO[("Corpus: git and remote store")]
+  P --> D["Drafter"]
+  D --> V["Reviewer: human"]
+  V -->|redo a section| D
+  V -->|approve| B["Publisher"]
 ```
 
 | Stage | Prior art to reuse |
@@ -82,8 +98,11 @@ The system is "self-generating" in that steps 1–3 run on a schedule with no on
 | Source store | cite-wide's [Maximize Data Collection on Canonical Sources](../../content-farm/plugin-modules/cite-wide/context-v/blueprints/Maximize-Data-Collection-on-Cannonical-Sources.md): which source fields are deterministic, hybrid or AI-filled. `crawl-fetch-ingest` skill for capture. |
 | Quality filter | memopop's source curation across runs, the `humanizer` skill's catalogue of slop patterns, corpora-builder's `machine_verdict`. Described below. |
 | Relevance | The Agent Guesswork narrative above as the first worked example. Audience profiles are new. |
-| Drafter | perplexed's template-per-heading generation and section refresh. LFM for output. |
-| Review queue | corpora-builder's [Corpus Change Feed](../../ai-labs/corpora-builder/context-v/specs/Corpus-Change-Feed.md) (Signed-Off): a change record any engine can emit, rendered for someone who will never read a diff. |
+| Queuer | corpora-builder's [Source Curation Gate](../../ai-labs/context-v/blueprints/Source-Curation-Gate.md) and augment-it's [Corpus Inbox, Capture and Triage](../../ai-labs/augment-it/context-v/specs/Corpus-Inbox-Capture-and-Triage.md). |
+| Saver | corpora-builder's [Source File Model](../../ai-labs/corpora-builder/context-v/specs/Source-File-Model.md), [Capture, Link-First](../../ai-labs/corpora-builder/context-v/specs/Capture-Link-First.md) and [Storage Seam](../../ai-labs/corpora-builder/context-v/specs/Storage-Seam.md). The `surrealdb-canonical-layer` and `cloudflare-artifacts-interface` skills. |
+| Passer | New. |
+| Drafter | perplexed's template-per-heading generation and section refresh. LFM for output. The `humanizer` skill. |
+| Reviewer | corpora-builder's [Corpus Change Feed](../../ai-labs/corpora-builder/context-v/specs/Corpus-Change-Feed.md) (Signed-Off): a change record any engine can emit, rendered for someone who will never read a diff. |
 | Publisher | Existing Astro Knots sites read content collections from git. Changelog and keeping-up conventions already exist. |
 
 ## Watchers: kinds and clusters
@@ -208,6 +227,78 @@ The filter writes a `machine_verdict` with its reasons (`lead: roundup, 14 outbo
 It's a tool in the tool library like any other, with a manifest, health checks and fallbacks, and it's used by the Deal Scout too.
 
 The filter applies to our own output as well. This spec is literally a content farm, and our drafts have to pass the same test before they reach a human: specific, sourced, and not slop.
+
+## From relevance to publishing: the decision tree
+
+After the quality filter, every item that's a real source meets the relevance judge. From there, five roles carry it the rest of the way:
+
+```text
+Relevance ──> Queuer, Saver, Passer ──> Drafter ──> Reviewer, Publisher
+```
+
+Each role is small, does one thing, and hands the next one a reference rather than a copy. That's what lets each be replaced, run on its own schedule, or done by a person instead of an agent.
+
+### Relevance
+
+Judges a source against the cluster it came from and the audience it serves, and gives one of four verdicts, with reasons:
+
+| Verdict | Goes to | Meaning |
+|---|---|---|
+| **Draft** | Saver, then Passer | Matters, and is worth writing about now |
+| **Keep** | Saver | Matters, worth keeping for later. Not every saved source becomes a post: building the corpus is a goal in itself |
+| **Unsure** | Queuer | The judge can't tell. A person decides |
+| **Not relevant** | Nowhere | Stays a candidate in the inbox, so a human can still find it |
+
+Like the quality filter, it writes `machine_verdict`, never `verdict`.
+
+### Queuer
+
+Puts items on the line for human-in-the-loop triage. Each item shows its title, source, the filter's outcome, and why the relevance judge was unsure. A person picks one of three actions: **keep** (to the Saver), **draft** (to the Saver, then the Passer), or **drop** (the person's `verdict`, which the next run respects).
+
+- The line is a page anyone can use: the Corpus Change Feed, a review page, or a folder in an Obsidian vault. See [[Zero-Complexity-Content-Repositories-for-Collaboration-on-Web-Content]].
+- It never blocks the pipeline. Items wait while everything else moves.
+- Every decision is training data for relevance, the same way rejections train the quality filter's domain reputation.
+
+### Saver
+
+Knows the item matters, and knows how and where to save it. The cluster's config says where:
+
+- **Markdown in a git repo**, almost always. One source file per item with full frontmatter and provenance, in corpora-builder's source file format, or in `sources/` here.
+- **And/or a remote store:** SurrealDB as a canonical layer for records and their relations (which posts cite which sources, which companies appear in which), Cloudflare R2 for bodies and binaries through corpora-builder's `CorpusStore`, D1 or Durable Objects for state, or Cloudflare Artifacts for a git repo per collaborator.
+
+```yaml
+# in a cluster config (sketch)
+save:
+  - kind: git
+    repo: lossless-content
+    path: sources/keeping-up/code-generators/
+  - kind: surrealdb
+    table: source
+  - kind: r2
+    bucket: corpora
+```
+
+This is the point where the full text gets fetched, since the item has survived the filter and the relevance judge. Saving is idempotent: an item already saved, matched by normalized URL, returns the existing record rather than a second copy.
+
+The Saver returns a **saved object**: the item's IDs (`site_uuid`, `hex_code`), its location in each store (path, record ID, object key), its source URL, title, status and `content_pulled`.
+
+### Passer
+
+Takes the saved object the Saver returns and passes it to the Drafter, along with what the Drafter needs to know: the audience, the cluster, the template, and other saved objects on the same subject. The Drafter reads from the stores. It never gets a copy that could drift from what was saved.
+
+Only items with a **draft** verdict, from the judge or a person, reach the Passer. Items saved with **keep** stay in the corpus until something asks for them.
+
+### Drafter
+
+Writes the piece in the audience's voice and template, citing only saved objects. It runs the `humanizer` pass and then the quality filter on its own output. The draft is a markdown file with frontmatter listing the saved objects it cites.
+
+### Reviewer
+
+A person, every time. They approve, edit, reject, or ask for one section to be redone (which goes back to the Drafter, not to the start). The review surface is the change feed: what's new, what it cites, and one action to approve.
+
+### Publisher
+
+After approval only: commits the piece to the site's content collection, dated to the event it covers, posts to the audience's channels, and writes a publish log. Each saved source gets a backlink to the pieces that cite it.
 
 ## Tools: a polyglot library, set up one common way
 

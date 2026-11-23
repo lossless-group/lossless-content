@@ -63,6 +63,7 @@ What's new is the watching, the entity resolution and the thesis-fit judgment.
 | Tool library | Shared (search, scrape, feeds) | Shared, leaning on Exa and structured records |
 | Source store | Shared | Shared |
 | Judge | Relevance to an audience | Fit to a thesis |
+| Routing | Queuer, Saver, Passer (see the decision tree in the Content Farm spec) | The same: unsure fits to a partner's queue, fits saved to the CRM and corpus, strong fits passed on to a brief |
 | Draft | Post in a house voice | Brief in a firm's format |
 | Review queue | Shared change feed | Shared change feed |
 | Destination | Sites and channels | CRM, memo pipeline |
