@@ -15,7 +15,7 @@ tags:
   - Agentic-Browsers
 ---
 ![Screenshot 2026-08-23 at 9.59.18 AM.png](https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-05/Screenshot_2026-08-23_at_9.59.18_AM_HLfMaxXQb.webp)
-[[Agentic Browsers]]
+[[concepts/Explainers for AI/Agentic Browsers]]
 
 
 

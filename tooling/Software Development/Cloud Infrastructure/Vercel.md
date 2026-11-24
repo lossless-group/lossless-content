@@ -44,7 +44,7 @@ og_site_name: Vercel
 [[Vocabulary/Cloud Infrastructure|Cloud Infrastructure]]
 [[Vocabulary/One-Click Deployments|One-Click Deployments]]
 [[concepts/Explainers for Tooling/Best-in-Class|Best-in-Class]]
-[[Domain Registrars]]
+[[concepts/Explainers for Tooling/Domain Registrars]]
 
 
 

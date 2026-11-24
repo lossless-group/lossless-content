@@ -149,7 +149,7 @@ It is generally **not ideal for very small teams or simple analytics needs** tha
 - **[[Tooling/Software Development/Cloud Infrastructure/Snowflake|Snowflake]]** – Competes as a cloud data platform and data warehouse with strong performance and ecosystem, often evaluated as an alternative for modern analytics and lakehouse-like workloads. [^x6pfb3] [^lclwb1]  
 - **[[Google BigQuery]]** – Serverless cloud data warehouse on Google Cloud used for large-scale SQL analytics and BI; often compared for data warehousing and analytics use cases. [^x6pfb3] [^lclwb1]  
 - **[[Amazon Redshift]]** – AWS cloud data warehouse offering used for large-scale analytical workloads, frequently mentioned among leading warehouse tools. [^x6pfb3] [^lclwb1]  
-- **[[Microsoft Fabric]] / [[Azure Synapse Analytics]]** – Microsoft’s integrated analytics platform for data engineering, warehousing, and real-time analytics on Azure, similar in scope for organizations standardized on Microsoft cloud. [^fwb9zx] [^x6pfb3]  
+- **[[Tooling/Data Utilities/Microsoft Fabric]] / [[Azure Synapse Analytics]]** – Microsoft’s integrated analytics platform for data engineering, warehousing, and real-time analytics on Azure, similar in scope for organizations standardized on Microsoft cloud. [^fwb9zx] [^x6pfb3]  
 
 ## Competitor Table
 

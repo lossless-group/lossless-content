@@ -7,7 +7,7 @@ title: Connect, protect, and build everywhere
 jina_last_request: 2025-03-09T06:45:00.922Z
 jina_error: Error occurred
 og_last_fetch: 2025-09-23T17:56:58.857Z
-date_modified: 2026-11-19
+date_modified: 2026-11-24
 date_created: 2025-03-30
 tags:
   - Software-Development
@@ -73,6 +73,13 @@ https://realtime.cloudflare.com/
 
 #### Agent Memory
 https://developers.cloudflare.com/agent-memory/
+
+#### Learn Agents
+https://labs.cloudflare.dev/agents/ 
+https://github.com/cloudflare/agents
+
+#### Durable Objects
+https://developers.cloudflare.com/durable-objects/
 
 ## Screenshots
 
@@ -331,7 +338,7 @@ The evidence supports the claim that Cloudflare is becoming a serious platform f
 [^d6cxsj]: [Introducing Cloudflare Basin: an open, serverless data ...](https://blog.cloudflare.com/cloudflare-basin/)
 [9i5va0]: [Did Security Expansion Just Shift Cloudflare (NET) ...](https://simplywall.st/stocks/us/software/nyse-net/cloudflare/news/did-security-expansion-just-shift-cloudflare-net-investment)
 [10bu4h]: [What Could Cloudflare (NET) New Trust And Data Push ...](https://finance.yahoo.com/technology/articles/could-cloudflare-net-trust-data-131836318.html)
-
+[^150p3f]: "[Learn Agents SDK | Learn Agents](https://labs.cloudflare.dev/agents/)". Cloudflare. [Learn Agents](https://labs.cloudflare.dev).
 ## Sources (retrieved)
 
 [^E1]: [Exa.ai](https://exa.ai) API response for data on [Cloudflare](https://www.cloudflare.com/)

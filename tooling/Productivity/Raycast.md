@@ -5,7 +5,7 @@ youtube_channel_url: https://www.youtube.com/@raycastapp
 zinger: Your shortcut to everything.
 description_site_cp: A collection of powerful productivity tools all within an extendable launcher. Fast, ergonomic and reliable.
 docs_url: https://developers.raycast.com/
-date_modified: 2026-11-03
+date_modified: 2026-11-24
 date_created: 2025-03-30
 og_title: Raycast - Your shortcut to everything
 og_description: A collection of powerful productivity tools all within an extendable launcher.
@@ -16,6 +16,8 @@ tags:
   - Personal-Productivity
   - Design-Inspiration
   - Desktop-Apps
+  - Apple-Ecosystem
+  - OS-Augmenters
 cf_last_run: 2026-11-03T22:00:39.136Z
 cf_last_run_model: Perplexity sonar-pro
 cf_retrieved_source_count: 1
@@ -41,15 +43,6 @@ Raycast combines a launcher with an extension ecosystem, allowing users to invok
 - **Developer workflows:** Supports user-created scripts and custom commands, making it relevant to automation workflows such as [[lost-in-public/explorations/Automating Routine Tasks on my PC|Automating Routine Tasks on my PC]]. [^j0ff52]
 - **Notes and productivity utilities:** Includes notes, calculator functionality, and other desktop tools. [^j0ff52]
 
-
-## Product Roadmap / Announcements
-
-As of March 24, 2026, no reliable public roadmap item from the preceding six months was surfaced in the available results; the available official changelog results were dated October 2026 and therefore future-dated relative to this profile. [^155jz0] [^68fnco] [^lg0zfz]
-
-## Recent Developments
-
-No reliable development from the past 90 days was surfaced in the available results. The available results instead point to future-dated October 2026 releases, including image support in Notes and expanded AI-chat integration. [^68fnco]
-
 ## History and Origin Story
 
 Raycast was founded in 2020 by Thomas Mann and Petr Nikolaev, who are identified as its CEO and CTO; the company originated from Y Combinator’s Winter 2020 cohort. [^e8izcc]
@@ -66,12 +59,12 @@ Raycast was founded in 2020 by Thomas Mann and Petr Nikolaev, who are identified
 
 Investors reported in the available results:
 
-- Accel [^j0ff52] [^e8izcc]
-- Atomico [^j0ff52] [^e8izcc]
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Accel|Accel]] [^j0ff52] [^e8izcc]
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Atomico|Atomico]] [^j0ff52] [^e8izcc]
 - Atlassian’s venture arm [^j0ff52]
-- Coatue [^j0ff52] [^e8izcc]
+- [[vertical-toolkits/Alternatives/Growth-Equity-Firms/Coatue|Coatue]] [^j0ff52] [^e8izcc]
 - World Innovation Lab [^j0ff52]
-- Y Combinator [^j0ff52]
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Y Combinator|Y Combinator]] [^j0ff52]
 
 ## Notable Team Members
 

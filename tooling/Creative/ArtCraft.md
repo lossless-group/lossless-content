@@ -1,6 +1,6 @@
 ---
 date_created: 2026-11-19
-date_modified: 2026-11-22
+date_modified: 2026-11-24
 url: https://getartcraft.com/
 og_title: Open Source Tools and Models for Makers, Builders, and Creatives
 og_description: "ArtCraft builds capable open source tools: seventeen native Crafting Apps and ArtCraft Studio, our AI image and video app."
@@ -30,6 +30,7 @@ cf_last_run: 2026-11-22T18:44:53.360Z
 cf_last_run_model: Perplexity sonar-pro
 ---
 
+https://youtu.be/LLrw86UWoYU?si=AA49BUi3pG-GTaL1
 
 
 https://youtu.be/UCL4K36SHp0?is=WGXBoiUCrbrTZQB4

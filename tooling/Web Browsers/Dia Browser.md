@@ -52,7 +52,7 @@ Dia is an AI-native desktop browser from The Browser Company, positioned as “t
 
 ## Category, Market Size, and Category Growth
 
-Dia fits the categories of AI-native web browsers, AI-assisted search, and browser-based productivity software. [^v3spzi] [[Agentic Browsers]]
+Dia fits the categories of AI-native web browsers, AI-assisted search, and browser-based productivity software. [^v3spzi] [[concepts/Explainers for AI/Agentic Browsers]]
 
 
 ## Pricing

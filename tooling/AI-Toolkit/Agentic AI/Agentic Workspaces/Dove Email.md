@@ -2,7 +2,7 @@
 url: https://dove.email/
 date_created: 2026-11-17
 date_modified: 2026-11-18
-created_by: "[[Canary Mail]]"
+created_by: "[[Tooling/Productivity/Workflow Management/Canary Mail]]"
 og_title: AI Email App for Mac, iOS, Android & Windows
 og_description: Dove is the AI email client that calms the noise, surfaces what needs you, and helps you get it done.
 og_image: https://dove.email/og-dove-calm.png
@@ -29,7 +29,7 @@ cf_last_run_model: Perplexity sonar-pro
 [[concepts/Explainers for AI/Inbox AI|Email Agents]]
 [[concepts/Explainers for AI/Inbox AI|Inbox AI]]
 [[Vocabulary/AI Native Applications|AI-Native]]
-[[Canary Mail]]
+[[Tooling/Productivity/Workflow Management/Canary Mail]]
 [[concepts/Market-Categories/Personal AI|Personal AI]]
 
 # Value Proposition & Features

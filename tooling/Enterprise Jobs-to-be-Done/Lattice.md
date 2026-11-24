@@ -769,7 +769,7 @@ Lattice was founded in 2015 as a people-management platform focused on helping o
 Sources for Table: [^f7] [^f6] [^f5] [^f4] [^f3] [^f2] [^f1] [^e1]
 
 [[Sources/People/Alexis Ohanion|Alexis Ohanion]]  
-[[Daniel Gross]]  
+[[Sources/People/Daniel Gross]]  
 [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Dragoneer|Dragoneer]]  
 [[Sources/People/Elad Gil]]  
 [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Founders Fund|Founders Fund]]  

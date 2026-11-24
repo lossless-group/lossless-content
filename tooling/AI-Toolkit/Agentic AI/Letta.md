@@ -67,7 +67,7 @@ As of November 23, 2026, publicly visible Letta announcements include:
 - **October 2026 — FrontierMemory:** Research on benchmarking continual learning by measuring how agents improve with memory. [^ea1s37]
 - **June 2026 — Memory Models:** Research on agents learning through memory-native reinforcement learning. [^ea1s37]
 - **April 2026 — Context Constitution:** Principles for how agents should manage context and learn from experience. [^ea1s37]
-- **February 2026 — [[Context Repositories]]:** A Git-based approach to programmatic context management and agent memory. [^ea1s37]
+- **February 2026 — [[concepts/Explainers for AI/Context Repositories]]:** A Git-based approach to programmatic context management and agent memory. [^ea1s37]
 
 ## Recent Developments
 
