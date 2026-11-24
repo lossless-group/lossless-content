@@ -6,7 +6,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:12.507Z
 jina_error: Error occurred
 og_last_fetch: 2025-06-05T15:59:28.782Z
-date_modified: 2026-11-23
+date_modified: 2026-11-24
 date_created: 2025-03-30
 url: https://ui.shadcn.com/
 og_image: https://ui.shadcn.com/og?title=Build%20your%20Component%20Library&description=A%20set%20of%20beautifully-designed%2C%20accessible%20components%20and%20a%20code%20distribution%20platform.%20Works%20with%20your%20favorite%20frameworks.%20Open%20Source.%20Open%20Code.
@@ -19,6 +19,8 @@ tags: [Software-Development, Lego-Kit-Engineering-Tools, Component-Library, Open
 https://youtu.be/Rnt6Y-p9Trg?si=f3I4hPNrza1S-zKY
 
 https://www.youtube.com/watch?v=V8rGgwQ-VJ0
+
+https://youtu.be/ubK6Q53jKg8?si=jca2kIA7tE4yFkCi
 
 
 ***

@@ -152,7 +152,7 @@ It is less suitable for teams seeking a self-hosted, open-source crawler or high
 
 - **[[Tooling/AI-Toolkit/Agentic AI/Firecrawl|Firecrawl]]:** The most direct managed competitor: scrape, crawl, search and structured extraction for agents, plus a catalogue of typed data providers. Context.dev publishes a case study of a customer switching from Firecrawl. [^a7c2e1]
 - **Tavily:** A search-and-extract API aimed at agents and RAG pipelines, overlapping with Context.dev's search and Answers APIs.
-- **[[Scrapy]]:** An open-source framework for teams that want direct control over crawl logic and infrastructure. [^60hucb]
+- **[[Tooling/AI-Toolkit/Data Augmenters/Scrapy]]:** An open-source framework for teams that want direct control over crawl logic and infrastructure. [^60hucb]
 - **Browser automation stacks:** Suitable when an application needs persistent, user-controlled browser sessions rather than stateless managed retrieval. [^cmubd3]
 - **Self-managed proxy and browser infrastructure:** An alternative for organizations willing to operate rendering, proxy rotation, retries, and anti-bot systems themselves. [^cmubd3]
 - **Other managed scraping APIs:** Viable where teams prioritize a different mix of rendering, extraction, crawling, pricing, or proxy capabilities; the available results do not establish a definitive market ranking.
