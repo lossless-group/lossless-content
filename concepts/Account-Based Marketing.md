@@ -1,7 +1,7 @@
 ---
 date_created: 2024-08-02
-date_modified: 2025-08-16
-aliases: ["[ABM]"]
+date_modified: 2026-11-24
+aliases: ABM
 site_uuid: 2d17280e-a54f-4779-ae1f-e6ecc64b56be
 publish: true
 title: Account-Based Marketing
@@ -11,8 +11,18 @@ at_semantic_version: 0.0.1.0
 authors:
   - Michael Staton
 augmented_with: Perplexity AI
+tags:
+  - Management-Concepts
+  - Marketing-Strategies
+  - Market-Categories
+  - Investment-Categories
+  - Solutions-For-Scale
+  - Enterprise-Jobs-To-Be-Done
+  - Marketing-Toolkit
+  - Sales-Tools
+  - Sales-Enablement-Tech
 ---
-[[concepts/Explainers for Tooling/ABM Platforms]]
+[[concepts/Explainers for Tooling/ABM Platforms|ABM Platforms]]
 
 ***
 > [!info] **Perplexity Query** (2025-08-16T14:13:58.671Z)
@@ -21,7 +31,7 @@ augmented_with: Perplexity AI
 > 
 > ### **Response from sonar-pro**:
 
-[[concepts/Account-Based Marketing]] (ABM) is a strategic approach in business-to-business (B2B) marketing that centers on targeting specific high-value accounts with highly personalized campaigns and experiences. [^1size5] [^mr91vp] As companies seek more efficient and effective ways to drive revenue, ABM has gained importance for its ability to align marketing and sales efforts, resulting in deeper relationships and stronger business outcomes. [^l36nkd]
+[[concepts/Account-Based Marketing|Account-Based Marketing]] (ABM) is a strategic approach in business-to-business ([[B2B]]) marketing that centers on targeting specific high-value accounts with highly personalized campaigns and experiences. [^1size5] [^mr91vp] As companies seek more efficient and effective ways to drive revenue, ABM has gained importance for its ability to align marketing and sales efforts, resulting in deeper relationships and stronger business outcomes. [^l36nkd]
 
 ![Account-Based Marketing concept diagram or illustration](https://foundationinc.co/wp-content/uploads/2020/01/Account-Based-Marketing-x-Inbound-Marketing-1024x530.png)
 

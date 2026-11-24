@@ -1,6 +1,6 @@
 ---
 date_created: 2026-10-13
-date_modified: 2026-11-23
+date_modified: 2026-11-24
 site_uuid: 8eeee545-4832-4752-abb7-b23e99ea1dc4
 publish: true
 title: Personal AI
@@ -19,10 +19,11 @@ lede: "An assistant that remembers everything you have said, read, and done. The
 
 
 :::tool-showcase
-[[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Fieldy AI|Fieldy AI]]
-[[Tooling/AI-Toolkit/Data Augmenters/Plaud AI|Plaud AI]]
-[[Tooling/AI-Toolkit/GrokBot|GrokBot]]
-[[Tooling/AI-Toolkit/Knowledge AI/Muse|Muse]]
+- [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Fieldy AI|Fieldy AI]]
+- [[Tooling/AI-Toolkit/Data Augmenters/Plaud AI|Plaud AI]]
+- [[Tooling/AI-Toolkit/GrokBot|GrokBot]]
+- [[Tooling/AI-Toolkit/Knowledge AI/Muse|Muse]]
+- [[Tooling/AI-Toolkit/Hark]]
 :::
 
 

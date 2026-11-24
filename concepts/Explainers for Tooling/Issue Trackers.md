@@ -16,7 +16,7 @@ cf_last_run_model: Perplexity sonar-pro
 
 [[Tooling/Software Development/Developer Experience/Jira|Jira]]
 [[Tooling/Software Development/Developer Experience/Linear|Linear]]
-[[Plane]]
+[[Tooling/Productivity/Workflow Management/Plane]]
 [[Tooling/AI-Toolkit/Generative AI/Code Generators/CodeRabbit|CodeRabbit]]
 
 

@@ -43,7 +43,7 @@ Key concepts of **Open Innovation** include:
 
 - **Technology Scouting:** Systematic search for new technologies around the world, including partnerships with research institutions, attendance at industry events, or collaborating in startup ecosystems. [^7kwpvx]
 
-- **[[Crowdsourcing]]:** Organizations issue open challenges or use platforms to source ideas, feedback, and technical solutions from a broad community, harnessing diversity of thought and expertise. [^7kwpvx] [^5lmjky]
+- **[[Vocabulary/Crowdsourcing]]:** Organizations issue open challenges or use platforms to source ideas, feedback, and technical solutions from a broad community, harnessing diversity of thought and expertise. [^7kwpvx] [^5lmjky]
 
 - **Innovation Ecosystem:** Open Innovation creates a network of collaborators, including alliances, academic partnerships, and open competitions, widening the scope of potential solutions and expertise. [^5lmjky]
 

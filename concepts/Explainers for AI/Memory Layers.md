@@ -2,7 +2,7 @@
 site_uuid: 08bbfec8-dc7e-46ea-aa03-2de6d747388d
 title: Memory Layer
 site_visibility: public
-date_modified: 2026-11-19
+date_modified: 2026-11-24
 date_created: 2025-03-30
 tags:
   - AI-Toolkit
@@ -18,6 +18,8 @@ aliases:
   - Memory Layer
   - agent memory
   - Agent Memory
+  - AI Memory
+  - AI memory
 publish: true
 slug: memory-layers
 at_semantic_version: 0.0.1.1
