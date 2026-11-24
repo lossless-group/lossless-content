@@ -3,8 +3,11 @@ tags:
   - Explainers
   - GTM-Tools
   - GTM-Platforms
-date_created: 2025-11-26
-date_modified: 2026-10-10
+  - Lossless-Thinking
+  - Founder-Advice
+  - Management-Concepts
+date_created: 2026-01-18
+date_modified: 2026-11-24
 aliases:
   - GTM
   - GTM Strategy
@@ -21,6 +24,8 @@ for_clients:
   - Reach-U
 ---
 [[concepts/Explainers for Tooling/Go-to-Market Platforms|Go-to-Market Platforms]]
+[[Marketing AI]]
+[[concepts/Explainers for Tooling/ABM Platforms|ABM Platforms]]
 
 
 ***
@@ -77,3 +82,7 @@ A go-to-market strategy is a vital tool for any organization looking to launch a
 [6]: 2025, Nov 26. [What Is a Go-To-Market Strategy? And How to Create One](https://www.coursera.org/articles/go-to-market-strategy). Published: 2025-03-31 | Updated: 2025-11-26
 
 
+
+
+[[Vocabulary/Go-to-Market|Go-to-Market]]
+[[concepts/Explainers for Tooling/Go-to-Market Platforms|Go-to-Market Platforms]]
