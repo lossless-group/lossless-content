@@ -20,7 +20,7 @@ tags:
 aliases:
   - Recruiting AI
 ---
-[[Jack & Jill]]
+[[Tooling/Enterprise Jobs-to-be-Done/Jack & Jill]]
 
 
 ***

@@ -22,7 +22,7 @@ cf_last_run_model: Perplexity sonar-pro
 [[N-Curves]]
 
 [[Sources/Books/Crossing the Chasm|Crossing the Chasm]]
-[[Horizon 3]]
+[[concepts/Horizon 3]]
 
 # Defining and Describing Technology Adoption Curves
 

@@ -1,6 +1,6 @@
 ---
 date_created: 2025-01-13
-date_modified: 2026-11-17
+date_modified: 2026-11-24
 tags:
   - Data-Augmenters
   - Data-Capture
@@ -40,6 +40,7 @@ https://github.com/kartikkpawar/flow-scrape
 - [[Tooling/AI-Toolkit/Data Augmenters/Context.dev|Context.dev]]
 - [[Tooling/AI-Toolkit/Agentic AI/Firecrawl|Firecrawl]]
 - [[Tooling/AI-Toolkit/Agentic AI/Spider|Spider]]
+- [[Tooling/AI-Toolkit/Data Augmenters/Scrapy|Scrapy]]
 :::
 
 ***
@@ -138,7 +139,7 @@ Looking forward, **Data Augmentation Workflows with Agentic AI** are poised to b
 
 ## Conclusion
 
-**Data Augmentation Workflows with Agentic AI** are transforming the way organizations prepare and leverage data for modern AI. As agentic systems evolve, expect data-centric AI to accelerate in quality, efficiency, and complexity—unlocking wider applications and smarter solutions for the future.
+**Data Augmentation Workflows with [[Vocabulary/Agentic AI|Agentic AI]]** are transforming the way organizations prepare and leverage data for modern AI. As agentic systems evolve, expect data-centric AI to accelerate in quality, efficiency, and complexity—unlocking wider applications and smarter solutions for the future.
 
 ## Sources
 
