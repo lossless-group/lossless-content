@@ -11,9 +11,9 @@ augmented_with:
   - Claude Code on Claude Opus 5.5
 category: Open-Specification
 date_created: 2026-11-22
-date_modified: 2026-11-23
+date_modified: 2026-11-24
 status: Draft
-publish: false
+publish: true
 site_uuid: 2027b9e9-43f2-4749-a435-7e26f216e122
 hex_code: gu8ib1
 tags:

@@ -13,7 +13,7 @@ category: Open-Specification
 date_created: 2026-11-23
 date_modified: 2026-11-24
 status: Stub
-publish: false
+publish: true
 site_uuid: 43b2d4f8-bb8c-4df6-9212-0e2787e03c4c
 hex_code: deqras
 tags:
@@ -90,11 +90,11 @@ It may turn out a blockchain isn't needed. But dividend payments to many small c
 
 ### Platforms to explore
 
-| Platform | Why look at it |
-|---|---|
-| **Ethereum** | The most widely used platform for smart contracts, with the most tools and wallets. Fees on the main chain are high, so payouts would likely run on a cheaper layer-2 network built on top of it. |
-| **Solana** | Fast and cheap per transaction, which suits frequent micro-payments and many small updates. |
-| **Avalanche** | Lets a project run its own chain with its own rules and fees, while still connected to the wider network. Useful if Etched needs custom rules for contributions and payouts. |
+| Platform                     | Why look at it                                                                                                                                                                                    |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[Ethereum]]**             | The most widely used platform for smart contracts, with the most tools and wallets. Fees on the main chain are high, so payouts would likely run on a cheaper layer-2 network built on top of it. |
+| **[[Solana]]**               | Fast and cheap per transaction, which suits frequent micro-payments and many small updates.                                                                                                       |
+| **[[Avalanche Blockchain]]** | Lets a project run its own chain with its own rules and fees, while still connected to the wider network. Useful if Etched needs custom rules for contributions and payouts.                      |
 
 Questions for each: what a payout to thousands of contributors costs, how creators without a wallet get paid, and how a lab pays in ordinary money.
 

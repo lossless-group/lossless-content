@@ -11,9 +11,9 @@ augmented_with:
   - Claude Code on Claude Opus 5.5
 category: Open-Specification
 date_created: 2026-11-22
-date_modified: 2026-11-23
+date_modified: 2026-11-24
 status: Draft
-publish: false
+publish: true
 site_uuid: 92e7792d-dff5-4039-9bc1-be5d230c8cde
 hex_code: 80bx7c
 tags:
@@ -82,7 +82,7 @@ Also relevant: the `ai-labs/studies/sync-and-content-version-control/` study (si
 
 ## Related
 
-- [[specs/Lasso-Self-Generating-Content-Farm-for-Content-Marketing]]
+- [[specs/Lasso-Self-Generating-Content-Farm-for-Content-Marketing|Lasso-Self-Generating-Content-Farm-for-Content-Marketing]]
 - [[Self-Generating-Deal-Scout-for-VC-Opportunity-Scans]]
 - [[Markdown-Serve-an-API-for-Markdown-Content]]
 - [[Create-a-Collaborative-Markdown-based-Desktop-Publisher]]

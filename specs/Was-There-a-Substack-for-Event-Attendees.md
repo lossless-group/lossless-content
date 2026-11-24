@@ -1,6 +1,6 @@
 ---
 title: "Was There: a Substack for Event Attendees"
-lede: "A place for people who attended an event to publish what they saw and learned, the way Substack works for writers."
+lede: A place for people who attended an event to publish what they saw and learned, the way Substack works for writers.
 date_authored_initial_draft: 2025-08-12
 date_authored_current_draft: 2025-08-12
 date_authored_final_draft: "[]"
@@ -9,18 +9,24 @@ date_last_updated: "[]"
 at_semantic_version: 0.0.0.1
 publish: false
 status: Idea
-augmented_with: "Claude Sonnet 4 on Warp"
+augmented_with: Claude Sonnet 4 on Warp
 category: Open-Ideas
 date_created: 2025-05-10
-date_modified: 2025-08-17
+date_modified: 2026-11-24
 authors:
   - Michael Staton
-image_prompt: "A crowd leaving a conference hall, each attendee holding a glowing notebook whose pages fly up and bind into a small newsletter bearing the event's name. Warm and communal."
+image_prompt: A crowd leaving a conference hall, each attendee holding a glowing notebook whose pages fly up and bind into a small newsletter bearing the event's name. Warm and communal.
 slug: was-there-a-substack-for-event-attendees
-tags: [Cross-Platform]
+tags:
+  - Cross-Platform
+  - Marketing-AI
+  - Sales-AI
+  - Sales-Tools
 ---
 
-Why are we still using complex file formats?  [[Vocabulary/AI Models|AI Models]] and [[concepts/Explainers for AI/Code Generators|Code Generators]] all speak [[projects/Emergent-Innovation/Standards/Markdown|Markdown]], [[Tooling/Software Development/Programming Languages/HTML|HTML]], [[Tooling/Software Development/Programming Languages/CSS|CSS]], even [[Vocabulary/Scalable Vector Graphics]]. 
+Became [[EventHog]] but not yet delivering on the promise of this. 
+
+Why are we still using complex file formats?  [[Vocabulary/AI Models|AI Models]] and [[concepts/Explainers for AI/Code Generators|Code Generators]] all speak [[projects/Emergent-Innovation/Standards/Markdown|Markdown]], [[Tooling/Software Development/Programming Languages/HTML|HTML]], [[Tooling/Software Development/Programming Languages/CSS|CSS]], even [[Vocabulary/Scalable Vector Graphics|Scalable Vector Graphics]]. 
 
 We can use [[Tooling/Software Development/Programming Languages/HTML|HTML]] and [[Tooling/Software Development/Programming Languages/CSS|CSS]] for layout design.  We don't need [[organizations/Adobe|Adobe]] or [[Tooling/Creative/Affinity Design Suite|Affinity Design Suite]]. We need to make it a [[Vocabulary/Responsive Design|Responsive Design]] and publish it to the web anyway.  Emails and reports, fine okay. 
 

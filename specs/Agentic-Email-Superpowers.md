@@ -13,7 +13,7 @@ category: Open-Specification
 date_created: 2025-11-15
 date_modified: 2026-11-24
 status: Iterating
-publish: false
+publish: true
 site_uuid: b332e11b-1808-474e-a5a8-811bbde0076c
 hex_code: zvm2ur
 tags:

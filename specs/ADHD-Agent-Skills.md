@@ -7,5 +7,7 @@ square_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/ADHD-Agent-Skil
 banner_image_taller: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/ADHD-Agent-Skills_banner_image_taller_1795481380446_5T6VX9zli.webp
 date_created: 2026-05-09
 date_modified: 2026-11-24
+tags:
+  - Agent-Skills
 ---
 [[projects/Kay-OS/Kay-OS]]

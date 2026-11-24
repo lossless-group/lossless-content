@@ -1,7 +1,7 @@
 ---
 title: A Collaborative Markdown-based Desktop Publisher
 date: 2025-04-30
-publish: false
+publish: true
 generated_with: MSTY on Gemma 3
 categories:
   - Markdown-Rendering

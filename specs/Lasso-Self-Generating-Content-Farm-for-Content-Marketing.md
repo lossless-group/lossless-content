@@ -13,7 +13,7 @@ category: Open-Specification
 date_created: 2026-11-22
 date_modified: 2026-11-24
 status: Draft
-publish: false
+publish: true
 site_uuid: c6c032fb-2a8f-457b-9f36-d5173ad8133f
 hex_code: yf91ou
 tags:
@@ -53,7 +53,7 @@ As usual with [Lossless Group](https://lossless.group) projects, this is an open
 
 ## An example in the market: The Prompting Company
 
-[The Prompting Company](https://promptingcompany.com/) (YC-backed, sometimes called "[[The Prompting Company]]") is a content farm with a commercial model. It finds the questions people ask AI tools about a product category, writes structured answers, and publishes thousands of AI-optimized pages so that ChatGPT and other assistants cite its customers, even where they don't rank in traditional search. It routes AI agents to those pages, and charges by the number of prompts tracked and pages hosted. Its customers are mostly fintech, developer tools and enterprise SaaS. ([TechCrunch, 2025-10-30](https://techcrunch.com/2025/10/30/the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps/), on its $6.5M raise.)
+[The Prompting Company](https://promptingcompany.com/) (YC-backed, sometimes called "[[Tooling/Enterprise Jobs-to-be-Done/The Prompting Company]]") is a content farm with a commercial model. It finds the questions people ask AI tools about a product category, writes structured answers, and publishes thousands of AI-optimized pages so that ChatGPT and other assistants cite its customers, even where they don't rank in traditional search. It routes AI agents to those pages, and charges by the number of prompts tracked and pages hosted. Its customers are mostly fintech, developer tools and enterprise SaaS. ([TechCrunch, 2025-10-30](https://techcrunch.com/2025/10/30/the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps/), on its $6.5M raise.)
 
 What it shows us:
 
@@ -156,6 +156,7 @@ Each watcher draws on three kinds of input:
 - **RSS first**, for every source that publishes a feed. It's free, polite and close to real time. See [[RSS-Monitor-Utility-for-the-Always-On-Agents]].
 - **Search for the rest**, on a schedule, with queries built from the cluster's entities and vocabulary. It runs through the tool library's `search` capability, so the provider can be [[Tooling/AI-Toolkit/Searxng|SearXNG]], [[Tooling/AI-Toolkit/Data Augmenters/Tavily AI|Tavily AI]] or [[Tooling/AI-Toolkit/Data Augmenters/Exa.ai|Exa.ai]].
 - **Social platforms** for the people and companies who announce things there first. See below.
+- [[Vocabulary/Web Scraping|Web Scrapers]], and [[concepts/Explainers for AI/Agentic Search|Search Agents]], [[Vocabulary/Search Engines|Search Engines]]. 
 - **All of it files into the same corpus inbox**, deduped by normalized URL. An item found twice is one source.
 
 This is also how the system maintains itself. When search keeps finding good items on a site, the watcher looks for that site's feed and proposes subscribing. Over time more of a cluster is covered by free feeds and less by paid search.
