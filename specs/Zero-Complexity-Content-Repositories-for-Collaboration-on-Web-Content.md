@@ -1,25 +1,36 @@
 ---
-title: "Zero-Complexity Content Repositories for Collaboration on Web Content"
-lede: "Agents and developers get git. Everyone else gets a folder, a page of what changed, and an approve button, and it's the same repository underneath."
+title: Zero-Complexity Content Repositories for Collaboration on Web Content
+lede: Agents and developers get git. Everyone else gets a folder, a page of what changed, and an approve button, and it's the same repository underneath.
 date_authored_initial_draft: 2026-11-22
 date_authored_current_draft: 2026-11-22
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft:
+date_first_published:
+date_last_updated:
 at_semantic_version: 0.0.0.1
 augmented_with:
   - Claude Code on Claude Opus 5.5
 category: Open-Specification
 date_created: 2026-11-22
-date_modified: 2026-11-22
+date_modified: 2026-11-23
 status: Draft
 publish: false
 site_uuid: 92e7792d-dff5-4039-9bc1-be5d230c8cde
 hex_code: 80bx7c
-tags: [Content-Repositories, Collaboration, Version-Control, Markdown, Non-Technical-Users, Git]
+tags:
+  - Content-Repositories
+  - Collaboration
+  - Version-Control
+  - Markdown
+  - Non-Technical-Users
+  - Git
 authors:
   - Michael Staton
 type: Specs
+image_prompt: A client in a cozy office editing a website by writing in a simple paper notebook, while behind the wall tiny robots carry each page through pipes into a live website on a big screen. Friendly, simple and a little magical.
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Zero-Complexity-Content-Repositories-for-Collaboration-on-Web-Content_banner_image_1795477764398_NOEbAbo-6.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Zero-Complexity-Content-Repositories-for-Collaboration-on-Web-Content_portrait_image_1795477764632_n7komfjBy.webp
+square_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Zero-Complexity-Content-Repositories-for-Collaboration-on-Web-Content_square_image_1795477764893_0dyJeCLyaL.webp
+banner_image_taller: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Zero-Complexity-Content-Repositories-for-Collaboration-on-Web-Content_banner_image_taller_1795477765137_tHeA821vb.webp
 ---
 
 # Zero-Complexity Content Repositories for Collaboration on Web Content
@@ -28,7 +39,7 @@ type: Specs
 
 Our sites read content from markdown in git, and our agents are fluent in both. The people whose content it is (clients, partners, a fundraising team) are not, and won't be. Today they collaborate by emailing us, which makes us the bottleneck and makes our work invisible to them.
 
-Both self-generating specs depend on fixing this. A content farm or deal scout produces drafts, and someone who isn't us has to approve them. See [[Self-Generating-Content-Farm-for-Content-Marketing]] and [[Self-Generating-Deal-Scout-for-VC-Opportunity-Scans]].
+Both self-generating specs depend on fixing this. A content farm or deal scout produces drafts, and someone who isn't us has to approve them. See [[specs/Lasso-Self-Generating-Content-Farm-for-Content-Marketing]] and [[Self-Generating-Deal-Scout-for-VC-Opportunity-Scans]].
 
 ## How we're building it
 
@@ -71,7 +82,7 @@ Also relevant: the `ai-labs/studies/sync-and-content-version-control/` study (si
 
 ## Related
 
-- [[Self-Generating-Content-Farm-for-Content-Marketing]]
+- [[specs/Lasso-Self-Generating-Content-Farm-for-Content-Marketing]]
 - [[Self-Generating-Deal-Scout-for-VC-Opportunity-Scans]]
 - [[Markdown-Serve-an-API-for-Markdown-Content]]
 - [[Create-a-Collaborative-Markdown-based-Desktop-Publisher]]

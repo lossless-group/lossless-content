@@ -1,25 +1,36 @@
 ---
-title: "User Experience Starter Kit for Enterprise AI"
-lede: "The onboarding, docs, feedback, community and support utilities every SaaS product rents from a dozen vendors, as an opinionated kit you copy, make your own, and contribute back to."
+title: User Experience Starter Kit for Enterprise AI
+lede: The onboarding, docs, feedback, community and support utilities every SaaS product rents from a dozen vendors, as an opinionated kit you copy, make your own, and contribute back to.
 date_authored_initial_draft: 2026-11-22
 date_authored_current_draft: 2026-11-22
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft:
+date_first_published:
+date_last_updated:
 at_semantic_version: 0.0.0.1
 augmented_with:
   - Claude Code on Claude Opus 5.5
 category: Open-Specification
 date_created: 2026-11-22
-date_modified: 2026-11-22
+date_modified: 2026-11-23
 status: Stub
 publish: false
 site_uuid: 6a57fa42-9160-4f27-87a0-925a9fb310c4
 hex_code: dan9xi
-tags: [User-Experience, Enterprise-AI, Agentic-Engineering, Starter-Kits, Product-Management, Customer-Success]
+tags:
+  - User-Experience
+  - Enterprise-AI
+  - Agentic-Engineering
+  - Starter-Kits
+  - Product-Management
+  - Customer-Success
 authors:
   - Michael Staton
 type: Specs
+image_prompt: An open workshop where a team unpacks a polished starter kit of interface parts (buttons, chat windows, dashboards), assembles them into their own enterprise AI app, and hands their improvements back to a shared shelf. Collaborative and bright.
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/User-Experience-Starter-Kit-for-Enterprise-AI_banner_image_1795477688615_NPrnmNILC.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/User-Experience-Starter-Kit-for-Enterprise-AI_portrait_image_1795477688925_uxhRTlHJ4.webp
+square_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/User-Experience-Starter-Kit-for-Enterprise-AI_square_image_1795477689216__hnY29eKd.webp
+banner_image_taller: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/User-Experience-Starter-Kit-for-Enterprise-AI_banner_image_taller_1795477689579_akkEF-_nS.webp
 ---
 
 ## Thesis

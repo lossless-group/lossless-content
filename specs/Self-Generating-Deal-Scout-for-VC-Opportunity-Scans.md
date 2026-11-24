@@ -1,25 +1,36 @@
 ---
-title: "Self-Generating Deal Scout for VC Opportunity Scans"
-lede: "Watch where new companies surface, score each one against a firm's thesis, and hand partners a short, sourced list to review, instead of another newsletter to skim."
+title: Self-Generating Deal Scout for VC Opportunity Scans
+lede: Watch where new companies surface, score each one against a firm's thesis, and hand partners a short, sourced list to review, instead of another newsletter to skim.
 date_authored_initial_draft: 2026-11-22
 date_authored_current_draft: 2026-11-22
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft:
+date_first_published:
+date_last_updated:
 at_semantic_version: 0.0.0.1
 augmented_with:
   - Claude Code on Claude Opus 5.5
 category: Open-Specification
 date_created: 2026-11-22
-date_modified: 2026-11-22
+date_modified: 2026-11-23
 status: Draft
 publish: false
 site_uuid: 2027b9e9-43f2-4749-a435-7e26f216e122
 hex_code: gu8ib1
-tags: [Venture-Capital, Deal-Sourcing, Thesis-Fit, Agent-Pipelines, Human-in-the-Loop, CRM]
+tags:
+  - Venture-Capital
+  - Deal-Sourcing
+  - Thesis-Fit
+  - Agent-Pipelines
+  - Human-in-the-Loop
+  - CRM
 authors:
   - Michael Staton
 type: Specs
+image_prompt: A robot scout with binoculars on a ridge overlooking a valley of small startup buildings, marking the promising ones on a map for a team of venture capitalists waiting at base camp. Adventurous and optimistic.
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Self-Generating-Deal-Scout-for-VC-Opportunity-Scans_banner_image_1795477924032_vq5ZJ_Cw6.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Self-Generating-Deal-Scout-for-VC-Opportunity-Scans_portrait_image_1795477924377_Z0DO4s_AN.webp
+square_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Self-Generating-Deal-Scout-for-VC-Opportunity-Scans_square_image_1795477924664_tGWXSgaCN.webp
+banner_image_taller: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Self-Generating-Deal-Scout-for-VC-Opportunity-Scans_banner_image_taller_1795477924991_52mPvfW8u.webp
 ---
 
 # Self-Generating Deal Scout for VC Opportunity Scans
@@ -28,11 +39,11 @@ type: Specs
 
 Everything we've built for VC firms starts after a deal is already found. memopop writes the memo, the scorecard agent scores it, `crawl-fetch-ingest` pulls the team and logos, DidiDecks puts one slide per deal on screen, and Twenty holds it all. The front of the funnel, noticing a company worth a look, is still a partner skimming newsletters, demo days and LinkedIn.
 
-This spec is the front of that funnel. It's the same machine as [[Self-Generating-Content-Farm-for-Content-Marketing]], aimed at companies instead of announcements.
+This spec is the front of that funnel. It's the same machine as [[specs/Lasso-Self-Generating-Content-Farm-for-Content-Marketing]], aimed at companies instead of announcements.
 
 ## How we're building it
 
-Like the [[Self-Generating-Content-Farm-for-Content-Marketing|Content Farm]], this is an open-source utility built in public, on the way to solving a problem our VC clients already have. A firm can run it as-is or adapt it, and its thesis, notes and decisions stay its own.
+Like the [[specs/Lasso-Self-Generating-Content-Farm-for-Content-Marketing|Content Farm]], this is an open-source utility built in public, on the way to solving a problem our VC clients already have. A firm can run it as-is or adapt it, and its thesis, notes and decisions stay its own.
 
 ## What it does
 
@@ -87,6 +98,6 @@ The same scan also feeds content. A company that fits a thesis is often a good s
 
 ## Related
 
-- [[Self-Generating-Content-Farm-for-Content-Marketing]]
+- [[specs/Lasso-Self-Generating-Content-Farm-for-Content-Marketing]]
 - [[Self-Updating-Product-Announcement-Watcher]]
 - [[Zero-Complexity-Content-Repositories-for-Collaboration-on-Web-Content]]

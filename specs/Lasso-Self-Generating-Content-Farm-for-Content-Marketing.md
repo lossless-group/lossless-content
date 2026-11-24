@@ -1,25 +1,39 @@
 ---
-title: "Self-Generating Content Farm for Content Marketing"
-lede: "Watch the sources an audience cares about, draft what matters to them with real citations, and put every draft in front of a human before it publishes, without anyone opening a terminal."
-date_authored_initial_draft: 2026-11-22
-date_authored_current_draft: 2026-11-22
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
-at_semantic_version: 0.0.0.1
+title: "Lasso: A Self-Generating Content Farm for Content Marketing"
+lede: Watch the sources an audience cares about, draft what matters to them with real citations, and put every draft in front of a human before it publishes, without anyone opening a terminal.
+date_authored_initial_draft: 2025-09-18
+date_authored_current_draft: 2026-11-23
+date_authored_final_draft:
+date_first_published:
+date_last_updated: 2026-11-23
+at_semantic_version: 0.0.4.0
 augmented_with:
   - Claude Code on Claude Opus 5.5
 category: Open-Specification
 date_created: 2026-11-22
-date_modified: 2026-11-22
+date_modified: 2026-11-24
 status: Draft
 publish: false
 site_uuid: c6c032fb-2a8f-457b-9f36-d5173ad8133f
 hex_code: yf91ou
-tags: [Content-Automation, Content-Marketing, Agent-Pipelines, Human-in-the-Loop, Citations, Keeping-Up, Generative-Engine-Optimization, Build-in-Public, Open-Source]
+tags:
+  - Content-Automation
+  - Content-Marketing
+  - Agent-Pipelines
+  - Human-in-the-Loop
+  - Citations
+  - Keeping-Up
+  - Generative-Engine-Optimization
+  - Build-in-Public
+  - Open-Source
 authors:
   - Michael Staton
 type: Specs
+image_prompt: A robot cowboy on horseback lassoing glowing articles, videos and RSS icons out of a stampede of junk content across an open prairie, while a human editor on the ranch-house porch reviews the catch. Western, energetic and slightly humorous.
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Lasso-Self-Generating-Content-Farm-for-Content-Marketing_banner_image_1795478513845_tyEYSBxXZ.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Lasso-Self-Generating-Content-Farm-for-Content-Marketing_portrait_image_1795478514190_mE3I99lKf.webp
+square_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Lasso-Self-Generating-Content-Farm-for-Content-Marketing_square_image_1795478514813_I0Qwql3PX.webp
+banner_image_taller: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Lasso-Self-Generating-Content-Farm-for-Content-Marketing_banner_image_taller_1795478515145_M4yiUXnGx.webp
 ---
 
 # Self-Generating Content Farm for Content Marketing
@@ -35,15 +49,15 @@ We also already know what the generated thing should look like. On 2026-11-18 an
 
 ## How we're building it
 
-As usual with Lossless Group projects, this is an open-source utility built in public, on the way to solving a problem we and our clients (startups and VCs) already have. We need it for lossless.group and the Agentic VC Dojo first. Clients who want the same thing can take it, run it, and change it. The specs, changelog and code are public, and the content is the client's.
+As usual with [Lossless Group](https://lossless.group) projects, this is an open-source utility built in public, on the way to solving a problem we and our clients (startups and VCs) already have. We need it for lossless.group and the Agentic VC Dojo first. Clients who want the same thing can take it, run it, and change it. The specs, changelog and code are public, and the content is the client's.
 
 ## An example in the market: The Prompting Company
 
-[The Prompting Company](https://promptingcompany.com/) (YC-backed, sometimes called "The Prompt Company") is a content farm with a commercial model. It finds the questions people ask AI tools about a product category, writes structured answers, and publishes thousands of AI-optimized pages so that ChatGPT and other assistants cite its customers, even where they don't rank in traditional search. It routes AI agents to those pages, and charges by the number of prompts tracked and pages hosted. Its customers are mostly fintech, developer tools and enterprise SaaS. ([TechCrunch, 2025-10-30](https://techcrunch.com/2025/10/30/the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps/), on its $6.5M raise.)
+[The Prompting Company](https://promptingcompany.com/) (YC-backed, sometimes called "[[The Prompting Company]]") is a content farm with a commercial model. It finds the questions people ask AI tools about a product category, writes structured answers, and publishes thousands of AI-optimized pages so that ChatGPT and other assistants cite its customers, even where they don't rank in traditional search. It routes AI agents to those pages, and charges by the number of prompts tracked and pages hosted. Its customers are mostly fintech, developer tools and enterprise SaaS. ([TechCrunch, 2025-10-30](https://techcrunch.com/2025/10/30/the-prompting-company-snags-6-5m-to-help-products-get-mentioned-in-chatgpt-and-other-ai-apps/), on its $6.5M raise.)
 
 What it shows us:
 
-- **The reader is changing.** People increasingly ask AI to find products, and agents will soon browse and buy for them. Content now has to work for agents as well as people. This is generative engine optimization (GEO). See also [[Scrunch]], and our `open-graph-share-seo-geo` skill, which covers `llms.txt`.
+- **The reader is changing.** People increasingly ask AI to find products, and agents will soon browse and buy for them. Content now has to work for agents as well as people. This is generative engine optimization ([[concepts/Explainers for AI/Generative Answer Engine Optimization|GEO]]). See also [[Tooling/Enterprise Jobs-to-be-Done/Scrunch|Scrunch]], and our `open-graph-share-seo-geo` skill, which covers `llms.txt`.
 - **Volume only works with a pipeline.** Thousands of pages can't be written by hand. They need exactly the watch, draft, review and publish loop this spec describes.
 - **Where we differ:** we keep a human approval step on every piece, require a captured source behind every claim, and publish the tool as open source rather than renting it out per page.
 
@@ -140,7 +154,7 @@ Each kind has its own default sources, schedule and relevance test. A cluster ca
 Each watcher draws on three kinds of input:
 
 - **RSS first**, for every source that publishes a feed. It's free, polite and close to real time. See [[RSS-Monitor-Utility-for-the-Always-On-Agents]].
-- **Search for the rest**, on a schedule, with queries built from the cluster's entities and vocabulary. It runs through the tool library's `search` capability, so the provider can be SearXNG, Tavily or Exa.
+- **Search for the rest**, on a schedule, with queries built from the cluster's entities and vocabulary. It runs through the tool library's `search` capability, so the provider can be [[Tooling/AI-Toolkit/Searxng|SearXNG]], [[Tooling/AI-Toolkit/Data Augmenters/Tavily AI|Tavily AI]] or [[Tooling/AI-Toolkit/Data Augmenters/Exa.ai|Exa.ai]].
 - **Social platforms** for the people and companies who announce things there first. See below.
 - **All of it files into the same corpus inbox**, deduped by normalized URL. An item found twice is one source.
 
@@ -266,7 +280,7 @@ Puts items on the line for human-in-the-loop triage. Each item shows its title, 
 Knows the item matters, and knows how and where to save it. The cluster's config says where:
 
 - **Markdown in a git repo**, almost always. One source file per item with full frontmatter and provenance, in corpora-builder's source file format, or in `sources/` here.
-- **And/or a remote store:** SurrealDB as a canonical layer for records and their relations (which posts cite which sources, which companies appear in which), Cloudflare R2 for bodies and binaries through corpora-builder's `CorpusStore`, D1 or Durable Objects for state, or Cloudflare Artifacts for a git repo per collaborator.
+- **And/or a remote store:** Previously, [[Corpora Builder]] used SurrealDB as a canonical layer for records and their relations (which posts cite which sources, which companies appear in which), Cloudflare R2 for bodies and binaries through corpora-builder's `CorpusStore`, D1 or Durable Objects for state, or Cloudflare Artifacts for a git repo per collaborator.
 
 ```yaml
 # in a cluster config (sketch)
@@ -296,7 +310,7 @@ Writes the piece in the audience's voice and template, citing only saved objects
 
 ### Reviewer
 
-A person, every time. They approve, edit, reject, or ask for one section to be redone (which goes back to the Drafter, not to the start). The review surface is the change feed: what's new, what it cites, and one action to approve.
+A person, every time. They approve, edit, reject, or ask for one section to be redone (which goes back to the Drafter, not to the start). The review surface is the change feed: what's new, what it cites, and one action to approve. The reviewer can trigger tools like [[Tooling/AI-Toolkit/Agentic AI/Agent-Skills/Humanizer Skill|Humanizer Skill]]. 
 
 ### Publisher
 
@@ -330,7 +344,7 @@ Every stage above calls tools: search, scrape, crawl, extract, feeds, brand asse
 
 The [agent-harnesses study](../../ai-labs/studies/agent-harnesses/README.md) asked how harnesses decide which tools are in scope. Its [inquiry](../../ai-labs/studies/agent-harnesses/context-v/inquiry/Targeted-Questions-for-Cross-Product-Shell.md) found two patterns worth copying:
 
-- **One interface for every tool.** In goose, every extension speaks MCP, including built-in tools that never start a separate process. opencode merges built-ins, plugins and MCP servers into one registry and filters it per agent with pattern rules.
+- **One interface for every tool.** In [[Goose]], every extension speaks MCP, including built-in tools that never start a separate process. opencode merges built-ins, plugins and MCP servers into one registry and filters it per agent with pattern rules.
 - **Visible is not the same as allowed.** goose keeps "can the agent see this tool" (extension config) apart from "can it fire without asking" (`AlwaysAllow` / `AskBefore` / `NeverAllow`). For us: search can always fire, publishing always asks.
 
 [Tome](../../ai-labs/studies/agent-harnesses/context-v/profiles/Profile__Tome.md) shows the same idea one layer up: one catalog, written into each harness's own config. The study lists self-evolving tools as its thinnest area. Every harness it pinned loads tools statically, and only the unpinned candidate youtu-agent has meta-agents that generate tools. This spec has to do new work here.
@@ -367,6 +381,56 @@ That one contract is what makes the three "self" properties possible:
 
 Answering "any others very important?": **Exa**, **Jina Reader** and **Crawl4AI** belong on the first list. Exa is the strongest search for finding companies like a known one. Jina Reader is cheap and already in our specs. Crawl4AI gives SearXNG a free, self-hosted partner. **Brave Search API** is the main independent index besides Google and Bing. **changedetection.io** covers pages with no feed.
 
+## Roles: one common way to define an agent
+
+Tools get a manifest so the system can add and repair them without us. The roles need the same thing: Relevance, the Drafter and the rest should each be a file a person can read, review and swap, not logic buried in one framework's code. Is there a standard for that file, the way [Agent Skills](https://agentskills.io/specification) is the standard for a skill?
+
+**Not one, as of 2026-11-22.** The full survey is the agent-workspace-bundles study's [Ways to Define an Agent](../../ai-labs/studies/agent-workspace-bundles/context-v/explorations/Ways-to-Define-an-Agent.md). What follows is what Lasso needs from it.
+
+### Skills and agents are different things
+
+- A **skill** is instructions the current agent follows. Its `SKILL.md` body is read into the *same* context window, and nothing separate comes back.
+- An **agent** (a subagent, in harness terms) is a separate worker handed a task. It's usually one Markdown file: frontmatter (`name`, `description`, often `tools` and `model`) plus a system prompt. It runs in a *fresh* context, can have fewer tools or a different model, and returns only a final report.
+
+Lasso's roles are agents. The house style they draft in (voice guides, content outlines, the `humanizer` pass) is better shipped as skills those agents load.
+
+### The layers around the agent have settled
+
+| Layer | What it defines | Standard | Backing |
+|---|---|---|---|
+| Skills | Instructions an agent loads | Agent Skills | High: most harnesses read it |
+| Repo guidance | What an agent should know about a codebase | AGENTS.md | High: Linux Foundation's Agentic AI Foundation, with MCP |
+| Tools | How an agent reaches tools and data | MCP | High: same foundation |
+| An agent from the outside | What a running agent can do, where to reach it, how to authenticate | A2A Agent Card | Real, for agents running as network services |
+| An agent from the inside | Its prompt, model, tools, subagents, control flow | Several competing specs | Low so far |
+
+The A2A Agent Card ([profile](../../ai-labs/studies/open-specs-and-standards/context-v/profiles/Profile__Agent-2-Agent.md)) is deliberately opaque: it publishes an agent's skills and endpoints, never its prompts or tools. It's the OpenAPI of agents, not the `SKILL.md` of agents.
+
+### Defining an agent from the inside: no leader yet
+
+Specs that aim to be a standard:
+
+| Spec | Who | Format | Note |
+|---|---|---|---|
+| **Open Agent Specification (Agent Spec)** | Oracle | YAML/JSON | Agents and multi-step workflows. Peer-reviewed ([arXiv:2510.04173](https://arxiv.org/abs/2510.04173)). Its runtime, WayFlow, runs the files directly, and adapters translate to LangGraph, AutoGen and CrewAI. Its authors report that runtimes give different results from the same spec. |
+| **Agent Definition Language (ADL)** | Next Moca | YAML | Identity, tools, permissions, governance metadata. Apache 2.0, pitched as "OpenAPI for agents" ([InfoQ](https://www.infoq.com/news/2026/02/agent-definition-language/)). |
+| **Agent Format** | [agentformat.org](https://agentformat.org/) | `.agf.yaml` | Model, instructions, tools. Bills itself as vendor-neutral. |
+| **Open Agent Spec** | prime-vector | YAML + CLI | Generates agents for different model providers ([GitHub](https://github.com/prime-vector/open-agent-spec)). Not Oracle's, despite the name. |
+| **AgentSPEX** | Academic ([arXiv:2604.13346](https://arxiv.org/pdf/2604.13346)) | A specification language | Research only so far. |
+| **Agent File (`.af`)** | Letta | JSON | Memory, tools, prompts, model settings. An export format; secrets are nulled on export. |
+
+Formats tied to one framework or harness: Microsoft Agent Framework's [declarative agents](https://learn.microsoft.com/en-us/agent-framework/agents/declarative) (YAML or JSON), Microsoft 365 Copilot's JSON manifests, CrewAI's `agents.yaml` + `tasks.yaml` (role, goal, backstory), AIGNE's agent YAML, subagent Markdown (Claude Code's `.claude/agents/`, Cursor), and `langgraph.json`, which only points at a graph written in Python. Google ADK's agent config and Docker's cagent are reported to be YAML but weren't confirmed in the survey.
+
+Most of these sources are vendor docs or self-published write-ups. Treat adoption claims as unverified.
+
+### What Lasso takes from it
+
+- **Every format defines the same few things:** a model, instructions, tools, and sometimes subagents and a workflow. They differ on file shape, and on whether control flow belongs in the file at all.
+- **Lasso already answers the control-flow question: it doesn't.** Roles hand off through the record, not by calling each other (see "Agents trigger agents through the record" below). So a role's file only needs to define one agent, and the workflow formats (Oracle's Agent Spec, Microsoft's declarative workflows) aren't needed to run the pipeline.
+- **Write each role as subagent Markdown.** It's the de facto shape, it matches `SKILL.md`, and it's the format least likely to need rewriting when a spec settles. Frontmatter names the **capabilities** a role may use (`search`, `scrape`), never providers, so it composes with the tool manifest above. The permission tiers live there too: the Publisher's file is the one that may commit.
+- **If a role is ever reached from outside** (the Deal Scout asking the Relevance judge, say), publish an A2A Agent Card for it. That's the standard with backing for saying what a running agent does.
+- **Keep Oracle's Agent Spec in view.** It's the strongest candidate for a portable definition, but nobody else has adopted it yet.
+
 ## Where it runs: scheduled agents that trigger agents, off the laptop
 
 Everything above has to run with the laptop closed: on a clock, with one agent's output starting the next agent's work. We've reasoned about this several times. What's changed is that we now have one piece actually running (kay-os's mail sync on Cloudflare), a blueprint for cloud computers per agent (boxes.dev), and a new option for sandboxes (E2B).
@@ -393,7 +457,7 @@ Putting those together, the system runs in three layers:
 
 **Cloudflare Sandboxes** is the first choice for the agent-run layer, because it lives on the same platform as the clock. A Durable Object in a Worker starts a sandbox from an image and runs commands in it. A sandbox is either a Container (a Linux microVM with its own kernel and network, the E2B-like option) or a Dynamic Worker (lighter: untrusted code loaded as its own isolated Worker). It can run commands, work with files, keep processes running, preview apps, and run coding agents. A workspace can be kept between instances, an R2 bucket mounted, and files snapshotted. As of 2026-11-22, the container scheduling it depends on is in public beta.
 
-[[E2B]] is the alternative. Each agent gets an isolated Linux VM, started from code in JavaScript, TypeScript or Python. Pausing saves the VM's disk and memory, and a paused sandbox is kept until it's killed, so an agent can sleep between runs and pick up where it stopped. Sandboxes can also be forked, and E2B runs in its own cloud or in your AWS, GCP or Azure account. It has no scheduler of its own, which is the clock layer's job. It's also the natural place for the self-generating tool library to try out an adapter an agent just wrote, since that's code no human has read yet.
+[[Tooling/AI-Toolkit/AI Infrastructure/E2B|E2B]] is the alternative. Each agent gets an isolated Linux VM, started from code in JavaScript, TypeScript or Python. Pausing saves the VM's disk and memory, and a paused sandbox is kept until it's killed, so an agent can sleep between runs and pick up where it stopped. Sandboxes can also be forked, and E2B runs in its own cloud or in your AWS, GCP or Azure account. It has no scheduler of its own, which is the clock layer's job. It's also the natural place for the self-generating tool library to try out an adapter an agent just wrote, since that's code no human has read yet.
 
 ### Records: git for the record, SQLite for the index
 
@@ -444,7 +508,7 @@ The A2A protocol ([profile](../../ai-labs/studies/open-specs-and-standards/conte
 
 - Is Cloudflare Sandboxes' beta enough to build on, and do its snapshots keep memory as well as files, as E2B's pause does? If not, which roles move to E2B, and does the Worker call E2B's API over HTTP?
 - Where does git live for agents: GitHub with a bot account, or Cloudflare Artifacts with a repo per agent?
-- Are Claude Code's scheduled cloud agents (routines), Railway's cloud agent tasks, [[Modal]] or [[Fly.io]] better for any of these roles than E2B or boxes.dev?
+- Are Claude Code's scheduled cloud agents (routines), Railway's cloud agent tasks, [[Tooling/AI-Toolkit/AI Infrastructure/Modal|Modal]] or [[Tooling/Software Development/Cloud Infrastructure/Fly.io|Fly.io]] better for any of these roles than E2B or boxes.dev?
 - What does a month of this cost for one cluster, and what's the alert when it stops?
 
 ## Audiences, first
@@ -496,6 +560,7 @@ The first row is the watcher spec's original scope, so it's the natural pilot.
 - What gets measured after publishing, and does it feed back into relevance?
 - Should `corpus_role` become part of corpora-builder's source file model, or live only in this system's records?
 - Is the tool manifest our own format, or do we adopt goose's extension config or Tome's plugin manifest?
+- Is subagent Markdown enough for the roles, or do we adopt Oracle's Agent Spec or Agent Format once one gains adoption? Either way, which frontmatter fields do we add, and does a role's file live next to the tool manifests?
 - Does the tool library live in its own repo, so the Content Farm and the Deal Scout (and kay-os) share it?
 
 ## Related
@@ -503,6 +568,7 @@ The first row is the watcher spec's original scope, so it's the natural pilot.
 - [[Self-Updating-Product-Announcement-Watcher]]
 - [[RSS-Monitor-Utility-for-the-Always-On-Agents]]
 - `ai-labs/studies/agent-harnesses/`
+- [Ways to Define an Agent](../../ai-labs/studies/agent-workspace-bundles/context-v/explorations/Ways-to-Define-an-Agent.md) (agent-workspace-bundles study)
 - [[Self-Generating-Deal-Scout-for-VC-Opportunity-Scans]]
 - [[Zero-Complexity-Content-Repositories-for-Collaboration-on-Web-Content]]
 

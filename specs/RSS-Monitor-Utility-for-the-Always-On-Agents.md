@@ -1,11 +1,11 @@
 ---
-title: "RSS Monitor Utility for the Always-On Agents"
-lede: "One small, polite service that follows every feed an organization cares about and files each new item into a corpus, so agents can react to it today and draw on it a year from now."
+title: RSS Monitor Utility for the Always-On Agents
+lede: One small, polite service that follows every feed an organization cares about and files each new item into a corpus, so agents can react to it today and draw on it a year from now.
 date_authored_initial_draft: 2026-11-22
 date_authored_current_draft: 2026-11-22
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft:
+date_first_published:
+date_last_updated:
 at_semantic_version: 0.0.0.2
 augmented_with:
   - Claude Code on Claude Opus 5.5
@@ -16,10 +16,18 @@ status: Draft
 publish: false
 site_uuid: f7ef5001-fb0a-423d-9090-0e79808f6ce1
 hex_code: 3fezcs
-tags: [RSS, Feeds, Always-On-Agents, Corpora, Source-Curation, Agent-Tools, Self-Hosting]
+tags:
+  - RSS
+  - Feeds
+  - Always-On-Agents
+  - Corpora
+  - Source-Curation
+  - Agent-Tools
+  - Self-Hosting
 authors:
   - Michael Staton
 type: Specs
+image_prompt: A robot lighthouse keeper whose beam sweeps across a night sea of floating RSS icons, newsletters and video thumbnails, drawing the best ones into a well-organized library at the base of the lighthouse. Calm and vigilant.
 ---
 
 # RSS Monitor Utility for the Always-On Agents
@@ -30,7 +38,7 @@ Feeds are the cheapest way to know what's new. Most blogs, changelogs, GitHub re
 
 There are two reasons to follow feeds, and most tools only serve the first:
 
-1. **Scan and react.** Spot good content ideas and source material now: a release worth a post, a company worth a look. This is what the [[Self-Generating-Content-Farm-for-Content-Marketing|Content Farm]], the [[Self-Generating-Deal-Scout-for-VC-Opportunity-Scans|Deal Scout]], the [[Self-Updating-Product-Announcement-Watcher|Product Announcement Watcher]] and the kay-os colony need first.
+1. **Scan and react.** Spot good content ideas and source material now: a release worth a post, a company worth a look. This is what the [[specs/Lasso-Self-Generating-Content-Farm-for-Content-Marketing|Content Farm]], the [[Self-Generating-Deal-Scout-for-VC-Opportunity-Scans|Deal Scout]], the [[Self-Updating-Product-Announcement-Watcher|Product Announcement Watcher]] and the kay-os colony need first.
 2. **Build a corpus.** Keep what you read, with provenance, so it grounds memos, decks, reports, RAG and agents later. Many organizations will want this more than the alerts. A feed reader throws items away once they're read. A corpus is a body of source material you keep and add to on purpose.
 
 Scanning is where we start. Building corpora is where it matters. So this utility doesn't keep a store of its own. It files every item into a corpus, the way [corpora-builder](https://github.com/lossless-group/corpora-builder) already defines one, and both uses read from there.
@@ -59,7 +67,7 @@ The open issue [Source Pointers vs. Master](../../ai-labs/corpora-builder/contex
 
 ## What it does
 
-The Content Farm's watchers come in different kinds (announcement, entity, topic, source, question, opportunity), each watching a cluster of content and each combining RSS with search. This utility is the RSS half they share. Search fills in where no feed exists, and when search keeps finding good items on a site, the site's feed gets proposed here. See "Watchers: kinds and clusters" in [[Self-Generating-Content-Farm-for-Content-Marketing]].
+The Content Farm's watchers come in different kinds (announcement, entity, topic, source, question, opportunity), each watching a cluster of content and each combining RSS with search. This utility is the RSS half they share. Search fills in where no feed exists, and when search keeps finding good items on a site, the site's feed gets proposed here. See "Watchers: kinds and clusters" in [[specs/Lasso-Self-Generating-Content-Farm-for-Content-Marketing]].
 
 1. **Keeps a list of feeds**, each tagged with the clusters, corpora and consumers it serves (an audience, a thesis, a tool in `tooling/`, a client). The list is plain text in git, importable and exportable as OPML.
 2. **Finds feeds** from a site URL (`<link rel="alternate">`, common paths like `/feed` and `/rss.xml`), and falls back to RSSHub or change detection for sites without one. YouTube channels and playlists have their own feeds, which is how the Content Farm watches video (see "YouTube and other spoken sources" there).
@@ -105,6 +113,6 @@ The `study-repos-first` skill says to pin and read these before deciding whether
 
 - `ai-labs/corpora-builder/`, especially the [System Design exploration](../../ai-labs/corpora-builder/context-v/explorations/Corpora-Builder-System-Design.md)
 - [Corpus-Grounded Generation of Decks and Memos](../../ai-labs/context-v/explorations/Corpus-Grounded-Generation-of-Decks-and-Memos.md), the consumption side
-- [[Self-Generating-Content-Farm-for-Content-Marketing]]
+- [[specs/Lasso-Self-Generating-Content-Farm-for-Content-Marketing]]
 - [[Self-Generating-Deal-Scout-for-VC-Opportunity-Scans]]
 - [[Self-Updating-Product-Announcement-Watcher]]

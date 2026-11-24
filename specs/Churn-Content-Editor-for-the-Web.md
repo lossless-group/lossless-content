@@ -1,27 +1,28 @@
 ---
 title: "Churn: An AI content editor for the Internet has been missing."
-lede: "Content Management Systems are an old paradigm, they are clunky, they are rarely where creatives develop content.  HTML and CSS need to marry Content Editors"
+lede: Content Management Systems are an old paradigm, they are clunky, they are rarely where creatives develop content.  HTML and CSS need to marry Content Editors
 date_authored_initial_draft: 2025-08-12
 date_authored_current_draft: 2025-08-12
 date_authored_final_draft: "[]"
 date_first_published: 2025-08-12
-date_last_updated: "[]"
-at_semantic_version: 0.0.0.1
+date_last_updated: 2026-11-23
+at_semantic_version: 0.0.1.1
 publish: true
 status: Idea
-augmented_with: "Claude Sonnet 4 on Warp"
+augmented_with: Claude Sonnet 4 on Warp
 category: Open-Ideas
 date_created: 2025-05-10
-date_modified: 2026-05-01
+date_modified: 2026-11-24
 authors:
   - Michael Staton
-image_prompt: "A closeup view of a monitor, a laptop, and a mobile device. The laptop has a text editor, it looks like a markdown editor, a simple version of a document editor.  There is some text there, headers, etc. On the monitor and on the mobile the same text is rendered as a beautiful web page.  There are connecting lines from the laptop to the monitor and the phone"
+image_prompt: A closeup view of a monitor, a laptop, and a mobile device. The laptop has a text editor, it looks like a markdown editor, a simple version of a document editor.  There is some text there, headers, etc. On the monitor and on the mobile the same text is rendered as a beautiful web page.  There are connecting lines from the laptop to the monitor and the phone
 site_uuid: 19520453-bb0c-467b-a549-e60e08545571
 slug: churn-content-an-editor-for-the-web
-tags: [Cross-Platform]
-banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Churn-Content-Editor-for-the-Web_banner_image_1755407983598__seNtdBTK.webp"
-portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Churn-Content-Editor-for-the-Web_portrait_image_1755407985018_aYo916dKl.webp"
-square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Churn-Content-Editor-for-the-Web_square_image_1755407985588_4cGNIBQR8.webp"
+tags:
+  - Cross-Platform
+banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Churn-Content-Editor-for-the-Web_banner_image_1755407983598__seNtdBTK.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Churn-Content-Editor-for-the-Web_portrait_image_1755407985018_aYo916dKl.webp
+square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/july/Churn-Content-Editor-for-the-Web_square_image_1755407985588_4cGNIBQR8.webp
 ---
 
 Why are we still using complex file formats?  [[Vocabulary/AI Models|AI Models]] and [[concepts/Explainers for AI/Code Generators|Code Generators]] all speak [[projects/Emergent-Innovation/Standards/Markdown|Markdown]], [[Tooling/Software Development/Programming Languages/HTML|HTML]], [[Tooling/Software Development/Programming Languages/CSS|CSS]], even [[Vocabulary/Scalable Vector Graphics|Scalable Vector Graphics]]. 

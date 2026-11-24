@@ -10,17 +10,23 @@ at_semantic_version: 0.0.1.0
 generated_with: Claude Code (Claude Sonnet 4.5)
 category: Technical-Specification
 date_created: 2025-11-15
-date_modified: 2026-04-26
+date_modified: 2026-11-24
 status: Proposed
-tags: [Content-Automation, Link-Discovery, Digital-Footprint, Social-Media, API-Integration]
+tags:
+  - Content-Automation
+  - Link-Discovery
+  - Digital-Footprint
+  - Social-Media
+  - API-Integration
 authors:
   - Michael Staton
   - Andrea Capera
 image_prompt: A digital spider web with a product logo at the center, threads extending to various platform icons (GitHub, LinkedIn, Twitter, YouTube, Medium), automatically mapping a company's complete digital presence across the internet.
-banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/AI-Powered-Link-Aggregator-for-Product-Digital-Footprint_banner_image_1763225374644_0uYd2sUt5.webp
-portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/AI-Powered-Link-Aggregator-for-Product-Digital-Footprint_portrait_image_1763225375875_mK4pOdSJc.webp
-square_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/AI-Powered-Link-Aggregator-for-Product-Digital-Footprint_square_image_1763225376735_Z9uq4LVwP.webp
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/AI-Powered-Link-Aggregator-for-Product-Digital-Footprint_banner_image_1795480003090_C-hSSgwgN.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/AI-Powered-Link-Aggregator-for-Product-Digital-Footprint_portrait_image_1795480004019_b0AfPdztW.webp
+square_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/AI-Powered-Link-Aggregator-for-Product-Digital-Footprint_square_image_1795480004508_Pv70q95Xbn.webp
 site_uuid: 7fdc18f5-e224-4359-8327-fe642c27a241
+banner_image_taller: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/AI-Powered-Link-Aggregator-for-Product-Digital-Footprint_banner_image_taller_1795480004919_6WjWK4hGL.webp
 ---
 [[specs/AI-Powered-Link-Aggregator-for-Product-Digital-Footprint|AI-Powered-Link-Aggregator-for-Product-Digital-Footprint]]
 
@@ -1484,6 +1490,16 @@ links_last_updated: 2025-11-15
 links_confidence: high
 links_auto_discovered: true
 ```
+
+
+## Related agent skills
+
+Since this spec was written, several agent skills have taken on parts of the same job. Read them before building any of the pipeline above.
+
+- [obsidian-vault-hygiene](https://github.com/lossless-group/lossless-agent-skills/tree/main/obsidian-vault-hygiene): promotes loose notes in this vault into typed folders. It verifies the `url`, fills only empty `og_*` fields, and adds `linkedin_url` only when the org's own site links it. That's sections 2 to 4 here, done by hand per note.
+- [crawl-fetch-ingest](https://github.com/lossless-group/lossless-agent-skills/tree/main/crawl-fetch-ingest): crawls a firm or company site for people, logos, LinkedIn URLs and `og:image`, with the Firecrawl → Tavily → OpenGraph.io fallback and high/medium/low confidence. The same discovery and confidence pattern as this spec, applied to VC firms and portfolio companies.
+- [augment-speakers-panelists](https://github.com/lossless-group/lossless-agent-skills/tree/main/augment-speakers-panelists): finds a person's footprint in a fixed order: social accounts, then features, mentions and video. The same idea for people instead of products.
+- [agent-reach](https://github.com/Panniantong/Agent-Reach): a vendored upstream tool (mounted in [lossless-agent-skills](https://github.com/lossless-group/lossless-agent-skills) that lets an agent search and read X, Reddit, YouTube and other platforms it can't reach on its own. Useful for the content-platform links in section 1.4.
 
 ---
 

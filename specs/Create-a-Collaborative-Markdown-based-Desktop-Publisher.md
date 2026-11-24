@@ -5,17 +5,23 @@ publish: true
 generated_with: Windsurf Cascade on Claude 3.5 Sonnet
 categories: Technical-Specification
 date_created: 2025-04-30
-date_modified: 2025-11-16
+date_modified: 2026-11-24
 lede: Technical specification document outlining implementation details
 status: Draft
 category: Technical Specifications
 site_uuid: 22f247fd-39aa-48e9-84d8-f46d5fb8fc28
-tags: [Markdown, Desktop-Publishing, Component-Architecture, Cross-Platform]
+tags:
+  - Markdown
+  - Desktop-Publishing
+  - Component-Architecture
+  - Cross-Platform
 authors:
   - Michael Staton
-image_prompt: "A vibrant code editor window displaying highlighted code blocks, surrounded by glowing brackets and syntax symbols. The focus is on clarity, readability, and the elegance of well-rendered code."
-banner_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_banner_image_Create-a-Collaborative-Markdown-based-Desktop-Publisher_e5857fe4-f780-40bc-863f-6b4042254632_y1hFAhX4x.webp
-portrait_image: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/specs/2025-05-05_portrait_image_Create-a-Collaborative-Markdown-based-Desktop-Publisher_b6e895a7-634b-48fa-8a60-577b09774334_YhRuUV44UD.webp
+image_prompt: A vibrant code editor window displaying highlighted code blocks, surrounded by glowing brackets and syntax symbols. The focus is on clarity, readability, and the elegance of well-rendered code.
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Create-a-Collaborative-Markdown-based-Desktop-Publisher_banner_image_1795480387333_sULvTtMbG.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Create-a-Collaborative-Markdown-based-Desktop-Publisher_portrait_image_1795480387631_qNpWEWLtP.webp
+square_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Create-a-Collaborative-Markdown-based-Desktop-Publisher_square_image_1795480387907_QqY368sOv.webp
+banner_image_taller: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Create-a-Collaborative-Markdown-based-Desktop-Publisher_banner_image_taller_1795480388211_pZoK9rk1M.webp
 ---
 
 # Announcement:

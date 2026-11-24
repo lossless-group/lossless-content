@@ -1,6 +1,6 @@
 ---
 title: "Markdown-Serve: `md-serve` - a simple server and API for Markdown content rendering on the web"
-lede: "Markdown files have been the lingua franca of web content, on the rise since JAM Stack adoption. Yet, the development experience requires long builds, complex setups, massive content filling developer projects. Why not improve developer experience while making it easier to serve and render them?"
+lede: Markdown files have been the lingua franca of web content, on the rise since JAM Stack adoption. Yet, the development experience requires long builds, complex setups, massive content filling developer projects. Why not improve developer experience while making it easier to serve and render them?
 date_authored_initial_draft: 2025-05-02
 date_authored_current_draft: 2025-05-02
 date_authored_final_draft: "[]"
@@ -9,19 +9,27 @@ date_last_updated: "[]"
 at_semantic_version: 0.0.0.1
 publish: true
 status: Idea
-augmented_with: 
+augmented_with:
 category: Open-Ideas
 date_created: 2026-05-02
-date_modified: 2026-05-01
+date_modified: 2026-11-24
 authors:
   - Michael Staton
-image_prompt: 
+image_prompt: Servers in a nice restaurant, assisted by restaurant humanoid robots, are serving customers lifting silver plates of documents.  A few customers have tables getting piles of documents.
 site_uuid: 19520453-bb0c-467b-a549-e60e08545571
 slug: md-serve-api-for-markdown-content
-tags: [Cross-Platform]
-banner_image: 
-portrait_image: 
-square_image: 
+tags:
+  - Cross-Platform
+  - Markdown-Editor
+  - Second-Brains
+  - Company-Brains
+  - Content-Automation
+  - Agent-Native
+  - AI-Native
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Markdown-Serve-an-API-for-Markdown-Content_banner_image_1795480244939_iaQ8Dc_M0.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Markdown-Serve-an-API-for-Markdown-Content_portrait_image_1795480245302_OKqKdYO5D.webp
+square_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Markdown-Serve-an-API-for-Markdown-Content_square_image_1795480245635_S7CFQfydCf.webp
+banner_image_taller: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Markdown-Serve-an-API-for-Markdown-Content_banner_image_taller_1795480245902_XZCgByYg6.webp
 ---
 
 > _A lightweight content service that treats Markdown files as first-class web resources, exposing them through predictable APIs, optional rendered HTML, structured frontmatter, collection indexes, search metadata, and build/webhook triggers._
@@ -32,7 +40,7 @@ square_image:
 
 The project is not intended to be “another CMS” at the outset. Its strongest form is a Markdown-native content API layer that can sit between content repositories, local filesystem content, object storage, and web frontends.
 
-The service would make Markdown files available as structured web resources. Consumers could request raw Markdown, parsed frontmatter, rendered HTML, collection indexes, search metadata, and related media references through predictable endpoints.
+The service would make [[projects/Emergent-Innovation/Standards/Markdown|Markdown]] files available as structured web resources. Consumers could request raw Markdown, parsed frontmatter, rendered HTML, collection indexes, search metadata, and related media references through predictable endpoints.
 
 For static-site frameworks such as Astro, `md-serve` could reduce the pressure to rebuild an entire frontend every time content changes. In cases where rebuilding is still necessary, it could provide webhook triggers or build events that allow content updates to initiate automated publishing workflows.
 

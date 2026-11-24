@@ -1,25 +1,36 @@
 ---
 title: "Etched: a Blockchain Distributed Ledger for Content Updates"
-lede: "A shared ledger that records who wrote and updated which content, and how much it has mattered since, so creators earn ongoing income and AI labs can commission and pay for the content they need."
+lede: A shared ledger that records who wrote and updated which content, and how much it has mattered since, so creators earn ongoing income and AI labs can commission and pay for the content they need.
 date_authored_initial_draft: 2026-11-23
 date_authored_current_draft: 2026-11-23
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft:
+date_first_published:
+date_last_updated:
 at_semantic_version: 0.0.0.1
 augmented_with:
   - Claude Code on Claude Opus 5.5
 category: Open-Specification
 date_created: 2026-11-23
-date_modified: 2026-11-23
+date_modified: 2026-11-24
 status: Stub
 publish: false
 site_uuid: 43b2d4f8-bb8c-4df6-9212-0e2787e03c4c
 hex_code: deqras
-tags: [Blockchain, Distributed-Ledgers, Content-Provenance, Creator-Economy, AI-Training-Data, Citation-Metrics]
+tags:
+  - Blockchain
+  - Distributed-Ledgers
+  - Content-Provenance
+  - Creator-Economy
+  - AI-Training-Data
+  - Citation-Metrics
 authors:
   - Michael Staton
 type: Specs
+image_prompt: A robot stonemason carving lines of text into a tall stone tablet, each line a small revision with its own date and signature, while a stream of glowing coins flows from a library of great books back to the carvers. Timeless and monumental, with a hint of the digital.
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Etched-a-Blockchain-Distributed-Ledger-for-Content-Updates_banner_image_1795479045729_hR5-Kwn-7F.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Etched-a-Blockchain-Distributed-Ledger-for-Content-Updates_portrait_image_1795479046106_7g-IdtAsz3.webp
+square_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Etched-a-Blockchain-Distributed-Ledger-for-Content-Updates_square_image_1795479047023_x7ZyG7Zed.webp
+banner_image_taller: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Etched-a-Blockchain-Distributed-Ledger-for-Content-Updates_banner_image_taller_1795479047309_M5UMm_Yy1.webp
 ---
 
 ## Thesis

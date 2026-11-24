@@ -1,34 +1,36 @@
 ---
-title: "Agentic Email Superpowers"
-lede: "Transform your email inbox into a powerful AI-driven workspace that automates repetitive tasks, extracts insights, and supercharges your productivity."
+title: Agentic Email Superpowers
+lede: Transform your email inbox into a powerful AI-driven workspace that automates repetitive tasks, extracts insights, and supercharges your productivity.
 date_authored_initial_draft: 2025-09-12
 date_authored_current_draft: 2026-11-22
-date_authored_final_draft: null
-date_first_published: null
-date_last_updated: null
+date_authored_final_draft:
+date_first_published:
+date_last_updated:
 at_semantic_version: 0.0.1.0
 augmented_with:
   - Claude Code on Claude Opus 5.5
 category: Open-Specification
 date_created: 2025-11-15
-date_modified: 2026-11-22
+date_modified: 2026-11-24
 status: Iterating
 publish: false
 site_uuid: b332e11b-1808-474e-a5a8-811bbde0076c
 hex_code: zvm2ur
-tags: [Content-Automation, Email-Automation, AI-Powered-Email-Systems, Personal-Agents, Kaymail]
+tags:
+  - Content-Automation
+  - Email-Automation
+  - AI-Powered-Email-Systems
+  - Personal-Agents
+  - Kaymail
 authors:
   - Michael Staton
-summary: >-
-  Retrospective spec, written 2026-11-22. From 2025 until November 2026 this was
-  only a title and a lede in content/specs, an Open Spec nobody was building.
-  It became kay-os, where the canonical copy now lives
-  (ai-labs/kay-os/context-v/specs). This copy stays in content/specs as an
-  Open Spec. Records the original idea, the one decision that changed it
-  (archive first, agents second), what exists as of 2026-11-07, which parts of
-  the original promise are still open, and where the working docs are.
-image_prompt: "An exhausted human is at their desk in front of a large monitor with an email client. A friendly AI assistant represented by a humanoid robot character is offering them coffee and cleaning their desk."
+summary: Retrospective spec, written 2026-11-22. From 2025 until November 2026 this was only a title and a lede in content/specs, an Open Spec nobody was building. It became kay-os, where the canonical copy now lives (ai-labs/kay-os/context-v/specs). This copy stays in content/specs as an Open Spec. Records the original idea, the one decision that changed it (archive first, agents second), what exists as of 2026-11-07, which parts of the original promise are still open, and where the working docs are.
+image_prompt: An exhausted human is at their desk in front of a large monitor with an email client. A friendly AI assistant represented by a humanoid robot character is offering them coffee and cleaning their desk.
 type: Specs
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Agentic-Email-Superpowers_banner_image_1795481321743_IvUZFB_0b.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Agentic-Email-Superpowers_portrait_image_1795481322711_OZaPuYXFi.webp
+square_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Agentic-Email-Superpowers_square_image_1795481323054_7Hrvy_q-I.webp
+banner_image_taller: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Agentic-Email-Superpowers_banner_image_taller_1795481323425_Nv0_p1FRO.webp
 ---
 
 > [!NOTE] Written after the fact

@@ -1,27 +1,33 @@
 ---
-title: "Self-Updating Product Announcement Watcher"
-lede: "Automatically monitor, collect, and catalog product releases and announcements for 1,400+ tools in our content library without manual intervention."
+title: Self-Updating Product Announcement Watcher
+lede: Automatically monitor, collect, and catalog product releases and announcements for 1,400+ tools in our content library without manual intervention.
 date_authored_initial_draft: 2025-11-15
 date_authored_current_draft: 2025-11-15
 date_authored_final_draft: "[]"
 date_first_published: "[]"
 date_last_updated: "[]"
 at_semantic_version: 0.0.1.0
-generated_with: "Claude Code (Claude Sonnet 4.5)"
+generated_with: Claude Code (Claude Sonnet 4.5)
 category: Technical-Specification
 date_created: 2025-11-15
-date_modified: 2025-11-15
+date_modified: 2026-11-24
 status: Proposed
-tags: [Content-Automation, Product-Tracking, Release-Monitoring, API-Integration, Filesystem-Observers]
+tags:
+  - Content-Automation
+  - Product-Tracking
+  - Release-Monitoring
+  - API-Integration
+  - Filesystem-Observers
 authors:
   - Michael Staton
   - Andrea Capera
-image_prompt: "A robotic sentinel watching multiple screens displaying product logos, release notes, and changelog updates, automatically cataloging announcements into organized content files. The robot is at a desk, and the desk has many file cabinets around him.  There is a lot of filing going on. The visual emphasizes automation, vigilance, and systematic organization."
-banner_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Self-Updating-Product-Announcement-Watcher_banner_image_1763226142714_-imWVTBJvO.webp"
-portrait_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Self-Updating-Product-Announcement-Watcher_portrait_image_1763226143795_iCG7hoS_I.webp"
+image_prompt: A robotic sentinel watching multiple screens displaying product logos, release notes, and changelog updates, automatically cataloging announcements into organized content files. The robot is at a desk, and the desk has many file cabinets around him.  There is a lot of filing going on. The visual emphasizes automation, vigilance, and systematic organization.
+banner_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Self-Updating-Product-Announcement-Watcher_banner_image_1795480083577_-eqTCC-MR.webp
+portrait_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Self-Updating-Product-Announcement-Watcher_portrait_image_1795480083855_HA79uC-_V.webp
 site_uuid: 0b88ebcd-67c4-40b3-99b0-2ba0eb05d994
 publish: true
-square_image: "https://ik.imagekit.io/xvpgfijuw/uploads/lossless/2025-sept/Self-Updating-Product-Announcement-Watcher_square_image_1763226144991_vx4r6caSk.webp"
+square_image: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Self-Updating-Product-Announcement-Watcher_square_image_1795480084173_flEJsPVBl.webp
+banner_image_taller: https://ik.imagekit.io/xvpgfijuw/Image-Gin/2026-11/Self-Updating-Product-Announcement-Watcher_banner_image_taller_1795480084439_NDMw26qCj.webp
 ---
 
 
