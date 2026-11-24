@@ -23,7 +23,7 @@ aliases:
 
 _*GeeksforGeeks is a large, India‑based computer science and programming education website that consultants tap for fast, example‑driven explanations of everything from data structures to system design.*_
 
-GeeksforGeeks is a **website‑style publication** offering “well written, well thought and well explained computer science and programming articles” across topics like algorithms, data structures, DBMS, operating systems, and coding interviews. [^3ls6ay] It was created by **Sandeep Jain**, an alumnus of the [[Indian Institute of Technology]] (IIT) Roorkee, and has grown into a broad learning portal with articles, practice problems, and videos aimed at students and working developers. [^3ls6ay] Consultants return to it because it provides quick, code‑level patterns and standard definitions that match how concepts are taught in many technical interviews and university courses. [^x4dl0i] [^3dyuo0] [^3ls6ay] [^h9q8c7]
+GeeksforGeeks is a **website‑style publication** offering “well written, well thought and well explained computer science and programming articles” across topics like algorithms, data structures, DBMS, operating systems, and coding interviews. [^3ls6ay] It was created by **Sandeep Jain**, an alumnus of the [[organizations/Indian Institute of Technology]] (IIT) Roorkee, and has grown into a broad learning portal with articles, practice problems, and videos aimed at students and working developers. [^3ls6ay] Consultants return to it because it provides quick, code‑level patterns and standard definitions that match how concepts are taught in many technical interviews and university courses. [^x4dl0i] [^3dyuo0] [^3ls6ay] [^h9q8c7]
 
 ---
 
