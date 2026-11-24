@@ -12,6 +12,7 @@ category: Technical-Specification
 date_created: 2025-11-15
 date_modified: 2026-11-24
 status: Proposed
+publish: true
 tags:
   - Content-Automation
   - Link-Discovery

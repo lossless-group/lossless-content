@@ -1,13 +1,13 @@
 ---
-title: "Churn: An AI content editor for the Internet has been missing."
-lede: "Content Management Systems are an old paradigm, they are clunky, they are rarely where creatives develop content.  HTML and CSS need to marry Content Editors"
+title: "Was There: a Substack for Event Attendees"
+lede: "A place for people who attended an event to publish what they saw and learned, the way Substack works for writers."
 date_authored_initial_draft: 2025-08-12
 date_authored_current_draft: 2025-08-12
 date_authored_final_draft: "[]"
 date_first_published: 2025-08-12
 date_last_updated: "[]"
 at_semantic_version: 0.0.0.1
-publish: true
+publish: false
 status: Idea
 augmented_with: "Claude Sonnet 4 on Warp"
 category: Open-Ideas
@@ -15,7 +15,7 @@ date_created: 2025-05-10
 date_modified: 2025-08-17
 authors:
   - Michael Staton
-image_prompt: "Ev"
+image_prompt: "A crowd leaving a conference hall, each attendee holding a glowing notebook whose pages fly up and bind into a small newsletter bearing the event's name. Warm and communal."
 slug: was-there-a-substack-for-event-attendees
 tags: [Cross-Platform]
 ---

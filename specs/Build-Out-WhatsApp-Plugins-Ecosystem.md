@@ -8,6 +8,7 @@ date_first_published:
 date_last_updated: 2025-07-20
 at_semantic_version: 0.1.0
 status: Idea
+publish: true
 augmented_with: Windsurf Cascade on Claude 4.0
 category: Open-Ideas
 date_created: 2025-08-07
