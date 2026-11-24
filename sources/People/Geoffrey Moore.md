@@ -62,7 +62,7 @@ cf_last_run_model: Perplexity sonar-pro
 ## Why It Matters to Innovators
 
 - Moore’s **technology-adoption lifecycle** diagnoses why technically strong products can stall between enthusiastic early adopters and pragmatic mainstream customers; that transition is the “chasm” his best-known framework addresses. [^13r9i6] [^0voa7h]
-- His positioning model encourages innovators to define a narrow target segment, articulate a compelling “whole product,” and win a beachhead before expanding—useful for [[concepts/Beachhead Markets]] and [[Go-to-Market Strategy]]. [^13r9i6]
+- His positioning model encourages innovators to define a narrow target segment, articulate a compelling “whole product,” and win a beachhead before expanding—useful for [[concepts/Beachhead Markets]] and [[Vocabulary/Go-to-Market]]. [^13r9i6]
 - *Inside the Tornado* and *The Gorilla Game* shift attention from invention alone to category dynamics, competitive positioning, and the race to establish market leadership. [^vbduj1]
 - *Escape Velocity* and *Zone to Win* diagnose the structural conflict between protecting an incumbent business and funding an emerging one, making them useful companions to [[concepts/Disruptive Innovation]] and [[concepts/ ambidextrous organization]]. [^vbduj1] [^dhn1vo]
 - Moore’s body of work is especially credible for technology commercialization because it combines decades of high-tech consulting with frameworks repeatedly applied to startups and established technology companies. [^13r9i6] [^dhn1vo] [^4b0rm9]
@@ -81,7 +81,7 @@ cf_last_run_model: Perplexity sonar-pro
 - [[Zone to Win]]
 - [[Disruptive Innovation]]
 - [[Technology Adoption Lifecycle]]
-- [[Go-to-Market Strategy]]
+- [[Vocabulary/Go-to-Market]]
 
 
 ***

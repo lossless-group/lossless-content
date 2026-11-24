@@ -12,5 +12,5 @@ tags:
 linkedin_url: https://www.linkedin.com/in/evanbaehr/
 ---
 [[Startup Ecosystems|Startup Ecosystem]]
-[[Arena Hall]]
+[[organizations/Arena Hall]]
 

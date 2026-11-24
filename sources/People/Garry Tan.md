@@ -18,7 +18,7 @@ cf_last_run_model: Perplexity sonar-pro
 ---
 
 [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Y Combinator|Y Combinator]]
-[[GBrain]]
+[[Tooling/AI-Toolkit/Agentic AI/GBrain]]
 [[Tooling/Software Development/DevOps/Developer Experience/GStack]]
 [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Initialized Capital|Initialized Capital]]
 

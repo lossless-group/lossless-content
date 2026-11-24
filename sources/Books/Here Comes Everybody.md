@@ -1,7 +1,7 @@
 ---
 amazon_url: https://a.co/d/0hx7oHb5
 date_created: 2026-11-07
-date_modified: 2026-11-07
+date_modified: 2026-11-24
 wikipedia_url: https://en.wikipedia.org/wiki/Here_Comes_Everybody_(book)
 site_uuid: 7bbe037c-83aa-46a8-b5c7-76f97a08bb48
 publish: true
@@ -17,6 +17,7 @@ tags:
 ---
 [[Vocabulary/Disruptive Innovation|Disruptive Innovation]]
 [[Free]]
+[[Vocabulary/Crowdsourcing|Crowdsourcing]]
 
 # Here Comes Everybody
 

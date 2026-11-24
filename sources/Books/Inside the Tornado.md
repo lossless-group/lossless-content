@@ -62,7 +62,7 @@ https://openlibrary.org/books/OL8762700M/Inside_the_Tornado
 - Its adoption-cycle logic helps diagnose whether a company is in an early niche, a scaling “tornado,” or a mature mainstream market—and therefore whether it needs [[concepts/Product-Market Fit|Product-Market Fit]], segment focus, ecosystem partnerships, or execution discipline. [^98wggd] [^a10ycy]
 - The “bowling alley” model highlights the value of winning a focused beachhead before expanding into adjacent segments, a useful complement to [[concepts/Beachhead Markets|Beachhead Markets]] and [[concepts/Minimum Viable Product|Minimum Viable Product]]. [^a10ycy]
 - The book treats hypergrowth as an organizational challenge as much as a demand opportunity, linking market success to partnerships, positioning, competitive advantage, and leadership. [^98wggd] [^a10ycy]
-- Its enduring value is diagnostic: it asks innovators to match their [[Go-to-Market Strategy]] to the adoption phase instead of scaling prematurely with the wrong playbook. [^p2fvru]
+- Its enduring value is diagnostic: it asks innovators to match their [[Vocabulary/Go-to-Market]] to the adoption phase instead of scaling prematurely with the wrong playbook. [^p2fvru]
 
 ## Best Starting Points
 
@@ -78,7 +78,7 @@ https://openlibrary.org/books/OL8762700M/Inside_the_Tornado
 - [[concepts/Technology Adoption Life Cycle]]
 - [[concepts/Beachhead Market]]
 - [[concepts/Product-Market Fit]]
-- [[Go-to-Market Strategy]]
+- [[Vocabulary/Go-to-Market]]
 - [[sources/The Innovator’s Dilemma]]
 
 

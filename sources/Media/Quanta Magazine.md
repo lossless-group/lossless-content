@@ -1,8 +1,14 @@
 ---
-url: https://www.quantamagazine.org/
-tags:
-  - publisher--media
-description: Quanta Magazine is an editorially independent online publication launched by the Simons Foundation in 2012 to enhance public understanding of science.
+url: "https://www.quantamagazine.org/"
+tags: [Media-Sources, Philanthropic-Foundations]
+description: "Quanta Magazine is an editorially independent online publication launched by the Simons Foundation in 2012 to enhance public understanding of science."
+date_created: 2025-03-30
+date_modified: 2026-11-24
+site_uuid: bb8032c1-238e-4490-817b-3f67255f11be
+publish: true
+title: "Quanta Magazine"
+slug: quanta-magazine
+at_semantic_version: 0.0.0.1
 ---
 Quanta has a valuable [[YouTube]] channel. 
 
