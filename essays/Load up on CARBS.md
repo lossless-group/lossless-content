@@ -117,7 +117,7 @@ In summary, the consensus from both academic and business research is that **vis
 
 # References:
 
-[^wa8bk7]: 2024, Feb 14. *The Importance of Clear Communication Channels*. [[McKinsey Global Institute]] Report.
+[^wa8bk7]: 2024, Feb 14. *The Importance of Clear Communication Channels*. [[organizations/McKinsey Global Institute]] Report.
 
 [^nuib3b]: Manyika, J., Chui, M., Bisson, P., & Woetzel, J. (2023). *Global Value Chains in a Flat World*. McKinsey Global Institute.
 

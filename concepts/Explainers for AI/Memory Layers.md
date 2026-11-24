@@ -64,7 +64,7 @@ Leading innovators focus on scalable, production-ready memory systems, often ope
 - [[Tooling/Software Development/Cloud Infrastructure/Cloudflare#Agent Memory|Cloudflare]] Agent Memory, [docs here](https://developers.cloudflare.com/agent-memory/)
 - **[[Tooling/AI-Toolkit/Agentic AI/Mem0|Mem0]]** (from Mem0.ai): Pioneers a composable hybrid architecture (vector + graph + KV store) with adaptive updates, achieving +26% accuracy over OpenAI memory and 91% faster responses; excels in multi-level recall (user/session/agent scopes). [^ussb0b] [^x20p8s] [^agacs4] [^y8kgfk] [^j1n39w]
 - **[[Tooling/AI-Toolkit/Agentic AI/Zep|Zep]]**: Builds temporal knowledge graphs for session memory, integrating with LangChain/LangGraph; delivers +18.5% accuracy and 90% latency reduction for production pipelines. [^ussb0b]
-- **[[Letta]]**: Offers an open-source local server with self-editing memory (inspired by MemGPT), enabling stateful agents that persist user preferences and avoid conversation resets. [^ussb0b] [^ro18hm]
+- **[[Tooling/AI-Toolkit/Agentic AI/Letta]]**: Offers an open-source local server with self-editing memory (inspired by MemGPT), enabling stateful agents that persist user preferences and avoid conversation resets. [^ussb0b] [^ro18hm]
 
 - Other notables: 
 	- **LangMem** (summarization for context limits), 
@@ -77,7 +77,7 @@ Leading innovators focus on scalable, production-ready memory systems, often ope
 | -------------------------------------------------------------------------------- | ----------------------------- | ----------------------------- | ---------------------------------- |
 | **[[Tooling/AI-Toolkit/Agentic AI/Mem0\|Mem0]]**                                 | Vector + Graph + KV           | Adaptive, personalized recall | Long-term agent personalization    |
 | **[[Tooling/AI-Toolkit/Agentic AI/Zep\|Zep]]**                                   | Temporal Knowledge Graph      | Low-latency scaling           | Production LLM apps                |
-| **[[Letta]]**                                                                    | Self-editing external store   | Stateful local agents         | Developer-deployed persistent bots |
+| **[[Tooling/AI-Toolkit/Agentic AI/Letta]]**                                                                    | Self-editing external store   | Stateful local agents         | Developer-deployed persistent bots |
 | **[[Tooling/AI-Toolkit/AI Programming Frameworks/LangChain\|LangChain]] Memory** | Buffer/summary/vector modules | Flexible integration          | Multi-agent workflows              |
 
 ![Practical example or use case visualization](https://substackcdn.com/image/fetch/$s_!G5CM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c6f2d58-f21f-4b49-b4f0-fb553fc28e36_1200x1200.png)

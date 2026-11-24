@@ -1,6 +1,6 @@
 ---
 date_created: 2025-11-28
-date_modified: 2025-11-28
+date_modified: 2026-11-23
 site_uuid: 60355336-3325-4eaf-9b48-e4cbcbe967de
 publish: true
 title: AI Powered Recruiting
@@ -12,8 +12,15 @@ for_clients:
 authors:
   - Michael Staton
 augmented_with: Perplexity AI
-tags: [Recruiting-Platforms, HR-Solutions, AI-Native, Explainers]
+tags:
+  - Recruiting-Platforms
+  - HR-Solutions
+  - AI-Native
+  - Explainers
+aliases:
+  - Recruiting AI
 ---
+[[Jack & Jill]]
 
 
 ***

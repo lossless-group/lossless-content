@@ -2,12 +2,20 @@
 cf_last_run: 2026-10-04T17:28:13.887Z
 cf_last_run_model: Perplexity sonar-pro
 date_created: 2026-10-04
-date_modified: 2026-10-04
+date_modified: 2026-11-24
+aliases:
+  - Compute
+  - Compute in AI/ML
+  - Compute for Inference
 ---
+[[Vocabulary/Graphics Processing Units|GPUs]]
+[[Vocabulary/Data Centers|Datacenters]]
+[[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]]
 
 # Defining and Describing Compute in AI ML
 
-- ![Diagram contrasting AI-model training compute with inference compute and showing GPUs, data, energy, and cloud infrastructure](https://substackcdn.com/image/fetch/$s_!bonv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1ab13de-45b5-4c05-9ded-1c7e03542375_1600x900.png)
+![Diagram contrasting AI-model training compute with inference compute and showing GPUs, data, energy, and cloud infrastructure](https://substackcdn.com/image/fetch/$s_!bonv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1ab13de-45b5-4c05-9ded-1c7e03542375_1600x900.png)
+
 - _In startup and innovation contexts, **compute in AI/ML** means the computational resources—especially [[Vocabulary/Graphics Processing Units|GPUs]], [[concepts/Explainers for AI/Tensor Processing Units|TPUs]], processing time, memory, networking, and associated infrastructure—used to train, fine-tune, evaluate, and run [[Vocabulary/Machine Learning|Machine Learning]] models. [^s7eb4p]_
 - The term applies whenever computational capacity affects a product’s feasibility, cost structure, speed, quality, or ability to scale. Training compute is primarily an upfront experimentation and model-development cost, while inference compute is an ongoing operating cost that grows with usage. [^s7eb4p] [^oxc7i7]
 - It does not mean the model, dataset, or algorithm alone; it refers to the resources required to execute them. Innovation consultants care because compute can determine whether a startup should build a model, fine-tune an existing one, use an API, rent accelerators, or purchase infrastructure. [^elkm89] [^g2nvz7]

@@ -8,7 +8,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:06.973Z
 jina_error: Error occurred
 og_last_fetch: 2025-09-05T13:13:45.574Z
-date_modified: 2026-11-19
+date_modified: 2026-11-23
 date_created: 2025-03-30
 tags:
   - AI-Toolkit
@@ -25,6 +25,11 @@ Models by [[Anthropic]].
 
 [[concepts/Explainers for AI/Conversational AI|Conversational AI]]
 
+https://youtu.be/Q3uuE2adUT8?si=M3emLwNvgflZ-QQz
+
+https://youtu.be/DTBeauP-hso?si=t0ASDbbsO-jmaA6G
+
+https://youtu.be/RAlnG_mjwNc?si=6toYQ9GgeyZLSOBN
 
 https://claude.com/blog/introducing-citations-api
 

@@ -95,7 +95,7 @@ Coframe was founded in **2023** and is headquartered in the San Francisco Bay Ar
 - [[vertical-toolkits/Alternatives/Venture-Capital-Firms/General Catalyst]] [^8is32p]  
 - Greylock [^8is32p]  
 - [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Khosla Ventures]] [^8is32p] [^a7uzlz]  
-- [[Nat Friedman]] (via NFDG)[^8is32p] [^a7uzlz]  
+- [[Sources/People/Nat Friedman]] (via NFDG)[^8is32p] [^a7uzlz]  
 - NFDG (Nat Friedman and Daniel Gross’s fund)[^8is32p]  
 - Rich Miner (Android co-founder; associated with NFDG / investor group)[^3u2pfo] [^a7uzlz]  
 

@@ -90,7 +90,7 @@ The boundary is disputed at three edges: some operators treat [[Vocabulary/Retri
 
 - Letta is reported as having raised a $10 million seed round, while [[Tooling/AI-Toolkit/Agentic AI/Zep|Zep]] is reported as having raised $500,000 in pre-seed funding through Y Combinator’s Winter 2024 cohort. [^9g26yq] These figures illustrate the capital gap between a better-funded challenger and earlier infrastructure bets.
 
-- Open-source traction is functioning as a leading indicator. By 2026 comparisons, [[Tooling/AI-Toolkit/Agentic AI/Mem0|Mem0]], [[Letta]], [[Tooling/AI-Toolkit/Data Augmenters/Graphiti|Graphiti]], [[Cognee]], and [[Supermemory]] collectively represented tens of thousands of GitHub stars and more than $35 million in reported venture funding, although these figures come from secondary comparison sources and should not be treated as audited market totals. [^9g26yq] [^1vix6l]
+- Open-source traction is functioning as a leading indicator. By 2026 comparisons, [[Tooling/AI-Toolkit/Agentic AI/Mem0|Mem0]], [[Tooling/AI-Toolkit/Agentic AI/Letta]], [[Tooling/AI-Toolkit/Data Augmenters/Graphiti|Graphiti]], [[Cognee]], and [[Supermemory]] collectively represented tens of thousands of GitHub stars and more than $35 million in reported venture funding, although these figures come from secondary comparison sources and should not be treated as audited market totals. [^9g26yq] [^1vix6l]
 # Market Challengers
 
 - [LangChain](https://www.langchain.com) — Developer platform and framework company that helped popularize context engineering as a distinct agent-building discipline. [^wcc5xh]

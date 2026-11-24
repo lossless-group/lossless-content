@@ -1,6 +1,6 @@
 ---
 date_created: 2026-10-13
-date_modified: 2026-10-30
+date_modified: 2026-11-23
 site_uuid: 8eeee545-4832-4752-abb7-b23e99ea1dc4
 publish: true
 title: Personal AI
@@ -18,11 +18,13 @@ lede: "An assistant that remembers everything you have said, read, and done. The
 ---
 
 
-
+:::tool-showcase
 [[Tooling/AI-Toolkit/AI Interfaces/AI Workspaces/Vertical Wrappers/Fieldy AI|Fieldy AI]]
 [[Tooling/AI-Toolkit/Data Augmenters/Plaud AI|Plaud AI]]
-[[Tooling/AI-Toolkit/GrokBot]]
+[[Tooling/AI-Toolkit/GrokBot|GrokBot]]
 [[Tooling/AI-Toolkit/Knowledge AI/Muse|Muse]]
+:::
+
 
 ---
 title: Personal AI
@@ -51,9 +53,9 @@ The boundary is disputed at both edges: some operators include AI search and bro
 
 # Why Now?
 
-- **Foundation models crossed the usefulness threshold for personal context.** Large models can now summarize long conversations, search heterogeneous personal data, maintain multi-step tasks, and use tools, making persistent memory more valuable than a single-turn answer. Google’s emerging agent architecture explicitly separates session, semantic, procedural, and episodic memory. [^uf2vx9]
+- **[[concepts/Explainers for AI/Foundation Models in AI|Foundation Models]] crossed the usefulness threshold for personal context.** Large models can now summarize long conversations, search heterogeneous personal data, maintain multi-step tasks, and use tools, making persistent memory more valuable than a single-turn answer. Google’s emerging agent architecture explicitly separates session, semantic, procedural, and episodic memory. [^uf2vx9]
 
-- **Memory became a product primitive rather than a novelty.** Google, Microsoft, and other vendors have moved toward default or broadly available memory that retains preferences, working style, recurring topics, and prior interactions across product surfaces. [^mjrb2f] [^2y29m2]
+- **[[concepts/Explainers for AI/Memory Layers|Memory Layers]] became a product primitive rather than a novelty.** Google, Microsoft, and other vendors have moved toward default or broadly available memory that retains preferences, working style, recurring topics, and prior interactions across product surfaces. [^mjrb2f] [^2y29m2]
 
 - **Distribution shifted from standalone apps to incumbent ecosystems.** Microsoft can place a personal agent inside Outlook, OneDrive, Teams, and Microsoft 365; Google can connect Gemini to Search, Gmail, Photos, YouTube, Android, and Workspace; Meta can distribute through WhatsApp, Instagram, Messenger, and Facebook. [^05elaf] [^28nv71]
 
@@ -244,7 +246,7 @@ The boundary is disputed at both edges: some operators include AI search and bro
 
 # Adjacent Concepts and Categories
 
-- [[concepts/Explainers for Tooling/Personal Knowledge Management]] — the information-organization layer from which personal memory systems emerge.
+- [[concepts/Explainers for Tooling/Personal Knowledge Management|Personal Knowledge Management]] — the information-organization layer from which personal memory systems emerge.
 - AI Agents — autonomous systems that plan and execute multi-step tasks using tools.
 - [[concepts/Explainers for AI/Agentic Workspaces|Agentic Workspaces]] — work environments where software agents have identity, memory, permissions, and persistent context.
 - [[concepts/Explainers for AI/AI Companions|AI Companions]] — conversational products emphasizing continuity, emotion, relationship, and presence.

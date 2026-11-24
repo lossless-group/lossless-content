@@ -33,7 +33,7 @@ for_clients:
 [[concepts/Explainers for AI/Agentic Engineering|Agentic Engineering]]
 [[concepts/Explainers for AI/Loop Engineering]]
 
-[[Agent Evals]]
+[[concepts/Explainers for AI/Agent Evals]]
 
 [[Agentic Workforces]]
 

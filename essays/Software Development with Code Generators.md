@@ -1,6 +1,6 @@
 ---
 date_created: 2025-01-24
-date_modified: 2026-11-19
+date_modified: 2026-11-23
 site_uuid: 0cd90519-55d0-4380-b7b9-d416ff0cb24a
 title: Software Development with Code Generators
 lede: Code generators are reshaping software development—speeding up delivery while raising new challenges.
@@ -36,7 +36,11 @@ For code generation, in addition to the [[Large Language Models]], or perhaps th
 
 [[concepts/Explainers for AI/Agentic Engineering|Agentic Engineering]]
 
-[[AgentCrew]]
+[[Tooling/AI-Toolkit/Agentic AI/AgentCrew]]
+
+https://youtu.be/vjP8bNs8aok?si=b7jyDlYmsrL5JLMb
+
+https://youtu.be/RAlnG_mjwNc?si=6toYQ9GgeyZLSOBN
 
 https://youtu.be/v4F1gFy-hqg?is=4dZ_cV5lnRji50jI
 

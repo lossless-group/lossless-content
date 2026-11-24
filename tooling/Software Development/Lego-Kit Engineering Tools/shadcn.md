@@ -6,7 +6,7 @@ og_screenshot_url: https://ik.imagekit.io/xvpgfijuw/uploads/lossless/screenshots
 jina_last_request: 2025-03-09T06:45:12.507Z
 jina_error: Error occurred
 og_last_fetch: 2025-06-05T15:59:28.782Z
-date_modified: 2025-08-17
+date_modified: 2026-11-23
 date_created: 2025-03-30
 url: https://ui.shadcn.com/
 og_image: https://ui.shadcn.com/og?title=Build%20your%20Component%20Library&description=A%20set%20of%20beautifully-designed%2C%20accessible%20components%20and%20a%20code%20distribution%20platform.%20Works%20with%20your%20favorite%20frameworks.%20Open%20Source.%20Open%20Code.
@@ -15,6 +15,8 @@ tags: [Software-Development, Lego-Kit-Engineering-Tools, Component-Library, Open
 ---
 
 [[concepts/Explainers for Tooling/UI-Kit|Component Library]], [[concepts/Explainers for Tooling/UI-Kit|UI-Kit]]
+
+https://youtu.be/Rnt6Y-p9Trg?si=f3I4hPNrza1S-zKY
 
 https://www.youtube.com/watch?v=V8rGgwQ-VJ0
 
@@ -49,7 +51,7 @@ https://www.youtube.com/watch?v=V8rGgwQ-VJ0
 
 - **Total code ownership:** Since you copy components directly into your codebase, tweaking, extending, or fixing them is easy and transparent—no fighting library APIs or external dependencies. [^mrr328] [^rgkj29]
 - **Highly customizable:** Using Tailwind CSS means every design detail is easily changeable. ShadCN doesn’t force you into rigid patterns or styles. [^27dnkt] [^mrr328]
-- **Out-of-the-box accessibility:** Built atop Radix UI, ShadCN components already follow best practices for keyboard navigation, ARIA roles, and screen reader support, reducing the burden on developers. [^27dnkt] [^mrr328] [^rgkj29]
+- **Out-of-the-box accessibility:** Built atop [[Tooling/Software Development/Frameworks/Frontend/UI Frameworks/Radix UI|Radix UI]], ShadCN components already follow best practices for keyboard navigation, ARIA roles, and screen reader support, reducing the burden on developers. [^27dnkt] [^mrr328] [^rgkj29]
 - **Choose only what you need:** There’s no bloat—you include only the components you use, so your app stays slim and performant. [^mrr328] [^c94ae2]
 - **Smooth developer experience:** Features like a CLI for scaffolded setup, compatibility with popular tools (Next.js, Vite), and support for dark mode add to its seamless integration and speed up projects. [^v5ir7s]
 - **Modern ecosystem integration:** ShadCN plays nicely with AI-powered tools (such as Vercel’s v0) to auto-generate and fine-tune UI code based on prompts, making rapid prototyping and iteration effortless. [^v5ir7s]

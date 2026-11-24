@@ -92,7 +92,7 @@ Because this is a **publication**, its value comes from the institution plus a r
 
 - [[Sources/Media/Wired Magazine|Wired Magazine]] — another technology magazine with strong longform reporting, useful for contrasting editorial tone and market focus with MIT Technology Review.
 - [[Sources/Media/Harvard Business Review|Harvard Business Review]] — complementary management and strategy lens on similar technologies, especially on leadership, organization design, and [[concepts/Innovation Portfolio]].
-- [[McKinsey Global Institute]] — more quantitative, consulting‑style research on technology adoption and economic impact, often cited alongside MIT Technology Review Insights.
+- [[organizations/McKinsey Global Institute]] — more quantitative, consulting‑style research on technology adoption and economic impact, often cited alongside MIT Technology Review Insights.
 - [[sources/IEEE Spectrum]] — engineering‑focused technology coverage that dives deeper into hardware and standards, adjacent to MIT Technology Review’s more applied and policy‑aware stance.
 - [[Vocabulary/Disruptive Innovation|Disruptive Innovation]] — frequent implicit theme in MIT Technology Review’s business and startup coverage.
 - [[concepts/Responsible AI]] — strongly aligned with the publication’s ongoing reporting on AI ethics, bias, and governance.

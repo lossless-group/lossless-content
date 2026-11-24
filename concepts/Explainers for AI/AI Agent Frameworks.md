@@ -1,6 +1,6 @@
 ---
 date_created: 2025-11-16
-date_modified: 2026-05-02
+date_modified: 2026-11-23
 site_uuid: 3c7a4272-9aa5-4f5c-b4bd-21873bee8b27
 publish: true
 title: AI Agent Frameworks
@@ -19,6 +19,7 @@ https://youtu.be/8HqeY5v0ohM?si=BiZ84eG4RSknH20Q
 - [[Tooling/AI-Toolkit/AI Programming Frameworks/LangGraph|LangGraph]]
 - [[Tooling/AI-Toolkit/Agentic AI/Agentic Workspaces/Crew AI|Crew AI]]
 - [[Tooling/AI-Toolkit/Agentic AI/AutoGen|AutoGen]]
+- [[Tooling/AI-Toolkit/Agentic AI/AgentCrew]]
 :::
 
 > [!info] **Perplexity Query** (2025-11-16T23:12:38.468Z)

@@ -10,7 +10,7 @@ title: "NFDG"
 slug: nfdg
 at_semantic_version: 0.0.0.1
 ---
-[[Nat Friedman]]
+[[Sources/People/Nat Friedman]]
 
 [[Tooling/Enterprise Jobs-to-be-Done/Coframe|Coframe]]
 
