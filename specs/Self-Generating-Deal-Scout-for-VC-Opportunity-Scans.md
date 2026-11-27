@@ -2,11 +2,11 @@
 title: Self-Generating Deal Scout for VC Opportunity Scans
 lede: Watch where new companies surface, score each one against a firm's thesis, and hand partners a short, sourced list to review, instead of another newsletter to skim.
 date_authored_initial_draft: 2026-11-22
-date_authored_current_draft: 2026-11-22
+date_authored_current_draft: 2026-11-26
 date_authored_final_draft:
 date_first_published:
-date_last_updated:
-at_semantic_version: 0.0.0.1
+date_last_updated: 2026-11-26
+at_semantic_version: 0.0.0.2
 augmented_with:
   - Claude Code on Claude Opus 5.5
 category: Open-Specification
@@ -81,6 +81,23 @@ What's new is the watching, the entity resolution and the thesis-fit judgment.
 
 The same scan also feeds content. A company that fits a thesis is often a good story for that firm's audience, and a release a VC should know about is often a signal about a company.
 
+## Watching with Perplexity's Search and Monitor APIs
+
+The Content Farm spec covers both APIs in "Running searches and monitors through Perplexity": what they cost, what they take off our plate, and where they clash with our principles. This is how they map onto a thesis. It's from Perplexity's docs, read on 2026-11-26.
+
+| Where companies surface | How to watch it | Notes |
+|---|---|---|
+| New rounds and launches in a thesis's sectors | An **Agent monitor**. Its task (`input`) asks for companies that announced a round or a launch since the last check, and its `goal` is the thesis prose. | Each run keeps at most five updates, each with up to five sources. That suits "short lists". It's billed as Agent API usage, at `low`, `medium` or `high` effort. |
+| A known signal, such as a sector plus "seed round" | A **Search monitor** per signal, with short keyword queries and `include_domains` set to the announcement sources the firm trusts. | One query per monitor, $0.001 a run. It returns only URLs it hasn't seen before. |
+| Pages where companies first appear: accelerator batch lists, demo-day pages, a portfolio company's competitors' careers pages | A **Page monitor** with 1 to 10 URLs and a goal such as "new companies added to the batch". | It returns text diffs, so a new name on a batch page is a change. A competitor's careers page that grows is a hiring signal. |
+| A new thesis, or a firm's first scan | **Search API** calls with publication-date windows, one week at a time, five queries per request. | This backfills what a monitor would have caught. A monitor's first run only looks back one schedule period, at most seven days. |
+| Founders and teams, during Resolve | **People Search** (`search_type: "people"`, up to 50 results). | Check each profile's current employer before using it, as Perplexity's own docs advise. |
+
+What still belongs to us:
+
+- **Resolve.** A monitor dedupes URLs, not companies. Three articles about one company's round are three changes. Matching them to one company record, and against what the firm already tracks, stays our step.
+- **The decision.** A monitor's goal is a judge, and it drops what it rejects without showing it. Its `confidence` feeds the thesis-fit score as one input with its reasons. A partner's pass is still the only verdict, and it has to be remembered on our side, because the monitor's memory is of URLs.
+
 ## Quality bar (ranked)
 
 1. **Every score shows its reasons and sources.** A partner can disagree with a reason, not just a number.
@@ -92,7 +109,8 @@ The same scan also feeds content. A company that fits a thesis is often a good s
 ## Open questions
 
 - Which sources are worth paying for (Crunchbase, PitchBook, Harmonic) versus scraping (Firecrawl, Alexandria providers)?
-- One scout per firm, or one shared scan scored against many theses?
+- One scout per firm, or one shared scan scored against many theses? A monitor's goal holds one thesis, so per-firm monitors fit the first. A shared scan fits Search API calls on our own clock, with our own judge scoring each result against every thesis.
+- If we run this as a service, whose Perplexity organization holds the monitors? Every monitor counts against that organization's limit of 100 to 500 active monitors, and is billed to it.
 - Is the thesis written prose, structured criteria, or both? The CRM's Thesis object suggests both.
 - Is this a Dojo product (VCs run it themselves) or a service we run for clients?
 

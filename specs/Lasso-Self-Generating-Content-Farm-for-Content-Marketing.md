@@ -2,11 +2,11 @@
 title: "Lasso: A Self-Generating Content Farm for Content Marketing"
 lede: Watch the sources an audience cares about, draft what matters to them with real citations, and put every draft in front of a human before it publishes, without anyone opening a terminal.
 date_authored_initial_draft: 2025-09-18
-date_authored_current_draft: 2026-11-23
+date_authored_current_draft: 2026-11-26
 date_authored_final_draft:
 date_first_published:
-date_last_updated: 2026-11-23
-at_semantic_version: 0.0.4.0
+date_last_updated: 2026-11-26
+at_semantic_version: 0.0.5.0
 augmented_with:
   - Claude Code on Claude Opus 5.5
 category: Open-Specification
@@ -176,8 +176,47 @@ watchers:
     search:
       every: weekly
       queries: ["agentic coding harness", "AI code review"]
+  - kind: announcement
+    pages:                 # a Perplexity Page monitor, for changelogs with no feed
+      every: daily
+      urls: ["https://docs.example.com/changelog"]
+      goal: "New releases and breaking changes. Ignore navigation and footer edits."
 relevance: developers
 ```
+
+### Running searches and monitors through Perplexity
+
+Perplexity now offers two APIs that fit the watcher layer: the **Search API**, which runs queries and returns ranked results, and the **Monitor API**, which runs a search, checks pages or runs an agent on a schedule, and keeps only what's new. This section is from Perplexity's own docs, read on 2026-11-26 ([Search](https://docs.perplexity.ai/docs/search/overview), [Monitor](https://docs.perplexity.ai/docs/monitors/overview), [pricing](https://docs.perplexity.ai/docs/getting-started/pricing)). Prices and limits are as stated there.
+
+**The Search API (`POST /search`)** suits searches the watcher runs on its own clock:
+
+- **Up to five queries in one request, billed as one request.** That's $5 per 1,000 requests, or $1 with `search_type: "fast"`. A cluster's entity queries can go out five at a time. `max_results` (at most 20) caps the combined list across all five queries, so raise it and dedupe by URL.
+- **Short keyword queries, one per entity.** Perplexity's guidance is that a few keywords beat a full question, and that `["Tool A release", "Tool B release"]` beats `"Tool A vs Tool B"`.
+- **Dates go in filters, not in the query.** "A year in the query is only another keyword." Use the publication window (`search_after_date_filter`, `search_before_date_filter`), the last-updated window, or `search_recency_filter`. The same filters backfill a new cluster: search it one week at a time with publication-date windows, as Perplexity's [story timeline cookbook](https://docs.perplexity.ai/docs/cookbook/examples/agent-api-story-timeline/README) does.
+- **Each result gives a publication `date` and a `last_updated` date separately.** That supports "Backdate to the event": the published date is the event, and the updated date isn't.
+- **`search_domain_filter` takes up to 200 domains to include or exclude**, so the quality filter's domain reputation can become an exclude list on every search.
+- **`snapshot_as_of` searches the web as it was**, up to 365 days back.
+
+**The Monitor API (`POST /v1/monitors`)** runs the schedule for us:
+
+| Monitor | What it does | Watcher kinds it fits | Price |
+|---|---|---|---|
+| **Search** | Runs one query on a schedule and returns only results that are new since the last run | Topic, Entity, Question | $0.001 per run |
+| **Page** | Watches 1 to 10 known URLs and returns meaningful text changes as diffs | Announcement, for changelogs and pricing pages with no feed. This covers what we planned changedetection.io for | $0.001 per fetched URL |
+| **Agent** | Runs an Agent API task on a schedule and returns up to five sourced updates per run | Opportunity (the Deal Scout), and broad questions | Agent API usage, no extra fee |
+
+What it takes off our plate:
+
+- **The clock.** Schedules run from every minute to every 31 days, or on a cron with a time zone. Results arrive by webhook, signed with Standard Webhooks and retried for about 17.6 hours, which a Worker can receive. They can also be read from the run history, which is kept for 90 days.
+- **Dedupe and state.** A Search monitor dedupes normalized URLs within a run and against everything it has seen in the last 90 days. A Page monitor keeps a baseline of each page.
+- **A first pass at filtering.** Every Search result is judged for novelty, legitimacy and the run's time window, and for relevance when the monitor has a `goal`. A cluster's relevance test can be written as that goal.
+
+Where it doesn't fit our principles:
+
+- **A monitor discards what its judge rejects.** A run counts the candidates it saw (`counts.candidates`) but returns only the ones it kept. That breaks the quality filter's rule that junk stays in the corpus for a human to spot-check. So a monitor's `confidence` is one more input to our `machine_verdict`, never a verdict, and a cluster where we need to see what was filtered out stays on the Search API. Changing a monitor's goal doesn't replay URLs it has already seen.
+- **One query per Search monitor**, with up to 20 results and 20 include or exclude domains. A cluster with 30 entity queries is 30 monitors, and an organization can have 100 active monitors at the lowest usage tiers (500 at the highest). Clusters with many entities are cheaper as five-query Search API calls on our own clock. Monitors suit the few watches that need to be frequent.
+- **Results are snippets, not pages.** The Saver still fetches the full text.
+- **No monitors for zero-data-retention organizations.** That matters for any client that requires it.
 
 ### Social platforms: X, Bluesky and LinkedIn
 
@@ -225,6 +264,7 @@ It looks for:
 - **SEO-spam patterns.** Keyword-stuffed titles, dense affiliate links, no author, no date, a site that publishes on every topic at once.
 - **Slop patterns.** Generic, padded, hedge-everything prose with no specifics, the same tells our `humanizer` skill removes from our own writing.
 - **Duplicates and near-duplicates.** The same text across many domains is syndication or a content farm.
+- **Instructions aimed at agents.** A page that will reach the Drafter can try to give it instructions (prompt injection). Perplexity's Context API scores a fetched page against up to five yes/no questions, from 0 to 1, and never drops a page on its own. That matches `machine_verdict`. Its [cookbook](https://docs.perplexity.ai/docs/cookbook/examples/context-api-prompt-injection/README) uses one of those questions for prompt injection. The price is $1 per 1,000 URLs plus a small token charge for scoring.
 - **The domain's history.** Every human rejection teaches a per-domain reputation (memopop's [Curating Only Valid Sources Across Runs](../../ai-labs/memopop-ai/context-v/explorations/Curating-only-valid-Sources-across-Runs.md)), so a domain rejected often enough stops getting through. Approved domains get through more easily.
 
 ### Three outcomes, not two
@@ -371,11 +411,11 @@ That one contract is what makes the three "self" properties possible:
 
 | Capability | Providers | Notes |
 |---|---|---|
-| Search | [[Searxng\|SearXNG]], [[Tavily AI\|Tavily]], [[Exa.ai\|Exa]], Brave Search API, [[SerpAPI]] | SearXNG is free and self-hostable, a metasearch over up to 249 engines, so it's the default. Tavily is built for agents. Exa does meaning-based search and "find similar", which suits the Deal Scout. Brave has its own index. |
+| Search | [[Searxng\|SearXNG]], [[Tavily AI\|Tavily]], [[Exa.ai\|Exa]], Brave Search API, [[SerpAPI]], Perplexity Search API | SearXNG is free and self-hostable, a metasearch over up to 249 engines, so it's the default. Tavily is built for agents. Exa does meaning-based search and "find similar", which suits the Deal Scout. Brave has its own index. Perplexity takes five queries per billed request, with publication and last-updated date filters (see "Running searches and monitors through Perplexity"). |
 | Scrape and crawl | [[Firecrawl]], [[Context.dev]], [[Jina.ai\|Jina Reader]], Crawl4AI | Firecrawl and Context.dev both turn URLs into markdown and extract structured data for agents. Jina Reader is already used in the watcher spec. Crawl4AI is open source and self-hostable, so SearXNG plus Crawl4AI is a fully free stack. |
 | Hard pages | [[Browserbase]], [[Apify]], [[Bright Data]] | For JavaScript-heavy pages, logins and anti-bot measures. Use these only when cheaper providers fail. |
 | Structured records | Firecrawl's Alexandria providers | Typed, sourced records for companies, people, filings and jobs. Most useful for the Deal Scout. |
-| Feeds and page changes | [[RSS-Monitor-Utility-for-the-Always-On-Agents]], changedetection.io | Feeds where sites publish them, change detection where they don't. |
+| Feeds and page changes | [[RSS-Monitor-Utility-for-the-Always-On-Agents]], changedetection.io, Perplexity Monitor API | Feeds where sites publish them, change detection where they don't. Perplexity's Page monitors judge whether a change is meaningful. Its Search monitors rerun a query on a schedule and return only new results. |
 | Social | Bluesky (AT Protocol, RSS), X API, third-party data providers for X and LinkedIn | See "Social platforms" above. |
 | Video and audio | Stenographer (Supadata, AssemblyAI, a local Whisper-compatible engine), YouTube channel and playlist feeds, YouTube Data API | See "YouTube and other spoken sources" above. |
 | Brand assets | Brandfetch | Logos and colors for posts and deal briefs. |
@@ -511,6 +551,7 @@ The A2A protocol ([profile](../../ai-labs/studies/open-specs-and-standards/conte
 - Where does git live for agents: GitHub with a bot account, or Cloudflare Artifacts with a repo per agent?
 - Are Claude Code's scheduled cloud agents (routines), Railway's cloud agent tasks, [[Tooling/AI-Toolkit/AI Infrastructure/Modal|Modal]] or [[Tooling/Software Development/Cloud Infrastructure/Fly.io|Fly.io]] better for any of these roles than E2B or boxes.dev?
 - What does a month of this cost for one cluster, and what's the alert when it stops?
+- Which watchers run on Perplexity's Monitor API, with a webhook into the Worker, and which run on our own clock? Monitors give us the schedule and dedupe, but they hide what they reject and count against a limit of 100 to 500 active monitors per organization.
 
 ## Audiences, first
 
